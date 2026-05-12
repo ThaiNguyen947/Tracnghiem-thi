@@ -252,14 +252,30 @@ function submit() {
   let wrong = 0;
   let newWrong = [];
 
+  const getAnswerText = (q, key) => {
+    if (!key) return "Không chọn";
+
+    switch (key) {
+      case "A": return `A. ${q.a}`;
+      case "B": return `B. ${q.b}`;
+      case "C": return `C. ${q.c}`;
+      case "D": return `D. ${q.d}`;
+      default: return "Không hợp lệ";
+    }
+  };
+
   let html = "";
 
   questions.forEach((q, i) => {
     let user = answers[i];
     let ok = user === q.answer;
 
-    if (ok) correct++;
-    else {
+    let userText = getAnswerText(q, user);
+    let correctText = getAnswerText(q, q.answer);
+
+    if (ok) {
+      correct++;
+    } else {
       wrong++;
       newWrong.push(q);
     }
@@ -275,7 +291,8 @@ function submit() {
 
         <b>Câu ${i + 1}:</b> ${q.question}<br>
 
-        Bạn chọn: ${user || "Không chọn"} | Đáp án: ${q.answer}<br>
+        <b>Bạn chọn:</b> ${userText}<br>
+        <b>Đáp án đúng:</b> ${correctText}<br>
 
         <div style="
           margin-top:8px;
