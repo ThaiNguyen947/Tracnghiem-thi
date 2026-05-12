@@ -264,6 +264,10 @@ function submit() {
     }
   };
 
+  const getExplanation = (q) => {
+    return q.explanation ? q.explanation : "Chưa có giải thích";
+  };
+
   let html = "";
 
   questions.forEach((q, i) => {
@@ -272,6 +276,7 @@ function submit() {
 
     let userText = getAnswerText(q, user);
     let correctText = getAnswerText(q, q.answer);
+    let explanation = getExplanation(q);
 
     if (ok) {
       correct++;
@@ -284,7 +289,6 @@ function submit() {
       <div style="
         padding:12px;
         border-bottom:1px solid #ddd;
-        white-space:pre-wrap;
         line-height:1.6;
         font-family: Arial;
       ">
@@ -292,7 +296,15 @@ function submit() {
         <b>Câu ${i + 1}:</b> ${q.question}<br>
 
         <b>Bạn chọn:</b> ${userText}<br>
-        <b>Đáp án đúng:</b> ${correctText}<br>
+
+        ${
+          ok
+            ? `<b style="color:green">✔ ĐÚNG</b>`
+            : `
+              <b style="color:red">❌ SAI</b><br>
+              <b>Đáp án đúng:</b> ${correctText}<br>
+            `
+        }
 
         <div style="
           margin-top:8px;
@@ -304,12 +316,8 @@ function submit() {
           padding:8px;
           border-radius:6px;
         ">
-          💡 <b>Giải thích:</b> ${q.explanation ? q.explanation : "Chưa có giải thích"}
+          💡 <b>Giải thích:</b> ${explanation}
         </div>
-
-        <b style="color:${ok ? 'green' : 'red'}">
-          ${ok ? "✔ ĐÚNG" : "❌ SAI"}
-        </b>
 
       </div>
     `;
