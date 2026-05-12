@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<title>Ôn thi GPLX</title>
+
+<style>
+body {
+  font-family: Arial;
+  background: #f6f6f6;
+  margin: 0;
+}
+
+.box {
+  max-width: 900px;
+  margin: 20px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 14px;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.bar {
+  height: 8px;
+  background: #eee;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 15px;
+}
+
+.bar-fill {
+  height: 8px;
+  width: 0%;
+  background: linear-gradient(90deg, #b30000, #ff4d4d);
+}
+
+h2 {
+  font-size: 18px;
+}
+
+.option {
+  width: 100%;
+  padding: 12px;
+  margin: 8px 0;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  cursor: pointer;
+  text-align: left;
+  background: white;
+}
+
+.option:hover {
+  border-color: #b30000;
+}
+
+.selected {
+  background: #ffe5e5;
+  border-color: #b30000;
+}
+
+.btn {
+  width: 100%;
+  padding: 12px;
+  margin-top: 10px;
+  background: #b30000;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+#nav {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+
+#nav button {
+  width: 34px;
+  height: 34px;
+  margin: 2px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+  cursor: pointer;
+  background: white;
+}
+
+/* NAV BUTTONS */
+.nav-control {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.nav-btn {
+  padding: 6px 12px;
+  font-size: 12px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  background: #b30000;
+  color: white;
+}
+</style>
+</head>
+
+<body>
+
+<div id="loginBox"></div>
+<div id="app" style="display:none;"></div>
+
+<script src="app.js"></script>
+
+</body>
+</html>
