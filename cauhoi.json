@@ -1,20 +1,407 @@
 [
   {
-    "question": "Trường hợp yêu cầu cấp giấy xác nhận tình trạng hôn nhân để kết hôn với người nước ngoài tại cơ quan đại diện nước ngoài tại VN thì cơ quan đăng ký hộ tịch từ chối giải quyết??",
+    "question": "Anh A và chị B kết hôn theo đúng quy định của pháp luật, vậy mối quan hệ của anh chị được điều chỉnh bởi:",
+    "a": "Quan hệ tài sản, quan hệ nhân thân.",
+    "b": "Quan hệ tình cảm, tình yêu.",
+    "c": "Quan hệ nam và nữ.",
+    "d": "Quan hệ giữa vợ và chồng.",
+    "answer": "A",
+    "explanation": "Theo Luật Hôn nhân và Gia đình, quan hệ vợ chồng bao gồm cả quan hệ nhân thân và quan hệ tài sản."
+  },
+  {
+    "question": "Trường hợp yêu cầu cấp giấy xác nhận tình trạng hôn nhân để kết hôn với người nước ngoài tại cơ quan đại diện nước ngoài tại VN thì cơ quan đăng ký hộ tịch từ chối giải quyết?",
     "a": "Đúng",
     "b": "Chuyển hồ sơ đến cơ quan đại diện ngoại giao của VN ở nước ngoài.",
     "c": "Sai",
     "d": "Chuyển hồ sơ đến Sở Tư pháp để xác nhận",
     "answer": "C",
-    "explanation": "Điều 23 Nghị định 123/2015/NĐ-CP..."
+    "explanation": "Điều 23 Nghị định 123/2015/NĐ-CP quy định việc cấp giấy xác nhận tình trạng hôn nhân trong các trường hợp cụ thể."
   },
   {
     "question": "Đối tượng điều chỉnh của luật hôn nhân và gia đình là gì?",
-    "a": "A",
-    "b": "B",
-    "c": "C",
-    "d": "D",
+    "a": "Quan hệ giữa vợ và chồng.",
+    "b": "Tất cả quan hệ liên quan đến tài sản của hai bên và nhân thân.",
+    "c": "Quan hệ nhân thân và quan hệ tài sản.",
+    "d": "Quan hệ tài sản.",
     "answer": "C",
-    "explanation": "Nội dung luật hôn nhân và gia đình điều chỉnh..."
+    "explanation": "Luật Hôn nhân và Gia đình điều chỉnh các quan hệ nhân thân và tài sản phát sinh từ hôn nhân và gia đình."
+  },
+  {
+    "question": "Pháp luật quy định Nam nữ được kết hôn khi đạt đến độ tuổi nào:",
+    "a": "Nam từ 20 tuổi, nữ từ 18 tuổi.",
+    "b": "Nam từ 20 tuổi, nữ từ đủ 18 tuổi.",
+    "c": "Nam từ đủ 19 tuổi, nữ từ đủ 18 tuổi.",
+    "d": "Nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi.",
+    "answer": "D",
+    "explanation": "Theo Luật Hôn nhân và Gia đình 2014, độ tuổi kết hôn là nam từ đủ 20 tuổi trở lên, nữ từ đủ 18 tuổi trở lên."
+  },
+  {
+    "question": "Gia đình có chức năng nào sau đây:",
+    "a": "Chức năng kinh tế.",
+    "b": "Chức năng giáo dục.",
+    "c": "Chức năng sinh đẻ.",
+    "d": "Tất cả các đáp án.",
+    "answer": "D",
+    "explanation": "Gia đình có nhiều chức năng quan trọng bao gồm sinh sản, kinh tế, giáo dục và nuôi dưỡng."
+  },
+  {
+    "question": "Trường hợp yêu cầu cấp giấy xác nhận tình trạng hôn nhân để kết hôn với người cùng giới tính tại cơ quan đại diện nước ngoài tại VN thì cơ quan đăng ký hộ tịch từ chối giải quyết?",
+    "a": "Trả hồ sở đê đăng ký tại cơ quan đại diện ngoại giao nước cho phép kết hôn với người cùng giới tính.",
+    "b": "Sai",
+    "c": "Đúng",
+    "d": "Phải chờ hướng dẫn",
+    "answer": "C",
+    "explanation": "Luật Việt Nam hiện nay không thừa nhận hôn nhân giữa những người cùng giới tính."
+  },
+  {
+    "question": "Cơ quan nào sau đây có thẩm quyền ĐKKH cho công dân VN với nhau?",
+    "a": "Cơ quan đại diện ngoại giao của Việt Nam tại nước ngoài.",
+    "b": "UBND cấp tỉnh.",
+    "c": "UBND cấp huyện",
+    "d": "UBND cấp xã, phường nơi cư trú của một trong hai bên kết hôn.",
+    "answer": "D",
+    "explanation": "Thẩm quyền đăng ký kết hôn cho công dân Việt Nam trong nước thuộc về UBND cấp xã."
+  },
+  {
+    "question": "Trường hợp nào sau đây chủ thể có năng lực pháp luật hôn nhân và gia đình, năng lực hành vi hôn nhân và gia đình:",
+    "a": "Chị H 18 tuổi là sinh viên trường P và anh K 18 tuổi là sinh viên trường Q.",
+    "b": "Chị Y 18 tuổi đang lao động tại công ty Z và anh K 18 tuổi đang trong giai đoạn học nghề.",
+    "c": "Chị H 18 tuổi là sinh viên năm thứ 2 Đại học Y và anh K 30 tuổi công tác tại công ty Z.",
+    "d": "Chị Y và anh K 20 tuổi đang trong giai đoạn điều trị bệnh tại bệnh viện tâm thần trung ương.",
+    "answer": "C",
+    "explanation": "Xét về độ tuổi và năng lực hành vi, trường hợp chị H (18) và anh K (30) đủ điều kiện kết hôn."
+  },
+  {
+    "question": "Tình huống nào sau đây pháp luật không cho phép kết hôn?",
+    "a": "A đang trong giai đoạn ly thân.",
+    "b": "A đã có vợ nhưng sống chung với chị B.",
+    "c": "A và C năm nay đủ 18 tuổi.",
+    "d": "Tất cả các trường hợp.",
+    "answer": "B",
+    "explanation": "Vi phạm nguyên tắc một vợ một chồng là hành vi bị cấm."
+  },
+  {
+    "question": "Chủ thể của quan hệ pháp luật HN&GĐ thông thường là:",
+    "a": "Những cá nhân có quan hệ hôn nhân, huyết thống, nuôi dưỡng.",
+    "b": "Tất cả các phương án.",
+    "c": "Vợ và chồng.",
+    "d": "Thành viên bao gồm bố, mẹ.",
+    "answer": "B",
+    "explanation": "Chủ thể quan hệ pháp luật hôn nhân gia đình rất đa dạng, bao gồm vợ chồng, cha mẹ con, ông bà cháu..."
+  },
+  {
+    "question": "Chủ thể của Luật Hôn nhân & Gia đình là",
+    "a": "Cá nhân, tổ chức.",
+    "b": "Cá nhân bao gồm công dân và người không quốc tịch.",
+    "c": "Công dân, tổ chức.",
+    "d": "Cá nhân.",
+    "answer": "D",
+    "explanation": "Chủ thể của Luật Hôn nhân và Gia đình chủ yếu là các cá nhân."
+  },
+  {
+    "question": "Khi một bên vợ, chồng chết hoặc bị Tòa án tuyên bố là đã chết thì giải quyết tài sản như thế nào?",
+    "a": "vợ, chồng còn sống có quyền yêu cầu Tòa án hạn chế phân chia di sản và không cho chia cho đến khi người kia trở về",
+    "b": "bên còn sống quản lý tài sản chung của vợ chồng và được định đoạt khi cần thiết",
+    "c": "Khi có yêu cầu về chia di sản thì tài sản chung của vợ chồng được chia đôi",
+    "d": "Tất cả các đáp án",
+    "answer": "C",
+    "explanation": "Theo Điều 66 Luật Hôn nhân và Gia đình 2014, khi một bên chết, tài sản chung được chia đôi để xác định di sản."
+  },
+  {
+    "question": "Số Thẻ căn cước công dân cũng là số định danh cá nhân:",
+    "a": "Đúng",
+    "b": "Chỉ với trẻ từ đủ 6 tuổi đến dưới 15 tuổi",
+    "c": "với mọi công dân VN và người nước ngoài sinh sống tại VN",
+    "d": "Sai",
+    "answer": "A",
+    "explanation": "Số thẻ Căn cước công dân chính là số định danh cá nhân của công dân."
+  },
+  {
+    "question": "Quan hệ vợ chồng sau khi kết hôn gọi là",
+    "a": "Gia đình.",
+    "b": "Hôn nhân",
+    "c": "Tất cả các đáp án",
+    "d": "Vợ chồng.",
+    "answer": "B",
+    "explanation": "Hôn nhân là quan hệ giữa vợ và chồng sau khi kết hôn."
+  },
+  {
+    "question": "Anh A và chị B kết hôn, hôn nhân của anh A và chị B có những đặc điểm nào sau",
+    "a": "Các bên tham gia quan hệ hôn nhân phải tuân thủ các quy định của pháp luật.",
+    "b": "Tất cả đáp án đều đúng.",
+    "c": "Nam nữ khi tham gia quan hệ hôn nhân được hoàn toàn bình đẳng trước pháp luật.",
+    "d": "Hôn nhân trên cơ sở tự nguyện của hai bên nam nữ.",
+    "answer": "B",
+    "explanation": "Hôn nhân hiện đại dựa trên sự tự nguyện, bình đẳng và tuân thủ pháp luật."
+  },
+  {
+    "question": "Anh A và chị B có yêu thương nhau và tổ chức lễ cưới, anh chị có trở thành chủ thể của luật nào sau đây:",
+    "a": "Luật Hôn nhân và Gia đình, Luật Hành chính.",
+    "b": "Luật Hộ tịch.",
+    "c": "Luật Hôn nhân và Gia đình.",
+    "d": "Bộ luật Dân sự",
+    "answer": "C",
+    "explanation": "Quan hệ hôn nhân được điều chỉnh chủ yếu bởi Luật Hôn nhân và Gia đình."
+  },
+  {
+    "question": "Trường hợp nào sau đây không được kết hôn theo quy định",
+    "a": "H là con rể của bà G, kết hôn với con gái thứ 2 của bà G (do vợ H đã chết).",
+    "b": "Bà G kết hôn cùng H (H là con rể do H đã ly hôn với con gái bà).",
+    "c": "H kết hôn cùng con gái bà G.",
+    "d": "Bà G kết hôn cùng em trai của H (H là con rể của bà G).",
+    "answer": "B",
+    "explanation": "Pháp luật cấm kết hôn giữa những người đã từng là mẹ chồng với con dâu, bố chồng với con dâu, mẹ vợ với con rể, bố vợ với con rể."
+  },
+  {
+    "question": "Năm 2018 chị T kết hôn, chị T sinh năm nào theo quy định của pháp luật đủ tuổi kết hôn:",
+    "a": "2000",
+    "b": "1999",
+    "c": "1998",
+    "d": "Không có phương án nào phù hợp",
+    "answer": "A",
+    "explanation": "Đến năm 2018, người sinh năm 2000 sẽ đủ 18 tuổi (nữ đủ tuổi kết hôn)."
+  },
+  {
+    "question": "Anh chị A, B yêu thương nhau và quyết định kết hôn theo quy định của pháp luật, vậy hôn nhân của cả hai là:",
+    "a": "Nam nữ tự mình quyết định kết hôn.",
+    "b": "Tất cả các đáp án",
+    "c": "Bình đẳng, thực hiện đúng theo quy định của pháp luật về kết hôn.",
+    "d": "Nam nữ tự nguyện kết hôn.",
+    "answer": "B",
+    "explanation": "Hôn nhân hợp pháp hội tụ các yếu tố tự nguyện, bình đẳng và đúng pháp luật."
+  },
+  {
+    "question": "Việc chia quyền sử dụng đất là tài sản chung của vợ chồng khi ly hôn được thực hiện như sau",
+    "a": "Trong trường hợp chỉ một bên có nhu cầu và có điều kiện trực tiếp sử dụng đất thì bên đó được tiếp tục sử dụng và được toàn quyền quyền định đoạt về sau",
+    "b": "Đối với đất ở thì ai đang ở sẽ thuộc quyền sử dụng của người đó",
+    "c": "Đối với đất nông nghiệp trồng cây hàng năm, nuôi trồng thủy sản, nếu cả hai bên đều có nhu cầu và có điều kiện trực tiếp sử dụng đất thì được chia theo thỏa thuận của hai bên",
+    "d": "Tất cả các đáp án",
+    "answer": "C",
+    "explanation": "Chia quyền sử dụng đất khi ly hôn tuân theo các quy định cụ thể tại Điều 62 Luật Hôn nhân và Gia đình 2014."
+  },
+  {
+    "question": "Cá nhân khi tham gia vào quan hệ pháp luật hôn nhân và gia đình cần có:",
+    "a": "Năng lực pháp luật hôn nhân và năng lực hành vi hôn nhân và gia đình.",
+    "b": "Năng lực pháp luật hôn nhân và gia đình.",
+    "c": "Năng lực hành vi hôn nhân và gia đình.",
+    "d": "Năng lực pháp luật và năng lực hành vi.",
+    "answer": "A",
+    "explanation": "Chủ thể cần cả năng lực pháp luật và năng lực hành vi để tham gia các quan hệ pháp lý."
+  },
+  {
+    "question": "Khi Tòa án ra quyết định hủy bỏ tuyên bố một người là đã chết mà vợ hoặc chồng của người đó chưa kết hôn với người khác thì quan hệ hôn nhân sẽ như thế nào?",
+    "a": "b. nếu đã ly hôn thì ly hôn vẫn có hiệu lực pháp luật",
+    "b": "a. được khôi phục kể từ thời điểm kết hôn",
+    "c": "c. nếu đã ly hôn thì ly hôn bị hủy bỏ",
+    "d": "d. Cả a và b đúng, chỉ c sai",
+    "answer": "D",
+    "explanation": "Theo Điều 67 Luật Hôn nhân và Gia đình 2014, quan hệ hôn nhân được khôi phục trừ trường hợp bên kia đã ly hôn hoặc kết hôn với người khác."
+  },
+  {
+    "question": "Nhà ở thuộc sở hữu riêng của vợ, chồng đã đưa vào sử dụng chung thì khi ly hôn:",
+    "a": "b. vợ hoặc chồng có khó khăn về chỗ ở thì được quyền lưu cư vô thời hạn kể từ ngày quan hệ hôn nhân chấm dứt",
+    "b": "a. vẫn thuộc sở hữu riêng của người đó",
+    "c": "c. vợ hoặc chồng có khó khăn về chỗ ở thì được quyền lưu cư trong thời hạn 06 tháng kể từ ngày quan hệ hôn nhân chấm dứt",
+    "d": "d. Chỉ a và c đúng, b sai",
+    "answer": "D",
+    "explanation": "Tài sản riêng vẫn là riêng, nhưng có thể giải quyết quyền lưu cư ngắn hạn (6 tháng) nếu bên kia khó khăn về chỗ ở."
+  },
+  {
+    "question": "Chức năng nào sau đây là chức năng của gia đình?",
+    "a": "chức năng giáo dục, chức năng sinh đẻ.",
+    "b": "Chức năng xây dựng gia đình hạnh phúc.",
+    "c": "Chức năng giáo dục, chức năng sinh đẻ, chức năng kinh tế.",
+    "d": "Chức năng giáo dục, chức năng sinh đẻ, chức năng nuôi dưỡng tình yêu.",
+    "answer": "C",
+    "explanation": "Các chức năng cơ bản của gia đình bao gồm sinh sản, kinh tế và giáo dục."
+  },
+  {
+    "question": "Xác định trường hợp là quan hệ pháp luật hôn nhân và gia đình:",
+    "a": "Anh Y và chị N chung sống với nhau và có con chung là cháu H và L.",
+    "b": "Tất cả các trường hợp.",
+    "c": "Anh Y và chị N kết hôn năm 2020 và có 2 con là cháu H và L.",
+    "d": "Anh Y và chị N kết hôn năm 2000 và sau đó lý hôn 2021.",
+    "answer": "C",
+    "explanation": "Hôn nhân hợp pháp tạo ra quan hệ pháp luật hôn nhân gia đình đầy đủ nhất."
+  },
+  {
+    "question": "Nguyên tắc bảo vệ quyền lợi của cha mẹ và con được quy định trong văn bản nào sau đây",
+    "a": "Bộ luật Dân sự, Luật HN & Gia đình, Luật Lao động.",
+    "b": "Luật HN & Gia đình và Luật Hộ tịch.",
+    "c": "Hiến pháp và Luật HN & Gia đình.",
+    "d": "Luật HN & Gia đình và Pháp lệnh dân số.",
+    "answer": "C",
+    "explanation": "Các quyền cơ bản về gia đình được hiến định và cụ thể hóa trong Luật Hôn nhân và Gia đình."
+  },
+  {
+    "question": "Nguyên tắc vợ chồng bình đẳng được hiểu như thế nào?",
+    "a": "Quyền nhân thân và tài sản của hai vợ chồng ngang nhau khi kết hôn và ly hôn.",
+    "b": "Bình đẳng trong các quy định về quyền và nghĩa vụ nhân thân và tài sản của vợ chồng.",
+    "c": "Bình đẳng trong quy định về quyền và nghĩa vụ nhân thân và những vấn đề liên quan đến lợi ích.",
+    "d": "Vợ chồng bình đẳng trong việc chăm sóc gia đình, phát triển kinh tế.",
+    "answer": "B",
+    "explanation": "Bình đẳng vợ chồng bao quát tất cả các khía cạnh nhân thân và tài sản trong thời kỳ hôn nhân."
+  },
+  {
+    "question": "Anh A và chị B 20 tuổi cùng làm việc tại công ty YY. Anh chị đăng ký kết hôn tại UBND phường X nơi chị B cư trú và sau đó anh chị sinh được 2 con. Hỏi anh A và chị B kết hôn theo đúng điều kiện nào sau đây theo quy định Luật HN & GĐ?",
+    "a": "Độ tuổi, sự tự nguyện.",
+    "b": "Độ tuổi, năng lực hành vi dân sự, sự tự nguyện, kết hôn không thuộc những trường hợp pháp luật cấm.",
+    "c": "Độ tuổi, năng lực hành vi dân sự.",
+    "d": "Độ tuổi, năng lực hành vi dân sự, sự tự nguyện, kết hôn thuộc những trường hợp pháp luật cấm.",
+    "answer": "B",
+    "explanation": "Các điều kiện kết hôn bao gồm độ tuổi, sự tự nguyện và không thuộc trường hợp cấm (Điều 8 Luật Hôn nhân và Gia đình)."
+  },
+  {
+    "question": "Giấy xác nhận về tình trạng hôn nhân có giá trị đến khi nào?",
+    "a": "Đến thời điểm đăng ký kết hôn.",
+    "b": "Đến thời điểm đăng ký kết hôn hoặc 06 tháng kể từ ngày cấp, tùy theo thời điểm nào đến trước.",
+    "c": "Đến thời điểm thay đổi tình trạng hôn nhân hoặc 06 tháng kể từ ngày cấp, tùy theo thời điểm nào đến trước.",
+    "d": "Đến thời điểm thay đổi tình trạng hôn nhân.",
+    "answer": "C",
+    "explanation": "Theo quy định, giấy xác nhận tình trạng hôn nhân có giá trị 6 tháng hoặc đến khi thay đổi tình trạng."
+  },
+  {
+    "question": "Anh A và chị B là công dân sống tại Nhật, A và B đến cơ quan nào sau đây làm thủ tục đăng ký kết hôn?",
+    "a": "Cơ quan đại diện ngoại giao; cơ quan lãnh sự của Việt Nam tại nước đó.",
+    "b": "UBND cấp xã, phường nơi cư trú của một trong hai bên kết hôn.",
+    "c": "UBND cấp quận, huyện, thị xã.",
+    "d": "UBND cấp tỉnh.",
+    "answer": "A",
+    "explanation": "Cơ quan đại diện ngoại giao có thẩm quyền đăng ký hộ tịch cho công dân Việt Nam ở nước ngoài."
+  },
+  {
+    "question": "Chị X mong muốn sang Mỹ sinh sống nên đã làm thủ tục kết hôn với ông T mang quốc tịch Mỹ. Hôn nhân của chị M vi phạm pháp luật HN&GĐ hành vi nào?",
+    "a": "Cưỡng ép hôn nhân.",
+    "b": "Lừa dối kết hôn.",
+    "c": "Cản trở kết hôn.",
+    "d": "Kết hôn giả tạo.",
+    "answer": "D",
+    "explanation": "Kết hôn không nhằm mục đích xây dựng gia đình mà để đạt được mục đích khác (như xuất cảnh) là kết hôn giả tạo."
+  },
+  {
+    "question": "Nhận định nào sau đây đúng:",
+    "a": "Hôn nhân là quan hệ giữa vợ và chồng sau khi kết hôn.",
+    "b": "Hôn nhân là quan hệ nam nữ sau khi kết hôn.",
+    "c": "Hôn nhân là quan hệ giữa những người khác giới tính với nhau.",
+    "d": "Hôn nhân là quan hệ giữa nam và nữ sau khi kết hôn.",
+    "answer": "A",
+    "explanation": "Định nghĩa chính xác theo Luật Hôn nhân và Gia đình Việt Nam."
+  },
+  {
+    "question": "Có anh T công tác tại công ty P yêu thương chị K công tác tại công ty Q. Hai anh chị quyết định đến UBND phương nơi trú của chị K để làm thủ tục đăng ký kết hôn. Chủ thể của quan hệ pháp luật hôn nhân và gia đình là:",
+    "a": "UBND phường nơi chị K cư trú, Anh T và chị K, Công ty P và Q.",
+    "b": "Anh T và chị K, Công ty P và Q.",
+    "c": "UBND phường nơi chị K cư trú, công ty P.",
+    "d": "Anh T và chị K.",
+    "answer": "D",
+    "explanation": "Chủ thể của quan hệ pháp luật hôn nhân gia đình là các cá nhân cụ thể trong quan hệ đó."
+  },
+  {
+    "question": "Hôn nhân một vợ một chồng được xác định khi nào?",
+    "a": "Các bên đang không có vợ và chồng.",
+    "b": "Thời điểm kết hôn các bên đang không có vợ hoặc có chồng.",
+    "c": "Hai bên nam và nữ chưa từng chung sống với ai như vợ chồng.",
+    "d": "Tất cả phương án đều sai.",
+    "answer": "B",
+    "explanation": "Tại thời điểm kết hôn, các bên phải đang độc thân theo quy định pháp luật."
+  },
+  {
+    "question": "Hôn nhân là gì?",
+    "a": "Là quan hệ giữa những người khác giới tính với nhau.",
+    "b": "Là quan hệ giữa nam và nữ sau khi kết hôn.",
+    "c": "Là quan hệ nam nữ sau khi kết hôn.",
+    "d": "Là quan hệ giữa vợ và chồng sau khi kết hôn.",
+    "answer": "D",
+    "explanation": "Đây là khái niệm cơ bản được quy định tại Khoản 1 Điều 3 Luật Hôn nhân và Gia đình 2014."
+  },
+  {
+    "question": "Bố mẹ chị T không đồng ý chị T kết hôn với anh I (là công nhân) nên đã thách cưới chiếc xe ôtô trị giá 3 tỉ đồng. Theo quy định PL bố mẹ chị T đã:",
+    "a": "Cản trở hôn nhân.",
+    "b": "Cưỡng ép hôn nhân.",
+    "c": "Lừa dối kết hôn.",
+    "d": "Không có phương án nào phù hợp.",
+    "answer": "A",
+    "explanation": "Thách cưới quá cao để ngăn cản việc kết hôn là một hành vi cản trở hôn nhân tự nguyện."
+  },
+  {
+    "question": "Anh X và chị Y kết hôn theo quy định của pháp luật, vậy anh X và chị Y là chủ thể của:",
+    "a": "Quan hệ pháp luật hôn nhân và tài sản.",
+    "b": "Quan hệ nhân thân.",
+    "c": "Tất cả các phương án đều đúng.",
+    "d": "Quan hệ của pháp luật hôn nhân và gia đình.",
+    "answer": "D",
+    "explanation": "Kết hôn hợp pháp xác lập quan hệ pháp luật hôn nhân và gia đình giữa hai người."
+  },
+  {
+    "question": "Quan hệ nào sau đây là đối tượng điều chỉnh của Luật HN và GĐ:",
+    "a": "Quan hệ tài sản.",
+    "b": "Quan hệ nhân thân.",
+    "c": "Quan hệ nhân thân và quan hệ tài sản.",
+    "d": "Quan hệ đồng, khác giới giữa người nam và người nữ.",
+    "answer": "C",
+    "explanation": "Luật điều chỉnh cả hai nhóm quan hệ quan trọng này trong đời sống gia đình."
+  },
+  {
+    "question": "P kết hôn năm 2000 nhưng vào năm 2015 P chung sống như vợ chồng với chị G, P bị xử lý theo hình thức nào về việc vi phạm điều kiện kết hôn?",
+    "a": "Xử lý dân sự, hành chính.",
+    "b": "Xử lý hành chính, xử lý hình sự.",
+    "c": "Xử lý kỷ luật.",
+    "d": "Xử lý vật chất.",
+    "answer": "B",
+    "explanation": "Vi phạm chế độ một vợ một chồng tùy mức độ có thể bị xử phạt hành chính hoặc truy cứu trách nhiệm hình sự."
+  },
+  {
+    "question": "Hôn nhân tự nguyện, tiến bộ là hôn nhân nào sau đây",
+    "a": "Nam nữ cưỡng hôn.",
+    "b": "Nam nữ được tự mình đăng ký kết hôn.",
+    "c": "Bình đẳng, tôn trọng và thực hiện đúng theo quy định của pháp luật về kết hôn.",
+    "d": "Nam nữ tự mình quyết định kết hôn.",
+    "answer": "C",
+    "explanation": "Hôn nhân tiến bộ dựa trên sự tự nguyện, bình đẳng và thượng tôn pháp luật."
+  },
+  {
+    "question": "Hôn nhân có những đặc điểm nào sau đây:",
+    "a": "Tất cả các đáp án đều đúng.",
+    "b": "Dựa trên cơ sở tự nguyện của hai bên nam nữ.",
+    "c": "Các bên tham gia quan hệ hôn nhân phải tuân thủ các quy định của pháp luật.",
+    "d": "Nam nữ khi tham gia quan hệ hôn nhân được hoàn toàn bình đẳng trước pháp luật.",
+    "answer": "A",
+    "explanation": "Hôn nhân hợp pháp bao gồm các đặc điểm về tự nguyện, bình đẳng và pháp lý."
+  },
+  {
+    "question": "Nhận định nào sau đây đúng",
+    "a": "Lợi ích nhân thân là những lợi ích về tài sản và tình cảm.",
+    "b": "Lợi ích tài sản là những lợi ích gắn liền với yếu tố gia đình và những yếu tố liên quan đến vật chất.",
+    "c": "Khách thể của quan hệ pháp luật là những lợi ích mà các chủ thể của quan hệ pháp luật hôn nhân và gia đình hướng tới hoặc đạt được khi tham gia quan hệ pháp luật hôn nhân và gia đình.",
+    "d": "Khách thể của quan hệ pháp luật mà các chủ thể của quan hệ pháp luật hôn nhân và gia đình hướng tới.",
+    "answer": "C",
+    "explanation": "Định nghĩa chính xác về khách thể trong quan hệ pháp luật hôn nhân gia đình."
+  },
+  {
+    "question": "Gia đình được hình thành trên cơ sở nào sau đây",
+    "a": "Hôn nhân, tài sản.",
+    "b": "Hôn nhân, tình cảm, con cái.",
+    "c": "Hôn nhân, quan hệ huyết thống, quan hệ nuôi dưỡng.",
+    "d": "Những thành viên trong gia đình.",
+    "answer": "C",
+    "explanation": "Gia đình là tập hợp những người gắn kết bởi hôn nhân, huyết thống hoặc nuôi dưỡng."
+  },
+  {
+    "question": "Cha mẹ và con cái có quyền và nghĩa vụ nào sau",
+    "a": "bảo vệ nhau, không được phản bội nhau hay sống riêng",
+    "b": "chăm lo, dưỡng dục, bảo bọc nhau vô điều kiện",
+    "c": "chăm sóc, nuôi dưỡng nhau",
+    "d": "chăm sóc, nuôi dạy lẫn nhau",
+    "answer": "C",
+    "explanation": "Quyền và nghĩa vụ chăm sóc, nuôi dưỡng là nền tảng của quan hệ cha mẹ - con cái."
+  },
+  {
+    "question": "UBND cấp xã là cơ quan đăng ký kết hôn của trường hợp nào sau:",
+    "a": "R và C là sinh viên trường đại học Y đều trên 20 tuổi.",
+    "b": "R và C đang là học sinh trung học phổ thông có một người đủ 20 tuổi.",
+    "c": "T và X là du học sinh đang du học tại Pháp đều trên 20 tuổi.",
+    "d": "Không trường hợp nào.",
+    "answer": "A",
+    "explanation": "Cơ quan đăng ký kết hôn cho công dân Việt Nam trong nước là UBND cấp xã (Điều 17 Luật Hộ tịch)."
   }
 ]
