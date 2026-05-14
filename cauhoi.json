@@ -2697,5 +2697,347 @@
     "d": "Chia sẻ cho đồng nghiệp cùng biết để 'giúp đỡ nhau'",
     "answer": "B",
     "explanation": "Lợi dụng thông tin có được từ hoạt động nghề nghiệp để trục lợi cá nhân là hành vi bị nghiêm cấm tuyệt đối trong đạo đức công chứng."
+    },
+  {
+    "question": "Theo Luật Công chứng 2024, công chứng là gì?",
+    "a": "Hoạt động xác nhận chữ ký của UBND cấp xã",
+    "b": "Dịch vụ công do công chứng viên thực hiện để chứng nhận tính xác thực, hợp pháp của giao dịch",
+    "c": "Hoạt động tư vấn pháp luật của luật sư",
+    "d": "Hoạt động đăng ký tài sản tại cơ quan nhà nước",
+    "answer": "B",
+    "explanation": "Điều 2 Luật Công chứng 2024 quy định công chứng là dịch vụ công do công chứng viên thực hiện nhằm chứng nhận tính xác thực, hợp pháp của giao dịch."
+  },
+  {
+    "question": "Nguyên tắc hành nghề công chứng nào sau đây được quy định trong Luật Công chứng 2024?",
+    "a": "Linh hoạt theo yêu cầu khách hàng",
+    "b": "Ưu tiên lợi ích tổ chức hành nghề công chứng",
+    "c": "Khách quan, trung thực",
+    "d": "Được phép bỏ qua thủ tục trong trường hợp khẩn cấp",
+    "answer": "C",
+    "explanation": "Điều 5 quy định nguyên tắc hành nghề công chứng gồm tuân thủ pháp luật, khách quan, trung thực và chịu trách nhiệm trước pháp luật."
+  },
+  {
+    "question": "Văn bản công chứng có hiệu lực kể từ thời điểm nào?",
+    "a": "Khi người yêu cầu công chứng nộp phí",
+    "b": "Khi Sở Tư pháp phê duyệt",
+    "c": "Khi được công chứng viên ký và tổ chức hành nghề công chứng đóng dấu",
+    "d": "Sau 03 ngày kể từ ngày ký",
+    "answer": "C",
+    "explanation": "Theo Điều 6, văn bản công chứng có hiệu lực kể từ thời điểm được công chứng viên ký và tổ chức hành nghề công chứng đóng dấu."
+  },
+  {
+    "question": "Hành vi nào sau đây bị nghiêm cấm đối với công chứng viên?",
+    "a": "Giải thích hậu quả pháp lý cho người yêu cầu công chứng",
+    "b": "Từ chối công chứng giao dịch vi phạm pháp luật",
+    "c": "Tiết lộ thông tin về nội dung công chứng trái quy định",
+    "d": "Yêu cầu xuất trình giấy tờ tùy thân",
+    "answer": "C",
+    "explanation": "Điều 9 nghiêm cấm công chứng viên tiết lộ thông tin về nội dung công chứng trái quy định."
+  },
+  {
+    "question": "Người có bằng cử nhân luật muốn được bổ nhiệm công chứng viên phải có thời gian công tác pháp luật tối thiểu bao lâu?",
+    "a": "01 năm",
+    "b": "02 năm",
+    "c": "03 năm",
+    "d": "05 năm",
+    "answer": "C",
+    "explanation": "Điều 10 quy định người được xem xét bổ nhiệm công chứng viên phải có thời gian công tác pháp luật từ đủ 03 năm trở lên."
+  },
+  {
+    "question": "Thời gian đào tạo nghề công chứng thông thường là bao lâu?",
+    "a": "03 tháng",
+    "b": "06 tháng",
+    "c": "09 tháng",
+    "d": "12 tháng",
+    "answer": "D",
+    "explanation": "Theo Điều 11, thời gian đào tạo nghề công chứng là 12 tháng, trừ các trường hợp được đào tạo 06 tháng."
+  },
+  {
+    "question": "Một công chứng viên tại cùng một thời điểm được hướng dẫn tối đa bao nhiêu người tập sự?",
+    "a": "01 người",
+    "b": "02 người",
+    "c": "03 người",
+    "d": "Không giới hạn",
+    "answer": "B",
+    "explanation": "Điều 12 quy định tại cùng một thời điểm, 01 công chứng viên chỉ được hướng dẫn tối đa 02 người tập sự."
+  },
+  {
+    "question": "Công chứng viên bị tạm đình chỉ hành nghề trong trường hợp nào sau đây?",
+    "a": "Bị khiển trách nội bộ",
+    "b": "Đang bị truy cứu trách nhiệm hình sự",
+    "c": "Đổi nơi cư trú",
+    "d": "Nghỉ phép dài hạn",
+    "answer": "B",
+    "explanation": "Điều 15 quy định công chứng viên bị tạm đình chỉ hành nghề khi bị truy cứu trách nhiệm hình sự."
+  },
+  {
+    "question": "Công chứng viên có nghĩa vụ nào sau đây?",
+    "a": "Được quyền công chứng mọi giao dịch",
+    "b": "Giữ bí mật về nội dung công chứng",
+    "c": "Được mở nhiều văn phòng công chứng cùng lúc",
+    "d": "Được hành nghề tại nhiều tổ chức hành nghề công chứng",
+    "answer": "B",
+    "explanation": "Theo Điều 18, công chứng viên có nghĩa vụ giữ bí mật về nội dung công chứng."
+  },
+  {
+    "question": "Tổ chức hành nghề công chứng bao gồm:",
+    "a": "Phòng công chứng và Văn phòng công chứng",
+    "b": "Chỉ có Văn phòng công chứng",
+    "c": "Chỉ có Phòng công chứng",
+    "d": "UBND cấp xã và Phòng công chứng",
+    "answer": "A",
+    "explanation": "Điều 19 quy định tổ chức hành nghề công chứng bao gồm Phòng công chứng và Văn phòng công chứng."
+  },
+  {
+    "question": "Tên của Văn phòng công chứng phải bao gồm cụm từ nào?",
+    "a": "Công chứng quốc gia",
+    "b": "Văn phòng pháp lý",
+    "c": "Văn phòng công chứng",
+    "d": "Trung tâm công chứng",
+    "answer": "C",
+    "explanation": "Điều 23 quy định tên của Văn phòng công chứng phải bao gồm cụm từ 'Văn phòng công chứng'."
+  },
+  {
+    "question": "Sau khi được cấp quyết định cho phép thành lập, Văn phòng công chứng phải đăng ký hoạt động trong thời hạn bao lâu?",
+    "a": "30 ngày",
+    "b": "60 ngày",
+    "c": "90 ngày",
+    "d": "120 ngày",
+    "answer": "C",
+    "explanation": "Theo Điều 25, Văn phòng công chứng phải đăng ký hoạt động trong thời hạn 90 ngày."
+  },
+  {
+    "question": "Bảo hiểm trách nhiệm nghề nghiệp của công chứng viên là loại bảo hiểm gì?",
+    "a": "Tự nguyện",
+    "b": "Khuyến khích",
+    "c": "Bắt buộc",
+    "d": "Không cần thiết",
+    "answer": "C",
+    "explanation": "Điều 39 quy định bảo hiểm trách nhiệm nghề nghiệp của công chứng viên là loại hình bảo hiểm bắt buộc."
+  },
+  {
+    "question": "Tình huống: Ông A yêu cầu công chứng hợp đồng ủy quyền bán nhà cho em ruột. Qua trao đổi, CCV phát hiện ông A không biết đọc, không biết viết nhưng hoàn toàn minh mẫn. Cách xử lý phù hợp nhất là:",
+    "a": "Từ chối công chứng vì không biết chữ",
+    "b": "Yêu cầu người thân ký thay",
+    "c": "Thực hiện công chứng với thủ tục điểm chỉ và người làm chứng theo quy định",
+    "d": "Cho nhân viên văn phòng ký xác nhận hộ",
+    "answer": "C",
+    "explanation": "Căn cứ khoản 2 Điều 49 Luật Công chứng 2024: trường hợp người yêu cầu công chứng không đọc được, không nghe được, không ký được hoặc không điểm chỉ được thì phải có người làm chứng theo quy định."
+  },
+  {
+    "question": "Tình huống: Một CCV công chứng hợp đồng chuyển nhượng đất cho cha ruột của mình tại chính Văn phòng công chứng nơi mình hành nghề. Hành vi này:",
+    "a": "Được phép vì đúng thẩm quyền",
+    "b": "Được phép nếu có CCV khác ký cùng",
+    "c": "Vi phạm quy định về trường hợp không được công chứng",
+    "d": "Chỉ vi phạm đạo đức nghề nghiệp",
+    "answer": "C",
+    "explanation": "Căn cứ điểm c khoản 1 Điều 9 Luật Công chứng 2024: CCV không được công chứng hợp đồng, giao dịch liên quan đến tài sản, lợi ích của bản thân hoặc người thân thích của mình."
+  },
+  {
+    "question": "Tình huống: Sau khi văn bản công chứng đã được ký và đóng dấu, CCV phát hiện sai sót kỹ thuật ở số CCCD của một bên tham gia giao dịch. Theo luật, cách xử lý phù hợp nhất là:",
+    "a": "Âm thầm sửa trực tiếp trên bản chính",
+    "b": "Thu hồi toàn bộ hồ sơ rồi ký lại từ đầu",
+    "c": "Thực hiện thủ tục sửa lỗi kỹ thuật theo quy định",
+    "d": "Để khách hàng tự sửa bằng bút",
+    "answer": "C",
+    "explanation": "Căn cứ Điều 52 Luật Công chứng 2024: lỗi kỹ thuật trong văn bản công chứng được xử lý bằng thủ tục sửa lỗi kỹ thuật và phải có xác nhận của tổ chức hành nghề công chứng."
+  },
+  {
+    "question": "Tình huống: Người yêu cầu công chứng đề nghị CCV xác nhận hợp đồng mua bán đất dù biết rõ đất chưa được cấp giấy chứng nhận quyền sử dụng đất. CCV nên:",
+    "a": "Vẫn công chứng nếu các bên tự nguyện",
+    "b": "Chỉ cần ghi rõ tình trạng chưa có sổ",
+    "c": "Từ chối công chứng vì giao dịch chưa đủ điều kiện",
+    "d": "Công chứng nếu bên mua chấp nhận rủi ro",
+    "answer": "C",
+    "explanation": "Căn cứ khoản 2 Điều 42 Luật Công chứng 2024: CCV có quyền từ chối công chứng nếu giao dịch không đủ điều kiện thực hiện theo quy định pháp luật."
+  },
+  {
+    "question": "Tình huống: Một CCV nhận tiền ngoài phí công chứng để ưu tiên giải quyết hồ sơ trước cho khách hàng VIP. Hành vi này:",
+    "a": "Được phép nếu khách hàng tự nguyện",
+    "b": "Là quan hệ dân sự bình thường",
+    "c": "Vi phạm quy định về đạo đức và hành nghề công chứng",
+    "d": "Chỉ sai nếu không xuất hóa đơn",
+    "answer": "C",
+    "explanation": "Căn cứ điểm d khoản 1 Điều 9 Luật Công chứng 2024: nghiêm cấm CCV nhận hoặc đòi hỏi thêm bất kỳ khoản lợi ích nào ngoài phí, thù lao và chi phí đã được xác định theo quy định."
+  },
+  {
+    "question": "Tình huống: Văn phòng công chứng A hợp nhất với Văn phòng công chứng B nhưng chưa đăng ký thay đổi nội dung hoạt động mà đã tiếp tục công chứng dưới tên mới. Hành vi này:",
+    "a": "Được phép nếu đã ký hợp đồng hợp nhất",
+    "b": "Chỉ cần thông báo miệng cho Sở Tư pháp",
+    "c": "Vi phạm quy định về đăng ký hoạt động",
+    "d": "Không ảnh hưởng đến hiệu lực công chứng",
+    "answer": "C",
+    "explanation": Luật Công chứng 2024: việc hợp nhất Văn phòng công chứng phải đăng ký thay đổi nội dung hoạt động theo quy định trước khi hoạt động chính thức."
+  },
+  {
+    "question": "Tình huống: Ông B yêu cầu công chứng di chúc tại bệnh viện. Khi CCV đến nơi, bác sĩ xác nhận ông B đang dùng thuốc an thần mạnh, nhận thức lúc tỉnh lúc mê. CCV phù hợp nhất nên:",
+    "a": "Tiếp tục công chứng vì có bác sĩ chứng kiến",
+    "b": "Cho người thân xác nhận ý chí thay",
+    "c": "Tạm hoãn và yêu cầu xác minh rõ khả năng nhận thức",
+    "d": "Điểm chỉ thay chữ ký là đủ",
+    "answer": "C",
+    "explanation": "Căn cứ khoản 4 Điều 42 Luật Công chứng 2024: khi có căn cứ cho rằng người yêu cầu công chứng không có năng lực hành vi dân sự phù hợp thì CCV phải yêu cầu làm rõ."
+  },
+  {
+    "question": "Tình huống: CCV phát hiện giấy xác nhận tình trạng hôn nhân do UBND cấp có dấu hiệu bị chỉnh sửa ngày tháng bằng kỹ thuật in màu tinh vi. CCV nên:",
+    "a": "Vẫn công chứng vì có dấu đỏ",
+    "b": "Yêu cầu xác minh tại cơ quan cấp giấy",
+    "c": "Cho khách hàng ký cam kết",
+    "d": "Tự sửa lại thông tin cho khớp",
+    "answer": "B",
+    "explanation": "Căn cứ khoản 4 Điều 42 Luật Công chứng 2024: CCV có quyền yêu cầu xác minh, giám định nếu thấy giấy tờ có dấu hiệu giả mạo hoặc không rõ ràng."
+  },
+  {
+    "question": "Tình huống: Một người tập sự trực tiếp tư vấn pháp lý, kiểm tra hồ sơ và ký nháy toàn bộ hợp đồng mà CCV chưa kiểm tra lại nội dung. Khi xảy ra sai sót, trách nhiệm chính thuộc về:",
+    "a": "Người tập sự",
+    "b": "Khách hàng",
+    "c": "Công chứng viên ký văn bản",
+    "d": "Sở Tư pháp",
+    "answer": "C",
+    "explanation": "Căn cứ điểm i khoản 2 Điều 18 Luật Công chứng 2024: CCV phải chịu trách nhiệm trước pháp luật về văn bản công chứng của mình."
+  },
+  {
+    "question": "Tình huống: Một CCV bị kết án bằng bản án đã có hiệu lực pháp luật về tội phạm do vô ý và được hưởng án treo. Theo luật, CCV này:",
+    "a": "Đương nhiên được tiếp tục hành nghề",
+    "b": "Có thể bị miễn nhiệm công chứng viên",
+    "c": "Chỉ bị tạm đình chỉ 01 tháng",
+    "d": "Không ảnh hưởng nếu là tội vô ý",
+    "answer": "B",
+    "explanation": "Căn cứ điểm i khoản 2 Điều 16 Luật Công chứng 2024: công chứng viên bị kết án bằng bản án đã có hiệu lực pháp luật thì thuộc trường hợp xem xét miễn nhiệm."
+  },
+  {
+    "question": "Tình huống: CCV công chứng hợp đồng chuyển nhượng đất vào lúc 23 giờ tại quán cà phê theo yêu cầu riêng của khách hàng để tránh gặp người khác. Hành vi này có thể dẫn đến rủi ro pháp lý chủ yếu nào?",
+    "a": "Không có rủi ro vì ngoài giờ vẫn được công chứng",
+    "b": "Dễ bị xem xét vi phạm quy trình kiểm tra tính xác thực và điều kiện công chứng",
+    "c": "Chỉ vi phạm nội quy văn phòng",
+    "d": "Không ảnh hưởng nếu có thu phí ngoài trụ sở",
+    "answer": "B",
+    "explanation": "Căn cứ khoản 2 Điều 5 Luật Công chứng 2024: CCV phải bảo đảm khách quan, trung thực; việc công chứng trong điều kiện bất thường dễ phát sinh nghi ngờ về tính tự nguyện và xác thực của giao dịch."
+  },
+  {
+    "question": "Tình huống: Người yêu cầu công chứng sử dụng giấy xác nhận cư trú điện tử được chụp màn hình từ điện thoại nhưng không xuất trình bản điện tử gốc có mã xác thực. CCV phù hợp nhất nên:",
+    "a": "Chấp nhận vì hình ảnh nhìn rõ",
+    "b": "Yêu cầu xuất trình bản điện tử hợp lệ hoặc xác minh dữ liệu",
+    "c": "Cho ký cam kết là đủ",
+    "d": "Tự chỉnh sửa ảnh để rõ hơn",
+    "answer": "B",
+    "explanation": "Căn cứ khoản 4 Điều 42 Luật Công chứng 2024: người yêu cầu công chứng phải cung cấp đầy đủ tài liệu hợp lệ; CCV có quyền yêu cầu xác minh tính xác thực của giấy tờ."
+  },
+  {
+    "question": "Tình huống: CCV sử dụng tài khoản chữ ký số của đồng nghiệp để ký công chứng điện tử do đồng nghiệp đi vắng nhưng khách hàng cần gấp. Hành vi này:",
+    "a": "Được phép nếu có sự đồng ý",
+    "b": "Chỉ vi phạm nội bộ văn phòng",
+    "c": "Vi phạm nghiêm trọng nguyên tắc xác thực và trách nhiệm hành nghề",
+    "d": "Hợp lệ nếu không phát sinh tranh chấp",
+    "answer": "C",
+    "explanation": "Căn cứ Điều 62 Luật Công chứng 2024: hoạt động công chứng điện tử phải bảo đảm tính xác thực, an toàn; CCV phải sử dụng chữ ký số đúng chủ thể được cấp."
+ },
+  {
+    "question": "Người yêu cầu công chứng có thể nộp hồ sơ yêu cầu công chứng bằng hình thức nào?",
+    "a": "Chỉ trực tiếp tại tổ chức hành nghề công chứng",
+    "b": "Chỉ qua đường bưu chính",
+    "c": "Trực tuyến, trực tiếp hoặc qua đường bưu chính",
+    "d": "Chỉ qua email cá nhân công chứng viên",
+    "answer": "C",
+    "explanation": "Điều 42 quy định người yêu cầu công chứng có thể nộp hồ sơ trực tuyến, trực tiếp hoặc qua đường bưu chính."
+  },
+  {
+    "question": "Tình huống: Ông A yêu cầu công chứng hợp đồng chuyển nhượng quyền sử dụng đất. Qua tra cứu dữ liệu, CCV phát hiện thửa đất đang bị Tòa án ngăn chặn giao dịch. CCV phải xử lý thế nào?",
+    "a": "Vẫn công chứng vì giấy chứng nhận là thật",
+    "b": "Tạm dừng hoặc từ chối công chứng cho đến khi giải tỏa ngăn chặn",
+    "c": "Cho các bên cam kết tự chịu trách nhiệm rồi công chứng",
+    "d": "Chỉ cần ghi chú vào hợp đồng",
+    "answer": "B",
+    "explanation": "Căn cứ Điều 42 Luật Công chứng 2024: CCV có quyền 'từ chối công chứng nếu có căn cứ xác định giao dịch vi phạm pháp luật hoặc không đủ điều kiện thực hiện'. Tài sản đang bị ngăn chặn giao dịch là chưa đủ điều kiện công chứng."
+  },
+  {
+    "question": "Tình huống: Hệ thống xác thực sinh trắc học trong công chứng điện tử báo độ tin cậy thấp do khách hàng vừa phẫu thuật thẩm mỹ. CCV nên:",
+    "a": "Vẫn công chứng vì khách hàng cam kết",
+    "b": "Nhờ người thân xác nhận",
+    "c": "Yêu cầu xác minh trực tiếp bằng phương thức bổ sung",
+    "d": "Cho người tập sự xác nhận thay",
+    "answer": "C",
+    "explanation": "Căn cứ khoản 1 Điều 5 Luật Công chứng 2024: hoạt động công chứng phải 'tuân thủ Hiến pháp và pháp luật, bảo đảm khách quan, trung thực'. Đồng thời khoản 4 Điều 42 cho phép CCV yêu cầu xác minh khi có nghi ngờ về chủ thể tham gia giao dịch."
+  },
+  {
+    "question": "Tình huống: Bà B đến công chứng hợp đồng mua bán nhà nhưng có biểu hiện không nhận thức rõ nội dung giao dịch. CCV phù hợp nhất nên:",
+    "a": "Tiếp tục công chứng nếu có người thân đi cùng",
+    "b": "Cho ký điểm chỉ là đủ",
+    "c": "Yêu cầu xác minh năng lực hành vi dân sự hoặc từ chối công chứng",
+    "d": "Để nhân viên tự đánh giá",
+    "answer": "C",
+    "explanation": "Căn cứ khoản 4 Điều 42 Luật Công chứng 2024: khi có căn cứ cho rằng người yêu cầu công chứng 'không có năng lực hành vi dân sự phù hợp' thì CCV phải đề nghị làm rõ; nếu không làm rõ được thì có quyền từ chối công chứng."
+  },
+  {
+    "question": "Tình huống: Một công chứng viên ký hợp đồng cộng tác thường xuyên với hai Văn phòng công chứng khác nhau. Hành vi này:",
+    "a": "Được phép nếu ngoài giờ",
+    "b": "Được phép nếu báo Sở Tư pháp",
+    "c": "Vi phạm pháp luật",
+    "d": "Chỉ vi phạm nếu nhận lương",
+    "answer": "C",
+    "explanation": "Căn cứ điểm c khoản 2 Điều 18 Luật Công chứng 2024: công chứng viên có nghĩa vụ 'chỉ được hành nghề tại một tổ chức hành nghề công chứng'."
+  },
+  {
+    "question": "Tình huống: Công chứng viên tiết lộ nội dung di chúc cho con của người lập di chúc dù chưa được đồng ý. Hành vi này:",
+    "a": "Được phép vì là người thừa kế",
+    "b": "Không vi phạm nếu tiết lộ miệng",
+    "c": "Vi phạm nghĩa vụ bảo mật",
+    "d": "Không vi phạm nếu chưa tranh chấp",
+    "answer": "C",
+    "explanation": "Căn cứ điểm e khoản 2 Điều 18 Luật Công chứng 2024: công chứng viên có nghĩa vụ 'giữ bí mật về nội dung công chứng'."
+  },
+  {
+    "question": "Tình huống: Văn phòng công chứng chỉ còn một thành viên hợp danh do thành viên còn lại qua đời. Theo luật, thời hạn phải bổ sung thành viên hợp danh mới là:",
+    "a": "01 tháng",
+    "b": "03 tháng",
+    "c": "06 tháng",
+    "d": "12 tháng",
+    "answer": "C",
+    "explanation": "Căn cứ khoản 2 Điều 33 Luật Công chứng 2024: Văn phòng công chứng 'phải bổ sung công chứng viên hợp danh trong thời hạn 06 tháng'."
+  },
+  {
+    "question": "Tình huống: CCV phát hiện hợp đồng vay tài sản thực chất nhằm che giấu mua bán nhà để né thuế. CCV nên:",
+    "a": "Vẫn công chứng vì các bên tự nguyện",
+    "b": "Từ chối công chứng",
+    "c": "Ghi chú nghi ngờ rồi công chứng",
+    "d": "Chỉ nhắc nhở các bên",
+    "answer": "B",
+    "explanation": "Căn cứ Điều 9 Luật Công chứng 2024: nghiêm cấm 'giả mạo người yêu cầu công chứng, thực hiện hành vi gian dối khác'. Giao dịch giả tạo nhằm trốn thuế là hành vi gian dối."
+  },
+  {
+    "question": "Tình huống: Người yêu cầu công chứng nộp hồ sơ trực tuyến nhưng không cung cấp CCCD và cũng không đồng ý khai thác dữ liệu dân cư. CCV phải:",
+    "a": "Tiếp nhận hồ sơ bình thường",
+    "b": "Yêu cầu bổ sung giấy tờ hoặc dữ liệu xác minh",
+    "c": "Tự tìm thông tin trên mạng",
+    "d": "Cho ký cam kết thay thế",
+    "answer": "B",
+    "explanation": "Căn cứ khoản 2 Điều 42 Luật Công chứng 2024: người yêu cầu công chứng có nghĩa vụ cung cấp 'đầy đủ giấy tờ, tài liệu liên quan đến việc công chứng'."
+  },
+  {
+    "question": "Tình huống: Công chứng viên bị xử phạt vi phạm hành chính 02 lần trong 12 tháng về hoạt động công chứng. Hậu quả pháp lý nào có thể xảy ra?",
+    "a": "Không ảnh hưởng",
+    "b": "Có thể bị miễn nhiệm",
+    "c": "Chỉ bị cảnh cáo",
+    "d": "Được tiếp tục bình thường",
+    "answer": "B",
+    "explanation": "Căn cứ điểm h khoản 2 Điều 16 Luật Công chứng 2024: công chứng viên bị miễn nhiệm nếu 'bị xử phạt vi phạm hành chính từ 02 lần trở lên trong thời hạn 12 tháng'."
+  },
+  {
+    "question": "Tình huống: Người tập sự ký xác nhận thay khách hàng trong hồ sơ công chứng điện tử theo yêu cầu của CCV hướng dẫn. Hành vi này:",
+    "a": "Được phép nếu khách hàng đồng ý",
+    "b": "Được phép nếu có email xác nhận",
+    "c": "Vi phạm pháp luật",
+    "d": "Chỉ vi phạm nội quy văn phòng",
+    "answer": "C",
+    "explanation": "Căn cứ Điều 9 Luật Công chứng 2024: nghiêm cấm 'giả mạo người yêu cầu công chứng'. Người tập sự không được ký thay khách hàng."
+  },
+  {
+    "question": "Tình huống: Văn phòng công chứng đã được cấp giấy đăng ký hoạt động nhưng hơn 06 tháng vẫn chưa hoạt động thực tế. Hậu quả nào có thể xảy ra?",
+    "a": "Không ảnh hưởng",
+    "b": "Chỉ bị nhắc nhở",
+    "c": "Bị thu hồi quyết định cho phép thành lập",
+    "d": "Tự động được gia hạn",
+    "answer": "C",
+    "explanation": "Căn cứ điểm c khoản 1 Điều 33 Luật Công chứng 2024: Văn phòng công chứng bị thu hồi quyết định thành lập nếu 'sau 06 tháng kể từ ngày được cấp giấy đăng ký hoạt động mà chưa hoạt động'."
   }
 ]
