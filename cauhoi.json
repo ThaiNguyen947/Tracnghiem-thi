@@ -36,15 +36,6 @@
     "explanation": "CCV là người gác cổng pháp luật. Khi đã biết thông tin tài sản có tranh chấp/ngăn chặn (dù là bản giấy), CCV không được lợi dụng kẽ hở dữ liệu để thực hiện công chứng."
   },
   {
-    "question": "Tình huống: Một CCV thực hiện công chứng điện tử nhưng vô ý để lộ mật khẩu tài khoản truy cập vào Cơ sở dữ liệu công chứng quốc gia cho người môi giới. Hành vi này vi phạm điều khoản nào?",
-    "a": "Vi phạm điểm m, khoản 1, Điều 7 Luật 2024 về an toàn hệ thống thông tin",
-    "b": "Chỉ là sơ suất hành chính, không vi phạm đạo đức",
-    "c": "Đúng, vì để môi giới tự tra cứu hồ sơ giúp khách hàng cho nhanh",
-    "d": "Vi phạm quy định về bảo mật thông tin cá nhân của CCV",
-    "answer": "A",
-    "explanation": "Bảo vệ tài khoản và hệ thống dữ liệu là nghĩa vụ bắt buộc. Để lộ thông tin truy cập hệ thống quốc gia là vi phạm nghiêm trọng an ninh ngành công chứng."
-  },
-  {
     "question": "Tình huống: Một NYCCC yêu cầu chuyển đổi văn bản công chứng điện tử sang văn bản giấy để nộp hồ sơ đăng ký biến động đất đai. CCV thực hiện việc này như thế nào?",
     "a": "Chỉ cần in ra rồi đóng dấu treo của văn phòng lên là được",
     "b": "Phải thực hiện quy trình chuyển đổi theo quy định, có chữ ký và con dấu của CCV xác nhận nội dung từ bản điện tử (Điều 66)",
