@@ -3039,5 +3039,228 @@
     "d": "Tự động được gia hạn",
     "answer": "C",
     "explanation": "Căn cứ điểm c khoản 1 Điều 33 Luật Công chứng 2024: Văn phòng công chứng bị thu hồi quyết định thành lập nếu sau 06 tháng kể từ ngày được cấp giấy đăng ký hoạt động mà chưa hoạt động."
+  },
+  {
+    "question": "Điểm mới của Luật Công chứng 2024 về việc quy định các giao dịch phải công chứng là gì?",
+    "a": "Liệt kê chi tiết tên từng loại giao dịch phải công chứng.",
+    "b": "Không theo hướng liệt kê tên giao dịch mà quy định tiêu chí xác định.",
+    "c": "Chỉ yêu cầu công chứng các giao dịch liên quan đến bất động sản.",
+    "d": "Bãi bỏ toàn bộ các quy định về giao dịch bắt buộc công chứng.",
+    "answer": "B",
+    "explanation": "Luật bổ sung quy định về các giao dịch phải công chứng nhưng không theo hướng liệt kê tên giao dịch mà quy định tiêu chí xác định các giao dịch phải công chứng."
+  },
+  {
+    "question": "Công chứng viên được phép tiết lộ thông tin về nội dung công chứng trong trường hợp nào sau đây?",
+    "a": "Khi có người thân của người yêu cầu công chứng hỏi.",
+    "b": "Khi được người yêu cầu công chứng đồng ý bằng văn bản hoặc pháp luật có quy định khác.",
+    "c": "Khi công chứng viên thấy nội dung đó thú vị và muốn chia sẻ.",
+    "d": "Khi giao dịch đã thực hiện xong được 01 năm.",
+    "answer": "B",
+    "explanation": "Theo điểm a khoản 1 Điều 9, việc tiết lộ thông tin bị nghiêm cấm trừ trường hợp có sự đồng ý bằng văn bản của người yêu cầu công chứng hoặc theo quy định pháp luật."
+  },
+  {
+    "question": "Hành vi nào sau đây bị nghiêm cấm đối với Công chứng viên nhằm bảo vệ đạo đức xã hội?",
+    "a": "Từ chối công chứng khi không có đủ hồ sơ.",
+    "b": "Xúi giục, tạo điều kiện cho người tham gia thực hiện giao dịch giả tạo.",
+    "c": "Hướng dẫn khách hàng chuẩn bị giấy tờ theo quy định.",
+    "d": "Giải thích quyền và nghĩa vụ cho các bên tham gia giao dịch.",
+    "answer": "B",
+    "explanation": "Điểm b khoản 1 Điều 9 nghiêm cấm công chứng viên xúi giục hoặc tạo điều kiện cho các bên thực hiện giao dịch giả tạo hoặc hành vi gian dối khác."
+  },
+  {
+    "question": "Công chứng viên KHÔNG được công chứng giao dịch liên quan đến tài sản của đối tượng nào sau đây?",
+    "a": "Bạn thân từ thời đại học.",
+    "b": "Hàng xóm thân thiết.",
+    "c": "Cha đẻ, mẹ đẻ của vợ hoặc chồng công chứng viên.",
+    "d": "Đồng nghiệp cùng cơ quan nhưng không có quan hệ họ hàng.",
+    "answer": "C",
+    "explanation": "Theo điểm c khoản 1 Điều 9, công chứng viên bị cấm công chứng giao dịch liên quan đến người thân thích, bao gồm cả cha mẹ đẻ của vợ hoặc chồng."
+  },
+  {
+    "question": "Theo quy định về những người thân thích, Công chứng viên có được công chứng hợp đồng bán nhà cho con dâu hoặc con rể của mình không?",
+    "a": "Được, vì con dâu/con rể không phải là người cùng huyết thống.",
+    "b": "Không, vì đây là hành vi bị nghiêm cấm đối với người thân thích.",
+    "c": "Được, nếu có sự chứng kiến của người thứ ba.",
+    "d": "Được, nếu tài sản đó là tài sản riêng của con dâu/con rể.",
+    "answer": "B",
+    "explanation": "Điểm c khoản 1 Điều 9 liệt kê con dâu, con rể vào danh sách người thân thích mà công chứng viên không được thực hiện công chứng giao dịch liên quan."
+  },
+  {
+    "question": "Hành vi sử dụng thông tin nội dung công chứng để xâm hại lợi ích của Nhà nước bị xử lý như thế nào?",
+    "a": "Chỉ cần rút kinh nghiệm nội bộ.",
+    "b": "Là hành vi bị nghiêm cấm theo Luật Công chứng.",
+    "c": "Được phép nếu mục đích là để kiếm lợi nhuận cho Văn phòng.",
+    "d": "Chỉ bị cấm nếu thông tin đó là bí mật quốc gia.",
+    "answer": "B",
+    "explanation": "Luật nghiêm cấm sử dụng thông tin công chứng để xâm hại quyền, lợi ích hợp pháp của cá nhân, tổ chức, Nhà nước dưới mọi hình thức."
+  },
+  {
+    "question": "Công chứng viên có được công chứng giao dịch liên quan đến anh ruột, chị ruột của vợ hoặc chồng mình không?",
+    "a": "Có, vì đây là họ hàng bên vợ/chồng nên không tính.",
+    "b": "Có, nếu anh chị ruột đó ở xa.",
+    "c": "Không, vì đây thuộc danh sách người thân thích bị nghiêm cấm.",
+    "d": "Có, nếu công chứng viên không lấy phí công chứng.",
+    "answer": "C",
+    "explanation": "Điểm c khoản 1 Điều 9 quy định rõ anh ruột, chị ruột, em ruột của vợ hoặc chồng là những đối tượng mà công chứng viên không được thực hiện công chứng giao dịch liên quan."
+  },
+{
+    "question": "Công chứng viên (CCV) X đang thực hiện thủ tục công chứng hợp đồng ủy quyền. Trong quá trình trao đổi, CCV X phát hiện các bên đang cố tình che giấu một giao dịch vay tiền nặng lãi bằng một hợp đồng giả cách là chuyển nhượng tài sản. CCV X nên xử lý thế nào theo Điều 9?",
+    "a": "Tiếp tục thực hiện vì các bên đã tự nguyện ký kết.",
+    "b": "Từ chối công chứng và giải thích rõ hành vi xúi giục, tạo điều kiện cho giao dịch giả tạo là bị nghiêm cấm.",
+    "c": "Yêu cầu các bên đóng thêm phí rủi ro rồi mới thực hiện.",
+    "d": "Chỉ công chứng phần ủy quyền, còn phần giao dịch giả cách thì mặc kệ.",
+    "answer": "B",
+    "explanation": "Điểm b khoản 1 Điều 9 nghiêm cấm CCV tạo điều kiện cho người tham gia thực hiện giao dịch giả tạo hoặc hành vi gian dối khác."
+  },
+  {
+    "question": "Ông nội của vợ Công chứng viên A muốn công chứng di chúc tại Văn phòng công chứng nơi A đang làm việc. Công chứng viên A có được trực tiếp ký văn bản công chứng này không?",
+    "a": "Được, vì ông nội của vợ không nằm trong danh sách người thân thích bị cấm.",
+    "b": "Được, nếu có sự đồng ý của Trưởng Văn phòng công chứng.",
+    "c": "Không, vì ông nội của vợ thuộc nhóm người thân thích là ông nội, bà nội của vợ hoặc chồng bị nghiêm cấm.",
+    "d": "Được, vì di chúc là giao dịch một bên, không phải giao dịch hai bên.",
+    "answer": "C",
+    "explanation": "Điểm c khoản 1 Điều 9 quy định CCV không được công chứng giao dịch liên quan đến lợi ích của người thân thích, trong đó bao gồm ông nội, bà nội của vợ hoặc chồng."
+  },
+  {
+    "question": "Công chứng viên H có người em ruột là đại diện pháp luật của Công ty bất động sản K. Khi Công ty K mang hợp đồng mua bán nhà đất đến yêu cầu CCV H công chứng, H có được thực hiện không?",
+    "a": "Được, vì tài sản này là của Công ty K, không phải tài sản cá nhân của người em.",
+    "b": "Không, vì giao dịch này liên quan trực tiếp đến lợi ích và trách nhiệm của em ruột CCV H.",
+    "c": "Được, nếu CCV H cam kết khách quan và trung thực.",
+    "d": "Được, nếu Công ty K có biên bản họp hội đồng thành viên đồng ý cho CCV H công chứng.",
+    "answer": "B",
+    "explanation": "Mặc dù là tài sản công ty, nhưng người em ruột là đại diện pháp luật, có quyền lợi và trách nhiệm gắn liền. Điểm c khoản 1 Điều 9 nghiêm cấm công chứng giao dịch liên quan đến lợi ích của em ruột."
+  },
+  {
+    "question": "Trong một vụ việc dân sự đang tranh chấp, Luật sư của bên nguyên đơn đến gặp CCV T (người đã công chứng hợp đồng trước đó) để yêu cầu cung cấp bản sao nội dung hợp đồng nhằm làm chứng cứ. CCV T phải làm gì để không vi phạm Điều 9?",
+    "a": "Cung cấp ngay vì Luật sư có quyền thu thập chứng cứ.",
+    "b": "Từ chối cung cấp nếu không có sự đồng ý bằng văn bản của người yêu cầu công chứng hoặc yêu cầu từ cơ quan nhà nước có thẩm quyền theo pháp luật.",
+    "c": "Cung cấp nội dung nhưng yêu cầu Luật sư trả phí bảo mật thông tin.",
+    "d": "Chỉ cho Luật sư xem qua chứ không cho sao chép.",
+    "answer": "B",
+    "explanation": "Điểm a khoản 1 Điều 9 nghiêm cấm tiết lộ thông tin nội dung công chứng trừ khi được người yêu cầu đồng ý bằng văn bản hoặc pháp luật có quy định khác (như yêu cầu từ Tòa án, Viện kiểm sát)."
+  },
+  {
+    "question": "Công chứng viên M thực hiện công chứng hợp đồng tặng cho nhà đất từ bố vợ sang cho con đẻ của mình (tức là cháu ngoại của bên tặng cho). Hành vi này vi phạm quy định nào?",
+    "a": "Vi phạm vì bố vợ là người thân thích (cha đẻ của vợ).",
+    "b": "Vi phạm vì con đẻ là người thân thích (con đẻ).",
+    "c": "Vi phạm vì liên quan đến cả bố vợ và con đẻ trong danh sách người thân thích bị cấm.",
+    "d": "Tất cả các phương án trên đều đúng.",
+    "answer": "D",
+    "explanation": "CCV M không được công chứng giao dịch liên quan đến bố vợ (cha đẻ của vợ) và con đẻ của mình. Cả hai đối tượng này đều nằm trong danh sách nghiêm cấm tại điểm c khoản 1 Điều 9."
+  },
+  {
+    "question": "Công chứng viên B phát hiện đồng nghiệp cùng Văn phòng công chứng đang thực hiện công chứng một hợp đồng cho vay có dấu hiệu lừa đảo chiếm đoạt tài sản nhưng im lặng bỏ qua. Hành vi của B có thể bị xem xét là gì?",
+    "a": "Không vi phạm vì B không trực tiếp ký hợp đồng đó.",
+    "b": "Vi phạm đạo đức nghề nghiệp và có thể bị coi là thiếu trách nhiệm trong việc nâng cao chất lượng tổ chức hành nghề ổn định (Điều 9).",
+    "c": "Hành vi đúng đắn để giữ tình đoàn kết đồng nghiệp.",
+    "d": "Chỉ vi phạm nếu B được chia tiền từ hợp đồng đó.",
+    "answer": "B",
+    "explanation": "Việc bổ sung các hành vi nghiêm cấm tại Điều 9 nhằm tăng cường trách nhiệm, ý thức của cá nhân liên quan để phát triển tổ chức hành nghề công chứng bền vững và chất lượng."
+  },{
+    "question": "Công chứng viên A có anh ruột là ông B. Ông B kết hôn với bà C. Nay bà C muốn công chứng hợp đồng tặng cho tài sản riêng của mình cho em gái ruột của bà C. Công chứng viên A có được thực hiện việc công chứng này không?",
+    "a": "Được, vì bà C và em gái bà C không có quan hệ huyết thống với Công chứng viên A.",
+    "b": "Không, vì bà C là vợ của anh ruột Công chứng viên A, thuộc diện người thân thích bị nghiêm cấm.",
+    "c": "Được, vì đây là tài sản riêng của bà C, không liên quan đến ông B.",
+    "d": "Không, vì em gái bà C là người thân thích của Công chứng viên A.",
+    "answer": "B",
+    "explanation": "Theo điểm c khoản 1 Điều 9, CCV không được công chứng giao dịch liên quan đến anh ruột, chị ruột, em ruột của vợ hoặc chồng. Ở chiều ngược lại, vợ của anh ruột (chị dâu) cũng nằm trong phạm vi kiểm soát để đảm bảo tính khách quan."
+  },
+  {
+    "question": "Vợ của Công chứng viên (CCV) K có một người em trai. Người em trai này muốn công chứng hợp đồng mua xe ô tô với một người lạ. CCV K có được thực hiện công chứng giao dịch này không?",
+    "a": "Được, vì em trai của vợ không nằm trong danh sách nghiêm cấm.",
+    "b": "Không, vì em trai của vợ là người thân thích (em ruột của vợ/chồng) thuộc diện bị nghiêm cấm.",
+    "c": "Được, nếu người vợ đồng ý bằng văn bản.",
+    "d": "Được, vì đây là giao dịch mua tài sản động sản, không phải bất động sản.",
+    "answer": "B",
+    "explanation": "Điểm c khoản 1 Điều 9 quy định rõ CCV không được công chứng giao dịch liên quan đến anh ruột, chị ruột, em ruột của vợ hoặc chồng."
+  },
+  {
+    "question": "Công chứng viên M nhận hồ sơ công chứng di chúc của bà nội vợ. Trong di chúc, bà nội vợ để lại toàn bộ di sản cho con đẻ của Công chứng viên M (cháu cố của bà). Mối quan hệ này bị cấm vì lý do nào sau đây?",
+    "a": "Bà nội vợ là người thân thích bị cấm theo quy định.",
+    "b": "Con đẻ của Công chứng viên là người có lợi ích trực tiếp trong giao dịch này.",
+    "c": "Cả a và b đều đúng.",
+    "d": "Giao dịch này không bị cấm vì bà nội vợ và CCV không có quan hệ huyết thống.",
+    "answer": "C",
+    "explanation": "CCV M vi phạm hai lỗi: Thứ nhất, bà nội của vợ thuộc danh mục người thân thích bị cấm. Thứ hai, giao dịch này mang lại lợi ích cho con đẻ (người thân thích) của chính CCV."
+  },
+  {
+    "question": "Anh ruột của chồng Công chứng viên T muốn công chứng hợp đồng thế chấp tài sản để vay vốn ngân hàng. CCV T từ chối thực hiện và yêu cầu anh này sang văn phòng khác. Việc từ chối của CCV T là:",
+    "a": "Sai, vì anh ruột của chồng không phải là người thân thích của CCV.",
+    "b": "Đúng, vì anh ruột của chồng là đối tượng bị nghiêm cấm công chứng giao dịch theo Điều 9.",
+    "c": "Sai, vì đây là giao dịch với ngân hàng, không phải giao dịch cá nhân.",
+    "d": "Đúng, nhưng chỉ khi CCV T có cổ phần trong ngân hàng đó.",
+    "answer": "B",
+    "explanation": "Luật quy định CCV không được công chứng giao dịch liên quan đến anh ruột, chị ruột, em ruột của vợ hoặc chồng. Do đó, anh ruột của chồng CCV T nằm trong danh sách cấm."
+  },
+  {
+    "question": "Công chứng viên H thực hiện công chứng hợp đồng chuyển nhượng quyền sử dụng đất giữa bên bán là mẹ nuôi của mình và bên mua là một người lạ. Giao dịch này có vi phạm Điều 9 không?",
+    "a": "Không, vì mẹ nuôi không phải mẹ đẻ nên không tính là thân thích.",
+    "b": "Có, vì mẹ nuôi là người thân thích bị nghiêm cấm theo quy định.",
+    "c": "Không, vì giao dịch này không liên quan đến tài sản của CCV H.",
+    "d": "Có, nhưng chỉ khi mẹ nuôi và CCV H sống chung một nhà.",
+    "answer": "B",
+    "explanation": "Điểm c khoản 1 Điều 9 liệt kê rõ: cha nuôi, mẹ nuôi là những người thân thích mà CCV không được thực hiện công chứng giao dịch liên quan."
+  },
+  {
+    "question": "Trong các trường hợp sau, trường hợp nào Công chứng viên được phép thực hiện công chứng mà không vi phạm Điều 9 Luật Công chứng 2024?",
+    "a": "Công chứng hợp đồng cho con dâu thuê nhà của người khác.",
+    "b": "Công chứng di chúc cho ông ngoại của vợ.",
+    "c": "Công chứng hợp đồng mua bán xe cho bạn thân của em trai ruột công chứng viên.",
+    "d": "Công chứng hợp đồng tặng cho tài sản của anh ruột vợ.",
+    "answer": "C",
+    "explanation": "Các phương án a, b, d đều liên quan đến người thân thích (con dâu, ông ngoại vợ, anh ruột vợ). Phương án c 'bạn thân' không nằm trong danh sách cấm dù là bạn của em trai."
+  },{
+    "question": "Công chứng viên A có con trai là anh B. Anh B kết hôn với chị C. Cha đẻ của chị C (ông D) muốn công chứng hợp đồng bán nhà cho một người khách lạ. Công chứng viên A có được thực hiện việc công chứng này không?",
+    "a": "Được, vì ông D là thông gia, không nằm trong danh sách người thân thích bị cấm.",
+    "b": "Không, vì ông D là cha đẻ của con dâu, thuộc diện người thân thích bị nghiêm cấm.",
+    "c": "Được, nếu anh B và chị C đã ly hôn.",
+    "d": "Không, vì ông D là bố nuôi của Công chứng viên A.",
+    "answer": "B",
+    "explanation": "Điểm c khoản 1 Điều 9 quy định CCV không được công chứng giao dịch của 'cha đẻ, mẹ đẻ... của vợ hoặc chồng của con' (tức là cha mẹ đẻ của con dâu/con rể). Do đó, cha đẻ của chị C là người thân thích bị cấm đối với CCV A."
+  },
+  {
+    "question": "Bà nội của Công chứng viên (CCV) X đã mất, để lại một căn nhà. Các con của bà (bao gồm bố đẻ của CCV X và các cô chú) đang làm văn bản thỏa thuận phân chia di sản thừa kế. CCV X có được công chứng văn bản này không?",
+    "a": "Được, vì CCV X không được hưởng thừa kế trực tiếp (thừa kế thế vị).",
+    "b": "Được, vì đây là thủ tục hành chính về thừa kế.",
+    "c": "Không, vì giao dịch này liên quan trực tiếp đến lợi ích của bố đẻ CCV X.",
+    "d": "Không, vì CCV X là người duy nhất trong gia đình có quyền ký giấy tờ pháp lý.",
+    "answer": "C",
+    "explanation": "Luật nghiêm cấm CCV công chứng giao dịch liên quan đến tài sản, lợi ích của cha đẻ, mẹ đẻ. Việc phân chia di sản của bà nội ảnh hưởng trực tiếp đến quyền lợi tài sản của bố đẻ CCV, nên CCV X phải từ chối."
+  },
+  {
+    "question": "Chị ruột của vợ Công chứng viên (CCV) H là bà Lan. Bà Lan là người đại diện theo ủy quyền của Công ty bất động sản ABC để ký hợp đồng bán đất cho khách hàng. CCV H có được công chứng hợp đồng này không?",
+    "a": "Được, vì bà Lan chỉ là người đại diện, không phải chủ sở hữu tài sản.",
+    "b": "Không, vì bà Lan là chị ruột của vợ, thuộc diện người thân thích bị nghiêm cấm.",
+    "c": "Được, vì tài sản thuộc quyền sở hữu của pháp nhân (Công ty ABC).",
+    "d": "Được, nếu CCV H không thu phí công chứng của chị vợ.",
+    "answer": "B",
+    "explanation": "Luật cấm công chứng giao dịch liên quan đến 'lợi ích' của người thân thích (anh chị em ruột của vợ/chồng). Dù là người đại diện, bà Lan vẫn có trách nhiệm và lợi ích liên quan đến việc thực hiện giao dịch, nên CCV H vẫn bị cấm để đảm bảo tính khách quan."
+  },
+  {
+    "question": "Công chứng viên (CCV) M có con nuôi là anh K. Anh K muốn công chứng hợp đồng tặng cho xe ô tô cho em ruột của CCV M (tức chú nuôi của anh K). CCV M xử lý thế nào?",
+    "a": "Được phép thực hiện vì quan hệ nuôi con không tính là thân thích huyết thống.",
+    "b": "Không được thực hiện vì anh K là con nuôi (người thân thích) và người nhận là em ruột (người thân thích).",
+    "c": "Chỉ được thực hiện nếu anh K đã trên 18 tuổi.",
+    "d": "Được thực hiện nếu có sự đồng ý của cả hai bên bằng văn bản.",
+    "answer": "B",
+    "explanation": "Điều 9 quy định cấm công chứng giao dịch liên quan đến cả 'con nuôi' và 'em ruột'. Giao dịch này vi phạm kép vì cả bên tặng và bên nhận đều là người thân thích của CCV theo luật định."
+  },
+  {
+    "question": "Ông ngoại của Công chứng viên (CCV) Y muốn công chứng văn bản từ chối nhận di sản thừa kế. CCV Y có được thực hiện không?",
+    "a": "Được, vì từ chối nhận di sản tức là không có 'lợi ích' tài sản.",
+    "b": "Không, vì ông ngoại là người thân thích và việc từ chối này ảnh hưởng đến việc dịch chuyển quyền sở hữu tài sản của người thân.",
+    "c": "Được, vì ông ngoại không nằm trong danh sách cấm tại Điều 9.",
+    "d": "Được, nếu ông ngoại cam kết không khiếu nại về sau.",
+    "answer": "B",
+    "explanation": "Điểm c khoản 1 Điều 9 liệt kê 'ông nội, bà nội, ông ngoại, bà ngoại' là người thân thích. Mọi giao dịch (kể cả từ chối) liên quan đến đối tượng này CCV đều không được thực hiện."
+  },
+  {
+    "question": "Công chứng viên A thực hiện công chứng hợp đồng chuyển nhượng đất. Bên mua là chị dâu của CCV A (vợ của anh ruột). Tuy nhiên, trong hợp đồng chị dâu ghi đây là 'tài sản riêng' không liên quan đến anh ruột của CCV A. CCV A có vi phạm luật không?",
+    "a": "Không, vì anh ruột không có tên trong hợp đồng.",
+    "b": "Có, vì chị dâu (vợ của anh ruột) vẫn nằm trong nhóm đối tượng thân thích bị giám sát tính khách quan.",
+    "c": "Không, vì tài sản riêng thì không ảnh hưởng đến quyền lợi của anh ruột.",
+    "d": "Có, vì CCV không được công chứng cho bất kỳ ai có quen biết.",
+    "answer": "B",
+    "explanation": "Dù ghi là tài sản riêng, nhưng mối quan hệ vợ chồng (chị dâu) vẫn tạo ra xung đột lợi ích tiềm ẩn với CCV (có anh ruột là chồng người đó). Theo tinh thần Điều 9, CCV phải tránh công chứng cho những người trong mối quan hệ gia đình trực hệ của anh chị em ruột."
   }
 ]
