@@ -3003,5 +3003,41 @@
     "d": "Chỉ nhắc nhở các bên",
     "answer": "B",
     "explanation": "Căn cứ Điều 9 Luật Công chứng 2024: nghiêm cấm giả mạo người yêu cầu công chứng, thực hiện hành vi gian dối khác. Giao dịch giả tạo nhằm trốn thuế là hành vi gian dối."
+  },
+{
+    "question": "Tình huống: Người yêu cầu công chứng nộp hồ sơ trực tuyến nhưng không cung cấp CCCD và cũng không đồng ý khai thác dữ liệu dân cư. CCV phải:",
+    "a": "Tiếp nhận hồ sơ bình thường",
+    "b": "Yêu cầu bổ sung giấy tờ hoặc dữ liệu xác minh",
+    "c": "Tự tìm thông tin trên mạng",
+    "d": "Cho ký cam kết thay thế",
+    "answer": "B",
+    "explanation": "Căn cứ khoản 2 Điều 42 Luật Công chứng 2024: người yêu cầu công chứng có nghĩa vụ cung cấp đầy đủ giấy tờ, tài liệu liên quan đến việc công chứng."
+  },
+  {
+    "question": "Tình huống: Công chứng viên bị xử phạt vi phạm hành chính 02 lần trong 12 tháng về hoạt động công chứng. Hậu quả pháp lý nào có thể xảy ra?",
+    "a": "Không ảnh hưởng",
+    "b": "Có thể bị miễn nhiệm",
+    "c": "Chỉ bị cảnh cáo",
+    "d": "Được tiếp tục bình thường",
+    "answer": "B",
+    "explanation": "Căn cứ điểm h khoản 2 Điều 16 Luật Công chứng 2024: công chứng viên bị miễn nhiệm nếu bị xử phạt vi phạm hành chính từ 02 lần trở lên trong thời hạn 12 tháng."
+  },
+  {
+    "question": "Tình huống: Người tập sự ký xác nhận thay khách hàng trong hồ sơ công chứng điện tử theo yêu cầu của CCV hướng dẫn. Hành vi này:",
+    "a": "Được phép nếu khách hàng đồng ý",
+    "b": "Được phép nếu có email xác nhận",
+    "c": "Vi phạm pháp luật",
+    "d": "Chỉ vi phạm nội quy văn phòng",
+    "answer": "C",
+    "explanation": "Căn cứ Điều 9 Luật Công chứng 2024: nghiêm cấm giả mạo người yêu cầu công chứng. Người tập sự không được ký thay khách hàng."
+  },
+  {
+    "question": "Tình huống: Văn phòng công chứng đã được cấp giấy đăng ký hoạt động nhưng hơn 06 tháng vẫn chưa hoạt động thực tế. Hậu quả nào có thể xảy ra?",
+    "a": "Không ảnh hưởng",
+    "b": "Chỉ bị nhắc nhở",
+    "c": "Bị thu hồi quyết định cho phép thành lập",
+    "d": "Tự động được gia hạn",
+    "answer": "C",
+    "explanation": "Căn cứ điểm c khoản 1 Điều 33 Luật Công chứng 2024: Văn phòng công chứng bị thu hồi quyết định thành lập nếu sau 06 tháng kể từ ngày được cấp giấy đăng ký hoạt động mà chưa hoạt động."
   }
 ]
