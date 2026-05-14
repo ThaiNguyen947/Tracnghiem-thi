@@ -2508,5 +2508,347 @@
     "d": "Không thuộc phạm vi điều chỉnh của QĐ 148",
     "answer": "A",
     "explanation": "Đoàn kết, giúp đỡ đồng nghiệp bảo vệ danh dự chính đáng là biểu hiện cao đẹp của đạo đức nghề nghiệp quy định tại Điều 3 và Điều 9."
+  },
+{
+    "question": "Tình huống: NYCCC yêu cầu CCV thực hiện công chứng hợp đồng ủy quyền khi NYCCC đang trong tình trạng say rượu, không làm chủ được hành vi. CCV từ chối thực hiện. NYCCC dọa sẽ kiện CCV vì 'phân biệt đối xử'. CCV xử lý thế nào cho đúng Điều 7 QĐ 148?",
+    "a": "Sợ bị kiện nên vẫn thực hiện để đảm bảo 'công bằng'",
+    "b": "Kiên trì giải thích rằng việc từ chối là để bảo vệ chính NYCCC và đảm bảo tính tự nguyện, khách quan theo quy định của pháp luật",
+    "c": "Yêu cầu NYCCC đi khám sức khỏe tâm thần ngay lập tức",
+    "d": "Gọi điện cho người thân của NYCCC đến ký thay",
+    "answer": "B",
+    "explanation": "Tính công bằng (Điều 7 QTDĐ) không đồng nghĩa với việc chấp nhận mọi yêu cầu trái luật. Từ chối khi khách hàng không đủ năng lực hành vi là bảo vệ pháp luật."
+  },
+  {
+    "question": "Tình huống: CCV hướng dẫn yêu cầu người tập sự phải thực hiện việc tư vấn pháp luật cho khách hàng theo hướng có lợi cho bên mua để VPCC thu được thù lao soạn thảo cao hơn. Hành vi này vi phạm Điều nào của QĐ 148?",
+    "a": "Vi phạm Điều 12 về trách nhiệm bồi dưỡng đạo đức và Điều 4 về tính trung thực, khách quan",
+    "b": "Không vi phạm vì đây là cách tối ưu hóa lợi nhuận văn phòng",
+    "c": "Chỉ vi phạm nếu bên bán phát hiện ra",
+    "d": "Vi phạm nghĩa vụ bảo mật thông tin tại Điều 6",
+    "answer": "A",
+    "explanation": "Dạy người tập sự làm sai lệch tính khách quan để trục lợi là vi phạm nghiêm trọng cả trách nhiệm hướng dẫn và nguyên tắc hành nghề cốt lõi."
+  },
+  {
+    "question": "Tình huống: Một NYCCC đề nghị CCV ghi ngày công chứng lùi lại 2 ngày so với thực tế để kịp nộp hồ sơ đấu giá. NYCCC hứa sẽ ủng hộ một khoản tiền lớn vào quỹ từ thiện của địa phương. CCV xử lý thế nào?",
+    "a": "Đồng ý vì mục đích của khách hàng là làm việc thiện",
+    "b": "Từ chối vì việc ghi sai thời điểm công chứng là hành vi gian dối bị nghiêm cấm tại Điều 8 QĐ 148 và Điều 9 Luật Công chứng",
+    "c": "Đồng ý nếu có văn bản xác nhận của chính quyền địa phương về việc làm từ thiện",
+    "d": "Lùi ngày nhưng không ghi số thứ tự vào sổ công chứng",
+    "answer": "B",
+    "explanation": "Hành vi làm sai lệch thời điểm công chứng là vi phạm tính trung thực, bất kể mục đích của khách hàng là gì."
+  },
+  {
+    "question": "Tình huống: Một CCV bị khách hàng đe dọa vũ lực nếu không ký công chứng một hợp đồng mua bán nhà đất không có đủ giấy tờ. CCV đã tạm thời ký nhưng sau đó lập tức báo cơ quan Công an và Hội CCV để xử lý. Việc ký trong tình trạng bị đe dọa này được xem xét như thế nào?",
+    "a": "CCV bị kỷ luật tước thẻ ngay lập tức vì đã ký hồ sơ thiếu",
+    "b": "Được xem xét là tình huống bị cưỡng bức, tuy nhiên CCV cần bình tĩnh vận dụng các biện pháp an toàn để từ chối ngay từ đầu theo nguyên tắc Độc lập (Điều 2)",
+    "c": "Đúng hoàn toàn vì bảo toàn tính mạng là trên hết",
+    "d": "Không vi phạm đạo đức nhưng vi phạm luật hành chính",
+    "answer": "B",
+    "explanation": "Nguyên tắc Độc lập (Điều 2) yêu cầu CCV không chịu áp lực từ bất kỳ ai. Trong tình huống nguy hiểm, việc báo cáo kịp thời là hành động sửa chữa đúng đắn."
+  },
+  {
+    "question": "Tình huống: Một CCV phát hiện mình có mối quan hệ họ hàng xa (không thuộc hàng thừa kế và không thuộc các trường hợp cấm của Điều 9 Luật Công chứng) với NYCCC. Để giữ gìn uy tín nghề nghiệp theo Điều 3 QĐ 148, CCV nên làm gì?",
+    "a": "Thực hiện công chứng bình thường vì luật không cấm",
+    "b": "Nên thông báo cho các bên về mối quan hệ này để đảm bảo tính minh bạch hoặc đề nghị CCV khác thực hiện nếu thấy có thể ảnh hưởng đến sự khách quan",
+    "c": "Giấu kín thông tin để tránh rắc rối",
+    "d": "Thu phí cao hơn bình thường vì là người quen",
+    "answer": "B",
+    "explanation": "Dù luật không cấm tuyệt đối, nhưng để bảo vệ uy tín (Điều 3) và tính khách quan (Điều 4), việc minh bạch thông tin là lựa chọn đạo đức tối ưu."
+  },
+  {
+    "question": "Tình huống: Theo Điều 13, khi tham gia các diễn đàn chuyên môn trên internet, một CCV phát hiện các thông tin sai lệch về quy trình công chứng đang gây hoang mang cho người dân. CCV này nên ứng xử như thế nào?",
+    "a": "Mặc kệ vì không phải trang web chính thống của Nhà nước",
+    "b": "Có trách nhiệm phản hồi, giải thích bằng ngôn ngữ chuẩn mực để lan tỏa giá trị đúng đắn của nghề",
+    "c": "Sử dụng tài khoản ảo để vào tranh cãi gay gắt với những người đăng tin",
+    "d": "Báo cáo Sở Tư pháp yêu cầu đóng cửa diễn đàn đó",
+    "answer": "B",
+    "explanation": "Điều 13 QĐ 148 quy định CCV có trách nhiệm giữ gìn hình ảnh nghề nghiệp và lan tỏa các giá trị tốt đẹp của nghề trong các hoạt động xã hội."
+  },
+  {
+    "question": "Tình huống: Một Công chứng viên (CCV) đã 71 tuổi, vẫn còn rất minh mẫn và có uy tín lớn, đề nghị được tiếp tục ký tên trên các văn bản công chứng tại Văn phòng. Theo Luật Công chứng 2024, Trưởng tổ chức hành nghề nên xử lý thế nào?",
+    "a": "Đồng ý vì CCV vẫn đủ sức khỏe và có kinh nghiệm dày dặn",
+    "b": "Từ chối vì Luật 2024 quy định độ tuổi hành nghề của CCV tối đa là 70 tuổi",
+    "c": "Đồng ý nhưng chỉ cho phép ký các hợp đồng giá trị nhỏ",
+    "d": "Đề nghị CCV đó chuyển sang làm người làm chứng để tiếp tục hỗ trợ",
+    "answer": "B",
+    "explanation": "Luật Công chứng 2024 quy định giới hạn độ tuổi hành nghề của CCV là không quá 70 tuổi nhằm đảm bảo an toàn pháp lý cho xã hội."
+  },
+  {
+    "question": "Tình huống: NYCCC yêu cầu thực hiện Công chứng điện tử nhưng lại từ chối cung cấp chữ ký số và yêu cầu CCV dùng mật khẩu cá nhân của khách hàng để ký thay. Theo quy tắc đạo đức, CCV xử lý thế nào?",
+    "a": "Đồng ý để hỗ trợ khách hàng công nghệ yếu",
+    "b": "Kiên quyết từ chối vì vi phạm nguyên tắc trực tiếp, trung thực và tính bảo mật của chữ ký điện tử",
+    "c": "Đồng ý nếu khách hàng ký giấy ủy quyền sử dụng mật khẩu",
+    "d": "Chỉ thực hiện nếu có sự chứng kiến của cán bộ công nghệ thông tin",
+    "answer": "B",
+    "explanation": "Dù là công chứng số, CCV phải đảm bảo tính tự nguyện và trực tiếp của khách hàng; ký thay trên môi trường điện tử là hành vi gian dối bị nghiêm cấm."
+  },
+  {
+    "question": "Tình huống: Một CCV phát hiện dữ liệu trên Hệ thống thông tin công chứng quốc gia về một tài sản đang bị sai lệch so với bản giấy. NYCCC yêu cầu làm ngơ để giao dịch diễn ra nhanh chóng. CCV nên làm gì theo Điều 4 QĐ 148?",
+    "a": "Làm theo dữ liệu hệ thống vì hệ thống có tính pháp lý cao hơn",
+    "b": "Tạm dừng giao dịch, thông báo sai lệch và yêu cầu xác minh để đảm bảo tính trung thực, khách quan",
+    "c": "Ký văn bản giấy nhưng không cập nhật lên hệ thống",
+    "d": "Thu thêm phí tra cứu rồi mới sửa dữ liệu",
+    "answer": "B",
+    "explanation": "Nguyên tắc trung thực (Điều 4) và trách nhiệm bảo vệ dữ liệu yêu cầu CCV không được thực hiện công chứng khi biết thông tin sai lệch."
+  },
+  {
+    "question": "Tình huống: Một doanh nghiệp cung cấp Bản sao điện tử được chứng thực từ bản chính để làm hồ sơ công chứng. CCV nghi ngờ bản số này bị can thiệp kỹ thuật (photoshop). CCV xử lý thế nào?",
+    "a": "Vẫn thực hiện vì bản điện tử đã có dấu đỏ kỹ thuật",
+    "b": "Sử dụng công cụ kiểm tra chữ ký số/mã QR hoặc yêu cầu bản giấy đối chiếu để bảo vệ an toàn pháp lý (Điều 5 QĐ 148)",
+    "c": "Từ chối ngay lập tức và mắng khách hàng là lừa đảo",
+    "d": "Ký nhưng không chịu trách nhiệm nếu sau này có tranh chấp",
+    "answer": "B",
+    "explanation": "Tận tâm và chuyên nghiệp (Điều 5) yêu cầu CCV phải kiểm tra kỹ tính xác thực của mọi loại hình hồ sơ, kể cả hồ sơ điện tử."
+  },
+  {
+    "question": "Tình huống: CCV A quảng cáo trên mạng xã hội rằng văn phòng của mình Sử dụng AI để công chứng điện tử nhanh nhất Việt Nam, cam kết không lỗi. Hành vi này vi phạm điều nào?",
+    "a": "Vi phạm quy định về quảng cáo sai sự thật và hạ thấp tính thận trọng của nghề nghiệp (Điều 14 QĐ 148)",
+    "b": "Đúng, vì đây là xu hướng công nghệ 4.0",
+    "c": "Chỉ vi phạm nếu bị các văn phòng khác khiếu nại",
+    "d": "Vi phạm nghĩa vụ bảo mật thông tin khách hàng",
+    "answer": "A",
+    "explanation": "Hành vi quảng cáo thổi phồng, gây hiểu lầm về tính chất nghề nghiệp công chứng là vi phạm đạo đức và cạnh tranh không lành mạnh."
+  },
+  {
+    "question": "Tình huống: Trong buổi tập sự, CCV hướng dẫn cho phép người tập sự sử dụng token chữ ký số của mình để ký thử vào văn bản nháp của khách hàng. Hành vi này vi phạm điều nào?",
+    "a": "Vi phạm Điều 12 về trách nhiệm hướng dẫn và quản lý token/con dấu",
+    "b": "Đúng, vì đó là cách thực hành thực tế nhất",
+    "c": "Vi phạm Điều 9 về quan hệ đồng nghiệp",
+    "d": "Chỉ vi phạm nếu văn bản đó được phát hành ra ngoài",
+    "answer": "A",
+    "explanation": "CCV phải trực tiếp quản lý phương tiện hành nghề (token, con dấu) và không được để người tập sự sử dụng trái quy định."
+  },
+  {
+    "question": "Tình huống: NYCCC đề nghị trả tiền cho CCV thông qua hình thức tiền ảo (Crypto) để tránh sự kiểm soát của văn phòng. Theo Điều 14 QĐ 148, CCV xử lý thế nào?",
+    "a": "Đồng ý nếu giá trị tiền ảo tương đương phí niêm yết",
+    "b": "Từ chối và yêu cầu thanh toán bằng tiền Việt Nam qua các hình thức hợp pháp (Tiền mặt/Chuyển khoản) và có hóa đơn",
+    "c": "Đồng ý nếu khách hàng tặng thêm 10% tiền ảo",
+    "d": "Để người tập sự nhận hộ để tránh liên lụy",
+    "answer": "B",
+    "explanation": "Thanh toán phí công chứng phải minh bạch, đúng quy định tài chính và phải được hạch toán tại tổ chức hành nghề."
+  },
+  {
+    "question": "Tình huống: Theo Luật 2024, khi thực hiện công chứng hợp đồng ủy quyền, CCV phát hiện các bên có thỏa thuận ủy quyền không hủy bỏ trái với bản chất đạo đức xã hội. CCV làm gì?",
+    "a": "Vẫn ký vì các bên tự nguyện",
+    "b": "Giải thích và từ chối vì vi phạm nguyên tắc đạo đức và trật tự công cộng (Điều 2 QĐ 148)",
+    "c": "Thu phí cao hơn vì đây là hợp đồng khó",
+    "d": "Ký nhưng ghi chú CCV không chịu trách nhiệm về nội dung ủy quyền",
+    "answer": "B",
+    "explanation": "Nguyên tắc độc lập và bảo vệ lợi ích công cộng yêu cầu CCV không được công chứng các nội dung trái đạo đức xã hội."
+  },
+  {
+    "question": "Tình huống: Một CCV phát hiện hồ sơ công chứng giấy của mình bị thất lạc nhưng trên kho dữ liệu điện tử vẫn còn. CCV tự ý in ra và đóng dấu lại để lấp liếm lỗi sai. Hành vi này vi phạm điều nào?",
+    "a": "Vi phạm tính trung thực, khách quan và quy trình lưu trữ (Điều 4 QĐ 148)",
+    "b": "Đúng, vì đây là cách khắc phục hậu quả nhanh nhất",
+    "c": "Vi phạm nghĩa vụ với Hiệp hội",
+    "d": "Chỉ vi phạm nếu khách hàng yêu cầu kiểm tra hồ sơ",
+    "answer": "A",
+    "explanation": "Mọi hành vi làm sai lệch hồ sơ hoặc tự ý khôi phục hồ sơ không đúng quy trình đều là vi phạm đạo đức trung thực."
+  },
+  {
+  "question": "Theo Điều 9 Luật Công chứng 2024, Công chứng viên (CCV) bị nghiêm cấm thực hiện công chứng giao dịch liên quan đến tài sản, lợi ích của những đối tượng nào sau đây?",
+  "a": "Chỉ vợ, chồng, con đẻ, con nuôi",
+  "b": "Vợ hoặc chồng; cha mẹ đẻ/nuôi; cha mẹ đẻ/nuôi của vợ hoặc chồng; con đẻ/nuôi/dâu/rể; ông bà nội/ngoại; anh chị em ruột; anh chị em ruột của vợ hoặc chồng; cháu nội/ngoại",
+  "c": "Bất kỳ người nào có quan hệ họ hàng trong phạm vi 3 đời",
+  "d": "Chỉ những người có tên trong cùng hộ khẩu với Công chứng viên",
+  "answer": "B",
+  "explanation": "Điểm c Khoản 1 Điều 9 liệt kê rất chi tiết danh sách người thân thích nhằm đảm bảo tính khách quan tối cao trong hành nghề công chứng."
+},
+  {
+  "question": "Văn bản công chứng có giá trị chứng cứ như thế nào theo Luật Công chứng 2024?",
+  "a": "Chỉ có giá trị khi được các bên thừa nhận tại Tòa án",
+  "b": "Những tình tiết, sự kiện trong văn bản công chứng không phải chứng minh, trừ trường hợp bị Tòa án tuyên bố là vô hiệu",
+  "c": "Cần phải có thêm người làm chứng mới có giá trị chứng cứ",
+  "d": "Có giá trị ngang bằng với các loại giấy tờ viết tay có điểm chỉ",
+  "answer": "B",
+  "explanation": "Khoản 3 Điều 6 quy định văn bản công chứng có giá trị chứng cứ mặc nhiên, các tình tiết trong đó không cần chứng minh lại trừ khi bị Tòa tuyên vô hiệu."
+},
+  {
+  "question": "Công chứng viên bị nghiêm cấm đồng thời hành nghề công chứng và các nghề nghiệp nào sau đây?",
+  "a": "Bác sĩ, giáo viên, kỹ sư",
+  "b": "Thừa phát lại, luật sư, đấu giá viên, quản tài viên, tư vấn viên pháp luật, thẩm định viên về giá",
+  "c": "Kinh doanh bất động sản ngoài giờ hành chính",
+  "d": "Tham gia các câu lạc bộ thiện nguyện",
+  "answer": "B",
+  "explanation": "Điểm h Khoản 1 Điều 9 nghiêm cấm CCV kiêm nhiệm các chức danh tư pháp và bổ trợ tư pháp khác để đảm bảo tính chuyên tâm và độc lập."
+},
+  {
+  "question": "Trường hợp người yêu cầu công chứng sử dụng ngôn ngữ của người khuyết tật thì xử lý như thế nào?",
+  "a": "Công chứng viên từ chối thực hiện vì không hiểu ngôn ngữ",
+  "b": "Người yêu cầu công chứng phải tự ký cam kết bằng tiếng Việt",
+  "c": "Phải dịch sang tiếng Việt theo quy định tại Điều 7",
+  "d": "Chỉ cần người thân của người khuyết tật xác nhận là được",
+  "answer": "C",
+  "explanation": "Điều 7 quy định tiếng nói và chữ viết dùng trong công chứng là tiếng Việt; các ngôn ngữ khác (kể cả của người khuyết tật) phải được dịch sang tiếng Việt."
+},
+  {
+  "question": "Phát biểu nào sau đây là ĐÚNG về hành vi quảng cáo trong Luật Công chứng 2024?",
+  "a": "Văn phòng công chứng được quảng cáo trên truyền hình vào giờ vàng",
+  "b": "Nghiêm cấm CCV và tổ chức hành nghề công chứng quảng cáo trên phương tiện thông tin đại chúng",
+  "c": "Được quảng cáo nếu có sự đồng ý của Sở Tư pháp",
+  "d": "Được quảng cáo nhưng không được nhắc đến tên Công chứng viên",
+  "answer": "B",
+  "explanation": "Điểm g Khoản 1 Điều 9 nghiêm cấm quảng cáo trên phương tiện thông tin đại chúng vì công chứng là dịch vụ công đặc thù, không mang tính thương mại thuần túy."
+},
+  {
+    "question": "Tình huống: Một khách hàng cũ quay lại cảm ơn CCV bằng cách cung cấp thông tin mật về kế hoạch quy hoạch đất đai sắp tới. Theo Điều 6 QĐ 148, CCV nên làm gì?",
+    "a": "Dùng thông tin đó để đầu tư bất động sản làm giàu cho văn phòng",
+    "b": "Từ chối lợi ích từ thông tin này để đảm bảo tính liêm chính và trung thực (Điều 8, Điều 14)",
+    "c": "Bán thông tin cho các khách hàng khác của văn phòng",
+    "d": "Chia sẻ cho đồng nghiệp cùng biết để giúp đỡ nhau",
+    "answer": "B",
+    "explanation": "Lợi dụng thông tin có được từ hoạt động nghề nghiệp để trục lợi cá nhân là hành vi bị nghiêm cấm tuyệt đối trong đạo đức công chứng."
+    },
+  {
+    "question": "Theo Luật Công chứng 2024, công chứng là gì?",
+    "a": "Hoạt động xác nhận chữ ký của UBND cấp xã",
+    "b": "Dịch vụ công do công chứng viên thực hiện để chứng nhận tính xác thực, hợp pháp của giao dịch",
+    "c": "Hoạt động tư vấn pháp luật của luật sư",
+    "d": "Hoạt động đăng ký tài sản tại cơ quan nhà nước",
+    "answer": "B",
+    "explanation": "Điều 2 Luật Công chứng 2024 quy định công chứng là dịch vụ công do công chứng viên thực hiện nhằm chứng nhận tính xác thực, hợp pháp của giao dịch."
+  },
+  {
+    "question": "Nguyên tắc hành nghề công chứng nào sau đây được quy định trong Luật Công chứng 2024?",
+    "a": "Linh hoạt theo yêu cầu khách hàng",
+    "b": "Ưu tiên lợi ích tổ chức hành nghề công chứng",
+    "c": "Khách quan, trung thực",
+    "d": "Được phép bỏ qua thủ tục trong trường hợp khẩn cấp",
+    "answer": "C",
+    "explanation": "Điều 5 quy định nguyên tắc hành nghề công chứng gồm tuân thủ pháp luật, khách quan, trung thực và chịu trách nhiệm trước pháp luật."
+  },
+  {
+    "question": "Văn bản công chứng có hiệu lực kể từ thời điểm nào?",
+    "a": "Khi người yêu cầu công chứng nộp phí",
+    "b": "Khi Sở Tư pháp phê duyệt",
+    "c": "Khi được công chứng viên ký và tổ chức hành nghề công chứng đóng dấu",
+    "d": "Sau 03 ngày kể từ ngày ký",
+    "answer": "C",
+    "explanation": "Theo Điều 6, văn bản công chứng có hiệu lực kể từ thời điểm được công chứng viên ký và tổ chức hành nghề công chứng đóng dấu."
+  },
+  {
+    "question": "Hành vi nào sau đây bị nghiêm cấm đối với công chứng viên?",
+    "a": "Giải thích hậu quả pháp lý cho người yêu cầu công chứng",
+    "b": "Từ chối công chứng giao dịch vi phạm pháp luật",
+    "c": "Tiết lộ thông tin về nội dung công chứng trái quy định",
+    "d": "Yêu cầu xuất trình giấy tờ tùy thân",
+    "answer": "C",
+    "explanation": "Điều 9 nghiêm cấm công chứng viên tiết lộ thông tin về nội dung công chứng trái quy định."
+  },
+  {
+    "question": "Người có bằng cử nhân luật muốn được bổ nhiệm công chứng viên phải có thời gian công tác pháp luật tối thiểu bao lâu?",
+    "a": "01 năm",
+    "b": "02 năm",
+    "c": "03 năm",
+    "d": "05 năm",
+    "answer": "C",
+    "explanation": "Điều 10 quy định người được xem xét bổ nhiệm công chứng viên phải có thời gian công tác pháp luật từ đủ 03 năm trở lên."
+  },
+  {
+    "question": "Thời gian đào tạo nghề công chứng thông thường là bao lâu?",
+    "a": "03 tháng",
+    "b": "06 tháng",
+    "c": "09 tháng",
+    "d": "12 tháng",
+    "answer": "D",
+    "explanation": "Theo Điều 11, thời gian đào tạo nghề công chứng là 12 tháng, trừ các trường hợp được đào tạo 06 tháng."
+  },
+  {
+    "question": "Một công chứng viên tại cùng một thời điểm được hướng dẫn tối đa bao nhiêu người tập sự?",
+    "a": "01 người",
+    "b": "02 người",
+    "c": "03 người",
+    "d": "Không giới hạn",
+    "answer": "B",
+    "explanation": "Điều 12 quy định tại cùng một thời điểm, 01 công chứng viên chỉ được hướng dẫn tối đa 02 người tập sự."
+  },
+  {
+    "question": "Công chứng viên bị tạm đình chỉ hành nghề trong trường hợp nào sau đây?",
+    "a": "Bị khiển trách nội bộ",
+    "b": "Đang bị truy cứu trách nhiệm hình sự",
+    "c": "Đổi nơi cư trú",
+    "d": "Nghỉ phép dài hạn",
+    "answer": "B",
+    "explanation": "Điều 15 quy định công chứng viên bị tạm đình chỉ hành nghề khi bị truy cứu trách nhiệm hình sự."
+  },
+  {
+    "question": "Công chứng viên có nghĩa vụ nào sau đây?",
+    "a": "Được quyền công chứng mọi giao dịch",
+    "b": "Giữ bí mật về nội dung công chứng",
+    "c": "Được mở nhiều văn phòng công chứng cùng lúc",
+    "d": "Được hành nghề tại nhiều tổ chức hành nghề công chứng",
+    "answer": "B",
+    "explanation": "Theo Điều 18, công chứng viên có nghĩa vụ giữ bí mật về nội dung công chứng."
+  },
+  {
+    "question": "Tổ chức hành nghề công chứng bao gồm:",
+    "a": "Phòng công chứng và Văn phòng công chứng",
+    "b": "Chỉ có Văn phòng công chứng",
+    "c": "Chỉ có Phòng công chứng",
+    "d": "UBND cấp xã và Phòng công chứng",
+    "answer": "A",
+    "explanation": "Điều 19 quy định tổ chức hành nghề công chứng bao gồm Phòng công chứng và Văn phòng công chứng."
+  },
+  {
+    "question": "Tên của Văn phòng công chứng phải bao gồm cụm từ nào?",
+    "a": "Công chứng quốc gia",
+    "b": "Văn phòng pháp lý",
+    "c": "Văn phòng công chứng",
+    "d": "Trung tâm công chứng",
+    "answer": "C",
+    "explanation": "Điều 23 quy định tên của Văn phòng công chứng phải bao gồm cụm từ 'Văn phòng công chứng'."
+  },
+  {
+    "question": "Sau khi được cấp quyết định cho phép thành lập, Văn phòng công chứng phải đăng ký hoạt động trong thời hạn bao lâu?",
+    "a": "30 ngày",
+    "b": "60 ngày",
+    "c": "90 ngày",
+    "d": "120 ngày",
+    "answer": "C",
+    "explanation": "Theo Điều 25, Văn phòng công chứng phải đăng ký hoạt động trong thời hạn 90 ngày."
+  },
+  {
+    "question": "Bảo hiểm trách nhiệm nghề nghiệp của công chứng viên là loại bảo hiểm gì?",
+    "a": "Tự nguyện",
+    "b": "Khuyến khích",
+    "c": "Bắt buộc",
+    "d": "Không cần thiết",
+    "answer": "C",
+    "explanation": "Điều 39 quy định bảo hiểm trách nhiệm nghề nghiệp của công chứng viên là loại hình bảo hiểm bắt buộc."
+  },
+  {
+    "question": "Tình huống: Ông A yêu cầu công chứng hợp đồng ủy quyền bán nhà cho em ruột. Qua trao đổi, CCV phát hiện ông A không biết đọc, không biết viết nhưng hoàn toàn minh mẫn. Cách xử lý phù hợp nhất là:",
+    "a": "Từ chối công chứng vì không biết chữ",
+    "b": "Yêu cầu người thân ký thay",
+    "c": "Thực hiện công chứng với thủ tục điểm chỉ và người làm chứng theo quy định",
+    "d": "Cho nhân viên văn phòng ký xác nhận hộ",
+    "answer": "C",
+    "explanation": "Căn cứ khoản 2 Điều 49 Luật Công chứng 2024: trường hợp người yêu cầu công chứng không đọc được, không nghe được, không ký được hoặc không điểm chỉ được thì phải có người làm chứng theo quy định."
+  },
+  {
+    "question": "Tình huống: Một CCV công chứng hợp đồng chuyển nhượng đất cho cha ruột của mình tại chính Văn phòng công chứng nơi mình hành nghề. Hành vi này:",
+    "a": "Được phép vì đúng thẩm quyền",
+    "b": "Được phép nếu có CCV khác ký cùng",
+    "c": "Vi phạm quy định về trường hợp không được công chứng",
+    "d": "Chỉ vi phạm đạo đức nghề nghiệp",
+    "answer": "C",
+    "explanation": "Căn cứ điểm c khoản 1 Điều 9 Luật Công chứng 2024: CCV không được công chứng hợp đồng, giao dịch liên quan đến tài sản, lợi ích của bản thân hoặc người thân thích của mình."
+  },
+  {
+    "question": "Tình huống: Sau khi văn bản công chứng đã được ký và đóng dấu, CCV phát hiện sai sót kỹ thuật ở số CCCD của một bên tham gia giao dịch. Theo luật, cách xử lý phù hợp nhất là:",
+    "a": "Âm thầm sửa trực tiếp trên bản chính",
+    "b": "Thu hồi toàn bộ hồ sơ rồi ký lại từ đầu",
+    "c": "Thực hiện thủ tục sửa lỗi kỹ thuật theo quy định",
+    "d": "Để khách hàng tự sửa bằng bút",
+    "answer": "C",
+    "explanation": "Căn cứ Điều 52 Luật Công chứng 2024: lỗi kỹ thuật trong văn bản công chứng được xử lý bằng thủ tục sửa lỗi kỹ thuật và phải có xác nhận của tổ chức hành nghề công chứng."
+  },
+  {
+    "question": "Tình huống: Người yêu cầu công chứng đề nghị CCV xác nhận hợp đồng mua bán đất dù biết rõ đất chưa được cấp giấy chứng nhận quyền sử dụng đất. CCV nên:",
+    "a": "Vẫn công chứng nếu các bên tự nguyện",
+    "b": "Chỉ cần ghi rõ tình trạng chưa có sổ",
+    "c": "Từ chối công chứng vì giao dịch chưa đủ điều kiện",
+    "d": "Công chứng nếu bên mua chấp nhận rủi ro",
+    "answer": "C",
+    "explanation": "Căn cứ khoản 2 Điều 42 Luật Công chứng 2024: CCV có quyền từ chối công chứng nếu giao dịch không đủ điều kiện thực hiện theo quy định pháp luật."
   }
 ]
