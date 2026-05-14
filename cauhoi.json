@@ -3559,5 +3559,249 @@
     "d": "Chỉ bị cấm nếu doanh nghiệp đó kinh doanh bất hợp pháp.",
     "answer": "B",
     "explanation": "Điểm h khoản 1 Điều 9 nghiêm cấm CCV tham gia công việc mà thường xuyên phải làm việc trong giờ hành chính tại các cơ quan, tổ chức khác ngoài tổ chức hành nghề công chứng."
+  },
+  {
+    "question": "Văn phòng công chứng (VPCC) A thuê một căn hộ chung cư cách trụ sở 2km để làm nơi chuyên tiếp nhận hồ sơ và tư vấn cho khách hàng nhằm giảm tải cho trụ sở chính. Hành vi này bị xử lý như thế nào?",
+    "a": "Được phép nếu căn hộ đó có biển hiệu của VPCC A.",
+    "b": "Bị nghiêm cấm vì tổ chức hành nghề công chứng không được mở cơ sở, địa điểm giao dịch khác ngoài trụ sở.",
+    "c": "Được phép nếu đã thông báo cho Sở Tư pháp.",
+    "d": "Chỉ bị cấm nếu tại đó có thực hiện việc ký và đóng dấu công chứng.",
+    "answer": "B",
+    "explanation": "Điểm b khoản 2 Điều 9 nghiêm cấm tổ chức hành nghề công chứng mở chi nhánh, văn phòng đại diện, cơ sở, địa điểm giao dịch khác ngoài trụ sở."
+  },
+  {
+    "question": "Trong thời gian Công chứng viên (CCV) X bị tạm đình chỉ hành nghề 03 tháng, Trưởng Văn phòng công chứng vẫn để CCV X tiếp tục ký các văn bản chứng thực bản sao để 'phục vụ' khách hàng quen. Hành vi của Văn phòng công chứng này vi phạm điểm nào?",
+    "a": "Điểm a khoản 2 (Vi phạm quy định về quảng cáo).",
+    "b": "Điểm c khoản 2 (Cho CCV đang bị tạm đình chỉ hành nghề thực hiện việc công chứng, chứng thực tại tổ chức mình).",
+    "c": "Điểm d khoản 2 (Thực hiện công chứng khi bị thu hồi quyết định thành lập).",
+    "d": "Không vi phạm vì chứng thực bản sao không phải là hành nghề công chứng.",
+    "answer": "B",
+    "explanation": "Khoản 2 Điều 9 nghiêm cấm tổ chức hành nghề công chứng cho CCV đang bị tạm đình chỉ hành nghề thực hiện cả việc công chứng lẫn chứng thực."
+  },
+  {
+    "question": "Một Công ty Luật đặt tên là 'Công ty Luật và Dịch vụ Công chứng ABC' và treo biển quảng cáo hỗ trợ dịch vụ công chứng tại trụ sở. Theo Luật Công chứng 2024, hành vi này bị nghiêm cấm đối với:",
+    "a": "Công chứng viên làm việc tại công ty đó.",
+    "b": "Chỉ các tổ chức hành nghề công chứng chính thống.",
+    "c": "Cá nhân không phải là CCV, tổ chức không phải là tổ chức hành nghề công chứng.",
+    "d": "Khách hàng sử dụng dịch vụ của công ty đó.",
+    "answer": "C",
+    "explanation": "Điểm đ khoản 3 Điều 9 nghiêm cấm cá nhân, tổ chức không phải tổ chức hành nghề công chứng đặt tên hoặc quảng cáo có nội dung gây nhầm lẫn với dịch vụ công chứng."
+  },
+  {
+    "question": "Tình huống: Ông M thuê một người đóng giả vợ mình để đến VPCC ký hợp đồng bán nhà nhằm chiếm đoạt tiền một mình. Hành vi của ông M và người đóng giả bị nghiêm cấm theo điểm nào?",
+    "a": "Giả mạo người yêu cầu công chứng.",
+    "b": "Cung cấp thông tin tài liệu sai sự thật.",
+    "c": "Có hành vi gian dối, không trung thực trong quá trình yêu cầu công chứng.",
+    "d": "Tất cả các phương án trên.",
+    "answer": "D",
+    "explanation": "Hành vi này vi phạm đồng thời các điểm a, b, c của khoản 3 Điều 9 về việc giả mạo người yêu cầu, cung cấp thông tin sai sự thật và gian dối trong công chứng."
+  },
+  {
+    "question": "Một doanh nghiệp bất động sản thỏa thuận 'liên kết' với một VPCC để đầu tư vốn, cùng vận hành và chia lợi nhuận trực tiếp từ doanh thu công chứng. Hành vi của doanh nghiệp này bị nghiêm cấm theo quy định nào?",
+    "a": "Cản trở hoạt động công chứng.",
+    "b": "Đầu tư toàn bộ, góp vốn, liên kết chia lợi nhuận trong hoạt động công chứng của tổ chức không phải tổ chức hành nghề công chứng.",
+    "c": "Sách nhiễu người yêu cầu công chứng.",
+    "d": "Không vi phạm nếu doanh nghiệp có giấy phép kinh doanh đa ngành.",
+    "answer": "B",
+    "explanation": "Điểm đ khoản 3 Điều 9 nghiêm cấm cá nhân, tổ chức không phải tổ chức hành nghề công chứng thực hiện việc đầu tư, góp vốn, liên kết chia lợi nhuận trong hoạt động công chứng."
+  },
+  {
+    "question": "Bà K mang một bằng đại học bị tẩy xóa ngày tháng năm sinh đến yêu cầu công chứng bản sao để nộp hồ sơ xin việc. Hành vi này của bà K bị nghiêm cấm theo điểm nào?",
+    "a": "Tiết lộ thông tin công chứng.",
+    "b": "Sử dụng giấy tờ bị tẩy xóa, sửa chữa trái pháp luật để yêu cầu công chứng.",
+    "c": "Từ chối cung cấp tài liệu phục vụ việc công chứng.",
+    "d": "Giả mạo người làm chứng.",
+    "answer": "B",
+    "explanation": "Điểm b khoản 3 Điều 9 nghiêm cấm việc sử dụng giấy tờ, văn bản bị tẩy xóa, sửa chữa trái pháp luật để yêu cầu công chứng."
+  },
+  {
+    "question": "Cơ quan đăng ký đất đai từ chối thực hiện thủ tục sang tên sổ đỏ cho khách hàng với lý do 'văn bản công chứng có sai sót' nhưng không chỉ ra được căn cứ pháp lý cụ thể. Hành vi từ chối này bị nghiêm cấm theo điểm nào?",
+    "a": "Điểm c khoản 3 đ9 lcc (Hành vi gian dối).",
+    "b": "Điểm d khoản 3 đ9 lcc (Từ chối thực hiện thủ tục pháp lý liên quan đến giao dịch được công chứng mà không có căn cứ pháp lý).",
+    "c": "Điểm b khoản 3 đ9 lcc(Cung cấp tài liệu sai sự thật).",
+    "d": "Không bị nghiêm cấm vì đây là quyền của cơ quan nhà nước.",
+    "answer": "B",
+    "explanation": "Luật Công chứng 2024 bổ sung hành vi nghiêm cấm đối với tổ chức, cá nhân từ chối thực hiện thủ tục pháp lý liên quan đến giao dịch đã công chứng mà không có căn cứ (điểm d khoản 3 đ9 lcc)."
+  },
+{
+    "question": "Theo Khoản 2 Điều 9, Tổ chức hành nghề công chứng bị nghiêm cấm thực hiện những hành vi nào đã được quy định đối với Công chứng viên?",
+    "a": "Chỉ các hành vi về tiết lộ thông tin và công chứng cho người thân.",
+    "b": "Các hành vi quy định tại các điểm a, b, d, đ, e, g, i và l khoản 1 Điều 9.",
+    "c": "Tất cả các hành vi mà Công chứng viên bị nghiêm cấm.",
+    "d": "Chỉ các hành vi liên quan đến việc thu phí và giá dịch vụ.",
+    "answer": "B",
+    "explanation": "Khoản 2 Điều 9 quy định tổ chức hành nghề công chứng cũng bị nghiêm cấm thực hiện các hành vi tương tự CCV tại các điểm cụ thể: a, b, d, đ, e, g, i và l của khoản 1."
+  },
+  {
+    "question": "Tổ chức hành nghề công chứng có được phép mở văn phòng đại diện để tiếp nhận hồ sơ công chứng không?",
+    "a": "Được phép nếu văn phòng đại diện nằm trong cùng một tỉnh/thành phố.",
+    "b": "Được phép nếu văn phòng đại diện chỉ làm nhiệm vụ tư vấn, không ký tên.",
+    "c": "Nghiêm cấm mở chi nhánh, văn phòng đại diện, cơ sở, địa điểm giao dịch khác ngoài trụ sở.",
+    "d": "Được phép nếu đã đăng ký hoạt động với cơ quan thuế.",
+    "answer": "C",
+    "explanation": "Điểm b khoản 2 Điều 9 quy định nghiêm cấm tổ chức hành nghề công chứng mở bất kỳ hình thức chi nhánh hay địa điểm giao dịch nào ngoài trụ sở chính."
+  },
+  {
+    "question": "Đối với cá nhân, tổ chức không phải là Công chứng viên hay Tổ chức hành nghề công chứng, hành vi nào sau đây về tên gọi bị nghiêm cấm?",
+    "a": "Đặt tên tổ chức có chứa từ 'Pháp luật'.",
+    "b": "Đặt tên gây nhầm lẫn với dịch vụ công chứng hoặc có nội dung cung cấp dịch vụ công chứng.",
+    "c": "Đặt tên trùng với tên của các Công chứng viên nổi tiếng.",
+    "d": "Sử dụng tên tiếng Anh trong giao dịch dân sự.",
+    "answer": "B",
+    "explanation": "Điểm đ khoản 3 Điều 9 nghiêm cấm việc đặt tên tổ chức, doanh nghiệp... hoặc quảng cáo có nội dung gây nhầm lẫn với dịch vụ công chứng khi không phải là tổ chức hành nghề công chứng."
+  },
+  {
+    "question": "Hành vi nào sau đây bị nghiêm cấm đối với người phiên dịch trong quá trình thực hiện công chứng?",
+    "a": "Thu phí phiên dịch cao hơn thị trường.",
+    "b": "Phiên dịch quá chậm làm kéo dài thời gian công chứng.",
+    "c": "Có hành vi gian dối, không trung thực trong quá trình phiên dịch.",
+    "d": "Sử dụng từ ngữ địa phương khi phiên dịch.",
+    "answer": "C",
+    "explanation": "Điểm c khoản 3 Điều 9 nghiêm cấm cá nhân có hành vi gian dối, không trung thực trong quá trình yêu cầu công chứng, làm chứng hoặc phiên dịch."
+  },
+  {
+    "question": "Luật Công chứng 2024 nghiêm cấm tổ chức, cá nhân thực hiện hành vi nào sau đây để ngăn cản việc thực hiện quyền dân sự của người dân?",
+    "a": "Yêu cầu người dân cung cấp bản gốc để đối chiếu.",
+    "b": "Từ chối cung cấp thông tin phục vụ việc công chứng khi được yêu cầu đúng luật.",
+    "c": "Từ chối thực hiện thủ tục pháp lý liên quan đến giao dịch được công chứng mà không có căn cứ pháp lý.",
+    "d": "Cả b và c đều đúng.",
+    "answer": "D",
+    "explanation": "Điểm d khoản 3 Điều 9 nghiêm cấm hành vi cản trở hoạt động công chứng, từ chối cung cấp thông tin hoặc từ chối thực hiện các thủ tục tiếp theo sau công chứng mà không có căn cứ pháp lý."
+  },
+  {
+    "question": "Hành vi cung cấp thông tin, tài liệu sai sự thật hoặc sử dụng giấy tờ giả mạo để yêu cầu công chứng bị nghiêm cấm đối với đối tượng nào?",
+    "a": "Chỉ đối với người yêu cầu công chứng.",
+    "b": "Đối với mọi cá nhân, tổ chức liên quan đến hoạt động công chứng.",
+    "c": "Chỉ đối với Công chứng viên.",
+    "d": "Chỉ đối với những người làm chứng trong hợp đồng.",
+    "answer": "B",
+    "explanation": "Khoản 3 Điều 9 áp dụng cho tất cả cá nhân, tổ chức liên quan, nghiêm cấm các hành vi giả mạo, cung cấp thông tin sai sự thật hoặc sử dụng giấy tờ giả."
+  },
+  {
+    "question": "Hành vi 'tiết lộ hoặc sử dụng thông tin mà mình biết được trong hoạt động công chứng' bị nghiêm cấm đối với ai?",
+    "a": "Chỉ Công chứng viên và nhân viên văn phòng công chứng.",
+    "b": "Mọi cá nhân, tổ chức biết được thông tin đó trong hoạt động công chứng theo quy định.",
+    "c": "Chỉ người yêu cầu công chứng.",
+    "d": "Chỉ các cơ quan quản lý nhà nước về công chứng.",
+    "answer": "B",
+    "explanation": "Điểm b khoản 3 Điều 9 mở rộng phạm vi nghiêm cấm đối với bất kỳ cá nhân, tổ chức nào tiết lộ hoặc sử dụng trái phép thông tin biết được từ hoạt động công chứng."
+  },
+{
+    "question": "Văn phòng công chứng (VPCC) X bị cơ quan chức năng phát hiện đang cho phép một người đã hết hạn thẻ Công chứng viên tạm thời ký các văn bản chứng thực. Theo lý thuyết, VPCC X đã vi phạm hành vi bị nghiêm cấm nào tại Khoản 2 Điều 9?",
+    "a": "Mở địa điểm giao dịch khác ngoài trụ sở.",
+    "b": "Cho người không đủ điều kiện hành nghề công chứng thực hiện việc công chứng, chứng thực tại tổ chức mình.",
+    "c": "Cấu kết làm sai lệch nội dung hồ sơ công chứng.",
+    "d": "Sách nhiễu, gây khó khăn cho người yêu cầu công chứng.",
+    "answer": "B",
+    "explanation": "Điểm c khoản 2 Điều 9 nghiêm cấm tổ chức hành nghề công chứng cho người không đủ điều kiện (hết hạn thẻ, chưa được bổ nhiệm...) thực hiện công chứng, chứng thực."
+  },
+  {
+    "question": "Bà An sử dụng sổ đỏ giả để yêu cầu công chứng hợp đồng thế chấp. Công chứng viên phát hiện và từ chối. Bà An sau đó đã đe dọa và gây rối tại trụ sở Văn phòng. Hành vi gây rối này của bà An vi phạm điểm nào về lý thuyết tại Khoản 3 Điều 9?",
+    "a": "Tiết lộ thông tin nội dung công chứng.",
+    "b": "Cung cấp thông tin tài liệu sai sự thật.",
+    "c": "Cản trở hoạt động công chứng.",
+    "d": "Giả mạo người làm chứng.",
+    "answer": "C",
+    "explanation": "Hành vi sử dụng giấy tờ giả của bà An vi phạm điểm b, nhưng hành vi đe dọa và gây rối cụ thể vi phạm điểm d khoản 3 Điều 9 về 'Cản trở hoạt động công chứng'."
+  },
+  {
+    "question": "Công ty địa ốc K không phải tổ chức hành nghề công chứng nhưng lại treo biển 'Điểm tiếp nhận và hỗ trợ dịch vụ công chứng nhanh'. Xét về lý thuyết, công ty K đang vi phạm nhóm hành vi nào dành cho cá nhân, tổ chức không phải CCV?",
+    "a": "Thực hiện hành vi quảng cáo có nội dung dịch vụ gây nhầm lẫn với dịch vụ công chứng.",
+    "b": "Cung cấp tài liệu sai sự thật.",
+    "c": "Từ chối cung cấp thông tin phục vụ việc công chứng.",
+    "d": "Cấu kết làm sai lệch nội dung hồ sơ.",
+    "answer": "A",
+    "explanation": "Điểm đ khoản 3 Điều 9 nghiêm cấm các tổ chức không phải VPCC thực hiện quảng cáo hoặc đặt tên gây nhầm lẫn với dịch vụ công chứng."
+  },
+  {
+    "question": "Một người yêu cầu công chứng đưa thông tin sai sự thật về tình trạng hôn nhân để được ký hợp đồng bán tài sản riêng. Về mặt lý thuyết, hành vi 'không trung thực' này được quy định cụ thể tại điểm nào của Khoản 3 Điều 9?",
+    "a": "Điểm a (Giả mạo người yêu cầu).",
+    "b": "Điểm b (Sử dụng giấy tờ bị tẩy xóa).",
+    "c": "Điểm c (Có hành vi gian dối, không trung thực trong quá trình yêu cầu công chứng).",
+    "d": "Điểm đ (Cung cấp dịch vụ công chứng trái phép).",
+    "answer": "C",
+    "explanation": "Điểm c khoản 3 Điều 9 nhấn mạnh hành vi gian dối, không trung thực của cá nhân, tổ chức trong suốt quá trình yêu cầu công chứng."
+  },
+  {
+    "question": "Tình huống: Sở Tài nguyên và Môi trường từ chối cung cấp thông tin về tình trạng ngăn chặn của một thửa đất khi Công chứng viên gửi văn bản yêu cầu phối hợp. Theo Luật 2024, hành vi này của Sở vi phạm quy định lý thuyết nào?",
+    "a": "Cản trở hoạt động công chứng.",
+    "b": "Tiết lộ thông tin công chứng trái phép.",
+    "c": "Từ chối cung cấp thông tin, tài liệu phục vụ việc công chứng trái quy định của pháp luật.",
+    "d": "Cả a và c đều đúng.",
+    "answer": "D",
+    "explanation": "Điểm d khoản 3 Điều 9 nghiêm cấm việc cản trở hoạt động công chứng và từ chối cung cấp thông tin phục vụ công chứng trái pháp luật."
+  },
+  {
+    "question": "Văn phòng công chứng (VPCC) Z bị thu hồi quyết định thành lập do vi phạm nghiêm trọng. Tuy nhiên, trong thời gian chờ bàn giao, Trưởng Văn phòng vẫn chỉ đạo CCV ký nốt các hợp đồng đã nhận tiền cọc của khách. Hành vi này vi phạm quy định lý thuyết nào?",
+    "a": "Điểm b khoản 2 (Mở địa điểm giao dịch ngoài trụ sở).",
+    "b": "Điểm d khoản 2 (Cho CCV thực hiện công chứng khi tổ chức hành nghề công chứng bị thu hồi quyết định cho phép thành lập).",
+    "c": "Điểm c khoản 2 (Cho người không đủ điều kiện hành nghề công chứng thực hiện).",
+    "d": "Điểm a khoản 2 (Vi phạm các điểm tại khoản 1).",
+    "answer": "B",
+    "explanation": "Đây là quy định tại điểm d khoản 2 Điều 9, nhằm ngăn chặn việc các tổ chức đã bị giải thể/thu hồi giấy phép vẫn tiếp tục hoạt động trái phép."
+  },
+  {
+    "question": "Một chuyên gia tư vấn pháp luật độc lập thỏa thuận với một cá nhân để 'góp vốn ngầm' vào một Văn phòng công chứng và hưởng 20% lợi nhuận hàng tháng. Hành vi này của chuyên gia bị nghiêm cấm theo điểm nào của Khoản 3 Điều 9?",
+    "a": "Điểm c (Gian dối không trung thực).",
+    "b": "Điểm đ (Đầu tư toàn bộ, góp vốn, liên kết, hợp tác chia lợi nhuận trong hoạt động công chứng).",
+    "c": "Điểm b (Tiết lộ thông tin công chứng).",
+    "d": "Điểm d (Cản trở hoạt động công chứng).",
+    "answer": "B",
+    "explanation": "Theo điểm đ khoản 3 Điều 9, cá nhân không phải CCV bị nghiêm cấm góp vốn, hợp tác chia lợi nhuận trong hoạt động công chứng dưới mọi hình thức."
+  },
+{
+    "question": "Công chứng viên (CCV) A là thành viên hợp danh của VPCC X. Vợ của CCV A góp 30% vốn thành lập một Công ty bất động sản. Khi Công ty này mang hợp đồng đến VPCC X để công chứng, CCV A đã để một đồng nghiệp khác (CCV B) ký tên nhằm đúng quy định. Tuy nhiên, hồ sơ này lại được thực hiện tại một phòng làm việc riêng mà VPCC X thuê thêm ở tầng trên của tòa nhà. Những vi phạm nào đã xảy ra?",
+    "a": "Chỉ vi phạm về địa điểm giao dịch ngoài trụ sở (Điểm b Khoản 2).",
+    "b": "Vi phạm về địa điểm ngoài trụ sở và vi phạm về đầu tư vốn của người thân CCV (Điểm l Khoản 1).",
+    "c": "Vi phạm về địa điểm ngoài trụ sở và vi phạm về hành vi của tổ chức (Điểm a, b Khoản 2).",
+    "d": "Tất cả các phương án trên đều đúng.",
+    "answer": "D",
+    "explanation": "Tình huống này vi phạm kép: VPCC mở địa điểm ngoài trụ sở (Khoản 2) và thực hiện giao dịch liên quan đến lợi ích của người thân thích CCV thông qua việc góp vốn đầu tư (Khoản 1)."
+  },
+  {
+    "question": "Ông K là một đại gia bất động sản, ông bỏ tiền mua toàn bộ trang thiết bị và trả lương cho nhân viên của VPCC Y, đổi lại VPCC Y phải trích 50% doanh thu hàng tháng cho ông K dưới danh nghĩa 'phí tư vấn mặt bằng'. Hành vi của ông K bị nghiêm cấm theo điểm nào?",
+    "a": "Điểm b Khoản 3 (Cung cấp thông tin sai sự thật).",
+    "b": "Điểm đ Khoản 3 (Cá nhân không phải CCV đầu tư toàn bộ, góp vốn, hợp tác chia lợi nhuận trong hoạt động công chứng).",
+    "c": "Điểm d Khoản 3 (Cản trở hoạt động công chứng).",
+    "d": "Không vi phạm vì đây là giao dịch dân sự tự nguyện giữa ông K và Văn phòng.",
+    "answer": "B",
+    "explanation": "Luật cấm tuyệt đối cá nhân không phải CCV đầu tư hoặc góp vốn chia lợi nhuận từ hoạt động công chứng để đảm bảo tính độc lập và khách quan của nghề nghiệp."
+  },
+  {
+    "question": "Một người yêu cầu công chứng mang theo một người phiên dịch đến. CCV phát hiện người phiên dịch này cố tình dịch sai ý chí của người yêu cầu (là người nước ngoài) để hướng tới việc ký kết hợp đồng có lợi cho bên còn lại. Hành vi của người phiên dịch vi phạm điểm nào?",
+    "a": "Điểm a Khoản 3 (Giả mạo người phiên dịch).",
+    "b": "Điểm c Khoản 3 (Có hành vi gian dối, không trung thực trong quá trình phiên dịch).",
+    "c": "Điểm b Khoản 3 (Tiết lộ thông tin công chứng).",
+    "d": "Điểm d Khoản 3 (Từ chối cung cấp tài liệu).",
+    "answer": "B",
+    "explanation": "Hành vi cố tình dịch sai lệch ý chí của các bên trong quá trình công chứng là hành vi gian dối, không trung thực, bị nghiêm cấm tại điểm c khoản 3 Điều 9."
+  },
+  {
+    "question": "Văn phòng công chứng (VPCC) Z bị phát hiện đã cho phép một chuyên viên pháp lý (chưa có thẻ CCV) sử dụng tài khoản phần mềm của Trưởng văn phòng để soạn thảo và tự ý 'duyệt' nội dung các hợp đồng giao dịch phức tạp trước khi trình ký. Về mặt lý thuyết, hành vi này của VPCC Z vi phạm:",
+    "a": "Điểm c Khoản 2 (Cho người không đủ điều kiện hành nghề thực hiện việc công chứng tại tổ chức mình).",
+    "b": "Điểm đ Khoản 1 (Cấu kết, thông đồng làm sai lệch nội dung hồ sơ).",
+    "c": "Điểm k Khoản 1 (Cho người khác sử dụng quyết định bổ nhiệm CCV).",
+    "d": "Tất cả các phương án trên.",
+    "answer": "A",
+    "explanation": "Việc để người không có đủ tiêu chuẩn (chuyên viên) thực hiện các khâu then chốt trong quy trình công chứng (duyệt nội dung thay CCV) là vi phạm nghiêm trọng quy định tại điểm c khoản 2 Điều 9."
+  },
+  {
+    "question": "Một ngân hàng từ chối nhận giải ngân cho hợp đồng thế chấp đã được công chứng với lý do 'không thích làm việc với VPCC này' mà không chỉ ra được lỗi pháp lý nào. Hành vi này của ngân hàng vi phạm điểm nào?",
+    "a": "Điểm b Khoản 3 (Sử dụng giấy tờ giả mạo).",
+    "b": "Điểm d Khoản 3 (Từ chối thực hiện thủ tục pháp lý liên quan đến giao dịch được công chứng mà không có căn cứ pháp lý).",
+    "c": "Điểm đ Khoản 3 (Cung cấp dịch vụ công chứng trái phép).",
+    "d": "Không vi phạm vì ngân hàng có quyền chọn đối tác.",
+    "answer": "B",
+    "explanation": "Đây là điểm mới của Luật 2024 nhằm bảo vệ giá trị pháp lý của văn bản công chứng, nghiêm cấm các tổ chức từ chối thực hiện thủ tục liên quan mà không có căn cứ pháp lý rõ ràng."
+  },
+  {
+    "question": "Công chứng viên (CCV) A và CCV B cùng góp vốn với một Công ty tài chính để thành lập Văn phòng công chứng theo loại hình công ty hợp danh, trong đó Công ty tài chính nắm quyền quyết định về nhân sự. Hành vi này bị cấm vì:",
+    "a": "Vì CCV không được góp vốn với tổ chức không phải là công chứng viên để thành lập VPCC.",
+    "b": "Vì VPCC phải được tổ chức theo loại hình công ty hợp danh gồm các thành viên hợp danh là CCV.",
+    "c": "Vì vi phạm quy định tại điểm l khoản 1 và điểm đ khoản 3 Điều 9.",
+    "d": "Tất cả các phương án trên đều đúng.",
+    "answer": "D",
+    "explanation": "Việc liên kết với tổ chức (Công ty tài chính) để thành lập VPCC và chia lợi nhuận/quyền quản lý là hành vi bị cấm tuyệt đối đối với cả CCV và tổ chức đó."
   }
+
 ]
