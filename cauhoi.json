@@ -3802,6 +3802,419 @@
     "d": "Tất cả các phương án trên đều đúng.",
     "answer": "D",
     "explanation": "Việc liên kết với tổ chức (Công ty tài chính) để thành lập VPCC và chia lợi nhuận/quyền quản lý là hành vi bị cấm tuyệt đối đối với cả CCV và tổ chức đó."
+  },
+  {
+    "question": "Tình huống: Anh Nam có bằng Thạc sĩ Luật và đang công tác tại một doanh nghiệp. Anh Nam muốn đăng ký tham gia khóa đào tạo nghề công chứng. Theo Luật Công chứng 2024 tại hình {0859B38B-F1C4-4072-9E79-6A2B1BED0404}.png, nhận định nào sau đây là đúng?",
+    "a": "Anh Nam không được đăng ký vì Luật chỉ ưu tiên Tiến sĩ Luật.",
+    "b": "Anh Nam được đăng ký tham gia đào tạo và thời gian đào tạo là 12 tháng.",
+    "c": "Anh Nam được đăng ký tham gia đào tạo và thời gian đào tạo là 06 tháng.",
+    "d": "Anh Nam phải có bằng Cử nhân Luật trước, bằng Thạc sĩ không có giá trị đăng ký.",
+    "answer": "B",
+    "explanation": "Theo khoản 1 Điều 11, người có bằng Thạc sĩ Luật được đăng ký đào tạo. Tuy nhiên, do anh Nam không thuộc các nhóm ưu tiên tại khoản 3 (như Thẩm phán, Luật sư 5 năm, hay Tiến sĩ Luật...), nên thời gian đào tạo của anh vẫn là 12 tháng theo khoản 2."
+  },
+{
+    "question": "Đối tượng nào sau đây được bổ sung mới hoàn toàn vào danh sách đào tạo 06 tháng (nhóm chức danh cao cấp) theo điểm d khoản 3 Điều 11?",
+    "a": "Thanh tra viên cao cấp ngành tư pháp; Chuyên viên cao cấp; Pháp chế viên cao cấp.",
+    "b": "Nghiên cứu viên cao cấp; Giảng viên cao cấp trong lĩnh vực pháp luật.",
+    "c": "Trợ giúp viên pháp lý hạng I.",
+    "d": "Tất cả các đối tượng trên.",
+    "answer": "D",
+    "explanation": "Điểm d khoản 3 Điều 11 trong văn bản đã liệt kê chi tiết các chức danh cao cấp này là những đối tượng được hưởng thời gian đào tạo rút ngắn."
+  },
+{
+    "question": "Theo Khoản 1 Điều 11, những đối tượng nào sau đây được đăng ký tham dự khóa đào tạo nghề công chứng?",
+    "a": "Chỉ người có bằng cử nhân luật.",
+    "b": "Người có bằng cử nhân luật, thạc sĩ luật hoặc tiến sĩ luật.",
+    "c": "Người có bằng cử nhân luật hoặc đã làm việc tại Văn phòng công chứng trên 5 năm.",
+    "d": "Người có bằng thạc sĩ hoặc tiến sĩ thuộc bất kỳ chuyên ngành nào.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 1 Điều 11: 'Người có bằng cử nhân luật hoặc thạc sĩ luật hoặc tiến sĩ luật được đăng ký tham dự khóa đào tạo nghề công chứng'."
+  },
+  {
+    "question": "Thời gian đào tạo nghề công chứng đối với một người có bằng Thạc sĩ luật (không thuộc các đối tượng ưu tiên khác) là bao lâu?",
+    "a": "06 tháng.",
+    "b": "09 tháng.",
+    "c": "12 tháng.",
+    "d": "18 tháng.",
+    "answer": "C",
+    "explanation": "Khoản 2 Điều 11 quy định thời gian đào tạo nghề công chứng là 12 tháng. Thạc sĩ luật không nằm trong danh sách được giảm thời gian đào tạo tại Khoản 3."
+  },
+  {
+    "question": "Trường hợp nào sau đây được rút ngắn thời gian đào tạo nghề công chứng xuống còn 06 tháng?",
+    "a": "Thẩm phán, kiểm sát viên có thời gian công tác từ đủ 03 năm trở lên.",
+    "b": "Luật sư, Thừa phát lại đã hành nghề từ đủ 05 năm trở lên.",
+    "c": "Người có bằng cử nhân luật loại giỏi.",
+    "d": "Chuyên viên chính, giảng viên chính trong lĩnh vực kinh tế.",
+    "answer": "B",
+    "explanation": "Căn cứ điểm b khoản 3 Điều 11: 'Thừa phát lại, luật sư, đấu giá viên đã hành nghề từ đủ 05 năm trở lên' thì thời gian đào tạo là 06 tháng."
+  },
+  {
+    "question": "Tình huống: Ông Bình là Tiến sĩ luật. Ông đăng ký tham gia khóa đào tạo nghề công chứng. Thời gian đào tạo của ông Bình theo quy định là:",
+    "a": "12 tháng.",
+    "b": "06 tháng.",
+    "c": "Được miễn đào tạo hoàn toàn.",
+    "d": "03 tháng.",
+    "answer": "B",
+    "explanation": "Căn cứ điểm c khoản 3 Điều 11: 'Giáo sư, phó giáo sư chuyên ngành luật; tiến sĩ luật' thuộc đối tượng có thời gian đào tạo là 06 tháng."
+  },
+  {
+    "question": "Nhóm đối tượng nào sau đây thuộc diện đào tạo 06 tháng theo quy định tại điểm d khoản 3 Điều 11?",
+    "a": "Chấp hành viên trung cấp, kiểm tra viên chính ngành kiểm sát.",
+    "b": "Thanh tra viên cao cấp ngành tư pháp, Pháp chế viên cao cấp.",
+    "c": "Trợ giúp viên pháp lý hạng II.",
+    "d": "Người đã hoàn thành chương trình đào tạo ở nước ngoài.",
+    "answer": "B",
+    "explanation": "Điểm d khoản 3 Điều 11 liệt kê các chức danh 'cao cấp' (Thanh tra viên cao cấp, Chuyên viên cao cấp, Pháp chế viên cao cấp...) thuộc diện đào tạo 06 tháng."
+  },
+  {
+    "question": "Tình huống: Bà Lan là Thẩm tra viên chính ngành Tòa án đã công tác được 06 năm. Bà Lan muốn trở thành công chứng viên. Thời gian bà Lan phải tham gia đào tạo nghề là:",
+    "a": "12 tháng.",
+    "b": "06 tháng.",
+    "c": "09 tháng.",
+    "d": "Bà Lan thuộc diện miễn đào tạo.",
+    "answer": "B",
+    "explanation": "Căn cứ điểm a khoản 3 Điều 11: 'Người đã có thời gian từ đủ 05 năm trở lên làm... thẩm tra viên chính ngành Tòa án' có thời gian đào tạo là 06 tháng."
+  },
+  {
+    "question": "Cơ quan nào có thẩm quyền quy định về chương trình khung đào tạo nghề công chứng?",
+    "a": "Chính phủ.",
+    "b": "Bộ trưởng Bộ Tư pháp.",
+    "c": "Cơ sở đào tạo nghề công chứng.",
+    "d": "Ủy ban nhân dân cấp tỉnh.",
+    "answer": "B",
+    "explanation": "Khoản 6 Điều 11 quy định: 'Bộ trưởng Bộ Tư pháp quy định về chương trình khung đào tạo nghề công chứng'."
+  },
+  {
+    "question": "Theo Điều 11, cơ sở đào tạo nghề công chứng cấp văn bản nào cho người hoàn thành chương trình?",
+    "a": "Chứng chỉ hành nghề công chứng.",
+    "b": "Quyết định bổ nhiệm công chứng viên.",
+    "c": "Giấy chứng nhận tốt nghiệp khóa đào tạo nghề công chứng.",
+    "d": "Bằng tốt nghiệp chuyên ngành công chứng.",
+    "answer": "C",
+    "explanation": "Khoản 4 Điều 11 quy định người hoàn thành chương trình được cấp 'giấy chứng nhận tốt nghiệp khóa đào tạo nghề công chứng'."
+  },
+{
+    "question": "Ông An là 'Chuyên viên chính' làm việc tại Sở Tư pháp được 04 năm, sau đó chuyển sang làm 'Pháp chế viên chính' tại một doanh nghiệp nhà nước được 02 năm. Tổng thời gian làm việc trong lĩnh vực pháp luật là 06 năm. Theo Điều 11, thời gian đào tạo nghề công chứng của ông An là:",
+    "a": "12 tháng.",
+    "b": "06 tháng.",
+    "c": "09 tháng.",
+    "d": "Không đủ điều kiện tham gia đào tạo vì có thời gian làm việc tại doanh nghiệp.",
+    "answer": "B",
+    "explanation": "Theo điểm a khoản 3 Điều 11, 'chuyên viên chính, pháp chế viên chính... trong lĩnh vực pháp luật' có thời gian từ đủ 05 năm trở lên thì thời gian đào tạo là 06 tháng. Tổng thời gian cộng dồn của ông An là 06 năm ở các vị trí này nên thuộc diện ưu tiên."
+  },
+  {
+    "question": "Đối tượng nào sau đây có thời gian đào tạo nghề công chứng là 12 tháng (không được giảm xuống 06 tháng)?",
+    "a": "Giáo sư, phó giáo sư chuyên ngành luật.",
+    "b": "Thẩm tra viên cao cấp ngành Tòa án.",
+    "c": "Thừa phát lại, luật sư đã hành nghề được 04 năm.",
+    "d": "Người có bằng Tiến sĩ luật.",
+    "answer": "C",
+    "explanation": "Theo điểm b khoản 3 Điều 11, Thừa phát lại và luật sư phải hành nghề từ đủ 05 năm trở lên mới được đào tạo 06 tháng. Trường hợp 04 năm vẫn phải đào tạo 12 tháng theo quy định chung tại khoản 2."
+  },
+  {
+    "question": "Trong danh sách đối tượng đào tạo 06 tháng tại điểm d khoản 3 Điều 11, chức danh nào sau đây được liệt kê cụ thể là 'hạng I'?",
+    "a": "Thanh tra viên.",
+    "b": "Trợ giúp viên pháp lý.",
+    "c": "Giảng viên.",
+    "d": "Nghiên cứu viên.",
+    "answer": "B",
+    "explanation": "Căn cứ điểm d khoản 3 Điều 11: 'trợ giúp viên pháp lý hạng I' thuộc nhóm đào tạo 06 tháng. Trong khi đó, các chức danh khác như chuyên viên, pháp chế viên, nghiên cứu viên trong điểm này đều phải là cấp 'cao cấp'."
+  },
+  {
+    "question": "Bà Chi là 'Giảng viên chính' tại một trường đại học luật được 07 năm. Theo Điều 11, bà Chi thuộc diện đào tạo nghề công chứng trong thời gian bao lâu?",
+    "a": "06 tháng theo điểm a khoản 3.",
+    "b": "12 tháng theo khoản 2.",
+    "c": "06 tháng theo điểm d khoản 3.",
+    "d": "Bà Chi được miễn đào tạo vì là giảng viên lâu năm.",
+    "answer": "A",
+    "explanation": "Căn cứ điểm a khoản 3 Điều 11, 'giảng viên chính trong lĩnh vực pháp luật' có thời gian công tác từ đủ 05 năm trở lên thuộc diện đào tạo 06 tháng. (Lưu ý: điểm d áp dụng cho giảng viên 'cao cấp')."
+  },
+  {
+    "question": "Cơ quan nào có thẩm quyền quy định về việc 'công nhận tương đương' đối với người được đào tạo nghề công chứng ở nước ngoài?",
+    "a": "Chính phủ.",
+    "b": "Cơ sở đào tạo nghề công chứng tại Việt Nam.",
+    "c": "Bộ trưởng Bộ Tư pháp.",
+    "d": "Hội đồng công chứng viên toàn quốc.",
+    "answer": "C",
+    "explanation": "Khoản 6 Điều 11 quy định: 'Bộ trưởng Bộ Tư pháp quy định về... việc công nhận tương đương đối với người được đào tạo nghề công chứng ở nước ngoài'."
+  },
+  {
+    "question": "Một người có bằng 'Thạc sĩ luật' và đã làm 'Luật sư' được 03 năm. Thời gian đào tạo nghề công chứng của người này là:",
+    "a": "06 tháng.",
+    "b": "12 tháng.",
+    "c": "09 tháng.",
+    "d": "03 tháng.",
+    "answer": "B",
+    "explanation": "Người này có bằng Thạc sĩ luật nên được đăng ký học (khoản 1). Tuy nhiên, vì thời gian hành nghề Luật sư chưa đủ 05 năm (mới được 03 năm) và bằng Thạc sĩ không thuộc diện rút ngắn thời gian tại khoản 3, nên áp dụng thời gian đào tạo 12 tháng theo khoản 2."
+  },
+  {
+    "question": "Chức danh nào sau đây được liệt kê tại điểm a khoản 3 Điều 11 (đào tạo 06 tháng) có yêu cầu cấp bậc 'Trung cấp'?",
+    "a": "Kiểm tra viên chính ngành kiểm sát.",
+    "b": "Chấp hành viên trung cấp.",
+    "c": "Thanh tra viên chính ngành tư pháp.",
+    "d": "Thẩm tra viên chính ngành Tòa án.",
+    "answer": "B",
+    "explanation": "Căn cứ điểm a khoản 3 Điều 11 liệt kê: '...chấp hành viên trung cấp, thẩm tra viên chính thi hành án dân sự...'. Các chức danh còn lại trong đáp án đều yêu cầu cấp 'chính'."
+  },
+{
+    "question": "Theo Khoản 3 Điều 11, đối tượng nào sau đây được rút ngắn thời gian đào tạo xuống 06 tháng mà KHÔNG bắt buộc phải có đủ 05 năm kinh nghiệm hành nghề/công tác?",
+    "a": "Luật sư, Đấu giá viên.",
+    "b": "Giáo sư, Phó giáo sư chuyên ngành luật; Tiến sĩ luật.",
+    "c": "Thẩm phán, Kiểm sát viên.",
+    "d": "Giảng viên chính trong lĩnh vực pháp luật.",
+    "answer": "B",
+    "explanation": "Căn cứ điểm c khoản 3 Điều 11, nhóm Giáo sư, Phó giáo sư và Tiến sĩ luật được đào tạo 06 tháng mà không kèm theo điều kiện về số năm công tác như các nhóm tại điểm a và b."
+  },
+  {
+    "question": "Tình huống: Anh Hoàng là 'Nghiên cứu viên chính' trong lĩnh vực pháp luật đã công tác được 04 năm. Trước đó anh có 02 năm làm 'Nghiên cứu viên' (hạng dưới). Thời gian đào tạo nghề công chứng của anh Hoàng là:",
+    "a": "06 tháng.",
+    "b": "12 tháng.",
+    "c": "09 tháng.",
+    "d": "Anh Hoàng không thuộc đối tượng được đào tạo nghề công chứng.",
+    "answer": "B",
+    "explanation": "Điểm a khoản 3 Điều 11 yêu cầu phải có từ đủ 05 năm trở lên làm 'Nghiên cứu viên chính'. Thời gian làm nghiên cứu viên hạng dưới không được cộng dồn để hưởng ưu đãi rút ngắn thời gian đào tạo."
+  },
+  {
+    "question": "Trong các chức danh 'Cao cấp' được đào tạo 06 tháng tại điểm d khoản 3 Điều 11, chức danh nào sau đây KHÔNG xuất hiện?",
+    "a": "Thẩm tra viên cao cấp ngành Tòa án.",
+    "b": "Kiểm tra viên cao cấp ngành Kiểm sát.",
+    "c": "Điều tra viên cao cấp.",
+    "d": "Pháp chế viên cao cấp.",
+    "answer": "C",
+    "explanation": "Trong văn bản Điều 11 bạn cung cấp, tại điểm d khoản 3 liệt kê rất nhiều chức danh cao cấp, nhưng 'Điều tra viên cao cấp' không có tên trong danh sách này (Điều tra viên thông thường cũng chỉ xuất hiện ở điểm a với điều kiện 5 năm)."
+  },
+  {
+    "question": "Tình huống: Chị Mai là 'Trợ giúp viên pháp lý hạng II' đã làm việc được 06 năm. Chị muốn đăng ký học lớp 06 tháng. Nhận định nào sau đây là đúng?",
+    "a": "Chị Mai chỉ được học lớp 06 tháng nếu chị là Trợ giúp viên pháp lý hạng I.",
+    "b": "Chị Mai được học lớp 06 tháng theo quy định tại điểm a khoản 3 Điều 11.",
+    "c": "Chị Mai phải học lớp 12 tháng vì Trợ giúp viên pháp lý không được giảm thời gian đào tạo.",
+    "d": "Chị Mai được miễn đào tạo vì đã có kinh nghiệm trợ giúp pháp lý trên 5 năm.",
+    "answer": "B",
+    "explanation": "Căn cứ điểm a khoản 3 Điều 11, 'trợ giúp viên pháp lý hạng II' có thời gian từ đủ 05 năm trở lên thuộc diện đào tạo 06 tháng."
+  },
+  {
+    "question": "Sự khác biệt về điều kiện để được đào tạo 06 tháng giữa 'Kiểm tra viên chính' và 'Kiểm tra viên cao cấp' ngành kiểm sát là gì?",
+    "a": "Kiểm tra viên chính cần đủ 5 năm công tác, Kiểm tra viên cao cấp không cần điều kiện thời gian 5 năm.",
+    "b": "Cả hai đều cần đủ 5 năm công tác.",
+    "c": "Kiểm tra viên chính được đào tạo 06 tháng, Kiểm tra viên cao cấp được đào tạo 03 tháng.",
+    "d": "Không có sự khác biệt, cả hai đều thuộc cùng một điểm khoản trong Luật.",
+    "answer": "A",
+    "explanation": "Kiểm tra viên chính nằm ở điểm a khoản 3 (yêu cầu từ đủ 05 năm trở lên). Kiểm tra viên cao cấp nằm ở điểm d khoản 3 (không ghi kèm điều kiện thời gian 05 năm)."
+  },
+  {
+    "question": "Theo Khoản 6 Điều 11, việc 'công nhận tương đương' đối với người được đào tạo nghề công chứng ở nước ngoài phải tuân theo quy định của ai?",
+    "a": "Cơ sở đào tạo nghề công chứng trong nước.",
+    "b": "Chính phủ.",
+    "c": "Bộ trưởng Bộ Tư pháp.",
+    "d": "Liên đoàn Luật sư Việt Nam.",
+    "answer": "C",
+    "explanation": "Khoản 6 Điều 11 ghi rõ: 'Bộ trưởng Bộ Tư pháp quy định về... việc công nhận tương đương đối với người được đào tạo nghề công chứng ở nước ngoài'."
+  },
+  {
+    "question": "Theo Điều 14, trường hợp nào sau đây KHÔNG được bổ nhiệm công chứng viên dù tội phạm đó đã được xóa án tích?",
+    "a": "Người bị kết án về tội phạm do vô ý.",
+    "b": "Người bị kết án về tội phạm do cố ý.",
+    "c": "Người bị xử phạt vi phạm hành chính.",
+    "d": "Người bị kỷ luật khiển trách.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 2 Điều 14: 'người đã bị kết án về tội phạm do cố ý, kể cả trường hợp đã được xóa án tích' thuộc diện không được bổ nhiệm."
+  },
+  {
+    "question": "Công chứng viên đương nhiên bị miễn nhiệm trong trường hợp nào sau đây theo Điều 16?",
+    "a": "Khi bị xử phạt vi phạm hành chính 01 lần.",
+    "b": "Khi đủ 60 tuổi.",
+    "c": "Khi quá 70 tuổi.",
+    "d": "Khi thay đổi nơi cư trú.",
+    "answer": "C",
+    "explanation": "Căn cứ Khoản 1 Điều 16: 'Công chứng viên đương nhiên miễn nhiệm khi quá 70 tuổi'."
+  },
+  {
+    "question": "Thời hạn tối đa để tạm đình chỉ hành nghề công chứng đối với một công chứng viên là bao lâu?",
+    "a": "06 tháng.",
+    "b": "12 tháng.",
+    "c": "18 tháng.",
+    "d": "24 tháng.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 2 Điều 15: 'Thời gian tạm đình chỉ hành nghề công chứng tối đa là 12 tháng'."
+  },
+  {
+    "question": "Theo Điều 16, công chứng viên bị miễn nhiệm nếu không hành nghề công chứng liên tục trong thời gian bao lâu (trừ trường hợp bất khả kháng theo quy định)?",
+    "a": "Từ 06 tháng trở lên.",
+    "b": "Từ 09 tháng trở lên.",
+    "c": "Từ 12 tháng trở lên.",
+    "d": "Từ 24 tháng trở lên.",
+    "answer": "C",
+    "explanation": "Căn cứ điểm đ Khoản 2 Điều 16: 'không hành nghề công chứng liên tục từ 12 tháng trở lên' thì bị miễn nhiệm."
+  },
+  {
+    "question": "Người bị miễn nhiệm công chứng viên do vi phạm kỷ luật (không thuộc các trường hợp cấm vĩnh viễn) được xem xét bổ nhiệm lại sau thời hạn bao lâu kể từ ngày quyết định miễn nhiệm có hiệu lực?",
+    "a": "01 năm.",
+    "b": "02 năm.",
+    "c": "03 năm.",
+    "d": "05 năm.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 2 Điều 17: 'đã hết thời hạn 02 năm kể từ ngày quyết định miễn nhiệm công chứng viên có hiệu lực thi hành và lý do miễn nhiệm không còn'."
+  },
+  {
+    "question": "Trường hợp nào sau đây KHÔNG bao giờ được bổ nhiệm lại công chứng viên theo Điều 17?",
+    "a": "Bị miễn nhiệm do sức khỏe yếu.",
+    "b": "Bị miễn nhiệm do chuyển công tác khác theo quyết định của cơ quan thẩm quyền.",
+    "c": "Bị miễn nhiệm do hành nghề công chứng trong thời gian bị tạm đình chỉ hành nghề.",
+    "d": "Bị miễn nhiệm theo nguyện vọng cá nhân.",
+    "answer": "C",
+    "explanation": "Căn cứ điểm b Khoản 3 Điều 17: 'Bị miễn nhiệm công chứng viên do hành nghề công chứng khi chưa đủ điều kiện hành nghề... hoặc trong thời gian bị tạm đình chỉ' thì không được bổ nhiệm lại."
+  },
+  {
+    "question": "Nghĩa vụ nào sau đây của công chứng viên được quy định tại Điều 18?",
+    "a": "Được thành lập Văn phòng công chứng.",
+    "b": "Gia nhập Hội công chứng viên tại địa phương nơi hành nghề và duy trì tư cách hội viên.",
+    "c": "Được công chứng các giao dịch theo quy định.",
+    "d": "Đề nghị cung cấp thông tin từ các cơ quan liên quan.",
+    "answer": "B",
+    "explanation": "Căn cứ điểm h Khoản 2 Điều 18, đây là một trong các nghĩa vụ bắt buộc của công chứng viên."
+  },
+  {
+    "question": "Trong thời hạn bao nhiêu ngày làm việc kể từ khi nhận được văn bản đề nghị chấm dứt tạm đình chỉ (kèm giấy tờ chứng minh), Sở Tư pháp phải ra quyết định chấm dứt việc tạm đình chỉ hành nghề?",
+    "a": "03 ngày làm việc.",
+    "b": "05 ngày làm việc.",
+    "c": "07 ngày làm việc.",
+    "d": "10 ngày làm việc.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 3 Điều 15: 'Trong thời hạn 05 ngày làm việc... Sở Tư pháp ra quyết định chấm dứt việc tạm đình chỉ hành nghề công chứng'."
+  },
+  {
+    "question": "Tình huống: Một người có bằng 'Thạc sĩ Luật' nhưng chưa từng làm việc trong lĩnh vực pháp luật. Người này muốn rút ngắn thời gian đào tạo xuống 06 tháng có được không?",
+    "a": "Được, vì bằng Thạc sĩ Luật là bằng cấp cao.",
+    "b": "Không được, vì Thạc sĩ Luật không nằm trong danh sách ưu tiên tại Khoản 3.",
+    "c": "Được, nếu người này cam kết đạt kết quả loại giỏi khi học.",
+    "d": "Được, nếu người này có bằng cử nhân luật loại xuất sắc trước đó.",
+    "answer": "B",
+    "explanation": "Khoản 1 Điều 11 cho phép Thạc sĩ Luật đăng ký học, nhưng Khoản 3 (diện 06 tháng) chỉ liệt kê Tiến sĩ Luật (điểm c). Thạc sĩ Luật vẫn phải học 12 tháng theo quy định chung."
+  },
+{
+    "question": "Công chứng viên (CCV) A bị khởi tố về tội vi phạm quy định về tham gia giao thông đường bộ (lỗi vô ý). Sở Tư pháp nhận được quyết định truy cứu trách nhiệm hình sự của cơ quan công an vào thứ Hai. Theo quy định, Sở Tư pháp phải ra quyết định tạm đình chỉ hành nghề của CCV A chậm nhất vào thứ mấy (giả định không có ngày lễ)?",
+    "a": "Thứ Tư tuần đó.",
+    "b": "Thứ Sáu tuần đó.",
+    "c": "Thứ Hai tuần kế tiếp.",
+    "d": "Trong vòng 24 giờ kể từ khi nhận quyết định.",
+    "answer": "B",
+    "explanation": "Theo Khoản 1 Điều 15 lcc, trong thời hạn 05 ngày làm việc kể từ ngày nhận được quyết định truy cứu trách nhiệm hình sự, Sở Tư pháp phải ra quyết định tạm đình chỉ hành nghề công chứng."
+  },
+  {
+    "question": "CCV X bị tạm đình chỉ hành nghề để phục vụ điều tra từ ngày 01/01/2025. Tuy nhiên, vụ án kéo dài và đến ngày 01/01/2026 vẫn chưa có kết luận cuối cùng. Theo Điều 15, tình trạng hành nghề của CCV X sẽ như thế nào?",
+    "a": "Tiếp tục bị tạm đình chỉ cho đến khi có bản án.",
+    "b": "Đương nhiên bị miễn nhiệm công chứng viên vì hết thời hạn tạm đình chỉ mà lý do vẫn còn.",
+    "c": "Được tự động khôi phục quyền hành nghề vì đã hết 12 tháng.",
+    "d": "Phải làm thủ tục bổ nhiệm lại từ đầu.",
+    "answer": "B",
+    "explanation": "Theo Khoản 2 Điều 15  lcc, thời gian tạm đình chỉ tối đa là 12 tháng. Theo điểm e Khoản 2 Điều 16, nếu hết thời hạn này mà lý do tạm đình chỉ vẫn còn thì CCV bị miễn nhiệm."
+  },
+  {
+    "question": "Anh Nam được bổ nhiệm CCV vào ngày 01/02/2025. Do bận việc gia đình, anh không đăng ký hành nghề tại bất kỳ tổ chức hành nghề công chứng nào. Đến ngày nào thì anh Nam sẽ thuộc trường hợp bị miễn nhiệm theo quy định?",
+    "a": "01/05/2025 (sau 03 tháng).",
+    "b": "01/08/2025 (sau 06 tháng).",
+    "c": "01/02/2026 (sau 12 tháng).",
+    "d": "Anh không bị miễn nhiệm vì đã có quyết định bổ nhiệm vĩnh viễn.",
+    "answer": "C",
+    "explanation": "Theo điểm đ Khoản 2 Điều 16 lcc, CCV không hành nghề công chứng trong thời hạn 12 tháng kể từ ngày được bổ nhiệm thì bị miễn nhiệm."
+  },
+  {
+    "question": "CCV B bị miễn nhiệm do bị xử phạt vi phạm hành chính 03 lần trong vòng 12 tháng liên quan đến hoạt động hành nghề. Quyết định miễn nhiệm có hiệu lực từ ngày 15/03/2025. Sớm nhất là khi nào CCV B có thể nộp hồ sơ đề nghị bổ nhiệm lại?",
+    "a": "15/03/2026.",
+    "b": "15/03/2027.",
+    "c": "15/03/2028.",
+    "d": "Không bao giờ được bổ nhiệm lại.",
+    "answer": "B",
+    "explanation": "Theo Khoản 2 Điều 17 lcc, người bị miễn nhiệm theo Khoản 2 Điều 16 lcc (trừ các trường hợp cấm tại Khoản 3 Điều 17) được xem xét bổ nhiệm lại sau 02 năm kể từ ngày quyết định miễn nhiệm có hiệu lực."
+  },
+  {
+    "question": "Công chứng viên (CCV) H đã 69 tuổi và vẫn đang hành nghề rất minh mẫn tại một Văn phòng công chứng. Theo quy định tại Điều 16, CCV H sẽ 'đương nhiên' miễn nhiệm vào thời điểm nào?",
+    "a": "Ngay khi tròn 70 tuổi.",
+    "b": "Sau khi tròn 70 tuổi 01 ngày.",
+    "c": "Khi quá 70 tuổi.",
+    "d": "Khi có thông báo của Sở Tư pháp về việc hết tuổi lao động.",
+    "answer": "C",
+    "explanation": "Theo Khoản 1 Điều 16 lcc, Công chứng viên đương nhiên miễn nhiệm khi quá 70 tuổi."
+  },
+  {
+    "question": "Một CCV bị tạm đình chỉ hành nghề do bị áp dụng biện pháp giáo dục tại xã, phường. Sau khi chấp hành xong và có giấy tờ chứng minh, CCV nộp văn bản đề nghị chấm dứt tạm đình chỉ cho Sở Tư pháp. Sở Tư pháp phải ra quyết định trong thời hạn bao lâu?",
+    "a": "03 ngày làm việc.",
+    "b": "05 ngày làm việc.",
+    "c": "07 ngày làm việc.",
+    "d": "15 ngày làm việc.",
+    "answer": "B",
+    "explanation": "Theo Khoản 3 Điều 15 lcc, trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị và giấy tờ chứng minh, Sở Tư pháp ra quyết định chấm dứt việc tạm đình chỉ."
+  },
+  {
+    "question": "Tình huống: CCV K bị xử phạt vi phạm hành chính về hành vi không tham gia bồi dưỡng nghiệp vụ vào tháng 01/2025. Đến tháng 10/2025, CCV K tiếp tục bị xử phạt hành chính do công chứng ngoài trụ sở trái quy định. Trường hợp này CCV K bị xử lý như thế nào?",
+    "a": "Bị tạm đình chỉ hành nghề 06 tháng.",
+    "b": "Bị thu hồi thẻ công chứng viên 12 tháng.",
+    "c": "Thuộc trường hợp bị miễn nhiệm công chứng viên.",
+    "d": "Chỉ bị phạt tiền nặng hơn do tái phạm.",
+    "answer": "C",
+    "explanation": "Theo điểm g Khoản 2 Điều 16 lcc, CCV bị xử phạt vi phạm hành chính từ 02 lần trở lên về hoạt động hành nghề công chứng trong thời hạn 12 tháng thì bị miễn nhiệm."
+  },
+{
+    "question": "Anh Tùng là công chức đang làm việc tại một cơ quan hành chính nhà nước. Anh đã có bằng tốt nghiệp khóa đào tạo nghề công chứng. Theo Luật Công chứng 2024, anh Tùng có được bổ nhiệm Công chứng viên (CCV) không?",
+    "a": "Được, vì anh đã hoàn thành khóa đào tạo nghề theo quy định.",
+    "b": "Không được, vì anh đang là công chức.",
+    "c": "Được, nếu anh cam kết sẽ xin nghỉ việc sau khi được bổ nhiệm.",
+    "d": "Được, nếu anh chỉ làm CCV tại các Phòng công chứng của Nhà nước.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 5 Điều 14 LCC 2024, người đang là cán bộ, công chức, viên chức (trừ viên chức của Phòng công chứng) thuộc trường hợp không được bổ nhiệm công chứng viên."
+  },
+  {
+    "question": "Công chứng viên (CCV) Phương bị Tòa án tuyên phạt 02 năm tù cho hưởng án treo về tội 'Vi phạm quy định về tham gia giao thông đường bộ' (lỗi vô ý). Sau khi bản án có hiệu lực, CCV Phương bị xử lý như thế nào?",
+    "a": "Bị tạm đình chỉ hành nghề cho đến khi hết thời gian thử thách.",
+    "b": "Vẫn được hành nghề bình thường vì là lỗi vô ý.",
+    "c": "Bị miễn nhiệm công chứng viên.",
+    "d": "Chỉ bị miễn nhiệm nếu phạm tội liên quan đến hoạt động công chứng.",
+    "answer": "C",
+    "explanation": "Căn cứ điểm i Khoản 2 Điều 16 LCC 2024, công chứng viên bị kết tội bằng bản án đã có hiệu lực pháp luật của Tòa án thì bị miễn nhiệm (không phân biệt lỗi cố ý hay vô ý)."
+  },
+  {
+    "question": "Công chứng viên (CCV) Lan bị miễn nhiệm vào ngày 20/05/2025 do bị kết án về tội 'Vô ý làm chết người'. Đến tháng 05/2027, bà Lan đã được xóa án tích và muốn xin bổ nhiệm lại CCV. Nhận định nào sau đây là đúng?",
+    "a": "Bà Lan được bổ nhiệm lại vì đã hết thời hạn 02 năm kể từ ngày miễn nhiệm.",
+    "b": "Bà Lan được bổ nhiệm lại vì đã được xóa án tích.",
+    "c": "Bà Lan không được bổ nhiệm lại công chứng viên.",
+    "d": "Bà Lan phải học lại khóa đào tạo nghề mới được xem xét bổ nhiệm lại.",
+    "answer": "C",
+    "explanation": "Căn cứ điểm a Khoản 3 Điều 17 LCC 2024, người bị miễn nhiệm CCV do bị kết án về tội phạm do vô ý mà chưa được xóa án tích HOẶC do bị kết án về tội phạm do cố ý (kể cả đã xóa án tích) thì không được bổ nhiệm lại. Ở đây bà Lan phạm tội vô ý nhưng điểm c Khoản 3 Điều 17 dẫn chiếu đến Điều 14 LCC 2024 quy định người chưa được xóa án tích tội vô ý cũng không được bổ nhiệm."
+  },
+  {
+    "question": "Mốc thời gian nào sau đây là nghĩa vụ bắt buộc của Công chứng viên (CCV) để duy trì chất lượng hành nghề theo Luật Công chứng 2024?",
+    "a": "Tham gia bồi dưỡng nghiệp vụ công chứng 02 năm một lần.",
+    "b": "Tham gia bồi dưỡng nghiệp vụ công chứng hằng năm.",
+    "c": "Tham gia bồi dưỡng nghiệp vụ công chứng 05 năm một lần.",
+    "d": "Chỉ tham gia bồi dưỡng khi có yêu cầu của Sở Tư pháp.",
+    "answer": "B",
+    "explanation": "Căn cứ điểm g Khoản 2 Điều 18 LCC 2024, CCV có nghĩa vụ 'Tham gia bồi dưỡng nghiệp vụ công chứng hằng năm'."
+  },
+  {
+    "question": "Tình huống: CCV K đang hành nghề tại một Văn phòng công chứng. Tuy nhiên, CCV K thường xuyên đi làm muộn và không đảm bảo thời gian làm việc theo ngày, giờ của Văn phòng. Hành vi này vi phạm quy định nào?",
+    "a": "Vi phạm quy định về đạo đức nghề nghiệp, không bị xử lý theo Luật.",
+    "b": "Vi phạm nghĩa vụ của công chứng viên.",
+    "c": "Vi phạm quyền được bảo đảm hành nghề của công chứng viên.",
+    "d": "Chỉ vi phạm nội quy nội bộ của Văn phòng công chứng.",
+    "answer": "B",
+    "explanation": "Căn cứ điểm c Khoản 2 Điều 18 LCC 2024, CCV có nghĩa vụ 'bảo đảm thời gian làm việc theo ngày, giờ làm việc của tổ chức hành nghề công chứng'."
+  },
+  {
+    "question": "Trong trường hợp CCV bị truy cứu trách nhiệm hình sự, Sở Tư pháp ra quyết định tạm đình chỉ hành nghề. Thời gian tạm đình chỉ này có được trừ vào thời hạn 'không hành nghề' để tính miễn nhiệm không?",
+    "a": "Có, nếu quá 12 tháng không hành nghề thì bị miễn nhiệm.",
+    "b": "Không, thời gian bị tạm đình chỉ không tính vào thời hạn không hành nghề liên tục để miễn nhiệm.",
+    "c": "Tùy vào quyết định của Giám đốc Sở Tư pháp.",
+    "d": "Chỉ được trừ nếu sau đó CCV được tuyên vô tội.",
+    "answer": "B",
+    "explanation": "Căn cứ điểm đ Khoản 2 Điều 16 LCC 2024, trường hợp không hành nghề do bị tạm đình chỉ hành nghề theo quy định tại Điều 15 là ngoại lệ, không bị tính vào thời hạn 12 tháng không hành nghề để miễn nhiệm."
+  },
+  {
+    "question": "Văn bản công chứng do CCV thực hiện bị người yêu cầu công chứng kiện vì có sai sót gây thiệt hại. CCV có nghĩa vụ gì trong trường hợp này?",
+    "a": "Chỉ Văn phòng công chứng phải chịu trách nhiệm bồi thường.",
+    "b": "CCV chỉ chịu trách nhiệm nếu lỗi đó là cố ý.",
+    "c": "CCV phải chịu trách nhiệm trước pháp luật và trước người yêu cầu công chứng về văn bản mình thực hiện.",
+    "d": "CCV được miễn trách nhiệm nếu đã làm đúng quy trình của Văn phòng.",
+    "answer": "C",
+    "explanation": "Căn cứ điểm i Khoản 2 Điều 18 LCC 2024, CCV có nghĩa vụ 'Chịu trách nhiệm trước pháp luật và trước người yêu cầu công chứng về văn bản công chứng mà mình thực hiện'."
   }
-
 ]
