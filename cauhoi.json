@@ -9,6 +9,105 @@
     "explanation": "Theo Luật Hôn nhân và Gia đình, quan hệ vợ chồng bao gồm cả quan hệ nhân thân và quan hệ tài sản."
   },
   {
+    "question": "Theo Luật Công chứng 2024, độ tuổi tối đa để một cá nhân được bổ nhiệm hoặc hành nghề Công chứng viên là bao nhiêu?",
+    "a": "Không giới hạn độ tuổi nếu đủ sức khỏe",
+    "b": "65 tuổi",
+    "c": "70 tuổi",
+    "d": "75 tuổi",
+    "answer": "C",
+    "explanation": "Đây là điểm mới quan trọng tại k1 - điều 10 Luật Công chứng 2024, nhằm trẻ hóa đội ngũ và đảm bảo sự minh mẫn khi hành nghề."
+  },
+  {
+    "question": "Khái niệm 'Công chứng điện tử' lần đầu tiên được quy định chính thức tại Luật Công chứng 2024 được hiểu là gì?",
+    "a": "Dùng điện thoại chụp ảnh văn bản rồi gửi qua email cho khách hàng",
+    "b": "Việc CCV thực hiện công chứng trên môi trường điện tử theo quy trình, thủ tục do pháp luật quy định",
+    "c": "Khách hàng tự ký vào bản Word rồi gửi cho Văn phòng công chứng đóng dấu",
+    "d": "Chỉ áp dụng cho việc công chứng bản dịch thuật",
+    "answer": "B",
+    "explanation": "Luật 2024 dành hẳn một Chương riêng về Công chứng điện tử, xác nhận giá trị pháp lý của văn bản công chứng số tương đương văn bản giấy,  k1 điêu 62."
+  },
+  {
+    "question": "Điểm mới về tiêu chuẩn bổ nhiệm CCV tại Luật 2024 yêu cầu người muốn được bổ nhiệm phải có thời gian công tác pháp luật bao lâu sau khi có bằng cử nhân luật?",
+    "a": "Đủ 02 năm trở lên",
+    "b": "từ Đủ 03 năm trở lên",
+    "c": "từ Đủ 05 năm trở lên",
+    "d": "Không yêu cầu thời gian công tác",
+    "answer": "B",
+    "explanation": "Luật 2024 (k 3- Điều 10) yêu cầu thời gian công tác pháp luật từ đủ 03 năm, thay vì 05 năm như luật cũ nhưng siết chặt hơn về quy trình đào tạo."
+  },
+  {
+    "question": "Theo Luật 2024, văn bản công chứng điện tử có giá trị như thế nào so với văn bản công chứng giấy?",
+    "a": "Có giá trị thấp hơn, chỉ dùng để tham khảo",
+    "b": "Có giá trị pháp lý tương đương văn bản công chứng giấy",
+    "c": "Chỉ có giá trị khi được in ra và đóng dấu đỏ lại",
+    "d": "Chỉ có giá trị trong giao dịch dân sự, không có giá trị trong giao dịch với cơ quan nhà nước",
+    "answer": "B",
+    "explanation": "k3-Điều 64 Luật Công chứng 2024 khẳng định văn bản công chứng điện tử có giá trị chứng cứ và giá trị thi hành như văn bản giấy."
+  },
+  {
+    "question": "Trong quy trình công chứng điện tử tại Luật 2024, việc xác thực chủ thể yêu cầu công chứng được thực hiện bằng cách nào?",
+    "a": "Chỉ cần nhìn qua màn hình video call là đủ",
+    "b": "Thông qua chữ ký số hoặc các phương thức xác thực điện tử theo quy định của pháp luật",
+    "c": "Khách hàng gửi ảnh thẻ căn cước qua tin nhắn Zalo",
+    "d": "Không cần xác thực nếu CCV đã biết mặt khách hàng từ trước",
+    "answer": "B",
+    "explanation": "61-65 lcc Công chứng số yêu cầu tính bảo mật cao thông qua định danh và xác thực điện tử để ngăn chặn giả mạo trên không gian mạng."
+  },
+  {
+  "question": "Theo Luật Công chứng 2024, hành vi nào sau đây bị nghiêm cấm?",
+  "a": "Tiết lộ thông tin về nội dung công chứng trái quy định",
+  "b": "Hướng dẫn người dân chuẩn bị hồ sơ công chứng",
+  "c": "Tra cứu cơ sở dữ liệu công chứng phục vụ nghiệp vụ",
+  "d": "Giải thích quyền và nghĩa vụ cho người yêu cầu công chứng",
+  "answer": "A",
+  "explanation": "Điểm a khoản 1 Điều 9 Luật Công chứng 2024 nghiêm cấm công chứng viên tiết lộ thông tin về nội dung công chứng trái quy định."
+},
+  {
+    "question": "Luật Công chứng 2024 nghiêm cấm hành vi nào sau đây liên quan đến hệ thống dữ liệu?",
+    "a": "Truy cập vào hệ thống để tra cứu thông tin phục vụ công việc",
+    "b": "Can thiệp, làm sai lệch hoặc phá hoại hệ thống thông tin công chứng quốc gia",
+    "c": "Hướng dẫn khách hàng cách sử dụng chữ ký số",
+    "d": "Cập nhật thông tin giao dịch vào kho dữ liệu sau khi ký",
+    "answer": "B",
+    "explanation": "Đây là hành vi bị nghiêm cấm mới được bổ sung tại nhiều luật khác nhau để bảo vệ an ninh hạ tầng số của ngành công chứng."
+  },
+  {
+    "question": "Theo Luật 2024, người tập sự hành nghề công chứng phải đảm bảo thời gian tập sự tối thiểu là bao lâu?",
+    "a": "06 tháng",
+    "b": "12 tháng",
+    "c": "18 tháng",
+    "d": "24 tháng",
+    "answer": "B",
+    "explanation": "Luật 2024 k1-đ12 duy trì thời gian tập sự là 12 tháng để đảm bảo người tập sự đủ kỹ năng và đạo đức trước khi chính thức hành nghề."
+  },
+  {
+    "question": "Cơ sở dữ liệu công chứng theo Luật 2024 được xây dựng nhằm mục đích gì?",
+    "a": "Để thu thêm phí tra cứu của người dân",
+    "b": "Để chia sẻ thông tin về nguồn gốc tài sản, tình trạng giao dịch và ngăn chặn các hành vi vi phạm pháp luật",
+    "c": "Để thay thế hoàn toàn sổ lưu trữ bằng giấy tại văn phòng",
+    "d": "Để các văn phòng công chứng quảng cáo dịch vụ của mình",
+    "answer": "B",
+    "explanation": "Hệ thống thông tin công chứng quốc gia là xương sống giúp CCV kiểm soát rủi ro 'một tài sản bán cho nhiều người'."
+  },
+  {
+    "question": "Hành vi nào bị nghiêm cấm đối với Tổ chức hành nghề công chứng tại Luật 2024 nhằm đảm bảo tính minh bạch?",
+    "a": "Thực hiện công chứng ngoài giờ hành chính khi có yêu cầu chính đáng",
+    "b": "Mở chi nhánh, văn phòng đại diện, địa điểm tiếp nhận hồ sơ công chứng ngoài trụ sở trái quy định",
+    "c": "Thu thù lao soạn thảo văn bản theo thỏa thuận với khách hàng",
+    "d": "Tham gia vào các tổ chức xã hội - nghề nghiệp",
+    "answer": "B",
+    "explanation": "Cấm mở 'văn phòng vệ tinh' hoặc 'điểm gom hồ sơ' trái luật là điểm được siết chặt tại Điều 9 Luật 2024."
+  },
+  {
+    "question": "Luật Công chứng 2024 quy định như thế nào về việc CCV đã nghỉ hưu tham gia hành nghề?",
+    "a": "Được hành nghề không hạn chế nếu còn sức khỏe",
+    "b": "Được hành nghề nhưng phải dưới sự giám sát của CCV trẻ",
+    "c": "Chỉ được hành nghề nếu không quá 70 tuổi và đủ điều kiện sức khỏe",
+    "d": "Tuyệt đối không được hành nghề sau khi nghỉ hưu theo chế độ bảo hiểm",
+    "answer": "C",
+    "explanation": "Quy định giới hạn 70 tuổi áp dụng cho tất cả CCV, bất kể họ đã nghỉ hưu ở cơ quan cũ hay chưa."
+  },
+  {
     "question": "Theo Quyết định 148/2025, khi người yêu cầu công chứng có hành vi vi phạm pháp luật hoặc trái đạo đức xã hội, Công chứng viên phải xử lý như thế nào?",
     "a": "Vẫn thực hiện công chứng nhưng ghi chú vào hồ sơ",
     "b": "Kiên quyết từ chối thực hiện việc công chứng đó",
@@ -18,14 +117,14 @@
     "explanation": "Theo Điều 4 và Điều 5: CCV phải trung thực, khách quan và có nghĩa vụ từ chối các yêu cầu vi phạm pháp luật hoặc trái đạo đức xã hội."
   },
   {
-    "question": "Công chứng viên bị nghiêm cấm làm điều gì sau đây nhằm mục đích cạnh tranh không lành mạnh?",
-    "a": "Niêm yết công khai thù lao công chứng tại trụ sở",
-    "b": "Mở thêm chi nhánh tại các tỉnh thành khác theo đúng luật",
-    "c": "Đưa ra các thông tin không chính xác về năng lực của đồng nghiệp khác",
-    "d": "Tổ chức các buổi hội thảo chia sẻ kinh nghiệm nghề nghiệp",
-    "answer": "C",
-    "explanation": "Theo Khoản 2 Điều 9 và Khoản 3 Điều 14: CCV không được xúc phạm, hạ thấp uy tín hoặc đưa tin sai sự thật về đồng nghiệp để cạnh tranh."
-  },
+  "question": "Công chứng viên bị nghiêm cấm thực hiện hành vi nào sau đây nhằm cạnh tranh không lành mạnh?",
+  "a": "Niêm yết công khai mức phí tại trụ sở",
+  "b": "Tham gia hội thảo chuyên môn về công chứng",
+  "c": "Đưa thông tin sai sự thật nhằm hạ thấp uy tín công chứng viên khác",
+  "d": "Hướng dẫn người dân thủ tục công chứng",
+  "answer": "C",
+  "explanation": "Công chứng viên không được xúc phạm danh dự, uy tín hoặc đưa thông tin sai sự thật về đồng nghiệp để cạnh tranh không lành mạnh."
+},
   {
     "question": "Trong việc thu phí và thù lao công chứng, Công chứng viên phải tuân thủ nguyên tắc nào?",
     "a": "Được quyền tự thỏa thuận mức phí cao hơn quy định nếu vụ việc khó",
@@ -33,7 +132,7 @@
     "c": "Giảm phí tối đa để thu hút khách hàng từ các văn phòng khác",
     "d": "Không cần xuất hóa đơn đối với các giao dịch nhỏ",
     "answer": "B",
-    "explanation": "Điều 14 nghiêm cấm việc thu phí, thù lao cao hơn hoặc thấp hơn mức quy định nhằm cạnh tranh hoặc trục lợi."
+    "explanation": "Nghiêm cấm việc thu phí, thù lao cao hơn hoặc thấp hơn mức quy định nhằm cạnh tranh hoặc trục lợi."
   },
   {
     "question": "Nghĩa vụ của Công chứng viên đối với Hiệp hội Công chứng viên Việt Nam là gì?",
@@ -42,7 +141,7 @@
     "c": "Không cần quan tâm đến các thông báo từ Hiệp hội",
     "d": "Được quyền từ chối sự giám sát của Hiệp hội",
     "answer": "B",
-    "explanation": "Theo Điều 11: CCV có trách nhiệm thực hiện đầy đủ nghĩa vụ hội viên và chấp hành các quy định, nghị quyết của tổ chức xã hội - nghề nghiệp."
+  "explanation": "Theo Điều 17 Luật Công chứng 2024, công chứng viên có nghĩa vụ tham gia tổ chức xã hội - nghề nghiệp của công chứng viên, thực hiện nghĩa vụ hội viên và chấp hành các quy định, nghị quyết của tổ chức này."
   },
   {
     "question": "Khi hướng dẫn người tập sự, Công chứng viên KHÔNG được thực hiện hành vi nào?",
@@ -54,23 +153,23 @@
     "explanation": "Theo Luật Công chứng và Quy tắc đạo đức: Chỉ CCV mới có quyền ký văn bản công chứng; hành vi để người tập sự ký thay là vi phạm pháp luật nghiêm trọng."
   },
   {
-    "question": "Theo Điều 13, khi tham gia các hoạt động truyền thông, quảng bá hình ảnh, Công chứng viên phải lưu ý điều gì?",
-    "a": "Quảng cáo càng rầm rộ càng tốt để tăng lợi nhuận",
-    "b": "Phải trung thực, không được dùng lời lẽ gây nhầm lẫn về phạm vi hành nghề",
-    "c": "Được phép so sánh dịch vụ của mình tốt hơn dịch vụ của đồng nghiệp",
-    "d": "Sử dụng các danh hiệu không có thật để đánh bóng tên tuổi",
-    "answer": "B",
-    "explanation": "Điều 13 và 14 yêu cầu CCV phải giữ gìn hình ảnh nghề nghiệp, thông tin phải chính xác và không gây nhầm lẫn cho xã hội."
-  },
+  "question": "Theo Luật Công chứng 2024, công chứng viên bị nghiêm cấm thực hiện hành vi nào sau đây?",
+  "a": "Giải thích quy định pháp luật cho người yêu cầu công chứng",
+  "b": "Quảng cáo công chứng viên và tổ chức hành nghề công chứng trên phương tiện thông tin đại chúng",
+  "c": "Niêm yết mức thu phí công chứng tại trụ sở",
+  "d": "Tham gia sinh hoạt nghề nghiệp của Hiệp hội công chứng viên",
+  "answer": "B",
+  "explanation": "Điểm g khoản 1 Điều 9 Luật Công chứng 2024 nghiêm cấm công chứng viên quảng cáo trên phương tiện thông tin đại chúng về công chứng viên và tổ chức hành nghề công chứng."
+},
   {
-    "question": "Trách nhiệm của Công chứng viên khi phát hiện văn bản công chứng có sai sót kỹ thuật là gì?",
-    "a": "Âm thầm sửa chữa mà không cần báo cho khách hàng",
-    "b": "Phối hợp với tổ chức hành nghề và các bên liên quan để thực hiện việc niêm yết hoặc đính chính theo luật",
-    "c": "Hủy bỏ văn bản đó và yêu cầu khách hàng ký lại từ đầu",
-    "d": "Từ chối trách nhiệm nếu khách hàng đã ký vào văn bản đó",
-    "answer": "B",
-    "explanation": "CCV có trách nhiệm đối với kết quả công việc của mình và phải tuân thủ quy trình đính chính sai sót theo quy định pháp luật."
-  },
+  "question": "Khi phát hiện văn bản công chứng có sai sót kỹ thuật, công chứng viên phải làm gì?",
+  "a": "Tự ý sửa trực tiếp trên văn bản đã công chứng",
+  "b": "Thực hiện việc đính chính theo đúng trình tự, thủ tục pháp luật quy định",
+  "c": "Hủy bỏ ngay văn bản công chứng",
+  "d": "Từ chối xử lý vì văn bản đã được ký",
+  "answer": "B",
+  "explanation": "Khi phát hiện sai sót kỹ thuật trong văn bản công chứng, công chứng viên phải thực hiện việc đính chính theo đúng trình tự, thủ tục do pháp luật quy định."
+},
   {
     "question": "Công chứng viên phải ứng xử như thế nào đối với các cơ quan Nhà nước có thẩm quyền?",
     "a": "Sẵn sàng cung cấp hồ sơ bí mật khi có yêu cầu không chính thức",
@@ -123,7 +222,7 @@
     "c": "Trong quá trình hành nghề và kể cả khi không còn là công chứng viên",
     "d": "Cho đến khi hồ sơ được đưa vào lưu trữ",
     "answer": "C",
-    "explanation": "Theo Khoản 1 Điều 6: Công chứng viên phải giữ bí mật thông tin trong quá trình hành nghề cũng như khi không còn là công chứng viên."
+    "explanation": "Theo Khoản 1 Điều 6 qtdđ: Công chứng viên phải giữ bí mật thông tin trong quá trình hành nghề cũng như khi không còn là công chứng viên."
   },
   {
     "question": "Khi phát hiện đồng nghiệp có sai sót trong hành nghề, công chứng viên có nghĩa vụ gì?",
