@@ -1,5 +1,356 @@
 [
   {
+    "question": "Ủy ban nhân dân tỉnh X đang xem xét thành lập một Phòng công chứng mới tại huyện Y. Điều kiện nào sau đây là bắt buộc để việc thành lập này phù hợp với Điều 21 LCC 2024?",
+    "a": "Huyện Y phải là địa bàn kinh tế đặc biệt khó khăn.",
+    "b": "Địa bàn huyện Y chưa phát triển được Văn phòng công chứng đáp ứng yêu cầu công chứng.",
+    "c": "Phải có ít nhất 05 công chứng viên đăng ký làm việc tại Phòng công chứng này.",
+    "d": "Phòng công chứng mới phải được tổ chức theo loại hình doanh nghiệp tư nhân.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 1 Điều 21 LCC 2024: 'Phòng công chứng chỉ được thành lập mới tại những địa bàn cấp huyện chưa phát triển được Văn phòng công chứng đáp ứng yêu cầu công chứng của cá nhân, tổ chức'."
+  },
+  {
+    "question": "Ông An muốn thành lập Văn phòng công chứng (VPCC) theo loại hình doanh nghiệp tư nhân tại một huyện miền núi. Theo Điều 23 LCC 2024, ông An phải đáp ứng điều kiện về kinh nghiệm hành nghề như thế nào để làm Trưởng VPCC?",
+    "a": "Là công chứng viên và có thời gian hành nghề từ đủ 01 năm trở lên.",
+    "b": "Là công chứng viên và có thời gian hành nghề từ đủ 02 năm trở lên.",
+    "c": "Là công chứng viên và đã từng làm Trưởng phòng tại một Phòng công chứng.",
+    "d": "Chỉ cần là công chứng viên, không yêu cầu thời gian hành nghề tối thiểu.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 2 Điều 23 LCC 2024, chủ doanh nghiệp tư nhân đồng thời là Trưởng VPCC và 'phải là công chứng viên đã hành nghề công chứng từ đủ 02 năm trở lên'."
+  },
+  {
+    "question": "Sau khi nhận được quyết định cho phép thành lập, trong thời hạn bao lâu thì Văn phòng công chứng phải đăng ký hoạt động tại Sở Tư pháp?",
+    "a": "30 ngày.",
+    "b": "60 ngày.",
+    "c": "90 ngày.",
+    "d": "180 ngày.",
+    "answer": "C",
+    "explanation": "Căn cứ Khoản 1 Điều 25 LCC 2024: 'Trong thời hạn 90 ngày kể từ ngày quyết định cho phép thành lập có hiệu lực thi hành, Văn phòng công chứng phải đăng ký hoạt động tại Sở Tư pháp'."
+  },
+  {
+    "question": "Tình huống: Văn phòng công chứng A (loại hình hợp danh) có 2 thành viên là CCV Bình và CCV Chi. Do mâu thuẫn, CCV Bình muốn rút vốn. Theo Điều 27 LCC 2024, ông Bình phải thông báo bằng văn bản cho các thành viên còn lại và Sở Tư pháp chậm nhất là bao lâu?",
+    "a": "01 tháng trước ngày rút vốn.",
+    "b": "03 tháng trước ngày rút vốn.",
+    "c": "06 tháng trước ngày rút vốn.",
+    "d": "Không cần thông báo trước, chỉ cần được sự đồng ý.",
+    "answer": "C",
+    "explanation": "Căn cứ Khoản 2 Điều 27 LCC 2024: 'Thành viên hợp danh phải thông báo bằng văn bản... về yêu cầu rút vốn chậm nhất là 06 tháng trước ngày rút vốn'."
+  },
+  {
+    "question": "Văn phòng công chứng B bị thu hồi quyết định cho phép thành lập do không hoạt động liên tục từ 03 tháng trở lên. Sau bao lâu kể từ ngày quyết định thu hồi giấy đăng ký hoạt động có hiệu lực, Trưởng VPCC này mới được phép thành lập hoặc tham gia thành lập một VPCC mới?",
+    "a": "01 năm.",
+    "b": "02 năm.",
+    "c": "03 năm.",
+    "d": "05 năm.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 4 Điều 34 LCC 2024: 'Hết thời hạn 02 năm kể từ ngày quyết định thu hồi giấy đăng ký hoạt động... mới được thành lập, tham gia thành lập Văn phòng công chứng mới...'."
+  },
+  {
+    "question": "Theo Điều 23 LCC 2024, tên riêng của Văn phòng công chứng KHÔNG được vi phạm quy định nào sau đây?",
+    "a": "Không được đặt theo tên của thành viên hợp danh.",
+    "b": "Không được sử dụng tên cơ quan nhà nước để làm một phần tên riêng.",
+    "c": "Không được trùng tên với các doanh nghiệp khác cùng địa bàn tỉnh.",
+    "d": "Phải có ít nhất 03 từ tiếng Việt.",
+    "answer": "B",
+    "explanation": "Căn cứ điểm a Khoản 4 Điều 23 LCC 2024: 'Không được sử dụng tên cơ quan nhà nước... để làm toàn bộ hoặc một phần tên riêng của Văn phòng công chứng'."
+  },
+  {
+    "question": "Trường hợp Văn phòng công chứng hợp danh chỉ còn 01 thành viên hợp danh do một người bị miễn nhiệm CCV, thì trong thời hạn bao lâu phải bổ sung thành viên hợp danh mới để không bị thu hồi quyết định thành lập?",
+    "a": "03 tháng.",
+    "b": "06 tháng.",
+    "c": "09 tháng.",
+    "d": "12 tháng.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 2 Điều 33 LCC 2024: 'phải bổ sung ít nhất 01 thành viên hợp danh mới trong thời hạn 06 tháng kể từ ngày Văn phòng công chứng chỉ còn 01 thành viên hợp danh'."
+  },
+  {
+    "question": "Văn phòng công chứng X muốn thay đổi địa chỉ trụ sở. Theo Điều 26 LCC 2024, phạm vi thay đổi địa chỉ trụ sở bị giới hạn như thế nào?",
+    "a": "Chỉ trong phạm vi xã/phường nơi đang đặt trụ sở.",
+    "b": "Chỉ trong phạm vi đơn vị hành chính cấp huyện nơi đặt trụ sở.",
+    "c": "Trong phạm vi toàn tỉnh/thành phố trực thuộc trung ương.",
+    "d": "Được thay đổi sang tỉnh khác nếu Sở Tư pháp chấp thuận.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 1 Điều 26 LCC 2024: 'Văn phòng công chứng chỉ được thay đổi địa chỉ trụ sở trong phạm vi đơn vị hành chính cấp huyện nơi đặt trụ sở...'."
+  },
+{
+    "question": "Văn phòng công chứng (VPCC) X được tổ chức theo loại hình hợp danh gồm 2 thành viên là CCV A và CCV B. CCV B đột ngột qua đời nhưng không có người thừa kế là công chứng viên. VPCC X phải làm gì để không bị thu hồi quyết định cho phép thành lập?",
+    "a": "Được phép hoạt động với 01 thành viên duy nhất cho đến khi hết năm tài chính.",
+    "b": "Phải bổ sung ít nhất 01 thành viên hợp danh mới trong thời hạn 06 tháng kể từ ngày CCV B chết.",
+    "c": "Phải làm thủ tục chuyển đổi sang loại hình doanh nghiệp tư nhân ngay lập tức.",
+    "d": "Phải tạm ngừng hoạt động cho đến khi tìm được người thay thế.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 2 Điều 33 LCC 2024: Trường hợp VPCC chỉ còn 01 thành viên hợp danh do thành viên còn lại chết thì phải bổ sung ít nhất 01 thành viên hợp danh mới trong thời hạn 06 tháng."
+  },
+  {
+    "question": "Ông Nam là Trưởng một VPCC được tổ chức theo loại hình doanh nghiệp tư nhân. Do muốn dành thời gian đi du lịch dài ngày, ông Nam ký hợp đồng thuê CCV Bắc điều hành toàn bộ hoạt động của Văn phòng trong 01 năm. Hành vi này đúng hay sai?",
+    "a": "Đúng, vì Trưởng VPCC có quyền ủy quyền cho công chứng viên khác điều hành.",
+    "b": "Sai, vì Trưởng VPCC không được thuê người khác điều hành Văn phòng công chứng.",
+    "c": "Đúng, nếu việc thuê này được Sở Tư pháp chấp thuận bằng văn bản.",
+    "d": "Sai, vì loại hình doanh nghiệp tư nhân chỉ được hoạt động tối đa 06 tháng nếu Trưởng văn phòng vắng mặt.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 3 Điều 23 LCC 2024: Trưởng VPCC không được thuê người khác điều hành Văn phòng công chứng, không được cho thuê Văn phòng công chứng."
+  },
+  {
+    "question": "Sau khi được cấp Giấy đăng ký hoạt động, VPCC Minh Anh chưa kịp hoàn thiện trụ sở nên chưa mở cửa tiếp khách. Theo quy định, nếu quá thời hạn bao lâu kể từ ngày được cấp giấy mà VPCC chưa bắt đầu hoạt động thì sẽ bị thu hồi quyết định cho phép thành lập?",
+    "a": "01 tháng.",
+    "b": "03 tháng.",
+    "c": "06 tháng.",
+    "d": "12 tháng.",
+    "answer": "C",
+    "explanation": "Căn cứ điểm c Khoản 1 Điều 33 LCC 2024: VPCC bị thu hồi quyết định thành lập nếu hết thời hạn 06 tháng kể từ ngày được cấp giấy đăng ký hoạt động mà chưa bắt đầu hoạt động."
+  },
+  {
+    "question": "Một VPCC đang hoạt động bình thường nhưng bị mất Giấy đăng ký hoạt động do hỏa hoạn. VPCC phải thực hiện thủ tục gì?",
+    "a": "Phải đăng ký thành lập mới từ đầu.",
+    "b": "Phải tạm ngừng hoạt động cho đến khi tìm thấy bản gốc.",
+    "c": "Được Sở Tư pháp cấp lại Giấy đăng ký hoạt động.",
+    "d": "Được Ủy ban nhân dân tỉnh cấp bản sao có giá trị như bản chính.",
+    "answer": "C",
+    "explanation": "Căn cứ Khoản 3 Điều 26 LCC 2024: Văn phòng công chứng bị mất, bị hỏng giấy đăng ký hoạt động thì được cấp lại giấy đăng ký hoạt động."
+  },
+  {
+    "question": "Tình huống: VPCC Hợp danh X muốn chuyển nhượng toàn bộ phần vốn góp của tất cả thành viên cho 2 CCV khác. Để thực hiện việc này, VPCC X phải đáp ứng điều kiện về thời gian hoạt động tối thiểu là bao lâu?",
+    "a": "Đã hoạt động được ít nhất 01 năm.",
+    "b": "Đã hoạt động được ít nhất 02 năm.",
+    "c": "Đã hoạt động được ít nhất 03 năm.",
+    "d": "Không quy định thời gian tối thiểu, chỉ cần có người mua.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 1 Điều 30 LCC 2024: Toàn bộ thành viên hợp danh có quyền chuyển nhượng phần vốn góp sau khi Văn phòng công chứng đã hoạt động được ít nhất 02 năm."
+  },
+  {
+    "question": "Trường hợp toàn bộ công chứng viên của VPCC A bị tạm đình chỉ hành nghề công chứng trong 06 tháng, VPCC A sẽ xử lý hồ sơ đang tiếp nhận như thế nào?",
+    "a": "Phải trả lại toàn bộ hồ sơ và không được thực hiện bất kỳ giao dịch nào.",
+    "b": "Bàn giao hồ sơ cho tổ chức hành nghề công chứng do Sở Tư pháp chỉ định tiếp nhận để giải quyết các yêu cầu cấp thiết.",
+    "c": "Được phép nhờ CCV của Văn phòng khác sang ký thay tại trụ sở mình.",
+    "d": "Hồ sơ được lưu kho và đợi hết thời gian tạm ngừng hoạt động sẽ giải quyết tiếp.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 4 Điều 32 LCC 2024: VPCC tạm ngừng hoạt động phải bàn giao hồ sơ công chứng... cho tổ chức hành nghề công chứng được Sở Tư pháp chỉ định tiếp nhận thực hiện."
+  },
+  {
+    "question": "Nghĩa vụ nào sau đây là bắt buộc đối với tổ chức hành nghề công chứng liên quan đến bảo hiểm chuyên môn?",
+    "a": "Mua bảo hiểm xã hội cho nhân viên văn phòng.",
+    "b": "Mua bảo hiểm trách nhiệm nghề nghiệp cho công chứng viên của tổ chức mình.",
+    "c": "Mua bảo hiểm hỏa hoạn cho kho lưu trữ hồ sơ công chứng.",
+    "d": "Tất cả các loại bảo hiểm trên.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 5 Điều 36 LCC 2024: Tổ chức hành nghề công chứng có nghĩa vụ mua bảo hiểm trách nhiệm nghề nghiệp cho công chứng viên của tổ chức mình."
+  },
+  {
+    "question": "Tình huống: CCV Lan đang là viên chức của Phòng công chứng số 1. Bà Lan muốn xin nghỉ việc để cùng một người bạn thành lập Văn phòng công chứng mới. Theo quy định, bà Lan có được tham gia thành lập ngay không?",
+    "a": "Được, chỉ cần bà đã có quyết định nghỉ việc có hiệu lực.",
+    "b": "Không được, vì đang là viên chức thì không được tham gia thành lập VPCC mới.",
+    "c": "Được, nếu bà Lan cam kết chuyển toàn bộ hồ sơ cũ về VPCC mới.",
+    "d": "Không được, bà Lan phải đợi đủ 02 năm kể từ ngày thôi việc mới được thành lập VPCC mới.",
+    "answer": "B",
+    "explanation": "Căn cứ điểm a Khoản 2 Điều 24 LCC 2024: Công chứng viên đang là viên chức của Phòng công chứng thì không được thành lập, tham gia thành lập Văn phòng công chứng mới."
+  },
+{
+    "question": "Văn phòng công chứng (VPCC) A muốn chấm dứt hoạt động tự nguyện. Theo quy định tại Điều 34 LCC 2024, VPCC A phải gửi báo cáo bằng văn bản cho Sở Tư pháp chậm nhất là bao lâu trước ngày dự kiến chấm dứt?",
+    "a": "15 ngày.",
+    "b": "30 ngày.",
+    "c": "60 ngày.",
+    "d": "90 ngày.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 2 Điều 34 LCC 2024: 'chậm nhất là 30 ngày trước ngày dự kiến chấm dứt hoạt động, Văn phòng công chứng phải có báo cáo việc dự kiến chấm dứt hoạt động bằng văn bản gửi Sở Tư pháp'."
+  },
+  {
+    "question": "Tình huống: VPCC X (loại hình hợp danh) bị thu hồi quyết định cho phép thành lập. Sau khi bị thu hồi, VPCC X vẫn còn nợ thuế và nợ lương nhân viên nhưng tài sản của Văn phòng không đủ để thanh toán. Trách nhiệm thanh toán thuộc về ai?",
+    "a": "Ngân sách nhà nước hỗ trợ một phần.",
+    "b": "Chỉ tính trên tài sản hiện có của Văn phòng công chứng.",
+    "c": "Sử dụng tài sản của các thành viên hợp danh để thanh toán các khoản nợ theo quy định pháp luật dân sự.",
+    "d": "Các khoản nợ này đương nhiên được xóa bỏ khi Văn phòng giải thể.",
+    "answer": "C",
+    "explanation": "Căn cứ Khoản 3 Điều 34 LCC 2024: 'tài sản của Văn phòng công chứng, của thành viên hợp danh... được sử dụng để thanh toán các khoản nợ của Văn phòng công chứng theo quy định của pháp luật về dân sự'."
+  },
+  {
+    "question": "Theo Điều 36 LCC 2024, tổ chức hành nghề công chứng có nghĩa vụ niêm yết những nội dung nào tại trụ sở?",
+    "a": "Lịch làm việc, thủ tục công chứng, nội quy tiếp người yêu cầu công chứng.",
+    "b": "Phí công chứng, phí và giá dịch vụ theo yêu cầu.",
+    "c": "Danh sách cộng tác viên dịch thuật đã được Sở Tư pháp phê duyệt.",
+    "d": "Tất cả các nội dung trên.",
+    "answer": "D",
+    "explanation": "Căn cứ Khoản 4 Điều 36 LCC 2024 quy định tổ chức hành nghề công chứng phải niêm yết đầy đủ các nội dung về lịch làm việc, quy trình, phí, giá dịch vụ và danh sách cộng tác viên dịch thuật."
+  },
+  {
+    "question": "Văn phòng công chứng (VPCC) được quyền cung cấp dịch vụ công chứng ngoài ngày, giờ làm việc của cơ quan hành chính nhà nước trong trường hợp nào?",
+    "a": "Khi được sự đồng ý bằng văn bản của Giám đốc Sở Tư pháp.",
+    "b": "Để đáp ứng nhu cầu công chứng của cá nhân, tổ chức.",
+    "c": "Chỉ được thực hiện vào sáng Thứ Bảy hàng tuần.",
+    "d": "Không được phép, phải tuân thủ nghiêm ngặt giờ hành chính.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 3 Điều 35 LCC 2024: VPCC có quyền 'Cung cấp dịch vụ công chứng ngoài ngày, giờ làm việc của cơ quan hành chính nhà nước để đáp ứng nhu cầu công chứng của cá nhân, tổ chức'."
+  },
+  {
+    "question": "Con dấu của tổ chức hành nghề công chứng (Phòng công chứng và Văn phòng công chứng) có đặc điểm nào sau đây theo Luật Công chứng 2024?",
+    "a": "Có hình quốc huy đối với Phòng công chứng.",
+    "b": "Không có hình quốc huy đối với cả hai loại hình.",
+    "c": "Được sử dụng ngay sau khi có quyết định cho phép thành lập mà chưa cần đăng ký hoạt động.",
+    "d": "Chỉ được khắc tại các cơ sở do Bộ Công an chỉ định.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 5 Điều 20 và Khoản 6 Điều 23 LCC 2024: Con dấu của Phòng công chứng và Văn phòng công chứng đều 'không có hình quốc huy'."
+  },
+  {
+    "question": "Tình huống: Một VPCC mới thành lập muốn thay đổi tên riêng của mình. Tên mới dự kiến là: 'Văn phòng công chứng Sở Tư pháp tỉnh Bình Dương'. Tên này có được chấp nhận không?",
+    "a": "Được, vì gắn với tên tỉnh để khách hàng dễ nhận diện địa bàn.",
+    "b": "Không, vì không được sử dụng tên cơ quan nhà nước để làm một phần tên riêng của VPCC.",
+    "c": "Được, nếu có sự đồng ý của Giám đốc Sở Tư pháp tỉnh đó.",
+    "d": "Không, vì tên VPCC bắt buộc phải gắn với tên của các thành viên hợp danh.",
+    "answer": "B",
+    "explanation": "Căn cứ điểm a Khoản 4 Điều 23 LCC 2024: Không được sử dụng tên cơ quan nhà nước... để làm toàn bộ hoặc một phần tên riêng của Văn phòng công chứng."
+  },
+  {
+    "question": "Trách nhiệm bồi thường thiệt hại do lỗi của công chứng viên gây ra trong quá trình hành nghề được quy định như thế nào tại Điều 36?",
+    "a": "Công chứng viên phải tự bồi thường toàn bộ bằng tài sản cá nhân ngay lập tức.",
+    "b": "Tổ chức hành nghề công chứng có nghĩa vụ bồi thường thiệt hại.",
+    "c": "Nhà nước bồi thường nếu công chứng viên làm việc tại Phòng công chứng.",
+    "d": "Hội công chứng viên đứng ra bồi thường thay cho hội viên.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 5 Điều 36 LCC 2024: Tổ chức hành nghề công chứng có nghĩa vụ 'bồi thường thiệt hại theo quy định tại Điều 40 của Luật này'."
+  },
+{
+    "question": "Văn phòng công chứng (VPCC) A vừa tiếp nhận thêm 01 thành viên hợp danh mới và thay đổi Trưởng Văn phòng. Trong thời hạn bao lâu kể từ ngày thay đổi, VPCC A phải đăng ký nội dung thay đổi tại Sở Tư pháp?",
+    "a": "05 ngày làm việc.",
+    "b": "07 ngày làm việc.",
+    "c": "10 ngày.",
+    "d": "15 ngày.",
+    "answer": "C",
+    "explanation": "Căn cứ Khoản 1 Điều 26 LCC 2024: 'Trong thời hạn 10 ngày kể từ ngày thay đổi một trong các nội dung quy định tại khoản 2 Điều 25 của Luật này, Văn phòng công chứng phải đăng ký nội dung thay đổi tại Sở Tư pháp'."
+  },
+  {
+    "question": "Văn phòng công chứng X bị UBND tỉnh ra quyết định thu hồi quyết định cho phép thành lập vào ngày 01/06/2026. Trong thời hạn bao lâu kể từ ngày này, Sở Tư pháp có trách nhiệm thu hồi giấy đăng ký hoạt động của VPCC X?",
+    "a": "05 ngày làm việc.",
+    "b": "07 ngày làm việc.",
+    "c": "10 ngày làm việc.",
+    "d": "15 ngày làm việc.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 3 Điều 34 LCC 2024: 'Trong thời hạn 07 ngày làm việc kể từ ngày có quyết định thu hồi quyết định cho phép thành lập, Sở Tư pháp có trách nhiệm thu hồi giấy đăng ký hoạt động của Văn phòng công chứng'."
+  },
+  {
+    "question": "Trường hợp Văn phòng công chứng (VPCC) bị thu hồi quyết định cho phép thành lập (không do lỗi hợp nhất, sáp nhập), VPCC có nghĩa vụ nộp đủ tiền thuế nợ và thanh toán xong các khoản nợ khác trong thời hạn tối đa là bao lâu?",
+    "a": "30 ngày kể từ ngày bị thu hồi quyết định.",
+    "b": "60 ngày kể từ ngày bị thu hồi quyết định.",
+    "c": "90 ngày kể từ ngày bị thu hồi quyết định.",
+    "d": "180 ngày kể từ ngày bị thu hồi quyết định.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 3 Điều 34 LCC 2024: 'Trong thời hạn 60 ngày kể từ ngày bị thu hồi quyết định cho phép thành lập, Văn phòng công chứng có nghĩa vụ nộp đủ tiền thuế nợ, thanh toán xong các khoản nợ khác...'."
+  },
+  {
+    "question": "Thành viên hợp danh mới được tiếp nhận vào Văn phòng công chứng phải nộp đủ số vốn cam kết góp vào Văn phòng trong thời hạn bao lâu kể từ ngày được chấp thuận?",
+    "a": "07 ngày.",
+    "b": "10 ngày.",
+    "c": "15 ngày.",
+    "d": "30 ngày.",
+    "answer": "C",
+    "explanation": "Căn cứ Khoản 1 Điều 28 LCC 2024: 'Thành viên hợp danh mới phải nộp đủ số vốn cam kết góp vào Văn phòng công chứng trong thời hạn 15 ngày kể từ ngày được chấp thuận trở thành thành viên hợp danh'."
+  },
+  {
+    "question": "Văn phòng công chứng (VPCC) X tạm ngừng hoạt động do sự kiện bất khả kháng. Trong thời hạn bao lâu kể từ ngày lý do tạm ngừng không còn, Sở Tư pháp phải ra quyết định chấm dứt việc tạm ngừng hoạt động để VPCC X quay lại làm việc?",
+    "a": "05 ngày làm việc.",
+    "b": "07 ngày làm việc.",
+    "c": "10 ngày.",
+    "d": "15 ngày.",
+    "answer": "D",
+    "explanation": "Căn cứ Khoản 3 Điều 32 LCC 2024: 'Trong thời hạn 15 ngày kể từ ngày lý do tạm ngừng không còn, Sở Tư pháp ra quyết định chấm dứt việc tạm ngừng hoạt động của Văn phòng công chứng'."
+  },
+  {
+    "question": "Tình huống: Văn phòng công chứng (VPCC) hợp danh A chỉ còn 01 thành viên hợp danh do một thành viên bị miễn nhiệm CCV vào ngày 10/05/2026. Hạn cuối cùng để VPCC A bổ sung ít nhất 01 thành viên hợp danh mới nhằm tránh bị thu hồi quyết định thành lập là ngày nào?",
+    "a": "Ngày 10/08/2026.",
+    "b": "Ngày 10/11/2026.",
+    "c": "Ngày 10/02/2027.",
+    "d": "Ngày 10/05/2027.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 2 Điều 33 LCC 2024: VPCC phải bổ sung ít nhất 01 thành viên hợp danh mới trong thời hạn 06 tháng kể từ ngày Văn phòng chỉ còn 01 thành viên hợp danh. Từ tháng 5 đến tháng 11 là đủ 6 tháng."
+  },
+  {
+    "question": "Thời hạn tối đa để một Văn phòng công chứng tạm ngừng hoạt động trong trường hợp toàn bộ công chứng viên bị tạm đình chỉ hành nghề là bao lâu?",
+    "a": "06 tháng.",
+    "b": "12 tháng.",
+    "c": "18 tháng.",
+    "d": "24 tháng.",
+    "answer": "B",
+    "explanation": "Căn cứ điểm a Khoản 2 Điều 32 LCC 2024: Trường hợp toàn bộ CCV bị tạm đình chỉ hành nghề, thời gian tạm ngừng hoạt động của VPCC tối đa là 12 tháng."
+  },
+  {
+    "question": "Mốc thời gian nào sau đây quy định về việc Văn phòng công chứng không hoạt động liên tục sẽ bị thu hồi quyết định thành lập?",
+    "a": "Không hoạt động từ 01 tháng trở lên.",
+    "b": "Không hoạt động từ 02 tháng trở lên.",
+    "c": "Không hoạt động từ 03 tháng trở lên.",
+    "d": "Không hoạt động từ 06 tháng trở lên.",
+    "answer": "C",
+    "explanation": "Căn cứ điểm d Khoản 1 Điều 33 LCC 2024: Văn phòng công chứng không hoạt động liên tục từ 03 tháng trở lên (trừ trường hợp tạm ngừng theo luật định) sẽ bị thu hồi quyết định cho phép thành lập."
+  },
+{
+    "question": "Công chứng viên (CCV) A là thành viên hợp danh của VPCC X. Tháng 05/2026, CCV A chuyển nhượng toàn bộ vốn góp cho CCV B và rời khỏi văn phòng. Đến tháng 10/2026, một khách hàng kiện VPCC X yêu cầu bồi thường thiệt hại cho một hợp đồng do CCV A ký từ năm 2024. CCV A có phải chịu trách nhiệm không?",
+    "a": "Không, vì CCV A đã chuyển nhượng vốn và không còn là thành viên của văn phòng.",
+    "b": "Có, CCV A phải liên đới chịu trách nhiệm bằng tài sản riêng của mình vì nợ phát sinh trong thời gian là thành viên.",
+    "c": "Chỉ chịu trách nhiệm nếu CCV B (người mua vốn) không có khả năng bồi thường.",
+    "d": "Không, vì trách nhiệm bồi thường thuộc về VPCC X bằng tài sản của văn phòng.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 5 Điều 30 LCC 2024: Trong thời hạn 02 năm kể từ ngày chấm dứt tư cách thành viên, CCV vẫn phải liên đới chịu trách nhiệm bằng toàn bộ tài sản đối với các khoản nợ phát sinh trong thời gian là thành viên hợp danh."
+  },
+  {
+    "question": "Ông Hùng là CCV đã hành nghề 3 năm, muốn mua lại một VPCC được tổ chức theo loại hình doanh nghiệp tư nhân tại huyện Bến Cát. Ông Hùng phải thực hiện cam kết nào sau đây?",
+    "a": "Cam kết đóng góp ít nhất 2 tỷ đồng vào quỹ dự phòng tài chính.",
+    "b": "Cam kết không mở thêm văn phòng thứ hai trong vòng 5 năm.",
+    "c": "Cam kết hành nghề với tư cách Trưởng Văn phòng công chứng tại văn phòng mà mình sẽ mua.",
+    "d": "Cam kết tiếp nhận toàn bộ nhân viên cũ của văn phòng đó.",
+    "answer": "C",
+    "explanation": "Căn cứ điểm c Khoản 2 Điều 31 LCC 2024: Công chứng viên mua VPCC tư nhân phải cam kết hành nghề với tư cách Trưởng Văn phòng tại văn phòng mà mình sẽ mua."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, một VPCC sẽ bị thu hồi quyết định cho phép thành lập nếu rơi vào trường hợp nào sau đây?",
+    "a": "Thay đổi trụ sở sang huyện khác trong cùng một tỉnh.",
+    "b": "Nội dung kê khai trong hồ sơ đề nghị thành lập là giả mạo.",
+    "c": "Chậm nộp báo cáo thống kê định kỳ cho Sở Tư pháp 02 lần liên tiếp.",
+    "d": "Sử dụng con dấu khi chưa được cấp giấy đăng ký hoạt động.",
+    "answer": "B",
+    "explanation": "Căn cứ điểm b Khoản 1 Điều 33 LCC 2024: Nội dung kê khai trong hồ sơ đề nghị thành lập VPCC là giả mạo thì sẽ bị thu hồi quyết định cho phép thành lập."
+  },
+{
+    "question": "Văn phòng công chứng (VPCC) X có 3 thành viên hợp danh là A, B và C. CCV A muốn rút vốn khỏi văn phòng. Theo quy định tại Điều 27 LCC 2024, điều kiện nào sau đây là KHÔNG đúng?",
+    "a": "Phải được ít nhất 3/4 tổng số thành viên hợp danh chấp thuận bằng văn bản.",
+    "b": "Phải thông báo bằng văn bản cho các thành viên và Sở Tư pháp chậm nhất 06 tháng trước ngày rút vốn.",
+    "c": "Việc rút vốn chỉ được thực hiện vào thời điểm kết thúc năm tài chính.",
+    "d": "CCV A có thể rút vốn ngay lập tức nếu đã tìm được CCV khác thay thế và nộp đủ vốn.",
+    "answer": "D",
+    "explanation": "Căn cứ Khoản 2 Điều 27 LCC 2024: Việc rút vốn phải thông báo trước 06 tháng, được 3/4 thành viên đồng ý và chỉ thực hiện tại thời điểm kết thúc năm tài chính."
+  },
+  {
+    "question": "Ông Bình là chủ VPCC tư nhân tại một huyện khó khăn. Do tuổi cao, ông muốn bán lại VPCC cho CCV Sơn. Theo Điều 31 LCC 2024, sau khi bán, ông Bình có còn trách nhiệm gì với các khoản nợ cũ không?",
+    "a": "Không, toàn bộ nợ và nghĩa vụ tài sản chuyển sang cho ông Sơn.",
+    "b": "Ông Bình vẫn phải chịu trách nhiệm về các khoản nợ phát sinh trước ngày chuyển giao, trừ khi có thỏa thuận khác giữa các bên và chủ nợ.",
+    "c": "Ông Bình chỉ chịu trách nhiệm trong vòng 02 năm kể từ ngày bán.",
+    "d": "Ông Bình và ông Sơn mỗi người chịu trách nhiệm 50% đối với các khoản nợ cũ.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 4 Điều 31 LCC 2024: Trưởng VPCC vẫn phải chịu trách nhiệm về các khoản nợ phát sinh trước ngày chuyển giao, trừ khi có thỏa thuận khác với người mua và chủ nợ."
+  },
+{
+    "question": "VPCC Minh Tâm tiếp nhận hồ sơ công chứng hợp đồng mua bán nhà đất lúc 18h00 ngày Thứ 7 để hỗ trợ khách hàng ở xa. Hành vi này được pháp luật quy định như thế nào?",
+    "a": "Là hành vi vi phạm vì không tuân thủ giờ làm việc của cơ quan hành chính nhà nước.",
+    "b": "Được phép, vì tổ chức hành nghề công chứng có quyền cung cấp dịch vụ ngoài ngày, giờ làm việc để đáp ứng nhu cầu khách hàng.",
+    "c": "Được phép nhưng phải báo cáo và được sự đồng ý của Hội công chứng viên.",
+    "d": "Chỉ được phép nếu địa bàn đó chưa có Phòng công chứng.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 3 Điều 35 LCC 2024: VPCC có quyền cung cấp dịch vụ ngoài ngày, giờ làm việc của cơ quan hành chính nhà nước."
+  },
+  {
+    "question": "VPCC A đang bị tạm ngừng hoạt động 12 tháng do toàn bộ CCV bị tạm đình chỉ hành nghề. Một khách hàng muốn sửa lỗi kỹ thuật trong văn bản công chứng cũ do VPCC A thực hiện thì phải làm thế nào?",
+    "a": "Phải đợi đến khi VPCC A hoạt động trở lại.",
+    "b": "Khách hàng phải khởi kiện ra Tòa án để yêu cầu sửa lỗi.",
+    "c": "Sở Tư pháp sẽ chỉ định một tổ chức hành nghề công chứng khác tiếp nhận hồ sơ để thực hiện.",
+    "d": "Khách hàng tự mình sửa chữa và xin xác nhận của Ủy ban nhân dân cấp xã.",
+    "answer": "C",
+    "explanation": "Căn cứ Khoản 4 Điều 32 LCC 2024: Khi VPCC tạm ngừng hoạt động, Sở Tư pháp chỉ định tổ chức khác tiếp nhận hồ sơ để giải quyết các yêu cầu sửa lỗi, bổ sung, hủy bỏ giao dịch..."
+  },
+{
+    "question": "Văn phòng công chứng X được UBND tỉnh cho phép thành lập và đã cấp Giấy đăng ký hoạt động. Tuy nhiên, sau 01 năm hoạt động, Sở Tư pháp phát hiện trụ sở của VPCC X không đúng như hồ sơ đề nghị ban đầu. Theo Điều 33 LCC 2024, VPCC X đối mặt với rủi ro gì?",
+    "a": "Bị phạt tiền và buộc phải tìm trụ sở mới trong 30 ngày.",
+    "b": "Bị thu hồi quyết định cho phép thành lập do không duy trì được điều kiện về trụ sở theo hồ sơ đề nghị.",
+    "c": "Bị đình chỉ hoạt động 06 tháng để khắc phục.",
+    "d": "Trưởng văn phòng bị miễn nhiệm công chứng viên.",
+    "answer": "B",
+    "explanation": "Căn cứ điểm h Khoản 1 Điều 33 LCC 2024: VPCC không duy trì được các điều kiện về trụ sở theo hồ sơ đề nghị trong thời hạn ít nhất 01 năm kể từ ngày cấp giấy đăng ký sẽ bị thu hồi quyết định thành lập."
+  },
+{
     "question": "Theo Luật Công chứng năm 2024, số lượng chương và điều thay đổi như thế nào so với Luật năm 2014?",
     "a": "Tăng 02 chương và 05 điều.",
     "b": "Giảm 02 chương và 05 điều.",
