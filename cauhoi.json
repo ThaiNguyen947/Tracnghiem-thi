@@ -27,10 +27,10 @@
     "explanation": "Nguyên tắc công chứng điện tử yêu cầu tính hiệu lực tại thời điểm giao dịch. CCV không được ký số vào văn bản khi chữ ký của NYCCC không còn giá trị pháp lý (Điều 64)."
   },
   {
-    "question": "Tình huống: NYCCC yêu cầu thực hiện công chứng điện tử cho một hợp đồng mua bán xe. Tuy nhiên, tài sản này đang có thông báo 'ngăn chặn' bằng văn bản giấy của Tòa án nhưng chưa được cập nhật lên Hệ thống thông tin công chứng quốc gia. CCV làm gì?",
+    "question": "Tình huống: NYCCC yêu cầu thực hiện công chứng điện tử cho một hợp đồng mua bán xe. Tuy nhiên, tài sản này đang có thông báo ngăn chặn bằng văn bản giấy của Tòa án nhưng chưa được cập nhật lên Hệ thống thông tin công chứng quốc gia. CCV làm gì?",
     "a": "Vẫn thực hiện vì hệ thống chưa cập nhật, CCV không có lỗi",
     "b": "Dừng giao dịch ngay lập tức vì tính trung thực và khách quan (Điều 4 QĐ 148) cao hơn dữ liệu hệ thống đơn thuần",
-    "c": "Ký số xong rồi ghi chú 'Chờ cập nhật dữ liệu ngăn chặn'",
+    "c": "Ký số xong rồi ghi chú Chờ cập nhật dữ liệu ngăn chặn",
     "d": "Hướng dẫn khách hàng khiếu nại Tòa án vì chậm cập nhật dữ liệu",
     "answer": "B",
     "explanation": "CCV là người gác cổng pháp luật. Khi đã biết thông tin tài sản có tranh chấp/ngăn chặn (dù là bản giấy), CCV không được lợi dụng kẽ hở dữ liệu để thực hiện công chứng."
@@ -45,7 +45,7 @@
     "explanation": "Bảo vệ tài khoản và hệ thống dữ liệu là nghĩa vụ bắt buộc. Để lộ thông tin truy cập hệ thống quốc gia là vi phạm nghiêm trọng an ninh ngành công chứng."
   },
   {
-    "question": "Tình huống: Một NYCCC yêu cầu 'chuyển đổi văn bản công chứng điện tử sang văn bản giấy' để nộp hồ sơ đăng ký biến động đất đai. CCV thực hiện việc này như thế nào?",
+    "question": "Tình huống: Một NYCCC yêu cầu chuyển đổi văn bản công chứng điện tử sang văn bản giấy để nộp hồ sơ đăng ký biến động đất đai. CCV thực hiện việc này như thế nào?",
     "a": "Chỉ cần in ra rồi đóng dấu treo của văn phòng lên là được",
     "b": "Phải thực hiện quy trình chuyển đổi theo quy định, có chữ ký và con dấu của CCV xác nhận nội dung từ bản điện tử (Điều 66)",
     "c": "Yêu cầu khách hàng tự in vì văn bản điện tử có mã QR đã tự chứng thực",
@@ -57,7 +57,7 @@
     "question": "Tình huống: Trong quá trình công chứng điện tử, CCV phát hiện NYCCC sử dụng công nghệ Deepfake (giả mạo hình ảnh/giọng nói) để vượt qua xác thực video call. CCV nên xử lý thế nào?",
     "a": "Lờ đi vì khách hàng đã có chữ ký số đúng định danh",
     "b": "Dừng giao dịch, lập biên bản ghi nhận hành vi giả mạo và thông báo cho cơ quan công an (Điều 7 Luật 2024)",
-    "c": "Yêu cầu khách hàng nộp thêm phí 'xác thực công nghệ cao'",
+    "c": "Yêu cầu khách hàng nộp thêm phí xác thực công nghệ cao",
     "d": "Hướng dẫn khách hàng chỉnh sửa hình ảnh cho giống thật hơn",
     "answer": "B",
     "explanation": "Lợi dụng công nghệ để giả mạo trong công chứng là hành vi bị nghiêm cấm tại Điều 7. CCV có nghĩa vụ ngăn chặn tội phạm công nghệ cao."
@@ -99,7 +99,7 @@
     "explanation": "Đây là điểm mới quan trọng tại k1 - điều 10 Luật Công chứng 2024, nhằm trẻ hóa đội ngũ và đảm bảo sự minh mẫn khi hành nghề."
   },
   {
-    "question": "Khái niệm 'Công chứng điện tử' lần đầu tiên được quy định chính thức tại Luật Công chứng 2024 được hiểu là gì?",
+    "question": "Khái niệm Công chứng điện tử lần đầu tiên được quy định chính thức tại Luật Công chứng 2024 được hiểu là gì?",
     "a": "Dùng điện thoại chụp ảnh văn bản rồi gửi qua email cho khách hàng",
     "b": "Việc CCV thực hiện công chứng trên môi trường điện tử theo quy trình, thủ tục do pháp luật quy định",
     "c": "Khách hàng tự ký vào bản Word rồi gửi cho Văn phòng công chứng đóng dấu",
@@ -168,7 +168,7 @@
     "c": "Để thay thế hoàn toàn sổ lưu trữ bằng giấy tại văn phòng",
     "d": "Để các văn phòng công chứng quảng cáo dịch vụ của mình",
     "answer": "B",
-    "explanation": "Hệ thống thông tin công chứng quốc gia là xương sống giúp CCV kiểm soát rủi ro 'một tài sản bán cho nhiều người'."
+    "explanation": "Hệ thống thông tin công chứng quốc gia là xương sống giúp CCV kiểm soát rủi ro một tài sản bán cho nhiều người."
   },
   {
     "question": "Hành vi nào bị nghiêm cấm đối với Tổ chức hành nghề công chứng tại Luật 2024 nhằm đảm bảo tính minh bạch?",
@@ -177,7 +177,7 @@
     "c": "Thu thù lao soạn thảo văn bản theo thỏa thuận với khách hàng",
     "d": "Tham gia vào các tổ chức xã hội - nghề nghiệp",
     "answer": "B",
-    "explanation": "Cấm mở 'văn phòng vệ tinh' hoặc 'điểm gom hồ sơ' trái luật là điểm được siết chặt tại Điều 9 Luật 2024."
+    "explanation": "Cấm mở văn phòng vệ tinh hoặc điểm gom hồ sơ trái luật là điểm được siết chặt tại Điều 9 Luật 2024."
   },
   {
     "question": "Luật Công chứng 2024 quy định như thế nào về việc CCV đã nghỉ hưu tham gia hành nghề?",
@@ -267,10 +267,10 @@
     "c": "Kể từ thời điểm dữ liệu được đồng bộ lên Cơ sở dữ liệu quốc gia",
     "d": "Kể từ thời điểm công chứng viên đóng dấu đỏ vào bản in",
     "answer": "B",
-    "explanation": "Đúng theo Khoản 2 Điều 64: 'Văn bản công chứng điện tử có hiệu lực kể từ thời điểm được ký bằng chữ ký số của công chứng viên và chữ ký số của tổ chức hành nghề công chứng'."
+    "explanation": "Đúng theo Khoản 2 Điều 64: Văn bản công chứng điện tử có hiệu lực kể từ thời điểm được ký bằng chữ ký số của công chứng viên và chữ ký số của tổ chức hành nghề công chứng."
   },
   {
-    "question": "Theo Điều 65, điểm khác biệt cốt lõi giữa 'Công chứng điện tử trực tiếp' và 'Công chứng điện tử trực tuyến' là gì?",
+    "question": "Theo Điều 65, điểm khác biệt cốt lõi giữa Công chứng điện tử trực tiếp và Công chứng điện tử trực tuyến là gì?",
     "a": "Trực tiếp là dùng giấy, trực tuyến là dùng máy tính",
     "b": "Trực tiếp là người yêu cầu có mặt trước sự chứng kiến trực tiếp của CCV; Trực tuyến là các bên không có mặt cùng địa điểm và giao kết qua phương tiện trực tuyến",
     "c": "Trực tiếp là CCV ký tay, trực tuyến là CCV ký số",
@@ -285,7 +285,7 @@
     "c": "Ít nhất 30 năm",
     "d": "Lưu trữ vĩnh viễn",
     "answer": "C",
-    "explanation": "Khoản 2 Điều 68 quy định: 'ít nhất 30 năm đối với các giao dịch có đối tượng là bất động sản, ít nhất 10 năm đối với các loại giao dịch khác'."
+    "explanation": "Khoản 2 Điều 68 quy định: ít nhất 30 năm đối với các giao dịch có đối tượng là bất động sản, ít nhất 10 năm đối với các loại giao dịch khác."
   },
   {
     "question": "Theo Điều 63, Tổ chức hành nghề công chứng cần điều kiện gì về kỹ thuật để cung cấp dịch vụ công chứng điện tử?",
@@ -303,7 +303,7 @@
     "c": "Tổ chức hành nghề công chứng đang lưu trữ",
     "d": "Không cần sự đồng ý của ai vì họ đã chết",
     "answer": "B",
-    "explanation": "Khoản 1 Điều 69 quy định: 'trường hợp người yêu cầu công chứng là cá nhân đã chết... thì phải được sự đồng ý của người thừa kế'."
+    "explanation": "Khoản 1 Điều 69 quy định: trường hợp người yêu cầu công chứng là cá nhân đã chết... thì phải được sự đồng ý của người thừa kế."
   },
   {
     "question": "Theo Điều 66, Cơ sở dữ liệu công chứng của địa phương KHÔNG bao gồm thông tin nào sau đây?",
@@ -321,7 +321,7 @@
     "c": "Khách hàng thực hiện công chứng điện tử trực tuyến",
     "d": "CCV đã biết mặt khách hàng từ trước",
     "answer": "B",
-    "explanation": "Khoản 1 Điều 67 quy định: 'trừ trường hợp đã đăng ký chữ ký mẫu tại tổ chức hành nghề công chứng quy định tại khoản 2 Điều 50'."
+    "explanation": "Khoản 1 Điều 67 quy định: trừ trường hợp đã đăng ký chữ ký mẫu tại tổ chức hành nghề công chứng quy định tại khoản 2 Điều 50."
   },
   {
     "question": "Việc chuyển đổi giữa văn bản công chứng điện tử và văn bản công chứng giấy theo Điều 64 phải tuân thủ quy định của pháp luật nào?",
@@ -330,7 +330,7 @@
     "c": "Luật An ninh mạng",
     "d": "Quy chế riêng của văn phòng công chứng",
     "answer": "B",
-    "explanation": "Khoản 4 Điều 64: 'Việc chuyển đổi hình thức... được thực hiện theo quy định của pháp luật về giao dịch điện tử'."
+    "explanation": "Khoản 4 Điều 64: Việc chuyển đổi hình thức... được thực hiện theo quy định của pháp luật về giao dịch điện tử."
   },
   {
     "question": "Theo Điều 68, việc đối chiếu bản sao văn bản công chứng với bản gốc khi có yêu cầu của cơ quan nhà nước được thực hiện ở đâu?",
@@ -339,7 +339,7 @@
     "c": "Tại Sở Tư pháp",
     "d": "Bất cứ nơi nào CCV thấy thuận tiện",
     "answer": "B",
-    "explanation": "Khoản 3 Điều 68 quy định: 'Việc đối chiếu bản sao văn bản công chứng với bản gốc chỉ được thực hiện tại tổ chức hành nghề công chứng nơi đang lưu trữ hồ sơ công chứng'."
+    "explanation": "Khoản 3 Điều 68 quy định: Việc đối chiếu bản sao văn bản công chứng với bản gốc chỉ được thực hiện tại tổ chức hành nghề công chứng nơi đang lưu trữ hồ sơ công chứng."
   },
   {
     "question": "Điều 62 quy định nội dung nào về phạm vi giao dịch được công chứng điện tử?",
@@ -348,7 +348,7 @@
     "c": "Chỉ các giao dịch động sản mới được công chứng điện tử",
     "d": "Mọi giao dịch bất động sản đều bắt buộc phải công chứng điện tử",
     "answer": "B",
-    "explanation": "Khoản 2 Điều 62: 'Chính phủ quy định về phạm vi các giao dịch được công chứng điện tử'."
+    "explanation": "Khoản 2 Điều 62: Chính phủ quy định về phạm vi các giao dịch được công chứng điện tử."
   },
   {
     "question": "Hành vi nào dưới đây được coi là tôn trọng danh dự của đồng nghiệp?",
@@ -989,7 +989,7 @@
     "explanation": "Việc tuân thủ quy tắc giúp bảo vệ giá trị cốt lõi của nghề, tạo lòng tin với xã hội và bảo đảm an toàn pháp lý cho các giao dịch."
   },
   {
-    "question": "Theo Điều 4, tính 'Trung thực, khách quan' yêu cầu Công chứng viên (CCV) không được thực hiện hành vi nào sau đây?",
+    "question": "Theo Điều 4, tính Trung thực, khách quan yêu cầu Công chứng viên (CCV) không được thực hiện hành vi nào sau đây?",
     "a": "Từ chối công chứng khi thấy có sự gian lận",
     "b": "Làm sai lệch nội dung văn bản công chứng đã được các bên thỏa thuận",
     "c": "Giải thích quyền lợi cho người yếu thế trong giao dịch",
@@ -1016,7 +1016,7 @@
     "explanation": "Điều 8 nghiêm cấm việc cho người khác sử dụng danh nghĩa CCV hoặc tổ chức hành nghề để môi giới, lôi kéo khách hàng."
   },
   {
-    "question": "Theo Quy tắc, CCV phải ứng xử như thế nào khi gặp tình huống 'xung đột về lợi ích' (Điều 2)?",
+    "question": "Theo Quy tắc, CCV phải ứng xử như thế nào khi gặp tình huống xung đột về lợi ích (Điều 2)?",
     "a": "Ưu tiên lợi ích của khách hàng thân thiết",
     "b": "Giải quyết theo hướng có lợi nhất cho tổ chức hành nghề của mình",
     "c": "Đặt lợi ích chung và sự công bằng của pháp luật lên trên lợi ích riêng",
@@ -1079,7 +1079,7 @@
     "explanation": "Dù thực hiện ở đâu, CCV vẫn phải giữ đúng các chuẩn mực đạo đức và quy định pháp luật về nghiệp vụ."
   },
   {
-    "question": "Theo Điều 2, nguyên tắc 'Độc lập' trong hành nghề công chứng yêu cầu Công chứng viên (CCV) phải làm gì?",
+    "question": "Theo Điều 2, nguyên tắc Độc lập trong hành nghề công chứng yêu cầu Công chứng viên (CCV) phải làm gì?",
     "a": "Thực hiện theo chỉ đạo của người trả phí để đảm bảo doanh thu",
     "b": "Không để bất kỳ cá nhân, tổ chức nào can thiệp trái pháp luật vào hoạt động nghiệp vụ của mình",
     "c": "Tuyệt đối không được trao đổi chuyên môn với đồng nghiệp cùng cơ quan",
@@ -1088,7 +1088,7 @@
     "explanation": "Nguyên tắc độc lập yêu cầu CCV không được để áp lực từ bên ngoài hoặc lợi ích riêng làm ảnh hưởng đến quyết định nghiệp vụ đúng pháp luật."
   },
   {
-    "question": "Hành vi nào sau đây bị coi là vi phạm đạo đức về 'Cạnh tranh nghề nghiệp' (Điều 14)?",
+    "question": "Hành vi nào sau đây bị coi là vi phạm đạo đức về Cạnh tranh nghề nghiệp (Điều 14)?",
     "a": "Thực hiện miễn phí công chứng cho người nghèo, đối tượng chính sách",
     "b": "Tặng quà, tiền cho người môi giới để họ đưa khách hàng đến văn phòng mình",
     "c": "Mở rộng trụ sở làm việc để phục vụ khách hàng tốt hơn",
@@ -1286,7 +1286,7 @@
     "explanation": "Hành vi lôi kéo khách hàng và sử dụng thông tin của tổ chức hành nghề cũ để cạnh tranh không lành mạnh vi phạm đạo đức đối với đồng nghiệp và tổ chức cũ."
   },
   {
-    "question": "Theo Điều 14, CCV bị nghiêm cấm 'Thông tin quảng cáo' trong trường hợp nào sau đây?",
+    "question": "Theo Điều 14, CCV bị nghiêm cấm Thông tin quảng cáo trong trường hợp nào sau đây?",
     "a": "Đăng tải địa chỉ trụ sở và số điện thoại trên trang vàng",
     "b": "Quảng cáo sai sự thật về năng lực hoặc so sánh trình độ giữa các CCV",
     "c": "Viết bài phân tích luật trên báo chí chuyên ngành",
@@ -1304,7 +1304,7 @@
     "explanation": "CCV không được công chứng các giao dịch liên quan đến lợi ích của chính mình hoặc người thân thích để đảm bảo sự khách quan tuyệt đối."
   },
   {
-    "question": "Nghĩa vụ của CCV trong việc 'Bảo vệ uy tín nghề nghiệp' (Điều 3) được thể hiện như thế nào khi gặp thông tin sai sự thật về nghề trên mạng xã hội?",
+    "question": "Nghĩa vụ của CCV trong việc Bảo vệ uy tín nghề nghiệp (Điều 3) được thể hiện như thế nào khi gặp thông tin sai sự thật về nghề trên mạng xã hội?",
     "a": "Mặc kệ vì không liên quan trực tiếp đến mình",
     "b": "Có trách nhiệm phản hồi phù hợp hoặc báo cáo tổ chức nghề nghiệp để bảo vệ danh dự nghề",
     "c": "Vào tranh cãi bằng những lời lẽ gay gắt để bảo vệ nghề",
@@ -1313,7 +1313,7 @@
     "explanation": "Điều 3 quy định CCV phải giữ gìn hình ảnh, uy tín nghề nghiệp và có trách nhiệm với cộng đồng, lan tỏa giá trị tốt đẹp của nghề."
   },
   {
-    "question": "Một CCV hướng dẫn cho phép người tập sự ký nháy vào các bản gốc văn bản công chứng để 'làm quen với trách nhiệm'. Hành vi này vi phạm khoản nào của Điều 12?",
+    "question": "Một CCV hướng dẫn cho phép người tập sự ký nháy vào các bản gốc văn bản công chứng để làm quen với trách nhiệm. Hành vi này vi phạm khoản nào của Điều 12?",
     "a": "Vi phạm nghĩa vụ tận tâm truyền đạt kiến thức",
     "b": "Vi phạm quy định về trách nhiệm đối với kết quả tập sự và quy trình nghiệp vụ",
     "c": "Được phép vì đây là phương pháp đào tạo thực tế",
@@ -1322,7 +1322,7 @@
     "explanation": "CCV hướng dẫn phải chịu trách nhiệm về kết quả và đảm bảo người tập sự thực hiện đúng phạm vi pháp luật, không được làm sai lệch quy trình ký văn bản."
   },
   {
-    "question": "CCV bị nghiêm cấm việc 'Ép buộc người khác tham gia tổ chức hành nghề công chứng' hoặc 'Cản trở CCV khác gia nhập tổ chức hành nghề' tại điều nào?",
+    "question": "CCV bị nghiêm cấm việc Ép buộc người khác tham gia tổ chức hành nghề công chứng hoặc Cản trở CCV khác gia nhập tổ chức hành nghề tại điều nào?",
     "a": "Điều 5",
     "b": "Điều 9",
     "c": "Điều 14",
@@ -1376,7 +1376,7 @@
     "explanation": "Theo QĐ 148, Hội CCV địa phương có trách nhiệm giám sát hội viên. Việc xử lý kỷ luật vi phạm quy tắc đạo đức được thực hiện theo quy chế, Điều lệ Hiệp hội."
   },
   {
-    "question": "Hành vi nào sau đây của CCV bị coi là vi phạm 'Tính độc lập' quy định tại Điều 2?",
+    "question": "Hành vi nào sau đây của CCV bị coi là vi phạm Tính độc lập quy định tại Điều 2?",
     "a": "Tham khảo ý kiến chuyên gia pháp lý về một tình huống khó",
     "b": "Thực hiện công chứng theo áp lực, chỉ đạo của người có chức vụ quyền hạn trái với quy định pháp luật",
     "c": "Từ chối thực hiện yêu cầu của khách hàng vì hồ sơ thiếu bản gốc",
@@ -1421,7 +1421,7 @@
     "explanation": "Lời nói đầu nhấn mạnh vai trò xã hội, đạo đức và trách nhiệm bảo vệ công lý của đội ngũ Công chứng viên."
   },
   {
-    "question": "Theo Điều 11, Công chứng viên có trách nhiệm gì đối với 'Quỹ bồi thường thiệt hại' của Hiệp hội?",
+    "question": "Theo Điều 11, Công chứng viên có trách nhiệm gì đối với Quỹ bồi thường thiệt hại của Hiệp hội?",
     "a": "Không có trách nhiệm vì đã có bảo hiểm trách nhiệm nghề nghiệp",
     "b": "Có nghĩa vụ đóng góp theo quy định để đảm bảo uy tín chung của nghề",
     "c": "Chỉ đóng góp khi văn phòng mình làm sai",
@@ -1430,7 +1430,7 @@
     "explanation": "Điều 11 quy định CCV có trách nhiệm đóng góp vào sự phát triển bền vững của Hiệp hội, bao gồm các nghĩa vụ tài chính và trách nhiệm xã hội."
   },
   {
-    "question": "Hành vi 'Cản trở Công chứng viên khác gia nhập Hội công chứng viên' vi phạm quy định nào (Điều 14)?",
+    "question": "Hành vi Cản trở Công chứng viên khác gia nhập Hội công chứng viên vi phạm quy định nào (Điều 14)?",
     "a": "Vi phạm quy định về bảo mật",
     "b": "Vi phạm quy định về cạnh tranh không lành mạnh và ngăn cản quyền hành nghề hợp pháp",
     "c": "Được phép nếu thấy người đó không đủ năng lực",
@@ -1439,7 +1439,7 @@
     "explanation": "Điểm g Khoản 3 Điều 14 nghiêm cấm cản trở CCV khác gia nhập tổ chức hoặc hành nghề đúng pháp luật."
   },
   {
-    "question": "Nghĩa vụ của Công chứng viên trong việc 'Bảo vệ uy tín nghề nghiệp' và 'Lan tỏa các giá trị tốt đẹp của nghề' được quy định cụ thể tại điều nào của QĐ 148?",
+    "question": "Nghĩa vụ của Công chứng viên trong việc Bảo vệ uy tín nghề nghiệp và Lan tỏa các giá trị tốt đẹp của nghề được quy định cụ thể tại điều nào của QĐ 148?",
     "a": "Điều 1",
     "b": "Điều 3",
     "c": "Điều 13",
@@ -1457,7 +1457,7 @@
     "explanation": "Hành vi bảo vệ quyền lợi hợp pháp của công dân trước sự cưỡng ép vừa thể hiện tính độc lập (không chịu áp lực sai trái), vừa bảo vệ sự tự nguyện và lòng trung thành với lợi ích nhân dân theo Điều 2."
   },
   {
-    "question": "Theo Điều 8, CCV bị nghiêm cấm 'Gợi ý, hướng dẫn NYCCC cung cấp chứng cứ giả'. Nếu CCV biết giấy tờ là giả nhưng vẫn lờ đi để thu phí thì vi phạm nguyên tắc cốt lõi nào tại Điều 4?",
+    "question": "Theo Điều 8, CCV bị nghiêm cấm Gợi ý, hướng dẫn NYCCC cung cấp chứng cứ giả. Nếu CCV biết giấy tờ là giả nhưng vẫn lờ đi để thu phí thì vi phạm nguyên tắc cốt lõi nào tại Điều 4?",
     "a": "Tính nhân văn",
     "b": "Tính trung thực và khách quan",
     "c": "Tính độc lập",
@@ -1466,7 +1466,7 @@
     "explanation": "Điều 4 nhấn mạnh CCV không được vì lợi ích cá nhân mà làm trái pháp luật, phải phản ánh đúng sự thật khách quan của hồ sơ."
   },
   {
-    "question": "Trường hợp một Văn phòng công chứng sử dụng phần mềm tự động để 'tự động giảm giá' phí công chứng thấp hơn mức quy định nhằm kéo khách từ văn phòng đối diện. Đây là vi phạm của ai theo Điều 15?",
+    "question": "Trường hợp một Văn phòng công chứng sử dụng phần mềm tự động để tự động giảm giá phí công chứng thấp hơn mức quy định nhằm kéo khách từ văn phòng đối diện. Đây là vi phạm của ai theo Điều 15?",
     "a": "Chỉ vi phạm của nhân viên vận hành phần mềm",
     "b": "Vi phạm của Công chứng viên thực hiện và trách nhiệm giám sát của Trưởng tổ chức hành nghề",
     "c": "Không vi phạm nếu khách hàng thấy hài lòng",
@@ -1479,12 +1479,12 @@
     "a": "Người tập sự không đồng ý làm việc riêng cho CCV hướng dẫn",
     "b": "Người tập sự không đảm bảo thời gian tập sự hoặc vi phạm đạo đức hành nghề",
     "c": "Người tập sự có quan điểm chính trị khác với CCV hướng dẫn",
-    "d": "Người tập sự không đóng 'phí cảm ơn' cho CCV hướng dẫn",
+    "d": "Người tập sự không đóng phí cảm ơn cho CCV hướng dẫn",
     "answer": "B",
     "explanation": "Xác nhận kết quả tập sự phải trung thực, khách quan (Khoản 3 Điều 12). CCV chỉ từ chối nếu người tập sự không đạt yêu cầu thực tế theo quy định."
   },
   {
-    "question": "Câu hỏi đánh đố: Quyết định 148 có đề cập đến việc CCV phải 'Tiết lộ bí mật thông tin' khi có yêu cầu của bên thứ ba không có thẩm quyền nhưng trả phí cao không?",
+    "question": "Câu hỏi đánh đố: Quyết định 148 có đề cập đến việc CCV phải Tiết lộ bí mật thông tin khi có yêu cầu của bên thứ ba không có thẩm quyền nhưng trả phí cao không?",
     "a": "Có, nếu mức phí đó được nộp vào quỹ Hiệp hội",
     "b": "Tuyệt đối không, hành vi này bị nghiêm cấm tại Điều 6 và Điều 14",
     "c": "Có, nếu Trưởng tổ chức hành nghề cho phép",
@@ -1502,7 +1502,7 @@
     "explanation": "Khoản 2 Điều 16 xác định thẩm quyền xử lý kỷ luật thuộc về tổ chức xã hội - nghề nghiệp theo quy chế và điều lệ riêng."
   },
   {
-    "question": "Tính chất 'Chuyên nghiệp' của CCV theo quy định tại Chương III bao gồm việc nào?",
+    "question": "Tính chất Chuyên nghiệp của CCV theo quy định tại Chương III bao gồm việc nào?",
     "a": "Mặc trang phục phù hợp, có thái độ lịch sự, đúng mực khi tiếp khách",
     "b": "Chỉ công chứng các hợp đồng có giá trị tài sản lớn",
     "c": "Thực hiện công chứng càng nhanh càng tốt, bỏ qua một số bước kiểm tra",
@@ -2627,11 +2627,11 @@
     "explanation": "Thanh toán phí công chứng phải minh bạch, đúng quy định tài chính và phải được hạch toán tại tổ chức hành nghề."
   },
   {
-    "question": "Tình huống: Theo Luật 2024, khi thực hiện công chứng hợp đồng ủy quyền, CCV phát hiện các bên có thỏa thuận ủy quyền không hủy bỏ' trái với bản chất đạo đức xã hội. CCV làm gì?",
+    "question": "Tình huống: Theo Luật 2024, khi thực hiện công chứng hợp đồng ủy quyền, CCV phát hiện các bên có thỏa thuận ủy quyền không hủy bỏ trái với bản chất đạo đức xã hội. CCV làm gì?",
     "a": "Vẫn ký vì các bên tự nguyện",
     "b": "Giải thích và từ chối vì vi phạm nguyên tắc đạo đức và trật tự công cộng (Điều 2 QĐ 148)",
     "c": "Thu phí cao hơn vì đây là hợp đồng khó",
-    "d": "Ký nhưng ghi chú CCV không chịu trách nhiệm về nội dung ủy quyền'",
+    "d": "Ký nhưng ghi chú CCV không chịu trách nhiệm về nội dung ủy quyền",
     "answer": "B",
     "explanation": "Nguyên tắc độc lập và bảo vệ lợi ích công cộng yêu cầu CCV không được công chứng các nội dung trái đạo đức xã hội."
   },
@@ -2694,7 +2694,7 @@
     "a": "Dùng thông tin đó để đầu tư bất động sản làm giàu cho văn phòng",
     "b": "Từ chối lợi ích từ thông tin này để đảm bảo tính liêm chính và trung thực (Điều 8, Điều 14)",
     "c": "Bán thông tin cho các khách hàng khác của văn phòng",
-    "d": "Chia sẻ cho đồng nghiệp cùng biết để 'giúp đỡ nhau'",
+    "d": "Chia sẻ cho đồng nghiệp cùng biết để giúp đỡ nhau",
     "answer": "B",
     "explanation": "Lợi dụng thông tin có được từ hoạt động nghề nghiệp để trục lợi cá nhân là hành vi bị nghiêm cấm tuyệt đối trong đạo đức công chứng."
     },
@@ -2966,7 +2966,7 @@
     "c": "Yêu cầu xác minh năng lực hành vi dân sự hoặc từ chối công chứng",
     "d": "Để nhân viên tự đánh giá",
     "answer": "C",
-    "explanation": "Căn cứ khoản 4 Điều 42 Luật Công chứng 2024: khi có căn cứ cho rằng người yêu cầu công chứng 'không có năng lực hành vi dân sự phù hợp' thì CCV phải đề nghị làm rõ; nếu không làm rõ được thì có quyền từ chối công chứng."
+    "explanation": "Căn cứ khoản 4 Điều 42 Luật Công chứng 2024: khi có căn cứ cho rằng người yêu cầu công chứng không có năng lực hành vi dân sự phù hợp thì CCV phải đề nghị làm rõ; nếu không làm rõ được thì có quyền từ chối công chứng."
   },
   {
     "question": "Tình huống: Một công chứng viên ký hợp đồng cộng tác thường xuyên với hai Văn phòng công chứng khác nhau. Hành vi này:",
@@ -2975,7 +2975,7 @@
     "c": "Vi phạm pháp luật",
     "d": "Chỉ vi phạm nếu nhận lương",
     "answer": "C",
-    "explanation": "Căn cứ điểm c khoản 2 Điều 18 Luật Công chứng 2024: công chứng viên có nghĩa vụ 'chỉ được hành nghề tại một tổ chức hành nghề công chứng'."
+    "explanation": "Căn cứ điểm c khoản 2 Điều 18 Luật Công chứng 2024: công chứng viên có nghĩa vụ chỉ được hành nghề tại một tổ chức hành nghề công chứng."
   },
   {
     "question": "Tình huống: Công chứng viên tiết lộ nội dung di chúc cho con của người lập di chúc dù chưa được đồng ý. Hành vi này:",
@@ -2984,7 +2984,7 @@
     "c": "Vi phạm nghĩa vụ bảo mật",
     "d": "Không vi phạm nếu chưa tranh chấp",
     "answer": "C",
-    "explanation": "Căn cứ điểm e khoản 2 Điều 18 Luật Công chứng 2024: công chứng viên có nghĩa vụ giữ bí mật về nội dung công chứng'."
+    "explanation": "Căn cứ điểm e khoản 2 Điều 18 Luật Công chứng 2024: công chứng viên có nghĩa vụ giữ bí mật về nội dung công chứng."
   },
   {
     "question": "Tình huống: Văn phòng công chứng chỉ còn một thành viên hợp danh do thành viên còn lại qua đời. Theo luật, thời hạn phải bổ sung thành viên hợp danh mới là:",
@@ -2993,7 +2993,7 @@
     "c": "06 tháng",
     "d": "12 tháng",
     "answer": "C",
-    "explanation": "Căn cứ khoản 2 Điều 33 Luật Công chứng 2024: Văn phòng công chứng 'phải bổ sung công chứng viên hợp danh trong thời hạn 06 tháng'."
+    "explanation": "Căn cứ khoản 2 Điều 33 Luật Công chứng 2024: Văn phòng công chứng phải bổ sung công chứng viên hợp danh trong thời hạn 06 tháng."
   },
   {
     "question": "Tình huống: CCV phát hiện hợp đồng vay tài sản thực chất nhằm che giấu mua bán nhà để né thuế. CCV nên:",
@@ -3002,7 +3002,7 @@
     "c": "Ghi chú nghi ngờ rồi công chứng",
     "d": "Chỉ nhắc nhở các bên",
     "answer": "B",
-    "explanation": "Căn cứ Điều 9 Luật Công chứng 2024: nghiêm cấm giả mạo người yêu cầu công chứng, thực hiện hành vi gian dối khác'. Giao dịch giả tạo nhằm trốn thuế là hành vi gian dối."
+    "explanation": "Căn cứ Điều 9 Luật Công chứng 2024: nghiêm cấm giả mạo người yêu cầu công chứng, thực hiện hành vi gian dối khác. Giao dịch giả tạo nhằm trốn thuế là hành vi gian dối."
   },
   {
     "question": "Tình huống: Người yêu cầu công chứng nộp hồ sơ trực tuyến nhưng không cung cấp CCCD và cũng không đồng ý khai thác dữ liệu dân cư. CCV phải:",
