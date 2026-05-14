@@ -9,6 +9,87 @@
     "explanation": "Theo Luật Hôn nhân và Gia đình, quan hệ vợ chồng bao gồm cả quan hệ nhân thân và quan hệ tài sản."
   },
   {
+    "question": "Tình huống: Trong quy trình công chứng điện tử, NYCCC cung cấp chữ ký số cá nhân và thực hiện xác thực sinh trắc học qua khuôn mặt. Tuy nhiên, hệ thống thông báo độ khớp sinh trắc học chỉ đạt 85% do NYCCC vừa phẫu thuật thẩm mỹ. CCV nên xử lý thế nào để đúng Điều 63 Luật 2024?",
+    "a": "Vẫn thực hiện vì 85% là tỷ lệ cao và khách hàng đã cam đoan đúng là mình",
+    "b": "Yêu cầu NYCCC đến trực tiếp trụ sở để xác minh bằng phương thức truyền thống trước khi thực hiện công chứng số",
+    "c": "Dùng quyền admin để ghi đè hệ thống và xác nhận danh tính cho khách hàng",
+    "d": "Yêu cầu người tập sự ký xác nhận thay cho phần sinh trắc học của khách hàng",
+    "answer": "B",
+    "explanation": "Theo Điều 63 Luật 2024, việc xác thực điện tử phải đảm bảo tính chính xác tuyệt đối. Nếu sinh trắc học không khớp, CCV phải kiểm tra trực tiếp để tránh rủi ro giả mạo công nghệ cao (Deepfake)."
+  },
+  {
+    "question": "Tình huống: Một tập đoàn ngân hàng yêu cầu công chứng điện tử hàng loạt 100 hợp đồng thế chấp. CCV phát hiện chữ ký số của người đại diện ngân hàng đã hết hạn vào lúc 00:00 ngày hôm nay, nhưng các bên đã ký từ tối qua. CCV có được thực hiện công chứng không?",
+    "a": "Được, vì thời điểm các bên ký là khi chữ ký số vẫn còn hiệu lực",
+    "b": "Không, vì tại thời điểm CCV thực hiện việc công chứng, chữ ký số của người yêu cầu phải còn hiệu lực trên hệ thống xác thực",
+    "c": "Được, nếu ngân hàng gửi văn bản cam kết sẽ gia hạn chữ ký số ngay trong ngày",
+    "d": "Được, nếu CCV thực hiện lùi giờ hệ thống về thời điểm chữ ký số còn hạn",
+    "answer": "B",
+    "explanation": "Nguyên tắc công chứng điện tử yêu cầu tính hiệu lực tại thời điểm giao dịch. CCV không được ký số vào văn bản khi chữ ký của NYCCC không còn giá trị pháp lý (Điều 64)."
+  },
+  {
+    "question": "Tình huống: NYCCC yêu cầu thực hiện công chứng điện tử cho một hợp đồng mua bán xe. Tuy nhiên, tài sản này đang có thông báo 'ngăn chặn' bằng văn bản giấy của Tòa án nhưng chưa được cập nhật lên Hệ thống thông tin công chứng quốc gia. CCV làm gì?",
+    "a": "Vẫn thực hiện vì hệ thống chưa cập nhật, CCV không có lỗi",
+    "b": "Dừng giao dịch ngay lập tức vì tính trung thực và khách quan (Điều 4 QĐ 148) cao hơn dữ liệu hệ thống đơn thuần",
+    "c": "Ký số xong rồi ghi chú 'Chờ cập nhật dữ liệu ngăn chặn'",
+    "d": "Hướng dẫn khách hàng khiếu nại Tòa án vì chậm cập nhật dữ liệu",
+    "answer": "B",
+    "explanation": "CCV là người gác cổng pháp luật. Khi đã biết thông tin tài sản có tranh chấp/ngăn chặn (dù là bản giấy), CCV không được lợi dụng kẽ hở dữ liệu để thực hiện công chứng."
+  },
+  {
+    "question": "Tình huống: Một CCV thực hiện công chứng điện tử nhưng vô ý để lộ mật khẩu tài khoản truy cập vào Cơ sở dữ liệu công chứng quốc gia cho người môi giới. Hành vi này vi phạm điều khoản nào?",
+    "a": "Vi phạm điểm m, khoản 1, Điều 7 Luật 2024 về an toàn hệ thống thông tin",
+    "b": "Chỉ là sơ suất hành chính, không vi phạm đạo đức",
+    "c": "Đúng, vì để môi giới tự tra cứu hồ sơ giúp khách hàng cho nhanh",
+    "d": "Vi phạm quy định về bảo mật thông tin cá nhân của CCV",
+    "answer": "A",
+    "explanation": "Bảo vệ tài khoản và hệ thống dữ liệu là nghĩa vụ bắt buộc. Để lộ thông tin truy cập hệ thống quốc gia là vi phạm nghiêm trọng an ninh ngành công chứng."
+  },
+  {
+    "question": "Tình huống: Một NYCCC yêu cầu 'chuyển đổi văn bản công chứng điện tử sang văn bản giấy' để nộp hồ sơ đăng ký biến động đất đai. CCV thực hiện việc này như thế nào?",
+    "a": "Chỉ cần in ra rồi đóng dấu treo của văn phòng lên là được",
+    "b": "Phải thực hiện quy trình chuyển đổi theo quy định, có chữ ký và con dấu của CCV xác nhận nội dung từ bản điện tử (Điều 66)",
+    "c": "Yêu cầu khách hàng tự in vì văn bản điện tử có mã QR đã tự chứng thực",
+    "d": "Từ chối vì văn bản điện tử không thể chuyển sang bản giấy",
+    "answer": "B",
+    "explanation": "Điều 66 Luật 2024 quy định về việc chuyển đổi giữa bản giấy và bản điện tử, yêu cầu CCV phải xác nhận tính tương xứng để đảm bảo giá trị pháp lý."
+  },
+  {
+    "question": "Tình huống: Trong quá trình công chứng điện tử, CCV phát hiện NYCCC sử dụng công nghệ Deepfake (giả mạo hình ảnh/giọng nói) để vượt qua xác thực video call. CCV nên xử lý thế nào?",
+    "a": "Lờ đi vì khách hàng đã có chữ ký số đúng định danh",
+    "b": "Dừng giao dịch, lập biên bản ghi nhận hành vi giả mạo và thông báo cho cơ quan công an (Điều 7 Luật 2024)",
+    "c": "Yêu cầu khách hàng nộp thêm phí 'xác thực công nghệ cao'",
+    "d": "Hướng dẫn khách hàng chỉnh sửa hình ảnh cho giống thật hơn",
+    "answer": "B",
+    "explanation": "Lợi dụng công nghệ để giả mạo trong công chứng là hành vi bị nghiêm cấm tại Điều 7. CCV có nghĩa vụ ngăn chặn tội phạm công nghệ cao."
+  },
+  {
+    "question": "Tình huống: Một doanh nghiệp yêu cầu CCV chứng thực bản sao điện tử từ bản chính giấy tờ. CCV thấy bản chính có dấu hiệu bị tẩy xóa số seri. CCV có được thực hiện chứng thực bản sao điện tử không?",
+    "a": "Được, vì khi quét (scan) lên hệ thống sẽ không thấy vết tẩy xóa",
+    "b": "Không, CCV phải kiểm tra bản chính giấy và từ chối nếu bản chính không hợp lệ",
+    "c": "Được, nếu doanh nghiệp cam đoan bản số là đúng",
+    "d": "Được, nếu doanh nghiệp thanh toán bằng chuyển khoản",
+    "answer": "B",
+    "explanation": "Số hóa không được làm mất đi nghĩa vụ kiểm tra tính xác thực. Bản chính lỗi thì không được phép tạo ra bản sao (kể cả bản sao điện tử)."
+  },
+  {
+    "question": "Tình huống: Theo Luật 2024, văn bản công chứng điện tử có lỗi kỹ thuật (không hiển thị được chữ ký số do lỗi server). CCV phải xử lý thế nào?",
+    "a": "Xóa đi làm lại bản mới với số thứ tự mới",
+    "b": "Thực hiện quy trình đính chính văn bản công chứng trên môi trường điện tử và cập nhật vào hệ thống thông tin (Điều 53)",
+    "c": "Yêu cầu khách hàng tự sửa bằng phần mềm đồ họa",
+    "d": "Mặc kệ khách hàng vì đó là lỗi của nhà mạng",
+    "answer": "B",
+    "explanation": "Mọi sửa đổi, đính chính văn bản công chứng (kể cả bản số) phải tuân thủ nghiêm ngặt quy trình tại Điều 50 Luật 2024 để đảm bảo tính vết (log) của giao dịch."
+  },
+  {
+    "question": "Tình huống: Một CCV sử dụng chữ ký số của Tổ chức hành nghề để ký thay cho chữ ký số cá nhân của mình trong văn bản công chứng điện tử. Hành vi này đúng hay sai?",
+    "a": "Đúng, vì CCV đại diện cho văn phòng",
+    "b": "Sai, văn bản công chứng phải có chữ ký số cá nhân của CCV để xác định trách nhiệm cá nhân (Điều 64)",
+    "c": "Đúng, nếu Trưởng văn phòng cho phép",
+    "d": "Đúng, nếu hệ thống chấp nhận loại chữ ký đó",
+    "answer": "B",
+    "explanation": "Chữ ký số của CCV là định danh cá nhân gắn với trách nhiệm pháp lý trước pháp luật, không thể dùng chữ ký chung của tổ chức để thay thế."
+  },
+  {
     "question": "Theo Luật Công chứng 2024, độ tuổi tối đa để một cá nhân được bổ nhiệm hoặc hành nghề Công chứng viên là bao nhiêu?",
     "a": "Không giới hạn độ tuổi nếu đủ sức khỏe",
     "b": "65 tuổi",
@@ -178,6 +259,96 @@
     "d": "Chỉ làm việc qua văn bản, không cần trực tiếp đối thoại",
     "answer": "B",
     "explanation": "Quy tắc đạo đức yêu cầu CCV phải có thái độ tôn trọng và hợp tác đúng mực với các cơ quan quản lý nhà nước."
+  },
+  {
+    "question": "Theo Điều 64 Luật Công chứng 2024, văn bản công chứng điện tử có hiệu lực kể từ thời điểm nào?",
+    "a": "Kể từ thời điểm các bên ký số vào hợp đồng",
+    "b": "Kể từ thời điểm được ký bằng chữ ký số của công chứng viên và chữ ký số của tổ chức hành nghề công chứng",
+    "c": "Kể từ thời điểm dữ liệu được đồng bộ lên Cơ sở dữ liệu quốc gia",
+    "d": "Kể từ thời điểm công chứng viên đóng dấu đỏ vào bản in",
+    "answer": "B",
+    "explanation": "Đúng theo Khoản 2 Điều 64: 'Văn bản công chứng điện tử có hiệu lực kể từ thời điểm được ký bằng chữ ký số của công chứng viên và chữ ký số của tổ chức hành nghề công chứng'."
+  },
+  {
+    "question": "Theo Điều 65, điểm khác biệt cốt lõi giữa 'Công chứng điện tử trực tiếp' và 'Công chứng điện tử trực tuyến' là gì?",
+    "a": "Trực tiếp là dùng giấy, trực tuyến là dùng máy tính",
+    "b": "Trực tiếp là người yêu cầu có mặt trước sự chứng kiến trực tiếp của CCV; Trực tuyến là các bên không có mặt cùng địa điểm và giao kết qua phương tiện trực tuyến",
+    "c": "Trực tiếp là CCV ký tay, trực tuyến là CCV ký số",
+    "d": "Luật không phân biệt hai hình thức này",
+    "answer": "B",
+    "explanation": "Khoản 1 Điều 65 phân biệt rõ: Trực tiếp (có mặt chứng kiến) và Trực tuyến (không cùng địa điểm, qua phương tiện trực tuyến)."
+  },
+  {
+    "question": "Điều 68 quy định thời hạn lưu trữ hồ sơ công chứng đối với các giao dịch có đối tượng là bất động sản là bao lâu?",
+    "a": "Ít nhất 10 năm",
+    "b": "Ít nhất 20 năm",
+    "c": "Ít nhất 30 năm",
+    "d": "Lưu trữ vĩnh viễn",
+    "answer": "C",
+    "explanation": "Khoản 2 Điều 68 quy định: 'ít nhất 30 năm đối với các giao dịch có đối tượng là bất động sản, ít nhất 10 năm đối với các loại giao dịch khác'."
+  },
+  {
+    "question": "Theo Điều 63, Tổ chức hành nghề công chứng cần điều kiện gì về kỹ thuật để cung cấp dịch vụ công chứng điện tử?",
+    "a": "Chỉ cần có máy tính kết nối internet",
+    "b": "Có tài khoản, có chữ ký số, sử dụng dịch vụ cấp dấu thời gian và đủ trang thiết bị kỹ thuật",
+    "c": "Đã được Bộ Công an cấp phép phần mềm",
+    "d": "Có hợp đồng thuê ngoài đơn vị IT trực 24/7",
+    "answer": "B",
+    "explanation": "Khoản 2 Điều 63 quy định đầy đủ các điều kiện về tài khoản, chữ ký số, dấu thời gian và trang thiết bị kỹ thuật."
+  },
+  {
+    "question": "Việc cấp bản sao văn bản công chứng theo Điều 69 đối với trường hợp người yêu cầu công chứng (cá nhân) đã chết phải được sự đồng ý của ai?",
+    "a": "Sở Tư pháp địa phương",
+    "b": "Người thừa kế của người đó",
+    "c": "Tổ chức hành nghề công chứng đang lưu trữ",
+    "d": "Không cần sự đồng ý của ai vì họ đã chết",
+    "answer": "B",
+    "explanation": "Khoản 1 Điều 69 quy định: 'trường hợp người yêu cầu công chứng là cá nhân đã chết... thì phải được sự đồng ý của người thừa kế'."
+  },
+  {
+    "question": "Theo Điều 66, Cơ sở dữ liệu công chứng của địa phương KHÔNG bao gồm thông tin nào sau đây?",
+    "a": "Nguồn gốc tài sản, tình trạng giao dịch của tài sản",
+    "b": "Thông tin về biện pháp ngăn chặn và cảnh báo rủi ro",
+    "c": "Danh sách các khách hàng nợ xấu tại ngân hàng",
+    "d": "Văn bản công chứng và tài liệu liên quan trong hồ sơ",
+    "answer": "C",
+    "explanation": "Khoản 3 Điều 66 liệt kê các thành phần của CSDL địa phương, không bao gồm danh sách nợ xấu của ngân hàng (đó là dữ liệu CIC)."
+  },
+  {
+    "question": "Hồ sơ công chứng theo Điều 67 yêu cầu ảnh chụp người yêu cầu công chứng ký văn bản trước mặt CCV, TRỪ trường hợp nào?",
+    "a": "Khách hàng là người nổi tiếng",
+    "b": "Đã đăng ký chữ ký mẫu tại tổ chức hành nghề công chứng theo quy định",
+    "c": "Khách hàng thực hiện công chứng điện tử trực tuyến",
+    "d": "CCV đã biết mặt khách hàng từ trước",
+    "answer": "B",
+    "explanation": "Khoản 1 Điều 67 quy định: 'trừ trường hợp đã đăng ký chữ ký mẫu tại tổ chức hành nghề công chứng quy định tại khoản 2 Điều 50'."
+  },
+  {
+    "question": "Việc chuyển đổi giữa văn bản công chứng điện tử và văn bản công chứng giấy theo Điều 64 phải tuân thủ quy định của pháp luật nào?",
+    "a": "Luật Đất đai",
+    "b": "Pháp luật về giao dịch điện tử",
+    "c": "Luật An ninh mạng",
+    "d": "Quy chế riêng của văn phòng công chứng",
+    "answer": "B",
+    "explanation": "Khoản 4 Điều 64: 'Việc chuyển đổi hình thức... được thực hiện theo quy định của pháp luật về giao dịch điện tử'."
+  },
+  {
+    "question": "Theo Điều 68, việc đối chiếu bản sao văn bản công chứng với bản gốc khi có yêu cầu của cơ quan nhà nước được thực hiện ở đâu?",
+    "a": "Tại trụ sở của cơ quan điều tra/Tòa án",
+    "b": "Tại tổ chức hành nghề công chứng nơi đang lưu trữ hồ sơ công chứng",
+    "c": "Tại Sở Tư pháp",
+    "d": "Bất cứ nơi nào CCV thấy thuận tiện",
+    "answer": "B",
+    "explanation": "Khoản 3 Điều 68 quy định: 'Việc đối chiếu bản sao văn bản công chứng với bản gốc chỉ được thực hiện tại tổ chức hành nghề công chứng nơi đang lưu trữ hồ sơ công chứng'."
+  },
+  {
+    "question": "Điều 62 quy định nội dung nào về phạm vi giao dịch được công chứng điện tử?",
+    "a": "Tất cả mọi giao dịch đều được công chứng điện tử ngay lập tức",
+    "b": "Chính phủ quy định về phạm vi các giao dịch được công chứng điện tử tùy từng thời kỳ",
+    "c": "Chỉ các giao dịch động sản mới được công chứng điện tử",
+    "d": "Mọi giao dịch bất động sản đều bắt buộc phải công chứng điện tử",
+    "answer": "B",
+    "explanation": "Khoản 2 Điều 62: 'Chính phủ quy định về phạm vi các giao dịch được công chứng điện tử'."
   },
   {
     "question": "Hành vi nào dưới đây được coi là tôn trọng danh dự của đồng nghiệp?",
