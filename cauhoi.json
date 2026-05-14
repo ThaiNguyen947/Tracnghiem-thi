@@ -396,6 +396,51 @@
     "explanation": "Quyền và nghĩa vụ chăm sóc, nuôi dưỡng là nền tảng của quan hệ cha mẹ - con cái."
   },
   {
+    "câu hỏi": "Khi phát hiện đồng nghiệp có sai sót trong hành nghề CCV phải làm gì?",
+    "đáp án A": "Báo cáo ngay cho cơ quan Công an",
+    "đáp án B": "Im lặng để giữ đoàn kết",
+    "đáp án C": "Trao đổi góp ý khách quan và báo cáo cấp thẩm quyền nếu vi phạm gây tổn hại nghề nghiệp",
+    "đáp án D": "Công khai sai sót trên mạng xã hội",
+    "đáp án đúng": "C",
+    "giải thích": "Theo Khoản 2, Điều 9: CCV có nghĩa vụ trao đổi, góp ý khách quan và báo cáo người có thẩm quyền nếu đó là hành vi vi phạm pháp luật hoặc gây tổn hại đến nghề nghiệp. [cite: 108]"
+  },
+  {
+    "câu hỏi": "Hành vi nào bị cấm trong quan hệ với người tập sự hành nghề công chứng?",
+    "đáp án A": "Yêu cầu người tập sự soạn thảo hợp đồng",
+    "đáp án B": "Yêu cầu người tập sự thực hiện công việc không liên quan đến nội dung tập sự vì lợi ích cá nhân",
+    "đáp án C": "Hướng dẫn người tập sự về kỹ năng nghề nghiệp",
+    "đáp án D": "Kiểm tra kết quả công việc của người tập sự",
+    "đáp án đúng": "B",
+    "giải thích": "Theo Khoản 2, Điều 14: Nghiêm cấm CCV yêu cầu người tập sự thực hiện các công việc không liên quan đến nội dung tập sự nhằm phục vụ lợi ích cá nhân. [cite: 156]"
+  },
+  {
+    "câu hỏi": "Nghĩa vụ bảo mật thông tin của CCV được quy định như thế nào?",
+    "đáp án A": "Chỉ bảo mật khi đang hành nghề",
+    "đáp án B": "Bảo mật trong quá trình hành nghề và cả khi không còn là CCV",
+    "đáp án C": "Chỉ bảo mật thông tin về tài chính của khách hàng",
+    "đáp án D": "Không cần bảo mật nếu khách hàng là người thân",
+    "đáp án đúng": "B",
+    "giải thích": "Theo Khoản 1, Điều 6: CCV có trách nhiệm giữ bí mật thông tin trong hồ sơ và nội dung công chứng trong quá trình hành nghề cũng như khi không còn là CCV. [cite: 74]"
+  },
+  {
+    "câu hỏi": "CCV có được phép trả tiền hoa hồng cho người môi giới không?",
+    "đáp án A": "Có nếu mức chiết khấu dưới 10%",
+    "đáp án B": "Có nếu khách hàng đồng ý",
+    "đáp án C": "Tuyệt đối không được trả tiền hoa hồng cho người môi giới",
+    "đáp án D": "Được phép nếu tổ chức hành nghề công chứng cho phép",
+    "đáp án đúng": "C",
+    "giải thích": "Theo Khoản 10, Điều 8: Nghiêm cấm CCV trả tiền hoa hồng, chiết khấu cho người yêu cầu công chứng hoặc người môi giới. [cite: 98]"
+  },
+  {
+    "câu hỏi": "Hành vi nào vi phạm quy tắc đạo đức về sự công bằng đối với khách hàng?",
+    "đáp án A": "Ưu tiên phục vụ người già và người khuyết tật",
+    "đáp án B": "Giải thích kỹ cho khách hàng chưa hiểu pháp luật",
+    "đáp án C": "Phân biệt đối xử dựa trên địa vị xã hội và khả năng tài chính",
+    "đáp án D": "Từ chối công chứng hợp đồng vi phạm pháp luật",
+    "đáp án đúng": "C",
+    "giải thích": "Theo Điều 7: CCV không được phân biệt đối xử về địa vị xã hội, khả năng tài chính... giữa những người yêu cầu công chứng. [cite: 86]"
+  },
+  {
     "question": "UBND cấp xã là cơ quan đăng ký kết hôn của trường hợp nào sau:",
     "a": "R và C là sinh viên trường đại học Y đều trên 20 tuổi.",
     "b": "R và C đang là học sinh trung học phổ thông có một người đủ 20 tuổi.",
