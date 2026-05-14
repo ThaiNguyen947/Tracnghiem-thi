@@ -175,7 +175,6 @@
     "a": "Trong trường hợp chỉ một bên có nhu cầu và có điều kiện trực tiếp sử dụng đất thì bên đó được tiếp tục sử dụng và được toàn quyền quyền định đoạt về sau",
     "b": "Đối với đất ở thì ai đang ở sẽ thuộc quyền sử dụng của người đó",
     "c": "Đối với đất nông nghiệp trồng cây hàng năm, nuôi trồng thủy sản, nếu cả hai bên đều có nhu cầu và có điều kiện trực tiếp sử dụng đất thì được chia theo thỏa thuận của hai bên",
-    "d": "Tất cả các đáp án",
     "answer": "C",
     "explanation": "Chia quyền sử dụng đất khi ly hôn tuân theo các quy định cụ thể tại Điều 62 Luật Hôn nhân và Gia đình 2014."
   },
@@ -190,19 +189,19 @@
   },
   {
     "question": "Khi Tòa án ra quyết định hủy bỏ tuyên bố một người là đã chết mà vợ hoặc chồng của người đó chưa kết hôn với người khác thì quan hệ hôn nhân sẽ như thế nào?",
-    "a": "b. nếu đã ly hôn thì ly hôn vẫn có hiệu lực pháp luật",
-    "b": "a. được khôi phục kể từ thời điểm kết hôn",
-    "c": "c. nếu đã ly hôn thì ly hôn bị hủy bỏ",
-    "d": "d. Cả a và b đúng, chỉ c sai",
+    "a": "nếu đã ly hôn thì ly hôn vẫn có hiệu lực pháp luật",
+    "b": "được khôi phục kể từ thời điểm kết hôn",
+    "c": "nếu đã ly hôn thì ly hôn bị hủy bỏ",
+    "d": "Cả a và b đúng, chỉ c sai",
     "answer": "D",
     "explanation": "Theo Điều 67 Luật Hôn nhân và Gia đình 2014, quan hệ hôn nhân được khôi phục trừ trường hợp bên kia đã ly hôn hoặc kết hôn với người khác."
   },
   {
     "question": "Nhà ở thuộc sở hữu riêng của vợ, chồng đã đưa vào sử dụng chung thì khi ly hôn:",
-    "a": "b. vợ hoặc chồng có khó khăn về chỗ ở thì được quyền lưu cư vô thời hạn kể từ ngày quan hệ hôn nhân chấm dứt",
-    "b": "a. vẫn thuộc sở hữu riêng của người đó",
-    "c": "c. vợ hoặc chồng có khó khăn về chỗ ở thì được quyền lưu cư trong thời hạn 06 tháng kể từ ngày quan hệ hôn nhân chấm dứt",
-    "d": "d. Chỉ a và c đúng, b sai",
+    "a": "vợ hoặc chồng có khó khăn về chỗ ở thì được quyền lưu cư vô thời hạn kể từ ngày quan hệ hôn nhân chấm dứt",
+    "b": "vẫn thuộc sở hữu riêng của người đó",
+    "c": "vợ hoặc chồng có khó khăn về chỗ ở thì được quyền lưu cư trong thời hạn 06 tháng kể từ ngày quan hệ hôn nhân chấm dứt",
+    "d": "Chỉ a và c đúng, b sai",
     "answer": "D",
     "explanation": "Tài sản riêng vẫn là riêng, nhưng có thể giải quyết quyền lưu cư ngắn hạn (6 tháng) nếu bên kia khó khăn về chỗ ở."
   },
@@ -396,49 +395,49 @@
     "explanation": "Quyền và nghĩa vụ chăm sóc, nuôi dưỡng là nền tảng của quan hệ cha mẹ - con cái."
   },
   {
-    "câu hỏi": "Khi phát hiện đồng nghiệp có sai sót trong hành nghề CCV phải làm gì?",
-    "đáp án A": "Báo cáo ngay cho cơ quan Công an",
-    "đáp án B": "Im lặng để giữ đoàn kết",
-    "đáp án C": "Trao đổi góp ý khách quan và báo cáo cấp thẩm quyền nếu vi phạm gây tổn hại nghề nghiệp",
-    "đáp án D": "Công khai sai sót trên mạng xã hội",
-    "đáp án đúng": "C",
-    "giải thích": "Theo Khoản 2, Điều 9: CCV có nghĩa vụ trao đổi, góp ý khách quan và báo cáo người có thẩm quyền nếu đó là hành vi vi phạm pháp luật hoặc gây tổn hại đến nghề nghiệp. [cite: 108]"
+    "question": "Khi phát hiện đồng nghiệp có sai sót trong hành nghề CCV phải làm gì?",
+    "a": "Báo cáo ngay cho cơ quan Công an",
+    "b": "Im lặng để giữ đoàn kết",
+    "c": "Trao đổi góp ý khách quan và báo cáo cấp thẩm quyền nếu vi phạm gây tổn hại nghề nghiệp",
+    "d": "Công khai sai sót trên mạng xã hội",
+    "answer": "C",
+    "explanation": "Theo Khoản 2, Điều 9: CCV có nghĩa vụ trao đổi, góp ý khách quan và báo cáo người có thẩm quyền nếu đó là hành vi vi phạm pháp luật hoặc gây tổn hại đến nghề nghiệp."
   },
   {
-    "câu hỏi": "Hành vi nào bị cấm trong quan hệ với người tập sự hành nghề công chứng?",
-    "đáp án A": "Yêu cầu người tập sự soạn thảo hợp đồng",
-    "đáp án B": "Yêu cầu người tập sự thực hiện công việc không liên quan đến nội dung tập sự vì lợi ích cá nhân",
-    "đáp án C": "Hướng dẫn người tập sự về kỹ năng nghề nghiệp",
-    "đáp án D": "Kiểm tra kết quả công việc của người tập sự",
-    "đáp án đúng": "B",
-    "giải thích": "Theo Khoản 2, Điều 14: Nghiêm cấm CCV yêu cầu người tập sự thực hiện các công việc không liên quan đến nội dung tập sự nhằm phục vụ lợi ích cá nhân. [cite: 156]"
+    "question": "Hành vi nào bị cấm trong quan hệ với người tập sự hành nghề công chứng?",
+    "a": "Yêu cầu người tập sự soạn thảo hợp đồng",
+    "b": "Yêu cầu người tập sự thực hiện công việc không liên quan đến nội dung tập sự vì lợi ích cá nhân",
+    "c": "Hướng dẫn người tập sự về kỹ năng nghề nghiệp",
+    "d": "Kiểm tra kết quả công việc của người tập sự",
+    "answer": "B",
+    "explanation": "Theo Khoản 2, Điều 14: Nghiêm cấm CCV yêu cầu người tập sự thực hiện các công việc không liên quan đến nội dung tập sự nhằm phục vụ lợi ích cá nhân."
   },
   {
-    "câu hỏi": "Nghĩa vụ bảo mật thông tin của CCV được quy định như thế nào?",
-    "đáp án A": "Chỉ bảo mật khi đang hành nghề",
-    "đáp án B": "Bảo mật trong quá trình hành nghề và cả khi không còn là CCV",
-    "đáp án C": "Chỉ bảo mật thông tin về tài chính của khách hàng",
-    "đáp án D": "Không cần bảo mật nếu khách hàng là người thân",
-    "đáp án đúng": "B",
-    "giải thích": "Theo Khoản 1, Điều 6: CCV có trách nhiệm giữ bí mật thông tin trong hồ sơ và nội dung công chứng trong quá trình hành nghề cũng như khi không còn là CCV. [cite: 74]"
+    "question": "Nghĩa vụ bảo mật thông tin của CCV được quy định như thế nào?",
+    "a": "Chỉ bảo mật khi đang hành nghề",
+    "b": "Bảo mật trong quá trình hành nghề và cả khi không còn là CCV",
+    "c": "Chỉ bảo mật thông tin về tài chính của khách hàng",
+    "d": "Không cần bảo mật nếu khách hàng là người thân",
+    "answer": "B",
+    "explanation": "Theo Khoản 1, Điều 6: CCV có trách nhiệm giữ bí mật thông tin trong hồ sơ và nội dung công chứng trong quá trình hành nghề cũng như khi không còn là CCV."
   },
   {
-    "câu hỏi": "CCV có được phép trả tiền hoa hồng cho người môi giới không?",
-    "đáp án A": "Có nếu mức chiết khấu dưới 10%",
-    "đáp án B": "Có nếu khách hàng đồng ý",
-    "đáp án C": "Tuyệt đối không được trả tiền hoa hồng cho người môi giới",
-    "đáp án D": "Được phép nếu tổ chức hành nghề công chứng cho phép",
-    "đáp án đúng": "C",
-    "giải thích": "Theo Khoản 10, Điều 8: Nghiêm cấm CCV trả tiền hoa hồng, chiết khấu cho người yêu cầu công chứng hoặc người môi giới. [cite: 98]"
+    "question": "CCV có được phép trả tiền hoa hồng cho người môi giới không?",
+    "a": "Có nếu mức chiết khấu dưới 10%",
+    "b": "Có nếu khách hàng đồng ý",
+    "c": "Tuyệt đối không được trả tiền hoa hồng cho người môi giới",
+    "d": "Được phép nếu tổ chức hành nghề công chứng cho phép",
+    "answer": "C",
+    "explanation": "Theo Khoản 10, Điều 8: Nghiêm cấm CCV trả tiền hoa hồng, chiết khấu cho người yêu cầu công chứng hoặc người môi giới."
   },
   {
-    "câu hỏi": "Hành vi nào vi phạm quy tắc đạo đức về sự công bằng đối với khách hàng?",
-    "đáp án A": "Ưu tiên phục vụ người già và người khuyết tật",
-    "đáp án B": "Giải thích kỹ cho khách hàng chưa hiểu pháp luật",
-    "đáp án C": "Phân biệt đối xử dựa trên địa vị xã hội và khả năng tài chính",
-    "đáp án D": "Từ chối công chứng hợp đồng vi phạm pháp luật",
-    "đáp án đúng": "C",
-    "giải thích": "Theo Điều 7: CCV không được phân biệt đối xử về địa vị xã hội, khả năng tài chính... giữa những người yêu cầu công chứng. [cite: 86]"
+    "question": "Hành vi nào vi phạm quy tắc đạo đức về sự công bằng đối với khách hàng?",
+    "a": "Ưu tiên phục vụ người già và người khuyết tật",
+    "b": "Giải thích kỹ cho khách hàng chưa hiểu pháp luật",
+    "c": "Phân biệt đối xử dựa trên địa vị xã hội và khả năng tài chính",
+    "d": "Từ chối công chứng hợp đồng vi phạm pháp luật",
+    "answer": "C",
+    "explanation": "Theo Điều 7: CCV không được phân biệt đối xử về địa vị xã hội, khả năng tài chính... giữa những người yêu cầu công chứng."
   },
   {
     "question": "UBND cấp xã là cơ quan đăng ký kết hôn của trường hợp nào sau:",
