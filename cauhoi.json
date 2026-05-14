@@ -2591,7 +2591,7 @@
     "explanation": "Nguyên tắc trung thực (Điều 4) và trách nhiệm bảo vệ dữ liệu yêu cầu CCV không được thực hiện công chứng khi biết thông tin sai lệch."
   },
   {
-    "question": "Tình huống: Một doanh nghiệp cung cấp 'Bản sao điện tử được chứng thực từ bản chính' để làm hồ sơ công chứng. CCV nghi ngờ bản số này bị can thiệp kỹ thuật (photoshop). CCV xử lý thế nào?",
+    "question": "Tình huống: Một doanh nghiệp cung cấp Bản sao điện tử được chứng thực từ bản chính để làm hồ sơ công chứng. CCV nghi ngờ bản số này bị can thiệp kỹ thuật (photoshop). CCV xử lý thế nào?",
     "a": "Vẫn thực hiện vì bản điện tử đã có dấu đỏ kỹ thuật",
     "b": "Sử dụng công cụ kiểm tra chữ ký số/mã QR hoặc yêu cầu bản giấy đối chiếu để bảo vệ an toàn pháp lý (Điều 5 QĐ 148)",
     "c": "Từ chối ngay lập tức và mắng khách hàng là lừa đảo",
