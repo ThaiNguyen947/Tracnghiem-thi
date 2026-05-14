@@ -4216,5 +4216,68 @@
     "d": "CCV được miễn trách nhiệm nếu đã làm đúng quy trình của Văn phòng.",
     "answer": "C",
     "explanation": "Căn cứ điểm i Khoản 2 Điều 18 LCC 2024, CCV có nghĩa vụ 'Chịu trách nhiệm trước pháp luật và trước người yêu cầu công chứng về văn bản công chứng mà mình thực hiện'."
+  },
+  {
+    "question": "Ông An là Công chứng viên (CCV) đã nghỉ hưu nhưng đang làm cộng tác viên tư vấn pháp luật cho một doanh nghiệp và có hưởng thù lao theo vụ việc. Ông An có thuộc trường hợp bị miễn nhiệm CCV không?",
+    "a": "Không, vì ông An đã nghỉ hưu nên được quyền làm thêm các công việc khác.",
+    "b": "Có, vì CCV không được đồng thời là tư vấn viên pháp luật.",
+    "c": "Không, nếu ông An không đăng ký tư cách tư vấn viên pháp luật chuyên nghiệp.",
+    "d": "Có, nếu công việc này kéo dài trên 06 tháng.",
+    "answer": "B",
+    "explanation": "Căn cứ điểm d Khoản 2 Điều 16 dẫn chiếu đến điểm h Khoản 1 Điều 9 LCC 2024, công chứng viên không được đồng thời là tư vấn viên pháp luật. Nếu vi phạm sẽ bị miễn nhiệm."
+  },
+  {
+    "question": "Trong các nghĩa vụ sau đây của Công chứng viên, nghĩa vụ nào liên quan trực tiếp đến tính 'chuyên trách' của nghề công chứng?",
+    "a": "Tham gia bồi dưỡng nghiệp vụ hằng năm.",
+    "b": "Tôn trọng và bảo vệ lợi ích của người yêu cầu công chứng.",
+    "c": "Hành nghề tại 01 tổ chức hành nghề công chứng và bảo đảm thời gian làm việc của tổ chức đó.",
+    "d": "Gia nhập Hội công chứng viên địa phương.",
+    "answer": "C",
+    "explanation": "Căn cứ điểm c Khoản 2 Điều 18 LCC 2024. Đây là điểm mới nhấn mạnh tính chuyên trách, CCV không được 'treo bảng' rồi đi làm việc khác trong giờ hành chính."
+  },
+  {
+    "question": "Tình huống: CCV Bình bị tạm đình chỉ hành nghề 12 tháng do bị truy cứu trách nhiệm hình sự. Sau 12 tháng, cơ quan điều tra vẫn chưa có kết luận. Văn phòng công chứng nơi ông Bình hợp danh bị giải thể. Trường hợp này ông Bình bị xử lý thế nào?",
+    "a": "Tiếp tục tạm đình chỉ cho đến khi vụ án kết thúc.",
+    "b": "Bị miễn nhiệm do hết thời hạn tạm đình chỉ mà lý do tạm đình chỉ vẫn còn.",
+    "c": "Được đi làm tại một Văn phòng công chứng khác.",
+    "d": "Được tạm dừng tư cách CCV cho đến khi có bản án vô tội.",
+    "answer": "B",
+    "explanation": "Căn cứ điểm e Khoản 2 Điều 16 LCC 2024. Đây là quy định rất 'nghiệt ngã' nhằm đảm bảo tính liên tục và an toàn của nghề: cứ hết 12 tháng tạm đình chỉ mà chưa xong việc là bị miễn nhiệm."
+  },
+  {
+    "question": "Người bị miễn nhiệm CCV do 'Không còn đủ tiêu chuẩn' (ví dụ: mất quốc tịch hoặc không còn thường trú tại Việt Nam) thì sau bao lâu được xem xét bổ nhiệm lại?",
+    "a": "02 năm kể từ ngày quyết định miễn nhiệm có hiệu lực và lý do không còn.",
+    "b": "03 năm kể từ ngày quyết định miễn nhiệm có hiệu lực.",
+    "c": "Được xem xét bổ nhiệm lại ngay khi lý do miễn nhiệm không còn và đáp ứng đủ tiêu chuẩn.",
+    "d": "Không bao giờ được bổ nhiệm lại.",
+    "answer": "A",
+    "explanation": "Căn cứ Khoản 2 Điều 17 LCC 2024, tất cả các trường hợp miễn nhiệm tại Khoản 2 Điều 16 (trừ các trường hợp bị cấm vĩnh viễn ở Khoản 3 Điều 17) đều phải đợi đủ 02 năm mới được xem xét bổ nhiệm lại."
+  },
+  {
+    "question": "Quyền nào sau đây của Công chứng viên giúp họ xác minh tính xác thực của hợp đồng khi có nghi ngờ về giấy tờ giả?",
+    "a": "Quyền từ chối công chứng.",
+    "b": "Quyền đề nghị cơ quan, tổ chức cung cấp thông tin, tài liệu liên quan đến việc công chứng.",
+    "c": "Quyền được bảo đảm hành nghề công chứng.",
+    "d": "Quyền khai thác cơ sở dữ liệu công chứng.",
+    "answer": "B",
+    "explanation": "Căn cứ điểm d Khoản 1 Điều 18 LCC 2024, CCV có quyền đề nghị cá nhân, cơ quan cung cấp thông tin hoặc khai thác cơ sở dữ liệu để thực hiện việc công chứng."
+  },
+  {
+    "question": "CCV A là thành viên hợp danh của Văn phòng công chứng X. Khi thực hiện một giao dịch, CCV A mắc lỗi gây thiệt hại cho khách hàng 500 triệu đồng. Ai là người có nghĩa vụ bồi thường cho khách hàng đầu tiên?",
+    "a": "Cá nhân CCV A bằng tài sản riêng.",
+    "b": "Văn phòng công chứng X phải bồi thường, sau đó CCV A có nghĩa vụ hoàn trả lại cho Văn phòng.",
+    "c": "Hội công chứng viên địa phương bồi thường từ quỹ dự phòng.",
+    "d": "CCV A và Văn phòng công chứng X cùng liên đới bồi thường ngay lập tức.",
+    "answer": "B",
+    "explanation": "Mặc dù điểm i Khoản 2 Điều 18 LCC 2024 quy định CCV chịu trách nhiệm trước pháp luật, nhưng theo nguyên tắc tổ chức (Điều 32), Văn phòng công chứng phải bồi thường trước cho người yêu cầu, sau đó CCV có lỗi mới hoàn trả lại cho Văn phòng."
+  },
+{
+    "question": "Ông Minh là Công chứng viên (CCV) đang bị tạm đình chỉ hành nghề 12 tháng do bị truy cứu trách nhiệm hình sự. Trong thời gian này, do thiếu người, Văn phòng công chứng nhờ ông Minh ký tên vào một hợp đồng thế chấp tài sản mà ông Minh đã thụ lý hồ sơ từ trước. Ông Minh đồng ý ký. Hành vi này dẫn đến hậu quả pháp lý gì theo LCC 2024?",
+    "a": "Ông Minh chỉ bị xử phạt vi phạm hành chính vì hợp đồng đã được thụ lý trước đó.",
+    "b": "Ông Minh sẽ bị miễn nhiệm CCV và không bao giờ được xem xét bổ nhiệm lại.",
+    "c": "Ông Minh bị kéo dài thời hạn tạm đình chỉ thêm 12 tháng.",
+    "d": "Văn bản công chứng vẫn có giá trị nhưng ông Minh bị cảnh cáo.",
+    "answer": "B",
+    "explanation": "Căn cứ điểm b Khoản 3 Điều 17 LCC 2024, người bị miễn nhiệm do hành nghề trong thời gian bị tạm đình chỉ thì KHÔNG được bổ nhiệm lại công chứng viên."
   }
 ]
