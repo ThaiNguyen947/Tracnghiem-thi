@@ -1959,5 +1959,554 @@
     "d": "Các cơ quan thuế để hướng dẫn khách hàng nộp thuế",
     "answer": "B",
     "explanation": "Việc kết cấu với môi giới để 'mua' khách hàng là hành vi gây lũng đoạn thị trường và vi phạm nghiêm trọng đạo đức tại Điều 14."
+  },
+  {
+    "question": "Tính chất 'Vô hạn' của nghĩa vụ bảo mật thông tin (Điều 6 QTDĐ) được hiểu như thế nào là đúng nhất?",
+    "a": "Chỉ giữ bí mật trong thời gian CCV còn đang làm việc tại văn phòng đó",
+    "b": "Chỉ giữ bí mật cho đến khi giao dịch công chứng được hoàn tất",
+    "c": "Phải giữ bí mật ngay cả khi CCV đã nghỉ hưu, chuyển nghề hoặc không còn hành nghề công chứng",
+    "d": "Chỉ giữ bí mật đối với các tài liệu không được công khai",
+    "answer": "C",
+    "explanation": "Nghĩa vụ bảo mật thông tin là nghĩa vụ trọn đời của CCV đối với thông tin khách hàng mà mình biết được qua công việc."
+  },
+  {
+    "question": "Hành vi nào dưới đây bị coi là vi phạm 'Nguyên tắc công bằng' tại Điều 7 QTDĐ trong bối cảnh thực hiện công chứng lưu động?",
+    "a": "Ưu tiên thực hiện cho người già yếu trước dù họ đến sau",
+    "b": "Yêu cầu người yêu cầu công chứng ở vùng sâu vùng xa phải trả thêm phí bồi dưỡng ngoài thù lao quy định",
+    "c": "Từ chối thực hiện nếu địa điểm công chứng lưu động không đảm bảo an toàn cho CCV",
+    "d": "Giải thích luật kỹ hơn cho người dân tộc thiểu số chưa thạo tiếng phổ thông",
+    "answer": "B",
+    "explanation": "Việc thu thêm tiền ngoài quy định hoặc phân biệt đối xử về tài chính đối với khách hàng là vi phạm nguyên tắc công bằng tại Điều 7 và hành vi bị cấm tại Điều 14 QTDĐ."
+  },
+  {
+    "question": "Tình huống: Một khách hàng quen thuộc yêu cầu CCV A công chứng hợp đồng chuyển nhượng quyền sử dụng đất nhưng thiếu bản gốc Giấy chứng nhận (Sổ đỏ) với lý do 'đang để ở ngân hàng'. Khách hàng cam kết sẽ mang đến đối chiếu sau khi ký xong. CCV A xử lý thế nào để đúng Điều 4 và Điều 8?",
+    "a": "Đồng ý ký trước để hỗ trợ khách hàng và thu phí, sau đó giữ lại văn bản chờ đối chiếu Sổ đỏ",
+    "b": "Kiên quyết từ chối thực hiện việc công chứng tại thời điểm đó và giải thích nghĩa vụ cung cấp bản chính để đối chiếu",
+    "c": "Yêu cầu khách hàng viết giấy cam đoan tự chịu trách nhiệm rồi thực hiện công chứng ngay",
+    "d": "Ký thay khách hàng vào phần đối chiếu bản gốc để hoàn tất hồ sơ",
+    "answer": "B",
+    "explanation": "Theo Điều 4 (Trung thực, khách quan) và Điều 8 (Cấm thực hiện công chứng khi biết hồ sơ không đủ điều kiện), việc không có bản gốc đối chiếu là vi phạm quy trình và đạo đức hành nghề."
+  },
+  {
+    "question": "Tình huống: Một CCV đang thực hiện công chứng di chúc tại bệnh viện cho một người già yếu. Khi đang làm việc, các con của người này vào phòng và yêu cầu CCV phải ghi nội dung chia tài sản theo ý của họ. CCV cần vận dụng Điều nào để giải quyết?",
+    "a": "Điều 6 về bảo mật thông tin",
+    "b": "Điều 2 về tính Độc lập và Điều 5 về bảo vệ quyền lợi hợp pháp của khách hàng",
+    "c": "Điều 11 về nghĩa vụ với Hiệp hội",
+    "d": "Điều 13 về hình ảnh Công chứng viên",
+    "answer": "B",
+    "explanation": "CCV phải độc lập, không để người khác can thiệp vào ý chí của người để lại di sản và có trách nhiệm bảo vệ quyền tự nguyện của người yêu cầu công chứng."
+  },
+  {
+    "question": "Tình huống: Một Văn phòng công chứng (VPCC) mới mở gần đơn vị của bạn. Trưởng VPCC của bạn yêu cầu bạn phải gọi điện cho các khách hàng cũ của văn phòng kia để mời họ về văn phòng mình với mức phí rẻ hơn 20%. Hành vi này vi phạm điều nào?",
+    "a": "Điều 10 về quan hệ với tổ chức hành nghề",
+    "b": "Điều 14 về các hành vi cạnh tranh không lành mạnh và Điều 9 về quan hệ đồng nghiệp",
+    "c": "Điều 7 về tính công bằng",
+    "d": "Không vi phạm vì đây là chiến lược kinh doanh",
+    "answer": "B",
+    "explanation": "Việc lôi kéo khách hàng của đồng nghiệp bằng thủ đoạn hạ thấp phí và dùng thông tin nội bộ là hành vi bị nghiêm cấm tại Điều 9 và Điều 14."
+  },
+  {
+    "question": "Tình huống: CCV B đang hướng dẫn tập sự cho một người cháu họ. Khi xác nhận kết quả tập sự, mặc dù người cháu này thường xuyên nghỉ học việc nhưng CCV B vẫn xác nhận 'Đạt' để cháu đủ điều kiện thi. Hành vi này vi phạm khoản nào của Điều 12?",
+    "a": "Khoản 1 về tận tâm truyền đạt kiến thức",
+    "b": "Khoản 3 về việc xác nhận không đúng sự thật về kết quả tập sự",
+    "c": "Khoản 4 về trách nhiệm với kết quả công việc của người tập sự",
+    "d": "Khoản 2 về theo dõi người tập sự",
+    "answer": "B",
+    "explanation": "Khoản 3 Điều 12 nghiêm cấm CCV xác nhận không đúng sự thật về kết quả tập sự vì nể nang hoặc lợi ích cá nhân."
+  },
+  {
+    "question": "Tình huống: Một người yêu cầu công chứng (NYCCC) đề nghị CCV trích 10% phí công chứng để gửi lại cho người môi giới bất động sản đã dẫn khách đến. CCV xử lý thế nào cho đúng Điều 8?",
+    "a": "Đồng ý nếu việc này được thực hiện bí mật",
+    "b": "Từ chối và giải thích rằng hành vi trả hoa hồng cho môi giới là bị nghiêm cấm",
+    "c": "Chỉ thực hiện nếu người môi giới có chứng chỉ hành nghề",
+    "d": "Chuyển khoản tiền đó dưới danh nghĩa 'phí tư vấn' để hợp thức hóa",
+    "answer": "B",
+    "explanation": "Khoản 10 Điều 8 nghiêm cấm trả tiền hoa hồng, chiết khấu cho NYCCC hoặc người môi giới."
+  },
+  {
+    "question": "Tình huống: CCV X thực hiện công chứng hợp đồng ủy quyền cho một người mà CCV biết rõ người này đang bị ép buộc ký kết do nợ tín dụng đen. CCV X nên làm gì?",
+    "a": "Vẫn ký vì hồ sơ đầy đủ giấy tờ",
+    "b": "Từ chối thực hiện, giải thích lý do và có thể báo cơ quan chức năng nếu thấy dấu hiệu tội phạm (Điều 4, Điều 5)",
+    "c": "Yêu cầu bên ép buộc phải trả thêm phí rủi ro cho CCV",
+    "d": "Ký xong rồi báo công an sau",
+    "answer": "B",
+    "explanation": "CCV có nghĩa vụ trung thực, khách quan và bảo vệ quyền lợi hợp pháp của các bên, không được tiếp tay cho các hành vi cưỡng ép."
+  },
+  {
+    "question": "Tình huống: Một công ty bất động sản đề nghị được đặt 'Văn phòng giao dịch' ngay tại sảnh của Văn phòng công chứng để thuận tiện cho khách hàng. Theo Điều 14, VPCC có được đồng ý không?",
+    "a": "Được, nếu công ty đó hỗ trợ chi phí mặt bằng",
+    "b": "Không, vì đây là hành vi kết cấu với môi giới để lôi kéo khách hàng, vi phạm tính độc lập",
+    "c": "Được, nếu có sự đồng ý của Sở Tư pháp",
+    "d": "Được, để tăng cường phục vụ khách hàng tại chỗ",
+    "answer": "B",
+    "explanation": "Việc để tổ chức môi giới đặt trụ sở tại VPCC bị coi là hành vi kết cấu để trục lợi và cạnh tranh không lành mạnh theo Điều 14."
+  },
+  {
+    "question": "Tình huống: CCV phát hiện văn bản công chứng mình vừa ký xong có lỗi sai về số chứng minh nhân dân của khách hàng. CCV chủ động liên hệ khách hàng để thực hiện đính chính mà không thu phí. Hành vi này thể hiện trách nhiệm nào?",
+    "a": "Trách nhiệm đối với tổ chức hành nghề (Điều 10)",
+    "b": "Trách nhiệm đối với kết quả công việc và uy tín nghề nghiệp (Điều 3, Điều 5)",
+    "c": "Nghĩa vụ đối với Hiệp hội (Điều 11)",
+    "d": "Không thuộc quy định nào trong Quy tắc đạo đức",
+    "answer": "B",
+    "explanation": "Việc chủ động khắc phục sai sót thể hiện sự tận tâm, chuyên nghiệp và bảo vệ quyền lợi cho khách hàng."
+  },
+  {
+    "question": "Tình huống: Một CCV thường xuyên đăng bài trên Facebook cá nhân dùng những từ ngữ thiếu văn hóa để phê phán các cơ quan quản lý nhà nước. Hành vi này vi phạm quy định nào?",
+    "a": "Điều 9 về quan hệ đồng nghiệp",
+    "b": "Điều 13 về giữ gìn hình ảnh, uy tín nghề nghiệp khi tham gia hoạt động xã hội",
+    "c": "Điều 15 về giám sát",
+    "d": "Không vi phạm vì Facebook là quyền tự do cá nhân",
+    "answer": "B",
+    "explanation": "CCV phải giữ gìn hình ảnh, lối sống và phát ngôn chuẩn mực mọi lúc mọi nơi để không làm tổn hại uy tín nghề nghiệp theo Điều 13."
+  },
+  {
+    "question": "Tình huống: Một khách hàng đề nghị CCV giữ bí mật về việc họ đang lập di chúc để lại toàn bộ tài sản cho một người ngoài gia đình. Sau đó, con trai của khách hàng đến hỏi thông tin. CCV phải làm gì?",
+    "a": "Cung cấp thông tin vì con trai là người thừa kế hàng thứ nhất",
+    "b": "Từ chối cung cấp và giải thích nghĩa vụ bảo mật thông tin theo Điều 6",
+    "c": "Yêu cầu con trai nộp phí tra cứu rồi mới cung cấp",
+    "d": "Báo lại cho người cha biết con trai đang tìm hiểu để họ tự giải quyết",
+    "answer": "B",
+    "explanation": "Nghĩa vụ bảo mật thông tin khách hàng là tuyệt đối và kéo dài vô hạn theo Điều 6, trừ khi có yêu cầu từ cơ quan nhà nước có thẩm quyền."
+  },
+  {
+    "question": "Tình huống: Một doanh nghiệp bất động sản là khách hàng lớn của văn phòng đề nghị CCV ký sẵn vào các trang của văn bản công chứng chưa có chữ ký của bên mua để họ mang về lấy chữ ký sau. CCV xử lý thế nào cho đúng Điều 4 và Điều 8?",
+    "a": "Đồng ý nếu doanh nghiệp cam kết chịu mọi trách nhiệm bằng văn bản",
+    "b": "Kiên quyết từ chối vì vi phạm nguyên tắc trực tiếp chứng kiến các bên ký vào văn bản và tính trung thực theo Điều 4",
+    "c": "Đồng ý nếu doanh nghiệp là đối tác chiến lược và có uy tín lớn",
+    "d": "Cho người tập sự ký thay vào phần CCV để hỗ trợ khách hàng",
+    "answer": "B",
+    "explanation": "Việc ký khống hoặc ký trước khi các bên ký là vi phạm nghiêm trọng quy trình nghiệp vụ và nguyên tắc trung thực, khách quan tại Điều 4."
+  },
+  {
+    "question": "Tình huống: CCV A phát hiện một đồng nghiệp khác trong cùng văn phòng thường xuyên thực hiện công chứng cho người thân thích (anh ruột). CCV A nên làm gì để đúng với tinh thần Điều 9?",
+    "a": "Im lặng vì đó là việc riêng của đồng nghiệp",
+    "b": "Trao đổi, góp ý thẳng thắn với đồng nghiệp đó về việc vi phạm hành vi bị cấm tại Điều 8",
+    "c": "Báo cáo ngay lên cơ quan báo chí để tạo áp lực dư luận",
+    "d": "Học tập đồng nghiệp đó để tăng doanh thu cho bản thân",
+    "answer": "B",
+    "explanation": "Khoản 2 Điều 9 quy định CCV có nghĩa vụ góp ý chân thành khi thấy đồng nghiệp có sai sót hoặc hành vi chưa đúng quy định."
+  },
+  {
+    "question": "Tình huống: Trong buổi tiệc tri ân khách hàng, một CCV uống rượu say và có những hành động, phát ngôn thiếu chuẩn mực trước mặt nhiều người. Hành vi này vi phạm điều nào?",
+    "a": "Điều 5 về quan hệ khách hàng",
+    "b": "Điều 13 về giữ gìn hình ảnh, uy tín nghề nghiệp và lối sống lành mạnh",
+    "c": "Điều 11 về nghĩa vụ với Hiệp hội",
+    "d": "Không vi phạm vì đây là hoạt động ngoài giờ làm việc",
+    "answer": "B",
+    "explanation": "Điều 13 yêu cầu CCV phải giữ gìn hình ảnh, uy tín nghề nghiệp mọi lúc mọi nơi và có lối sống lành mạnh, phù hợp với thuần phong mỹ tục."
+  },
+  {
+    "question": "Tình huống: Một người yêu cầu công chứng (NYCCC) là người khuyết tật, không thể tự ký tên. CCV đã hướng dẫn họ thực hiện việc điểm chỉ theo đúng pháp luật. Tuy nhiên, Trưởng tổ chức hành nghề yêu cầu phải thu thêm 'phí dịch vụ hỗ trợ đặc biệt'. CCV nên làm gì?",
+    "a": "Thu phí theo yêu cầu của Trưởng tổ chức để đảm bảo doanh thu cho văn phòng",
+    "b": "Từ chối thu thêm phí và giải thích về tính công bằng, không phân biệt đối xử tại Điều 7",
+    "c": "Thu phí nhưng không xuất hóa đơn để chia nhau",
+    "d": "Yêu cầu NYCCC tự tìm người giúp đỡ bên ngoài để tránh rắc rối",
+    "answer": "B",
+    "explanation": "Điều 7 quy định không được phân biệt đối xử. Việc thu thêm phí vô lý đối với người khuyết tật là vi phạm tính công bằng và đạo đức nghề nghiệp."
+  },
+  {
+    "question": "Tình huống: CCV X nhận được yêu cầu công chứng từ một khách hàng đang tranh chấp tài sản với chính em ruột của CCV X. CCV X xử lý thế nào để đúng Điều 2?",
+    "a": "Vẫn thực hiện công chứng nếu khách hàng không biết mối quan hệ này",
+    "b": "Từ chối thực hiện và giải thích về xung đột lợi ích nhằm bảo đảm tính độc lập, khách quan tại Điều 2",
+    "c": "Thực hiện công chứng và tư vấn cho em mình cách thắng kiện",
+    "d": "Chỉ thực hiện nếu khách hàng trả phí cao gấp đôi",
+    "answer": "B",
+    "explanation": "Nguyên tắc độc lập yêu cầu CCV không được để lợi ích gia đình, cá nhân ảnh hưởng đến việc hành nghề."
+  },
+  {
+    "question": "Tình huống: Một người tập sự hành nghề công chứng thường xuyên được CCV hướng dẫn giao cho việc đi lôi kéo khách hàng tại các văn phòng đăng ký đất đai. CCV hướng dẫn vi phạm điều nào?",
+    "a": "Vi phạm Điều 12 về trách nhiệm bồi dưỡng đạo đức và chuyên môn cho người tập sự",
+    "b": "Đúng, vì đó là cách giúp người tập sự am hiểu thị trường",
+    "c": "Vi phạm Điều 6 về bảo mật",
+    "d": "Vi phạm Điều 17 về giải thích quy tắc",
+    "answer": "A",
+    "explanation": "CCV hướng dẫn phải bồi dưỡng đạo đức và chuyên môn đúng đắn, không được dạy người tập sự thực hiện các hành vi cạnh tranh không lành mạnh."
+  },
+  {
+    "question": "Tình huống: Một CCV phát hiện mình đã công chứng nhầm một hợp đồng giả tạo do các bên thông đồng. CCV chủ động trình báo cơ quan chức năng để ngăn chặn thiệt hại. Hành vi này thể hiện tinh thần gì?",
+    "a": "Sợ bị liên lụy trách nhiệm hình sự",
+    "b": "Tính trung thực, khách quan và bảo vệ công lý tại Điều 2 và Điều 4",
+    "c": "Vi phạm nghĩa vụ bảo mật thông tin khách hàng",
+    "d": "Cạnh tranh không lành mạnh với chính khách hàng của mình",
+    "answer": "B",
+    "explanation": "Bảo vệ sự thật khách quan và ngăn chặn hành vi vi phạm pháp luật là sứ mệnh cao cả của CCV được nhắc đến trong Lời nói đầu và các Điều đầu của Quy tắc."
+  },
+  {
+    "question": "Tình huống: CCV nhận được quà tặng là một chiếc đồng hồ đắt tiền từ khách hàng sau khi hoàn thành một vụ công chứng phức tạp. Theo Điều 8, CCV nên ứng xử như thế nào?",
+    "a": "Nhận quà vì đây là sự cảm ơn tự nguyện sau khi xong việc",
+    "b": "Từ chối khéo léo và giải thích quy định về việc không được nhận bất lợi ích vật chất nào khác ngoài phí và thù lao (Khoản 7 Điều 8)",
+    "c": "Nhận quà và đem đấu giá lấy tiền nộp cho Hiệp hội",
+    "d": "Yêu cầu khách hàng đổi sang tiền mặt cho dễ sử dụng",
+    "answer": "B",
+    "explanation": "Khoản 7 Điều 8 nghiêm cấm CCV nhận bất kỳ khoản tiền hoặc lợi ích vật chất nào khác ngoài phí và thù lao đã niêm yết."
+  },
+  {
+    "question": "Tình huống: Hai văn phòng công chứng A và B thỏa thuận với nhau về việc không tiếp nhận khách hàng của nhau để giữ giá phí ở mức cao nhất. Hành vi này vi phạm điều nào?",
+    "a": "Vi phạm tính độc lập tại Điều 2 và trách nhiệm đối với xã hội",
+    "b": "Vi phạm Điều 14 về cạnh tranh không lành mạnh (thỏa thuận hạn chế cạnh tranh)",
+    "c": "Đúng, vì đây là sự đoàn kết giữa các đồng nghiệp theo Điều 9",
+    "d": "Vi phạm Điều 16 về khen thưởng",
+    "answer": "B",
+    "explanation": "Dù là quan hệ đồng nghiệp nhưng việc bắt tay để ép giá hoặc hạn chế quyền lựa chọn của khách hàng là vi phạm đạo đức hành nghề tại Điều 14."
+  },
+  {
+    "question": "Tình huống: Một người yêu cầu công chứng muốn CCV giữ kín việc họ đã từng có một đời vợ/chồng trong văn bản khai nhận di sản thừa kế để tránh mâu thuẫn gia đình. CCV xử lý thế nào?",
+    "a": "Đồng ý vì đó là quyền riêng tư của khách hàng và nghĩa vụ bảo mật tại Điều 6",
+    "b": "Kiên quyết yêu cầu khai đúng sự thật vì tính trung thực, khách quan tại Điều 4 và tránh làm sai lệch hồ sơ",
+    "c": "Hướng dẫn khách hàng làm cam đoan giả để hợp thức hóa hồ sơ",
+    "d": "Mặc kệ khách hàng khai sao thì ký vậy vì CCV không có nghĩa vụ đi xác minh",
+    "answer": "B",
+    "explanation": "Nguyên tắc trung thực và khách quan yêu cầu nội dung văn bản công chứng phải phản ánh đúng sự thật pháp lý, không được bao che sự gian dối."
+  },
+  {
+    "question": "Tình huống: CCV A thực hiện công chứng hợp đồng thế chấp cho một khách hàng là doanh nghiệp lớn. Sau đó, CCV A phát hiện mình đã nhầm lẫn trong việc kiểm tra thẩm quyền của người đại diện doanh nghiệp. Nếu đính chính sẽ làm chậm tiến độ giải ngân của khách hàng. CCV A nên làm gì để đúng Điều 4?",
+    "a": "Lờ đi lỗi sai vì khách hàng không phát hiện và để đảm bảo tiến độ công việc",
+    "b": "Chủ động thông báo cho khách hàng và ngân hàng để thực hiện sửa đổi, bổ sung hoặc đính chính theo đúng thực tế khách quan",
+    "c": "Sửa trực tiếp vào bản lưu tại văn phòng mà không báo cho các bên",
+    "d": "Yêu cầu người tập sự tự ý ký đè lên phần sai sót",
+    "answer": "B",
+    "explanation": "Điều 4 yêu cầu tính trung thực và khách quan. CCV phải chịu trách nhiệm về sai sót và ưu tiên tính chính xác của văn bản công chứng lên trên lợi ích tạm thời của tiến độ."
+  },
+  {
+    "question": "Tình huống: Một người yêu cầu công chứng (NYCCC) đề nghị CCV ký hợp đồng chuyển nhượng với giá thấp hơn giá thực tế rất nhiều để trốn thuế thu nhập cá nhân. CCV xử lý thế nào để đúng Điều 8?",
+    "a": "Đồng ý vì đó là quyền thỏa thuận giá của các bên",
+    "b": "Giải thích về nghĩa vụ trung thực và từ chối thực hiện nếu biết rõ mục đích trốn thuế, vi phạm pháp luật (Điểm b Khoản 1 Điều 8)",
+    "c": "Đồng ý nhưng yêu cầu khách hàng ký cam kết tự chịu trách nhiệm với cơ quan thuế",
+    "d": "Gợi ý khách hàng nâng giá lên một chút để tránh bị cơ quan thuế nghi ngờ",
+    "answer": "B",
+    "explanation": "CCV không được tiếp tay cho các hành vi gian dối, trốn thuế hoặc làm sai lệch giá trị giao dịch nhằm mục đích vi phạm pháp luật."
+  },
+  {
+    "question": "Tình huống: CCV đang hướng dẫn tập sự cho một người. Trưởng tổ chức hành nghề yêu cầu người tập sự này phải đi làm thay công việc của thư ký nghiệp vụ (soạn thảo hồ sơ cho tất cả CCV khác). CCV hướng dẫn nên ứng xử thế nào?",
+    "a": "Đồng ý để người tập sự có thêm kinh nghiệm thực tế",
+    "b": "Phản đối và yêu cầu người tập sự phải tập trung vào việc học tập chuyên môn dưới sự hướng dẫn trực tiếp của mình (Điều 12)",
+    "c": "Yêu cầu văn phòng phải trả thêm lương cho người tập sự thì mới đồng ý",
+    "d": "Để người tập sự tự quyết định có làm hay không",
+    "answer": "B",
+    "explanation": "Điều 12 quy định CCV hướng dẫn có trách nhiệm theo dõi, kiểm tra và bồi dưỡng người tập sự theo đúng nội dung tập sự, không được lợi dụng người tập sự vào việc khác."
+  },
+  {
+    "question": "Tình huống: CCV nhận được một yêu cầu công chứng từ một khách hàng đang có tranh chấp gay gắt về tài sản với một đồng nghiệp cũ của CCV. CCV xử lý thế nào để đảm bảo Điều 7?",
+    "a": "Từ chối vì muốn bảo vệ quyền lợi cho đồng nghiệp cũ",
+    "b": "Thực hiện công chứng một cách công bằng, khách quan, không để mối quan hệ cũ làm ảnh hưởng đến quyền lợi của khách hàng hiện tại",
+    "c": "Vẫn thực hiện nhưng bí mật cung cấp thông tin hồ sơ cho đồng nghiệp cũ",
+    "d": "Trì hoãn hồ sơ của khách hàng để tạo lợi thế cho đồng nghiệp",
+    "answer": "B",
+    "explanation": "Điều 7 yêu cầu sự công bằng, không phân biệt đối xử. CCV không được để tình cảm cá nhân với đồng nghiệp ảnh hưởng đến tính khách quan khi phục vụ khách hàng."
+  },
+  {
+    "question": "Tình huống: Một khách hàng lớn tặng cho Văn phòng công chứng một chuyến du lịch nước ngoài cho toàn bộ nhân viên sau một năm hợp tác. CCV trong văn phòng nên làm gì?",
+    "a": "Vui vẻ nhận vì đây là quà tặng cho tập thể, không phải cá nhân CCV",
+    "b": "Từ chối vì đây là lợi ích vật chất ngoài quy định, có thể làm ảnh hưởng đến tính độc lập khi hành nghề sau này (Điều 14)",
+    "c": "Nhận chuyến đi nhưng vẫn thu phí công chứng như bình thường",
+    "d": "Chỉ nhận nếu khách hàng cam kết không yêu cầu ưu tiên đặc biệt trong tương lai",
+    "answer": "B",
+    "explanation": "Hành vi nhận lợi ích vật chất từ NYCCC có thể làm suy giảm tính độc lập và khách quan, vi phạm chuẩn mực đạo đức tại Điều 14."
+  },
+  {
+    "question": "Tình huống: Trong một cuộc họp của Hội CCV địa phương, CCV A phát biểu chỉ trích một chính sách mới của Hiệp hội bằng những lời lẽ nhạo báng, thiếu tôn trọng. Hành vi này vi phạm điều nào?",
+    "a": "Điều 9 về quan hệ đồng nghiệp",
+    "b": "Điều 11 về nghĩa vụ đối với tổ chức xã hội - nghề nghiệp và Điều 3 về uy tín nghề nghiệp",
+    "c": "Điều 17 về hướng dẫn quy tắc",
+    "d": "Không vi phạm vì CCV có quyền tự do ngôn luận",
+    "answer": "B",
+    "explanation": "CCV có nghĩa vụ đóng góp ý kiến xây dựng nhưng phải trên tinh thần tôn trọng, chuyên nghiệp, bảo vệ uy tín của tổ chức xã hội - nghề nghiệp."
+  },
+  {
+    "question": "Tình huống: Một CCV phát hiện mình bị bệnh hiểm nghèo và không thể đảm bảo sự tỉnh táo khi làm việc. Tuy nhiên, vì kinh tế gia đình, CCV vẫn cố gắng thực hiện các hợp đồng phức tạp. Điều này vi phạm tinh thần nào?",
+    "a": "Vi phạm tính bảo mật (Điều 6)",
+    "b": "Vi phạm trách nhiệm đảm bảo chất lượng công việc và an toàn pháp lý cho khách hàng (Lời nói đầu và Điều 5)",
+    "c": "Vi phạm quan hệ đồng nghiệp (Điều 9)",
+    "d": "Đúng, vì CCV đang nỗ lực vượt khó hành nghề",
+    "answer": "B",
+    "explanation": "CCV phải đảm bảo đủ điều kiện về sức khỏe và sự minh mẫn để thực hiện nhiệm vụ, tránh gây rủi ro pháp lý cho người dân."
+  },
+  {
+    "question": "Tình huống: Một CCV thực hiện trợ giúp pháp lý miễn phí cho một hộ nghèo. Tuy nhiên, sau đó CCV này lại yêu cầu hộ nghèo đó phải đi vận động những người dân khác trong làng đến văn phòng mình để công chứng. Hành vi này vi phạm điều nào?",
+    "a": "Vi phạm Điều 5 về tính tận tâm trong trợ giúp pháp lý",
+    "b": "Vi phạm Điều 14 về việc lợi dụng trợ giúp pháp lý để quảng cáo, lôi kéo khách hàng",
+    "c": "Đúng, vì đây là sự trao đổi quyền lợi công bằng",
+    "d": "Vi phạm Điều 2 về tính độc lập",
+    "answer": "B",
+    "explanation": "Trợ giúp pháp lý phải xuất phát từ tính nhân văn, không được lợi dụng hoạt động này để thực hiện các hành vi cạnh tranh hoặc lôi kéo khách hàng trái đạo đức."
+  },
+  {
+    "question": "Tình huống: Khi có sự thay đổi về quy định pháp luật, CCV hướng dẫn không cập nhật cho người tập sự mà vẫn dạy theo kiến thức cũ. Khi người tập sự soạn sai, CCV hướng dẫn lại đổ lỗi hoàn toàn cho người tập sự. CCV hướng dẫn vi phạm điều nào?",
+    "a": "Khoản 1 và Khoản 4 Điều 12 về trách nhiệm hướng dẫn và chịu trách nhiệm về kết quả",
+    "b": "Điều 10 về uy tín tổ chức",
+    "c": "Điều 16 về xử lý vi phạm",
+    "d": "Không vi phạm vì người tập sự phải tự cập nhật luật",
+    "answer": "A",
+    "explanation": "CCV hướng dẫn phải tận tâm truyền đạt kiến thức đúng đắn và chịu trách nhiệm về kết quả công việc của người tập sự dưới sự hướng dẫn của mình."
+  },
+  {
+    "question": "Tình huống: Một CCV nhận được yêu cầu công chứng một giao dịch mà CCV biết chắc chắn sẽ gây thiệt hại cho Nhà nước về mặt kinh tế (dù hồ sơ hợp lệ). CCV xử lý thế nào để đúng Điều 2?",
+    "a": "Vẫn thực hiện vì CCV chỉ cần kiểm tra tính hợp pháp của hồ sơ",
+    "b": "Tạm dừng, giải thích cho các bên và báo cáo cơ quan nhà nước có thẩm quyền để bảo vệ lợi ích Nhà nước",
+    "c": "Yêu cầu các bên chia một phần lợi ích cho mình để giữ bí mật",
+    "d": "Thực hiện xong rồi nghỉ việc để tránh liên lụy",
+    "answer": "B",
+    "explanation": "Nguyên tắc tại Điều 2 yêu cầu CCV phải trung thành với Tổ quốc, bảo vệ lợi ích của Nhà nước và lợi ích quốc gia, dân tộc."
+  },
+  {
+    "question": "Tình huống: Một khách hàng yêu cầu CCV công chứng văn bản thỏa thuận phân chia di sản. CCV biết rằng NYCCC đang cố tình giấu tên một người thừa kế khác đang ở nước ngoài để chiếm trọn tài sản. NYCCC dọa nếu không ký sẽ báo cáo lên Sở Tư pháp vì CCV gây khó dễ. CCV làm gì để đúng Điều 4?",
+    "a": "Ký vì hồ sơ NYCCC cung cấp (Giấy xác nhận gia đình) không có tên người ở nước ngoài đó",
+    "b": "Kiên quyết từ chối và giải thích về tính trung thực, khách quan, đồng thời yêu cầu NYCCC bổ sung thông tin chính xác",
+    "c": "Ký nhưng ghi thêm dòng chữ 'NYCCC tự chịu trách nhiệm về số lượng người thừa kế'",
+    "d": "Báo cáo cho người thừa kế ở nước ngoài biết để họ tự đi kiện",
+    "answer": "B",
+    "explanation": "Điều 4 yêu cầu CCV phải phản ánh đúng sự thật khách quan. Biết rõ thông tin sai lệch mà vẫn ký là vi phạm nghiêm trọng đạo đức nghề nghiệp."
+  },
+  {
+    "question": "Tình huống: Trong một giao dịch mua bán nhà đất, bên mua là một người có chức vụ lớn tại địa phương, yêu cầu CCV thực hiện nhanh và miễn phí thù lao ký ngoài trụ sở 'để giữ quan hệ'. CCV ứng xử thế nào để đúng Điều 2 và Điều 14?",
+    "a": "Đồng ý để tạo mối quan hệ thuận lợi cho văn phòng công chứng sau này",
+    "b": "Từ chối và giải thích về tính độc lập (Điều 2) cũng như việc thu phí đúng quy định (Điều 14)",
+    "c": "Thực hiện miễn phí nhưng yêu cầu người đó ký xác nhận đã nộp tiền",
+    "d": "Chuyển hồ sơ cho người tập sự làm để tránh trách nhiệm cho mình",
+    "answer": "B",
+    "explanation": "Nguyên tắc độc lập yêu cầu CCV không chịu tác động bởi người có chức vụ; Điều 14 cấm thu phí sai quy định để trục lợi hoặc tạo vảy."
+  },
+  {
+    "question": "Tình huống: CCV phát hiện một hợp đồng thế chấp do đồng nghiệp cùng văn phòng thực hiện tháng trước có sai sót nghiêm trọng về tài sản bảo đảm, có thể gây thiệt hại cho Ngân hàng. Đồng nghiệp này xin bạn im lặng để tự khắc phục 'ngầm'. Bạn làm gì theo Điều 9?",
+    "a": "Im lặng vì đó là tình đồng nghiệp và để giữ uy tín chung của văn phòng",
+    "b": "Yêu cầu đồng nghiệp phải báo cáo Trưởng tổ chức để thực hiện đính chính công khai theo luật",
+    "c": "Dùng thông tin này để hạ thấp đồng nghiệp và tranh quyền Trưởng nhóm",
+    "d": "Tự ý sửa lại bản lưu trên hệ thống mà không báo cho ai",
+    "answer": "B",
+    "explanation": "Góp ý đồng nghiệp (Điều 9) phải đi đôi với tính trung thực (Điều 4). Việc che giấu sai sót gây thiệt hại là vi phạm đạo đức hành nghề."
+  },
+  {
+    "question": "Tình huống: NYCCC đề nghị CCV ký hợp đồng ủy quyền định đoạt tài sản mà bên nhận ủy quyền chính là vợ của CCV (nhưng khác họ). NYCCC hoàn toàn tự nguyện. CCV xử lý thế nào theo Điều 8?",
+    "a": "Được thực hiện vì khách hàng tự nguyện và họ không cùng họ nên không ai biết",
+    "b": "Tuyệt đối không thực hiện vì vi phạm quy định cấm công chứng liên quan đến người thân thích (Điều 8)",
+    "c": "Được thực hiện nếu CCV thu phí cao hơn bình thường",
+    "d": "Yêu cầu vợ mình ký cam kết không lấy tài sản đó thì CCV mới ký",
+    "answer": "B",
+    "explanation": "Điều 8 nghiêm cấm CCV thực hiện công chứng liên quan đến lợi ích của người thân thích nhằm đảm bảo tính khách quan tuyệt đối."
+  },
+  {
+    "question": "Tình huống: Một doanh nghiệp đề nghị tài trợ toàn bộ chi phí sửa chữa trụ sở cho Văn phòng công chứng, đổi lại VPCC phải ưu tiên giải quyết hồ sơ của họ trước mọi khách hàng khác. Điều này vi phạm nguyên tắc nào?",
+    "a": "Vi phạm tính Công bằng tại Điều 7 và tính Độc lập tại Điều 2",
+    "b": "Không vi phạm vì đây là hợp tác xã hội hóa",
+    "c": "Chỉ vi phạm nếu doanh nghiệp đó có hồ sơ vi phạm pháp luật",
+    "d": "Vi phạm nghĩa vụ bảo mật thông tin (Điều 6)",
+    "answer": "A",
+    "explanation": "Nhận lợi ích để tạo sự ưu tiên đặc biệt là vi phạm tính công bằng với các NYCCC khác và làm mất tính độc lập của CCV."
+  },
+  {
+    "question": "Tình huống: CCV A thực hiện trợ giúp pháp lý cho NYCCC là người nghèo. NYCCC vì quá biết ơn nên muốn tặng CCV một ít nông sản tự trồng. CCV ứng xử thế nào để vừa đúng Điều 8, vừa giữ tính nhân văn?",
+    "a": "Từ chối thẳng thừng và lập biên bản về hành vi đưa hối lộ",
+    "b": "Giải thích chân thành về quy định không nhận lợi ích vật chất (Điều 8) và chỉ nhận lời cảm ơn",
+    "c": "Nhận quà và yêu cầu NYCCC lần sau mang thêm nhiều hơn",
+    "d": "Nhận quà rồi bí mật đem trả lại tiền tương ứng vào túi NYCCC",
+    "answer": "B",
+    "explanation": "Dù là nông sản giá trị nhỏ, nhưng để giữ sự liêm chính (Điều 8), CCV không được nhận lợi ích ngoài phí/thù lao. Cách ứng xử khéo léo thể hiện tính nhân văn."
+  },
+  {
+    "question": "Tình huống: Một người tập sự phát hiện CCV hướng dẫn mình có dấu hiệu tẩy xóa hồ sơ để hợp thức hóa một giao dịch bất động sản. Người tập sự lo sợ nếu báo cáo sẽ không được xác nhận kết quả tập sự. Theo Điều 12, người tập sự nên làm gì?",
+    "a": "Im lặng và làm theo để được xác nhận kết quả tập sự suôn sẻ",
+    "b": "Báo cáo với Hội CCV hoặc cơ quan quản lý vì đạo đức nghề nghiệp là tối thượng",
+    "c": "Dọa CCV hướng dẫn để đòi chia tiền",
+    "d": "Tự ý xóa dấu vết tẩy xóa để bảo vệ CCV hướng dẫn",
+    "answer": "B",
+    "explanation": "Dù là người tập sự, việc tuân thủ đạo đức và trung thực (Điều 4) là bắt buộc. Hội CCV sẽ bảo vệ người tập sự nếu họ làm đúng pháp luật."
+  },
+  {
+    "question": "Tình huống: NYCCC yêu cầu CCV công chứng hợp đồng mà nội dung có điều khoản 'Bên mua không được quyền khiếu nại nếu tài sản có tranh chấp sau này'. CCV thấy điều khoản này xâm phạm quyền lợi bên mua. CCV xử lý thế nào?",
+    "a": "Vẫn ký vì đây là sự thỏa thuận tự nguyện của các bên",
+    "b": "Giải thích rõ hậu quả pháp lý bất lợi và đề nghị các bên xem xét lại để bảo vệ quyền lợi hợp pháp (Điều 5)",
+    "c": "Từ chối ngay lập tức mà không cần giải thích",
+    "d": "Ký nhưng yêu cầu bên mua nộp thêm tiền bảo hiểm rủi ro cho CCV",
+    "answer": "B",
+    "explanation": "Điều 5 yêu cầu CCV phải giải thích hậu quả pháp lý để bảo vệ quyền lợi hợp pháp của NYCCC, tránh việc họ bị nhầm lẫn hoặc thiệt thòi."
+  },
+  {
+    "question": "Tình huống: CCV được mời tham gia một chương trình truyền hình để tư vấn pháp luật. Trong chương trình, CCV liên tục nhắc đến tên văn phòng mình là 'Văn phòng số 1 Việt Nam' và nói xấu các văn phòng khác làm việc chậm trễ. Điều này vi phạm điều nào?",
+    "a": "Điều 13 về hình ảnh CCV và Điều 14 về cạnh tranh không lành mạnh",
+    "b": "Không vi phạm vì đây là sự thật",
+    "c": "Vi phạm nghĩa vụ bảo mật thông tin (Điều 6)",
+    "d": "Vi phạm tính độc lập (Điều 2)",
+    "answer": "A",
+    "explanation": "Điều 13 yêu cầu giữ hình ảnh chuyên nghiệp, Điều 14 cấm quảng cáo sai sự thật và hạ thấp uy tín đồng nghiệp."
+  },
+  {
+    "question": "Tình huống: NYCCC là một người mù, đến yêu cầu công chứng nhưng không có người làm chứng đi cùng. CCV đã tự mình vừa là CCV vừa là người làm chứng để 'giúp' khách hàng. Hành vi này đúng hay sai?",
+    "a": "Đúng, vì CCV đang tận tâm giúp đỡ người khuyết tật theo Điều 7",
+    "b": "Sai, vì CCV không thể đồng thời đảm nhận hai tư cách pháp lý trong một vụ việc, vi phạm tính khách quan (Điều 8)",
+    "c": "Đúng, nếu khách hàng ký giấy cam đoan nhờ CCV làm chứng",
+    "d": "Đúng, nếu CCV không thu phí người làm chứng",
+    "answer": "B",
+    "explanation": "Để đảm bảo tính khách quan và đúng quy trình, CCV không được kiêm nhiệm các vai trò khác trong cùng một giao dịch (Điều 8)."
+  },
+  {
+    "question": "Tình huống: Một khách hàng lớn dọa sẽ rút toàn bộ hồ sơ của công ty sang văn phòng khác nếu CCV không đồng ý lùi ngày công chứng vào tháng trước để họ kịp làm thủ tục thuế. CCV xử lý thế nào?",
+    "a": "Đồng ý lùi ngày để giữ khách hàng lớn cho văn phòng (Điều 10)",
+    "b": "Kiên quyết từ chối vì hành vi ghi sai thời điểm công chứng là vi phạm tính trung thực (Điều 4) và bị cấm (Điều 8)",
+    "c": "Đồng ý nếu khách hàng trả thù lao gấp 10 lần",
+    "d": "Lùi ngày nhưng không ghi vào sổ công chứng",
+    "answer": "B",
+    "explanation": "Tính trung thực (Điều 4) là bất di bất dịch; lùi ngày công chứng là hành vi gian dối, vi phạm nghiêm trọng đạo đức nghề nghiệp."
+  },
+  {
+    "question": "Tình huống: CCV A đang thực hiện công chứng tại nhà cho NYCCC. NYCCC lén đưa cho CCV một phong bì tiền 'bồi dưỡng' ngoài phí niêm yết khi người nhà đi vắng. CCV nên ứng xử thế nào?",
+    "a": "Nhận vì không ai biết và đây là thù lao đi lại xứng đáng",
+    "b": "Từ chối chân thành, giải thích về quy định thu phí công khai (Điều 14) và lòng tự trọng nghề nghiệp (Điều 3)",
+    "c": "Nhận rồi về chia cho cả văn phòng để giữ đoàn kết (Điều 9)",
+    "d": "Nhận tiền nhưng không ký văn bản để đảm bảo khách quan",
+    "answer": "B",
+    "explanation": "Điều 14 và Điều 8 nghiêm cấm thu thêm tiền ngoài phí niêm yết. Việc từ chối giúp bảo vệ uy tín của CCV và ngành."
+  },
+  {
+    "question": "Tình huống: Một NYCCC là người nước ngoài, không thạo tiếng Việt, đi cùng một người phiên dịch. CCV phát hiện người phiên dịch đang dịch sai nội dung hợp đồng theo hướng có lợi cho họ. CCV làm gì?",
+    "a": "Mặc kệ vì CCV chỉ cần người phiên dịch ký cam đoan là đủ trách nhiệm",
+    "b": "Yêu cầu dừng việc công chứng, giải thích rõ nghi ngờ và đề nghị NYCCC đổi người phiên dịch khác (Điều 5)",
+    "c": "Vẫn ký vì NYCCC không phản đối gì",
+    "d": "Tự dùng Google Dịch để làm việc tiếp",
+    "answer": "B",
+    "explanation": "Điều 5 yêu cầu bảo vệ quyền lợi hợp pháp của NYCCC. Biết NYCCC bị lừa mà vẫn ký là vi phạm tính trung thực và nhân văn."
+  },
+  {
+    "question": "Tình huống: Một người tập sự thường xuyên bị CCV hướng dẫn mắng chửi thậm tệ trước mặt khách hàng vì những lỗi nhỏ. Hành vi của CCV hướng dẫn vi phạm điều nào?",
+    "a": "Vi phạm quy định về ứng xử văn minh và bồi dưỡng đạo đức cho người tập sự (Điều 12)",
+    "b": "Không vi phạm vì đó là cách giáo dục nghiêm khắc",
+    "c": "Vi phạm nghĩa vụ bảo mật thông tin (Điều 6)",
+    "d": "Vi phạm tính độc lập (Điều 2)",
+    "answer": "A",
+    "explanation": "Điều 12 yêu cầu CCV hướng dẫn phải tận tâm, văn minh và tôn trọng người tập sự."
+  },
+  {
+    "question": "Tình huống: CCV X được một người bạn nhờ tra cứu thông tin về tình trạng tài sản của một người hàng xóm đang công chứng tại văn phòng để bạn của CCV 'biết đường xử lý'. CCV X xử lý thế nào?",
+    "a": "Tra cứu và cung cấp vì là bạn bè thân thiết",
+    "b": "Từ chối và giải thích về nghĩa vụ bảo mật thông tin tuyệt đối tại Điều 6",
+    "c": "Cung cấp thông tin nhưng yêu cầu bạn giữ bí mật",
+    "d": "Bán thông tin đó cho bạn để gây quỹ cho văn phòng",
+    "answer": "B",
+    "explanation": "Điều 6 quy định nghĩa vụ bảo mật thông tin là tuyệt đối, không được tiết lộ cho bên thứ ba không có thẩm quyền."
+  },
+  {
+    "question": "Tình huống: Trong quá trình giải quyết hồ sơ, NYCCC có thái độ thô lỗ, xúc phạm CCV. Theo Điều 5, CCV nên ứng xử thế nào?",
+    "a": "Xúc phạm lại khách hàng để bảo vệ danh dự cá nhân",
+    "b": "Giữ thái độ điềm tĩnh, đúng mực, giải thích quy định và có quyền từ chối nếu NYCCC vi phạm trật tự công cộng (Điều 5)",
+    "c": "Vẫn quỵ lụy phục vụ để giữ doanh thu cho văn phòng",
+    "d": "Gọi bảo vệ ra đánh khách hàng",
+    "answer": "B",
+    "explanation": "CCV phải ứng xử lịch sự, đúng mực (Điều 5) nhưng đồng thời có quyền bảo vệ nhân phẩm của mình theo quy định pháp luật."
+  },
+  {
+    "question": "Tình huống: Một CCV phát hiện mẫu dấu trên Sổ đỏ của NYCCC có điểm bất thường, nghi là giả. Nếu từ chối, VPCC sẽ mất khoản phí lớn. CCV làm gì?",
+    "a": "Cứ ký vì CCV không có máy giám định chuyên dụng, không thể kết luận giả",
+    "b": "Tạm dừng công chứng, yêu cầu NYCCC giải trình và báo cơ quan chức năng để xác minh (Điều 4, Điều 8)",
+    "c": "Yêu cầu NYCCC nộp thêm 'phí rủi ro' rồi mới ký",
+    "d": "Chỉ ký nếu NYCCC cam kết sẽ không mang Sổ đỏ đó đi vay ngân hàng",
+    "answer": "B",
+    "explanation": "Tính trung thực (Điều 4) yêu cầu CCV không được làm ngơ trước nghi ngờ vi phạm pháp luật."
+  },
+  {
+    "question": "Tình huống: CCV A chuyển công tác sang văn phòng khác và thông báo cho các khách hàng đang làm dở hồ sơ tại văn phòng cũ về việc chuyển đi. Văn phòng cũ cho rằng CCV A đang 'lôi kéo' khách hàng. Điều này có vi phạm Điều 9 không?",
+    "a": "Vi phạm, vì CCV A đang làm mất khách của văn phòng cũ",
+    "b": "Không vi phạm, nếu việc thông báo chỉ nhằm mục đích giải quyết nốt công việc và khách hàng tự nguyện đi theo vì tin tưởng (Điều 9)",
+    "c": "Vi phạm, vì CCV không được liên lạc với khách hàng cũ",
+    "d": "Vi phạm Điều 14 về cạnh tranh",
+    "answer": "B",
+    "explanation": "Quan hệ đồng nghiệp cần sự trung thực. Nếu thông báo khách quan về thay đổi nhân sự để NYCCC tự quyết định thì không phải là lôi kéo bất chính."
+  },
+  {
+    "question": "Tình huống: Một CCV thực hiện công chứng di chúc cho NYCCC tại bệnh viện. Khi NYCCC vừa ký xong và CCV chưa kịp ký đóng dấu thì NYCCC qua đời. CCV nên xử lý thế nào?",
+    "a": "Vẫn ký đóng dấu bình thường và ghi ngày lùi lại vài giờ cho đúng luật",
+    "b": "Không được ký đóng dấu nữa vì văn bản chưa hoàn thành khi NYCCC còn sống, báo cho người nhà về việc di chúc chưa có hiệu lực pháp luật",
+    "c": "Yêu cầu người nhà NYCCC ký thay vào phần CCV",
+    "d": "Đem về văn phòng ký đóng dấu và không nói cho ai biết việc NYCCC đã mất",
+    "answer": "B",
+    "explanation": "Ghi sai thời điểm hoặc hoàn tất văn bản khi NYCCC đã mất là vi phạm tính trung thực (Điều 4) và sai lệch hồ sơ."
+  },
+  {
+    "question": "Tình huống: Theo Điều 11, khi Hội CCV địa phương phát động phong trào quyên góp ủng hộ đồng bào bị lũ lụt, một CCV thấy mình đang khó khăn nên không tham gia. Điều này có vi phạm đạo đức không?",
+    "a": "Vi phạm, vì CCV bắt buộc phải tham gia mọi hoạt động của Hội",
+    "b": "Không vi phạm đạo đức nếu CCV có lý do chính đáng, tuy nhiên nên thể hiện tinh thần trách nhiệm cộng đồng trong khả năng (Điều 11)",
+    "c": "Vi phạm, vì CCV phải giàu có mới được hành nghề",
+    "d": "Vi phạm tính độc lập",
+    "answer": "B",
+    "explanation": "Nghĩa vụ với tổ chức xã hội - nghề nghiệp (Điều 11) bao gồm tinh thần xây dựng cộng đồng, nhưng cần phù hợp với hoàn cảnh thực tế của hội viên."
+  },
+  {
+    "question": "Tình huống 'Trọng tâm': CCV A được yêu cầu công chứng hợp đồng thế chấp tài sản cho một doanh nghiệp mà người đại diện theo pháp luật là anh rể của CCV A. CCV A xử lý thế nào để đúng quy định tại Điều 8 QĐ 148 và Luật Công chứng?",
+    "a": "Vẫn thực hiện vì anh rể không phải là người thân thích theo hàng thừa kế thứ nhất",
+    "b": "Từ chối thực hiện vì đây là hành vi bị nghiêm cấm đối với người thân thích, nhằm bảo đảm tính khách quan tuyệt đối",
+    "c": "Thực hiện công chứng nhưng yêu cầu một CCV khác trong văn phòng ký tên đóng dấu",
+    "d": "Thực hiện bình thường nếu các bên trong hợp đồng đều đồng ý bằng văn bản",
+    "answer": "B",
+    "explanation": "Căn cứ Điều 8 QĐ 148 và Điều 9 Luật Công chứng, CCV không được công chứng giao dịch liên quan đến lợi ích cá nhân hoặc người thân thích (bao gồm cả anh rể, chị dâu...)."
+  },
+  {
+    "question": "Tình huống 'Trọng tâm': Một NYCCC là người già yếu, đi lại khó khăn nên yêu cầu ký ngoài trụ sở. Sau khi xong việc, họ gửi CCV một phong bì 500.000 đồng nói là 'tiền bồi dưỡng xăng xe'. CCV nên làm gì để đúng Điều 14?",
+    "a": "Nhận tiền vì đây là khoản chi phí thực tế và khách hàng tự nguyện tặng cho",
+    "b": "Từ chối và giải thích rõ CCV chỉ được thu phí và thù lao công chứng theo mức đã niêm yết công khai",
+    "c": "Nhận tiền nhưng ghi vào phiếu thu của văn phòng dưới dạng 'thu nhập khác'",
+    "d": "Chỉ nhận nếu có sự đồng ý của Trưởng tổ chức hành nghề công chứng",
+    "answer": "B",
+    "explanation": "Điều 14 nghiêm cấm CCV nhận bất kỳ lợi ích vật chất nào khác ngoài phí và thù lao công chứng đã quy định."
+  },
+  {
+    "question": "Tình huống 'Trọng tâm': Cán bộ cơ quan điều tra đến văn phòng yêu cầu CCV cung cấp bản sao hồ sơ công chứng của một giao dịch đang có nghi ngờ lừa đảo. Tuy nhiên, cán bộ này chỉ xuất trình thẻ ngành, không có văn bản yêu cầu. CCV xử lý thế nào theo Điều 6?",
+    "a": "Cung cấp ngay để phối hợp kịp thời với cơ quan chức năng trấn áp tội phạm",
+    "b": "Từ chối và giải thích nghĩa vụ bảo mật thông tin, chỉ cung cấp khi có văn bản yêu cầu chính thức của cơ quan có thẩm quyền",
+    "c": "Cho cán bộ đó xem tại chỗ nhưng không cho sao chép hồ sơ",
+    "d": "Yêu cầu cán bộ đó phải trả phí tra cứu hồ sơ rồi mới cung cấp",
+    "answer": "B",
+    "explanation": "Điều 6 quy định CCV phải giữ bí mật thông tin, trừ trường hợp được NYCCC đồng ý hoặc có yêu cầu bằng văn bản của cơ quan Nhà nước có thẩm quyền."
+  },
+  {
+    "question": "Tình huống 'Trọng tâm': CCV hướng dẫn bận đi họp nên giao hồ sơ cho người tập sự tự đối chiếu bản gốc và hướng dẫn khách hàng ký. CCV về sau đó chỉ việc kiểm tra lại chữ ký và đóng dấu. Hành vi này vi phạm điều nào?",
+    "a": "Vi phạm Điều 12 về trách nhiệm trực tiếp hướng dẫn, theo dõi và kiểm tra kết quả của người tập sự",
+    "b": "Không vi phạm vì người tập sự cần được tạo điều kiện làm việc độc lập cho mau giỏi",
+    "c": "Chỉ vi phạm nếu hồ sơ đó xảy ra sai sót hoặc tranh chấp sau này",
+    "d": "Vi phạm Điều 9 về quan hệ đồng nghiệp",
+    "answer": "A",
+    "explanation": "Điều 12 yêu cầu CCV hướng dẫn phải chịu trách nhiệm về toàn bộ quá trình tập sự và kết quả công việc, không được 'khoán trắng' công việc chuyên môn cho người tập sự."
+  },
+  {
+    "question": "Tình huống 'Trọng tâm': Một môi giới bất động sản đề nghị CCV trích lại một phần thù lao công chứng làm 'phí giới thiệu' mỗi khi dẫn khách đến văn phòng. Theo Điều 8, hành vi này bị coi là gì?",
+    "a": "Là hoạt động marketing hợp pháp để phát triển văn phòng",
+    "b": "Là hành vi bị nghiêm cấm (trả hoa hồng, chiết khấu cho người môi giới) nhằm cạnh tranh không lành mạnh",
+    "c": "Được phép thực hiện nếu mức trích lại không quá 10% thù lao",
+    "d": "Là hành vi trợ giúp pháp lý cho người môi giới",
+    "answer": "B",
+    "explanation": "Điểm đ Khoản 1 Điều 8 nghiêm cấm CCV trả tiền hoa hồng, chiết khấu cho người yêu cầu công chứng hoặc người môi giới."
+  },
+  {
+    "question": "Tình huống: Một khách hàng là bạn thân của CCV đang làm thủ tục vay vốn, đề nghị CCV ký chứng thực bản sao từ bản chính một cuốn Sổ đỏ mà CCV biết rõ bản chính đó đã bị thu hồi bởi cơ quan có thẩm quyền. CCV nên làm gì theo Điều 4 QĐ 148?",
+    "a": "Vẫn ký vì bản chính có hình thức đầy đủ, việc thu hồi là việc của cơ quan khác",
+    "b": "Từ chối thực hiện và giải thích rằng hành vi này vi phạm tính trung thực, khách quan và ngăn chặn sai phạm pháp luật",
+    "c": "Ký giúp vì là bạn thân và chỉ là sao y bản chính, không phải công chứng hợp đồng",
+    "d": "Yêu cầu khách hàng nộp thêm phí rủi ro cho văn phòng",
+    "answer": "B",
+    "explanation": "Điều 4 QĐ 148 yêu cầu CCV phải trung thực, khách quan. Biết rõ giấy tờ không còn giá trị pháp lý mà vẫn thực hiện là vi phạm đạo đức nghiêm trọng."
+  },
+  {
+    "question": "Tình huống: Trong quá trình tiếp nhận hồ sơ, NYCCC có hành vi đưa một món quà giá trị lớn để CCV lờ đi việc thiếu chữ ký của một người thừa kế. CCV đã từ chối và báo cáo sự việc cho Hội Công chứng viên. Hành vi báo cáo này thể hiện trách nhiệm nào?",
+    "a": "Trách nhiệm bảo vệ danh dự, uy tín nghề nghiệp theo Điều 3 QĐ 148",
+    "b": "Vi phạm nghĩa vụ bảo mật thông tin khách hàng tại Điều 6",
+    "c": "Cạnh tranh không lành mạnh với chính khách hàng của mình",
+    "d": "Hành vi gây khó khăn, phiền hà cho người dân",
+    "answer": "A",
+    "explanation": "Việc kiên quyết từ chối lợi ích bất chính và báo cáo hành vi sai trái giúp bảo vệ hình ảnh trong sạch và uy tín của nghề công chứng."
+  },
+  {
+    "question": "Tình huống: Một tổ chức hành nghề công chứng (TCHNCC) A thường xuyên cử nhân viên đến trực tại sảnh của Văn phòng đăng ký đất đai để chèo kéo khách hàng ngay khi họ vừa làm thủ tục xong. Theo Điều 14 QĐ 148, CCV tại TCHNCC A đã vi phạm gì?",
+    "a": "Vi phạm quy định về thời gian làm việc",
+    "b": "Vi phạm hành vi bị nghiêm cấm trong cạnh tranh: Mở điểm tiếp nhận hồ sơ ngoài trụ sở trái quy định và chèo kéo khách hàng",
+    "c": "Đúng, vì đây là nỗ lực tìm kiếm khách hàng năng động",
+    "d": "Vi phạm nghĩa vụ với tổ chức xã hội - nghề nghiệp",
+    "answer": "B",
+    "explanation": "Điều 14 QĐ 148 nghiêm cấm việc mở điểm tiếp nhận hồ sơ ngoài trụ sở trái luật và các thủ đoạn lôi kéo khách hàng bất chính."
+  },
+  {
+    "question": "Tình huống: Một CCV phát hiện đồng nghiệp cũ của mình đang bị một nhóm đối tượng lừa đảo qua mạng xã hội nhằm bôi nhọ danh dự nghề nghiệp. CCV này đã chủ động cung cấp bằng chứng cho Hội CCV để bảo vệ đồng nghiệp. Hành vi này thể hiện đúng Điều nào?",
+    "a": "Điều 9 về Quan hệ đồng nghiệp và Điều 3 về bảo vệ uy tín nghề",
+    "b": "Điều 13 về hoạt động xã hội",
+    "c": "Điều 10 về quan hệ với tổ chức hành nghề",
+    "d": "Không thuộc phạm vi điều chỉnh của QĐ 148",
+    "answer": "A",
+    "explanation": "Đoàn kết, giúp đỡ đồng nghiệp bảo vệ danh dự chính đáng là biểu hiện cao đẹp của đạo đức nghề nghiệp quy định tại Điều 3 và Điều 9."
   }
 ]
