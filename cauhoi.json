@@ -4630,5 +4630,131 @@
     "d": "Văn bản công chứng vẫn có giá trị nhưng ông Minh bị cảnh cáo.",
     "answer": "B",
     "explanation": "Căn cứ điểm b Khoản 3 Điều 17 LCC 2024, người bị miễn nhiệm do hành nghề trong thời gian bị tạm đình chỉ thì KHÔNG được bổ nhiệm lại công chứng viên."
+  },
+  {
+    "question": "Công chứng viên (CCV) Nam ký hợp đồng lao động làm việc tại VPCC X. Trong quá trình hành nghề, ông Nam vô ý gây thiệt hại cho khách hàng 500 triệu đồng. Khách hàng yêu cầu ông Nam bồi thường trực tiếp bằng tài sản cá nhân. Yêu cầu này đúng hay sai?",
+    "a": "Đúng, vì người nào gây ra lỗi người đó phải bồi thường theo Bộ luật Dân sự.",
+    "b": "Sai, VPCC X có nghĩa vụ bồi thường thiệt hại cho khách hàng trước, sau đó ông Nam mới có nghĩa vụ hoàn trả cho VPCC X.",
+    "c": "Đúng, nếu VPCC X chứng minh được mình không có lỗi trong việc quản lý ông Nam.",
+    "d": "Sai, khách hàng phải yêu cầu công ty bảo hiểm bồi thường trực tiếp.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 5 Điều 36 và Điều 37 LCC 2024: Tổ chức hành nghề công chứng có nghĩa vụ bồi thường thiệt hại cho người yêu cầu công chứng do lỗi của CCV của tổ chức mình gây ra."
+  },
+  {
+    "question": "Trong trường hợp giải thể Văn phòng công chứng, thứ tự ưu tiên thanh toán các khoản nợ nào sau đây là đúng quy định tại Điều 34 LCC 2024?",
+    "a": "Nợ thuế -> Nợ lương nhân viên -> Nợ khách hàng -> Nợ khác.",
+    "b": "Nợ lương, trợ cấp thôi việc -> Nợ thuế -> Các khoản nợ khác.",
+    "c": "Nợ khách hàng -> Nợ thuế -> Nợ lương nhân viên.",
+    "d": "Thanh toán cho các thành viên hợp danh trước, sau đó mới trả nợ ngoài.",
+    "answer": "B",
+    "explanation": "Căn cứ theo quy định về giải thể doanh nghiệp và Điều 34 LCC 2024, ưu tiên thanh toán quyền lợi người lao động (lương, bảo hiểm), sau đó là nghĩa vụ thuế và các chủ nợ khác."
+  },
+  {
+    "question": "Văn phòng công chứng (VPCC) A và VPCC B làm thủ tục hợp nhất thành VPCC C. Theo Điều 29 LCC 2024, con dấu của VPCC A và B sẽ được xử lý như thế nào?",
+    "a": "Được phép sử dụng song song cho đến khi hết hồ sơ cũ.",
+    "b": "Phải nộp lại cho cơ quan Công an đã cấp con dấu sau khi hợp nhất.",
+    "c": "Được bàn giao cho VPCC C để lưu trữ làm kỷ niệm.",
+    "d": "Tự tiêu hủy và lập biên bản có sự chứng kiến của Sở Tư pháp.",
+    "answer": "B",
+    "explanation": "Căn cứ quy định về quản lý con dấu và Điều 29 LCC 2024, khi tổ chức chấm dứt hoạt động để hợp nhất, con dấu cũ phải được thu hồi/nộp lại theo quy định pháp luật về con dấu."
+  },
+{
+    "question": "Công chứng viên (CCV) Nam ký hợp đồng lao động làm việc tại VPCC X. Trong quá trình hành nghề, ông Nam vô ý gây thiệt hại cho khách hàng 500 triệu đồng. Khách hàng yêu cầu ông Nam bồi thường trực tiếp bằng tài sản cá nhân. Yêu cầu này đúng hay sai?",
+    "a": "Đúng, vì người nào gây ra lỗi người đó phải bồi thường theo Bộ luật Dân sự.",
+    "b": "Sai, VPCC X có nghĩa vụ bồi thường thiệt hại cho khách hàng trước, sau đó ông Nam mới có nghĩa vụ hoàn trả cho VPCC X.",
+    "c": "Đúng, nếu VPCC X chứng minh được mình không có lỗi trong việc quản lý ông Nam.",
+    "d": "Sai, khách hàng phải yêu cầu công ty bảo hiểm bồi thường trực tiếp.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 5 Điều 36 và Điều 37 LCC 2024: Tổ chức hành nghề công chứng có nghĩa vụ bồi thường thiệt hại cho người yêu cầu công chứng do lỗi của CCV của tổ chức mình gây ra."
+  },
+  {
+    "question": "Trong trường hợp giải thể Văn phòng công chứng, thứ tự ưu tiên thanh toán các khoản nợ nào sau đây là đúng quy định tại Điều 34 LCC 2024?",
+    "a": "Nợ thuế -> Nợ lương nhân viên -> Nợ khách hàng -> Nợ khác.",
+    "b": "Nợ lương, trợ cấp thôi việc -> Nợ thuế -> Các khoản nợ khác.",
+    "c": "Nợ khách hàng -> Nợ thuế -> Nợ lương nhân viên.",
+    "d": "Thanh toán cho các thành viên hợp danh trước, sau đó mới trả nợ ngoài.",
+    "answer": "B",
+    "explanation": "Căn cứ theo quy định về giải thể doanh nghiệp và Điều 34 LCC 2024, ưu tiên thanh toán quyền lợi người lao động (lương, bảo hiểm), sau đó là nghĩa vụ thuế và các chủ nợ khác."
+  },
+  {
+    "question": "Văn phòng công chứng (VPCC) A và VPCC B làm thủ tục hợp nhất thành VPCC C. Theo Điều 29 LCC 2024, con dấu của VPCC A và B sẽ được xử lý như thế nào?",
+    "a": "Được phép sử dụng song song cho đến khi hết hồ sơ cũ.",
+    "b": "Phải nộp lại cho cơ quan Công an đã cấp con dấu sau khi hợp nhất.",
+    "c": "Được bàn giao cho VPCC C để lưu trữ làm kỷ niệm.",
+    "d": "Tự tiêu hủy và lập biên bản có sự chứng kiến của Sở Tư pháp.",
+    "answer": "B",
+    "explanation": "Căn cứ quy định về quản lý con dấu và Điều 29 LCC 2024, khi tổ chức chấm dứt hoạt động để hợp nhất, con dấu cũ phải được thu hồi/nộp lại theo quy định pháp luật về con dấu."
+  },
+{
+    "question": "Văn phòng công chứng (VPCC) A mua bảo hiểm trách nhiệm nghề nghiệp cho CCV X vào ngày 01/06/2026. Hạn cuối cùng để VPCC A gửi bản sao hợp đồng bảo hiểm này cho Sở Tư pháp là khi nào?",
+    "a": "Ngày 10/06/2026.",
+    "b": "Ngày 11/06/2026 (nếu không trùng ngày nghỉ).",
+    "c": "Sau 10 ngày làm việc kể từ ngày 01/06/2026.",
+    "d": "Ngày 15/06/2026.",
+    "answer": "C",
+    "explanation": "Căn cứ Khoản 2 Điều 39: Chậm nhất là 10 ngày làm việc kể từ ngày mua bảo hiểm, tổ chức phải thông báo cho Sở Tư pháp."
+  },
+  {
+    "question": "Tình huống: CCV Hùng gây thiệt hại cho khách hàng 1 tỷ đồng. VPCC nơi ông Hùng làm việc đã bồi thường đủ cho khách hàng. Sau đó, ông Hùng bị miễn nhiệm CCV và không còn tài sản để hoàn trả cho VPCC. VPCC có quyền gì?",
+    "a": "Yêu cầu Tòa án giải quyết việc hoàn trả.",
+    "b": "Yêu cầu Sở Tư pháp bồi thường thay.",
+    "c": "Yêu cầu Hiệp hội công chứng viên Việt Nam hỗ trợ.",
+    "d": "Không có quyền đòi lại vì ông Hùng đã bị miễn nhiệm.",
+    "answer": "A",
+    "explanation": "Căn cứ Khoản 2 Điều 40: Trường hợp CCV không hoàn trả thì tổ chức hành nghề công chứng có quyền yêu cầu Tòa án giải quyết, kể cả khi người đó không còn là CCV."
+  },
+{
+    "question": "Văn phòng công chứng (VPCC) A sáp nhập vào VPCC B. Trước khi sáp nhập, CCV tại VPCC A đã thực hiện một hợp đồng sai sót gây thiệt hại cho khách hàng. Sau khi sáp nhập, khách hàng khởi kiện. Theo Điều 40, trách nhiệm bồi thường thuộc về ai?",
+    "a": "CCV trực tiếp gây lỗi tại VPCC A phải tự bồi thường bằng tài sản riêng.",
+    "b": "VPCC A vẫn phải đứng ra bồi thường vì là nơi phát sinh lỗi.",
+    "c": "VPCC B (tổ chức kế thừa) có trách nhiệm bồi thường thiệt hại cho khách hàng.",
+    "d": "Sở Tư pháp tỉnh sẽ đứng ra giải quyết bồi thường từ quỹ dự phòng.",
+    "answer": "C",
+    "explanation": "Căn cứ Khoản 1 Điều 40 LCC 2024: 'Trường hợp tổ chức hành nghề công chứng đã chuyển đổi, hợp nhất, sáp nhập thì tổ chức hành nghề công chứng kế thừa quyền và nghĩa vụ... có trách nhiệm bồi thường thiệt hại'."
+  },
+  {
+    "question": "Công chứng viên (CCV) X làm việc theo chế độ hợp đồng lao động tại Phòng công chứng số 1. Trong quá trình làm việc, CCV X vi phạm Quy tắc đạo đức nghề nghiệp. Theo Điều 37, việc xử lý kỷ luật đối với CCV X được thực hiện dựa trên quy định nào?",
+    "a": "Chỉ dựa trên Luật Công chứng và Quy tắc đạo đức của Hiệp hội.",
+    "b": "Dựa trên Luật Công chứng, pháp luật về lao động và pháp luật về đơn vị sự nghiệp công lập.",
+    "c": "Chỉ dựa trên pháp luật về viên chức.",
+    "d": "Chỉ dựa trên điều lệ của Hiệp hội công chứng viên Việt Nam.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 2 Điều 37 LCC 2024: Việc quản lý công chứng viên làm việc theo chế độ hợp đồng lao động tại Phòng công chứng/VPCC phải tuân thủ Luật này, pháp luật về lao động và đơn vị sự nghiệp công lập."
+  },
+  {
+    "question": "Tình huống: Một nhân viên của VPCC (không phải là CCV) tự ý sửa nội dung bản gốc văn bản công chứng sau khi CCV đã ký, dẫn đến thiệt hại cho bên mua. VPCC phải xử lý thế nào theo Điều 40?",
+    "a": "VPCC không bồi thường vì đây là lỗi cá nhân của nhân viên, không phải lỗi chuyên môn của CCV.",
+    "b": "VPCC bồi thường cho khách hàng, sau đó yêu cầu nhân viên này hoàn trả khoản tiền đã bồi thường.",
+    "c": "Khách hàng phải tự kiện nhân viên đó ra Tòa án dân sự để đòi tiền.",
+    "d": "Bảo hiểm trách nhiệm nghề nghiệp sẽ chi trả trực tiếp cho nhân viên đó.",
+    "answer": "B",
+    "explanation": "Căn cứ Điều 40 LCC 2024: Tổ chức hành nghề công chứng phải bồi thường thiệt hại do lỗi của nhân viên của tổ chức mình gây ra; sau đó nhân viên có nghĩa vụ hoàn trả lại cho tổ chức."
+  },
+{
+    "question": "Văn phòng công chứng (VPCC) A thay đổi tên gọi thành VPCC Bình Minh. Trong trường hợp này, thẻ Công chứng viên của các thành viên tại đây xử lý như thế nào theo Điều 38?",
+    "a": "Tiếp tục sử dụng thẻ cũ cho đến khi hết hạn.",
+    "b": "Bị thu hồi thẻ cũ và được cấp lại thẻ mới do thay đổi tên tổ chức.",
+    "c": "Sở Tư pháp chỉ cần đóng dấu xác nhận thay đổi vào mặt sau thẻ cũ.",
+    "d": "Chỉ Trưởng văn phòng mới cần đổi thẻ.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 3 và Khoản 4 Điều 38 LCC 2024: Thẻ CCV bị thu hồi và được cấp lại trong trường hợp tổ chức hành nghề công chứng thay đổi tên."
+  },
+  {
+    "question": "Bảo hiểm trách nhiệm nghề nghiệp của Công chứng viên là loại hình bảo hiểm gì?",
+    "a": "Bảo hiểm tự nguyện theo thỏa thuận của Văn phòng công chứng.",
+    "b": "Bảo hiểm bắt buộc.",
+    "c": "Bảo hiểm xã hội nghề nghiệp.",
+    "d": "Chỉ bắt buộc đối với CCV làm việc theo chế độ hợp đồng lao động.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 1 Điều 39 LCC 2024: Bảo hiểm trách nhiệm nghề nghiệp của công chứng viên là loại hình bảo hiểm bắt buộc."
+  },
+  {
+    "question": "Ai là người ban hành Quy tắc đạo đức hành nghề công chứng áp dụng trên phạm vi toàn quốc?",
+    "a": "Bộ trưởng Bộ Tư pháp.",
+    "b": "Chính phủ.",
+    "c": "Hiệp hội công chứng viên Việt Nam.",
+    "d": "Sở Tư pháp các tỉnh, thành phố.",
+    "answer": "C",
+    "explanation": "Căn cứ Khoản 2 Điều 41 LCC 2024: Hiệp hội công chứng viên Việt Nam ban hành Quy tắc đạo đức hành nghề công chứng."
   }
 ]
