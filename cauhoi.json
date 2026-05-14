@@ -2474,6 +2474,51 @@
     "explanation": "Mọi hành vi làm sai lệch hồ sơ hoặc tự ý khôi phục hồ sơ không đúng quy trình đều là vi phạm đạo đức trung thực."
   },
   {
+  "question": "Theo Điều 9 Luật Công chứng 2024, Công chứng viên (CCV) bị nghiêm cấm thực hiện công chứng giao dịch liên quan đến tài sản, lợi ích của những đối tượng nào sau đây?",
+  "a": "Chỉ vợ, chồng, con đẻ, con nuôi",
+  "b": "Vợ hoặc chồng; cha mẹ đẻ/nuôi; cha mẹ đẻ/nuôi của vợ hoặc chồng; con đẻ/nuôi/dâu/rể; ông bà nội/ngoại; anh chị em ruột; anh chị em ruột của vợ hoặc chồng; cháu nội/ngoại",
+  "c": "Bất kỳ người nào có quan hệ họ hàng trong phạm vi 3 đời",
+  "d": "Chỉ những người có tên trong cùng hộ khẩu với Công chứng viên",
+  "answer": "B",
+  "explanation": "Điểm c Khoản 1 Điều 9 liệt kê rất chi tiết danh sách người thân thích nhằm đảm bảo tính khách quan tối cao trong hành nghề công chứng."
+},
+  {
+  "question": "Văn bản công chứng có giá trị chứng cứ như thế nào theo Luật Công chứng 2024?",
+  "a": "Chỉ có giá trị khi được các bên thừa nhận tại Tòa án",
+  "b": "Những tình tiết, sự kiện trong văn bản công chứng không phải chứng minh, trừ trường hợp bị Tòa án tuyên bố là vô hiệu",
+  "c": "Cần phải có thêm người làm chứng mới có giá trị chứng cứ",
+  "d": "Có giá trị ngang bằng với các loại giấy tờ viết tay có điểm chỉ",
+  "answer": "B",
+  "explanation": "Khoản 3 Điều 6 quy định văn bản công chứng có giá trị chứng cứ mặc nhiên, các tình tiết trong đó không cần chứng minh lại trừ khi bị Tòa tuyên vô hiệu."
+},
+  {
+  "question": "Công chứng viên bị nghiêm cấm đồng thời hành nghề công chứng và các nghề nghiệp nào sau đây?",
+  "a": "Bác sĩ, giáo viên, kỹ sư",
+  "b": "Thừa phát lại, luật sư, đấu giá viên, quản tài viên, tư vấn viên pháp luật, thẩm định viên về giá",
+  "c": "Kinh doanh bất động sản ngoài giờ hành chính",
+  "d": "Tham gia các câu lạc bộ thiện nguyện",
+  "answer": "B",
+  "explanation": "Điểm h Khoản 1 Điều 9 nghiêm cấm CCV kiêm nhiệm các chức danh tư pháp và bổ trợ tư pháp khác để đảm bảo tính chuyên tâm và độc lập."
+},
+  {
+  "question": "Trường hợp người yêu cầu công chứng sử dụng ngôn ngữ của người khuyết tật thì xử lý như thế nào?",
+  "a": "Công chứng viên từ chối thực hiện vì không hiểu ngôn ngữ",
+  "b": "Người yêu cầu công chứng phải tự ký cam kết bằng tiếng Việt",
+  "c": "Phải dịch sang tiếng Việt theo quy định tại Điều 7",
+  "d": "Chỉ cần người thân của người khuyết tật xác nhận là được",
+  "answer": "C",
+  "explanation": "Điều 7 quy định tiếng nói và chữ viết dùng trong công chứng là tiếng Việt; các ngôn ngữ khác (kể cả của người khuyết tật) phải được dịch sang tiếng Việt."
+},
+  {
+  "question": "Phát biểu nào sau đây là ĐÚNG về hành vi quảng cáo trong Luật Công chứng 2024?",
+  "a": "Văn phòng công chứng được quảng cáo trên truyền hình vào giờ vàng",
+  "b": "Nghiêm cấm CCV và tổ chức hành nghề công chứng quảng cáo trên phương tiện thông tin đại chúng",
+  "c": "Được quảng cáo nếu có sự đồng ý của Sở Tư pháp",
+  "d": "Được quảng cáo nhưng không được nhắc đến tên Công chứng viên",
+  "answer": "B",
+  "explanation": "Điểm g Khoản 1 Điều 9 nghiêm cấm quảng cáo trên phương tiện thông tin đại chúng vì công chứng là dịch vụ công đặc thù, không mang tính thương mại thuần túy."
+},
+  {
     "question": "Tình huống: Một khách hàng cũ quay lại cảm ơn CCV bằng cách cung cấp thông tin mật về kế hoạch quy hoạch đất đai sắp tới. Theo Điều 6 QĐ 148, CCV nên làm gì?",
     "a": "Dùng thông tin đó để đầu tư bất động sản làm giàu cho văn phòng",
     "b": "Từ chối lợi ích từ thông tin này để đảm bảo tính liêm chính và trung thực (Điều 8, Điều 14)",
