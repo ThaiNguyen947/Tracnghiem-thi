@@ -2573,7 +2573,7 @@
     "explanation": "Luật Công chứng 2024 quy định giới hạn độ tuổi hành nghề của CCV là không quá 70 tuổi nhằm đảm bảo an toàn pháp lý cho xã hội."
   },
   {
-    "question": "Tình huống: NYCCC yêu cầu thực hiện 'Công chứng điện tử' nhưng lại từ chối cung cấp chữ ký số và yêu cầu CCV dùng mật khẩu cá nhân của khách hàng để ký thay. Theo quy tắc đạo đức, CCV xử lý thế nào?",
+    "question": "Tình huống: NYCCC yêu cầu thực hiện Công chứng điện tử nhưng lại từ chối cung cấp chữ ký số và yêu cầu CCV dùng mật khẩu cá nhân của khách hàng để ký thay. Theo quy tắc đạo đức, CCV xử lý thế nào?",
     "a": "Đồng ý để hỗ trợ khách hàng công nghệ yếu",
     "b": "Kiên quyết từ chối vì vi phạm nguyên tắc trực tiếp, trung thực và tính bảo mật của chữ ký điện tử",
     "c": "Đồng ý nếu khách hàng ký giấy ủy quyền sử dụng mật khẩu",
@@ -2600,7 +2600,7 @@
     "explanation": "Tận tâm và chuyên nghiệp (Điều 5) yêu cầu CCV phải kiểm tra kỹ tính xác thực của mọi loại hình hồ sơ, kể cả hồ sơ điện tử."
   },
   {
-    "question": "Tình huống: CCV A quảng cáo trên mạng xã hội rằng văn phòng của mình 'Sử dụng AI để công chứng điện tử nhanh nhất Việt Nam, cam kết không lỗi'. Hành vi này vi phạm điều nào?",
+    "question": "Tình huống: CCV A quảng cáo trên mạng xã hội rằng văn phòng của mình Sử dụng AI để công chứng điện tử nhanh nhất Việt Nam, cam kết không lỗi. Hành vi này vi phạm điều nào?",
     "a": "Vi phạm quy định về quảng cáo sai sự thật và hạ thấp tính thận trọng của nghề nghiệp (Điều 14 QĐ 148)",
     "b": "Đúng, vì đây là xu hướng công nghệ 4.0",
     "c": "Chỉ vi phạm nếu bị các văn phòng khác khiếu nại",
@@ -2609,7 +2609,7 @@
     "explanation": "Hành vi quảng cáo thổi phồng, gây hiểu lầm về tính chất nghề nghiệp công chứng là vi phạm đạo đức và cạnh tranh không lành mạnh."
   },
   {
-    "question": "Tình huống: Trong buổi tập sự, CCV hướng dẫn cho phép người tập sự sử dụng token chữ ký số của mình để 'ký thử' vào văn bản nháp của khách hàng. Hành vi này vi phạm điều nào?",
+    "question": "Tình huống: Trong buổi tập sự, CCV hướng dẫn cho phép người tập sự sử dụng token chữ ký số của mình để ký thử vào văn bản nháp của khách hàng. Hành vi này vi phạm điều nào?",
     "a": "Vi phạm Điều 12 về trách nhiệm hướng dẫn và quản lý token/con dấu",
     "b": "Đúng, vì đó là cách thực hành thực tế nhất",
     "c": "Vi phạm Điều 9 về quan hệ đồng nghiệp",
@@ -2627,11 +2627,11 @@
     "explanation": "Thanh toán phí công chứng phải minh bạch, đúng quy định tài chính và phải được hạch toán tại tổ chức hành nghề."
   },
   {
-    "question": "Tình huống: Theo Luật 2024, khi thực hiện công chứng hợp đồng ủy quyền, CCV phát hiện các bên có thỏa thuận 'ủy quyền không hủy bỏ' trái với bản chất đạo đức xã hội. CCV làm gì?",
+    "question": "Tình huống: Theo Luật 2024, khi thực hiện công chứng hợp đồng ủy quyền, CCV phát hiện các bên có thỏa thuận ủy quyền không hủy bỏ' trái với bản chất đạo đức xã hội. CCV làm gì?",
     "a": "Vẫn ký vì các bên tự nguyện",
     "b": "Giải thích và từ chối vì vi phạm nguyên tắc đạo đức và trật tự công cộng (Điều 2 QĐ 148)",
     "c": "Thu phí cao hơn vì đây là hợp đồng khó",
-    "d": "Ký nhưng ghi chú 'CCV không chịu trách nhiệm về nội dung ủy quyền'",
+    "d": "Ký nhưng ghi chú CCV không chịu trách nhiệm về nội dung ủy quyền'",
     "answer": "B",
     "explanation": "Nguyên tắc độc lập và bảo vệ lợi ích công cộng yêu cầu CCV không được công chứng các nội dung trái đạo đức xã hội."
   },
@@ -2948,7 +2948,7 @@
     "c": "Cho các bên cam kết tự chịu trách nhiệm rồi công chứng",
     "d": "Chỉ cần ghi chú vào hợp đồng",
     "answer": "B",
-    "explanation": "Căn cứ Điều 42 Luật Công chứng 2024: CCV có quyền 'từ chối công chứng nếu có căn cứ xác định giao dịch vi phạm pháp luật hoặc không đủ điều kiện thực hiện'. Tài sản đang bị ngăn chặn giao dịch là chưa đủ điều kiện công chứng."
+    "explanation": "Căn cứ Điều 42 Luật Công chứng 2024: CCV có quyền từ chối công chứng nếu có căn cứ xác định giao dịch vi phạm pháp luật hoặc không đủ điều kiện thực hiện. Tài sản đang bị ngăn chặn giao dịch là chưa đủ điều kiện công chứng."
   },
   {
     "question": "Tình huống: Hệ thống xác thực sinh trắc học trong công chứng điện tử báo độ tin cậy thấp do khách hàng vừa phẫu thuật thẩm mỹ. CCV nên:",
@@ -2957,7 +2957,7 @@
     "c": "Yêu cầu xác minh trực tiếp bằng phương thức bổ sung",
     "d": "Cho người tập sự xác nhận thay",
     "answer": "C",
-    "explanation": "Căn cứ khoản 1 Điều 5 Luật Công chứng 2024: hoạt động công chứng phải 'tuân thủ Hiến pháp và pháp luật, bảo đảm khách quan, trung thực'. Đồng thời khoản 4 Điều 42 cho phép CCV yêu cầu xác minh khi có nghi ngờ về chủ thể tham gia giao dịch."
+    "explanation": "Căn cứ khoản 1 Điều 5 Luật Công chứng 2024: hoạt động công chứng phải tuân thủ Hiến pháp và pháp luật, bảo đảm khách quan, trung thực. Đồng thời khoản 4 Điều 42 cho phép CCV yêu cầu xác minh khi có nghi ngờ về chủ thể tham gia giao dịch."
   },
   {
     "question": "Tình huống: Bà B đến công chứng hợp đồng mua bán nhà nhưng có biểu hiện không nhận thức rõ nội dung giao dịch. CCV phù hợp nhất nên:",
@@ -2984,7 +2984,7 @@
     "c": "Vi phạm nghĩa vụ bảo mật",
     "d": "Không vi phạm nếu chưa tranh chấp",
     "answer": "C",
-    "explanation": "Căn cứ điểm e khoản 2 Điều 18 Luật Công chứng 2024: công chứng viên có nghĩa vụ 'giữ bí mật về nội dung công chứng'."
+    "explanation": "Căn cứ điểm e khoản 2 Điều 18 Luật Công chứng 2024: công chứng viên có nghĩa vụ giữ bí mật về nội dung công chứng'."
   },
   {
     "question": "Tình huống: Văn phòng công chứng chỉ còn một thành viên hợp danh do thành viên còn lại qua đời. Theo luật, thời hạn phải bổ sung thành viên hợp danh mới là:",
