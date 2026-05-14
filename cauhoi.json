@@ -3262,5 +3262,302 @@
     "d": "Có, vì CCV không được công chứng cho bất kỳ ai có quen biết.",
     "answer": "B",
     "explanation": "Dù ghi là tài sản riêng, nhưng mối quan hệ vợ chồng (chị dâu) vẫn tạo ra xung đột lợi ích tiềm ẩn với CCV (có anh ruột là chồng người đó). Theo tinh thần Điều 9, CCV phải tránh công chứng cho những người trong mối quan hệ gia đình trực hệ của anh chị em ruột."
+  },
+  {
+    "question": "Hành vi nào sau đây bị nghiêm cấm đối với công chứng viên trong mối quan hệ với người yêu cầu công chứng?",
+    "a": "Giải thích rõ các loại phí và chi phí dịch vụ cho khách hàng.",
+    "b": "Nhận thêm một khoản tiền bồi dưỡng từ khách hàng ngoài phí công chứng đã niêm yết.",
+    "c": "Yêu cầu khách hàng bổ sung giấy tờ còn thiếu theo quy định pháp luật.",
+    "d": "Thỏa thuận về chi phí đi lại khi công chứng ngoài trụ sở.",
+    "answer": "B",
+    "explanation": "Điểm d khoản 1 Điều 9 nghiêm cấm công chứng viên nhận, đòi hỏi tiền hoặc lợi ích khác từ người yêu cầu công chứng ngoài phí, giá dịch vụ đã được xác định, thỏa thuận."
+  },
+  {
+    "question": "Công chứng viên (CCV) A cố tình kéo dài thời gian thụ lý hồ sơ, yêu cầu khách hàng phải đi lại nhiều lần mặc dù hồ sơ đã đầy đủ, nhằm đợi khách hàng 'biết ý' đưa thêm tiền. Đây là hành vi vi phạm quy định nào?",
+    "a": "Cấu kết, thông đồng làm sai lệch hồ sơ.",
+    "b": "Sách nhiễu, gây khó khăn cho người yêu cầu công chứng.",
+    "c": "Ép buộc cá nhân sử dụng dịch vụ của mình.",
+    "d": "Quảng cáo sai sự thật về dịch vụ công chứng.",
+    "answer": "B",
+    "explanation": "Hành vi cố tình gây khó khăn, kéo dài thời gian không có lý do chính đáng được xác định là hành vi sách nhiễu bị nghiêm cấm tại điểm d khoản 1 Điều 9."
+  },
+  {
+    "question": "Một môi giới bất động sản đề nghị tặng Công chứng viên X một chiếc điện thoại iPhone mới nếu CCV X đồng ý 'lờ đi' việc thiếu chữ ký của người vợ trong hợp đồng mua bán. Nếu CCV X đồng ý, CCV X đã vi phạm hành vi nào?",
+    "a": "Nhận lợi ích từ người thứ ba để thực hiện việc công chứng trái pháp luật.",
+    "b": "Cấu kết, thông đồng làm sai lệch nội dung hồ sơ công chứng.",
+    "c": "Chi tiền để giành lợi thế trong việc công chứng.",
+    "d": "Cả a và b đều đúng.",
+    "answer": "D",
+    "explanation": "Hành vi này vừa là nhận lợi ích từ người thứ ba (môi giới) theo điểm d, vừa là cấu kết làm sai lệch nội dung hồ sơ theo điểm đ khoản 1 Điều 9."
+  },
+  {
+    "question": "Văn phòng công chứng (VPCC) Z thuê người đứng tại cổng Văn phòng Đăng ký đất đai để chèo kéo, ép buộc người dân phải về văn phòng mình công chứng thì mới 'lo liệu' hồ sơ nhanh được. Hành vi này vi phạm quy định nào của Luật Công chứng 2024?",
+    "a": "Sách nhiễu người yêu cầu công chứng.",
+    "b": "Ép buộc cá nhân, tổ chức sử dụng dịch vụ của mình.",
+    "c": "Quảng cáo trên phương tiện thông tin đại chúng.",
+    "d": "Thỏa thuận về chi phí ngoài quy định.",
+    "answer": "B",
+    "explanation": "Điểm đ khoản 1 Điều 9 nghiêm cấm hành vi ép buộc cá nhân, tổ chức sử dụng dịch vụ công chứng của mình."
+  },
+  {
+    "question": "Để cạnh tranh với các văn phòng khác, VPCC K đã chi trả một khoản 'hoa hồng' trích từ phí công chứng cho cán bộ ngân hàng để họ chỉ định khách hàng qua văn phòng mình. Hành vi này vi phạm quy định nào?",
+    "a": "Quảng cáo về tổ chức hành nghề công chứng.",
+    "b": "Chi tiền hoặc lợi ích khác để giành lợi thế trong việc công chứng.",
+    "c": "Nhận tiền từ người thứ ba.",
+    "d": "Sách nhiễu khách hàng.",
+    "answer": "B",
+    "explanation": "Điểm e khoản 1 Điều 9 nghiêm cấm chi tiền hoặc lợi ích khác để giành lợi thế trong việc công chứng (thường gọi là chi hoa hồng trái quy định)."
+  },
+  {
+    "question": "VPCC X đăng bài giới thiệu về các công chứng viên và các dịch vụ của mình trên các tờ báo điện tử và truyền hình địa phương để thu hút khách hàng. Theo Luật Công chứng 2024, hành vi này:",
+    "a": "Được khuyến khích để người dân biết đến dịch vụ.",
+    "b": "Là hành vi bị nghiêm cấm đối với công chứng viên và tổ chức hành nghề công chứng.",
+    "c": "Được phép nếu nội dung quảng cáo là sự thật.",
+    "d": "Được phép nếu được sự đồng ý của Sở Tư pháp.",
+    "answer": "B",
+    "explanation": "Điểm g khoản 1 Điều 9 nghiêm cấm quảng cáo trên phương tiện thông tin đại chúng về công chứng viên và tổ chức hành nghề công chứng."
+  },
+  {
+    "question": "Tình huống: Một người lạ đến gặp CCV B và đưa 50 triệu đồng yêu cầu CCV B 'trì hoãn' không ký hợp đồng mua bán của ông M (dù hồ sơ ông M đã hợp lệ) để người này kịp thời gian phong tỏa tài sản của ông M. Nếu CCV B nhận tiền và trì hoãn, CCV B vi phạm điều gì?",
+    "a": "Nhận lợi ích từ người thứ ba để không thực hiện việc công chứng.",
+    "b": "Sách nhiễu, gây khó khăn cho người yêu cầu công chứng.",
+    "c": "Cấu kết làm sai lệch hồ sơ.",
+    "d": "Cả a và b đều đúng.",
+    "answer": "D",
+    "explanation": "Hành vi nhận tiền từ bên thứ ba để không thực hiện việc công chứng là vi phạm điểm d. Đồng thời, việc trì hoãn vô lý đối với ông M cũng là hành vi gây khó khăn cho người yêu cầu công chứng."
+  },
+  {
+    "question": "Hành vi 'Cấu kết, thông đồng làm sai lệch nội dung hồ sơ' thường đi kèm với hậu quả pháp lý nào dưới đây?",
+    "a": "Làm mất tính xác thực và tính hợp pháp của giao dịch.",
+    "b": "Gây thiệt hại cho quyền và lợi ích hợp pháp của các bên liên quan.",
+    "c": "Công chứng viên có thể bị truy cứu trách nhiệm hình sự.",
+    "d": "Tất cả các phương án trên.",
+    "answer": "D",
+    "explanation": "Cấu kết làm sai lệch hồ sơ là vi phạm nghiêm trọng nhất, làm đảo lộn bản chất của công chứng là bảo đảm an toàn pháp lý, gây thiệt hại lớn và có thể dẫn đến trách nhiệm hình sự."
+  },
+{
+    "question": "Công chứng viên (CCV) P đang thụ lý hồ sơ chuyển nhượng nhà đất. Đại diện ngân hàng X (bên cho vay) gọi điện riêng cho CCV P hứa sẽ giới thiệu toàn bộ khách hàng vay vốn của chi nhánh sang cho P nếu P 'linh động' cho bên mua nợ lại bản chính Giấy chứng nhận quyền sử dụng đất để đi đăng ký thế chấp trước. Hành vi của CCV P nếu đồng ý sẽ vi phạm quy định nào?",
+    "a": "Nhận lợi ích từ người thứ ba để thực hiện việc công chứng trái quy định.",
+    "b": "Cấu kết, thông đồng làm sai lệch nội dung hồ sơ công chứng.",
+    "c": "Chi tiền hoặc lợi ích khác để giành lợi thế trong việc công chứng.",
+    "d": "Cả a và b đều đúng.",
+    "answer": "D",
+    "explanation": "Việc nhận 'hứa hẹn' giới thiệu khách hàng là một dạng 'lợi ích khác' từ người thứ ba (điểm d). Đồng thời, việc cho nợ bản chính hồ sơ để làm thủ tục trái quy trình là hành vi thông đồng làm sai lệch trình tự, hồ sơ công chứng (điểm đ)."
+  },
+  {
+    "question": "Văn phòng công chứng (VPCC) M lập một trang Fanpage trên Facebook. Thay vì quảng cáo trực tiếp, họ đăng các bài viết chia sẻ kiến thức pháp luật nhưng bên dưới mỗi bài đều có dòng chữ: 'Đây là Văn phòng duy nhất tại khu vực có khả năng xử lý hồ sơ khó trong 15 phút'. Hành vi này bị xem xét là:",
+    "a": "Hoạt động truyền thông kiến thức pháp luật bình thường.",
+    "b": "Quảng cáo biến tướng, vi phạm lệnh cấm quảng cáo trên phương tiện thông tin đại chúng.",
+    "c": "Được phép vì Facebook không phải là phương tiện thông tin đại chúng chính thống.",
+    "d": "Chỉ vi phạm nếu thông tin 'xử lý trong 15 phút' là sai sự thật.",
+    "answer": "B",
+    "explanation": "Điểm g khoản 1 Điều 9 nghiêm cấm quảng cáo trên phương tiện thông tin đại chúng. Việc tự nhận là 'duy nhất' và quảng bá tính năng dịch vụ nhằm thu hút khách hàng trên mạng xã hội vẫn bị xem là hành vi quảng cáo trái quy định."
+  },
+  {
+    "question": "Công chứng viên K nhận được yêu cầu công chứng từ ông nội của mình. Tuy nhiên, ông nội không trực tiếp đứng tên mà ủy quyền cho một người bạn thân của K ký tên. K biết rõ việc này là để lách luật nhưng vẫn thực hiện công chứng. K đã vi phạm hành vi nào hắc não nhất?",
+    "a": "Vi phạm quy định về người thân thích tại điểm c.",
+    "b": "Cấu kết, thông đồng với cá nhân để làm sai lệch nội dung hồ sơ (giả cách người tham gia).",
+    "c": "Sách nhiễu người yêu cầu công chứng.",
+    "d": "Nhận lợi ích từ người thứ ba.",
+    "answer": "B",
+    "explanation": "Dù hình thức là công chứng cho người lạ (người bạn), nhưng bản chất CCV K biết rõ đây là giao dịch của người thân thích (ông nội) và cố tình dùng người đại diện giả cách. Đây là hành vi 'thông đồng làm sai lệch hồ sơ' (điểm đ) cực kỳ tinh vi."
+  },
+  {
+    "question": "Trong một buổi tiệc, CCV T nghe một doanh nghiệp phàn nàn về việc VPCC đối thủ làm việc chậm. CCV T liền đưa danh thiếp và nói: 'Sang chỗ tôi, tôi sẽ chỉ đạo nhân viên ưu tiên làm nhanh, không cần xếp hàng, chỉ cần bồi dưỡng thêm cho anh em chút ít'. T đã vi phạm những hành vi nào?",
+    "a": "Gây áp lực để giành lợi thế trong việc công chứng.",
+    "b": "Đòi hỏi lợi ích khác ngoài phí công chứng và sách nhiễu (gây khó cho quy trình chung).",
+    "c": "Ép buộc tổ chức sử dụng dịch vụ của mình.",
+    "d": "Cả a và b đều đúng.",
+    "answer": "B",
+    "explanation": "Việc gợi ý 'bồi dưỡng thêm' là hành vi đòi hỏi lợi ích ngoài phí quy định (điểm d). Việc hứa hẹn 'không cần xếp hàng' để giành khách cũng là hành vi dùng lợi ích không chính đáng để giành lợi thế cạnh tranh (điểm e)."
+  },
+  {
+    "question": "Công chứng viên H ký hợp đồng hợp tác với một Văn phòng luật sư, theo đó mỗi hồ sơ luật sư chuyển sang, H sẽ trích lại 20% phí công chứng làm 'phí tư vấn' cho luật sư. Đây là hành vi gì?",
+    "a": "Hợp tác kinh doanh hợp pháp giữa các tổ chức hành nghề bổ trợ tư pháp.",
+    "b": "Chi tiền hoặc lợi ích khác để giành lợi thế trong việc công chứng.",
+    "c": "Nhận lợi ích từ người thứ ba.",
+    "d": "Quảng cáo trái phép.",
+    "answer": "B",
+    "explanation": "Đây thực chất là hành vi chi 'hoa hồng' để lôi kéo khách hàng. Điểm e khoản 1 Điều 9 nghiêm cấm chi tiền hoặc lợi ích khác để giành lợi thế trong việc công chứng."
+  },
+  {
+    "question": "Một người yêu cầu công chứng đe dọa sẽ tố cáo sai phạm cũ của CCV Q nếu Q không đồng ý công chứng một hợp đồng mua bán đang thiếu chữ ký của bên bán. Q vì sợ hãi nên đã thực hiện. Trong tình huống này, CCV Q bị nghiêm cấm theo điểm nào?",
+    "a": "Tiết lộ thông tin nội dung công chứng.",
+    "b": "Cấu kết, thông đồng làm sai lệch nội dung hồ sơ công chứng.",
+    "c": "Sách nhiễu người yêu cầu công chứng.",
+    "d": "Nhận tiền từ người thứ ba.",
+    "answer": "B",
+    "explanation": "Dù bị đe dọa, việc CCV Q đồng ý thực hiện công chứng khi biết rõ hồ sơ sai phạm (thiếu chữ ký) là hành vi thông đồng làm sai lệch hồ sơ công chứng (điểm đ). Việc bị đe dọa có thể là tình tiết giảm nhẹ nhưng hành vi đó vẫn nằm trong danh mục bị nghiêm cấm."
+  },
+{
+    "question": "Công chứng viên (CCV) A đang hành nghề tại một Văn phòng công chứng (VPCC). Do có bằng Luật sư từ trước, A muốn tranh thủ buổi tối để tư vấn pháp lý có thu phí tại một Công ty Luật. Hành vi này của CCV A có vi phạm Luật Công chứng 2024 không?",
+    "a": "Không vi phạm vì A chỉ làm việc ngoài giờ hành chính.",
+    "b": "Có vi phạm vì CCV không được đồng thời là luật sư hoặc tư vấn viên pháp luật.",
+    "c": "Không vi phạm nếu A không trực tiếp tham gia tố tụng tại Tòa án.",
+    "d": "Có vi phạm nhưng chỉ khi A dùng danh nghĩa CCV để tư vấn luật.",
+    "answer": "B",
+    "explanation": "Điểm h khoản 1 Điều 9 nghiêm cấm CCV đồng thời là luật sư, thừa phát lại, đấu giá viên, quản tài viên, tư vấn viên pháp luật... bất kể làm việc trong hay ngoài giờ hành chính."
+  },
+  {
+    "question": "CCV X được bổ nhiệm làm thành viên Hội đồng quản trị (không trực tiếp điều hành) của một công ty xây dựng thuộc sở hữu của gia đình. CCV X có vi phạm hành vi bị nghiêm cấm không?",
+    "a": "Không, vì CCV chỉ bị cấm làm Giám đốc điều hành trực tiếp.",
+    "b": "Có, đây là hành vi tham gia quản lý doanh nghiệp ngoài tổ chức hành nghề công chứng.",
+    "c": "Không, nếu CCV X cam kết không công chứng cho công ty đó.",
+    "d": "Có, nhưng chỉ khi CCV X nhận lương từ công ty xây dựng đó.",
+    "answer": "B",
+    "explanation": "Điểm i khoản 1 Điều 9 nghiêm cấm CCV tham gia quản lý doanh nghiệp, hợp tác xã... ngoài tổ chức hành nghề công chứng mà mình đang hành nghề."
+  },
+  {
+    "question": "Tình huống: CCV H thực hiện công chứng hợp đồng mua bán đất. Tuy nhiên, thực tế CCV H là người môi giới (cò đất) cho giao dịch này và sẽ được nhận 1% giá trị hợp đồng sau khi ký xong. Hành vi này vi phạm quy định nào?",
+    "a": "Thực hiện hoạt động môi giới và tham gia chia lợi nhuận trong giao dịch mà mình công chứng.",
+    "b": "Làm việc theo hợp đồng lao động tại doanh nghiệp khác.",
+    "c": "Sách nhiễu người yêu cầu công chứng.",
+    "d": "Không vi phạm nếu các bên trong giao dịch đều biết và đồng ý.",
+    "answer": "A",
+    "explanation": "Điểm i khoản 1 Điều 9 nghiêm cấm CCV thực hiện hoạt động môi giới, đại lý hoặc tham gia chia lợi nhuận trong giao dịch mà mình thực hiện công chứng."
+  },
+  {
+    "question": "Một nhà đầu tư bất động sản muốn mở VPCC nhưng không có bằng CCV. Người này thỏa thuận với CCV B rằng ông ta sẽ bỏ 100% vốn, còn CCV B đứng tên chủ sở hữu và hưởng lương cố định. Theo Luật 2024, hành vi này vi phạm quy định nào?",
+    "a": "Góp vốn với tổ chức, cá nhân không phải là CCV để thành lập Văn phòng công chứng.",
+    "b": "Cho người khác sử dụng quyết định bổ nhiệm công chứng viên của mình.",
+    "c": "Đầu tư để thành lập Văn phòng công chứng trái quy định về loại hình hợp danh.",
+    "d": "Tất cả các phương án trên đều đúng.",
+    "answer": "D",
+    "explanation": "Hành vi 'đứng tên hộ' (điểm k) và 'góp vốn với người không phải CCV' (điểm l) là những hành vi vi phạm nghiêm trọng về tính chất nghề nghiệp và loại hình công ty hợp danh của VPCC."
+  },
+  {
+    "question": "CCV M muốn mở thêm một cửa hàng kinh doanh cà phê đứng tên mình để kiếm thêm thu nhập ngoài giờ làm việc tại VPCC. Theo Luật Công chứng 2024, M có được làm vậy không?",
+    "a": "Được, vì đây là quyền tự do kinh doanh của công dân.",
+    "b": "Được, miễn là không mở quán cà phê tại trụ sở VPCC.",
+    "c": "Không được, vì CCV bị cấm thực hiện hoạt động sản xuất, kinh doanh ngoài phạm vi hoạt động công chứng.",
+    "d": "Không được, trừ khi M thuê người khác quản lý hoàn toàn.",
+    "answer": "C",
+    "explanation": "Điểm i khoản 1 Điều 9 quy định CCV không được thực hiện hoạt động sản xuất, kinh doanh hoặc cung cấp dịch vụ ngoài phạm vi hoạt động công chứng, chứng thực."
+  },
+  {
+    "question": "Tình huống hắc não: CCV T ký hợp đồng lao động làm giảng viên thỉnh giảng cho một trường Đại học Luật và thường xuyên có tiết dạy vào sáng Thứ Tư hàng tuần. Hành vi này có vi phạm không?",
+    "a": "Không, vì giảng dạy là hoạt động truyền bá kiến thức pháp luật.",
+    "b": "Có, vì đây là tham gia công việc mà thường xuyên phải làm việc trong giờ hành chính.",
+    "c": "Không, nếu CCV T đã xin phép Trưởng Văn phòng công chứng.",
+    "d": "Có, vì CCV không được ký hợp đồng lao động với bất kỳ tổ chức nào khác.",
+    "answer": "B",
+    "explanation": "Điểm h khoản 1 Điều 9 nghiêm cấm CCV tham gia công việc mà thường xuyên phải làm việc trong giờ hành chính. Dù là giảng dạy, nếu lịch cố định trong giờ hành chính vẫn bị coi là vi phạm kỷ luật hành nghề."
+  },
+  {
+    "question": "CCV K đầu tư toàn bộ vốn để mua lại một VPCC nhưng lại không tham gia hợp danh (không trực tiếp hành nghề) tại đó mà chỉ quản lý tài chính từ xa. Hành vi này vi phạm điểm nào?",
+    "a": "Điểm h (Đồng thời hành nghề tại 02 tổ chức).",
+    "b": "Điểm i (Tham gia môi giới).",
+    "c": "Điểm l (Đầu tư vốn vào VPCC mà không tham gia hợp danh).",
+    "d": "Không vi phạm vì đây là đầu tư vốn hợp pháp.",
+    "answer": "C",
+    "explanation": "Điểm l khoản 1 Điều 9 nghiêm cấm việc đầu tư toàn bộ hoặc góp vốn để thành lập/nhận chuyển nhượng VPCC mà không thực tế tham gia hợp danh vào Văn phòng đó."
+  },
+{
+    "question": "Công chứng viên (CCV) X là thành viên hợp danh của VPCC Bình Minh. Do Văn phòng đang ít việc, X ký hợp đồng làm chuyên gia tư vấn pháp chế cho một Tập đoàn tài chính, cam kết làm việc online và chỉ đến họp khi có yêu cầu đột xuất. Hành vi này của X xử lý thế nào?",
+    "a": "Không vi phạm vì X làm việc online, không cố định thời gian.",
+    "b": "Vi phạm vì CCV không được làm việc theo hợp đồng lao động tại doanh nghiệp khác.",
+    "c": "Không vi phạm nếu X vẫn đảm bảo có mặt tại VPCC khi có khách.",
+    "d": "Chỉ vi phạm nếu Tập đoàn tài chính đó là khách hàng của VPCC Bình Minh.",
+    "answer": "B",
+    "explanation": "Điểm h khoản 1 Điều 9 nghiêm cấm CCV làm việc theo hợp đồng lao động tại doanh nghiệp, cơ quan, tổ chức khác. Việc làm online hay trực tiếp không thay đổi bản chất vi phạm này."
+  },
+  {
+    "question": "Công chứng viên (CCV) K muốn hỗ trợ em trai mở Văn phòng công chứng (VPCC) mới. K đã góp 50% vốn vào VPCC của em trai nhưng K vẫn tiếp tục hành nghề tại VPCC hiện tại của mình. Hành vi của K vi phạm quy định nào?",
+    "a": "Đồng thời hành nghề tại 02 tổ chức hành nghề công chứng.",
+    "b": "Góp vốn vào Văn phòng công chứng mà không tham gia hợp danh vào Văn phòng đó.",
+    "c": "Tham gia quản lý doanh nghiệp ngoài tổ chức hành nghề công chứng.",
+    "d": "Không vi phạm vì đây là hoạt động đầu tư cho người thân.",
+    "answer": "B",
+    "explanation": "Điểm l khoản 1 Điều 9 nghiêm cấm CCV góp vốn để thành lập VPCC mà không tham gia hợp danh vào chính Văn phòng đó."
+  },
+  {
+    "question": "Vì lý do sức khỏe, Công chứng viên (CCV) M nghỉ ở nhà điều trị 1 tháng. Trong thời gian này, M để lại Thẻ công chứng viên và chữ ký khắc sẵn cho nhân viên nghiệp vụ tự đóng dấu vào các hợp đồng đơn giản để 'duy trì' thu nhập cho Văn phòng. Đây là hành vi:",
+    "a": "Linh hoạt trong quản lý khi CCV gặp sự cố sức khỏe.",
+    "b": "Cho người khác sử dụng thẻ công chứng viên của mình.",
+    "c": "Sách nhiễu người yêu cầu công chứng.",
+    "d": "Cấu kết, thông đồng làm sai lệch nội dung hồ sơ.",
+    "answer": "B",
+    "explanation": "Điểm k khoản 1 Điều 9 nghiêm cấm CCV cho người khác sử dụng quyết định bổ nhiệm hoặc thẻ công chứng viên của mình dưới bất kỳ hình thức nào."
+  },
+  {
+    "question": "Công chứng viên (CCV) H thực hiện công chứng hợp đồng mua bán căn hộ cho một dự án mà H đang có cổ phần (chiếm 10% vốn điều lệ). Việc này vi phạm hành vi bị nghiêm cấm nào?",
+    "a": "Tham gia quản lý doanh nghiệp ngoài tổ chức hành nghề công chứng.",
+    "b": "Tham gia chia lợi nhuận trong giao dịch mà mình công chứng.",
+    "c": "Thực hiện hoạt động môi giới, đại lý.",
+    "d": "Cả a và b đều đúng.",
+    "answer": "B",
+    "explanation": "Việc có cổ phần đồng nghĩa với việc CCV có lợi ích kinh tế (cổ tức) từ dự án đó. Khi công chứng giao dịch của dự án này, CCV đã vi phạm lệnh cấm 'tham gia chia lợi nhuận trong giao dịch mà mình công chứng' tại điểm i."
+  },
+  {
+    "question": "Tình huống hắc não: CCV T được mời làm thành viên Ban kiểm soát của một Hợp tác xã nông nghiệp tại địa phương (vị trí này không yêu cầu làm việc giờ hành chính). CCV T có vi phạm Điều 9 không?",
+    "a": "Không, vì Ban kiểm soát không phải là bộ phận quản lý điều hành trực tiếp.",
+    "b": "Có, vì đây là hành vi tham gia quản lý doanh nghiệp, hợp tác xã ngoài tổ chức hành nghề công chứng.",
+    "c": "Không, vì Hợp tác xã không phải là doanh nghiệp kinh doanh lợi nhuận cao.",
+    "d": "Có, vì CCV không được tham gia bất kỳ tổ chức nào ngoài VPCC.",
+    "answer": "B",
+    "explanation": "Điểm i khoản 1 Điều 9 quy định cấm tham gia quản lý doanh nghiệp, hợp tác xã... Ban kiểm soát là một bộ phận thuộc bộ máy quản lý, giám sát của tổ chức nên vẫn tính là vi phạm."
+  },
+  {
+    "question": "Công chứng viên (CCV) B thỏa thuận với một cá nhân không phải CCV để cùng góp vốn mua lại một Văn phòng công chứng đang hoạt động dưới hình thức Công ty hợp danh. CCV B sẽ đứng tên hợp danh còn cá nhân kia góp vốn ngầm. Hành vi này vi phạm điểm nào của Điều 9?",
+    "a": "Cho người khác sử dụng thẻ công chứng viên.",
+    "b": "Góp vốn, hợp tác với tổ chức, cá nhân không phải là công chứng viên để nhận chuyển nhượng vốn góp của VPCC hợp danh.",
+    "c": "Đồng thời hành nghề tại 02 tổ chức công chứng.",
+    "d": "Thực hiện hoạt động môi giới bất động sản.",
+    "answer": "B",
+    "explanation": "Điểm l khoản 1 Điều 9 nghiêm cấm CCV góp vốn, hợp tác với cá nhân không phải CCV để thành lập hoặc nhận chuyển nhượng phần vốn góp của thành viên hợp danh tại VPCC."
+  },
+{
+    "question": "Công chứng viên (CCV) X là thành viên hợp danh của một Văn phòng công chứng (VPCC). Do có năng lực quản lý, X được mời làm Giám đốc điều hành cho một công ty kinh doanh phần mềm của bạn thân (chỉ làm việc qua email và họp online). Hành vi này của X vi phạm quy định nào?",
+    "a": "Không vi phạm vì X không làm việc trực tiếp tại trụ sở công ty phần mềm.",
+    "b": "Vi phạm quy định về tham gia quản lý doanh nghiệp ngoài tổ chức hành nghề công chứng.",
+    "c": "Không vi phạm vì công ty phần mềm không liên quan đến hoạt động công chứng.",
+    "d": "Chỉ vi phạm nếu X dùng thời gian trực tại VPCC để làm việc cho công ty phần mềm.",
+    "answer": "B",
+    "explanation": "Điểm i khoản 1 Điều 9 nghiêm cấm CCV tham gia quản lý doanh nghiệp ngoài tổ chức hành nghề công chứng, bất kể hình thức quản lý trực tiếp hay gián tiếp qua mạng."
+  },
+  {
+    "question": "Công chứng viên (CCV) H thực hiện công chứng hợp đồng thế chấp tài sản cho một doanh nghiệp. Sau đó, doanh nghiệp này mời CCV H tham gia chia lợi nhuận từ dự án được hình thành từ nguồn vốn vay đó. Nếu CCV H đồng ý, hành vi này bị cấm theo điểm nào?",
+    "a": "Điểm d (Nhận tiền từ người thứ ba).",
+    "b": "Điểm i (Tham gia chia lợi nhuận trong giao dịch mà mình công chứng).",
+    "c": "Điểm e (Chi tiền để giành lợi thế).",
+    "d": "Điểm g (Quảng cáo sai quy định).",
+    "answer": "B",
+    "explanation": "Điểm i khoản 1 Điều 9 nghiêm cấm CCV tham gia chia lợi nhuận trong chính giao dịch mà mình đã thực hiện công chứng."
+  },
+  {
+    "question": "Công chứng viên (CCV) K góp vốn cùng một doanh nhân (không phải CCV) để mua lại 100% phần vốn góp của một Văn phòng công chứng hợp danh. Trong đó, doanh nhân nắm 70% vốn ngầm, CCV K đứng tên 100% trên giấy tờ. Hành vi này vi phạm điểm nào?",
+    "a": "Điểm k (Cho người khác sử dụng quyết định bổ nhiệm).",
+    "b": "Điểm l (Hợp tác với cá nhân không phải CCV để nhận chuyển nhượng phần vốn góp của VPCC hợp danh).",
+    "c": "Điểm h (Đồng thời hành nghề tại 02 tổ chức).",
+    "d": "Điểm g (Quảng cáo trái phép).",
+    "answer": "B",
+    "explanation": "Điểm l khoản 1 Điều 9 nghiêm cấm CCV hợp tác với tổ chức, cá nhân không phải CCV để nhận chuyển nhượng toàn bộ phần vốn góp của VPCC được tổ chức theo loại hình công ty hợp danh."
+  },
+  {
+    "question": "Công chứng viên (CCV) M có thẻ công chứng viên nhưng đang trong thời gian tạm đình chỉ hành nghề. M đã đưa thẻ của mình cho một đồng nghiệp khác sử dụng để 'đóng dấu' cho kịp hồ sơ khách hàng. Đây là hành vi vi phạm của:",
+    "a": "Chỉ CCV M vi phạm.",
+    "b": "Chỉ CCV sử dụng thẻ vi phạm.",
+    "c": "Cả CCV M và CCV sử dụng thẻ đều vi phạm hành vi bị nghiêm cấm tại điểm k.",
+    "d": "Không ai vi phạm nếu khách hàng không khiếu nại.",
+    "answer": "C",
+    "explanation": "Điểm k khoản 1 Điều 9 nghiêm cấm việc cho người khác sử dụng thẻ công chứng viên của mình. Người sử dụng thẻ của người khác cũng vi phạm nghiêm trọng quy định hành nghề công chứng."
+  },
+  {
+    "question": "Tình huống hắc não: CCV T được một sàn giao dịch bất động sản mời làm 'Đại lý độc quyền' để tư vấn và ký kết các hợp đồng đặt cọc cho sàn. CCV T vẫn làm việc tại VPCC bình thường. Hành vi này vi phạm quy định nào?",
+    "a": "Thực hiện hoạt động môi giới, đại lý ngoài phạm vi hoạt động công chứng.",
+    "b": "Đồng thời hành nghề tại 02 tổ chức.",
+    "c": "Quảng cáo trên phương tiện thông tin đại chúng.",
+    "d": "Không vi phạm nếu các hợp đồng đặt cọc không bắt buộc công chứng.",
+    "answer": "A",
+    "explanation": "Điểm i khoản 1 Điều 9 nghiêm cấm CCV thực hiện hoạt động môi giới, đại lý hoặc cung cấp dịch vụ ngoài phạm vi hoạt động công chứng, chứng thực."
+  },
+  {
+    "question": "CCV Q ký hợp đồng với một doanh nghiệp để cung cấp dịch vụ 'Tư vấn pháp lý thường xuyên' và có mặt tại doanh nghiệp vào các buổi chiều Thứ Sáu hàng tuần. Hành vi này bị cấm vì lý do nào?",
+    "a": "Vì CCV không được cung cấp dịch vụ tư vấn pháp lý.",
+    "b": "Vì đây là tham gia công việc thường xuyên phải làm việc trong giờ hành chính ngoài tổ chức hành nghề công chứng.",
+    "c": "Vì CCV không được ký hợp đồng với doanh nghiệp.",
+    "d": "Chỉ bị cấm nếu doanh nghiệp đó kinh doanh bất hợp pháp.",
+    "answer": "B",
+    "explanation": "Điểm h khoản 1 Điều 9 nghiêm cấm CCV tham gia công việc mà thường xuyên phải làm việc trong giờ hành chính tại các cơ quan, tổ chức khác ngoài tổ chức hành nghề công chứng."
   }
 ]
