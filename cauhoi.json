@@ -771,5 +771,401 @@
     "d": "Không có phương án nào phù hợp.",
     "answer": "A",
     "explanation": "Thách cưới quá cao để ngăn cản việc kết hôn là một hành vi cản trở hôn nhân tự nguyện."
+  },
+  {
+    "question": "Anh X và chị Y kết hôn theo quy định của pháp luật, vậy anh X và chị Y là chủ thể của:",
+    "a": "Quan hệ pháp luật hôn nhân và tài sản.",
+    "b": "Quan hệ nhân thân.",
+    "c": "Tất cả các phương án đều đúng.",
+    "d": "Quan hệ của pháp luật hôn nhân và gia đình.",
+    "answer": "D",
+    "explanation": "Kết hôn hợp pháp xác lập quan hệ pháp luật hôn nhân và gia đình giữa hai người."
+  },
+  {
+    "question": "Quan hệ nào sau đây là đối tượng điều chỉnh của Luật HN và GĐ:",
+    "a": "Quan hệ tài sản.",
+    "b": "Quan hệ nhân thân.",
+    "c": "Quan hệ nhân thân và quan hệ tài sản.",
+    "d": "Quan hệ đồng, khác giới giữa người nam và người nữ.",
+    "answer": "C",
+    "explanation": "Luật điều chỉnh cả hai nhóm quan hệ quan trọng này trong đời sống gia đình."
+  },
+  {
+    "question": "P kết hôn năm 2000 nhưng vào năm 2015 P chung sống như vợ chồng với chị G, P bị xử lý theo hình thức nào về việc vi phạm điều kiện kết hôn?",
+    "a": "Xử lý dân sự, hành chính.",
+    "b": "Xử lý hành chính, xử lý hình sự.",
+    "c": "Xử lý kỷ luật.",
+    "d": "Xử lý vật chất.",
+    "answer": "B",
+    "explanation": "Vi phạm chế độ một vợ một chồng tùy mức độ có thể bị xử phạt hành chính hoặc truy cứu trách nhiệm hình sự."
+  },
+  {
+    "question": "Hôn nhân tự nguyện, tiến bộ là hôn nhân nào sau đây",
+    "a": "Nam nữ cưỡng hôn.",
+    "b": "Nam nữ được tự mình đăng ký kết hôn.",
+    "c": "Bình đẳng, tôn trọng và thực hiện đúng theo quy định của pháp luật về kết hôn.",
+    "d": "Nam nữ tự mình quyết định kết hôn.",
+    "answer": "C",
+    "explanation": "Hôn nhân tiến bộ dựa trên sự tự nguyện, bình đẳng và thượng tôn pháp luật."
+  },
+  {
+    "question": "Hôn nhân có những đặc điểm nào sau đây:",
+    "a": "Tất cả các đáp án đều đúng.",
+    "b": "Dựa trên cơ sở tự nguyện của hai bên nam nữ.",
+    "c": "Các bên tham gia quan hệ hôn nhân phải tuân thủ các quy định của pháp luật.",
+    "d": "Nam nữ khi tham gia quan hệ hôn nhân được hoàn toàn bình đẳng trước pháp luật.",
+    "answer": "A",
+    "explanation": "Hôn nhân hợp pháp bao gồm các đặc điểm về tự nguyện, bình đẳng và pháp lý."
+  },
+  {
+    "question": "Nhận định nào sau đây đúng",
+    "a": "Lợi ích nhân thân là những lợi ích về tài sản và tình cảm.",
+    "b": "Lợi ích tài sản là những lợi ích gắn liền với yếu tố gia đình và những yếu tố liên quan đến vật chất.",
+    "c": "Khách thể của quan hệ pháp luật là những lợi ích mà các chủ thể của quan hệ pháp luật hôn nhân và gia đình hướng tới hoặc đạt được khi tham gia quan hệ pháp luật hôn nhân và gia đình.",
+    "d": "Khách thể của quan hệ pháp luật mà các chủ thể của quan hệ pháp luật hôn nhân và gia đình hướng tới.",
+    "answer": "C",
+    "explanation": "Định nghĩa chính xác về khách thể trong quan hệ pháp luật hôn nhân gia đình."
+  },
+  {
+    "question": "Gia đình được hình thành trên cơ sở nào sau đây",
+    "a": "Hôn nhân, tài sản.",
+    "b": "Hôn nhân, tình cảm, con cái.",
+    "c": "Hôn nhân, quan hệ huyết thống, quan hệ nuôi dưỡng.",
+    "d": "Những thành viên trong gia đình.",
+    "answer": "C",
+    "explanation": "Gia đình là tập hợp những người gắn kết bởi hôn nhân, huyết thống hoặc nuôi dưỡng."
+  },
+  {
+    "question": "Cha mẹ và con cái có quyền và nghĩa vụ nào sau",
+    "a": "bảo vệ nhau, không được phản bội nhau hay sống riêng",
+    "b": "chăm lo, dưỡng dục, bảo bọc nhau vô điều kiện",
+    "c": "chăm sóc, nuôi dưỡng nhau",
+    "d": "chăm sóc, nuôi dạy lẫn nhau",
+    "answer": "C",
+    "explanation": "Quyền và nghĩa vụ chăm sóc, nuôi dưỡng là nền tảng của quan hệ cha mẹ - con cái."
+  },
+  {
+    "question": "Khi phát hiện đồng nghiệp có sai sót trong hành nghề CCV phải làm gì?",
+    "a": "Báo cáo ngay cho cơ quan Công an",
+    "b": "Im lặng để giữ đoàn kết",
+    "c": "Trao đổi góp ý khách quan và báo cáo cấp thẩm quyền nếu vi phạm gây tổn hại nghề nghiệp",
+    "d": "Công khai sai sót trên mạng xã hội",
+    "answer": "C",
+    "explanation": "Theo Khoản 2, Điều 9: CCV có nghĩa vụ trao đổi, góp ý khách quan và báo cáo người có thẩm quyền nếu đó là hành vi vi phạm pháp luật hoặc gây tổn hại đến nghề nghiệp."
+  },
+  {
+    "question": "Hành vi nào bị cấm trong quan hệ với người tập sự hành nghề công chứng?",
+    "a": "Yêu cầu người tập sự soạn thảo hợp đồng",
+    "b": "Yêu cầu người tập sự thực hiện công việc không liên quan đến nội dung tập sự vì lợi ích cá nhân",
+    "c": "Hướng dẫn người tập sự về kỹ năng nghề nghiệp",
+    "d": "Kiểm tra kết quả công việc của người tập sự",
+    "answer": "B",
+    "explanation": "Theo Khoản 2, Điều 14: Nghiêm cấm CCV yêu cầu người tập sự thực hiện các công việc không liên quan đến nội dung tập sự nhằm phục vụ lợi ích cá nhân."
+  },
+  {
+    "question": "Nghĩa vụ bảo mật thông tin của CCV được quy định như thế nào?",
+    "a": "Chỉ bảo mật khi đang hành nghề",
+    "b": "Bảo mật trong quá trình hành nghề và cả khi không còn là CCV",
+    "c": "Chỉ bảo mật thông tin về tài chính của khách hàng",
+    "d": "Không cần bảo mật nếu khách hàng là người thân",
+    "answer": "B",
+    "explanation": "Theo Khoản 1, Điều 6: CCV có trách nhiệm giữ bí mật thông tin trong hồ sơ và nội dung công chứng trong quá trình hành nghề cũng như khi không còn là CCV."
+  },
+  {
+    "question": "CCV có được phép trả tiền hoa hồng cho người môi giới không?",
+    "a": "Có nếu mức chiết khấu dưới 10%",
+    "b": "Có nếu khách hàng đồng ý",
+    "c": "Tuyệt đối không được trả tiền hoa hồng cho người môi giới",
+    "d": "Được phép nếu tổ chức hành nghề công chứng cho phép",
+    "answer": "C",
+    "explanation": "Theo Khoản 10, Điều 8: Nghiêm cấm CCV trả tiền hoa hồng, chiết khấu cho người yêu cầu công chứng hoặc người môi giới."
+  },
+  {
+    "question": "Hành vi nào vi phạm quy tắc đạo đức về sự công bằng đối với khách hàng?",
+    "a": "Ưu tiên phục vụ người già và người khuyết tật",
+    "b": "Giải thích kỹ cho khách hàng chưa hiểu pháp luật",
+    "c": "Phân biệt đối xử dựa trên địa vị xã hội và khả năng tài chính",
+    "d": "Từ chối công chứng hợp đồng vi phạm pháp luật",
+    "answer": "C",
+    "explanation": "Theo Điều 7: CCV không được phân biệt đối xử về địa vị xã hội, khả năng tài chính... giữa những người yêu cầu công chứng."
+  },
+  {
+    "question": "UBND cấp xã là cơ quan đăng ký kết hôn của trường hợp nào sau:",
+    "a": "R và C là sinh viên trường đại học Y đều trên 20 tuổi.",
+    "b": "R và C đang là học sinh trung học phổ thông có một người đủ 20 tuổi.",
+    "c": "T và X là du học sinh đang du học tại Pháp đều trên 20 tuổi.",
+    "d": "Không trường hợp nào.",
+    "answer": "A",
+    "explanation": "Cơ quan đăng ký kết hôn cho công dân Việt Nam trong nước là UBND cấp xã (Điều 17 Luật Hộ tịch)."
+  },
+  {
+    "question": "Quyết định số 148/QĐ-HĐCCVTQ về Quy tắc đạo đức hành nghề công chứng được ban hành vào ngày tháng năm nào?",
+    "a": "Ngày 20 tháng 6 năm 2014",
+    "b": "Ngày 11 tháng 3 năm 2025",
+    "c": "Ngày 15 tháng 3 năm 2015",
+    "d": "Ngày 28 tháng 6 năm 2023",
+    "answer": "B",
+    "explanation": "Quyết định 148 được Hội đồng Công chứng viên toàn quốc ký ban hành vào ngày 11/03/2025."
+  },
+  {
+    "question": "Căn cứ pháp lý nào sau đây được sử dụng để ban hành Quy tắc đạo đức hành nghề công chứng theo QĐ 148?",
+    "a": "Luật Công chứng, Nghị định hướng dẫn và Điều lệ Hiệp hội CCV Việt Nam",
+    "b": "Chỉ dựa trên Nghị quyết của Đảng về cải cách tư pháp",
+    "c": "Dựa trên Bộ luật Dân sự và Luật Hình sự",
+    "d": "Dựa trên các thông tư của Bộ Tài chính về phí công chứng",
+    "answer": "A",
+    "explanation": "Quyết định 148 căn cứ vào Luật Công chứng, Nghị định 29/2015/NĐ-CP và Điều lệ Hiệp hội đã được Bộ Tư pháp phê duyệt."
+  },
+  {
+    "question": "Cơ quan nào có thẩm quyền ban hành Quy tắc đạo đức hành nghề công chứng (kèm theo QĐ 148)?",
+    "a": "Bộ Tư pháp Việt Nam",
+    "b": "Hội đồng Công chứng viên toàn quốc",
+    "c": "Chính phủ Việt Nam",
+    "d": "Quốc hội Việt Nam",
+    "answer": "B",
+    "explanation": "Theo Lời nói đầu và phần ký tên của Quyết định 148, thẩm quyền ban hành thuộc về Hội đồng Công chứng viên toàn quốc."
+  },
+  {
+    "question": "Theo Điều 17, cơ quan nào có trách nhiệm hướng dẫn, giải thích việc thực hiện Quy tắc đạo đức này?",
+    "a": "Sở Tư pháp các địa phương",
+    "b": "Ủy ban nhân dân các cấp",
+    "c": "Ban Thường vụ Hiệp hội Công chứng viên Việt Nam",
+    "d": "Tòa án nhân dân tối cao",
+    "answer": "C",
+    "explanation": "Điều 17 quy định Ban Thường vụ Hiệp hội có trách nhiệm tổ chức triển khai, hướng dẫn và giải thích việc thực hiện."
+  },
+  {
+    "question": "Quy tắc đạo đức hành nghề công chứng theo QĐ 148 có giá trị áp dụng như thế nào?",
+    "a": "Chỉ áp dụng cho các Công chứng viên mới được bổ nhiệm",
+    "b": "Là chuẩn mực hành vi, có giá trị bắt buộc áp dụng với tất cả Công chứng viên",
+    "c": "Chỉ có giá trị khuyến nghị, không bắt buộc tuân theo",
+    "d": "Chỉ áp dụng khi có tranh chấp xảy ra tại văn phòng công chứng",
+    "answer": "B",
+    "explanation": "Quy tắc đạo đức là chuẩn mực bắt buộc chung cho toàn bộ đội ngũ Công chứng viên đang hành nghề."
+  },
+  {
+    "question": "Trong trường hợp Công chứng viên gương mẫu thực hiện Quy tắc đạo đức, họ sẽ được hưởng quyền lợi gì theo Điều 16?",
+    "a": "Được miễn đóng phí hội viên trọn đời",
+    "b": "Được vinh danh, khen thưởng bởi Hội hoặc Hiệp hội CCV",
+    "c": "Được ưu tiên bổ nhiệm các chức vụ trong bộ máy nhà nước",
+    "d": "Được quyền thu phí công chứng cao hơn quy định",
+    "answer": "B",
+    "explanation": "Điều 16 quy định CCV gương mẫu thực hiện quy tắc sẽ được vinh danh, khen thưởng hoặc đề nghị cơ quan Nhà nước khen thưởng."
+  },
+  {
+    "question": "Khi có hành vi vi phạm Quy tắc đạo đức, CCV sẽ bị xử lý kỷ luật theo các căn cứ nào (Điều 16)?",
+    "a": "Luật Lao động",
+    "b": "Nội quy của Hội và Điều lệ của Hiệp hội Công chứng viên",
+    "c": "Theo ý kiến cá nhân của Trưởng tổ chức hành nghề",
+    "d": "Theo thỏa thuận giữa CCV và người yêu cầu công chứng",
+    "answer": "B",
+    "explanation": "Khoản 2 Điều 16 quy định vi phạm sẽ bị xử lý kỷ luật theo quy chế, Điều lệ Hiệp hội và nội quy của Hội địa phương."
+  },
+  {
+    "question": "Ai là người có trách nhiệm giám sát trực tiếp việc thực hiện Quy tắc đạo đức đối với CCV trong một tổ chức hành nghề?",
+    "a": "Chủ tịch UBND xã nơi đặt trụ sở",
+    "b": "Trưởng tổ chức hành nghề công chứng",
+    "c": "Giám đốc Sở Tư pháp địa phương",
+    "d": "Người yêu cầu công chứng",
+    "answer": "B",
+    "explanation": "Khoản 3 Điều 15 quy định Trưởng tổ chức hành nghề có trách nhiệm giám sát việc thực hiện quy tắc đối với CCV của tổ chức mình."
+  },
+  {
+    "question": "Hội công chứng viên địa phương có trách nhiệm giám sát đối tượng nào đối với Quy tắc đạo đức?",
+    "a": "Giám sát tất cả các Luật sư trên địa bàn",
+    "b": "Giám sát các Công chứng viên là hội viên của Hội mình",
+    "c": "Giám sát hoạt động của các văn phòng đăng ký đất đai",
+    "d": "Giám sát việc đóng thuế của người dân",
+    "answer": "B",
+    "explanation": "Khoản 2 Điều 15 quy định Hội CCV địa phương giám sát hội viên của Hội mình trong việc thực hiện Quy tắc."
+  },
+  {
+    "question": "Mục đích cao nhất của việc thực hiện đúng Quy tắc đạo đức hành nghề công chứng là gì?",
+    "a": "Để tránh bị cơ quan nhà nước xử phạt",
+    "b": "Để quảng cáo cho văn phòng công chứng của mình",
+    "c": "Nâng cao chất lượng dịch vụ công chứng, bảo vệ quyền lợi khách hàng và uy tín nghề nghiệp",
+    "d": "Để thu hút thêm nhiều người tập sự đến xin học việc",
+    "answer": "C",
+    "explanation": "Việc tuân thủ quy tắc giúp bảo vệ giá trị cốt lõi của nghề, tạo lòng tin với xã hội và bảo đảm an toàn pháp lý cho các giao dịch."
+  },
+  {
+    "question": "Theo Điều 4, tính Trung thực, khách quan yêu cầu Công chứng viên (CCV) không được thực hiện hành vi nào sau đây?",
+    "a": "Từ chối công chứng khi thấy có sự gian lận",
+    "b": "Làm sai lệch nội dung văn bản công chứng đã được các bên thỏa thuận",
+    "c": "Giải thích quyền lợi cho người yếu thế trong giao dịch",
+    "d": "Yêu cầu các bên cung cấp bằng chứng chứng minh quyền sở hữu",
+    "answer": "B",
+    "explanation": "Điều 4 quy định CCV không được làm sai lệch nội dung văn bản công chứng, không được vì lợi ích cá nhân mà làm trái pháp luật."
+  },
+  {
+    "question": "Trong quan hệ với người tập sự, CCV hướng dẫn có trách nhiệm gì về kết quả công việc của người tập sự (Điều 12)?",
+    "a": "Người tập sự phải tự chịu trách nhiệm hoàn toàn",
+    "b": "CCV hướng dẫn phải chịu trách nhiệm về kết quả công việc của người tập sự",
+    "c": "Tổ chức hành nghề công chứng chịu trách nhiệm thay cho CCV hướng dẫn",
+    "d": "Không ai phải chịu trách nhiệm vì đây là quá trình học tập",
+    "answer": "B",
+    "explanation": "Khoản 4 Điều 12 quy định CCV hướng dẫn phải chịu trách nhiệm về các kết quả công việc mà người tập sự thực hiện dưới sự hướng dẫn của mình."
+  },
+  {
+    "question": "Hành vi nào bị cấm tại Điểm d Khoản 1 Điều 8 liên quan đến việc lôi kéo người yêu cầu công chứng?",
+    "a": "Tư vấn pháp luật miễn phí tại trụ sở",
+    "b": "Thực hiện công chứng ngoài trụ sở theo đúng quy định của pháp luật",
+    "c": "Cho người khác sử dụng danh nghĩa CCV để lôi kéo khách hàng",
+    "d": "Niêm yết bảng phí công chứng tại phòng chờ",
+    "answer": "C",
+    "explanation": "Điều 8 nghiêm cấm việc cho người khác sử dụng danh nghĩa CCV hoặc tổ chức hành nghề để môi giới, lôi kéo khách hàng."
+  },
+  {
+    "question": "Theo Quy tắc, CCV phải ứng xử như thế nào khi gặp tình huống xung đột về lợi ích (Điều 2)?",
+    "a": "Ưu tiên lợi ích của khách hàng thân thiết",
+    "b": "Giải quyết theo hướng có lợi nhất cho tổ chức hành nghề của mình",
+    "c": "Đặt lợi ích chung và sự công bằng của pháp luật lên trên lợi ích riêng",
+    "d": "Thực hiện theo chỉ đạo của người trả thù lao cao nhất",
+    "answer": "C",
+    "explanation": "Nguyên tắc tại Điều 2 yêu cầu CCV phải bảo vệ lợi ích Nhà nước, quyền lợi hợp pháp của cá nhân và tôn trọng sự thật khách quan."
+  },
+  {
+    "question": "Khi tham gia hoạt động xã hội, CCV bị cấm hành vi nào theo Điều 13?",
+    "a": "Quyên góp ủng hộ đồng bào bị thiên tai",
+    "b": "Sử dụng danh hiệu Công chứng viên để trục lợi cá nhân",
+    "c": "Tham gia vào các tổ chức thiện nguyện địa phương",
+    "d": "Viết bài chia sẻ kinh nghiệm pháp luật trên tập chí chuyên môn",
+    "answer": "B",
+    "explanation": "Điều 13 quy định CCV không được sử dụng danh nghĩa, hình ảnh CCV để mưu cầu lợi ích cá nhân ngoài hoạt động nghề nghiệp."
+  },
+  {
+    "question": "Điều 14 nghiêm cấm CCV thực hiện hành vi nào trong quản lý hồ sơ?",
+    "a": "Lưu trữ hồ sơ tại trụ sở tổ chức hành nghề",
+    "b": "Cho phép người không có thẩm quyền tiếp cận, sao chép hồ sơ trái luật",
+    "c": "Tra cứu thông tin hồ sơ để phục vụ việc đính chính sai sót kỹ thuật",
+    "d": "Số hóa hồ sơ công chứng để quản lý trên máy tính",
+    "answer": "B",
+    "explanation": "Hành vi cho người không có thẩm quyền tiếp cận hồ sơ là vi phạm quy định về bảo mật và quản lý hồ sơ tại Chương III."
+  },
+  {
+    "question": "Công chứng viên có nghĩa vụ gì đối với sự phát triển của nghề công chứng (Điều 11)?",
+    "a": "Chỉ cần làm tốt việc của cá nhân mình",
+    "b": "Tham gia đóng góp ý kiến xây dựng pháp luật và xây dựng tổ chức xã hội - nghề nghiệp",
+    "c": "Hạn chế chia sẻ kinh nghiệm để giữ bí quyết nghề nghiệp",
+    "d": "Tự ý thành lập các hội nhóm công chứng không theo quy định",
+    "answer": "B",
+    "explanation": "Điều 11 quy định CCV có trách nhiệm đóng góp vào sự phát triển của nghề và Hiệp hội Công chứng viên."
+  },
+  {
+    "question": "Hành vi nào bị coi là vi phạm đạo đức trong quan hệ với đồng nghiệp (Điều 9)?",
+    "a": "Cùng nhau thảo luận về một tình huống pháp lý khó",
+    "b": "Gây chia rẽ, mất đoàn kết nội bộ trong tổ chức hành nghề",
+    "c": "Hỗ trợ đồng nghiệp mới vào nghề về kỹ năng nghiệp vụ",
+    "d": "Tôn trọng các quyết định nghiệp vụ đúng đắn của đồng nghiệp",
+    "answer": "B",
+    "explanation": "Hành vi gây mất đoàn kết, chia rẽ nội bộ là vi phạm nghiêm trọng quy tắc đạo đức về quan hệ đồng nghiệp."
+  },
+  {
+    "question": "Theo Điều 10, CCV phải làm gì nếu nội quy của tổ chức hành nghề trái với Quy tắc đạo đức này?",
+    "a": "Vẫn phải tuân thủ tuyệt đối nội quy của tổ chức",
+    "b": "Ưu tiên tuân thủ Quy tắc đạo đức hành nghề công chứng",
+    "c": "Nghỉ việc ngay lập tức không cần báo trước",
+    "d": "Làm theo ý kiến của số đông nhân viên trong văn phòng",
+    "answer": "B",
+    "explanation": "Quy tắc đạo đức là chuẩn mực cao nhất về hành vi nghề nghiệp, CCV phải lấy đó làm kim chỉ nam khi có sự xung đột."
+  },
+  {
+    "question": "Trách nhiệm của CCV khi thực hiện công việc lưu động ngoài trụ sở theo Quy tắc đạo đức là?",
+    "a": "Được thu thêm các khoản phí ngoài quy định để bù đắp công sức",
+    "b": "Vẫn phải đảm bảo tính khách quan, trung thực và tuân thủ đúng quy trình như tại trụ sở",
+    "c": "Có thể nới lỏng việc kiểm tra giấy tờ tùy thân của khách hàng",
+    "d": "Không cần ghi chép vào sổ công chứng nếu khách hàng yêu cầu",
+    "answer": "B",
+    "explanation": "Dù thực hiện ở đâu, CCV vẫn phải giữ đúng các chuẩn mực đạo đức và quy định pháp luật về nghiệp vụ."
+  },
+  {
+    "question": "Theo Điều 2, nguyên tắc Độc lập trong hành nghề công chứng yêu cầu Công chứng viên (CCV) phải làm gì?",
+    "a": "Thực hiện theo chỉ đạo của người trả phí để đảm bảo doanh thu",
+    "b": "Không để bất kỳ cá nhân, tổ chức nào can thiệp trái pháp luật vào hoạt động nghiệp vụ của mình",
+    "c": "Tuyệt đối không được trao đổi chuyên môn với đồng nghiệp cùng cơ quan",
+    "d": "Được quyền tự ý thay đổi quy trình công chứng để làm hài lòng khách hàng",
+    "answer": "B",
+    "explanation": "Nguyên tắc độc lập yêu cầu CCV không được để áp lực từ bên ngoài hoặc lợi ích riêng làm ảnh hưởng đến quyết định nghiệp vụ đúng pháp luật."
+  },
+  {
+    "question": "Hành vi nào sau đây bị coi là vi phạm đạo đức về Cạnh tranh nghề nghiệp (Điều 14)?",
+    "a": "Thực hiện miễn phí công chứng cho người nghèo, đối tượng chính sách",
+    "b": "Tặng quà, tiền cho người môi giới để họ đưa khách hàng đến văn phòng mình",
+    "c": "Mở rộng trụ sở làm việc để phục vụ khách hàng tốt hơn",
+    "d": "Tham gia các buổi hội thảo phổ biến pháp luật cho cộng đồng",
+    "answer": "B",
+    "explanation": "Điểm d Khoản 1 Điều 8 và Điều 14 nghiêm cấm việc trả hoa hồng cho môi giới để tranh giành khách hàng dưới mọi hình thức."
+  },
+  {
+    "question": "Khi tiếp nhận yêu cầu công chứng, nếu thấy người yêu cầu có dấu hiệu bị ép buộc hoặc không làm chủ được hành vi, CCV phải làm gì (Điều 4)?",
+    "a": "Vẫn thực hiện công chứng nếu các bên cam kết tự chịu trách nhiệm",
+    "b": "Giải thích cho họ và kiên quyết từ chối thực hiện việc công chứng",
+    "c": "Yêu cầu người yêu cầu công chứng nộp thêm tiền bảo đảm",
+    "d": "Ký thay cho người yêu cầu công chứng để hoàn thành thủ tục",
+    "answer": "B",
+    "explanation": "CCV phải bảo đảm tính tự nguyện, trung thực. Nếu có dấu hiệu ép buộc hoặc thiếu năng lực hành vi, CCV có nghĩa vụ từ chối."
+  },
+  {
+    "question": "Theo Điều 12, hành vi nào bị cấm trong việc xác nhận kết quả tập sự cho người tập sự?",
+    "a": "Xác nhận đúng thời gian người tập sự đã thực tế có mặt",
+    "b": "Xác nhận không đúng sự thật về kết quả tập sự vì nể nang hoặc vì lợi ích khác",
+    "c": "Đánh giá người tập sự chưa đạt yêu cầu về kỹ năng soạn thảo",
+    "d": "Nhận xét người tập sự có thái độ cầu thị trong học tập",
+    "answer": "B",
+    "explanation": "CCV hướng dẫn phải xác nhận trung thực, khách quan. Việc xác nhận khống hoặc sai sự thật là vi phạm nghiêm trọng quy tắc đạo đức."
+  },
+  {
+    "question": "Công chứng viên bị nghiêm cấm làm điều gì đối với thông tin bí mật của khách hàng sau khi đã chuyển sang công tác khác?",
+    "a": "Được phép sử dụng nếu không còn làm CCV nữa",
+    "b": "Vẫn phải tiếp tục giữ bí mật tuyệt đối, không được tiết lộ cho bên thứ ba trái pháp luật",
+    "c": "Chỉ phải giữ bí mật trong vòng 05 năm sau khi nghỉ việc",
+    "d": "Được quyền bán thông tin cho các tổ chức thu nợ",
+    "answer": "B",
+    "explanation": "Nghĩa vụ bảo mật thông tin (Điều 6) kéo dài vô hạn, kể cả khi CCV không còn hành nghề hoặc đã nghỉ hưu."
+  },
+  {
+    "question": "Hành vi nào dưới đây bị coi là xúc phạm danh dự đồng nghiệp theo quy định tại Chương III?",
+    "a": "Góp ý về lỗi chính tả trong văn bản công chứng của đồng nghiệp",
+    "b": "Phê phán đồng nghiệp trước mặt khách hàng để tranh giành khách",
+    "c": "Đề nghị đồng nghiệp kiểm tra lại giấy tờ tùy thân của khách hàng",
+    "d": "Mời đồng nghiệp cùng tham gia thảo luận một hợp đồng phức tạp",
+    "answer": "B",
+    "explanation": "Việc hạ thấp uy tín, phê phán đồng nghiệp trước mặt người yêu cầu công chứng là hành vi cạnh tranh không lành mạnh và vi phạm đạo đức."
+  },
+  {
+    "question": "Trách nhiệm của CCV đối với việc bảo vệ uy tín nghề nghiệp trong đời sống hàng ngày là gì (Điều 13)?",
+    "a": "Chỉ cần giữ đạo đức khi đang ở tại trụ sở làm việc",
+    "b": "Có lối sống lành mạnh, phù hợp với thuần phong mỹ tục để không làm ảnh hưởng đến hình ảnh CCV",
+    "c": "Được tự do phát ngôn trên mạng xã hội mà không cần giữ kẽ",
+    "d": "Không cần tham gia vào các hoạt động cộng đồng",
+    "answer": "B",
+    "explanation": "CCV phải giữ gìn hình ảnh mọi lúc mọi nơi để bảo vệ danh dự và uy tín của toàn thể đội ngũ công chứng viên."
+  },
+  {
+    "question": "Khi thực hiện công chứng văn bản về thừa kế, CCV không được làm điều gì theo Điều 8?",
+    "a": "Hướng dẫn người dân các loại giấy tờ cần thiết để chứng minh quan hệ huyết thống",
+    "b": "Gợi ý hoặc hướng dẫn người yêu cầu công chứng chia tài sản trái với ý chí của người để lại di sản",
+    "c": "Tư vấn về thuế thu nhập cá nhân khi nhận thừa kế",
+    "d": "Kiểm tra tính hợp pháp của di chúc",
+    "answer": "B",
+    "explanation": "CCV phải tôn trọng ý chí của các bên và tính khách quan, không được định hướng trái pháp luật hoặc trái ý muốn của người yêu cầu."
+  },
+  {
+    "question": "Công chứng viên có được phép làm đại diện cho người yêu cầu công chứng trong chính giao dịch mình thực hiện công chứng không?",
+    "a": "Được phép nếu khách hàng nhờ vả tận tình",
+    "b": "Tuyệt đối không được phép thực hiện (Hành vi bị cấm)",
+    "c": "Được phép nếu giao dịch đó có giá trị nhỏ",
+    "d": "Được phép nếu có sự đồng ý của Trưởng tổ chức hành nghề",
+    "answer": "B",
+    "explanation": "Để đảm bảo tính khách quan, CCV không được vừa là người thực hiện công chứng vừa là người đại diện cho một bên trong giao dịch đó."
+  },
+  {
+    "question": "Mối quan hệ giữa CCV và tổ chức xã hội - nghề nghiệp (Hội, Hiệp hội) dựa trên nguyên tắc nào?",
+    "a": "Quan hệ xin - cho về quyền lợi",
+    "b": "Tự nguyện tham gia nhưng phải chấp hành sự quản lý và giám sát của tổ chức",
+    "c": "Chỉ tham gia khi có tranh chấp cần giải quyết",
+    "d": "Không có bất kỳ ràng buộc nào sau khi đã đóng hội phí",
+    "answer": "B",
+    "explanation": "Gia nhập Hội là bắt buộc để hành nghề, và CCV có nghĩa vụ tuân thủ sự giám sát của Hội về đạo đức nghề nghiệp."
   }
 ]
