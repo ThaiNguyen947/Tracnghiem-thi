@@ -1,5 +1,455 @@
 [ 
  {
+  "question": "Theo quy định về công chứng ngoài trụ sở, trường hợp nào sau đây được coi là lý do chính đáng?",
+    "a": "Người yêu cầu công chứng bận công việc cá nhân",
+    "b": "Người yêu cầu công chứng ngại đi lại",
+    "c": "Phụ nữ đang nuôi con nhỏ dưới 12 tháng tuổi",
+    "d": "Người yêu cầu muốn công chứng tại quán cà phê cho tiện",
+    "answer": "c",
+    "explanation": "Theo điểm a khoản 1 Điều 43 Nghị định 104/2025/NĐ-CP, phụ nữ đang mang thai hoặc nuôi con nhỏ dưới 12 tháng tuổi được xem là lý do chính đáng để thực hiện công chứng ngoài trụ sở."
+  },
+  {
+    "question": "Địa điểm thực hiện công chứng ngoài trụ sở phải đáp ứng điều kiện nào?",
+    "a": "Bất kỳ nơi nào người yêu cầu lựa chọn",
+    "b": "Phải thuộc địa bàn cấp huyện nơi tổ chức hành nghề công chứng đặt trụ sở",
+    "c": "Có địa chỉ cụ thể và phù hợp với lý do yêu cầu công chứng ngoài trụ sở",
+    "d": "Chỉ được thực hiện tại bệnh viện hoặc nhà riêng",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 43 Nghị định 104/2025/NĐ-CP, việc công chứng ngoài trụ sở phải được thực hiện tại địa điểm có địa chỉ cụ thể, phù hợp với lý do yêu cầu công chứng ngoài trụ sở."
+  },
+  {
+    "question": "Thời hạn niêm yết việc tiếp nhận công chứng văn bản phân chia di sản là bao lâu?",
+    "a": "07 ngày",
+    "b": "10 ngày",
+    "c": "15 ngày",
+    "d": "30 ngày",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 44 Nghị định 104/2025/NĐ-CP, việc niêm yết được thực hiện trong thời hạn 15 ngày kể từ ngày niêm yết."
+  },
+  {
+    "question": "Trường hợp di sản chỉ gồm bất động sản thì việc niêm yết phải thực hiện thêm ở đâu?",
+    "a": "Sở Tư pháp",
+    "b": "Nơi có bất động sản",
+    "c": "Tòa án nhân dân cấp huyện",
+    "d": "Cơ quan thuế",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 44 Nghị định 104/2025/NĐ-CP, nếu di sản gồm bất động sản thì việc niêm yết phải thực hiện thêm tại UBND cấp xã nơi có bất động sản."
+  },
+  {
+    "question": "Khi người để lại di sản không có nơi thường trú hoặc tạm trú cuối cùng tại Việt Nam thì tổ chức hành nghề công chứng thực hiện việc niêm yết bằng cách nào?",
+    "a": "Niêm yết tại Bộ Tư pháp",
+    "b": "Đăng báo trung ương",
+    "c": "Đề nghị Sở Tư pháp đăng tải trên Cổng thông tin điện tử",
+    "d": "Niêm yết tại tổ chức hành nghề công chứng",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 44 Nghị định 104/2025/NĐ-CP, trường hợp không xác định được nơi thường trú hoặc tạm trú cuối cùng tại Việt Nam thì tổ chức hành nghề công chứng gửi văn bản đề nghị Sở Tư pháp đăng tải trên Cổng thông tin điện tử."
+  },
+  {
+    "question": "Theo quy định, UBND cấp xã nơi niêm yết có trách nhiệm gửi xác nhận kết quả niêm yết cho tổ chức hành nghề công chứng trong thời hạn bao lâu kể từ ngày kết thúc niêm yết?",
+    "a": "01 ngày làm việc",
+    "b": "03 ngày làm việc",
+    "c": "05 ngày làm việc",
+    "d": "07 ngày làm việc",
+    "answer": "b",
+    "explanation": "Theo khoản 6 Điều 44 Nghị định 104/2025/NĐ-CP, UBND cấp xã phải gửi văn bản xác nhận về thời gian và kết quả niêm yết trong thời hạn 03 ngày làm việc kể từ ngày kết thúc niêm yết."
+  },
+  {
+    "question": "Sau khi đã có xác nhận kết quả niêm yết nhưng trước thời điểm công chứng văn bản phân chia di sản mà phát sinh khiếu nại thì công chứng viên phải làm gì?",
+    "a": "Vẫn tiếp tục công chứng",
+    "b": "Chuyển hồ sơ cho Tòa án",
+    "c": "Tạm dừng việc công chứng để xử lý thông tin",
+    "d": "Hủy hồ sơ công chứng",
+    "answer": "c",
+    "explanation": "Theo khoản 6 Điều 44 Nghị định 104/2025/NĐ-CP, nếu nhận được khiếu nại, tố cáo trước thời điểm công chứng thì công chứng viên phải tạm dừng việc công chứng để xử lý thông tin."
+  },
+  {
+    "question": "Người yêu cầu công bố di chúc phải là ai?",
+    "a": "Bất kỳ người nào biết về di chúc",
+    "b": "Người quản lý di sản",
+    "c": "Người thừa kế của người lập di chúc",
+    "d": "Công chứng viên khác",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 45 Nghị định 104/2025/NĐ-CP, người yêu cầu công bố di chúc phải là người thừa kế của người lập di chúc."
+  },
+  {
+    "question": "Di chúc được lập bằng tiếng nước ngoài muốn công bố thì phải thực hiện thủ tục nào trước?",
+    "a": "Hợp pháp hóa lãnh sự",
+    "b": "Dịch ra tiếng Việt và chứng thực chữ ký người dịch",
+    "c": "Xin xác nhận của Bộ Tư pháp",
+    "d": "Niêm yết công khai trước",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 3 Điều 45 Nghị định 104/2025/NĐ-CP, di chúc lập bằng tiếng nước ngoài phải được dịch ra tiếng Việt và chứng thực chữ ký người dịch trước khi công bố."
+  },
+  {
+    "question": "Chậm nhất bao lâu trước ngày tổ chức cuộc họp công bố di chúc, công chứng viên phải thông báo cho những người liên quan?",
+    "a": "02 ngày làm việc",
+    "b": "03 ngày làm việc",
+    "c": "05 ngày làm việc",
+    "d": "07 ngày làm việc",
+    "answer": "c",
+    "explanation": "Theo điểm c khoản 3 Điều 45 Nghị định 104/2025/NĐ-CP, chậm nhất 05 ngày làm việc trước ngày tổ chức cuộc họp công bố di chúc, công chứng viên phải thông báo bằng văn bản."
+  },
+  {
+    "question": "Theo quy định, cuộc họp công bố di chúc có thể được tổ chức theo hình thức nào?",
+    "a": "Chỉ trực tiếp",
+    "b": "Chỉ trực tuyến",
+    "c": "Trực tiếp hoặc trực tuyến",
+    "d": "Qua điện thoại",
+    "answer": "c",
+    "explanation": "Theo điểm d khoản 3 Điều 45 Nghị định 104/2025/NĐ-CP, cuộc họp công bố di chúc có thể được thực hiện với sự có mặt trực tiếp hoặc trực tuyến của những người liên quan."
+  },
+  {
+    "question": "Người đã được thông báo hợp lệ nhưng không tham dự cuộc họp công bố di chúc thì xử lý thế nào?",
+    "a": "Phải hoãn cuộc họp",
+    "b": "Phải lập lại thủ tục thông báo",
+    "c": "Cuộc họp vẫn được tiến hành",
+    "d": "Hủy việc công bố di chúc",
+    "answer": "c",
+    "explanation": "Theo điểm d khoản 3 Điều 45 Nghị định 104/2025/NĐ-CP, người đã được thông báo mà không tham dự thì cuộc họp vẫn được tiến hành."
+  },
+  {
+    "question": "Sau cuộc họp công bố di chúc, bản gốc di chúc được giao cho ai?",
+    "a": "UBND cấp xã",
+    "b": "Sở Tư pháp",
+    "c": "Người được chỉ định giữ bản gốc",
+    "d": "Tất cả người thừa kế",
+    "answer": "c",
+    "explanation": "Theo điểm g khoản 3 Điều 45 Nghị định 104/2025/NĐ-CP, bản gốc di chúc được giao cho người được chỉ định giữ bản gốc trong di chúc hoặc hồ sơ lưu giữ di chúc."
+  },
+  {
+    "question": "Trong trường hợp công bố di chúc không thông qua cuộc họp công khai, nếu sau 05 ngày làm việc kể từ ngày gửi bản sao di chúc không có phản hồi thì công chứng viên được làm gì?",
+    "a": "Hủy di chúc",
+    "b": "Bàn giao bản gốc di chúc",
+    "c": "Niêm yết lại từ đầu",
+    "d": "Chuyển hồ sơ cho Tòa án",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 4 Điều 45 Nghị định 104/2025/NĐ-CP, nếu hết 05 ngày làm việc kể từ ngày gửi bản sao di chúc mà không có phản hồi thì công chứng viên bàn giao bản gốc di chúc."
+  },
+  {
+    "question": "Ảnh chụp công chứng viên chứng kiến việc ký văn bản công chứng phải đáp ứng yêu cầu nào?",
+    "a": "Được chỉnh sửa để rõ nét hơn",
+    "b": "Có thể cắt ghép nếu được các bên đồng ý",
+    "c": "Không được cắt ghép, chỉnh sửa, thêm bớt chi tiết",
+    "d": "Chỉ cần nhận diện được công chứng viên",
+    "answer": "c",
+    "explanation": "Theo điểm b khoản 1 Điều 46 Nghị định 104/2025/NĐ-CP, ảnh chụp không được cắt ghép, chỉnh sửa, thêm, bớt chi tiết hoặc bối cảnh."
+  },
+  {
+    "question": "Theo quy định, ảnh chụp công chứng có thể được in trên loại giấy nào?",
+    "a": "Chỉ giấy ảnh chuyên dụng",
+    "b": "Giấy A5",
+    "c": "Giấy A4 hoặc giấy in ảnh chuyên dụng",
+    "d": "Bất kỳ loại giấy nào",
+    "answer": "c",
+    "explanation": "Theo điểm c khoản 1 Điều 46 Nghị định 104/2025/NĐ-CP, ảnh được in màu hoặc đen trắng trên giấy A4; nếu dùng giấy in ảnh chuyên dụng thì kích thước tối thiểu là 13x18cm."
+  },
+  {
+    "question": "Trường hợp điểm chỉ thay cho ký thì việc chụp ảnh được thực hiện như thế nào?",
+    "a": "Không bắt buộc chụp ảnh",
+    "b": "Chỉ chụp người điểm chỉ",
+    "c": "Thực hiện như quy định đối với việc ký",
+    "d": "Chỉ cần quay phim",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 46 Nghị định 104/2025/NĐ-CP, việc chụp ảnh công chứng viên chứng kiến việc điểm chỉ được thực hiện như đối với việc ký."
+  },
+  {
+    "question": "Nếu có người phiên dịch tham gia công chứng thì việc chụp ảnh được thực hiện thế nào?",
+    "a": "Không cần chụp ảnh người phiên dịch",
+    "b": "Chỉ chụp khi người yêu cầu đồng ý",
+    "c": "Phải chụp ảnh người phiên dịch ký hoặc điểm chỉ trước sự chứng kiến của công chứng viên",
+    "d": "Chỉ lưu bản dịch",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 46 Nghị định 104/2025/NĐ-CP, việc chụp ảnh người phiên dịch ký hoặc điểm chỉ trước sự chứng kiến của công chứng viên được thực hiện theo quy định."
+  },
+  {
+    "question": "Trường hợp nhiều người tham gia giao dịch ký tại cùng thời điểm và cùng địa điểm thì được phép chụp ảnh như thế nào?",
+    "a": "Chỉ được chụp riêng từng người",
+    "b": "Chỉ được chụp ảnh chung",
+    "c": "Có thể chụp riêng từng người hoặc chụp chung",
+    "d": "Không cần chụp ảnh",
+    "answer": "c",
+    "explanation": "Theo khoản 4 Điều 46 Nghị định 104/2025/NĐ-CP, có thể chụp ảnh từng người hoặc chụp ảnh chung tất cả những người ký trước sự chứng kiến của công chứng viên."
+  },
+  {
+    "question": "Ảnh chụp trong hồ sơ công chứng được xác định là gì?",
+    "a": "Tài liệu tham khảo",
+    "b": "Thành phần của hồ sơ công chứng",
+    "c": "Tài liệu nội bộ không lưu trữ",
+    "d": "Tài liệu bổ sung không bắt buộc",
+    "answer": "b",
+    "explanation": "Theo khoản 5 Điều 46 Nghị định 104/2025/NĐ-CP, ảnh chụp là một thành phần của hồ sơ công chứng."
+  },
+  {
+    "question": "Theo quy định, việc quay phim quá trình ký văn bản công chứng được thực hiện khi nào?",
+    "a": "Bắt buộc trong mọi trường hợp",
+    "b": "Khi Sở Tư pháp yêu cầu",
+    "c": "Khi người yêu cầu công chứng và công chứng viên thấy cần thiết",
+    "d": "Chỉ áp dụng với di chúc",
+    "answer": "c",
+    "explanation": "Theo khoản 6 Điều 46 Nghị định 104/2025/NĐ-CP, việc quay phim được thực hiện khi người yêu cầu công chứng và công chứng viên thấy cần thiết."
+  },
+  {
+    "question": "Tình huống: Ông A là sĩ quan quân đội đang trực chiến tại đơn vị, không thể rời vị trí công tác để đến Văn phòng công chứng ký hợp đồng ủy quyền. Theo quy định, trường hợp này:",
+    "a": "Không được công chứng ngoài trụ sở vì không thuộc trường hợp đặc biệt",
+    "b": "Được công chứng ngoài trụ sở do đang thực hiện nhiệm vụ mà việc rời vị trí ảnh hưởng công việc",
+    "c": "Chỉ được công chứng nếu có xác nhận của UBND cấp xã",
+    "d": "Chỉ được công chứng tại doanh trại quân đội",
+    "answer": "b",
+    "explanation": "Theo điểm c khoản 1 Điều 43 Nghị định 104/2025/NĐ-CP, người đang thực hiện nhiệm vụ trong lực lượng công an, quân đội hoặc công việc mà việc rời vị trí ảnh hưởng nhiệm vụ được xem là lý do chính đáng để công chứng ngoài trụ sở."
+  },
+  {
+    "question": "Tình huống: Công chứng viên nhận yêu cầu công chứng ngoài trụ sở tại một quán cà phê do người yêu cầu thấy tiện trao đổi công việc. Người này hoàn toàn khỏe mạnh, đi lại bình thường. Công chứng viên xử lý thế nào?",
+    "a": "Được thực hiện vì pháp luật không cấm",
+    "b": "Được thực hiện nếu các bên tự nguyện",
+    "c": "Không được thực hiện vì không có lý do chính đáng",
+    "d": "Được thực hiện nếu lập biên bản riêng",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 43 Nghị định 104/2025/NĐ-CP, công chứng ngoài trụ sở chỉ áp dụng cho các trường hợp có lý do chính đáng theo quy định."
+  },
+  {
+    "question": "Theo quy định, nội dung văn bản niêm yết việc tiếp nhận công chứng văn bản phân chia di sản phải có nội dung nào sau đây?",
+    "a": "Lịch sử giao dịch tài sản",
+    "b": "Danh mục di sản thừa kế",
+    "c": "Thông tin tài khoản ngân hàng của người chết",
+    "d": "Quan điểm của công chứng viên",
+    "answer": "b",
+    "explanation": "Theo khoản 5 Điều 44 Nghị định 104/2025/NĐ-CP, nội dung niêm yết phải có danh mục di sản thừa kế."
+  },
+  {
+    "question": "Tình huống: Người để lại di sản có nơi thường trú cuối cùng tại Nhật Bản và không xác định được nơi cư trú cuối cùng tại Việt Nam. Tổ chức hành nghề công chứng phải thực hiện niêm yết như thế nào?",
+    "a": "Niêm yết tại nơi có tài sản",
+    "b": "Niêm yết tại Bộ Tư pháp",
+    "c": "Đề nghị Sở Tư pháp đăng tải trên Cổng thông tin điện tử",
+    "d": "Không cần niêm yết",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 44 Nghị định 104/2025/NĐ-CP, nếu không xác định được nơi cư trú cuối cùng tại Việt Nam thì tổ chức hành nghề công chứng gửi văn bản đề nghị Sở Tư pháp đăng tải trên Cổng thông tin điện tử."
+  },
+  {
+    "question": "Theo quy định, UBND cấp xã khi nhận đề nghị niêm yết việc phân chia di sản:",
+    "a": "Được yêu cầu bổ sung thêm hồ sơ ngoài quy định",
+    "b": "Có quyền từ chối nếu không phải người địa phương",
+    "c": "Không được yêu cầu giấy tờ, tài liệu khác",
+    "d": "Phải xin ý kiến Sở Tư pháp trước khi niêm yết",
+    "answer": "c",
+    "explanation": "Theo khoản 6 Điều 44 Nghị định 104/2025/NĐ-CP, UBND cấp xã không được yêu cầu thêm giấy tờ, tài liệu khác khi nhận đề nghị niêm yết."
+  },
+  {
+    "question": "Tình huống: Sau khi hết thời hạn niêm yết và đã có xác nhận kết quả niêm yết, một người xuất hiện cho rằng mình là con ruột của người để lại di sản và bị bỏ sót. Việc công chứng văn bản phân chia di sản phải xử lý thế nào?",
+    "a": "Tiếp tục công chứng bình thường",
+    "b": "Tạm dừng công chứng để xử lý thông tin",
+    "c": "Hủy toàn bộ hồ sơ ngay lập tức",
+    "d": "Chỉ ghi nhận ý kiến mà không ảnh hưởng việc công chứng",
+    "answer": "b",
+    "explanation": "Theo khoản 6 Điều 44 Nghị định 104/2025/NĐ-CP, khi phát sinh khiếu nại, tố cáo trước thời điểm công chứng thì công chứng viên phải tạm dừng việc công chứng."
+  },
+  {
+    "question": "Theo quy định, người yêu cầu công bố di chúc phải xuất trình giấy tờ nào chứng minh người lập di chúc đã chết?",
+    "a": "Giấy xác nhận cư trú",
+    "b": "Giấy chứng tử hoặc giấy tờ khác theo quy định pháp luật",
+    "c": "Biên bản họp gia đình",
+    "d": "Sổ hộ khẩu",
+    "answer": "b",
+    "explanation": "Theo khoản 5 Điều 45 Nghị định 104/2025/NĐ-CP, hồ sơ công bố di chúc phải có giấy chứng tử hoặc giấy tờ khác chứng minh người lập di chúc đã chết."
+  },
+  {
+    "question": "Tình huống: Người lập di chúc đã chỉ định rõ công chứng viên B tại chính tổ chức đang lưu giữ di chúc là người công bố di chúc. Trường hợp này:",
+    "a": "Tổ chức hành nghề công chứng phải phân công công chứng viên khác",
+    "b": "Công chứng viên B được thực hiện công bố di chúc",
+    "c": "Phải chuyển hồ sơ cho Sở Tư pháp",
+    "d": "Di chúc không còn giá trị",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 45 Nghị định 104/2025/NĐ-CP, nếu người lập di chúc đã chỉ định công chứng viên đang hành nghề tại tổ chức đó thì công chứng viên được chỉ định thực hiện việc công bố di chúc."
+  },
+  {
+    "question": "Theo quy định, bản sao di chúc gửi cho người liên quan phải:",
+    "a": "Có công chứng của UBND cấp xã",
+    "b": "Có xác nhận và đóng dấu của tổ chức hành nghề công chứng",
+    "c": "Được Bộ Tư pháp xác nhận",
+    "d": "Có chữ ký của tất cả người thừa kế",
+    "answer": "b",
+    "explanation": "Theo điểm e khoản 3 Điều 45 và điểm b khoản 4 Điều 45 Nghị định 104/2025/NĐ-CP, bản sao di chúc phải có xác nhận và đóng dấu của tổ chức hành nghề công chứng."
+  },
+  {
+    "question": "Tình huống: Người đã được gửi bản sao di chúc nhưng nghi ngờ có sửa đổi nội dung nên yêu cầu đối chiếu với bản gốc. Theo quy định:",
+    "a": "Không được đối chiếu vì là tài liệu lưu mật",
+    "b": "Chỉ Tòa án mới có quyền đối chiếu",
+    "c": "Người nhận bản sao có quyền yêu cầu đối chiếu với bản gốc",
+    "d": "Phải có sự đồng ý của tất cả người thừa kế",
+    "answer": "c",
+    "explanation": "Theo điểm e khoản 3 và điểm c khoản 4 Điều 45 Nghị định 104/2025/NĐ-CP, người nhận bản sao di chúc có quyền yêu cầu đối chiếu với bản gốc."
+  },
+  {
+    "question": "Theo quy định, cuộc họp công bố di chúc kết thúc phải được lập thành gì?",
+    "a": "Thông báo nội bộ",
+    "b": "Biên bản và lưu trong hồ sơ lưu giữ di chúc",
+    "c": "Nghị quyết của tổ chức hành nghề công chứng",
+    "d": "Biên bản hòa giải",
+    "answer": "b",
+    "explanation": "Theo điểm h khoản 3 Điều 45 Nghị định 104/2025/NĐ-CP, cuộc họp phải được lập thành biên bản và lưu giữ trong hồ sơ lưu giữ di chúc."
+  },
+  {
+    "question": "Tình huống: Ảnh chụp công chứng viên chứng kiến ký hợp đồng bị chỉnh sửa ánh sáng và ghép thêm bối cảnh để nhìn chuyên nghiệp hơn. Theo quy định:",
+    "a": "Được phép nếu nội dung không thay đổi",
+    "b": "Được phép nếu các bên đồng ý",
+    "c": "Không phù hợp quy định",
+    "d": "Chỉ bị cấm với ảnh màu",
+    "answer": "c",
+    "explanation": "Theo điểm b khoản 1 Điều 46 Nghị định 104/2025/NĐ-CP, ảnh chụp không được cắt ghép, chỉnh sửa, thêm bớt chi tiết hoặc bối cảnh."
+  },
+  {
+    "question": "Theo quy định, ảnh chụp công chứng phải nhận diện được ai?",
+    "a": "Chỉ người ký",
+    "b": "Chỉ công chứng viên",
+    "c": "Người ký văn bản công chứng và công chứng viên",
+    "d": "Người phiên dịch",
+    "answer": "c",
+    "explanation": "Theo điểm a khoản 1 Điều 46 Nghị định 104/2025/NĐ-CP, ảnh chụp phải nhận diện được người ký văn bản công chứng và công chứng viên thực hiện việc công chứng."
+  },
+  {
+    "question": "Tình huống: Ba người cùng ký hợp đồng tại ba địa điểm khác nhau do ở các tỉnh khác nhau. Việc chụp ảnh phải thực hiện thế nào?",
+    "a": "Chỉ cần chụp một ảnh đại diện",
+    "b": "Chụp tại từng thời điểm, địa điểm tương ứng",
+    "c": "Không cần chụp vì không cùng địa điểm",
+    "d": "Chỉ chụp công chứng viên",
+    "answer": "b",
+    "explanation": "Theo khoản 4 Điều 46 Nghị định 104/2025/NĐ-CP, nếu nhiều người ký tại các thời điểm hoặc địa điểm khác nhau thì phải chụp ảnh tương ứng tại từng thời điểm, địa điểm."
+  },
+  {
+    "question": "Theo quy định, tư liệu quay phim quá trình ký văn bản công chứng được xác định là:",
+    "a": "Tài liệu tham khảo cá nhân",
+    "b": "Thành phần của hồ sơ công chứng",
+    "c": "Tài liệu nội bộ không cần lưu trữ",
+    "d": "Tài liệu do Sở Tư pháp quản lý",
+    "answer": "b",
+    "explanation": "Theo khoản 6 Điều 46 Nghị định 104/2025/NĐ-CP, tư liệu hình ảnh quay phim là một thành phần của hồ sơ công chứng."
+  },
+  {
+    "question": "Theo quy định về công bố di chúc thông qua cuộc họp công khai, chậm nhất bao nhiêu ngày làm việc trước ngày tổ chức cuộc họp, công chứng viên phải thông báo bằng văn bản cho những người liên quan?",
+    "a": "03 ngày làm việc",
+    "b": "05 ngày làm việc",
+    "c": "07 ngày làm việc",
+    "d": "10 ngày làm việc",
+    "answer": "b",
+    "explanation": "ThAeo điểm c khoản 3 Điều 45 Nghị định 104/2025/NĐ-CP, chậm nhất là 05 ngày làm việc trước ngày tổ chức cuộc họp công bố di chúc, công chứng viên phải thông báo bằng văn bản cho những người liên quan."
+  },
+  {
+    "question": "Trong trường hợp công bố di chúc không thông qua cuộc họp công khai, nếu sau bao lâu kể từ ngày gửi bản sao di chúc mà không có ý kiến phản hồi thì công chứng viên được bàn giao bản gốc di chúc?",
+    "a": "03 ngày làm việc",
+    "b": "05 ngày làm việc",
+    "c": "07 ngày làm việc",
+    "d": "10 ngày làm việc",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 4 Điều 45 Nghị định 104/2025/NĐ-CP, trong thời hạn 05 ngày làm việc kể từ ngày gửi bản sao di chúc mà không có ý kiến phản hồi thì công chứng viên bàn giao bản gốc di chúc."
+  },
+  {
+    "question": "Sau khi kết thúc việc niêm yết văn bản phân chia di sản, UBND cấp xã phải gửi văn bản xác nhận thời gian và kết quả niêm yết cho tổ chức hành nghề công chứng trong thời hạn bao lâu?",
+    "a": "01 ngày làm việc",
+    "b": "02 ngày làm việc",
+    "c": "03 ngày làm việc",
+    "d": "05 ngày làm việc",
+    "answer": "c",
+    "explanation": "Theo khoản 6 Điều 44 Nghị định 104/2025/NĐ-CP, UBND cấp xã phải gửi văn bản xác nhận về thời gian, kết quả niêm yết trong thời hạn 03 ngày làm việc kể từ ngày kết thúc việc niêm yết."
+  },
+  {
+    "question": "Sở Tư pháp phải thực hiện việc đăng tải văn bản niêm yết trên Cổng thông tin điện tử trong thời hạn bao lâu kể từ ngày nhận được đề nghị của tổ chức hành nghề công chứng?",
+    "a": "01 ngày làm việc",
+    "b": "02 ngày làm việc",
+    "c": "03 ngày làm việc",
+    "d": "05 ngày làm việc",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 44 Nghị định 104/2025/NĐ-CP, trong thời hạn 03 ngày làm việc kể từ ngày nhận được văn bản đề nghị, Sở Tư pháp phải thực hiện việc đăng tải."
+  },
+  {
+    "question": "Tình huống: Sau khi UBND cấp xã đã xác nhận hoàn tất việc niêm yết phân chia di sản nhưng trước thời điểm ký công chứng, Văn phòng công chứng nhận được tố cáo có người thừa kế bị bỏ sót. Công chứng viên phải xử lý thế nào?",
+    "a": "Tiếp tục công chứng vì đã hết thời hạn niêm yết",
+    "b": "Tạm dừng việc công chứng để xử lý thông tin",
+    "c": "Chỉ ghi nhận ý kiến rồi tiếp tục công chứng",
+    "d": "Chuyển ngay hồ sơ cho Tòa án",
+    "answer": "b",
+    "explanation": "Theo khoản 6 Điều 44 Nghị định 104/2025/NĐ-CP, nếu nhận được khiếu nại, tố cáo sau khi có xác nhận niêm yết nhưng trước thời điểm công chứng thì công chứng viên phải tạm dừng việc công chứng để xử lý thông tin."
+  },
+  {
+    "question": "Tình huống: Người lập di chúc có di sản là nhà đất tại Đồng Nai nhưng nơi thường trú cuối cùng tại TP.HCM. Khi niêm yết văn bản phân chia di sản, việc niêm yết phải thực hiện ở đâu?",
+    "a": "Chỉ tại nơi có bất động sản",
+    "b": "Chỉ tại nơi thường trú cuối cùng",
+    "c": "Tại nơi thường trú cuối cùng và nơi có bất động sản",
+    "d": "Tại Sở Tư pháp nơi có tổ chức hành nghề công chứng",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 44 Nghị định 104/2025/NĐ-CP, trường hợp di sản gồm bất động sản thì việc niêm yết được thực hiện tại nơi thường trú hoặc tạm trú cuối cùng và tại UBND cấp xã nơi có bất động sản."
+  },
+  {
+    "question": "Theo quy định về chụp ảnh công chứng, ảnh chụp phải được in trên loại giấy nào?",
+    "a": "Giấy A3",
+    "b": "Giấy A5",
+    "c": "Giấy A4 hoặc giấy in ảnh chuyên dụng đạt kích thước tối thiểu",
+    "d": "Giấy bất kỳ do tổ chức hành nghề công chứng lựa chọn",
+    "answer": "c",
+    "explanation": "Theo điểm c khoản 1 Điều 46 Nghị định 104/2025/NĐ-CP, ảnh chụp phải được in màu hoặc đen trắng trên giấy A4; trường hợp dùng giấy in ảnh chuyên dụng thì kích thước tối thiểu là 13cm x 18cm."
+  },
+  {
+    "question": "Theo quy định, ảnh chụp công chứng viên chứng kiến việc ký văn bản công chứng phải đáp ứng yêu cầu nào sau đây?",
+    "a": "Có thể chỉnh sửa để tăng độ sắc nét",
+    "b": "Có thể cắt ghép nếu được các bên đồng ý",
+    "c": "Không được cắt ghép, chỉnh sửa, thêm bớt chi tiết",
+    "d": "Chỉ cần nhận diện được người ký",
+    "answer": "c",
+    "explanation": "Theo điểm b khoản 1 Điều 46 Nghị định 104/2025/NĐ-CP, ảnh chụp không được cắt ghép, chỉnh sửa, thêm, bớt chi tiết hoặc bối cảnh."
+  },
+  {
+    "question": "Tình huống: Hai bên ký hợp đồng chuyển nhượng quyền sử dụng đất tại hai địa điểm khác nhau trong cùng một ngày. Việc chụp ảnh được thực hiện như thế nào?",
+    "a": "Chỉ cần chụp một ảnh chung cuối cùng",
+    "b": "Chụp ảnh tại từng thời điểm, địa điểm ký tương ứng",
+    "c": "Không cần chụp ảnh nếu đã điểm chỉ",
+    "d": "Chỉ cần quay video là đủ",
+    "answer": "b",
+    "explanation": "Theo khoản 4 Điều 46 Nghị định 104/2025/NĐ-CP, nếu nhiều người ký tại các thời điểm hoặc địa điểm khác nhau thì phải chụp ảnh tại các thời điểm hoặc địa điểm tương ứng."
+  },
+  {
+    "question": "Theo quy định, tư liệu quay phim quá trình ký văn bản công chứng được xem là gì?",
+    "a": "Tài liệu tham khảo nội bộ",
+    "b": "Tài liệu lưu hành công khai",
+    "c": "Một thành phần của hồ sơ công chứng",
+    "d": "Tài liệu không có giá trị pháp lý",
+    "answer": "c",
+    "explanation": "Theo khoản 6 Điều 46 Nghị định 104/2025/NĐ-CP, tư liệu hình ảnh quay phim là một thành phần của hồ sơ công chứng."
+  },
+  {
+    "question": "Tình huống: Một phụ nữ đang nuôi con 08 tháng tuổi đề nghị công chứng hợp đồng tại nhà. Theo quy định, đây có được xem là lý do chính đáng để công chứng ngoài trụ sở không?",
+    "a": "Không, vì phải có giấy xác nhận y tế",
+    "b": "Không, chỉ áp dụng cho người bệnh nặng",
+    "c": "Có",
+    "d": "Chỉ khi được Sở Tư pháp đồng ý",
+    "answer": "c",
+    "explanation": "Theo điểm a khoản 1 Điều 43 Nghị định 104/2025/NĐ-CP, phụ nữ đang nuôi con nhỏ dưới 12 tháng tuổi là trường hợp được công chứng ngoài trụ sở."
+  },
+  {
+    "question": "Tình huống: Người yêu cầu công chứng đề nghị công chứng ngoài trụ sở tại một quán cà phê không liên quan đến lý do sức khỏe hay công việc. Theo quy định, công chứng viên nên xử lý thế nào?",
+    "a": "Đồng ý nếu các bên tự nguyện",
+    "b": "Đồng ý nếu có người làm chứng",
+    "c": "Từ chối vì địa điểm không phù hợp với lý do công chứng ngoài trụ sở",
+    "d": "Chỉ cần lập biên bản riêng",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 43 Nghị định 104/2025/NĐ-CP, việc công chứng ngoài trụ sở phải được thực hiện tại địa điểm có địa chỉ cụ thể, phù hợp với lý do yêu cầu công chứng ngoài trụ sở."
+  },
+  {
+    "question": "Theo quy định, người nhận được bản sao di chúc có quyền nào sau đây?",
+    "a": "Yêu cầu sửa đổi nội dung di chúc",
+    "b": "Yêu cầu đối chiếu với bản gốc di chúc",
+    "c": "Yêu cầu hủy bỏ việc lưu giữ di chúc",
+    "d": "Tự ý công bố di chúc cho người khác",
+    "answer": "b",
+    "explanation": "Theo điểm e khoản 3 và điểm c khoản 4 Điều 45 Nghị định 104/2025/NĐ-CP, người nhận bản sao di chúc có quyền yêu cầu đối chiếu với bản gốc di chúc."
+  },
+  {
+    "question": "Tình huống: Di chúc được lập bằng tiếng Nhật và đang được lưu giữ tại Văn phòng công chứng. Trước khi công bố di chúc, cần thực hiện thủ tục nào?",
+    "a": "Xin xác nhận của Sở Ngoại vụ",
+    "b": "Dịch ra tiếng Việt và chứng thực chữ ký người dịch",
+    "c": "Chỉ cần người thừa kế hiểu nội dung",
+    "d": "Không cần dịch nếu có bản photo",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 3 Điều 45 Nghị định 104/2025/NĐ-CP, di chúc lập bằng tiếng nước ngoài phải được dịch ra tiếng Việt và chứng thực chữ ký người dịch trước khi công bố."
+  },
+ {
  "question": "Theo quy định, Hội công chứng viên hoạt động theo nguyên tắc nào sau đây?",
     "a": "Tự quản, công khai, minh bạch, phi lợi nhuận",
     "b": "Phụ thuộc hoàn toàn vào ngân sách nhà nước",
