@@ -341,7 +341,7 @@ function filterResult(type) {
         background-color: ${bgColor};
         border-bottom: 1px solid #eee;
         white-space: pre-wrap;
-        line-height: 0.5;
+        line-height: 0.9;
         font-family: Arial, sans-serif;
         font-size: 14px;
       ">
