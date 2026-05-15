@@ -7871,6 +7871,493 @@
     "answer": "b",
     "explanation": "Căn cứ khoản 6 Điều 6 Nghị định 104/2025/NĐ-CP: Tổ chức hành nghề công chứng phải báo cáo kịp thời bằng văn bản cho Sở Tư pháp khi phát hiện công chứng viên thuộc trường hợp bị miễn nhiệm hoặc đương nhiên miễn nhiệm."
   },
+ 
+  {
+    "question": "Theo quy định về văn bản công chứng điện tử, văn bản công chứng giấy được chuyển đổi thành văn bản điện tử được coi là văn bản công chứng điện tử khi nào?",
+    "a": "Chỉ cần scan thành file PDF",
+    "b": "Có chữ ký của người yêu cầu công chứng",
+    "c": "Có chữ ký số của công chứng viên và tổ chức hành nghề công chứng",
+    "d": "Được lưu trên máy chủ của Sở Tư pháp",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 47 Nghị định 104/2025/NĐ-CP, văn bản công chứng giấy được chuyển đổi thành văn bản điện tử phải có chữ ký số của công chứng viên và chữ ký số của tổ chức hành nghề công chứng thì mới được coi là văn bản công chứng điện tử."
+  },
+  {
+    "question": "Văn bản công chứng điện tử phải có yếu tố nào sau đây để kiểm tra tính xác thực?",
+    "a": "Dấu đỏ của Sở Tư pháp",
+    "b": "Mã hồ sơ giấy",
+    "c": "QR-Code hoặc đường link hoặc mã số hoặc hình thức ký hiệu riêng khác",
+    "d": "Ảnh chân dung công chứng viên",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 47 Nghị định 104/2025/NĐ-CP, văn bản công chứng điện tử phải có QR-Code hoặc đường link hoặc mã số hoặc hình thức ký hiệu riêng khác để thực hiện việc tham chiếu, kiểm tra tính xác thực."
+  },
+  {
+    "question": "Tình huống: Ông A thực hiện công chứng điện tử trực tuyến đối với di chúc có công chứng viên chứng kiến qua nền tảng điện tử. Việc công chứng này:",
+    "a": "Hợp pháp vì đã có công chứng viên chứng kiến",
+    "b": "Hợp pháp nếu có ghi hình",
+    "c": "Không được phép thực hiện",
+    "d": "Chỉ hợp pháp nếu được Sở Tư pháp chấp thuận",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 48 Nghị định 104/2025/NĐ-CP, công chứng điện tử trực tuyến không áp dụng đối với di chúc và giao dịch dân sự là hành vi pháp lý đơn phương khác."
+  },
+  {
+    "question": "Công chứng điện tử trực tiếp được áp dụng đối với:",
+    "a": "Chỉ giao dịch về bất động sản",
+    "b": "Chỉ hợp đồng dân sự song vụ",
+    "c": "Tất cả giao dịch dân sự",
+    "d": "Chỉ giao dịch thương mại",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 48 Nghị định 104/2025/NĐ-CP, công chứng điện tử trực tiếp được áp dụng đối với tất cả các giao dịch dân sự."
+  },
+  {
+    "question": "Theo quy định, công chứng viên thực hiện công chứng điện tử phải sử dụng chữ ký số như thế nào?",
+    "a": "Do doanh nghiệp bất kỳ cung cấp",
+    "b": "Do tổ chức cung cấp dịch vụ tin cậy của Việt Nam cung cấp",
+    "c": "Chỉ cần chữ ký scan",
+    "d": "Do Bộ Tư pháp cấp trực tiếp",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 49 Nghị định 104/2025/NĐ-CP, chữ ký số dùng để thực hiện công chứng điện tử phải do tổ chức cung cấp dịch vụ tin cậy của Việt Nam cung cấp theo quy định pháp luật."
+  },
+  {
+    "question": "Tình huống: Văn phòng công chứng X đã có chữ ký số nhưng chưa đăng ký chữ ký số tại Sở Tư pháp nơi đăng ký hoạt động. Văn phòng vẫn thực hiện công chứng điện tử. Theo quy định:",
+    "a": "Được phép nếu chữ ký số hợp lệ",
+    "b": "Được phép nếu có thông báo nội bộ",
+    "c": "Không đúng quy định",
+    "d": "Chỉ sai thủ tục hành chính, không ảnh hưởng hiệu lực",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 49 Nghị định 104/2025/NĐ-CP, công chứng viên và tổ chức hành nghề công chứng phải đăng ký chữ ký số để thực hiện công chứng điện tử tại Sở Tư pháp nơi tổ chức đăng ký hoạt động."
+  },
+  {
+    "question": "Người tham gia giao dịch công chứng điện tử được sử dụng loại chữ ký số nào?",
+    "a": "Bất kỳ chữ ký điện tử nào",
+    "b": "Chữ ký scan cá nhân",
+    "c": "Chữ ký số công cộng của Việt Nam hoặc chữ ký số nước ngoài được công nhận tại Việt Nam",
+    "d": "Chỉ được sử dụng VNeID",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 50 Nghị định 104/2025/NĐ-CP, người tham gia giao dịch công chứng điện tử sử dụng chữ ký số công cộng của Việt Nam hoặc chữ ký số, chứng thư chữ ký số nước ngoài được công nhận tại Việt Nam."
+  },
+  {
+    "question": "Nền tảng công chứng điện tử phải đáp ứng yêu cầu tối thiểu nào về định danh điện tử?",
+    "a": "Mức độ 1",
+    "b": "Mức độ 2",
+    "c": "Mức độ 3",
+    "d": "Không yêu cầu",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 1 Điều 51 Nghị định 104/2025/NĐ-CP, nền tảng công chứng điện tử phải có giải pháp sử dụng tài khoản định danh điện tử tối thiểu mức độ 2."
+  },
+  {
+    "question": "Theo quy định, nền tảng công chứng điện tử phải kết nối với cơ sở dữ liệu công chứng của địa phương nhằm mục đích gì?",
+    "a": "Lưu trữ dự phòng",
+    "b": "Đăng quảng cáo dịch vụ",
+    "c": "Cập nhật thông tin theo thời gian thực",
+    "d": "Theo dõi doanh thu công chứng",
+    "answer": "c",
+    "explanation": "Theo điểm đ khoản 1 Điều 51 Nghị định 104/2025/NĐ-CP, nền tảng công chứng điện tử phải kết nối với cơ sở dữ liệu công chứng của địa phương để cung cấp thông tin cập nhật theo thời gian thực."
+  },
+  {
+    "question": "Cơ sở dữ liệu công chứng, nền tảng công chứng điện tử và cổng tham chiếu dữ liệu công chứng phải đáp ứng tiêu chuẩn an toàn thông tin tối thiểu cấp độ nào?",
+    "a": "Cấp độ 1",
+    "b": "Cấp độ 2",
+    "c": "Cấp độ 3",
+    "d": "Cấp độ 4",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 51 Nghị định 104/2025/NĐ-CP, các hệ thống này phải đáp ứng tiêu chuẩn an toàn hệ thống thông tin tối thiểu là cấp độ 3."
+  },
+  {
+    "question": "Tình huống: Trong quy trình công chứng điện tử trực tiếp, sau khi đối chiếu giấy tờ thấy bảo đảm tính xác thực, công chứng viên phải làm gì?",
+    "a": "Trả lại giấy tờ và kết thúc quy trình",
+    "b": "Lưu ảnh chụp giấy tờ vào điện thoại cá nhân",
+    "c": "Chuyển đổi giấy tờ thành thông điệp dữ liệu và tải lên nền tảng công chứng điện tử",
+    "d": "Gửi ngay cho Sở Tư pháp",
+    "answer": "c",
+    "explanation": "Theo khoản 5 Điều 52 Nghị định 104/2025/NĐ-CP, công chứng viên phải chuyển đổi toàn bộ giấy tờ thành thông điệp dữ liệu và tải lên nền tảng công chứng điện tử để lưu trữ."
+  },
+  {
+    "question": "Trong công chứng điện tử trực tiếp, ai là người ký số vào lời chứng sau cùng?",
+    "a": "Người yêu cầu công chứng",
+    "b": "Nhân viên nghiệp vụ",
+    "c": "Công chứng viên",
+    "d": "Sở Tư pháp",
+    "answer": "c",
+    "explanation": "Theo khoản 7 Điều 52 Nghị định 104/2025/NĐ-CP, sau khi kiểm tra tính hợp lệ của chữ ký số của người tham gia giao dịch, công chứng viên ký số và gắn dấu thời gian vào lời chứng."
+  },
+  {
+    "question": "Tình huống: Trong công chứng điện tử trực tuyến có nhiều điểm cầu, công chứng viên khởi tạo giao dịch có trách nhiệm gì sau cùng?",
+    "a": "Ký thay toàn bộ các bên",
+    "b": "Kiểm tra tính hợp lệ chữ ký số của toàn bộ người tham gia và công chứng viên tại các điểm cầu",
+    "c": "Chỉ lưu hồ sơ giấy",
+    "d": "Chỉ xác minh nhân thân tại điểm cầu của mình",
+    "answer": "b",
+    "explanation": "Theo khoản 7 Điều 53 Nghị định 104/2025/NĐ-CP, công chứng viên khởi tạo giao dịch phải kiểm tra tính hợp lệ của toàn bộ chữ ký số trước khi ký số và gắn dấu thời gian vào lời chứng."
+  },
+  {
+    "question": "Theo quy định, tổ chức hành nghề công chứng nơi khởi tạo giao dịch công chứng điện tử trực tuyến có trách nhiệm nào sau đây?",
+    "a": "Lưu trữ hồ sơ công chứng điện tử",
+    "b": "Thu hồi chữ ký số của các bên",
+    "c": "Quản lý tài khoản VNeID",
+    "d": "Ban hành quy chế công chứng điện tử",
+    "answer": "a",
+    "explanation": "Theo khoản 2 Điều 61 Nghị định 104/2025/NĐ-CP, tổ chức hành nghề công chứng nơi khởi tạo giao dịch có trách nhiệm lưu trữ hồ sơ công chứng điện tử."
+  },
+  {
+    "question": "Tình huống: Văn phòng công chứng A thực hiện công chứng điện tử trực tuyến nhưng không chia sẻ quyền truy cập văn bản công chứng cho tổ chức hành nghề công chứng tại điểm cầu còn lại. Việc này:",
+    "a": "Đúng quy định",
+    "b": "Không đúng quy định",
+    "c": "Chỉ là lỗi kỹ thuật nhỏ",
+    "d": "Không ảnh hưởng vì đã ký số",
+    "answer": "b",
+    "explanation": "Theo khoản 9 Điều 53 Nghị định 104/2025/NĐ-CP, tổ chức hành nghề công chứng phải chia sẻ quyền truy cập văn bản công chứng cho công chứng viên và tổ chức hành nghề công chứng ở các điểm cầu còn lại."
+  },
+  {
+    "question": "Theo quy định, việc thu thập, khai thác, sử dụng thông tin trong cơ sở dữ liệu công chứng phải tuân thủ quy định nào?",
+    "a": "Chỉ Luật Công chứng",
+    "b": "Chỉ pháp luật về dữ liệu",
+    "c": "Pháp luật về bảo vệ dữ liệu cá nhân, đời sống riêng tư, bí mật cá nhân, bí mật gia đình",
+    "d": "Nội quy của từng Văn phòng công chứng",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 55 Nghị định 104/2025/NĐ-CP, việc thu thập, khai thác, sử dụng thông tin trong cơ sở dữ liệu công chứng phải tuân thủ các quy định về bảo vệ dữ liệu cá nhân, đời sống riêng tư, bí mật cá nhân, bí mật gia đình."
+  },
+  {
+    "question": "Cơ sở dữ liệu công chứng của Bộ Tư pháp được kết nối với cơ sở dữ liệu nào sau đây?",
+    "a": "Cơ sở dữ liệu quốc gia về dân cư",
+    "b": "Cơ sở dữ liệu đất đai",
+    "c": "Cơ sở dữ liệu thuế",
+    "d": "Tất cả các đáp án trên",
+    "answer": "d",
+    "explanation": "Theo khoản 2 Điều 56 Nghị định 104/2025/NĐ-CP, cơ sở dữ liệu công chứng được kết nối, chia sẻ với cơ sở dữ liệu quốc gia về dân cư, đất đai, nhà ở, thuế và các cơ sở dữ liệu liên quan."
+  },
+  {
+    "question": "Tình huống: Hồ sơ công chứng đã ở tình trạng kết thúc tại cơ sở dữ liệu địa phương. Bước tiếp theo trong quy trình đồng bộ dữ liệu là gì?",
+    "a": "Sở Tư pháp phê duyệt thủ công",
+    "b": "Tự động đồng bộ dữ liệu lên cơ sở dữ liệu công chứng của Bộ Tư pháp",
+    "c": "In hồ sơ giấy gửi Bộ Tư pháp",
+    "d": "Chuyển qua Hội công chứng viên",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 4 Điều 57 Nghị định 104/2025/NĐ-CP, cơ sở dữ liệu công chứng địa phương tự động đồng bộ dữ liệu lên cơ sở dữ liệu công chứng của Bộ Tư pháp."
+  },
+  {
+    "question": "Theo quy định, hồ sơ công chứng giấy phải được chuyển đổi thành thông điệp dữ liệu để lưu trữ điện tử đối với các giao dịch được thực hiện từ thời điểm nào?",
+    "a": "01/01/2025",
+    "b": "01/7/2025",
+    "c": "01/01/2026",
+    "d": "01/7/2026",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 59 Nghị định 104/2025/NĐ-CP, tổ chức hành nghề công chứng phải chuyển đổi hồ sơ công chứng giấy thành thông điệp dữ liệu đối với giao dịch công chứng được thực hiện từ ngày 01/7/2025."
+  },
+  {
+    "question": "Các thành phần hồ sơ giấy không phải là bản gốc hoặc bản chính sau khi đã chuyển đổi lưu trữ điện tử phải lưu ít nhất bao lâu?",
+    "a": "01 năm",
+    "b": "03 năm",
+    "c": "05 năm",
+    "d": "10 năm",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 59 Nghị định 104/2025/NĐ-CP, các thành phần hồ sơ giấy không phải là bản gốc, bản chính phải được lưu trữ ít nhất 05 năm."
+  },
+  {
+    "question": "Tình huống: Văn phòng công chứng B đã chuyển đổi hồ sơ giấy sang thông điệp dữ liệu nhưng chưa xác nhận bằng chữ ký số trước khi lưu trữ. Theo quy định:",
+    "a": "Vẫn hợp lệ vì đã scan đầy đủ",
+    "b": "Không đúng quy định",
+    "c": "Chỉ cần xác nhận bằng dấu treo",
+    "d": "Chỉ áp dụng với hồ sơ điện tử trực tuyến",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 59 Nghị định 104/2025/NĐ-CP, hồ sơ sau khi chuyển đổi phải được tổ chức hành nghề công chứng xác nhận bằng chữ ký số trước khi lưu trữ."
+  },
+  {
+    "question": "Theo quy định, hồ sơ công chứng điện tử phải được đồng bộ lên cơ sở dữ liệu công chứng theo:",
+    "a": "Định kỳ hàng tháng",
+    "b": "Định kỳ hàng quý",
+    "c": "Thời gian thực",
+    "d": "Khi có yêu cầu của Bộ Tư pháp",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 60 Nghị định 104/2025/NĐ-CP, hồ sơ công chứng điện tử phải được đồng bộ lên cơ sở dữ liệu công chứng theo thời gian thực."
+  },
+  {
+    "question": "Văn bản công chứng điện tử phải được lưu trữ dưới dạng nào?",
+    "a": "Bản giấy",
+    "b": "File scan JPG",
+    "c": "Thông điệp dữ liệu",
+    "d": "Ảnh chụp PDF không ký số",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 61 Nghị định 104/2025/NĐ-CP, hồ sơ công chứng điện tử được lưu trữ ở dạng thông điệp dữ liệu."
+  },
+  {
+    "question": "Tình huống: Người có quyền lợi liên quan yêu cầu tham chiếu văn bản công chứng điện tử nhưng người tham gia giao dịch không đồng ý. Tổ chức hành nghề công chứng xử lý thế nào?",
+    "a": "Vẫn phải cung cấp",
+    "b": "Được quyền từ chối",
+    "c": "Chỉ cần sự đồng ý của công chứng viên",
+    "d": "Phải xin ý kiến Sở Tư pháp",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 61 Nghị định 104/2025/NĐ-CP, người có quyền lợi, nghĩa vụ liên quan chỉ được tham chiếu khi có sự đồng ý của người tham gia giao dịch."
+  },
+  {
+    "question": "Theo quy định, văn bản sửa lỗi kỹ thuật đối với văn bản công chứng điện tử phải được xử lý như thế nào?",
+    "a": "Lưu riêng độc lập",
+    "b": "Đính kèm với văn bản công chứng điện tử và xuất hiện cùng khi tham chiếu",
+    "c": "Chỉ lưu tại Sở Tư pháp",
+    "d": "In giấy để lưu thủ công",
+    "answer": "b",
+    "explanation": "Theo khoản 5 Điều 47 Nghị định 104/2025/NĐ-CP, văn bản sửa lỗi kỹ thuật phải được đính kèm với văn bản công chứng điện tử và phải xuất hiện cùng văn bản công chứng điện tử khi được tham chiếu."
+  },
+  {
+    "question": "Tình huống: Công chứng viên sửa đổi nội dung giao dịch đã công chứng điện tử nhưng không đính kèm văn bản sửa đổi vào văn bản công chứng điện tử gốc. Việc này:",
+    "a": "Đúng nếu đã ký số",
+    "b": "Đúng nếu có lưu hồ sơ riêng",
+    "c": "Không đúng quy định",
+    "d": "Chỉ sai về kỹ thuật lưu trữ",
+    "answer": "c",
+    "explanation": "Theo khoản 6 Điều 47 Nghị định 104/2025/NĐ-CP, văn bản sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch phải được đính kèm với văn bản công chứng điện tử."
+  },
+  {
+    "question": "Theo quy định, tổ chức hành nghề công chứng cung cấp dịch vụ công chứng điện tử phải bảo đảm điều kiện nào?",
+    "a": "Có tối thiểu 05 công chứng viên",
+    "b": "Có máy tính, đường truyền mạng, thiết bị điện tử và điều kiện cần thiết khác",
+    "c": "Có phòng máy chủ riêng đạt chuẩn quốc tế",
+    "d": "Có xác nhận của Bộ Công an",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 49 Nghị định 104/2025/NĐ-CP, tổ chức hành nghề công chứng cung cấp dịch vụ công chứng điện tử phải bảo đảm điều kiện về máy tính, đường truyền mạng, thiết bị điện tử và điều kiện cần thiết khác."
+  },
+  {
+    "question": "Người tham gia giao dịch công chứng điện tử có thể được cấp chứng thư chữ ký số thông qua ứng dụng nào?",
+    "a": "Zalo",
+    "b": "Facebook",
+    "c": "VNeID hoặc ứng dụng khác theo quy định",
+    "d": "Email cá nhân",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 50 Nghị định 104/2025/NĐ-CP, tổ chức, cá nhân có thể được xác thực cấp chứng thư chữ ký số qua ứng dụng VNeID hoặc ứng dụng khác theo quy định."
+  },
+  {
+    "question": "Theo quy định, nền tảng công chứng điện tử khi cung cấp dịch vụ công chứng điện tử trực tuyến phải có giải pháp xác thực tài khoản định danh điện tử ở mức nào?",
+    "a": "Mức độ 1",
+    "b": "Mức độ 2 trở lên",
+    "c": "Mức độ 3",
+    "d": "Không yêu cầu mức độ",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 1 Điều 51 Nghị định 104/2025/NĐ-CP, nền tảng công chứng điện tử trực tuyến phải có giải pháp xác thực tài khoản định danh điện tử đáp ứng mức độ 02 trở lên."
+  },
+  {
+    "question": "Tình huống: Nền tảng công chứng điện tử không có chức năng video call nhưng vẫn triển khai công chứng điện tử trực tuyến. Theo quy định:",
+    "a": "Được phép nếu lưu file ghi âm",
+    "b": "Được phép nếu có xác thực OTP",
+    "c": "Không đáp ứng điều kiện",
+    "d": "Chỉ vi phạm kỹ thuật không đáng kể",
+    "answer": "c",
+    "explanation": "Theo điểm d khoản 1 Điều 51 Nghị định 104/2025/NĐ-CP, nền tảng công chứng điện tử phải có giải pháp công nghệ video call để hỗ trợ công chứng viên tương tác với người tham gia giao dịch."
+  },
+  {
+    "question": "Theo quy định, cổng tham chiếu dữ liệu công chứng là gì?",
+    "a": "Trang quản trị nội bộ của Sở Tư pháp",
+    "b": "Điểm truy cập chính thức để tham chiếu thông tin văn bản công chứng",
+    "c": "Kho lưu trữ hồ sơ giấy",
+    "d": "Hệ thống email nghiệp vụ",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 51 Nghị định 104/2025/NĐ-CP, cổng tham chiếu dữ liệu công chứng là điểm truy cập chính thức để tham chiếu thông tin văn bản công chứng và dữ liệu công chứng khác."
+  },
+  {
+    "question": "Trong công chứng điện tử trực tiếp, sau khi tổ chức hành nghề công chứng ký số và gắn dấu thời gian, bước tiếp theo là gì?",
+    "a": "Gửi hồ sơ cho Bộ Tư pháp",
+    "b": "Thu phí, giá dịch vụ và gửi văn bản công chứng điện tử cho người yêu cầu công chứng",
+    "c": "Niêm yết giao dịch",
+    "d": "In toàn bộ hồ sơ giấy",
+    "answer": "b",
+    "explanation": "Theo khoản 8 Điều 52 Nghị định 104/2025/NĐ-CP, tổ chức hành nghề công chứng thực hiện thu phí, giá dịch vụ và gửi văn bản công chứng điện tử cho người yêu cầu công chứng."
+  },
+  {
+    "question": "Tình huống: Trong công chứng điện tử trực tuyến, công chứng viên tại điểm cầu chỉ kiểm tra chữ ký số của người tham gia giao dịch tại điểm cầu khác mà không kiểm tra tại điểm cầu của mình. Việc này:",
+    "a": "Đúng quy định",
+    "b": "Không đúng quy định",
+    "c": "Được nếu có camera giám sát",
+    "d": "Được nếu có xác nhận của công chứng viên khởi tạo",
+    "answer": "b",
+    "explanation": "Theo khoản 7 Điều 53 Nghị định 104/2025/NĐ-CP, công chứng viên tại các điểm cầu phải kiểm tra tính hợp lệ của chữ ký số của người tham gia giao dịch đã ký trước sự chứng kiến của mình."
+  },
+  {
+    "question": "Theo quy định, công chứng viên khởi tạo giao dịch công chứng điện tử trực tuyến và công chứng viên tại các điểm cầu phải thỏa thuận bằng hình thức nào?",
+    "a": "Miệng",
+    "b": "Tin nhắn điện thoại",
+    "c": "Văn bản",
+    "d": "Email cá nhân không cần xác nhận",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 54 Nghị định 104/2025/NĐ-CP, các công chứng viên phải thỏa thuận bằng văn bản về phạm vi công việc, phí công chứng, trách nhiệm bồi thường thiệt hại và nội dung liên quan khác."
+  },
+  {
+    "question": "Theo quy định, quy chế quản lý, cập nhật, khai thác, sử dụng cơ sở dữ liệu công chứng phải quy định rõ nội dung nào?",
+    "a": "Mức lương công chứng viên",
+    "b": "Trách nhiệm cập nhật, khai thác, chia sẻ dữ liệu và chi phí sử dụng",
+    "c": "Định mức doanh thu tổ chức hành nghề công chứng",
+    "d": "Quy hoạch văn phòng công chứng",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 55 Nghị định 104/2025/NĐ-CP, quy chế phải quy định rõ trách nhiệm cập nhật, khai thác, sử dụng, chia sẻ cơ sở dữ liệu công chứng và chi phí khai thác, sử dụng."
+  },
+  {
+    "question": "Tình huống: Cơ sở dữ liệu công chứng địa phương đã hoàn tất đồng bộ dữ liệu lên Bộ Tư pháp. Bước tiếp theo là gì?",
+    "a": "In dữ liệu lưu giấy",
+    "b": "Tiếp nhận kết quả trả về",
+    "c": "Chờ xác nhận của UBND cấp tỉnh",
+    "d": "Gửi email xác nhận cho Sở Tư pháp",
+    "answer": "b",
+    "explanation": "Theo điểm c khoản 4 Điều 57 Nghị định 104/2025/NĐ-CP, sau khi đồng bộ dữ liệu, cơ sở dữ liệu công chứng địa phương tiếp nhận kết quả trả về."
+  },
+  {
+    "question": "Theo quy định, trường hợp tổ chức hành nghề công chứng bị giải thể có số lượng hồ sơ lớn không thể giao cho một tổ chức tiếp nhận thì ai phối hợp xem xét việc chỉ định nhiều tổ chức tiếp nhận?",
+    "a": "Bộ Tư pháp và UBND cấp tỉnh",
+    "b": "Sở Tư pháp và Hội công chứng viên",
+    "c": "Sở Nội vụ và Hội luật gia",
+    "d": "UBND cấp xã và Phòng Tư pháp",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 58 Nghị định 104/2025/NĐ-CP, Sở Tư pháp phối hợp với Hội công chứng viên xem xét cho phép thỏa thuận hoặc chỉ định một số tổ chức tiếp nhận hồ sơ."
+  },
+  {
+    "question": "Việc bàn giao hồ sơ công chứng của tổ chức hành nghề công chứng bị giải thể phải được lập thành gì?",
+    "a": "Thông báo nội bộ",
+    "b": "Danh sách điện tử",
+    "c": "Biên bản có sự chứng kiến của đại diện Sở Tư pháp và Hội công chứng viên",
+    "d": "Email xác nhận",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 58 Nghị định 104/2025/NĐ-CP, việc bàn giao hồ sơ phải được lập thành biên bản có sự chứng kiến của đại diện Sở Tư pháp và đại diện Hội công chứng viên."
+  },
+  {
+    "question": "Tình huống: Văn phòng công chứng bị chấm dứt hoạt động và không còn khả năng thanh toán chi phí lưu trữ hồ sơ công chứng. Theo quy định, kinh phí này do ai bảo đảm?",
+    "a": "Hiệp hội công chứng viên Việt Nam",
+    "b": "Ngân sách địa phương",
+    "c": "Người yêu cầu công chứng",
+    "d": "Bộ Tư pháp",
+    "answer": "b",
+    "explanation": "Theo khoản 4 Điều 58 Nghị định 104/2025/NĐ-CP, trường hợp tổ chức hành nghề công chứng không còn khả năng thanh toán kinh phí lưu trữ thì ngân sách địa phương bảo đảm."
+  },
+  {
+    "question": "Theo quy định, hồ sơ công chứng điện tử phải được đánh số thứ tự như thế nào?",
+    "a": "Theo tên công chứng viên",
+    "b": "Theo loại giao dịch",
+    "c": "Theo thứ tự thời gian phù hợp với việc thực hiện văn bản công chứng điện tử",
+    "d": "Theo địa bàn cấp huyện",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 60 Nghị định 104/2025/NĐ-CP, hồ sơ công chứng điện tử được đánh số thứ tự theo thứ tự thời gian phù hợp với việc thực hiện văn bản công chứng điện tử."
+  },
+  {
+    "question": "Tình huống: Tổ chức hành nghề công chứng nơi khởi tạo giao dịch công chứng điện tử trực tuyến từ chối sửa lỗi kỹ thuật của văn bản công chứng điện tử với lý do công chứng viên tại điểm cầu khác chịu trách nhiệm. Theo quy định:",
+    "a": "Đúng vì mỗi điểm cầu tự chịu trách nhiệm",
+    "b": "Không đúng quy định",
+    "c": "Chỉ đúng nếu có thỏa thuận trước",
+    "d": "Phải xin ý kiến Bộ Tư pháp",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 61 Nghị định 104/2025/NĐ-CP, tổ chức hành nghề công chứng nơi khởi tạo giao dịch có trách nhiệm sửa lỗi kỹ thuật, sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch."
+  },
+  {
+    "question": "Theo quy định, văn bản công chứng điện tử phải có khả năng tham chiếu theo yêu cầu của ai sau đây?",
+    "a": "Cơ quan nhà nước có thẩm quyền",
+    "b": "Công chứng viên đã thực hiện việc công chứng",
+    "c": "Người tham gia giao dịch",
+    "d": "Tất cả các đáp án trên",
+    "answer": "d",
+    "explanation": "Theo khoản 3 Điều 61 Nghị định 104/2025/NĐ-CP, văn bản công chứng điện tử phải có thể tham chiếu theo yêu cầu của cơ quan có thẩm quyền, công chứng viên, người tham gia giao dịch hoặc người có quyền lợi, nghĩa vụ liên quan."
+  },
+  {
+    "question": "Theo quy định, văn bản sửa lỗi kỹ thuật đối với văn bản công chứng điện tử phải được thực hiện như thế nào?",
+    "a": "Lập thành văn bản giấy riêng",
+    "b": "Lập thành trang văn bản có chữ ký số của công chứng viên và tổ chức hành nghề công chứng",
+    "c": "Chỉ cần ghi chú trên hệ thống",
+    "d": "Chỉ cần công chứng viên ký tay",
+    "answer": "b",
+    "explanation": "Theo khoản 5 Điều 47 Nghị định 104/2025/NĐ-CP, việc sửa lỗi kỹ thuật phải được lập thành trang văn bản có chữ ký số của công chứng viên và tổ chức hành nghề công chứng."
+  },
+  {
+    "question": "Tình huống: Văn bản sửa đổi hợp đồng đã được công chứng điện tử nhưng không được đính kèm với văn bản công chứng điện tử gốc khi tham chiếu. Theo quy định:",
+    "a": "Không ảnh hưởng giá trị pháp lý",
+    "b": "Chỉ cần lưu nội bộ",
+    "c": "Không đúng quy định",
+    "d": "Được chấp nhận nếu có xác nhận của Sở Tư pháp",
+    "answer": "c",
+    "explanation": "Theo khoản 6 Điều 47 Nghị định 104/2025/NĐ-CP, văn bản sửa đổi, bổ sung, chấm dứt hoặc hủy bỏ giao dịch phải được đính kèm và xuất hiện cùng văn bản công chứng điện tử khi tham chiếu."
+  },
+  {
+    "question": "Theo quy định, tổ chức cá nhân tham gia giao dịch công chứng điện tử có thể được cấp chứng thư chữ ký số thông qua ứng dụng nào?",
+    "a": "Google Drive",
+    "b": "VNeID",
+    "c": "Zalo",
+    "d": "Email cá nhân",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 50 Nghị định 104/2025/NĐ-CP, tổ chức, cá nhân có thể được xác thực cấp chứng thư chữ ký số qua ứng dụng VNeID hoặc ứng dụng khác theo quy định."
+  },
+  {
+    "question": "Tình huống: Nền tảng công chứng điện tử không có chức năng video call để công chứng viên tương tác với người tham gia giao dịch trực tuyến. Theo quy định:",
+    "a": "Vẫn được cung cấp dịch vụ công chứng điện tử",
+    "b": "Chỉ áp dụng với công chứng trực tiếp",
+    "c": "Không đáp ứng điều kiện của nền tảng công chứng điện tử",
+    "d": "Chỉ cần có chức năng ghi âm",
+    "answer": "c",
+    "explanation": "Theo điểm d khoản 1 Điều 51 Nghị định 104/2025/NĐ-CP, nền tảng công chứng điện tử phải có giải pháp video call hỗ trợ công chứng viên tương tác với người tham gia giao dịch."
+  },
+  {
+    "question": "Theo quy định, giao dịch công chứng điện tử trực tuyến được khởi tạo phải bao gồm tài khoản của ai?",
+    "a": "Chỉ tài khoản công chứng viên khởi tạo",
+    "b": "Tài khoản của các công chứng viên và người tham gia giao dịch",
+    "c": "Chỉ tài khoản người yêu cầu công chứng",
+    "d": "Tài khoản của Sở Tư pháp",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 53 Nghị định 104/2025/NĐ-CP, giao dịch công chứng điện tử trực tuyến phải gồm tài khoản của các công chứng viên và người tham gia giao dịch."
+  },
+  {
+    "question": "Tình huống: Trong công chứng điện tử trực tuyến, công chứng viên tại điểm cầu không chia sẻ quyền truy cập văn bản công chứng cho tổ chức hành nghề công chứng còn lại đã tham gia chứng nhận giao dịch. Theo quy định:",
+    "a": "Không cần chia sẻ",
+    "b": "Chỉ chia sẻ khi có tranh chấp",
+    "c": "Không đúng quy định",
+    "d": "Chỉ cần gửi email văn bản",
+    "answer": "c",
+    "explanation": "Theo khoản 9 Điều 53 Nghị định 104/2025/NĐ-CP, tổ chức hành nghề công chứng phải chia sẻ quyền truy cập văn bản công chứng cho các điểm cầu còn lại đã tham gia chứng nhận giao dịch."
+  },
+  {
+    "question": "Theo quy định, quy chế quản lý, cập nhật, khai thác cơ sở dữ liệu công chứng phải quy định rõ nội dung nào?",
+    "a": "Tiêu chuẩn bổ nhiệm công chứng viên",
+    "b": "Chi phí khai thác, sử dụng dữ liệu",
+    "c": "Mức lương công chứng viên",
+    "d": "Chỉ tiêu thành lập Văn phòng công chứng",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 55 Nghị định 104/2025/NĐ-CP, quy chế phải quy định rõ trách nhiệm cập nhật, khai thác, chia sẻ dữ liệu và chi phí khai thác, sử dụng."
+  },
+  {
+    "question": "Theo quy định, một trong các nội dung bắt buộc phải xác định khi đồng bộ dữ liệu công chứng là gì?",
+    "a": "Lịch trực của công chứng viên",
+    "b": "Thời gian đồng bộ dữ liệu",
+    "c": "Mức phí công chứng",
+    "d": "Danh sách cộng tác viên",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 3 Điều 57 Nghị định 104/2025/NĐ-CP, việc đồng bộ dữ liệu phải xác định thời gian đồng bộ."
+  },
+  {
+    "question": "Tình huống: Tổ chức hành nghề công chứng bị giải thể có số lượng hồ sơ quá lớn nên không thể bàn giao cho một tổ chức duy nhất. Theo quy định, cơ quan nào phối hợp xem xét cho phép nhiều tổ chức tiếp nhận hồ sơ?",
+    "a": "UBND cấp xã và Công an",
+    "b": "Sở Tư pháp và Hội công chứng viên",
+    "c": "Tòa án và Viện kiểm sát",
+    "d": "Bộ Tư pháp và Bộ Nội vụ",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 58 Nghị định 104/2025/NĐ-CP, Sở Tư pháp phối hợp với Hội công chứng viên xem xét cho phép nhiều tổ chức tiếp nhận hồ sơ."
+  },
+  {
+    "question": "Theo quy định, việc bàn giao hồ sơ công chứng khi tổ chức hành nghề công chứng chấm dứt hoạt động phải được lập thành gì?",
+    "a": "Thông báo nội bộ",
+    "b": "Biên bản có sự chứng kiến của đại diện Sở Tư pháp và Hội công chứng viên",
+    "c": "Email xác nhận",
+    "d": "Quyết định của UBND cấp xã",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 58 Nghị định 104/2025/NĐ-CP, việc bàn giao hồ sơ phải lập thành biên bản có sự chứng kiến của đại diện Sở Tư pháp và Hội công chứng viên."
+  },
+  {
+    "question": "Tình huống: Tổ chức hành nghề công chứng bị giải thể không còn khả năng chi trả kinh phí lưu trữ hồ sơ công chứng. Theo quy định, kinh phí này do ai bảo đảm?",
+    "a": "Hiệp hội công chứng viên Việt Nam",
+    "b": "Ngân sách địa phương",
+    "c": "Người yêu cầu công chứng",
+    "d": "Doanh nghiệp bảo hiểm",
+    "answer": "b",
+    "explanation": "Theo khoản 4 Điều 58 Nghị định 104/2025/NĐ-CP, trường hợp không còn khả năng thanh toán thì kinh phí lưu trữ do ngân sách địa phương bảo đảm."
+  },
+  {
+    "question": "Theo quy định, hồ sơ công chứng điện tử phải được đồng bộ lên cơ sở dữ liệu công chứng theo hình thức nào?",
+    "a": "Định kỳ mỗi tháng",
+    "b": "Theo thời gian thực",
+    "c": "Khi có yêu cầu của Bộ Tư pháp",
+    "d": "Mỗi quý một lần",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 60 Nghị định 104/2025/NĐ-CP, hồ sơ công chứng điện tử phải được đồng bộ theo thời gian thực."
+  },
   {
     "question": "Theo Nghị định 104/2025/NĐ-CP, phát biểu nào sau đây là ĐÚNG?",
     "a": "Hồ sơ bổ nhiệm lại công chứng viên chỉ được nộp trực tiếp.",
