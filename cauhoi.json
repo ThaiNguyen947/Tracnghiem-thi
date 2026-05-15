@@ -1,4 +1,140 @@
-[ {
+[ 
+ {
+ "question": "Theo quy định, Hội công chứng viên hoạt động theo nguyên tắc nào sau đây?",
+    "a": "Tự quản, công khai, minh bạch, phi lợi nhuận",
+    "b": "Phụ thuộc hoàn toàn vào ngân sách nhà nước",
+    "c": "Hoạt động vì lợi nhuận",
+    "d": "Là cơ quan hành chính nhà nước",
+    "answer": "a",
+    "explanation": "Theo khoản 1 Điều 36 Nghị định 104/2025/NĐ-CP, Hội công chứng viên được tổ chức và hoạt động theo nguyên tắc tự quản, công khai, minh bạch, phi lợi nhuận."
+  },
+  {
+    "question": "Theo quy định, Hội công chứng viên tự chịu trách nhiệm về nội dung nào?",
+    "a": "Bổ nhiệm công chứng viên",
+    "b": "Kinh phí hoạt động",
+    "c": "Phê duyệt Điều lệ Hiệp hội",
+    "d": "Thu hồi thẻ công chứng viên",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 36 Nghị định 104/2025/NĐ-CP, Hội công chứng viên hoạt động theo nguyên tắc tự chịu trách nhiệm về kinh phí hoạt động."
+  },
+  {
+    "question": "Theo quy định, hồ sơ đề nghị phê duyệt Điều lệ Hiệp hội công chứng viên Việt Nam bao gồm bao nhiêu nhóm giấy tờ?",
+    "a": "02",
+    "b": "03",
+    "c": "04",
+    "d": "05",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 42 Nghị định 104/2025/NĐ-CP, hồ sơ gồm: văn bản đề nghị phê duyệt Điều lệ; dự thảo Điều lệ; nghị quyết của Đại hội về việc thông qua Điều lệ."
+  },
+  {
+    "question": "Tình huống: Sau khi nhận đủ hồ sơ hợp lệ đề nghị phê duyệt Điều lệ Hiệp hội công chứng viên Việt Nam, Bộ trưởng Bộ Tư pháp mất 45 ngày để ban hành quyết định phê duyệt, không tính thời gian lấy ý kiến Bộ Nội vụ. Theo quy định:",
+    "a": "Phù hợp quy định",
+    "b": "Vi phạm thời hạn giải quyết",
+    "c": "Được phép nếu Điều lệ phức tạp",
+    "d": "Chỉ vi phạm nếu có khiếu nại",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 42 Nghị định 104/2025/NĐ-CP, trong thời hạn 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ trưởng Bộ Tư pháp phải ban hành quyết định phê duyệt hoặc từ chối phê duyệt."
+  },
+  {
+    "question": "Theo quy định, thời hạn 30 ngày để Bộ trưởng Bộ Tư pháp phê duyệt Điều lệ Hiệp hội công chứng viên Việt Nam không bao gồm:",
+    "a": "Thời gian chỉnh sửa Điều lệ",
+    "b": "Thời gian lấy ý kiến thống nhất của Bộ trưởng Bộ Nội vụ",
+    "c": "Thời gian họp Đại hội",
+    "d": "Thời gian nộp hồ sơ qua bưu chính",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 42 Nghị định 104/2025/NĐ-CP, thời hạn 30 ngày không bao gồm thời hạn lấy ý kiến thống nhất của Bộ trưởng Bộ Nội vụ."
+  },
+  {
+    "question": "Nội dung nào sau đây phải được quy định trong Điều lệ Hiệp hội công chứng viên Việt Nam?",
+    "a": "Mức phí công chứng toàn quốc",
+    "b": "Quan hệ giữa Hiệp hội công chứng viên Việt Nam và Hội công chứng viên",
+    "c": "Biểu mẫu hợp đồng công chứng",
+    "d": "Danh sách toàn bộ tổ chức hành nghề công chứng",
+    "answer": "b",
+    "explanation": "Theo điểm c khoản 2 Điều 42 Nghị định 104/2025/NĐ-CP, Điều lệ phải quy định mối quan hệ giữa Hiệp hội công chứng viên Việt Nam và Hội công chứng viên."
+  },
+  {
+    "question": "Theo quy định, Điều lệ Hiệp hội công chứng viên Việt Nam phải quy định nội dung nào sau đây?",
+    "a": "Thủ tục gia nhập, rút tên khỏi danh sách hội viên",
+    "b": "Tiêu chuẩn bổ nhiệm thẩm phán",
+    "c": "Biểu thuế thu nhập cá nhân",
+    "d": "Cơ chế quản lý đất đai",
+    "answer": "a",
+    "explanation": "Theo điểm d khoản 2 Điều 42 Nghị định 104/2025/NĐ-CP, Điều lệ phải quy định thủ tục gia nhập, rút tên khỏi danh sách hội viên của Hội công chứng viên."
+  },
+  {
+    "question": "Theo quy định, hoạt động của Hội công chứng viên chịu sự quản lý nhà nước của cơ quan nào?",
+    "a": "Bộ Tư pháp",
+    "b": "UBND cấp tỉnh",
+    "c": "Tòa án nhân dân tối cao",
+    "d": "Bộ Nội vụ",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 36 Nghị định 104/2025/NĐ-CP, tổ chức và hoạt động của Hội công chứng viên chịu sự quản lý nhà nước của UBND cấp tỉnh."
+  },
+  {
+    "question": "Tình huống: Một Hội công chứng viên ban hành quy định nội bộ trái Điều lệ Hiệp hội công chứng viên Việt Nam nhưng chưa trái luật. Theo quy định:",
+    "a": "Vẫn được áp dụng",
+    "b": "Không được phép ban hành",
+    "c": "Chỉ cần UBND cấp tỉnh đồng ý",
+    "d": "Được áp dụng trong phạm vi nội bộ",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 36 Nghị định 104/2025/NĐ-CP, Hội công chứng viên không được ban hành nghị quyết, quyết định, nội quy, quy định trái Điều lệ Hiệp hội công chứng viên Việt Nam."
+  },
+  {
+    "question": "Theo quy định, Hiệp hội công chứng viên Việt Nam có nhiệm vụ nào sau đây?",
+    "a": "Ban hành luật về công chứng",
+    "b": "Kiểm tra, giám sát việc thực hiện Điều lệ Hiệp hội",
+    "c": "Cấp Giấy đăng ký hoạt động Văn phòng công chứng",
+    "d": "Thu hồi quyết định bổ nhiệm công chứng viên",
+    "answer": "b",
+    "explanation": "Theo khoản 8 Điều 41 Nghị định 104/2025/NĐ-CP, Hiệp hội công chứng viên Việt Nam có nhiệm vụ kiểm tra, giám sát việc thực hiện Điều lệ Hiệp hội công chứng viên Việt Nam."
+  },
+  {
+    "question": "Theo quy định, Hội đồng công chứng viên toàn quốc là:",
+    "a": "Cơ quan điều hành công việc hằng ngày",
+    "b": "Cơ quan lãnh đạo giữa hai kỳ Đại hội đại biểu công chứng viên toàn quốc",
+    "c": "Cơ quan quản lý nhà nước",
+    "d": "Cơ quan khen thưởng, kỷ luật",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 40 Nghị định 104/2025/NĐ-CP, Hội đồng công chứng viên toàn quốc là cơ quan lãnh đạo của Hiệp hội công chứng viên Việt Nam giữa hai kỳ Đại hội."
+  },
+  {
+    "question": "Tình huống: Điều lệ Hiệp hội công chứng viên Việt Nam đã được Đại hội thông qua nhưng quy trình biểu quyết không bảo đảm tính công khai, minh bạch. Theo quy định, Điều lệ:",
+    "a": "Đương nhiên có hiệu lực",
+    "b": "Có thể bị từ chối phê duyệt",
+    "c": "Chỉ cần sửa hình thức văn bản",
+    "d": "Được áp dụng tạm thời",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 4 Điều 42 Nghị định 104/2025/NĐ-CP, Điều lệ bị từ chối phê duyệt nếu quy trình, thủ tục thông qua không bảo đảm tính hợp lệ, dân chủ, công khai, minh bạch."
+  },
+  {
+    "question": "Theo quy định, sau khi Điều lệ sửa đổi, bổ sung được thông qua, Hội đồng công chứng viên toàn quốc phải gửi Bộ Tư pháp xem xét phê duyệt trong thời hạn bao lâu?",
+    "a": "05 ngày làm việc",
+    "b": "07 ngày làm việc",
+    "c": "10 ngày làm việc",
+    "d": "15 ngày làm việc",
+    "answer": "c",
+    "explanation": "Theo khoản 5 Điều 42 Nghị định 104/2025/NĐ-CP, trong thời hạn 10 ngày làm việc kể từ ngày Điều lệ sửa đổi, bổ sung được thông qua, Hội đồng công chứng viên toàn quốc phải gửi Bộ Tư pháp xem xét, phê duyệt."
+  },
+  {
+    "question": "Theo quy định, Hiệp hội công chứng viên Việt Nam được tổ chức và hoạt động theo nguyên tắc nào?",
+    "a": "Phụ thuộc ngân sách nhà nước",
+    "b": "Tự quản, công khai, minh bạch, phi lợi nhuận",
+    "c": "Hoạt động thương mại",
+    "d": "Trực thuộc Bộ Tư pháp",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 39 Nghị định 104/2025/NĐ-CP, Hiệp hội công chứng viên Việt Nam được tổ chức và hoạt động theo nguyên tắc tự quản, công khai, minh bạch, phi lợi nhuận."
+  },
+  {
+    "question": "Theo quy định, Hiệp hội công chứng viên Việt Nam có tư cách pháp nhân không?",
+    "a": "Không",
+    "b": "Chỉ có khi được Bộ Nội vụ cho phép",
+    "c": "Có tư cách pháp nhân, con dấu và tài khoản riêng",
+    "d": "Chỉ có con dấu",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 39 Nghị định 104/2025/NĐ-CP, Hiệp hội công chứng viên Việt Nam có tư cách pháp nhân, có con dấu và tài khoản riêng."
+  },
+    {
     "question": "Văn phòng công chứng A đã mua bảo hiểm trách nhiệm nghề nghiệp cho công chứng viên với thời hạn 03 năm. Theo quy định, hợp đồng này:",
     "a": "Hợp pháp vì do các bên tự thỏa thuận",
     "b": "Hợp pháp nếu doanh nghiệp bảo hiểm đồng ý",
