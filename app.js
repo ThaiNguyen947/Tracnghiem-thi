@@ -360,7 +360,7 @@ function filterResult(type) {
               display: inline-block;
               padding: 1px 6px;
               font-size: 11px;
-              font-family: Arial, sans-serif;
+              font-family: 'Times New Roman', Times, serif;
               font-weight: bold;
               border-radius: 3px;
               margin-left: 8px;
