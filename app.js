@@ -165,7 +165,6 @@ function highlight() {
     let ans = answers[index];
     if (!ans) return;
 
-    // Chấp nhận cả map chữ hoa lẫn chữ thường khi người dùng thao tác bấm nút
     const map = { A: 0, B: 1, C: 2, D: 3, a: 0, b: 1, c: 2, d: 3 };
     let btns = document.querySelectorAll(".option");
 
@@ -202,6 +201,13 @@ function renderNav() {
 function next() {
   if (index < questions.length - 1) {
     index++;
+    render();
+  }
+}
+
+function prev() {
+  if (index > 0) {
+    index--;
     render();
   }
 }
@@ -244,7 +250,6 @@ function submit() {
     let userAns = answers[i] ? answers[i].toString().trim().toLowerCase() : "";
     let correctAns = q.answer ? q.answer.toString().trim().toLowerCase() : "";
     
-    // Nhận dạng an toàn không phân biệt Hoa - Thường (a === A)
     if (userAns === correctAns) {
       correct++;
     } else {
@@ -255,7 +260,7 @@ function submit() {
 
   wrongPool = newWrong;
 
-  // Giữ nguyên giao diện cũ, thêm cụm nút chức năng lọc câu hỏi
+  // Giao diện hiển thị kết quả chuẩn hóa theo mẫu ảnh gốc
   app.innerHTML = `
     <div class="box">
       <h1>KẾT QUẢ</h1>
@@ -264,7 +269,7 @@ function submit() {
 
       <button class="btn" onclick="startExam()">THI LẠI</button>
 
-      <div style="margin-top: 20px; display: flex; gap: 10px; justify-content: center;">
+      <div style="margin-top: 15px; display: flex; gap: 8px; justify-content: center;">
         <button class="nav-btn" style="background: #444; color: white; padding: 6px 12px;" onclick="filterResult('all')">Xem tất cả</button>
         <button class="nav-btn" style="background: green; color: white; padding: 6px 12px;" onclick="filterResult('correct')">Xem câu đúng</button>
         <button class="nav-btn" style="background: #b30000; color: white; padding: 6px 12px;" onclick="filterResult('wrong')">Xem câu sai</button>
@@ -275,7 +280,7 @@ function submit() {
     </div>
   `;
 
-  // Mặc định nộp bài xong sẽ load toàn bộ danh sách
+  // Tự động tải tất cả câu hỏi ngay khi vừa nộp bài
   filterResult('all');
 }
 
@@ -291,9 +296,17 @@ function filterResult(type) {
     let correctAns = q.answer ? q.answer.toString().trim().toLowerCase() : "";
     let ok = userAns === correctAns;
 
-    // Logic kiểm tra điều kiện lọc dữ liệu
+    // Bộ lọc hiển thị câu hỏi theo nút bấm
     if (type === 'correct' && !ok) return;
     if (type === 'wrong' && ok) return;
+
+    // Trích xuất nội dung text đầy đủ của đáp án đúng để hiển thị chuẩn xác nhất
+    let fullCorrectText = "";
+    if (correctAns === "a") fullCorrectText = `A. ${q.a}`;
+    else if (correctAns === "b") fullCorrectText = `B. ${q.b}`;
+    else if (correctAns === "c") fullCorrectText = `C. ${q.c}`;
+    else if (correctAns === "d") fullCorrectText = `D. ${q.d}`;
+    else fullCorrectText = q.answer ? q.answer.toUpperCase() : "Chưa cấu hình";
 
     html += `
       <div style="
@@ -301,11 +314,16 @@ function filterResult(type) {
         border-bottom:1px solid #ddd;
         white-space:pre-wrap;
         line-height:1.6;
-        font-family: Arial;
+        font-family: Arial, sans-serif;
       ">
         <b>Câu ${i + 1}:</b> ${q.question}<br>
-
-        Bạn chọn: ${answers[i] ? answers[i].toUpperCase() : "Không chọn"} | Đáp án đúng: ${q.answer ? q.answer.toUpperCase() : "Không hợp lệ"}<br>
+        <b>Bạn chọn:</b> ${answers[i] ? answers[i].toUpperCase() : "Không chọn"}<br>
+        
+        <span style="color: ${ok ? 'inherit' : 'red'}; font-weight: ${ok ? 'normal' : 'bold'};">
+          ${ok ? "❌ SAI" : `<span style="color: red; font-weight: bold;">❌ SAI</span>`}
+        </span><br>
+        
+        <b>Đáp án đúng:</b> ${fullCorrectText}<br>
 
         <div style="
           margin-top:8px;
@@ -317,15 +335,20 @@ function filterResult(type) {
           padding:8px;
           border-radius:6px;
         ">
-          💡 <b>Giải thích:</b> ${q.explanation ? q.explanation : "Chưa có giải thích"}
+          💡 <b>Giải thích:</b> ${q.explanation ? q.explanation : (q.giảithích ? q.giảithích : "Chưa có giải thích")}
         </div>
 
-        <b style="color:${ok ? 'green' : 'red'}">
+        <b style="color:${ok ? 'green' : 'red'}; display: block; margin-top: 5px;">
           ${ok ? "✔ ĐÚNG" : "❌ SAI"}
         </b>
       </div>
     `;
+    
+    // Sửa lỗi hiển thị chữ viết chồng chéo bằng cách thay thế chuỗi hiển thị đúng định dạng của ảnh mẫu
+    if (ok) {
+      html = html.replace(`<b>Bạn chọn:</b> ${answers[i] ? answers[i].toUpperCase() : "Không chọn"}<br>\n        \n        <span style="color: inherit; font-weight: normal;">\n          ❌ SAI\n        </span><br>`, `<b>Bạn chọn:</b> ${answers[i] ? answers[i].toUpperCase() : "Không chọn"}<br>\n        <span style="color: green; font-weight: bold;">✔ ĐÚNG</span><br>`);
+    }
   });
 
-  listContainer.innerHTML = html || "<p style='text-align:center; color:#777; padding: 20px;'>Không tìm thấy câu hỏi tương ứng trong mục này.</p>";
+  listContainer.innerHTML = html || "<p style='text-align:center; color:#777; padding: 20px;'>Không tìm thấy câu hỏi nào.</p>";
 }
