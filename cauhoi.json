@@ -827,15 +827,6 @@
     "answer": "b",
     "explanation": "Căn cứ theo Khoản 1 Điều 61 Luật Công chứng 2024 quy định tính liên tục của thủ tục: 'Khi nhận lưu giữ di chúc, công chứng viên phải niêm phong bản di chúc trước mặt người lập di chúc, ghi giấy nhận lưu giữ và giao cho người lập di chúc'."
   },
-{
-    "question": "Theo Luật Công chứng, khi một người muốn lập văn bản công chứng hủy bỏ di chúc cũ, nhưng bản di chúc cũ đó trước đây lại được lập bằng hình thức di chúc bí mật (có chứng nhận của công chứng viên), thì người lập di chúc bắt buộc phải xuất trình giấy tờ nào sau đây?",
-    "a": "Văn bản đồng ý của người đang lưu giữ bản di chúc bí mật đó.",
-    "b": "Bản gốc văn bản chứng nhận di chúc bí mật trước đây của tổ chức hành nghề công chứng.",
-    "c": "Quyết định của Tòa án tuyên bố di chúc bí mật đó chấm dứt hiệu lực.",
-    "d": "Biên bản mở di chúc bí mật có chữ ký của người làm chứng.",
-    "answer": "b",
-    "explanation": "Căn cứ theo Khoản 5 Điều 58 Luật Công chứng 2024: Trường hợp di chúc trước đó là di chúc bí mật thì người yêu cầu công chứng việc sửa đổi, bổ sung, thay thế, hủy bỏ di chúc phải xuất trình bản gốc văn bản chứng nhận di chúc bí mật."
-  },
   {
     "question": "Theo Luật Công chứng, trong hồ sơ yêu cầu công chứng văn bản thỏa thuận phân chia di sản thừa kế, trường hợp có người thừa kế là người chưa thành niên hoặc người mất năng lực hành vi dân sự thì ai sẽ là người ký tên vào văn bản thỏa thuận này?",
     "a": "Công chứng viên sẽ ký chứng kiến và trực tiếp quyết định phần tài sản để bảo vệ quyền lợi cho họ.",
@@ -5998,5 +5989,275 @@
     "d": "Sở Tư pháp các tỉnh, thành phố.",
     "answer": "C",
     "explanation": "Căn cứ Khoản 2 Điều 41 LCC 2024: Hiệp hội công chứng viên Việt Nam ban hành Quy tắc đạo đức hành nghề công chứng."
+  },
+  {
+    "question": "Theo Nghị định 104/2025/NĐ-CP, cơ sở đào tạo nghề công chứng là đơn vị nào?",
+    "a": "Học viện Tư pháp.",
+    "b": "Đơn vị có chức năng đào tạo nghề công chứng thuộc Bộ Tư pháp.",
+    "c": "Sở Tư pháp cấp tỉnh.",
+    "d": "Liên đoàn Công chứng viên Việt Nam.",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 3 Nghị định 104/2025/NĐ-CP: “Cơ sở đào tạo nghề công chứng là đơn vị có chức năng đào tạo nghề công chứng thuộc Bộ Tư pháp”."
+  },
+  {
+    "question": "Theo quy định về hồ sơ bổ nhiệm công chứng viên, giấy khám sức khỏe phải được cấp trong thời hạn bao lâu tính đến ngày nộp hồ sơ?",
+    "a": "03 tháng.",
+    "b": "06 tháng.",
+    "c": "09 tháng.",
+    "d": "12 tháng.",
+    "answer": "b",
+    "explanation": "Căn cứ điểm c khoản 1 Điều 4 Nghị định 104/2025/NĐ-CP: Hồ sơ bổ nhiệm công chứng viên phải có “Giấy khám sức khoẻ do cơ sở khám bệnh, chữa bệnh có thẩm quyền cấp trong thời hạn 06 tháng tính đến ngày nộp hồ sơ”."
+  },
+  {
+    "question": "Người đề nghị bổ nhiệm công chứng viên nộp hồ sơ tại đâu?",
+    "a": "Bộ Tư pháp nơi thường trú.",
+    "b": "Ủy ban nhân dân cấp tỉnh.",
+    "c": "Sở Tư pháp nơi hoàn thành tập sự hành nghề công chứng.",
+    "d": "Tổ chức hành nghề công chứng nơi dự kiến hành nghề.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 4 Nghị định 104/2025/NĐ-CP: Người đề nghị bổ nhiệm công chứng viên “nộp ... đến Sở Tư pháp ở địa phương nơi hoàn thành tập sự hành nghề công chứng”."
+  },
+  {
+    "question": "Theo Nghị định 104/2025/NĐ-CP, Sở Tư pháp phải xem xét và có văn bản đề nghị bổ nhiệm công chứng viên trong thời hạn bao lâu kể từ ngày nhận đủ hồ sơ hợp lệ?",
+    "a": "05 ngày làm việc.",
+    "b": "07 ngày làm việc.",
+    "c": "10 ngày làm việc.",
+    "d": "15 ngày làm việc.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 4 Nghị định 104/2025/NĐ-CP: “Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp xem xét, có văn bản đề nghị Bộ trưởng Bộ Tư pháp bổ nhiệm công chứng viên”."
+  },
+  {
+    "question": "Trường hợp hồ sơ đề nghị bổ nhiệm công chứng viên cần xác minh hoặc bổ sung thông tin thì thời hạn giải quyết được tính từ thời điểm nào?",
+    "a": "Từ ngày người đề nghị nộp hồ sơ lần đầu.",
+    "b": "Từ ngày Bộ Tư pháp nhận hồ sơ.",
+    "c": "Từ ngày Sở Tư pháp ban hành thông báo.",
+    "d": "Từ ngày nhận được kết quả giải trình, bổ sung hoặc xác minh thông tin.",
+    "answer": "d",
+    "explanation": "Căn cứ khoản 3 và khoản 4 Điều 4 Nghị định 104/2025/NĐ-CP: Trường hợp hồ sơ cần giải trình, bổ sung hoặc xác minh thì thời hạn được tính “từ ngày ... nhận được kết quả giải trình, bổ sung hoặc xác minh thông tin”."
+  },
+  {
+    "question": "Theo Nghị định 104/2025/NĐ-CP, quyết định tạm đình chỉ hành nghề công chứng phải được Sở Tư pháp đăng tải tối thiểu bao lâu trên Cổng thông tin điện tử?",
+    "a": "05 ngày.",
+    "b": "07 ngày.",
+    "c": "10 ngày.",
+    "d": "15 ngày.",
+    "answer": "d",
+    "explanation": "Căn cứ khoản 2 Điều 5 Nghị định 104/2025/NĐ-CP: Quyết định được đăng tải trên Cổng thông tin điện tử của Sở Tư pháp với “thời gian đăng tải tối thiểu là 15 ngày”."
+  },
+  {
+    "question": "Tổ chức hành nghề công chứng nhận được thông tin xác thực về việc công chứng viên bị truy cứu trách nhiệm hình sự thì phải báo cáo Sở Tư pháp trong thời hạn bao lâu?",
+    "a": "24 giờ.",
+    "b": "02 ngày làm việc.",
+    "c": "03 ngày làm việc.",
+    "d": "05 ngày làm việc.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 5 Nghị định 104/2025/NĐ-CP: Tổ chức hành nghề công chứng phải “báo cáo bằng văn bản cho Sở Tư pháp trong thời hạn 03 ngày làm việc”."
+  },
+  {
+    "question": "Theo Nghị định 104/2025/NĐ-CP, công chứng viên không được ký văn bản công chứng kể từ thời điểm nào?",
+    "a": "Kể từ ngày bị xem xét miễn nhiệm.",
+    "b": "Kể từ ngày Sở Tư pháp lập hồ sơ đề nghị miễn nhiệm.",
+    "c": "Kể từ thời điểm quyết định miễn nhiệm có hiệu lực thi hành.",
+    "d": "Kể từ ngày Bộ Tư pháp nhận hồ sơ miễn nhiệm.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 7 Điều 6 Nghị định 104/2025/NĐ-CP: “Công chứng viên không được ký văn bản công chứng kể từ thời điểm quyết định miễn nhiệm công chứng viên có hiệu lực thi hành”."
+  },
+  {
+    "question": "Tình huống: Công chứng viên A đã được bổ nhiệm nhưng chưa hành nghề. Nay ông A xin miễn nhiệm công chứng viên. Theo quy định, ông A phải nộp hồ sơ về đâu?",
+    "a": "Bộ Tư pháp.",
+    "b": "Sở Tư pháp nơi đề nghị bổ nhiệm công chứng viên.",
+    "c": "Sở Tư pháp nơi cư trú.",
+    "d": "Tổ chức hành nghề công chứng gần nhất.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 6 Nghị định 104/2025/NĐ-CP: Trường hợp công chứng viên “được bổ nhiệm nhưng chưa hành nghề thì nộp hồ sơ về Sở Tư pháp nơi đề nghị bổ nhiệm công chứng viên”."
+  },
+  {
+    "question": "Theo Nghị định 104/2025/NĐ-CP, trường hợp Sở Tư pháp không đề nghị miễn nhiệm đối với công chứng viên thuộc trường hợp bị miễn nhiệm thì ai có quyền tự mình xem xét, quyết định miễn nhiệm?",
+    "a": "Chủ tịch UBND cấp tỉnh.",
+    "b": "Giám đốc Sở Tư pháp.",
+    "c": "Bộ trưởng Bộ Tư pháp.",
+    "d": "Hội công chứng viên.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 5 Điều 6 Nghị định 104/2025/NĐ-CP: “Bộ trưởng Bộ Tư pháp tự mình xem xét, quyết định việc miễn nhiệm” đối với trường hợp Sở Tư pháp không đề nghị miễn nhiệm."
+  },
+  {
+    "question": "Tình huống: Chị H nộp hồ sơ đề nghị bổ nhiệm công chứng viên qua môi trường điện tử. Trong hồ sơ, giấy tờ chứng minh thời gian công tác pháp luật là bản scan không chứng thực và không phải bản sao điện tử theo quy định. Sở Tư pháp xử lý thế nào là phù hợp?",
+    "a": "Vẫn tiếp nhận vì hồ sơ nộp trực tuyến không cần chứng thực.",
+    "b": "Yêu cầu bổ sung giấy tờ hợp lệ theo quy định.",
+    "c": "Tự xác minh thay cho người nộp hồ sơ.",
+    "d": "Chuyển hồ sơ lên Bộ Tư pháp để quyết định.",
+    "answer": "b",
+    "explanation": "Căn cứ điểm b khoản 1 Điều 4 Nghị định 104/2025/NĐ-CP: Giấy tờ chứng minh thời gian công tác pháp luật phải là “bản chính hoặc bản sao có chứng thực hoặc bản sao điện tử”."
+  },
+  {
+    "question": "Tình huống: Ông K nộp hồ sơ đề nghị bổ nhiệm công chứng viên ngày 01/6. Ngày 05/6, Sở Tư pháp yêu cầu bổ sung thông tin do hồ sơ chưa thống nhất. Đến ngày 20/6 ông K mới hoàn thiện hồ sơ. Thời hạn 10 ngày làm việc của Sở Tư pháp được tính từ thời điểm nào?",
+    "a": "Từ ngày 01/6.",
+    "b": "Từ ngày 05/6.",
+    "c": "Từ ngày 20/6.",
+    "d": "Từ ngày Bộ Tư pháp nhận hồ sơ.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 4 Nghị định 104/2025/NĐ-CP: Trường hợp cần giải trình hoặc bổ sung thì thời hạn được tính từ ngày nhận được kết quả giải trình, bổ sung hoặc xác minh thông tin."
+  },
+  {
+    "question": "Tình huống: Công chứng viên M bị tạm đình chỉ hành nghề. Tuy nhiên, sau khi ban hành quyết định, Sở Tư pháp chưa cập nhật thông tin vào phần mềm quản lý hoạt động công chứng của Bộ Tư pháp. Việc này có phù hợp quy định không?",
+    "a": "Phù hợp vì chỉ cần gửi quyết định cho công chứng viên.",
+    "b": "Phù hợp nếu đã đăng tải lên Cổng thông tin điện tử.",
+    "c": "Không phù hợp vì phải đồng thời cập nhật vào phần mềm quản lý hoạt động công chứng của Bộ Tư pháp.",
+    "d": "Không phù hợp nhưng không ảnh hưởng hiệu lực quyết định.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 5 Nghị định 104/2025/NĐ-CP: Quyết định tạm đình chỉ phải được gửi cho các chủ thể liên quan và “đồng thời được cập nhật thông tin vào phần mềm quản lý hoạt động công chứng của Bộ Tư pháp”."
+  },
+  {
+    "question": "Tình huống: Văn phòng công chứng A nhận được thông tin xác thực về việc công chứng viên của tổ chức mình bị áp dụng biện pháp xử lý hành chính nhưng sau 07 ngày làm việc mới báo cáo Sở Tư pháp. Hành vi này vi phạm quy định nào?",
+    "a": "Vi phạm quy định về thời hạn đăng tải thông tin.",
+    "b": "Vi phạm quy định về thời hạn báo cáo bằng văn bản cho Sở Tư pháp.",
+    "c": "Vi phạm quy định về cập nhật phần mềm quản lý.",
+    "d": "Không vi phạm vì chưa có quyết định xử lý chính thức.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 3 Điều 5 Nghị định 104/2025/NĐ-CP: Tổ chức hành nghề công chứng phải báo cáo bằng văn bản cho Sở Tư pháp trong thời hạn 03 ngày làm việc kể từ ngày nhận được thông tin xác thực."
+  },
+  {
+    "question": "Tình huống: Công chứng viên P thuộc trường hợp bị miễn nhiệm theo Luật Công chứng nhưng Sở Tư pháp chưa thực hiện đề nghị miễn nhiệm. Trong trường hợp này, ai có thẩm quyền trực tiếp xem xét và quyết định miễn nhiệm?",
+    "a": "Hội công chứng viên.",
+    "b": "Ủy ban nhân dân cấp tỉnh.",
+    "c": "Bộ trưởng Bộ Tư pháp.",
+    "d": "Chánh án Tòa án nhân dân cấp tỉnh.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 5 Điều 6 Nghị định 104/2025/NĐ-CP: Bộ trưởng Bộ Tư pháp tự mình xem xét, quyết định việc miễn nhiệm đối với trường hợp Sở Tư pháp không đề nghị miễn nhiệm."
+  },
+  {
+    "question": "Tình huống: Công chứng viên T đã có quyết định miễn nhiệm có hiệu lực từ ngày 01/8 nhưng ngày 03/8 vẫn ký xác nhận vào hợp đồng công chứng tại văn phòng. Theo quy định, việc ký này như thế nào?",
+    "a": "Hợp lệ vì công chứng viên chưa bị thu hồi thẻ.",
+    "b": "Hợp lệ nếu tổ chức hành nghề công chứng đồng ý.",
+    "c": "Không đúng quy định vì công chứng viên không được ký văn bản công chứng kể từ thời điểm quyết định miễn nhiệm có hiệu lực.",
+    "d": "Chỉ vi phạm nội quy nghề nghiệp, không vi phạm pháp luật.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 7 Điều 6 Nghị định 104/2025/NĐ-CP: Công chứng viên không được ký văn bản công chứng kể từ thời điểm quyết định miễn nhiệm có hiệu lực thi hành."
+  },
+  {
+    "question": "Tình huống: Bà Q trước đây là công chứng viên, đã được miễn nhiệm theo nguyện vọng cá nhân. Nay bà Q muốn được bổ nhiệm lại công chứng viên và nộp hồ sơ tại Sở Tư pháp nơi mình đang cư trú. Việc nộp hồ sơ này có đúng quy định không?",
+    "a": "Đúng vì được nộp tại nơi cư trú.",
+    "b": "Đúng nếu có xác nhận của UBND cấp xã.",
+    "c": "Không đúng vì phải nộp tại Sở Tư pháp nơi đã đề nghị miễn nhiệm công chứng viên.",
+    "d": "Không đúng vì phải nộp trực tiếp cho Bộ Tư pháp.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 7 Nghị định 104/2025/NĐ-CP: Người đề nghị bổ nhiệm lại công chứng viên nộp hồ sơ về Sở Tư pháp nơi đã đề nghị miễn nhiệm công chứng viên."
+  },
+  {
+    "question": "Tình huống: Bộ Tư pháp nhận được hồ sơ bổ nhiệm công chứng viên nhưng phát hiện thông tin chưa thống nhất nên yêu cầu Sở Tư pháp làm rõ. Trong trường hợp này, thời hạn giải quyết của Bộ Tư pháp được tính như thế nào?",
+    "a": "Tính từ ngày Bộ Tư pháp nhận hồ sơ lần đầu.",
+    "b": "Tính lại từ ngày Bộ Tư pháp nhận được kết quả bổ sung, làm rõ hoặc xác minh thông tin.",
+    "c": "Không thay đổi thời hạn giải quyết.",
+    "d": "Do Bộ trưởng Bộ Tư pháp quyết định từng trường hợp.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 4 Điều 4 Nghị định 104/2025/NĐ-CP: Trường hợp hồ sơ cần bổ sung, làm rõ hoặc xác minh thì thời hạn được tính từ ngày Bộ Tư pháp nhận được kết quả bổ sung, làm rõ hoặc xác minh thông tin."
+  },
+  {
+    "question": "Tình huống: Một công chứng viên thuộc trường hợp đương nhiên miễn nhiệm nhưng tổ chức hành nghề công chứng không báo cáo cho Sở Tư pháp. Theo Nghị định 104/2025/NĐ-CP, tổ chức này có trách nhiệm gì?",
+    "a": "Không có trách nhiệm vì đây là trách nhiệm cá nhân công chứng viên.",
+    "b": "Phải báo cáo kịp thời bằng văn bản cho Sở Tư pháp để xem xét, xử lý.",
+    "c": "Chỉ cần thông báo cho Hội công chứng viên.",
+    "d": "Chỉ cập nhật nội bộ trong tổ chức hành nghề công chứng.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 6 Điều 6 Nghị định 104/2025/NĐ-CP: Tổ chức hành nghề công chứng phát hiện công chứng viên thuộc trường hợp bị miễn nhiệm hoặc đương nhiên miễn nhiệm thì phải báo cáo kịp thời bằng văn bản cho Sở Tư pháp."
+  },
+  {
+    "question": "Tình huống: Anh D nộp hồ sơ đề nghị bổ nhiệm lại công chứng viên bằng bản sao điện tử các giấy tờ chứng minh điều kiện bổ nhiệm lại. Cơ quan tiếp nhận từ chối với lý do chỉ được dùng bản giấy có chứng thực. Việc từ chối này đúng hay sai?",
+    "a": "Đúng vì hồ sơ bổ nhiệm lại bắt buộc dùng bản giấy.",
+    "b": "Sai vì pháp luật cho phép sử dụng bản sao điện tử.",
+    "c": "Đúng vì chỉ Bộ Tư pháp mới được tiếp nhận bản điện tử.",
+    "d": "Sai vì chỉ cần bản photocopy thông thường.",
+    "answer": "b",
+    "explanation": "Căn cứ điểm b khoản 1 Điều 7 Nghị định 104/2025/NĐ-CP: Giấy tờ chứng minh đủ điều kiện bổ nhiệm lại có thể là “bản chính hoặc bản sao có chứng thực hoặc bản sao điện tử”."
+  },
+  {
+    "question": "Theo Nghị định 104/2025/NĐ-CP, phát biểu nào sau đây KHÔNG đúng về hồ sơ đề nghị bổ nhiệm công chứng viên?",
+    "a": "Có thể nộp hồ sơ trực tuyến trên môi trường điện tử.",
+    "b": "Giấy khám sức khỏe phải được cấp trong thời hạn 06 tháng tính đến ngày nộp hồ sơ.",
+    "c": "Giấy tờ chứng minh thời gian công tác pháp luật bắt buộc phải là bản chính.",
+    "d": "Người đề nghị bổ nhiệm nộp hồ sơ tại Sở Tư pháp nơi hoàn thành tập sự hành nghề công chứng.",
+    "answer": "c",
+    "explanation": "Căn cứ điểm b khoản 1 Điều 4 Nghị định 104/2025/NĐ-CP: Giấy tờ chứng minh thời gian công tác pháp luật có thể là “bản chính hoặc bản sao có chứng thực hoặc bản sao điện tử”, không bắt buộc phải là bản chính."
+  },
+  {
+    "question": "Tình huống: Ngày 01/7, Sở Tư pháp nhận hồ sơ bổ nhiệm công chứng viên của ông A. Ngày 04/7, Sở yêu cầu bổ sung giấy tờ do hồ sơ chưa đầy đủ. Ngày 20/7, ông A hoàn tất việc bổ sung. Theo quy định, thời hạn giải quyết hồ sơ của Sở Tư pháp được tính từ ngày nào?",
+    "a": "Ngày 01/7.",
+    "b": "Ngày 04/7.",
+    "c": "Ngày 20/7.",
+    "d": "Ngày Bộ Tư pháp nhận hồ sơ.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 4 Nghị định 104/2025/NĐ-CP: Trường hợp hồ sơ cần bổ sung hoặc xác minh thì thời hạn được tính từ ngày nhận được kết quả giải trình, bổ sung hoặc xác minh thông tin."
+  },
+  {
+    "question": "Theo Nghị định 104/2025/NĐ-CP, ai là người có thẩm quyền quyết định bổ nhiệm công chứng viên?",
+    "a": "Giám đốc Sở Tư pháp.",
+    "b": "Chủ tịch UBND cấp tỉnh.",
+    "c": "Bộ trưởng Bộ Tư pháp.",
+    "d": "Hội công chứng viên.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 4 Điều 4 Nghị định 104/2025/NĐ-CP: Bộ trưởng Bộ Tư pháp xem xét, quyết định bổ nhiệm công chứng viên."
+  },
+  {
+    "question": "Tình huống: Văn phòng công chứng X nhận được quyết định tạm đình chỉ hành nghề công chứng đối với công chứng viên B vào ngày 01/8. Tuy nhiên đến ngày 10/8, Sở Tư pháp mới đăng tải quyết định lên Cổng thông tin điện tử. Việc đăng tải này có đúng thời hạn không?",
+    "a": "Đúng vì vẫn trong thời hạn 15 ngày.",
+    "b": "Sai vì phải đăng tải ngay trong ngày ban hành quyết định.",
+    "c": "Sai vì phải đăng tải trong thời hạn 05 ngày làm việc kể từ ngày ban hành quyết định.",
+    "d": "Đúng vì pháp luật không quy định thời hạn đăng tải.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 5 Nghị định 104/2025/NĐ-CP: Trong thời hạn 05 ngày làm việc kể từ ngày ban hành quyết định, Sở Tư pháp phải đăng tải quyết định trên Cổng thông tin điện tử."
+  },
+  {
+    "question": "Theo Nghị định 104/2025/NĐ-CP, quyết định tạm đình chỉ hành nghề công chứng phải được đăng tải tối thiểu bao nhiêu ngày?",
+    "a": "05 ngày.",
+    "b": "10 ngày.",
+    "c": "15 ngày.",
+    "d": "30 ngày.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 5 Nghị định 104/2025/NĐ-CP: Thời gian đăng tải tối thiểu là 15 ngày."
+  },
+  {
+    "question": "Tình huống: Công chứng viên H thuộc trường hợp bị miễn nhiệm theo Luật Công chứng. Tuy nhiên, Sở Tư pháp chưa thực hiện đề nghị miễn nhiệm. Trong trường hợp này, ai có quyền trực tiếp xem xét, quyết định miễn nhiệm công chứng viên H?",
+    "a": "Chủ tịch UBND cấp tỉnh.",
+    "b": "Bộ trưởng Bộ Tư pháp.",
+    "c": "Giám đốc Sở Tư pháp.",
+    "d": "Hội công chứng viên.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 5 Điều 6 Nghị định 104/2025/NĐ-CP: Bộ trưởng Bộ Tư pháp tự mình xem xét, quyết định miễn nhiệm đối với công chứng viên thuộc trường hợp bị miễn nhiệm mà Sở Tư pháp không đề nghị miễn nhiệm."
+  },
+  {
+    "question": "Theo Nghị định 104/2025/NĐ-CP, công chứng viên bị miễn nhiệm không được ký văn bản công chứng kể từ thời điểm nào?",
+    "a": "Kể từ ngày Bộ Tư pháp nhận hồ sơ miễn nhiệm.",
+    "b": "Kể từ ngày Sở Tư pháp lập văn bản đề nghị miễn nhiệm.",
+    "c": "Kể từ thời điểm quyết định miễn nhiệm có hiệu lực thi hành.",
+    "d": "Kể từ ngày tổ chức hành nghề công chứng thông báo nội bộ.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 7 Điều 6 Nghị định 104/2025/NĐ-CP: “Công chứng viên không được ký văn bản công chứng kể từ thời điểm quyết định miễn nhiệm công chứng viên có hiệu lực thi hành”."
+  },
+  {
+    "question": "Tình huống: Công chứng viên Q trước đây bị miễn nhiệm theo khoản 5 Điều 6 Nghị định 104/2025/NĐ-CP. Nay ông Q muốn được bổ nhiệm lại công chứng viên. Theo quy định, ông Q phải nộp hồ sơ tại đâu?",
+    "a": "Sở Tư pháp nơi cư trú hiện tại.",
+    "b": "Bộ Tư pháp.",
+    "c": "Sở Tư pháp nơi hành nghề công chứng cuối cùng trước khi bị miễn nhiệm.",
+    "d": "UBND cấp tỉnh nơi đang làm việc.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 7 Nghị định 104/2025/NĐ-CP: Trường hợp bị miễn nhiệm theo khoản 5 Điều 6 thì nộp hồ sơ tại Sở Tư pháp nơi hành nghề công chứng cuối cùng trước khi bị miễn nhiệm."
+  },
+  {
+    "question": "Theo Nghị định 104/2025/NĐ-CP, tổ chức hành nghề công chứng phát hiện công chứng viên thuộc trường hợp đương nhiên miễn nhiệm thì phải thực hiện nghĩa vụ nào?",
+    "a": "Thông báo miệng cho Hội công chứng viên.",
+    "b": "Báo cáo kịp thời bằng văn bản cho Sở Tư pháp.",
+    "c": "Chờ công chứng viên tự làm đơn xin miễn nhiệm.",
+    "d": "Tự đình chỉ hành nghề công chứng viên đó.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 6 Điều 6 Nghị định 104/2025/NĐ-CP: Tổ chức hành nghề công chứng phải báo cáo kịp thời bằng văn bản cho Sở Tư pháp khi phát hiện công chứng viên thuộc trường hợp bị miễn nhiệm hoặc đương nhiên miễn nhiệm."
+  },
+  {
+    "question": "Theo Nghị định 104/2025/NĐ-CP, phát biểu nào sau đây là ĐÚNG?",
+    "a": "Hồ sơ bổ nhiệm lại công chứng viên chỉ được nộp trực tiếp.",
+    "b": "Giấy tờ trong hồ sơ bổ nhiệm lại bắt buộc phải là bản sao chứng thực.",
+    "c": "Người đề nghị bổ nhiệm lại có thể nộp hồ sơ trực tuyến trên môi trường điện tử.",
+    "d": "Chỉ Bộ Tư pháp mới được tiếp nhận hồ sơ bổ nhiệm lại công chứng viên.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 7 Nghị định 104/2025/NĐ-CP: Hồ sơ bổ nhiệm lại công chứng viên có thể nộp trực tiếp, qua bưu chính hoặc trực tuyến trên môi trường điện tử."
   }
 ]
