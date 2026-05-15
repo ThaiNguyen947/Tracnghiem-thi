@@ -165,7 +165,7 @@ function highlight() {
     let ans = answers[index];
     if (!ans) return;
 
-    // Chấp nhận cả chữ hoa và chữ thường khi highlight nút chọn trên giao diện
+    // Chấp nhận cả map chữ hoa lẫn chữ thường khi người dùng thao tác bấm nút
     const map = { A: 0, B: 1, C: 2, D: 3, a: 0, b: 1, c: 2, d: 3 };
     let btns = document.querySelectorAll(".option");
 
@@ -240,28 +240,60 @@ function submit() {
   let wrong = 0;
   let newWrong = [];
 
-  let html = "";
-
   questions.forEach((q, i) => {
     let userAns = answers[i] ? answers[i].toString().trim().toLowerCase() : "";
     let correctAns = q.answer ? q.answer.toString().trim().toLowerCase() : "";
     
-    // So sánh không phân biệt chữ hoa chữ thường
-    let ok = userAns === correctAns;
-
-    if (ok) {
+    // Nhận dạng an toàn không phân biệt Hoa - Thường (a === A)
+    if (userAns === correctAns) {
       correct++;
     } else {
       wrong++;
       newWrong.push(q);
     }
+  });
 
-    // Lấy text nội dung của đáp án đúng hiển thị lên màn hình kết quả
-    let textDapAnDung = "Không rõ";
-    if (correctAns === "a") textDapAnDung = `A. ${q.a}`;
-    if (correctAns === "b") textDapAnDung = `B. ${q.b}`;
-    if (correctAns === "c") textDapAnDung = `C. ${q.c}`;
-    if (correctAns === "d") textDapAnDung = `D. ${q.d}`;
+  wrongPool = newWrong;
+
+  // Giữ nguyên giao diện cũ, thêm cụm nút chức năng lọc câu hỏi
+  app.innerHTML = `
+    <div class="box">
+      <h1>KẾT QUẢ</h1>
+      <h2>✔ Đúng: ${correct}</h2>
+      <h2>❌ Sai: ${wrong}</h2>
+
+      <button class="btn" onclick="startExam()">THI LẠI</button>
+
+      <div style="margin-top: 20px; display: flex; gap: 10px; justify-content: center;">
+        <button class="nav-btn" style="background: #444; color: white; padding: 6px 12px;" onclick="filterResult('all')">Xem tất cả</button>
+        <button class="nav-btn" style="background: green; color: white; padding: 6px 12px;" onclick="filterResult('correct')">Xem câu đúng</button>
+        <button class="nav-btn" style="background: #b30000; color: white; padding: 6px 12px;" onclick="filterResult('wrong')">Xem câu sai</button>
+      </div>
+
+      <div id="result-list" style="margin-top:20px; text-align: left;">
+        </div>
+    </div>
+  `;
+
+  // Mặc định nộp bài xong sẽ load toàn bộ danh sách
+  filterResult('all');
+}
+
+// ================= FILTER RESULT LIST =================
+function filterResult(type) {
+  let listContainer = document.getElementById("result-list");
+  if (!listContainer) return;
+
+  let html = "";
+
+  questions.forEach((q, i) => {
+    let userAns = answers[i] ? answers[i].toString().trim().toLowerCase() : "";
+    let correctAns = q.answer ? q.answer.toString().trim().toLowerCase() : "";
+    let ok = userAns === correctAns;
+
+    // Logic kiểm tra điều kiện lọc dữ liệu
+    if (type === 'correct' && !ok) return;
+    if (type === 'wrong' && ok) return;
 
     html += `
       <div style="
@@ -269,11 +301,11 @@ function submit() {
         border-bottom:1px solid #ddd;
         white-space:pre-wrap;
         line-height:1.6;
-        font-family: Arial, sans-serif;
+        font-family: Arial;
       ">
         <b>Câu ${i + 1}:</b> ${q.question}<br>
-        <b>Bạn chọn:</b> ${answers[i] ? answers[i].toUpperCase() : "Không chọn"}<br>
-        <b style="color: green;">Đáp án đúng:</b> ${textDapAnDung}<br>
+
+        Bạn chọn: ${answers[i] ? answers[i].toUpperCase() : "Không chọn"} | Đáp án đúng: ${q.answer ? q.answer.toUpperCase() : "Không hợp lệ"}<br>
 
         <div style="
           margin-top:8px;
@@ -284,29 +316,16 @@ function submit() {
           background:#f9f9f9;
           padding:8px;
           border-radius:6px;
-          border-left: 4px solid #0066cc;
         ">
-          💡 <b>Giải thích:</b> ${q.explanation ? q.explanation : "Chưa có giải thích cho câu hỏi này."}
+          💡 <b>Giải thích:</b> ${q.explanation ? q.explanation : "Chưa có giải thích"}
         </div>
 
-        <b style="color:${ok ? 'green' : 'red'}; font-size: 14px; display: block; margin-top: 5px;">
+        <b style="color:${ok ? 'green' : 'red'}">
           ${ok ? "✔ ĐÚNG" : "❌ SAI"}
         </b>
       </div>
     `;
   });
 
-  wrongPool = newWrong;
-
-  app.innerHTML = `
-    <div class="box">
-      <h1>KẾT QUẢ BÀI THI</h1>
-      <h2 style="color: green;">✔ Đúng: ${correct} câu</h2>
-      <h2 style="color: red;">❌ Sai: ${wrong} câu</h2>
-      <button class="btn" onclick="startExam()">THI LẠI CÂU SAI</button>
-      <div style="margin-top:20px; text-align: left;">
-        ${html}
-      </div>
-    </div>
-  `;
+  listContainer.innerHTML = html || "<p style='text-align:center; color:#777; padding: 20px;'>Không tìm thấy câu hỏi tương ứng trong mục này.</p>";
 }
