@@ -1,5 +1,212 @@
 [
  {
+    "question": "Theo Luật Công chứng 2024, cơ quan đại diện ngoại giao, cơ quan đại diện lãnh sự của nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài được quyền công chứng loại giao dịch nào liên quan đến bất động sản tại Việt Nam?",
+    "a": "Hợp đồng cho thuê, thế chấp, góp vốn bằng bất động sản tại Việt Nam.",
+    "b": "Hợp đồng chuyển nhượng, tặng cho, chuyển đổi bất động sản tại Việt Nam.",
+    "c": "Văn bản từ chối nhận di sản là bất động sản tại Việt Nam.",
+    "d": "Được công chứng toàn bộ các loại hợp đồng, giao dịch về bất động sản tại Việt Nam nếu các bên đều là công dân Việt Nam.",
+    "answer": "c",
+    "explanation": "Căn cứ theo Khoản 1 Điều 73 Luật Công chứng 2024: Cơ quan đại diện ở nước ngoài được công chứng di chúc, văn bản từ chối nhận di sản, văn bản ủy quyền..., trừ hợp đồng mua bán, chuyển đổi, chuyển nhượng, tặng cho, cho thuê, thế chấp, góp vốn bằng bất động sản tại Việt Nam."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, ai là người có thẩm quyền yêu cầu Tòa án tuyên bố một văn bản công chứng vô hiệu khi có căn cứ cho rằng việc công chứng đó có vi phạm pháp luật?",
+    "a": "Chỉ duy nhất người yêu cầu công chứng hoặc người có quyền lợi, nghĩa vụ liên quan trực tiếp đến hợp đồng.",
+    "b": "Chỉ có cơ quan nhà nước có thẩm quyền hoặc Viện kiểm sát nhân dân tối cao.",
+    "c": "Công chứng viên đã thực hiện việc công chứng, người yêu cầu công chứng, người làm chứng, người phiên dịch, người có quyền lợi nghĩa vụ liên quan, cơ quan nhà nước có thẩm quyền.",
+    "d": "Bất kỳ tổ chức, cá nhân nào trong xã hội phát hiện ra sai phạm trong văn bản công chứng đó.",
+    "answer": "c",
+    "explanation": "Căn cứ theo Điều 74 Luật Công chứng 2024 (sửa đổi, bổ sung khoản 1 Điều 398 của Bộ luật Tố tụng dân sự) quy định rõ các chủ thể có quyền bao gồm: Công chứng viên đã thực hiện việc công chứng, người yêu cầu công chứng, người làm chứng, người phiên dịch, người có quyền lợi, nghĩa vụ liên quan, cơ quan nhà nước có thẩm quyền."
+  },
+  {
+    "question": "Theo quy định chuyển tiếp của Luật Công chứng 2024, thời hạn tối đa để giấy chứng nhận kiểm tra kết quả tập sự hành nghề công chứng (được cấp theo Luật cũ 2014) còn hiệu lực pháp luật để người đó đề nghị bổ nhiệm công chứng viên được quy định là bao lâu?",
+    "a": "Hết thời hạn 02 năm kể từ ngày Luật mới chính thức có hiệu lực thi hành.",
+    "b": "Hết thời hạn 03 năm kể từ ngày Luật mới chính thức có hiệu lực thi hành.",
+    "c": "Hết thời hạn 05 năm kể từ ngày Luật mới chính thức có hiệu lực thi hành.",
+    "d": "Tiếp tục có giá trị sử dụng vô thời hạn, người có giấy chứng nhận được đề nghị bổ nhiệm bất kỳ lúc nào.",
+    "answer": "c",
+    "explanation": "Căn cứ theo Đoạn 3 Khoản 2 Điều 76 Luật Công chứng 2024: Người đã được cấp giấy chứng nhận kiểm tra kết quả tập sự hành nghề công chứng theo quy định của Luật Công chứng số 53/2014/QH13 mà kể từ ngày được cấp giấy chứng nhận đến hết thời hạn 05 năm kể từ ngày Luật này có hiệu lực thi hành không đề nghị bổ nhiệm công chứng viên thì giấy chứng nhận hết hiệu lực."
+  },
+  {
+    "question": "Phân tích quy định chuyển tiếp về giới hạn tuổi hành nghề: Một công chứng viên tròn 69 tuổi tại ngày 01/7/2025 (ngày Luật Công chứng 2024 có hiệu lực). Mốc tuổi tối đa mà công chứng viên này được phép tiếp tục hành nghề trước khi đương nhiên bị miễn nhiệm là bao nhiêu?",
+    "a": "Được hành nghề đến khi tròn 70 tuổi.",
+    "b": "Được hành nghề đến khi tròn 72 tuổi.",
+    "c": "Được hành nghề đến khi tròn 73 tuổi.",
+    "d": "Được tiếp tục hành nghề thêm đúng 02 năm bất kể bao nhiêu tuổi.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 5 Điều 76 Luật Công chứng 2024 quy định lộ trình giới hạn tuổi đối với nhóm đối tượng này: '...công chứng viên từ đủ 68 đến đủ 70 tuổi tại ngày Luật này có hiệu lực thi hành thì được hành nghề công chứng đến khi đủ 72 tuổi. Khi hết thời hạn nêu trên, công chứng viên đương nhiên miễn nhiệm'."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, đối với một Văn phòng công chứng đã được thành lập trước ngày 01/7/2025 nhưng chưa xây dựng Điều lệ, thời hạn bắt buộc để văn phòng này hoàn thành việc xây dựng Điều lệ và gửi về Sở Tư pháp là bao lâu?",
+    "a": "In trong thời hạn 01 tháng kể từ ngày Luật này có hiệu lực thi hành.",
+    "b": "Trong thời hạn 03 tháng kể từ ngày Luật này có hiệu lực thi hành.",
+    "c": "Trong thời hạn 06 tháng kể từ ngày Luật này có hiệu lực thi hành.",
+    "d": "Trong thời hạn 01 năm kể từ ngày Luật này có hiệu lực thi hành.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Đoạn 1 Khoản 7 Điều 76 Luật Công chứng 2024: Văn phòng công chứng được thành lập trước ngày Luật này có hiệu lực thi hành mà chưa có Điều lệ thì phải xây dựng Điều lệ và gửi Sở Tư pháp trong thời hạn 03 tháng kể từ ngày Luật này có hiệu lực thi hành."
+  },
+  {
+    "question": "Phân tích tình huống chuyển tiếp về nhân sự cấp quản lý: Một Văn phòng công chứng có thành viên hợp danh chưa thực hiện việc góp vốn vào văn phòng trước ngày Luật Công chứng 2024 có hiệu lực. Văn phòng này phải hoàn thành việc góp vốn và gửi tài liệu chứng minh về Sở Tư pháp trong thời hạn bao lâu?",
+    "a": "Trong thời hạn 30 ngày kể từ ngày Luật này có hiệu lực thi hành.",
+    "b": "Trong thời hạn 03 tháng kể từ ngày Luật này có hiệu lực thi hành.",
+    "c": "Trong thời hạn 06 tháng kể từ ngày Luật này có hiệu lực thi hành.",
+    "d": "Trong thời hạn 01 năm kể từ ngày Luật này có hiệu lực thi hành.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Đoạn 1 Khoản 7 Điều 76 Luật Công chứng 2024: ...trường hợp có thành viên hợp danh chưa góp vốn vào Văn phòng công chứng thì phải thực hiện góp vốn và gửi tài liệu chứng minh về Sở Tư pháp trong thời hạn nêu trên (03 tháng kể từ ngày Luật này có hiệu lực thi hành)."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, đối với các hồ sơ đề nghị bổ nhiệm, bổ nhiệm lại, miễn nhiệm công chứng viên đã được nộp theo quy định của Luật cũ 2014 nhưng đến ngày 01/7/2025 chưa được cơ quan nhà nước giải quyết xong thì xử lý như thế nào?",
+    "a": "Bị hủy bỏ hoàn toàn, người nộp phải làm lại hồ sơ mới theo tiêu chuẩn của Luật 2024.",
+    "b": "Tiếp tục được giải quyết theo quy định của Luật Công chứng cũ số 53/2014/QH13.",
+    "c": "Tự động chuyển thẳng lên Bộ Tư pháp phê duyệt đặc cách trong vòng 15 ngày.",
+    "d": "Tạm đình chỉ giải quyết để chờ kết quả kiểm tra sát hạch bổ sung.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 3 Điều 76 Luật Công chứng 2024: Hồ sơ đề nghị bổ nhiệm, bổ nhiệm lại, miễn nhiệm công chứng viên được nộp theo quy định của Luật Công chứng số 53/2014/QH13 mà đến ngày Luật này có hiệu lực thi hành chưa được cơ quan nhà nước có thẩm quyền giải quyết xong thì tiếp tục được giải quyết theo quy định của Luật Công chứng số 53/2014/QH13."
+  },
+  {
+    "question": "Theo quy định chuyển tiếp của Luật Công chứng 2024, thời hạn để Chính phủ tổ chức rà soát các quy định về giao dịch phải công chứng tại các văn bản quy phạm pháp luật ban hành trước đây và hoàn thành việc sửa đổi, bổ sung, bãi bỏ theo thẩm quyền là bao lâu?",
+    "a": "Trong thời hạn 06 tháng kể từ ngày Luật này có hiệu lực thi hành.",
+    "b": "Trong thời hạn 01 năm kể từ ngày Luật này có hiệu lực thi hành.",
+    "c": "Trong thời hạn 02 năm kể từ ngày Luật này có hiệu lực thi hành.",
+    "d": "Trong thời hạn 03 năm kể từ ngày Luật này có hiệu lực thi hành.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 13 Điều 76 Luật Công chứng 2024: Trong thời hạn 01 năm kể từ ngày Luật này có hiệu lực thi hành, Chính phủ tổ chức rà soát các quy định về giao dịch phải công chứng tại các văn bản quy phạm pháp luật được ban hành trước ngày Luật này có hiệu lực thi hành và hoàn thành việc sửa đổi, bổ sung, bãi bỏ theo thẩm quyền..."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, một học viên đang tham gia khóa đào tạo nghề công chứng theo Luật cũ 2014 nhưng đến ngày 01/7/2025 vẫn chưa tốt nghiệp thì quy trình hoàn thành khóa học và tập sự hành nghề được thực hiện ra sao?",
+    "a": "Học viên phải học lại các học phần từ đầu theo khung chương trình mới của Luật 2024.",
+    "b": "Được tiếp tục hoàn thành khóa đào tạo theo quy định của Luật cũ 2014; việc đăng ký tập sự hành nghề công chứng sau khi được cấp giấy chứng nhận được thực hiện theo quy định của Luật mới 2024.",
+    "c": "Được đặc cách cấp luôn giấy chứng nhận tốt nghiệp mà không cần thi tốt nghiệp khóa cũ.",
+    "d": "Được tiếp tục học khóa cũ và việc tập sự sau này vẫn áp dụng theo thời gian quy định của Luật cũ.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Đoạn 2 Khoản 1 Điều 76 Luật Công chứng 2024: Người tham gia khóa đào tạo nghề công chứng... theo quy định của Luật cũ mà đến ngày Luật này có hiệu lực thi hành chưa hoàn thành thì được tiếp tục hoàn thành theo quy định của Luật cũ; việc đăng ký tập sự hành nghề công chứng sau khi được cấp giấy chứng nhận được thực hiện theo quy định của Luật này."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, thời hạn chuyển tiếp để các Phòng công chứng đã thành lập trước ngày Luật này có hiệu lực phải hoàn thành việc đáp ứng đầy đủ các điều kiện hoạt động quy định mới tại Điều 20 của Luật là bao lâu?",
+    "a": "Trong thời hạn 03 tháng kể từ ngày Luật này có hiệu lực thi hành.",
+    "b": "Trong thời hạn 06 tháng kể từ ngày Luật này có hiệu lực thi hành.",
+    "c": "Trong thời hạn 01 năm kể từ ngày Luật này có hiệu lực thi hành.",
+    "d": "Trong thời hạn 02 năm kể từ ngày Luật này có hiệu lực thi hành.",
+    "answer": "c",
+    "explanation": "Căn cứ theo Khoản 14 Điều 76 Luật Công chứng 2024: Phòng công chứng được thành lập trước ngày Luật này có hiệu lực thi hành được tiếp tục hoạt động và trong thời hạn 01 năm kể từ ngày Luật này có hiệu lực thi hành phải đáp ứng điều kiện quy định tại Điều 20 của Luật này."
+  },
+{
+    "question": "Theo Luật Công chứng 2024, viên chức lãnh sự, viên chức ngoại giao được giao thực hiện nhiệm vụ công chứng tại Cơ quan đại diện Việt Nam ở nước ngoài bắt buộc phải đáp ứng tiêu chuẩn nào về trình độ hoặc chuyên môn sau đây?",
+    "a": "Có thời gian công tác trong ngành ngoại giao tối thiểu từ 03 năm trở lên.",
+    "b": "Có bằng cử nhân luật hoặc thạc sĩ luật hoặc tiến sĩ luật hoặc được bồi dưỡng nghiệp vụ công chứng.",
+    "c": "Bắt buộc phải là công chứng viên đã từng bổ nhiệm và hành nghề tại Việt Nam.",
+    "d": "Đã hoàn thành khóa tập sự hành nghề công chứng 12 tháng tại các tổ chức hành nghề công chứng trong nước.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 2 Điều 73 Luật Công chứng 2024 quy định rất rõ về tiêu chuẩn nhân sự thực hiện: Viên chức lãnh sự, viên chức ngoại giao được giao thực hiện công chứng phải có bằng cử nhân luật hoặc thạc sĩ luật hoặc tiến sĩ luật hoặc được bồi dưỡng nghiệp vụ công chứng."
+  },
+  {
+    "question": "Theo quy định chuyển tiếp của Luật Công chứng 2024, đối với những người đã chấm dứt tư cách thành viên hợp danh của Văn phòng công chứng theo Luật cũ 2014, thời hạn 02 năm để hạn chế họ quyền thành lập hoặc tham gia hợp danh vào văn phòng mới được tính bắt đầu từ mốc thời gian nào?",
+    "a": "Kể từ ngày công chứng viên nộp đơn xin rút vốn hợp danh lên Văn phòng công chứng.",
+    "b": "Kể từ ngày quyết định của Sở Tư pháp về việc chấm dứt tư cách thành viên hợp danh có hiệu lực thi hành.",
+    "c": "Kể từ ngày Văn phòng công chứng cũ hoàn tất thủ tục thay đổi nội dung đăng ký hoạt động.",
+    "d": "Kể từ ngày Luật Công chứng 2024 chính thức có hiệu lực thi hành trên thực tế.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Đoạn 2 Khoản 8 Điều 76 Luật Công chứng 2024 quy định rõ mốc tính thời gian chuyển tiếp: ...thời hạn 02 năm được tính từ ngày quyết định của Sở Tư pháp về việc chấm dứt tư cách thành viên hợp danh có hiệu lực thi hành."
+  },
+  {
+    "question": "Theo quy định chuyển tiếp, đối với người đăng ký tập sự hoặc người tập sự hành nghề công chứng theo Luật cũ 2014 nhưng đến ngày 01/7/2025 vẫn chưa hoàn thành thời gian tập sự, họ phải thực hiện nghĩa vụ tập sự tiếp theo như thế nào?",
+    "a": "Được miễn trừ toàn bộ nghĩa vụ mới, chỉ cần tuân theo nội dung quy định của Luật cũ 2014 cho đến khi hết thời gian.",
+    "b": "Được thực hiện việc tập sự và phải thực hiện các nghĩa vụ của người tập sự theo quy định của Luật này từ ngày Luật này có hiệu lực thi hành.",
+    "c": "Bắt buộc phải đăng ký tập sự lại từ đầu và tính lại thời gian tập sự theo quy định của Luật mới.",
+    "d": "Phải tạm dừng việc tập sự để tham gia một khóa sát hạch bắt buộc của Sở Tư pháp trước khi tiếp tục.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Đoạn 2 Khoản 2 Điều 76 Luật Công chứng 2024: Người đăng ký tập sự, người tập sự theo quy định của Luật cũ số 53/2014/QH13 mà đến ngày Luật này có hiệu lực thi hành chưa tập sự, chưa hoàn thành việc tập sự thì được thực hiện việc tập sự và phải thực hiện các nghĩa vụ của người tập sự theo quy định của Luật này từ ngày Luật này có hiệu lực thi hành."
+  },
+  {
+    "question": "Theo quy định về điều khoản thi hành, mốc thời gian cụ thể nào được ấn định là thời điểm Luật Công chứng 2024 chính thức có hiệu lực thi hành và Luật Công chứng số 53/2014/QH13 hết hiệu lực pháp luật?",
+    "a": "Ngày 01 tháng 01 năm 2025.",
+    "b": "Ngày 01 tháng 07 năm 2025.",
+    "c": "Ngày 01 tháng 01 năm 2026.",
+    "d": "Ngày 26 tháng 11 năm 2024.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 1 Điều 75 Luật Công chứng 2024 quy định rõ mốc hiệu lực: Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2025 (Ngày 26/11/2024 chỉ là ngày Quốc hội bấm nút thông qua)."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, khi một Văn phòng công chứng được thành lập trước ngày 01/7/2025 và đã đăng ký hoạt động hợp pháp theo quy định của Luật cũ, tình trạng pháp lý đối với Thẻ công chứng viên đã cấp cho các công chứng viên thuộc văn phòng đó được xử lý như thế nào?",
+    "a": "Bị mất hiệu lực hoàn toàn, các công chứng viên phải nộp lại thẻ cũ để đổi thẻ mới trong vòng 30 ngày.",
+    "b": "Thẻ công chứng viên được cấp trước ngày Luật này có hiệu lực thi hành được tiếp tục sử dụng.",
+    "c": "Thẻ cũ chỉ có giá trị tạm thời trong vòng 06 tháng kể từ ngày Luật mới có hiệu lực.",
+    "d": "Thẻ cũ tự động chuyển đổi thành thẻ điện tử trên ứng dụng định danh mà không cần giữ phôi thẻ vật lý.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 9 Điều 76 Luật Công chứng 2024 quy định tính kế thừa pháp lý: Thẻ công chứng viên được cấp trước ngày Luật này có hiệu lực thi hành được tiếp tục sử dụng. Việc cấp lại, cấp mới thẻ công chứng viên được thực hiện theo quy định của Luật này."
+  },
+{
+    "question": "Phân tích tình huống chuyển tiếp về nhân sự hành nghề: Ông Khang là công chứng viên hợp danh của Văn phòng công chứng tư nhân hoạt động theo Luật cũ. Tháng 9/2025 (sau khi Luật mới có hiệu lực), ông Khang bị cơ quan nhà nước xử lý kỷ luật bằng hình thức miễn nhiệm công chứng viên. Đến năm 2026, ông Khang nộp hồ sơ xin bổ nhiệm lại. Quy trình xét hồ sơ bổ nhiệm lại của ông Khang phải tuân thủ quy định nào?",
+    "a": "Áp dụng toàn bộ điều kiện, tiêu chuẩn và quy trình bổ nhiệm lại quy định tại Luật Công chứng 2024.",
+    "b": "Tiếp tục áp dụng quy định của Luật cũ số 53/2014/QH13 vì ông Khang đã hành nghề từ thời kỳ trước.",
+    "c": "Sở Tư pháp tự động phê duyệt bổ nhiệm lại cho ông Khang sau khi hết thời hạn kỷ luật mà không cần xét điều kiện mới.",
+    "d": "Ông Khang bị cấm bổ nhiệm lại vĩnh viễn vì bị miễn nhiệm dưới thời Luật mới.",
+    "answer": "a",
+    "explanation": "Căn cứ theo Khoản 4 Điều 76 Luật Công chứng 2024 quy định rất rõ: Người đã được miễn nhiệm hoặc bị miễn nhiệm công chứng viên trước ngày Luật này có hiệu lực thi hành thì việc bổ nhiệm lại công chứng viên được thực hiện theo quy định của Luật này."
+  },
+  {
+    "question": "Phân tích tình huống về thẩm quyền công chứng tại nước ngoài: Bà Mai đang định cư tại Hàn Quốc và muốn lập một văn bản ủy quyền cho người thân tại Bình Dương thay mặt mình thực hiện thủ tục chuyển nhượng một căn nhà gắn liền với đất tại Việt Nam. Cơ quan đại diện ngoại giao Việt Nam tại Hàn Quốc có thẩm quyền công chứng văn bản này không?",
+    "a": "Không được phép công chứng vì đây là giao dịch gián tiếp định đoạt bất động sản tại Việt Nam.",
+    "b": "Được phép công chứng theo quy định của Luật Công chứng 2024 và pháp luật về lãnh sự, ngoại giao.",
+    "c": "Chỉ được phép chứng thực chữ ký trên văn bản ủy quyền chứ tuyệt đối không được công chứng.",
+    "d": "Chỉ được công chứng nếu căn nhà này không thuộc diện đang thế chấp tại ngân hàng thương mại Việt Nam.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 1 Điều 73 Luật Công chứng 2024, Cơ quan đại diện ngoại giao ở nước ngoài được công chứng 'các loại văn bản ủy quyền'. Lệnh cấm của điều khoản này chỉ áp dụng đối với các hợp đồng trực tiếp định đoạt quyền sở hữu/sử dụng bất động sản (mua bán, chuyển nhượng, tặng cho, thế chấp...), việc ủy quyền để người khác thay mặt thực hiện giao dịch hoàn toàn hợp pháp."
+  },
+  {
+    "question": "Tình huống bẫy thời gian chuyển tiếp về thủ tục hành chính: Văn phòng công chứng Bình Minh được Ủy ban nhân dân cấp tỉnh ra Quyết định cho phép thành lập vào tháng 5/2025 (thời điểm Luật cũ còn hiệu lực) nhưng đến ngày 15/07/2025 (sau khi Luật mới có hiệu lực) văn phòng mới tiến hành nộp hồ sơ đăng ký hoạt động tại Sở Tư pháp. Cơ quan quản lý sẽ áp dụng quy định nào để xử lý hồ sơ này?",
+    "a": "Từ chối tiếp nhận hồ sơ và yêu cầu văn phòng phải làm lại thủ tục xin phép thành lập từ đầu theo Luật mới 2024.",
+    "b": "Tiếp tục thực hiện quy trình đăng ký hoạt động và cấp Giấy phép hoạt động theo quy định của Luật Công chứng số 53/2014/QH13.",
+    "c": "Bắt buộc văn phòng phải kết nạp ngay 02 công chứng viên hợp danh thì mới cấp giấy đăng ký hoạt động.",
+    "d": "Sở Tư pháp áp dụng quy trình công chứng điện tử trực tuyến để cấp đăng ký hoạt động đặc cách.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 6 Điều 76 Luật Công chứng 2024 quy định giải quyết chuyển tiếp: Văn phòng công chứng được thành lập trước ngày Luật này có hiệu lực thi hành mà đến ngày Luật này có hiệu lực thi hành chưa đăng ký hoạt động thì tiếp tục đăng ký hoạt động theo quy định của Luật Công chứng số 53/2014/QH13."
+  },
+  {
+    "question": "Phân tích tình huống sửa đổi văn bản công chứng cũ: Hợp đồng thế chấp tài sản giữa Ngân hàng A và ông Bình được thực hiện và công chứng hợp pháp tại một Phòng công chứng vào năm 2023. Năm 2026, hai bên ký thỏa thuận bổ sung nhằm điều chỉnh hạn mức dư nợ của hợp đồng thế chấp này. Quy trình và thủ tục sửa đổi, bổ sung văn bản công chứng cũ này phải áp dụng theo luật nào?",
+    "a": "Bắt buộc phải áp dụng quy trình sửa đổi, bổ sung theo quy định của Luật Công chứng cũ năm 2014.",
+    "b": "Áp dụng theo quy định của Luật Công chứng 2024 về quy trình, thủ tục sửa đổi, bổ sung hợp đồng giao dịch.",
+    "c": "Không được sửa đổi văn bản cũ mà bắt buộc hai bên phải ký văn bản hủy bỏ hợp đồng năm 2023 và lập hợp đồng thế chấp mới.",
+    "d": "Do Phòng công chứng thực hiện tự động dựa trên biên bản thỏa thuận của ngân hàng mà không cần lập văn bản công chứng sửa đổi.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 11 Điều 76 Luật Công chứng 2024 quy định rất rõ đối với các giao dịch quá khứ: Đối với hợp đồng, giao dịch đã được công chứng trước ngày Luật này có hiệu lực thi hành, việc cấp bản sao, sửa đổi, bổ sung, chấm dứt, hủy bỏ, sửa lỗi kỹ thuật văn bản công chứng được thực hiện theo quy định của Luật này."
+  },
+  {
+    "question": "Tình huống về quản lý tổ chức xã hội - nghề nghiệp: Công chứng viên Minh đã có Thẻ công chứng viên và đang hành nghề tại địa phương X trước ngày 01/07/2025 nhưng chưa gia nhập Hội công chứng viên của tỉnh X. Đến hết tháng 11/2025, ông Minh vẫn cố tình không nộp hồ sơ gia nhập Hội công chứng viên tại đây. Hành vi của ông Minh sẽ dẫn đến hậu quả pháp lý nào theo quy định chuyển tiếp?",
+    "a": "Hợp đồng do ông Minh ký công chứng từ tháng 11/2025 trở đi tự động bị Tòa án tuyên vô hiệu.",
+    "b": "Ông Minh vi phạm nghĩa vụ bắt buộc trong thời hạn chuyển tiếp và sẽ bị xem xét xử lý vi phạm, thu hồi thẻ hoặc đương nhiên miễn nhiệm theo quy định kiểm soát hành nghề.",
+    "c": "Không chịu hậu quả gì vì thời hạn bắt buộc gia nhập Hội công chứng viên được luật gia hạn lên đến 02 năm kể từ ngày Luật có hiệu lực.",
+    "d": "Văn phòng công chứng nơi ông Minh làm việc sẽ bị Sở Tư pháp ra quyết định đình chỉ hoạt động 03 tháng.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 10 Điều 76 Luật Công chứng 2024, mốc thời gian bắt buộc để công chứng viên cũ gia nhập Hội công chứng viên địa phương là '03 tháng kể từ ngày Luật này có hiệu lực thi hành'. Quá thời hạn này (tức là sau ngày 01/10/2025), nếu công chứng viên không chấp hành sẽ bị coi là vi phạm điều kiện hành nghề bắt buộc và phải chịu các chế tài xử lý của cơ quan quản lý nhà nước."
+  },
+{
+    "question": "Phân tích tình huống về thẩm quyền và nghĩa vụ của viên chức ngoại giao thực hiện công chứng ở nước ngoài: Khi viên chức lãnh sự tại Đại sứ quán Việt Nam ở Nhật Bản thực hiện công chứng một văn bản từ chối nhận di sản, viên chức này có các quyền và nghĩa vụ nào theo Luật Công chứng 2024?",
+    "a": "Có đầy đủ 100% các quyền và nghĩa vụ của một công chứng viên đang hành nghề tại tổ chức hành nghề công chứng trong nước.",
+    "b": "Chỉ có các nghĩa vụ về lưu trữ hồ sơ, không có các quyền từ chối công chứng khi văn bản vi phạm đạo đức xã hội.",
+    "c": "Có một số quyền cụ thể (như đề nghị cơ quan xác minh, dịch thuật) và các nghĩa vụ (như giải thích quyền lợi, chịu trách nhiệm trước pháp luật) được quy định dẫn chiếu từ Điều 18 của Luật này.",
+    "d": "Không có quyền và nghĩa vụ nào theo Luật Công chứng mà tuân thủ tuyệt đối theo Luật ký kết điều ước quốc tế.",
+    "answer": "c",
+    "explanation": "Căn cứ theo Khoản 3 Điều 73 Luật Công chứng 2024 quy định rất rõ về việc thu hẹp và chỉ dẫn chiếu một số quyền và nghĩa vụ cụ thể: Viên chức lãnh sự, viên chức ngoại giao thực hiện công chứng... có quyền quy định tại các điểm c, d và đ khoản 1 và nghĩa vụ quy định tại các điểm a, b, d, đ, e, i và l khoản 2 Điều 18 của Luật này."
+  },
+  {
+    "question": "Tình huống bẫy hiệu lực văn bản quy phạm pháp luật: Vào tháng 10/2025 (sau khi Luật Công chứng 2024 đã có hiệu lực), một Nghị định của Chính phủ ban hành từ năm 2020 có quy định về một loại giao dịch bắt buộc phải công chứng. Trình tự rà soát và tính hiệu lực của quy định bắt buộc công chứng tại Nghị định này được xử lý như thế nào?",
+    "a": "Nghị định này tự động bị vô hiệu hoàn toàn ngay tại ngày 01/07/2025 do Luật cũ đã hết hiệu lực.",
+    "b": "Trong vòng 01 năm kể từ ngày Luật mới có hiệu lực, Chính phủ phải rà soát; sau thời hạn này, nếu đáp ứng các yêu cầu tại khoản 1 Điều 3 và thuộc diện quy định để xử lý kết quả rà soát thì quy định tại Nghị định đó vẫn có hiệu lực thi hành.",
+    "c": "Chính phủ phải ban hành ngay một Luật sửa đổi bổ sung thay thế cho Nghị định này trong vòng 30 ngày kể từ khi Quốc hội thông qua Luật Công chứng.",
+    "d": "Quy định tại Nghị định cũ tự động có hiệu lực vĩnh viễn mà Chính phủ không cần phải tổ chức rà soát hay sửa đổi gì.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 13 Điều 76 Luật Công chứng 2024: Trong thời hạn 01 năm kể từ ngày Luật này có hiệu lực thi hành, Chính phủ tổ chức rà soát... Sau thời hạn quy định tại khoản này, quy định về giao dịch phải công chứng tại nghị định được ban hành trước ngày Luật này có hiệu lực thi hành... nhưng đáp ứng các yêu cầu khác quy định tại khoản 1 Điều 3... thì vẫn có hiệu lực thi hành."
+  },
+  {
+    "question": "Phân tích tình huống xử lý vi phạm đối với Văn phòng công chứng cũ: Văn phòng công chứng X được thành lập hợp pháp theo Luật cũ 2014 dưới dạng Công ty hợp danh. Tháng 8/2025 (sau khi Luật mới có hiệu lực), Văn phòng X vi phạm nghiêm trọng quy định về quản lý hành chính và thuộc diện bị thu hồi quyết định cho phép thành lập. Cơ quan nhà nước có thẩm quyền sẽ áp dụng luật nào để thực hiện thủ tục thu hồi và chấm dứt hoạt động đối với văn phòng này?",
+    "a": "Bắt buộc phải áp dụng quy trình thu hồi và chấm dứt hoạt động theo quy định của Luật cũ 2014 để đảm bảo tính liên tục.",
+    "b": "Áp dụng theo quy định của Luật Công chứng 2024 đối với việc thu hồi quyết định cho phép thành lập và chấm dứt hoạt động.",
+    "c": "Áp dụng theo các quy định của Luật Doanh nghiệp về giải thể công ty hợp danh chứ không áp dụng Luật Công chứng.",
+    "d": "Sở Tư pháp phải xin ý kiến hướng dẫn bằng văn bản của Bộ Tư pháp đối với từng trường hợp cụ thể vì đây là đối tượng chuyển tiếp.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Đoạn 2 Khoản 7 Điều 76 Luật Công chứng 2024 quy định rõ về chế tài xử lý vi phạm trong giai đoạn chuyển tiếp: Việc thu hồi quyết định cho phép thành lập và chấm dứt hoạt động đối với Văn phòng công chứng được thành lập theo quy định của Luật Công chứng số 53/2014/QH13 được thực hiện theo quy định của Luật này (tức Luật mới 2024)."
+  },
+ {
     "question": "Theo Luật Công chứng, điều kiện bắt buộc về mặt kỹ thuật để văn bản công chứng điện tử chính thức phát sinh hiệu lực pháp luật là gì và được tính từ thời điểm nào?",
     "a": "Có hiệu lực sau 24 giờ kể từ khi được đưa lên hệ thống Cơ sở dữ liệu công chứng điện tử quốc gia.",
     "b": "Kể từ thời điểm văn bản được ký bằng chữ ký số của công chứng viên và chữ ký số của tổ chức hành nghề công chứng.",
