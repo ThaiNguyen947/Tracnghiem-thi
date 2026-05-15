@@ -1,5 +1,139 @@
 [ 
-  
+ {
+    "question": "Ông Bình thế chấp quyền sử dụng đất tại Văn phòng công chứng X để vay vốn tại Ngân hàng BIDV. Sáu tháng sau, giá đất tăng, ông Bình muốn tiếp tục thế chấp mảnh đất này để bảo đảm cho một khoản vay khác tại Ngân hàng Vietinbank. Theo quy định tại  Luật Công chứng 2024, hợp đồng thế chấp tiếp theo này phải được công chứng ở đâu?",
+    "a": "Tại bất kỳ tổ chức hành nghề công chứng nào thuộc tỉnh nơi có thửa đất đó.",
+    "b": "Bắt buộc phải thực hiện tại Văn phòng công chứng X (nơi công chứng hợp đồng thế chấp lần đầu).",
+    "c": "Tại Cơ quan tài nguyên và môi trường nơi đăng ký biến động đất đai.",
+    "d": "Phải do Phòng Công chứng nhà nước thực hiện để đảm bảo tính khách quan.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 2 Điều 56 Luật Công chứng 2024: '...các hợp đồng thế chấp tiếp theo phải được công chứng tại tổ chức hành nghề công chứng đã công chứng hợp đồng thế chấp lần đầu'."
+  },
+  {
+    "question": "Anh Nam ở Bình Dương muốn ủy quyền cho chị Mai ở Hà Nội bán hộ một chiếc xe ô tô. Do khoảng cách địa lý, anh Nam đến VPCC A tại Bình Dương ký chứng nhận việc đề nghị ủy quyền, sau đó gửi hợp đồng này ra Hà Nội để chị Mai đến VPCC B ký tiếp vào bản gốc xác nhận việc chấp nhận ủy quyền. Theo Luật Công chứng 2024, văn bản công chứng hợp đồng ủy quyền này chính thức có hiệu lực từ thời điểm nào?",
+    "a": "Kể từ thời điểm anh Nam ký tên tại VPCC A ở Bình Dương.",
+    "b": "Kể từ thời điểm VPCC B nhận được hợp đồng chuyển phát nhanh từ Bình Dương ra.",
+    "c": "Kể từ thời điểm công chứng viên của VPCC B (nơi chị Mai yêu cầu công chứng) ký và đóng dấu của tổ chức mình.",
+    "d": "Kể từ ngày anh Nam và chị Mai hoàn thành việc gửi 01 bản gốc trở lại cho VPCC A.",
+    "answer": "C",
+    "explanation": "Căn cứ Đoạn 2 Khoản 1 Điều 57 Luật Công chứng 2024: 'Văn bản công chứng hợp đồng ủy quyền có hiệu lực kể từ thời điểm được công chứng viên của tổ chức hành nghề công chứng mà bên ủy quyền và bên được ủy quyền yêu cầu công chứng ký và đóng dấu của tổ chức hành nghề công chứng đó'."
+  },
+  {
+    "question": "Bà Vy đang điều trị bệnh nặng tại bệnh viện, tiên lượng xấu và tính mạng bị cái chết đe dọa. Bà yêu cầu Công chứng viên đến lập di chúc công chứng và được miễn xuất trình Giấy chứng nhận quyền sở hữu nhà đất tại thời điểm đó. Bà Vy qua khỏi đợt bạo bệnh và ra viện khỏe mạnh. Theo  Luật Công chứng 2024, văn bản di chúc công chứng này sẽ bị coi là KHÔNG CÓ HIỆU LỰC nếu bà Vy vi phạm điều kiện nào?",
+    "a": "Không đi công chứng lại một bản di chúc mới hoàn toàn.",
+    "b": "Không nộp đủ các giấy tờ tài sản theo quy định trong thời hạn 03 tháng kể từ thời điểm lập di chúc, khi không còn trong tình trạng nguy hiểm tính mạng.",
+    "c": "Không thông báo bằng văn bản cho cơ quan quản lý cơ sở dữ liệu dân cư.",
+    "d": "Không nộp lại phí công chứng lưu động ngoài trụ sở cho văn phòng công chứng.",
+    "answer": "B",
+    "explanation": "Căn cứ Đoạn 2 Khoản 3 Điều 58 Luật Công chứng 2024: 'Sau 03 tháng kể từ thời điểm lập di chúc... mà người lập di chúc không còn trong tình trạng nguy hiểm đến tính mạng thì người lập di chúc phải nộp đủ giấy tờ quy định tại khoản 1 Điều 42 của Luật này, nếu người lập di chúc không nộp đủ... thì văn bản công chứng di chúc không có hiệu lực'."
+  },
+  {
+    "question": "Ông Sơn lập di chúc công chứng tại Văn phòng công chứng Nguyễn Văn A và gửi di chúc này lại văn phòng để nhận lưu giữ. Hai năm sau, ông Sơn đổi ý và đến Văn phòng công chứng Trần Văn B để yêu cầu công chứng một văn bản hủy bỏ toàn bộ di chúc đã lập trước đó. Quy trình này đúng hay sai theo quy định tại  Luật Công chứng 2024?",
+    "a": "Sai, vì muốn hủy bỏ hoặc sửa đổi di chúc cũ, ông Sơn bắt buộc phải quay về đúng Văn phòng công chứng Nguyễn Văn A.",
+    "b": "Đúng, ông Sơn có thể yêu cầu bất kỳ tổ chức hành nghề công chứng nào thực hiện việc hủy bỏ, nhưng phải thông báo cho Văn phòng công chứng Nguyễn Văn A biết việc hủy bỏ này.",
+    "c": "Sai, di chúc đã gửi lưu giữ tại văn phòng nào thì chỉ được sửa đổi, không được phép hủy bỏ.",
+    "d": "Đúng, ông Sơn được làm tại văn phòng mới và không cần phải thông báo gì cho văn phòng cũ.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 4 Điều 58 Luật Công chứng 2024: '...người lập di chúc muốn sửa đổi, bổ sung, thay thế, hủy bỏ một phần hoặc toàn bộ di chúc thì có thể yêu cầu công chứng viên của bất kỳ tổ chức hành nghề công chứng nào... Trường hợp di chúc trước đó đang được lưu giữ tại 01 tổ chức hành nghề công chứng thì người lập di chúc phải thông báo cho tổ chức hành nghề công chứng đang lưu giữ di chúc biết...'."
+  },
+  {
+    "question": "Văn phòng công chứng tiếp nhận hồ sơ yêu cầu công chứng văn bản thỏa thuận phân chia di sản thừa kế của ông Hải. Qua kiểm tra hồ sơ, CCV xác định ông Hải là người thừa kế duy nhất theo pháp luật của người chết để lại di sản (không còn bất kỳ ai khác thuộc các hàng thừa kế). Trường hợp này tổ chức hành nghề công chứng có phải tiến hành thủ tục niêm yết việc tiếp nhận công chứng phân chia di sản hay không?",
+    "a": "Không cần niêm yết, vì chỉ có duy nhất 01 người thừa kế nên không thể xảy ra tranh chấp phân chia.",
+    "b": "Bắt buộc phải niêm yết theo quy định chung, vì thủ tục niêm yết này cũng áp dụng đối với trường hợp chỉ có 01 người thừa kế.",
+    "c": "Chỉ cần niêm yết nếu tài sản thừa kế là bất động sản, nếu là động sản (tiền, ô tô) thì miễn niêm yết.",
+    "d": "Tùy thuộc vào quyết định của Trưởng văn phòng công chứng dựa trên việc xác minh nhân thân.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 5 Điều 59 Luật Công chứng 2024: 'Thủ tục công chứng văn bản phân chia di sản theo quy định tại các khoản 2, 3 và 4 Điều này cũng áp dụng đối với trường hợp thừa kế theo di chúc hoặc thừa kế theo pháp luật mà chỉ có 01 người thừa kế'."
+  },
+  {
+    "question": "Văn phòng công chứng Minh Khang nhận lưu giữ di chúc của khách hàng và có thu phí lưu giữ. Sau đó, do làm ăn thua lỗ, văn phòng này thực hiện thủ tục giải thể và chấm dứt hoạt động. Trước khi chấm dứt hoạt động, văn phòng đã chủ động liên hệ với người lập di chúc nhưng hai bên không thỏa thuận được về việc chuyển giao di chúc cho văn phòng khác lưu giữ. Theo  Luật Công chứng 2024, văn phòng công chứng Minh Khang phải xử lý bản di chúc như thế nào?",
+    "a": "Chuyển giao thẳng bản di chúc đó vào kho lưu trữ của Sở Tư pháp.",
+    "b": "Tiến hành hủy niêm phong và tiêu hủy bản di chúc.",
+    "c": "Di chúc và phí lưu giữ di chúc phải được trả lại cho người lập di chúc.",
+    "d": "Bàn giao di chúc cho người thừa kế hợp pháp của người lập di chúc.",
+    "answer": "C",
+    "explanation": "Căn cứ Khoản 2 Điều 61 Luật Công chứng 2024 quy định: 'Trường hợp không có thỏa thuận hoặc không thỏa thuận được thì di chúc và phí lưu giữ di chúc phải được trả lại cho người lập di chúc'."
+  },
+{
+    "question": "Theo Luật Công chứng, trường hợp tổ chức hành nghề công chứng đang lưu giữ di chúc nhận lưu giữ của khách hàng bị giải thể và chấm dứt hoạt động, nhưng trước khi giải thể không liên hệ được với người lập di chúc thì bản di chúc đó phải xử lý như thế nào?",
+    "a": "Tiến hành bàn giao trực tiếp cho những người thuộc hàng thừa kế thứ nhất của người lập di chúc.",
+    "b": "Bản di chúc được chuyển giao cho tổ chức hành nghề công chứng tiếp nhận hồ sơ của tổ chức đã chấm dứt hoạt động đó.",
+    "c": "Chuyển giao cho Ủy ban nhân dân cấp xã nơi người lập di chúc cư trú để thông báo tìm kiếm.",
+    "d": "Tiến hành lập biên bản kiểm kê, hủy niêm phong và lưu trữ tại Sở Tư pháp.",
+    "answer": "B",
+    "explanation": "Căn cứ theo Khoản 2 Điều 61 Luật Công chứng 2024: Trường hợp không liên hệ được với người lập di chúc thì di chúc được chuyển giao cho tổ chức hành nghề công chứng tiếp nhận hồ sơ của tổ chức hành nghề công chứng đã chấm dứt hoạt động, chuyển đổi hoặc giải thể."
+  },
+  {
+    "question": "Theo Luật Công chứng, khi thực hiện sửa đổi hoặc bổ sung một hợp đồng ủy quyền hai bên ở hai nơi khác nhau (đã được công chứng tại hai văn phòng công chứng khác nhau), nếu hai bên thỏa thuận cùng đến một trong hai văn phòng cũ để yêu cầu thực hiện thì văn phòng tiếp nhận có trách nhiệm gì?",
+    "a": "Yêu cầu các bên phải hủy bỏ hợp đồng ủy quyền cũ để lập một hợp đồng mới hoàn toàn.",
+    "b": "Từ chối tiếp nhận và yêu cầu hai bên phải quay về đúng hai văn phòng cũ riêng biệt để ký như lần đầu.",
+    "c": "Thông báo và gửi 01 bản sao của văn bản sửa đổi, bổ sung cho tổ chức hành nghề công chứng còn lại để lưu hồ sơ công chứng.",
+    "d": "Gửi thông báo bằng văn bản cho Sở Tư pháp nơi tổ chức hành nghề công chứng còn lại đặt trụ sở.",
+    "answer": "C",
+    "explanation": "Căn cứ theo Khoản 2 Điều 57 Luật Công chứng 2024: Trường hợp hai bên cùng yêu cầu công chứng tại một trong hai tổ chức hành nghề công chứng đã thực hiện việc công chứng trước đó thì tổ chức hành nghề công chứng này có trách nhiệm thông báo và gửi 01 bản sao của văn bản sửa đổi, bổ sung, thỏa thuận chấm dứt hợp đồng cho tổ chức hành nghề công chứng còn lại để lưu hồ sơ công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng, trong hồ sơ yêu cầu công chứng văn bản phân chia di sản thừa kế, giấy tờ nào sau đây là bắt buộc phải xuất trình để chứng minh quyền tài sản của người để lại di sản trong trường hợp di sản là quyền sử dụng đất?",
+    "a": "Bản án hoặc quyết định ly hôn chia tài sản trước đây của người để lại di sản.",
+    "b": "Giấy tờ chứng minh quyền sử dụng đất, quyền sở hữu tài sản của người để lại di sản.",
+    "c": "Văn bản xác nhận quy hoạch và không có tranh chấp của Ủy ban nhân dân cấp xã.",
+    "d": "Tờ khai lệ phí trước bạ và biên lai nộp thuế đất phi nông nghiệp hàng năm.",
+    "answer": "B",
+    "explanation": "Căn cứ theo Điểm c Khoản 2 Điều 59 Luật Công chứng 2024: Hồ sơ yêu cầu công chứng văn bản phân chia di sản ngoài các giấy tờ chung thì phải có 'Giấy tờ chứng minh quyền sử dụng đất, quyền sở hữu tài sản của người để lại di sản trong trường hợp di sản là quyền sử dụng đất hoặc tài sản pháp luật quy định phải đăng ký quyền sở hữu'."
+  },
+  {
+    "question": "Theo Luật Công chứng, khi công chứng viên tiến hành thủ tục sửa lỗi kỹ thuật đối với văn bản hợp đồng ủy quyền hai bên ở hai nơi (do lỗi đánh máy tại văn phòng mình), ngoài việc đính chính trên văn bản thì công chứng viên phải thực hiện nghĩa vụ nào sau đây đối với văn phòng còn lại?",
+    "a": "Xin ý kiến chấp thuận bằng văn bản của Trưởng văn phòng công chứng còn lại trước khi sửa.",
+    "b": "Yêu cầu văn phòng còn lại phải thu hồi toàn bộ các bản gốc hợp đồng đã phát cho khách hàng.",
+    "c": "Thông báo về việc sửa lỗi kỹ thuật cho tổ chức hành nghề công chứng còn lại đã thực hiện việc công chứng trong thời hạn 03 ngày làm việc kể từ ngày hoàn thành.",
+    "d": "Không cần thực hiện bất kỳ thủ tục nào vì lỗi kỹ thuật thuộc trách nhiệm riêng của từng văn phòng.",
+    "answer": "C",
+    "explanation": "Căn cứ theo Khoản 3 Điều 57 Luật Công chứng 2024: Công chứng viên thực hiện việc sửa lỗi kỹ thuật theo quy định tại khoản 3 và khoản 4 Điều 52 của Luật này, thông báo về việc sửa lỗi kỹ thuật cho tổ chức hành nghề công chứng còn lại đã thực hiện việc công chứng trong thời hạn 03 ngày làm việc kể từ ngày hoàn thành việc sửa lỗi kỹ thuật."
+  },
+  {
+    "question": "Theo Luật Công chứng, trường hợp một người yêu cầu công chứng văn bản từ từ chối nhận di sản thừa kế, thành phần hồ sơ nào sau đây KHÔNG bắt buộc phải có trong hồ sơ yêu cầu công chứng?",
+    "a": "Giấy chứng tử hoặc giấy tờ khác chứng minh người để lại di sản đã chết.",
+    "b": "Di chúc (nếu thừa kế theo di chúc) hoặc giấy tờ chứng minh quan hệ thừa kế (nếu thừa kế theo pháp luật).",
+    "c": "Giấy xác nhận tình trạng hôn nhân hoặc giấy chứng nhận kết hôn của người từ chối nhận di sản.",
+    "d": "Bản sao giấy tờ tùy thân của người yêu cầu công chứng từ chối nhận di sản.",
+    "answer": "C",
+    "explanation": "Căn cứ theo Điều 60 Luật Công chứng 2024 quy định về hồ sơ công chứng văn bản từ chối nhận di sản: Thành phần hồ sơ bao gồm giấy tờ tùy thân, dự thảo văn bản, giấy chứng tử của người để lại di sản, di chúc hoặc giấy tờ chứng minh quan hệ tài sản/thừa kế. Không có quy định bắt buộc phải nộp giấy tờ chứng minh tình trạng hôn nhân riêng của người từ chối."
+  },
+{
+    "question": "Theo Luật Công chứng, khi nhận lưu giữ di chúc của khách hàng, Công chứng viên có trách nhiệm thực hiện những thủ tục nào sau đây?\n1. Niêm phong bản di chúc trước mặt người lập di chúc.\n2. Ghi giấy nhận lưu giữ và giao cho người lập di chúc.\n3. Ghi rõ thông tin về tổ chức hành nghề công chứng, công chứng viên niêm phong và người lập di chúc trên giấy nhận lưu giữ.\n4. Thông báo bằng văn bản cho Ủy ban nhân dân cấp xã nơi người lập di chúc cư trú.",
+    "a": "1, 2 và 4.",
+    "b": "1, 2 và 3.",
+    "c": "2, 3 và 4.",
+    "d": "Cả 4 thủ tục trên.",
+    "answer": "B",
+    "explanation": "Căn cứ theo Khoản 1 Điều 61 Luật Công chứng 2024: Khi nhận lưu giữ di chúc, công chứng viên phải niêm phong bản di chúc trước mặt người lập di chúc, ghi giấy nhận lưu giữ và giao cho người lập di chúc. Giấy nhận lưu giữ phải có thông tin về tổ chức hành nghề công chứng, công chứng viên niêm phong, người lập di chúc. Luật không quy định nghĩa vụ thông báo cho Ủy ban nhân dân cấp xã."
+  },
+  {
+    "question": "Anh Thắng (ở Tây Ninh) ủy quyền cho chị Hồng (ở Bình Dương) bán một căn nhà. Hai người thực hiện thủ tục ủy quyền từ xa tại hai văn phòng công chứng khác nhau theo quy định của Luật Công chứng. Sau khi chị Hồng ký nhận ủy quyền tại Bình Dương, văn phòng công chứng tại Bình Dương đã đóng dấu, trả hồ sơ cho chị Hồng nhưng quên không gửi 01 bản gốc về văn phòng tại Tây Ninh để lưu hồ sơ. Hợp đồng ủy quyền này đã có hiệu lực pháp luật chưa?",
+    "a": "Chưa, vì chưa hoàn thành thủ tục gửi trả 01 bản gốc về cho văn phòng lưu hồ sơ ban đầu.",
+    "b": "Chưa, hợp đồng từ xa chỉ có hiệu lực khi hai văn phòng công chứng cùng ký đóng dấu vào một thời điểm.",
+    "c": "Rồi, hợp đồng có hiệu lực ngay khi Công chứng viên nơi chị Hồng (bên được ủy quyền) ký và đóng dấu.",
+    "d": "Rồi, hợp đồng có hiệu lực kể từ thời điểm anh Thắng ký đề nghị ủy quyền tại Tây Ninh.",
+    "answer": "C",
+    "explanation": "Căn cứ theo Khoản 1 Điều 57 Luật Công chứng 2024: Văn bản công chứng hợp đồng ủy quyền có hiệu lực kể từ thời điểm được công chứng viên của tổ chức hành nghề công chứng mà bên ủy quyền và bên được ủy quyền yêu cầu công chứng ký và đóng dấu. Ở đây, bên được ủy quyền (chị Hồng) là người ký sau, nên khi CCV nơi chị Hồng ký đóng dấu là hợp đồng phát sinh hiệu lực. Việc gửi bản gốc lưu trữ là thủ tục hành chính hậu công chứng, không ảnh hưởng đến hiệu lực giao dịch."
+  },
+  {
+    "question": "Ông Nam lập di chúc công chứng tại Văn phòng công chứng A để để lại toàn bộ tài sản cho con trai. Một năm sau, do mâu thuẫn gia đình, ông Nam đến Văn phòng công chứng B yêu cầu công chứng văn bản thay thế di chúc cũ, chuyển toàn bộ tài sản cho con gái. Tại đây, do vội vàng, ông Nam quên không thông báo cho Văn phòng công chứng A biết về việc thay thế này. Theo Luật Công chứng, văn bản thay thế di chúc lập tại Văn phòng B có hiệu lực không?",
+    "a": "Không có hiệu lực, vì ông Nam vi phạm nghĩa vụ thông báo cho tổ chức đang lưu giữ di chúc cũ.",
+    "b": "Có hiệu lực pháp luật, việc quên thông báo không làm ảnh hưởng đến quyền định đoạt tài sản và hiệu lực của di chúc mới.",
+    "c": "Chỉ có hiệu lực một phần đối với những tài sản không nằm trong di chúc cũ.",
+    "d": "Bị tạm dừng hiệu lực cho đến khi Văn phòng công chứng B gửi thông báo đính chính sang Văn phòng công chứng A.",
+    "answer": "B",
+    "explanation": "Căn cứ theo Khoản 4 Điều 58 Luật Công chứng 2024: Người lập di chúc có thể yêu cầu công chứng viên của bất kỳ tổ chức hành nghề công chứng nào công chứng việc sửa đổi, bổ sung, thay thế hoặc hủy bỏ di chúc. Quy định 'phải thông báo cho tổ chức hành nghề công chứng đang lưu giữ di chúc biết' là nghĩa vụ thông tin, không phải là điều kiện cần để văn bản mới có hiệu lực."
+  },
+  {
+    "question": "Một hồ sơ thừa kế theo pháp luật gồm có 3 người thuộc hàng thừa kế thứ nhất. Tuy nhiên, 2 người con quyết định lập văn bản từ chối nhận di sản để lại toàn bộ quyền tài sản cho người mẹ. Theo Luật Công chứng, tổ chức hành nghề công chứng có phải tiến hành niêm yết việc tiếp nhận công chứng đối với văn bản từ chối nhận di sản này không?",
+    "a": "Bắt buộc phải niêm yết trong thời hạn quy định của Chính phủ.",
+    "b": "Không phải niêm yết văn bản từ chối, luật chỉ bắt buộc niêm yết đối với văn bản phân chia hoặc khai nhận di sản thừa kế.",
+    "c": "Chỉ phải niêm yết nếu người để lại di sản có nghĩa vụ nợ chưa thanh toán.",
+    "d": "Tùy thuộc vào sự thỏa thuận của người mẹ và các con.",
+    "answer": "B",
+    "explanation": "Căn cứ theo Điều 59 và Điều 60 Luật Công chứng 2024: Thủ tục niêm yết bắt buộc chỉ áp dụng đối với 'văn bản phân chia di sản' hoặc văn bản khai nhận di sản (kể cả trường hợp chỉ có 01 người thừa kế). Quy định về công chứng 'văn bản từ chối nhận di sản' tại Điều 60 không chứa điều khoản bắt buộc phải niêm yết trước khi thực hiện công chứng."
+  }, 
   {
     "question": "Văn phòng công chứng tiếp nhận hồ sơ công chứng hợp đồng thế chấp tài sản của một doanh nghiệp lớn vào chiều Thứ Sáu. Do hồ sơ gồm nhiều tài sản phức tạp tại nhiều tỉnh thành, CCV hẹn khách hàng trả kết quả vào Thứ Sáu tuần sau. Việc hẹn thời gian này đúng hay sai?",
     "a": "Đúng, vì đây là vụ việc phức tạp, thời hạn công chứng có thể kéo dài nhưng không quá 10 ngày làm việc.",
