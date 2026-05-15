@@ -20,13 +20,8 @@ function showLogin() {
   document.getElementById("loginBox").innerHTML = `
     <div class="box" style="max-width:400px;text-align:center;margin-top:120px">
       <h2>Đăng nhập</h2>
-
-      <input id="u" placeholder="Tài khoản"
-        style="width:100%;padding:10px;margin:5px 0">
-
-      <input id="p" type="password" placeholder="Mật khẩu"
-        style="width:100%;padding:10px;margin:5px 0">
-
+      <input id="u" placeholder="Tài khoản" style="width:100%;padding:10px;margin:5px 0">
+      <input id="p" type="password" placeholder="Mật khẩu" style="width:100%;padding:10px;margin:5px 0">
       <button onclick="login()" class="btn">Đăng nhập</button>
     </div>
   `;
@@ -123,7 +118,6 @@ function render() {
 
   app.innerHTML = `
     <div class="box">
-
       <div class="top">
         <div>Câu: ${index + 1}/${questions.length}</div>
         <div>⏱ <span id="time"></span></div>
@@ -171,7 +165,8 @@ function highlight() {
     let ans = answers[index];
     if (!ans) return;
 
-    const map = { A: 0, B: 1, C: 2, D: 3 };
+    // Chấp nhận cả chữ hoa và chữ thường khi highlight nút chọn trên giao diện
+    const map = { A: 0, B: 1, C: 2, D: 3, a: 0, b: 1, c: 2, d: 3 };
     let btns = document.querySelectorAll(".option");
 
     if (btns[map[ans]]) {
@@ -211,13 +206,6 @@ function next() {
   }
 }
 
-function prev() {
-  if (index > 0) {
-    index--;
-    render();
-  }
-}
-
 // ================= BAR =================
 function updateBar() {
   let bar = document.getElementById("bar");
@@ -252,31 +240,14 @@ function submit() {
   let wrong = 0;
   let newWrong = [];
 
-  const getAnswerText = (q, key) => {
-    if (!key) return "Không chọn";
-
-    switch (key) {
-      case "A": return `A. ${q.a}`;
-      case "B": return `B. ${q.b}`;
-      case "C": return `C. ${q.c}`;
-      case "D": return `D. ${q.d}`;
-      default: return "Không hợp lệ";
-    }
-  };
-
-  const getExplanation = (q) => {
-    return q.explanation ? q.explanation : "Chưa có giải thích";
-  };
-
   let html = "";
 
   questions.forEach((q, i) => {
-    let user = answers[i];
-    let ok = user === q.answer;
-
-    let userText = getAnswerText(q, user);
-    let correctText = getAnswerText(q, q.answer);
-    let explanation = getExplanation(q);
+    let userAns = answers[i] ? answers[i].toString().trim().toLowerCase() : "";
+    let correctAns = q.answer ? q.answer.toString().trim().toLowerCase() : "";
+    
+    // So sánh không phân biệt chữ hoa chữ thường
+    let ok = userAns === correctAns;
 
     if (ok) {
       correct++;
@@ -285,26 +256,24 @@ function submit() {
       newWrong.push(q);
     }
 
+    // Lấy text nội dung của đáp án đúng hiển thị lên màn hình kết quả
+    let textDapAnDung = "Không rõ";
+    if (correctAns === "a") textDapAnDung = `A. ${q.a}`;
+    if (correctAns === "b") textDapAnDung = `B. ${q.b}`;
+    if (correctAns === "c") textDapAnDung = `C. ${q.c}`;
+    if (correctAns === "d") textDapAnDung = `D. ${q.d}`;
+
     html += `
       <div style="
         padding:12px;
         border-bottom:1px solid #ddd;
+        white-space:pre-wrap;
         line-height:1.6;
-        font-family: Arial;
+        font-family: Arial, sans-serif;
       ">
-
         <b>Câu ${i + 1}:</b> ${q.question}<br>
-
-        <b>Bạn chọn:</b> ${userText}<br>
-
-        ${
-          ok
-            ? `<b style="color:green">✔ ĐÚNG</b>`
-            : `
-              <b style="color:red">❌ SAI</b><br>
-              <b>Đáp án đúng:</b> ${correctText}<br>
-            `
-        }
+        <b>Bạn chọn:</b> ${answers[i] ? answers[i].toUpperCase() : "Không chọn"}<br>
+        <b style="color: green;">Đáp án đúng:</b> ${textDapAnDung}<br>
 
         <div style="
           margin-top:8px;
@@ -315,10 +284,14 @@ function submit() {
           background:#f9f9f9;
           padding:8px;
           border-radius:6px;
+          border-left: 4px solid #0066cc;
         ">
-          💡 <b>Giải thích:</b> ${explanation}
+          💡 <b>Giải thích:</b> ${q.explanation ? q.explanation : "Chưa có giải thích cho câu hỏi này."}
         </div>
 
+        <b style="color:${ok ? 'green' : 'red'}; font-size: 14px; display: block; margin-top: 5px;">
+          ${ok ? "✔ ĐÚNG" : "❌ SAI"}
+        </b>
       </div>
     `;
   });
@@ -327,13 +300,11 @@ function submit() {
 
   app.innerHTML = `
     <div class="box">
-      <h1>KẾT QUẢ</h1>
-      <h2>✔ Đúng: ${correct}</h2>
-      <h2>❌ Sai: ${wrong}</h2>
-
-      <button class="btn" onclick="startExam()">THI LẠI</button>
-
-      <div style="margin-top:20px">
+      <h1>KẾT QUẢ BÀI THI</h1>
+      <h2 style="color: green;">✔ Đúng: ${correct} câu</h2>
+      <h2 style="color: red;">❌ Sai: ${wrong} câu</h2>
+      <button class="btn" onclick="startExam()">THI LẠI CÂU SAI</button>
+      <div style="margin-top:20px; text-align: left;">
         ${html}
       </div>
     </div>
