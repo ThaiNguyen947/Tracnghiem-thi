@@ -1259,6 +1259,366 @@
     "answer": "C",
     "explanation": "Căn cứ Khoản 1 Điều 25 LCC 2024: 'Trong thời hạn 90 ngày kể từ ngày quyết định cho phép thành lập có hiệu lực thi hành, Văn phòng công chứng phải đăng ký hoạt động tại Sở Tư pháp'."
   },
+{
+    "question": "Tình huống: Văn phòng công chứng A theo loại hình doanh nghiệp tư nhân đang làm thủ tục chuyển đổi thành Văn phòng công chứng theo loại hình công ty hợp danh. Hồ sơ cho thấy trụ sở mới của Văn phòng công chứng chuyển đổi nằm khác địa bàn cấp xã so với trụ sở cũ nhưng vẫn cùng địa bàn cấp huyện. Theo quy định, nhận định nào đúng?",
+    "a": "Được phép vì chỉ cần cùng địa bàn cấp huyện.",
+    "b": "Được phép nếu có văn bản đồng ý của Sở Tư pháp.",
+    "c": "Không được phép vì phải cùng địa bàn cấp xã.",
+    "d": "Không được phép vì bắt buộc giữ nguyên địa chỉ cũ.",
+    "answer": "c",
+    "explanation": "Căn cứ điểm d khoản 3 Điều 17 Nghị định 104/2025/NĐ-CP: Văn phòng công chứng chuyển đổi phải có địa chỉ trụ sở trong cùng địa bàn cấp xã với Văn phòng công chứng được chuyển đổi."
+  },
+  {
+    "question": "Theo Nghị định 104/2025/NĐ-CP, phát biểu nào sau đây là đúng khi phân biệt hợp nhất và sáp nhập Văn phòng công chứng?",
+    "a": "Hợp nhất và sáp nhập đều làm phát sinh một Văn phòng công chứng hoàn toàn mới.",
+    "b": "Sáp nhập làm chấm dứt toàn bộ hoạt động của tất cả Văn phòng công chứng tham gia.",
+    "c": "Hợp nhất tạo thành Văn phòng công chứng hợp nhất mới; sáp nhập duy trì Văn phòng công chứng nhận sáp nhập.",
+    "d": "Chỉ hợp nhất mới phải kế thừa hồ sơ công chứng cũ.",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 23 và Điều 24 Nghị định 104/2025/NĐ-CP: Hợp nhất hình thành Văn phòng công chứng hợp nhất mới; sáp nhập là nhập vào Văn phòng công chứng nhận sáp nhập đang tồn tại."
+  },
+  {
+    "question": "Tình huống: Hai Văn phòng công chứng đang làm thủ tục hợp nhất. Trong thời gian chờ Văn phòng công chứng hợp nhất được cấp giấy đăng ký hoạt động, một khách hàng đến yêu cầu công chứng hợp đồng mua bán nhà. Theo quy định, các Văn phòng công chứng bị hợp nhất xử lý thế nào?",
+    "a": "Được tiếp nhận và công chứng bình thường.",
+    "b": "Được tiếp nhận hồ sơ nhưng chưa được ký văn bản công chứng.",
+    "c": "Không được tiếp nhận yêu cầu công chứng mới.",
+    "d": "Phải chuyển toàn bộ khách hàng sang Sở Tư pháp giải quyết.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 4 Điều 23 Nghị định 104/2025/NĐ-CP: Các Văn phòng công chứng bị hợp nhất được tiếp tục hoạt động nhưng không được tiếp nhận các yêu cầu công chứng mới cho đến khi Văn phòng công chứng hợp nhất được cấp giấy đăng ký hoạt động."
+  },
+  {
+    "question": "Theo Nghị định 104/2025/NĐ-CP, hồ sơ nào sau đây bắt buộc phải có kê khai thuế và báo cáo tài chính trong 03 năm gần nhất đã được kiểm toán?",
+    "a": "Hồ sơ thành lập Văn phòng công chứng.",
+    "b": "Hồ sơ đăng ký hoạt động Văn phòng công chứng.",
+    "c": "Hồ sơ bổ sung công chứng viên hợp danh.",
+    "d": "Hồ sơ hợp nhất Văn phòng công chứng.",
+    "answer": "d",
+    "explanation": "Căn cứ điểm b khoản 1 Điều 23 Nghị định 104/2025/NĐ-CP: Hồ sơ hợp nhất Văn phòng công chứng phải có kê khai thuế và báo cáo tài chính trong 03 năm gần nhất đã được kiểm toán."
+  },
+  {
+    "question": "Tình huống: Văn phòng công chứng B bị mất giấy đăng ký hoạt động do hỏa hoạn. Sau khi nộp đầy đủ hồ sơ hợp lệ đề nghị cấp lại, Sở Tư pháp phải giải quyết trong thời hạn bao lâu?",
+    "a": "03 ngày làm việc.",
+    "b": "05 ngày làm việc.",
+    "c": "07 ngày làm việc.",
+    "d": "10 ngày làm việc.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 4 Điều 21 Nghị định 104/2025/NĐ-CP: Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp cấp lại giấy đăng ký hoạt động."
+  },
+  {
+    "question": "Theo Nghị định 104/2025/NĐ-CP, giá quyền nhận chuyển đổi Phòng công chứng được xác định như thế nào?",
+    "a": "Theo giá trị toàn bộ tài sản của Phòng công chứng.",
+    "b": "Theo kết quả định giá của Sở Tài chính.",
+    "c": "Theo số tiền nộp ngân sách và nộp thuế trung bình trong 03 năm gần nhất.",
+    "d": "Theo vốn điều lệ dự kiến của Văn phòng công chứng mới.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 10 Nghị định 104/2025/NĐ-CP: Giá quyền nhận chuyển đổi Phòng công chứng được xác định là số tiền nộp ngân sách và nộp thuế trung bình trong 03 năm gần nhất."
+  },
+  {
+    "question": "Theo Nghị định 104/2025/NĐ-CP, quyền nhận chuyển đổi Phòng công chứng không bao gồm nội dung nào sau đây?",
+    "a": "Quyền kế thừa hoạt động công chứng.",
+    "b": "Giá trị trụ sở thuộc sở hữu Nhà nước.",
+    "c": "Quyền tiếp nhận hồ sơ công chứng.",
+    "d": "Quyền thực hiện hoạt động công chứng sau chuyển đổi.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 3 Điều 10 Nghị định 104/2025/NĐ-CP: Quyền nhận chuyển đổi Phòng công chứng không bao gồm giá trị trụ sở, trang thiết bị và tài sản khác thuộc sở hữu Nhà nước."
+  },
+  {
+    "question": "Tình huống: Văn phòng công chứng C được cấp lại giấy đăng ký hoạt động ngày 01/9. Đến ngày 10/9 vẫn chưa đăng báo nội dung đăng ký hoạt động. Theo quy định, việc này đúng hay sai?",
+    "a": "Đúng vì thời hạn đăng báo là 15 ngày.",
+    "b": "Sai vì phải đăng báo trong 03 ngày.",
+    "c": "Sai vì phải đăng báo trong thời hạn 05 ngày làm việc.",
+    "d": "Đúng vì chỉ khi thành lập mới mới phải đăng báo.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 22 Nghị định 104/2025/NĐ-CP: Trong thời hạn 05 ngày làm việc kể từ ngày được cấp, cấp lại giấy đăng ký hoạt động, Văn phòng công chứng phải đăng báo."
+  },
+  {
+    "question": "Theo Nghị định 104/2025/NĐ-CP, Văn phòng công chứng theo loại hình công ty hợp danh có được chuyển đổi thành Văn phòng công chứng theo loại hình doanh nghiệp tư nhân không?",
+    "a": "Được, nếu được UBND cấp tỉnh chấp thuận.",
+    "b": "Được, nếu tất cả công chứng viên hợp danh đồng ý.",
+    "c": "Không được trong mọi trường hợp.",
+    "d": "Chỉ được khi chưa hoạt động đủ 02 năm.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 17 Nghị định 104/2025/NĐ-CP: Văn phòng công chứng theo loại hình công ty hợp danh không được chuyển đổi thành Văn phòng công chứng theo loại hình doanh nghiệp tư nhân."
+  },
+  {
+    "question": "Tình huống: Một Phòng công chứng tự bảo đảm toàn bộ chi thường xuyên và chi đầu tư nhưng đến hết ngày 31/12/2026 vẫn chưa hoàn thành việc chuyển đổi hoặc giải thể. Theo Nghị định 104/2025/NĐ-CP, nhận định nào đúng?",
+    "a": "Vẫn đúng quy định vì hạn cuối là 31/12/2027.",
+    "b": "Đã quá thời hạn lộ trình theo quy định.",
+    "c": "Chỉ bị xem là vi phạm nếu chưa có Đề án chuyển đổi.",
+    "d": "Không bị ảnh hưởng vì lộ trình chỉ mang tính khuyến nghị.",
+    "answer": "b",
+    "explanation": "Căn cứ điểm a khoản 1 Điều 15 Nghị định 104/2025/NĐ-CP: Đối với Phòng công chứng tự bảo đảm toàn bộ chi thường xuyên và chi đầu tư thì chậm nhất là ngày 31/12/2026 phải hoàn thành việc chuyển đổi hoặc giải thể."
+  },
+  {
+    "question": "Tình huống: Văn phòng công chứng M theo loại hình doanh nghiệp tư nhân nộp hồ sơ chuyển đổi sang loại hình công ty hợp danh. Hồ sơ đầy đủ, hợp lệ vào ngày 01/8. Ngày 05/8, Sở Tư pháp mới có văn bản trình UBND cấp tỉnh xem xét. Theo quy định, việc xử lý này như thế nào?",
+    "a": "Đúng vì vẫn trong thời hạn 07 ngày làm việc.",
+    "b": "Đúng vì thời hạn được tính theo ngày dương lịch.",
+    "c": "Sai vì Sở Tư pháp chỉ có tối đa 03 ngày làm việc.",
+    "d": "Sai vì Sở Tư pháp phải trình trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.",
+    "answer": "d",
+    "explanation": "Căn cứ khoản 6 Điều 17 Nghị định 104/2025/NĐ-CP: Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp xem xét, đề nghị UBND cấp tỉnh cho phép chuyển đổi Văn phòng công chứng."
+  },
+  {
+    "question": "Theo Nghị định 104/2025/NĐ-CP, nội dung nào sau đây KHÔNG bắt buộc phải có trong dự thảo Điều lệ Văn phòng công chứng theo loại hình công ty hợp danh?",
+    "a": "Nguyên tắc trả lương, thu nhập.",
+    "b": "Thể thức sửa đổi, bổ sung Điều lệ.",
+    "c": "Danh sách khách hàng thường xuyên của Văn phòng công chứng.",
+    "d": "Quyền và nghĩa vụ của công chứng viên hợp danh.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 19 Nghị định 104/2025/NĐ-CP: Nội dung chủ yếu của dự thảo Điều lệ không bao gồm danh sách khách hàng thường xuyên."
+  },
+  {
+    "question": "Tình huống: Văn phòng công chứng X đề nghị đăng ký hoạt động nhưng hợp đồng thuê trụ sở chỉ còn thời hạn 18 tháng. Theo quy định, Sở Tư pháp xử lý như thế nào?",
+    "a": "Vẫn cấp đăng ký hoạt động vì thời hạn thuê trên 01 năm.",
+    "b": "Từ chối vì thời hạn thuê trụ sở chưa đủ tối thiểu theo quy định.",
+    "c": "Chỉ yêu cầu cam kết gia hạn thêm sau khi hoạt động.",
+    "d": "Cho phép hoạt động tạm thời trong 06 tháng.",
+    "answer": "b",
+    "explanation": "Căn cứ điểm c khoản 1 Điều 18 Nghị định 104/2025/NĐ-CP: Trường hợp thuê trụ sở thì thời hạn thuê tối thiểu là 02 năm."
+  },
+  {
+    "question": "Theo Nghị định 104/2025/NĐ-CP, hồ sơ đăng ký hoạt động của Văn phòng công chứng theo loại hình công ty hợp danh phải có giấy tờ nào sau đây?",
+    "a": "Biên bản họp Hội công chứng viên cấp tỉnh.",
+    "b": "Giấy xác nhận của UBND cấp xã về nhân sự.",
+    "c": "Giấy tờ chứng minh công chứng viên hợp danh đã góp vốn theo quy định của Luật Doanh nghiệp.",
+    "d": "Giấy xác nhận không nợ thuế của cơ quan tài chính.",
+    "answer": "c",
+    "explanation": "Căn cứ điểm c khoản 1 Điều 20 Nghị định 104/2025/NĐ-CP: Hồ sơ đăng ký hoạt động phải có giấy tờ chứng minh công chứng viên hợp danh đã góp vốn theo quy định."
+  },
+  {
+    "question": "Tình huống: Sau khi được cấp giấy đăng ký hoạt động, Văn phòng công chứng P quên đăng báo trong 03 số liên tiếp. Theo quy định, chủ thể có nghĩa vụ đăng báo là ai?",
+    "a": "UBND cấp tỉnh.",
+    "b": "Sở Tư pháp.",
+    "c": "Hội công chứng viên.",
+    "d": "Chính Văn phòng công chứng.",
+    "answer": "d",
+    "explanation": "Căn cứ khoản 2 Điều 22 Nghị định 104/2025/NĐ-CP: Văn phòng công chứng phải đăng báo trung ương hoặc báo địa phương trong 03 số liên tiếp."
+  },
+  {
+    "question": "Tình huống: Trong hồ sơ hợp nhất Văn phòng công chứng, các bên không nêu phương án sử dụng lao động của Văn phòng công chứng hợp nhất. Hồ sơ này được xác định như thế nào?",
+    "a": "Vẫn hợp lệ nếu có đầy đủ chữ ký của các công chứng viên.",
+    "b": "Không hợp lệ vì thiếu nội dung chủ yếu của hợp đồng hợp nhất.",
+    "c": "Chỉ cần bổ sung sau khi được UBND cấp tỉnh chấp thuận.",
+    "d": "Không ảnh hưởng vì lao động không thuộc phạm vi điều chỉnh.",
+    "answer": "b",
+    "explanation": "Căn cứ điểm a khoản 1 Điều 23 Nghị định 104/2025/NĐ-CP: Hợp đồng hợp nhất phải có phương án sử dụng lao động của Văn phòng công chứng hợp nhất."
+  },
+  {
+    "question": "Theo Nghị định 104/2025/NĐ-CP, trong trường hợp sáp nhập Văn phòng công chứng, chủ thể nào có trách nhiệm lưu trữ toàn bộ hồ sơ công chứng của các Văn phòng công chứng bị sáp nhập?",
+    "a": "Sở Tư pháp.",
+    "b": "UBND cấp tỉnh.",
+    "c": "Văn phòng công chứng nhận sáp nhập.",
+    "d": "Hội công chứng viên.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 5 Điều 24 Nghị định 104/2025/NĐ-CP: Văn phòng công chứng nhận sáp nhập có trách nhiệm lưu trữ toàn bộ hồ sơ công chứng của các Văn phòng công chứng bị sáp nhập."
+  },
+  {
+    "question": "Tình huống: Các công chứng viên hợp danh của Văn phòng công chứng H chuyển nhượng toàn bộ phần vốn góp cho nhóm công chứng viên khác. Sau khi hồ sơ hợp lệ được tiếp nhận, UBND cấp tỉnh có bao nhiêu ngày làm việc để quyết định cho phép chuyển nhượng?",
+    "a": "03 ngày làm việc.",
+    "b": "05 ngày làm việc.",
+    "c": "07 ngày làm việc.",
+    "d": "10 ngày làm việc.",
+    "answer": "d",
+    "explanation": "Căn cứ khoản 2 Điều 25 Nghị định 104/2025/NĐ-CP: Trong thời hạn 10 ngày làm việc kể từ ngày nhận được văn bản đề nghị của Sở Tư pháp kèm hồ sơ hợp lệ, UBND cấp tỉnh quyết định cho phép chuyển nhượng."
+  },
+  {
+    "question": "Theo Nghị định 104/2025/NĐ-CP, phát biểu nào sau đây là chính xác về Văn phòng công chứng được bán theo loại hình doanh nghiệp tư nhân?",
+    "a": "Phải chấm dứt hoạt động ngay sau khi ký hợp đồng bán.",
+    "b": "Được tiếp nhận yêu cầu công chứng mới cho đến khi cấp lại giấy đăng ký hoạt động.",
+    "c": "Tiếp tục hoạt động nhưng không được tiếp nhận yêu cầu công chứng mới cho đến khi được cấp lại giấy đăng ký hoạt động.",
+    "d": "Chỉ được hoạt động nếu có chấp thuận riêng của Bộ Tư pháp.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 5 Điều 26 Nghị định 104/2025/NĐ-CP: Văn phòng công chứng được bán tiếp tục hoạt động nhưng không được tiếp nhận yêu cầu công chứng mới cho đến khi được cấp lại giấy đăng ký hoạt động."
+  },
+  {
+    "question": "Tình huống: Văn phòng công chứng T tự nguyện chấm dứt hoạt động theo điểm a khoản 1 Điều 34 Luật Công chứng. Sau khi gửi báo cáo cho Sở Tư pháp về việc dự kiến chấm dứt hoạt động, Văn phòng vẫn tiếp nhận hồ sơ công chứng mới của khách hàng. Theo quy định, hành vi này như thế nào?",
+    "a": "Đúng vì chưa có quyết định thu hồi giấy đăng ký hoạt động.",
+    "b": "Đúng nếu hồ sơ công chứng có giá trị lớn.",
+    "c": "Sai vì không được tiếp nhận yêu cầu công chứng mới từ thời điểm có báo cáo gửi Sở Tư pháp.",
+    "d": "Sai nhưng chỉ bị nhắc nhở hành chính.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 27 Nghị định 104/2025/NĐ-CP: Văn phòng công chứng không được tiếp nhận yêu cầu công chứng mới từ thời điểm có báo cáo gửi Sở Tư pháp về việc dự kiến chấm dứt hoạt động."
+  },
+  {
+    "question": "Tình huống: Hai Văn phòng công chứng A và B thực hiện thủ tục hợp nhất. Trong quá trình ký hợp đồng hợp nhất, Văn phòng công chứng A cử Trưởng Văn phòng ký, còn Văn phòng công chứng B yêu cầu toàn bộ công chứng viên hợp danh cùng ký mới hợp lệ. Theo Nghị định 104/2025/NĐ-CP, nhận định nào đúng?",
+    "a": "Mỗi Văn phòng công chứng bị hợp nhất chỉ cần cử 01 công chứng viên hợp danh đại diện để ký hợp đồng hợp nhất.",
+    "b": "Toàn bộ công chứng viên hợp danh của cả hai Văn phòng đều phải ký.",
+    "c": "Chỉ Trưởng Văn phòng công chứng mới có quyền ký hợp đồng hợp nhất.",
+    "d": "Hợp đồng hợp nhất phải do Sở Tư pháp xác nhận trước khi ký.",
+    "answer": "a",
+    "explanation": "Căn cứ điểm a khoản 1 Điều 23 Nghị định 104/2025/NĐ-CP: 'Mỗi Văn phòng công chứng bị hợp nhất cử một công chứng viên hợp danh làm đại diện để ký kết hợp đồng hợp nhất'."
+  },
+  {
+    "question": "Theo quy định về hồ sơ đăng ký hoạt động của Văn phòng công chứng hợp nhất, giấy tờ nào dưới đây KHÔNG bắt buộc phải có?",
+    "a": "Đơn đăng ký hoạt động của Văn phòng công chứng hợp nhất.",
+    "b": "Giấy tờ chứng minh điều kiện về trụ sở.",
+    "c": "Thẻ công chứng viên của các công chứng viên.",
+    "d": "Quyết định bổ nhiệm của toàn bộ công chứng viên hợp danh.",
+    "answer": "d",
+    "explanation": "Căn cứ khoản 3 Điều 23 Nghị định 104/2025/NĐ-CP, hồ sơ chỉ gồm: đơn đăng ký hoạt động, giấy tờ chứng minh điều kiện trụ sở và thẻ công chứng viên."
+  },
+  {
+    "question": "Tình huống: UBND cấp tỉnh ban hành quyết định cho phép hợp nhất hai Văn phòng công chứng vào ngày 01/6. Tuy nhiên đến ngày 15/6 Văn phòng công chứng hợp nhất mới được cấp giấy đăng ký hoạt động. Thời điểm Văn phòng công chứng hợp nhất chính thức được hoạt động là khi nào?",
+    "a": "Ngày ký hợp đồng hợp nhất.",
+    "b": "Ngày UBND cấp tỉnh cho phép hợp nhất.",
+    "c": "Ngày được cấp giấy đăng ký hoạt động.",
+    "d": "Ngày Sở Tư pháp tiếp nhận hồ sơ đăng ký hoạt động.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 4 Điều 23 Nghị định 104/2025/NĐ-CP: Văn phòng công chứng hợp nhất được hoạt động kể từ ngày được cấp giấy đăng ký hoạt động."
+  },
+  {
+    "question": "Phòng công chứng X được chuyển đổi thành Văn phòng công chứng theo quyết định của UBND cấp tỉnh. Theo quy định, Phòng công chứng X chấm dứt hoạt động vào thời điểm nào?",
+    "a": "Khi Văn phòng công chứng mới được cấp giấy đăng ký hoạt động.",
+    "b": "Khi hoàn tất bàn giao hồ sơ công chứng.",
+    "c": "Khi quyết định chuyển đổi có hiệu lực thi hành.",
+    "d": "Sau 30 ngày kể từ ngày ban hành quyết định chuyển đổi.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 11 Nghị định 104/2025/NĐ-CP: 'Phòng công chứng được chuyển đổi chấm dứt hoạt động tại thời điểm quyết định chuyển đổi... có hiệu lực thi hành'."
+  },
+  {
+    "question": "Trong các cơ quan sau, cơ quan nào có thẩm quyền cấp thẻ công chứng viên khi Văn phòng công chứng đăng ký hoạt động?",
+    "a": "Bộ Tư pháp.",
+    "b": "UBND cấp tỉnh.",
+    "c": "Sở Tư pháp.",
+    "d": "Hội công chứng viên.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 20 Nghị định 104/2025/NĐ-CP: Sở Tư pháp cấp giấy đăng ký hoạt động và cấp thẻ cho công chứng viên."
+  },
+  {
+    "question": "Theo quy định về điều kiện trụ sở của Văn phòng công chứng, diện tích kho lưu trữ tối thiểu phải bảo đảm là bao nhiêu?",
+    "a": "20m2.",
+    "b": "30m2.",
+    "c": "50m2.",
+    "d": "80m2.",
+    "answer": "c",
+    "explanation": "Căn cứ điểm b khoản 1 Điều 18 Nghị định 104/2025/NĐ-CP: diện tích kho lưu trữ tối thiểu là 50m2."
+  },
+  {
+    "question": "Tình huống: Ông H là công chứng viên đã hành nghề được 18 tháng và dự kiến làm Trưởng Văn phòng công chứng theo loại hình doanh nghiệp tư nhân. Theo quy định, ông H có đủ điều kiện không?",
+    "a": "Có, vì chỉ cần là công chứng viên hợp lệ.",
+    "b": "Có, nếu được Sở Tư pháp chấp thuận.",
+    "c": "Không, vì phải hành nghề công chứng từ đủ 02 năm trở lên.",
+    "d": "Không, vì Trưởng Văn phòng phải hành nghề từ đủ 05 năm trở lên.",
+    "answer": "c",
+    "explanation": "Căn cứ điểm c khoản 1 Điều 19 Nghị định 104/2025/NĐ-CP: công chứng viên dự kiến làm Trưởng Văn phòng phải hành nghề từ đủ 02 năm trở lên."
+  },
+  {
+    "question": "Theo quy định về thành lập Văn phòng công chứng theo loại hình công ty hợp danh, nội dung nào sau đây bắt buộc phải có trong Đề án thành lập?",
+    "a": "Danh sách khách hàng dự kiến trong 03 năm đầu hoạt động.",
+    "b": "Giá trị và tỷ lệ góp vốn của các công chứng viên hợp danh.",
+    "c": "Phương án phân chia lợi nhuận hằng tháng.",
+    "d": "Cam kết doanh thu tối thiểu của Văn phòng công chứng.",
+    "answer": "b",
+    "explanation": "Căn cứ điểm a khoản 1 Điều 19 Nghị định 104/2025/NĐ-CP: Đề án thành lập phải nêu giá trị và tỷ lệ góp vốn."
+  },
+  {
+    "question": "Tình huống: Văn phòng công chứng M theo loại hình doanh nghiệp tư nhân đề nghị đăng ký hoạt động. Trong hồ sơ, Trưởng Văn phòng nộp tài liệu về 'góp vốn điều lệ'. Sở Tư pháp yêu cầu sửa lại vì không đúng thuật ngữ pháp lý. Thuật ngữ đúng phải là gì?",
+    "a": "Vốn điều lệ.",
+    "b": "Vốn cổ phần.",
+    "c": "Vốn đầu tư của Trưởng Văn phòng công chứng.",
+    "d": "Vốn liên doanh.",
+    "answer": "c",
+    "explanation": "Căn cứ điểm a khoản 1 Điều 19 Nghị định 104/2025/NĐ-CP: đối với Văn phòng công chứng theo loại hình doanh nghiệp tư nhân phải ghi thông tin về vốn đầu tư của Trưởng Văn phòng."
+  },
+  {
+    "question": "Theo quy định, trường hợp bổ sung công chứng viên hợp danh khi thay đổi nội dung đăng ký hoạt động của Văn phòng công chứng thì hồ sơ phải có thêm giấy tờ nào sau đây?",
+    "a": "03 ảnh 4x6 của công chứng viên được bổ sung.",
+    "b": "02 ảnh 2x3 của công chứng viên được bổ sung.",
+    "c": "Bản sao CCCD công chứng viên được bổ sung.",
+    "d": "Giấy xác nhận cư trú của công chứng viên được bổ sung.",
+    "answer": "b",
+    "explanation": "Căn cứ điểm b khoản 1 Điều 21 Nghị định 104/2025/NĐ-CP: hồ sơ phải có 02 ảnh 2x3 của công chứng viên được bổ sung."
+  },
+  {
+    "question": "Tình huống: Ngày 10/8, Sở Tư pháp cấp lại giấy đăng ký hoạt động cho Văn phòng công chứng P. Tuy nhiên đến ngày 14/8 vẫn chưa cập nhật thông tin lên phần mềm quản lý hoạt động công chứng và Cổng thông tin điện tử. Việc này đúng hay sai?",
+    "a": "Đúng, vì có thời hạn 05 ngày làm việc để cập nhật.",
+    "b": "Sai, vì phải cập nhật ngay trong ngày thực hiện thủ tục.",
+    "c": "Đúng, vì chỉ cần cập nhật trước khi Văn phòng hoạt động trở lại.",
+    "d": "Sai, vì phải cập nhật trong vòng 24 giờ.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 22 Nghị định 104/2025/NĐ-CP: Sở Tư pháp cập nhật thông tin vào phần mềm quản lý và đăng tải trên Cổng thông tin điện tử trong ngày thực hiện thủ tục."
+  },
+  {
+    "question": "Theo quy định, Phòng công chứng thuộc diện phải chuyển đổi nhưng không chuyển đổi được thì xử lý như thế nào?",
+    "a": "Tiếp tục hoạt động bình thường.",
+    "b": "Bị tạm ngừng hoạt động vô thời hạn.",
+    "c": "Bị giải thể.",
+    "d": "Tự động chuyển thành Văn phòng công chứng.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 14 Nghị định 104/2025/NĐ-CP: 'Phòng công chứng... không chuyển đổi được thì bị giải thể'."
+  },
+  {
+    "question": "Cơ quan nào có thẩm quyền thu hồi quyết định cho phép thành lập Văn phòng công chứng?",
+    "a": "Bộ Tư pháp.",
+    "b": "Sở Tư pháp.",
+    "c": "UBND cấp tỉnh.",
+    "d": "Hội công chứng viên.",
+    "answer": "c",
+    "explanation": "Theo hệ thống quy định của Luật Công chứng và Nghị định 104/2025/NĐ-CP, UBND cấp tỉnh là cơ quan ban hành và thu hồi quyết định cho phép thành lập Văn phòng công chứng."
+  },
+  {
+    "question": "Tình huống: Một doanh nghiệp bất động sản muốn mua lại toàn bộ Văn phòng công chứng theo loại hình doanh nghiệp tư nhân để tiếp tục hoạt động công chứng. Theo quy định, giao dịch này có được chấp nhận không?",
+    "a": "Có, nếu được UBND cấp tỉnh đồng ý.",
+    "b": "Có, nếu doanh nghiệp cam kết giữ nguyên nhân sự.",
+    "c": "Không, vì người mua phải là công chứng viên đáp ứng điều kiện luật định.",
+    "d": "Không, vì Văn phòng công chứng không được phép chuyển nhượng.",
+    "answer": "c",
+    "explanation": "Căn cứ điểm c khoản 1 Điều 26 Nghị định 104/2025/NĐ-CP: người mua Văn phòng công chứng phải là công chứng viên đáp ứng điều kiện theo khoản 2 Điều 31 Luật Công chứng."
+  },
+  {
+    "question": "Trường hợp nào sau đây bắt buộc phải có kê khai thuế và báo cáo tài chính 03 năm gần nhất đã được kiểm toán?",
+    "a": "Thành lập mới Văn phòng công chứng.",
+    "b": "Đăng ký hoạt động lần đầu.",
+    "c": "Hợp nhất Văn phòng công chứng.",
+    "d": "Thay đổi địa chỉ trụ sở.",
+    "answer": "c",
+    "explanation": "Căn cứ điểm b khoản 1 Điều 23 Nghị định 104/2025/NĐ-CP: hồ sơ hợp nhất phải có kê khai thuế và báo cáo tài chính 03 năm gần nhất đã được kiểm toán."
+  },
+  {
+    "question": "Tình huống: Văn phòng công chứng T tự chấm dứt hoạt động theo quyết định của các thành viên hợp danh. Chủ thể nào có trách nhiệm đăng báo về thời điểm dự kiến chấm dứt hoạt động?",
+    "a": "Sở Tư pháp.",
+    "b": "UBND cấp tỉnh.",
+    "c": "Văn phòng công chứng.",
+    "d": "Hội công chứng viên.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 27 Nghị định 104/2025/NĐ-CP: Văn phòng công chứng có nghĩa vụ đăng báo về thời điểm dự kiến chấm dứt hoạt động."
+  },
+  {
+    "question": "Theo quy định về quyền nhận chuyển đổi Phòng công chứng, nội dung nào sau đây KHÔNG thuộc quyền nhận chuyển đổi?",
+    "a": "Quyền tiếp nhận hoạt động công chứng.",
+    "b": "Toàn bộ quyền và nghĩa vụ công chứng.",
+    "c": "Trang thiết bị thuộc sở hữu Nhà nước.",
+    "d": "Hồ sơ công chứng của Phòng công chứng.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 10 Nghị định 104/2025/NĐ-CP: quyền nhận chuyển đổi không bao gồm giá trị trụ sở, trang thiết bị và tài sản khác thuộc sở hữu Nhà nước."
+  },
+  {
+    "question": "Tình huống: Khi nộp hồ sơ thay đổi nội dung đăng ký hoạt động, Văn phòng công chứng chỉ nộp bản scan thông thường của giấy tờ chứng minh mà không chứng thực điện tử. Sở Tư pháp từ chối tiếp nhận. Theo quy định, nhận định nào đúng?",
+    "a": "Chỉ được nộp bản chính.",
+    "b": "Được nộp bản sao thường.",
+    "c": "Được nộp bản chính, bản sao có chứng thực hoặc bản sao điện tử.",
+    "d": "Chỉ được nộp bản sao điện tử.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 21 Nghị định 104/2025/NĐ-CP: giấy tờ là bản chính hoặc bản sao có chứng thực hoặc bản sao điện tử."
+  },
+  {
+    "question": "Tình huống: Sau khi được UBND cấp tỉnh cho phép sáp nhập, các Văn phòng công chứng bị sáp nhập vẫn tiếp tục nhận hồ sơ công chứng mới trong lúc chờ thay đổi nội dung đăng ký hoạt động. Việc này đúng hay sai?",
+    "a": "Đúng, vì chưa chính thức chấm dứt hoạt động.",
+    "b": "Sai, vì chỉ được tiếp tục hoạt động nhưng không được tiếp nhận yêu cầu công chứng mới.",
+    "c": "Đúng, nếu được Sở Tư pháp đồng ý.",
+    "d": "Sai, vì phải ngừng toàn bộ hoạt động ngay lập tức.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 5 Điều 24 Nghị định 104/2025/NĐ-CP: các Văn phòng công chứng bị sáp nhập được tiếp tục hoạt động nhưng không được tiếp nhận yêu cầu công chứng mới."
+  },
+  {
+    "question": "Theo quy định về đăng báo nội dung đăng ký hoạt động của Văn phòng công chứng, thông tin nào sau đây bắt buộc phải được đăng?",
+    "a": "Doanh thu dự kiến năm đầu tiên.",
+    "b": "Danh sách khách hàng chiến lược.",
+    "c": "Số quyết định bổ nhiệm của công chứng viên hành nghề tại Văn phòng.",
+    "d": "Kế hoạch tuyển dụng nhân sự.",
+    "answer": "c",
+    "explanation": "Căn cứ điểm b khoản 2 Điều 22 Nghị định 104/2025/NĐ-CP: phải đăng họ tên và số quyết định bổ nhiệm của công chứng viên hành nghề tại Văn phòng công chứng."
+  }, 
   {
     "question": "Tình huống: Văn phòng công chứng A (loại hình hợp danh) có 2 thành viên là CCV Bình và CCV Chi. Do mâu thuẫn, CCV Bình muốn rút vốn. Theo Điều 27 LCC 2024, ông Bình phải thông báo bằng văn bản cho các thành viên còn lại và Sở Tư pháp chậm nhất là bao lâu?",
     "a": "01 tháng trước ngày rút vốn.",
