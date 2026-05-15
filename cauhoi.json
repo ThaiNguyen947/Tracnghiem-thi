@@ -1,4 +1,257 @@
 [ 
+  
+  {
+    "question": "Văn phòng công chứng tiếp nhận hồ sơ công chứng hợp đồng thế chấp tài sản của một doanh nghiệp lớn vào chiều Thứ Sáu. Do hồ sơ gồm nhiều tài sản phức tạp tại nhiều tỉnh thành, CCV hẹn khách hàng trả kết quả vào Thứ Sáu tuần sau. Việc hẹn thời gian này đúng hay sai?",
+    "a": "Đúng, vì đây là vụ việc phức tạp, thời hạn công chứng có thể kéo dài nhưng không quá 10 ngày làm việc.",
+    "b": "Sai, thời hạn công chứng tối đa cho mọi trường hợp chỉ là 02 ngày làm việc.",
+    "c": "Đúng, nếu doanh nghiệp đồng ý bằng văn bản chấp thuận kéo dài thời gian.",
+    "d": "Sai, vì thời hạn tối đa đối với việc thế chấp tài sản không được quá 05 ngày.",
+    "answer": "A",
+    "explanation": "Căn cứ quy định k2 đ45 lcc về thời hạn công chứng: Thời hạn công chứng không quá 02 ngày làm việc; đối với hợp đồng, giao dịch có nội dung phức tạp thì thời hạn này có thể kéo dài hơn nhưng không quá 10 ngày làm việc."
+  },
+  {
+    "question": "Trong các đối tượng sau đây, người nào KHÔNG được làm người làm chứng trong hoạt động công chứng?",
+    "a": "Người hàng xóm của người yêu cầu công chứng.",
+    "b": "Người có quyền, lợi ích nghĩa vụ liên quan đến hợp đồng, giao dịch đó.",
+    "c": "Người từ đủ 18 tuổi trở lên có năng lực hành vi dân sự đầy đủ.",
+    "d": "Một nhân viên hành chính của chính Văn phòng công chứng đó nhưng không thụ lý hồ sơ.",
+    "answer": "B",
+    "explanation": "k2 điêu 49 lcc- dẫn qua đ20 blds Người làm chứng phải là người từ đủ 18 tuổi, có năng lực hành vi dân sự đầy đủ và không có quyền, lợi ích hoặc nghĩa vụ liên quan đến việc công chứng."
+  },
+  {
+    "question": "Văn phòng công chứng X đặt trụ sở tại tỉnh Bình Dương. Ông An muốn lập văn bản ủy quyền cho bà Bình thay mặt mình thực hiện thủ tục xin cấp sổ hồng cho căn nhà tại Thành phố Hồ Chí Minh. Công chứng viên của VPCC X có thẩm quyền công chứng văn bản ủy quyền này không?",
+    "a": "Không, vì bất động sản nằm ở Thành phố Hồ Chí Minh, ngoài phạm vi tỉnh Bình Dương.",
+    "b": "Có, vì văn bản ủy quyền liên quan đến bất động sản là trường hợp ngoại lệ được công chứng ngoại tỉnh.",
+    "c": "Có, nhưng phải được sự đồng ý bằng văn bản của Sở Tư pháp Thành phố Hồ Chí Minh.",
+    "d": "Không, vì mọi giao dịch liên quan đến bất động sản đều phải tuân theo quy tắc địa giới nghiêm ngặt.",
+    "answer": "B",
+    "explanation": "Căn cứ Điều 44 LCC: Công chứng viên chỉ được công chứng giao dịch về BĐS trong phạm vi tỉnh nơi đặt trụ sở, trừ trường hợp công chứng di chúc, văn bản từ chối nhận di sản, văn bản ủy quyền liên quan đến việc thực hiện các quyền đối với BĐS..."
+  },
+  {
+    "question": "Trường hợp người yêu cầu công chứng không ký được mà chỉ điểm chỉ, công chứng viên phải xử lý cách thức điểm chỉ như thế nào là đúng quy định tại Điều 50?",
+    "a": "Sử dụng vân tay của ngón cái bên phải; nếu không được thì dùng ngón cái bên trái.",
+    "b": "Sử dụng vân tay của ngón trỏ phải; nếu không được thì dùng ngón trỏ trái; nếu không được nữa thì dùng ngón khác và ghi rõ vào lời chứng.",
+    "c": "Có thể sử dụng bất kỳ ngón tay nào tùy thuộc vào sự thuận tiện của người yêu cầu.",
+    "d": "Bắt buộc phải có người làm chứng ký thay chứ không được phép điểm chỉ ngón khác ngoài ngón trỏ.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 3 Điều 50 lcc: Khi điểm chỉ, người yêu cầu sử dụng vân tay của ngón trỏ phải; nếu không sử dụng được thì dùng ngón trỏ trái; trường hợp không thể sử dụng cả 2 ngón trỏ đó thì sử dụng ngón khác và CCV phải ghi rõ trong lời chứng."
+  },
+  {
+    "question": "Sau khi trả văn bản công chứng hợp đồng thế chấp cho ngân hàng, Công chứng viên phát hiện mình đánh máy sai số CMND cũ của khách hàng (nhưng số Căn cước công dân mới trong hồ sơ vẫn đúng, không ảnh hưởng quyền nghĩa vụ). CCV đã tiến hành sửa lỗi kỹ thuật theo đúng quy trình. Hạn cuối để văn phòng thông báo bằng văn bản cho ngân hàng và khách hàng là khi nào?",
+    "a": "Ngay trong ngày thực hiện sửa lỗi.",
+    "b": "Trong thời hạn 02 ngày làm việc kể từ ngày hoàn thành.",
+    "c": "Trong thời hạn 03 ngày làm việc kể từ ngày hoàn thành.",
+    "d": "Không cần thông báo vì đây chỉ là lỗi kỹ thuật nhỏ.",
+    "answer": "C",
+    "explanation": "Căn cứ Khoản 3 Điều 52: Việc sửa lỗi kỹ thuật phải được thông báo bằng văn bản cho những người tham gia giao dịch trong thời hạn 03 ngày làm việc kể từ ngày hoàn thành."
+  },
+  {
+    "question": "Bà Hoa đến Văn phòng công chứng yêu cầu công chứng hợp đồng tặng cho nhà đất. Tại thời điểm ký, bà Hoa không mang theo bản chính Giấy chứng nhận quyền sử dụng đất mà chỉ có bản sao có chứng thực được thực hiện cách đó 1 tuần. Công chứng viên xử lý thế nào?",
+    "a": "Từ chối công chứng ngay lập tức và yêu cầu về lấy bản chính.",
+    "b": "Được phép ký lời chứng dựa trên bản sao chứng thực vì bản sao có giá trị như bản chính.",
+    "c": "Yêu cầu xuất trình bản chính để đối chiếu trước khi ký vào lời chứng và từng trang của giao dịch.",
+    "d": "Hướng dẫn khách hàng nộp tiền để văn phòng tự đi xác minh tại văn phòng đăng ký đất đai.",
+    "answer": "C",
+    "explanation": "Căn cứ Khoản 7 Điều 42 lcc: Công chứng viên yêu cầu người yêu cầu công chứng xuất trình bản chính của các giấy tờ (giấy chứng nhận tài sản...) để đối chiếu trước khi ký vào lời chứng và từng trang của giao dịch."
+  },
+  {
+    "question": "Ai là người có quyền đề nghị Tòa án tuyên bố văn bản công chứng vô hiệu khi có căn cứ cho rằng việc công chứng có vi phạm pháp luật theo Điều 54?",
+    "a": "Chỉ có người yêu cầu công chứng và người có quyền lợi nghĩa vụ liên quan.",
+    "b": "Chính công chứng viên đã thực hiện việc công chứng, người yêu cầu, người làm chứng, người phiên dịch, người có quyền lợi nghĩa vụ liên quan, cơ quan nhà nước có thẩm quyền.",
+    "c": "Chỉ có cơ quan Tố tụng (Viện kiểm sát, Công an) khi điều tra vụ án.",
+    "d": "Giám đốc Sở Tư pháp nơi tổ chức hành nghề công chứng hoạt động.",
+    "answer": "B",
+    "explanation": "Căn cứ Điều 54 lcc: Quy định đầy đủ các chủ thể có quyền đề nghị gồm: CCV đã thực hiện, người yêu cầu, người làm chứng, người phiên dịch, người có quyền lợi nghĩa vụ liên quan và cơ quan nhà nước có thẩm quyền."
+  },
+  {
+    "question": "Lý thuyết: Theo Điều 45 Luật Công chứng, những khoảng thời gian nào sau đây KHÔNG được tính vào thời hạn công chứng (02 ngày hoặc 10 ngày làm việc)?",
+    "a": "Thời gian công chứng viên đọc lại dự thảo hợp đồng cho người yêu cầu nghe.",
+    "b": "Thời gian đối chiếu bản gốc các giấy tờ tùy thân và giấy chứng nhận tài sản.",
+    "c": "Thời gian xác minh, giám định nội dung liên quan đến giao dịch, niêm yết việc tiếp nhận công chứng văn bản phân chia di sản.",
+    "d": "Thời gian chụp ảnh người yêu cầu công chứng ký tên trước mặt công chứng viên.",
+    "answer": "C",
+    "explanation": "Căn cứ Khoản 1 Điều 45 lcc: 'Thời gian xác minh, giám định nội dung liên quan đến giao dịch, niêm yết việc tiếp nhận công chứng văn bản phân chia di sản không tính vào thời hạn công chứng'."
+  },
+  {
+    "question": "Tình huống: Anh Hoàng (19 tuổi, bị câm điếc bẩm sinh nhưng nhận thức bình thường) đến Văn phòng công chứng để ký hợp đồng mua bán căn hộ. Anh Hoàng có thể đọc viết chữ tiếng Việt thành thạo. Trường hợp này CCV phải xử lý như thế nào?",
+    "a": "Từ chối công chứng vì anh Hoàng là người khuyết tật nghe, nói nên không có năng lực hành vi dân sự đầy đủ.",
+    "b": "Bắt buộc phải có người làm chứng do anh Hoàng không thể giao tiếp bằng lời nói với CCV.",
+    "c": "Phải có người phiên dịch biết nghe, nói bằng ngôn ngữ ký hiệu của người khuyết tật nghe, nói.",
+    "d": "Yêu cầu bố mẹ anh Hoàng ký thay vì anh Hoàng thuộc đối tượng mất năng lực hành vi dân sự.",
+    "answer": "C",
+    "explanation": "Căn cứ Khoản 3 Điều 49 lcc: Trường hợp người yêu cầu công chứng là người khuyết tật nghe, nói thì phải có người phiên dịch (người biết nghe, nói bằng ngôn ngữ, ký hiệu của người khuyết tật nghe, nói)."
+  },
+  {
+    "question": "Lý thuyết: Phát biểu nào sau đây là ĐÚNG khi nói về cách ghi thời điểm trong văn bản công chứng theo quy định tại Điều 47?",
+    "a": "Chỉ cần ghi cụ thể ngày, tháng, năm bằng chữ.",
+    "b": "Bắt buộc phải ghi cụ thể giờ, phút, ngày, tháng, năm bằng cả số và chữ trong mọi hợp đồng.",
+    "c": "Thời điểm công chứng phải ghi cụ thể ngày, tháng, năm; có thể ghi giờ, phút nếu khách hàng đề nghị hoặc CCV thấy cần thiết. Các con số thể hiện thời điểm phải ghi cả bằng số và chữ.",
+    "d": "Chỉ cần ghi bằng số theo định dạng ngày/tháng/năm của cơ quan nhà nước.",
+    "answer": "C",
+    "explanation": "Căn cứ Khoản 2 Điều 47 lcc: Thời điểm công chứng phải được ghi cụ thể ngày, tháng, năm; có thể ghi giờ, phút nếu có đề nghị hoặc cần thiết. Các con số thể hiện thời điểm phải ghi cả bằng số và chữ."
+  },
+  {
+    "question": "Tình huống: Công chứng viên A thực hiện công chứng hợp đồng thế chấp tài sản giữa Ngân hàng BIDV và ông Long. Hai tuần sau, ông Long phát hiện trong bản gốc hợp đồng lưu tại Văn phòng công chứng bị lỗi in ấn: Chữ 'Bình Dương' bị ghi nhầm thành 'Bình Hương'. Ông Long yêu cầu sửa đổi. CCV A xử lý thế nào?",
+    "a": "Yêu cầu ông Long và đại diện Ngân hàng BIDV đến ký văn bản sửa đổi hợp đồng thế chấp theo Điều 53.",
+    "b": "Tự mình gạch chân chỗ sai, ghi chữ sửa đúng vào bên lề trang, ghi thời điểm sửa, ký tên, đóng dấu văn phòng và thông báo bằng văn bản cho các bên trong 03 ngày làm việc.",
+    "c": "Từ chối sửa vì hợp đồng đã bàn giao và có hiệu lực pháp luật, không được tác động vào nữa.",
+    "d": "Hủy bỏ hợp đồng cũ để lập và công chứng lại hợp đồng thế chấp mới.",
+    "answer": "B",
+    "explanation": "Đây là lỗi kỹ thuật (in ấn, đánh máy) không làm thay đổi quyền và nghĩa vụ của các bên. Theo Điều 52 lcc, CCV thực hiện thủ tục sửa lỗi kỹ thuật trực tiếp trên văn bản và thông báo bằng văn bản cho các bên trong 03 ngày làm việc."
+  },
+  {
+    "question": "Tình huống: Một VPCC đặt tại huyện Bến Cát, tỉnh Bình Dương tiếp nhận hồ sơ công chứng Thỏa thuận xác lập chế độ tài sản của vợ chồng, trong đó có một căn nhà tại Quận 1, Thành phố Hồ Chí Minh. CCV tại văn phòng này có thẩm quyền thực hiện không?",
+    "a": "Không, vì bất động sản nằm ngoài phạm vi tỉnh Bình Dương.",
+    "b": "Có, vì đây là trường hợp ngoại lệ về thẩm quyền địa giới bất động sản được quy định tại Điều 44.",
+    "c": "Có, nhưng phải chuyển hồ sơ cho Sở Tư pháp TP.HCM phê duyệt trước.",
+    "d": "Không, văn phòng chỉ được công chứng các tài sản động sản (xe cộ, sổ tiết kiệm) nằm ngoài tỉnh.",
+    "answer": "B",
+    "explanation": "Căn cứ Điều 44 lcc: Thỏa thuận xác lập chế độ tài sản của vợ chồng về bất động sản là một trong các trường hợp ngoại lệ, CCV được quyền công chứng dù bất động sản nằm ở bất kỳ tỉnh thành nào trên toàn quốc."
+  },
+  {
+    "question": "Lý thuyết: Theo Điều 48, hành vi nào sau đây bị NGHIÊM CẤM đối với công chứng viên khi soạn thảo lời chứng?",
+    "a": "Ghi thêm thông tin về giờ, phút thực hiện công chứng.",
+    "b": "Đưa vào lời chứng những nội dung nhằm trốn tránh, loại trừ trách nhiệm của mình.",
+    "c": "Ghi rõ lý do và địa điểm cụ thể khi thực hiện công chứng ngoài trụ sở.",
+    "d": "Ghi họ tên của người làm chứng hoặc người phiên dịch.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 3 Điều 48 lcc: Công chứng viên 'không được đưa vào lời chứng những nội dung nhằm trốn tránh, loại trừ trách nhiệm của mình hoặc có nội dung vi phạm pháp luật, trái đạo đức xã hội'."
+  },
+  {
+    "question": "Tình huống: Ông Tâm đến một Văn phòng công chứng tại Bình Dương để yêu cầu công chứng 'Thỏa thuận xác lập chế độ tài sản của vợ chồng', trong đó có nội dung định đoạt một mảnh đất tại tỉnh Đồng Nai. Công chứng viên tại đây có thẩm quyền thực hiện không?",
+    "a": "Không, vì mảnh đất nằm ở tỉnh Đồng Nai, vượt quá phạm vi địa giới tỉnh Bình Dương.",
+    "b": "Có, vì đây là loại giao dịch ngoại lệ được quyền công chứng không phụ thuộc vào nơi có bất động sản theo quy định tại Điều 44 Luật Công chứng 2024.",
+    "c": "Có, nhưng Văn phòng công chứng phải xin ý kiến chấp thuận bằng văn bản của Sở Tư pháp tỉnh Đồng Nai.",
+    "d": "Không, vì tất cả các giao dịch liên quan đến việc xác lập quyền đối với bất động sản bắt buộc phải thực hiện tại nơi có đất.",
+    "answer": "B",
+    "explanation": "Căn cứ theo Điều 44 Luật Công chứng 2024 về 'Thẩm quyền công chứng giao dịch về bất động sản', thỏa thuận xác lập chế độ tài sản của vợ chồng về bất động sản là một trong các trường hợp ngoại lệ được công chứng ngoài phạm vi tỉnh nơi tổ chức đặt trụ sở."
+  },
+  {
+    "question": "Lý thuyết: Theo quy định tại Khoản 2 Điều 47 Luật Công chứng 2024, các con số thể hiện thời điểm công chứng trong văn bản phải được ghi như thế nào?",
+    "a": "Chỉ cần ghi bằng chữ rõ ràng.",
+    "b": "Chỉ cần ghi bằng số theo định dạng ngày/tháng/năm.",
+    "c": "Phải được ghi cả bằng số và chữ, trừ trường hợp pháp luật có quy định khác.",
+    "d": "Ghi bằng số, riêng phần năm phải ghi bằng chữ.",
+    "answer": "C",
+    "explanation": "Căn cứ theo Khoản 2 Điều 47 Luật Công chứng 2024 quy định về Chữ viết và cách ghi thời điểm: 'Các con số thể hiện thời điểm công chứng phải được ghi cả bằng số và chữ, trừ trường hợp pháp luật có quy định khác'."
+  },
+  {
+    "question": "Tình huống: Tại thời điểm ký hợp đồng thế chấp tài sản tại Văn phòng công chứng, do camera của văn phòng bị hỏng đột xuất nên nhân viên không thể chụp ảnh lại cảnh khách hàng đang ký. Công chứng viên vẫn tiếp tục ký lời chứng và đóng dấu trả hồ sơ cho khách hàng. Hành vi này đúng hay sai?",
+    "a": "Đúng, vì khách hàng đã ký trực tiếp trước mặt CCV, việc chụp ảnh chỉ là thủ tục phụ.",
+    "b": "Sai, vì theo quy định tại Khoản 1 Điều 50 Luật Công chứng 2024, việc ký văn bản công chứng trước sự chứng kiến của công chứng viên phải được chụp ảnh và lưu trữ trong hồ sơ công chứng.",
+    "c": "Đúng, nếu công chứng viên ghi rõ lý do camera hỏng vào phần lời chứng.",
+    "d": "Sai, vì nếu không chụp ảnh thì hợp đồng công chứng đương nhiên bị vô hiệu mà không cần Tòa án tuyên bố.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 1 Điều 50 Luật Công chứng 2024: 'Việc ký văn bản công chứng trước sự chứng kiến của công chứng viên phải được chụp ảnh và lưu trữ trong hồ sơ công chứng'. Đây là thủ tục bắt buộc mới để đảm bảo tính an toàn pháp lý."
+  },
+  {
+    "question": "Lý thuyết: Theo quy định tại Khoản 2 Điều 49 Luật Công chứng 2024, người nào sau đây ĐỦ ĐIỀU KIỆN để làm người làm chứng trong hoạt động công chứng?",
+    "a": "Con trai ruột của người yêu cầu công chứng (có quyền lợi thừa kế liên quan).",
+    "b": "Người hàng xóm (từ đủ 18 tuổi, có năng lực hành vi dân sự đầy đủ và không có quyền, lợi ích, nghĩa vụ liên quan đến giao dịch).",
+    "c": "Người đang bị Tòa án hạn chế năng lực hành vi dân sự.",
+    "d": "Người không biết chữ, không thể ký hoặc điểm chỉ được.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 2 Điều 49 Luật Công chứng 2024: 'Người làm chứng phải là người có năng lực hành vi dân sự đầy đủ, không thuộc trường hợp phải có người làm chứng theo quy định tại khoản này và không có quyền, lợi ích hoặc nghĩa vụ liên quan đến việc công chứng'."
+  },
+  {
+    "question": "Tình huống: Ông Đức đến Văn phòng công chứng yêu cầu công chứng một hợp đồng mua bán đất đã được ông tự soạn thảo sẵn. Qua kiểm tra, Công chứng viên phát hiện trong dự thảo có điều khoản thỏa thuận trốn thuế thu nhập cá nhân. CCV đã chỉ rõ và yêu cầu ông Đức sửa chữa nhưng ông Đức kiên quyết giữ nguyên. Theo quy định tại Khoản 5 Điều 42 Luật Công chứng 2024, CCV phải xử lý như thế nào?",
+    "a": "Vẫn thực hiện công chứng nhưng ghi thêm ý kiến cảnh báo của CCV vào phần lời chứng.",
+    "b": "Tạm ngừng hồ sơ 10 ngày để ông Đức về suy nghĩ lại.",
+    "c": "Từ chối công chứng.",
+    "d": "Chủ động sửa lại điều khoản đó cho đúng luật rồi tiến hành công chứng mà không cần hỏi lại ông Đức.",
+    "answer": "C",
+    "explanation": "Căn cứ Khoản 5 Điều 42 Luật Công chứng 2024: 'Trường hợp người yêu cầu công chứng không sửa chữa thì công chứng viên từ chối công chứng'."
+  },
+  {
+    "question": "Tình huống: Ngân hàng BIDV chi nhánh Bàu Bàng có người đại diện theo pháp luật đã thực hiện đăng ký chữ ký mẫu trực tiếp tại Văn phòng công chứng X. Khi thực hiện hợp đồng thế chấp phát sinh sau đó, người này có được phép ký trước vào văn bản giao dịch trước khi đến gặp Công chứng viên không?",
+    "a": "Không được phép dưới mọi hình thức, tất cả các bên phải ký trực tiếp trước mặt CCV.",
+    "b": "Được phép ký trước, và CCV có trách nhiệm đối chiếu chữ ký của họ trong văn bản với chữ ký mẫu đã đăng ký trước khi thực hiện việc công chứng.",
+    "c": "Được phép ký trước nhưng bắt buộc phải có đóng dấu đỏ giáp lai của Ngân hàng vào từng trang.",
+    "d": "Chỉ được phép ký trước nếu có văn bản đồng ý cho ký trước của Sở Tư pháp.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 2 Điều 50 Luật Công chứng 2024: 'Trong trường hợp người có thẩm quyền giao kết giao dịch của tổ chức tín dụng... đã đăng ký chữ ký mẫu tại tổ chức hành nghề công chứng thì người đó có thể ký trước vào văn bản giao dịch; công chứng viên phải đối chiếu chữ ký của họ...'."
+  },
+  {
+    "question": "Lý thuyết: Theo quy định tại Điều 51 Luật Công chứng 2024, việc đánh số thứ tự trang đối với văn bản công chứng có từ 02 trang trở lên được thực hiện như thế nào?",
+    "a": "Bắt đầu từ số 1 tại trang thứ nhất của giao dịch và liên tục cho đến trang cuối cùng của phần nội dung giao dịch (không tính trang lời chứng).",
+    "b": "Bắt đầu từ số 1 tại trang thứ nhất của giao dịch và liên tục cho đến trang cuối cùng của lời chứng.",
+    "c": "Trang lời chứng của công chứng viên phải được đánh số thứ tự độc lập bằng ký hiệu riêng.",
+    "d": "Chỉ đánh số từ trang thứ 2 trở đi, trang đầu tiên không đánh số.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 1 Điều 51 Luật Công chứng 2024: 'Văn bản công chứng có từ 02 trang trở lên thì từng trang phải được đánh số thứ tự, bắt đầu từ số 1 tại trang thứ nhất của giao dịch và liên tục cho đến trang cuối cùng của lời chứng'."
+  },
+  {
+    "question": "Tình huống: Vợ chồng ông An và bà Bình muốn công chứng văn bản thỏa thuận chấm dứt hợp đồng đặt cọc mua nhà đất mà họ đã thực hiện công chứng tại Văn phòng công chứng (VPCC) Nguyễn Văn A từ năm ngoái. Tuy nhiên, hiện tại VPCC Nguyễn Văn A đang bị Sở Tư pháp ra quyết định tạm ngừng hoạt động. Việc công chứng văn bản thỏa thuận chấm dứt này sẽ được xử lý ra sao theo Điều 53?",
+    "a": "Phải đợi hết thời hạn tạm ngừng hoạt động của VPCC Nguyễn Văn A mới được làm.",
+    "b": "Vợ chồng ông An có thể đến bất kỳ VPCC nào khác trên cùng địa bàn tỉnh để làm mà không cần điều kiện gì.",
+    "c": "Thực hiện theo quy định tại Khoản 4 Điều 32 của Luật này (do tổ chức hành nghề công chứng được Sở Tư pháp chỉ định tiếp nhận hồ sơ thực hiện).",
+    "d": "Hợp đồng đặt cọc cũ tự động hết hiệu lực, hai bên không cần làm văn bản chấm dứt nữa.",
+    "answer": "C",
+    "explanation": "Căn cứ Khoản 2 Điều 53 Luật Công chứng 2024: 'Trường hợp tổ chức hành nghề công chứng tạm ngừng hoạt động thì việc sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch đã được công chứng thực hiện theo quy định tại khoản 4 Điều 32 của Luật này' (Sở Tư pháp chỉ định tổ chức khác tiếp nhận)."
+  },
+  {
+    "question": "Lý thuyết: Theo quy định tại Khoản 3 Điều 48 Luật Công chứng 2024, Công chứng viên KHÔNG ĐƯỢC phép đưa nội dung nào sau đây vào lời chứng của mình?",
+    "a": "Lý do cụ thể của việc thực hiện công chứng ngoài trụ sở.",
+    "b": "Họ và tên của người làm chứng hoặc người phiên dịch.",
+    "c": "Các nội dung nhằm trốn tránh, loại trừ trách nhiệm của công chứng viên.",
+    "d": "Khẳng định các bên tham gia giao dịch hoàn toàn tự nguyện.",
+    "answer": "C",
+    "explanation": "Căn cứ Khoản 3 Điều 48 Luật Công chứng 2024: Công chứng viên 'không được đưa vào lời chứng những nội dung nhằm trốn tránh, loại trừ trách nhiệm của mình hoặc có nội dung vi phạm pháp luật, trái đạo đức xã hội'."
+  },
+  {
+    "question": "Tình huống: Anh Bình (người yêu cầu công chứng) là người nước ngoài, không thông thạo tiếng Việt nên đã chủ động mời một người phiên dịch đi cùng. Trong quá trình làm việc, Công chứng viên phát hiện người phiên dịch này chính là người được hưởng lợi ích tài sản trực tiếp từ chính hợp đồng mua bán mà anh Bình sắp ký. CCV phải xử lý thế nào theo Điều 49?",
+    "a": "Vẫn chấp nhận vì người phiên dịch do khách hàng tự lựa chọn và tự chịu trách nhiệm.",
+    "b": "Yêu cầu anh Bình phải ký một văn bản cam kết chấp nhận mọi rủi ro rồi mới tiến hành công chứng.",
+    "c": "Từ chối người phiên dịch này và yêu cầu anh Bình thay đổi người phiên dịch khác đáp ứng đủ điều kiện luật định.",
+    "d": "Hủy bỏ toàn bộ giao dịch và báo cáo cơ quan công an.",
+    "answer": "C",
+    "explanation": "Căn cứ Khoản 3 Điều 49 Luật Công chứng 2024 quy định về tiêu chuẩn của người phiên dịch: '...và không có quyền, lợi ích hoặc nghĩa vụ liên quan đến việc công chứng'. Do đó người này không đủ tư cách làm người phiên dịch."
+  },
+  {
+    "question": "Một văn bản công chứng hợp đồng mua bán tài sản gồm có 03 trang nội dung giao dịch và 01 trang lời chứng của công chứng viên. Theo Điều 51 Luật Công chứng 2024, việc đánh số thứ tự trang được thực hiện như thế nào?",
+    "a": "Đánh số từ số 1 tại trang thứ nhất và kết thúc ở số 3 tại trang cuối cùng của nội dung giao dịch, trang lời chứng không đánh số.",
+    "b": "Đánh số từ số 1 tại trang thứ nhất và liên tục cho đến số 4 tại trang lời chứng.",
+    "c": "Trang lời chứng của công chứng viên phải được đánh số thứ tự độc lập (bắt đầu lại từ số 1).",
+    "d": "Chỉ đánh số thứ tự từ trang thứ 2 trở đi, trang thứ nhất của giao dịch mặc định không ghi số.",
+    "answer": "B",
+    "explanation": "Căn cứ Khoản 1 Điều 51 Luật Công chứng 2024: 'Văn bản công chứng có từ 02 trang trở lên thì từng trang phải được đánh số thứ tự, bắt đầu từ số 1 tại trang thứ nhất của giao dịch và liên tục cho đến trang cuối cùng của lời chứng'."
+  },
+  {
+    "question": "Ông Hùng đến Văn phòng công chứng yêu cầu công chứng một văn bản thỏa thuận đơn phương hủy bỏ Giấy ủy quyền định đoạt tài sản do chính ông lập trước đây. Theo quy định tại Khoản 1 Điều 53 Luật Công chứng 2024, việc công chứng văn bản hủy bỏ này đòi hỏi điều kiện gì?",
+    "a": "Phải có sự thỏa thuận hoặc cam kết bằng văn bản của người được ủy quyền trước đây.",
+    "b": "Chỉ cần có yêu cầu đơn phương của ông Hùng (người đã ký kết văn bản đó), trừ trường hợp pháp luật có quy định khác.",
+    "c": "Bắt buộc phải được sự đồng ý và xác nhận bằng văn bản của Sở Tư pháp.",
+    "d": "Phải tiến hành niêm yết công khai tại Ủy ban nhân dân cấp xã trong thời hạn 15 ngày.",
+    "answer": "B",
+    "explanation": "Căn cứ Đoạn 2 Khoản 1 Điều 53 Luật Công chứng 2024: 'Việc công chứng văn bản sửa đổi, bổ sung, chấm dứt, hủy bỏ văn bản là hành vi pháp lý đơn phương được thực hiện khi có yêu cầu của người đã ký kết văn bản đó, trừ trường hợp pháp luật có quy định khác'."
+  },
+  {
+    "question": "Trong trường hợp khoảng trống bên lề của trang được sửa lỗi kỹ thuật không đủ chỗ để công chứng viên ghi nội dung sửa đổi, Khoản 3 Điều 52 Luật Công chứng 2024 cho phép xử lý như thế nào?",
+    "a": "Công chứng viên được phép viết đè lên các dòng chữ nội dung có sẵn của hợp đồng.",
+    "b": "Công chứng viên có thể ghi nội dung sửa lỗi kỹ thuật vào trang đính kèm, trên đó có đủ chữ, dấu hoặc con số đã sửa, thời điểm sửa, họ tên, chữ ký của CCV và đóng dấu của tổ chức hành nghề công chứng.",
+    "c": "Hợp đồng bắt buộc phải được hủy bỏ để ký lại văn bản mới vì không thể tác động ngoài biên lề.",
+    "d": "Công chứng viên tự ghi vào mặt sau của tờ giấy đó và không cần đóng dấu.",
+    "answer": "B",
+    "explanation": "Căn cứ Đoạn 1 Khoản 3 Điều 52 Luật Công chứng 2024 quy định: '...trường hợp khoảng trống bên lề không đủ chỗ để ghi nội dung sửa lỗi kỹ thuật thì có thể ghi vào trang đính kèm có đủ các nội dung nêu trên'."
+  },
+  {
+    "question": "Theo quy định tại Điều 54 Luật Công chứng 2024, những chủ thể nào sau đây có quyền đề nghị Tòa án tuyên bố văn bản công chứng vô hiệu khi có căn cứ cho rằng việc công chứng vi phạm pháp luật?",
+    "a": "Chỉ người yêu cầu công chứng và người có quyền lợi, nghĩa vụ liên quan.",
+    "b": "Chỉ công chứng viên đã thực hiện việc công chứng và cơ quan nhà nước có thẩm quyền.",
+    "c": "Công chứng viên đã thực hiện việc công chứng, người yêu cầu công chứng, người làm chứng, người phiên dịch, người có quyền lợi, nghĩa vụ liên quan, cơ quan nhà nước có thẩm quyền.",
+    "d": "Chỉ Giám đốc Sở Tư pháp nơi tổ chức hành nghề công chứng đặt trụ sở.",
+    "answer": "C",
+    "explanation": "Căn cứ theo Điều 54 Luật Công chứng 2024 quy định đầy đủ tất cả các chủ thể có quyền đề nghị Tòa án tuyên bố văn bản công chứng vô hiệu bao gồm cả CCV, người yêu cầu, người làm chứng, người phiên dịch, người liên quan và cơ quan nhà nước có thẩm quyền."
+  },
+  {
+    "question": "Trường hợp một cá nhân là người khuyết tật nhìn (mắt không nhìn thấy được) nhưng có năng lực hành vi dân sự đầy đủ đến yêu cầu công chứng hợp đồng ủy quyền. Theo quy định tại Điều 49 Luật Công chứng 2024, thủ tục bắt buộc phải có sự tham gia của ai?",
+    "a": "Người làm chứng để chứng kiến việc công chứng viên đọc lại văn bản và chứng kiến việc điểm chỉ.",
+    "b": "Người đại diện theo pháp luật của người khuyết tật đó.",
+    "c": "Người phiên dịch (là người biết chữ của người khuyết tật nhìn) do người yêu cầu công chứng mời.",
+    "d": "Người giám hộ được Ủy ban nhân dân cấp xã cử ra.",
+    "answer": "A",
+    "explanation": "Căn cứ Khoản 1 Điều 49 Luật Công chứng 2024: 'Trường hợp người yêu cầu công chứng không đọc được văn bản công chứng... thì phải có người làm chứng'."
+  },
   {
     "question": "Ủy ban nhân dân tỉnh X đang xem xét thành lập một Phòng công chứng mới tại huyện Y. Điều kiện nào sau đây là bắt buộc để việc thành lập này phù hợp với Điều 21 LCC 2024?",
     "a": "Huyện Y phải là địa bàn kinh tế đặc biệt khó khăn.",
