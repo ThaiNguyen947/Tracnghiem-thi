@@ -1,4 +1,229 @@
-[ 
+[
+ {
+    "question": "Theo Luật Công chứng, đối với hợp đồng thế chấp bất động sản đã được công chứng lần đầu, các hợp đồng thế chấp tiếp theo đối với chính bất động sản đó phải được thực hiện tại tổ chức hành nghề công chứng nào?",
+    "a": "Bất kỳ tổ chức hành nghề công chứng nào trên địa bàn cấp tỉnh nơi có bất động sản.",
+    "b": "Bắt buộc phải là Phòng Công chứng nhà nước để đảm bảo tính khách quan tối cao.",
+    "c": "Tổ chức hành nghề công chứng đã thực hiện việc công chứng hợp đồng thế chấp lần đầu.",
+    "d": "Bất kỳ tổ chức hành nghề công chứng nào được Ngân hàng nhận thế chấp chỉ định.",
+    "answer": "C",
+    "explanation": "Căn cứ theo Khoản 2 Điều 56 Luật Công chứng 2024: Các hợp đồng thế chấp tiếp theo phải được công chứng tại tổ chức hành nghề công chứng đã công chứng hợp đồng thế chấp lần đầu, trừ trường hợp tổ chức này đã giải thể, chấm dứt hoạt động hoặc tạm ngừng hoạt động."
+  },
+  {
+    "question": "Theo Luật Công chứng, trường hợp người lập di chúc muốn lập di chúc công chứng trong tình trạng tính mạng bị cái chết đe dọa thì được hưởng quyền lợi đặc biệt nào về mặt hồ sơ?",
+    "a": "Được miễn toàn bộ phí và thù lao công chứng ngoài trụ sở.",
+    "b": "Không phải xuất trình đủ các giấy tờ hồ sơ theo quy định chung nhưng phải ghi rõ điều này trong văn bản công chứng.",
+    "c": "Được công chứng viên ký thay nếu người lập di chúc quá yếu không thể ký tên.",
+    "d": "Được miễn thủ tục chụp ảnh và lưu trữ hình ảnh ký tên vào hồ sơ công chứng.",
+    "answer": "B",
+    "explanation": "Căn cứ theo Khoản 3 Điều 58 Luật Công chứng 2024: Trường hợp tính mạng người lập di chúc bị cái chết đe dọa thì người lập di chúc không phải xuất trình đủ giấy tờ quy định tại khoản 1 Điều 42 của Luật này nhưng phải ghi rõ trong văn bản công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng, trường hợp người lập di chúc đã gửi giữ di chúc tại một tổ chức hành nghề công chứng, nhưng sau đó muốn thay thế di chúc này bằng một di chúc mới thì có thể thực hiện tại đâu?",
+    "a": "Bắt buộc phải thực hiện tại đúng tổ chức hành nghề công chứng đang nhận lưu giữ di chúc cũ.",
+    "b": "Chỉ được thực hiện tại các tổ chức hành nghề công chứng cùng địa bàn cấp huyện với tổ chức cũ.",
+    "c": "Yêu cầu công chứng viên của bất kỳ tổ chức hành nghề công chứng nào thực hiện và phải thông báo cho tổ chức đang lưu giữ di chúc biết.",
+    "d": "Chỉ được thực hiện tại Phòng Công chứng thuộc Sở Tư pháp để đảm bảo việc hủy bỏ di chúc cũ có hiệu lực.",
+    "answer": "C",
+    "explanation": "Căn cứ theo Khoản 4 Điều 58 Luật Công chứng 2024: Người lập di chúc có thể yêu cầu công chứng viên của bất kỳ tổ chức hành nghề công chứng nào công chứng việc sửa đổi, bổ sung, thay thế hoặc hủy bỏ di chúc. Trường hợp di chúc trước đó đang được lưu giữ tại một tổ chức hành nghề công chứng thì phải thông báo cho tổ chức đó biết."
+  },
+  {
+    "question": "Theo Luật Công chứng, khi thực hiện công chứng hợp đồng ủy quyền từ xa (bên ủy quyền và bên được ủy quyền ký tại hai văn phòng khác nhau), thời điểm văn bản công chứng này chính thức phát sinh hiệu lực pháp luật là khi nào?",
+    "a": "Kể từ thời điểm bên ủy quyền hoàn thành việc ký và đóng dấu tại tổ chức hành nghề công chứng đầu tiên.",
+    "b": "Kể từ thời điểm công chứng viên của tổ chức hành nghề công chứng mà bên được ủy quyền yêu cầu công chứng ký và đóng dấu.",
+    "c": "Sau 03 ngày làm việc kể từ ngày văn phòng công chứng thứ hai chuyển trả 01 bản gốc về cho văn phòng công chứng thứ nhất.",
+    "d": "Kể từ ngày hai bên hoàn thành việc giao nhận tài sản ủy quyền trên thực tế.",
+    "answer": "B",
+    "explanation": "Căn cứ theo Đoạn 2 Khoản 1 Điều 57 Luật Công chứng 2024: Văn bản công chứng hợp đồng ủy quyền có hiệu lực kể từ thời điểm được công chứng viên của tổ chức hành nghề công chứng mà bên ủy quyền và bên được ủy quyền yêu cầu công chứng ký và đóng dấu của tổ chức hành nghề công chứng đó (tức là sau khi bên thứ hai hoàn thành việc ký nhận)."
+  },
+  {
+    "question": "Theo Luật Công chứng, tổ chức hành nghề công chứng chỉ được đặt bút ký công chứng văn bản phân chia di sản thừa kế sau khi đã hoàn thành thủ tục bắt buộc nào sau đây?",
+    "a": "Được sự phê duyệt bằng văn bản của Ủy ban nhân dân cấp huyện nơi có di sản.",
+    "b": "Có xác nhận về việc đã hoàn thành việc niêm yết công khai và không nhận được khiếu nại, tố cáo nào liên quan đến việc phân chia.",
+    "c": "Tiến hành giám định chữ ký của người để lại di sản tại cơ quan công an bồi dưỡng nghiệp vụ.",
+    "d": "Thu thập đủ biên lai thuế thu nhập cá nhân của tất cả những người được hưởng thừa kế.",
+    "answer": "B",
+    "explanation": "Căn cứ theo Khoản 4 Điều 59 Luật Công chứng 2024: Tổ chức hành nghề công chứng có trách nhiệm niêm yết việc tiếp nhận công chứng văn bản phân chia di sản. Công chứng viên chỉ được công chứng văn bản phân chia di sản sau khi có xác nhận về việc đã hoàn thành việc niêm yết và không nhận được khiếu nại, tố cáo nào."
+  },
+{
+    "question": "Theo Luật Công chứng, một hợp đồng thế chấp tài sản được công chứng và phát sinh hiệu lực vào ngày 15/05/2026. Đến ngày 20/05/2026, các bên phát hiện công chứng viên khi soạn thảo đã ghi nhầm số căn cước công dân của bên thế chấp từ số '038096001234' thành '038096004321' (lỗi do bấm nhầm phím số). Nhận định nào sau đây phản ánh đúng tính chất và phương thức xử lý đối với lỗi này?",
+    "a": "Đây là lỗi nội dung làm thay đổi chủ thể giao dịch, bắt buộc phải lập hợp đồng sửa đổi bổ sung và có chữ ký của tất cả các bên.",
+    "b": "Đây là lỗi kỹ thuật do sai sót trong quá trình đánh máy, công chứng viên tự mình thực hiện việc sửa lỗi trực tiếp trên văn bản mà không cần các bên phải ký lại.",
+    "c": "Đây là lỗi nghiêm trọng dẫn đến hợp đồng bị vô hiệu một phần, phải đề nghị Tòa án tuyên bố vô hiệu để làm lại.",
+    "d": "Đây là lỗi kỹ thuật nhưng do ảnh hưởng đến thông tin nhân thân của khách hàng nên bắt buộc phải hủy bỏ hợp đồng cũ để ký lại hợp đồng mới.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Điều 52 và Điều 55 Luật Công chứng, lỗi ghi nhầm số căn cước công dân do lỗi bấm phím (in ấn, đánh máy) được xác định là lỗi kỹ thuật vì nó không làm thay đổi bản chất quyền và nghĩa vụ của các bên trong giao dịch thế chấp. Công chứng viên thực hiện việc sửa lỗi trực tiếp tại biên lề văn bản công chứng (hoặc trang đính kèm), ký tên, đóng dấu và thông báo cho các bên."
+  },
+  {
+    "question": "Phân tích trường hợp: Bà Hoa (đang điều trị ung thư giai đoạn cuối tại bệnh viện Bàu Bàng) lập di chúc công chứng khẩn cấp do tính mạng bị cái chết đe dọa và được miễn xuất trình Giấy chứng nhận quyền sở hữu nhà đất. Một tháng sau, sức khỏe bà Hoa tiến triển tốt ổn định và bà được xuất viện về nhà. Tuy nhiên, bà Hoa cho rằng di chúc đã được công chứng xong nên không nộp bổ sung giấy tờ đất cho văn phòng công chứng. Hai tháng tiếp theo, bà Hoa không may gặp tai nạn giao thông và qua đời. Tính pháp lý của bản di chúc này được nhận định như thế nào theo Luật Công chứng?",
+    "a": "Di chúc hoàn toàn có hiệu lực vì tại thời điểm lập bà Hoa hoàn toàn đủ điều kiện khẩn cấp và đã được công chứng viên ký, đóng dấu hợp pháp.",
+    "b": "Di chúc bị vô hiệu một phần đối với quyền sử dụng đất và chỉ có hiệu lực đối với các tài sản động sản khác.",
+    "c": "Di chúc hoàn toàn không có hiệu lực vì bà Hoa đã qua khỏi tình trạng nguy hiểm tính mạng do bệnh tật nhưng không nộp đủ giấy tờ trong thời hạn 03 tháng kể từ ngày lập.",
+    "d": "Di chúc vẫn có hiệu lực vì bà Hoa qua đời trong thời hạn 03 tháng kể từ ngày lập di chúc khẩn cấp.",
+    "answer": "c",
+    "explanation": "Căn cứ theo Khoản 3 Điều 58 Luật Công chứng, điều kiện để di chúc khẩn cấp duy trì hiệu lực là nếu sau 03 tháng kể từ thời điểm lập mà người đó không còn trong tình trạng nguy hiểm tính mạng thì phải nộp đủ giấy tờ hồ sơ. Ở đây bà Hoa đã xuất viện khỏe mạnh (hết tình trạng nguy hiểm do bệnh) nhưng không nộp bổ sung giấy tờ, nên văn bản công chứng di chúc tự động không có hiệu lực. Việc bà qua đời sau đó do tai nạn giao thông không làm khôi phục lại hiệu lực của văn bản đã vi phạm điều kiện duy trì."
+  },
+  {
+    "question": "Phân tích quy trình công chứng hợp đồng ủy quyền từ xa giữa bên ủy quyền tại Tây Ninh và bên được ủy quyền tại Bình Dương. Công chứng viên tại Bình Dương (văn phòng thứ hai) sau khi chứng nhận tiếp vào bản gốc hợp đồng ủy quyền để hoàn thành việc công chứng thì nhận định nào sau đây là ĐÚNG về nghĩa vụ quản lý hồ sơ?",
+    "a": "Văn phòng tại Bình Dương giữ lại toàn bộ các bản gốc và chỉ cấp bản sao có chứng thực cho bên được ủy quyền.",
+    "b": "Văn phòng tại Bình Dương phải gửi 01 bản gốc của văn bản công chứng đó cho văn phòng tại Tây Ninh để lưu hồ sơ công chứng.",
+    "c": "Văn phòng tại Bình Dương có trách nhiệm gửi thông báo bằng văn bản kèm bản sao hợp đồng cho Sở Tư pháp tỉnh Tây Ninh.",
+    "d": "Văn phòng tại Bình Dương không cần gửi lại văn bản cho văn phòng tại Tây Ninh vì hai tổ chức hành nghề hoạt động độc lập.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 1 Điều 57 Luật Công chứng, đối với hợp đồng ủy quyền thực hiện tại hai văn phòng khác nhau, văn phòng công chứng nơi bên được ủy quyền ký nhận (văn phòng hoàn thành công chứng) có nghĩa vụ bắt buộc phải gửi 01 bản gốc của văn bản công chứng đó cho tổ chức hành nghề công chứng mà bên ủy quyền đã công chứng trước đó để lưu hồ sơ công chứng."
+  },
+  {
+    "question": "Nhận định nào sau đây phản ánh đúng quy định của Luật Công chứng về nghĩa vụ niêm yết khi giải quyết hồ sơ di sản thừa kế trong trường hợp người chết để lại di chúc chia tài sản cho một người duy nhất, và những người thừa kế theo pháp luật còn lại đều lập văn bản từ chối nhận di sản?",
+    "a": "Do tài sản được định đoạt trọn vẹn theo di chúc hợp pháp và các bên đã từ chối nên văn phòng công chứng được quyền ký ngay văn bản phân chia/khai nhận mà không cần niêm yết.",
+    "b": "Chỉ tiến hành niêm yết văn bản từ chối nhận di sản của các đồng thừa kế, không cần niêm yết việc tiếp nhận công chứng di sản thừa kế.",
+    "c": "Bắt buộc phải tiến hành thủ tục niêm yết việc tiếp nhận công chứng vì quy định niêm yết áp dụng đối với cả trường hợp thừa kế theo di chúc hoặc theo pháp luật mà chỉ có 01 người thừa kế.",
+    "d": "Tổ chức hành nghề công chứng có quyền tự quyết định việc niêm yết hoặc xác minh thay thế tùy thuộc vào giá trị của khối di sản thừa kế.",
+    "answer": "c",
+    "explanation": "Căn cứ theo Khoản 4 và Khoản 5 Điều 59 Luật Công chứng, tổ chức hành nghề công chứng bắt buộc phải niêm yết việc tiếp nhận công chứng văn bản phân chia/khai nhận di sản. Quy định này áp dụng bắt buộc cho cả trường hợp thừa kế theo di chúc hoặc pháp luật mà chỉ có duy nhất 01 người thừa kế."
+  },
+  {
+    "question": "Phân tích hậu quả pháp lý đối với việc gửi giữ di chúc: Ông An gửi giữ di chúc tại Văn phòng công chứng X. Khi văn phòng này có quyết định giải thể, văn phòng đã thông báo nhưng ông An kiên quyết không đồng ý chuyển di chúc sang văn phòng khác và cũng không chịu nhận lại di chúc. Nhận định nào sau đây đúng về phương thức giải quyết của văn phòng công chứng X theo Luật Công chứng?",
+    "a": "Văn phòng công chứng X bàn giao thẳng bản di chúc đó cho con trai trưởng của ông An bảo quản.",
+    "b": "Văn phòng công chứng X lập biên bản chứng kiến và tiến hành tiêu hủy niêm phong bản di chúc trước khi chấm dứt hoạt động.",
+    "c": "Di chúc và phí lưu giữ di chúc bắt buộc phải được trả lại cho ông An do hai bên không đạt được thỏa thuận chuyển giao.",
+    "d": "Văn phòng công chứng X tự động bàn giao di chúc cho Ủy ban nhân dân cấp xã nơi có đất của ông An để lưu trữ.",
+    "answer": "c",
+    "explanation": "Căn cứ theo Khoản 2 Điều 61 Luật Công chứng, khi tổ chức hành nghề công chứng chấm dứt hoạt động hoặc giải thể mà không thỏa thuận được với người lập di chúc về việc chuyển cho tổ chức khác lưu giữ thì di chúc và phí lưu giữ di chúc phải được trả lại cho người lập di chúc."
+  },
+{
+    "question": "Theo Luật Công chứng, khi thực hiện công chứng hợp đồng ủy quyền từ xa tại hai tổ chức hành nghề công chứng khác nhau, bên được ủy quyền đã đến tổ chức thứ hai ký chấp nhận ủy quyền nhưng công chứng viên tại đây phát hiện một lỗi chính tả đánh máy ở phần thông tin của bên ủy quyền (do tổ chức thứ nhất soạn thảo). Thẩm quyền xử lý sửa lỗi kỹ thuật này được quy định như thế nào?",
+    "a": "Công chứng viên của tổ chức thứ hai được quyền sửa đổi trực tiếp vì họ là người hoàn thành việc công chứng hợp đồng.",
+    "b": "Việc sửa lỗi kỹ thuật phải được thực hiện tại chính tổ chức hành nghề công chứng đã xảy ra sai sót trong quá trình soạn thảo.",
+    "c": "Hai văn phòng công chứng phải thành lập hội đồng kiểm tra chung để cùng ra văn bản đính chính.",
+    "d": "Hợp đồng ủy quyền từ xa bắt buộc phải hủy bỏ hoàn toàn để làm lại từ đầu nếu phát hiện sai sót kỹ thuật ở văn phòng thứ nhất.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 3 Điều 57 Luật Công chứng 2024, việc sửa lỗi kỹ thuật của văn bản công chứng hợp đồng ủy quyền hai bên ở hai nơi được thực hiện tại tổ chức hành nghề công chứng đã thực hiện việc công chứng (nơi phát sinh lỗi), trừ trường hợp pháp luật có quy định khác. Sau khi sửa xong, văn phòng đó phải thông báo cho văn phòng còn lại trong thời hạn 03 ngày làm việc."
+  },
+  {
+    "question": "Phân tích tình huống: Anh Long lập văn bản đề nghị ủy quyền tại Văn phòng công chứng A (tỉnh Bình Dương). Bản gốc này được chuyển đến Văn phòng công chứng B (tỉnh Bình Phước) để người nhận ủy quyền ký tiếp. Tuy nhiên, trước khi người nhận ủy quyền kịp đến Văn phòng B để ký, anh Long đột ngột thay đổi ý định và muốn chấm dứt việc ủy quyền này. Nhận định nào sau đây đúng về thủ tục giải quyết theo Luật Công chứng?",
+    "a": "Anh Long phải yêu cầu cả hai Văn phòng A và B cùng ra văn bản hủy bỏ thì thủ tục mới hợp lệ.",
+    "b": "Vì hợp đồng ủy quyền từ xa chưa ký xong ở văn phòng thứ hai nên chưa phát sinh hiệu lực, anh Long chỉ cần đến Văn phòng A yêu cầu đơn phương rút lại văn bản đề nghị ủy quyền.",
+    "c": "Anh Long bắt buộc phải chờ người nhận ủy quyền ký xong tại Văn phòng B, sau đó hai bên mới được lập văn bản thỏa thuận chấm dứt.",
+    "d": "Văn phòng công chứng A tự động thông báo hủy hồ sơ trên hệ thống công chứng mà không cần anh Long phải ký bất kỳ văn bản nào.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 1 Điều 57 Luật Công chứng 2024, văn bản công chứng hợp đồng ủy quyền hai bên ở hai nơi chỉ chính thức có hiệu lực kể từ thời điểm được công chứng viên của tổ chức hành nghề công chứng nơi bên được ủy quyền yêu cầu ký và đóng dấu. Vì người nhận ủy quyền chưa ký tại văn phòng thứ hai, hợp đồng này chưa hình thành và chưa có hiệu lực pháp luật. Do đó, anh Long có quyền đơn phương rút lại yêu cầu tại văn phòng ban đầu mà không cần thực hiện thủ tục hủy bỏ một giao dịch đã có hiệu lực."
+  },
+  {
+    "question": "Theo Luật Công chứng, đối với văn bản công chứng điện tử của hợp đồng ủy quyền trong trường hợp bên ủy quyền và bên được ủy quyền không thể cùng đến một tổ chức hành nghề công chứng, điều kiện bắt buộc để văn bản này có hiệu lực pháp luật là gì?",
+    "a": "Chỉ cần chữ ký số của công chứng viên và chữ ký số của tổ chức hành nghề công chứng nơi bên ủy quyền thực hiện giao dịch.",
+    "b": "Bắt buộc phải có chữ ký số của công chứng viên và chữ ký số của cả hai tổ chức hành nghề công chứng tham gia thực hiện việc công chứng đó.",
+    "c": "Phải có sự xác thực bằng sinh trắc học dấu vân tay điện tử của hai tổ chức trên Cổng dịch vụ công quốc gia.",
+    "d": "Chỉ cần chữ ký số của công chứng viên tại tổ chức hành nghề công chứng thứ hai là đủ điều kiện phát sinh hiệu lực.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Đoạn 2 Khoản 1 Điều 57 Luật Công chứng 2024 quy định về hình thức công chứng điện tử đối với loại giao dịch này: 'Trường hợp là văn bản công chứng điện tử thì phải có chữ ký số của công chứng viên và chữ ký số của các tổ chức hành nghề công chứng đó' (tức là cả hai văn phòng tham gia vào quy trình)."
+  },
+  {
+    "question": "Nhận định nào sau đây ĐÚNG về quy trình giải quyết hồ sơ khi hai bên muốn thực hiện thỏa thuận chấm dứt một hợp đồng ủy quyền từ xa (trước đây đã thực hiện tại hai văn phòng công chứng khác nhau), và hiện tại hai bên cùng thống nhất đến yêu cầu tại văn phòng công chứng nơi bên ủy quyền lập ban đầu?",
+    "a": "Văn phòng ban đầu không được quyền ký vì thẩm quyền hủy bỏ thuộc về văn phòng thứ hai - nơi hợp đồng chính thức phát sinh hiệu lực.",
+    "b": "Văn phòng ban đầu tiếp nhận công chứng việc thỏa thuận chấm dứt, sau đó có trách nhiệm thông báo và gửi 01 bản sao của văn bản chấm dứt này cho tổ chức hành nghề công chứng còn lại để lưu hồ sơ.",
+    "c": "Văn phòng ban đầu thực hiện công chứng chấm dứt xong thì hồ sơ kết thúc, không cần phải thông tin hay liên hệ gì với văn phòng còn lại.",
+    "d": "Các bên bắt buộc phải gửi văn bản xin phép Sở Tư pháp trước khi chọn một trong hai văn phòng cũ để thực hiện thủ tục chấm dứt.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Đoạn 2 Khoản 2 Điều 57 Luật Công chứng 2024: 'Trường hợp hai bên cùng yêu cầu công chứng tại một trong hai tổ chức hành nghề công chứng đã thực hiện việc công chứng trước đó thì tổ chức hành nghề công chứng này có trách nhiệm thông báo và gửi 01 bản sao của văn bản sửa đổi, bổ sung, thỏa thuận chấm dứt hợp đồng cho tổ chức hành nghề công chứng còn lại để lưu hồ sơ công chứng'."
+  },
+  {
+    "question": "Theo Luật Công chứng, thời hạn để tổ chức hành nghề công chứng đã thực hiện sửa lỗi kỹ thuật đối với hợp đồng ủy quyền hai bên ở hai nơi phải thông báo cho tổ chức hành nghề công chứng còn lại được quy định là bao lâu?",
+    "a": "Ngay trong ngày làm việc thực hiện việc sửa lỗi kỹ thuật.",
+    "b": "Trong thời hạn 02 ngày làm việc kể từ ngày hoàn thành việc sửa lỗi kỹ thuật.",
+    "c": "Trong thời hạn 03 ngày làm việc kể từ ngày hoàn thành việc sửa lỗi kỹ thuật.",
+    "d": "Trong thời hạn 05 ngày làm việc kể từ ngày hoàn thành việc sửa lỗi kỹ thuật.",
+    "answer": "c",
+    "explanation": "Căn cứ theo Khoản 3 Điều 57 Luật Công chứng 2024 quy định rõ về thời hạn thông báo: Công chứng viên thực hiện việc sửa lỗi kỹ thuật phải 'thông báo về việc sửa lỗi kỹ thuật cho tổ chức hành nghề công chứng còn lại đã thực hiện việc công chứng trong thời hạn 03 ngày làm việc kể từ ngày hoàn thành việc sửa lỗi kỹ thuật'."
+  },
+{
+    "question": "Theo Luật Công chứng, một hợp đồng ủy quyền từ xa giữa bên ủy quyền (ký tại Văn phòng A) và bên được ủy quyền (ký tại Văn phòng B) đã hoàn tất thủ tục và phát sinh hiệu lực. Sau đó, các bên phát hiện thông tin địa chỉ của bên ủy quyền bị sai lỗi chính tả do nhân viên soạn thảo của Văn phòng A đánh máy nhầm. Nhận định nào sau đây ĐÚNG về thẩm quyền và thủ tục sửa lỗi kỹ thuật này?",
+    "a": "Công chứng viên của Văn phòng B được quyền sửa vì là nơi hoàn thành việc ký đóng dấu cuối cùng.",
+    "b": "Công chứng viên của Văn phòng A thực hiện việc sửa lỗi kỹ thuật và phải thông báo cho Văn phòng B trong thời hạn 03 ngày làm việc kể từ ngày hoàn thành.",
+    "c": "Bắt buộc hai văn phòng phải cùng ký vào một văn bản đính chính chung thì việc sửa lỗi mới có hiệu lực.",
+    "d": "Hợp đồng đã hoàn tất thì không được sửa lỗi kỹ thuật, các bên bắt buộc phải lập văn bản sửa đổi hợp đồng.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 3 Điều 57 Luật Công chứng 2024, việc sửa lỗi kỹ thuật đối với hợp đồng ủy quyền hai bên ở hai nơi được thực hiện tại tổ chức hành nghề công chứng đã thực hiện việc công chứng có sai sót. Sau khi hoàn thành, tổ chức này phải thông báo cho tổ chức còn lại trong thời hạn 03 ngày làm việc."
+  },
+{
+    "question": "Theo Luật Công chứng, một hợp đồng ủy quyền từ xa giữa bên ủy quyền (ký tại Văn phòng A) và bên được ủy quyền (ký tại Văn phòng B) đã hoàn tất thủ tục và phát sinh hiệu lực. Sau đó, các bên phát hiện thông tin địa chỉ của bên ủy quyền bị sai lỗi chính tả do nhân viên soạn thảo của Văn phòng A đánh máy nhầm. Nhận định nào sau đây ĐÚNG về thẩm quyền và thủ tục sửa lỗi kỹ thuật này?",
+    "a": "Công chứng viên của Văn phòng B được quyền sửa vì là nơi hoàn thành việc ký đóng dấu cuối cùng.",
+    "b": "Công chứng viên của Văn phòng A thực hiện việc sửa lỗi kỹ thuật và phải thông báo cho Văn phòng B trong thời hạn 03 ngày làm việc kể từ ngày hoàn thành.",
+    "c": "Bắt buộc hai văn phòng phải cùng ký vào một văn bản đính chính chung thì việc sửa lỗi mới có hiệu lực.",
+    "d": "Hợp đồng đã hoàn tất thì không được sửa lỗi kỹ thuật, các bên bắt buộc phải lập văn bản sửa đổi hợp đồng.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 3 Điều 57 Luật Công chứng 2024, việc sửa lỗi kỹ thuật đối với hợp đồng ủy quyền hai bên ở hai nơi được thực hiện tại tổ chức hành nghề công chứng đã thực hiện việc công chứng có sai sót. Sau khi hoàn thành, tổ chức này phải thông báo cho tổ chức còn lại trong thời hạn 03 ngày làm việc."
+  },
+{
+    "question": "Theo Luật Công chứng, đối với văn bản công chứng hợp đồng ủy quyền hai bên ở hai nơi khác nhau, thời hạn để tổ chức hành nghề công chứng đã thực hiện việc sửa lỗi kỹ thuật phải hoàn thành nghĩa vụ thông báo cho tổ chức hành nghề công chứng còn lại là bao lâu?",
+    "a": "Ngay trong ngày làm việc thực hiện việc sửa lỗi kỹ thuật.",
+    "b": "Trong thời hạn 02 ngày làm việc kể từ ngày hoàn thành việc sửa lỗi kỹ thuật.",
+    "c": "Trong thời hạn 03 ngày làm việc kể từ ngày hoàn thành việc sửa lỗi kỹ thuật.",
+    "d": "Trong thời hạn 05 ngày làm việc kể từ ngày hoàn thành việc sửa lỗi kỹ thuật.",
+    "answer": "c",
+    "explanation": "Căn cứ theo Khoản 3 Điều 57 Luật Công chứng 2024: Công chứng viên thực hiện việc sửa lỗi kỹ thuật theo quy định tại khoản 3 và khoản 4 Điều 52 của Luật này có trách nhiệm thông báo về việc sửa lỗi kỹ thuật cho tổ chức hành nghề công chứng còn lại đã thực hiện việc công chứng trong thời hạn 03 ngày làm việc kể từ ngày hoàn thành việc sửa lỗi kỹ thuật."
+  },
+{
+    "question": "Theo Luật Công chứng, đối với hợp đồng ủy quyền hai bên ở hai nơi khác nhau đã hoàn tất và phát sinh hiệu lực, nếu các bên muốn thực hiện việc sửa đổi, bổ sung hoặc thỏa thuận chấm dứt hợp đồng này tại một tổ chức hành nghề công chứng hoàn toàn mới (không phải hai văn phòng đã chứng nhận ban đầu) thì tổ chức mới này có thẩm quyền thực hiện hay không?",
+    "a": "Có thẩm quyền, nhưng tổ chức mới phải có trụ sở cùng tỉnh/thành phố với một trong hai tổ chức cũ.",
+    "b": "Hoàn toàn không có thẩm quyền, việc sửa đổi, bổ sung, chấm dứt bắt buộc phải thực hiện tại một trong hai tổ chức hành nghề công chứng đã thực hiện việc công chứng trước đó.",
+    "c": "Có thẩm quyền, pháp luật cho phép thực hiện tại bất kỳ tổ chức hành nghề công chứng nào và tổ chức mới phải thông báo bằng văn bản cho hai tổ chức cũ.",
+    "d": "Không có thẩm quyền sửa đổi bổ sung, nhưng có thẩm quyền công chứng văn bản thỏa thuận chấm dứt.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 2 Điều 57 Luật Công chứng 2024 quy định rất chặt chẽ về thẩm quyền hậu công chứng đối với loại giao dịch này: 'Việc sửa đổi, bổ sung, thỏa thuận chấm dứt hợp đồng ủy quyền quy định tại khoản 1 Điều này phải được thực hiện tại một trong các tổ chức hành nghề công chứng đã thực hiện việc công chứng trước đó'."
+  },
+  {
+    "question": "Phân tích quy trình xử lý hồ sơ di sản thừa kế: Sau khi hết thời hạn niêm yết việc tiếp nhận công chứng văn bản phân chia di sản thừa kế theo quy định, tổ chức hành nghề công chứng nhận được một đơn khiếu nại bằng văn bản từ một người tự nhận là con riêng của người để lại di sản (có kèm giấy khai sinh). Công chứng viên phải giải quyết mốc thời gian và thủ tục này như thế nào trước khi đặt bút ký công chứng?",
+    "a": "Bỏ qua đơn khiếu nại vì đã quá thời hạn niêm yết quy định và tiến hành ký công chứng bình thường.",
+    "b": "Chỉ được công chứng sau khi có xác nhận về việc đã hoàn thành niêm yết và không nhận được khiếu nại, tố cáo; trường hợp có khiếu nại thì phải tạm dừng để xác minh hoặc hướng dẫn các bên khởi kiện.",
+    "c": "Bắt buộc phải chờ thêm đúng 30 ngày kể từ ngày nhận đơn khiếu nại, nếu người khiếu nại không có chứng cứ mới thì mới được ký.",
+    "d": "Chuyển toàn bộ hồ sơ sang Ủy ban nhân dân cấp xã nơi niêm yết để cơ quan này ra quyết định hành chính giải quyết tranh chấp trong vòng 07 ngày.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 4 Điều 59 Luật Công chứng 2024: 'Công chứng viên chỉ được công chứng văn bản phân chia di sản sau khi có xác nhận về việc đã hoàn thành việc niêm yết và không nhận được khiếu nại, tố cáo liên quan đến việc phân chia di sản thừa kế đó'. Khi có khiếu nại, điều kiện 'không nhận được khiếu nại' không còn thỏa mãn, CCV không được phép ký mà phải giải quyết tranh chấp trước."
+  },
+  {
+    "question": "Theo Luật Công chứng, mốc thời gian '03 tháng' liên quan đến hiệu lực của văn bản công chứng di chúc lập trong tình trạng tính mạng bị đe dọa (không có đủ giấy tờ) được tính bắt đầu từ thời điểm nào?",
+    "a": "Từ ngày người lập di chúc được xuất viện hoặc bình phục sức khỏe trên thực tế.",
+    "b": "Từ ngày tổ chức hành nghề công chứng tiếp nhận văn bản bổ sung hồ sơ của khách hàng.",
+    "c": "Kể từ ngày lập văn bản công chứng di chúc đó.",
+    "d": "Kể từ ngày người lập di chúc chính thức qua đời.",
+    "answer": "c",
+    "explanation": "Căn cứ theo Khoản 3 Điều 58 Luật Công chứng 2024 quy định rõ: 'Sau 03 tháng kể từ ngày lập di chúc, nếu người lập di chúc không còn trong tình trạng nguy hiểm đến tính mạng thì phải nộp bổ sung giấy tờ...'. Như vậy, thời hạn 03 tháng này được tính đóng khung từ ngày lập di chúc, không tính từ ngày hết nguy hiểm."
+  },
+  {
+    "question": "Theo Luật Công chứng, khi tổ chức hành nghề công chứng nhận lưu giữ di chúc của khách hàng và tiến hành thủ tục niêm phong bản di chúc, giấy nhận lưu giữ di chúc bắt buộc phải giao cho người lập di chúc tại thời điểm nào?",
+    "a": "Trong thời hạn 03 ngày làm việc kể từ ngày bản di chúc được niêm phong lưu kho.",
+    "b": "Ngay sau khi công chứng viên tiến hành niêm phong bản di chúc trước mặt người lập di chúc.",
+    "c": "Sau khi tổ chức hành nghề công chứng đã thu đủ phí và thù lao lưu giữ di chúc.",
+    "d": "Khi người lập di chúc có văn bản yêu cầu chính thức bằng văn bản.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 1 Điều 61 Luật Công chứng 2024 quy định tính liên tục của thủ tục: 'Khi nhận lưu giữ di chúc, công chứng viên phải niêm phong bản di chúc trước mặt người lập di chúc, ghi giấy nhận lưu giữ và giao cho người lập di chúc'."
+  },
+{
+    "question": "Theo Luật Công chứng, khi một người muốn lập văn bản công chứng hủy bỏ di chúc cũ, nhưng bản di chúc cũ đó trước đây lại được lập bằng hình thức di chúc bí mật (có chứng nhận của công chứng viên), thì người lập di chúc bắt buộc phải xuất trình giấy tờ nào sau đây?",
+    "a": "Văn bản đồng ý của người đang lưu giữ bản di chúc bí mật đó.",
+    "b": "Bản gốc văn bản chứng nhận di chúc bí mật trước đây của tổ chức hành nghề công chứng.",
+    "c": "Quyết định của Tòa án tuyên bố di chúc bí mật đó chấm dứt hiệu lực.",
+    "d": "Biên bản mở di chúc bí mật có chữ ký của người làm chứng.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 5 Điều 58 Luật Công chứng 2024: Trường hợp di chúc trước đó là di chúc bí mật thì người yêu cầu công chứng việc sửa đổi, bổ sung, thay thế, hủy bỏ di chúc phải xuất trình bản gốc văn bản chứng nhận di chúc bí mật."
+  },
+  {
+    "question": "Theo Luật Công chứng, trong hồ sơ yêu cầu công chứng văn bản thỏa thuận phân chia di sản thừa kế, trường hợp có người thừa kế là người chưa thành niên hoặc người mất năng lực hành vi dân sự thì ai sẽ là người ký tên vào văn bản thỏa thuận này?",
+    "a": "Công chứng viên sẽ ký chứng kiến và trực tiếp quyết định phần tài sản để bảo vệ quyền lợi cho họ.",
+    "b": "Người giám hộ hoặc người đại diện theo pháp luật của người đó.",
+    "c": "Người đứng đầu Ủy ban nhân dân cấp xã nơi người đó cư trú sẽ ký đại diện.",
+    "d": "Hồ sơ bắt buộc phải tạm dừng cho đến khi người chưa thành niên đủ 18 tuổi mới được ký phân chia.",
+    "answer": "b",
+    "explanation": "Căn cứ theo quy định về chủ thể tại Điều 59 Luật Công chứng 2024 và nguyên tắc của Bộ luật Dân sự, đối với những người không có hoặc bị hạn chế năng lực hành vi dân sự thì người đại diện theo pháp luật hoặc người giám hộ sẽ thay mặt họ thực hiện các quyền và nghĩa vụ trong văn bản thỏa thuận phân chia di sản."
+  },
+  {
+    "question": "Theo Luật Công chứng, ai là người có thẩm quyền yêu cầu tổ chức hành nghề công chứng đang lưu giữ di chúc thực hiện việc công bố di chúc sau khi người lập di chúc qua đời?",
+    "a": "Bất kỳ người nào được hưởng thừa kế theo pháp luật của người lập di chúc.",
+    "b": "Người thông báo về việc người lập di chúc chết hoặc người thừa kế có yêu cầu.",
+    "c": "Chỉ duy nhất người được chỉ định làm người công bố di chúc ghi trong nội dung di chúc.",
+    "d": "Chánh án Tòa án nhân dân cấp huyện nơi người lập di chúc cư trú trước khi chết.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 3 Điều 61 Luật Công chứng 2024 quy định rõ về thủ tục công bố: 'Trường hợp di chúc được lưu giữ tại tổ chức hành nghề công chứng thì công chứng viên là người công bố di chúc theo yêu cầu của người thông báo về việc người lập di chúc chết hoặc theo yêu cầu của người thừa kế'."
+  },
  {
     "question": "Ông Bình thế chấp quyền sử dụng đất tại Văn phòng công chứng X để vay vốn tại Ngân hàng BIDV. Sáu tháng sau, giá đất tăng, ông Bình muốn tiếp tục thế chấp mảnh đất này để bảo đảm cho một khoản vay khác tại Ngân hàng Vietinbank. Theo quy định tại  Luật Công chứng 2024, hợp đồng thế chấp tiếp theo này phải được công chứng ở đâu?",
     "a": "Tại bất kỳ tổ chức hành nghề công chứng nào thuộc tỉnh nơi có thửa đất đó.",
