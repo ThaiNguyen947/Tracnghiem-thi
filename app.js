@@ -261,16 +261,16 @@ function submit() {
   wrongPool = newWrong;
 
   app.innerHTML = `
-    <div class="box">
-      <h1>KẾT QUẢ</h1>
-      <h2 style="margin: 5px 0;">✔ Đúng: ${correct} | ❌ Sai: ${wrong}</h2>
+    <div class="box" style="padding: 10px; max-width: 100%;">
+      <h1 style="font-size: 20px; margin: 5px 0;">KẾT QUẢ</h1>
+      <h3 style="margin: 5px 0; font-size: 15px;">✔ Đúng: ${correct} | ❌ Sai: ${wrong}</h3>
 
-      <button class="btn" style="margin-bottom: 10px;" onclick="startExam()">THI LẠI</button>
+      <button class="btn" style="margin: 5px 0; padding: 6px 20px; font-size: 13px;" onclick="startExam()">THI LẠI</button>
 
-      <div style="display: flex; gap: 6px; justify-content: center; margin-bottom: 10px;">
-        <button class="nav-btn" style="background: #444; color: white; padding: 4px 12px; font-size: 13px;" onclick="filterResult('all')">Xem tất cả</button>
-        <button class="nav-btn" style="background: green; color: white; padding: 4px 12px; font-size: 13px;" onclick="filterResult('correct')">Xem câu đúng</button>
-        <button class="nav-btn" style="background: #b30000; color: white; padding: 4px 12px; font-size: 13px;" onclick="filterResult('wrong')">Xem câu sai</button>
+      <div style="display: flex; gap: 5px; justify-content: center; margin: 5px 0 10px 0;">
+        <button class="nav-btn" style="background: #444; color: white; padding: 4px 10px; font-size: 12px;" onclick="filterResult('all')">Xem tất cả</button>
+        <button class="nav-btn" style="background: green; color: white; padding: 4px 10px; font-size: 12px;" onclick="filterResult('correct')">Xem câu đúng</button>
+        <button class="nav-btn" style="background: #b30000; color: white; padding: 4px 10px; font-size: 12px;" onclick="filterResult('wrong')">Xem câu sai</button>
       </div>
 
       <div id="result-list" style="text-align: left;">
@@ -287,7 +287,7 @@ function filterResult(type) {
   if (!listContainer) return;
 
   let html = "";
-  let displayIndex = 0; // Biến đếm các câu thực tế hiển thị để tính màu nền xen kẽ chuẩn xác
+  let displayIndex = 0; 
 
   questions.forEach((q, i) => {
     let userAns = answers[i] ? answers[i].toString().trim().toLowerCase() : "";
@@ -298,17 +298,16 @@ function filterResult(type) {
     if (type === 'wrong' && ok) return;
 
     displayIndex++;
-    // Nếu là câu thứ chẵn trong danh sách đang xem thì đổi màu nền sang xám nhạt để dễ nhìn
     let bgColor = (displayIndex % 2 === 0) ? "#fcfcfc" : "#ffffff";
 
-    // Lấy nội dung text chi tiết của đáp án đúng
-    let fullCorrectText = "Không rõ";
+    // Trích xuất văn bản đáp án đúng
+    let fullCorrectText = "";
     if (correctAns === "a") fullCorrectText = `A. ${q.a}`;
     else if (correctAns === "b") fullCorrectText = `B. ${q.b}`;
     else if (correctAns === "c") fullCorrectText = `C. ${q.c}`;
     else if (correctAns === "d") fullCorrectText = `D. ${q.d}`;
 
-    // Lấy nội dung text chi tiết của đáp án bạn đã chọn
+    // Trích xuất văn bản đáp án người dùng đã chọn
     let fullUserText = "Không chọn";
     if (userAns === "a") fullUserText = `A. ${q.a}`;
     else if (userAns === "b") fullUserText = `B. ${q.b}`;
@@ -317,33 +316,32 @@ function filterResult(type) {
 
     html += `
       <div style="
-        padding: 12px 8px;
+        padding: 6px 8px;
         background-color: ${bgColor};
         border-bottom: 1px solid #eee;
         white-space: pre-wrap;
-        line-height: 1.5;
+        line-height: 1.3;
         font-family: Arial, sans-serif;
-        font-size: 14px;
+        font-size: 13.5px;
       ">
-        <div style="margin-bottom: 3px;"><b>Câu ${i + 1}:</b> ${q.question}</div>
-        <div><b>Bạn chọn:</b> ${fullUserText}</div>
+        <div style="margin-bottom: 2px;"><b>Câu ${i + 1}:</b> ${q.question}</div>
         
-        <div style="font-weight: bold; color: ${ok ? 'green' : 'red'}; margin: 1px 0;">
-          ${ok ? "✔ ĐÚNG" : "❌ SAI"}
+        <div style="margin-bottom: 2px; color: #333;">
+          <b>Bạn chọn:</b> ${fullUserText} | 
+          <b style="color: ${ok ? 'green' : 'red'};">${ok ? "✔ ĐÚNG" : "❌ SAI"}</b> 
+          ${!ok ? `| <b>Đáp án đúng:</b> <span style="color: green; font-weight: bold;">${fullCorrectText}</span>` : ""}
         </div>
-        
-        <div><b>Đáp án đúng:</b> ${fullCorrectText}</div>
 
         <div style="
-          margin-top: 6px;
+          margin-top: 3px;
           font-family: 'Times New Roman', serif;
           text-align: justify;
-          font-size: 14px;
-          color: #444;
-          background: #fdfdfd;
-          padding: 6px 10px;
-          border-radius: 4px;
-          border: 1px solid #f0f0f0;
+          font-size: 13px;
+          color: #555;
+          background: #fafafa;
+          padding: 4px 8px;
+          border-radius: 3px;
+          border-left: 2px solid #ddd;
         ">
           💡 <b>Giải thích:</b> ${q.explanation ? q.explanation : (q.giảithích ? q.giảithích : "Chưa có giải thích")}
         </div>
@@ -351,5 +349,5 @@ function filterResult(type) {
     `;
   });
 
-  listContainer.innerHTML = html || "<p style='text-align:center; color:#777; padding: 15px; font-size:13px;'>Không có dữ liệu hiển thị.</p>";
+  listContainer.innerHTML = html || "<p style='text-align:center; color:#777; padding: 10px; font-size:12px;'>Không có dữ liệu hiển thị.</p>";
 }
