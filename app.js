@@ -255,8 +255,6 @@ function submit() {
   questions.forEach((q, i) => {
     let userAns = answers[i] ? answers[i].toString().trim().toLowerCase() : "";
     let correctAns = (q.answer || q.trảlời || "").toString().trim().toLowerCase();
-    
-    // Đồng nhất đáp án 'một' thành 'a' để khớp với logic làm bài
     if (correctAns === "một") correctAns = "a";
 
     if (userAns === correctAns) {
@@ -269,22 +267,37 @@ function submit() {
 
   wrongPool = newWrong;
 
+  // Bao bọc toàn bộ bằng background xám nhạt để làm nổi bật trang giấy A4 màu trắng bên trong
+  document.body.style.backgroundColor = "#f4f5f7";
+  document.body.style.margin = "0";
+  document.body.style.padding = "20px 0";
+
   app.innerHTML = `
-    <div class="box" style="padding: 10px; max-width: 100%;">
-      <h1 style="font-size: 20px; margin: 5px 0; text-align: center;">KẾT QUẢ</h1>
-      <h3 style="margin: 5px 0; font-size: 15px; text-align: center;">✔ Đúng: ${correct} | ❌ Sai: ${wrong}</h3>
+    <div style="
+      max-width: 820px; 
+      margin: 0 auto; 
+      background: #ffffff; 
+      padding: 40px 50px; 
+      box-shadow: 0 4px 15px rgba(0,0,0,0.06);
+      border-radius: 4px;
+      font-family: 'Times New Roman', Times, serif;
+    ">
+      <h1 style="font-size: 24px; font-weight: bold; text-align: center; margin: 0 0 10px 0; color: #111; letter-spacing: 0.5px;">BÁO CÁO KẾT QUẢ KIỂM TRA</h1>
+      <p style="text-align: center; font-size: 15px; color: #555; margin: 0 0 20px 0;">
+        Số câu đúng: <b style="color: green; font-size: 16px;">${correct}</b> | Số câu sai: <b style="color: #b30000; font-size: 16px;">${wrong}</b>
+      </p>
 
-      <div style="text-align: center;">
-        <button class="btn" style="margin: 5px 0; padding: 6px 20px; font-size: 13px;" onclick="startExam()">THI LẠI</button>
+      <div style="text-align: center; margin-bottom: 25px;">
+        <button class="btn" style="background: #222; color: white; border: none; padding: 8px 24px; font-size: 14px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="location.reload()">THI LẠI TRANG CHỦ</button>
       </div>
 
-      <div style="display: flex; gap: 5px; justify-content: center; margin: 8px 0 12px 0;">
-        <button class="nav-btn" style="background: #444; color: white; padding: 4px 10px; font-size: 12px;" onclick="filterResult('all')">Xem tất cả</button>
-        <button class="nav-btn" style="background: green; color: white; padding: 4px 10px; font-size: 12px;" onclick="filterResult('correct')">Xem câu đúng</button>
-        <button class="nav-btn" style="background: #b30000; color: white; padding: 4px 10px; font-size: 12px;" onclick="filterResult('wrong')">Xem câu sai</button>
+      <div style="display: flex; gap: 8px; justify-content: center; margin-bottom: 25px; border-bottom: 1px solid #eef0f2; padding-bottom: 15px;">
+        <button style="background: #f1f3f5; color: #333; border: 1px solid #dee2e6; padding: 5px 14px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('all')">Tất cả câu hỏi</button>
+        <button style="background: #e8f5e9; color: green; border: 1px solid #c8e6c9; padding: 5px 14px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('correct')">Các câu đúng</button>
+        <button style="background: #ffebee; color: #c62828; border: 1px solid #ffcdd2; padding: 5px 14px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('wrong')">Các câu sai</button>
       </div>
 
-      <div id="result-list" style="text-align: left;">
+      <div id="result-list">
         </div>
     </div>
   `;
@@ -298,7 +311,6 @@ function filterResult(type) {
   if (!listContainer) return;
 
   let html = "";
-  let displayIndex = 0; 
 
   questions.forEach((q, i) => {
     let userAns = answers[i] ? answers[i].toString().trim().toLowerCase() : "";
@@ -310,17 +322,13 @@ function filterResult(type) {
     if (type === 'correct' && !ok) return;
     if (type === 'wrong' && ok) return;
 
-    displayIndex++;
-    // Tạo nền xám trắng xen kẽ cực kỳ thanh mảnh giúp phân biệt các câu
-    let bgColor = (displayIndex % 2 === 0) ? "#fcfcfc" : "#ffffff";
-
     let qText = q.question || q.cauhoi;
     let optA = q.a || q.Một || "";
     let optB = q.b || "";
     let optC = q.c || "";
     let optD = q.d || "";
 
-    // Trích xuất văn bản đáp án đúng đầy đủ văn cảnh để tránh chữ "Không hợp lệ"
+    // Lấy text đáp án đúng
     let fullCorrectText = "";
     if (correctAns === "a") fullCorrectText = `A. ${optA}`;
     else if (correctAns === "b") fullCorrectText = `B. ${optB}`;
@@ -328,8 +336,8 @@ function filterResult(type) {
     else if (correctAns === "d") fullCorrectText = `D. ${optD}`;
     else fullCorrectText = (q.answer || q.trảlời || "Chưa rõ").toUpperCase();
 
-    // Trích xuất văn bản đáp án người dùng đã chọn
-    let fullUserText = "Không chọn";
+    // Lấy text đáp án người dùng chọn
+    let fullUserText = "Không lựa chọn đáp án";
     if (userAns === "a") fullUserText = `A. ${optA}`;
     else if (userAns === "b") fullUserText = `B. ${optB}`;
     else if (userAns === "c") fullUserText = `C. ${optC}`;
@@ -337,37 +345,45 @@ function filterResult(type) {
 
     html += `
       <div style="
-        padding: 6px 8px;
-        background-color: ${bgColor};
-        border-bottom: 1px solid #eee;
-        white-space: pre-wrap;
-        line-height: 0.9;
-        font-family: Arial, sans-serif;
-        font-size: 14px;
+        margin-bottom: 24px;
+        text-align: justify;
+        line-height: 1.5;
+        font-size: 15px;
+        color: #111;
       ">
-        <p style="margin: 0 0 2px 0; padding: 0;"><b>Câu ${i + 1}:</b> ${qText}</p>
+        <p style="margin: 0 0 6px 0; padding: 0;"><b>Câu ${i + 1}.</b> ${qText}</p>
         
-        <p style="margin: 0 0 2px 0; padding: 0;">
-          <b>Bạn chọn:</b> ${fullUserText} | 
-          <span style="color: ${ok ? 'green' : 'red'}; font-weight: bold;">${ok ? "✔ ĐÚNG" : "❌ SAI"}</span>
-          ${!ok ? ` | <b>Đáp án đúng:</b> <span style="color: green; font-weight: bold;">${fullCorrectText}</span>` : ""}
-        </p>
+        <div style="margin: 0 0 6px 0; padding-left: 15px; font-size: 14.5px; color: #333;">
+          <div style="margin-bottom: 3px;">
+            <span style="color: #666;">- Phương án đã chọn:</span> ${fullUserText} 
+            <span style="
+              display: inline-block;
+              padding: 1px 6px;
+              font-size: 11px;
+              font-family: Arial, sans-serif;
+              font-weight: bold;
+              border-radius: 3px;
+              margin-left: 8px;
+              background-color: ${ok ? '#e8f5e9' : '#ffebee'};
+              color: ${ok ? 'green' : '#c62828'};
+            ">${ok ? "CHÍNH XÁC" : "KHÔNG ĐÚNG"}</span>
+          </div>
+          ${!ok ? `<div style="margin-bottom: 3px;"><span style="color: #666;">- Đáp án đúng:</span> <b style="color: green;">${fullCorrectText}</b></div>` : ""}
+        </div>
 
-        <p style="
-          margin: 3px 0 0 0; 
-          padding: 2px 0 2px 8px;
-          font-family: 'Times New Roman', serif;
-          text-align: justify;
-          font-size: 13.5px;
-          color: #444;
-          background: #fafafa;
-          border-left: 2px solid #ccc;
+        <div style="
+          margin: 6px 0 0 15px;
+          padding: 4px 0 4px 10px;
+          font-style: italic;
+          font-size: 14px;
+          color: #555;
+          border-left: 2px solid #e0e0e0;
         ">
-          💡 <b>Giải thích:</b> ${q.explanation ? q.explanation : (q.giảithích ? q.giảithích : "Chưa có giải thích")}
-        </p>
+          <b>Cơ sở lý luận (Giải thích):</b> ${q.explanation ? q.explanation : (q.giảithích ? q.giảithích : "Chưa có nội dung giải thích.")}
+        </div>
       </div>
     `;
   });
 
-  listContainer.innerHTML = html || "<p style='text-align:center; color:#777; padding: 10px; font-size:12px;'>Không có dữ liệu hiển thị.</p>";
+  listContainer.innerHTML = html || "<p style='text-align:center; color:#777; font-style: italic; padding: 20px;'>Không tìm thấy dữ liệu phù hợp với bộ lọc.</p>";
 }
