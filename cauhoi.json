@@ -1,4 +1,149 @@
 [
+  {
+    "câu hỏi": "Ngân hàng ABC giải ngân khoản vay 500.000 USD cho Công ty Khải Hoàn. Giả sử mục đích vay trong hợp đồng là để công ty chi trả tiền lương cho nhân công và mua sắm vật tư tiêu hao từ các nhà cung cấp nội địa bằng đồng Việt Nam (VND). Dưới góc độ Pháp luật Quản lý Ngoại hối và rủi ro hợp đồng bảo đảm, khẳng định nào sau đây là chính xác?",
+    "a": "Giao dịch vay ngoại tệ này hoàn toàn hợp pháp vì Công ty Khải Hoàn sử dụng vốn vay vào hoạt động sản xuất kinh doanh trong nước.",
+    "b": "Hành vi cho vay và sử dụng ngoại tệ trong nội địa này vi phạm quy định hạn chế sử dụng ngoại hối của Ngân hàng Nhà nước; khi hợp đồng tín dụng gốc bị vô hiệu do vi phạm điều cấm, hợp đồng thế chấp bảo đảm của ông Anh và bà Bông sẽ bị ảnh hưởng nghiêm trọng về mặt hiệu lực xử lý nợ.",
+    "c": "Hợp đồng thế chấp của ông Anh và bà Bông hoàn toàn độc lập, nên dù khoản vay USD có vi phạm pháp luật ngoại hối thì Ngân hàng vẫn có quyền phát mãi 500m2 đất để thu hồi USD.",
+    "d": "Mọi doanh nghiệp nội địa đều có quyền vay vốn bằng bất kỳ loại ngoại tệ nào nếu được sự đồng ý và chứng minh được năng lực tài chính với tổ chức tín dụng.",
+    "trả lời": "b",
+    "giải thích": "Căn cứ Thông tư 24/2015/TT-NHNN về cho vay bằng ngoại tệ, tổ chức tín dụng chỉ được cho vay ngoại tệ đối với các nhu cầu vốn cụ thể luật định (chủ yếu là thanh toán ra nước ngoài tiền nhập khẩu hàng hóa, dịch vụ). Việc vay USD để chi dùng, thanh toán nội địa bằng VND là vi phạm pháp luật ngoại hối. Khi hợp đồng tín dụng (nghĩa vụ chính) vi phạm điều cấm của pháp luật và bị tuyên vô hiệu, nó sẽ kéo theo rủi ro pháp lý hệ trọng đối với hiệu lực và phạm vi bảo đảm của hợp đồng thế chấp tài sản kèm theo."
+  },
+  {
+    "câu hỏi": "Để hợp đồng thế chấp 500m2 đất CLN của ông Anh và bà Bông chính thức phát sinh hiệu lực pháp lý cao nhất và có giá trị đối kháng với bên thứ ba, quy trình thực hiện phải thỏa mãn đầy đủ các bước bắt buộc nào?",
+    "a": "Các bên ký kết hợp đồng bằng văn bản tay, bàn giao Giấy chứng nhận gốc cho Ngân hàng và lập biên bản giao nhận tài sản có người làm chứng.",
+    "b": "Hợp đồng phải được lập thành văn bản, được công chứng tại Văn phòng công chứng hợp pháp, và giao dịch thế chấp phải được đăng ký biện pháp bảo đảm tại Văn phòng Đăng ký đất đai để cập nhật vào sổ địa chính.",
+    "c": "Chỉ cần hợp đồng được công chứng tại Văn phòng công chứng là giao dịch đương nhiên có hiệu lực đối kháng mà không cần thực hiện thêm thủ tục hành chính nào khác.",
+    "d": "Hợp đồng thế chấp chỉ cần Ủy ban nhân dân cấp xã nơi có đất ký xác nhận và đóng dấu phê duyệt nội dung giao dịch vay vốn.",
+    "trả lời": "b",
+    "giải thích": "Căn cứ Luật Công chứng, Luật Đất đai và Bộ luật Dân sự 2015, hợp đồng thế chấp quyền sử dụng đất bắt buộc phải được lập thành văn bản và phải được công chứng hoặc chứng thực. Đồng thời, biện pháp thế chấp quyền sử dụng đất phải được đăng ký tại cơ quan đăng ký đất đai và chính thức phát sinh hiệu lực pháp lý kể từ thời điểm đăng ký vào sổ địa chính. Đây là hai điều kiện tiên quyết không thể tách rời để đảm bảo tính an toàn và hiệu lực đối kháng của giao dịch bảo đảm bất động sản."
+  },
+{
+  "câu hỏi": "Một cá nhân dùng quyền sử dụng đất nông nghiệp (đất trồng cây lâu năm - CLN) để thế chấp cho một khoản vay tại Tổ chức tín dụng. Trong thời gian hợp đồng thế chấp đang có hiệu lực, thời hạn sử dụng đất ghi trên Giấy chứng nhận bị hết hạn. Hậu quả pháp lý và quy trình xử lý đối với giao dịch thế chấp này được quy định như thế nào?",
+  "a": "Hợp đồng thế chấp đương nhiên bị vô hiệu toàn bộ kể từ ngày đất hết hạn sử dụng, Ngân hàng mất quyền xử lý tài sản.",
+  "b": "Nhà nước sẽ lập tức thu hồi đất do hết hạn sử dụng và Ngân hàng phải yêu cầu khách hàng thay thế bằng một bất động sản là đất ở (thổ cư).",
+  "c": "Hộ gia đình, cá nhân được tiếp tục sử dụng đất theo thời hạn quy định mà không phải làm thủ tục gia hạn; hợp đồng thế chấp giữ nguyên hiệu lực và các bên chỉ cần làm thủ tục xác nhận lại thời hạn sử dụng đất khi có nhu cầu giao dịch phát sinh.",
+  "d": "Ngân hàng được quyền tự động thay mặt chủ đất ký đơn xin chuyển mục đích sử dụng đất lên Ủy ban nhân dân cấp huyện để kéo dài thời hạn thế chấp.",
+  "trả lời": "c",
+  "giải thích": "Căn cứ theo Khoản 1 Điều 172 Luật Đất đai 2024, đối với đất nông nghiệp giao cho hộ gia đình, cá nhân trực tiếp sản xuất nông nghiệp thì khi hết thời hạn, họ được tiếp tục sử dụng đất mà không cần làm thủ tục gia hạn. Do đó, quyền sử dụng đất của họ vẫn tồn tại hợp pháp và không ảnh hưởng đến hiệu lực của hợp đồng thế chấp đang đăng ký tại Ngân hàng. Khi phát sinh nhu cầu chuyển nhượng hay xử lý, người dân mới cần làm thủ tục xác nhận lại thời hạn trên sổ."
+},
+  {
+    "câu hỏi": "Ông Anh và bà Bông dùng quyền sử dụng 500m2 đất CLN để thế chấp bảo đảm cho khoản vay 500.000 USD của Công ty Khải Hoàn tại Ngân hàng ABC. Đến hạn, Công ty Khải Hoàn mất khả năng thanh toán. Ngân hàng ABC tiến hành phát mãi mảnh đất trên nhưng do thị trường đóng băng nên chỉ thu về số tiền tương đương 300.000 USD. Ngân hàng ABC có quyền yêu cầu ông Anh và bà Bông phải tiếp tục dùng tài sản riêng khác của mình (như tiền gửi tiết kiệm, nhà ở khác) để thanh toán 200.000 USD còn thiếu hay không?",
+    "a": "Có quyền, vì ông Anh và bà Bông đóng vai trò là bên bảo lãnh nên phải có trách nhiệm liên đới trả hết toàn bộ khoản nợ cho đến khi dứt điểm.",
+    "b": "Không có quyền, vì đây là quan hệ thế chấp tài sản của bên thứ ba; bên thế chấp chỉ chịu trách nhiệm trong phạm vi giá trị của chính tài sản thế chấp đó, trừ trường hợp các bên có thỏa thuận khác trong hợp đồng.",
+    "c": "Có quyền, nhưng Ngân hàng phải được sự phê duyệt bằng một quyết định áp dụng biện pháp khẩn cấp tạm thời của Tòa án nhân dân cấp huyện.",
+    "d": "Không có quyền, và Công ty Khải Hoàn cũng đương nhiên được xóa hoàn toàn khoản nợ 200.000 USD còn lại đối với Ngân hàng ABC.",
+    "trả lời": "b",
+    "giải thích": "Căn cứ theo quy định tại Khoản 1 Điều 317 Bộ luật Dân sự 2015: 'Thế chấp tài sản là việc một bên (sau đây gọi là bên thế chấp) dùng tài sản thuộc sở hữu của mình để bảo đảm thực hiện nghĩa vụ đối với bên kia (sau đây gọi là bên nhận thế chấp) và không giao tài sản cho bên nhận thế chấp.' Đồng thời, theo quy định về xử lý tài sản bảo đảm tại Điều 307 Bộ luật Dân sự 2015, phạm vi bảo đảm của tài sản được giới hạn trong giá trị của chính tài sản đó khi xử lý, trừ khi các bên có thỏa thuận bảo đảm một phần hoặc thỏa thuận dùng tài sản khác để bù đắp. Do đó, nếu không có thỏa thuận khác, ông Anh và bà Bông chỉ chịu trách nhiệm trong phạm vi mảnh đất 500m2, phần nợ 200.000 USD còn thiếu ngân hàng phải tiếp tục đòi bên có nghĩa vụ chính là Công ty Khải Hoàn."
+  },
+  {
+    "câu hỏi": "Vợ chồng ông Lê Nam dùng Sổ tiết kiệm trị giá 3 tỷ đồng do Ngân hàng ACB phát hành để bảo đảm cho khoản vay vay 2 tỷ đồng cũng tại Ngân hàng ACB. Xét về bản chất pháp lý của biện pháp bảo đảm được quy định trong Bộ luật Dân sự 2015, giao dịch này được phân loại chính xác là gì?",
+    "a": "Thế chấp tài sản, vì Sổ tiết kiệm là bất động sản đặc biệt không thể dịch chuyển khỏi hệ thống ngân hàng.",
+    "b": "Cầm cố tài sản, vì bên bảo đảm phải chuyển giao bản chính Sổ tiết kiệm (giấy tờ có giá) cho bên nhận bảo đảm nắm giữ để quản lý và phong tỏa trong suốt thời hạn vay.",
+    "c": "Ký quỹ, vì đây là hành vi gửi một khoản tiền vào tài khoản phong tỏa để bảo đảm thực hiện nghĩa vụ hợp đồng.",
+    "d": "Tín chấp, vì khoản vay dựa trên uy tín của người gửi tiền tiết kiệm lâu năm tại ngân hàng.",
+    "trả lời": "b",
+    "giải thích": "Căn cứ theo Điều 312 Bộ luật Dân sự 2015, cầm cố tài sản là việc một bên giao tài sản thuộc quyền sở hữu của mình cho bên kia để bảo đảm thực hiện nghĩa vụ. Sổ tiết kiệm được pháp luật phân loại là giấy tờ có giá (quy quyền tài sản). Khi thực hiện bảo đảm nghĩa vụ nợ, khách hàng phải bàn giao chứng thư gốc này cho tổ chức tín dụng nắm giữ, do đó bản chất pháp lý của giao dịch này bắt buộc phải là Cầm cố tài sản, khác với Thế chấp tài sản (không giao tài sản) tại Điều 317 BLDS 2015."
+  },
+  {
+    "câu hỏi": "Xét về mặt bản chất tài sản theo quy định của pháp luật dân sự và pháp luật chuyên ngành ngân hàng hiện hành, Sổ tiết kiệm (hoặc Thẻ tiết kiệm) trị giá 3 tỷ đồng do Ngân hàng ACB phát hành cho vợ chồng ông Lê Nam được phân loại là loại tài sản nào?",
+    "a": "Là bất động sản, vì số tiền gốc được lưu giữ cố định và phong tỏa trên hệ thống tài khoản của tổ chức tín dụng.",
+    "b": "Là giấy tờ có giá (quyền tài sản) thuộc nhóm động sản, là chứng thư chứng minh quyền đòi nợ và quyền rút tiền gửi của khách hàng đối với ngân hàng phát hành.",
+    "c": "Là vật quyền độc lập, người sở hữu có toàn quyền định đoạt mà không phụ thuộc vào sự quản lý của ngân hàng phát hành.",
+    "d": "Là tài sản vô hình không được phép sử dụng để làm tài sản bảo đảm cho các nghĩa vụ tín dụng.",
+    "trả lời": "b",
+    "giải thích": "Căn cứ theo quy định tại Khoản 1 Điều 105 và Điều 115 Bộ luật Dân sự 2015, tài sản bao gồm vật, tiền, giấy tờ có giá và quyền tài sản. Đồng thời, Theo Khoản 1 Điều 7 tại Thông tư 48/2018/TT-NHNN, Thẻ tiết kiệm là bằng chứng xác lập quyền sở hữu tiền gửi của người gửi tiền tại tổ chức tín dụng. Do đó, Sổ tiết kiệm mang bản chất pháp lý là một loại giấy tờ có giá (quyền tài sản phát sinh từ quyền đòi nợ) thuộc nhóm động sản."
+  },
+  {
+    "câu hỏi": "Vợ chồng ông Lê Nam dùng Sổ tiết kiệm 3 tỷ đồng mở tại Ngân hàng ACB để bảo đảm cho khoản vay 2 tỷ đồng cũng tại Ngân hàng ACB. Xét về mặt hình thức giao dịch, bên vay phải giao bản chính Sổ tiết kiệm cho ngân hàng nắm giữ và phong tỏa. Bản chất pháp lý chính xác của biện pháp bảo đảm này theo Bộ luật Dân sự 2015 là gì?",
+    "a": "Thế chấp tài sản, vì bên bảo đảm vẫn là chủ sở hữu hợp pháp của số tiền gửi tiết kiệm đó.",
+    "b": "Cầm cố tài sản, vì bên bảo đảm chuyển giao bản chính chứng thư sở hữu tài sản (giấy tờ có giá) cho bên nhận bảo đảm chiếm giữ để quản lý.",
+    "c": "Ký quỹ, vì đây là hành vi gửi một khối tài sản bằng tiền vào tài khoản phong tỏa tại tổ chức tín dụng để bảo đảm thực hiện nghĩa vụ.",
+    "d": "Bảo lãnh tài sản, vì có sự tham gia đồng thuận ký kết liên đới của cả hai vợ chồng ông Lê Nam.",
+    "trả lời": "b",
+    "giải thích": "Căn cứ theo quy định tại Điều 312 Bộ luật Dân sự 2015: 'Cầm cố tài sản là việc một bên giao tài sản thuộc quyền sở hữu của mình cho bên kia để bảo đảm thực hiện nghĩa vụ.' Khác với Thế chấp tài sản (không giao tài sản cho bên nhận thế chấp theo Điều 317 BLDS 2015), việc vay vốn bằng Sổ tiết kiệm buộc khách hàng phải giao chứng thư gốc cho ngân hàng quản lý, đáp ứng đầy đủ cấu thành pháp lý của biện pháp Cầm cố tài sản."
+  },
+  {
+    "câu hỏi": "Vợ chồng ông Lê Nam tự nguyện đề nghị Văn phòng công chứng thực hiện công chứng Hợp đồng bảo đảm bằng Sổ tiết kiệm mở tại Ngân hàng ACB để vay vốn tại chính ngân hàng này. Khẳng định nào sau đây đúng về nghĩa vụ công chứng và thẩm quyền của Công chứng viên theo Luật Công chứng 2024?",
+    "a": "Hợp đồng này bắt buộc phải được công chứng tại Văn phòng công chứng thì mới phát sinh hiệu lực đối kháng và hiệu lực thi hành đối với tổ chức tín dụng.",
+    "b": "Công chứng viên bắt buộc phải từ chối công chứng vì giao dịch này không thuộc danh mục các giao dịch bắt buộc phải công chứng theo quy định pháp luật.",
+    "c": "Giao dịch không bắt buộc phải công chứng; tuy nhiên, do cá nhân, tổ chức tự nguyện yêu cầu, Công chứng viên vẫn có đầy đủ thẩm quyền thực hiện công chứng căn cứ theo quy định về giải thích từ ngữ dịch vụ công chứng của Luật Công chứng 2024.",
+    "d": "Hợp đồng chỉ được tiếp nhận công chứng nếu Sổ tiết kiệm này được mở tại một ngân hàng thương mại cổ phần khác chứ không phải chính Ngân hàng ACB nhận bảo đảm.",
+    "trả lời": "c",
+    "giải thích": "Căn cứ theo quy định tại Khoản 1 Điều 2 Luật Công chứng 2024 (Số 46/2024/QH15): 'Công chứng là dịch vụ công do công chứng viên của tổ chức hành nghề công chứng thực hiện để chứng nhận tính xác thực, hợp pháp của giao dịch mà luật quy định phải công chứng, luật giao Chính phủ quy định phải công chứng hoặc cá nhân, tổ chức tự nguyện yêu cầu công chứng.' Do đó, mặc dù hợp đồng cầm cố sổ tiết kiệm được ngân hàng xử lý nội bộ và không bắt buộc công chứng, nhưng khi khách hàng tự nguyện yêu cầu, Công chứng viên vẫn có thẩm quyền tiếp nhận và thực hiện theo đúng luật mới."
+  },
+  {
+    "câu hỏi": "Sổ tiết kiệm trị giá 3 tỷ đồng được xác định là tài sản chung của vợ chồng ông Lê Nam trong thời kỳ hôn nhân. Khi thực hiện giao dịch cầm cố tài sản này tại tổ chức tín dụng hoặc Văn phòng công chứng, thẩm quyền ký kết được Luật Hôn nhân và Gia đình quy định như thế nào?",
+    "a": "Chỉ cần một mình ông Lê Nam đứng ra ký hợp đồng cầm cố và ký biên bản nhận nợ vay vốn vì ông là chủ hộ gia đình.",
+    "b": "Bắt buộc phải có sự tham gia ký kết của cả hai vợ chồng ông Lê Nam, hoặc người ký phải có văn bản ủy quyền hợp pháp của người còn lại, vì đây là việc định đoạt tài sản chung có giá trị lớn.",
+    "c": "Người vợ không cần ký tên vào hợp đồng cầm cố, chỉ cần ký tên làm chứng vào văn bản giải ngân tiền vay của ngân hàng.",
+    "d": "Chỉ cần người vợ ký cam kết từ bỏ quyền sở hữu đối với số tiền tiết kiệm 3 tỷ đồng thì ông Nam được quyền toàn quyền định đoạt một mình.",
+    "trả lời": "b",
+    "giải thích": "Căn cứ theo quy định tại Khoản 2 Điều 35 Luật Hôn nhân và Gia đình 2014: 'Việc định đoạt tài sản chung phải có sự thỏa thuận bằng văn bản của vợ chồng trong những trường hợp sau đây: a) Bất động sản; b) Động sản mà theo quy định của pháp luật phải đăng ký quyền sở hữu; c) Tài sản đang là nguồn tạo ra thu nhập chủ yếu của gia đình.' Sổ tiết kiệm 3 tỷ đồng là tài sản chung tích lũy mang giá trị rất lớn (là nguồn tài chính/thu nhập chủ yếu của gia đình), việc định đoạt (mang đi cầm cố chịu rủi ro mất trắng nếu nợ xấu) bắt buộc phải có sự đồng thuận bằng văn bản hoặc cùng ký tên của cả hai vợ chồng."
+  },
+{
+  "câu hỏi": "Một công ty tài chính chuyên ngành (Tổ chức tín dụng phi ngân hàng) phát hành một Chứng chỉ tiền gửi ghi danh cho cá nhân ông Nguyễn Văn A. Sau đó, ông A mang Chứng chỉ tiền gửi này đến Văn phòng công chứng đề nghị công chứng Hợp đồng cầm cố để bảo đảm cho khoản vay của mình tại Ngân hàng thương mại X. Công chứng viên phải xử lý tình huống này như thế nào?",
+  "a": "Thực hiện công chứng bình thường vì Chứng chỉ tiền gửi là giấy tờ có giá, thuộc quyền sở hữu hợp pháp của ông A.",
+  "b": "Từ chối công chứng, vì theo Khoản 41 Điều 4 Luật Các tổ chức tín dụng 2024, tổ chức tín dụng phi ngân hàng bị cấm thực hiện hoạt động nhận tiền gửi của cá nhân; do đó đối tượng bảo đảm này vi phạm điều cấm của pháp luật.",
+  "c": "Chỉ công chứng nếu có văn bản đồng ý bảo lãnh của Ngân hàng Nhà nước chi nhánh tỉnh/thành phố nơi công ty tài chính đặt trụ sở chính.",
+  "d": "Hướng dẫn các bên chuyển tên hợp đồng từ Hợp đồng cầm cố sang Hợp đồng thế chấp quyền tài sản để hợp pháp hóa hồ sơ.",
+  "trả lời": "b",
+  "giải thích": "Căn cứ theo quy định tại Khoản 41 Điều 4 Luật Các tổ chức tín dụng 2024 (Số 32/2024/QH15), tổ chức tín dụng phi ngân hàng được thực hiện một hoặc một số hoạt động ngân hàng, nhưng tuyệt đối không được thực hiện hoạt động nhận tiền gửi của cá nhân. Việc công ty tài chính phát hành chứng chỉ tiền gửi nhận tiền của cá nhân ông A là trái quy định pháp luật. Căn cứ Luật Công chứng 2024, Công chứng viên phải từ chối công chứng đối với giao dịch có đối tượng vi phạm điều cấm của pháp luật."
+},
+  {
+    "câu hỏi": "Theo Bộ luật Dân sự và Luật Chứng khoán, khi một cá nhân sử dụng cổ phiếu đã lưu ký của một ngân hàng thương mại để bảo đảm cho một khoản vay, bản chất của giao dịch này và phương thức xác lập việc 'giao tài sản' được thực hiện như thế nào?",
+    "a": "Là thế chấp quyền tài sản; việc giao tài sản thực hiện bằng cách bàn giao tài khoản trực tuyến cho ngân hàng đổi mật khẩu.",
+    "b": "Là cầm cố tài sản; việc giao tài sản thực hiện thông qua thủ tục phong tỏa chứng khoán trên hệ thống của Tổng công ty Lưu ký và Bù trừ Chứng khoán Việt Nam (VSDC) để chuyển giao quyền kiểm soát cho bên nhận bảo đảm.",
+    "c": "Là ký quỹ bảo đảm; việc giao tài sản được thực hiện bằng cách tất toán danh mục chứng khoán sang tài khoản tiền mặt phong tỏa.",
+    "d": "Là thế chấp động sản; việc giao tài sản thực hiện bằng cách nộp giấy chứng nhận sở hữu cổ đông bản gốc cho Văn phòng công chứng lưu kho.",
+    "trả lời": "b",
+    "giải thích": "Căn cứ Điều 312 Bộ luật Dân sự, cầm cố tài sản yêu cầu phải có hành vi 'giao tài sản'. Đối với cổ phiếu đã lưu ký (giấy tờ có giá thuộc nhóm động sản), hành vi bàn giao này được pháp lý hóa bằng thủ tục phong tỏa tài sản trên hệ thống lưu ký chuyên ngành (VSDC) nhằm chuyển giao quyền chiếm giữ, kiểm soát thực tế cho bên nhận bảo đảm."
+  },
+  {
+    "câu hỏi": "Trong các biện pháp bảo đảm bằng tài sản, thời điểm phát sinh hiệu lực đối kháng với người thứ ba đối với giao dịch cầm cố chứng khoán lưu ký được xác định là thời điểm nào?",
+    "a": "Kể từ thời điểm hợp đồng cầm cố được các bên ký tên, đóng dấu hợp pháp.",
+    "b": "Kể từ thời điểm văn bản cầm cố được tổ chức hành nghề công chứng chứng nhận.",
+    "c": "Kể từ thời điểm bên nhận cầm cố nắm giữ tài sản bảo đảm, được xác định thông qua việc hoàn tất thủ tục phong tỏa chứng khoán trên hệ thống VSDC.",
+    "d": "Kể từ thời điểm tổ chức tín dụng cấp vốn giải ngân khoản vay vào tài khoản khách hàng.",
+    "trả lời": "c",
+    "giải thích": "Căn cứ Khoản 1 Điều 314 Bộ luật Dân sự, cầm cố tài sản có hiệu lực đối kháng với người thứ ba kể từ thời điểm bên nhận cầm cố nắm giữ tài sản bảo đảm. Đối với chứng khoán đã lưu ký, việc tổ chức lưu ký hoàn tất thủ tục phong tỏa chứng khoán theo yêu cầu của bên nhận bảo đảm chính là thời điểm xác lập quyền nắm giữ này."
+  },
+  {
+    "câu hỏi": "Khi một cá nhân dùng cổ phiếu chưa lưu ký (vẫn ở dạng Sổ cổ đông/Giấy chứng nhận cổ phần cơ học) để thực hiện biện pháp cầm cố tại tổ chức tín dụng, Công chứng viên cần lưu ý điều gì về việc hoàn thiện hình thức 'giao tài sản'?",
+    "a": "Bên cầm cố phải giao bản gốc Sổ cổ đông/Giấy chứng nhận cổ phần cho bên nhận cầm cố chiếm giữ.",
+    "b": "Bên cầm cố chỉ cần chụp ảnh hai mặt Sổ cổ đông gửi qua hệ thống ứng dụng ngân hàng.",
+    "c": "Bắt buộc phải mang Sổ cổ đông đến nộp tại Văn phòng đăng ký đất đai để ghi nhận biến động.",
+    "d": "Phải yêu cầu Ủy ban Chứng khoán Nhà nước ký biên bản bàn giao trực tiếp.",
+    "trả lời": "a",
+    "giải thích": "Đối với cổ phiếu chưa lưu ký, Giấy chứng nhận cổ phần hoặc Sổ cổ đông chính là chứng thư vật chất chứng minh quyền sở hữu (giấy tờ có giá). Để thỏa mãn điều kiện 'giao tài sản' của giao dịch cầm cố theo Điều 312 Bộ luật Dân sự, bên cầm cố bắt buộc phải bàn giao bản gốc cơ học này cho bên nhận cầm cố nắm giữ thực tế."
+  },
+  {
+    "câu hỏi": "Theo quy định của Luật Hôn nhân và Gia đình, trường hợp một bên vợ hoặc chồng mua và đứng tên sở hữu một khối động sản (giấy tờ có giá, cổ phiếu) vào đúng ngày hai bên thực hiện đăng ký kết hôn tại cơ quan có thẩm quyền, về mặt nguyên tắc thời gian, tài sản này được xác định như thế nào?",
+    "a": "Đương nhiên là tài sản riêng vì việc giao dịch mua tài sản được hoàn thành trước thời điểm hai bên ký tên vào Sổ đăng ký kết hôn.",
+    "b": "Được tính là tài sản hình thành trong thời kỳ hôn nhân và mặc định là tài sản chung của vợ chồng, trừ trường hợp có căn cứ chứng minh đó là tài sản riêng.",
+    "c": "Là tài sản thuộc sở hữu chung hợp tác, được chia theo tỷ lệ đóng góp tiền mặt thực tế của mỗi bên tại ngày mua.",
+    "d": "Pháp luật không thừa nhận giá trị pháp lý của các giao dịch mua tài sản diễn ra vào đúng ngày đăng ký kết hôn.",
+    "trả lời": "b",
+    "giải thích": "Căn cứ Khoản 1 Điều 33 Luật Hôn nhân và Gia đình 2014, thời kỳ hôn nhân là khoảng thời gian tính từ ngày đăng ký kết hôn đến ngày ly hôn hoặc một bên chết. Tài sản phát sinh trong ngày đăng ký kết hôn được tính thuộc thời kỳ hôn nhân. Do đó, khối tài sản này mặc định là tài sản chung của vợ chồng nếu không có căn cứ hoặc thỏa thuận chứng minh nó là tài sản riêng."
+  },
+  {
+    "câu hỏi": "Khi giải quyết tranh chấp hoặc xác định nghĩa vụ chủ thể trong giao dịch bảo đảm đối với một tài sản được mua vào đúng ngày đăng ký kết hôn, nếu các bên không thể đưa ra được chứng cứ rõ ràng chứng minh nguồn tiền mua tài sản là tài sản riêng tích lũy trước hôn nhân, cơ quan có thẩm quyền và Công chứng viên phải xử lý ra sao?",
+    "a": "Tạm hoãn giao dịch cho đến khi một trong hai bên chủ động đi thu thập được hóa đơn, chứng từ chứng minh nguồn gốc tiền nộp vào tài khoản.",
+    "b": "Áp dụng nguyên tắc suy đoán tài sản riêng cho người trực tiếp đứng tên trên hợp đồng mua bán hoặc tài khoản sở hữu tài sản.",
+    "c": "Coi tài sản đó là tài sản chung của vợ chồng để giải quyết theo quy định pháp luật.",
+    "d": "Tuyên bố tài sản đó vô chủ và tịch thu sung công quỹ nhà nước phần giá trị không thể chứng minh.",
+    "trả lời": "c",
+    "giải thích": "Căn cứ Khoản 3 Điều 33 Luật Hôn nhân và Gia đình 2014 quy định rất rõ ràng: 'Trong trường hợp không có căn cứ để chứng minh tài sản mà vợ, chồng đang có tranh chấp là tài sản riêng của mỗi bên thì tài sản đó được coi là tài sản chung.' Do đó, khi không có chứng cứ chứng minh nguồn tiền riêng, mặc định tài sản phải được xử lý theo chế định tài sản chung."
+  },
+  {
+    "câu hỏi": "Một cá nhân mang một khối cổ phiếu được mua vào đúng ngày đăng ký kết hôn đi làm tài sản bảo đảm cho khoản vay cá nhân. Để đảm bảo an toàn pháp lý tuyệt đối, ngăn ngừa rủi ro hợp đồng bị tuyên vô hiệu, Công chứng viên tiến hành tác nghiệp thực tế cần lưu ý điều gì về hồ sơ chủ thể?",
+    "a": "Chỉ cần người đứng tên cổ phiếu ký hợp đồng bảo đảm, kèm theo cam kết tự chịu trách nhiệm bằng tài sản cá nhân nếu có tranh chấp hôn nhân xảy ra.",
+    "b": "Bắt buộc phải yêu cầu cả hai vợ chồng cùng tham gia ký kết hợp đồng bảo đảm, hoặc người vợ/chồng phải ký văn bản đồng ý/văn bản xác nhận tài sản riêng của bên kia để làm rõ quyền định đoạt.",
+    "c": "Yêu cầu ngân hàng nhận bảo đảm phải đứng ra ký bảo lãnh thay cho người vợ hoặc người chồng không tham gia giao dịch.",
+    "d": "Chỉ thực hiện công chứng nếu khối cổ phiếu đó đã được chia đôi tài khoản độc lập tại công ty chứng khoán.",
+    "trả lời": "b",
+    "giải thích": "Theo Điều 35 Luật Hôn nhân và Gia đình 2014, việc định đoạt tài sản chung phải có sự thỏa thuận bằng văn bản của vợ chồng. Vì tài sản mua trùng ngày kết hôn có rủi ro pháp lý cao là tài sản chung, Công chứng viên bắt buộc phải kiểm soát rủi ro bằng cách yêu cầu sự đồng thuận ký kết của cả hai vợ chồng (hoặc dưới hình thức cam kết tài sản riêng có chữ ký của người còn lại) để hợp đồng bảo đảm có hiệu lực pháp lý toàn vẹn."
+  },
+
  {
     "question": "Theo Luật Công chứng 2024, cơ quan đại diện ngoại giao, cơ quan đại diện lãnh sự của nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài được quyền công chứng loại giao dịch nào liên quan đến bất động sản tại Việt Nam?",
     "a": "Hợp đồng cho thuê, thế chấp, góp vốn bằng bất động sản tại Việt Nam.",
