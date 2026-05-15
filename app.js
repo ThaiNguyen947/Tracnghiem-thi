@@ -85,21 +85,22 @@ function startExam() {
   let list = [];
 
   for (let q of wrongPool) {
-    if (!used.has(q.question)) {
-      used.add(q.question);
+    if (!used.has(q.question || q.cauhoi)) {
+      used.add(q.question || q.cauhoi);
       list.push(q);
     }
   }
 
   for (let q of data) {
-    if (!used.has(q.question)) {
-      used.add(q.question);
+    let qText = q.question || q.cauhoi;
+    if (!used.has(qText)) {
+      used.add(qText);
       list.push(q);
     }
     if (list.length >= 100) break;
   }
 
-  let remain = shuffle(data.filter(q => !used.has(q.question)));
+  let remain = shuffle(data.filter(q => !used.has(q.question || q.cauhoi)));
 
   for (let q of remain) {
     if (list.length >= 100) break;
@@ -115,6 +116,11 @@ function startExam() {
 // ================= RENDER =================
 function render() {
   let q = questions[index];
+  let qText = q.question || q.cauhoi;
+  let optA = q.a || q.Một || "";
+  let optB = q.b || "";
+  let optC = q.c || "";
+  let optD = q.d || "";
 
   app.innerHTML = `
     <div class="box">
@@ -127,12 +133,12 @@ function render() {
         <div class="bar-fill" id="bar"></div>
       </div>
 
-      <h2>${q.question}</h2>
+      <h2>${qText}</h2>
 
-      <button class="option" onclick="choose('A')">A. ${q.a}</button>
-      <button class="option" onclick="choose('B')">B. ${q.b}</button>
-      <button class="option" onclick="choose('C')">C. ${q.c}</button>
-      <button class="option" onclick="choose('D')">D. ${q.d}</button>
+      <button class="option" onclick="choose('A')">A. ${optA}</button>
+      <button class="option" onclick="choose('B')">B. ${optB}</button>
+      <button class="option" onclick="choose('C')">C. ${optC}</button>
+      <button class="option" onclick="choose('D')">D. ${optD}</button>
 
       <div class="nav-control">
         <button class="nav-btn" onclick="prev()">← Trước</button>
@@ -248,8 +254,11 @@ function submit() {
 
   questions.forEach((q, i) => {
     let userAns = answers[i] ? answers[i].toString().trim().toLowerCase() : "";
-    let correctAns = q.answer ? q.answer.toString().trim().toLowerCase() : "";
+    let correctAns = (q.answer || q.trảlời || "").toString().trim().toLowerCase();
     
+    // Đồng nhất đáp án 'một' thành 'a' để khớp với logic làm bài
+    if (correctAns === "một") correctAns = "a";
+
     if (userAns === correctAns) {
       correct++;
     } else {
@@ -262,12 +271,14 @@ function submit() {
 
   app.innerHTML = `
     <div class="box" style="padding: 10px; max-width: 100%;">
-      <h1 style="font-size: 20px; margin: 5px 0;">KẾT QUẢ</h1>
-      <h3 style="margin: 5px 0; font-size: 15px;">✔ Đúng: ${correct} | ❌ Sai: ${wrong}</h3>
+      <h1 style="font-size: 20px; margin: 5px 0; text-align: center;">KẾT QUẢ</h1>
+      <h3 style="margin: 5px 0; font-size: 15px; text-align: center;">✔ Đúng: ${correct} | ❌ Sai: ${wrong}</h3>
 
-      <button class="btn" style="margin: 5px 0; padding: 6px 20px; font-size: 13px;" onclick="startExam()">THI LẠI</button>
+      <div style="text-align: center;">
+        <button class="btn" style="margin: 5px 0; padding: 6px 20px; font-size: 13px;" onclick="startExam()">THI LẠI</button>
+      </div>
 
-      <div style="display: flex; gap: 5px; justify-content: center; margin: 5px 0 10px 0;">
+      <div style="display: flex; gap: 5px; justify-content: center; margin: 8px 0 12px 0;">
         <button class="nav-btn" style="background: #444; color: white; padding: 4px 10px; font-size: 12px;" onclick="filterResult('all')">Xem tất cả</button>
         <button class="nav-btn" style="background: green; color: white; padding: 4px 10px; font-size: 12px;" onclick="filterResult('correct')">Xem câu đúng</button>
         <button class="nav-btn" style="background: #b30000; color: white; padding: 4px 10px; font-size: 12px;" onclick="filterResult('wrong')">Xem câu sai</button>
@@ -291,28 +302,38 @@ function filterResult(type) {
 
   questions.forEach((q, i) => {
     let userAns = answers[i] ? answers[i].toString().trim().toLowerCase() : "";
-    let correctAns = q.answer ? q.answer.toString().trim().toLowerCase() : "";
+    let correctAns = (q.answer || q.trảlời || "").toString().trim().toLowerCase();
+    if (correctAns === "một") correctAns = "a";
+    
     let ok = userAns === correctAns;
 
     if (type === 'correct' && !ok) return;
     if (type === 'wrong' && ok) return;
 
     displayIndex++;
+    // Tạo nền xám trắng xen kẽ cực kỳ thanh mảnh giúp phân biệt các câu
     let bgColor = (displayIndex % 2 === 0) ? "#fcfcfc" : "#ffffff";
 
-    // Trích xuất văn bản đáp án đúng
+    let qText = q.question || q.cauhoi;
+    let optA = q.a || q.Một || "";
+    let optB = q.b || "";
+    let optC = q.c || "";
+    let optD = q.d || "";
+
+    // Trích xuất văn bản đáp án đúng đầy đủ văn cảnh để tránh chữ "Không hợp lệ"
     let fullCorrectText = "";
-    if (correctAns === "a") fullCorrectText = `A. ${q.a}`;
-    else if (correctAns === "b") fullCorrectText = `B. ${q.b}`;
-    else if (correctAns === "c") fullCorrectText = `C. ${q.c}`;
-    else if (correctAns === "d") fullCorrectText = `D. ${q.d}`;
+    if (correctAns === "a") fullCorrectText = `A. ${optA}`;
+    else if (correctAns === "b") fullCorrectText = `B. ${optB}`;
+    else if (correctAns === "c") fullCorrectText = `C. ${optC}`;
+    else if (correctAns === "d") fullCorrectText = `D. ${optD}`;
+    else fullCorrectText = (q.answer || q.trảlời || "Chưa rõ").toUpperCase();
 
     // Trích xuất văn bản đáp án người dùng đã chọn
     let fullUserText = "Không chọn";
-    if (userAns === "a") fullUserText = `A. ${q.a}`;
-    else if (userAns === "b") fullUserText = `B. ${q.b}`;
-    else if (userAns === "c") fullUserText = `C. ${q.c}`;
-    else if (userAns === "d") fullUserText = `D. ${q.d}`;
+    if (userAns === "a") fullUserText = `A. ${optA}`;
+    else if (userAns === "b") fullUserText = `B. ${optB}`;
+    else if (userAns === "c") fullUserText = `C. ${optC}`;
+    else if (userAns === "d") fullUserText = `D. ${optD}`;
 
     html += `
       <div style="
@@ -320,31 +341,30 @@ function filterResult(type) {
         background-color: ${bgColor};
         border-bottom: 1px solid #eee;
         white-space: pre-wrap;
-        line-height: 1.3;
+        line-height: 1.4;
         font-family: Arial, sans-serif;
-        font-size: 13.5px;
+        font-size: 14px;
       ">
-        <div style="margin-bottom: 2px;"><b>Câu ${i + 1}:</b> ${q.question}</div>
+        <p style="margin: 0 0 2px 0; padding: 0;"><b>Câu ${i + 1}:</b> ${qText}</p>
         
-        <div style="margin-bottom: 2px; color: #333;">
+        <p style="margin: 0 0 2px 0; padding: 0;">
           <b>Bạn chọn:</b> ${fullUserText} | 
-          <b style="color: ${ok ? 'green' : 'red'};">${ok ? "✔ ĐÚNG" : "❌ SAI"}</b> 
-          ${!ok ? `| <b>Đáp án đúng:</b> <span style="color: green; font-weight: bold;">${fullCorrectText}</span>` : ""}
-        </div>
+          <span style="color: ${ok ? 'green' : 'red'}; font-weight: bold;">${ok ? "✔ ĐÚNG" : "❌ SAI"}</span>
+          ${!ok ? ` | <b>Đáp án đúng:</b> <span style="color: green; font-weight: bold;">${fullCorrectText}</span>` : ""}
+        </p>
 
-        <div style="
-          margin-top: 3px;
+        <p style="
+          margin: 3px 0 0 0; 
+          padding: 2px 0 2px 8px;
           font-family: 'Times New Roman', serif;
           text-align: justify;
-          font-size: 13px;
-          color: #555;
+          font-size: 13.5px;
+          color: #444;
           background: #fafafa;
-          padding: 4px 8px;
-          border-radius: 3px;
-          border-left: 2px solid #ddd;
+          border-left: 2px solid #ccc;
         ">
           💡 <b>Giải thích:</b> ${q.explanation ? q.explanation : (q.giảithích ? q.giảithích : "Chưa có giải thích")}
-        </div>
+        </p>
       </div>
     `;
   });
