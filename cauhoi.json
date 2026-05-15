@@ -1,5 +1,283 @@
 [
  {
+    "question": "Theo Luật Công chứng, điều kiện bắt buộc về mặt kỹ thuật để văn bản công chứng điện tử chính thức phát sinh hiệu lực pháp luật là gì và được tính từ thời điểm nào?",
+    "a": "Có hiệu lực sau 24 giờ kể từ khi được đưa lên hệ thống Cơ sở dữ liệu công chứng điện tử quốc gia.",
+    "b": "Kể từ thời điểm văn bản được ký bằng chữ ký số của công chứng viên và chữ ký số của tổ chức hành nghề công chứng.",
+    "c": "Kể từ khi người yêu cầu công chứng ký số xác nhận vào thông điệp dữ liệu giao dịch trước sự chứng kiến trực tuyến của công chứng viên.",
+    "d": "Kể từ thời điểm hệ thống cấp dấu thời gian ghi nhận giao dịch đã được truyền tải thành công về Sở Tư pháp.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 2 Điều 64 Luật Công chứng: Văn bản công chứng điện tử có hiệu lực kể từ thời điểm được ký bằng chữ ký số của công chứng viên và chữ ký số của tổ chức hành nghề công chứng."
+  },
+  {
+    "question": "Phân tích sự khác biệt giữa hai hình thức công chứng điện tử: Nhận định nào sau đây ĐÚNG khi nói về phương thức giao kết giao dịch giữa 'Công chứng điện tử trực tiếp' và 'Công chứng điện tử trực tuyến'?",
+    "a": "Trực tiếp là ký trên giấy rồi quét (scan) thành file điện tử; Trực tuyến là ký hoàn toàn trên môi trường mạng thông qua phần mềm.",
+    "b": "Trực tiếp là người yêu cầu công chứng giao kết giao dịch trước sự chứng kiến trực tiếp của công chứng viên; Trực tuyến là các bên không cùng một địa điểm và giao kết thông qua phương tiện trực tuyến trước sự chứng kiến trực tiếp của công chứng viên.",
+    "c": "Trực tiếp chỉ áp dụng cho cá nhân cư trú trong nước; Trực tuyến chỉ áp dụng cho người Việt Nam đang định cư ở nước ngoài.",
+    "d": "Trực tiếp bắt buộc sử dụng chữ ký số của văn phòng; Trực tuyến chỉ yêu cầu chữ ký số cá nhân của công chứng viên thực hiện.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 1 Điều 65 Luật Công chứng, điểm phân biệt cốt lõi là vị trí địa lý và phương thức chứng kiến giao kết: Công chứng điện tử trực tiếp đòi hỏi sự có mặt và chứng kiến tại chỗ, trong khi công chứng điện tử trực tuyến cho phép các bên ở các địa điểm khác nhau và chứng kiến thông qua phương tiện trực tuyến công nghệ."
+  },
+  {
+    "question": "Theo Luật Công chứng, cấu trúc hệ thống Cơ sở dữ liệu công chứng được phân định thành những cấp độ nào và nội dung thông tin về 'nguồn gốc tài sản, tình trạng giao dịch, biện pháp ngăn chặn' thuộc thẩm quyền xây dựng của cơ quan nào?",
+    "a": "Gồm dữ liệu của Bộ Tư pháp và dữ liệu của địa phương; Thông tin ngăn chặn, nguồn gốc tài sản do Ủy ban nhân dân cấp tỉnh có trách nhiệm xây dựng.",
+    "b": "Gồm dữ liệu của Bộ Tư pháp và Bộ Tài nguyên và Môi trường; Thông tin ngăn chặn do Bộ Tư pháp xây dựng tập trung.",
+    "c": "Gồm dữ liệu của địa phương và dữ liệu của các Ngân hàng thương mại; Thông tin tài sản do Ngân hàng Nhà nước quản lý.",
+    "d": "Gồm dữ liệu của Sở Tư pháp và dữ liệu của Cục Đăng ký quốc gia; Thông tin rủi ro do Hội công chứng viên địa phương xây dựng.",
+    "answer": "a",
+    "explanation": "Căn cứ theo Khoản 1 và Khoản 3 Điều 66 Luật Công chứng: Cơ sở dữ liệu công chứng bao gồm cơ sở dữ liệu công chứng của Bộ Tư pháp và cơ sở dữ liệu công chứng của địa phương. Trong đó, Ủy ban nhân dân cấp tỉnh có trách nhiệm xây dựng cơ sở dữ liệu công chứng của địa phương, bao gồm thông tin về nguồn gốc tài sản, tình trạng giao dịch, biện pháp ngăn chặn và cảnh báo rủi ro."
+  },
+  {
+    "question": "Theo Luật Công chứng, thời hạn lưu trữ hồ sơ công chứng tại trụ sở của tổ chức hành nghề công chứng đối với các giao dịch có đối tượng là bất động sản và các loại giao dịch khác được quy định tối thiểu là bao lâu kể từ ngày văn bản công chứng có hiệu lực?",
+    "a": "Ít nhất 20 năm đối với bất động sản và ít nhất 05 năm đối với giao dịch khác.",
+    "b": "Ít nhất 30 năm đối với bất động sản và ít nhất 10 năm đối với giao dịch khác.",
+    "c": "Ít nhất 50 năm đối với bất động sản và ít nhất 20 năm đối với giao dịch khác.",
+    "d": "Lưu trữ vĩnh viễn đối với bất động sản và ít nhất 30 năm đối với giao dịch khác.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 2 Điều 68 Luật Công chứng: Hồ sơ công chứng phải được lưu trữ tại trụ sở của tổ chức hành nghề công chứng trong thời hạn ít nhất 30 năm đối với các giao dịch có đối tượng là bất động sản, ít nhất 10 năm đối với các loại giao dịch khác kể từ ngày văn bản công chứng có hiệu lực."
+  },
+  {
+    "question": "Phân tích quy trình xử lý hồ sơ khi tổ chức hành nghề công chứng bị giải thể hoặc chấm dứt hoạt động: Trường hợp hai văn phòng không tự thỏa thuận được với nhau về việc tiếp nhận lại kho hồ sơ lưu trữ thì cơ quan nào có thẩm quyền chỉ định và thứ tự chỉ định tổ chức tiếp nhận được luật quy định ra sao?",
+    "a": "Ủy ban nhân dân cấp tỉnh sẽ chỉ định và ưu tiên chuyển thẳng về Trung tâm lưu trữ quốc gia.",
+    "b": "Sở Tư pháp chỉ định 01 Phòng công chứng tiếp nhận; nếu địa phương không có Phòng công chứng thì chỉ định 01 Văn phòng công chứng đủ điều kiện.",
+    "c": "Bộ Tư pháp chỉ định tổ chức hành nghề công chứng thuộc tỉnh liền kề tiếp nhận để đảm bảo khách quan.",
+    "d": "Hội công chứng viên địa phương chỉ định một văn phòng bất kỳ dựa trên kết quả bốc thăm ngẫu nhiên.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 5 Điều 68 Luật Công chứng: Trường hợp không thỏa thuận được thì Sở Tư pháp chỉ định 01 Phòng công chứng tiếp nhận hồ sơ công chứng; trường hợp địa phương không có Phòng công chứng thì Sở Tư pháp chỉ định 01 Văn phòng công chứng đủ điều kiện tiếp nhận hồ sơ công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng, việc cấp bản sao văn bản công chứng theo yêu cầu của người có quyền, nghĩa vụ liên quan đến giao dịch đã được công chứng phải tuân thủ điều kiện bảo mật nào sau đây?",
+    "a": "Phải được sự đồng ý của công chứng viên đã ký văn bản gốc trước đây.",
+    "b": "Phải được người yêu cầu công chứng đồng ý; nếu người yêu cầu công chứng là cá nhân đã chết thì phải được sự đồng ý của người thừa kế của họ.",
+    "c": "Phải có quyết định phê duyệt bằng văn bản của Trưởng tổ chức hành nghề công chứng và thông báo cho Sở Tư pháp.",
+    "d": "Chỉ được cấp khi có văn bản yêu cầu trực tiếp từ cơ quan điều tra hoặc Tòa án nhân dân.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 1 Điều 69 Luật Công chứng: Việc cấp bản sao văn bản công chứng theo yêu cầu của người có quyền, nghĩa vụ liên quan đến giao dịch đã được công chứng phải được người yêu cầu công chứng đồng ý; trường hợp người yêu cầu công chứng là cá nhân đã chết hoặc bị Tòa án tuyên bố là đã chết thì phải được sự đồng ý của người thừa kế."
+  },
+  {
+    "question": "Theo Luật Công chứng, danh mục các khoản chi phí nào sau đây được xác định theo cơ chế 'thỏa thuận' giữa người yêu cầu công chứng và tổ chức hành nghề công chứng chứ không áp dụng biểu phí cố định hay giá tối đa do nhà nước ban hành?",
+    "a": "Phí công chứng giao dịch, phí nhận lưu giữ di chúc và phí cấp bản sao.",
+    "b": "Phí khai thác thông tin dữ liệu dân cư và giá dịch vụ đánh máy, sao chụp văn bản.",
+    "c": "Chi phí xác minh, giám định; chi phí công chứng ngoài trụ sở, ngoài giờ làm việc và chi phí niêm yết việc tiếp nhận thừa kế.",
+    "d": "Thù lao dịch thuật giấy tờ từ tiếng nước ngoài sang tiếng Việt và ngược lại.",
+    "answer": "c",
+    "explanation": "Căn cứ theo Điều 72 Luật Công chứng về 'Chi phí khác': Chi phí xác minh, giám định, công chứng ngoài trụ sở, ngoài giờ, chi phí niêm yết thừa kế do người yêu cầu công chứng và tổ chức hành nghề công chứng thỏa thuận."
+  },
+  {
+    "question": "Theo Luật Công chứng, cơ quan nào có thẩm quyền ban hành 'giá tối đa' đối với các dịch vụ theo yêu cầu liên quan đến việc công chứng (như soạn thảo giao dịch, đánh máy, sao chụp, dịch giấy tờ) để áp dụng thống nhất cho các tổ chức hành nghề công chứng tại địa phương?",
+    "a": "Bộ Tư pháp chủ trì phối hợp với Bộ Tài chính.",
+    "b": "Sở Tư pháp tỉnh/thành phố trực thuộc trung ương.",
+    "c": "Ủy ban nhân dân cấp tỉnh.",
+    "d": "Cục Quản lý giá thuộc Bộ Tài chính.",
+    "answer": "c",
+    "explanation": "Căn cứ theo Khoản 2 Điều 71 Luật Công chứng: Ủy ban nhân dân cấp tỉnh ban hành giá tối đa đối với dịch vụ theo yêu cầu liên quan đến việc công chứng áp dụng đối với các tổ chức hành nghề công chứng tại địa phương."
+  },
+{
+    "question": "Theo Luật Công chứng, đối với hình thức 'Công chứng điện tử trực tuyến', yếu tố nào sau đây là bắt buộc phải thực hiện theo thời gian thực (real-time) trước sự chứng kiến trực tiếp của công chứng viên?",
+    "a": "Việc gửi văn bản hồ sơ giấy tờ đính kèm dưới dạng bản sao điện tử.",
+    "b": "Việc các bên tham gia giao dịch giao kết giao dịch thông qua phương tiện trực tuyến.",
+    "c": "Việc Sở Tư pháp phê duyệt mã định danh số của văn bản trên hệ thống quản lý.",
+    "d": "Việc thanh toán phí công chứng và thù lao dịch vụ qua cổng thanh toán tập trung.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Điểm b Khoản 1 Điều 65 Luật Công chứng: Công chứng điện tử trực tuyến là việc các bên tham gia giao dịch có yêu cầu công chứng không có mặt tại cùng một địa điểm và giao kết giao dịch thông qua phương tiện trực tuyến trước sự chứng kiến trực tiếp của công chứng viên."
+  },
+  {
+    "question": "Phân tích quy định về hình thức chuyển đổi văn bản công chứng: Văn bản công chứng được chuyển đổi từ hình thức văn bản điện tử sang văn bản giấy (hoặc ngược lại) có giá trị pháp lý như bản gốc, trừ trường hợp đặc biệt nào sau đây?",
+    "a": "Trường hợp giao dịch có giá trị tài sản vượt quá 50 tỷ đồng.",
+    "b": "Trường hợp một trong các bên tham gia giao dịch là người nước ngoài.",
+    "c": "Trường hợp pháp luật quy định loại văn bản đó được chuyển giao quyền sở hữu và chỉ được tồn tại dưới một hình thức duy nhất.",
+    "d": "Trường hợp văn bản gốc chưa được đăng ký thời gian số trên hệ thống cấp dấu thời gian.",
+    "answer": "c",
+    "explanation": "Căn cứ theo Khoản 4 Điều 64 Luật Công chứng: Văn bản công chứng được chuyển đổi có giá trị như bản gốc khi đáp ứng đủ các điều kiện theo quy định của pháp luật về giao dịch điện tử, trừ trường hợp pháp luật quy định loại văn bản đó được chuyển giao quyền sở hữu và chỉ được tồn tại dưới một hình thức duy nhất."
+  },
+  {
+    "question": "Theo Luật Công chứng, đối với Cơ sở dữ liệu công chứng của Bộ Tư pháp, những nhóm thông tin nào dưới đây bắt buộc phải được đồng bộ, tích hợp từ cơ sở dữ liệu công chứng tại địa phương?",
+    "a": "Thông tin về nguồn gốc tài sản, tình trạng giao dịch của tài sản tại từng huyện.",
+    "b": "Thông tin về công chứng viên, tổ chức hành nghề công chứng, số liệu về kết quả hoạt động công chứng.",
+    "c": "Danh sách các văn bản thỏa thuận phân chia di sản thừa kế đang trong thời gian niêm yết.",
+    "d": "Toàn bộ thông tin về các biện pháp ngăn chặn, rủi ro tài sản do Ủy ban nhân dân cấp tỉnh ban hành.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 2 Điều 66 Luật Công chứng: Cơ sở dữ liệu công chứng của Bộ Tư pháp bao gồm thông tin về công chứng viên, tổ chức hành nghề công chứng, số liệu về kết quả hoạt động công chứng; các thông tin được tích hợp, đồng bộ từ cơ sở dữ liệu công chứng tại địa phương theo lộ trình do Chính phủ quy định."
+  },
+  {
+    "question": "Phân tích thành phần của Hồ sơ công chứng: Theo quy định mới, giấy tờ nào sau đây bắt buộc phải có trong hồ sơ công chứng dưới dạng 'bản in' nhằm thay thế hoặc bổ sung cho các giấy tờ nhân thân dạng giấy, trừ trường hợp lỗi hệ thống?",
+    "a": "Bản in lịch sử giao dịch thế chấp tài sản của khách hàng tại các ngân hàng thương mại.",
+    "b": "Bản in các thông tin tổ chức hành nghề công chứng đã khai thác từ Cơ sở dữ liệu quốc gia về dân cư, cơ sở dữ liệu khác.",
+    "c": "Bản in biên lai nộp thuế đất phi nông nghiệp của 03 năm gần nhất.",
+    "d": "Bản in giấy phép xây dựng do Ủy ban nhân dân cấp huyện cấp trực tuyến.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 1 Điều 67 Luật Công chứng: Hồ sơ công chứng bao gồm... bản in các thông tin tổ chức hành nghề công chứng đã khai thác từ Cơ sở dữ liệu quốc gia về dân cư, cơ sở dữ liệu khác theo quy định của pháp luật..."
+  },
+  {
+    "question": "Theo Luật Công chứng, trong trường hợp cơ quan nhà nước có thẩm quyền yêu cầu bằng văn bản để phục vụ việc điều tra, truy tố, xét xử, tổ chức hành nghề công chứng phải thực hiện quy trình đối chiếu bản sao văn bản công chứng với bản gốc tại địa điểm nào?",
+    "a": "Tại trụ sở của cơ quan công an hoặc Tòa án nhân dân đang thụ lý vụ án.",
+    "b": "Tại trụ sở của Sở Tư pháp nơi tổ chức hành nghề công chứng đặt văn phòng.",
+    "c": "Chỉ được thực hiện tại tổ chức hành nghề công chứng nơi đang lưu trữ hồ sơ công chứng.",
+    "d": "Tại kho lưu trữ tập trung của Hội công chứng viên địa phương.",
+    "answer": "c",
+    "explanation": "Căn cứ theo Khoản 3 Điều 68 Luật Công chứng quy định rất nghiêm ngặt để bảo vệ an toàn hồ sơ: Việc đối chiếu bản sao văn bản công chứng với bản gốc chỉ được thực hiện tại tổ chức hành nghề công chứng nơi đang lưu trữ hồ sơ công chứng."
+  },
+  {
+    "question": "Phân tích trường hợp đặc biệt về lưu trữ hồ sơ ngoài trụ sở: Một Văn phòng công chứng do kho lưu trữ tại trụ sở bị quá tải nên muốn thuê một kho lưu trữ bên ngoài để bảo quản hồ sơ công chứng. Điều kiện bắt buộc để văn phòng này thực hiện hợp pháp là gì?",
+    "a": "Phải báo cáo bằng văn bản cho Bộ Tư pháp phê duyệt phương án an toàn phòng cháy chữa cháy.",
+    "b": "Phải có sự đồng ý bằng văn bản của Sở Tư pháp nơi tổ chức hành nghề công chứng đặt trụ sở.",
+    "c": "Chỉ cần thông báo cho Ủy ban nhân dân cấp xã nơi đặt kho lưu trữ mới để phối hợp quản lý hành chính.",
+    "d": "Phải được Đại hội đồng thành viên hợp danh của Văn phòng công chứng biểu quyết thông qua 100%.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 2 Điều 68 Luật Công chứng: Hồ sơ công chứng phải được lưu trữ tại trụ sở của tổ chức hành nghề công chứng...; trường hợp lưu trữ ngoài trụ sở thì phải có sự đồng ý bằng văn bản của Sở Tư pháp nơi tổ chức hành nghề công chứng đặt trụ sở."
+  },
+  {
+    "question": "Theo Luật Công chứng, quy định nào sau đây ĐÚNG về việc xử lý hồ sơ lưu trữ khi một Phòng công chứng (đơn vị sự nghiệp) được cơ quan có thẩm quyền quyết định chuyển đổi thành Văn phòng công chứng (loại hình tư nhân)?",
+    "a": "Toàn bộ kho hồ sơ cũ phải được bàn giao về Sở Tư pháp quản lý tập trung.",
+    "b": "Hồ sơ công chứng do Văn phòng công chứng được chuyển đổi tiếp tục lưu trữ.",
+    "c": "Hồ sơ công chứng về bất động sản chuyển về Văn phòng đăng ký đất đai, các hồ sơ khác tiêu hủy sau 5 năm.",
+    "d": "Chỉ chuyển giao các hồ sơ công chứng phát sinh hiệu lực trong vòng 10 năm gần nhất.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Đoạn 3 Khoản 5 Điều 68 Luật Công chứng: Trường hợp Phòng công chứng được chuyển đổi thành Văn phòng công chứng thì hồ sơ công chứng do Văn phòng công chứng được chuyển đổi lưu trữ."
+  },{
+    "question": "Theo Luật Công chứng, quy định nào sau đây ĐÚNG về nghĩa vụ của tổ chức hành nghề công chứng liên quan đến việc thu các khoản tiền khi người yêu cầu công chứng đề nghị thực hiện dịch vụ soạn thảo giao dịch, đánh máy, sao chụp hoặc dịch giấy tờ?",
+    "a": "Bắt buộc phải áp dụng đúng bảng phí do Bộ Tài chính ban hành, không được thu thêm bất kỳ khoản thù lao nào.",
+    "b": "Tổ chức hành nghề công chứng tự xác định mức giá dịch vụ đối với từng loại việc nhưng không được vượt quá mức giá tối đa do Ủy ban nhân dân cấp tỉnh ban hành và phải niêm yết công khai tại trụ sở.",
+    "c": "Được quyền tự do thỏa thuận mọi mức giá với khách hàng mà không chịu sự quản lý hay giới hạn trần giá của cơ quan nhà nước.",
+    "d": "Chỉ được thu tiền sau khi đã có văn bản phê duyệt mức giá cụ thể từ Sở Tư pháp đối với từng hồ sơ giao dịch.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 2 Điều 71 Luật Công chứng: Ủy ban nhân dân cấp tỉnh ban hành giá tối đa đối với dịch vụ theo yêu cầu liên quan đến việc công chứng áp dụng đối với các tổ chức hành nghề công chứng tại địa phương. Tổ chức hành nghề công chứng xác định mức giá dịch vụ đối với từng loại việc không vượt quá mức giá tối đa do Ủy ban nhân dân cấp tỉnh ban hành và niêm yết công khai các mức giá dịch vụ tại trụ sở của mình."
+  },
+  {
+    "question": "Phân tích trường hợp cấp bản sao văn bản công chứng: Người yêu cầu công chứng ban đầu là Công ty X (pháp nhân) đã chính thức chấm dứt hoạt động (giải thể). Hiện tại, ông Bình (là người có quyền và nghĩa vụ liên quan đến hợp đồng thế chấp cũ của Công ty X) đến văn phòng công chứng xin cấp bản sao văn bản công chứng. Quy trình bảo mật thông tin lúc này yêu cầu điều kiện gì?",
+    "a": "Văn phòng công chứng không được phép cấp bản sao dưới bất kỳ hình thức nào vì chủ thể hợp đồng đã giải thể.",
+    "b": "Phải được sự đồng ý của cá nhân, tổ chức kế thừa quyền, nghĩa vụ của Công ty X đó.",
+    "c": "Ông Bình phải xin văn bản xác nhận đồng ý của Sở Tư pháp thì văn phòng công chứng mới được cấp.",
+    "d": "Văn phòng công chứng tự động cấp ngay cho ông Bình mà không cần bất kỳ sự đồng ý nào vì pháp nhân cũ đã không còn tồn tại.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Đoạn 2 Khoản 1 Điều 69 Luật Công chứng: ...trường hợp người yêu cầu công chứng là cá nhân đã chết hoặc bị Tòa án tuyên bố là đã chết hoặc pháp nhân chấm dứt hoạt động thì phải được sự đồng ý của người thừa kế đối với cá nhân, sự đồng ý của cá nhân, tổ chức kế thừa quyền, nghĩa vụ của pháp nhân đó."
+  },
+  {
+    "question": "Theo Luật Công chứng, nhóm khoản tiền nào sau đây cấu thành nên 'Phí công chứng' và người dân bắt buộc phải nộp phí này theo quy định của pháp luật về phí, lệ phí?",
+    "a": "Phí soạn thảo văn bản, phí dịch thuật và phí công chứng ngoài trụ sở.",
+    "b": "Phí công chứng giao dịch, phí nhận lưu giữ di chúc và phí cấp bản sao văn bản công chứng.",
+    "c": "Phí niêm yết thừa kế, phí xác minh tài sản và phí giám định chữ ký.",
+    "d": "Phí khai thác dữ liệu dân cư, phí đánh máy và phí in ấn hồ sơ.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 1 Điều 70 Luật Công chứng: Phí công chứng bao gồm phí công chứng giao dịch, phí nhận lưu giữ di chúc, phí cấp bản sao văn bản công chứng. Người yêu cầu công chứng giao dịch, gửi giữ di chúc, cấp bản sao văn bản công chứng phải nộp phí công chứng."
+  },
+  {
+    "question": "Phân tích quy trình kê biên, khám xét trụ sở của tổ chức hành nghề công chứng: Để đảm bảo bí mật hồ sơ công chứng và tính tôn nghiêm của hoạt động bổ trợ tư pháp, cơ quan tiến hành tố tụng khi thực hiện việc kê biên, khám xét bắt buộc phải có sự chứng kiến của các thành phần nào theo Luật Công chứng?",
+    "a": "Đại diện Ủy ban nhân dân cấp tỉnh và đại diện Đoàn luật sư địa phương.",
+    "b": "Đại diện Sở Tư pháp và đại diện Hội công chứng viên tại địa phương.",
+    "c": "Đại diện Bộ Tư pháp và đại diện Viện kiểm sát nhân dân tối cao.",
+    "d": "Đại diện Cục Thi hành án dân sự và đại diện Cơ quan quản lý hành chính về trật tự xã hội.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 4 Điều 68 Luật Công chứng: Việc kê biên, khám xét trụ sở của tổ chức hành nghề công chứng phải thực hiện theo quy định của pháp luật và có sự chứng kiến của đại diện Sở Tư pháp, đại diện Hội công chứng viên tại địa phương."
+  },
+  {
+    "question": "Theo Luật Công chứng, đối với chi phí phát sinh khi tổ chức hành nghề công chứng tiến hành niêm yết việc tiếp nhận công chứng văn bản phân chia di sản thừa kế, nguyên tắc xác định mức chi phí này được luật định như thế nào?",
+    "a": "Áp dụng theo mức giá cố định 200.000 đồng/hồ sơ nộp về ngân sách xã.",
+    "b": "Do người yêu cầu công chứng và tổ chức hành nghề công chứng tự thỏa thuận với nhau.",
+    "c": "Thu theo biểu giá tối đa do Ủy ban nhân dân cấp huyện ban hành hàng năm.",
+    "d": "Người dân được miễn hoàn toàn khoản chi phí này, tổ chức hành nghề công chứng phải tự chi trả.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Điểm c Khoản 1 và Khoản 2 Điều 72 Luật Công chứng: Chi phí niêm yết việc tiếp nhận công chứng văn bản phân chia di sản là một loại 'Chi phí khác'. Mức chi phí này do người yêu cầu công chứng và tổ chức hành nghề công chứng thỏa thuận."
+  },
+  {
+    "question": "Theo Luật Công chứng, nhận định nào sau đây ĐÚNG về nghĩa vụ giải thích của tổ chức hành nghề công chứng đối với khách hàng về các khoản chi phí liên quan đến việc công chứng?",
+    "a": "Chỉ giải thích khi khách hàng có khiếu nại bằng văn bản gửi đến Trưởng văn phòng.",
+    "b": "Tổ chức hành nghề công chứng phải niêm yết nguyên tắc tính chi phí khác và có trách nhiệm giải thích rõ cho người yêu cầu công chứng về các chi phí cụ thể đó.",
+    "c": "Không cần giải thích vì tất cả các mức phí đã được đăng tải công khai trên Cổng thông tin điện tử của Sở Tư pháp.",
+    "d": "Chỉ cần giải thích tổng số tiền ghi trên hóa đơn tài chính khi hoàn tất quy trình trả hồ sơ.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 3 Điều 72 Luật Công chứng quy định rõ: Tổ chức hành nghề công chứng phải niêm yết nguyên tắc tính chi phí khác và có trách nhiệm giải thích rõ cho người yêu cầu công chứng về các chi phí cụ thể đó."
+  },
+{
+    "question": "Theo Luật Công chứng, trong hồ sơ yêu cầu công chứng, trường hợp người yêu cầu công chứng đã đăng ký chữ ký mẫu tại tổ chức hành nghề công chứng thì công chứng viên xử lý quy trình lưu giữ hình ảnh chứng kiến như thế nào?",
+    "a": "Vẫn bắt buộc phải chụp ảnh người yêu cầu công chứng đang ký vào văn bản công chứng để lưu hồ sơ.",
+    "b": "Được miễn trừ việc lưu ảnh người yêu cầu công chứng ký văn bản công chứng trước sự chứng kiến của công chứng viên trong hồ sơ công chứng.",
+    "c": "Bắt buộc phải quay video clip ghi âm, ghi hình quá trình ký thay cho việc chụp ảnh.",
+    "d": "Chỉ được miễn chụp ảnh nếu người yêu cầu công chứng là người từ đủ 65 tuổi trở lên.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 1 Điều 67 Luật Công chứng 2024: Hồ sơ công chứng bao gồm... ảnh người yêu cầu công chứng ký văn bản công chứng trước sự chứng kiến của công chứng viên, trừ trường hợp đã đăng ký chữ ký mẫu tại tổ chức hành nghề công chứng quy định tại khoản 2 Điều 50 của Luật này."
+  },
+  {
+    "question": "Phân tích trường hợp bàn giao kho lưu trữ: Văn phòng công chứng X bị giải thể và hoàn toàn không còn khả năng thanh toán kinh phí phát sinh cho việc lưu trữ hồ sơ công chứng. Theo quy định, nguồn kinh phí để bảo đảm cho việc lưu trữ hồ sơ này lúc này do đâu chi trả?",
+    "a": "Do Hội công chứng viên toàn quốc trích từ quỹ dự phòng bắt buộc.",
+    "b": "Do các tổ chức hành nghề công chứng khác trên cùng địa bàn cấp huyện đóng góp chia đều.",
+    "c": "Do ngân sách địa phương bảo đảm.",
+    "d": "Do chính các khách hàng có hồ sơ lưu trữ trong kho đóng góp khi đến xin cấp bản sao.",
+    "answer": "c",
+    "explanation": "Căn cứ theo Đoạn 2 Khoản 5 Điều 68 Luật Công chứng 2024: ...nếu tổ chức hành nghề công chứng bị giải thể hoặc chấm dứt hoạt động không còn khả năng thanh toán kinh phí lưu trữ hồ sơ công chứng thì kinh phí này do ngân sách địa phương bảo đảm."
+  },
+  {
+    "question": "Theo Luật Công chứng, đối với Cơ sở dữ liệu công chứng của địa phương, trách nhiệm ban hành quy chế quản lý, cập nhật, khai thác, sử dụng và chia sẻ nguồn dữ liệu này thuộc về cơ quan nào?",
+    "a": "Sở Tư pháp phối hợp với Sở Thông tin và Truyền thông.",
+    "b": "Ủy ban nhân dân cấp tỉnh.",
+    "c": "Cục Bổ trợ tư pháp thuộc Bộ Tư pháp.",
+    "d": "Hội công chứng viên tại địa phương.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 3 Điều 66 Luật Công chứng 2024: Ủy ban nhân dân cấp tỉnh có trách nhiệm xây dựng cơ sở dữ liệu công chứng của địa phương; ban hành quy chế quản lý, cập nhật, khai thác, sử dụng, chia sẻ cơ sở dữ liệu công chứng của địa phương."
+  },
+  {
+    "question": "Nhận định nào sau đây ĐÚNG về nguyên tắc xác định thứ tự để đánh số hệ thống hồ sơ công chứng tại một tổ chức hành nghề công chứng?",
+    "a": "Đánh số theo thứ tự bảng chữ cái A-Z dựa trên họ tên của người yêu cầu công chứng.",
+    "b": "Đánh số theo phân loại nhóm tài sản (bất động sản xếp trước, động sản xếp sau).",
+    "c": "Đánh số theo thứ tự thời gian phù hợp với việc ghi trong sổ công chứng.",
+    "d": "Đánh số ngẫu nhiên do phần mềm quản lý dữ liệu tự động thiết lập hàng ngày.",
+    "answer": "c",
+    "explanation": "Căn cứ theo Khoản 2 Điều 67 Luật Công chứng 2024 quy định ngắn gọn và bắt buộc: Hồ sơ công chứng phải được đánh số theo thứ tự thời gian phù hợp với việc ghi trong sổ công chứng."
+  },
+{
+    "question": "Theo Luật Công chứng, việc thu thập, khai thác, sử dụng và cung cấp thông tin từ Cơ sở dữ liệu công chứng bắt buộc phải tuân thủ nghiêm ngặt các quy định của pháp luật về lĩnh vực nào sau đây?",
+    "a": "Quy định về bí mật nhà nước độ Tối mật và Tuyệt mật.",
+    "b": "Quy định của pháp luật về bảo vệ đời sống riêng tư, bí mật cá nhân, bí mật gia đình.",
+    "c": "Quy định của Luật An ninh mạng về dữ liệu thô nhóm A.",
+    "d": "Quy định về sở hữu trí tuệ đối với các phần mềm mã nguồn mở của Bộ Tư pháp.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 4 Điều 66 Luật Công chứng: Việc thu thập, khai thác, sử dụng và cung cấp thông tin cơ sở dữ liệu công chứng phải tuân thủ các quy định của pháp luật về bảo vệ đời sống riêng tư, bí mật cá nhân, bí mật gia đình."
+  },
+  {
+    "question": "Phân tích trường hợp cấp bản sao văn bản công chứng: Người yêu cầu công chứng ban đầu là ông Minh (cá nhân) đã qua đời. Hiện tại, ngân hàng (bên nhận thế chấp trong hợp đồng cũ) đến yêu cầu tổ chức hành nghề công chứng cấp bản sao văn bản công chứng để xử lý nợ. Quy trình lúc này được luật định như thế nào?",
+    "a": "Tổ chức hành nghề công chứng tự động cấp ngay cho ngân hàng vì ngân hàng là một bên trong giao dịch.",
+    "b": "Bắt buộc phải được sự đồng ý của người thừa kế của ông Minh.",
+    "c": "Phải chờ có quyết định mở thừa kế của Tòa án thì mới được quyền xem xét cấp bản sao.",
+    "d": "Chỉ được cấp bản sao khi có sự đồng ý bằng văn bản của tất cả các đồng nghiệp cùng cơ quan cũ của ông Minh.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 1 Điều 69 Luật Công chứng: ...trường hợp người yêu cầu công chứng là cá nhân đã chết hoặc bị Tòa án tuyên bố là đã chết... thì phải được sự đồng ý của người thừa kế đối với cá nhân."
+  },
+  {
+    "question": "Theo Luật Công chứng, đối với các khoản phí, giá dịch vụ theo yêu cầu liên quan đến việc công chứng (như soạn thảo, đánh máy, sao chụp...), trách nhiệm của tổ chức hành nghề công chứng được quy định như thế nào trước khi thực hiện cho khách hàng?",
+    "a": "Chỉ cần in hóa đơn và thu tiền sau khi đã hoàn thành toàn bộ hồ sơ.",
+    "b": "Có trách nhiệm giải thích rõ cho người yêu cầu công chứng về phí, giá dịch vụ theo yêu cầu liên quan đến việc công chứng.",
+    "c": "Báo cáo tổng số tiền dự kiến thu về cho Sở Tư pháp thông qua phần mềm trực tuyến trước khi ký.",
+    "d": "Khách hàng phải tự tra cứu trên bảng niêm yết, văn phòng không có nghĩa vụ phải giải thích thêm.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 3 Điều 71 Luật Công chứng quy định rõ nghĩa vụ chủ động của văn phòng: Tổ chức hành nghề công chứng có trách nhiệm giải thích rõ cho người yêu cầu công chứng về phí, giá dịch vụ theo yêu cầu liên quan đến việc công chứng quy định tại Điều này."
+  },
+{
+    "question": "Theo Luật Công chứng, khi một tổ chức hành nghề công chứng thực hiện việc sửa lỗi kỹ thuật đối với văn bản công chứng hợp đồng ủy quyền hai bên ở hai nơi khác nhau, mốc thời gian để hoàn thành nghĩa vụ thông báo cho tổ chức còn lại được tính theo đơn vị nào sau đây?",
+    "a": "03 ngày kể cả ngày nghỉ lễ và chủ nhật.",
+    "b": "03 ngày làm việc kể từ ngày hoàn thành việc sửa lỗi kỹ thuật.",
+    "c": "48 giờ kể từ thời điểm công chứng viên ký số đính chính.",
+    "d": "05 ngày làm việc kể từ ngày nhận được yêu cầu của khách hàng.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 3 Điều 57 và đối chiếu quy trình tại Chương V Luật Công chứng, mốc thời gian thông báo sửa lỗi kỹ thuật giữa hai văn phòng công chứng được tính chính xác là '03 ngày làm việc', loại trừ các ngày nghỉ thứ Bảy, Chủ Nhật và ngày lễ theo quy định pháp luật lao động."
+  },
+  {
+    "question": "Theo Luật Công chứng, đối với các loại giao dịch không có đối tượng là bất động sản (ví dụ: hợp đồng ủy quyền, hợp đồng mua bán xe máy, văn bản từ chối nhận di sản...), thời hạn tối thiểu mà tổ chức hành nghề công chứng bắt buộc phải lưu trữ hồ sơ tại trụ sở là bao lâu?",
+    "a": "Ít nhất 05 năm kể từ ngày văn bản công chứng có hiệu lực.",
+    "b": "Ít nhất 10 năm kể từ ngày văn bản công chứng có hiệu lực.",
+    "c": "Ít nhất 20 năm kể từ ngày các bên hoàn thành nghĩa vụ giao dịch.",
+    "d": "Ít nhất 30 năm kể từ ngày ghi sổ công chứng.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Khoản 2 Điều 68 Luật Công chứng: Hồ sơ công chứng phải được lưu trữ tại trụ sở của tổ chức hành nghề công chứng trong thời hạn ít nhất 30 năm đối với các giao dịch có đối tượng là bất động sản, ít nhất 10 năm đối với các loại giao dịch khác kể từ ngày văn bản công chứng có hiệu lực."
+  },
+  {
+    "question": "Phân tích quy định về quản lý tài khoản công chứng điện tử: Một công chứng viên có tài khoản thực hiện công chứng điện tử nhưng đã ngừng hành nghề công chứng liên tục từ 12 tháng trở lên. Mốc thời gian hoặc điều kiện nào sau đây sẽ làm căn cứ để cơ quan quản lý tiến hành khóa hoặc thu hồi tài khoản này theo quy định chi tiết của Luật Công chứng?",
+    "a": "Tài khoản tự động bị khóa vĩnh viễn ngay sau 03 tháng không phát sinh giao dịch ký số.",
+    "b": "Bị xem xét xử lý theo các điều khoản quy định chi tiết của Chính phủ căn cứ vào lộ trình và tình hình quản lý vận hành từng thời kỳ.",
+    "c": "Tài khoản chỉ bị khóa khi công chứng viên bị áp dụng hình thức xử phạt tước quyền sử dụng thẻ công chứng viên.",
+    "d": "Sở Tư pháp tiến hành xóa bỏ hoàn toàn dữ liệu tài khoản trong vòng 07 ngày làm việc kể từ ngày công chứng viên nộp đơn xin nghỉ việc.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Đoạn 2 Khoản 2 Điều 62 Luật Công chứng: 'Chính phủ quy định chi tiết Điều 63 và Điều 64 của Luật này' (bao gồm các quy định chi tiết về điều kiện kỹ thuật, tài khoản công chứng điện tử, chữ ký số và dấu thời gian của công chứng viên và tổ chức hành nghề công chứng)."
+  },
+ {
     "question": "Theo Luật Công chứng, đối với hợp đồng thế chấp bất động sản đã được công chứng lần đầu, các hợp đồng thế chấp tiếp theo đối với chính bất động sản đó phải được thực hiện tại tổ chức hành nghề công chứng nào?",
     "a": "Bất kỳ tổ chức hành nghề công chứng nào trên địa bàn cấp tỉnh nơi có bất động sản.",
     "b": "Bắt buộc phải là Phòng Công chứng nhà nước để đảm bảo tính khách quan tối cao.",
