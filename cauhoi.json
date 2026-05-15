@@ -1,4 +1,363 @@
-[
+[ {
+    "question": "Văn phòng công chứng A đã mua bảo hiểm trách nhiệm nghề nghiệp cho công chứng viên với thời hạn 03 năm. Theo quy định, hợp đồng này:",
+    "a": "Hợp pháp vì do các bên tự thỏa thuận",
+    "b": "Hợp pháp nếu doanh nghiệp bảo hiểm đồng ý",
+    "c": "Không hợp pháp vì thấp hơn thời hạn tối thiểu",
+    "d": "Chỉ hợp pháp nếu được Bộ Tư pháp chấp thuận",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 29 Nghị định 104/2025/NĐ-CP, thời hạn bảo hiểm tối thiểu là 05 năm kể từ ngày hợp đồng bảo hiểm có hiệu lực."
+  },
+  {
+    "question": "Theo quy định, mức khấu trừ tối thiểu trong hợp đồng bảo hiểm trách nhiệm nghề nghiệp công chứng là:",
+    "a": "500 nghìn đồng/trường hợp",
+    "b": "01 triệu đồng/trường hợp",
+    "c": "02 triệu đồng/trường hợp",
+    "d": "05 triệu đồng/trường hợp",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 31 Nghị định 104/2025/NĐ-CP, mức khấu trừ tối thiểu là 02 triệu đồng cho một trường hợp bồi thường bảo hiểm."
+  },
+  {
+    "question": "CCV A thực hiện công chứng trong thời gian bị tạm đình chỉ hành nghề, gây thiệt hại cho người yêu cầu công chứng. Doanh nghiệp bảo hiểm:",
+    "a": "Phải bồi thường toàn bộ",
+    "b": "Chỉ bồi thường 50%",
+    "c": "Không phải bồi thường",
+    "d": "Chỉ bồi thường nếu thiệt hại nhỏ hơn mức bảo hiểm",
+    "answer": "c",
+    "explanation": "Theo điểm b khoản 2 Điều 28 Nghị định 104/2025/NĐ-CP, doanh nghiệp bảo hiểm không có trách nhiệm bồi thường đối với thiệt hại do công chứng viên thực hiện công chứng trong thời gian bị tạm đình chỉ hành nghề hoặc tổ chức hành nghề công chứng tạm ngừng hoạt động."
+  },
+  {
+    "question": "Khi có yêu cầu bồi thường thiệt hại, tổ chức hành nghề công chứng có trách nhiệm nào sau đây?",
+    "a": "Chỉ thông báo cho Sở Tư pháp",
+    "b": "Chủ động thu thập và cung cấp tài liệu cho doanh nghiệp bảo hiểm",
+    "c": "Chỉ chờ Tòa án giải quyết",
+    "d": "Không cần phối hợp với doanh nghiệp bảo hiểm",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 1 Điều 33 Nghị định 104/2025/NĐ-CP, tổ chức hành nghề công chứng có trách nhiệm chủ động thu thập và cung cấp cho doanh nghiệp bảo hiểm các tài liệu trong hồ sơ bồi thường bảo hiểm."
+  },
+  {
+    "question": "Hợp đồng bảo hiểm trách nhiệm nghề nghiệp chấm dứt hiệu lực trong trường hợp nào sau đây?",
+    "a": "Công chứng viên nghỉ phép dài hạn",
+    "b": "Tổ chức hành nghề công chứng giải thể",
+    "c": "Công chứng viên thay đổi nơi hành nghề",
+    "d": "Hội công chứng viên bị giải thể",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 34 Nghị định 104/2025/NĐ-CP, hợp đồng bảo hiểm chấm dứt hiệu lực kể từ thời điểm tổ chức hành nghề công chứng có quyết định giải thể hoặc bị thu hồi giấy đăng ký hoạt động."
+  },
+  {
+    "question": "Sau khi hợp đồng bảo hiểm chấm dứt do Văn phòng công chứng bị giải thể, doanh nghiệp bảo hiểm:",
+    "a": "Không phải hoàn lại phí bảo hiểm",
+    "b": "Chỉ hoàn phí nếu có yêu cầu của Bộ Tư pháp",
+    "c": "Có trách nhiệm hoàn phần phí tương ứng thời hạn còn lại",
+    "d": "Chỉ hoàn lại tối đa 50%",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 34 Nghị định 104/2025/NĐ-CP, doanh nghiệp bảo hiểm có trách nhiệm hoàn phí bảo hiểm tương ứng với thời hạn còn lại của hợp đồng, trừ trường hợp các bên có thỏa thuận khác."
+  },
+  {
+    "question": "Trong hồ sơ bồi thường bảo hiểm, tài liệu nào sau đây là bắt buộc?",
+    "a": "Biên bản họp Hội công chứng viên",
+    "b": "Văn bản yêu cầu bồi thường bảo hiểm",
+    "c": "Ý kiến của Bộ Tư pháp",
+    "d": "Biên bản kiểm tra thuế",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 1 Điều 35 Nghị định 104/2025/NĐ-CP, hồ sơ bồi thường bảo hiểm phải bao gồm văn bản yêu cầu bồi thường bảo hiểm."
+  },
+  {
+    "question": "Hội công chứng viên tại địa phương hoạt động theo nguyên tắc nào sau đây?",
+    "a": "Vì lợi nhuận",
+    "b": "Tự quản, công khai, minh bạch, phi lợi nhuận",
+    "c": "Do Nhà nước bảo đảm toàn bộ kinh phí",
+    "d": "Hoạt động như cơ quan hành chính nhà nước",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 36 Nghị định 104/2025/NĐ-CP, Hội công chứng viên được tổ chức và hoạt động theo nguyên tắc tự quản, công khai, minh bạch, phi lợi nhuận."
+  },
+  {
+    "question": "Cơ quan lãnh đạo cao nhất của Hội công chứng viên là:",
+    "a": "Ban chấp hành Hội công chứng viên",
+    "b": "Hội đồng khen thưởng, kỷ luật",
+    "c": "Đại hội toàn thể công chứng viên",
+    "d": "Sở Tư pháp",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 37 Nghị định 104/2025/NĐ-CP, Đại hội toàn thể công chứng viên là cơ quan lãnh đạo cao nhất của Hội công chứng viên."
+  },
+  {
+    "question": "Hiệp hội công chứng viên Việt Nam có quyền nào sau đây?",
+    "a": "Ban hành luật về công chứng",
+    "b": "Ban hành Quy tắc đạo đức hành nghề công chứng",
+    "c": "Bổ nhiệm công chứng viên",
+    "d": "Thu hồi thẻ công chứng viên",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 41 Nghị định 104/2025/NĐ-CP, Hiệp hội công chứng viên Việt Nam có nhiệm vụ ban hành Quy tắc đạo đức hành nghề công chứng."
+  },
+  {
+    "question": "Theo quy định, Hội công chứng viên không được:",
+    "a": "Tổ chức bồi dưỡng nghiệp vụ",
+    "b": "Ban hành quy định trái pháp luật và Điều lệ Hiệp hội công chứng viên Việt Nam",
+    "c": "Giám sát hội viên",
+    "d": "Giải quyết khiếu nại, tố cáo",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 36 Nghị định 104/2025/NĐ-CP, Hội công chứng viên không được ban hành nghị quyết, quyết định, nội quy, quy định trái với pháp luật và Điều lệ Hiệp hội công chứng viên Việt Nam."
+  },
+  {
+    "question": "Điều lệ Hiệp hội công chứng viên Việt Nam có hiệu lực từ thời điểm nào?",
+    "a": "Ngày Đại hội thông qua",
+    "b": "Ngày Bộ trưởng Bộ Nội vụ chấp thuận",
+    "c": "Ngày được phê duyệt",
+    "d": "Sau 15 ngày kể từ ngày công bố",
+    "answer": "c",
+    "explanation": "Theo khoản 6 Điều 42 Nghị định 104/2025/NĐ-CP, Điều lệ Hiệp hội công chứng viên Việt Nam có hiệu lực kể từ ngày được phê duyệt."
+  },
+  {
+    "question": "Tổ chức hành nghề công chứng và doanh nghiệp bảo hiểm thỏa thuận mức phí bảo hiểm trách nhiệm nghề nghiệp là 2 triệu đồng/năm cho mỗi công chứng viên. Theo quy định, thỏa thuận này:",
+    "a": "Hợp pháp nếu hai bên đồng ý",
+    "b": "Hợp pháp nếu được Sở Tư pháp chấp thuận",
+    "c": "Không hợp pháp vì thấp hơn mức tối thiểu",
+    "d": "Chỉ áp dụng với Phòng công chứng",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 30 Nghị định 104/2025/NĐ-CP, mức phí bảo hiểm không được thấp hơn 03 triệu đồng/năm cho một công chứng viên."
+  },
+  {
+    "question": "Tổ chức hành nghề công chứng phải mua bảo hiểm trách nhiệm nghề nghiệp cho công chứng viên chậm nhất vào thời điểm nào?",
+    "a": "Trong 30 ngày kể từ ngày được bổ nhiệm",
+    "b": "Trong 45 ngày kể từ ngày được cấp thẻ công chứng viên",
+    "c": "Trong 60 ngày kể từ ngày được cấp thẻ công chứng viên",
+    "d": "Trước ngày bắt đầu hành nghề",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 30 Nghị định 104/2025/NĐ-CP, tổ chức hành nghề công chứng có trách nhiệm mua bảo hiểm trách nhiệm nghề nghiệp chậm nhất là 60 ngày kể từ ngày công chứng viên được cấp thẻ công chứng viên."
+  },
+  {
+    "question": "Kinh phí mua bảo hiểm trách nhiệm nghề nghiệp của công chứng viên tại Văn phòng công chứng được tính vào:",
+    "a": "Ngân sách địa phương",
+    "b": "Quỹ hỗ trợ tư pháp",
+    "c": "Chi phí hoạt động của Văn phòng công chứng",
+    "d": "Quỹ bồi thường của Hiệp hội công chứng viên Việt Nam",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 30 Nghị định 104/2025/NĐ-CP, kinh phí mua bảo hiểm trách nhiệm nghề nghiệp của công chứng viên của Văn phòng công chứng được tính vào chi phí hoạt động của Văn phòng công chứng."
+  },
+  {
+    "question": "Tình huống: Công chứng viên A vô ý xác nhận thiếu một trang trong hợp đồng thế chấp dẫn đến thiệt hại cho ngân hàng. Thiệt hại phát sinh trong thời gian hợp đồng bảo hiểm còn hiệu lực và không thuộc trường hợp loại trừ. Doanh nghiệp bảo hiểm sẽ:",
+    "a": "Không bồi thường vì lỗi thuộc công chứng viên",
+    "b": "Bồi thường cho tổ chức hành nghề công chứng trong phạm vi trách nhiệm bảo hiểm",
+    "c": "Chỉ bồi thường nếu có bản án của Tòa án",
+    "d": "Chỉ bồi thường cho ngân hàng trực tiếp",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 32 Nghị định 104/2025/NĐ-CP, trong phạm vi giới hạn trách nhiệm bảo hiểm, doanh nghiệp bảo hiểm phải bồi thường cho tổ chức hành nghề công chứng khoản tiền mà tổ chức này đã hoặc sẽ phải bồi thường cho người bị thiệt hại."
+  },
+  {
+    "question": "Theo quy định, cơ quan nào chủ trì phối hợp với Sở Nội vụ giúp UBND cấp tỉnh thực hiện quản lý nhà nước về tổ chức và hoạt động của Hội công chứng viên tại địa phương?",
+    "a": "Bộ Tư pháp",
+    "b": "Hiệp hội công chứng viên Việt Nam",
+    "c": "Sở Tư pháp",
+    "d": "Ban chấp hành Hội công chứng viên",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 36 Nghị định 104/2025/NĐ-CP, Sở Tư pháp chủ trì, phối hợp với Sở Nội vụ giúp UBND cấp tỉnh thực hiện quản lý nhà nước về tổ chức và hoạt động của Hội công chứng viên tại địa phương."
+  },
+  {
+    "question": "Tình huống: Hội công chứng viên tỉnh X ban hành quy định bắt buộc mỗi công chứng viên phải nộp thêm một khoản thu ngoài Điều lệ Hiệp hội công chứng viên Việt Nam. Quy định này:",
+    "a": "Hợp pháp nếu được đa số hội viên đồng ý",
+    "b": "Hợp pháp nếu Sở Tư pháp không phản đối",
+    "c": "Không phù hợp quy định pháp luật",
+    "d": "Chỉ áp dụng với hội viên mới",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 36 Nghị định 104/2025/NĐ-CP, Hội công chứng viên không được ban hành quy định về phí, khoản thu và các quy định khác trái với pháp luật và Điều lệ Hiệp hội công chứng viên Việt Nam."
+  },
+  {
+    "question": "Cơ quan nào của Hội công chứng viên được bầu theo nhiệm kỳ của Ban chấp hành Hội công chứng viên?",
+    "a": "Đại hội toàn thể công chứng viên",
+    "b": "Hội đồng khen thưởng, kỷ luật",
+    "c": "Sở Tư pháp",
+    "d": "Ban Thường vụ Hiệp hội công chứng viên Việt Nam",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 37 Nghị định 104/2025/NĐ-CP, Hội đồng khen thưởng, kỷ luật của Hội công chứng viên do Đại hội toàn thể công chứng viên bầu ra theo nhiệm kỳ của Ban chấp hành Hội công chứng viên."
+  },
+  {
+    "question": "Theo quy định, Hội công chứng viên có quyền nào sau đây?",
+    "a": "Thu hồi thẻ công chứng viên",
+    "b": "Khai trừ hội viên",
+    "c": "Bổ nhiệm công chứng viên",
+    "d": "Phê duyệt Điều lệ Hiệp hội công chứng viên Việt Nam",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 38 Nghị định 104/2025/NĐ-CP, Hội công chứng viên có quyền kết nạp, khai trừ hội viên; khen thưởng, xử lý kỷ luật hội viên."
+  },
+  {
+    "question": "Tình huống: Hiệp hội công chứng viên Việt Nam phát hiện Hội công chứng viên tỉnh Y ban hành nghị quyết trái Điều lệ Hiệp hội. Hiệp hội có quyền:",
+    "a": "Trực tiếp giải thể Hội công chứng viên",
+    "b": "Đình chỉ thi hành và yêu cầu sửa đổi, hủy bỏ nghị quyết trái Điều lệ",
+    "c": "Thu hồi giấy đăng ký hoạt động của Văn phòng công chứng",
+    "d": "Bổ nhiệm lại Ban chấp hành Hội công chứng viên",
+    "answer": "b",
+    "explanation": "Theo khoản 8 Điều 41 Nghị định 104/2025/NĐ-CP, Hiệp hội công chứng viên Việt Nam có quyền đình chỉ thi hành và yêu cầu sửa đổi, hủy bỏ nghị quyết, quyết định, quy định của Hội công chứng viên trái với Điều lệ Hiệp hội công chứng viên Việt Nam."
+  },
+  {
+    "question": "Theo quy định, hoạt động của Hiệp hội công chứng viên Việt Nam chịu sự quản lý nhà nước của:",
+    "a": "Chỉ Bộ Tư pháp",
+    "b": "Bộ Tư pháp, Bộ Nội vụ và cơ quan nhà nước có thẩm quyền",
+    "c": "Chỉ Bộ Nội vụ",
+    "d": "UBND cấp tỉnh",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 39 Nghị định 104/2025/NĐ-CP, hoạt động của Hiệp hội công chứng viên Việt Nam chịu sự quản lý nhà nước của Bộ Tư pháp, Bộ Nội vụ và các cơ quan quản lý nhà nước có thẩm quyền."
+  },
+  {
+    "question": "Hội viên của Hiệp hội công chứng viên Việt Nam bao gồm:",
+    "a": "Chỉ các công chứng viên",
+    "b": "Chỉ các Hội công chứng viên",
+    "c": "Các Hội công chứng viên và các công chứng viên",
+    "d": "Các tổ chức hành nghề công chứng",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 39 Nghị định 104/2025/NĐ-CP, hội viên của Hiệp hội công chứng viên Việt Nam bao gồm các Hội công chứng viên và các công chứng viên."
+  },
+  {
+    "question": "Tình huống: Đại hội đại biểu công chứng viên toàn quốc thông qua Điều lệ nhưng nội dung có quy định trái Hiến pháp. Điều lệ sẽ:",
+    "a": "Được phê duyệt nếu đa số đại biểu đồng ý",
+    "b": "Bị từ chối phê duyệt",
+    "c": "Tự động có hiệu lực sau 30 ngày",
+    "d": "Được áp dụng tạm thời",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 4 Điều 42 Nghị định 104/2025/NĐ-CP, Điều lệ Hiệp hội công chứng viên Việt Nam bị từ chối phê duyệt nếu có nội dung trái với quy định của Hiến pháp và pháp luật."
+  },
+  {
+    "question": "Theo quy định, Bộ trưởng Bộ Tư pháp phê duyệt Điều lệ Hiệp hội công chứng viên Việt Nam sau khi có:",
+    "a": "Ý kiến của UBND cấp tỉnh",
+    "b": "Ý kiến thống nhất của Bộ trưởng Bộ Nội vụ",
+    "c": "Đề nghị của Hội công chứng viên địa phương",
+    "d": "Phê duyệt của Chính phủ",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 42 Nghị định 104/2025/NĐ-CP, Bộ trưởng Bộ Tư pháp ban hành quyết định phê duyệt Điều lệ sau khi có ý kiến thống nhất của Bộ trưởng Bộ Nội vụ."
+  },
+  {
+    "question": "Tình huống: Văn phòng công chứng và doanh nghiệp bảo hiểm có thỏa thuận việc tạm ứng bồi thường khi xảy ra thiệt hại. Việc tạm ứng này:",
+    "a": "Không được pháp luật cho phép",
+    "b": "Chỉ thực hiện khi có quyết định của Tòa án",
+    "c": "Được thực hiện theo thỏa thuận giữa các bên",
+    "d": "Chỉ áp dụng với Phòng công chứng",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 32 Nghị định 104/2025/NĐ-CP, trường hợp có thỏa thuận về việc tạm ứng bồi thường thì việc tạm ứng bồi thường được thực hiện theo thỏa thuận đó."
+  },
+  {
+    "question": "Theo quy định, hồ sơ bồi thường bảo hiểm có thể bao gồm quyết định của cơ quan nào?",
+    "a": "UBND cấp xã",
+    "b": "Tòa án",
+    "c": "Hội công chứng viên",
+    "d": "Sở Nội vụ",
+    "answer": "b",
+    "explanation": "Theo điểm d khoản 1 Điều 35 Nghị định 104/2025/NĐ-CP, hồ sơ bồi thường bảo hiểm bao gồm quyết định của Tòa án (nếu có)."
+  },
+  {
+    "question": "Tình huống: Công chứng viên C đã được cấp thẻ công chứng viên nhưng tổ chức hành nghề công chứng đến tháng thứ 4 mới mua bảo hiểm trách nhiệm nghề nghiệp cho C. Tổ chức này:",
+    "a": "Thực hiện đúng thời hạn luật định",
+    "b": "Chỉ vi phạm nếu chưa phát sinh thiệt hại",
+    "c": "Vi phạm quy định về thời hạn mua bảo hiểm",
+    "d": "Không vi phạm nếu đã ký hợp đồng nguyên tắc",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 30 Nghị định 104/2025/NĐ-CP, tổ chức hành nghề công chứng phải mua bảo hiểm trách nhiệm nghề nghiệp chậm nhất là 60 ngày kể từ ngày công chứng viên được cấp thẻ công chứng viên."
+  },
+  {
+    "question": "Theo quy định, Hiệp hội công chứng viên Việt Nam có trách nhiệm nào sau đây?",
+    "a": "Trực tiếp cấp thẻ công chứng viên",
+    "b": "Phối hợp với Bộ Tư pháp tổ chức đào tạo, tập sự hành nghề công chứng",
+    "c": "Quyết định thành lập Phòng công chứng",
+    "d": "Thu hồi giấy đăng ký hoạt động của Văn phòng công chứng",
+    "answer": "b",
+    "explanation": "Theo khoản 5 Điều 41 Nghị định 104/2025/NĐ-CP, Hiệp hội công chứng viên Việt Nam phối hợp với Bộ Tư pháp trong việc tổ chức đào tạo, tập sự hành nghề công chứng."
+  },
+  {
+    "question": "Theo quy định, Điều lệ Hiệp hội công chứng viên Việt Nam được áp dụng:",
+    "a": "Chỉ đối với Hiệp hội công chứng viên Việt Nam",
+    "b": "Chỉ đối với Hội công chứng viên",
+    "c": "Thống nhất đối với Hiệp hội và các Hội công chứng viên",
+    "d": "Chỉ đối với công chứng viên tập sự",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 42 Nghị định 104/2025/NĐ-CP, Điều lệ Hiệp hội công chứng viên Việt Nam được áp dụng thống nhất đối với Hiệp hội công chứng viên Việt Nam và các Hội công chứng viên."
+  },
+  {
+    "question": "Tình huống: Văn phòng công chứng A và doanh nghiệp bảo hiểm đã ký, đóng dấu hợp đồng bảo hiểm nhưng chưa đóng phí bảo hiểm. Hai bên đồng thời có văn bản thỏa thuận hợp đồng có hiệu lực ngay từ ngày ký. Theo quy định, hợp đồng:",
+    "a": "Không có hiệu lực vì chưa đóng phí",
+    "b": "Có hiệu lực do các bên có thỏa thuận khác",
+    "c": "Chỉ có hiệu lực sau 15 ngày",
+    "d": "Vô hiệu toàn bộ",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 34 Nghị định 104/2025/NĐ-CP, hợp đồng bảo hiểm có hiệu lực từ thời điểm các bên ký, đóng dấu và bên mua đóng phí bảo hiểm, trừ trường hợp các bên có thỏa thuận khác."
+  },
+  {
+    "question": "Theo quy định, doanh nghiệp bảo hiểm bồi thường cho chủ thể nào trong bảo hiểm trách nhiệm nghề nghiệp công chứng?",
+    "a": "Người bị thiệt hại",
+    "b": "Sở Tư pháp",
+    "c": "Tổ chức hành nghề công chứng",
+    "d": "Công chứng viên gây thiệt hại",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 32 Nghị định 104/2025/NĐ-CP, doanh nghiệp bảo hiểm bồi thường cho tổ chức hành nghề công chứng khoản tiền mà tổ chức này đã hoặc sẽ phải bồi thường cho người bị thiệt hại."
+  },
+  {
+    "question": "Tình huống: Công chứng viên A chuyển sang Văn phòng công chứng B hành nghề nhưng chưa được B mua bảo hiểm trách nhiệm nghề nghiệp. Sau đó phát sinh hồ sơ yêu cầu bồi thường liên quan đến lỗi của A tại nơi cũ. Theo quy định:",
+    "a": "Doanh nghiệp bảo hiểm vẫn phải bồi thường",
+    "b": "Chỉ cần nơi cũ tham gia bảo hiểm là đủ",
+    "c": "Không đáp ứng điều kiện để doanh nghiệp bảo hiểm bồi thường theo trường hợp đặc biệt",
+    "d": "Bộ Tư pháp quyết định việc bồi thường",
+    "answer": "c",
+    "explanation": "Theo điểm a khoản 3 Điều 32 Nghị định 104/2025/NĐ-CP, điều kiện để doanh nghiệp bảo hiểm vẫn bồi thường là công chứng viên đang hành nghề tại tổ chức khác và được tổ chức đó mua bảo hiểm trách nhiệm nghề nghiệp."
+  },
+  {
+    "question": "Nội dung nào sau đây bắt buộc phải có trong Điều lệ Hiệp hội công chứng viên Việt Nam?",
+    "a": "Biểu phí công chứng thống nhất toàn quốc",
+    "b": "Tôn chỉ, mục đích và biểu tượng của Hiệp hội",
+    "c": "Danh sách toàn bộ công chứng viên",
+    "d": "Mức lương của Ban Thường vụ",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 2 Điều 42 Nghị định 104/2025/NĐ-CP, Điều lệ Hiệp hội công chứng viên Việt Nam phải có nội dung về tôn chỉ, mục đích và biểu tượng của Hiệp hội."
+  },
+  {
+    "question": "Theo quy định, cơ quan nào là cơ quan điều hành công việc của Hiệp hội công chứng viên Việt Nam giữa hai kỳ họp của Hội đồng công chứng viên toàn quốc?",
+    "a": "Đại hội đại biểu công chứng viên toàn quốc",
+    "b": "Ban Thường vụ Hiệp hội công chứng viên Việt Nam",
+    "c": "Hội đồng khen thưởng, kỷ luật",
+    "d": "Bộ Tư pháp",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 40 Nghị định 104/2025/NĐ-CP, Ban Thường vụ Hiệp hội công chứng viên Việt Nam là cơ quan điều hành công việc của Hiệp hội giữa hai kỳ họp của Hội đồng công chứng viên toàn quốc."
+  },
+  {
+    "question": "Tình huống: Điều lệ Hiệp hội công chứng viên Việt Nam được thông qua đúng trình tự nhưng có một số nội dung trái pháp luật. Bộ trưởng Bộ Tư pháp sẽ:",
+    "a": "Phê duyệt nếu đa số đại biểu đồng ý",
+    "b": "Tạm phê duyệt có điều kiện",
+    "c": "Từ chối phê duyệt",
+    "d": "Chuyển cho Hội công chứng viên địa phương phê duyệt",
+    "answer": "c",
+    "explanation": "Theo điểm a khoản 4 Điều 42 Nghị định 104/2025/NĐ-CP, Điều lệ bị từ chối phê duyệt nếu có nội dung trái với quy định của Hiến pháp và pháp luật."
+  },
+  {
+    "question": "Theo quy định, Hiệp hội công chứng viên Việt Nam phải báo cáo Bộ Tư pháp về nội dung nào sau đây?",
+    "a": "Kế hoạch tuyển dụng công chức địa phương",
+    "b": "Đề án tổ chức Đại hội nhiệm kỳ",
+    "c": "Danh sách người yêu cầu công chứng",
+    "d": "Toàn bộ hợp đồng công chứng đã thực hiện",
+    "answer": "b",
+    "explanation": "Theo khoản 9 Điều 41 Nghị định 104/2025/NĐ-CP, Hiệp hội công chứng viên Việt Nam có trách nhiệm báo cáo Bộ Tư pháp về Đề án tổ chức Đại hội nhiệm kỳ, Đại hội bất thường và các nội dung liên quan."
+  },
+  {
+    "question": "Tình huống: Hội công chứng viên tỉnh X ban hành nội quy trái Điều lệ Hiệp hội công chứng viên Việt Nam. Hiệp hội công chứng viên Việt Nam có quyền:",
+    "a": "Trực tiếp giải thể Hội công chứng viên",
+    "b": "Đình chỉ thi hành và yêu cầu sửa đổi, hủy bỏ",
+    "c": "Thu hồi thẻ công chứng viên của Chủ tịch Hội",
+    "d": "Khởi tố vụ án hành chính",
+    "answer": "b",
+    "explanation": "Theo khoản 8 Điều 41 Nghị định 104/2025/NĐ-CP, Hiệp hội công chứng viên Việt Nam có quyền đình chỉ thi hành và yêu cầu sửa đổi, hủy bỏ nghị quyết, quyết định, quy định trái Điều lệ."
+  },
+  {
+    "question": "Theo quy định, Hội công chứng viên có tư cách pháp nhân hay không?",
+    "a": "Không có",
+    "b": "Chỉ có nếu được Bộ Tư pháp chấp thuận riêng",
+    "c": "Có tư cách pháp nhân, con dấu và tài khoản riêng",
+    "d": "Chỉ có con dấu nhưng không có tài khoản",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 36 Nghị định 104/2025/NĐ-CP, Hội công chứng viên có tư cách pháp nhân, có con dấu và tài khoản riêng."
+  },
+  {
+    "question": "Theo quy định, Hiệp hội công chứng viên Việt Nam thành lập Quỹ bồi thường thiệt hại nhằm mục đích gì?",
+    "a": "Thay thế hoàn toàn bảo hiểm trách nhiệm nghề nghiệp",
+    "b": "Hỗ trợ bồi thường khi bảo hiểm trách nhiệm nghề nghiệp không đủ bồi thường",
+    "c": "Chi trả lương cho công chứng viên",
+    "d": "Hỗ trợ kinh phí cho Sở Tư pháp",
+    "answer": "b",
+    "explanation": "Theo khoản 6 Điều 41 Nghị định 104/2025/NĐ-CP, Quỹ bồi thường thiệt hại được thành lập để hỗ trợ việc bồi thường thiệt hại trong trường hợp bảo hiểm trách nhiệm nghề nghiệp không đủ bồi thường."
+  },
   {
     "câu hỏi": "Ngân hàng ABC giải ngân khoản vay 500.000 USD cho Công ty Khải Hoàn. Giả sử mục đích vay trong hợp đồng là để công ty chi trả tiền lương cho nhân công và mua sắm vật tư tiêu hao từ các nhà cung cấp nội địa bằng đồng Việt Nam (VND). Dưới góc độ Pháp luật Quản lý Ngoại hối và rủi ro hợp đồng bảo đảm, khẳng định nào sau đây là chính xác?",
     "a": "Giao dịch vay ngoại tệ này hoàn toàn hợp pháp vì Công ty Khải Hoàn sử dụng vốn vay vào hoạt động sản xuất kinh doanh trong nước.",
