@@ -521,6 +521,422 @@
     "answer": "B",
     "explanation": "Điều 11 quy định CCV có trách nhiệm đóng góp vào sự phát triển chung và các hoạt động của tổ chức xã hội - nghề nghiệp."
   },
+  
+  {
+    "question": "Theo Điều 14 Nghị định 207/2025/NĐ-CP, thành phần nào sau đây bắt buộc trong hồ sơ đề nghị mang thai hộ vì mục đích nhân đạo?",
+    "a": "Giấy xác nhận của UBND cấp huyện về việc đồng ý mang thai hộ.",
+    "b": "Đơn đề nghị theo mẫu và thỏa thuận mang thai hộ theo Điều 96 Luật Hôn nhân và Gia đình 2014.",
+    "c": "Cam kết tài chính giữa hai bên có công chứng bắt buộc.",
+    "d": "Giấy xác nhận của gia đình hai bên nội ngoại.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 14 Nghị định 207/2025/NĐ-CP, hồ sơ bắt buộc phải có đơn đề nghị theo mẫu và thỏa thuận mang thai hộ theo Điều 96 Luật Hôn nhân và Gia đình 2014. Pháp luật không yêu cầu xác nhận của UBND về việc đồng ý mang thai hộ hoặc cam kết tài chính."
+  },
+
+  {
+    "question": "Theo Điều 14 Nghị định 207/2025/NĐ-CP, giấy tờ nào chứng minh người mang thai hộ đáp ứng điều kiện bắt buộc về sinh sản?",
+    "a": "Giấy chứng nhận kết hôn của người mang thai hộ.",
+    "b": "Giấy khai sinh của con người mang thai hộ hoặc xác nhận của UBND cấp xã về việc đã từng sinh con.",
+    "c": "Giấy xác nhận thu nhập ổn định của người mang thai hộ.",
+    "d": "Giấy xác nhận sức khỏe tâm thần của người mang thai hộ.",
+    "answer": "b",
+    "explanation": "Căn cứ điểm c khoản 1 Điều 14 Nghị định 207/2025/NĐ-CP, người mang thai hộ phải chứng minh đã từng sinh con bằng giấy khai sinh hoặc giấy chứng sinh hoặc xác nhận của UBND cấp xã nơi cư trú."
+  },
+
+  {
+    "question": "Theo quy trình tại Điều 14 Nghị định 207/2025/NĐ-CP, sau khi nhận đủ hồ sơ, cơ sở y tế phải thực hiện bước nào đầu tiên?",
+    "a": "Ngay lập tức tiến hành chuyển phôi.",
+    "b": "Khám sức khỏe và xác nhận điều kiện sinh sản của cả hai bên.",
+    "c": "Yêu cầu UBND cấp tỉnh phê duyệt hồ sơ.",
+    "d": "Chuyển hồ sơ sang Tòa án nhân dân.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 14 Nghị định 207/2025/NĐ-CP, sau khi nhận đủ hồ sơ, cơ sở y tế phải khám sức khỏe cho cả hai bên và xác nhận điều kiện y khoa trước khi thực hiện kỹ thuật."
+  },
+
+  {
+    "question": "Theo Điều 14 Nghị định 207/2025/NĐ-CP, trường hợp không đủ điều kiện thực hiện mang thai hộ, cơ sở y tế phải xử lý như thế nào?",
+    "a": "Từ chối bằng lời nói.",
+    "b": "Giữ hồ sơ chờ quyết định của Bộ Y tế.",
+    "c": "Trả lời bằng văn bản trong thời hạn 10 ngày và nêu rõ lý do.",
+    "d": "Chuyển sang cơ sở y tế khác.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 4 Điều 14 Nghị định 207/2025/NĐ-CP, nếu không đủ điều kiện thực hiện, cơ sở y tế phải trả lời bằng văn bản trong 10 ngày làm việc và nêu rõ lý do từ chối."
+  },
+  
+{
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, trong trường hợp Tòa án tuyên bố hôn nhân vô hiệu, quan hệ tài sản giữa các bên được giải quyết theo nguyên tắc nào sau đây?",
+    "a": "Chia đôi toàn bộ tài sản như ly hôn.",
+    "b": "Áp dụng quy định về chia tài sản khi ly hôn.",
+    "c": "Áp dụng quy định của Bộ luật dân sự và bảo vệ quyền lợi phụ nữ, con.",
+    "d": "Toàn bộ tài sản thuộc về bên đăng ký kết hôn trước.",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 12 Luật Hôn nhân và gia đình 2014: quan hệ tài sản của các bên được giải quyết theo quy định của Bộ luật dân sự, đồng thời bảo đảm quyền lợi của phụ nữ và con."
+  },
+  {
+    "question": "Cặp vợ chồng A và B nộp hồ sơ đề nghị thực hiện mang thai hộ vì mục đích nhân đạo tại cơ sở y tế được phép. Hồ sơ nào sau đây là bắt buộc theo quy định tại Điều 14 Nghị định 207/2025/NĐ-CP?",
+    "a": "Đơn đề nghị thực hiện kỹ thuật mang thai hộ và hợp đồng bằng miệng giữa các bên.",
+    "b": "Đơn đề nghị theo mẫu, giấy xác nhận quan hệ thân thích hoặc xác nhận UBND cấp xã, giấy tờ chứng minh người mang thai hộ đã từng sinh con, thỏa thuận mang thai hộ bằng văn bản.",
+    "c": "Chỉ cần giấy xác nhận vô sinh của vợ chồng và cam kết tài chính.",
+    "d": "Giấy chứng nhận kết hôn và xác nhận của công an khu vực nơi cư trú.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 14 Nghị định 207/2025/NĐ-CP: Hồ sơ bắt buộc gồm (i) đơn đề nghị theo mẫu; (ii) xác nhận UBND cấp xã hoặc giấy tờ chứng minh quan hệ thân thích; (iii) giấy tờ chứng minh người mang thai hộ đã từng sinh con; (iv) thỏa thuận mang thai hộ vì mục đích nhân đạo theo Điều 96 Luật HN&GĐ 2014."
+  },
+
+  {
+    "question": "Theo quy định tại Điều 14 Nghị định 207/2025/NĐ-CP, trong hồ sơ mang thai hộ vì mục đích nhân đạo, tài liệu nào bắt buộc phải có để chứng minh điều kiện pháp lý giữa các bên?",
+    "a": "Giấy xác nhận độc thân của bên mang thai hộ.",
+    "b": "Thỏa thuận về mang thai hộ vì mục đích nhân đạo được lập thành văn bản theo Luật Hôn nhân và Gia đình.",
+    "c": "Cam kết tài chính giữa hai gia đình.",
+    "d": "Xác nhận của tổ trưởng tổ dân phố.",
+    "answer": "b",
+    "explanation": "Khoản 1 điểm d Điều 14 Nghị định 207/2025/NĐ-CP quy định bắt buộc phải có thỏa thuận về mang thai hộ vì mục đích nhân đạo theo Điều 96 Luật Hôn nhân và Gia đình 2014."
+  },
+
+  {
+    "question": "Sau khi nhận đủ hồ sơ đề nghị mang thai hộ, cơ sở y tế được phép thực hiện kỹ thuật sẽ tiến hành bước nào sau đây theo Điều 14 Nghị định 207/2025/NĐ-CP?",
+    "a": "Ngay lập tức tiến hành cấy phôi nếu các bên đồng ý.",
+    "b": "Chỉ kiểm tra giấy tờ nhân thân mà không cần khám sức khỏe.",
+    "c": "Khám sức khỏe, xác nhận người vợ không thể mang thai và sinh con, xác nhận khả năng mang thai hộ của người mang thai hộ, và tư vấn y tế - tâm lý - pháp lý.",
+    "d": "Chuyển toàn bộ hồ sơ sang UBND cấp xã giải quyết.",
+    "answer": "c",
+    "explanation": "Khoản 2 và khoản 3 Điều 14 Nghị định 207/2025/NĐ-CP quy định cơ sở y tế phải khám sức khỏe, xác nhận tình trạng vô sinh không thể mang thai, đánh giá khả năng mang thai hộ và tư vấn y tế, tâm lý, pháp lý trước khi thực hiện kỹ thuật."
+  },
+
+  {
+    "question": "Trong quá trình giải quyết hồ sơ mang thai hộ, nếu các bên không đủ điều kiện sức khỏe, cơ sở y tế phải xử lý thế nào theo Điều 14 Nghị định 207/2025/NĐ-CP?",
+    "a": "Tự động chuyển sang cơ sở khác thực hiện.",
+    "b": "Tiếp tục thực hiện nếu các bên cam kết chịu trách nhiệm.",
+    "c": "Trả lời bằng văn bản trong 10 ngày làm việc và nêu rõ lý do không đủ điều kiện.",
+    "d": "Giữ hồ sơ và không cần phản hồi.",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 14 Nghị định 207/2025/NĐ-CP quy định: nếu không đủ điều kiện sức khỏe, cơ sở y tế phải trả lời bằng văn bản trong 10 ngày làm việc và nêu rõ lý do."
+  },
+
+  {
+    "question": "Tình huống: Chị A nhờ mang thai hộ cho cặp vợ chồng B. Hồ sơ chỉ có đơn đề nghị và giấy xác nhận vô sinh, chưa có thỏa thuận bằng văn bản. Cơ sở y tế xử lý thế nào là đúng?",
+    "a": "Vẫn được thực hiện vì có xác nhận y tế là đủ.",
+    "b": "Từ chối tiếp nhận vì hồ sơ chưa đủ điều kiện theo Điều 14 Nghị định 207/2025/NĐ-CP.",
+    "c": "Tự bổ sung hợp đồng thay cho các bên.",
+    "d": "Chuyển sang hình thức mang thai hộ thương mại.",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 14 Nghị định 207/2025/NĐ-CP bắt buộc phải có đầy đủ hồ sơ, trong đó có thỏa thuận mang thai hộ bằng văn bản theo Điều 96 Luật HN&GĐ 2014. Thiếu một trong các thành phần thì không đủ điều kiện xử lý."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, trong trường hợp vợ chồng đang ly hôn nhưng chưa có bản án có hiệu lực, thì quan hệ hôn nhân chấm dứt vào thời điểm nào?",
+    "a": "Khi nộp đơn ly hôn.",
+    "b": "Khi Tòa án thụ lý vụ án.",
+    "c": "Khi bản án hoặc quyết định ly hôn có hiệu lực pháp luật.",
+    "d": "Khi hai bên không còn sống chung.",
+    "answer": "c",
+    "explanation": "Theo Điều 57 Luật Hôn nhân và gia đình 2014: hôn nhân chấm dứt khi bản án hoặc quyết định ly hôn của Tòa án có hiệu lực pháp luật."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, ai là người có quyền đại diện cho con chưa thành niên trong trường hợp không có thỏa thuận khác giữa cha mẹ?",
+    "a": "Chỉ người cha.",
+    "b": "Chỉ người mẹ.",
+    "c": "Cả cha và mẹ cùng là người đại diện theo pháp luật.",
+    "d": "Người giám hộ do UBND chỉ định mặc nhiên.",
+    "answer": "c",
+    "explanation": "Theo Điều 69 và Điều 73 Luật Hôn nhân và gia đình 2014: cha mẹ là người đại diện theo pháp luật của con chưa thành niên, trừ trường hợp có quy định khác."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, trường hợp nào sau đây được áp dụng suy đoán pháp lý về cha của con?",
+    "a": "Con sinh ra trước khi đăng ký kết hôn.",
+    "b": "Con sinh ra trong thời kỳ hôn nhân hoặc do người vợ có thai trong thời kỳ hôn nhân.",
+    "c": "Con sinh ra sau khi ly hôn 5 năm.",
+    "d": "Con sinh ra khi cha mẹ không chung sống.",
+    "answer": "b",
+    "explanation": "Theo Điều 88 Luật Hôn nhân và gia đình 2014: con sinh ra trong thời kỳ hôn nhân hoặc do người vợ mang thai trong thời kỳ hôn nhân được suy đoán là con chung."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, trong trường hợp một bên vợ hoặc chồng bị Tòa án tuyên bố mất tích, việc ly hôn được giải quyết như thế nào?",
+    "a": "Không được ly hôn.",
+    "b": "Tự động chấm dứt hôn nhân.",
+    "c": "Có thể yêu cầu Tòa án giải quyết ly hôn theo thủ tục chung.",
+    "d": "Phải chờ đủ 10 năm mới được ly hôn.",
+    "answer": "c",
+    "explanation": "Theo Điều 56 Luật Hôn nhân và gia đình 2014: Tòa án giải quyết ly hôn khi một bên bị tuyên bố mất tích theo yêu cầu của bên còn lại."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, quyền yêu cầu ly hôn của vợ, chồng có bị hạn chế trong trường hợp nào sau đây?",
+    "a": "Khi vợ hoặc chồng đang có tranh chấp tài sản.",
+    "b": "Khi vợ đang mang thai, sinh con hoặc nuôi con dưới 12 tháng tuổi.",
+    "c": "Khi vợ chồng sống riêng.",
+    "d": "Khi hôn nhân dưới 1 năm.",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 51 Luật Hôn nhân và gia đình 2014: chồng không có quyền yêu cầu ly hôn khi vợ đang mang thai, sinh con hoặc nuôi con dưới 12 tháng tuổi."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, trường hợp nào sau đây được coi là căn cứ xác định hôn nhân chấm dứt?",
+    "a": "Vợ chồng sống ly thân lâu dài.",
+    "b": "Một bên bỏ đi khỏi nơi cư trú.",
+    "c": "Có bản án hoặc quyết định ly hôn có hiệu lực pháp luật.",
+    "d": "Một bên vi phạm nghĩa vụ chung thủy.",
+    "answer": "c",
+    "explanation": "Theo Điều 57 Luật Hôn nhân và gia đình 2014: hôn nhân chấm dứt khi bản án hoặc quyết định ly hôn có hiệu lực pháp luật."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, việc áp dụng pháp luật đối với quan hệ hôn nhân có yếu tố nước ngoài được thực hiện theo nguyên tắc nào?",
+    "a": "Luôn áp dụng pháp luật Việt Nam.",
+    "b": "Luôn áp dụng pháp luật nước ngoài.",
+    "c": "Ưu tiên thỏa thuận của các bên, nếu không thì áp dụng Luật HN&GĐ và pháp luật liên quan.",
+    "d": "Do Tòa án tùy ý lựa chọn pháp luật áp dụng.",
+    "answer": "c",
+    "explanation": "Theo Điều 122 Luật Hôn nhân và gia đình 2014: quan hệ hôn nhân có yếu tố nước ngoài ưu tiên thỏa thuận, nếu không thì áp dụng pháp luật Việt Nam và điều ước quốc tế liên quan."
+  },
+  {
+    "question": "Nam nữ đủ điều kiện kết hôn nhưng chỉ chung sống như vợ chồng mà không đăng ký kết hôn theo Luật Hôn nhân và gia đình năm 2014 thì hậu quả pháp lý là gì?",
+    "a": "Được công nhận là vợ chồng nếu có con chung.",
+    "b": "Phát sinh đầy đủ quyền và nghĩa vụ vợ chồng.",
+    "c": "Không làm phát sinh quyền, nghĩa vụ giữa vợ và chồng.",
+    "d": "Tự động được công nhận sau thời gian chung sống.",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 14 Luật Hôn nhân và gia đình 2014, nam nữ đủ điều kiện kết hôn nhưng không đăng ký kết hôn thì không làm phát sinh quyền, nghĩa vụ giữa vợ và chồng."
+  },
+  {
+    "question": "Trong chế độ mang thai hộ vì mục đích nhân đạo, điều kiện pháp lý bắt buộc là gì?",
+    "a": "Người mang thai hộ phải được trả thù lao theo thỏa thuận.",
+    "b": "Việc mang thai hộ được thực hiện tự do không cần điều kiện.",
+    "c": "Có xác nhận y tế về việc người vợ không thể mang thai và sinh con ngay cả khi áp dụng kỹ thuật hỗ trợ sinh sản.",
+    "d": "Người mang thai hộ có quyền giữ con sau khi sinh.",
+    "answer": "c",
+    "explanation": "Theo quy định về mang thai hộ vì mục đích nhân đạo tại Luật Hôn nhân và gia đình 2014 và Nghị định 207/2025/NĐ-CP, điều kiện bắt buộc là phải có xác nhận y tế về việc người vợ không thể mang thai và sinh con ngay cả khi áp dụng kỹ thuật hỗ trợ sinh sản."
+  },
+{
+    "question": "Trong trường hợp tài sản được hình thành trong thời kỳ hôn nhân nhưng do một bên tự ý định đoạt và bên kia không biết, giao dịch đó có hiệu lực như thế nào theo Luật Hôn nhân và gia đình 2014?",
+    "a": "Luôn vô hiệu tuyệt đối vì thiếu chữ ký vợ/chồng.",
+    "b": "Có hiệu lực nếu bên thứ ba ngay tình và không biết đó là tài sản chung.",
+    "c": "Luôn có hiệu lực vì người đứng tên có toàn quyền.",
+    "d": "Tự động chuyển thành tài sản riêng của bên ký hợp đồng.",
+    "answer": "b",
+    "explanation": "Theo nguyên tắc bảo vệ người thứ ba ngay tình trong Bộ luật dân sự 2015 kết hợp Luật Hôn nhân và gia đình 2014, giao dịch có thể vẫn có hiệu lực nếu bên thứ ba ngay tình và không biết đó là tài sản chung."
+  },
+    {
+      "question": "Quan hệ hôn nhân có yếu tố nước ngoài được xác định theo Luật Hôn nhân và gia đình 2014 trong trường hợp nào?",
+      "a": "Khi một bên là công dân nước ngoài cư trú tại Việt Nam.",
+      "b": "Khi việc đăng ký kết hôn được thực hiện tại cơ quan nước ngoài.",
+      "c": "Khi ít nhất một bên là người nước ngoài hoặc người Việt Nam định cư ở nước ngoài, hoặc quan hệ được xác lập, thay đổi, chấm dứt theo pháp luật nước ngoài hoặc có tài sản ở nước ngoài.",
+      "d": "Khi hai bên kết hôn tại cơ quan đại diện ngoại giao Việt Nam ở nước ngoài.",
+      "answer": "c",
+      "explanation": "Căn cứ khoản 25 Điều 3 Luật Hôn nhân và gia đình 2014: quan hệ hôn nhân và gia đình có yếu tố nước ngoài là quan hệ có ít nhất một bên là người nước ngoài hoặc người Việt Nam định cư ở nước ngoài, hoặc căn cứ xác lập, thay đổi, chấm dứt quan hệ theo pháp luật nước ngoài, phát sinh ở nước ngoài hoặc có tài sản ở nước ngoài."
+    },
+    {
+      "question": "Theo quy định về đăng ký kết hôn có yếu tố nước ngoài tại Việt Nam, cơ quan nào có thẩm quyền đăng ký kết hôn?",
+      "a": "Ủy ban nhân dân cấp xã nơi cư trú của một trong hai bên.",
+      "b": "Ủy ban nhân dân cấp huyện nơi cư trú của công dân Việt Nam.",
+      "c": "Tòa án nhân dân cấp huyện nơi cư trú của người nước ngoài.",
+      "d": "Bộ Ngoại giao Việt Nam.",
+      "answer": "b",
+      "explanation": "Căn cứ Điều 37 Luật Hộ tịch 2014: Ủy ban nhân dân cấp huyện có thẩm quyền đăng ký kết hôn giữa công dân Việt Nam và người nước ngoài; UBND cấp xã chỉ có thẩm quyền đăng ký kết hôn không có yếu tố nước ngoài."
+    },
+  {
+    "question": "Theo Nghị định số 207/2025/NĐ-CP, cơ sở khám bệnh, chữa bệnh muốn thực hiện kỹ thuật mang thai hộ vì mục đích nhân đạo phải đáp ứng điều kiện nào sau đây về kinh nghiệm?",
+    "a": "Có ít nhất 01 năm kinh nghiệm thực hiện kỹ thuật thụ tinh trong ống nghiệm.",
+    "b": "Có ít nhất 02 năm kinh nghiệm thực hiện kỹ thuật thụ tinh trong ống nghiệm.",
+    "c": "Có ít nhất 03 năm kinh nghiệm thực hiện kỹ thuật thụ tinh trong ống nghiệm.",
+    "d": "Có ít nhất 05 năm kinh nghiệm thực hiện kỹ thuật thụ tinh trong ống nghiệm.",
+    "answer": "b",
+    "explanation": "Căn cứ theo quy định tại Khoản 1 Điều 12 Nghị định số 207/2025/NĐ-CP: Cơ sở y tế phải có ít nhất 02 năm kinh nghiệm thực hiện kỹ thuật thụ tinh trong ống nghiệm, tính từ ngày được Bộ Y tế cho phép áp dụng kỹ thuật này."
+  },
+  {
+    "question": "Nghị định số 207/2025/NĐ-CP quy định tổng số chu kỳ thụ tinh trong ống nghiệm tối thiểu mà một cơ sở y tế phải thực hiện trong mỗi năm (xét trong 02 năm gần nhất) để đủ điều kiện thực hiện mang thai hộ nhân đạo là bao nhiêu?",
+    "a": "Tối thiểu 200 chu kỳ mỗi năm.",
+    "b": "Tối thiểu 300 chu kỳ mỗi năm.",
+    "c": "Tối thiểu 500 chu kỳ mỗi năm.",
+    "d": "Tối thiểu 1000 chu kỳ mỗi năm.",
+    "answer": "c",
+    "explanation": "Căn cứ theo quy định tại Khoản 2 Điều 12 Nghị định số 207/2025/NĐ-CP: Trong 02 năm gần nhất, mỗi năm cơ sở phải thực hiện tối thiểu 500 chu kỳ thụ tinh trong ống nghiệm tại cơ sở."
+  },
+  {
+    "question": "Theo quy định tại Nghị định số 207/2025/NĐ-CP, việc hiến và nhận tinh trùng, phôi giữa các bên được thực hiện dựa trên nguyên tắc cốt lõi nào?",
+    "a": "Nguyên tắc công khai danh tính giữa người hiến và người nhận.",
+    "b": "Nguyên tắc giữ bí mật thông tin (vô danh).",
+    "c": "Nguyên tắc thỏa thuận dân sự có đền bù vật chất giữa hai bên.",
+    "d": "Nguyên tắc ưu tiên người hiến và người nhận có cùng hộ khẩu thường trú.",
+    "answer": "b",
+    "explanation": "Căn cứ theo quy định tại Khoản 3 Điều 3 Nghị định số 207/2025/NĐ-CP: Việc hiến và nhận tinh trùng, noãn, phôi được thực hiện trên nguyên tắc vô danh giữa người hiến và người nhận;(vô danh = các thông tin cá nhân được giữ bí mật tuyệt đối)."
+  },
+  {
+    "question": "Để phòng ngừa rủi ro hôn nhân cận huyết thống trong tương lai, Nghị định số 207/2025/NĐ-CP quy định tinh trùng, noãn hoặc phôi của một người hiến được giới hạn sử dụng như thế nào?",
+    "a": "Chỉ được sử dụng tối đa cho 03 phụ nữ hoặc cặp vợ chồng khác nhau.",
+    "b": "Chỉ được sử dụng tối đa cho 02 phụ nữ hoặc cặp vợ chồng khác nhau.",
+    "c": "Chỉ được sử dụng cho một phụ nữ hoặc một cặp vợ chồng duy nhất.",
+    "d": "Không giới hạn số lượng người nhận nếu người hiến hoàn toàn khỏe mạnh.",
+    "answer": "c",
+    "explanation": "Căn cứ theo quy định tại Khoản 2 Điều 3 Nghị định số 207/2025/NĐ-CP: Tinh trùng, noãn, phôi của người hiến chỉ được sử dụng cho một người duy nhất (vợ trong cặp vợ chồng vô sinh hoặc phụ nữ độc thân). Nếu sinh con không thành công mới được chuyển cho người khác theo quy định cụ thể."
+  },
+  {
+    "question": "Theo các văn bản hướng dẫn hiện hành, điều kiện bắt buộc về mặt tiểu sử sinh sản đối với người phụ nữ nhận mang thai hộ vì mục đích nhân đạo là gì?",
+    "a": "Phải là người chưa từng sinh con để đảm bảo sức khỏe tử cung.",
+    "b": "Phải là người đã từng sinh con.",
+    "c": "Phải là người đang nuôi con nhỏ dưới 12 tháng tuổi.",
+    "d": "Phải là người có từ 2 con trở lên.",
+    "answer": "b",
+    "explanation": "Căn cứ theo quy định tại Điểm b Khoản 3 Điều 95 Luật Hôn nhân và Gia đình năm 2014 (được chi tiết hóa hướng dẫn trong hồ sơ tại Nghị định số 207/2025/NĐ-CP): Người mang thai hộ phải là người đã từng sinh con và chỉ được mang thai hộ một lần."
+  },
+{
+  "question": "Theo quy định về nhận phôi trong kỹ thuật hỗ trợ sinh sản, trường hợp nào sau đây được phép nhận phôi hiến để thực hiện sinh con bằng kỹ thuật hỗ trợ sinh sản?",
+  "a": "Phụ nữ độc thân có noãn bình thường, có khả năng thụ thai tự nhiên.",
+  "b": "Người vợ trong cặp vợ chồng vô sinh do nguyên nhân từ người chồng nhưng vẫn có thể sử dụng noãn của người vợ.",
+  "c": "Phụ nữ độc thân không còn noãn hoặc noãn không còn khả năng sử dụng để thụ thai sau khi đã được thăm khám và xác định bởi cơ sở y tế có thẩm quyền.",
+  "d": "Người đang trong thời kỳ mang thai tự nhiên nhưng muốn sinh đôi bằng kỹ thuật hỗ trợ sinh sản.",
+  "answer": "c",
+  "explanation": "Căn cứ điểm c khoản 3 điều 5 Nghị định 207/2025/NĐ-CP: người được nhận phôi phải thuộc trường hợp không có noãn hoặc không còn khả năng sử dụng noãn để thụ thai, được cơ sở y tế có thẩm quyền xác nhận. Các trường hợp còn lại không thuộc diện được nhận phôi vì vẫn còn khả năng sinh sản bằng noãn của bản thân hoặc không đáp ứng điều kiện y khoa."
+},
+  {
+    "question": "Theo Nghị định 207/2025/NĐ-CP, những ai được xác định là 'người thân thích cùng hàng' của bên vợ hoặc bên chồng nhờ mang thai hộ vì mục đích nhân đạo?",
+    "a": "Bao gồm cha mẹ đẻ, cha mẹ vợ, cha mẹ chồng và con đẻ của họ.",
+    "b": "Bao gồm anh, chị, em cùng cha mẹ, cùng cha khác mẹ, cùng mẹ khác cha; anh, chị, em con chú, con bác, con cô, con cậu, con dì của họ.",
+    "c": "Bao gồm ông bà nội, ông bà ngoại, cô, dì, chú, bác, cậu ruột của họ.",
+    "d": "Bao gồm tất cả những người có quan hệ họ hàng trong phạm vi ba đời.",
+    "answer": "b",
+    "explanation": "Căn cứ theo quy định tại Khoản 5 Điều 2 207/2025/NĐ-CP (Giải thích từ ngữ) của Nghị định: 'Người thân thích cùng hàng của bên vợ hoặc bên chồng nhờ mang thai hộ vì mục đích nhân đạo bao gồm: Anh, chị, em cùng cha mẹ, cùng cha khác mẹ, cùng mẹ khác cha; anh, chị, em con chú, con bác, con cô, con cậu, con dì của họ.'"
+  },
+{
+  "question": "Theo quy định hiện hành về kỹ thuật mang thai hộ vì mục đích nhân đạo, phương án nào sau đây liệt kê ĐÚNG TẤT CẢ các cơ sở y tế được phép thực hiện kỹ thuật này tại Việt Nam?",
+  "a": "Bệnh viện Phụ sản Trung ương, Bệnh viện Trung ương Huế, Bệnh viện Phụ sản Từ Dũ, Bệnh viện Hùng Vương, Bệnh viện Mỹ Đức",
+  "b": "Bệnh viện Phụ sản Trung ương, Bệnh viện Trung ương Huế, Bệnh viện Phụ sản Hà Nội, Bệnh viện Hùng Vương, Bệnh viện Mỹ Đức",
+  "c": "Bệnh viện Phụ sản Trung ương, Bệnh viện Trung ương Huế, Bệnh viện Phụ sản Từ Dũ, Bệnh viện Chợ Rẫy, Bệnh viện Mỹ Đức",
+  "d": "Bệnh viện Phụ sản Trung ương, Bệnh viện Trung ương Huế, Bệnh viện Phụ sản Từ Dũ, Bệnh viện Hùng Vương, Bệnh viện Đại học Y Dược TP.HCM",
+  "answer": "a",
+  "explanation": "Theo danh sách cơ sở y tế được Bộ Y tế cấp phép thực hiện kỹ thuật mang thai hộ vì mục đích nhân đạo tại Việt Nam, chỉ gồm 5 đơn vị: Bệnh viện Phụ sản Trung ương, Bệnh viện Trung ương Huế, Bệnh viện Phụ sản Từ Dũ, Bệnh viện Hùng Vương và Bệnh viện Mỹ Đức. Các phương án còn lại đều chứa cơ sở không thuộc danh sách được phép."
+},
+  {
+    "question": "Trường hợp cặp vợ chồng gửi phôi tại cơ sở lưu giữ nhưng sau đó ly hôn, nếu không có bất kỳ văn bản thỏa thuận hoặc đồng ý nào của hai vợ chồng gửi tới, cơ sở lưu giữ phải xử lý khối phôi đó như thế nào?",
+    "a": "Tiếp tục lưu giữ vô thời hạn cho đến khi các bên có yêu cầu.",
+    "b": "Cơ sở lưu giữ phải hủy phôi đang lưu giữ.",
+    "c": "Chuyển giao khối phôi đó cho người vợ để thực hiện hỗ trợ sinh sản.",
+    "d": "Hiến khối phôi đó cho cơ sở để phục vụ nghiên cứu khoa học.",
+    "answer": "b",
+    "explanation": "Căn cứ theo Điểm a Khoản 3 Điều 9 của Nghị định 207/2025/NĐ-CP quy định về trường hợp cặp vợ chồng gửi phôi đã ly hôn: 'Cơ sở lưu giữ phải hủy phôi đang lưu giữ, trừ trường hợp có văn bản đồng ý của cả hai vợ chồng về việc đề nghị tiếp tục lưu giữ hoặc đề nghị hiến...'"
+  },
+  {
+    "question": "Đối với cơ sở lưu giữ tinh trùng, noãn, phôi, pháp luật quy định họ có quyền hủy mẫu gửi trong trường hợp người gửi không đóng phí lưu giữ, bảo quản sau thời hạn bao lâu?",
+    "a": "Sau thời hạn 03 tháng.",
+    "b": "Sau thời hạn 06 tháng.",
+    "c": "Sau thời hạn 12 tháng.",
+    "d": "Sau thời hạn 24 tháng.",
+    "answer": "b",
+    "explanation": "Căn cứ theo quy định tại Khoản 2 Điều 8 của Nghị định 207/2025/NĐ-CP: 'Trường hợp người gửi không đóng phí lưu giữ, bảo quản thì sau thời hạn 06 tháng, cơ sở lưu giữ tinh trùng, lưu giữ noãn, lưu giữ phôi có quyền hủy tinh trùng hoặc noãn hoặc phôi đã gửi.'"
+  },
+ {
+  "question": "Cặp vợ chồng A và B đều được xác định là vô sinh, trong đó người vợ không có khả năng sử dụng noãn và người chồng không có tinh trùng. Họ đề nghị được nhận phôi hiến để thực hiện kỹ thuật hỗ trợ sinh sản. Theo quy định pháp luật hiện hành, trường hợp này được xử lý như thế nào?",
+  "a": "Không được phép nhận phôi hiến vì pháp luật chỉ cho phép sử dụng giao tử của chính vợ chồng.",
+  "b": "Chỉ được phép nếu có sự đồng ý của gia đình hai bên nội, ngoại.",
+  "c": "Được phép nhận phôi hiến nếu thuộc trường hợp không thể sử dụng giao tử của chính vợ chồng để tạo phôi theo quy định về kỹ thuật hỗ trợ sinh sản.",
+  "d": "Bắt buộc phải có quyết định của Tòa án thì mới được thực hiện.",
+  "answer": "c",
+  "explanation": "Theo Điều 3 Nghị định 207/2025/NĐ-CP : cặp vợ chồng chỉ được nhận phôi hiến trong trường hợp không thể sử dụng giao tử của chính mình để tạo phôi. Trong tình huống này, cả hai bên đều không có giao tử (người vợ không có noãn và người chồng không có tinh trùng) nên thuộc trường hợp được phép nhận phôi hiến theo quy định."
+},
+    {
+      "question": "Phụ nữ độc thân A muốn sinh con bằng kỹ thuật hỗ trợ sinh sản. A vẫn còn noãn bình thường, đủ điều kiện y khoa. Theo quy định, A có được nhận phôi hiến không?",
+      "a": "Có, vì mọi phụ nữ độc thân đều được nhận phôi hiến.",
+      "b": "Không, vì phụ nữ độc thân không thuộc đối tượng được hỗ trợ sinh sản.",
+      "c": "Chỉ được nếu có xác nhận của cơ quan y tế cấp tỉnh.",
+      "d": "Không, nếu còn khả năng sử dụng noãn của chính mình thì không thuộc trường hợp nhận phôi hiến.",
+      "answer": "d",
+      "explanation": "Căn cứ  k3 Nghị định 207/2025/NĐ-CP, việc nhận phôi hiến chỉ áp dụng khi người nhận không có noãn hoặc noãn không bảo đảm chất lượng để thụ thai. Nếu người phụ nữ vẫn còn noãn bình thường thì không thuộc trường hợp được nhận phôi áp dụng k1 đ5."
+    },
+    {
+      "question": "Trong trường hợp pháp luật Việt Nam và pháp luật nước ngoài cùng có thể áp dụng để điều chỉnh quan hệ hôn nhân có yếu tố nước ngoài, nguyên tắc áp dụng pháp luật được xác định như thế nào?",
+      "a": "Luôn ưu tiên áp dụng pháp luật nước ngoài.",
+      "b": "Luôn ưu tiên áp dụng tập quán quốc tế.",
+      "c": "Áp dụng pháp luật Việt Nam nếu quan hệ phát sinh tại Việt Nam, trừ trường hợp luật có quy định khác.",
+      "d": "Tòa án được quyền tự chọn luật bất kỳ.",
+      "answer": "c",
+      "explanation": "Căn cứ Điều 6 Luật Hôn nhân và Gia đình 2014: quan hệ hôn nhân và gia đình được áp dụng theo Bộ luật dân sự và luật có liên quan; trong trường hợp pháp luật không quy định thì áp dụng quy định có liên quan và nguyên tắc ưu tiên pháp luật Việt Nam đối với quan hệ phát sinh trên lãnh thổ Việt Nam."
+    },
+
+    {
+      "question": "Trường hợp nam nữ chung sống như vợ chồng nhưng không đăng ký kết hôn, theo quy định hiện hành, quan hệ hôn nhân có được công nhận không?",
+      "a": "Luôn được công nhận là vợ chồng hợp pháp.",
+      "b": "Không được công nhận quan hệ vợ chồng nhưng có thể giải quyết quyền tài sản và con chung.",
+      "c": "Chỉ được công nhận nếu có con chung.",
+      "d": "Được công nhận nếu có thời gian chung sống trên 5 năm.",
+      "answer": "b",
+      "explanation": "Căn cứ Điều 14 Luật Hôn nhân và Gia đình 2014: nam nữ đủ điều kiện kết hôn nhưng không đăng ký thì không làm phát sinh quyền, nghĩa vụ vợ chồng; quyền về con và tài sản được giải quyết theo luật."
+    },
+{
+  "question": "Người phụ nữ B là người nước ngoài, đang điều trị vô sinh do không có noãn, mong muốn được nhận noãn tại Việt Nam. Theo quy định, B có được nhận noãn không?",
+  "a": "Có, vì mọi người nước ngoài đều được nhận noãn tại Việt Nam nếu điều trị vô sinh.",
+  "b": "Không, vì người nước ngoài không thuộc đối tượng được nhận noãn theo quy định pháp luật Việt Nam.",
+  "c": "Có, nếu có chỉ định của bệnh viện.",
+  "d": "Có, nếu có sự đồng ý của chồng và cơ quan ngoại giao.",
+  "answer": "b",
+  "explanation": "Căn cứ khoản 2 Điều 5 Nghị định 207/2025/NĐ-CP: người nhận noãn phải thuộc một trong các nhóm gồm người Việt Nam, người gốc Việt Nam hoặc người nước ngoài có chồng là người Việt Nam hoặc người gốc Việt Nam. Trường hợp người nước ngoài không thuộc nhóm có điều kiện kèm theo thì không được nhận noãn."
+}, 
+{
+  "question": "Người vợ A là công dân Việt Nam, đang điều trị vô sinh do chồng không có tinh trùng. A yêu cầu được nhận noãn để thực hiện kỹ thuật hỗ trợ sinh sản. Theo quy định, A có được nhận noãn không?",
+  "a": "Có, vì A là công dân Việt Nam nên được nhận noãn trong mọi trường hợp vô sinh.",
+  "b": "Không, vì nguyên nhân vô sinh không thuộc trường hợp người vợ không có noãn hoặc noãn không bảo đảm chất lượng.",
+  "c": "Có, vì đang điều trị vô sinh là đủ điều kiện nhận noãn.",
+  "d": "Có, nếu có xác nhận của cơ sở y tế tuyến tỉnh.",
+  "answer": "b",
+  "explanation": "Căn cứ khoản 2 Điều 5 Nghị định 207/2025/NĐ-CP: điều kiện nhận noãn bắt buộc phải là trường hợp người vợ vô sinh do không có noãn hoặc noãn không bảo đảm chất lượng. Trong tình huống này, nguyên nhân vô sinh là do người chồng nên không đủ điều kiện nhận noãn."
+},
+
+{
+  "question": "Theo quy định về đối tượng được nhận noãn trong kỹ thuật hỗ trợ sinh sản, trường hợp nào sau đây đúng?",
+  "a": "Mọi phụ nữ độc thân đều được nhận noãn nếu có nhu cầu sinh con.",
+  "b": "Người vợ trong cặp vợ chồng vô sinh do nguyên nhân từ chồng đều được nhận noãn.",
+  "c": "Người vợ trong cặp vợ chồng đang điều trị vô sinh mà nguyên nhân do người vợ không có noãn hoặc noãn không bảo đảm chất lượng, đồng thời thuộc nhóm đối tượng được phép theo quy định (người Việt Nam, người gốc Việt Nam, hoặc người nước ngoài có chồng là người Việt Nam/gốc Việt Nam).",
+  "d": "Người nước ngoài cư trú tại Việt Nam đều được nhận noãn nếu có chỉ định y khoa.",
+  "answer": "c",
+  "explanation": "Căn cứ khoản 2 Điều 5 Nghị định 207/2025/NĐ-CP (quy định về đối tượng nhận noãn trong kỹ thuật hỗ trợ sinh sản): người nhận noãn phải là người Việt Nam hoặc người gốc Việt Nam, hoặc người nước ngoài có chồng là người Việt Nam hoặc người gốc Việt Nam, đồng thời phải là người vợ trong cặp vợ chồng điều trị vô sinh mà nguyên nhân do người vợ không có noãn hoặc noãn không bảo đảm chất lượng để thụ thai."
+},
+{
+    "question": "Theo quy định hiện hành, cơ sở y tế nào sau đây được phép thực hiện kỹ thuật mang thai hộ vì mục đích nhân đạo?",
+    "a": "Bệnh viện Bạch Mai",
+    "b": "Bệnh viện Đại học Y Hà Nội",
+    "c": "Bệnh viện Phụ sản Trung ương",
+    "d": "Bệnh viện Chợ Rẫy",
+    "answer": "c",
+    "explanation": "Theo danh sách cơ sở được Bộ Y tế cấp phép thực hiện kỹ thuật mang thai hộ vì mục đích nhân đạo, chỉ một số bệnh viện chuyên ngành sản phụ khoa đủ điều kiện, trong đó có Bệnh viện Phụ sản Trung ương."
+  },
+  {
+    "question": "Người dân tại khu vực miền Trung muốn thực hiện kỹ thuật mang thai hộ hợp pháp có thể thực hiện tại cơ sở nào sau đây?",
+    "a": "Bệnh viện Trung ương Huế",
+    "b": "Bệnh viện Đà Nẵng",
+    "c": "Bệnh viện Sản Nhi Nghệ An",
+    "d": "Bệnh viện Quảng Nam",
+    "answer": "a",
+    "explanation": "Trong danh sách cơ sở được Bộ Y tế cấp phép, khu vực miền Trung có Bệnh viện Trung ương Huế là đơn vị đủ điều kiện thực hiện kỹ thuật mang thai hộ."
+  },
+  {
+    "question": "Cơ sở y tế nào sau đây không thuộc danh sách được phép thực hiện kỹ thuật mang thai hộ vì mục đích nhân đạo?",
+    "a": "Bệnh viện Hùng Vương",
+    "b": "Bệnh viện Mỹ Đức",
+    "c": "Bệnh viện Phụ sản Từ Dũ",
+    "d": "Bệnh viện Phụ sản Hà Nội",
+    "answer": "d",
+    "explanation": "Danh sách cơ sở được cấp phép không bao gồm Bệnh viện Phụ sản Hà Nội, mặc dù đây là bệnh viện chuyên ngành sản phụ khoa lớn."
+  },
+  {
+    "question": "Theo quy định, cơ sở y tế nào sau đây được phép thực hiện kỹ thuật mang thai hộ vì mục đích nhân đạo tại Việt Nam?",
+    "a": "Phòng khám đa khoa tư nhân",
+    "b": "Trung tâm IVF chưa được cấp phép",
+    "c": "Bệnh viện Mỹ Đức",
+    "d": "Bệnh viện tuyến huyện",
+    "answer": "c",
+    "explanation": "Trong các cơ sở y tế được Bộ Y tế cấp phép, Bệnh viện Mỹ Đức là một trong số ít cơ sở tư nhân đủ điều kiện thực hiện kỹ thuật mang thai hộ."
+  },
+  {
+    "question": "Nhận định nào sau đây đúng về điều kiện thực hiện kỹ thuật mang thai hộ tại Việt Nam?",
+    "a": "Tất cả bệnh viện có IVF đều được phép thực hiện mang thai hộ",
+    "b": "Chỉ cần có bác sĩ sản khoa là đủ điều kiện",
+    "c": "Chỉ cơ sở được Bộ Y tế cấp phép mới được thực hiện mang thai hộ",
+    "d": "Bệnh viện tuyến tỉnh có thể tự quyết định thực hiện",
+    "answer": "c",
+    "explanation": "Theo quy định quản lý hiện hành, kỹ thuật mang thai hộ vì mục đích nhân đạo là kỹ thuật đặc biệt, chỉ cơ sở được Bộ Y tế cấp phép riêng mới được thực hiện."
+  },
+  {
+    "question": "Cơ sở y tế nào sau đây thuộc danh sách được phép thực hiện kỹ thuật mang thai hộ vì mục đích nhân đạo?",
+    "a": "Bệnh viện Chợ Rẫy",
+    "b": "Bệnh viện Hùng Vương",
+    "c": "Bệnh viện Ung Bướu TP.HCM",
+    "d": "Bệnh viện Nhi Trung ương",
+    "answer": "b",
+    "explanation": "Trong danh sách 5 cơ sở được Bộ Y tế cấp phép, Bệnh viện Hùng Vương là một trong các đơn vị được phép thực hiện kỹ thuật mang thai hộ."
+  },
   {
     "question": "Trong tình huống người yêu cầu công chứng (NYCCC) là người đang bị tạm giam để điều tra, CCV được yêu cầu đến trại giam thực hiện công chứng hợp đồng ủy quyền. CCV phát hiện nội dung ủy quyền có dấu hiệu tẩu tán tài sản do phạm tội mà có. Căn cứ Điều 4 và Điều 8, CCV phải xử lý thế nào?",
     "a": "Vẫn thực hiện vì đây là quyền dân sự của người bị tạm giam",
