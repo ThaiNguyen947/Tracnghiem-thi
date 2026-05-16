@@ -9,6 +9,231 @@
     "explanation": "Theo điểm a khoản 1 Điều 43 Nghị định 104/2025/NĐ-CP, phụ nữ đang mang thai hoặc nuôi con nhỏ dưới 12 tháng tuổi được xem là lý do chính đáng để thực hiện công chứng ngoài trụ sở."
   },
   {
+    "question": "Nam A (19 tuổi 11 tháng) và nữ B (18 tuổi 2 tháng) đăng ký kết hôn tại UBND cấp xã. Sau 3 tháng, Tòa án giải quyết yêu cầu hủy việc kết hôn trái pháp luật thì lúc này A đã đủ 20 tuổi và cả hai yêu cầu công nhận quan hệ hôn nhân. Tòa án xử lý thế nào?",
+    "a": "Buộc hủy kết hôn trái pháp luật.",
+    "b": "Không công nhận quan hệ hôn nhân do ban đầu vi phạm điều kiện tuổi.",
+    "c": "Công nhận quan hệ hôn nhân kể từ ngày đăng ký kết hôn ban đầu.",
+    "d": "Công nhận quan hệ hôn nhân kể từ thời điểm các bên đủ điều kiện kết hôn.",
+    "answer": "d",
+    "explanation": "Căn cứ khoản 2 Điều 11 Luật Hôn nhân và gia đình năm 2014: Nếu tại thời điểm Tòa án giải quyết mà hai bên đã đủ điều kiện kết hôn và yêu cầu công nhận quan hệ hôn nhân thì Tòa án công nhận quan hệ hôn nhân kể từ thời điểm các bên đủ điều kiện kết hôn."
+  },
+  {
+    "question": "Anh X đang có vợ hợp pháp nhưng chung sống công khai như vợ chồng với chị Y mà không đăng ký kết hôn. Theo Luật Hôn nhân và gia đình năm 2014, hành vi này được xác định như thế nào?",
+    "a": "Không vi phạm vì không đăng ký kết hôn.",
+    "b": "Chỉ vi phạm đạo đức xã hội.",
+    "c": "Là hành vi bị cấm.",
+    "d": "Chỉ vi phạm nếu có con chung.",
+    "answer": "c",
+    "explanation": "Căn cứ điểm c khoản 2 Điều 5 Luật Hôn nhân và gia đình năm 2014: Người đang có vợ, có chồng mà chung sống như vợ chồng với người khác là hành vi bị cấm, không phụ thuộc việc có đăng ký kết hôn hay không."
+  },
+  {
+    "question": "Nam và nữ đủ điều kiện kết hôn, tổ chức lễ cưới, chung sống với nhau 10 năm, có 2 con chung nhưng không đăng ký kết hôn. Theo quy định, quan hệ giữa họ được xác định như thế nào?",
+    "a": "Được mặc nhiên công nhận là vợ chồng.",
+    "b": "Chỉ được công nhận nếu có xác nhận của địa phương.",
+    "c": "Không làm phát sinh quyền, nghĩa vụ giữa vợ và chồng.",
+    "d": "Được công nhận nếu tài sản đã nhập chung.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 14 Luật Hôn nhân và gia đình năm 2014: Nam, nữ chung sống như vợ chồng mà không đăng ký kết hôn thì không làm phát sinh quyền, nghĩa vụ giữa vợ và chồng."
+  },
+  {
+    "question": "Trường hợp nào sau đây thuộc 'những người có họ trong phạm vi ba đời' theo Luật Hôn nhân và gia đình năm 2014?",
+    "a": "Anh em con chú ruột.",
+    "b": "Con riêng của vợ với con riêng của chồng.",
+    "c": "Anh em họ đời thứ tư.",
+    "d": "Con nuôi với con đẻ.",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 18 Điều 3 Luật Hôn nhân và gia đình năm 2014: Anh, chị, em con chú, con bác, con cô, con cậu, con dì thuộc đời thứ ba."
+  },
+  {
+    "question": "Sau khi ly hôn hợp pháp, ông A và bà B muốn xác lập lại quan hệ vợ chồng. Theo quy định, họ phải thực hiện thủ tục nào?",
+    "a": "Không cần thủ tục vì quan hệ hôn nhân cũ tự khôi phục.",
+    "b": "Đăng ký lại hộ khẩu chung.",
+    "c": "Đăng ký kết hôn.",
+    "d": "Xin xác nhận của Tòa án.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 9 Luật Hôn nhân và gia đình năm 2014: Vợ chồng đã ly hôn muốn xác lập lại quan hệ vợ chồng thì phải đăng ký kết hôn."
+  },
+  {
+    "question": "Trong trường hợp giải quyết tài sản của nam nữ chung sống như vợ chồng mà không đăng ký kết hôn, công việc nội trợ được pháp luật xác định như thế nào?",
+    "a": "Không được xem là đóng góp tài sản.",
+    "b": "Chỉ được tính nếu có chứng từ chứng minh.",
+    "c": "Được coi như lao động có thu nhập.",
+    "d": "Chỉ tính khi bên kia đồng ý.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 16 Luật Hôn nhân và gia đình năm 2014: Công việc nội trợ và công việc khác liên quan duy trì đời sống chung được coi như lao động có thu nhập."
+  },
+  {
+    "question": "Ông M ép con gái kết hôn bằng cách đe dọa từ mặt và đánh đập nếu không đồng ý. Hành vi này thuộc trường hợp nào theo Luật Hôn nhân và gia đình năm 2014?",
+    "a": "Cản trở kết hôn.",
+    "b": "Yêu sách của cải trong kết hôn.",
+    "c": "Cưỡng ép kết hôn.",
+    "d": "Lừa dối kết hôn.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 9 Điều 3 Luật Hôn nhân và gia đình năm 2014: Cưỡng ép kết hôn là việc đe dọa, uy hiếp tinh thần hoặc hành vi khác buộc người khác phải kết hôn trái ý muốn."
+  },
+  {
+    "question": "Trường hợp đăng ký kết hôn không đúng thẩm quyền nhưng hai bên đủ điều kiện kết hôn thì quan hệ hôn nhân được xác lập từ thời điểm nào?",
+    "a": "Ngày đăng ký lại đúng thẩm quyền.",
+    "b": "Ngày Tòa án công nhận.",
+    "c": "Ngày đăng ký kết hôn trước.",
+    "d": "Ngày tổ chức lễ cưới.",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 13 Luật Hôn nhân và gia đình năm 2014: Trong trường hợp đăng ký kết hôn không đúng thẩm quyền, quan hệ hôn nhân được xác lập từ ngày đăng ký kết hôn trước."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, ai sau đây KHÔNG thuộc thành viên gia đình?",
+    "a": "Cha dượng.",
+    "b": "Con rể.",
+    "c": "Anh em con dì.",
+    "d": "Bạn thân sống cùng nhà.",
+    "answer": "d",
+    "explanation": "Căn cứ khoản 16 Điều 3 Luật Hôn nhân và gia đình năm 2014: Thành viên gia đình bao gồm những người có quan hệ hôn nhân, huyết thống hoặc nuôi dưỡng theo luật định; bạn thân không thuộc trường hợp này."
+  },
+  {
+    "question": "Nam A và nữ B là anh em con cô ruột. Hai người yêu nhau và muốn đăng ký kết hôn. Theo quy định, cơ quan có thẩm quyền phải xử lý thế nào?",
+    "a": "Cho đăng ký nếu hai bên tự nguyện.",
+    "b": "Cho đăng ký nếu đã trên 25 tuổi.",
+    "c": "Từ chối đăng ký vì thuộc phạm vi ba đời.",
+    "d": "Cho đăng ký nếu không cùng hộ khẩu.",
+    "answer": "c",
+    "explanation": "Căn cứ điểm d khoản 2 Điều 5 và khoản 18 Điều 3 Luật Hôn nhân và gia đình năm 2014: Anh em con cô ruột thuộc những người có họ trong phạm vi ba đời nên bị cấm kết hôn."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, trường hợp nào sau đây KHÔNG thuộc kết hôn trái pháp luật?",
+    "a": "Nam 19 tuổi đăng ký kết hôn với nữ 18 tuổi.",
+    "b": "Người đang có vợ đăng ký kết hôn với người khác.",
+    "c": "Nam nữ đủ điều kiện kết hôn nhưng không đăng ký mà chỉ tổ chức cưới.",
+    "d": "Kết hôn giữa những người có họ trong phạm vi ba đời.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 6 Điều 3 Luật Hôn nhân và gia đình năm 2014: Kết hôn trái pháp luật là việc đã đăng ký kết hôn nhưng vi phạm điều kiện kết hôn. Trường hợp không đăng ký kết hôn thì không phải là kết hôn trái pháp luật."
+  },
+  {
+    "question": "Theo quy định, ai sau đây có quyền yêu cầu Tòa án hủy việc kết hôn trái pháp luật do vi phạm điều kiện về độ tuổi kết hôn?",
+    "a": "Bất kỳ cá nhân nào phát hiện vi phạm.",
+    "b": "Bạn bè của người kết hôn.",
+    "c": "Cơ quan quản lý nhà nước về gia đình.",
+    "d": "Hàng xóm của người kết hôn.",
+    "answer": "c",
+    "explanation": "Căn cứ điểm b khoản 2 Điều 10 Luật Hôn nhân và gia đình năm 2014: Cơ quan quản lý nhà nước về gia đình có quyền yêu cầu Tòa án hủy việc kết hôn trái pháp luật."
+  },
+  {
+    "question": "Nam A và nữ B sống chung như vợ chồng không đăng ký kết hôn. Sau đó A chết, B yêu cầu hưởng thừa kế với tư cách là vợ hợp pháp. Theo quy định, yêu cầu của B được giải quyết thế nào?",
+    "a": "Được hưởng toàn bộ di sản.",
+    "b": "Được hưởng như vợ hợp pháp nếu có con chung.",
+    "c": "Không phát sinh quyền vợ chồng hợp pháp.",
+    "d": "Được hưởng nếu chung sống trên 3 năm.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 14 Luật Hôn nhân và gia đình năm 2014: Nam nữ chung sống như vợ chồng mà không đăng ký kết hôn thì không làm phát sinh quyền và nghĩa vụ giữa vợ và chồng."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, hành vi nào sau đây là 'cản trở kết hôn'?",
+    "a": "Đe dọa buộc người khác phải kết hôn.",
+    "b": "Ngăn cản người đủ điều kiện kết hôn thực hiện việc kết hôn.",
+    "c": "Tổ chức cưới hỏi linh đình.",
+    "d": "Không đồng ý cho con kết hôn do chưa có việc làm.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 10 Điều 3 Luật Hôn nhân và gia đình năm 2014: Cản trở kết hôn là hành vi nhằm ngăn cản việc kết hôn của người có đủ điều kiện kết hôn."
+  },
+  {
+    "question": "Theo quy định, việc lựa chọn nơi cư trú của vợ chồng không bị ràng buộc bởi yếu tố nào sau đây?",
+    "a": "Địa giới hành chính.",
+    "b": "Phong tục, tập quán.",
+    "c": "Cả địa giới hành chính và phong tục, tập quán.",
+    "d": "Điều kiện kinh tế của vợ chồng.",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 20 Luật Hôn nhân và gia đình năm 2014: Việc lựa chọn nơi cư trú của vợ chồng không bị ràng buộc bởi phong tục, tập quán, địa giới hành chính."
+  },
+  {
+    "question": "Trường hợp nào sau đây thuộc hành vi bị cấm theo Luật Hôn nhân và gia đình năm 2014?",
+    "a": "Mang thai hộ vì mục đích nhân đạo theo đúng điều kiện luật định.",
+    "b": "Lựa chọn giới tính thai nhi.",
+    "c": "Kết hôn giữa công dân Việt Nam với người nước ngoài.",
+    "d": "Vợ chồng thỏa thuận sống riêng do công việc.",
+    "answer": "b",
+    "explanation": "Căn cứ điểm g khoản 2 Điều 5 Luật Hôn nhân và gia đình năm 2014: Lựa chọn giới tính thai nhi là hành vi bị cấm."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, quan hệ giữa cha mẹ nuôi với con nuôi thuộc trường hợp nào sau đây?",
+    "a": "Được kết hôn nếu đã chấm dứt việc nuôi con nuôi.",
+    "b": "Thuộc trường hợp cấm kết hôn.",
+    "c": "Được kết hôn nếu không cùng hộ khẩu.",
+    "d": "Chỉ cấm khi con nuôi chưa thành niên.",
+    "answer": "b",
+    "explanation": "Căn cứ điểm d khoản 2 Điều 5 Luật Hôn nhân và gia đình năm 2014: Cấm kết hôn giữa cha, mẹ nuôi với con nuôi."
+  },
+  {
+    "question": "Theo quy định, trường hợp nào sau đây được coi là quan hệ hôn nhân và gia đình có yếu tố nước ngoài?",
+    "a": "Hai công dân Việt Nam kết hôn tại Việt Nam và toàn bộ tài sản ở Việt Nam.",
+    "b": "Hai công dân Việt Nam ly hôn tại Việt Nam theo pháp luật Việt Nam.",
+    "c": "Hai công dân Việt Nam có tài sản liên quan ở nước ngoài.",
+    "d": "Hai công dân Việt Nam sống chung không đăng ký kết hôn.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 25 Điều 3 Luật Hôn nhân và gia đình năm 2014: Quan hệ hôn nhân và gia đình có yếu tố nước ngoài bao gồm trường hợp tài sản liên quan ở nước ngoài."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, trường hợp nào sau đây là ly hôn giả tạo?",
+    "a": "Vợ chồng không còn tình cảm nên ly hôn.",
+    "b": "Ly hôn để trốn tránh nghĩa vụ tài sản.",
+    "c": "Ly hôn do bạo lực gia đình.",
+    "d": "Thuận tình ly hôn để ổn định cuộc sống riêng.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 15 Điều 3 Luật Hôn nhân và gia đình năm 2014: Ly hôn giả tạo là việc lợi dụng ly hôn để trốn tránh nghĩa vụ tài sản hoặc nhằm mục đích khác không nhằm chấm dứt hôn nhân."
+  },
+  {
+    "question": "Theo quy định của Luật Hôn nhân và gia đình năm 2014, nghĩa vụ sống chung của vợ chồng có thể không thực hiện trong trường hợp nào?",
+    "a": "Một bên tự ý bỏ đi khỏi nơi cư trú.",
+    "b": "Vợ chồng có thỏa thuận khác hoặc do yêu cầu nghề nghiệp, công tác, học tập.",
+    "c": "Cha mẹ hai bên không đồng ý sống chung.",
+    "d": "Một bên muốn sống riêng để thuận tiện kinh doanh.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 19 Luật Hôn nhân và gia đình năm 2014: Vợ chồng có nghĩa vụ sống chung, trừ trường hợp có thỏa thuận khác hoặc do yêu cầu nghề nghiệp, công tác, học tập và lý do chính đáng khác."
+  },
+  {
+    "question": "Nam A sinh ngày 02/6/2006 đăng ký kết hôn với nữ B sinh ngày 01/6/2008 vào ngày 01/6/2026. Theo Luật Hôn nhân và gia đình năm 2014, nhận định nào đúng?",
+    "a": "A và B đều đủ tuổi kết hôn.",
+    "b": "A chưa đủ tuổi kết hôn, B đã đủ tuổi kết hôn.",
+    "c": "A đủ tuổi kết hôn, B chưa đủ tuổi kết hôn.",
+    "d": "Cả hai chưa đủ tuổi kết hôn.",
+    "answer": "b",
+    "explanation": "Căn cứ điểm a khoản 1 Điều 8 Luật Hôn nhân và gia đình năm 2014: Nam phải từ đủ 20 tuổi trở lên, nữ từ đủ 18 tuổi trở lên. Ngày 01/6/2026, A chưa đủ 20 tuổi vì chưa đến ngày 02/6/2026; B đã đủ 18 tuổi."
+  },
+  {
+    "question": "Ông X từng là cha nuôi hợp pháp của chị Y. Sau khi việc nuôi con nuôi chấm dứt, ông X muốn kết hôn với chị Y. Theo quy định, trường hợp này được xử lý thế nào?",
+    "a": "Được kết hôn vì quan hệ nuôi con nuôi đã chấm dứt.",
+    "b": "Được kết hôn nếu không cùng hộ khẩu.",
+    "c": "Bị cấm kết hôn.",
+    "d": "Chỉ cần sự đồng ý của UBND cấp xã.",
+    "answer": "c",
+    "explanation": "Căn cứ điểm d khoản 2 Điều 5 Luật Hôn nhân và gia đình năm 2014: Cấm kết hôn giữa người đã từng là cha, mẹ nuôi với con nuôi."
+  },
+  {
+    "question": "Nam A và nữ B đủ điều kiện kết hôn nhưng cố tình không đăng ký kết hôn để né nghĩa vụ tài sản. Sau 8 năm chung sống phát sinh tranh chấp tài sản. Theo quy định, quan hệ tài sản được giải quyết chủ yếu theo căn cứ nào?",
+    "a": "Theo chế độ tài sản của vợ chồng.",
+    "b": "Theo Bộ luật dân sự và thỏa thuận của các bên.",
+    "c": "Đương nhiên chia đôi.",
+    "d": "Theo phong tục địa phương.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 16 Luật Hôn nhân và gia đình năm 2014: Quan hệ tài sản của nam nữ chung sống như vợ chồng mà không đăng ký kết hôn được giải quyết theo thỏa thuận; nếu không có thỏa thuận thì áp dụng Bộ luật dân sự và pháp luật liên quan."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, trường hợp nào sau đây là cản trở kết hôn?",
+    "a": "Đe dọa buộc người khác phải kết hôn.",
+    "b": "Giữ giấy tờ tùy thân để ngăn người đủ điều kiện đi đăng ký kết hôn.",
+    "c": "Che giấu việc đã có vợ để kết hôn.",
+    "d": "Tổ chức đám cưới giả.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 10 Điều 3 Luật Hôn nhân và gia đình năm 2014: Cản trở kết hôn là hành vi nhằm ngăn cản việc kết hôn của người có đủ điều kiện kết hôn."
+  },
+  {
+    "question": "Theo quy định của Luật Hôn nhân và gia đình năm 2014, tập quán về hôn nhân và gia đình được áp dụng khi nào?",
+    "a": "Khi địa phương có yêu cầu.",
+    "b": "Khi pháp luật không quy định và các bên không có thỏa thuận.",
+    "c": "Trong mọi trường hợp có phong tục địa phương.",
+    "d": "Chỉ khi được Tòa án cho phép trước.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 7 Luật Hôn nhân và gia đình năm 2014: Tập quán được áp dụng khi pháp luật không quy định và các bên không có thỏa thuận, đồng thời không trái nguyên tắc cơ bản và điều cấm của luật."
+  },
+  {
     "question": "Địa điểm thực hiện công chứng ngoài trụ sở phải đáp ứng điều kiện nào?",
     "a": "Bất kỳ nơi nào người yêu cầu lựa chọn",
     "b": "Phải thuộc địa bàn cấp huyện nơi tổ chức hành nghề công chứng đặt trụ sở",
