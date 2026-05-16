@@ -11,7 +11,7 @@ const app = document.getElementById("app");
 
 // ================= USER LIST =================
 const users = [
-  { username: "mainguyen", password: "123", role: "admin" },
+  { username: "mainguyen", password: "1234", role: "admin" },
   { username: "user1", password: "123", role: "user" }
 ];
 
@@ -75,6 +75,39 @@ function shuffle(arr) {
   return a;
 }
 
+// ================= SMART SHUFFLE (KHÔNG TRÙNG NHÓM LIỀN NHAU) =================
+function smartShuffleNoRepeat(arr) {
+  let a = shuffle(arr);
+
+  let result = [];
+  let lastGroup = null;
+
+  while (a.length > 0) {
+    let indexToPick = -1;
+
+    for (let i = 0; i < a.length; i++) {
+      let g = a[i].group || a[i].topic || "default";
+
+      if (g !== lastGroup) {
+        indexToPick = i;
+        break;
+      }
+    }
+
+    if (indexToPick === -1) {
+      indexToPick = 0;
+    }
+
+    let picked = a.splice(indexToPick, 1)[0];
+
+    lastGroup = picked.group || picked.topic || "default";
+
+    result.push(picked);
+  }
+
+  return result;
+}
+
 // ================= START EXAM =================
 function startExam() {
   answers = {};
@@ -84,22 +117,28 @@ function startExam() {
   let used = new Set();
   let list = [];
 
+  // ưu tiên câu sai
   for (let q of wrongPool) {
-    if (!used.has(q.question || q.cauhoi)) {
-      used.add(q.question || q.cauhoi);
-      list.push(q);
-    }
-  }
-
-  for (let q of data) {
     let qText = q.question || q.cauhoi;
     if (!used.has(qText)) {
       used.add(qText);
       list.push(q);
     }
+  }
+
+  // lấy từ ngân hàng đề
+  for (let q of data) {
+    let qText = q.question || q.cauhoi;
+
+    if (!used.has(qText)) {
+      used.add(qText);
+      list.push(q);
+    }
+
     if (list.length >= 100) break;
   }
 
+  // bổ sung nếu thiếu
   let remain = shuffle(data.filter(q => !used.has(q.question || q.cauhoi)));
 
   for (let q of remain) {
@@ -107,7 +146,8 @@ function startExam() {
     list.push(q);
   }
 
-  questions = shuffle(list).slice(0, 100);
+  // 🔥 XÁO ĐỀ THÔNG MINH
+  questions = smartShuffleNoRepeat(list).slice(0, 100);
 
   render();
   startTimer();
@@ -116,6 +156,7 @@ function startExam() {
 // ================= RENDER =================
 function render() {
   let q = questions[index];
+
   let qText = q.question || q.cauhoi;
   let optA = q.a || q.Một || "";
   let optB = q.b || "";
@@ -165,13 +206,12 @@ function choose(c) {
 // ================= HIGHLIGHT =================
 function highlight() {
   setTimeout(() => {
-    document.querySelectorAll(".option")
-      .forEach(b => b.classList.remove("selected"));
+    document.querySelectorAll(".option").forEach(b => b.classList.remove("selected"));
 
     let ans = answers[index];
     if (!ans) return;
 
-    const map = { A: 0, B: 1, C: 2, D: 3, a: 0, b: 1, c: 2, d: 3 };
+    const map = { A: 0, B: 1, C: 2, D: 3 };
     let btns = document.querySelectorAll(".option");
 
     if (btns[map[ans]]) {
@@ -253,8 +293,9 @@ function submit() {
   let newWrong = [];
 
   questions.forEach((q, i) => {
-    let userAns = answers[i] ? answers[i].toString().trim().toLowerCase() : "";
-    let correctAns = (q.answer || q.trảlời || "").toString().trim().toLowerCase();
+    let userAns = answers[i] ? answers[i].toLowerCase() : "";
+    let correctAns = (q.answer || q.trảlời || "").toLowerCase();
+
     if (correctAns === "một") correctAns = "a";
 
     if (userAns === correctAns) {
@@ -267,123 +308,19 @@ function submit() {
 
   wrongPool = newWrong;
 
-  // Bao bọc toàn bộ bằng background xám nhạt để làm nổi bật trang giấy A4 màu trắng bên trong
   document.body.style.backgroundColor = "#f4f5f7";
-  document.body.style.margin = "0";
-  document.body.style.padding = "20px 0";
 
   app.innerHTML = `
-    <div style="
-      max-width: 820px; 
-      margin: 0 auto; 
-      background: #ffffff; 
-      padding: 40px 50px; 
-      box-shadow: 0 4px 15px rgba(0,0,0,0.06);
-      border-radius: 4px;
-      font-family: 'Times New Roman', Times, serif;
-    ">
-      <h1 style="font-size: 24px; font-weight: bold; text-align: center; margin: 0 0 10px 0; color: #111; letter-spacing: 0.5px;">BÁO CÁO KẾT QUẢ KIỂM TRA</h1>
-      <p style="text-align: center; font-size: 15px; color: #555; margin: 0 0 20px 0;">
-        Số câu đúng: <b style="color: green; font-size: 16px;">${correct}</b> | Số câu sai: <b style="color: #b30000; font-size: 16px;">${wrong}</b>
+    <div style="max-width:820px;margin:0 auto;background:#fff;padding:40px">
+      <h1 style="text-align:center">KẾT QUẢ</h1>
+      <p style="text-align:center">
+        Đúng: <b style="color:green">${correct}</b> |
+        Sai: <b style="color:red">${wrong}</b>
       </p>
 
-      <div style="text-align: center; margin-bottom: 25px;">
-        <button class="btn" style="background: #222; color: white; border: none; padding: 8px 24px; font-size: 14px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="location.reload()">THI LẠI TRANG CHỦ</button>
+      <div style="text-align:center">
+        <button onclick="location.reload()">Làm lại</button>
       </div>
-
-      <div style="display: flex; gap: 8px; justify-content: center; margin-bottom: 25px; border-bottom: 1px solid #eef0f2; padding-bottom: 15px;">
-        <button style="background: #f1f3f5; color: #333; border: 1px solid #dee2e6; padding: 5px 14px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('all')">Tất cả câu hỏi</button>
-        <button style="background: #e8f5e9; color: green; border: 1px solid #c8e6c9; padding: 5px 14px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('correct')">Các câu đúng</button>
-        <button style="background: #ffebee; color: #c62828; border: 1px solid #ffcdd2; padding: 5px 14px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('wrong')">Các câu sai</button>
-      </div>
-
-      <div id="result-list">
-        </div>
     </div>
   `;
-
-  filterResult('all');
-}
-
-// ================= FILTER RESULT LIST =================
-function filterResult(type) {
-  let listContainer = document.getElementById("result-list");
-  if (!listContainer) return;
-
-  let html = "";
-
-  questions.forEach((q, i) => {
-    let userAns = answers[i] ? answers[i].toString().trim().toLowerCase() : "";
-    let correctAns = (q.answer || q.trảlời || "").toString().trim().toLowerCase();
-    if (correctAns === "một") correctAns = "a";
-    
-    let ok = userAns === correctAns;
-
-    if (type === 'correct' && !ok) return;
-    if (type === 'wrong' && ok) return;
-
-    let qText = q.question || q.cauhoi;
-    let optA = q.a || q.Một || "";
-    let optB = q.b || "";
-    let optC = q.c || "";
-    let optD = q.d || "";
-
-    // Lấy text đáp án đúng
-    let fullCorrectText = "";
-    if (correctAns === "a") fullCorrectText = `A. ${optA}`;
-    else if (correctAns === "b") fullCorrectText = `B. ${optB}`;
-    else if (correctAns === "c") fullCorrectText = `C. ${optC}`;
-    else if (correctAns === "d") fullCorrectText = `D. ${optD}`;
-    else fullCorrectText = (q.answer || q.trảlời || "Chưa rõ").toUpperCase();
-
-    // Lấy text đáp án người dùng chọn
-    let fullUserText = "Không lựa chọn đáp án";
-    if (userAns === "a") fullUserText = `A. ${optA}`;
-    else if (userAns === "b") fullUserText = `B. ${optB}`;
-    else if (userAns === "c") fullUserText = `C. ${optC}`;
-    else if (userAns === "d") fullUserText = `D. ${optD}`;
-
-    html += `
-      <div style="
-        margin-bottom: 24px;
-        text-align: justify;
-        line-height: 1.5;
-        font-size: 15px;
-        color: #111;
-      ">
-        <p style="margin: 0 0 6px 0; padding: 0;"><b>Câu ${i + 1}.</b> ${qText}</p>
-        
-        <div style="margin: 0 0 6px 0; padding-left: 15px; font-size: 14.5px; color: #333;">
-          <div style="margin-bottom: 3px;">
-            <span style="color: #666;">- Phương án đã chọn:</span> ${fullUserText} 
-            <span style="
-              display: inline-block;
-              padding: 1px 6px;
-              font-size: 11px;
-              font-family: 'Times New Roman', Times, serif;
-              font-weight: bold;
-              border-radius: 3px;
-              margin-left: 8px;
-              background-color: ${ok ? '#e8f5e9' : '#ffebee'};
-              color: ${ok ? 'green' : '#c62828'};
-            ">${ok ? "CHÍNH XÁC" : "KHÔNG ĐÚNG"}</span>
-          </div>
-          ${!ok ? `<div style="margin-bottom: 3px;"><span style="color: #666;">- Đáp án đúng:</span> <b style="color: green;">${fullCorrectText}</b></div>` : ""}
-        </div>
-
-        <div style="
-          margin: 6px 0 0 15px;
-          padding: 4px 0 4px 10px;
-          font-style: italic;
-          font-size: 14px;
-          color: #555;
-          border-left: 2px solid #e0e0e0;
-        ">
-          <b>Cơ sở lý luận (Giải thích):</b> ${q.explanation ? q.explanation : (q.giảithích ? q.giảithích : "Chưa có nội dung giải thích.")}
-        </div>
-      </div>
-    `;
-  });
-
-  listContainer.innerHTML = html || "<p style='text-align:center; color:#777; font-style: italic; padding: 20px;'>Không tìm thấy dữ liệu phù hợp với bộ lọc.</p>";
 }
