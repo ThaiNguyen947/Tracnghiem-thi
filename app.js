@@ -8,13 +8,21 @@ let timer;
 let time = 60 * 60;
 
 const app = document.getElementById("app");
+function getDeviceId() {
+  let id = localStorage.getItem("deviceId");
+  if (!id) {
+    id = crypto.randomUUID();
+    localStorage.setItem("deviceId", id);
+  }
+  return id;
+}
 
 // ================= USER LIST =================
 const users = [
   { username: "mainguyen", password: "1234", role: "admin" },
   { username: "user1", password: "123", role: "user" }
 ];
-
+let sessions = JSON.parse(localStorage.getItem("loginSessions") || "{}");
 // ================= LOGIN UI =================
 function showLogin() {
   document.getElementById("loginBox").innerHTML = `
@@ -33,8 +41,22 @@ function login() {
   let p = document.getElementById("p").value;
 
   let user = users.find(x => x.username === u && x.password === p);
-
   if (!user) return alert("Sai tài khoản");
+
+  let deviceId = getDeviceId();
+  let sessions = JSON.parse(localStorage.getItem("loginSessions") || "{}");
+
+  // ================= CHỐNG 1 THIẾT BỊ =================
+  if (user.role !== "admin") {
+    if (sessions[user.username] && sessions[user.username] !== deviceId) {
+      alert("Tài khoản đã đăng nhập trên thiết bị khác!");
+      return;
+    }
+  }
+
+  // lưu session mới
+  sessions[user.username] = deviceId;
+  localStorage.setItem("loginSessions", JSON.stringify(sessions));
 
   localStorage.setItem("user", JSON.stringify(user));
 
@@ -46,15 +68,29 @@ function login() {
 
 // ================= CHECK LOGIN =================
 function checkLogin() {
-  let user = localStorage.getItem("user");
+  let user = JSON.parse(localStorage.getItem("user"));
+  let deviceId = getDeviceId();
+  let sessions = JSON.parse(localStorage.getItem("loginSessions") || "{}");
 
   if (!user) {
     showLogin();
-  } else {
-    document.getElementById("loginBox").style.display = "none";
-    document.getElementById("app").style.display = "block";
-    startExam();
+    return;
   }
+
+  // ===== ADMIN KHÔNG BỊ GIỚI HẠN =====
+  if (user.role !== "admin") {
+    if (sessions[user.username] !== deviceId) {
+      alert("Phiên đăng nhập không hợp lệ (thiết bị khác đã đăng nhập)");
+
+      localStorage.removeItem("user");
+      showLogin();
+      return;
+    }
+  }
+
+  document.getElementById("loginBox").style.display = "none";
+  document.getElementById("app").style.display = "block";
+  startExam();
 }
 
 // ================= LOAD DATA =================
