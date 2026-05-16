@@ -169,7 +169,7 @@ function weightedPick(arr, count) {
 
   return result;
 }
-// ================= START EXAM =================
+// ================= START EXAM (ĐÃ SỬA) =================
 function startExam() {
   answers = {};
   index = 0;
@@ -201,12 +201,12 @@ function startExam() {
     list.push(q);
   }
 
-  questions = weightedPick(data, 100);
+  // SỬA TẠI ĐÂY: Lấy mảng list thông minh đã lọc phía trên làm đề thi thay vì đè bằng weightedPick(data)
+  questions = weightedPick(list, 100); 
 
   render();
   startTimer();
 }
-
 // ================= RENDER =================
 function render() {
   let q = questions[index];
@@ -420,7 +420,7 @@ localStorage.setItem("questionData", JSON.stringify(data));
   filterResult('all');
 }
 
-// ================= FILTER RESULT LIST =================
+// ================= FILTER RESULT LIST (ĐÃ SỬA) =================
 function filterResult(type) {
   let listContainer = document.getElementById("result-list");
   if (!listContainer) return;
@@ -428,6 +428,9 @@ function filterResult(type) {
   let html = "";
 
   questions.forEach((q, i) => {
+    // Biện pháp an toàn: Nếu object q không tồn tại, bỏ qua không render để tránh lỗi sập trang
+    if (!q) return; 
+
     let userAns = answers[i] ? answers[i].toString().trim().toLowerCase() : "";
     let correctAns = (q.answer || q.trảlời || "").toString().trim().toLowerCase();
     if (correctAns === "một") correctAns = "a";
@@ -437,7 +440,8 @@ function filterResult(type) {
     if (type === 'correct' && !ok) return;
     if (type === 'wrong' && ok) return;
 
-    let qText = q.question || q.cauhoi;
+    // CHỐNG UNDEFINED: Kiểm tra nghiêm ngặt mọi trường hợp đặt tên key trong file json
+    let qText = q.question || q.cauhoi || q.Question || "Không tìm thấy nội dung câu hỏi trong dữ liệu gốc";
     let optA = q.a || q.Một || "";
     let optB = q.b || "";
     let optC = q.c || "";
