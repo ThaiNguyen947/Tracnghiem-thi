@@ -61,9 +61,17 @@ function checkLogin() {
 fetch("cauhoi.json")
   .then(res => res.json())
   .then(json => {
-    data = json;
-    checkLogin();
+  data = json;
+
+  // 🔥 thêm trọng số mặc định
+  data.forEach(q => {
+    q.weight = q.weight || 1;
+    q.correctCount = q.correctCount || 0;
+    q.wrongCount = q.wrongCount || 0;
   });
+
+  checkLogin();
+});
 
 // ================= SHUFFLE =================
 function shuffle(arr) {
@@ -92,6 +100,34 @@ function smartShuffle(arr, groupSize = 3) {
   for (let i = 0; i < maxLen; i++) {
     for (let g of groups) {
       if (g[i]) result.push(g[i]);
+    }
+  }
+
+  return result;
+}
+function weightedPick(arr, count) {
+  let pool = [...arr];
+  let result = [];
+
+  for (let i = 0; i < count; i++) {
+    if (pool.length === 0) break;
+
+    // tổng điểm
+    let total = pool.reduce((sum, q) => sum + (q.weight || 1), 0);
+
+    // random 1 số từ 0 → tổng điểm
+    let r = Math.random() * total;
+
+    let sum = 0;
+
+    for (let j = 0; j < pool.length; j++) {
+      sum += (pool[j].weight || 1);
+
+      if (r <= sum) {
+        result.push(pool[j]);
+        pool.splice(j, 1); // bỏ câu đó ra
+        break;
+      }
     }
   }
 
@@ -129,7 +165,7 @@ function startExam() {
     list.push(q);
   }
 
-  questions = smartShuffle(list).slice(0, 100);
+  questions = weightedPick(data, 100);
 
   render();
   startTimer();
@@ -275,18 +311,39 @@ function submit() {
   let newWrong = [];
 
   questions.forEach((q, i) => {
-    let userAns = answers[i] ? answers[i].toString().trim().toLowerCase() : "";
-    let correctAns = (q.answer || q.trảlời || "").toString().trim().toLowerCase();
-    if (correctAns === "một") correctAns = "a";
+  let userAns = answers[i]
+    ? answers[i].toString().trim().toLowerCase()
+    : "";
 
-    if (userAns === correctAns) {
-      correct++;
-    } else {
-      wrong++;
-      newWrong.push(q);
-    }
-  });
+  let correctAns = (q.answer || q.trảlời || "")
+    .toString()
+    .trim()
+    .toLowerCase();
 
+  if (correctAns === "một") correctAns = "a";
+
+  // 🔥 đảm bảo có weight
+  q.weight = q.weight || 1;
+  q.correctCount = q.correctCount || 0;
+  q.wrongCount = q.wrongCount || 0;
+
+  if (userAns === correctAns) {
+    correct++;
+    q.correctCount++;
+
+    // ✔ ĐÚNG → giảm xuất hiện
+    q.weight = Math.max(1, q.weight - 0.3);
+
+  } else {
+    wrong++;
+    newWrong.push(q);
+    q.wrongCount++;
+
+    // ❌ SAI → tăng xuất hiện
+    q.weight = Math.min(10, q.weight + 1.2);
+  }
+});
+localStorage.setItem("questionData", JSON.stringify(data));
   wrongPool = newWrong;
 
   // Bao bọc toàn bộ bằng background xám nhạt để làm nổi bật trang giấy A4 màu trắng bên trong
