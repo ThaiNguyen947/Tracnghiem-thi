@@ -1,5 +1,509 @@
  [
   {
+    "question": "Việc trông nom, chăm sóc, nuôi dưỡng, giáo dục con sau khi ly hôn được áp dụng theo quy định tại các điều nào của Luật Hôn nhân và gia đình 2014?",
+    "a": "Điều 78, 79, 80, 81",
+    "b": "Điều 81, 82, 83, 84",
+    "c": "Điều 85, 86, 87, 88",
+    "d": "Điều 90, 91, 92, 93",
+    "answer": "b",
+    "explanation": "Theo Điều 58 Luật HNGĐ 2014Luật Hôn nhân và gia đình 2014, việc nuôi dưỡng, chăm sóc, giáo dục con sau ly hôn được áp dụng theo Điều 81, 82, 83, 84."
+  },
+  {
+    "question": "Khi chia tài sản chung của vợ chồng khi ly hôn, tài sản chung được chia theo nguyên tắc nào?",
+    "a": "Chia đều tuyệt đối không xét yếu tố khác",
+    "b": "Chia theo thỏa thuận của bên thứ ba",
+    "c": "Chia đôi nhưng có xét đến các yếu tố theo luật định",
+    "d": "Thuộc về người đứng tên tài sản",
+    "answer": "c",
+    "explanation": "Theo Điều 59 Luật HNGĐ 2014, tài sản chung được chia đôi nhưng có tính đến hoàn cảnh, công sức đóng góp, lợi ích nghề nghiệp và lỗi của mỗi bên."
+  },
+  {
+    "question": "Khi tài sản riêng của vợ hoặc chồng đã nhập vào tài sản chung thì khi ly hôn xử lý như thế nào?",
+    "a": "Vẫn thuộc tài sản riêng tuyệt đối",
+    "b": "Bị tịch thu toàn bộ",
+    "c": "Có thể được chia theo thỏa thuận hoặc theo giá trị đóng góp",
+    "d": "Thuộc về con chung",
+    "answer": "c",
+    "explanation": "Theo khoản 4 Điều 59 Luật HNGĐ 2014, tài sản riêng đã nhập vào tài sản chung được giải quyết theo thỏa thuận hoặc thanh toán phần giá trị đóng góp."
+  },
+  {
+    "question": "Quyền, nghĩa vụ tài sản của vợ chồng đối với người thứ ba sau khi ly hôn được xử lý như thế nào?",
+    "a": "Tự động chấm dứt",
+    "b": "Vẫn có hiệu lực trừ khi có thỏa thuận khác",
+    "c": "Do Tòa án hủy bỏ toàn bộ",
+    "d": "Chỉ còn hiệu lực với người chồng",
+    "answer": "b",
+    "explanation": "Theo Điều 60 Luật HNGĐ 2014, nghĩa vụ với người thứ ba vẫn có hiệu lực sau ly hôn nếu không có thỏa thuận khác."
+  },
+  {
+    "question": "Khi vợ chồng sống chung với gia đình và ly hôn nhưng không xác định được tài sản riêng thì giải quyết như thế nào?",
+    "a": "Toàn bộ tài sản thuộc gia đình",
+    "b": "Không được chia tài sản",
+    "c": "Được chia một phần dựa trên công sức đóng góp",
+    "d": "Thuộc về người đứng tên hộ khẩu",
+    "answer": "c",
+    "explanation": "Theo Điều 61 Luật HNGĐ 2014, vợ hoặc chồng được chia một phần tài sản dựa trên công sức đóng góp nếu không xác định được phần riêng."
+  },
+  {
+    "question": "Quyền sử dụng đất là tài sản riêng của vợ hoặc chồng khi ly hôn sẽ được xử lý như thế nào?",
+    "a": "Luôn chia đôi",
+    "b": "Thuộc về bên còn sống",
+    "c": "Vẫn thuộc về bên có quyền sử dụng đất đó",
+    "d": "Chuyển cho con chung",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 62 Luật HNGĐ 2014, quyền sử dụng đất là tài sản riêng thì vẫn thuộc về bên sở hữu khi ly hôn."
+  },
+  {
+    "question": "Quyền lưu cư của vợ hoặc chồng sau khi ly hôn được kéo dài tối đa bao lâu?",
+    "a": "3 tháng",
+    "b": "6 tháng",
+    "c": "12 tháng",
+    "d": "24 tháng",
+    "answer": "b",
+    "explanation": "Theo Điều 63 Luật HNGĐ 2014, người có khó khăn về chỗ ở được quyền lưu cư tối đa 06 tháng sau khi hôn nhân chấm dứt."
+  },
+  {
+    "question": "Khi vợ hoặc chồng chết, thời điểm chấm dứt hôn nhân được xác định như thế nào?",
+    "a": "Ngày đăng ký khai tử",
+    "b": "Ngày Tòa án tuyên bố",
+    "c": "Thời điểm vợ hoặc chồng chết",
+    "d": "Ngày gia đình xác nhận",
+    "answer": "c",
+    "explanation": "Theo Điều 65 Luật HNGĐ 2014, hôn nhân chấm dứt kể từ thời điểm vợ hoặc chồng chết."
+  },
+  {
+    "question": "Khi một bên vợ chồng chết, tài sản chung được xử lý như thế nào?",
+    "a": "Toàn bộ thuộc người còn sống",
+    "b": "Chia đôi, phần người chết được chia thừa kế",
+    "c": "Thuộc về Nhà nước",
+    "d": "Không được chia",
+    "answer": "b",
+    "explanation": "Theo Điều 66 Luật HNGĐ 2014, tài sản chung được chia đôi, phần của người chết được chia theo thừa kế."
+  },
+  {
+    "question": "Nếu người bị Tòa án tuyên bố là đã chết trở về và chưa kết hôn lại, quan hệ hôn nhân được xử lý thế nào?",
+    "a": "Luôn phải ly hôn lại",
+    "b": "Tự động hủy bỏ hôn nhân cũ",
+    "c": "Hôn nhân được khôi phục",
+    "d": "Phải đăng ký lại kết hôn",
+    "answer": "c",
+    "explanation": "Theo Điều 67 Luật HNGĐ 2014, nếu chưa kết hôn mới thì quan hệ hôn nhân được khôi phục khi quyết định tuyên bố chết bị hủy."
+  },
+  {
+    "question": "Tài sản có được trong thời gian từ khi bị tuyên bố chết đến khi quyết định được hủy thuộc loại tài sản nào?",
+    "a": "Tài sản chung",
+    "b": "Tài sản của Nhà nước",
+    "c": "Tài sản riêng",
+    "d": "Tài sản thừa kế",
+    "answer": "c",
+    "explanation": "Theo Điều 67 Luật HNGĐ 2014, tài sản phát sinh trong thời gian bị tuyên bố chết đến khi hủy quyết định là tài sản riêng."
+  },
+  {
+    "question": "Sau khi ly hôn, Tòa án giao con cho mẹ trực tiếp nuôi. Người cha cho rằng mình không còn nghĩa vụ cấp dưỡng vì không trực tiếp nuôi con. Nhận định nào đúng?",
+    "a": "Đúng, vì không trực tiếp nuôi thì không phải cấp dưỡng",
+    "b": "Sai, cha vẫn có nghĩa vụ cấp dưỡng cho con",
+    "c": "Tùy vào thỏa thuận của hai bên",
+    "d": "Chỉ phải cấp dưỡng nếu mẹ yêu cầu",
+    "answer": "b",
+    "explanation": "Theo Điều 82 Luật HNGĐ 2014 (liên quan Điều 58), cha mẹ không trực tiếp nuôi con vẫn có nghĩa vụ cấp dưỡng cho con."
+  },
+  {
+    "question": "Khi ly hôn, vợ chồng tranh chấp tài sản chung. Một bên yêu cầu chia toàn bộ theo tỷ lệ 70-30 do mình là người đứng tên tài sản. Tòa án xử lý thế nào là đúng?",
+    "a": "Chấp nhận vì đứng tên tài sản",
+    "b": "Từ chối vì tài sản luôn chia đôi tuyệt đối",
+    "c": "Xem xét chia đôi nhưng có tính công sức, hoàn cảnh và lỗi",
+    "d": "Chia theo yêu cầu người có thu nhập cao hơn",
+    "answer": "c",
+    "explanation": "Theo Điều 59 Luật HNGĐ 2014, tài sản chung chia đôi nhưng có tính đến công sức đóng góp, hoàn cảnh, lợi ích nghề nghiệp và lỗi của mỗi bên."
+  },
+  {
+    "question": "Vợ chồng có thỏa thuận tài sản trước hôn nhân nhưng nội dung không quy định rõ cách chia khi ly hôn. Khi ly hôn, Tòa án sẽ áp dụng như thế nào?",
+    "a": "Bắt buộc theo thỏa thuận dù không rõ",
+    "b": "Áp dụng quy định của pháp luật về chia tài sản chung",
+    "c": "Không giải quyết tài sản",
+    "d": "Tài sản thuộc về người đứng tên",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 59 Luật HNGĐ 2014, nếu thỏa thuận không đầy đủ, rõ ràng thì áp dụng quy định của pháp luật."
+  },
+  {
+    "question": "Trong trường hợp vợ chồng đang vay nợ chung người thứ ba, sau ly hôn thì nghĩa vụ trả nợ được xử lý như thế nào?",
+    "a": "Tự động chấm dứt nghĩa vụ",
+    "b": "Chỉ người đứng tên vay trả",
+    "c": "Vẫn có hiệu lực và phải thực hiện theo luật dân sự",
+    "d": "Chia đôi nợ nhưng người chồng chịu chính",
+    "answer": "c",
+    "explanation": "Theo Điều 60 Luật HNGĐ 2014, nghĩa vụ với người thứ ba vẫn có hiệu lực sau ly hôn."
+  },
+  {
+    "question": "Vợ chồng sống chung với gia đình chồng, không xác định được tài sản riêng. Khi ly hôn, người vợ yêu cầu chia toàn bộ tài sản hộ gia đình. Cách giải quyết đúng là:",
+    "a": "Chia toàn bộ tài sản gia đình",
+    "b": "Không chia vì là tài sản chung gia đình",
+    "c": "Chỉ chia phần đóng góp của vợ vào khối tài sản chung",
+    "d": "Tịch thu tài sản giao cho con",
+    "answer": "c",
+    "explanation": "Theo Điều 61 Luật HNGĐ 2014, chỉ chia phần tài sản tương ứng công sức đóng góp."
+  },
+  {
+    "question": "Trường hợp đất ở là tài sản chung nhưng khi ly hôn chỉ một bên có nhu cầu tiếp tục sử dụng. Cách giải quyết đúng là:",
+    "a": "Bên có nhu cầu được giữ toàn bộ không phải trả gì",
+    "b": "Bắt buộc bán chia đôi",
+    "c": "Bên có nhu cầu được sử dụng nhưng phải thanh toán phần giá trị cho bên kia",
+    "d": "Giao toàn bộ cho con chung",
+    "answer": "c",
+    "explanation": "Theo Điều 62 Luật HNGĐ 2014, bên tiếp tục sử dụng phải thanh toán giá trị phần còn lại."
+  },
+  {
+    "question": "Sau ly hôn, một người không có nơi ở ngay lập tức và yêu cầu ở lại nhà của vợ/chồng cũ. Thời hạn tối đa quyền lưu cư là:",
+    "a": "3 tháng",
+    "b": "6 tháng",
+    "c": "1 năm",
+    "d": "Không giới hạn",
+    "answer": "b",
+    "explanation": "Theo Điều 63 Luật HNGĐ 2014, quyền lưu cư tối đa 06 tháng trừ khi có thỏa thuận khác."
+  },
+  {
+    "question": "Người chồng chết, nhưng trước đó có lập di chúc để lại toàn bộ tài sản cho người em ruột. Người vợ có bị loại khỏi việc chia tài sản không?",
+    "a": "Có, vì di chúc ưu tiên tuyệt đối",
+    "b": "Không, vì tài sản chung phải chia trước",
+    "c": "Có, nếu vợ không yêu cầu",
+    "d": "Tùy Tòa án quyết định",
+    "answer": "b",
+    "explanation": "Theo Điều 66 Luật HNGĐ 2014, tài sản chung phải chia đôi trước, phần của người chết mới chia thừa kế."
+  },
+  {
+    "question": "Khi Tòa án tuyên bố một người đã chết, nếu người này trở về và vợ/chồng đã kết hôn với người khác thì quan hệ hôn nhân cũ:",
+    "a": "Tự động khôi phục",
+    "b": "Có hiệu lực trở lại",
+    "c": "Không được khôi phục vì đã có hôn nhân mới hợp pháp",
+    "d": "Bắt buộc hủy hôn nhân mới",
+    "answer": "c",
+    "explanation": "Theo Điều 67 Luật HNGĐ 2014, nếu đã kết hôn mới thì hôn nhân cũ không được khôi phục."
+  },
+  {
+    "question": "Một người bị tuyên bố là đã chết, trong thời gian đó người vợ tạo lập tài sản mới từ kinh doanh riêng. Khi người chồng trở về, tài sản này được xác định là:",
+    "a": "Tài sản chung",
+    "b": "Tài sản của người chồng",
+    "c": "Tài sản riêng của người vợ",
+    "d": "Phải chia đôi",
+    "answer": "c",
+    "explanation": "Theo Điều 67 Luật HNGĐ 2014, tài sản tạo lập trong thời gian tuyên bố chết có hiệu lực là tài sản riêng."
+  },
+  {
+    "question": "Khi ly hôn, nếu một bên chứng minh được mình có công sức lớn hơn trong việc tạo lập tài sản chung thì Tòa án:",
+    "a": "Bắt buộc chia 100% cho người đó",
+    "b": "Không xem xét công sức",
+    "c": "Xem xét để chia phần tài sản tương xứng",
+    "d": "Chia theo người đứng tên",
+    "answer": "c",
+    "explanation": "Điều 59 Luật HNGĐ 2014 quy định công sức đóng góp là một yếu tố quan trọng khi chia tài sản."
+  },
+  {
+    "question": "Trong trường hợp tài sản chung không thể chia bằng hiện vật, Tòa án sẽ:",
+    "a": "Không chia tài sản",
+    "b": "Bán đấu giá chia tiền",
+    "c": "Chia theo giá trị, bên nhận nhiều hơn phải thanh toán chênh lệch",
+    "d": "Giao hết cho con",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 59 Luật HNGĐ 2014, nếu không chia hiện vật thì chia theo giá trị."
+  },
+  {
+    "question": "Sau khi ly hôn, cha mẹ thỏa thuận con 10 tuổi sẽ do cha trực tiếp nuôi. Tuy nhiên, Tòa án không công nhận thỏa thuận này mà giao con cho mẹ. Căn cứ đúng của Tòa án là gì?",
+    "a": "Luôn ưu tiên người có thu nhập cao hơn",
+    "b": "Căn cứ quyền lợi mọi mặt của con chưa thành niên",
+    "c": "Bắt buộc con trên 7 tuổi phải hỏi ý kiến và giao cho cha",
+    "d": "Theo hộ khẩu của cha mẹ",
+    "answer": "b",
+    "explanation": "Theo Điều 81 khoản 2 Luật HNGĐ 2014: việc giao con từ đủ 7 tuổi trở lên phải xem xét nguyện vọng và quyền lợi mọi mặt của con, không phụ thuộc thu nhập hay hộ khẩu."
+  },
+  {
+    "question": "Vợ chồng thỏa thuận chế độ tài sản nhưng không xác định rõ cách xử lý tài sản riêng đã nhập vào tài sản chung. Khi ly hôn, Tòa án sẽ xử lý như thế nào?",
+    "a": "Tài sản riêng vẫn giữ nguyên tuyệt đối",
+    "b": "Không giải quyết do thiếu thỏa thuận",
+    "c": "Áp dụng quy định pháp luật về tài sản chung và phần giá trị đóng góp",
+    "d": "Thuộc về bên đứng tên",
+    "answer": "c",
+    "explanation": "Theo khoản 4 Điều 59 Luật HNGĐ 2014: tài sản riêng đã nhập vào tài sản chung được giải quyết theo giá trị đóng góp nếu không có thỏa thuận khác."
+  },
+  {
+    "question": "Trong vụ ly hôn, một bên yêu cầu chia tài sản theo lỗi của bên kia vì cho rằng bên kia ngoại tình nên phải nhận phần ít hơn. Quy định pháp luật xử lý yếu tố lỗi như thế nào?",
+    "a": "Lỗi là yếu tố duy nhất quyết định chia tài sản",
+    "b": "Không được xem xét lỗi trong chia tài sản",
+    "c": "Lỗi là một trong các yếu tố để chia tài sản",
+    "d": "Lỗi chỉ áp dụng với tài sản riêng",
+    "answer": "c",
+    "explanation": "Theo điểm d khoản 2 Điều 59 Luật HNGĐ 2014: lỗi của mỗi bên trong vi phạm quyền, nghĩa vụ vợ chồng là yếu tố xem xét khi chia tài sản."
+  },
+  {
+    "question": "Sau ly hôn, một bên yêu cầu Tòa án chia tài sản chung bằng hiện vật, nhưng tài sản là một căn nhà không thể chia đôi hợp lý. Cách xử lý đúng là:",
+    "a": "Không chia tài sản",
+    "b": "Bán đấu giá bắt buộc",
+    "c": "Chia theo giá trị, bên nhận nhà phải thanh toán chênh lệch",
+    "d": "Giao toàn bộ cho người đứng tên",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 59 Luật HNGĐ 2014: nếu không chia được bằng hiện vật thì chia theo giá trị và thanh toán chênh lệch."
+  },
+  {
+    "question": "Khi vợ chồng đang kinh doanh bằng tài sản chung, một bên sau ly hôn yêu cầu tiếp tục đứng tên toàn bộ tài sản kinh doanh. Điều kiện pháp luật cho phép là:",
+    "a": "Luôn được ưu tiên người tạo ra lợi nhuận cao hơn",
+    "b": "Chỉ cần một bên yêu cầu là được",
+    "c": "Được nhận tài sản và phải thanh toán phần giá trị cho bên kia",
+    "d": "Tài sản kinh doanh phải chia đôi bằng hiện vật",
+    "answer": "c",
+    "explanation": "Theo Điều 64 Luật HNGĐ 2014: bên đang kinh doanh có quyền nhận tài sản và phải thanh toán giá trị cho bên kia."
+  },
+  {
+    "question": "Trong trường hợp tài sản chung của vợ chồng không thể xác định phần sở hữu riêng khi sống chung với gia đình, Tòa án sẽ căn cứ chủ yếu vào yếu tố nào?",
+    "a": "Hộ khẩu thường trú",
+    "b": "Công sức đóng góp vào khối tài sản chung",
+    "c": "Người đứng tên tài sản",
+    "d": "Thời gian kết hôn",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 61 Luật HNGĐ 2014: việc chia tài sản căn cứ vào công sức đóng góp và đời sống chung của gia đình."
+  },
+  {
+    "question": "Một người đang sử dụng đất nông nghiệp chung với hộ gia đình. Khi ly hôn, người kia không trực tiếp sử dụng đất nhưng yêu cầu chia quyền sử dụng đất. Cách giải quyết đúng là:",
+    "a": "Không được chia vì không trực tiếp sử dụng",
+    "b": "Chia theo quy định Điều 59 nếu xác định được phần quyền sử dụng",
+    "c": "Thuộc về người đang canh tác",
+    "d": "Tịch thu toàn bộ",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 2 Điều 62 Luật HNGĐ 2014: quyền sử dụng đất chung với hộ gia đình được tách ra và chia theo Điều 59."
+  },
+  {
+    "question": "Nhà ở là tài sản riêng của chồng nhưng vợ đã sinh sống ổn định trong đó nhiều năm. Khi ly hôn, vợ yêu cầu tiếp tục ở lại lâu dài. Quyền lưu cư được hiểu như thế nào?",
+    "a": "Quyền sở hữu chuyển sang vợ",
+    "b": "Được ở tối đa 6 tháng nếu khó khăn về chỗ ở",
+    "c": "Được ở vô thời hạn",
+    "d": "Không có quyền lưu cư",
+    "answer": "b",
+    "explanation": "Theo Điều 63 Luật HNGĐ 2014: bên khó khăn về chỗ ở được quyền lưu cư tối đa 06 tháng."
+  },
+  {
+    "question": "Sau khi vợ hoặc chồng chết, người còn sống muốn quản lý toàn bộ tài sản chung nhưng di chúc chỉ định người khác quản lý di sản. Cách xử lý đúng là:",
+    "a": "Người còn sống luôn có quyền quản lý",
+    "b": "Theo chỉ định trong di chúc hoặc thỏa thuận thừa kế",
+    "c": "Tòa án tự động giao cho người còn sống",
+    "d": "Không ai được quản lý tài sản",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 66 Luật HNGĐ 2014: việc quản lý tài sản do di chúc hoặc thỏa thuận người thừa kế quyết định."
+  },
+  {
+    "question": "Trong trường hợp người chết để lại tài sản chung vợ chồng, nếu việc chia di sản ảnh hưởng nghiêm trọng đến đời sống người còn sống thì:",
+    "a": "Bắt buộc chia ngay toàn bộ",
+    "b": "Người còn sống có quyền yêu cầu hạn chế phân chia di sản",
+    "c": "Không được chia tài sản",
+    "d": "Tài sản thuộc về Nhà nước",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 66 Luật HNGĐ 2014 và Bộ luật Dân sự 2015: có thể yêu cầu hạn chế phân chia di sản."
+  },
+  {
+    "question": "Người bị tuyên bố chết trở về, quan hệ hôn nhân được khôi phục khi nào?",
+    "a": "Ngay khi người đó trở về",
+    "b": "Khi Tòa án hủy quyết định tuyên bố chết và vợ/chồng chưa kết hôn mới",
+    "c": "Luôn khôi phục bất kể tình trạng hôn nhân mới",
+    "d": "Phải đăng ký kết hôn lại",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 67 Luật HNGĐ 2014: chỉ khôi phục khi Tòa án hủy quyết định tuyên bố chết và chưa kết hôn với người khác."
+  },
+  {
+    "question": "Tài sản tạo lập trong thời gian từ khi có quyết định tuyên bố chết đến khi quyết định bị hủy thuộc loại tài sản nào?",
+    "a": "Tài sản chung vợ chồng",
+    "b": "Tài sản thừa kế",
+    "c": "Tài sản riêng của người tạo lập",
+    "d": "Tài sản của người còn sống",
+    "answer": "c",
+    "explanation": "Theo điểm a khoản 2 Điều 67 Luật HNGĐ 2014: tài sản tạo lập trong thời gian này là tài sản riêng."
+  },
+ {
+    "question": "Sau khi ly hôn, cha mẹ thỏa thuận giao con 8 tuổi cho cha trực tiếp nuôi, nhưng Tòa án vẫn giao cho mẹ vì cho rằng mẹ có thu nhập thấp hơn nhưng thời gian chăm sóc con nhiều hơn. Căn cứ pháp lý của Tòa án là gì?",
+    "a": "Ưu tiên người có thu nhập cao",
+    "b": "Căn cứ quyền lợi mọi mặt của con",
+    "c": "Bắt buộc con trên 7 tuổi theo cha",
+    "d": "Theo hộ khẩu",
+    "answer": "b",
+    "explanation": "Điều 81 khoản 2 Luật HNGĐ 2014: Tòa án quyết định căn cứ quyền lợi mọi mặt của con, không phụ thuộc thu nhập hay thỏa thuận nếu không phù hợp lợi ích con."
+  },
+  {
+    "question": "Vợ chồng có tài sản chung, một bên cho rằng tài sản đứng tên mình là tài sản riêng nên không phải chia. Pháp luật xử lý thế nào?",
+    "a": "Đúng, đứng tên là sở hữu",
+    "b": "Sai, phải chứng minh nguồn gốc tài sản",
+    "c": "Đúng nếu là bất động sản",
+    "d": "Tòa án không giải quyết",
+    "answer": "b",
+    "explanation": "Điều 33 và Điều 59 Luật HNGĐ 2014: tài sản chung không phụ thuộc vào việc đứng tên mà phụ thuộc nguồn gốc hình thành và chứng minh."
+  },
+  {
+    "question": "Trong chia tài sản khi ly hôn, yếu tố nào sau đây KHÔNG phải căn cứ bắt buộc Tòa án phải xem xét theo Điều 59?",
+    "a": "Hoàn cảnh gia đình",
+    "b": "Công sức đóng góp",
+    "c": "Lỗi vi phạm nghĩa vụ vợ chồng",
+    "d": "Ý kiến hàng xóm",
+    "answer": "d",
+    "explanation": "Điều 59 khoản 2 Luật HNGĐ 2014 chỉ quy định các yếu tố nội tại của vợ chồng, không bao gồm ý kiến người thứ ba."
+  },
+  {
+    "question": "Tài sản chung của vợ chồng không chia được bằng hiện vật. Cách xử lý đúng là:",
+    "a": "Không chia",
+    "b": "Chia theo giá trị và thanh toán chênh lệch",
+    "c": "Giao cho con",
+    "d": "Thuộc người đứng tên",
+    "answer": "b",
+    "explanation": "Điều 59 khoản 3 Luật HNGĐ 2014: nếu không chia được bằng hiện vật thì chia theo giá trị."
+  },
+  {
+    "question": "Sau ly hôn, người chồng không trực tiếp nuôi con cho rằng mình không phải cấp dưỡng vì đã giao quyền nuôi cho mẹ. Nhận định đúng là:",
+    "a": "Đúng, không nuôi thì không cấp dưỡng",
+    "b": "Sai, vẫn phải cấp dưỡng",
+    "c": "Tùy thỏa thuận",
+    "d": "Chỉ cấp dưỡng khi Tòa án yêu cầu",
+    "answer": "b",
+    "explanation": "Điều 82 Luật HNGĐ 2014: cha mẹ không trực tiếp nuôi con có nghĩa vụ cấp dưỡng."
+  },
+  {
+    "question": "Khi vợ chồng có nợ chung với người thứ ba, sau ly hôn nghĩa vụ này:",
+    "a": "Chấm dứt",
+    "b": "Chỉ người ký vay chịu",
+    "c": "Vẫn có hiệu lực theo pháp luật dân sự",
+    "d": "Chuyển cho con",
+    "answer": "c",
+    "explanation": "Điều 60 Luật HNGĐ 2014: nghĩa vụ tài sản với người thứ ba không chấm dứt khi ly hôn."
+  },
+  {
+    "question": "Vợ chồng sống chung với gia đình, không xác định được tài sản riêng. Khi ly hôn, Tòa án căn cứ chủ yếu vào:",
+    "a": "Người đứng tên hộ khẩu",
+    "b": "Công sức đóng góp",
+    "c": "Người giữ giấy tờ tài sản",
+    "d": "Người có thu nhập cao",
+    "answer": "b",
+    "explanation": "Điều 61 khoản 1 Luật HNGĐ 2014: chia dựa trên công sức đóng góp vào khối tài sản chung gia đình."
+  },
+{
+    "question": "Quyền sử dụng đất là tài sản chung, chỉ một bên có nhu cầu tiếp tục sử dụng. Cách giải quyết đúng:",
+    "a": "Giao luôn không bồi hoàn",
+    "b": "Phải bán chia tiền",
+    "c": "Được tiếp tục sử dụng nhưng phải thanh toán phần giá trị",
+    "d": "Thuộc người đứng tên",
+    "answer": "c",
+    "explanation": "Căn cứ điểm a khoản 2 Điều 62 Luật HNGĐ 2014: 'Đối với đất ở và các loại đất khác thuộc tài sản chung của vợ chồng thì khi ly hôn, nếu một bên có nhu cầu và có điều kiện tiếp tục sử dụng thì được tiếp tục sử dụng nhưng phải thanh toán cho bên kia phần giá trị quyền sử dụng đất mà họ được hưởng.'"
+  },
+  {
+    "question": "Nhà ở là tài sản riêng của chồng nhưng vợ đang sinh sống. Sau ly hôn, quyền lưu cư tối đa là:",
+    "a": "3 tháng",
+    "b": "6 tháng",
+    "c": "12 tháng",
+    "d": "Không giới hạn",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 63 Luật HNGĐ 2014: 'Nhà ở thuộc sở hữu riêng của vợ, chồng đã đưa vào sử dụng chung thì khi ly hôn vẫn thuộc sở hữu riêng; trường hợp bên không có chỗ ở thì được quyền lưu cư trong thời hạn 06 tháng kể từ ngày chấm dứt hôn nhân, trừ trường hợp có thỏa thuận khác.'"
+  },
+  {
+    "question": "Tài sản riêng của vợ chồng đã nhập vào tài sản chung khi ly hôn được xử lý:",
+    "a": "Vẫn là tài sản riêng tuyệt đối",
+    "b": "Không chia",
+    "c": "Thanh toán phần giá trị đóng góp nếu không thỏa thuận khác",
+    "d": "Thuộc về con",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 4 Điều 59 Luật HNGĐ 2014: 'Trong trường hợp có sự sáp nhập, trộn lẫn giữa tài sản riêng với tài sản chung mà vợ chồng có yêu cầu thì được thanh toán phần giá trị tài sản mà mình đóng góp vào khối tài sản đó, trừ trường hợp có thỏa thuận khác.'"
+  },
+  {
+    "question": "Vợ chồng có thỏa thuận tài sản nhưng không rõ ràng khi ly hôn, Tòa án:",
+    "a": "Không áp dụng luật",
+    "b": "Áp dụng toàn bộ thỏa thuận",
+    "c": "Áp dụng phần rõ, phần không rõ áp dụng luật",
+    "d": "Hủy thỏa thuận",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 59 Luật HNGĐ 2014: 'Trong trường hợp thỏa thuận về chế độ tài sản không đầy đủ, rõ ràng thì áp dụng quy định tương ứng của pháp luật để giải quyết.'"
+  },
+  {
+    "question": "Theo Luật HNGĐ 2014, khi Tòa án hủy quyết định tuyên bố một người là đã chết, quan hệ tài sản giữa vợ chồng được xử lý như thế nào?",
+    "a": "Luôn khôi phục toàn bộ tài sản chung như trước khi tuyên bố chết",
+    "b": "Tài sản phát sinh trong thời gian bị tuyên bố chết luôn là tài sản chung",
+    "c": "Quan hệ tài sản được khôi phục kể từ thời điểm quyết định hủy tuyên bố chết có hiệu lực, trừ tài sản phát sinh trong thời gian đó",
+    "d": "Toàn bộ tài sản phải chia lại theo ly hôn",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 67 Luật HNGĐ 2014: quan hệ tài sản được khôi phục từ thời điểm quyết định hủy tuyên bố chết có hiệu lực."
+  },
+  {
+    "question": "Theo Luật HNGĐ 2014, tài sản do vợ hoặc chồng tạo lập trong thời gian từ khi có quyết định tuyên bố chết đến khi quyết định đó bị hủy được xác định là:",
+    "a": "Tài sản chung của vợ chồng",
+    "b": "Tài sản riêng của người tạo lập",
+    "c": "Tài sản thuộc sở hữu Nhà nước",
+    "d": "Tài sản phải chia đôi",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 67 Luật HNGĐ 2014: tài sản phát sinh trong thời gian có hiệu lực tuyên bố chết đến khi hủy quyết định là tài sản riêng của người đó."
+  },
+  {
+    "question": "Trong trường hợp người bị tuyên bố là đã chết trở về và hôn nhân được khôi phục, thời điểm khôi phục quan hệ tài sản được xác định là:",
+    "a": "Từ thời điểm người đó trở về",
+    "b": "Từ thời điểm kết hôn ban đầu",
+    "c": "Từ thời điểm quyết định hủy tuyên bố chết có hiệu lực",
+    "d": "Từ thời điểm Tòa án xét xử lại",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 67 Luật HNGĐ 2014: quan hệ tài sản được khôi phục kể từ thời điểm quyết định của Tòa án hủy tuyên bố chết có hiệu lực."
+  },
+  {
+    "question": "Theo Luật HNGĐ 2014, việc xác định tài sản trong thời gian người bị tuyên bố là đã chết được giải quyết theo nguyên tắc nào?",
+    "a": "Luôn chia đôi như tài sản chung",
+    "b": "Được coi là tài sản riêng của người tạo lập trong thời gian đó",
+    "c": "Thuộc về người còn sống",
+    "d": "Thuộc về con chung",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 67 quy định rõ: tài sản hình thành trong thời gian này là tài sản riêng của người đó."
+  },
+  {
+    "question": "Nhận định nào sau đây đúng theo Luật HNGĐ 2014?",
+    "a": "Mọi tài sản của vợ chồng luôn được khôi phục lại như cũ khi hủy tuyên bố chết",
+    "b": "Chỉ quan hệ hôn nhân được khôi phục, tài sản không thay đổi",
+    "c": "Quan hệ tài sản được khôi phục từ thời điểm hủy quyết định và tài sản phát sinh trong thời gian tuyên bố chết là tài sản riêng",
+    "d": "Tài sản luôn phải chia lại như khi ly hôn",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 67 Luật HNGĐ 2014 điều chỉnh đồng thời 2 vấn đề: thời điểm khôi phục quan hệ tài sản và xác định tài sản riêng trong thời gian tuyên bố chết."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình 2014, tài sản do vợ hoặc chồng có được trong khoảng thời gian nào sau đây được xác định là tài sản riêng?",
+    "a": "Từ thời điểm kết hôn đến khi có quyết định ly hôn có hiệu lực",
+    "b": "Từ thời điểm bị Tòa án tuyên bố là đã chết đến khi có quyết định hủy tuyên bố chết có hiệu lực",
+    "c": "Từ thời điểm mất tích đến khi trở về",
+    "d": "Từ thời điểm ly thân đến khi ly hôn",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 67 Luật HNGĐ 2014: tài sản phát sinh từ thời điểm quyết định tuyên bố chết có hiệu lực đến khi quyết định hủy bỏ tuyên bố chết có hiệu lực là tài sản riêng của người đó."
+  },
+  {
+    "question": "Nhận định nào sau đây đúng theo Luật HNGĐ 2014?",
+    "a": "Tài sản phát sinh trong thời gian bị tuyên bố chết là tài sản chung của vợ chồng",
+    "b": "Tài sản phát sinh trong thời gian bị tuyên bố chết luôn bị chia đôi",
+    "c": "Tài sản phát sinh trong thời gian bị tuyên bố chết là tài sản riêng của người đó",
+    "d": "Tài sản trong thời gian này thuộc về người còn sống",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 67 Luật HNGĐ 2014: tài sản hình thành trong thời gian từ khi có quyết định tuyên bố chết đến khi hủy quyết định là tài sản riêng của người đó."
+  },
+  {
+    "question": "Trong thời gian một người bị Tòa án tuyên bố là đã chết, người vợ tạo lập tài sản từ hoạt động kinh doanh riêng. Khi người đó trở về, tài sản này được xác định như thế nào?",
+    "a": "Là tài sản chung của vợ chồng",
+    "b": "Là tài sản riêng của người bị tuyên bố chết",
+    "c": "Là tài sản riêng của người vợ tạo lập trong thời gian đó",
+    "d": "Phải chia đôi khi khôi phục hôn nhân",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 67 Luật HNGĐ 2014: tài sản phát sinh trong thời gian có hiệu lực tuyên bố chết thuộc sở hữu riêng của người tạo lập trong thời gian đó."
+  },
+  {
+    "question": "Ý nghĩa pháp lý của việc xác định tài sản trong thời gian bị tuyên bố là đã chết là gì?",
+    "a": "Đảm bảo mọi tài sản luôn quay về chế độ tài sản chung",
+    "b": "Xác định lại toàn bộ tài sản như thời kỳ hôn nhân ban đầu",
+    "c": "Phân định rõ tài sản phát sinh trong thời gian đó thuộc sở hữu riêng",
+    "d": "Xóa bỏ toàn bộ quan hệ tài sản giữa vợ chồng",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 67 Luật HNGĐ 2014 nhằm phân định rõ: tài sản phát sinh trong thời gian bị tuyên bố chết là tài sản riêng của người tạo lập."
+  },
+  {
+    "question": "Cách hiểu đúng nhất về quy định 'tài sản riêng trong thời gian bị tuyên bố chết' là gì?",
+    "a": "Tài sản luôn thuộc về người còn sống",
+    "b": "Tài sản hình thành trong giai đoạn pháp lý đặc biệt này thuộc về người tạo lập",
+    "c": "Tài sản phải chia theo thừa kế",
+    "d": "Tài sản thuộc Nhà nước quản lý",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 67 Luật HNGĐ 2014: tài sản hình thành từ khi có quyết định tuyên bố chết đến khi hủy quyết định là tài sản riêng của người tạo lập."
+  },
+  {
     "question": "Theo quy định, hợp đồng chuyển nhượng toàn bộ phần vốn góp của toàn bộ thành viên hợp danh phải có chữ ký của ai?",
     "a": "Chỉ các công chứng viên chuyển nhượng.",
     "b": "Chỉ các công chứng viên nhận chuyển nhượng.",
