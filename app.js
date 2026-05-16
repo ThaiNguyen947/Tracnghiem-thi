@@ -74,7 +74,29 @@ function shuffle(arr) {
   }
   return a;
 }
+function smartShuffle(arr, groupSize = 3) {
+  let groups = [];
+  let result = [];
 
+  // chia nhóm nhỏ
+  for (let i = 0; i < arr.length; i += groupSize) {
+    groups.push(arr.slice(i, i + groupSize));
+  }
+
+  // trộn từng nhóm nhỏ
+  groups = groups.map(g => shuffle(g));
+
+  // rải kiểu chia bài
+  let maxLen = Math.max(...groups.map(g => g.length));
+
+  for (let i = 0; i < maxLen; i++) {
+    for (let g of groups) {
+      if (g[i]) result.push(g[i]);
+    }
+  }
+
+  return result;
+}
 // ================= START EXAM =================
 function startExam() {
   answers = {};
@@ -107,7 +129,7 @@ function startExam() {
     list.push(q);
   }
 
-  questions = shuffle(list).slice(0, 100);
+  questions = smartShuffle(list).slice(0, 100);
 
   render();
   startTimer();
