@@ -1025,6 +1025,871 @@
     "trả lời": "b",
     "giải thích": "Căn cứ theo quy định tại Khoản 2 Điều 35 Luật Hôn nhân và Gia đình 2014: 'Việc định đoạt tài sản chung phải có sự thỏa thuận bằng văn bản của vợ chồng trong những trường hợp sau đây: a) Bất động sản; b) Động sản mà theo quy định của pháp luật phải đăng ký quyền sở hữu; c) Tài sản đang là nguồn tạo ra thu nhập chủ yếu của gia đình.' Sổ tiết kiệm 3 tỷ đồng là tài sản chung tích lũy mang giá trị rất lớn (là nguồn tài chính/thu nhập chủ yếu của gia đình), việc định đoạt (mang đi cầm cố chịu rủi ro mất trắng nếu nợ xấu) bắt buộc phải có sự đồng thuận bằng văn bản hoặc cùng ký tên của cả hai vợ chồng."
   },
+ 
+  {
+    "question": "Theo Luật Hôn nhân và gia đình 2014, vợ chồng có thể đại diện cho nhau thông qua hình thức nào?",
+    "a": "Chỉ theo ủy quyền",
+    "b": "Chỉ theo quyết định của Tòa án",
+    "c": "Theo luật, theo ủy quyền và theo quyết định của Tòa án trong một số trường hợp",
+    "d": "Chỉ khi có tài sản chung",
+    "answer": "c",
+    "explanation": "Điều 24 quy định việc đại diện giữa vợ chồng có thể theo pháp luật, theo ủy quyền hoặc theo quyết định của Tòa án trong trường hợp luật định."
+  },
+  {
+    "question": "Trong trường hợp vợ chồng kinh doanh chung, ai là người đại diện hợp pháp?",
+    "a": "Người có thu nhập cao hơn",
+    "b": "Người trực tiếp tham gia quan hệ kinh doanh",
+    "c": "Người đứng tên giấy phép kinh doanh",
+    "d": "Cả hai chỉ được đại diện khi có văn bản",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 25 quy định người trực tiếp tham gia quan hệ kinh doanh là đại diện hợp pháp của nhau."
+  },
+  {
+    "question": "Nếu tài sản chung chỉ đứng tên một người trên giấy chứng nhận thì tài sản đó được xác định như thế nào?",
+    "a": "Mặc nhiên là tài sản riêng",
+    "b": "Mặc nhiên là tài sản chung",
+    "c": "Vẫn có thể là tài sản chung",
+    "d": "Thuộc sở hữu Nhà nước",
+    "answer": "c",
+    "explanation": "Điều 26 và Điều 34 quy định việc chỉ đứng tên một người không làm mất tính chất tài sản chung."
+  },
+  {
+    "question": "Vợ chồng chịu trách nhiệm liên đới đối với giao dịch nào sau đây?",
+    "a": "Giao dịch nhằm đáp ứng nhu cầu thiết yếu của gia đình",
+    "b": "Giao dịch cá cược riêng của chồng",
+    "c": "Nợ phát sinh trước hôn nhân",
+    "d": "Hành vi vi phạm pháp luật cá nhân",
+    "answer": "a",
+    "explanation": "Điều 27 và Điều 30 quy định vợ chồng liên đới chịu trách nhiệm đối với giao dịch phục vụ nhu cầu thiết yếu của gia đình."
+  },
+  {
+    "question": "Vợ chồng có quyền lựa chọn áp dụng chế độ tài sản nào?",
+    "a": "Chỉ chế độ theo luật định",
+    "b": "Chỉ chế độ theo thỏa thuận",
+    "c": "Theo luật định hoặc theo thỏa thuận",
+    "d": "Theo quyết định của Tòa án",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 28 quy định vợ chồng có quyền lựa chọn chế độ tài sản theo luật định hoặc theo thỏa thuận."
+  },
+  {
+    "question": "Theo nguyên tắc chung về chế độ tài sản, lao động trong gia đình được xác định như thế nào?",
+    "a": "Không được xem là đóng góp tài sản",
+    "b": "Chỉ được tính khi có thu nhập",
+    "c": "Được bình đẳng với lao động có thu nhập",
+    "d": "Do Tòa án xác định",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 29 quy định không phân biệt giữa lao động trong gia đình và lao động có thu nhập."
+  },
+  {
+    "question": "Giao dịch liên quan đến nhà là nơi ở duy nhất của vợ chồng phải đáp ứng điều kiện nào?",
+    "a": "Chỉ cần người đứng tên đồng ý",
+    "b": "Phải có sự thỏa thuận của vợ chồng",
+    "c": "Chỉ cần công chứng",
+    "d": "Không cần điều kiện gì",
+    "answer": "b",
+    "explanation": "Điều 31 quy định giao dịch liên quan đến nhà ở duy nhất phải có sự thỏa thuận của vợ chồng."
+  },
+  {
+    "question": "Tài sản nào sau đây là tài sản chung của vợ chồng?",
+    "a": "Tài sản có trước hôn nhân",
+    "b": "Tài sản được thừa kế riêng",
+    "c": "Thu nhập do lao động trong thời kỳ hôn nhân",
+    "d": "Tài sản phục vụ nhu cầu cá nhân",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 33 quy định thu nhập do lao động trong thời kỳ hôn nhân là tài sản chung."
+  },
+  {
+    "question": "Trong trường hợp không chứng minh được tài sản đang tranh chấp là tài sản riêng thì tài sản đó được xác định là gì?",
+    "a": "Tài sản riêng",
+    "b": "Tài sản chung",
+    "c": "Tài sản Nhà nước",
+    "d": "Tài sản vô chủ",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 33 quy định nếu không chứng minh được là tài sản riêng thì được coi là tài sản chung."
+  },
+  {
+    "question": "Việc định đoạt bất động sản là tài sản chung của vợ chồng phải như thế nào?",
+    "a": "Do chồng quyết định",
+    "b": "Do vợ quyết định",
+    "c": "Có sự thỏa thuận bằng văn bản của vợ chồng",
+    "d": "Chỉ cần công chứng",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 35 quy định định đoạt bất động sản phải có sự thỏa thuận bằng văn bản."
+  },
+  {
+    "question": "Việc chia tài sản chung trong thời kỳ hôn nhân phải được lập dưới hình thức nào?",
+    "a": "Lời nói",
+    "b": "Tin nhắn",
+    "c": "Văn bản",
+    "d": "Không cần hình thức",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 38 quy định việc chia tài sản chung phải lập thành văn bản."
+  },
+  {
+    "question": "Việc chia tài sản chung trong thời kỳ hôn nhân bị vô hiệu khi nào?",
+    "a": "Khi nhằm trốn tránh nghĩa vụ trả nợ",
+    "b": "Khi có công chứng",
+    "c": "Khi được cả hai đồng ý",
+    "d": "Khi chia một phần tài sản",
+    "answer": "a",
+    "explanation": "Điều 42 quy định việc chia tài sản nhằm trốn tránh nghĩa vụ trả nợ sẽ bị vô hiệu."
+  },
+  {
+    "question": "Tài sản nào sau đây là tài sản riêng của vợ hoặc chồng?",
+    "a": "Tiền lương trong thời kỳ hôn nhân",
+    "b": "Tài sản có trước khi kết hôn",
+    "c": "Tài sản được tặng cho chung",
+    "d": "Hoa lợi từ tài sản chung",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 43 quy định tài sản có trước khi kết hôn là tài sản riêng."
+  },
+  {
+    "question": "Nghĩa vụ nào sau đây là nghĩa vụ riêng về tài sản của vợ hoặc chồng?",
+    "a": "Chi phí chữa bệnh cho con",
+    "b": "Nghĩa vụ phát sinh từ giao dịch không vì nhu cầu gia đình",
+    "c": "Nợ do cùng ký kết",
+    "d": "Nghĩa vụ phát sinh từ tài sản chung",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 45 quy định nghĩa vụ phát sinh từ giao dịch không vì nhu cầu gia đình là nghĩa vụ riêng."
+  },
+  {
+    "question": "Thỏa thuận về chế độ tài sản của vợ chồng phải được lập vào thời điểm nào?",
+    "a": "Sau khi kết hôn",
+    "b": "Trong thời kỳ hôn nhân",
+    "c": "Trước khi kết hôn",
+    "d": "Khi ly hôn",
+    "answer": "c",
+    "explanation": "Điều 47 quy định thỏa thuận chế độ tài sản phải được lập trước khi kết hôn."
+  },
+  {
+    "question": "Anh A và chị B là vợ chồng, cùng kinh doanh cửa hàng vật liệu xây dựng. Trong một giao dịch mua hàng với công ty X, chỉ anh A trực tiếp ký hợp đồng. Theo Luật Hôn nhân và gia đình 2014, ai được xem là đại diện hợp pháp trong quan hệ kinh doanh này?",
+    "a": "Chỉ chị B",
+    "b": "Chỉ anh A",
+    "c": "Anh A là người đại diện hợp pháp của chị B trong quan hệ kinh doanh đó",
+    "d": "Không ai được xem là đại diện",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 25 quy định trong trường hợp vợ chồng kinh doanh chung thì người trực tiếp tham gia quan hệ kinh doanh là người đại diện hợp pháp của nhau."
+  },
+  {
+    "question": "Vợ chồng ông M có căn nhà là nơi ở duy nhất của gia đình. Nhà thuộc tài sản riêng của ông M trước hôn nhân. Ông M tự ý bán nhà mà không hỏi ý kiến vợ. Theo quy định pháp luật, nhận định nào đúng?",
+    "a": "Ông M được toàn quyền bán vì là tài sản riêng",
+    "b": "Ông M chỉ được bán nếu có sự đồng ý của vợ hoặc phải bảo đảm chỗ ở cho vợ chồng",
+    "c": "Ông M không được quyền bán trong mọi trường hợp",
+    "d": "Nhà đương nhiên trở thành tài sản chung",
+    "answer": "b",
+    "explanation": "Điều 31 quy định nhà là nơi ở duy nhất dù là tài sản riêng thì khi giao dịch vẫn phải bảo đảm chỗ ở cho vợ chồng."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình 2014, tài sản nào sau đây được xác định là tài sản chung của vợ chồng?",
+    "a": "Tài sản được thừa kế riêng trong thời kỳ hôn nhân",
+    "b": "Tài sản có trước hôn nhân",
+    "c": "Thu nhập từ hoạt động kinh doanh trong thời kỳ hôn nhân",
+    "d": "Tài sản phục vụ nhu cầu thiết yếu cá nhân",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 33 quy định thu nhập do hoạt động sản xuất, kinh doanh trong thời kỳ hôn nhân là tài sản chung."
+  },
+  {
+    "question": "Chị H được cha mẹ tặng riêng một căn hộ sau khi kết hôn. Sau đó chị H bán căn hộ và dùng tiền mua một chiếc xe ô tô đứng tên riêng. Chiếc xe được xác định là:",
+    "a": "Tài sản chung",
+    "b": "Tài sản riêng của chị H",
+    "c": "Tài sản chung nếu đứng tên chị H",
+    "d": "Tài sản của cha mẹ chị H",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 43 quy định tài sản được hình thành từ tài sản riêng vẫn là tài sản riêng."
+  },
+  {
+    "question": "Theo Điều 35 Luật Hôn nhân và gia đình 2014, việc định đoạt tài sản chung là bất động sản phải đáp ứng điều kiện nào?",
+    "a": "Chỉ cần một bên ký tên",
+    "b": "Chỉ cần người đứng tên trên giấy chứng nhận đồng ý",
+    "c": "Phải có sự thỏa thuận bằng văn bản của vợ chồng",
+    "d": "Không cần điều kiện đặc biệt",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 35 quy định định đoạt bất động sản là tài sản chung phải có sự thỏa thuận bằng văn bản."
+  },
+  {
+    "question": "Ông A có khoản nợ riêng phát sinh từ việc cá độ bóng đá trong thời kỳ hôn nhân. Chủ nợ yêu cầu cả bà B là vợ ông A cùng trả nợ. Theo quy định pháp luật, khoản nợ này được xác định như thế nào?",
+    "a": "Là nghĩa vụ chung của vợ chồng",
+    "b": "Là nghĩa vụ riêng của ông A",
+    "c": "Bà B phải liên đới trả một nửa",
+    "d": "Được thanh toán từ tài sản chung",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 45 quy định nghĩa vụ phát sinh từ giao dịch không vì nhu cầu gia đình là nghĩa vụ riêng."
+  },
+  {
+    "question": "Trong trường hợp không có căn cứ chứng minh tài sản đang tranh chấp là tài sản riêng thì tài sản đó được xác định như thế nào?",
+    "a": "Thuộc người đứng tên",
+    "b": "Là tài sản riêng của người quản lý",
+    "c": "Là tài sản chung của vợ chồng",
+    "d": "Do Tòa án tự quyết định",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 33 quy định nếu không chứng minh được là tài sản riêng thì tài sản được coi là tài sản chung."
+  },
+  {
+    "question": "Vợ chồng anh K lập văn bản chia toàn bộ tài sản chung nhằm tránh bị kê biên để trả nợ cho ngân hàng. Theo Luật Hôn nhân và gia đình 2014, văn bản này:",
+    "a": "Có hiệu lực nếu hai bên tự nguyện",
+    "b": "Có hiệu lực nếu được công chứng",
+    "c": "Bị vô hiệu do nhằm trốn tránh nghĩa vụ trả nợ",
+    "d": "Chỉ vô hiệu một phần",
+    "answer": "c",
+    "explanation": "Điều 42 quy định việc chia tài sản nhằm trốn tránh nghĩa vụ trả nợ là vô hiệu."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình 2014, thỏa thuận xác lập chế độ tài sản của vợ chồng phải được lập:",
+    "a": "Trong thời kỳ hôn nhân",
+    "b": "Trước khi kết hôn và phải công chứng hoặc chứng thực",
+    "c": "Sau khi kết hôn 30 ngày",
+    "d": "Bằng lời nói trước người làm chứng",
+    "answer": "b",
+    "explanation": "Điều 47 quy định thỏa thuận chế độ tài sản phải lập trước khi kết hôn bằng văn bản có công chứng hoặc chứng thực."
+  },
+  {
+    "question": "Anh T đứng tên duy nhất trên giấy chứng nhận quyền sử dụng đất được mua sau khi kết hôn bằng tiền lương của hai vợ chồng. Khi ly hôn, anh T cho rằng đây là tài sản riêng vì chỉ mình anh đứng tên. Nhận định nào đúng?",
+    "a": "Đây là tài sản riêng của anh T",
+    "b": "Đây là tài sản chung của vợ chồng nếu không chứng minh được là tài sản riêng",
+    "c": "Đây là tài sản của người đứng tên",
+    "d": "Đây là tài sản riêng nếu không có công chứng",
+    "answer": "b",
+    "explanation": "Điều 33 và Điều 34 quy định quyền sử dụng đất có được sau hôn nhân thường là tài sản chung, việc chỉ đứng tên một người không làm thay đổi bản chất."
+  },
+  {
+    "question": "Theo Điều 30 Luật Hôn nhân và gia đình 2014, giao dịch nào sau đây được xem là nhằm đáp ứng nhu cầu thiết yếu của gia đình?",
+    "a": "Mua xe sang để sưu tầm",
+    "b": "Đầu tư tiền ảo",
+    "c": "Vay tiền chữa bệnh cho con",
+    "d": "Mua đất đầu cơ",
+    "answer": "c",
+    "explanation": "Điều 30 quy định vợ chồng có quyền thực hiện giao dịch nhằm đáp ứng nhu cầu thiết yếu của gia đình như chữa bệnh, sinh hoạt."
+  },
+  {
+    "question": "Bà D có tài khoản ngân hàng đứng tên riêng. Bà tự giao dịch rút toàn bộ tiền trong tài khoản với ngân hàng. Ngân hàng không biết đây là tài sản chung của vợ chồng. Theo quy định về người thứ ba ngay tình:",
+    "a": "Ngân hàng phải chịu trách nhiệm hoàn trả cho chồng bà D",
+    "b": "Giao dịch đương nhiên vô hiệu",
+    "c": "Bà D được coi là người có quyền giao dịch với ngân hàng",
+    "d": "Giao dịch chỉ có hiệu lực khi chồng đồng ý",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 32 quy định người đứng tên tài khoản được coi là người có quyền xác lập giao dịch với người thứ ba ngay tình."
+  },
+  {
+    "question": "Sau khi chia tài sản chung trong thời kỳ hôn nhân, phần tài sản được chia cho mỗi bên được xác định là:",
+    "a": "Tài sản chung",
+    "b": "Tài sản của gia đình",
+    "c": "Tài sản riêng của mỗi bên",
+    "d": "Tài sản do Tòa án quản lý",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 40 quy định phần tài sản được chia trở thành tài sản riêng của vợ hoặc chồng."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình 2014, việc nhập tài sản riêng vào tài sản chung được thực hiện trên cơ sở nào?",
+    "a": "Quyết định của Tòa án",
+    "b": "Yêu cầu của cha mẹ",
+    "c": "Thỏa thuận của vợ chồng",
+    "d": "Tự động sau 5 năm hôn nhân",
+    "answer": "c",
+    "explanation": "Điều 46 quy định việc nhập tài sản riêng vào tài sản chung được thực hiện theo thỏa thuận của vợ chồng."
+  },
+  {
+    "question": "Ông P có căn nhà riêng cho thuê, tiền cho thuê là nguồn sống duy nhất của cả gia đình. Ông P muốn bán căn nhà mà không hỏi ý kiến vợ. Theo quy định pháp luật:",
+    "a": "Ông P được toàn quyền bán",
+    "b": "Ông P phải được vợ đồng ý",
+    "c": "Căn nhà tự động trở thành tài sản chung",
+    "d": "Chỉ cần thông báo cho vợ",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 44 quy định nếu hoa lợi, lợi tức từ tài sản riêng là nguồn sống duy nhất của gia đình thì việc định đoạt phải có sự đồng ý của bên kia."
+  },
+  {
+    "question": "Ông A bị Tòa án tuyên mất năng lực hành vi dân sự. Bà B là vợ ông A nộp đơn xin ly hôn. Theo quy định của Luật Hôn nhân và gia đình 2014, ai sẽ đại diện cho ông A trong vụ việc ly hôn?",
+    "a": "Bà B đại diện cho ông A",
+    "b": "Cha mẹ ông A đại diện",
+    "c": "Tòa án chỉ định người khác đại diện cho ông A",
+    "d": "Ông A tự tham gia tố tụng",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 24 quy định khi một bên mất năng lực hành vi dân sự và bên kia yêu cầu ly hôn thì Tòa án chỉ định người khác đại diện cho người mất năng lực hành vi dân sự."
+  },
+  {
+    "question": "Chị M tự ý ký hợp đồng chuyển nhượng quyền sử dụng đất là tài sản chung của vợ chồng mà không có sự đồng ý của chồng. Bên mua biết rõ đây là tài sản chung nhưng vẫn giao dịch. Theo quy định pháp luật, giao dịch này:",
+    "a": "Đương nhiên có hiệu lực",
+    "b": "Có hiệu lực nếu đã giao tiền",
+    "c": "Có thể bị tuyên vô hiệu",
+    "d": "Chỉ vô hiệu đối với phần của người chồng",
+    "answer": "c",
+    "explanation": "Điều 35 và Điều 26 quy định việc định đoạt bất động sản là tài sản chung phải có sự thỏa thuận bằng văn bản của vợ chồng."
+  },
+  {
+    "question": "Anh H có căn nhà riêng trước hôn nhân và cho thuê sau khi kết hôn. Khoản tiền cho thuê nhà trong thời kỳ hôn nhân được xác định là:",
+    "a": "Tài sản riêng của anh H",
+    "b": "Tài sản chung của vợ chồng",
+    "c": "Tài sản của người thuê",
+    "d": "Không thuộc sở hữu của ai",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 33 quy định hoa lợi, lợi tức phát sinh từ tài sản riêng trong thời kỳ hôn nhân là tài sản chung, trừ trường hợp luật có quy định khác."
+  },
+  {
+    "question": "Vợ chồng ông T có văn bản thỏa thuận chia tài sản chung lập ngày 10/5/2025 nhưng không ghi thời điểm có hiệu lực. Theo quy định pháp luật, thời điểm có hiệu lực được tính từ:",
+    "a": "Ngày công chứng",
+    "b": "Ngày đăng ký tại UBND",
+    "c": "Ngày 10/5/2025",
+    "d": "Ngày Tòa án công nhận",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 39 quy định nếu văn bản không xác định thời điểm có hiệu lực thì được tính từ ngày lập văn bản."
+  },
+  {
+    "question": "Sau khi chia tài sản chung trong thời kỳ hôn nhân, vợ chồng ông A thỏa thuận chấm dứt hiệu lực của việc chia tài sản. Theo quy định pháp luật, phần tài sản đã được chia trước đó:",
+    "a": "Tự động trở lại thành tài sản chung",
+    "b": "Thuộc sở hữu Nhà nước",
+    "c": "Vẫn thuộc sở hữu riêng của mỗi bên nếu không có thỏa thuận khác",
+    "d": "Được chia lại từ đầu",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 41 quy định phần tài sản đã được chia vẫn thuộc sở hữu riêng của vợ chồng, trừ khi có thỏa thuận khác."
+  },
+  {
+    "question": "Anh B được cha mẹ tặng cho riêng một mảnh đất sau khi kết hôn. Sau đó anh B dùng chính mảnh đất này để đổi lấy một căn hộ khác. Căn hộ mới được xác định là:",
+    "a": "Tài sản chung",
+    "b": "Tài sản riêng của anh B",
+    "c": "Tài sản chung nếu đứng tên cả hai",
+    "d": "Tài sản thuộc cha mẹ anh B",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 43 quy định tài sản hình thành từ tài sản riêng vẫn là tài sản riêng."
+  },
+  {
+    "question": "Vợ chồng ông C có chiếc xe tải là nguồn thu nhập chính của gia đình. Ông C tự ý bán xe mà không hỏi ý kiến vợ. Theo Luật Hôn nhân và gia đình 2014, việc bán xe:",
+    "a": "Hoàn toàn hợp pháp",
+    "b": "Không cần sự đồng ý của vợ",
+    "c": "Phải có sự thỏa thuận của vợ chồng",
+    "d": "Chỉ cần công chứng hợp đồng",
+    "answer": "c",
+    "explanation": "Điểm c khoản 2 Điều 35 quy định việc định đoạt tài sản là nguồn tạo ra thu nhập chủ yếu của gia đình phải có sự thỏa thuận bằng văn bản."
+  },
+  {
+    "question": "Ông D vay tiền để chữa bệnh cho con chung của vợ chồng. Sau đó ông D mất khả năng thanh toán. Chủ nợ yêu cầu cả bà E cùng trả nợ. Theo pháp luật, khoản nợ này:",
+    "a": "Là nghĩa vụ riêng của ông D",
+    "b": "Là nghĩa vụ chung của vợ chồng",
+    "c": "Chỉ được trả bằng tài sản riêng của ông D",
+    "d": "Không được pháp luật bảo vệ",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 37 quy định nghĩa vụ phát sinh nhằm đáp ứng nhu cầu thiết yếu của gia đình là nghĩa vụ chung."
+  },
+  {
+    "question": "Vợ chồng anh K thỏa thuận bằng miệng việc nhập căn nhà riêng của chồng vào tài sản chung. Căn nhà thuộc trường hợp phải đăng ký quyền sở hữu. Theo quy định pháp luật:",
+    "a": "Thỏa thuận có hiệu lực ngay",
+    "b": "Thỏa thuận vô hiệu do không đúng hình thức",
+    "c": "Không cần văn bản",
+    "d": "Chỉ cần có người làm chứng",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 46 quy định việc nhập tài sản riêng vào tài sản chung đối với tài sản phải đăng ký phải tuân thủ hình thức pháp luật quy định."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình 2014, nghĩa vụ nào sau đây là nghĩa vụ chung về tài sản của vợ chồng?",
+    "a": "Nợ phát sinh trước hôn nhân",
+    "b": "Khoản tiền do chồng cá cược bóng đá",
+    "c": "Nghĩa vụ bồi thường thiệt hại do con chưa thành niên gây ra",
+    "d": "Khoản nợ phục vụ du lịch riêng",
+    "answer": "c",
+    "explanation": "Khoản 5 Điều 37 quy định nghĩa vụ bồi thường thiệt hại do con gây ra là nghĩa vụ chung của vợ chồng."
+  },
+  {
+    "question": "Anh P dùng tài sản riêng để sửa chữa, nâng cấp căn nhà là tài sản chung của vợ chồng. Khoản nghĩa vụ phát sinh liên quan đến việc này được xác định là:",
+    "a": "Nghĩa vụ riêng của anh P",
+    "b": "Nghĩa vụ chung của vợ chồng",
+    "c": "Nghĩa vụ của người thi công",
+    "d": "Không thuộc nghĩa vụ tài sản",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 37 quy định nghĩa vụ phát sinh từ việc sử dụng tài sản riêng để duy trì, phát triển khối tài sản chung là nghĩa vụ chung."
+  },
+  {
+    "question": "Vợ chồng anh T lập thỏa thuận chế độ tài sản sau khi đã đăng ký kết hôn được 2 năm. Theo quy định của Luật Hôn nhân và gia đình 2014, thỏa thuận này:",
+    "a": "Đương nhiên hợp pháp",
+    "b": "Có hiệu lực nếu công chứng",
+    "c": "Không phù hợp với quy định về thời điểm xác lập",
+    "d": "Có hiệu lực nếu hai bên tự nguyện",
+    "answer": "c",
+    "explanation": "Điều 47 quy định thỏa thuận xác lập chế độ tài sản phải được lập trước khi kết hôn."
+  },
+  {
+    "question": "Bà H có tài sản riêng là cửa hàng cho thuê và tiền thuê là nguồn sống duy nhất của gia đình. Bà H muốn bán cửa hàng. Theo quy định pháp luật:",
+    "a": "Bà H được tự ý bán",
+    "b": "Bà H phải có sự đồng ý của chồng",
+    "c": "Phải xin phép UBND",
+    "d": "Tài sản đương nhiên là tài sản chung",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 44 quy định nếu hoa lợi, lợi tức từ tài sản riêng là nguồn sống duy nhất của gia đình thì việc định đoạt phải có sự đồng ý của bên kia."
+  },
+  {
+    "question": "Anh M đứng tên sở hữu một xe máy không phải đăng ký quyền sở hữu thay cho vợ. Anh M bán chiếc xe cho ông N là người không biết xe là tài sản chung. Theo quy định về người thứ ba ngay tình:",
+    "a": "Giao dịch luôn vô hiệu",
+    "b": "Ông N có thể được pháp luật bảo vệ",
+    "c": "Ông N phải trả lại xe trong mọi trường hợp",
+    "d": "Chỉ vợ anh M mới có quyền bán",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 32 quy định người thứ ba ngay tình trong giao dịch với động sản không phải đăng ký quyền sở hữu có thể được pháp luật bảo vệ."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình 2014, văn bản chia tài sản chung trong thời kỳ hôn nhân được công chứng:",
+    "a": "Bắt buộc trong mọi trường hợp",
+    "b": "Theo yêu cầu của vợ chồng hoặc theo quy định của pháp luật",
+    "c": "Chỉ khi có bất động sản",
+    "d": "Chỉ khi Tòa án yêu cầu",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 38 quy định văn bản chia tài sản chung được công chứng theo yêu cầu của vợ chồng hoặc theo quy định của pháp luật."
+  },
+  {
+    "question": "Trước khi kết hôn, anh A và chị B lập văn bản thỏa thuận toàn bộ tài sản hình thành trong hôn nhân đều thuộc sở hữu riêng của anh A, làm cho con chung sau này không có quyền được cấp dưỡng. Theo Luật Hôn nhân và gia đình 2014, thỏa thuận này:",
+    "a": "Hoàn toàn hợp pháp nếu được công chứng",
+    "b": "Có hiệu lực vì do hai bên tự nguyện",
+    "c": "Có thể bị Tòa án tuyên vô hiệu",
+    "d": "Chỉ vô hiệu khi có yêu cầu của con",
+    "answer": "c",
+    "explanation": "Điều 50 quy định thỏa thuận chế độ tài sản bị vô hiệu nếu vi phạm nghiêm trọng quyền được cấp dưỡng và quyền, lợi ích hợp pháp của thành viên gia đình."
+  },
+  {
+    "question": "Anh H có khoản nợ ngân hàng phát sinh trước khi vợ chồng lập văn bản chia tài sản chung trong thời kỳ hôn nhân. Sau khi chia tài sản, anh H cho rằng nghĩa vụ trả nợ không còn liên quan đến tài sản đã chia. Nhận định nào đúng?",
+    "a": "Nghĩa vụ trả nợ chấm dứt sau khi chia tài sản",
+    "b": "Ngân hàng không còn quyền yêu cầu thanh toán",
+    "c": "Quyền và nghĩa vụ với người thứ ba phát sinh trước khi chia tài sản vẫn có hiệu lực",
+    "d": "Khoản nợ tự động trở thành nghĩa vụ riêng của vợ",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 39 quy định quyền, nghĩa vụ với người thứ ba phát sinh trước thời điểm chia tài sản có hiệu lực vẫn giữ nguyên giá trị pháp lý."
+  },
+  {
+    "question": "Ông M được tặng cho riêng một căn nhà trước hôn nhân. Sau khi kết hôn, vợ chồng cùng sử dụng tiền chung để sửa chữa, mở rộng căn nhà đáng kể. Khi xảy ra tranh chấp, căn nhà này được xác định như thế nào?",
+    "a": "Hoàn toàn là tài sản chung",
+    "b": "Hoàn toàn là tài sản riêng",
+    "c": "Có thể phát sinh phần giá trị tài sản chung trong khối tài sản riêng",
+    "d": "Đương nhiên thuộc Nhà nước",
+    "answer": "c",
+    "explanation": "Theo nguyên tắc xác định tài sản riêng và công sức đóng góp trong thời kỳ hôn nhân, tài sản riêng có thể phát sinh phần giá trị chung nếu được đầu tư bằng tài sản chung."
+  },
+  {
+    "question": "Chị T được cha mẹ chuyển khoản 800 triệu với nội dung 'cho vợ chồng làm ăn'. Theo quy định pháp luật, khoản tiền này được xác định là:",
+    "a": "Tài sản riêng của chị T",
+    "b": "Tài sản riêng của chồng chị T",
+    "c": "Tài sản chung của vợ chồng",
+    "d": "Không xác định được chủ sở hữu",
+    "answer": "c",
+    "explanation": "Khoản tiền được tặng cho chung vợ chồng là tài sản chung theo khoản 1 Điều 33."
+  },
+  {
+    "question": "Anh P dùng tiền riêng có trước hôn nhân để mua một mảnh đất sau khi kết hôn và chứng minh được nguồn tiền hoàn toàn từ tài sản riêng. Mảnh đất này được xác định là:",
+    "a": "Tài sản chung do mua trong thời kỳ hôn nhân",
+    "b": "Tài sản riêng của anh P",
+    "c": "Tài sản chung nếu chỉ đứng tên anh P",
+    "d": "Tài sản thuộc cả gia đình",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 33 quy định quyền sử dụng đất có được sau hôn nhân là tài sản chung, trừ trường hợp được hình thành từ tài sản riêng."
+  },
+  {
+    "question": "Vợ chồng anh K có thỏa thuận đưa tài sản chung vào kinh doanh nhưng chỉ trao đổi bằng lời nói. Sau đó phát sinh tranh chấp với đối tác. Theo quy định pháp luật, thỏa thuận này:",
+    "a": "Được công nhận đầy đủ",
+    "b": "Không cần hình thức văn bản",
+    "c": "Không phù hợp điều kiện về hình thức",
+    "d": "Đương nhiên vô hiệu mọi giao dịch",
+    "answer": "c",
+    "explanation": "Điều 36 quy định việc đưa tài sản chung vào kinh doanh phải được lập thành văn bản."
+  },
+  {
+    "question": "Con chưa thành niên của vợ chồng ông A gây thiệt hại tài sản cho hàng xóm. Theo Luật Hôn nhân và gia đình 2014, trách nhiệm bồi thường được xác định như thế nào?",
+    "a": "Chỉ người cha chịu trách nhiệm",
+    "b": "Chỉ người mẹ chịu trách nhiệm",
+    "c": "Là nghĩa vụ chung của vợ chồng",
+    "d": "Con tự chịu trách nhiệm",
+    "answer": "c",
+    "explanation": "Khoản 5 Điều 37 quy định nghĩa vụ bồi thường thiệt hại do con gây ra là nghĩa vụ chung của vợ chồng."
+  },
+  {
+    "question": "Sau khi vợ chồng chia tài sản chung trong thời kỳ hôn nhân, anh B cho thuê phần tài sản đã được chia riêng của mình. Khoản tiền cho thuê này được xác định là:",
+    "a": "Tài sản chung của vợ chồng",
+    "b": "Tài sản riêng của anh B",
+    "c": "Tài sản thuộc người thuê",
+    "d": "Thuộc sở hữu chung của gia đình",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 40 quy định sau khi chia tài sản chung, hoa lợi và lợi tức phát sinh từ phần tài sản riêng sau khi chia là tài sản riêng."
+  },
+  {
+    "question": "Anh Q sử dụng chiếc laptop là động sản không phải đăng ký quyền sở hữu để bán cho ông M. Ông M không biết đây là tài sản chung của vợ chồng anh Q. Theo quy định về bảo vệ người thứ ba ngay tình:",
+    "a": "Ông M có thể được pháp luật bảo vệ",
+    "b": "Giao dịch luôn vô hiệu",
+    "c": "Vợ anh Q đương nhiên lấy lại được tài sản",
+    "d": "Laptop bị tịch thu",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 32 quy định người thứ ba ngay tình trong giao dịch với động sản không phải đăng ký quyền sở hữu được pháp luật bảo vệ trong một số trường hợp."
+  },
+  {
+    "question": "Anh D vay tiền để đầu tư tiền ảo phục vụ mục đích cá nhân và bị thua lỗ. Chủ nợ yêu cầu chị H là vợ anh D liên đới trả nợ. Theo quy định pháp luật, khoản nợ này:",
+    "a": "Là nghĩa vụ chung của vợ chồng",
+    "b": "Là nghĩa vụ riêng của anh D",
+    "c": "Được thanh toán từ mọi tài sản của gia đình",
+    "d": "Tự động chia đôi cho vợ chồng",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 45 quy định nghĩa vụ phát sinh từ giao dịch không vì nhu cầu gia đình là nghĩa vụ riêng."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình 2014, trường hợp nào sau đây KHÔNG phải là căn cứ xác lập đại diện giữa vợ và chồng?",
+    "a": "Theo quy định của pháp luật",
+    "b": "Theo ủy quyền",
+    "c": "Theo quyết định của Tòa án trong trường hợp luật định",
+    "d": "Theo yêu cầu của hàng xóm",
+    "answer": "d",
+    "explanation": "Điều 24 quy định đại diện giữa vợ chồng được xác lập theo pháp luật, theo ủy quyền hoặc theo quyết định của Tòa án trong trường hợp luật định."
+  },
+  {
+    "question": "Ông A đứng tên duy nhất trên giấy chứng nhận quyền sử dụng đất là tài sản chung của vợ chồng. Ông A ký hợp đồng chuyển nhượng cho bà B là người hoàn toàn không biết đây là tài sản chung. Theo pháp luật, trong trường hợp này cần xem xét yếu tố nào quan trọng nhất?",
+    "a": "Giá chuyển nhượng",
+    "b": "Thời gian hôn nhân",
+    "c": "Tình trạng ngay tình của người thứ ba",
+    "d": "Độ tuổi của các bên",
+    "answer": "c",
+    "explanation": "Điều 26 quy định giao dịch trái quy định đại diện có thể vô hiệu, trừ trường hợp người thứ ba ngay tình được pháp luật bảo vệ."
+  },
+  {
+    "question": "Sau khi kết hôn, chị M mở tài khoản chứng khoán đứng tên riêng và dùng tiền lương của mình trong thời kỳ hôn nhân để đầu tư. Theo quy định pháp luật, số tiền đầu tư này thông thường được xác định là:",
+    "a": "Tài sản riêng của chị M",
+    "b": "Tài sản chung của vợ chồng",
+    "c": "Tài sản của công ty chứng khoán",
+    "d": "Không thuộc khối tài sản hôn nhân",
+    "answer": "b",
+    "explanation": "Tiền lương trong thời kỳ hôn nhân là tài sản chung theo khoản 1 Điều 33, dù tài khoản đứng tên riêng."
+  },
+  {
+    "question": "Vợ chồng ông T có văn bản thỏa thuận chia quyền sử dụng đất là tài sản chung nhưng chưa hoàn tất thủ tục theo hình thức pháp luật quy định. Theo Điều 39, việc chia tài sản có hiệu lực khi nào?",
+    "a": "Ngay khi ký văn bản",
+    "b": "Ngay khi có người làm chứng",
+    "c": "Khi việc thỏa thuận tuân thủ hình thức pháp luật quy định",
+    "d": "Sau 30 ngày kể từ ngày ký",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 39 quy định đối với tài sản mà giao dịch phải tuân theo hình thức nhất định thì việc chia có hiệu lực từ thời điểm đáp ứng đúng hình thức luật định."
+  },
+  {
+    "question": "Anh N tự ý dùng tài sản riêng để bảo đảm cho khoản vay phục vụ hoạt động kinh doanh chung của gia đình. Nghĩa vụ phát sinh từ giao dịch này được xác định là:",
+    "a": "Nghĩa vụ riêng của anh N",
+    "b": "Nghĩa vụ chung của vợ chồng",
+    "c": "Nghĩa vụ của ngân hàng",
+    "d": "Không phát sinh nghĩa vụ tài sản",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 37 quy định nghĩa vụ phát sinh từ việc sử dụng tài sản riêng để tạo ra nguồn thu nhập chủ yếu của gia đình là nghĩa vụ chung."
+  },
+  {
+    "question": "Vợ chồng ông A đã chia tài sản chung trong thời kỳ hôn nhân theo bản án có hiệu lực của Tòa án. Sau đó hai bên muốn chấm dứt hiệu lực việc chia tài sản chung. Theo quy định pháp luật, việc chấm dứt hiệu lực này:",
+    "a": "Chỉ cần lập giấy viết tay",
+    "b": "Phải được Tòa án công nhận",
+    "c": "Không được phép thực hiện",
+    "d": "Chỉ cần UBND xác nhận",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 41 quy định nếu việc chia tài sản được thực hiện theo bản án của Tòa án thì việc chấm dứt hiệu lực phải được Tòa án công nhận."
+  },
+  {
+    "question": "Trong thời kỳ hôn nhân, vợ chồng thỏa thuận chia toàn bộ tài sản nhằm tránh nghĩa vụ trả nợ cho cá nhân khác. Theo Luật Hôn nhân và gia đình 2014, việc chia tài sản này:",
+    "a": "Luôn hợp pháp nếu có công chứng",
+    "b": "Được pháp luật công nhận",
+    "c": "Có thể bị vô hiệu",
+    "d": "Chỉ vô hiệu khi người cho vay đồng ý",
+    "answer": "c",
+    "explanation": "Điều 42 quy định việc chia tài sản nhằm trốn tránh nghĩa vụ trả nợ có thể bị vô hiệu."
+  },
+  {
+    "question": "Anh H có nghĩa vụ trả khoản nợ phát sinh trước khi kết hôn. Sau khi kết hôn, khoản nợ này được xác định là:",
+    "a": "Nghĩa vụ chung của vợ chồng",
+    "b": "Nghĩa vụ riêng của anh H",
+    "c": "Nghĩa vụ của gia đình hai bên",
+    "d": "Được miễn thực hiện",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 45 quy định nghĩa vụ phát sinh trước hôn nhân là nghĩa vụ riêng."
+  },
+  {
+    "question": "Sau khi kết hôn, chị M được tặng cho riêng một chiếc ô tô. Theo quy định pháp luật, chiếc xe này:",
+    "a": "Đương nhiên là tài sản chung",
+    "b": "Là tài sản riêng của chị M",
+    "c": "Là tài sản của chồng",
+    "d": "Thuộc sở hữu chung gia đình",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 43 quy định tài sản được tặng cho riêng trong thời kỳ hôn nhân là tài sản riêng."
+  },
+  {
+    "question": "Vợ chồng có quyền sửa đổi, bổ sung nội dung thỏa thuận về chế độ tài sản của vợ chồng hay không?",
+    "a": "Không được sửa đổi",
+    "b": "Chỉ được sửa đổi một lần",
+    "c": "Được quyền sửa đổi, bổ sung",
+    "d": "Chỉ Tòa án mới được sửa đổi",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 49 quy định vợ chồng có quyền sửa đổi, bổ sung thỏa thuận về chế độ tài sản."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình 2014, thỏa thuận xác lập chế độ tài sản của vợ chồng phải được lập:",
+    "a": "Sau khi kết hôn",
+    "b": "Trước khi kết hôn",
+    "c": "Sau khi có con",
+    "d": "Bất kỳ thời điểm nào",
+    "answer": "b",
+    "explanation": "Điều 47 quy định thỏa thuận phải được lập trước khi kết hôn."
+  },
+  {
+    "question": "Anh T có tài sản riêng nhưng không thể tự quản lý và cũng không ủy quyền cho người khác quản lý. Trong trường hợp này:",
+    "a": "Tài sản thuộc Nhà nước quản lý",
+    "b": "Vợ có quyền quản lý tài sản đó",
+    "c": "Tài sản trở thành tài sản chung",
+    "d": "Tòa án tự động xử lý",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 44 quy định bên kia có quyền quản lý tài sản riêng trong trường hợp này."
+  },
+  {
+    "question": "Theo Điều 46 Luật Hôn nhân và gia đình 2014, việc nhập tài sản riêng vào tài sản chung được thực hiện dựa trên:",
+    "a": "Quyết định của UBND",
+    "b": "Ý chí một bên",
+    "c": "Thỏa thuận của vợ chồng",
+    "d": "Yêu cầu của cha mẹ",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 46 quy định việc nhập tài sản riêng vào tài sản chung do vợ chồng thỏa thuận."
+  },
+  {
+    "question": "Nội dung nào sau đây là nội dung cơ bản của thỏa thuận chế độ tài sản của vợ chồng?",
+    "a": "Lịch sinh hoạt gia đình",
+    "b": "Tài sản chung, tài sản riêng của vợ chồng",
+    "c": "Quan hệ họ hàng hai bên",
+    "d": "Nơi cư trú của cha mẹ",
+    "answer": "b",
+    "explanation": "Điều 48 quy định nội dung cơ bản gồm xác định tài sản chung và tài sản riêng."
+  },
+  {
+    "question": "Trong trường hợp nội dung thỏa thuận về chế độ tài sản không rõ ràng thì:",
+    "a": "Thỏa thuận đương nhiên vô hiệu",
+    "b": "Áp dụng quy định tương ứng của chế độ tài sản theo luật định",
+    "c": "Tài sản thuộc người đứng tên",
+    "d": "UBND giải quyết",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 48 quy định trường hợp không rõ ràng thì áp dụng chế độ tài sản theo luật định."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình 2014, nghĩa vụ phát sinh từ hành vi vi phạm pháp luật của một bên vợ hoặc chồng là:",
+    "a": "Nghĩa vụ chung",
+    "b": "Nghĩa vụ riêng",
+    "c": "Nghĩa vụ của cả gia đình",
+    "d": "Không phải thực hiện",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 45 quy định nghĩa vụ phát sinh từ hành vi vi phạm pháp luật là nghĩa vụ riêng."
+  },
+  {
+    "question": "Trong trường hợp tài sản riêng đã nhập vào tài sản chung, nghĩa vụ liên quan đến tài sản đó được thực hiện bằng:",
+    "a": "Tài sản riêng của vợ",
+    "b": "Tài sản riêng của chồng",
+    "c": "Tài sản chung",
+    "d": "Ngân sách nhà nước",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 46 quy định nghĩa vụ liên quan được thực hiện bằng tài sản chung."
+  },
+  {
+    "question": "Vợ chồng lập văn bản thỏa thuận chế độ tài sản nhưng không công chứng hoặc chứng thực. Theo Điều 47, thỏa thuận này:",
+    "a": "Đáp ứng đúng hình thức luật định",
+    "b": "Không đúng điều kiện hình thức",
+    "c": "Đương nhiên có hiệu lực",
+    "d": "Không cần xem xét hình thức",
+    "answer": "b",
+    "explanation": "Điều 47 quy định thỏa thuận phải lập thành văn bản có công chứng hoặc chứng thực."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình 2014, tài sản phục vụ nhu cầu thiết yếu của mỗi người thuộc:",
+    "a": "Tài sản chung",
+    "b": "Tài sản riêng",
+    "c": "Tài sản của gia đình",
+    "d": "Tài sản của người đứng tên hộ khẩu",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 43 quy định tài sản phục vụ nhu cầu thiết yếu là tài sản riêng."
+  },
+  {
+    "question": "Một bên vợ chồng dùng tài sản riêng thực hiện giao dịch không nhằm đáp ứng nhu cầu gia đình. Nghĩa vụ phát sinh từ giao dịch này là:",
+    "a": "Nghĩa vụ chung",
+    "b": "Nghĩa vụ riêng",
+    "c": "Nghĩa vụ của cả họ hàng",
+    "d": "Không phát sinh trách nhiệm",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 45 quy định giao dịch không vì nhu cầu gia đình làm phát sinh nghĩa vụ riêng."
+  },
+  {
+    "question": "Nhận định nào sau đây đúng?",
+    "a": "Mọi tài sản hình thành trong thời kỳ hôn nhân đều là tài sản chung",
+    "b": "Tài sản được tặng cho riêng trong thời kỳ hôn nhân là tài sản riêng",
+    "c": "Mọi khoản nợ của vợ hoặc chồng đều là nghĩa vụ chung",
+    "d": "Tài sản đứng tên ai thuộc sở hữu người đó",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 43 quy định tài sản được tặng cho riêng trong thời kỳ hôn nhân là tài sản riêng."
+  },
+  {
+    "question": "Điểm khác biệt cơ bản giữa Điều 38 và Điều 47 Luật Hôn nhân và gia đình 2014 là:",
+    "a": "Điều 38 áp dụng trước kết hôn, Điều 47 áp dụng sau kết hôn",
+    "b": "Điều 38 về chia tài sản trong thời kỳ hôn nhân, Điều 47 về thỏa thuận chế độ tài sản trước kết hôn",
+    "c": "Cả hai đều áp dụng giống nhau",
+    "d": "Điều 47 không yêu cầu hình thức văn bản",
+    "answer": "b",
+    "explanation": "Điều 38 điều chỉnh chia tài sản chung trong thời kỳ hôn nhân; Điều 47 điều chỉnh thỏa thuận chế độ tài sản trước kết hôn."
+  },
+  {
+    "question": "Anh A có căn nhà riêng trước hôn nhân. Sau kết hôn, căn nhà được nhập vào tài sản chung bằng văn bản hợp pháp. Sau đó vợ chồng chia tài sản chung, căn nhà thuộc về chị B. Theo pháp luật, căn nhà này:",
+    "a": "Vẫn là tài sản riêng của anh A",
+    "b": "Thuộc sở hữu của chị B theo thỏa thuận chia tài sản",
+    "c": "Đương nhiên trở lại tài sản chung",
+    "d": "Thuộc Nhà nước quản lý",
+    "answer": "b",
+    "explanation": "Tài sản riêng sau khi nhập vào tài sản chung và được chia hợp pháp sẽ thuộc người được chia."
+  },
+  {
+    "question": "Theo Điều 39 Luật Hôn nhân và gia đình 2014, nếu văn bản chia tài sản chung không ghi thời điểm có hiệu lực thì:",
+    "a": "Có hiệu lực sau 30 ngày",
+    "b": "Có hiệu lực từ ngày đăng ký hộ khẩu",
+    "c": "Có hiệu lực từ ngày lập văn bản",
+    "d": "Không có hiệu lực",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 39 quy định nếu không xác định thời điểm có hiệu lực thì tính từ ngày lập văn bản."
+  },
+  {
+    "question": "Đại diện giữa vợ và chồng khác với trách nhiệm liên đới ở điểm nào?",
+    "a": "Đại diện là việc nhân danh bên kia xác lập giao dịch",
+    "b": "Liên đới là hình thức công chứng",
+    "c": "Hai khái niệm hoàn toàn giống nhau",
+    "d": "Liên đới chỉ áp dụng với tài sản riêng",
+    "answer": "a",
+    "explanation": "Đại diện là việc một bên nhân danh bên kia thực hiện giao dịch; trách nhiệm liên đới là cùng chịu trách nhiệm về nghĩa vụ."
+  },
+  {
+    "question": "Trường hợp nào sau đây bắt buộc phải có sự thỏa thuận bằng văn bản của vợ chồng?",
+    "a": "Mua thực phẩm sinh hoạt",
+    "b": "Bán bất động sản là tài sản chung",
+    "c": "Mua quần áo cá nhân",
+    "d": "Thanh toán tiền điện",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 35 quy định định đoạt bất động sản là tài sản chung phải có thỏa thuận bằng văn bản."
+  },
+  {
+    "question": "Tài sản là nguồn tạo ra thu nhập chủ yếu của gia đình khi định đoạt phải:",
+    "a": "Do một bên tự quyết định",
+    "b": "Có sự thỏa thuận bằng văn bản của vợ chồng",
+    "c": "Không cần sự đồng ý của bên kia",
+    "d": "Chỉ cần người đứng tên quyết định",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 35 quy định việc định đoạt tài sản là nguồn thu nhập chủ yếu phải có thỏa thuận bằng văn bản."
+  },
+  {
+    "question": "Anh T giả chữ ký của vợ để chuyển nhượng quyền sử dụng đất là tài sản chung. Theo pháp luật, giao dịch này:",
+    "a": "Luôn có hiệu lực nếu đã sang tên",
+    "b": "Có thể bị vô hiệu",
+    "c": "Đương nhiên hợp pháp",
+    "d": "Không liên quan đến Luật Hôn nhân và gia đình",
+    "answer": "b",
+    "explanation": "Việc giả chữ ký làm vi phạm quy định về đại diện và sự thỏa thuận của vợ chồng đối với tài sản chung."
+  },
+  {
+    "question": "Ông B mua tài sản từ người chồng dù biết rõ đây là tài sản chung nhưng người vợ không đồng ý bán. Ông B được xác định là:",
+    "a": "Người thứ ba ngay tình",
+    "b": "Người thứ ba không ngay tình",
+    "c": "Người đại diện hợp pháp",
+    "d": "Đồng sở hữu tài sản",
+    "answer": "b",
+    "explanation": "Người biết rõ giao dịch vi phạm quyền của bên còn lại thì không được xem là ngay tình."
+  },
+  {
+    "question": "Vợ có tài sản riêng là căn nhà cho thuê và tiền cho thuê là nguồn sống duy nhất của gia đình. Khi bán căn nhà này:",
+    "a": "Không cần ý kiến chồng",
+    "b": "Phải có sự đồng ý của chồng",
+    "c": "Chỉ cần thông báo cho UBND",
+    "d": "Đương nhiên bị cấm bán",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 44 quy định nếu hoa lợi, lợi tức từ tài sản riêng là nguồn sống duy nhất của gia đình thì việc định đoạt phải có sự đồng ý của bên kia."
+  },
+  {
+    "question": "Khi công chứng hợp đồng chuyển nhượng quyền sử dụng đất hình thành trong thời kỳ hôn nhân nhưng chỉ có chồng ký, công chứng viên cần đặc biệt xem xét:",
+    "a": "Màu giấy chứng nhận",
+    "b": "Tình trạng tài sản chung hay riêng",
+    "c": "Độ tuổi của hàng xóm",
+    "d": "Số điện thoại của bên bán",
+    "answer": "b",
+    "explanation": "Tài sản hình thành trong thời kỳ hôn nhân có thể là tài sản chung nên cần xác định rõ trước khi công chứng."
+  },
+  {
+    "question": "Theo khoản 3 Điều 33 Luật Hôn nhân và gia đình 2014, người cho rằng tài sản tranh chấp là tài sản riêng có nghĩa vụ:",
+    "a": "Không cần chứng minh",
+    "b": "Chứng minh tài sản là tài sản riêng",
+    "c": "Yêu cầu UBND xác nhận",
+    "d": "Tự động được công nhận",
+    "answer": "b",
+    "explanation": "Nếu không chứng minh được là tài sản riêng thì tài sản được xem là tài sản chung."
+  },
+  {
+    "question": "Trường hợp nào sau đây là ngoại lệ làm quyền sử dụng đất có được sau kết hôn không phải tài sản chung?",
+    "a": "Được mua bằng tiền lương",
+    "b": "Được hình thành từ tài sản riêng",
+    "c": "Được sử dụng chung",
+    "d": "Được cấp đổi giấy chứng nhận",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 33 quy định quyền sử dụng đất có được thông qua giao dịch bằng tài sản riêng thì là tài sản riêng."
+  },
+  {
+    "question": "Anh A và chị B lập văn bản chia tài sản nhằm trốn tránh nghĩa vụ cấp dưỡng cho con chưa thành niên. Văn bản này:",
+    "a": "Luôn có hiệu lực",
+    "b": "Có thể bị vô hiệu",
+    "c": "Chỉ vô hiệu khi công chứng sai",
+    "d": "Được pháp luật bảo vệ tuyệt đối",
+    "answer": "b",
+    "explanation": "Điều 42 quy định chia tài sản nhằm trốn tránh nghĩa vụ cấp dưỡng có thể bị vô hiệu."
+  },
+  {
+    "question": "Trong trường hợp không có thỏa thuận khác, hoa lợi phát sinh từ tài sản riêng trong thời kỳ hôn nhân được xác định là:",
+    "a": "Tài sản chung",
+    "b": "Tài sản riêng",
+    "c": "Không thuộc sở hữu ai",
+    "d": "Tài sản của con",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 33 quy định hoa lợi, lợi tức phát sinh từ tài sản riêng trong thời kỳ hôn nhân là tài sản chung."
+  },
+  {
+    "question": "Sau khi chia tài sản chung trong thời kỳ hôn nhân, lợi tức phát sinh từ phần tài sản đã được chia cho mỗi bên là:",
+    "a": "Tài sản chung",
+    "b": "Tài sản riêng",
+    "c": "Tài sản của gia đình",
+    "d": "Không xác định",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 40 quy định lợi tức phát sinh từ phần tài sản đã chia là tài sản riêng."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình 2014, trường hợp nào KHÔNG phải nghĩa vụ chung của vợ chồng?",
+    "a": "Nghĩa vụ bồi thường do con chưa thành niên gây ra",
+    "b": "Khoản vay chữa bệnh cho con",
+    "c": "Khoản nợ do đánh bạc phục vụ mục đích cá nhân",
+    "d": "Nghĩa vụ phát sinh từ định đoạt tài sản chung",
+    "answer": "c",
+    "explanation": "Khoản nợ phát sinh không vì nhu cầu gia đình là nghĩa vụ riêng."
+  },
+  {
+    "question": "Vợ chồng lập thỏa thuận chế độ tài sản nhưng nội dung vi phạm nghiêm trọng quyền thừa kế hợp pháp của con. Theo Điều 50:",
+    "a": "Thỏa thuận vẫn hợp pháp",
+    "b": "Có thể bị Tòa án tuyên vô hiệu",
+    "c": "Đương nhiên có hiệu lực nếu công chứng",
+    "d": "Không thuộc phạm vi điều chỉnh của Luật Hôn nhân và gia đình",
+    "answer": "b",
+    "explanation": "Điều 50 quy định thỏa thuận vi phạm nghiêm trọng quyền thừa kế hợp pháp có thể bị tuyên vô hiệu."
+  },
+  {
+    "question": "Một bên vợ chồng dùng tài sản riêng bảo đảm cho khoản vay nhằm duy trì hoạt động kinh doanh là nguồn thu nhập chủ yếu của gia đình. Nghĩa vụ phát sinh được xác định là:",
+    "a": "Nghĩa vụ riêng",
+    "b": "Nghĩa vụ chung",
+    "c": "Không phát sinh nghĩa vụ",
+    "d": "Nghĩa vụ của doanh nghiệp",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 37 quy định nghĩa vụ phát sinh từ việc dùng tài sản riêng để tạo nguồn thu nhập chủ yếu là nghĩa vụ chung."
+  },
+  {
+    "question": "Khi giải quyết tranh chấp tài sản vợ chồng, yếu tố thời gian trước hay sau hôn nhân có ý nghĩa chủ yếu để:",
+    "a": "Xác định nghĩa vụ thuế",
+    "b": "Xác định tính chất tài sản chung hoặc riêng",
+    "c": "Xác định nơi cư trú",
+    "d": "Xác định tuổi kết hôn",
+    "answer": "b",
+    "explanation": "Thời điểm hình thành tài sản là căn cứ quan trọng để xác định tài sản chung hay riêng."
+  },
+{
+    "question": "Anh T mua quyền sử dụng đất sau khi kết hôn bằng tiền được thừa kế riêng nhưng giấy chứng nhận chỉ ghi tên anh. Sau đó anh dùng đất thế chấp vay vốn phục vụ hoạt động kinh doanh là nguồn thu nhập chính của gia đình. Nhận định nào đúng nhất?",
+    "a": "Quyền sử dụng đất chắc chắn là tài sản chung",
+    "b": "Khoản vay luôn là nghĩa vụ riêng",
+    "c": "Quyền sử dụng đất có thể là tài sản riêng nhưng nghĩa vụ phát sinh có thể là nghĩa vụ chung",
+    "d": "Đất thuộc sở hữu ngân hàng",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 43 quy định tài sản được hình thành từ tài sản riêng là tài sản riêng. Tuy nhiên khoản 4 Điều 37 quy định nghĩa vụ phát sinh từ việc sử dụng tài sản riêng để tạo nguồn thu nhập chủ yếu của gia đình là nghĩa vụ chung của vợ chồng."
+  },
 {
   "câu hỏi": "Một công ty tài chính chuyên ngành (Tổ chức tín dụng phi ngân hàng) phát hành một Chứng chỉ tiền gửi ghi danh cho cá nhân ông Nguyễn Văn A. Sau đó, ông A mang Chứng chỉ tiền gửi này đến Văn phòng công chứng đề nghị công chứng Hợp đồng cầm cố để bảo đảm cho khoản vay của mình tại Ngân hàng thương mại X. Công chứng viên phải xử lý tình huống này như thế nào?",
   "a": "Thực hiện công chứng bình thường vì Chứng chỉ tiền gửi là giấy tờ có giá, thuộc quyền sở hữu hợp pháp của ông A.",
