@@ -59,13 +59,14 @@ fetch("cauhoi.json")
   .then(json => {
     data = json;
 
+    // init weight system
     data.forEach(q => {
       q.weight = q.weight || 1;
       q.correctCount = q.correctCount || 0;
       q.wrongCount = q.wrongCount || 0;
-      q.lastSeen = q.lastSeen || 0;
     });
 
+    // restore memory
     let saved = localStorage.getItem("questionData");
     if (saved) {
       let savedData = JSON.parse(saved);
@@ -78,7 +79,6 @@ fetch("cauhoi.json")
           q.weight = s.weight || 1;
           q.correctCount = s.correctCount || 0;
           q.wrongCount = s.wrongCount || 0;
-          q.lastSeen = s.lastSeen || 0;
         }
       });
     }
@@ -117,7 +117,7 @@ function smartShuffle(arr, groupSize = 3) {
   return result;
 }
 
-// ================= WEIGHT PICK (GIỮ NGUYÊN) =================
+// ================= WEIGHT PICK =================
 function weightedPick(arr, count) {
   let pool = [...arr];
   let result = [];
@@ -144,62 +144,6 @@ function weightedPick(arr, count) {
   return result;
 }
 
-// ================= 🔥 AI SCORE =================
-function calculateAIScore(q) {
-  q.correctCount = q.correctCount || 0;
-  q.wrongCount = q.wrongCount || 0;
-  q.weight = q.weight || 1;
-
-  let total = q.correctCount + q.wrongCount;
-  let correctRate = total === 0 ? 0.5 : q.correctCount / total;
-
-  let difficulty = q.difficulty || 3;
-
-  let lastSeen = q.lastSeen || 0;
-  let recency = lastSeen
-    ? (Date.now() - lastSeen) / (1000 * 60 * 60 * 24)
-    : 10;
-
-  return (
-    (1 - correctRate) * 5 +
-    difficulty +
-    Math.min(recency, 10) +
-    q.weight
-  );
-}
-
-// ================= 🔥 AI SELECT =================
-function smartAISelect(arr, count) {
-  let pool = [...arr];
-  let result = [];
-
-  for (let i = 0; i < count; i++) {
-    if (!pool.length) break;
-
-    let total = 0;
-
-    for (let q of pool) {
-      q.score = calculateAIScore(q);
-      total += q.score;
-    }
-
-    let r = Math.random() * total;
-    let sum = 0;
-
-    for (let j = 0; j < pool.length; j++) {
-      sum += pool[j].score;
-
-      if (r <= sum) {
-        result.push(pool[j]);
-        pool.splice(j, 1);
-        break;
-      }
-    }
-  }
-
-  return result;
-}
-
 // ================= START EXAM =================
 function startExam() {
   answers = {};
@@ -209,6 +153,7 @@ function startExam() {
   let used = new Set();
   let list = [];
 
+  // 1. ưu tiên câu sai
   for (let q of wrongPool) {
     let t = q.question || q.cauhoi;
     if (!used.has(t)) {
@@ -217,6 +162,7 @@ function startExam() {
     }
   }
 
+  // 2. thêm câu chưa dùng
   for (let q of data) {
     let t = q.question || q.cauhoi;
     if (!used.has(t)) {
@@ -225,14 +171,16 @@ function startExam() {
     }
   }
 
+  // 3. chống trùng hoàn toàn
   list = list.filter((q, i, arr) =>
     arr.findIndex(x => (x.question || x.cauhoi) === (q.question || q.cauhoi)) === i
   );
 
+  // 4. shuffle + rải đều
   list = smartShuffle(list);
 
-  // 🔥 CHỈ SỬA DÒNG NÀY
-  questions = smartAISelect(list, 100);
+  // 5. chọn theo weight
+  questions = weightedPick(list, 100);
 
   render();
   startTimer();
@@ -351,8 +299,7 @@ function startTimer() {
     let s = time % 60;
 
     let el = document.getElementById("time");
-    if (el) el.innerText =
-      `${String(m).padStart(2,"0")}:${String(s).padStart(2,"0")}`;
+    if (el) el.innerText = `${String(m).padStart(2,"0")}:${String(s).padStart(2,"0")}`;
 
     if (time <= 0) submit();
   }, 1000);
@@ -367,8 +314,6 @@ function submit() {
   let newWrong = [];
 
   questions.forEach((q, i) => {
-    q.lastSeen = Date.now(); // 🔥 AI learning
-
     let userAns = (answers[i] || "").toLowerCase().trim();
 
     let correctAns = (q.answer || q.trảlời || "")
@@ -400,4 +345,4 @@ function submit() {
       <button onclick="location.reload()">Thi lại</button>
     </div>
   `;
-}
+} viết lại toàn bộ vào đây, k xóa bớt, k lược bỏ gì hết
