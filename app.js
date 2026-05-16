@@ -62,7 +62,7 @@ function login() {
   document.getElementById("loginBox").style.display = "none";
   document.getElementById("app").style.display = "block";
   
-enableProtectionForSubAccounts();
+  enableProtectionForSubAccounts();
   startExam();
 }
 
@@ -92,7 +92,7 @@ function checkLogin() {
   startExam();
 }
 
-// ================= LOAD DATA (ĐÃ SỬA LỖI MẤT WEIGHT) =================
+// ================= LOAD DATA =================
 const localData = localStorage.getItem("questionData");
 if (localData) {
   data = JSON.parse(localData);
@@ -122,7 +122,7 @@ function shuffle(arr) {
   return a;
 }
 
-// ================= WEIGHTED PICK (ĐÃ SỬA LỖI ĐÈ MẢNG GÂY UNDEFINED) =================
+// ================= WEIGHTED PICK =================
 function weightedPick(arr, count) {
   let pool = [...arr];
   let result = [];
@@ -145,7 +145,8 @@ function weightedPick(arr, count) {
   }
   return result;
 }
-// ================= START EXAM (ĐÃ SỬA TẬN GỐC LỖI UNDEFINED) =================
+
+// ================= START EXAM (ĐÃ DỌN SẠCH ĐOẠN TRÙNG LẶP) =================
 function startExam() {
   answers = {};
   index = 0;
@@ -156,7 +157,7 @@ function startExam() {
 
   // 2. Lọc ra nhóm câu hỏi ưu tiên (Chưa làm hoặc làm sai) dựa vào ID duy nhất của câu hỏi
   let priorityQuestions = data.filter((q, i) => {
-    let qId = q.id || `q-${i}`; // Nếu không có trường id, tự tạo id bằng index gốc của nó
+    let qId = q.id || `q-${i}`; 
     return !correctPool.includes(qId);
   });
 
@@ -189,20 +190,6 @@ function startExam() {
 
   // Chốt danh sách câu hỏi hợp lệ (Loại bỏ hoàn toàn các phần tử null/undefined nếu có)
   questions = list.filter(q => q && (q.question || q.cauhoi)).slice(0, Math.min(100, list.length));
-
-  render();
-  startTimer();
-}
-
-  // TRƯỜNG HỢP ĐẶC BIỆT: Nếu học viên đã làm đúng hết sạch sành sanh bộ đề từ trước
-  if (list.length === 0) {
-    alert("Chúc mừng! Bạn đã hoàn thành đúng tất cả các câu hỏi trong bộ đề. Hệ thống sẽ tự động làm mới (reset) lại từ đầu!");
-    localStorage.removeItem("correctPool");
-    list = shuffle([...data]);
-  }
-
-  // Chốt danh sách câu hỏi cho lượt thi này (Tối đa 100 câu)
-  questions = list.slice(0, Math.min(100, list.length));
 
   render();
   startTimer();
@@ -342,7 +329,7 @@ function startTimer() {
   }, 1000);
 }
 
-// ================= SUBMIT (ĐỒNG BỘ LƯU THEO ID AN TOÀN) =================
+// ================= SUBMIT =================
 function submit() {
   clearInterval(timer);
 
@@ -362,7 +349,6 @@ function submit() {
     q.correctCount = q.correctCount || 0;
     q.wrongCount = q.wrongCount || 0;
 
-    // Tìm hoặc tự tạo ID cố định cho câu hỏi dựa vào vị trí của nó trong mảng data gốc
     let originalIndex = data.findIndex(x => (x.question || x.cauhoi) === (q.question || q.cauhoi));
     let qId = q.id || `q-${originalIndex !== -1 ? originalIndex : i}`;
 
@@ -427,7 +413,7 @@ function submit() {
   filterResult('all');
 }
 
-// ================= FILTER RESULT LIST (ĐÃ XÓA MÀU ĐEN) =================
+// ================= FILTER RESULT LIST =================
 function filterResult(type) {
   currentFilter = type;
   let listContainer = document.getElementById("result-list");
@@ -438,12 +424,10 @@ function filterResult(type) {
   const btnWrong = document.getElementById("btn-filter-wrong");
 
   if(btnAll && btnCorrect && btnWrong) {
-    // Trạng thái mặc định (khi chưa chọn)
     btnAll.style.cssText = "background: #f1f3f5; color: #555; border: 1px solid #dee2e6;";
     btnCorrect.style.cssText = "background: #e8f5e9; color: #2e7d32; border: 1px solid #c8e6c9;";
     btnWrong.style.cssText = "background: #ffebee; color: #c62828; border: 1px solid #ffcdd2;";
 
-    // 🔥 ĐÃ ĐỔI: Khi bấm vào "Tất cả câu hỏi", nút sẽ hóa màu xanh ngọc ton-sur-ton dễ chịu, không bị đen thui nữa
     if (type === 'all') btnAll.style.cssText = "background: #00796b; color: #fff; border: 1px solid #00796b; font-weight: bold;";
     if (type === 'correct') btnCorrect.style.cssText = "background: #2e7d32; color: #fff; border: 1px solid #2e7d32; font-weight: bold;";
     if (type === 'wrong') btnWrong.style.cssText = "background: #c62828; color: #fff; border: 1px solid #c62828; font-weight: bold;";
@@ -527,49 +511,42 @@ function filterResult(type) {
 
   listContainer.innerHTML = html || `<p style='text-align:center; color:#777; font-style: italic; padding: 20px;'>Không tìm thấy câu hỏi nào phù hợp với danh sách lọc.</p>`;
 }
+
 // ================= HÀM BẢO VỆ DÀNH RIÊNG CHO TÀI KHOẢN CON =================
 function enableProtectionForSubAccounts() {
   let user = JSON.parse(localStorage.getItem("user"));
   
-  // Nếu không có user đăng nhập hoặc user là admin -> KHÔNG CHẶN, thoát hàm luôn
   if (!user || user.role === "admin") {
     return; 
   }
 
-  // 1. Chống click chuột phải (Không cho copy qua menu chuột phải)
   document.addEventListener('contextmenu', function(e) {
     e.preventDefault();
     alert("Tài khoản học viên không được phép sử dụng chuột phải để copy!");
   });
 
-  // 2. Chống bôi đen văn bản (Học viên không thể kéo chuột để chọn chữ)
   document.body.style.userSelect = "none";
   document.body.style.webkitUserSelect = "none";
   document.body.style.msUserSelect = "none";
   document.body.style.mozUserSelect = "none";
 
-  // 3. Chống các phím tắt Copy, Xem code nguồn, Mở F12, In ấn
   document.addEventListener('keydown', function(e) {
-    // Chặn Ctrl+C (Copy), Ctrl+U (Xem nguồn), Ctrl+S (Lưu trang), Ctrl+P (In đề thi)
     if (e.ctrlKey && (e.key === 'c' || e.key === 'u' || e.key === 's' || e.key === 'p' || e.key === 'C' || e.key === 'U' || e.key === 'S' || e.key === 'P')) {
       e.preventDefault();
       alert("Tính năng bị khóa để bảo vệ bản quyền đề thi!");
       return false;
     }
-    // Chặn phím F12 (Mở công cụ nhà phát triển để xem trộm data)
     if (e.key === 'F12') {
       e.preventDefault();
       alert("Tính năng F12 bị khóa!");
       return false;
     }
-    // Chặn Ctrl + Shift + I hoặc J (Cách khác để mở F12)
     if (e.ctrlKey && e.shiftKey && (e.key === 'I' || e.key === 'J' || e.key === 'i' || e.key === 'j')) {
       e.preventDefault();
       return false;
     }
   });
 
-  // 4. Giảm thiểu chụp màn hình: Khi học viên chuyển sang phần mềm khác để chụp, màn hình sẽ mờ tịt
   window.addEventListener('blur', function() {
     let appEl = document.getElementById("app");
     if (appEl) appEl.style.filter = "blur(15px)";
