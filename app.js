@@ -145,44 +145,54 @@ function weightedPick(arr, count) {
   }
   return result;
 }
-
-// ================= START EXAM (ĐÃ SỬA: ƯU TIÊN CÂU SAI/CHƯA LÀM, THIẾU THÌ BÙ CÂU ĐÚNG CHO ĐỦ 100) =================
+// ================= START EXAM (ĐÃ SỬA TẬN GỐC LỖI UNDEFINED) =================
 function startExam() {
   answers = {};
   index = 0;
   time = 60 * 60;
 
-  // 1. Lấy danh sách câu hỏi đã làm đúng từ localStorage
+  // 1. Lấy danh sách ID câu đúng lịch sử (Lưu mảng ID/Index thay vì lưu chữ)
   let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
 
-  // 2. Lọc ra nhóm câu hỏi "Ưu tiên" (Gồm các câu chưa làm hoặc đã làm sai)
-  let priorityQuestions = data.filter(q => {
-    let qText = q.question || q.cauhoi;
-    return !correctPool.includes(qText);
+  // 2. Lọc ra nhóm câu hỏi ưu tiên (Chưa làm hoặc làm sai) dựa vào ID duy nhất của câu hỏi
+  let priorityQuestions = data.filter((q, i) => {
+    let qId = q.id || `q-${i}`; // Nếu không có trường id, tự tạo id bằng index gốc của nó
+    return !correctPool.includes(qId);
   });
 
   let list = [];
 
-  // 3. Đưa nhóm câu hỏi ưu tiên vào danh sách đề thi (sau khi đã trộn ngẫu nhiên nhóm này)
+  // 3. Trộn ngẫu nhiên nhóm ưu tiên đưa vào đề
   list = shuffle(priorityQuestions);
 
-  // 4. KIỂM TRA: Nếu nhóm ưu tiên không đủ 100 câu, tiến hành lấy thêm câu đã làm đúng bù vào
+  // 4. Nếu thiếu câu cho đủ 100, lấy các câu đã làm đúng bù vào
   if (list.length < 100) {
-    // Lọc ra những câu đã làm đúng từ kho dữ liệu gốc
-    let alreadyCorrectQuestions = data.filter(q => {
-      let qText = q.question || q.cauhoi;
-      return correctPool.includes(qText);
+    let alreadyCorrectQuestions = data.filter((q, i) => {
+      let qId = q.id || `q-${i}`;
+      return correctPool.includes(qId);
     });
 
-    // Trộn ngẫu nhiên nhóm câu đúng này trước khi lấy bù
     let shuffledCorrect = shuffle(alreadyCorrectQuestions);
 
-    // Bốc lần lượt câu đúng đắp vào cho đến khi đủ 100 câu hoặc hết sạch kho dữ liệu gốc
     for (let q of shuffledCorrect) {
       if (list.length >= 100) break;
       list.push(q);
     }
   }
+
+  // Nếu đã làm đúng sạch bách cả bộ đề, reset lại từ đầu
+  if (list.length === 0) {
+    alert("Chúc mừng! Bạn đã hoàn thành đúng tất cả các câu hỏi trong bộ đề. Hệ thống sẽ tự động làm mới (reset) lại từ đầu!");
+    localStorage.removeItem("correctPool");
+    list = shuffle([...data]);
+  }
+
+  // Chốt danh sách câu hỏi hợp lệ (Loại bỏ hoàn toàn các phần tử null/undefined nếu có)
+  questions = list.filter(q => q && (q.question || q.cauhoi)).slice(0, Math.min(100, list.length));
+
+  render();
+  startTimer();
+}
 
   // TRƯỜNG HỢP ĐẶC BIỆT: Nếu học viên đã làm đúng hết sạch sành sanh bộ đề từ trước
   if (list.length === 0) {
@@ -332,7 +342,7 @@ function startTimer() {
   }, 1000);
 }
 
-// ================= SUBMIT (ĐÃ SỬA: LƯU THÊM VÀO BỂ ĐÚNG ĐỂ KHÓA CÂU HỎI) =================
+// ================= SUBMIT (ĐỒNG BỘ LƯU THEO ID AN TOÀN) =================
 function submit() {
   clearInterval(timer);
 
@@ -340,7 +350,6 @@ function submit() {
   let wrong = 0;
   let newWrong = [];
 
-  // Gọi danh sách câu đúng lịch sử lên để cập nhật thêm sau lượt thi này
   let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
 
   questions.forEach((q, i) => {
@@ -353,16 +362,17 @@ function submit() {
     q.correctCount = q.correctCount || 0;
     q.wrongCount = q.wrongCount || 0;
 
-    let qText = q.question || q.cauhoi;
+    // Tìm hoặc tự tạo ID cố định cho câu hỏi dựa vào vị trí của nó trong mảng data gốc
+    let originalIndex = data.findIndex(x => (x.question || x.cauhoi) === (q.question || q.cauhoi));
+    let qId = q.id || `q-${originalIndex !== -1 ? originalIndex : i}`;
 
     if (userAns === correctAns) {
       correct++;
       q.correctCount++;
       q.weight = Math.max(1, q.weight - 0.3);
       
-      // Nếu làm đúng và câu này chưa có trong bể câu đúng, tiến hành nạp vào để khóa
-      if (!correctPool.includes(qText)) {
-        correctPool.push(qText);
+      if (!correctPool.includes(qId)) {
+        correctPool.push(qId);
       }
     } else {
       wrong++;
@@ -370,15 +380,13 @@ function submit() {
       q.wrongCount++;
       q.weight = Math.min(10, q.weight + 1.2);
       
-      // Đề phòng trường hợp câu này trước đó từng làm đúng nhưng nay làm sai lại -> kích block khóa ra
-      let cIndex = correctPool.indexOf(qText);
+      let cIndex = correctPool.indexOf(qId);
       if (cIndex > -1) {
         correctPool.splice(cIndex, 1);
       }
     }
   });
 
-  // Lưu trữ lại danh sách các câu đã làm đúng vào localStorage
   localStorage.setItem("correctPool", JSON.stringify(correctPool));
   localStorage.setItem("questionData", JSON.stringify(data));
   wrongPool = newWrong;
