@@ -324,6 +324,492 @@
     "explanation": "Theo điểm d khoản 3 Điều 45 Nghị định 104/2025/NĐ-CP, cuộc họp công bố di chúc có thể được thực hiện với sự có mặt trực tiếp hoặc trực tuyến của những người liên quan."
   },
   {
+    "question": "Theo hướng dẫn của Tòa án nhân dân tối cao tại Thông tư số 60/TATC ngày 22/02/1978, trường hợp cán bộ, bộ đội tập kết ra Bắc đã có vợ trong Nam nhưng lấy thêm vợ khác ở miền Bắc thì được xác định như thế nào?",
+    "a": "Đương nhiên hủy hôn nhân sau.",
+    "b": "Đương nhiên công nhận cả hai hôn nhân hợp pháp vĩnh viễn.",
+    "c": "Là trường hợp đặc biệt, các bên được khuyến khích tự thu xếp ổn thỏa.",
+    "d": "Người chồng bị buộc chỉ được chọn một người vợ ngay lập tức.",
+    "answer": "c",
+    "explanation": "Theo Thông tư số 60/TATC ngày 22/02/1978: Đây là trường hợp đặc biệt lịch sử, Tòa án hướng dẫn các bên tự bàn bạc, thu xếp ổn thỏa nhằm bảo vệ quyền lợi các bên."
+  },
+  {
+    "question": "Theo Nghị quyết số 01/NQ-HĐTP năm 1988, trong trường hợp hôn nhân trước trên thực tế không còn tồn tại nhưng một bên đã kết hôn sau thì Tòa án có thể xử lý thế nào?",
+    "a": "Luôn hủy hôn nhân sau.",
+    "b": "Chỉ xử ly hôn đối với hôn nhân trước.",
+    "c": "Đồng thời hủy cả hai hôn nhân.",
+    "d": "Công nhận tuyệt đối hôn nhân sau.",
+    "answer": "b",
+    "explanation": "Theo điểm c Điều 1 Nghị quyết số 01/NQ-HĐTP năm 1988: Có thể không máy móc hủy hôn nhân sau mà chỉ xử ly hôn đối với hôn nhân trước nếu hôn nhân trước thực tế không còn tồn tại."
+  },
+  {
+  "question": "Nam nữ sống chung như vợ chồng trước ngày 03/01/1987 mà chưa đăng ký kết hôn, hiện vẫn chung sống với nhau. Theo quy định hiện hành áp dụng chuyển tiếp, quan hệ của họ được xác định thế nào?",
+  "a": "Không được công nhận là vợ chồng.",
+  "b": "Chỉ được công nhận nếu có con chung.",
+  "c": "Vẫn được công nhận là vợ chồng.",
+  "d": "Chỉ được công nhận khi Tòa án xác nhận.",
+  "answer": "c",
+  "explanation": "Căn cứ điểm a khoản 3 Nghị quyết số 35/2000/QH10: Trong trường hợp quan hệ vợ chồng được xác lập trước ngày 03/01/1987 mà chưa đăng ký kết hôn thì được khuyến khích đăng ký kết hôn; nếu chưa đăng ký kết hôn thì vẫn được pháp luật công nhận là vợ chồng. Khoản 1 Điều 131 Luật Hôn nhân và gia đình năm 2014 quy định quan hệ hôn nhân xác lập trước ngày Luật này có hiệu lực thì áp dụng pháp luật tại thời điểm xác lập để giải quyết."
+},
+  {
+    "question": "Nam A và nữ B sống chung như vợ chồng từ năm 1985 nhưng đến năm 2010 mới đăng ký kết hôn. Theo hướng dẫn áp dụng pháp luật, thời điểm xác lập quan hệ hôn nhân được tính từ khi nào?",
+    "a": "Từ năm 2010.",
+    "b": "Từ ngày cấp giấy chứng nhận kết hôn.",
+    "c": "Từ thời điểm bắt đầu sống chung như vợ chồng.",
+    "d": "Từ ngày UBND xác nhận tình trạng hôn nhân.",
+    "answer": "c",
+    "explanation": "Theo điểm 1 Thông tư liên tịch số 01/2001/TTLT-TANDTC-VKSNDTC-BTP: Nếu thuộc trường hợp chung sống trước ngày 03/01/1987 thì hôn nhân được công nhận kể từ ngày bắt đầu sống chung như vợ chồng."
+  },
+  {
+    "question": "Theo hướng dẫn pháp luật, trường hợp nam nữ sống chung như vợ chồng từ năm 1995 nhưng không đăng ký kết hôn trước ngày 01/01/2003 thì hậu quả pháp lý là gì?",
+    "a": "Được mặc nhiên công nhận là vợ chồng.",
+    "b": "Chỉ được công nhận nếu có tài sản chung.",
+    "c": "Không được pháp luật công nhận là vợ chồng.",
+    "d": "Được công nhận nếu UBND xã xác nhận.",
+    "answer": "c",
+    "explanation": "Theo điểm 2 Thông tư liên tịch số 01/2001/TTLT-TANDTC-VKSNDTC-BTP: Sau ngày 01/01/2003 mà vẫn không đăng ký kết hôn thì pháp luật không công nhận là vợ chồng."
+  },
+  {
+    "question": "Ông A và bà B sống chung như vợ chồng từ năm 1989, đến tháng 5/2003 mới đăng ký kết hôn. Theo quy định chuyển tiếp, hôn nhân của họ được công nhận từ thời điểm nào?",
+    "a": "Từ năm 1989.",
+    "b": "Từ tháng 5/2003.",
+    "c": "Từ ngày 01/01/2001.",
+    "d": "Từ ngày 01/01/2003.",
+    "answer": "b",
+    "explanation": "Do đăng ký kết hôn sau ngày 01/01/2003 nên quan hệ hôn nhân chỉ được công nhận từ thời điểm đăng ký kết hôn."
+  },
+  {
+    "question": "Ông A và bà B sống chung như vợ chồng từ năm 1989, đăng ký kết hôn tháng 5/2003. Giấy chứng nhận quyền sử dụng đất đứng tên ông A được cấp năm 2000. Khi phát sinh giao dịch, tài sản này được xác định thế nào?",
+    "a": "Đương nhiên là tài sản chung.",
+    "b": "Đương nhiên là tài sản riêng.",
+    "c": "Ưu tiên xem xét chứng cứ để xác định tài sản chung hay riêng.",
+    "d": "Mặc nhiên chia đôi.",
+    "answer": "c",
+    "explanation": "Do hôn nhân chỉ được công nhận từ năm 2003 nên quyền sử dụng đất cấp năm 2000 có thể là tài sản riêng; tuy nhiên việc xác định phải căn cứ chứng cứ và nguyên tắc tại khoản 3 Điều 33 Luật Hôn nhân và gia đình năm 2014."
+  },
+  {
+    "question": "Theo hướng dẫn liên ngành, nam nữ được coi là sống chung như vợ chồng nếu thuộc trường hợp nào sau đây?",
+    "a": "Chỉ cần ở chung nhà trên 30 ngày.",
+    "b": "Có tổ chức lễ cưới hoặc được gia đình chấp thuận việc chung sống.",
+    "c": "Chỉ cần có tài sản chung.",
+    "d": "Chỉ cần có con chung.",
+    "answer": "b",
+    "explanation": "Theo điểm d Mục 2 Thông tư liên tịch số 01/2001/TTLT-TANDTC-VKSNDTC-BTP: Có tổ chức lễ cưới hoặc được gia đình chấp thuận là một trong các căn cứ xác định sống chung như vợ chồng."
+  },
+  {
+    "question": "Trong trường hợp người chồng xuất trình đồng thời hai giấy đăng ký kết hôn thuộc trường hợp lịch sử đặc biệt theo Thông tư số 60/TATC, hướng xử lý phù hợp của công chứng viên là gì?",
+    "a": "Tự xác định một hôn nhân vô hiệu.",
+    "b": "Từ chối công chứng ngay.",
+    "c": "Cho cả ba người cùng thỏa thuận về tài sản liên quan.",
+    "d": "Chỉ yêu cầu người vợ đầu tham gia giao dịch.",
+    "answer": "c",
+    "explanation": "Theo hướng dẫn thực tiễn áp dụng pháp luật và đặc thù lịch sử, công chứng viên cần để các bên cùng thỏa thuận về tài sản chung nhằm bảo đảm quyền lợi của các bên."
+  },
+  {
+    "question": "Theo quy định chuyển tiếp về hôn nhân thực tế, trường hợp nam nữ sống chung như vợ chồng từ trước ngày 03/01/1987 nhưng chưa đăng ký kết hôn thì Nhà nước có thái độ như thế nào?",
+    "a": "Buộc đăng ký trong thời hạn nhất định.",
+    "b": "Không cho phép đăng ký nữa.",
+    "c": "Khuyến khích và tạo điều kiện thuận lợi để đăng ký kết hôn, không hạn chế thời gian.",
+    "d": "Chỉ giải quyết bằng quyết định của Tòa án.",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 2 Nghị định số 77/2001/NĐ-CP: Nhà nước khuyến khích và tạo điều kiện thuận lợi cho các trường hợp này đăng ký kết hôn, không hạn chế thời gian."
+  },
+{
+  "question": "Nam A và nữ B sống chung như vợ chồng từ năm 1998 nhưng không đăng ký kết hôn. Đến năm 2004 hai người mới đăng ký kết hôn. Theo quy định chuyển tiếp, quan hệ hôn nhân của họ được công nhận từ thời điểm nào?",
+  "a": "Từ năm 1998.",
+  "b": "Từ ngày 01/01/2001.",
+  "c": "Từ ngày 01/01/2003.",
+  "d": "Từ thời điểm đăng ký kết hôn năm 2004.",
+  "answer": "d",
+  "explanation": "Theo điểm 2 Thông tư liên tịch số 01/2001/TTLT-TANDTC-VKSNDTC-BTP: Sau ngày 01/01/2003 mới đăng ký kết hôn thì quan hệ hôn nhân chỉ được công nhận từ thời điểm đăng ký kết hôn."
+},
+{
+  "question": "Theo hướng dẫn áp dụng pháp luật về hôn nhân thực tế, trường hợp nào sau đây là căn cứ xác định nam nữ sống chung như vợ chồng?",
+  "a": "Có tài khoản ngân hàng chung.",
+  "b": "Có đăng ký tạm trú chung.",
+  "c": "Thực sự chung sống, chăm sóc, giúp đỡ nhau, cùng xây dựng gia đình.",
+  "d": "Có người làm chứng việc quen biết.",
+  "answer": "c",
+  "explanation": "Theo điểm d Mục 2 Thông tư liên tịch số 01/2001/TTLT-TANDTC-VKSNDTC-BTP: Việc thực sự chung sống, chăm sóc, giúp đỡ nhau, cùng xây dựng gia đình là căn cứ xác định sống chung như vợ chồng."
+},
+{
+  "question": "Ông A và bà B sống chung như vợ chồng từ trước ngày 03/01/1987 nhưng chưa đăng ký kết hôn. Khi thực hiện giao dịch công chứng, công chứng viên có thể hướng dẫn họ thực hiện việc gì để chứng minh quan hệ hôn nhân?",
+  "a": "Xin xác nhận tại UBND cấp xã nơi thường trú.",
+  "b": "Chỉ cần lập cam kết.",
+  "c": "Yêu cầu Tòa án xác nhận bắt buộc.",
+  "d": "Không cần chứng minh.",
+  "answer": "a",
+  "explanation": "Theo hướng dẫn thực tiễn áp dụng pháp luật, công chứng viên có thể hướng dẫn các bên về UBND cấp xã nơi thường trú để xin xác nhận về tình trạng hôn nhân thực tế."
+},
+{
+  "question": "Nam A có vợ trong Nam trước năm 1975, sau khi tập kết ra Bắc tiếp tục kết hôn với bà B. Khi giải quyết tài sản phát sinh trong giai đoạn lịch sử đặc biệt này, hướng xử lý phù hợp là gì?",
+  "a": "Đương nhiên xác định toàn bộ là tài sản riêng.",
+  "b": "Chỉ người vợ đầu được tham gia xác lập giao dịch.",
+  "c": "Các bên cùng thỏa thuận để bảo đảm quyền lợi hợp pháp.",
+  "d": "Mọi tài sản đều vô hiệu giao dịch.",
+  "answer": "c",
+  "explanation": "Theo hướng dẫn thực tiễn từ Thông tư số 60/TATC năm 1978, quyền lợi của cả hai người vợ đều cần được xem xét bảo vệ và các bên được khuyến khích tự thỏa thuận ổn thỏa."
+},
+{
+  "question": "Theo Luật Hôn nhân và Gia đình và các văn bản hướng dẫn hiện hành, nam nữ chung sống với nhau như vợ chồng từ trước ngày 03/01/1987 mà chưa đăng ký kết hôn thì được pháp luật công nhận là vợ chồng trong điều kiện nào sau đây?",
+  "a": "Bắt buộc phải đăng ký trước ngày 01/01/2003.",
+  "b": "Hiện nay họ vẫn đang chung sống với nhau như vợ chồng và không vi phạm điều kiện kết hôn.",
+  "c": "Phải có xác nhận hoặc quyết định công nhận của Tòa án.",
+  "d": "Phải có con chung hoặc tài sản chung.",
+  "answer": "b",
+  "explanation": "Theo khoản 1 Điều 131 Luật Hôn nhân và Gia đình năm 2014 và khoản 2 Điều 2 Thông tư liên tịch số 01/2016/TTLTTANDTC-VKSNDTC-BTP, trường hợp nam nữ chung sống với nhau như vợ chồng trước ngày 03/01/1987 mà chưa đăng ký kết hôn thì được pháp luật công nhận là vợ chồng kể từ ngày bắt đầu chung sống, với điều kiện hiện nay họ vẫn đang chung sống với nhau như vợ chồng."
+},
+{
+  "question": "Theo quy định chuyển tiếp về hôn nhân thực tế, khoảng thời gian nào pháp luật cho phép nam nữ sống chung như vợ chồng từ ngày 03/01/1987 đến trước ngày 01/01/2001 đăng ký kết hôn để được công nhận từ thời điểm bắt đầu chung sống?",
+  "a": "Từ ngày 01/01/2001 đến trước ngày 01/01/2003.",
+  "b": "Từ ngày 03/01/1987 đến trước ngày 01/01/2001.",
+  "c": "Từ ngày 01/01/2003 đến trước ngày 01/01/2005.",
+  "d": "Không giới hạn thời gian.",
+  "answer": "a",
+  "explanation": "Căn cứ điểm b khoản 3 Nghị quyết số 35/2000/QH10: Nam và nữ chung sống với nhau như vợ chồng từ ngày 03/01/1987 đến trước ngày 01/01/2001 mà có đủ điều kiện kết hôn theo quy định của Luật Hôn nhân và gia đình năm 2000 thì có nghĩa vụ đăng ký kết hôn trong thời hạn hai năm kể từ ngày 01/01/2001 đến ngày 01/01/2003. Theo hướng dẫn tại Thông tư liên tịch số 01/2001/TTLT-TANDTC-VKSNDTC-BTP, nếu đăng ký kết hôn trong thời hạn này thì quan hệ hôn nhân được công nhận kể từ ngày bắt đầu chung sống như vợ chồng."
+},
+{
+  "question": "Ông A và bà B chung sống với nhau như vợ chồng từ năm 1992. Đến năm 2002, hai người thực hiện đăng ký kết hôn theo đúng quy định pháp luật tại thời điểm đó. Theo quy định pháp luật hiện hành, thời điểm quan hệ hôn nhân của họ được xác lập là khi nào?",
+  "a": "Được xác lập từ năm 1992 (thời điểm bắt đầu chung sống như vợ chồng).",
+  "b": "Được xác lập từ năm 2002 (thời điểm đăng ký kết hôn).",
+  "c": "Được xác lập từ ngày 01/01/2001.",
+  "d": "Không được công nhận là vợ chồng.",
+  "answer": "a",
+  "explanation": "Căn cứ khoản 1 Điều 131 Luật Hôn nhân và gia đình năm 2014: Quan hệ hôn nhân và gia đình xác lập trước ngày Luật này có hiệu lực thì áp dụng pháp luật tại thời điểm xác lập để giải quyết. Theo điểm b khoản 3 Nghị quyết số 35/2000/QH10 và hướng dẫn tại Thông tư liên tịch số 01/2001/TTLT-TANDTC-VKSNDTC-BTP, nam nữ chung sống với nhau như vợ chồng từ ngày 03/01/1987 đến trước ngày 01/01/2001 mà đăng ký kết hôn trước ngày 01/01/2003 thì quan hệ hôn nhân được công nhận kể từ ngày bắt đầu chung sống như vợ chồng. Do đó, quan hệ hôn nhân của ông A và bà B được xác lập từ năm 1992."
+},
+{
+  "question": "Khi xác định tài sản chung, riêng của vợ chồng trong các quan hệ hôn nhân thực tế lịch sử, yếu tố nào đặc biệt quan trọng?",
+  "a": "Độ tuổi của các bên.",
+  "b": "Thời điểm hôn nhân có hiệu lực.",
+  "c": "Số lượng con chung.",
+  "d": "Nơi cư trú hiện tại.",
+  "answer": "b",
+  "explanation": "Thời điểm hôn nhân có hiệu lực ảnh hưởng trực tiếp đến việc xác định tài sản hình thành trước hay trong thời kỳ hôn nhân."
+},
+{
+  "question": "Theo hướng dẫn của Tòa án nhân dân tối cao, trong trường hợp đặc biệt lịch sử tồn tại thực tế một chồng hai vợ, quyền lợi của ai cần được bảo vệ?",
+  "a": "Chỉ người vợ đầu.",
+  "b": "Chỉ người vợ sau.",
+  "c": "Chỉ người chồng.",
+  "d": "Quyền lợi hợp pháp của cả hai người vợ.",
+  "answer": "d",
+  "explanation": "Thông tư số 60/TATC năm 1978 xác định trong trường hợp đặc biệt lịch sử này, quyền lợi của cả hai người vợ đều hợp pháp và cần được bảo vệ."
+},
+{
+  "question": "Nam A và nữ B chung sống như vợ chồng từ năm 1990 nhưng không đăng ký kết hôn cho đến nay. Theo quy định hiện hành, pháp luật xác định quan hệ của họ như thế nào?",
+  "a": "Được công nhận là vợ chồng hợp pháp.",
+  "b": "Không được công nhận là vợ chồng.",
+  "c": "Được công nhận nếu có con chung.",
+  "d": "Được công nhận nếu có tài sản chung.",
+  "answer": "b",
+  "explanation": "Theo quy định chuyển tiếp, các trường hợp sống chung từ ngày 03/01/1987 đến trước ngày 01/01/2001 mà không đăng ký kết hôn trước ngày 01/01/2003 thì không được pháp luật công nhận là vợ chồng."
+},
+{
+  "question": "Theo Nghị định số 207/2025/NĐ-CP, mang thai hộ vì mục đích nhân đạo phải đáp ứng nguyên tắc nào sau đây?",
+  "a": "Được nhận thù lao theo thỏa thuận.",
+  "b": "Được thực hiện vì mục đích thương mại nếu có cam kết.",
+  "c": "Không vì mục đích thương mại.",
+  "d": "Chỉ cần người mang thai hộ đồng ý.",
+  "answer": "c",
+  "explanation": "Căn cứ khoản 22 Điều 3 Luật Hôn nhân và gia đình năm 2014: 'Mang thai hộ vì mục đích nhân đạo là việc một người phụ nữ tự nguyện, không vì mục đích thương mại...'. Đồng thời, điểm g khoản 2 Điều 5 Luật Hôn nhân và gia đình năm 2014 cấm 'mang thai hộ vì mục đích thương mại'."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, hành vi nào sau đây bị cấm liên quan đến hỗ trợ sinh sản?",
+  "a": "Thụ tinh trong ống nghiệm theo quy định pháp luật.",
+  "b": "Mang thai hộ vì mục đích nhân đạo.",
+  "c": "Mang thai hộ vì mục đích thương mại.",
+  "d": "Sinh con bằng kỹ thuật hỗ trợ sinh sản hợp pháp.",
+  "answer": "c",
+  "explanation": "Căn cứ điểm g khoản 2 Điều 5 Luật Hôn nhân và gia đình năm 2014: Cấm 'thực hiện sinh con bằng kỹ thuật hỗ trợ sinh sản vì mục đích thương mại, mang thai hộ vì mục đích thương mại'."
+},
+{
+  "question": "Theo Thông tư liên tịch số 01/2016/TTLT-TANDTC-VKSNDTC-BTP, quan hệ tài sản của nam nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn được giải quyết chủ yếu theo căn cứ nào?",
+  "a": "Theo hộ khẩu thường trú.",
+  "b": "Theo công sức đóng góp và thỏa thuận của các bên.",
+  "c": "Đương nhiên chia đôi.",
+  "d": "Theo người đứng tên tài sản.",
+  "answer": "b",
+  "explanation": "Căn cứ khoản 1 Điều 16 Luật Hôn nhân và gia đình năm 2014: 'Quan hệ tài sản, nghĩa vụ và hợp đồng... được giải quyết theo thỏa thuận giữa các bên; trong trường hợp không có thỏa thuận thì giải quyết theo quy định của Bộ luật dân sự...'. Khoản 2 Điều 16 quy định việc giải quyết phải bảo đảm quyền, lợi ích hợp pháp của phụ nữ và con; công việc nội trợ được coi như lao động có thu nhập."
+},
+{
+  "question": "Theo Nghị quyết số 35/2000/QH10, trường hợp nam nữ chung sống như vợ chồng trước ngày 03/01/1987 mà chưa đăng ký kết hôn thì được xử lý thế nào?",
+  "a": "Không được công nhận là vợ chồng.",
+  "b": "Được khuyến khích đăng ký kết hôn và được công nhận quan hệ vợ chồng.",
+  "c": "Chỉ được công nhận nếu có con chung.",
+  "d": "Phải đăng ký lại từ đầu.",
+  "answer": "b",
+  "explanation": "Căn cứ điểm a khoản 3 Nghị quyết số 35/2000/QH10: Quan hệ vợ chồng được xác lập trước ngày 03/01/1987 mà chưa đăng ký kết hôn thì được khuyến khích đăng ký kết hôn; trong trường hợp chưa đăng ký kết hôn thì vẫn được pháp luật công nhận là vợ chồng."
+},
+{
+  "question": "Theo Thông tư liên tịch số 01/2001/TTLT-TANDTC-VKSNDTC-BTP, trường hợp nam nữ sống chung như vợ chồng từ năm 1995 và đăng ký kết hôn vào năm 2002 thì thời điểm công nhận quan hệ hôn nhân là khi nào?",
+  "a": "Từ năm 2002.",
+  "b": "Từ thời điểm có con chung.",
+  "c": "Từ thời điểm bắt đầu chung sống như vợ chồng.",
+  "d": "Từ thời điểm được Tòa án xác nhận.",
+  "answer": "c",
+  "explanation": "Căn cứ điểm b mục 3 Thông tư liên tịch số 01/2001/TTLT-TANDTC-VKSNDTC-BTP: Nếu nam nữ chung sống với nhau như vợ chồng từ ngày 03/01/1987 đến trước ngày 01/01/2001 và đăng ký kết hôn trong thời hạn luật định thì quan hệ hôn nhân được công nhận kể từ ngày xác lập quan hệ chung sống như vợ chồng."
+},
+{
+  "question": "Theo quy định chuyển tiếp về hôn nhân thực tế, trường hợp nam nữ chung sống với nhau như vợ chồng từ năm 1994 nhưng không đăng ký kết hôn trước ngày 01/01/2003 thì hậu quả pháp lý là gì?",
+  "a": "Được công nhận là vợ chồng.",
+  "b": "Không được pháp luật công nhận là vợ chồng.",
+  "c": "Được công nhận nếu có tài sản chung.",
+  "d": "Được công nhận nếu địa phương xác nhận.",
+  "answer": "b",
+  "explanation": "Căn cứ điểm b khoản 3 Nghị quyết số 35/2000/QH10 và hướng dẫn tại Thông tư liên tịch số 01/2001/TTLT-TANDTC-VKSNDTC-BTP: Sau ngày 01/01/2003 mà nam nữ không đăng ký kết hôn thì pháp luật không công nhận là vợ chồng."
+},
+{
+  "question": "Theo Thông tư số 60/TATC, trong trường hợp lịch sử đặc biệt một người tồn tại thực tế hai quan hệ hôn nhân, hướng xử lý được ưu tiên là gì?",
+  "a": "Tuyên vô hiệu ngay hôn nhân sau.",
+  "b": "Buộc chấm dứt cả hai quan hệ hôn nhân.",
+  "c": "Khuyên các bên tự bàn bạc, thu xếp ổn thỏa.",
+  "d": "Ưu tiên tuyệt đối người vợ đầu tiên.",
+  "answer": "c",
+  "explanation": "Căn cứ phần 'Phương hướng chung' Thông tư số 60/TATC ngày 22/02/1978: 'Nếu cả hai người vợ đều tha thiết mong muốn gia đình sum họp thì Tòa án khuyên họ tự bàn bạc thu xếp sao cho ổn thỏa'."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, công việc nội trợ của người chung sống như vợ chồng mà không đăng ký kết hôn được xem xét thế nào khi giải quyết tài sản?",
+  "a": "Không được xem là công sức đóng góp.",
+  "b": "Được coi như lao động có thu nhập.",
+  "c": "Chỉ được tính nếu có hợp đồng lao động.",
+  "d": "Chỉ tính khi có chứng cứ bằng văn bản.",
+  "answer": "b",
+  "explanation": "Căn cứ khoản 2 Điều 16 Luật Hôn nhân và gia đình năm 2014: 'Công việc nội trợ và công việc khác có liên quan để duy trì đời sống chung được coi như lao động có thu nhập'."
+},
+{
+  "question": "Theo Nghị định số 126/2014/NĐ-CP, nội dung nào sau đây thuộc phạm vi điều chỉnh của nghị định?",
+  "a": "Quy định xử phạt hành chính trong giao thông.",
+  "b": "Quy định chi tiết một số điều và biện pháp thi hành Luật Hôn nhân và gia đình.",
+  "c": "Quy định về thi hành án dân sự.",
+  "d": "Quy định về doanh nghiệp.",
+  "answer": "b",
+  "explanation": "Căn cứ tên gọi và Điều 1 Nghị định số 126/2014/NĐ-CP: Nghị định này quy định chi tiết một số điều và biện pháp thi hành Luật Hôn nhân và gia đình."
+},
+{
+  "question": "Theo Thông tư liên tịch số 01/2001/TTLT-TANDTC-VKSNDTC-BTP, dấu hiệu nào sau đây có thể được dùng để xác định nam nữ sống chung như vợ chồng?",
+  "a": "Có tổ chức lễ cưới.",
+  "b": "Được gia đình chấp thuận.",
+  "c": "Thực sự chung sống, chăm sóc và cùng xây dựng gia đình.",
+  "d": "Tất cả các đáp án trên.",
+  "answer": "d",
+  "explanation": "Căn cứ điểm d mục 2 Thông tư liên tịch số 01/2001/TTLT-TANDTC-VKSNDTC-BTP: Các dấu hiệu xác định sống chung như vợ chồng bao gồm có tổ chức lễ cưới, được gia đình chấp thuận, được người khác chứng kiến hoặc thực sự chung sống chăm sóc nhau, cùng xây dựng gia đình."
+},
+{
+  "question": "Ông A và bà B chung sống như vợ chồng từ năm 1998, có đủ điều kiện kết hôn theo Luật Hôn nhân và gia đình năm 2000 nhưng không đăng ký kết hôn trước ngày 01/01/2003. Năm 2026, tranh chấp phát sinh đối với căn nhà được tạo lập năm 2001 đứng tên ông A. Theo hướng giải quyết phù hợp nhất, nhận định nào sau đây đúng?",
+  "a": "Quan hệ vợ chồng được công nhận từ năm 1998 nên căn nhà mặc nhiên là tài sản chung.",
+  "b": "Không công nhận là vợ chồng; tài sản được giải quyết theo thỏa thuận hoặc Bộ luật dân sự.",
+  "c": "Căn nhà đương nhiên là tài sản riêng của ông A vì đứng tên một mình.",
+  "d": "Quan hệ vợ chồng được công nhận nếu có xác nhận của địa phương.",
+  "answer": "b",
+  "explanation": "Căn cứ điểm b khoản 3 Nghị quyết số 35/2000/QH10: Nam nữ chung sống với nhau như vợ chồng từ ngày 03/01/1987 đến trước ngày 01/01/2001 mà không đăng ký kết hôn trước ngày 01/01/2003 thì không được pháp luật công nhận là vợ chồng. Theo khoản 1 Điều 14 và Điều 16 Luật Hôn nhân và gia đình năm 2014, quyền, nghĩa vụ về tài sản được giải quyết theo thỏa thuận; nếu không có thỏa thuận thì áp dụng Bộ luật dân sự và quy định khác có liên quan."
+},
+{
+  "question": "Nam và nữ bắt đầu chung sống như vợ chồng từ tháng 6/1986, không đăng ký kết hôn nhưng hiện vẫn chung sống ổn định. Năm 2025, người chồng tự ý bán nhà mà người vợ phản đối vì cho rằng là tài sản chung của vợ chồng. Nhận định nào sau đây phù hợp nhất?",
+  "a": "Quan hệ vợ chồng không được công nhận do chưa đăng ký kết hôn.",
+  "b": "Quan hệ vợ chồng vẫn được pháp luật công nhận theo quy định chuyển tiếp.",
+  "c": "Chỉ được công nhận nếu Tòa án có quyết định xác nhận.",
+  "d": "Chỉ được công nhận nếu có con chung.",
+  "answer": "b",
+  "explanation": "Căn cứ điểm a khoản 3 Nghị quyết số 35/2000/QH10: Quan hệ vợ chồng xác lập trước ngày 03/01/1987 mà chưa đăng ký kết hôn thì vẫn được pháp luật công nhận là vợ chồng. Khoản 1 Điều 131 Luật Hôn nhân và gia đình năm 2014 quy định quan hệ hôn nhân xác lập trước ngày Luật này có hiệu lực thì áp dụng pháp luật tại thời điểm xác lập."
+},
+{
+  "question": "Ông A có Giấy chứng nhận quyền sử dụng đất được cấp năm 2000. Ông A và bà B chung sống như vợ chồng từ năm 1995 nhưng đến tháng 5/2004 mới đăng ký kết hôn. Khi công chứng chuyển nhượng quyền sử dụng đất, nhận định nào sau đây đúng nhất?",
+  "a": "Đây mặc nhiên là tài sản chung của vợ chồng vì hình thành trong thời gian sống chung.",
+  "b": "Đây mặc nhiên là tài sản riêng của ông A do được cấp trước thời điểm hôn nhân có hiệu lực.",
+  "c": "Quan hệ hôn nhân được công nhận từ năm 1995 nên tài sản chắc chắn là tài sản chung.",
+  "d": "Không cần xem xét thời điểm đăng ký kết hôn.",
+  "answer": "b",
+  "explanation": "Theo điểm b khoản 3 Nghị quyết số 35/2000/QH10 và hướng dẫn tại Thông tư liên tịch số 01/2001/TTLT-TANDTC-VKSNDTC-BTP, trường hợp nam nữ chung sống từ ngày 03/01/1987 đến trước ngày 01/01/2001 mà đăng ký kết hôn sau ngày 01/01/2003 thì quan hệ hôn nhân chỉ được công nhận từ ngày đăng ký kết hôn. Do đó, quyền sử dụng đất được cấp năm 2000 về nguyên tắc được xác định là tài sản có trước thời kỳ hôn nhân."
+},
+{
+  "question": "Một cặp nam nữ sống chung như vợ chồng từ năm 1990, đăng ký kết hôn ngày 20/12/2002. Năm 2026 phát sinh tranh chấp tài sản hình thành năm 1994. Nhận định nào sau đây đúng?",
+  "a": "Tài sản năm 1994 không thể là tài sản chung vì được tạo lập trước ngày đăng ký kết hôn.",
+  "b": "Quan hệ hôn nhân được công nhận từ năm 1990 nên tài sản năm 1994 có thể được xác định là tài sản chung.",
+  "c": "Quan hệ hôn nhân chỉ được công nhận từ năm 2002.",
+  "d": "Tài sản mặc nhiên thuộc người đứng tên.",
+  "answer": "b",
+  "explanation": "Theo điểm b khoản 3 Nghị quyết số 35/2000/QH10 và Thông tư liên tịch số 01/2001/TTLT-TANDTC-VKSNDTC-BTP, trường hợp đăng ký kết hôn trước ngày 01/01/2003 thì quan hệ hôn nhân được công nhận kể từ ngày bắt đầu chung sống như vợ chồng."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, trường hợp nam nữ đủ điều kiện kết hôn nhưng chung sống như vợ chồng mà không đăng ký kết hôn thì hậu quả pháp lý nào sau đây phát sinh?",
+  "a": "Đương nhiên phát sinh quyền, nghĩa vụ giữa vợ và chồng.",
+  "b": "Không phát sinh quyền, nghĩa vụ giữa vợ và chồng.",
+  "c": "Được công nhận là vợ chồng nếu có con chung.",
+  "d": "Được công nhận là vợ chồng nếu sống trên 05 năm.",
+  "answer": "b",
+  "explanation": "Căn cứ khoản 1 Điều 14 Luật Hôn nhân và gia đình năm 2014: Nam nữ có đủ điều kiện kết hôn mà chung sống như vợ chồng nhưng không đăng ký kết hôn thì không làm phát sinh quyền, nghĩa vụ giữa vợ và chồng."
+},
+{
+  "question": "Ông A đang có vợ hợp pháp nhưng từ năm 2020 chung sống công khai như vợ chồng với bà B. Bà B biết rõ ông A đã có vợ. Theo Luật Hôn nhân và gia đình năm 2014, nhận định nào sau đây đúng?",
+  "a": "Chỉ ông A vi phạm pháp luật.",
+  "b": "Chỉ bà B vi phạm pháp luật.",
+  "c": "Cả ông A và bà B đều có thể vi phạm quy định cấm của Luật Hôn nhân và gia đình.",
+  "d": "Không vi phạm nếu không đăng ký kết hôn.",
+  "answer": "c",
+  "explanation": "Căn cứ điểm c khoản 2 Điều 5 Luật Hôn nhân và gia đình năm 2014: Cấm người đang có vợ, có chồng mà chung sống như vợ chồng với người khác; đồng thời cấm người chưa có vợ, chưa có chồng mà chung sống như vợ chồng với người đang có chồng, có vợ."
+},
+{
+  "question": "Trong vụ việc chia tài sản của nam nữ chung sống như vợ chồng mà không đăng ký kết hôn, người phụ nữ ở nhà nội trợ toàn thời gian, không có thu nhập trực tiếp. Theo quy định hiện hành, công sức của người này được xác định thế nào?",
+  "a": "Không được xem là có đóng góp.",
+  "b": "Chỉ được xem xét nếu có hợp đồng lao động.",
+  "c": "Được coi như lao động có thu nhập.",
+  "d": "Chỉ được xem xét nếu người nam đồng ý.",
+  "answer": "c",
+  "explanation": "Căn cứ khoản 2 Điều 16 Luật Hôn nhân và gia đình năm 2014: 'Công việc nội trợ và công việc khác có liên quan để duy trì đời sống chung được coi như lao động có thu nhập'."
+},
+{
+  "question": "Ông A và bà B là anh em con cô con cậu ruột. Hai người đủ tuổi kết hôn và tự nguyện đăng ký kết hôn. Theo quy định pháp luật hiện hành, việc kết hôn này được xác định thế nào?",
+  "a": "Hợp pháp vì hai bên tự nguyện.",
+  "b": "Hợp pháp nếu được gia đình đồng ý.",
+  "c": "Thuộc trường hợp cấm kết hôn.",
+  "d": "Chỉ bị cấm nếu có con chung.",
+  "answer": "c",
+  "explanation": "Căn cứ điểm d khoản 2 Điều 5 Luật Hôn nhân và gia đình năm 2014: Cấm kết hôn hoặc chung sống như vợ chồng giữa những người có họ trong phạm vi ba đời. Khoản 18 Điều 3 Luật Hôn nhân và gia đình năm 2014 xác định anh, chị, em con cô, con cậu thuộc đời thứ ba."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, người bị cưỡng ép kết hôn có quyền nào sau đây?",
+  "a": "Chỉ được yêu cầu cơ quan hộ tịch hủy đăng ký kết hôn.",
+  "b": "Tự mình yêu cầu hoặc đề nghị cá nhân, tổ chức có thẩm quyền yêu cầu Tòa án hủy việc kết hôn trái pháp luật.",
+  "c": "Chỉ được yêu cầu ly hôn.",
+  "d": "Không có quyền yêu cầu hủy kết hôn.",
+  "answer": "b",
+  "explanation": "Căn cứ khoản 1 Điều 10 Luật Hôn nhân và gia đình năm 2014: Người bị cưỡng ép kết hôn, bị lừa dối kết hôn có quyền tự mình yêu cầu hoặc đề nghị cá nhân, tổ chức có thẩm quyền yêu cầu Tòa án hủy việc kết hôn trái pháp luật."
+},
+{
+  "question": "Tại thời điểm Tòa án giải quyết yêu cầu hủy kết hôn trái pháp luật, cả hai bên đã đáp ứng đầy đủ điều kiện kết hôn và cùng yêu cầu công nhận quan hệ hôn nhân. Theo quy định hiện hành, Tòa án xử lý thế nào?",
+  "a": "Buộc hai bên phải đăng ký kết hôn lại.",
+  "b": "Vẫn phải hủy kết hôn trái pháp luật.",
+  "c": "Công nhận quan hệ hôn nhân kể từ thời điểm đăng ký kết hôn ban đầu.",
+  "d": "Công nhận quan hệ hôn nhân kể từ thời điểm các bên đủ điều kiện kết hôn.",
+  "answer": "d",
+  "explanation": "Căn cứ khoản 2 Điều 11 Luật Hôn nhân và gia đình năm 2014: Trong trường hợp tại thời điểm Tòa án giải quyết mà hai bên đã có đủ điều kiện kết hôn và yêu cầu công nhận quan hệ hôn nhân thì Tòa án công nhận quan hệ hôn nhân; quan hệ hôn nhân được xác lập từ thời điểm các bên đủ điều kiện kết hôn."
+},
+{
+    "question": "Ông A có vợ hợp pháp từ năm 1972 tại miền Nam. Năm 1975, sau khi tập kết ra Bắc, ông A tiếp tục kết hôn với bà B và có đăng ký kết hôn hợp pháp theo quy định thời điểm đó. Đến nay, cả hai giấy chứng nhận kết hôn vẫn tồn tại và chưa có bản án hủy kết hôn trái pháp luật. Khi công chứng hợp đồng định đoạt tài sản hình thành trong thời kỳ tồn tại đồng thời hai quan hệ hôn nhân này, hướng xử lý phù hợp nhất của công chứng viên là gì?",
+    "a": "Chỉ yêu cầu người vợ kết hôn trước tham gia giao dịch vì hôn nhân trước đương nhiên hợp pháp.",
+    "b": "Chỉ yêu cầu người vợ có giấy đăng ký kết hôn sau tham gia giao dịch vì hôn nhân sau có đăng ký.",
+    "c": "Từ chối công chứng ngay vì chắc chắn có hành vi vi phạm chế độ một vợ một chồng.",
+    "d": "Hướng dẫn tất cả các bên liên quan cùng thỏa thuận hoặc yêu cầu Tòa án giải quyết trước khi xác định quyền tài sản.",
+    "answer": "d",
+    "explanation": "Theo hướng dẫn đặc thù tại Thông tư số 60/TATC ngày 22/02/1978 của Tòa án nhân dân tối cao về trường hợp cán bộ, bộ đội có vợ hoặc chồng trong Nam tập kết ra Bắc lấy vợ hoặc chồng khác, quyền lợi của cả hai người vợ đều cần được xem xét bảo vệ và Tòa án khuyến khích các bên tự thu xếp ổn thỏa. Trong thực tiễn công chứng, khi chưa có quyết định của Tòa án xác định hôn nhân nào vô hiệu hoặc xác định cụ thể chế độ tài sản, công chứng viên phải yêu cầu các bên liên quan cùng tham gia thỏa thuận hoặc hướng dẫn yêu cầu Tòa án giải quyết để tránh xâm phạm quyền lợi của người có quyền đối với tài sản."
+  },
+  {
+    "question": "Nam và nữ bắt đầu chung sống như vợ chồng từ năm 1985, không đăng ký kết hôn nhưng đến nay vẫn chung sống ổn định. Khi giải quyết tranh chấp tài sản, việc công nhận quan hệ vợ chồng được xác định như thế nào?",
+    "a": "Không được công nhận vì không đăng ký kết hôn.",
+    "b": "Được công nhận là vợ chồng theo quy định chuyển tiếp của pháp luật.",
+    "c": "Chỉ được công nhận nếu có xác nhận của UBND cấp xã.",
+    "d": "Chỉ được công nhận nếu đăng ký kết hôn trước ngày 01/01/2003.",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 131 Luật Hôn nhân và gia đình năm 2014, quan hệ hôn nhân xác lập trước ngày Luật này có hiệu lực thì áp dụng pháp luật tại thời điểm xác lập. Theo điểm b khoản 4 Điều 2 Thông tư liên tịch số 01/2016/TTLT-TANDTC-VKSNDTC-BTP, trường hợp nam nữ chung sống như vợ chồng trước ngày 03/01/1987 mà chưa đăng ký kết hôn thì vẫn được công nhận là vợ chồng."
+  },
+  {
+    "question": "Ông A và bà B sống chung như vợ chồng từ năm 1990 nhưng không đăng ký kết hôn trong thời hạn pháp luật cho phép. Năm 2026, phát sinh tranh chấp về căn nhà mua năm 1998 đứng tên ông A. Khi giải quyết tranh chấp, nguyên tắc pháp lý nào có khả năng được ưu tiên áp dụng?",
+    "a": "Đương nhiên xác định là tài sản chung vợ chồng.",
+    "b": "Đương nhiên xác định là tài sản riêng của người đứng tên.",
+    "c": "Giải quyết theo thỏa thuận; nếu không có thì áp dụng Bộ luật dân sự về sở hữu chung.",
+    "d": "Tài sản bị Nhà nước thu hồi vì vi phạm chế độ hôn nhân.",
+    "answer": "c",
+    "explanation": "Theo Điều 14 và Điều 16 Luật Hôn nhân và gia đình năm 2014, nam nữ chung sống như vợ chồng mà không đăng ký kết hôn thì không phát sinh quyền, nghĩa vụ giữa vợ và chồng; quan hệ tài sản được giải quyết theo thỏa thuận, nếu không có thỏa thuận thì áp dụng Bộ luật dân sự và pháp luật liên quan. Công việc nội trợ và duy trì đời sống chung được coi như lao động có thu nhập."
+  },
+  {
+    "question": "Trong trường hợp giải quyết hậu quả của việc nam nữ chung sống như vợ chồng mà không đăng ký kết hôn, yếu tố nào sau đây pháp luật yêu cầu phải được bảo đảm khi phân chia tài sản?",
+    "a": "Ưu tiên tuyệt đối cho người có thu nhập chính.",
+    "b": "Ưu tiên cho người đứng tên tài sản.",
+    "c": "Bảo đảm quyền, lợi ích hợp pháp của phụ nữ và con.",
+    "d": "Chia đều tuyệt đối trong mọi trường hợp.",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 16 Luật Hôn nhân và gia đình năm 2014, việc giải quyết quan hệ tài sản của nam nữ chung sống như vợ chồng mà không đăng ký kết hôn phải bảo đảm quyền, lợi ích hợp pháp của phụ nữ và con; công việc nội trợ và công việc khác liên quan đến duy trì đời sống chung được coi như lao động có thu nhập."
+  },
+{
+    "question": "Theo Luật Hôn nhân và gia đình năm 1959, nguyên tắc cơ bản nào sau đây được xác định là nền tảng của chế độ hôn nhân mới ở Việt Nam?",
+    "a": "Cha mẹ quyết định việc kết hôn của con.",
+    "b": "Đa thê được pháp luật thừa nhận trong trường hợp tập quán địa phương.",
+    "c": "Hôn nhân tự nguyện, tiến bộ, một vợ một chồng, nam nữ bình đẳng.",
+    "d": "Hôn nhân chỉ được xác lập khi có sự đồng ý của gia tộc.",
+    "answer": "c",
+    "explanation": "Theo Điều 1 Luật Hôn nhân và gia đình năm 1959, chế độ hôn nhân và gia đình mới của Việt Nam được xây dựng theo nguyên tắc hôn nhân tự do, một vợ một chồng, nam nữ bình đẳng và bảo vệ quyền lợi của phụ nữ và con cái."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 1959, hành vi nào sau đây bị nghiêm cấm?",
+    "a": "Kết hôn giữa công dân khác tôn giáo.",
+    "b": "Kết hôn giữa người Việt Nam và người nước ngoài.",
+    "c": "Cưỡng ép kết hôn và thách cưới nặng nề.",
+    "d": "Kết hôn giữa người ở khác tỉnh.",
+    "answer": "c",
+    "explanation": "Luật Hôn nhân và gia đình năm 1959 xác lập nguyên tắc tự do kết hôn và nghiêm cấm cưỡng ép kết hôn, cản trở kết hôn cùng các hủ tục phong kiến như thách cưới nặng nề nhằm bảo vệ quyền tự do hôn nhân."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 1986, tài sản do vợ chồng tạo ra trong thời kỳ hôn nhân được xác định theo nguyên tắc nào?",
+    "a": "Thuộc sở hữu riêng của người trực tiếp tạo lập.",
+    "b": "Thuộc sở hữu chung của vợ chồng, trừ trường hợp được cho riêng hoặc thừa kế riêng.",
+    "c": "Người chồng toàn quyền quản lý và định đoạt.",
+    "d": "Chỉ là tài sản chung khi có văn bản xác nhận.",
+    "answer": "b",
+    "explanation": "Theo các quy định của Luật Hôn nhân và gia đình năm 1986 về chế độ tài sản của vợ chồng, tài sản do vợ chồng tạo ra trong thời kỳ hôn nhân là tài sản chung; tài sản được tặng cho riêng hoặc thừa kế riêng thì thuộc tài sản riêng của mỗi bên."
+  },
+  {
+    "question": "Theo tinh thần của Luật Hôn nhân và gia đình năm 1986, việc giải quyết ly hôn phải đặt trọng tâm bảo vệ đối tượng nào?",
+    "a": "Người có thu nhập cao hơn.",
+    "b": "Gia đình bên nội.",
+    "c": "Phụ nữ và con chưa thành niên.",
+    "d": "Người đứng tên tài sản.",
+    "answer": "c",
+    "explanation": "Luật Hôn nhân và gia đình năm 1986 kế thừa nguyên tắc bảo vệ quyền lợi của phụ nữ và trẻ em trong quan hệ hôn nhân và gia đình, đặc biệt khi giải quyết ly hôn, cấp dưỡng và nuôi con."
+  },
+  {
+    "question": "Một cặp nam nữ chung sống với nhau từ năm 1984 nhưng không đăng ký kết hôn. Theo quy định chuyển tiếp của pháp luật hiện hành, quan hệ của họ được xem xét như thế nào?",
+    "a": "Không được công nhận vì không đăng ký kết hôn.",
+    "b": "Được công nhận là vợ chồng nếu đủ điều kiện kết hôn theo pháp luật thời điểm đó.",
+    "c": "Chỉ được công nhận nếu có con chung.",
+    "d": "Chỉ được công nhận nếu đăng ký lại sau năm 2000.",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 131 Luật Hôn nhân và gia đình năm 2014 và điểm b khoản 4 Điều 2 Thông tư liên tịch số 01/2016/TTLT-TANDTC-VKSNDTC-BTP, nam nữ chung sống như vợ chồng trước ngày 03/01/1987 mà đủ điều kiện kết hôn thì vẫn được công nhận là vợ chồng dù chưa đăng ký kết hôn."
+  },
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 1959, việc kết hôn vi phạm nguyên tắc tự nguyện có thể dẫn đến hậu quả pháp lý nào?",
+  "a": "Được công nhận nếu đã tổ chức lễ cưới.",
+  "b": "Được công nhận nếu có con chung.",
+  "c": "Có thể bị Tòa án hủy bỏ.",
+  "d": "Chỉ bị xử phạt hành chính nhưng hôn nhân vẫn có hiệu lực.",
+  "answer": "c",
+  "explanation": "Luật Hôn nhân và gia đình năm 1959 xác lập nguyên tắc hôn nhân tự nguyện, tiến bộ. Các trường hợp cưỡng ép kết hôn hoặc vi phạm điều kiện kết hôn có thể bị cơ quan có thẩm quyền xem xét hủy bỏ nhằm bảo vệ quyền tự do hôn nhân."
+},
+{
+  "question": "Theo tinh thần của Luật Hôn nhân và gia đình năm 1986, quyền bình đẳng giữa vợ và chồng được thể hiện rõ nhất ở nội dung nào sau đây?",
+  "a": "Người chồng là chủ sở hữu duy nhất đối với tài sản gia đình.",
+  "b": "Vợ chồng có quyền ngang nhau trong quản lý, sử dụng tài sản chung.",
+  "c": "Người vợ chỉ có quyền quản lý tài sản phục vụ sinh hoạt.",
+  "d": "Người chồng quyết định nơi cư trú của gia đình.",
+  "answer": "b",
+  "explanation": "Luật Hôn nhân và gia đình năm 1986 kế thừa nguyên tắc nam nữ bình đẳng, xác định vợ chồng có quyền và nghĩa vụ ngang nhau trong quan hệ nhân thân và tài sản, bao gồm việc chiếm hữu, sử dụng, định đoạt tài sản chung."
+},
+{
+  "question": "Một người đàn ông kết hôn hợp pháp năm 1982 nhưng đến năm 1987 tiếp tục chung sống như vợ chồng với người khác mà không ly hôn. Theo pháp luật hôn nhân và gia đình qua các thời kỳ, quan hệ sau được xác định như thế nào?",
+  "a": "Được công nhận vì phát sinh trước Luật Hôn nhân và gia đình năm 2000.",
+  "b": "Không được công nhận vì vi phạm nguyên tắc một vợ một chồng.",
+  "c": "Được công nhận nếu có con chung.",
+  "d": "Được công nhận nếu được địa phương xác nhận.",
+  "answer": "b",
+  "explanation": "Nguyên tắc một vợ một chồng đã được ghi nhận từ Luật Hôn nhân và gia đình năm 1959 và tiếp tục được duy trì trong Luật năm 1986, 2000 và 2014. Người đang có vợ hoặc chồng mà tiếp tục chung sống như vợ chồng với người khác là hành vi vi phạm chế độ hôn nhân một vợ một chồng."
+},
+{
+  "question": "Theo quy định chuyển tiếp của pháp luật hôn nhân và gia đình, trường hợp nam nữ chung sống như vợ chồng trước ngày 03/01/1987 nhưng một bên chưa đủ tuổi kết hôn theo quy định thời điểm đó thì khả năng cao quan hệ này sẽ được xử lý thế nào?",
+  "a": "Đương nhiên được công nhận là hôn nhân hợp pháp.",
+  "b": "Không thể xem xét điều kiện kết hôn vì đã chung sống thực tế.",
+  "c": "Phải xem xét việc có đủ điều kiện kết hôn tại thời điểm xác lập quan hệ.",
+  "d": "Được công nhận nếu có tài sản chung.",
+  "answer": "c",
+  "explanation": "Theo khoản 1 Điều 131 Luật Hôn nhân và gia đình năm 2014 và hướng dẫn tại Thông tư liên tịch số 01/2016/TTLT-TANDTC-VKSNDTC-BTP, việc công nhận hôn nhân thực tế trước ngày 03/01/1987 phải xem xét các điều kiện kết hôn theo pháp luật tại thời điểm xác lập quan hệ."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 1986, nguyên tắc giải quyết tài sản của vợ chồng khi ly hôn ưu tiên bảo vệ yếu tố nào?",
+  "a": "Người trực tiếp tạo ra nhiều tài sản hơn.",
+  "b": "Phong tục tập quán của địa phương.",
+  "c": "Quyền lợi chính đáng của phụ nữ và con.",
+  "d": "Ý chí của gia đình bên chồng.",
+  "answer": "c",
+  "explanation": "Luật Hôn nhân và gia đình năm 1986 tiếp tục khẳng định nguyên tắc bảo vệ phụ nữ và trẻ em khi giải quyết quan hệ hôn nhân, đặc biệt trong việc chia tài sản và giải quyết quyền nuôi con sau ly hôn."
+},
+  {
     "question": "Người đã được thông báo hợp lệ nhưng không tham dự cuộc họp công bố di chúc thì xử lý thế nào?",
     "a": "Phải hoãn cuộc họp",
     "b": "Phải lập lại thủ tục thông báo",
