@@ -6,6 +6,7 @@ let index = 0;
 let answers = {};
 let timer;
 let time = 60 * 60;
+let currentFilter = 'all'; // Lưu bộ lọc hiện tại để xử lý giao diện hiển thị
 
 const app = document.getElementById("app");
 function getDeviceId() {
@@ -23,6 +24,7 @@ const users = [
   { username: "user1", password: "123", role: "user" }
 ];
 let sessions = JSON.parse(localStorage.getItem("loginSessions") || "{}");
+
 // ================= LOGIN UI =================
 function showLogin() {
   document.getElementById("loginBox").innerHTML = `
@@ -46,7 +48,6 @@ function login() {
   let deviceId = getDeviceId();
   let sessions = JSON.parse(localStorage.getItem("loginSessions") || "{}");
 
-  // ================= CHỐNG 1 THIẾT BỊ =================
   if (user.role !== "admin") {
     if (sessions[user.username] && sessions[user.username] !== deviceId) {
       alert("Tài khoản đã đăng nhập trên thiết bị khác!");
@@ -54,10 +55,8 @@ function login() {
     }
   }
 
-  // lưu session mới
   sessions[user.username] = deviceId;
   localStorage.setItem("loginSessions", JSON.stringify(sessions));
-
   localStorage.setItem("user", JSON.stringify(user));
 
   document.getElementById("loginBox").style.display = "none";
@@ -77,11 +76,9 @@ function checkLogin() {
     return;
   }
 
-  // ===== ADMIN KHÔNG BỊ GIỚI HẠN =====
   if (user.role !== "admin") {
     if (sessions[user.username] !== deviceId) {
       alert("Phiên đăng nhập không hợp lệ (thiết bị khác đã đăng nhập)");
-
       localStorage.removeItem("user");
       showLogin();
       return;
@@ -93,21 +90,25 @@ function checkLogin() {
   startExam();
 }
 
-// ================= LOAD DATA =================
-fetch("cauhoi.json")
-  .then(res => res.json())
-  .then(json => {
-  data = json;
-
-  // 🔥 thêm trọng số mặc định
-  data.forEach(q => {
-    q.weight = q.weight || 1;
-    q.correctCount = q.correctCount || 0;
-    q.wrongCount = q.wrongCount || 0;
-  });
-
+// ================= LOAD DATA (ĐÃ SỬA LỖI MẤT WEIGHT) =================
+const localData = localStorage.getItem("questionData");
+if (localData) {
+  data = JSON.parse(localData);
   checkLogin();
-});
+} else {
+  fetch("cauhoi.json")
+    .then(res => res.json())
+    .then(json => {
+      data = json;
+      data.forEach(q => {
+        q.weight = q.weight || 1;
+        q.correctCount = q.correctCount || 0;
+        q.wrongCount = q.wrongCount || 0;
+      });
+      checkLogin();
+    })
+    .catch(err => alert("Không thể tải file cauhoi.json. Vui lòng kiểm tra lại cấu trúc file!"));
+}
 
 // ================= SHUFFLE =================
 function shuffle(arr) {
@@ -118,29 +119,8 @@ function shuffle(arr) {
   }
   return a;
 }
-function smartShuffle(arr, groupSize = 3) {
-  let groups = [];
-  let result = [];
 
-  // chia nhóm nhỏ
-  for (let i = 0; i < arr.length; i += groupSize) {
-    groups.push(arr.slice(i, i + groupSize));
-  }
-
-  // trộn từng nhóm nhỏ
-  groups = groups.map(g => shuffle(g));
-
-  // rải kiểu chia bài
-  let maxLen = Math.max(...groups.map(g => g.length));
-
-  for (let i = 0; i < maxLen; i++) {
-    for (let g of groups) {
-      if (g[i]) result.push(g[i]);
-    }
-  }
-
-  return result;
-}
+// ================= WEIGHTED PICK (ĐÃ SỬA LỖI ĐÈ MẢNG GÂY UNDEFINED) =================
 function weightedPick(arr, count) {
   let pool = [...arr];
   let result = [];
@@ -148,28 +128,23 @@ function weightedPick(arr, count) {
   for (let i = 0; i < count; i++) {
     if (pool.length === 0) break;
 
-    // tổng điểm
     let total = pool.reduce((sum, q) => sum + (q.weight || 1), 0);
-
-    // random 1 số từ 0 → tổng điểm
     let r = Math.random() * total;
-
     let sum = 0;
 
     for (let j = 0; j < pool.length; j++) {
       sum += (pool[j].weight || 1);
-
       if (r <= sum) {
         result.push(pool[j]);
-        pool.splice(j, 1); // bỏ câu đó ra
+        pool.splice(j, 1); 
         break;
       }
     }
   }
-
   return result;
 }
-// ================= START EXAM (ĐÃ SỬA) =================
+
+// ================= START EXAM =================
 function startExam() {
   answers = {};
   index = 0;
@@ -179,38 +154,46 @@ function startExam() {
   let list = [];
 
   for (let q of wrongPool) {
-    if (!used.has(q.question || q.cauhoi)) {
-      used.add(q.question || q.cauhoi);
+    let qText = q.question || q.cauhoi;
+    if (qText && !used.has(qText)) {
+      used.add(qText);
       list.push(q);
     }
   }
 
   for (let q of data) {
     let qText = q.question || q.cauhoi;
-    if (!used.has(qText)) {
+    if (qText && !used.has(qText)) {
       used.add(qText);
       list.push(q);
     }
     if (list.length >= 100) break;
   }
 
-  let remain = shuffle(data.filter(q => !used.has(q.question || q.cauhoi)));
-
-  for (let q of remain) {
-    if (list.length >= 100) break;
-    list.push(q);
+  if (list.length < 100) {
+    let remain = shuffle(data.filter(q => !used.has(q.question || q.cauhoi)));
+    for (let q of remain) {
+      if (list.length >= 100) break;
+      list.push(q);
+    }
   }
 
-  // SỬA TẠI ĐÂY: Lấy mảng list thông minh đã lọc phía trên làm đề thi thay vì đè bằng weightedPick(data)
-  questions = weightedPick(list, 100); 
+  // Lấy dữ liệu đề thi từ mảng danh sách được chọn lọc tối đa 100 câu
+  questions = weightedPick(list, Math.min(100, list.length));
 
   render();
   startTimer();
 }
+
 // ================= RENDER =================
 function render() {
+  if (questions.length === 0 || !questions[index]) {
+    app.innerHTML = `<div class="box"><h2>Dữ liệu câu hỏi đang được cập nhật hoặc bị lỗi bộ nhớ!</h2></div>`;
+    return;
+  }
+
   let q = questions[index];
-  let qText = q.question || q.cauhoi;
+  let qText = q.question || q.cauhoi || "Nội dung câu hỏi không tồn tại";
   let optA = q.a || q.Một || "";
   let optB = q.b || "";
   let optC = q.c || "";
@@ -227,7 +210,7 @@ function render() {
         <div class="bar-fill" id="bar"></div>
       </div>
 
-      <h2>${qText}</h2>
+      <h2 style="white-space: pre-wrap; text-align: justify;">${qText}</h2>
 
       <button class="option" onclick="choose('A')">A. ${optA}</button>
       <button class="option" onclick="choose('B')">B. ${optB}</button>
@@ -239,7 +222,7 @@ function render() {
         <button class="nav-btn" onclick="next()">Sau →</button>
       </div>
 
-      <button class="btn" onclick="submit()">NỘP BÀI</button>
+      <button class="btn" style="margin-top:15px; background:#b30000; color:#fff;" onclick="submit()">NỘP BÀI</button>
 
       <div id="nav"></div>
     </div>
@@ -259,8 +242,7 @@ function choose(c) {
 // ================= HIGHLIGHT =================
 function highlight() {
   setTimeout(() => {
-    document.querySelectorAll(".option")
-      .forEach(b => b.classList.remove("selected"));
+    document.querySelectorAll(".option").forEach(b => b.classList.remove("selected"));
 
     let ans = answers[index];
     if (!ans) return;
@@ -277,6 +259,7 @@ function highlight() {
 // ================= NAV =================
 function renderNav() {
   let nav = document.getElementById("nav");
+  if (!nav) return;
   nav.innerHTML = "";
 
   questions.forEach((_, i) => {
@@ -288,6 +271,11 @@ function renderNav() {
       btn.style.color = "white";
     }
 
+    if (i === index) {
+      btn.style.border = "2px solid #000";
+      btn.style.fontWeight = "bold";
+    }
+
     btn.onclick = () => {
       index = i;
       render();
@@ -297,7 +285,6 @@ function renderNav() {
   });
 }
 
-// ================= NEXT / PREV =================
 function next() {
   if (index < questions.length - 1) {
     index++;
@@ -312,10 +299,9 @@ function prev() {
   }
 }
 
-// ================= BAR =================
 function updateBar() {
   let bar = document.getElementById("bar");
-  if (bar) {
+  if (bar && questions.length > 0) {
     bar.style.width = ((index + 1) / questions.length) * 100 + "%";
   }
 }
@@ -323,18 +309,13 @@ function updateBar() {
 // ================= TIMER =================
 function startTimer() {
   clearInterval(timer);
-
   timer = setInterval(() => {
     time--;
-
     let m = Math.floor(time / 60);
     let s = time % 60;
-
     let el = document.getElementById("time");
     if (el) el.innerText = `${m}:${s < 10 ? "0" + s : s}`;
-
     if (time <= 0) submit();
-
   }, 1000);
 }
 
@@ -347,42 +328,31 @@ function submit() {
   let newWrong = [];
 
   questions.forEach((q, i) => {
-  let userAns = answers[i]
-    ? answers[i].toString().trim().toLowerCase()
-    : "";
+    let userAns = answers[i] ? answers[i].toString().trim().toLowerCase() : "";
+    let correctAns = (q.answer || q.trảlời || "").toString().trim().toLowerCase();
 
-  let correctAns = (q.answer || q.trảlời || "")
-    .toString()
-    .trim()
-    .toLowerCase();
+    if (correctAns === "một") correctAns = "a";
 
-  if (correctAns === "một") correctAns = "a";
+    q.weight = q.weight || 1;
+    q.correctCount = q.correctCount || 0;
+    q.wrongCount = q.wrongCount || 0;
 
-  // 🔥 đảm bảo có weight
-  q.weight = q.weight || 1;
-  q.correctCount = q.correctCount || 0;
-  q.wrongCount = q.wrongCount || 0;
+    if (userAns === correctAns) {
+      correct++;
+      q.correctCount++;
+      q.weight = Math.max(1, q.weight - 0.3);
+    } else {
+      wrong++;
+      newWrong.push(q);
+      q.wrongCount++;
+      q.weight = Math.min(10, q.weight + 1.2);
+    }
+  });
 
-  if (userAns === correctAns) {
-    correct++;
-    q.correctCount++;
-
-    // ✔ ĐÚNG → giảm xuất hiện
-    q.weight = Math.max(1, q.weight - 0.3);
-
-  } else {
-    wrong++;
-    newWrong.push(q);
-    q.wrongCount++;
-
-    // ❌ SAI → tăng xuất hiện
-    q.weight = Math.min(10, q.weight + 1.2);
-  }
-});
-localStorage.setItem("questionData", JSON.stringify(data));
+  // Đồng bộ lưu mảng dữ liệu có trọng số mới xuống trình duyệt
+  localStorage.setItem("questionData", JSON.stringify(data));
   wrongPool = newWrong;
 
-  // Bao bọc toàn bộ bằng background xám nhạt để làm nổi bật trang giấy A4 màu trắng bên trong
   document.body.style.backgroundColor = "#f4f5f7";
   document.body.style.margin = "0";
   document.body.style.padding = "20px 0";
@@ -407,28 +377,42 @@ localStorage.setItem("questionData", JSON.stringify(data));
       </div>
 
       <div style="display: flex; gap: 8px; justify-content: center; margin-bottom: 25px; border-bottom: 1px solid #eef0f2; padding-bottom: 15px;">
-        <button style="background: #f1f3f5; color: #333; border: 1px solid #dee2e6; padding: 5px 14px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('all')">Tất cả câu hỏi</button>
-        <button style="background: #e8f5e9; color: green; border: 1px solid #c8e6c9; padding: 5px 14px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('correct')">Các câu đúng</button>
-        <button style="background: #ffebee; color: #c62828; border: 1px solid #ffcdd2; padding: 5px 14px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('wrong')">Các câu sai</button>
+        <button id="btn-filter-all" style="padding: 5px 14px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('all')">Tất cả câu hỏi</button>
+        <button id="btn-filter-correct" style="padding: 5px 14px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('correct')">Các câu đúng</button>
+        <button id="btn-filter-wrong" style="padding: 5px 14px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('wrong')">Các câu sai</button>
       </div>
 
-      <div id="result-list">
-        </div>
+      <div id="result-list"></div>
     </div>
   `;
 
   filterResult('all');
 }
 
-// ================= FILTER RESULT LIST (ĐÃ SỬA) =================
+// ================= FILTER RESULT LIST =================
 function filterResult(type) {
+  currentFilter = type;
   let listContainer = document.getElementById("result-list");
   if (!listContainer) return;
+
+  // Cập nhật giao diện nút hoạt động (Active Tab UI)
+  const btnAll = document.getElementById("btn-filter-all");
+  const btnCorrect = document.getElementById("btn-filter-correct");
+  const btnWrong = document.getElementById("btn-filter-wrong");
+
+  if(btnAll && btnCorrect && btnWrong) {
+    btnAll.style.cssText = "background: #f1f3f5; color: #333; border: 1px solid #dee2e6;";
+    btnCorrect.style.cssText = "background: #e8f5e9; color: green; border: 1px solid #c8e6c9;";
+    btnWrong.style.cssText = "background: #ffebee; color: #c62828; border: 1px solid #ffcdd2;";
+
+    if (type === 'all') btnAll.style.cssText = "background: #333; color: #fff; border: 1px solid #333; font-weight:bold;";
+    if (type === 'correct') btnCorrect.style.cssText = "background: green; color: #fff; border: 1px solid green; font-weight:bold;";
+    if (type === 'wrong') btnWrong.style.cssText = "background: #c62828; color: #fff; border: 1px solid #c62828; font-weight:bold;";
+  }
 
   let html = "";
 
   questions.forEach((q, i) => {
-    // Biện pháp an toàn: Nếu object q không tồn tại, bỏ qua không render để tránh lỗi sập trang
     if (!q) return; 
 
     let userAns = answers[i] ? answers[i].toString().trim().toLowerCase() : "";
@@ -440,14 +424,12 @@ function filterResult(type) {
     if (type === 'correct' && !ok) return;
     if (type === 'wrong' && ok) return;
 
-    // CHỐNG UNDEFINED: Kiểm tra nghiêm ngặt mọi trường hợp đặt tên key trong file json
-    let qText = q.question || q.cauhoi || q.Question || "Không tìm thấy nội dung câu hỏi trong dữ liệu gốc";
+    let qText = q.question || q.cauhoi || q.Question || "Không tìm thấy nội dung dữ liệu";
     let optA = q.a || q.Một || "";
     let optB = q.b || "";
     let optC = q.c || "";
     let optD = q.d || "";
 
-    // Lấy text đáp án đúng
     let fullCorrectText = "";
     if (correctAns === "a") fullCorrectText = `A. ${optA}`;
     else if (correctAns === "b") fullCorrectText = `B. ${optB}`;
@@ -455,7 +437,6 @@ function filterResult(type) {
     else if (correctAns === "d") fullCorrectText = `D. ${optD}`;
     else fullCorrectText = (q.answer || q.trảlời || "Chưa rõ").toUpperCase();
 
-    // Lấy text đáp án người dùng chọn
     let fullUserText = "Không lựa chọn đáp án";
     if (userAns === "a") fullUserText = `A. ${optA}`;
     else if (userAns === "b") fullUserText = `B. ${optB}`;
@@ -470,7 +451,7 @@ function filterResult(type) {
         font-size: 15px;
         color: #111;
       ">
-        <p style="margin: 0 0 6px 0; padding: 0;"><b>Câu ${i + 1}.</b> ${qText}</p>
+        <p style="margin: 0 0 6px 0; padding: 0; white-space: pre-wrap;"><b>Câu ${i + 1}.</b> ${qText}</p>
         
         <div style="margin: 0 0 6px 0; padding-left: 15px; font-size: 14.5px; color: #333;">
           <div style="margin-bottom: 3px;">
@@ -497,6 +478,7 @@ function filterResult(type) {
           font-size: 14px;
           color: #555;
           border-left: 2px solid #e0e0e0;
+          white-space: pre-wrap;
         ">
           <b>Cơ sở lý luận (Giải thích):</b> ${q.explanation ? q.explanation : (q.giảithích ? q.giảithích : "Chưa có nội dung giải thích.")}
         </div>
@@ -504,5 +486,5 @@ function filterResult(type) {
     `;
   });
 
-  listContainer.innerHTML = html || "<p style='text-align:center; color:#777; font-style: italic; padding: 20px;'>Không tìm thấy dữ liệu phù hợp với bộ lọc.</p>";
+  listContainer.innerHTML = html || `<p style='text-align:center; color:#777; font-style: italic; padding: 20px;'>Không tìm thấy câu hỏi nào phù hợp với danh sách lọc.</p>`;
 }
