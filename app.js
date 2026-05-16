@@ -15,6 +15,39 @@ const users = [
   { username: "user1", password: "123", role: "user" }
 ];
 
+// ================= DEVICE ID =================
+function getDeviceId() {
+  let id = localStorage.getItem("deviceId");
+  if (!id) {
+    id = crypto.randomUUID();
+    localStorage.setItem("deviceId", id);
+  }
+  return id;
+}
+
+// ================= ANTI COPY =================
+function antiCopy() {
+  document.addEventListener("contextmenu", e => e.preventDefault());
+  document.addEventListener("copy", e => e.preventDefault());
+  document.addEventListener("cut", e => e.preventDefault());
+  document.addEventListener("selectstart", e => e.preventDefault());
+
+  document.addEventListener("keydown", function (e) {
+    if (
+      e.ctrlKey &&
+      ["c", "x", "u", "s", "a"].includes(e.key.toLowerCase())
+    ) {
+      e.preventDefault();
+    }
+
+    if (e.key === "F12") e.preventDefault();
+
+    if (e.ctrlKey && e.shiftKey && ["I", "J", "C"].includes(e.key.toUpperCase())) {
+      e.preventDefault();
+    }
+  });
+}
+
 // ================= LOGIN UI =================
 function showLogin() {
   document.getElementById("loginBox").innerHTML = `
@@ -27,14 +60,26 @@ function showLogin() {
   `;
 }
 
-// ================= LOGIN =================
+// ================= LOGIN (1 DEVICE ONLY) =================
 function login() {
   let u = document.getElementById("u").value;
   let p = document.getElementById("p").value;
+  let deviceId = getDeviceId();
 
   let user = users.find(x => x.username === u && x.password === p);
 
   if (!user) return alert("Sai tài khoản");
+
+  let session = JSON.parse(localStorage.getItem("session_" + user.username));
+
+  if (session && session.deviceId !== deviceId) {
+    return alert("Tài khoản đã đăng nhập trên thiết bị khác!");
+  }
+
+  localStorage.setItem("session_" + user.username, JSON.stringify({
+    deviceId: deviceId,
+    loginTime: Date.now()
+  }));
 
   localStorage.setItem("user", JSON.stringify(user));
 
@@ -50,11 +95,25 @@ function checkLogin() {
 
   if (!user) {
     showLogin();
-  } else {
-    document.getElementById("loginBox").style.display = "none";
-    document.getElementById("app").style.display = "block";
-    startExam();
+    return;
   }
+
+  user = JSON.parse(user);
+  let deviceId = getDeviceId();
+
+  let session = JSON.parse(localStorage.getItem("session_" + user.username));
+
+  if (!session || session.deviceId !== deviceId) {
+    localStorage.removeItem("user");
+    alert("Phiên đăng nhập không hợp lệ!");
+    showLogin();
+    return;
+  }
+
+  document.getElementById("loginBox").style.display = "none";
+  document.getElementById("app").style.display = "block";
+
+  startExam();
 }
 
 // ================= LOAD DATA =================
@@ -63,6 +122,7 @@ fetch("cauhoi.json")
   .then(json => {
     data = json;
     checkLogin();
+    antiCopy(); // 🔥 bật chống copy
   });
 
 // ================= SHUFFLE =================
@@ -75,10 +135,9 @@ function shuffle(arr) {
   return a;
 }
 
-// ================= SMART SHUFFLE (KHÔNG TRÙNG NHÓM LIỀN NHAU) =================
+// ================= SMART SHUFFLE =================
 function smartShuffleNoRepeat(arr) {
   let a = shuffle(arr);
-
   let result = [];
   let lastGroup = null;
 
@@ -94,12 +153,9 @@ function smartShuffleNoRepeat(arr) {
       }
     }
 
-    if (indexToPick === -1) {
-      indexToPick = 0;
-    }
+    if (indexToPick === -1) indexToPick = 0;
 
     let picked = a.splice(indexToPick, 1)[0];
-
     lastGroup = picked.group || picked.topic || "default";
 
     result.push(picked);
@@ -117,7 +173,6 @@ function startExam() {
   let used = new Set();
   let list = [];
 
-  // ưu tiên câu sai
   for (let q of wrongPool) {
     let qText = q.question || q.cauhoi;
     if (!used.has(qText)) {
@@ -126,19 +181,15 @@ function startExam() {
     }
   }
 
-  // lấy từ ngân hàng đề
   for (let q of data) {
     let qText = q.question || q.cauhoi;
-
     if (!used.has(qText)) {
       used.add(qText);
       list.push(q);
     }
-
     if (list.length >= 100) break;
   }
 
-  // bổ sung nếu thiếu
   let remain = shuffle(data.filter(q => !used.has(q.question || q.cauhoi)));
 
   for (let q of remain) {
@@ -146,7 +197,6 @@ function startExam() {
     list.push(q);
   }
 
-  // 🔥 XÁO ĐỀ THÔNG MINH
   questions = smartShuffleNoRepeat(list).slice(0, 100);
 
   render();
@@ -164,7 +214,7 @@ function render() {
   let optD = q.d || "";
 
   app.innerHTML = `
-    <div class="box">
+    <div class="box" style="user-select:none">
       <div class="top">
         <div>Câu: ${index + 1}/${questions.length}</div>
         <div>⏱ <span id="time"></span></div>
@@ -182,8 +232,8 @@ function render() {
       <button class="option" onclick="choose('D')">D. ${optD}</button>
 
       <div class="nav-control">
-        <button class="nav-btn" onclick="prev()">← Trước</button>
-        <button class="nav-btn" onclick="next()">Sau →</button>
+        <button onclick="prev()">← Trước</button>
+        <button onclick="next()">Sau →</button>
       </div>
 
       <button class="btn" onclick="submit()">NỘP BÀI</button>
@@ -203,69 +253,6 @@ function choose(c) {
   highlight();
 }
 
-// ================= HIGHLIGHT =================
-function highlight() {
-  setTimeout(() => {
-    document.querySelectorAll(".option").forEach(b => b.classList.remove("selected"));
-
-    let ans = answers[index];
-    if (!ans) return;
-
-    const map = { A: 0, B: 1, C: 2, D: 3 };
-    let btns = document.querySelectorAll(".option");
-
-    if (btns[map[ans]]) {
-      btns[map[ans]].classList.add("selected");
-    }
-  }, 0);
-}
-
-// ================= NAV =================
-function renderNav() {
-  let nav = document.getElementById("nav");
-  nav.innerHTML = "";
-
-  questions.forEach((_, i) => {
-    let btn = document.createElement("button");
-    btn.innerText = i + 1;
-
-    if (answers[i]) {
-      btn.style.background = "#b30000";
-      btn.style.color = "white";
-    }
-
-    btn.onclick = () => {
-      index = i;
-      render();
-    };
-
-    nav.appendChild(btn);
-  });
-}
-
-// ================= NEXT / PREV =================
-function next() {
-  if (index < questions.length - 1) {
-    index++;
-    render();
-  }
-}
-
-function prev() {
-  if (index > 0) {
-    index--;
-    render();
-  }
-}
-
-// ================= BAR =================
-function updateBar() {
-  let bar = document.getElementById("bar");
-  if (bar) {
-    bar.style.width = ((index + 1) / questions.length) * 100 + "%";
-  }
-}
-
 // ================= TIMER =================
 function startTimer() {
   clearInterval(timer);
@@ -276,11 +263,10 @@ function startTimer() {
     let m = Math.floor(time / 60);
     let s = time % 60;
 
-    let el = document.getElementById("time");
-    if (el) el.innerText = `${m}:${s < 10 ? "0" + s : s}`;
+    document.getElementById("time").innerText =
+      `${m}:${s < 10 ? "0" + s : s}`;
 
     if (time <= 0) submit();
-
   }, 1000);
 }
 
@@ -293,7 +279,7 @@ function submit() {
   let newWrong = [];
 
   questions.forEach((q, i) => {
-    let userAns = answers[i] ? answers[i].toLowerCase() : "";
+    let userAns = (answers[i] || "").toLowerCase();
     let correctAns = (q.answer || q.trảlời || "").toLowerCase();
 
     if (correctAns === "một") correctAns = "a";
@@ -308,19 +294,13 @@ function submit() {
 
   wrongPool = newWrong;
 
-  document.body.style.backgroundColor = "#f4f5f7";
-
   app.innerHTML = `
-    <div style="max-width:820px;margin:0 auto;background:#fff;padding:40px">
-      <h1 style="text-align:center">KẾT QUẢ</h1>
-      <p style="text-align:center">
-        Đúng: <b style="color:green">${correct}</b> |
-        Sai: <b style="color:red">${wrong}</b>
-      </p>
+    <div style="text-align:center;padding:40px">
+      <h2>KẾT QUẢ</h2>
+      <p>Đúng: <b style="color:green">${correct}</b></p>
+      <p>Sai: <b style="color:red">${wrong}</b></p>
 
-      <div style="text-align:center">
-        <button onclick="location.reload()">Làm lại</button>
-      </div>
+      <button onclick="location.reload()">Thi lại</button>
     </div>
   `;
 }
