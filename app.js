@@ -92,25 +92,59 @@ function checkLogin() {
   startExam();
 }
 
-// ================= LOAD DATA =================
-const localData = localStorage.getItem("questionData");
-if (localData) {
-  data = JSON.parse(localData);
-  checkLogin();
-} else {
-  fetch("cauhoi.json")
-    .then(res => res.json())
-    .then(json => {
-      data = json;
-      data.forEach(q => {
-        q.weight = q.weight || 1;
-        q.correctCount = q.correctCount || 0;
-        q.wrongCount = q.wrongCount || 0;
-      });
-      checkLogin();
-    })
-    .catch(err => alert("Không thể tải file cauhoi.json. Vui lòng kiểm tra lại cấu trúc file!"));
+// ================= LOAD MULTIPLE JSON FILES =================
+// Hàm tự động tải và gộp tất cả các file JSON trong thư mục cau_hoi của bạn
+async function taiTatCaDuLieuCauHoi() {
+  const danhSachFiles = [
+    "./cau_hoi/p1.json",
+    "./cau_hoi/p2.json"
+  ];
+  
+  let beCauHoiTong = [];
+
+  for (const duongDan of danhSachFiles) {
+    try {
+      const res = await fetch(duongDan);
+      if (!res.ok) throw new Error();
+      const json = await res.json();
+      beCauHoiTong = beCauHoiTong.concat(json);
+    } catch (err) {
+      console.error(`Không thể tải hoặc lỗi cấu trúc file: ${duongDan}`);
+    }
+  }
+
+  if (beCauHoiTong.length === 0) {
+    alert("Không tải được bất kỳ file câu hỏi nào trong thư mục cau_hoi! Vui lòng kiểm tra lại đường dẫn.");
+    return [];
+  }
+
+  beCauHoiTong.forEach(q => {
+    q.weight = q.weight || 1;
+    q.correctCount = q.correctCount || 0;
+    q.wrongCount = q.wrongCount || 0;
+  });
+
+  return beCauHoiTong;
 }
+
+// Hàm khởi động nạp dữ liệu chính
+async function khoiDongUngDung() {
+  const localData = localStorage.getItem("questionData");
+  
+  if (localData) {
+    data = JSON.parse(localData);
+    checkLogin();
+  } else {
+    data = await taiTatCaDuLieuCauHoi();
+    if (data.length > 0) {
+      checkLogin();
+    }
+  }
+}
+
+// Chạy ứng dụng bằng cơ chế tải dữ liệu mới
+khoiDongUngDung();
+
 
 // ================= SHUFFLE =================
 function shuffle(arr) {
@@ -152,36 +186,46 @@ function startExam() {
   index = 0;
   time = 60 * 60;
 
+  // Lấy danh sách nội dung chữ của các câu hỏi đã làm đúng từ localStorage
   let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
 
-  let priorityQuestions = data.filter((q, i) => {
-    let qId = q.id || `q-${i}`; 
-    return !correctPool.includes(qId);
+  // Lọc lấy các câu hỏi chưa làm hoặc đã làm sai (nội dung không nằm trong correctPool)
+  let priorityQuestions = data.filter(q => {
+    let qText = (q.question || q.cauhoi || "").trim();
+    return !correctPool.includes(qText);
   });
 
   let list = [];
+  // Trộn ngẫu nhiên nhóm câu hỏi chưa làm / làm sai này lên trước
   list = shuffle(priorityQuestions);
 
+  // Nếu số câu chưa làm / làm sai ít hơn 100 câu, bốc thêm các câu đã làm đúng điền vào cho đủ 100 câu
   if (list.length < 100) {
-    let alreadyCorrectQuestions = data.filter((q, i) => {
-      let qId = q.id || `q-${i}`;
-      return correctPool.includes(qId);
+    let alreadyCorrectQuestions = data.filter(q => {
+      let qText = (q.question || q.cauhoi || "").trim();
+      return correctPool.includes(qText);
     });
 
     let shuffledCorrect = shuffle(alreadyCorrectQuestions);
 
     for (let q of shuffledCorrect) {
       if (list.length >= 100) break;
-      list.push(q);
+      let qText = (q.question || q.cauhoi || "").trim();
+      // Tránh trùng lặp câu hỏi vào đề hiện tại
+      if (!list.some(x => (x.question || x.cauhoi || "").trim() === qText)) {
+        list.push(q);
+      }
     }
   }
 
-  if (list.length === 0) {
+  // Nếu đã làm đúng sạch hoàn toàn tất cả các câu hỏi trong mọi file JSON
+  if (priorityQuestions.length === 0) {
     alert("Chúc mừng! Bạn đã hoàn thành đúng tất cả các câu hỏi trong bộ đề. Hệ thống sẽ tự động làm mới (reset) lại từ đầu!");
     localStorage.removeItem("correctPool");
     list = shuffle([...data]);
   }
 
+  // Cắt đề thi lấy đúng tối đa 100 câu hỏi
   questions = list.filter(q => q && (q.question || q.cauhoi)).slice(0, Math.min(100, list.length));
 
   render();
@@ -342,17 +386,17 @@ function submit() {
     q.correctCount = q.correctCount || 0;
     q.wrongCount = q.wrongCount || 0;
 
-    let originalIndex = data.findIndex(x => (x.question || x.cauhoi) === (q.question || q.cauhoi));
-    let qId = q.id || `q-${originalIndex !== -1 ? originalIndex : i}`;
+    // Lấy nội dung văn bản của câu hỏi làm định danh đồng bộ
+    let qTextId = (q.question || q.cauhoi || "").trim();
 
-    // SỬA LỖI: Kiểm tra nghiêm ngặt, nếu bỏ trống (userAns "") thì không bao giờ tính là đúng
     if (userAns !== "" && userAns === correctAns) {
       correct++;
       q.correctCount++;
       q.weight = Math.max(1, q.weight - 0.3);
       
-      if (!correctPool.includes(qId)) {
-        correctPool.push(qId);
+      // ĐÚNG: Đưa nội dung câu hỏi vào danh sách loại trừ
+      if (!correctPool.includes(qTextId)) {
+        correctPool.push(qTextId);
       }
     } else {
       wrong++;
@@ -360,7 +404,8 @@ function submit() {
       q.wrongCount++;
       q.weight = Math.min(10, q.weight + 1.2);
       
-      let cIndex = correctPool.indexOf(qId);
+      // SAI: Bắt buộc xóa khỏi danh sách đúng (nếu có trước đó) để lượt thi sau xuất hiện lại
+      let cIndex = correctPool.indexOf(qTextId);
       if (cIndex > -1) {
         correctPool.splice(cIndex, 1);
       }
@@ -436,13 +481,11 @@ function filterResult(type) {
     let correctAns = (q.answer || q.trảlời || "").toString().trim().toLowerCase();
     if (correctAns === "một") correctAns = "a";
     
-    // ĐỒNG BỘ: logic check đúng sai tương ứng
     let ok = userAns !== "" && userAns === correctAns;
 
     if (type === 'correct' && !ok) return;
     if (type === 'wrong' && ok) return;
 
-    // SỬA LỖI KEY: Chuẩn hóa toàn bộ về chữ thường q.question để khớp file JSON
     let qText = q.question || q.cauhoi || "Không tìm thấy nội dung dữ liệu";
     let optA = q.a || q.Một || "";
     let optB = q.b || "";
