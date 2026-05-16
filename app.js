@@ -319,7 +319,7 @@ function startTimer() {
   }, 1000);
 }
 
-// ================= SUBMIT =================
+// ================= SUBMIT (ĐÃ ĐỔI MÀU TƯƠI TẮN) =================
 function submit() {
   clearInterval(timer);
 
@@ -349,7 +349,6 @@ function submit() {
     }
   });
 
-  // Đồng bộ lưu mảng dữ liệu có trọng số mới xuống trình duyệt
   localStorage.setItem("questionData", JSON.stringify(data));
   wrongPool = newWrong;
 
@@ -364,22 +363,22 @@ function submit() {
       background: #ffffff; 
       padding: 40px 50px; 
       box-shadow: 0 4px 15px rgba(0,0,0,0.06);
-      border-radius: 4px;
+      border-radius: 8px;
       font-family: 'Times New Roman', Times, serif;
     ">
       <h1 style="font-size: 24px; font-weight: bold; text-align: center; margin: 0 0 10px 0; color: #111; letter-spacing: 0.5px;">BÁO CÁO KẾT QUẢ KIỂM TRA</h1>
       <p style="text-align: center; font-size: 15px; color: #555; margin: 0 0 20px 0;">
-        Số câu đúng: <b style="color: green; font-size: 16px;">${correct}</b> | Số câu sai: <b style="color: #b30000; font-size: 16px;">${wrong}</b>
+        Số câu đúng: <b style="color: #2e7d32; font-size: 16px;">${correct}</b> | Số câu sai: <b style="color: #c62828; font-size: 16px;">${wrong}</b>
       </p>
 
       <div style="text-align: center; margin-bottom: 25px;">
-        <button class="btn" style="background: #222; color: white; border: none; padding: 8px 24px; font-size: 14px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="location.reload()">THI LẠI TRANG CHỦ</button>
+        <button class="btn" style="background: #00796b; color: white; border: none; padding: 10px 28px; font-size: 14px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 20px; font-weight: bold; transition: 0.2s; box-shadow: 0 2px 6px rgba(0,121,107,0.2);" onclick="location.reload()">THI LẠI TRANG CHỦ</button>
       </div>
 
       <div style="display: flex; gap: 8px; justify-content: center; margin-bottom: 25px; border-bottom: 1px solid #eef0f2; padding-bottom: 15px;">
-        <button id="btn-filter-all" style="padding: 5px 14px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('all')">Tất cả câu hỏi</button>
-        <button id="btn-filter-correct" style="padding: 5px 14px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('correct')">Các câu đúng</button>
-        <button id="btn-filter-wrong" style="padding: 5px 14px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('wrong')">Các câu sai</button>
+        <button id="btn-filter-all" style="padding: 6px 16px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('all')">Tất cả câu hỏi</button>
+        <button id="btn-filter-correct" style="padding: 6px 16px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('correct')">Các câu đúng</button>
+        <button id="btn-filter-wrong" style="padding: 6px 16px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('wrong')">Các câu sai</button>
       </div>
 
       <div id="result-list"></div>
@@ -389,25 +388,26 @@ function submit() {
   filterResult('all');
 }
 
-// ================= FILTER RESULT LIST =================
+// ================= FILTER RESULT LIST (ĐÃ XÓA MÀU ĐEN) =================
 function filterResult(type) {
   currentFilter = type;
   let listContainer = document.getElementById("result-list");
   if (!listContainer) return;
 
-  // Cập nhật giao diện nút hoạt động (Active Tab UI)
   const btnAll = document.getElementById("btn-filter-all");
   const btnCorrect = document.getElementById("btn-filter-correct");
   const btnWrong = document.getElementById("btn-filter-wrong");
 
   if(btnAll && btnCorrect && btnWrong) {
-    btnAll.style.cssText = "background: #f1f3f5; color: #333; border: 1px solid #dee2e6;";
-    btnCorrect.style.cssText = "background: #e8f5e9; color: green; border: 1px solid #c8e6c9;";
+    // Trạng thái mặc định (khi chưa chọn)
+    btnAll.style.cssText = "background: #f1f3f5; color: #555; border: 1px solid #dee2e6;";
+    btnCorrect.style.cssText = "background: #e8f5e9; color: #2e7d32; border: 1px solid #c8e6c9;";
     btnWrong.style.cssText = "background: #ffebee; color: #c62828; border: 1px solid #ffcdd2;";
 
-    if (type === 'all') btnAll.style.cssText = "background: #333; color: #fff; border: 1px solid #333; font-weight:bold;";
-    if (type === 'correct') btnCorrect.style.cssText = "background: green; color: #fff; border: 1px solid green; font-weight:bold;";
-    if (type === 'wrong') btnWrong.style.cssText = "background: #c62828; color: #fff; border: 1px solid #c62828; font-weight:bold;";
+    // 🔥 ĐÃ ĐỔI: Khi bấm vào "Tất cả câu hỏi", nút sẽ hóa màu xanh ngọc ton-sur-ton dễ chịu, không bị đen thui nữa
+    if (type === 'all') btnAll.style.cssText = "background: #00796b; color: #fff; border: 1px solid #00796b; font-weight: bold;";
+    if (type === 'correct') btnCorrect.style.cssText = "background: #2e7d32; color: #fff; border: 1px solid #2e7d32; font-weight: bold;";
+    if (type === 'wrong') btnWrong.style.cssText = "background: #c62828; color: #fff; border: 1px solid #c62828; font-weight: bold;";
   }
 
   let html = "";
@@ -465,10 +465,10 @@ function filterResult(type) {
               border-radius: 3px;
               margin-left: 8px;
               background-color: ${ok ? '#e8f5e9' : '#ffebee'};
-              color: ${ok ? 'green' : '#c62828'};
+              color: ${ok ? '#2e7d32' : '#c62828'};
             ">${ok ? "CHÍNH XÁC" : "KHÔNG ĐÚNG"}</span>
           </div>
-          ${!ok ? `<div style="margin-bottom: 3px;"><span style="color: #666;">- Đáp án đúng:</span> <b style="color: green;">${fullCorrectText}</b></div>` : ""}
+          ${!ok ? `<div style="margin-bottom: 3px;"><span style="color: #666;">- Đáp án đúng:</span> <b style="color: #2e7d32;">${fullCorrectText}</b></div>` : ""}
         </div>
 
         <div style="
