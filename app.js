@@ -11,8 +11,8 @@ const app = document.getElementById("app");
 
 // ================= USER LIST =================
 const users = [
-  { username: "mainguyen", password: "1234", role: "admin" },
-  { username: "user1", password: "123", role: "user" }
+  { username: "mainguyen", password: "1234", role: "admin", master: true },
+  { username: "user1", password: "123", role: "user", master: false }
 ];
 
 // ================= DEVICE ID =================
@@ -60,7 +60,7 @@ function showLogin() {
   `;
 }
 
-// ================= LOGIN (1 DEVICE ONLY) =================
+// ================= LOGIN (MASTER + SINGLE DEVICE) =================
 function login() {
   let u = document.getElementById("u").value;
   let p = document.getElementById("p").value;
@@ -70,16 +70,19 @@ function login() {
 
   if (!user) return alert("Sai tài khoản");
 
-  let session = JSON.parse(localStorage.getItem("session_" + user.username));
+  // ================= USER THƯỜNG: 1 THIẾT BỊ =================
+  if (!user.master) {
+    let session = JSON.parse(localStorage.getItem("session_" + user.username));
 
-  if (session && session.deviceId !== deviceId) {
-    return alert("Tài khoản đã đăng nhập trên thiết bị khác!");
+    if (session && session.deviceId !== deviceId) {
+      return alert("Tài khoản đã đăng nhập trên thiết bị khác!");
+    }
+
+    localStorage.setItem("session_" + user.username, JSON.stringify({
+      deviceId: deviceId,
+      loginTime: Date.now()
+    }));
   }
-
-  localStorage.setItem("session_" + user.username, JSON.stringify({
-    deviceId: deviceId,
-    loginTime: Date.now()
-  }));
 
   localStorage.setItem("user", JSON.stringify(user));
 
@@ -101,13 +104,15 @@ function checkLogin() {
   user = JSON.parse(user);
   let deviceId = getDeviceId();
 
-  let session = JSON.parse(localStorage.getItem("session_" + user.username));
+  if (!user.master) {
+    let session = JSON.parse(localStorage.getItem("session_" + user.username));
 
-  if (!session || session.deviceId !== deviceId) {
-    localStorage.removeItem("user");
-    alert("Phiên đăng nhập không hợp lệ!");
-    showLogin();
-    return;
+    if (!session || session.deviceId !== deviceId) {
+      localStorage.removeItem("user");
+      alert("Phiên đăng nhập không hợp lệ!");
+      showLogin();
+      return;
+    }
   }
 
   document.getElementById("loginBox").style.display = "none";
@@ -122,7 +127,7 @@ fetch("cauhoi.json")
   .then(json => {
     data = json;
     checkLogin();
-    antiCopy(); // 🔥 bật chống copy
+    antiCopy();
   });
 
 // ================= SHUFFLE =================
@@ -237,14 +242,11 @@ function render() {
       </div>
 
       <button class="btn" onclick="submit()">NỘP BÀI</button>
-
-      <div id="nav"></div>
     </div>
   `;
 
   highlight();
   updateBar();
-  renderNav();
 }
 
 // ================= CHỌN =================
@@ -276,7 +278,6 @@ function submit() {
 
   let correct = 0;
   let wrong = 0;
-  let newWrong = [];
 
   questions.forEach((q, i) => {
     let userAns = (answers[i] || "").toLowerCase();
@@ -284,22 +285,15 @@ function submit() {
 
     if (correctAns === "một") correctAns = "a";
 
-    if (userAns === correctAns) {
-      correct++;
-    } else {
-      wrong++;
-      newWrong.push(q);
-    }
+    if (userAns === correctAns) correct++;
+    else wrong++;
   });
-
-  wrongPool = newWrong;
 
   app.innerHTML = `
     <div style="text-align:center;padding:40px">
       <h2>KẾT QUẢ</h2>
       <p>Đúng: <b style="color:green">${correct}</b></p>
       <p>Sai: <b style="color:red">${wrong}</b></p>
-
       <button onclick="location.reload()">Thi lại</button>
     </div>
   `;
