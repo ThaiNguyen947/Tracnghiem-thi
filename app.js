@@ -61,7 +61,8 @@ function login() {
 
   document.getElementById("loginBox").style.display = "none";
   document.getElementById("app").style.display = "block";
-
+  
+enableProtectionForSubAccounts();
   startExam();
 }
 
@@ -87,6 +88,7 @@ function checkLogin() {
 
   document.getElementById("loginBox").style.display = "none";
   document.getElementById("app").style.display = "block";
+  enableProtectionForSubAccounts();
   startExam();
 }
 
@@ -487,4 +489,57 @@ function filterResult(type) {
   });
 
   listContainer.innerHTML = html || `<p style='text-align:center; color:#777; font-style: italic; padding: 20px;'>Không tìm thấy câu hỏi nào phù hợp với danh sách lọc.</p>`;
+}
+// ================= HÀM BẢO VỆ DÀNH RIÊNG CHO TÀI KHOẢN CON =================
+function enableProtectionForSubAccounts() {
+  let user = JSON.parse(localStorage.getItem("user"));
+  
+  // Nếu không có user đăng nhập hoặc user là admin -> KHÔNG CHẶN, thoát hàm luôn
+  if (!user || user.role === "admin") {
+    return; 
+  }
+
+  // 1. Chống click chuột phải (Không cho copy qua menu chuột phải)
+  document.addEventListener('contextmenu', function(e) {
+    e.preventDefault();
+    alert("Tài khoản học viên không được phép sử dụng chuột phải để copy!");
+  });
+
+  // 2. Chống bôi đen văn bản (Học viên không thể kéo chuột để chọn chữ)
+  document.body.style.userSelect = "none";
+  document.body.style.webkitUserSelect = "none";
+  document.body.style.msUserSelect = "none";
+  document.body.style.mozUserSelect = "none";
+
+  // 3. Chống các phím tắt Copy, Xem code nguồn, Mở F12, In ấn
+  document.addEventListener('keydown', function(e) {
+    // Chặn Ctrl+C (Copy), Ctrl+U (Xem nguồn), Ctrl+S (Lưu trang), Ctrl+P (In đề thi)
+    if (e.ctrlKey && (e.key === 'c' || e.key === 'u' || e.key === 's' || e.key === 'p' || e.key === 'C' || e.key === 'U' || e.key === 'S' || e.key === 'P')) {
+      e.preventDefault();
+      alert("Tính năng bị khóa để bảo vệ bản quyền đề thi!");
+      return false;
+    }
+    // Chặn phím F12 (Mở công cụ nhà phát triển để xem trộm data)
+    if (e.key === 'F12') {
+      e.preventDefault();
+      alert("Tính năng F12 bị khóa!");
+      return false;
+    }
+    // Chặn Ctrl + Shift + I hoặc J (Cách khác để mở F12)
+    if (e.ctrlKey && e.shiftKey && (e.key === 'I' || e.key === 'J' || e.key === 'i' || e.key === 'j')) {
+      e.preventDefault();
+      return false;
+    }
+  });
+
+  // 4. Giảm thiểu chụp màn hình: Khi học viên chuyển sang phần mềm khác để chụp, màn hình sẽ mờ tịt
+  window.addEventListener('blur', function() {
+    let appEl = document.getElementById("app");
+    if (appEl) appEl.style.filter = "blur(15px)";
+  });
+  
+  window.addEventListener('focus', function() {
+    let appEl = document.getElementById("app");
+    if (appEl) appEl.style.filter = "none";
+  });
 }
