@@ -8620,13 +8620,13 @@
     "explanation": "Căn cứ điểm e Khoản 2 Điều 16 LCC 2024. Đây là quy định rất 'nghiệt ngã' nhằm đảm bảo tính liên tục và an toàn của nghề: cứ hết 12 tháng tạm đình chỉ mà chưa xong việc là bị miễn nhiệm."
   },
   {
-    "question": "Người bị miễn nhiệm CCV do 'Không còn đủ tiêu chuẩn' (ví dụ: mất quốc tịch hoặc không còn thường trú tại Việt Nam) thì sau bao lâu được xem xét bổ nhiệm lại?",
-    "a": "02 năm kể từ ngày quyết định miễn nhiệm có hiệu lực và lý do không còn.",
-    "b": "03 năm kể từ ngày quyết định miễn nhiệm có hiệu lực.",
-    "c": "Được xem xét bổ nhiệm lại ngay khi lý do miễn nhiệm không còn và đáp ứng đủ tiêu chuẩn.",
-    "d": "Không bao giờ được bổ nhiệm lại.",
-    "answer": "A",
-    "explanation": "Căn cứ Khoản 2 Điều 17 LCC 2024, tất cả các trường hợp miễn nhiệm tại Khoản 2 Điều 16 (trừ các trường hợp bị cấm vĩnh viễn ở Khoản 3 Điều 17) đều phải đợi đủ 02 năm mới được xem xét bổ nhiệm lại."
+    "question": "Người bị miễn nhiệm CCV do 'Không còn đủ tiêu chuẩn bổ nhiệm công chứng viên' (ví dụ: mất quốc tịch Việt Nam hoặc không còn thường trú tại Việt Nam) thì sau bao lâu được xem xét bổ nhiệm lại?",
+    "A": "02 năm kể từ ngày quyết định miễn nhiệm có hiệu lực và nguyên nhân miễn nhiệm đã được khắc phục.",
+    "B": "03 năm kể từ ngày quyết định miễn nhiệm có hiệu lực.",
+    "C": "05 năm kể từ ngày quyết định miễn nhiệm có hiệu lực.",
+    "D": "Không được bổ nhiệm lại."
+   "answer": "A",
+  "explanation": "Căn cứ khoản 2 Điều 17 Luật Công chứng 2024, người bị miễn nhiệm công chứng viên theo khoản 2 Điều 16 Luật Công chứng 2024 được xem xét bổ nhiệm lại sau 02 năm kể từ ngày quyết định miễn nhiệm có hiệu lực pháp luật, nếu nguyên nhân dẫn đến việc miễn nhiệm không còn nữa. Các trường hợp có thể được xem xét bổ nhiệm lại gồm: không còn đủ tiêu chuẩn công chứng viên; không hành nghề công chứng trong thời hạn luật định; chuyển làm công việc khác theo quy định dẫn đến không được tiếp tục hành nghề và các trường hợp miễn nhiệm khác không thuộc diện cấm bổ nhiệm lại. Tuy nhiên, các trường hợp thuộc khoản 3 Điều 17 Luật Công chứng 2024 thì không được bổ nhiệm lại, gồm: bị kết án bằng bản án có hiệu lực pháp luật về tội phạm do cố ý; bị xử lý kỷ luật bằng hình thức buộc thôi việc; bị miễn nhiệm do vi phạm nghiêm trọng hoặc bị xử phạt vi phạm hành chính nhiều lần trong hoạt động công chứng."
   },
   {
     "question": "Quyền nào sau đây của Công chứng viên giúp họ xác minh tính xác thực của hợp đồng khi có nghi ngờ về giấy tờ giả?",
