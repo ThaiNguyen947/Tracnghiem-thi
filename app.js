@@ -146,27 +146,22 @@ function weightedPick(arr, count) {
   return result;
 }
 
-// ================= START EXAM (ĐÃ DỌN SẠCH ĐOẠN TRÙNG LẶP) =================
+// ================= START EXAM =================
 function startExam() {
   answers = {};
   index = 0;
   time = 60 * 60;
 
-  // 1. Lấy danh sách ID câu đúng lịch sử (Lưu mảng ID/Index thay vì lưu chữ)
   let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
 
-  // 2. Lọc ra nhóm câu hỏi ưu tiên (Chưa làm hoặc làm sai) dựa vào ID duy nhất của câu hỏi
   let priorityQuestions = data.filter((q, i) => {
     let qId = q.id || `q-${i}`; 
     return !correctPool.includes(qId);
   });
 
   let list = [];
-
-  // 3. Trộn ngẫu nhiên nhóm ưu tiên đưa vào đề
   list = shuffle(priorityQuestions);
 
-  // 4. Nếu thiếu câu cho đủ 100, lấy các câu đã làm đúng bù vào
   if (list.length < 100) {
     let alreadyCorrectQuestions = data.filter((q, i) => {
       let qId = q.id || `q-${i}`;
@@ -181,14 +176,12 @@ function startExam() {
     }
   }
 
-  // Nếu đã làm đúng sạch bách cả bộ đề, reset lại từ đầu
   if (list.length === 0) {
     alert("Chúc mừng! Bạn đã hoàn thành đúng tất cả các câu hỏi trong bộ đề. Hệ thống sẽ tự động làm mới (reset) lại từ đầu!");
     localStorage.removeItem("correctPool");
     list = shuffle([...data]);
   }
 
-  // Chốt danh sách câu hỏi hợp lệ (Loại bỏ hoàn toàn các phần tử null/undefined nếu có)
   questions = list.filter(q => q && (q.question || q.cauhoi)).slice(0, Math.min(100, list.length));
 
   render();
@@ -352,7 +345,8 @@ function submit() {
     let originalIndex = data.findIndex(x => (x.question || x.cauhoi) === (q.question || q.cauhoi));
     let qId = q.id || `q-${originalIndex !== -1 ? originalIndex : i}`;
 
-    if (userAns === correctAns) {
+    // SỬA LỖI: Kiểm tra nghiêm ngặt, nếu bỏ trống (userAns "") thì không bao giờ tính là đúng
+    if (userAns !== "" && userAns === correctAns) {
       correct++;
       q.correctCount++;
       q.weight = Math.max(1, q.weight - 0.3);
@@ -442,12 +436,14 @@ function filterResult(type) {
     let correctAns = (q.answer || q.trảlời || "").toString().trim().toLowerCase();
     if (correctAns === "một") correctAns = "a";
     
-    let ok = userAns === correctAns;
+    // ĐỒNG BỘ: logic check đúng sai tương ứng
+    let ok = userAns !== "" && userAns === correctAns;
 
     if (type === 'correct' && !ok) return;
     if (type === 'wrong' && ok) return;
 
-    let qText = q.question || q.cauhoi || q.Question || "Không tìm thấy nội dung dữ liệu";
+    // SỬA LỖI KEY: Chuẩn hóa toàn bộ về chữ thường q.question để khớp file JSON
+    let qText = q.question || q.cauhoi || "Không tìm thấy nội dung dữ liệu";
     let optA = q.a || q.Một || "";
     let optB = q.b || "";
     let optC = q.c || "";
