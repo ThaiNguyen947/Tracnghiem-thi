@@ -146,42 +146,53 @@ function weightedPick(arr, count) {
   return result;
 }
 
-// ================= START EXAM =================
+// ================= START EXAM (ĐÃ SỬA: ƯU TIÊN CÂU SAI/CHƯA LÀM, THIẾU THÌ BÙ CÂU ĐÚNG CHO ĐỦ 100) =================
 function startExam() {
   answers = {};
   index = 0;
   time = 60 * 60;
 
-  let used = new Set();
+  // 1. Lấy danh sách câu hỏi đã làm đúng từ localStorage
+  let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
+
+  // 2. Lọc ra nhóm câu hỏi "Ưu tiên" (Gồm các câu chưa làm hoặc đã làm sai)
+  let priorityQuestions = data.filter(q => {
+    let qText = q.question || q.cauhoi;
+    return !correctPool.includes(qText);
+  });
+
   let list = [];
 
-  for (let q of wrongPool) {
-    let qText = q.question || q.cauhoi;
-    if (qText && !used.has(qText)) {
-      used.add(qText);
-      list.push(q);
-    }
-  }
+  // 3. Đưa nhóm câu hỏi ưu tiên vào danh sách đề thi (sau khi đã trộn ngẫu nhiên nhóm này)
+  list = shuffle(priorityQuestions);
 
-  for (let q of data) {
-    let qText = q.question || q.cauhoi;
-    if (qText && !used.has(qText)) {
-      used.add(qText);
-      list.push(q);
-    }
-    if (list.length >= 100) break;
-  }
-
+  // 4. KIỂM TRA: Nếu nhóm ưu tiên không đủ 100 câu, tiến hành lấy thêm câu đã làm đúng bù vào
   if (list.length < 100) {
-    let remain = shuffle(data.filter(q => !used.has(q.question || q.cauhoi)));
-    for (let q of remain) {
+    // Lọc ra những câu đã làm đúng từ kho dữ liệu gốc
+    let alreadyCorrectQuestions = data.filter(q => {
+      let qText = q.question || q.cauhoi;
+      return correctPool.includes(qText);
+    });
+
+    // Trộn ngẫu nhiên nhóm câu đúng này trước khi lấy bù
+    let shuffledCorrect = shuffle(alreadyCorrectQuestions);
+
+    // Bốc lần lượt câu đúng đắp vào cho đến khi đủ 100 câu hoặc hết sạch kho dữ liệu gốc
+    for (let q of shuffledCorrect) {
       if (list.length >= 100) break;
       list.push(q);
     }
   }
 
-  // Lấy dữ liệu đề thi từ mảng danh sách được chọn lọc tối đa 100 câu
-  questions = weightedPick(list, Math.min(100, list.length));
+  // TRƯỜNG HỢP ĐẶC BIỆT: Nếu học viên đã làm đúng hết sạch sành sanh bộ đề từ trước
+  if (list.length === 0) {
+    alert("Chúc mừng! Bạn đã hoàn thành đúng tất cả các câu hỏi trong bộ đề. Hệ thống sẽ tự động làm mới (reset) lại từ đầu!");
+    localStorage.removeItem("correctPool");
+    list = shuffle([...data]);
+  }
+
+  // Chốt danh sách câu hỏi cho lượt thi này (Tối đa 100 câu)
+  questions = list.slice(0, Math.min(100, list.length));
 
   render();
   startTimer();
@@ -321,13 +332,16 @@ function startTimer() {
   }, 1000);
 }
 
-// ================= SUBMIT (ĐÃ ĐỔI MÀU TƯƠI TẮN) =================
+// ================= SUBMIT (ĐÃ SỬA: LƯU THÊM VÀO BỂ ĐÚNG ĐỂ KHÓA CÂU HỎI) =================
 function submit() {
   clearInterval(timer);
 
   let correct = 0;
   let wrong = 0;
   let newWrong = [];
+
+  // Gọi danh sách câu đúng lịch sử lên để cập nhật thêm sau lượt thi này
+  let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
 
   questions.forEach((q, i) => {
     let userAns = answers[i] ? answers[i].toString().trim().toLowerCase() : "";
@@ -339,18 +353,33 @@ function submit() {
     q.correctCount = q.correctCount || 0;
     q.wrongCount = q.wrongCount || 0;
 
+    let qText = q.question || q.cauhoi;
+
     if (userAns === correctAns) {
       correct++;
       q.correctCount++;
       q.weight = Math.max(1, q.weight - 0.3);
+      
+      // Nếu làm đúng và câu này chưa có trong bể câu đúng, tiến hành nạp vào để khóa
+      if (!correctPool.includes(qText)) {
+        correctPool.push(qText);
+      }
     } else {
       wrong++;
       newWrong.push(q);
       q.wrongCount++;
       q.weight = Math.min(10, q.weight + 1.2);
+      
+      // Đề phòng trường hợp câu này trước đó từng làm đúng nhưng nay làm sai lại -> kích block khóa ra
+      let cIndex = correctPool.indexOf(qText);
+      if (cIndex > -1) {
+        correctPool.splice(cIndex, 1);
+      }
     }
   });
 
+  // Lưu trữ lại danh sách các câu đã làm đúng vào localStorage
+  localStorage.setItem("correctPool", JSON.stringify(correctPool));
   localStorage.setItem("questionData", JSON.stringify(data));
   wrongPool = newWrong;
 
