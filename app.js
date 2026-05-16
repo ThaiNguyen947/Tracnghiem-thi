@@ -345,4 +345,4 @@ function submit() {
       <button onclick="location.reload()">Thi lại</button>
     </div>
   `;
-} viết lại toàn bộ vào đây, k xóa bớt, k lược bỏ gì hết
+}
