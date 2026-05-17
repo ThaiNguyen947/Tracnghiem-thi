@@ -179,39 +179,77 @@ function shuffle(arr) {
   return a;
 }
 
-// ================= START EXAM =================
+// ================= START EXAM (THUẬT TOÁN ĐÃ CẬP NHẬT THEO YÊU CẦU) =================
 function startExam() {
   answers = {};
   index = 0;
   time = 60 * 60;
 
   let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
-  let randomWholeData = shuffle(data);
 
-  let wrongQuestions = randomWholeData.filter(q => {
+  // 1. Lọc danh sách thi hợp lệ: Giữ lại những câu CHƯA LÀM ĐÚNG 
+  // HOẶC những câu làm đúng nhưng trong lịch sử quá khứ có tỉ lệ làm sai nhiều (Cần ôn tập lại)
+  let danhSachThiHopLe = data.filter(q => {
     let qText = (q.question || q.cauhoi || "").trim();
-    let isMarkedWrong = (q.weight && q.weight > 1) || (q.wrongCount && q.wrongCount > 0);
-    return isMarkedWrong && !correctPool.includes(qText);
+    let biSaiNhieu = (q.wrongCount && q.wrongCount >= 3) || (q.weight && q.weight >= 3.0);
+    
+    if (biSaiNhieu) return true; // Cứ sai nhiều là ép xuất hiện lại
+    return !correctPool.includes(qText); // Các câu còn lại loại trừ nếu đã làm đúng thành công
   });
 
-  let list = wrongQuestions.slice(0, 100);
+  // Tách làm 2 nhóm để bốc đề thông minh
+  // Nhóm 1: Nhóm câu hỏi cần ưu tiên ôn lại (Đã từng làm sai ít nhất 1 lần)
+  let nhomUuTien = danhSachThiHopLe.filter(q => {
+    return (q.weight && q.weight > 1) || (q.wrongCount && q.wrongCount > 0);
+  });
 
-  if (list.length < 100) {
-    let remainingQuestions = randomWholeData.filter(q => {
-      let qText = (q.question || q.cauhoi || "").trim();
-      return !list.some(x => (x.question || x.cauhoi || "").trim() === qText);
-    });
+  // Nhóm 2: Nhóm câu hỏi MỚI hoàn toàn (Chưa bao giờ làm / Bỏ trống / File mới p3.json vừa nạp)
+  let nhomBinhThuong = danhSachThiHopLe.filter(q => {
+    return !((q.weight && q.weight > 1) || (q.wrongCount && q.wrongCount > 0));
+  });
 
-    for (let q of remainingQuestions) {
+  // Sắp xếp nhóm ưu tiên: Câu nào sai nhiều nhất, trọng số lớn nhất thì đẩy lên trước
+  nhomUuTien.sort((x, y) => {
+    let weightX = x.weight || 1;
+    let weightY = y.weight || 1;
+    let wrongX = x.wrongCount || 0;
+    let wrongY = y.wrongCount || 0;
+    
+    if (wrongY !== wrongX) return wrongY - wrongX;
+    return weightY - weightX;
+  });
+
+  // Trộn ngẫu nhiên nhóm câu hỏi mới
+  nhomBinhThuong = shuffle(nhomBinhThuong);
+
+  let list = [];
+
+  // Bốc tối đa 70 câu từ nhóm ưu tiên (sai nhiều) để ôn lại, nhường 30 slot cho các câu hỏi mới
+  let slotUuTien = nhomUuTien.slice(0, 70);
+  list = list.concat(slotUuTien);
+
+  // Nạp nốt số lượng câu hỏi mới/chưa làm vào cho đủ đề 100 câu
+  for (let q of nhomBinhThuong) {
+    if (list.length >= 100) break;
+    list.push(q);
+  }
+
+  // Nếu vẫn chưa đủ 100 câu (ví dụ kho câu mới bị cạn), lấy nốt phần còn dư của nhóm ưu tiên sai nhiều
+  if (list.length < 100 && nhomUuTien.length > 70) {
+    let phanDuUuTien = nhomUuTien.slice(70);
+    for (let q of phanDuUuTien) {
       if (list.length >= 100) break;
       list.push(q);
     }
   }
 
+  // Trộn lộn xộn hoàn toàn 100 câu cuối cùng trước khi hiển thị cho học viên
   list = shuffle(list);
 
+  // Kịch bản: TOÀN BỘ CÁC CÂU ĐÃ THI HẾT VÀ LÀM ĐÚNG (Mảng trống trơn không còn câu nào chưa làm hay làm sai)
+  // Hệ thống sẽ xóa sạch pool làm đúng và cho học lại từ đầu
   if (list.length === 0 && data.length > 0) {
-    alert("Chúc mừng! Bạn đã hoàn thành đúng toàn bộ câu hỏi. Hệ thống sẽ làm mới để bạn học lại từ đầu!");
+    alert("Chúc mừng! Bạn đã hoàn thành chính xác toàn bộ câu hỏi trong hệ thống. Đề thi sẽ tự động quay lại từ đầu!");
     localStorage.removeItem("correctPool");
     data.forEach(q => { q.weight = 1; q.correctCount = 0; q.wrongCount = 0; });
     list = shuffle([...data]);
@@ -357,13 +395,13 @@ function startTimer() {
   }, 1000);
 }
 
-// ================= SUBMIT (UPDATED WITH SUBMITTED COUNT) =================
+// ================= SUBMIT =================
 function submit() {
   clearInterval(timer);
 
   let correct = 0;
   let wrong = 0;
-  let submittedCount = 0; // Biến đếm số câu học viên thực tế đã làm
+  let submittedCount = 0; 
   let newWrong = [];
 
   let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
@@ -384,11 +422,11 @@ function submit() {
     originalQ.wrongCount = originalQ.wrongCount || 0;
 
     if (userAns !== "") {
-      submittedCount++; // Tăng biến đếm nếu câu này học viên có chọn đáp án
+      submittedCount++; 
       if (userAns === correctAns) {
         correct++;
         originalQ.correctCount++;
-        originalQ.weight = Math.max(1, originalQ.weight - 0.3);
+        originalQ.weight = Math.max(1, originalQ.weight - 0.4); 
         
         if (!correctPool.includes(qTextId)) {
           correctPool.push(qTextId);
@@ -397,7 +435,7 @@ function submit() {
         wrong++;
         newWrong.push(originalQ);
         originalQ.wrongCount++;
-        originalQ.weight = Math.min(10, originalQ.weight + 1.2); 
+        originalQ.weight = Math.min(10, originalQ.weight + 1.5); 
         
         let cIndex = correctPool.indexOf(qTextId);
         if (cIndex > -1) {
@@ -405,7 +443,13 @@ function submit() {
         }
       }
     } else {
+      // THEO YÊU CẦU MỚI: Câu chưa làm (bỏ trống) được coi như câu mới. 
+      // Không phạt tăng weight nặng, KHÔNG ĐƯỢC CHO VÀO correctPool.
       wrong++; 
+      let cIndex = correctPool.indexOf(qTextId);
+      if (cIndex > -1) {
+        correctPool.splice(cIndex, 1);
+      }
     }
   });
 
