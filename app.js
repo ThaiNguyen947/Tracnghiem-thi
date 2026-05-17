@@ -6,7 +6,7 @@ let index = 0;
 let answers = {};
 let timer;
 let time = 60 * 60;
-let currentFilter = 'all'; // Lưu bộ lọc hiện tại để xử lý giao diện hiển thị
+let currentFilter = 'all'; 
 
 const app = document.getElementById("app");
 function getDeviceId() {
@@ -92,7 +92,6 @@ function checkLogin() {
 }
 
 // ================= LOAD MULTIPLE JSON FILES =================
-// Hàm tự động tải và gộp tất cả các file JSON trong thư mục cau_hoi của bạn
 async function taiTatCaDuLieuCauHoi() {
   const danhSachFiles = [
     "./cau_hoi/p1.json",
@@ -127,13 +126,11 @@ async function taiTatCaDuLieuCauHoi() {
   return beCauHoiTong;
 }
 
-// ================= KHI KHỞI ĐỘNG ỨNG DỤNG (FIXED) =================
+// ================= KHI KHỞI ĐỘNG ỨNG DỤNG =================
 async function khoiDongUngDung() {
-  // 1. Luôn luôn tải dữ liệu mới nhất từ các file JSON về trước
   const fileData = await taiTatCaDuLieuCauHoi();
   
   if (fileData.length === 0) {
-    // Nếu lỗi không tải được file JSON nào, dùng dữ liệu backup cũ từ localStorage
     const localData = localStorage.getItem("questionData");
     if (localData) {
       data = JSON.parse(localData);
@@ -144,19 +141,15 @@ async function khoiDongUngDung() {
     return;
   }
 
-  // 2. Đọc dữ liệu cũ trong localStorage (nếu có) để giữ lại lịch sử tiến trình (weight, correctCount...)
   const localData = localStorage.getItem("questionData");
   if (localData) {
     const localQuestions = JSON.parse(localData);
-    
-    // Tạo bản đồ (Map) câu hỏi cũ theo nội dung câu chữ để đối chiếu tăng tốc độ xử lý
     const localMap = new Map();
     localQuestions.forEach(q => {
       let qText = (q.question || q.cauhoi || "").trim();
       if (qText) localMap.set(qText, q);
     });
 
-    // Đồng bộ trạng thái cũ sang danh sách câu hỏi mới tải về
     fileData.forEach(q => {
       let qText = (q.question || q.cauhoi || "").trim();
       if (localMap.has(qText)) {
@@ -168,15 +161,11 @@ async function khoiDongUngDung() {
     });
   }
 
-  // 3. Cập nhật vào biến data chính và lưu lại bộ nhớ trình duyệt để đồng bộ đồng nhất
   data = fileData;
   localStorage.setItem("questionData", JSON.stringify(data));
-  
-  // 4. Tiến hành kiểm tra login và vào thi bài học
   checkLogin();
 }
 
-// Chạy ứng dụng bằng cơ chế tải dữ liệu mới ưu tiên hàng đầu
 khoiDongUngDung();
 
 
@@ -190,76 +179,45 @@ function shuffle(arr) {
   return a;
 }
 
-// ================= WEIGHTED PICK =================
-function weightedPick(arr, count) {
-  let pool = [...arr];
-  let result = [];
-
-  for (let i = 0; i < count; i++) {
-    if (pool.length === 0) break;
-
-    let total = pool.reduce((sum, q) => sum + (q.weight || 1), 0);
-    let r = Math.random() * total;
-    let sum = 0;
-
-    for (let j = 0; j < pool.length; j++) {
-      sum += (pool[j].weight || 1);
-      if (r <= sum) {
-        result.push(pool[j]);
-        pool.splice(j, 1); 
-        break;
-      }
-    }
-  }
-  return result;
-}
-
 // ================= START EXAM =================
 function startExam() {
   answers = {};
   index = 0;
   time = 60 * 60;
 
-  // Lấy danh sách nội dung chữ của các câu hỏi đã làm đúng từ localStorage
   let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
 
-  // Lọc lấy các câu hỏi chưa làm hoặc đã làm sai (nội dung không nằm trong correctPool)
-  let priorityQuestions = data.filter(q => {
+  let wrongQuestions = data.filter(q => {
     let qText = (q.question || q.cauhoi || "").trim();
-    return !correctPool.includes(qText);
+    let isMarkedWrong = (q.weight && q.weight > 1) || (q.wrongCount && q.wrongCount > 0);
+    return isMarkedWrong && !correctPool.includes(qText);
   });
 
-  let list = [];
-  // Trộn ngẫu nhiên nhóm câu hỏi chưa làm / làm sai này lên trước
-  list = shuffle(priorityQuestions);
+  let list = wrongQuestions.slice(0, 100);
 
-  // Nếu số câu chưa làm / làm sai ít hơn 100 câu, bốc thêm các câu đã làm đúng điền vào cho đủ 100 câu
   if (list.length < 100) {
-    let alreadyCorrectQuestions = data.filter(q => {
+    let remainingQuestions = data.filter(q => {
       let qText = (q.question || q.cauhoi || "").trim();
-      return correctPool.includes(qText);
+      return !list.some(x => (x.question || x.cauhoi || "").trim() === qText);
     });
 
-    let shuffledCorrect = shuffle(alreadyCorrectQuestions);
+    let shuffledRemaining = shuffle(remainingQuestions);
 
-    for (let q of shuffledCorrect) {
+    for (let q of shuffledRemaining) {
       if (list.length >= 100) break;
-      let qText = (q.question || q.cauhoi || "").trim();
-      // Tránh trùng lặp câu hỏi vào đề hiện tại
-      if (!list.some(x => (x.question || x.cauhoi || "").trim() === qText)) {
-        list.push(q);
-      }
+      list.push(q);
     }
   }
 
-  // Nếu đã làm đúng sạch hoàn toàn tất cả các câu hỏi trong mọi file JSON
-  if (priorityQuestions.length === 0 && data.length > 0) {
-    alert("Chúc mừng! Bạn đã hoàn thành đúng tất cả các câu hỏi trong bộ đề. Hệ thống sẽ tự động làm mới (reset) lại từ đầu!");
+  list = shuffle(list);
+
+  if (list.length === 0 && data.length > 0) {
+    alert("Chúc mừng! Bạn đã hoàn thành đúng toàn bộ câu hỏi. Hệ thống sẽ làm mới để bạn học lại từ đầu!");
     localStorage.removeItem("correctPool");
+    data.forEach(q => { q.weight = 1; q.correctCount = 0; q.wrongCount = 0; });
     list = shuffle([...data]);
   }
 
-  // Cắt đề thi lấy đúng tối đa 100 câu hỏi
   questions = list.filter(q => q && (q.question || q.cauhoi)).slice(0, Math.min(100, list.length));
 
   render();
@@ -416,38 +374,42 @@ function submit() {
 
     if (correctAns === "một") correctAns = "a";
 
-    q.weight = q.weight || 1;
-    q.correctCount = q.correctCount || 0;
-    q.wrongCount = q.wrongCount || 0;
-
-    // Lấy nội dung văn bản của câu hỏi làm định danh đồng bộ
     let qTextId = (q.question || q.cauhoi || "").trim();
+    let originalQ = data.find(x => (x.question || x.cauhoi || "").trim() === qTextId);
+    
+    if (!originalQ) originalQ = q; 
 
-    if (userAns !== "" && userAns === correctAns) {
-      correct++;
-      q.correctCount++;
-      q.weight = Math.max(1, q.weight - 0.3);
-      
-      // ĐÚNG: Đưa nội dung câu hỏi vào danh sách loại trừ
-      if (!correctPool.includes(qTextId)) {
-        correctPool.push(qTextId);
+    originalQ.weight = originalQ.weight || 1;
+    originalQ.correctCount = originalQ.correctCount || 0;
+    originalQ.wrongCount = originalQ.wrongCount || 0;
+
+    if (userAns !== "") {
+      if (userAns === correctAns) {
+        correct++;
+        originalQ.correctCount++;
+        originalQ.weight = Math.max(1, originalQ.weight - 0.3);
+        
+        if (!correctPool.includes(qTextId)) {
+          correctPool.push(qTextId);
+        }
+      } else {
+        wrong++;
+        newWrong.push(originalQ);
+        originalQ.wrongCount++;
+        originalQ.weight = Math.min(10, originalQ.weight + 1.2); 
+        
+        let cIndex = correctPool.indexOf(qTextId);
+        if (cIndex > -1) {
+          correctPool.splice(cIndex, 1);
+        }
       }
     } else {
-      wrong++;
-      newWrong.push(q);
-      q.wrongCount++;
-      q.weight = Math.min(10, q.weight + 1.2);
-      
-      // SAI: Bắt buộc xóa khỏi danh sách đúng (nếu có trước đó) để lượt thi sau xuất hiện lại
-      let cIndex = correctPool.indexOf(qTextId);
-      if (cIndex > -1) {
-        correctPool.splice(cIndex, 1);
-      }
+      wrong++; 
     }
   });
 
   localStorage.setItem("correctPool", JSON.stringify(correctPool));
-  localStorage.setItem("questionData", JSON.stringify(data));
+  localStorage.setItem("questionData", JSON.stringify(data)); 
   wrongPool = newWrong;
 
   document.body.style.backgroundColor = "#f4f5f7";
@@ -466,7 +428,7 @@ function submit() {
     ">
       <h1 style="font-size: 24px; font-weight: bold; text-align: center; margin: 0 0 10px 0; color: #111; letter-spacing: 0.5px;">BÁO CÁO KẾT QUẢ KIỂM TRA</h1>
       <p style="text-align: center; font-size: 15px; color: #555; margin: 0 0 20px 0;">
-        Số câu đúng: <b style="color: #2e7d32; font-size: 16px;">${correct}</b> | Số câu sai: <b style="color: #c62828; font-size: 16px;">${wrong}</b>
+        Số câu đúng: <b style="color: #2e7d32; font-size: 16px;">${correct}</b> | Chưa hoàn thành/Sai: <b style="color: #c62828; font-size: 16px;">${wrong}</b>
       </p>
 
       <div style="text-align: center; margin-bottom: 25px;">
@@ -476,7 +438,7 @@ function submit() {
       <div style="display: flex; gap: 8px; justify-content: center; margin-bottom: 25px; border-bottom: 1px solid #eef0f2; padding-bottom: 15px;">
         <button id="btn-filter-all" style="padding: 6px 16px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('all')">Tất cả câu hỏi</button>
         <button id="btn-filter-correct" style="padding: 6px 16px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('correct')">Các câu đúng</button>
-        <button id="btn-filter-wrong" style="padding: 6px 16px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('wrong')">Các câu sai</button>
+        <button id="btn-filter-wrong" style="padding: 6px 16px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('wrong')">Các câu chưa làm / sai</button>
       </div>
 
       <div id="result-list"></div>
@@ -533,7 +495,7 @@ function filterResult(type) {
     else if (correctAns === "d") fullCorrectText = `D. ${optD}`;
     else fullCorrectText = (q.answer || q.trảlời || "Chưa rõ").toUpperCase();
 
-    let fullUserText = "Không lựa chọn đáp án";
+    let fullUserText = "Không lựa chọn đáp án (Bỏ trống câu này)";
     if (userAns === "a") fullUserText = `A. ${optA}`;
     else if (userAns === "b") fullUserText = `B. ${optB}`;
     else if (userAns === "c") fullUserText = `C. ${optC}`;
@@ -560,9 +522,9 @@ function filterResult(type) {
               font-weight: bold;
               border-radius: 3px;
               margin-left: 8px;
-              background-color: ${ok ? '#e8f5e9' : '#ffebee'};
-              color: ${ok ? '#2e7d32' : '#c62828'};
-            ">${ok ? "CHÍNH XÁC" : "KHÔNG ĐÚNG"}</span>
+              background-color: ${userAns === "" ? '#f1f3f5' : (ok ? '#e8f5e9' : '#ffebee')};
+              color: ${userAns === "" ? '#555' : (ok ? '#2e7d32' : '#c62828')};
+            ">${userAns === "" ? "CHƯA LÀM" : (ok ? "CHÍNH XÁC" : "KHÔNG ĐÚNG")}</span>
           </div>
           ${!ok ? `<div style="margin-bottom: 3px;"><span style="color: #666;">- Đáp án đúng:</span> <b style="color: #2e7d32;">${fullCorrectText}</b></div>` : ""}
         </div>
@@ -585,7 +547,7 @@ function filterResult(type) {
   listContainer.innerHTML = html || `<p style='text-align:center; color:#777; font-style: italic; padding: 20px;'>Không tìm thấy câu hỏi nào phù hợp với danh sách lọc.</p>`;
 }
 
-// ================= HÀM BẢO VỆ DÀNH RIÊNG CHO TÀI KHOẢN CON =================
+// ================= HÀM BẢO VỆ DÀNH RIÊNG CHO TÀI KHOẢN CON (ĐÃ CẬP NHẬT) =================
 function enableProtectionForSubAccounts() {
   let user = JSON.parse(localStorage.getItem("user"));
   
@@ -593,33 +555,58 @@ function enableProtectionForSubAccounts() {
     return; 
   }
 
+  // 1. Khóa chuột phải
   document.addEventListener('contextmenu', function(e) {
     e.preventDefault();
-    alert("Tài khoản học viên không được phép sử dụng chuột phải để copy!");
+    alert("Tài khoản học viên không được phép sử dụng chuột phải!");
   });
 
+  // 2. Khóa tính năng kéo chuột bôi đen văn bản chống sao chép nhanh
+  document.addEventListener('selectstart', function(e) {
+    e.preventDefault();
+  });
+  document.addEventListener('mousedown', function(e) {
+    // Chỉ cho phép click chọn đáp án hoặc nút bấm, không cho bôi đen text câu hỏi
+    if (e.target.tagName !== 'BUTTON' && e.target.tagName !== 'INPUT') {
+      e.preventDefault();
+    }
+  });
+
+  // 3. Khóa kéo thả câu chữ sang tab/phần mềm khác
+  document.addEventListener('dragstart', function(e) {
+    e.preventDefault();
+  });
+
+  // 4. Khóa bôi đen CSS giao diện nền tảng
   document.body.style.userSelect = "none";
   document.body.style.webkitUserSelect = "none";
   document.body.style.msUserSelect = "none";
   document.body.style.mozUserSelect = "none";
 
+  // 5. Khóa phím tắt bàn phím (Ctrl C, Ctrl X, Ctrl V, Ctrl U, F12...)
   document.addEventListener('keydown', function(e) {
-    if (e.ctrlKey && (e.key === 'c' || e.key === 'u' || e.key === 's' || e.key === 'p' || e.key === 'C' || e.key === 'U' || e.key === 'S' || e.key === 'P')) {
+    // Chặn phím Ctrl + (C, X, V, U, S, P)
+    if (e.ctrlKey && ['c', 'x', 'v', 'u', 's', 'p'].includes(e.key.toLowerCase())) {
       e.preventDefault();
-      alert("Tính năng bị khóa để bảo vệ bản quyền đề thi!");
+      alert("Hệ thống đã khóa tính năng sao chép, cắt và lưu đề!");
       return false;
     }
+    
+    // Chặn F12 mở tab kiểm tra code
     if (e.key === 'F12') {
       e.preventDefault();
-      alert("Tính năng F12 bị khóa!");
+      alert("Tính năng F12 đã bị khóa!");
       return false;
     }
-    if (e.ctrlKey && e.shiftKey && (e.key === 'I' || e.key === 'J' || e.key === 'i' || e.key === 'j')) {
+    
+    // Chặn Ctrl + Shift + I hoặc J để soi mã nguồn
+    if (e.ctrlKey && e.shiftKey && ['i', 'j'].includes(e.key.toLowerCase())) {
       e.preventDefault();
       return false;
     }
   });
 
+  // 6. Làm mờ màn hình khi học viên rời tab/mở app khác (Hạn chế tra Google cứu trợ)
   window.addEventListener('blur', function() {
     let appEl = document.getElementById("app");
     if (appEl) appEl.style.filter = "blur(15px)";
