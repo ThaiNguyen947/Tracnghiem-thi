@@ -6208,5 +6208,428 @@
     "d": "Chỉ cần ghi nhận tổng số hồ sơ là đủ.",
     "answer": "b",
     "explanation": "Căn cứ điểm a khoản 1 Điều 24 Nghị định 104/2025/NĐ-CP: Hợp đồng sáp nhập phải có nội dung về số lượng và phân loại hồ sơ công chứng của các Văn phòng công chứng bị sáp nhập."
+  },
  {
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, các thành viên gia đình có quyền, nghĩa vụ gì đối với nhau?",
+  "a": "Chỉ có nghĩa vụ cấp dưỡng.",
+  "b": "Quan tâm, chăm sóc, giúp đỡ, tôn trọng nhau.",
+  "c": "Chỉ có nghĩa vụ về tài sản.",
+  "d": "Không có nghĩa vụ nếu đã thành niên.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 103 Luật Hôn nhân và gia đình năm 2014 quy định các thành viên gia đình có quyền, nghĩa vụ quan tâm, chăm sóc, giúp đỡ, tôn trọng nhau."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, khi sống chung các thành viên gia đình có nghĩa vụ nào sau đây?",
+  "a": "Chỉ đóng góp tài sản.",
+  "b": "Chỉ lao động tạo thu nhập.",
+  "c": "Tham gia công việc gia đình, lao động tạo thu nhập và đóng góp phù hợp khả năng.",
+  "d": "Không có nghĩa vụ nếu không có thu nhập.",
+  "answer": "c",
+  "explanation": "Khoản 2 Điều 103 Luật Hôn nhân và gia đình năm 2014 quy định các thành viên gia đình khi sống chung có nghĩa vụ tham gia công việc gia đình, lao động tạo thu nhập và đóng góp công sức, tiền hoặc tài sản khác phù hợp khả năng thực tế."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, ông bà có nghĩa vụ nuôi dưỡng cháu khi nào?",
+  "a": "Mọi trường hợp.",
+  "b": "Khi cháu chưa thành niên hoặc không có khả năng lao động và không có người nuôi dưỡng.",
+  "c": "Chỉ khi cha mẹ cháu đã chết.",
+  "d": "Chỉ khi cháu yêu cầu.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 104 Luật Hôn nhân và gia đình năm 2014 quy định ông bà có nghĩa vụ nuôi dưỡng cháu chưa thành niên hoặc cháu đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình mà không có người nuôi dưỡng."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, cháu đã thành niên có nghĩa vụ nuôi dưỡng ông bà khi nào?",
+  "a": "Khi ông bà yêu cầu.",
+  "b": "Khi ông bà không có con để nuôi dưỡng mình.",
+  "c": "Khi cháu có thu nhập cao.",
+  "d": "Mọi trường hợp.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 104 Luật Hôn nhân và gia đình năm 2014 quy định trường hợp ông bà không có con để nuôi dưỡng mình thì cháu đã thành niên có nghĩa vụ nuôi dưỡng."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, anh, chị, em có nghĩa vụ nuôi dưỡng nhau trong trường hợp nào?",
+  "a": "Khi sống chung.",
+  "b": "Khi không còn cha mẹ hoặc cha mẹ không có điều kiện chăm sóc.",
+  "c": "Khi có yêu cầu của Tòa án.",
+  "d": "Khi có tài sản chung.",
+  "answer": "b",
+  "explanation": "Điều 105 Luật Hôn nhân và gia đình năm 2014 quy định anh, chị, em có nghĩa vụ nuôi dưỡng nhau trong trường hợp không còn cha mẹ hoặc cha mẹ không có điều kiện trông nom, nuôi dưỡng, chăm sóc, giáo dục con."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, cô, dì, chú, cậu, bác ruột có nghĩa vụ nuôi dưỡng cháu ruột khi nào?",
+  "a": "Khi cháu chưa thành niên và không còn người có nghĩa vụ nuôi dưỡng khác.",
+  "b": "Mọi trường hợp cháu khó khăn.",
+  "c": "Chỉ khi cha mẹ cháu chết.",
+  "d": "Chỉ khi cháu sống chung.",
+  "answer": "a",
+  "explanation": "Điều 106 Luật Hôn nhân và gia đình năm 2014 quy định cô, dì, chú, cậu, bác ruột có nghĩa vụ nuôi dưỡng cháu ruột khi người cần được nuôi dưỡng không còn cha, mẹ, con và những người quy định tại Điều 104, Điều 105 hoặc những người này không có điều kiện thực hiện nghĩa vụ nuôi dưỡng."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, nghĩa vụ cấp dưỡng có thể chuyển giao cho người khác không?",
+  "a": "Có, nếu được đồng ý.",
+  "b": "Có, nếu lập thành văn bản.",
+  "c": "Không thể chuyển giao cho người khác.",
+  "d": "Chỉ chuyển giao cho người thân thích.",
+  "answer": "c",
+  "explanation": "Khoản 1 Điều 107 Luật Hôn nhân và gia đình năm 2014 quy định nghĩa vụ cấp dưỡng không thể thay thế bằng nghĩa vụ khác và không thể chuyển giao cho người khác."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, nếu người có nghĩa vụ nuôi dưỡng trốn tránh nghĩa vụ thì:",
+  "a": "Chỉ bị nhắc nhở.",
+  "b": "Tòa án có thể buộc thực hiện nghĩa vụ cấp dưỡng theo yêu cầu của người có quyền yêu cầu.",
+  "c": "Không bị xử lý.",
+  "d": "Ủy ban nhân dân xử phạt ngay.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 107 Luật Hôn nhân và gia đình năm 2014 quy định Tòa án buộc người trốn tránh nghĩa vụ nuôi dưỡng phải thực hiện nghĩa vụ cấp dưỡng."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, khi một người cấp dưỡng cho nhiều người thì mức cấp dưỡng được xác định căn cứ vào:",
+  "a": "Ý chí của người cấp dưỡng.",
+  "b": "Thu nhập, khả năng thực tế của người cấp dưỡng và nhu cầu thiết yếu của người được cấp dưỡng.",
+  "c": "Quyết định của cơ quan hộ tịch.",
+  "d": "Tài sản của người được cấp dưỡng.",
+  "answer": "b",
+  "explanation": "Điều 108 Luật Hôn nhân và gia đình năm 2014 quy định mức cấp dưỡng căn cứ vào thu nhập, khả năng thực tế của người có nghĩa vụ cấp dưỡng và nhu cầu thiết yếu của người được cấp dưỡng."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, cha mẹ có nghĩa vụ cấp dưỡng cho con trong trường hợp nào?",
+  "a": "Chỉ khi ly hôn.",
+  "b": "Khi không sống chung với con hoặc sống chung nhưng vi phạm nghĩa vụ nuôi dưỡng.",
+  "c": "Chỉ khi con yêu cầu.",
+  "d": "Chỉ khi có quyết định của Tòa án.",
+  "answer": "b",
+  "explanation": "Điều 110 Luật Hôn nhân và gia đình năm 2014 quy định cha, mẹ có nghĩa vụ cấp dưỡng cho con trong trường hợp không sống chung với con hoặc sống chung nhưng vi phạm nghĩa vụ nuôi dưỡng con."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, con đã thành niên có nghĩa vụ cấp dưỡng cho cha mẹ khi nào?",
+  "a": "Khi cha mẹ không có khả năng lao động và không có tài sản để tự nuôi mình.",
+  "b": "Khi cha mẹ yêu cầu.",
+  "c": "Mọi trường hợp cha mẹ già yếu.",
+  "d": "Chỉ khi sống chung với cha mẹ.",
+  "answer": "a",
+  "explanation": "Điều 111 Luật Hôn nhân và gia đình năm 2014 quy định con đã thành niên không sống chung với cha, mẹ có nghĩa vụ cấp dưỡng khi cha, mẹ không có khả năng lao động và không có tài sản để tự nuôi mình."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, nghĩa vụ cấp dưỡng giữa vợ và chồng sau ly hôn phát sinh khi nào?",
+  "a": "Khi một bên có thu nhập thấp hơn.",
+  "b": "Khi bên khó khăn, túng thiếu có yêu cầu cấp dưỡng và có lý do chính đáng.",
+  "c": "Mọi trường hợp ly hôn.",
+  "d": "Chỉ khi có con chung.",
+  "answer": "b",
+  "explanation": "Điều 115 Luật Hôn nhân và gia đình năm 2014 quy định khi ly hôn nếu bên khó khăn, túng thiếu có yêu cầu cấp dưỡng mà có lý do chính đáng thì bên kia có nghĩa vụ cấp dưỡng theo khả năng của mình."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, việc cấp dưỡng có thể thực hiện theo phương thức nào?",
+  "a": "Chỉ hàng tháng.",
+  "b": "Chỉ một lần.",
+  "c": "Định kỳ hoặc một lần theo thỏa thuận.",
+  "d": "Chỉ hàng năm.",
+  "answer": "c",
+  "explanation": "Điều 117 Luật Hôn nhân và gia đình năm 2014 quy định việc cấp dưỡng có thể được thực hiện định kỳ hàng tháng, hàng quý, nửa năm, hàng năm hoặc một lần."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, nghĩa vụ cấp dưỡng chấm dứt khi nào?",
+  "a": "Người được cấp dưỡng đã thành niên và có khả năng lao động hoặc có tài sản để tự nuôi mình.",
+  "b": "Người cấp dưỡng thay đổi nơi cư trú.",
+  "c": "Người cấp dưỡng nghỉ việc.",
+  "d": "Người được cấp dưỡng không còn sống chung.",
+  "answer": "a",
+  "explanation": "Khoản 1 Điều 118 Luật Hôn nhân và gia đình năm 2014 quy định nghĩa vụ cấp dưỡng chấm dứt khi người được cấp dưỡng đã thành niên và có khả năng lao động hoặc có tài sản để tự nuôi mình."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, ai có quyền yêu cầu Tòa án buộc thực hiện nghĩa vụ cấp dưỡng?",
+  "a": "Người được cấp dưỡng.",
+  "b": "Cha, mẹ hoặc người giám hộ của người được cấp dưỡng.",
+  "c": "Hội liên hiệp phụ nữ.",
+  "d": "Tất cả các đáp án trên.",
+  "answer": "d",
+  "explanation": "Điều 119 Luật Hôn nhân và gia đình năm 2014 quy định người được cấp dưỡng, cha mẹ, người giám hộ và các cơ quan, tổ chức như Hội liên hiệp phụ nữ đều có quyền yêu cầu Tòa án buộc thực hiện nghĩa vụ cấp dưỡng."
+},
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, nghĩa vụ cấp dưỡng có thể được thay thế bằng nghĩa vụ khác không?",
+    "a": "Được thay thế nếu các bên đồng ý.",
+    "b": "Được thay thế bằng nghĩa vụ tài sản.",
+    "c": "Không thể thay thế bằng nghĩa vụ khác.",
+    "d": "Chỉ thay thế khi Tòa án cho phép.",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 107 Luật Hôn nhân và gia đình năm 2014 quy định nghĩa vụ cấp dưỡng không thể thay thế bằng nghĩa vụ khác và không thể chuyển giao cho người khác."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, người có nghĩa vụ cấp dưỡng cho nhiều người thì mức cấp dưỡng được xác định như thế nào?",
+    "a": "Theo mức cố định do pháp luật quy định.",
+    "b": "Theo thỏa thuận phù hợp với thu nhập, khả năng thực tế và nhu cầu thiết yếu.",
+    "c": "Theo yêu cầu của người được cấp dưỡng.",
+    "d": "Theo quyết định của UBND cấp xã.",
+    "answer": "b",
+    "explanation": "Điều 108 Luật Hôn nhân và gia đình năm 2014 quy định người cấp dưỡng và người được cấp dưỡng thỏa thuận về phương thức và mức cấp dưỡng phù hợp với thu nhập, khả năng thực tế của người có nghĩa vụ và nhu cầu thiết yếu của người được cấp dưỡng."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, trong trường hợp nhiều người cùng cấp dưỡng cho một người thì các bên xác định mức đóng góp dựa trên căn cứ nào?",
+    "a": "Mức tài sản được thừa kế.",
+    "b": "Khả năng thực tế của từng người và nhu cầu thiết yếu của người được cấp dưỡng.",
+    "c": "Độ tuổi của người cấp dưỡng.",
+    "d": "Ý chí của người được cấp dưỡng.",
+    "answer": "b",
+    "explanation": "Điều 109 Luật Hôn nhân và gia đình năm 2014 quy định việc đóng góp cấp dưỡng căn cứ vào thu nhập, khả năng thực tế của mỗi người và nhu cầu thiết yếu của người được cấp dưỡng."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, cha mẹ có nghĩa vụ cấp dưỡng cho con chưa thành niên trong trường hợp nào?",
+    "a": "Chỉ khi đã ly hôn.",
+    "b": "Chỉ khi con yêu cầu.",
+    "c": "Khi không sống chung với con hoặc sống chung nhưng vi phạm nghĩa vụ nuôi dưỡng.",
+    "d": "Chỉ khi Tòa án quyết định.",
+    "answer": "c",
+    "explanation": "Điều 110 Luật Hôn nhân và gia đình năm 2014 quy định cha, mẹ có nghĩa vụ cấp dưỡng cho con chưa thành niên trong trường hợp không sống chung với con hoặc sống chung nhưng vi phạm nghĩa vụ nuôi dưỡng."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, con đã thành niên có nghĩa vụ cấp dưỡng cho cha mẹ khi nào?",
+    "a": "Khi cha mẹ yêu cầu.",
+    "b": "Khi cha mẹ không có khả năng lao động và không có tài sản để tự nuôi mình.",
+    "c": "Khi cha mẹ sống riêng.",
+    "d": "Khi cha mẹ từ đủ 60 tuổi.",
+    "answer": "b",
+    "explanation": "Điều 111 Luật Hôn nhân và gia đình năm 2014 quy định con đã thành niên không sống chung với cha mẹ có nghĩa vụ cấp dưỡng cho cha mẹ trong trường hợp cha mẹ không có khả năng lao động và không có tài sản để tự nuôi mình."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, anh, chị đã thành niên phải cấp dưỡng cho em trong trường hợp nào?",
+    "a": "Em chưa thành niên có tài sản riêng.",
+    "b": "Cha mẹ còn khả năng cấp dưỡng.",
+    "c": "Không còn cha mẹ hoặc cha mẹ không có khả năng cấp dưỡng.",
+    "d": "Em yêu cầu bằng văn bản.",
+    "answer": "c",
+    "explanation": "Điều 112 Luật Hôn nhân và gia đình năm 2014 quy định anh, chị đã thành niên có nghĩa vụ cấp dưỡng cho em khi không còn cha mẹ hoặc cha mẹ không có khả năng lao động và không có tài sản để cấp dưỡng."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, ông bà nội, ông bà ngoại có nghĩa vụ cấp dưỡng cho cháu khi nào?",
+    "a": "Khi cháu chưa thành niên hoặc không có khả năng lao động và không có người cấp dưỡng.",
+    "b": "Chỉ khi cháu sống chung.",
+    "c": "Chỉ khi cha mẹ cháu chết.",
+    "d": "Mọi trường hợp cháu khó khăn.",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 113 Luật Hôn nhân và gia đình năm 2014 quy định ông bà nội, ông bà ngoại có nghĩa vụ cấp dưỡng cho cháu chưa thành niên hoặc cháu đã thành niên không có khả năng lao động, không có tài sản để tự nuôi mình và không có người cấp dưỡng."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, cô, dì, chú, cậu, bác ruột có nghĩa vụ cấp dưỡng cho cháu ruột khi nào?",
+    "a": "Khi cháu yêu cầu.",
+    "b": "Khi cha mẹ cháu đi làm xa.",
+    "c": "Khi cháu không có người khác cấp dưỡng theo luật.",
+    "d": "Khi cháu sống chung.",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 114 Luật Hôn nhân và gia đình năm 2014 quy định cô, dì, chú, cậu, bác ruột có nghĩa vụ cấp dưỡng cho cháu khi cháu không có người khác cấp dưỡng theo quy định của luật."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, khi ly hôn, vợ hoặc chồng được yêu cầu cấp dưỡng khi nào?",
+    "a": "Khi có yêu cầu và có lý do chính đáng.",
+    "b": "Mọi trường hợp ly hôn.",
+    "c": "Chỉ khi có con chung.",
+    "d": "Chỉ khi mất khả năng lao động.",
+    "answer": "a",
+    "explanation": "Điều 115 Luật Hôn nhân và gia đình năm 2014 quy định khi ly hôn nếu bên khó khăn, túng thiếu có yêu cầu cấp dưỡng và có lý do chính đáng thì bên kia có nghĩa vụ cấp dưỡng theo khả năng của mình."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, mức cấp dưỡng được thay đổi khi nào?",
+    "a": "Khi một bên yêu cầu.",
+    "b": "Khi có lý do chính đáng.",
+    "c": "Sau 01 năm thực hiện.",
+    "d": "Khi người được cấp dưỡng thay đổi nơi cư trú.",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 116 Luật Hôn nhân và gia đình năm 2014 quy định khi có lý do chính đáng thì mức cấp dưỡng có thể thay đổi."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, việc cấp dưỡng có thể thực hiện theo phương thức nào?",
+    "a": "Chỉ hàng tháng.",
+    "b": "Chỉ một lần.",
+    "c": "Định kỳ hoặc một lần theo thỏa thuận.",
+    "d": "Chỉ hàng năm.",
+    "answer": "c",
+    "explanation": "Điều 117 Luật Hôn nhân và gia đình năm 2014 quy định việc cấp dưỡng có thể được thực hiện định kỳ hàng tháng, hàng quý, nửa năm, hàng năm hoặc một lần."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, nghĩa vụ cấp dưỡng chấm dứt khi nào?",
+    "a": "Người được cấp dưỡng đã thành niên và có khả năng lao động hoặc có tài sản để tự nuôi mình.",
+    "b": "Người cấp dưỡng thay đổi nơi cư trú.",
+    "c": "Người cấp dưỡng nghỉ việc.",
+    "d": "Người được cấp dưỡng không còn sống chung.",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 118 Luật Hôn nhân và gia đình năm 2014 quy định nghĩa vụ cấp dưỡng chấm dứt khi người được cấp dưỡng đã thành niên và có khả năng lao động hoặc có tài sản để tự nuôi mình."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, bên được cấp dưỡng sau ly hôn kết hôn thì hậu quả pháp lý là gì?",
+    "a": "Tạm ngừng cấp dưỡng.",
+    "b": "Tiếp tục cấp dưỡng nếu khó khăn.",
+    "c": "Chấm dứt nghĩa vụ cấp dưỡng.",
+    "d": "Do Tòa án quyết định từng trường hợp.",
+    "answer": "c",
+    "explanation": "Khoản 5 Điều 118 Luật Hôn nhân và gia đình năm 2014 quy định nghĩa vụ cấp dưỡng chấm dứt khi bên được cấp dưỡng sau khi ly hôn đã kết hôn."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, ai có quyền yêu cầu Tòa án buộc người không tự nguyện cấp dưỡng phải thực hiện nghĩa vụ?",
+    "a": "Người được cấp dưỡng.",
+    "b": "Cha, mẹ hoặc người giám hộ của người được cấp dưỡng.",
+    "c": "Hội liên hiệp phụ nữ.",
+    "d": "Tất cả các đáp án trên.",
+    "answer": "d",
+    "explanation": "Điều 119 Luật Hôn nhân và gia đình năm 2014 quy định người được cấp dưỡng, cha mẹ, người giám hộ và các cơ quan, tổ chức như Hội liên hiệp phụ nữ đều có quyền yêu cầu Tòa án buộc thực hiện nghĩa vụ cấp dưỡng."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, cá nhân hoặc tổ chức phát hiện hành vi trốn tránh nghĩa vụ cấp dưỡng có quyền gì?",
+    "a": "Tự xử phạt người vi phạm.",
+    "b": "Đề nghị cơ quan có thẩm quyền yêu cầu Tòa án buộc thực hiện nghĩa vụ cấp dưỡng.",
+    "c": "Đình chỉ quyền công dân của người vi phạm.",
+    "d": "Buộc thực hiện cấp dưỡng ngay.",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 119 Luật Hôn nhân và gia đình năm 2014 quy định cá nhân, cơ quan, tổ chức khác có quyền đề nghị cơ quan, tổ chức có thẩm quyền yêu cầu Tòa án buộc người trốn tránh nghĩa vụ cấp dưỡng thực hiện nghĩa vụ."
+  },
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, nghĩa vụ cấp dưỡng có thể được thay thế bằng nghĩa vụ khác không?",
+  "a": "Có, nếu các bên tự thỏa thuận.",
+  "b": "Có, nếu Tòa án đồng ý.",
+  "c": "Không thể thay thế bằng nghĩa vụ khác.",
+  "d": "Chỉ được thay thế bằng nghĩa vụ tài sản.",
+  "answer": "c",
+  "explanation": "Khoản 1 Điều 107 Luật Hôn nhân và gia đình năm 2014 quy định: “Nghĩa vụ cấp dưỡng không thể thay thế bằng nghĩa vụ khác và không thể chuyển giao cho người khác.”"
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, người có nghĩa vụ cấp dưỡng cho nhiều người thì:",
+  "a": "Chỉ cấp dưỡng cho người nhỏ tuổi nhất.",
+  "b": "Các bên thỏa thuận mức cấp dưỡng phù hợp với thu nhập và nhu cầu thiết yếu.",
+  "c": "Tòa án tự quyết định mà không cần thỏa thuận.",
+  "d": "Người cấp dưỡng được quyền từ chối.",
+  "answer": "b",
+  "explanation": "Điều 108 Luật Hôn nhân và gia đình năm 2014 quy định việc cấp dưỡng cho nhiều người do các bên thỏa thuận phù hợp với thu nhập, khả năng thực tế và nhu cầu thiết yếu; nếu không thỏa thuận được thì yêu cầu Tòa án giải quyết."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, nhiều người cùng có nghĩa vụ cấp dưỡng cho một người thì:",
+  "a": "Người có thu nhập cao nhất phải cấp dưỡng toàn bộ.",
+  "b": "Mỗi người đóng góp ngang nhau trong mọi trường hợp.",
+  "c": "Các bên thỏa thuận mức đóng góp phù hợp khả năng thực tế của mỗi người.",
+  "d": "Tòa án mặc nhiên chia đều nghĩa vụ.",
+  "answer": "c",
+  "explanation": "Điều 109 Luật Hôn nhân và gia đình năm 2014 quy định những người cùng có nghĩa vụ cấp dưỡng thỏa thuận về phương thức và mức đóng góp phù hợp với thu nhập, khả năng thực tế của mỗi người."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, cha mẹ có nghĩa vụ cấp dưỡng cho con trong trường hợp nào?",
+  "a": "Chỉ khi con yêu cầu.",
+  "b": "Khi không sống chung với con hoặc sống chung nhưng vi phạm nghĩa vụ nuôi dưỡng.",
+  "c": "Chỉ khi Tòa án quyết định.",
+  "d": "Chỉ khi con bị bệnh nặng.",
+  "answer": "b",
+  "explanation": "Điều 110 Luật Hôn nhân và gia đình năm 2014 quy định cha mẹ có nghĩa vụ cấp dưỡng cho con chưa thành niên hoặc con đã thành niên không có khả năng lao động, không có tài sản tự nuôi mình khi không sống chung hoặc vi phạm nghĩa vụ nuôi dưỡng."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, con đã thành niên có nghĩa vụ cấp dưỡng cho cha mẹ khi nào?",
+  "a": "Khi cha mẹ yêu cầu.",
+  "b": "Khi cha mẹ không có khả năng lao động và không có tài sản tự nuôi mình.",
+  "c": "Khi cha mẹ nghỉ hưu.",
+  "d": "Khi cha mẹ sống riêng.",
+  "answer": "b",
+  "explanation": "Điều 111 Luật Hôn nhân và gia đình năm 2014 quy định con đã thành niên không sống chung với cha mẹ có nghĩa vụ cấp dưỡng khi cha mẹ không có khả năng lao động và không có tài sản để tự nuôi mình."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, anh chị em có nghĩa vụ cấp dưỡng cho nhau khi nào?",
+  "a": "Khi một bên thất nghiệp.",
+  "b": "Khi không còn cha mẹ hoặc cha mẹ không có khả năng cấp dưỡng.",
+  "c": "Khi sống chung trong gia đình.",
+  "d": "Khi được yêu cầu bằng văn bản.",
+  "answer": "b",
+  "explanation": "Điều 112 Luật Hôn nhân và gia đình năm 2014 quy định nghĩa vụ cấp dưỡng giữa anh, chị, em phát sinh khi không còn cha mẹ hoặc cha mẹ không có khả năng lao động và không có tài sản để cấp dưỡng."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, ông bà có nghĩa vụ cấp dưỡng cho cháu khi:",
+  "a": "Cháu chưa thành niên hoặc không có khả năng lao động và không có người cấp dưỡng.",
+  "b": "Cháu ở chung nhà.",
+  "c": "Cha mẹ cháu ly hôn.",
+  "d": "Cháu không đi học.",
+  "answer": "a",
+  "explanation": "Khoản 1 Điều 113 Luật Hôn nhân và gia đình năm 2014 quy định ông bà có nghĩa vụ cấp dưỡng cho cháu chưa thành niên hoặc cháu đã thành niên không có khả năng lao động, không có tài sản tự nuôi mình và không có người cấp dưỡng."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, nghĩa vụ cấp dưỡng giữa cô, dì, chú, cậu, bác ruột và cháu ruột phát sinh khi:",
+  "a": "Cháu có yêu cầu.",
+  "b": "Người cần được cấp dưỡng không còn người cấp dưỡng khác theo luật.",
+  "c": "Các bên sống chung.",
+  "d": "Tòa án yêu cầu tự động.",
+  "answer": "b",
+  "explanation": "Điều 114 Luật Hôn nhân và gia đình năm 2014 quy định nghĩa vụ cấp dưỡng chỉ phát sinh khi người cần được cấp dưỡng không còn người khác có nghĩa vụ cấp dưỡng hoặc những người đó không có điều kiện thực hiện."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, khi ly hôn, vợ hoặc chồng có thể yêu cầu cấp dưỡng nếu:",
+  "a": "Muốn ổn định cuộc sống.",
+  "b": "Có khó khăn, túng thiếu và có lý do chính đáng.",
+  "c": "Không có việc làm.",
+  "d": "Không có nơi ở.",
+  "answer": "b",
+  "explanation": "Điều 115 Luật Hôn nhân và gia đình năm 2014 quy định khi ly hôn, nếu bên khó khăn, túng thiếu có yêu cầu cấp dưỡng và có lý do chính đáng thì bên kia có nghĩa vụ cấp dưỡng theo khả năng của mình."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, mức cấp dưỡng được xác định căn cứ vào:",
+  "a": "Mức lương tối thiểu vùng.",
+  "b": "Thu nhập, khả năng thực tế của người cấp dưỡng và nhu cầu thiết yếu của người được cấp dưỡng.",
+  "c": "Tuổi của người được cấp dưỡng.",
+  "d": "Ý chí của người cấp dưỡng.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 116 Luật Hôn nhân và gia đình năm 2014 quy định mức cấp dưỡng căn cứ vào thu nhập, khả năng thực tế của người có nghĩa vụ cấp dưỡng và nhu cầu thiết yếu của người được cấp dưỡng."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, mức cấp dưỡng có thể thay đổi khi:",
+  "a": "Người cấp dưỡng yêu cầu.",
+  "b": "Có lý do chính đáng.",
+  "c": "Người được cấp dưỡng chuyển nơi cư trú.",
+  "d": "Có yêu cầu của cơ quan nhà nước.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 116 Luật Hôn nhân và gia đình năm 2014 quy định khi có lý do chính đáng thì mức cấp dưỡng có thể thay đổi."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, phương thức cấp dưỡng có thể thực hiện như thế nào?",
+  "a": "Chỉ hàng tháng.",
+  "b": "Chỉ một lần.",
+  "c": "Định kỳ hoặc một lần theo thỏa thuận.",
+  "d": "Chỉ hàng năm.",
+  "answer": "c",
+  "explanation": "Điều 117 Luật Hôn nhân và gia đình năm 2014 quy định việc cấp dưỡng có thể thực hiện hàng tháng, hàng quý, nửa năm, hàng năm hoặc một lần."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, trường hợp nào làm chấm dứt nghĩa vụ cấp dưỡng?",
+  "a": "Người được cấp dưỡng đã thành niên và có khả năng lao động.",
+  "b": "Người được cấp dưỡng đổi nơi cư trú.",
+  "c": "Người cấp dưỡng nghỉ hưu.",
+  "d": "Người được cấp dưỡng kết hôn.",
+  "answer": "a",
+  "explanation": "Khoản 1 Điều 118 Luật Hôn nhân và gia đình năm 2014 quy định nghĩa vụ cấp dưỡng chấm dứt khi người được cấp dưỡng đã thành niên và có khả năng lao động hoặc có tài sản để tự nuôi mình."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, nghĩa vụ cấp dưỡng sau ly hôn chấm dứt khi:",
+  "a": "Người cấp dưỡng mất việc.",
+  "b": "Bên được cấp dưỡng kết hôn.",
+  "c": "Người được cấp dưỡng thay đổi nơi ở.",
+  "d": "Con chung thành niên.",
+  "answer": "b",
+  "explanation": "Khoản 5 Điều 118 Luật Hôn nhân và gia đình năm 2014 quy định nghĩa vụ cấp dưỡng chấm dứt khi bên được cấp dưỡng sau ly hôn đã kết hôn."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, ai có quyền yêu cầu Tòa án buộc thực hiện nghĩa vụ cấp dưỡng?",
+  "a": "Người được cấp dưỡng.",
+  "b": "Cha, mẹ hoặc người giám hộ của người được cấp dưỡng.",
+  "c": "Hội liên hiệp phụ nữ.",
+  "d": "Tất cả các đáp án trên.",
+  "answer": "d",
+  "explanation": "Điều 119 Luật Hôn nhân và gia đình năm 2014 quy định người được cấp dưỡng, cha mẹ, người giám hộ và các cơ quan, tổ chức như Hội liên hiệp phụ nữ đều có quyền yêu cầu Tòa án buộc thực hiện nghĩa vụ cấp dưỡng."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, cá nhân hoặc tổ chức khác khi phát hiện hành vi trốn tránh cấp dưỡng thì:",
+  "a": "Được trực tiếp xử phạt.",
+  "b": "Có quyền đề nghị cơ quan có thẩm quyền yêu cầu Tòa án giải quyết.",
+  "c": "Có quyền tự khởi kiện ngay.",
+  "d": "Được tự đình chỉ nghĩa vụ cấp dưỡng.",
+  "answer": "b",
+  "explanation": "Khoản 3 Điều 119 Luật Hôn nhân và gia đình năm 2014 quy định cá nhân, cơ quan, tổ chức khác có quyền đề nghị cơ quan quản lý nhà nước về gia đình, trẻ em hoặc Hội liên hiệp phụ nữ yêu cầu Tòa án buộc thực hiện nghĩa vụ cấp dưỡng."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, Nhà nước và xã hội được khuyến khích thực hiện hoạt động nào?",
+  "a": "Cho vay ưu đãi gia đình.",
+  "b": "Trợ giúp bằng tiền hoặc tài sản cho gia đình, cá nhân khó khăn.",
+  "c": "Miễn toàn bộ nghĩa vụ cấp dưỡng.",
+  "d": "Thay thế nghĩa vụ nuôi dưỡng.",
+  "answer": "b",
+  "explanation": "Điều 120 Luật Hôn nhân và gia đình năm 2014 quy định Nhà nước và xã hội khuyến khích tổ chức, cá nhân trợ giúp bằng tiền hoặc tài sản khác cho gia đình, cá nhân có hoàn cảnh đặc biệt khó khăn, túng thiếu."
+}  
 ]
