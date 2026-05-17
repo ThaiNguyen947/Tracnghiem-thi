@@ -1,5 +1,617 @@
  [
   {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, con sinh ra không phụ thuộc vào tình trạng hôn nhân của cha mẹ thì:",
+    "a": "Chỉ có quyền với mẹ.",
+    "b": "Chỉ có quyền nếu cha mẹ đăng ký kết hôn.",
+    "c": "Có quyền và nghĩa vụ như nhau đối với cha mẹ.",
+    "d": "Không được hưởng quyền thừa kế.",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 68 Luật Hôn nhân và gia đình năm 2014 quy định: \"Con sinh ra không phụ thuộc vào tình trạng hôn nhân của cha mẹ đều có quyền và nghĩa vụ như nhau đối với cha mẹ của mình.\""
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, thỏa thuận nào sau đây không được pháp luật công nhận?",
+    "a": "Cha mẹ thỏa thuận phân chia tài sản chung.",
+    "b": "Cha mẹ thỏa thuận làm ảnh hưởng quyền lợi hợp pháp của con chưa thành niên.",
+    "c": "Cha mẹ thỏa thuận việc học của con.",
+    "d": "Cha mẹ thỏa thuận quản lý tài sản gia đình.",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 68 Luật Hôn nhân và gia đình năm 2014 quy định: \"Mọi thỏa thuận của cha mẹ, con liên quan đến quan hệ nhân thân, tài sản không được làm ảnh hưởng đến quyền, lợi ích hợp pháp của con chưa thành niên.\""
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, cha mẹ có nghĩa vụ nào sau đây đối với con?",
+    "a": "Ép con chọn nghề theo ý cha mẹ.",
+    "b": "Tôn trọng ý kiến của con và chăm lo việc học tập của con.",
+    "c": "Buộc con nghỉ học để lao động.",
+    "d": "Không cần quan tâm việc giáo dục con.",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 69 Luật Hôn nhân và gia đình năm 2014 quy định: \"Thương yêu con, tôn trọng ý kiến của con; chăm lo việc học tập, giáo dục để con phát triển lành mạnh.\""
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, hành vi nào sau đây bị cấm đối với cha mẹ?",
+    "a": "Cho con học nghề.",
+    "b": "Tôn trọng quyền của con.",
+    "c": "Lạm dụng sức lao động của con chưa thành niên.",
+    "d": "Hướng dẫn con học tập.",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 69 Luật Hôn nhân và gia đình năm 2014 quy định: \"Không được lạm dụng sức lao động của con chưa thành niên; không được xúi giục, ép buộc con làm việc trái pháp luật, trái đạo đức xã hội.\""
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, con có bổn phận nào sau đây đối với cha mẹ?",
+    "a": "Tự ý từ bỏ cha mẹ khi trưởng thành.",
+    "b": "Yêu quý, kính trọng, hiếu thảo và phụng dưỡng cha mẹ.",
+    "c": "Không cần chăm sóc cha mẹ già yếu.",
+    "d": "Chỉ có nghĩa vụ tài sản với cha mẹ.",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 70 Luật Hôn nhân và gia đình năm 2014 quy định: \"Có bổn phận yêu quý, kính trọng, biết ơn, hiếu thảo, phụng dưỡng cha mẹ.\""
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, ai có quyền sống chung với cha mẹ?",
+    "a": "Chỉ con chưa thành niên.",
+    "b": "Con chưa thành niên và con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động.",
+    "c": "Mọi người thân trong gia đình.",
+    "d": "Chỉ con đã thành niên.",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 70 Luật Hôn nhân và gia đình năm 2014 quy định: \"Con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình thì có quyền sống chung với cha mẹ.\""
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, con đã thành niên có quyền nào sau đây?",
+    "a": "Bị cha mẹ quyết định nơi cư trú bắt buộc.",
+    "b": "Không được lựa chọn nghề nghiệp.",
+    "c": "Tự do lựa chọn nghề nghiệp, nơi cư trú, học tập.",
+    "d": "Không được tham gia hoạt động xã hội.",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 70 Luật Hôn nhân và gia đình năm 2014 quy định: \"Con đã thành niên có quyền tự do lựa chọn nghề nghiệp, nơi cư trú, học tập, nâng cao trình độ văn hóa, chuyên môn, nghiệp vụ.\""
+  },
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, cha mẹ trong việc chăm sóc, nuôi dưỡng con có quyền và nghĩa vụ như thế nào?",
+  "a": "Cha có quyền quyết định cao hơn mẹ.",
+  "b": "Mẹ có quyền quyết định cao hơn cha.",
+  "c": "Cha mẹ có quyền và nghĩa vụ ngang nhau.",
+  "d": "Người có thu nhập cao hơn quyết định.",
+  "answer": "c",
+  "explanation": "Khoản 1 Điều 71 Luật Hôn nhân và gia đình năm 2014 quy định: \"Cha, mẹ có nghĩa vụ và quyền ngang nhau, cùng nhau chăm sóc, nuôi dưỡng con.\""
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, con sinh ra ngoài giá thú:",
+  "a": "Không có quyền với cha.",
+  "b": "Không được hưởng thừa kế.",
+  "c": "Có quyền và nghĩa vụ như nhau đối với cha mẹ.",
+  "d": "Chỉ được công nhận nếu cha mẹ kết hôn sau đó.",
+  "answer": "c",
+  "explanation": "Khoản 2 Điều 68 Luật Hôn nhân và gia đình năm 2014 quy định: \"Con sinh ra không phụ thuộc vào tình trạng hôn nhân của cha mẹ đều có quyền và nghĩa vụ như nhau đối với cha mẹ của mình.\""
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, con đã thành niên có quyền nào sau đây?",
+  "a": "Tự do lựa chọn nghề nghiệp và nơi cư trú.",
+  "b": "Phải sống theo nơi ở cha mẹ quyết định.",
+  "c": "Không được tự chọn nghề.",
+  "d": "Không được tham gia hoạt động xã hội.",
+  "answer": "a",
+  "explanation": "Khoản 4 Điều 70 Luật Hôn nhân và gia đình năm 2014 quy định: \"Con đã thành niên có quyền tự do lựa chọn nghề nghiệp, nơi cư trú, học tập.\""
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, trường hợp gia đình có nhiều con thì việc chăm sóc cha mẹ được thực hiện như thế nào?",
+  "a": "Chỉ con trai có nghĩa vụ chăm sóc.",
+  "b": "Chỉ con trưởng có nghĩa vụ chăm sóc.",
+  "c": "Các con phải cùng nhau chăm sóc, nuôi dưỡng cha mẹ.",
+  "d": "Người có điều kiện kinh tế mới phải chăm sóc.",
+  "answer": "c",
+  "explanation": "Khoản 2 Điều 71 Luật Hôn nhân và gia đình năm 2014 quy định: \"Trường hợp gia đình có nhiều con thì các con phải cùng nhau chăm sóc, nuôi dưỡng cha mẹ.\""
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, hành vi nào sau đây bị cấm đối với cha mẹ?",
+  "a": "Cho con học nghề.",
+  "b": "Tôn trọng ý kiến của con.",
+  "c": "Lạm dụng sức lao động của con chưa thành niên.",
+  "d": "Tạo điều kiện cho con học tập.",
+  "answer": "c",
+  "explanation": "Khoản 4 Điều 69 Luật Hôn nhân và gia đình năm 2014 quy định: \"Không được lạm dụng sức lao động của con chưa thành niên.\""
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, con nuôi và cha mẹ nuôi có quan hệ như thế nào?",
+  "a": "Không có quyền thừa kế của nhau.",
+  "b": "Chỉ có nghĩa vụ cấp dưỡng.",
+  "c": "Có quyền và nghĩa vụ như cha mẹ và con.",
+  "d": "Chỉ được pháp luật bảo vệ về tài sản.",
+  "answer": "c",
+  "explanation": "Khoản 3 Điều 68 Luật Hôn nhân và gia đình năm 2014 quy định: \"Giữa con nuôi và cha nuôi, mẹ nuôi có các quyền và nghĩa vụ của cha mẹ và con.\""
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, ai có quyền sống chung với cha mẹ?",
+  "a": "Chỉ con chưa thành niên.",
+  "b": "Con chưa thành niên và con đã thành niên không có khả năng lao động.",
+  "c": "Mọi người thân thích.",
+  "d": "Chỉ con đã thành niên.",
+  "answer": "b",
+  "explanation": "Khoản 3 Điều 70 Luật Hôn nhân và gia đình năm 2014 quy định: \"Con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình thì có quyền sống chung với cha mẹ.\""
+},
+{
+  "question": "Tình huống: Ông A bắt con 13 tuổi nghỉ học để đi làm phụ giúp gia đình. Theo Luật Hôn nhân và gia đình năm 2014, hành vi này:",
+  "a": "Được phép nếu gia đình khó khăn.",
+  "b": "Được phép nếu con đồng ý.",
+  "c": "Vi phạm quy định về quyền và nghĩa vụ của cha mẹ.",
+  "d": "Không vi phạm nếu làm việc tại cơ sở gia đình.",
+  "answer": "c",
+  "explanation": "Khoản 4 Điều 69 Luật Hôn nhân và gia đình năm 2014 quy định: \"Không được lạm dụng sức lao động của con chưa thành niên.\""
+},
+{
+  "question": "Tình huống: Bà B ép con đã thành niên phải theo nghề do mình lựa chọn. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Cha mẹ có toàn quyền quyết định nghề nghiệp của con.",
+  "b": "Con đã thành niên có quyền tự do lựa chọn nghề nghiệp.",
+  "c": "Con chỉ được chọn nghề khi ra ở riêng.",
+  "d": "Cha mẹ được quyết định nếu đang nuôi con.",
+  "answer": "b",
+  "explanation": "Khoản 4 Điều 70 và khoản 2 Điều 72 Luật Hôn nhân và gia đình năm 2014 quy định con đã thành niên có quyền tự do lựa chọn nghề nghiệp và cha mẹ phải tôn trọng quyền chọn nghề của con."
+},
+{
+  "question": "Tình huống: Cha mẹ thỏa thuận chuyển toàn bộ tài sản chung cho người khác làm ảnh hưởng nghiêm trọng đến quyền lợi của con chưa thành niên. Theo pháp luật:",
+  "a": "Thỏa thuận luôn có hiệu lực.",
+  "b": "Thỏa thuận vô hiệu toàn bộ trong mọi trường hợp.",
+  "c": "Thỏa thuận không được làm ảnh hưởng quyền lợi hợp pháp của con chưa thành niên.",
+  "d": "Chỉ cần cha mẹ đồng ý là đủ.",
+  "answer": "c",
+  "explanation": "Khoản 4 Điều 68 Luật Hôn nhân và gia đình năm 2014 quy định: \"Mọi thỏa thuận của cha mẹ, con liên quan đến quan hệ nhân thân, tài sản không được làm ảnh hưởng đến quyền, lợi ích hợp pháp của con chưa thành niên.\""
+},
+{
+  "question": "Tình huống: Ông A thường xuyên bắt con 12 tuổi nghỉ học để đi bán hàng kiếm tiền cho gia đình. Theo Luật Hôn nhân và gia đình năm 2014, hành vi này:",
+  "a": "Được phép nếu gia đình khó khăn.",
+  "b": "Được phép nếu con đồng ý.",
+  "c": "Vi phạm nghĩa vụ và quyền của cha mẹ đối với con.",
+  "d": "Chỉ vi phạm khi con bị thương tích.",
+  "answer": "c",
+  "explanation": "Khoản 4 Điều 69 Luật Hôn nhân và gia đình năm 2014 quy định: \"Không được lạm dụng sức lao động của con chưa thành niên.\""
+},
+{
+  "question": "Tình huống: Bà B ép con chưa thành niên tham gia vận chuyển hàng cấm để kiếm tiền. Theo Luật Hôn nhân và gia đình năm 2014, hành vi này:",
+  "a": "Được phép nếu con tự nguyện.",
+  "b": "Là quyền quản lý của cha mẹ.",
+  "c": "Vi phạm quy định về quyền và nghĩa vụ của cha mẹ.",
+  "d": "Chỉ vi phạm nếu bị xử lý hình sự.",
+  "answer": "c",
+  "explanation": "Khoản 4 Điều 69 Luật Hôn nhân và gia đình năm 2014 quy định: \"Không được xúi giục, ép buộc con làm việc trái pháp luật, trái đạo đức xã hội.\""
+},
+{
+  "question": "Tình huống: Ông A tự ý quyết định bắt con đã thành niên bỏ học đại học để làm nghề theo ý mình. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Cha mẹ có quyền quyết định tuyệt đối nghề nghiệp của con.",
+  "b": "Con đã thành niên có quyền tự do lựa chọn nghề nghiệp và học tập.",
+  "c": "Con chỉ được chọn nghề khi sống riêng.",
+  "d": "Cha mẹ được quyền cấm học đại học.",
+  "answer": "b",
+  "explanation": "Khoản 4 Điều 70 và khoản 2 Điều 72 Luật Hôn nhân và gia đình năm 2014 quy định con đã thành niên có quyền tự do lựa chọn nghề nghiệp, học tập và cha mẹ phải tôn trọng quyền chọn nghề của con."
+},
+{
+  "question": "Tình huống: Cha mẹ thỏa thuận giao toàn bộ tài sản của con chưa thành niên cho người khác quản lý khiến quyền lợi của con bị ảnh hưởng nghiêm trọng. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Thỏa thuận luôn hợp pháp.",
+  "b": "Chỉ cần cha mẹ đồng ý là đủ.",
+  "c": "Thỏa thuận không được làm ảnh hưởng quyền, lợi ích hợp pháp của con chưa thành niên.",
+  "d": "Con chưa thành niên không có quyền tài sản.",
+  "answer": "c",
+  "explanation": "Khoản 4 Điều 68 Luật Hôn nhân và gia đình năm 2014 quy định: \"Mọi thỏa thuận của cha mẹ, con liên quan đến quan hệ nhân thân, tài sản không được làm ảnh hưởng đến quyền, lợi ích hợp pháp của con chưa thành niên.\""
+},
+{
+  "question": "Tình huống: Ông A chỉ cho con trai đi học còn bắt con gái nghỉ học ở nhà làm việc nhà. Theo Luật Hôn nhân và gia đình năm 2014, hành vi này:",
+  "a": "Là quyền giáo dục của cha mẹ.",
+  "b": "Được phép nếu gia đình khó khăn.",
+  "c": "Vi phạm quy định không được phân biệt đối xử với con.",
+  "d": "Không trái pháp luật.",
+  "answer": "c",
+  "explanation": "Khoản 4 Điều 69 Luật Hôn nhân và gia đình năm 2014 quy định: \"Không được phân biệt đối xử với con trên cơ sở giới hoặc theo tình trạng hôn nhân của cha mẹ.\""
+},
+{
+  "question": "Tình huống: Sau khi con đã thành niên, bà B vẫn giữ toàn bộ giấy tờ tùy thân và cấm con chuyển nơi cư trú. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Cha mẹ có toàn quyền quản lý con suốt đời.",
+  "b": "Con đã thành niên có quyền tự do lựa chọn nơi cư trú.",
+  "c": "Con chỉ được chuyển nơi ở khi cha mẹ đồng ý.",
+  "d": "Cha mẹ được quyền giữ giấy tờ cá nhân của con.",
+  "answer": "b",
+  "explanation": "Khoản 4 Điều 70 Luật Hôn nhân và gia đình năm 2014 quy định: \"Con đã thành niên có quyền tự do lựa chọn nghề nghiệp, nơi cư trú, học tập.\""
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, cha mẹ là người đại diện theo pháp luật của ai?",
+  "a": "Mọi người con dù đã thành niên.",
+  "b": "Con chưa thành niên và con đã thành niên mất năng lực hành vi dân sự.",
+  "c": "Chỉ con dưới 15 tuổi.",
+  "d": "Chỉ con chưa thành niên có tài sản.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 73 Luật Hôn nhân và gia đình năm 2014 quy định cha mẹ là người đại diện theo pháp luật của con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, giao dịch liên quan đến bất động sản của con chưa thành niên phải:",
+  "a": "Do cha quyết định.",
+  "b": "Do mẹ quyết định.",
+  "c": "Có sự thỏa thuận của cha mẹ.",
+  "d": "Do ông bà quyết định.",
+  "answer": "c",
+  "explanation": "Khoản 3 Điều 73 Luật Hôn nhân và gia đình năm 2014 quy định giao dịch liên quan đến bất động sản, động sản có đăng ký quyền sở hữu của con chưa thành niên phải có sự thỏa thuận của cha mẹ."
+},
+{
+  "question": "Tình huống: Ông A tự ý bán đất đứng tên con chưa thành niên mà không có sự đồng ý của mẹ đứa trẻ. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Hợp pháp vì cha là đại diện theo pháp luật.",
+  "b": "Hợp pháp nếu đất có giá trị nhỏ.",
+  "c": "Không đúng quy định vì phải có sự thỏa thuận của cha mẹ.",
+  "d": "Chỉ cần con đồng ý.",
+  "answer": "c",
+  "explanation": "Khoản 3 Điều 73 Luật Hôn nhân và gia đình năm 2014 quy định giao dịch liên quan đến bất động sản của con chưa thành niên phải có sự thỏa thuận của cha mẹ."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, ai phải bồi thường thiệt hại do con chưa thành niên gây ra?",
+  "a": "Ông bà.",
+  "b": "Cha mẹ.",
+  "c": "Nhà trường.",
+  "d": "Ủy ban nhân dân cấp xã.",
+  "answer": "b",
+  "explanation": "Điều 74 Luật Hôn nhân và gia đình năm 2014 quy định cha mẹ phải bồi thường thiệt hại do con chưa thành niên gây ra theo quy định của Bộ luật dân sự."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, tài sản nào là tài sản riêng của con?",
+  "a": "Tài sản cha mẹ đứng tên.",
+  "b": "Tài sản được thừa kế riêng, được tặng cho riêng.",
+  "c": "Mọi tài sản trong gia đình.",
+  "d": "Chỉ tiền tiết kiệm của con.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 75 Luật Hôn nhân và gia đình năm 2014 quy định tài sản riêng của con bao gồm tài sản được thừa kế riêng, được tặng cho riêng và các thu nhập hợp pháp khác."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, con từ đủ bao nhiêu tuổi sống chung với cha mẹ thì phải đóng góp vào nhu cầu thiết yếu của gia đình nếu có thu nhập?",
+  "a": "Đủ 09 tuổi.",
+  "b": "Đủ 12 tuổi.",
+  "c": "Đủ 15 tuổi.",
+  "d": "Đủ 18 tuổi.",
+  "answer": "c",
+  "explanation": "Khoản 2 Điều 75 Luật Hôn nhân và gia đình năm 2014 quy định con từ đủ 15 tuổi trở lên sống chung với cha mẹ phải đóng góp vào việc đáp ứng nhu cầu thiết yếu của gia đình nếu có thu nhập."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, ai có thể tự mình quản lý tài sản riêng?",
+  "a": "Con từ đủ 15 tuổi trở lên.",
+  "b": "Chỉ người đã thành niên.",
+  "c": "Con từ đủ 09 tuổi.",
+  "d": "Mọi trẻ em.",
+  "answer": "a",
+  "explanation": "Khoản 1 Điều 76 Luật Hôn nhân và gia đình năm 2014 quy định con từ đủ 15 tuổi trở lên có thể tự mình quản lý tài sản riêng hoặc nhờ cha mẹ quản lý."
+},
+{
+  "question": "Tình huống: Bé A 14 tuổi được tặng cho riêng một chiếc xe máy điện. Theo Luật Hôn nhân và gia đình năm 2014, ai quản lý tài sản này?",
+  "a": "Bé A tự quản lý hoàn toàn.",
+  "b": "Cha mẹ quản lý tài sản riêng của con dưới 15 tuổi.",
+  "c": "Nhà trường quản lý.",
+  "d": "Ủy ban nhân dân cấp xã quản lý.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 76 Luật Hôn nhân và gia đình năm 2014 quy định tài sản riêng của con dưới 15 tuổi do cha mẹ quản lý."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, khi định đoạt tài sản riêng của con dưới 15 tuổi thì nếu con từ đủ bao nhiêu tuổi trở lên phải xem xét nguyện vọng của con?",
+  "a": "Đủ 06 tuổi.",
+  "b": "Đủ 07 tuổi.",
+  "c": "Đủ 09 tuổi.",
+  "d": "Đủ 15 tuổi.",
+  "answer": "c",
+  "explanation": "Khoản 1 Điều 77 Luật Hôn nhân và gia đình năm 2014 quy định nếu con từ đủ 09 tuổi trở lên thì phải xem xét nguyện vọng của con."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, con từ đủ 15 tuổi đến dưới 18 tuổi khi định đoạt bất động sản của mình thì:",
+  "a": "Được tự quyết định hoàn toàn.",
+  "b": "Phải có sự đồng ý bằng văn bản của cha mẹ hoặc người giám hộ.",
+  "c": "Chỉ cần thông báo cho cha mẹ.",
+  "d": "Không được định đoạt trong mọi trường hợp.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 77 Luật Hôn nhân và gia đình năm 2014 quy định con từ đủ 15 tuổi đến dưới 18 tuổi định đoạt bất động sản phải có sự đồng ý bằng văn bản của cha mẹ hoặc người giám hộ."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, quyền và nghĩa vụ giữa cha nuôi, mẹ nuôi với con nuôi phát sinh từ thời điểm nào?",
+  "a": "Từ khi sống chung.",
+  "b": "Từ khi đăng ký hộ khẩu.",
+  "c": "Từ thời điểm quan hệ nuôi con nuôi được xác lập hợp pháp.",
+  "d": "Từ khi có xác nhận của tổ dân phố.",
+  "answer": "c",
+  "explanation": "Khoản 1 Điều 78 Luật Hôn nhân và gia đình năm 2014 quy định quyền và nghĩa vụ phát sinh kể từ thời điểm quan hệ nuôi con nuôi được xác lập theo quy định của Luật Nuôi con nuôi."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, cha dượng, mẹ kế có quyền và nghĩa vụ gì đối với con riêng cùng sống chung?",
+  "a": "Không có nghĩa vụ gì.",
+  "b": "Chỉ có nghĩa vụ cấp dưỡng.",
+  "c": "Có quyền và nghĩa vụ trông nom, nuôi dưỡng, chăm sóc, giáo dục.",
+  "d": "Chỉ có quyền quản lý tài sản.",
+  "answer": "c",
+  "explanation": "Khoản 1 Điều 79 Luật Hôn nhân và gia đình năm 2014 quy định cha dượng, mẹ kế có quyền và nghĩa vụ trông nom, nuôi dưỡng, chăm sóc, giáo dục con riêng của bên kia cùng sống chung với mình."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, sau khi ly hôn cha mẹ:",
+  "a": "Chấm dứt mọi quyền và nghĩa vụ với con.",
+  "b": "Vẫn có quyền và nghĩa vụ trông nom, chăm sóc, nuôi dưỡng, giáo dục con.",
+  "c": "Chỉ người trực tiếp nuôi con mới có nghĩa vụ.",
+  "d": "Không còn quyền thăm nom con.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 81 Luật Hôn nhân và gia đình năm 2014 quy định sau khi ly hôn cha mẹ vẫn có quyền, nghĩa vụ trông nom, chăm sóc, nuôi dưỡng, giáo dục con."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, khi quyết định người trực tiếp nuôi con sau ly hôn mà con từ đủ 07 tuổi trở lên thì:",
+  "a": "Không cần hỏi ý kiến con.",
+  "b": "Phải xem xét nguyện vọng của con.",
+  "c": "Cha được ưu tiên tuyệt đối.",
+  "d": "Mẹ được ưu tiên tuyệt đối.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 81 Luật Hôn nhân và gia đình năm 2014 quy định nếu con từ đủ 07 tuổi trở lên thì phải xem xét nguyện vọng của con."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, con dưới 36 tháng tuổi sau khi ly hôn thường được giao cho ai trực tiếp nuôi?",
+  "a": "Cha.",
+  "b": "Ông bà.",
+  "c": "Mẹ.",
+  "d": "Người có thu nhập cao hơn.",
+  "answer": "c",
+  "explanation": "Khoản 3 Điều 81 Luật Hôn nhân và gia đình năm 2014 quy định con dưới 36 tháng tuổi được giao cho mẹ trực tiếp nuôi, trừ trường hợp đặc biệt."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, người không trực tiếp nuôi con sau ly hôn có nghĩa vụ nào?",
+  "a": "Không có nghĩa vụ gì.",
+  "b": "Chỉ được thăm nom con.",
+  "c": "Có nghĩa vụ cấp dưỡng cho con.",
+  "d": "Chỉ hỗ trợ khi tự nguyện.",
+  "answer": "c",
+  "explanation": "Khoản 2 Điều 82 Luật Hôn nhân và gia đình năm 2014 quy định cha, mẹ không trực tiếp nuôi con có nghĩa vụ cấp dưỡng cho con."
+},
+{
+  "question": "Tình huống: Sau ly hôn, bà A liên tục ngăn cản ông B đến thăm con dù ông B không có hành vi xấu. Theo Luật Hôn nhân và gia đình năm 2014, hành vi này:",
+  "a": "Được phép vì bà A trực tiếp nuôi con.",
+  "b": "Không được cản trở quyền thăm nom của người không trực tiếp nuôi con.",
+  "c": "Chỉ sai nếu có quyết định của Tòa án.",
+  "d": "Là quyền riêng của người trực tiếp nuôi con.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 83 Luật Hôn nhân và gia đình năm 2014 quy định cha, mẹ trực tiếp nuôi con không được cản trở người không trực tiếp nuôi con trong việc thăm nom con."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, một trong các căn cứ thay đổi người trực tiếp nuôi con là:",
+  "a": "Người trực tiếp nuôi con không còn đủ điều kiện chăm sóc con.",
+  "b": "Cha mẹ muốn thay đổi họ của con.",
+  "c": "Con muốn đổi trường học.",
+  "d": "Người trực tiếp nuôi con chuyển nơi cư trú.",
+  "answer": "a",
+  "explanation": "Điểm b khoản 2 Điều 84 Luật Hôn nhân và gia đình năm 2014 quy định việc thay đổi người trực tiếp nuôi con được giải quyết khi người trực tiếp nuôi con không còn đủ điều kiện trực tiếp trông nom, chăm sóc, nuôi dưỡng, giáo dục con."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, cha hoặc mẹ có thể tự mình thực hiện giao dịch nhằm đáp ứng nhu cầu thiết yếu của ai?",
+  "a": "Mọi người con.",
+  "b": "Con chưa thành niên hoặc con đã thành niên mất năng lực hành vi dân sự.",
+  "c": "Chỉ con dưới 06 tuổi.",
+  "d": "Chỉ con không có tài sản riêng.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 73 Luật Hôn nhân và gia đình năm 2014 quy định cha hoặc mẹ có quyền tự mình thực hiện giao dịch nhằm đáp ứng nhu cầu thiết yếu của con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, cha mẹ phải chịu trách nhiệm như thế nào đối với giao dịch liên quan đến tài sản của con?",
+  "a": "Chỉ cha chịu trách nhiệm.",
+  "b": "Chỉ mẹ chịu trách nhiệm.",
+  "c": "Cha mẹ chịu trách nhiệm liên đới.",
+  "d": "Con tự chịu trách nhiệm.",
+  "answer": "c",
+  "explanation": "Khoản 4 Điều 73 Luật Hôn nhân và gia đình năm 2014 quy định cha, mẹ phải chịu trách nhiệm liên đới về việc thực hiện giao dịch liên quan đến tài sản của con."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, tài sản được hình thành từ tài sản riêng của con là:",
+  "a": "Tài sản chung của gia đình.",
+  "b": "Tài sản của cha mẹ.",
+  "c": "Tài sản riêng của con.",
+  "d": "Tài sản do Tòa án quyết định.",
+  "answer": "c",
+  "explanation": "Khoản 1 Điều 75 Luật Hôn nhân và gia đình năm 2014 quy định tài sản được hình thành từ tài sản riêng của con cũng là tài sản riêng của con."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, cha mẹ không quản lý tài sản riêng của con trong trường hợp nào?",
+  "a": "Con dưới 15 tuổi.",
+  "b": "Con đang được người khác giám hộ.",
+  "c": "Con sống chung với cha mẹ.",
+  "d": "Con chưa có thu nhập.",
+  "answer": "b",
+  "explanation": "Khoản 3 Điều 76 Luật Hôn nhân và gia đình năm 2014 quy định cha mẹ không quản lý tài sản riêng của con trong trường hợp con đang được người khác giám hộ."
+},
+{
+  "question": "Tình huống: Ông A được chỉ định trong di chúc là người quản lý tài sản thừa kế riêng của cháu B. Cha mẹ cháu B yêu cầu trực tiếp quản lý tài sản này. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Cha mẹ luôn có quyền quản lý.",
+  "b": "Người được chỉ định quản lý tài sản có quyền quản lý.",
+  "c": "Ủy ban nhân dân cấp xã quản lý.",
+  "d": "Tòa án tự động giao cho cha quản lý.",
+  "answer": "b",
+  "explanation": "Khoản 3 Điều 76 Luật Hôn nhân và gia đình năm 2014 quy định cha mẹ không quản lý tài sản riêng của con khi người để lại tài sản thừa kế theo di chúc đã chỉ định người khác quản lý tài sản đó."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, khi cha mẹ quản lý tài sản riêng của con dưới 15 tuổi thì việc định đoạt tài sản phải:",
+  "a": "Vì lợi ích của cha mẹ.",
+  "b": "Vì lợi ích của con.",
+  "c": "Theo ý kiến của họ hàng.",
+  "d": "Theo quyết định của chính quyền địa phương.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 77 Luật Hôn nhân và gia đình năm 2014 quy định cha mẹ có quyền định đoạt tài sản riêng của con dưới 15 tuổi vì lợi ích của con."
+},
+{
+  "question": "Tình huống: Bé A 10 tuổi phản đối việc bán chiếc xe đạp là tài sản riêng được tặng cho mình. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Không cần xem xét ý kiến của bé A.",
+  "b": "Phải xem xét nguyện vọng của bé A.",
+  "c": "Chỉ cha có quyền quyết định.",
+  "d": "Chỉ mẹ có quyền quyết định.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 77 Luật Hôn nhân và gia đình năm 2014 quy định nếu con từ đủ 09 tuổi trở lên thì phải xem xét nguyện vọng của con."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, khi việc nuôi con nuôi chấm dứt theo quyết định của Tòa án thì quyền và nghĩa vụ giữa cha mẹ nuôi với con nuôi:",
+  "a": "Vẫn tiếp tục tồn tại.",
+  "b": "Chấm dứt kể từ ngày quyết định có hiệu lực pháp luật.",
+  "c": "Chỉ chấm dứt về tài sản.",
+  "d": "Chỉ chấm dứt khi con đủ 18 tuổi.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 78 Luật Hôn nhân và gia đình năm 2014 quy định quyền, nghĩa vụ của cha nuôi, mẹ nuôi với con nuôi chấm dứt kể từ ngày quyết định của Tòa án có hiệu lực pháp luật."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, quyền và nghĩa vụ giữa cha đẻ, mẹ đẻ với con đẻ được khôi phục khi nào?",
+  "a": "Khi con đủ 18 tuổi.",
+  "b": "Khi cha mẹ nuôi đồng ý.",
+  "c": "Kể từ thời điểm quan hệ nuôi con nuôi chấm dứt.",
+  "d": "Sau 01 năm kể từ khi chấm dứt nuôi con nuôi.",
+  "answer": "c",
+  "explanation": "Khoản 3 Điều 78 Luật Hôn nhân và gia đình năm 2014 quy định quyền, nghĩa vụ giữa cha đẻ, mẹ đẻ và con đẻ được khôi phục kể từ thời điểm quan hệ nuôi con nuôi chấm dứt."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, con riêng của vợ hoặc chồng có nghĩa vụ gì đối với cha dượng, mẹ kế cùng sống chung?",
+  "a": "Không có nghĩa vụ gì.",
+  "b": "Chỉ có nghĩa vụ về tài sản.",
+  "c": "Có quyền và nghĩa vụ chăm sóc, phụng dưỡng.",
+  "d": "Chỉ cần tôn trọng.",
+  "answer": "c",
+  "explanation": "Khoản 2 Điều 79 Luật Hôn nhân và gia đình năm 2014 quy định con riêng có quyền và nghĩa vụ chăm sóc, phụng dưỡng cha dượng, mẹ kế cùng sống chung với mình."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, giữa con dâu, con rể với cha mẹ vợ, cha mẹ chồng sống chung có nghĩa vụ gì?",
+  "a": "Không có quyền, nghĩa vụ gì.",
+  "b": "Có quyền, nghĩa vụ tôn trọng, quan tâm, chăm sóc và giúp đỡ nhau.",
+  "c": "Chỉ có nghĩa vụ cấp dưỡng.",
+  "d": "Chỉ có nghĩa vụ tài sản.",
+  "answer": "b",
+  "explanation": "Điều 80 Luật Hôn nhân và gia đình năm 2014 quy định giữa các bên có quyền, nghĩa vụ tôn trọng, quan tâm, chăm sóc và giúp đỡ nhau."
+},
+{
+  "question": "Tình huống: Sau ly hôn, ông A là người không trực tiếp nuôi con thường xuyên đến gây rối, cản trở việc học tập của con. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Người trực tiếp nuôi con phải chấp nhận.",
+  "b": "Có thể yêu cầu Tòa án hạn chế quyền thăm nom con.",
+  "c": "Không có biện pháp xử lý.",
+  "d": "Chỉ công an mới có quyền xử lý.",
+  "answer": "b",
+  "explanation": "Khoản 3 Điều 82 Luật Hôn nhân và gia đình năm 2014 quy định nếu cha, mẹ không trực tiếp nuôi con lạm dụng việc thăm nom để gây ảnh hưởng xấu thì người trực tiếp nuôi con có quyền yêu cầu Tòa án hạn chế quyền thăm nom."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, nếu cả cha và mẹ đều không đủ điều kiện trực tiếp nuôi con thì:",
+  "a": "Ông bà đương nhiên được nuôi.",
+  "b": "Con được giao cho người giám hộ.",
+  "c": "Nhà trường quản lý.",
+  "d": "Ủy ban nhân dân cấp xã trực tiếp nuôi.",
+  "answer": "b",
+  "explanation": "Khoản 4 Điều 84 Luật Hôn nhân và gia đình năm 2014 quy định nếu cả cha và mẹ đều không đủ điều kiện trực tiếp nuôi con thì Tòa án quyết định giao con cho người giám hộ."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, thời hạn Tòa án có thể hạn chế quyền của cha, mẹ đối với con chưa thành niên là:",
+  "a": "Từ 06 tháng đến 01 năm.",
+  "b": "Từ 01 năm đến 05 năm.",
+  "c": "Từ 05 năm đến 10 năm.",
+  "d": "Không giới hạn thời gian.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 85 Luật Hôn nhân và gia đình năm 2014 quy định thời hạn hạn chế quyền của cha, mẹ đối với con chưa thành niên từ 01 năm đến 05 năm."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, cha mẹ bị hạn chế quyền đối với con chưa thành niên trong trường hợp nào sau đây?",
+  "a": "Có thu nhập thấp.",
+  "b": "Có lối sống đồi trụy.",
+  "c": "Không sống chung với con.",
+  "d": "Đi làm xa.",
+  "answer": "b",
+  "explanation": "Điểm c khoản 1 Điều 85 Luật Hôn nhân và gia đình năm 2014 quy định cha, mẹ có lối sống đồi trụy thì có thể bị hạn chế quyền đối với con chưa thành niên."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, cá nhân, tổ chức nào có quyền yêu cầu Tòa án hạn chế quyền của cha mẹ đối với con chưa thành niên?",
+  "a": "Chỉ công an.",
+  "b": "Chỉ người thân thích.",
+  "c": "Người thân thích, cơ quan quản lý nhà nước về gia đình, trẻ em và Hội liên hiệp phụ nữ.",
+  "d": "Mọi công dân.",
+  "answer": "c",
+  "explanation": "Khoản 2 Điều 86 Luật Hôn nhân và gia đình năm 2014 quy định người thân thích, cơ quan quản lý nhà nước về gia đình, cơ quan quản lý nhà nước về trẻ em và Hội liên hiệp phụ nữ có quyền yêu cầu Tòa án hạn chế quyền của cha mẹ."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, cha mẹ bị hạn chế quyền đối với con chưa thành niên thì còn phải thực hiện nghĩa vụ nào?",
+  "a": "Không còn nghĩa vụ gì.",
+  "b": "Vẫn phải thực hiện nghĩa vụ cấp dưỡng cho con.",
+  "c": "Chỉ cần thăm nom con.",
+  "d": "Chỉ cần hỗ trợ học phí.",
+  "answer": "b",
+  "explanation": "Khoản 3 Điều 87 Luật Hôn nhân và gia đình năm 2014 quy định cha, mẹ đã bị Tòa án hạn chế quyền đối với con chưa thành niên vẫn phải thực hiện nghĩa vụ cấp dưỡng cho con."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, tài sản riêng của con do cha mẹ hoặc người khác quản lý được giao lại cho con khi nào?",
+  "a": "Khi con đủ 10 tuổi.",
+  "b": "Khi con từ đủ 15 tuổi trở lên hoặc khôi phục năng lực hành vi dân sự đầy đủ.",
+  "c": "Khi con kết hôn.",
+  "d": "Khi cha mẹ yêu cầu.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 76 Luật Hôn nhân và gia đình năm 2014 quy định tài sản riêng của con được giao lại cho con khi con từ đủ 15 tuổi trở lên hoặc khi con khôi phục năng lực hành vi dân sự đầy đủ, trừ trường hợp có thỏa thuận khác."
+},
+{
+  "question": "Tình huống: Con của ông A đã đủ 16 tuổi và có tài sản riêng. Người cha yêu cầu tiếp tục quản lý toàn bộ tài sản dù người con không đồng ý. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Cha có quyền quản lý đến khi con đủ 18 tuổi.",
+  "b": "Con từ đủ 15 tuổi có thể tự mình quản lý tài sản riêng.",
+  "c": "Cha mẹ luôn có quyền quản lý tài sản của con.",
+  "d": "Tài sản phải giao cho người giám hộ.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 76 Luật Hôn nhân và gia đình năm 2014 quy định con từ đủ 15 tuổi trở lên có thể tự mình quản lý tài sản riêng hoặc nhờ cha mẹ quản lý."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, con đã thành niên mất năng lực hành vi dân sự thì việc định đoạt tài sản riêng của con do ai thực hiện?",
+  "a": "Cha hoặc mẹ.",
+  "b": "Người giám hộ.",
+  "c": "Anh chị em ruột.",
+  "d": "Ủy ban nhân dân cấp xã.",
+  "answer": "b",
+  "explanation": "Khoản 3 Điều 77 Luật Hôn nhân và gia đình năm 2014 quy định việc định đoạt tài sản riêng của con đã thành niên mất năng lực hành vi dân sự do người giám hộ thực hiện."
+},
+{
+  "question": "Tình huống: Sau khi ly hôn, cha mẹ thống nhất thay đổi người trực tiếp nuôi con từ mẹ sang cha vì phù hợp lợi ích của con. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Không được thay đổi sau ly hôn.",
+  "b": "Được thay đổi nếu phù hợp lợi ích của con.",
+  "c": "Chỉ được thay đổi khi con đủ 18 tuổi.",
+  "d": "Phải chờ đủ 03 năm.",
+  "answer": "b",
+  "explanation": "Điểm a khoản 2 Điều 84 Luật Hôn nhân và gia đình năm 2014 quy định việc thay đổi người trực tiếp nuôi con được giải quyết khi cha mẹ có thỏa thuận phù hợp với lợi ích của con."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, khi thay đổi người trực tiếp nuôi con thì phải xem xét nguyện vọng của con từ đủ bao nhiêu tuổi?",
+  "a": "Đủ 06 tuổi.",
+  "b": "Đủ 07 tuổi.",
+  "c": "Đủ 09 tuổi.",
+  "d": "Đủ 15 tuổi.",
+  "answer": "b",
+  "explanation": "Khoản 3 Điều 84 Luật Hôn nhân và gia đình năm 2014 quy định việc thay đổi người trực tiếp nuôi con phải xem xét nguyện vọng của con từ đủ 07 tuổi trở lên."
+},
+{
+  "question": "Tình huống: Bà A thường xuyên bán tài sản riêng của con chưa thành niên để sử dụng cá nhân. Theo Luật Hôn nhân và gia đình năm 2014, bà A có thể:",
+  "a": "Không bị xử lý vì là mẹ ruột.",
+  "b": "Bị hạn chế quyền đối với con chưa thành niên.",
+  "c": "Chỉ bị nhắc nhở.",
+  "d": "Được quyền toàn bộ với tài sản của con.",
+  "answer": "b",
+  "explanation": "Điểm b khoản 1 Điều 85 Luật Hôn nhân và gia đình năm 2014 quy định cha, mẹ phá tán tài sản của con có thể bị hạn chế quyền đối với con chưa thành niên."
+},
+{
+  "question": "Tình huống: Ông A bị kết án về hành vi cố ý gây thương tích nghiêm trọng cho con chưa thành niên. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Vẫn đương nhiên có đầy đủ quyền với con.",
+  "b": "Có thể bị Tòa án hạn chế quyền đối với con chưa thành niên.",
+  "c": "Chỉ bị xử lý hình sự, không ảnh hưởng quyền với con.",
+  "d": "Mất quyền làm cha vĩnh viễn.",
+  "answer": "b",
+  "explanation": "Điểm a khoản 1 Điều 85 Luật Hôn nhân và gia đình năm 2014 quy định cha, mẹ bị kết án về tội xâm phạm tính mạng, sức khỏe, nhân phẩm, danh dự của con với lỗi cố ý có thể bị hạn chế quyền đối với con chưa thành niên."
+},
+{
+  "question": "Tình huống: Cha mẹ đều bị Tòa án hạn chế quyền đối với con chưa thành niên. Theo Luật Hôn nhân và gia đình năm 2014, việc quản lý tài sản riêng của con được giao cho ai?",
+  "a": "Ông bà nội quản lý đương nhiên.",
+  "b": "Người giám hộ theo quy định pháp luật.",
+  "c": "Ủy ban nhân dân cấp xã quản lý.",
+  "d": "Người con tự quản lý dù chưa thành niên.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 87 Luật Hôn nhân và gia đình năm 2014 quy định trong trường hợp cha và mẹ đều bị hạn chế quyền thì việc quản lý tài sản riêng của con được giao cho người giám hộ."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, cá nhân, cơ quan, tổ chức khác khi phát hiện cha mẹ có hành vi vi phạm quyền đối với con chưa thành niên thì:",
+  "a": "Được trực tiếp ra quyết định hạn chế quyền của cha mẹ.",
+  "b": "Có quyền đề nghị cơ quan, tổ chức có thẩm quyền yêu cầu Tòa án hạn chế quyền của cha mẹ.",
+  "c": "Được tự đưa con đi nơi khác sinh sống.",
+  "d": "Có quyền thay Tòa án quyết định giao con cho người khác nuôi.",
+  "answer": "b",
+  "explanation": "Khoản 3 Điều 86 Luật Hôn nhân và gia đình năm 2014 quy định cá nhân, cơ quan, tổ chức khác có quyền đề nghị cơ quan, tổ chức có thẩm quyền yêu cầu Tòa án hạn chế quyền của cha, mẹ."
+},
+{
+  "question": "Tình huống: Sau ly hôn, ông A không trực tiếp nuôi con nhưng yêu cầu đưa con về sống cùng mình mà không được mẹ đồng ý. Theo Luật Hôn nhân và gia đình năm 2014, ông A:",
+  "a": "Có quyền tự ý đưa con đi.",
+  "b": "Phải tôn trọng quyền của con được sống chung với người trực tiếp nuôi.",
+  "c": "Được quyền quyết định vì là cha ruột.",
+  "d": "Có thể yêu cầu công an cưỡng chế giao con.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 82 Luật Hôn nhân và gia đình năm 2014 quy định cha, mẹ không trực tiếp nuôi con có nghĩa vụ tôn trọng quyền của con được sống chung với người trực tiếp nuôi."
+}, 
+  {
     "question": "Việc trông nom, chăm sóc, nuôi dưỡng, giáo dục con sau khi ly hôn được áp dụng theo quy định tại các điều nào của Luật Hôn nhân và gia đình 2014?",
     "a": "Điều 78, 79, 80, 81",
     "b": "Điều 81, 82, 83, 84",
