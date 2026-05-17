@@ -854,6 +854,303 @@
     "answer": "c",
     "explanation": "Theo điểm c khoản 1 Điều 46 Nghị định 104/2025/NĐ-CP, ảnh được in màu hoặc đen trắng trên giấy A4; nếu dùng giấy in ảnh chuyên dụng thì kích thước tối thiểu là 13x18cm."
   },
+ {
+    "question": "Tình huống: Ông A đang có vợ hợp pháp nhưng chưa ly hôn xong thì chung sống và đăng ký kết hôn với bà B. Khi thực hiện giao dịch công chứng liên quan tài sản hình thành trong thời gian này, ông A xuất trình cả hai giấy đăng ký kết hôn. Công chứng viên nên xử lý như thế nào?",
+    "a": "Tự xác định hôn nhân đầu tiên là hợp pháp và từ chối bà B tham gia giao dịch.",
+    "b": "Tự xác định hôn nhân sau vô hiệu vì vi phạm chế độ một vợ một chồng.",
+    "c": "Yêu cầu cả ba người cùng thỏa thuận về tài sản hoặc hướng dẫn Tòa án giải quyết nếu có tranh chấp.",
+    "d": "Chỉ cần chữ ký của người đứng tên trên giấy chứng nhận quyền sở hữu tài sản.",
+    "answer": "c",
+    "explanation": "Theo hướng dẫn thực tiễn từ Nghị quyết số 01/NQ-HĐTP năm 1988 và nguyên tắc giải quyết tranh chấp hôn nhân, công chứng viên không có thẩm quyền tự xác định hôn nhân nào có hiệu lực hay vô hiệu mà phải yêu cầu các bên thỏa thuận hoặc hướng dẫn yêu cầu Tòa án giải quyết."
+  },
+  {
+    "question": "Theo quy định về hôn nhân thực tế, nam nữ sống chung với nhau như vợ chồng trước ngày 03/01/1987 mà chưa đăng ký kết hôn thì:",
+    "a": "Không được công nhận là vợ chồng.",
+    "b": "Chỉ được công nhận nếu hiện nay đăng ký kết hôn.",
+    "c": "Có thể được công nhận là vợ chồng nếu đủ điều kiện kết hôn.",
+    "d": "Chỉ được công nhận nếu có con chung.",
+    "answer": "c",
+    "explanation": "Theo điểm c.1 Mục 1 Nghị quyết số 02/2000/NQ-HĐTP và hướng dẫn liên quan, nam nữ chung sống như vợ chồng trước ngày 03/01/1987 có thể được công nhận là vợ chồng dù chưa đăng ký kết hôn."
+  },
+  {
+    "question": "Nam nữ sống chung như vợ chồng từ năm 1985, đến năm 2005 mới đăng ký kết hôn. Theo quy định, thời điểm hôn nhân được công nhận là:",
+    "a": "Từ năm 1985.",
+    "b": "Từ năm 2005.",
+    "c": "Từ thời điểm có con chung đầu tiên.",
+    "d": "Từ thời điểm được UBND xác nhận.",
+    "answer": "a",
+    "explanation": "Đối với trường hợp sống chung như vợ chồng trước ngày 03/01/1987, nếu sau này đăng ký kết hôn thì quan hệ hôn nhân được công nhận kể từ ngày bắt đầu chung sống với nhau như vợ chồng."
+  },
+  {
+    "question": "Nam nữ sống chung với nhau như vợ chồng từ năm 1990 nhưng đến tháng 5/2003 mới đăng ký kết hôn. Theo quy định, hôn nhân của họ được công nhận từ thời điểm nào?",
+    "a": "Từ năm 1990.",
+    "b": "Từ tháng 5/2003.",
+    "c": "Từ ngày 01/01/2001.",
+    "d": "Từ ngày có xác nhận của Tòa án.",
+    "answer": "b",
+    "explanation": "Theo Thông tư liên tịch số 01/2001/TTLT-TANDTC-VKSNDTC-BTP, trường hợp sống chung từ ngày 03/01/1987 đến trước 01/01/2001 mà sau ngày 01/01/2003 mới đăng ký kết hôn thì hôn nhân chỉ được công nhận kể từ ngày đăng ký kết hôn."
+  },
+  {
+    "question": "Nam nữ sống chung với nhau như vợ chồng từ năm 1990 và đăng ký kết hôn vào năm 2002. Theo quy định, quan hệ hôn nhân được công nhận từ thời điểm nào?",
+    "a": "Từ năm 1990.",
+    "b": "Từ năm 2002.",
+    "c": "Từ ngày 01/01/2001.",
+    "d": "Từ ngày cấp giấy chứng nhận kết hôn.",
+    "answer": "a",
+    "explanation": "Đối với trường hợp sống chung từ ngày 03/01/1987 đến trước ngày 01/01/2001 mà đăng ký kết hôn trước ngày 01/01/2003 thì hôn nhân được công nhận kể từ ngày bắt đầu sống chung như vợ chồng."
+  },
+  {
+    "question": "Theo quy định và hướng dẫn thực tiễn, dấu hiệu nào dưới đây có thể dùng để xác định nam nữ sống chung với nhau như vợ chồng?",
+    "a": "Có tổ chức lễ cưới.",
+    "b": "Được gia đình chấp thuận.",
+    "c": "Thực tế cùng chung sống, chăm sóc nhau.",
+    "d": "Tất cả các trường hợp trên.",
+    "answer": "d",
+    "explanation": "Theo điểm d Mục 2 Thông tư liên tịch số 01/2001/TTLT-TANDTC-VKSNDTC-BTP, các dấu hiệu như tổ chức lễ cưới, được gia đình chấp thuận, được người khác chứng kiến hoặc thực tế cùng chung sống đều có thể xác định quan hệ sống chung như vợ chồng."
+  },
+  {
+    "question": "Tình huống: Ông A và bà B sống chung như vợ chồng từ năm 1989 nhưng đến năm 2004 mới đăng ký kết hôn. Năm 2000 ông A được cấp giấy chứng nhận quyền sử dụng đất đứng tên riêng. Khi công chứng chuyển nhượng đất, việc xác định tài sản được xử lý như thế nào?",
+    "a": "Đương nhiên là tài sản chung của vợ chồng.",
+    "b": "Đương nhiên là tài sản riêng của ông A.",
+    "c": "Phải xem xét chứng cứ chứng minh nguồn gốc tài sản và thời điểm hôn nhân có hiệu lực.",
+    "d": "Tài sản mặc nhiên vô hiệu do chưa đăng ký kết hôn.",
+    "answer": "c",
+    "explanation": "Do hôn nhân chỉ được công nhận từ năm 2004 nên quyền sử dụng đất được cấp năm 2000 chưa mặc nhiên là tài sản chung. Việc xác định phải căn cứ nguồn gốc tài sản và nguyên tắc chứng minh theo khoản 3 Điều 33 Luật Hôn nhân và gia đình năm 2014."
+  },
+  {
+    "question": "Tình huống: Ông A và bà B sống chung như vợ chồng từ năm 1984, không đăng ký kết hôn nhưng có tổ chức lễ cưới và được hai bên gia đình thừa nhận. Khi công chứng giao dịch tài sản, công chứng viên cần hiểu quan hệ của họ như thế nào?",
+    "a": "Không được pháp luật công nhận vì không đăng ký kết hôn.",
+    "b": "Có thể được công nhận là vợ chồng thực tế.",
+    "c": "Chỉ được công nhận nếu có con chung.",
+    "d": "Chỉ được công nhận nếu UBND cấp xã xác nhận.",
+    "answer": "b",
+    "explanation": "Theo Nghị quyết số 02/2000/NQ-HĐTP, trường hợp nam nữ sống chung như vợ chồng trước ngày 03/01/1987 và đủ điều kiện kết hôn thì có thể được công nhận là vợ chồng dù chưa đăng ký kết hôn."
+  },
+  {
+    "question": "Tình huống: Bà A sống chung với ông B từ năm 1995 nhưng đến nay chưa đăng ký kết hôn. Năm 2026, bà A yêu cầu công chứng hợp đồng chuyển nhượng tài sản và cho rằng tài sản là tài sản chung vợ chồng. Theo quy định:",
+    "a": "Quan hệ vợ chồng mặc nhiên được công nhận.",
+    "b": "Quan hệ vợ chồng chỉ được công nhận nếu có xác nhận của hàng xóm.",
+    "c": "Pháp luật hiện nay không công nhận họ là vợ chồng nếu chưa đăng ký kết hôn.",
+    "d": "Tài sản mặc nhiên là tài sản chung.",
+    "answer": "c",
+    "explanation": "Đối với trường hợp sống chung từ ngày 03/01/1987 đến trước ngày 01/01/2001 mà không đăng ký kết hôn trước ngày 01/01/2003 thì pháp luật không công nhận là vợ chồng."
+  },
+  {
+    "question": "Theo hướng dẫn của Thông tư liên tịch số 01/2001/TTLT-TANDTC-VKSNDTC-BTP, yếu tố nào dưới đây KHÔNG phải là căn cứ xác định nam nữ sống chung như vợ chồng?",
+    "a": "Có tổ chức lễ cưới.",
+    "b": "Được gia đình chấp thuận.",
+    "c": "Có đăng ký tạm trú chung.",
+    "d": "Thực tế cùng chăm sóc, giúp đỡ nhau.",
+    "answer": "c",
+    "explanation": "Thông tư liên tịch số 01/2001/TTLT-TANDTC-VKSNDTC-BTP quy định các căn cứ như tổ chức lễ cưới, được gia đình chấp thuận, được người khác chứng kiến hoặc thực tế chung sống; không quy định đăng ký tạm trú chung là điều kiện bắt buộc."
+  },
+  {
+    "question": "Tình huống: Ông A và bà B sống chung như vợ chồng từ năm 1992. Năm 2002 họ đăng ký kết hôn. Năm 1998 ông A mua một căn nhà. Khi phát sinh tranh chấp, căn nhà được xem xét như thế nào?",
+    "a": "Đương nhiên là tài sản riêng của ông A vì mua trước ngày đăng ký kết hôn.",
+    "b": "Có thể được xác định là tài sản chung do hôn nhân được công nhận từ thời điểm bắt đầu chung sống.",
+    "c": "Đương nhiên là tài sản chung vì tồn tại trong thời kỳ hôn nhân hợp pháp.",
+    "d": "Không được pháp luật bảo vệ.",
+    "answer": "b",
+    "explanation": "Do ông A và bà B đăng ký kết hôn trước ngày 01/01/2003 nên hôn nhân được công nhận từ thời điểm bắt đầu sống chung năm 1992; tài sản hình thành năm 1998 có thể được xác định là tài sản chung nếu không chứng minh được là tài sản riêng."
+  },
+  {
+    "question": "Tình huống: Nam nữ chung sống với nhau như vợ chồng từ năm 1988 nhưng đăng ký kết hôn năm 2005. Khi công chứng viên xác định tài sản hình thành năm 1995, yếu tố nào cần ưu tiên xem xét?",
+    "a": "Ai là người trực tiếp đứng tên tài sản.",
+    "b": "Có tranh chấp hay không.",
+    "c": "Thời điểm hôn nhân có hiệu lực pháp luật.",
+    "d": "Số lượng con chung của hai người.",
+    "answer": "c",
+    "explanation": "Do đăng ký kết hôn sau ngày 01/01/2003 nên hôn nhân chỉ có hiệu lực từ ngày đăng ký năm 2005. Việc xác định tài sản phải ưu tiên xem xét thời điểm hôn nhân có hiệu lực."
+  },
+  {
+    "question": "Trong hoạt động công chứng, khi tiếp nhận hồ sơ của cặp nam nữ sống chung như vợ chồng trước ngày 03/01/1987 nhưng chưa đăng ký kết hôn, công chứng viên có thể hướng dẫn họ:",
+    "a": "Đến Công an cấp huyện xác nhận.",
+    "b": "Đến UBND cấp xã nơi cư trú xác nhận tình trạng chung sống.",
+    "c": "Đến Sở Tư pháp xác nhận tài sản.",
+    "d": "Đến Tòa án xin công nhận tài sản chung.",
+    "answer": "b",
+    "explanation": "Theo thực tiễn áp dụng pháp luật và phân tích của giáo trình Học viện Tư pháp, công chứng viên có thể hướng dẫn các bên đến UBND cấp xã nơi cư trú để xác nhận việc chung sống như vợ chồng."
+  },
+  {
+    "question": "Tình huống: Ông A cho rằng quyền sử dụng đất đứng tên riêng được cấp trong thời kỳ hôn nhân là tài sản riêng do được cha mẹ tặng cho riêng, nhưng không có tài liệu chứng minh. Theo khoản 3 Điều 33 Luật Hôn nhân và gia đình năm 2014:",
+    "a": "Tài sản mặc nhiên là tài sản riêng.",
+    "b": "Tài sản được xác định là tài sản chung.",
+    "c": "Tài sản thuộc sở hữu Nhà nước.",
+    "d": "Tài sản phải chia đôi ngay lập tức.",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 33 Luật Hôn nhân và gia đình năm 2014 quy định nếu không có căn cứ chứng minh là tài sản riêng thì tài sản được coi là tài sản chung của vợ chồng."
+  },
+  {
+    "question": "Tình huống: Một người đàn ông xuất trình hai giấy chứng nhận kết hôn hợp lệ được cấp ở hai thời điểm khác nhau và yêu cầu công chứng giao dịch tài sản. Công chứng viên nên ưu tiên nguyên tắc nào?",
+    "a": "Ưu tiên người kết hôn trước.",
+    "b": "Ưu tiên người hiện đang chung sống.",
+    "c": "Không tự xác định hiệu lực hôn nhân mà yêu cầu làm rõ bằng thỏa thuận hoặc quyết định của Tòa án.",
+    "d": "Ưu tiên người có con chung.",
+    "answer": "c",
+    "explanation": "Công chứng viên không có thẩm quyền tuyên bố hôn nhân vô hiệu hoặc xác định hôn nhân hợp pháp trong trường hợp tranh chấp phức tạp; cần yêu cầu các bên thỏa thuận hoặc có quyết định của Tòa án."
+  },
+  {
+    "question": "Theo quy định chuyển tiếp về hôn nhân thực tế, trường hợp nam nữ sống chung từ năm 1998 nhưng đến nay chưa đăng ký kết hôn thì:",
+    "a": "Quan hệ vợ chồng vẫn được pháp luật công nhận.",
+    "b": "Chỉ được công nhận nếu có tài sản chung.",
+    "c": "Không được công nhận là vợ chồng.",
+    "d": "Được công nhận nếu có xác nhận của tổ dân phố.",
+    "answer": "c",
+    "explanation": "Đối với trường hợp sống chung từ ngày 03/01/1987 đến trước ngày 01/01/2001 mà không đăng ký kết hôn trước ngày 01/01/2003 thì pháp luật không công nhận là vợ chồng."
+  },
+  {
+    "question": "Ý nghĩa quan trọng nhất của việc xác định chính xác thời điểm hôn nhân có hiệu lực trong hoạt động công chứng là gì?",
+    "a": "Để xác định thẩm quyền công chứng.",
+    "b": "Để xác định thời hiệu khởi kiện.",
+    "c": "Để xác định tài sản là chung hay riêng của vợ chồng.",
+    "d": "Để xác định nơi cư trú của các bên.",
+    "answer": "c",
+    "explanation": "Thời điểm hôn nhân có hiệu lực ảnh hưởng trực tiếp đến việc xác định tài sản được hình thành trong thời kỳ hôn nhân là tài sản chung hay tài sản riêng."
+  },
+  {
+    "question": "Theo khoản 3 Điều 33 Luật Hôn nhân và gia đình năm 2014, khi không có căn cứ chứng minh tài sản mà vợ hoặc chồng đang tranh chấp là tài sản riêng thì:",
+    "a": "Được xác định là tài sản của người đứng tên.",
+    "b": "Được xác định là tài sản chung.",
+    "c": "Được chia đôi mặc nhiên.",
+    "d": "Thuộc quyền quyết định của công chứng viên.",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 33 Luật Hôn nhân và gia đình năm 2014 quy định: trong trường hợp không có căn cứ chứng minh tài sản là tài sản riêng thì tài sản đó được coi là tài sản chung của vợ chồng."
+  },
+  {
+    "question": "Trong trường hợp hồ sơ công chứng có tranh chấp phức tạp về việc ai là vợ hợp pháp, công chứng viên có quyền nào sau đây?",
+    "a": "Tự tuyên bố hôn nhân vô hiệu.",
+    "b": "Tự xác định người vợ hợp pháp để giao dịch.",
+    "c": "Hướng dẫn các bên yêu cầu Tòa án giải quyết.",
+    "d": "Từ chối mọi giao dịch liên quan đến tài sản.",
+    "answer": "c",
+    "explanation": "Công chứng viên không có thẩm quyền xét xử hoặc tuyên bố hôn nhân vô hiệu. Khi có tranh chấp phức tạp về quan hệ hôn nhân, công chứng viên phải hướng dẫn các bên yêu cầu Tòa án giải quyết."
+  },
+  {
+    "question": "Mốc thời gian 01/01/2003 có ý nghĩa pháp lý nào đối với quan hệ nam nữ sống chung như vợ chồng từ ngày 03/01/1987 đến trước ngày 01/01/2001?",
+    "a": "Là thời điểm bắt đầu công nhận hôn nhân thực tế.",
+    "b": "Là thời điểm chấm dứt việc công nhận hồi tố nếu chưa đăng ký kết hôn.",
+    "c": "Là thời điểm bắt buộc ly hôn.",
+    "d": "Là thời điểm chuyển toàn bộ tài sản thành tài sản chung.",
+    "answer": "b",
+    "explanation": "Đối với trường hợp sống chung từ ngày 03/01/1987 đến trước ngày 01/01/2001, nếu sau ngày 01/01/2003 mới đăng ký kết hôn thì hôn nhân chỉ được công nhận từ ngày đăng ký mà không được công nhận hồi tố."
+  },
+  {
+     "question": "Theo nguyên tắc áp dụng văn bản quy phạm pháp luật về thời gian, phát biểu nào sau đây là đúng?",
+    "a": "Văn bản quy phạm pháp luật luôn được áp dụng hồi tố.",
+    "b": "Văn bản quy phạm pháp luật chỉ áp dụng đối với hành vi phát sinh từ thời điểm văn bản có hiệu lực, trừ trường hợp quy định rõ hiệu lực trở về trước.",
+    "c": "Mọi văn bản mới đều áp dụng cho hành vi chưa xét xử.",
+    "d": "Chỉ luật hình sự mới có hiệu lực hồi tố.",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 53 Luật Ban hành văn bản quy phạm pháp luật năm 2025:\n\n\"1. Văn bản quy phạm pháp luật phải quy định cụ thể thời điểm có hiệu lực.\n2. Văn bản quy phạm pháp luật được áp dụng từ thời điểm có hiệu lực thi hành.\" \n\nNguyên tắc chung là văn bản chỉ áp dụng từ thời điểm có hiệu lực, trừ trường hợp luật quy định hiệu lực trở về trước."
+  },
+  {
+    "question": "Theo nguyên tắc áp dụng văn bản quy phạm pháp luật về thời gian, phát biểu nào sau đây là đúng?",
+    "a": "Văn bản quy phạm pháp luật luôn được áp dụng hồi tố.",
+    "b": "Văn bản quy phạm pháp luật được áp dụng từ thời điểm có hiệu lực, trừ trường hợp quy định hiệu lực trở về trước.",
+    "c": "Mọi văn bản mới đều áp dụng cho hành vi chưa xét xử.",
+    "d": "Chỉ luật hình sự mới có hiệu lực hồi tố.",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 53 Luật Ban hành văn bản quy phạm pháp luật năm 2025:\n\n\"1. Văn bản quy phạm pháp luật phải quy định cụ thể thời điểm có hiệu lực.\n2. Văn bản quy phạm pháp luật được áp dụng từ thời điểm có hiệu lực thi hành.\" \n\nNguyên tắc chung là văn bản chỉ áp dụng kể từ thời điểm có hiệu lực, trừ trường hợp có quy định hiệu lực trở về trước."
+  },
+  {
+    "question": "Theo nguyên tắc chung của pháp luật Việt Nam, trường hợp nào sau đây KHÔNG được quy định hiệu lực trở về trước?",
+    "a": "Quy định miễn trách nhiệm pháp lý.",
+    "b": "Quy định giảm trách nhiệm pháp lý.",
+    "c": "Quy định làm phát sinh trách nhiệm pháp lý mới hoặc trách nhiệm nặng hơn.",
+    "d": "Quy định có lợi cho cá nhân, tổ chức.",
+    "answer": "c",
+    "explanation": "Theo nguyên tắc áp dụng pháp luật về thời gian và hiệu lực trở về trước, văn bản không được quy định hồi tố nếu làm phát sinh trách nhiệm pháp lý mới hoặc quy định trách nhiệm pháp lý nặng hơn đối với cá nhân, tổ chức."
+  },
+  {
+    "question": "Theo khoản 3 Điều 7 Bộ luật Hình sự năm 2015, quy định nào sau đây được áp dụng hồi tố?",
+    "a": "Quy định tăng hình phạt.",
+    "b": "Quy định bổ sung tội danh mới.",
+    "c": "Quy định giảm hình phạt hoặc xóa bỏ tội phạm.",
+    "d": "Quy định bổ sung tình tiết tăng nặng.",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 7 Bộ luật Hình sự năm 2015 quy định:\n\n\"Điều luật xóa bỏ một tội phạm, một hình phạt, giảm hình phạt, giảm nhẹ trách nhiệm hình sự... thì được áp dụng đối với hành vi phạm tội đã thực hiện trước khi điều luật đó có hiệu lực thi hành.\" \n\nDo đó chỉ quy định có lợi cho người phạm tội mới được áp dụng hồi tố."
+  },
+  {
+    "question": "Tình huống: Ông A thực hiện hành vi phạm tội năm 2022. Năm 2025 luật mới bỏ tội danh này. Khi xét xử năm 2026, Tòa án áp dụng như thế nào?",
+    "a": "Áp dụng luật cũ vì hành vi xảy ra trước.",
+    "b": "Áp dụng luật mới do có lợi cho người phạm tội.",
+    "c": "Áp dụng đồng thời cả hai luật.",
+    "d": "Không áp dụng luật mới.",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 7 Bộ luật Hình sự năm 2015 quy định:\n\n\"Điều luật xóa bỏ một tội phạm... thì được áp dụng đối với hành vi phạm tội đã thực hiện trước khi điều luật đó có hiệu lực thi hành.\" \n\nDo luật mới đã bỏ tội danh nên được áp dụng hồi tố theo hướng có lợi."
+  },
+  {
+    "question": "Theo khoản 1 Điều 5 Luật Xử lý vi phạm hành chính năm 2012, nguyên tắc áp dụng pháp luật đối với hành vi vi phạm hành chính là:",
+    "a": "Áp dụng văn bản có hiệu lực tại thời điểm xử phạt.",
+    "b": "Áp dụng văn bản mới nhất.",
+    "c": "Áp dụng văn bản có hiệu lực tại thời điểm thực hiện hành vi vi phạm.",
+    "d": "Áp dụng văn bản do cơ quan xử phạt lựa chọn.",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 5 Luật Xử lý vi phạm hành chính năm 2012 quy định:\n\n\"Đối với hành vi vi phạm hành chính thì áp dụng quy định của pháp luật có hiệu lực tại thời điểm thực hiện hành vi vi phạm.\""
+  },
+  {
+    "question": "Tình huống: Năm 2024 mức phạt hành vi X là 10 triệu đồng. Năm 2026 mức phạt tăng lên 20 triệu đồng. Ông A thực hiện hành vi X năm 2025 và bị xử phạt năm 2026. Mức phạt nào được áp dụng?",
+    "a": "20 triệu đồng vì xử phạt sau khi luật mới có hiệu lực.",
+    "b": "10 triệu đồng theo quy định tại thời điểm thực hiện hành vi.",
+    "c": "Mức nào cao hơn thì áp dụng.",
+    "d": "Do người có thẩm quyền lựa chọn.",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 5 Luật Xử lý vi phạm hành chính năm 2012 quy định:\n\n\"Đối với hành vi vi phạm hành chính thì áp dụng quy định của pháp luật có hiệu lực tại thời điểm thực hiện hành vi vi phạm.\" \n\nDo hành vi thực hiện năm 2025 nên áp dụng mức phạt 10 triệu đồng."
+  },
+  {
+    "question": "Theo khoản 1 Điều 5 Luật Xử lý vi phạm hành chính năm 2012, trường hợp nào được áp dụng văn bản mới?",
+    "a": "Văn bản mới quy định trách nhiệm nặng hơn.",
+    "b": "Văn bản mới bổ sung hành vi vi phạm.",
+    "c": "Văn bản mới không quy định trách nhiệm pháp lý hoặc quy định trách nhiệm nhẹ hơn.",
+    "d": "Mọi trường hợp đều áp dụng văn bản mới.",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 5 Luật Xử lý vi phạm hành chính năm 2012 quy định:\n\n\"Trường hợp văn bản quy phạm pháp luật mới không quy định trách nhiệm pháp lý hoặc quy định trách nhiệm pháp lý nhẹ hơn đối với hành vi xảy ra trước ngày văn bản có hiệu lực thì áp dụng văn bản mới.\""
+  },
+  {
+    "question": "Nam nữ sống chung với nhau như vợ chồng trước ngày 03/01/1987 mà chưa đăng ký kết hôn thì được xử lý như thế nào?",
+    "a": "Không được công nhận là vợ chồng.",
+    "b": "Được công nhận là vợ chồng nếu đủ điều kiện kết hôn.",
+    "c": "Chỉ được công nhận nếu có con chung.",
+    "d": "Chỉ được công nhận nếu đăng ký kết hôn trước năm 2000.",
+    "answer": "b",
+    "explanation": "Điểm c.1 Mục 1 Nghị quyết số 02/2000/NQ-HĐTP ngày 23/12/2000 quy định:\n\n\"Trong trường hợp quan hệ vợ chồng được xác lập trước ngày 03/01/1987... mà chưa đăng ký kết hôn thì được khuyến khích đăng ký kết hôn; nếu có yêu cầu ly hôn thì được Tòa án thụ lý giải quyết theo quy định về ly hôn của Luật Hôn nhân và gia đình năm 2000.\""
+  },
+  {
+    "question": "Tình huống: Ông A và bà B sống chung như vợ chồng từ năm 1990 nhưng đến năm 2004 mới đăng ký kết hôn. Theo quy định, hôn nhân của họ được công nhận từ thời điểm nào?",
+    "a": "Từ năm 1990.",
+    "b": "Từ năm 2000.",
+    "c": "Từ năm 2004.",
+    "d": "Từ ngày có con chung.",
+    "answer": "c",
+    "explanation": "Điểm 2 Thông tư liên tịch số 01/2001/TTLT-TANDTC-VKSNDTC-BTP quy định:\n\n\"Kể từ ngày 01/01/2003 trở đi mà họ mới đăng ký kết hôn thì quan hệ hôn nhân chỉ được công nhận kể từ ngày đăng ký kết hôn.\" \n\nDo đăng ký năm 2004 nên hôn nhân có hiệu lực từ năm 2004."
+  },
+  {
+    "question": "Tình huống: Ông A và bà B sống chung như vợ chồng từ năm 1990 và đăng ký kết hôn năm 2002. Theo quy định, hôn nhân được công nhận từ thời điểm nào?",
+    "a": "Từ năm 1990.",
+    "b": "Từ năm 2002.",
+    "c": "Từ ngày cấp giấy chứng nhận kết hôn.",
+    "d": "Từ ngày có tài sản chung.",
+    "answer": "a",
+    "explanation": "Điểm 3 Nghị quyết số 35/2000/QH10 và điểm 2 Thông tư liên tịch số 01/2001/TTLT-TANDTC-VKSNDTC-BTP quy định:\n\nNam nữ sống chung với nhau như vợ chồng từ ngày 03/01/1987 đến trước ngày 01/01/2001 mà đăng ký kết hôn trong thời hạn từ ngày 01/01/2001 đến ngày 01/01/2003 thì quan hệ hôn nhân được công nhận kể từ ngày xác lập quan hệ chung sống như vợ chồng."
+  },
+  {
+    "question": "Tình huống: Ông A và bà B sống chung như vợ chồng từ năm 1985, đến năm 2010 mới đăng ký kết hôn. Theo quy định, thời điểm hôn nhân được công nhận là:",
+    "a": "Năm 1985.",
+    "b": "Năm 2000.",
+    "c": "Năm 2010.",
+    "d": "Ngày cấp giấy chứng nhận kết hôn.",
+    "answer": "a",
+    "explanation": "Điểm c.1 Mục 1 Nghị quyết số 02/2000/NQ-HĐTP và điểm 1 Thông tư liên tịch số 01/2001/TTLT-TANDTC-VKSNDTC-BTP quy định:\n\nĐối với quan hệ vợ chồng được xác lập trước ngày 03/01/1987 thì nếu sau này đăng ký kết hôn, quan hệ hôn nhân vẫn được công nhận kể từ ngày bắt đầu chung sống như vợ chồng."
+  },
+  {
+    "question": "Tình huống: Ông A cho rằng quyền sử dụng đất được cấp trong thời kỳ hôn nhân là tài sản riêng do được tặng cho riêng nhưng không xuất trình được chứng cứ. Theo quy định, tài sản được xác định như thế nào?",
+    "a": "Là tài sản riêng của ông A.",
+    "b": "Là tài sản chung của vợ chồng.",
+    "c": "Thuộc người đứng tên giấy chứng nhận.",
+    "d": "Do công chứng viên quyết định.",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 33 Luật Hôn nhân và gia đình năm 2014 quy định:\n\n\"Trong trường hợp không có căn cứ để chứng minh tài sản mà vợ, chồng đang có tranh chấp là tài sản riêng của mỗi bên thì tài sản đó được coi là tài sản chung.\" \n\nDo ông A không chứng minh được tài sản riêng nên tài sản được suy đoán là tài sản chung."
+  },
   {
     "question": "Trường hợp điểm chỉ thay cho ký thì việc chụp ảnh được thực hiện như thế nào?",
     "a": "Không bắt buộc chụp ảnh",
