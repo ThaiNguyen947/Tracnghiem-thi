@@ -1,5 +1,383 @@
 [ 
  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, trong quan hệ hôn nhân và gia đình có yếu tố nước ngoài, người nước ngoài tại Việt Nam có quyền và nghĩa vụ như thế nào?",
+    "a": "Không có quyền như công dân Việt Nam.",
+    "b": "Chỉ có quyền về nhân thân.",
+    "c": "Có quyền, nghĩa vụ như công dân Việt Nam, trừ trường hợp pháp luật Việt Nam quy định khác.",
+    "d": "Chỉ được hưởng quyền nếu thường trú tại Việt Nam.",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 121 Luật Hôn nhân và gia đình năm 2014 quy định: \"Trong quan hệ hôn nhân và gia đình với công dân Việt Nam, người nước ngoài tại Việt Nam có các quyền, nghĩa vụ như công dân Việt Nam, trừ trường hợp pháp luật Việt Nam có quy định khác.\""
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, khi điều ước quốc tế mà Việt Nam là thành viên có quy định khác với Luật Hôn nhân và gia đình thì áp dụng quy định nào?",
+    "a": "Áp dụng Luật Hôn nhân và gia đình Việt Nam.",
+    "b": "Áp dụng điều ước quốc tế.",
+    "c": "Áp dụng tập quán quốc tế.",
+    "d": "Do Tòa án lựa chọn.",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 122 Luật Hôn nhân và gia đình năm 2014 quy định: \"Trong trường hợp điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác với quy định của Luật này thì áp dụng quy định của điều ước quốc tế đó.\""
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, pháp luật nước ngoài được áp dụng khi nào?",
+    "a": "Khi các bên tự thỏa thuận.",
+    "b": "Khi pháp luật Việt Nam dẫn chiếu áp dụng và không trái nguyên tắc cơ bản của pháp luật Việt Nam.",
+    "c": "Mọi trường hợp có yếu tố nước ngoài.",
+    "d": "Chỉ khi Tòa án nước ngoài yêu cầu.",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 122 Luật Hôn nhân và gia đình năm 2014 quy định pháp luật nước ngoài được áp dụng nếu pháp luật Việt Nam có dẫn chiếu và việc áp dụng đó không trái với các nguyên tắc cơ bản của pháp luật Việt Nam."
+  },
+  {
+    "question": "Tình huống: Pháp luật nước ngoài được dẫn chiếu áp dụng nhưng lại dẫn chiếu trở lại pháp luật Việt Nam. Theo quy định, pháp luật nào được áp dụng?",
+    "a": "Pháp luật nước ngoài.",
+    "b": "Pháp luật của nước thứ ba.",
+    "c": "Pháp luật Việt Nam.",
+    "d": "Theo lựa chọn của các bên.",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 122 Luật Hôn nhân và gia đình năm 2014 quy định: \"Trong trường hợp pháp luật nước ngoài dẫn chiếu trở lại pháp luật Việt Nam thì áp dụng pháp luật về hôn nhân và gia đình Việt Nam.\""
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, giấy tờ do cơ quan có thẩm quyền của nước ngoài cấp để sử dụng giải quyết việc hôn nhân gia đình tại Việt Nam thì:",
+    "a": "Không cần hợp pháp hóa lãnh sự.",
+    "b": "Phải hợp pháp hóa lãnh sự, trừ trường hợp được miễn.",
+    "c": "Chỉ cần dịch thuật.",
+    "d": "Chỉ cần chứng thực chữ ký.",
+    "answer": "b",
+    "explanation": "Điều 124 Luật Hôn nhân và gia đình năm 2014 quy định giấy tờ do cơ quan có thẩm quyền của nước ngoài lập, cấp hoặc xác nhận phải được hợp pháp hóa lãnh sự, trừ trường hợp được miễn theo điều ước quốc tế hoặc nguyên tắc có đi có lại."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, trong việc kết hôn giữa công dân Việt Nam với người nước ngoài, mỗi bên phải tuân theo:",
+    "a": "Pháp luật Việt Nam.",
+    "b": "Pháp luật nước nơi đăng ký kết hôn.",
+    "c": "Pháp luật của nước mình về điều kiện kết hôn.",
+    "d": "Tập quán quốc tế.",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 126 Luật Hôn nhân và gia đình năm 2014 quy định: \"Mỗi bên phải tuân theo pháp luật của nước mình về điều kiện kết hôn.\""
+  },
+  {
+    "question": "Tình huống: Một công dân Pháp kết hôn với công dân Việt Nam tại cơ quan có thẩm quyền của Việt Nam. Ngoài việc tuân theo pháp luật nước mình, công dân Pháp còn phải:",
+    "a": "Tuân theo pháp luật của Pháp về ly hôn.",
+    "b": "Tuân theo điều kiện kết hôn của Luật Hôn nhân và gia đình Việt Nam.",
+    "c": "Có quốc tịch Việt Nam.",
+    "d": "Có hộ khẩu tại Việt Nam.",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 126 Luật Hôn nhân và gia đình năm 2014 quy định: \"Nếu việc kết hôn được tiến hành tại cơ quan nhà nước có thẩm quyền của Việt Nam thì người nước ngoài còn phải tuân theo các quy định của Luật này về điều kiện kết hôn.\""
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, việc ly hôn giữa công dân Việt Nam với người nước ngoài được giải quyết tại:",
+    "a": "Tòa án nước ngoài.",
+    "b": "Cơ quan có thẩm quyền của Việt Nam theo quy định của Luật này.",
+    "c": "UBND cấp xã.",
+    "d": "Cơ quan lãnh sự.",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 127 Luật Hôn nhân và gia đình năm 2014 quy định việc ly hôn giữa công dân Việt Nam với người nước ngoài được giải quyết tại cơ quan có thẩm quyền của Việt Nam theo quy định của Luật này."
+  },
+  {
+    "question": "Tình huống: Vợ chồng gồm một công dân Việt Nam và một người nước ngoài ly hôn, có bất động sản tại Nhật Bản. Theo quy định, việc giải quyết bất động sản này tuân theo:",
+    "a": "Pháp luật Việt Nam.",
+    "b": "Pháp luật Nhật Bản.",
+    "c": "Theo thỏa thuận của vợ chồng.",
+    "d": "Theo điều ước quốc tế bất kỳ.",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 127 Luật Hôn nhân và gia đình năm 2014 quy định: \"Việc giải quyết tài sản là bất động sản ở nước ngoài khi ly hôn tuân theo pháp luật của nước nơi có bất động sản đó.\""
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, cơ quan đăng ký hộ tịch Việt Nam có thẩm quyền xác định cha, mẹ, con có yếu tố nước ngoài khi nào?",
+    "a": "Khi có tranh chấp.",
+    "b": "Khi không có tranh chấp.",
+    "c": "Chỉ khi người nước ngoài cư trú tại Việt Nam.",
+    "d": "Chỉ khi có quyết định của Tòa án.",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 128 Luật Hôn nhân và gia đình năm 2014 quy định cơ quan đăng ký hộ tịch Việt Nam có thẩm quyền giải quyết việc xác định cha, mẹ, con mà không có tranh chấp."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, nghĩa vụ cấp dưỡng có yếu tố nước ngoài tuân theo pháp luật của nước nào?",
+    "a": "Nước nơi người có nghĩa vụ cấp dưỡng cư trú.",
+    "b": "Nước nơi người yêu cầu cấp dưỡng cư trú.",
+    "c": "Nước nơi đăng ký kết hôn.",
+    "d": "Nước nơi có tài sản.",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 129 Luật Hôn nhân và gia đình năm 2014 quy định: \"Nghĩa vụ cấp dưỡng tuân theo pháp luật của nước nơi người yêu cầu cấp dưỡng cư trú.\""
+  },
+  {
+    "question": "Tình huống: Chị A là công dân Việt Nam cư trú tại Hàn Quốc yêu cầu cấp dưỡng từ chồng cũ. Theo quy định, cơ quan có thẩm quyền giải quyết đơn yêu cầu cấp dưỡng là:",
+    "a": "Cơ quan của Việt Nam.",
+    "b": "Cơ quan của nước nơi người yêu cầu cấp dưỡng cư trú.",
+    "c": "UBND cấp tỉnh tại Việt Nam.",
+    "d": "Cơ quan của nước nơi người chồng cư trú.",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 129 Luật Hôn nhân và gia đình năm 2014 quy định cơ quan có thẩm quyền giải quyết đơn yêu cầu cấp dưỡng là cơ quan của nước nơi người yêu cầu cấp dưỡng cư trú."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, quan hệ hôn nhân và gia đình được xác lập trước ngày Luật này có hiệu lực thì áp dụng pháp luật nào để giải quyết?",
+    "a": "Luật Hôn nhân và gia đình năm 2014.",
+    "b": "Pháp luật tại thời điểm giải quyết.",
+    "c": "Pháp luật tại thời điểm xác lập quan hệ.",
+    "d": "Theo lựa chọn của Tòa án.",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 131 Luật Hôn nhân và gia đình năm 2014 quy định: \"Quan hệ hôn nhân và gia đình được xác lập trước ngày Luật này có hiệu lực thì áp dụng pháp luật về hôn nhân và gia đình tại thời điểm xác lập để giải quyết.\""
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, Luật này có hiệu lực thi hành từ thời điểm nào?",
+    "a": "01/01/2014.",
+    "b": "01/07/2014.",
+    "c": "01/01/2015.",
+    "d": "19/06/2014.",
+    "answer": "c",
+    "explanation": "Điều 132 Luật Hôn nhân và gia đình năm 2014 quy định: \"Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2015.\""
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, Luật Hôn nhân và gia đình số 22/2000/QH10 hết hiệu lực từ thời điểm nào?",
+    "a": "Ngày 19/06/2014.",
+    "b": "Ngày 01/01/2015.",
+    "c": "Ngày 01/07/2015.",
+    "d": "Ngày ban hành nghị định hướng dẫn.",
+    "answer": "b",
+    "explanation": "Điều 132 Luật Hôn nhân và gia đình năm 2014 quy định: \"Luật hôn nhân và gia đình số 22/2000/QH10 hết hiệu lực kể từ ngày Luật này có hiệu lực.\""
+  },
+  {
+    "question": "Tình huống: Một vụ án hôn nhân gia đình đã được Tòa án thụ lý trước ngày Luật Hôn nhân và gia đình năm 2014 có hiệu lực nhưng chưa giải quyết. Theo quy định, thủ tục giải quyết áp dụng theo:",
+    "a": "Luật cũ.",
+    "b": "Luật mới năm 2014.",
+    "c": "Do đương sự lựa chọn.",
+    "d": "Do Tòa án quyết định.",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 131 Luật Hôn nhân và gia đình năm 2014 quy định: \"Đối với vụ việc về hôn nhân và gia đình do Tòa án thụ lý trước ngày Luật này có hiệu lực mà chưa giải quyết thì áp dụng thủ tục theo quy định của Luật này.\""
+  },
+  {
+    "question": "Theo Luật Hôn nhân và gia đình năm 2014, việc áp dụng pháp luật nước ngoài sẽ không được thực hiện nếu:",
+    "a": "Không có điều ước quốc tế.",
+    "b": "Các bên không đồng ý.",
+    "c": "Trái với các nguyên tắc cơ bản của pháp luật Việt Nam.",
+    "d": "Người nước ngoài cư trú tại Việt Nam.",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 122 Luật Hôn nhân và gia đình năm 2014 quy định pháp luật nước ngoài chỉ được áp dụng nếu việc áp dụng đó không trái với các nguyên tắc cơ bản được quy định tại Điều 2 của Luật này."
+  },
+  {
+    "question": "Tình huống: Hai người nước ngoài thường trú tại Việt Nam đăng ký kết hôn tại cơ quan có thẩm quyền của Việt Nam. Theo quy định, họ phải tuân theo:",
+    "a": "Chỉ pháp luật nước họ mang quốc tịch.",
+    "b": "Chỉ tập quán quốc tế.",
+    "c": "Các quy định của Luật Hôn nhân và gia đình Việt Nam về điều kiện kết hôn.",
+    "d": "Pháp luật của nước thứ ba.",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 126 Luật Hôn nhân và gia đình năm 2014 quy định: \"Việc kết hôn giữa những người nước ngoài thường trú ở Việt Nam tại cơ quan có thẩm quyền của Việt Nam phải tuân theo các quy định của Luật này về điều kiện kết hôn.\""
+  },
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, trong quan hệ hôn nhân và gia đình có yếu tố nước ngoài, người nước ngoài tại Việt Nam có quyền và nghĩa vụ như thế nào?",
+  "a": "Chỉ có quyền, không có nghĩa vụ như công dân Việt Nam.",
+  "b": "Có quyền, nghĩa vụ như công dân Việt Nam, trừ trường hợp pháp luật Việt Nam có quy định khác.",
+  "c": "Chỉ được áp dụng pháp luật của nước họ.",
+  "d": "Chỉ được hưởng quyền về nhân thân.",
+  "answer": "b",
+  "explanation": "Căn cứ khoản 2 Điều 121 Luật Hôn nhân và gia đình năm 2014: \"Trong quan hệ hôn nhân và gia đình với công dân Việt Nam, người nước ngoài tại Việt Nam có các quyền, nghĩa vụ như công dân Việt Nam, trừ trường hợp pháp luật Việt Nam có quy định khác.\""
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, khi điều ước quốc tế mà Việt Nam là thành viên có quy định khác với Luật này thì:",
+  "a": "Ưu tiên áp dụng Luật Hôn nhân và gia đình.",
+  "b": "Ưu tiên áp dụng Bộ luật dân sự.",
+  "c": "Ưu tiên áp dụng điều ước quốc tế.",
+  "d": "Do Tòa án tự lựa chọn.",
+  "answer": "c",
+  "explanation": "Căn cứ khoản 1 Điều 122 Luật Hôn nhân và gia đình năm 2014: \"Trong trường hợp điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác với quy định của Luật này thì áp dụng quy định của điều ước quốc tế đó.\""
+},
+{
+  "question": "Tình huống: Pháp luật nước ngoài được dẫn chiếu áp dụng nhưng nội dung trái với nguyên tắc cơ bản của chế độ hôn nhân và gia đình Việt Nam. Theo quy định:",
+  "a": "Vẫn phải áp dụng pháp luật nước ngoài.",
+  "b": "Áp dụng tập quán quốc tế.",
+  "c": "Không áp dụng pháp luật nước ngoài đó.",
+  "d": "Áp dụng nếu các bên đồng ý.",
+  "answer": "c",
+  "explanation": "Căn cứ khoản 2 Điều 122 Luật Hôn nhân và gia đình năm 2014: \"Pháp luật nước ngoài được áp dụng, nếu việc áp dụng đó không trái với các nguyên tắc cơ bản được quy định tại Điều 2 của Luật này.\""
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, giấy tờ về hôn nhân và gia đình do cơ quan nước ngoài cấp muốn sử dụng tại Việt Nam thì:",
+  "a": "Không cần thủ tục gì.",
+  "b": "Chỉ cần dịch thuật.",
+  "c": "Phải hợp pháp hóa lãnh sự, trừ trường hợp được miễn.",
+  "d": "Chỉ cần xác nhận của địa phương.",
+  "answer": "c",
+  "explanation": "Căn cứ Điều 124 Luật Hôn nhân và gia đình năm 2014: \"Giấy tờ do cơ quan có thẩm quyền của nước ngoài lập, cấp hoặc xác nhận... phải được hợp pháp hóa lãnh sự, trừ trường hợp được miễn hợp pháp hóa lãnh sự...\""
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, khi công dân Việt Nam kết hôn với người nước ngoài tại cơ quan có thẩm quyền của Việt Nam thì người nước ngoài:",
+  "a": "Chỉ tuân theo pháp luật nước mình.",
+  "b": "Không cần đáp ứng điều kiện kết hôn của Việt Nam.",
+  "c": "Phải tuân theo pháp luật nước mình và điều kiện kết hôn của Luật Việt Nam.",
+  "d": "Chỉ cần đủ tuổi kết hôn.",
+  "answer": "c",
+  "explanation": "Căn cứ khoản 1 Điều 126 Luật Hôn nhân và gia đình năm 2014: \"Nếu việc kết hôn được tiến hành tại cơ quan nhà nước có thẩm quyền của Việt Nam thì người nước ngoài còn phải tuân theo các quy định của Luật này về điều kiện kết hôn.\""
+},
+{
+  "question": "Tình huống: Hai người nước ngoài thường trú tại Việt Nam đăng ký kết hôn tại cơ quan có thẩm quyền của Việt Nam. Điều kiện kết hôn được áp dụng theo:",
+  "a": "Pháp luật nước nơi họ mang quốc tịch.",
+  "b": "Pháp luật Việt Nam.",
+  "c": "Do hai bên lựa chọn.",
+  "d": "Tập quán quốc tế.",
+  "answer": "b",
+  "explanation": "Căn cứ khoản 2 Điều 126 Luật Hôn nhân và gia đình năm 2014: \"Việc kết hôn giữa những người nước ngoài thường trú ở Việt Nam tại cơ quan có thẩm quyền của Việt Nam phải tuân theo các quy định của Luật này về điều kiện kết hôn.\""
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, việc giải quyết tài sản là bất động sản ở nước ngoài khi ly hôn được áp dụng theo:",
+  "a": "Pháp luật Việt Nam.",
+  "b": "Pháp luật nơi thường trú của vợ chồng.",
+  "c": "Pháp luật của nước nơi có bất động sản.",
+  "d": "Do các bên thỏa thuận.",
+  "answer": "c",
+  "explanation": "Căn cứ khoản 3 Điều 127 Luật Hôn nhân và gia đình năm 2014: \"Việc giải quyết tài sản là bất động sản ở nước ngoài khi ly hôn tuân theo pháp luật của nước nơi có bất động sản đó.\""
+},
+{
+  "question": "Tình huống: Vợ chồng là công dân Việt Nam đang thường trú chung tại Pháp và yêu cầu ly hôn. Theo Luật Hôn nhân và gia đình năm 2014, pháp luật áp dụng là:",
+  "a": "Pháp luật Việt Nam trong mọi trường hợp.",
+  "b": "Pháp luật của nước nơi thường trú chung của vợ chồng.",
+  "c": "Pháp luật nơi đăng ký kết hôn.",
+  "d": "Do nguyên đơn lựa chọn.",
+  "answer": "b",
+  "explanation": "Căn cứ khoản 2 Điều 127 Luật Hôn nhân và gia đình năm 2014: \"Việc ly hôn được giải quyết theo pháp luật của nước nơi thường trú chung của vợ chồng.\""
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, nghĩa vụ cấp dưỡng có yếu tố nước ngoài tuân theo pháp luật của:",
+  "a": "Nước nơi người có nghĩa vụ cấp dưỡng cư trú.",
+  "b": "Nước nơi người yêu cầu cấp dưỡng cư trú.",
+  "c": "Nước nơi kết hôn.",
+  "d": "Pháp luật Việt Nam.",
+  "answer": "b",
+  "explanation": "Căn cứ khoản 1 Điều 129 Luật Hôn nhân và gia đình năm 2014: \"Nghĩa vụ cấp dưỡng tuân theo pháp luật của nước nơi người yêu cầu cấp dưỡng cư trú.\""
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, quan hệ hôn nhân và gia đình được xác lập trước ngày Luật này có hiệu lực thì:",
+  "a": "Luôn áp dụng Luật năm 2014.",
+  "b": "Áp dụng pháp luật tại thời điểm xác lập quan hệ.",
+  "c": "Áp dụng theo yêu cầu của đương sự.",
+  "d": "Tòa án quyết định.",
+  "answer": "b",
+  "explanation": "Căn cứ khoản 1 Điều 131 Luật Hôn nhân và gia đình năm 2014: \"Quan hệ hôn nhân và gia đình được xác lập trước ngày Luật này có hiệu lực thì áp dụng pháp luật về hôn nhân và gia đình tại thời điểm xác lập để giải quyết.\""
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, Luật Hôn nhân và gia đình số 22/2000/QH10 hết hiệu lực kể từ:",
+  "a": "Ngày 19/6/2014.",
+  "b": "Ngày 01/01/2014.",
+  "c": "Ngày Luật năm 2014 có hiệu lực thi hành.",
+  "d": "Ngày có nghị định hướng dẫn.",
+  "answer": "c",
+  "explanation": "Căn cứ Điều 132 Luật Hôn nhân và gia đình năm 2014: \"Luật hôn nhân và gia đình số 22/2000/QH10 hết hiệu lực kể từ ngày Luật này có hiệu lực.\""
+},
+{
+  "question": "Tình huống: Bản án ly hôn của Tòa án nước ngoài không có yêu cầu thi hành tại Việt Nam. Việc ghi vào sổ hộ tịch được thực hiện theo:",
+  "a": "Quyết định của UBND cấp xã.",
+  "b": "Quy định của Chính phủ.",
+  "c": "Tập quán quốc tế.",
+  "d": "Bộ luật Hình sự.",
+  "answer": "b",
+  "explanation": "Căn cứ khoản 2 Điều 125 Luật Hôn nhân và gia đình năm 2014: \"Chính phủ quy định việc ghi vào sổ hộ tịch các việc về hôn nhân và gia đình theo bản án, quyết định của Tòa án nước ngoài mà không có yêu cầu thi hành tại Việt Nam...\""
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, Tòa án nhân dân cấp huyện nơi cư trú của công dân Việt Nam có thẩm quyền giải quyết vụ việc nào sau đây?",
+  "a": "Mọi vụ ly hôn có yếu tố nước ngoài.",
+  "b": "Ly hôn giữa công dân Việt Nam ở khu vực biên giới với công dân nước láng giềng cùng cư trú ở khu vực biên giới.",
+  "c": "Ly hôn giữa hai người nước ngoài ở nước ngoài.",
+  "d": "Tranh chấp tài sản ở nước ngoài.",
+  "answer": "b",
+  "explanation": "Căn cứ khoản 3 Điều 123 Luật Hôn nhân và gia đình năm 2014 quy định Tòa án nhân dân cấp huyện nơi cư trú của công dân Việt Nam có thẩm quyền giải quyết các vụ việc hôn nhân gia đình giữa công dân Việt Nam cư trú ở khu vực biên giới với công dân nước láng giềng cùng cư trú ở khu vực biên giới."
+},
+{
+  "question": "Tình huống: Một vụ án hôn nhân gia đình đã được Tòa án giải quyết trước ngày Luật Hôn nhân và gia đình năm 2014 có hiệu lực. Sau đó có yêu cầu kháng nghị giám đốc thẩm theo Luật mới. Theo quy định:",
+  "a": "Được áp dụng Luật năm 2014 để kháng nghị.",
+  "b": "Không áp dụng Luật năm 2014 để kháng nghị.",
+  "c": "Tòa án cấp trên quyết định.",
+  "d": "Được áp dụng nếu có lợi cho đương sự.",
+  "answer": "b",
+  "explanation": "Căn cứ khoản 3 Điều 131 Luật Hôn nhân và gia đình năm 2014: \"Không áp dụng Luật này để kháng nghị theo thủ tục giám đốc thẩm, tái thẩm đối với vụ việc mà Tòa án đã giải quyết theo quy định của pháp luật về hôn nhân và gia đình trước ngày Luật này có hiệu lực.\""
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, trong trường hợp pháp luật nước ngoài dẫn chiếu trở lại pháp luật Việt Nam thì:",
+  "a": "Tiếp tục áp dụng pháp luật nước ngoài.",
+  "b": "Áp dụng tập quán quốc tế.",
+  "c": "Áp dụng pháp luật về hôn nhân và gia đình Việt Nam.",
+  "d": "Do các bên lựa chọn pháp luật áp dụng.",
+  "answer": "c",
+  "explanation": "Căn cứ khoản 2 Điều 122 Luật Hôn nhân và gia đình năm 2014: \"Trong trường hợp pháp luật nước ngoài dẫn chiếu trở lại pháp luật Việt Nam thì áp dụng pháp luật về hôn nhân và gia đình Việt Nam.\""
+},
+{
+  "question": "Tình huống: Một vụ án hôn nhân gia đình có yếu tố nước ngoài đã được Tòa án thụ lý trước ngày Luật Hôn nhân và gia đình năm 2014 có hiệu lực nhưng chưa giải quyết. Theo quy định:",
+  "a": "Áp dụng toàn bộ pháp luật cũ.",
+  "b": "Áp dụng thủ tục theo Luật Hôn nhân và gia đình năm 2014.",
+  "c": "Đình chỉ giải quyết vụ án.",
+  "d": "Do Tòa án lựa chọn pháp luật áp dụng.",
+  "answer": "b",
+  "explanation": "Căn cứ khoản 2 Điều 131 Luật Hôn nhân và gia đình năm 2014: \"Đối với vụ việc về hôn nhân và gia đình do Tòa án thụ lý trước ngày Luật này có hiệu lực mà chưa giải quyết thì áp dụng thủ tục theo quy định của Luật này.\""
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, việc xác định cha, mẹ, con có yếu tố nước ngoài không có tranh chấp thuộc thẩm quyền của:",
+  "a": "Tòa án nhân dân cấp tỉnh.",
+  "b": "Cơ quan đăng ký hộ tịch Việt Nam.",
+  "c": "Viện kiểm sát nhân dân.",
+  "d": "UBND cấp xã nơi cư trú của người mẹ.",
+  "answer": "b",
+  "explanation": "Căn cứ khoản 1 Điều 128 Luật Hôn nhân và gia đình năm 2014: \"Cơ quan đăng ký hộ tịch Việt Nam có thẩm quyền giải quyết việc xác định cha, mẹ, con mà không có tranh chấp...\""
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, Tòa án Việt Nam có thẩm quyền giải quyết việc xác định cha, mẹ, con có yếu tố nước ngoài trong trường hợp nào?",
+  "a": "Chỉ khi các bên đều là công dân Việt Nam.",
+  "b": "Khi có tranh chấp hoặc thuộc trường hợp luật quy định.",
+  "c": "Chỉ khi người con chưa thành niên.",
+  "d": "Mọi trường hợp đều do Tòa án giải quyết.",
+  "answer": "b",
+  "explanation": "Căn cứ khoản 2 Điều 128 Luật Hôn nhân và gia đình năm 2014: \"Tòa án có thẩm quyền của Việt Nam giải quyết việc xác định cha, mẹ, con có yếu tố nước ngoài... và các trường hợp khác có tranh chấp.\""
+},
+{
+  "question": "Tình huống: Người yêu cầu cấp dưỡng đang cư trú tại Nhật Bản. Theo Luật Hôn nhân và gia đình năm 2014, nghĩa vụ cấp dưỡng có yếu tố nước ngoài được xác định theo:",
+  "a": "Pháp luật Việt Nam.",
+  "b": "Pháp luật Nhật Bản.",
+  "c": "Pháp luật nơi người có nghĩa vụ cấp dưỡng cư trú.",
+  "d": "Do các bên tự thỏa thuận.",
+  "answer": "b",
+  "explanation": "Căn cứ khoản 1 Điều 129 Luật Hôn nhân và gia đình năm 2014: \"Nghĩa vụ cấp dưỡng tuân theo pháp luật của nước nơi người yêu cầu cấp dưỡng cư trú.\""
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, cơ quan có thẩm quyền giải quyết đơn yêu cầu cấp dưỡng có yếu tố nước ngoài là:",
+  "a": "Cơ quan nơi người có nghĩa vụ cấp dưỡng cư trú.",
+  "b": "Cơ quan của nước nơi người yêu cầu cấp dưỡng cư trú.",
+  "c": "Tòa án nhân dân tối cao.",
+  "d": "Cơ quan đại diện ngoại giao Việt Nam.",
+  "answer": "b",
+  "explanation": "Căn cứ khoản 2 Điều 129 Luật Hôn nhân và gia đình năm 2014: \"Cơ quan có thẩm quyền giải quyết đơn yêu cầu cấp dưỡng... là cơ quan của nước nơi người yêu cầu cấp dưỡng cư trú.\""
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, việc giải quyết quan hệ nam nữ chung sống như vợ chồng mà không đăng ký kết hôn có yếu tố nước ngoài được áp dụng theo:",
+  "a": "Pháp luật của nước nơi cư trú cuối cùng.",
+  "b": "Tập quán quốc tế.",
+  "c": "Quy định của Luật này và pháp luật Việt Nam có liên quan.",
+  "d": "Pháp luật nước ngoài do các bên lựa chọn.",
+  "answer": "c",
+  "explanation": "Căn cứ Điều 130 Luật Hôn nhân và gia đình năm 2014: \"Cơ quan có thẩm quyền của Việt Nam áp dụng các quy định của Luật này và các luật khác có liên quan của Việt Nam để giải quyết.\""
+},
+{
+  "question": "Tình huống: Người nước ngoài kết hôn tại cơ quan có thẩm quyền của Việt Nam nhưng không đáp ứng điều kiện kết hôn theo Luật Hôn nhân và gia đình Việt Nam. Theo quy định:",
+  "a": "Việc kết hôn vẫn hợp pháp nếu phù hợp pháp luật nước họ.",
+  "b": "Việc kết hôn không đáp ứng điều kiện của pháp luật Việt Nam.",
+  "c": "Chỉ cần được cơ quan hộ tịch chấp nhận.",
+  "d": "Được công nhận nếu đã tổ chức lễ cưới.",
+  "answer": "b",
+  "explanation": "Căn cứ khoản 1 Điều 126 Luật Hôn nhân và gia đình năm 2014: Người nước ngoài kết hôn tại cơ quan có thẩm quyền của Việt Nam phải tuân theo các quy định của Luật này về điều kiện kết hôn."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, Chính phủ có trách nhiệm quy định chi tiết nội dung nào sau đây?",
+  "a": "Toàn bộ Luật Hôn nhân và gia đình.",
+  "b": "Các điều, khoản được giao trong Luật.",
+  "c": "Chỉ quy định về ly hôn.",
+  "d": "Chỉ quy định về cấp dưỡng.",
+  "answer": "b",
+  "explanation": "Căn cứ Điều 133 Luật Hôn nhân và gia đình năm 2014: \"Chính phủ quy định chi tiết các điều, khoản được giao trong Luật.\""
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, cơ quan nào chủ trì phối hợp hướng dẫn thi hành các điều, khoản được giao trong Luật?",
+  "a": "Bộ Công an.",
+  "b": "Tòa án nhân dân tối cao.",
+  "c": "Chính phủ.",
+  "d": "Bộ Ngoại giao.",
+  "answer": "b",
+  "explanation": "Căn cứ Điều 133 Luật Hôn nhân và gia đình năm 2014: \"Tòa án nhân dân tối cao chủ trì phối hợp với Viện kiểm sát nhân dân tối cao và Bộ Tư pháp hướng dẫn thi hành các điều, khoản được giao trong Luật.\""
+},
+ {
   "question": "Theo quy định về công chứng ngoài trụ sở, trường hợp nào sau đây được coi là lý do chính đáng?",
     "a": "Người yêu cầu công chứng bận công việc cá nhân",
     "b": "Người yêu cầu công chứng ngại đi lại",
