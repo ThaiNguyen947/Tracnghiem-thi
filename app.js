@@ -579,10 +579,12 @@ function filterResult(type) {
     else if (userAns === "d") fullUserText = `D. ${optD}`;
 
     html += `
-      <div style="margin-bottom: 24px; text-align: justify; line-height: 1.5; font-size: 15px; color: #111;">
-        <p style="margin: 0 0 6px 0; padding: 0; white-space: pre-wrap;"><b>Câu ${i + 1}.</b> ${qText} <span style="color:#00796b; font-size:12px;">[Phần: ${(q.fileSource || "").toUpperCase()}]</span></p>
-        
-        <div style="margin: 0 0 6px 0; padding-left: 15px; font-size: 14.5px; color: #333;">
+      html += `
+  <div style="margin-bottom: 24px; text-align: justify; line-height: 1.5; font-size: 15px; color: #111;">
+    <p style="margin: 0 0 6px 0; padding: 0; white-space: pre-wrap;"><b>Câu ${i + 1}.</b> ${qText}</p>
+    
+    <div style="margin: 0 0 6px 0; padding-left: 15px; font-size: 14.5px; color: #333;">
+`;
           <div style="margin-bottom: 3px;">
             <span style="color: #666;">- Phương án đã chọn:</span> ${fullUserText} 
             <span style="
