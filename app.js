@@ -5,10 +5,11 @@ let wrongPool = [];
 let index = 0;
 let answers = {};
 let timer;
-let time = 60 * 60;
+let time = 60 * 60; // 60 phút
 let currentFilter = 'all'; 
 
 const app = document.getElementById("app");
+
 function getDeviceId() {
   let id = localStorage.getItem("deviceId");
   if (!id) {
@@ -17,18 +18,19 @@ function getDeviceId() {
   }
   return id;
 }
-// ================= USER LIST =================
+
+// ================= DANH SÁCH TÀI KHOẢN =================
 const users = [
   { username: "mainguyen", password: "1234", role: "admin" },
   { username: "huyen@", password: "1112233", role: "user" }
 ];
 let sessions = JSON.parse(localStorage.getItem("loginSessions") || "{}");
 
-// ================= LOGIN UI =================
+// ================= GIAO DIỆN ĐĂNG NHẬP =================
 function showLogin() {
   document.getElementById("loginBox").innerHTML = `
     <div class="box" style="max-width:400px;text-align:center;margin-top:120px">
-      <h2>Đăng nhập</h2>
+      <h2>Đăng nhập hệ thống</h2>
       <input id="u" placeholder="Tài khoản" style="width:100%;padding:10px;margin:5px 0">
       <input id="p" type="password" placeholder="Mật khẩu" style="width:100%;padding:10px;margin:5px 0">
       <button onclick="login()" class="btn">Đăng nhập</button>
@@ -36,20 +38,20 @@ function showLogin() {
   `;
 }
 
-// ================= LOGIN =================
+// ================= XỬ LÝ ĐĂNG NHẬP =================
 function login() {
   let u = document.getElementById("u").value;
   let p = document.getElementById("p").value;
 
   let user = users.find(x => x.username === u && x.password === p);
-  if (!user) return alert("Sai tài khoản");
+  if (!user) return alert("Sai tài khoản hoặc mật khẩu!");
 
   let deviceId = getDeviceId();
   let sessions = JSON.parse(localStorage.getItem("loginSessions") || "{}");
 
   if (user.role !== "admin") {
     if (sessions[user.username] && sessions[user.username] !== deviceId) {
-      alert("Tài khoản đã đăng nhập trên thiết bị khác!");
+      alert("Tài khoản này đang được đăng nhập trên một thiết bị khác!");
       return;
     }
   }
@@ -65,7 +67,7 @@ function login() {
   startExam();
 }
 
-// ================= CHECK LOGIN =================
+// ================= KIỂM TRA TRẠNG THÁI ĐĂNG NHẬP =================
 function checkLogin() {
   let user = JSON.parse(localStorage.getItem("user"));
   let deviceId = getDeviceId();
@@ -78,7 +80,7 @@ function checkLogin() {
 
   if (user.role !== "admin") {
     if (sessions[user.username] !== deviceId) {
-      alert("Phiên đăng nhập không hợp lệ (thiết bị khác đã đăng nhập)");
+      alert("Phiên đăng nhập hết hạn (thiết bị khác đã đăng nhập)!");
       localStorage.removeItem("user");
       showLogin();
       return;
@@ -91,8 +93,9 @@ function checkLogin() {
   startExam();
 }
 
-// ================= LOAD MULTIPLE JSON FILES (ĐÃ THÊM ĐOẠN KIỂM TRA FILE) =================
+// ================= TỰ ĐỘNG NẠP TẤT CẢ FILE JSON CÓ TRONG THƯ MỤC =================
 async function taiTatCaDuLieuCauHoi() {
+  // Bạn có thêm bao nhiêu file tùy thích vào đây (p1, p2, p3, p4, p5, p6...)
   const danhSachFiles = [
     "./cau_hoi/p1.json",
     "./cau_hoi/p2.json",
@@ -102,25 +105,28 @@ async function taiTatCaDuLieuCauHoi() {
   
   let beCauHoiTong = [];
 
-  console.log("=== BẮT ĐẦU KIỂM TRA TẢI FILE JSON ===");
+  console.log("=== BẮT ĐẦU KIỂM TRA VÀ TẢI DỮ LIỆU FILE ===");
   for (const duongDan of danhSachFiles) {
     try {
       const res = await fetch(duongDan);
       if (!res.ok) throw new Error();
       const json = await res.json();
-      console.log(`✓ Tải thành công file: ${duongDan} | Số lượng câu: ${json.length}`);
+      
+      // Tự động tách tên file để làm nhãn nguồn (Ví dụ: p1, p2...)
+      const fileTag = duongDan.split('/').pop().replace('.json', '');
+      json.forEach(q => { q.fileSource = fileTag; });
+
+      console.log(`✓ Tải thành công: ${duongDan} | Quy mô: ${json.length} câu.`);
       beCauHoiTong = beCauHoiTong.concat(json);
     } catch (err) {
-      console.error(`❌ LỖI TẢI FILE HOẶC SAI CẤU TRÚC JSON tại đường dẫn: ${duongDan}`);
+      console.error(`❌ Không tìm thấy hoặc sai cấu trúc định dạng tại file: ${duongDan}`);
     }
   }
 
   console.log(`➡️ TỔNG SỐ CÂU HỎI THỰC TẾ LOAD ĐƯỢC: ${beCauHoiTong.length} câu.`);
-  console.log("======================================");
+  console.log("=================================================");
 
-  if (beCauHoiTong.length === 0) {
-    return [];
-  }
+  if (beCauHoiTong.length === 0) return [];
 
   beCauHoiTong.forEach(q => {
     q.weight = q.weight || 1;
@@ -131,7 +137,7 @@ async function taiTatCaDuLieuCauHoi() {
   return beCauHoiTong;
 }
 
-// ================= KHI KHỞI ĐỘNG ỨNG DỤNG =================
+// ================= KHỞI ĐỘNG HỆ THỐNG =================
 async function khoiDongUngDung() {
   const fileData = await taiTatCaDuLieuCauHoi();
   
@@ -141,7 +147,7 @@ async function khoiDongUngDung() {
       data = JSON.parse(localData);
       checkLogin();
     } else {
-      alert("Không tải được bất kỳ file câu hỏi nào trong thư mục cau_hoi! Vui lòng kiểm tra lại đường dẫn.");
+      alert("Không tìm thấy dữ liệu câu hỏi trong thư mục cau_hoi! Vui lòng kiểm tra lại cấu trúc thư mục.");
     }
     return;
   }
@@ -162,6 +168,7 @@ async function khoiDongUngDung() {
         q.weight = oldQ.weight || 1;
         q.correctCount = oldQ.correctCount || 0;
         q.wrongCount = oldQ.wrongCount || 0;
+        if(oldQ.fileSource) q.fileSource = oldQ.fileSource;
       }
     });
   }
@@ -173,8 +180,7 @@ async function khoiDongUngDung() {
 
 khoiDongUngDung();
 
-
-// ================= SHUFFLE THUẬT TOÁN ĐỔI CHỖ LỘN XỘN TỐI ĐA =================
+// ================= THUẬT TOÁN ĐẢO KHOÁ TRỘN ĐỀ TỐI ĐA =================
 function shuffle(arr) {
   let a = [...arr];
   for (let i = a.length - 1; i > 0; i--) {
@@ -184,83 +190,135 @@ function shuffle(arr) {
   return a;
 }
 
-// ================= START EXAM (ĐÃ THÊM LOG KIỂM TRA BỐC ĐỀ) =================
+// ================= START EXAM (TỶ LỆ % THEO TỔNG CÂU FILE & BỐC BÙ LIỀN KỀ) =================
 function startExam() {
   answers = {};
   index = 0;
   time = 60 * 60;
 
   let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
-  let randomWholeData = shuffle(data);
 
-  // LOGIC: Lấy (Câu sai + Toàn bộ đề) - Loại bỏ hoàn toàn những câu nằm trong correctPool
-  let poolKhaDung = randomWholeData.filter(q => {
-    let qText = (q.question || q.cauhoi || "").trim();
-    return !correctPool.includes(qText);
+  // Nếu đã làm đúng sạch sẽ toàn bộ kho đề -> Tự động reset bộ nhớ để làm vòng mới
+  let poolCheck = data.filter(q => !correctPool.includes((q.question || q.cauhoi || "").trim()));
+  if (poolCheck.length === 0 && data.length > 0) {
+    console.log("🚨 HỌC VIÊN ĐÃ LÀM ĐÚNG HẾT KHO ĐỀ! TIẾN HÀNH RESET VÒNG MỚI");
+    localStorage.removeItem("correctPool");
+    correctPool = [];
+    data.forEach(q => { q.weight = 1; q.correctCount = 0; q.wrongCount = 0; });
+  }
+
+  // 1. Quét danh sách file thực tế và tính tổng số câu trong toàn bộ kho dữ liệu
+  const danhSachFileThucTe = [...new Set(data.map(q => q.fileSource).filter(Boolean))];
+  const tongSoCauTrongKho = data.length || 1;
+  const soLuongFile = danhSachFileThucTe.length || 1;
+
+  let khoCauHoiCacFile = {};
+  let chiTieuMoiFile = {}; 
+
+  console.log(`=== THUẬT TOÁN ĐỀ PHÂN BỔ TRẢI ĐỀU % (TỔNG KHO KHO: ${tongSoCauTrongKho} CÂU) ===`);
+
+  danhSachFileThucTe.forEach(fileKey => {
+    // Đếm số câu hỏi gốc ban đầu của file
+    let tongCauGocCuaFile = data.filter(q => q.fileSource === fileKey).length;
+    
+    // Công thức tính tỷ lệ % số câu đóng góp vào đề thi 100 câu
+    let quota = Math.round((tongCauGocCuaFile / tongSoCauTrongKho) * 100);
+    if (quota === 0 && tongCauGocCuaFile > 0) quota = 1; 
+    chiTieuMoiFile[fileKey] = quota;
+
+    // Lọc ra các câu chưa làm chính xác ở file này
+    let fileQuestions = data.filter(q => q.fileSource === fileKey && !correctPool.includes((q.question || q.cauhoi || "").trim()));
+    fileQuestions = shuffle(fileQuestions);
+
+    // Xếp thứ tự ưu tiên: Câu từng làm sai lên đầu, câu chưa làm xuống sau
+    let wrongInFile = fileQuestions.filter(q => (q.weight && q.weight > 1) || (q.wrongCount && q.wrongCount > 0));
+    let normalInFile = fileQuestions.filter(q => !((q.weight && q.weight > 1) || (q.wrongCount && q.wrongCount > 0)));
+    
+    khoCauHoiCacFile[fileKey] = [...wrongInFile, ...normalInFile];
+
+    console.log(`• Phần [${fileKey}.json]: Có ${tongCauGocCuaFile} câu (Tỷ lệ: ${((tongCauGocCuaFile/tongSoCauTrongKho)*100).toFixed(1)}%) -> Phải bốc: ${quota} câu. (Kho chưa làm đúng còn: ${khoCauHoiCacFile[fileKey].length} câu)`);
   });
 
-  console.log("=== KIỂM TRA LOGIC TRỘN ĐỀ ===");
-  console.log(`- Số câu đã làm ĐÚNG hoàn toàn (bị ẩn đi): ${correctPool.length}`);
-  console.log(`- Số câu KHẢ DỤNG còn lại có thể bốc: ${poolKhaDung.length}`);
+  // 2. Tiến hành rút câu hỏi theo chỉ tiêu phân bổ %
+  let finalSelectedList = [];
 
-  // Tách pool khả dụng làm 2 nhóm để ưu tiên đưa câu từng sai lên trước
-  let wrongQuestions = poolKhaDung.filter(q => (q.weight && q.weight > 1) || (q.wrongCount && q.wrongCount > 0));
-  let remainingQuestions = poolKhaDung.filter(q => !((q.weight && q.weight > 1) || (q.wrongCount && q.wrongCount > 0)));
+  danhSachFileThucTe.forEach((fileKey, i) => {
+    let poolHienTai = khoCauHoiCacFile[fileKey];
+    let quotaCanLay = chiTieuMoiFile[fileKey];
+    
+    let thucTeLay = poolHienTai.splice(0, quotaCanLay);
+    finalSelectedList = finalSelectedList.concat(thucTeLay);
 
-  console.log(`  + Trong đó số câu từng LÀM SAI (được ưu tiên): ${wrongQuestions.length}`);
-  console.log(`  + Trong đó số câu MỚI TINH / CHƯA LÀM: ${remainingQuestions.length}`);
+    // CHIẾN THUẬT CUỐN CHIẾU: Nếu file cạn câu chưa làm -> mò tìm câu chưa làm ở các file liền kề đắp vào
+    if (thucTeLay.length < quotaCanLay) {
+      let soCauThieu = quotaCanLay - thucTeLay.length;
+      console.log(`   ⚠️ Phần [${fileKey}.json] không đủ câu chưa làm (thiếu ${soCauThieu} câu). Đang lấy từ phần liền kề...`);
 
-  // Gom câu sai trước
-  let list = wrongQuestions.slice(0, 100);
+      let buocNhay = 1;
+      while (soCauThieu > 0 && buocNhay < soLuongFile) {
+        let indexFileLienKe = (i + buocNhay) % soLuongFile;
+        let fileLienKeKey = danhSachFileThucTe[indexFileLienKe];
+        let poolLienKe = khoCauHoiCacFile[fileLienKeKey];
 
-  // Nếu câu sai chưa đủ 100 ➡️ Bốc bù từ nhóm câu chưa làm/chưa đúng
-  if (list.length < 100) {
-    for (let q of remainingQuestions) {
-      if (list.length >= 100) break;
-      list.push(q);
+        if (poolLienKe && poolLienKe.length > 0) {
+          let soCauLayBu = Math.min(soCauThieu, poolLienKe.length);
+          let cauBu = poolLienKe.splice(0, soCauLayBu);
+          finalSelectedList = finalSelectedList.concat(cauBu);
+          soCauThieu -= soCauLayBu;
+          console.log(`   ➡️ Đã bù đắp thành công ${soCauLayBu} câu chưa làm từ phần liền kề: [${fileLienKeKey}.json]`);
+        }
+        buocNhay++;
+      }
+    }
+  });
+
+  // 3. KIỂM TRA BẢO HIỂM CUỐI CÙNG: Tránh làm tròn lệch số hoặc kho đề cạn kiệt hẳn câu chưa làm
+  if (finalSelectedList.length < 100) {
+    let thieuTong = 100 - finalSelectedList.length;
+    let khoVetCacFile = [];
+    danhSachFileThucTe.forEach(fileKey => {
+      khoVetCacFile = khoVetCacFile.concat(khoCauHoiCacFile[fileKey]);
+    });
+    
+    if (khoVetCacFile.length > 0) {
+      khoVetCacFile = shuffle(khoVetCacFile);
+      let extra = khoVetCacFile.slice(0, thieuTong);
+      finalSelectedList = finalSelectedList.concat(extra);
+      console.log(`💡 Đã quét nốt ${extra.length} câu còn dư trên toàn hệ thống cho tròn đề 100 câu.`);
     }
   }
 
-  // Trường hợp đặc biệt: Nếu học viên đã làm ĐÚNG SẠCH SẼ toàn bộ kho đề (Hết sạch câu khả dụng)
-  if (list.length === 0 && data.length > 0) {
-    console.log("🚨 KHO ĐỀ KHẢ DỤNG ĐÃ HẾT SẠCH! TỰ ĐỘNG RESET CORRECTPOOL ĐỂ CHẠY LẠI VÒNG MỚI.");
-    alert("Chúc mừng! Bạn đã hoàn thành đúng toàn bộ câu hỏi. Hệ thống sẽ làm mới để bạn học lại từ đầu!");
-    localStorage.removeItem("correctPool");
-    data.forEach(q => { q.weight = 1; q.correctCount = 0; q.wrongCount = 0; });
-    list = shuffle([...data]).slice(0, 100);
-  }
-
-  // TRỘN TỔNG LỰC LẦN CUỐI
-  list = shuffle(list);
-
-  // Lấy chuẩn xác tối đa 100 câu phân tán ngẫu nhiên không trùng lặp
-  questions = list.filter(q => q && (q.question || q.cauhoi)).slice(0, Math.min(100, list.length));
-  console.log(`=> ĐỀ THI ĐÃ CHỐT: Tạo đề thành công với ${questions.length} câu hỏi không trùng lặp.`);
-  console.log("==============================");
+  // ĐẢO TRỘN TỔNG LỰC: Trộn ngẫu nhiên hoàn toàn 100 câu đan xen lẫn nhau trước khi xuất đề công bố học viên
+  questions = shuffle(finalSelectedList).slice(0, 100);
+  
+  console.log(`=> ĐỀ THI ĐÃ CHỐT HOÀN CHỈNH: 100 câu hỏi ngẫu nhiên và trải rộng.`);
+  console.log("======================================================");
 
   render();
   startTimer();
 }
 
-// ================= RENDER =================
+// ================= HIỂN THỊ CÂU HỎI VÀ ĐÁP ÁN =================
 function render() {
   if (questions.length === 0 || !questions[index]) {
-    app.innerHTML = `<div class="box"><h2>Dữ liệu câu hỏi đang được cập nhật hoặc bị lỗi bộ nhớ!</h2></div>`;
+    app.innerHTML = `<div class="box"><h2>Dữ liệu câu hỏi bị lỗi hoặc bộ nhớ tạm rỗng! Vui lòng làm mới trang.</h2></div>`;
     return;
   }
 
   let q = questions[index];
-  let qText = q.question || q.cauhoi || "Nội dung câu hỏi không tồn tại";
-  let optA = q.a || q.Một || "";
-  let optB = q.b || "";
-  let optC = q.c || "";
-  let optD = q.d || "";
+  let qText = q.question || q.cauhoi || "Nội dung câu hỏi rỗng";
+  
+  // Hỗ trợ tự động đồng bộ cả chữ thường viết hoa chữ Việt từ JSON gốc
+  let optA = q.a || q.A || q.Một || "";
+  let optB = q.b || q.B || "";
+  let optC = q.c || q.C || "";
+  let optD = q.d || q.D || "";
 
   app.innerHTML = `
     <div class="box">
       <div class="top">
-        <div>Câu: ${index + 1}/${questions.length}</div>
-        <div>⏱ <span id="time"></span></div>
+        <div>Câu: ${index + 1}/${questions.length} [Nguồn file: ${(q.fileSource || "Chưa rõ").toUpperCase()}]</div>
+        <div>⏱ Thời gian: <span id="time"></span></div>
       </div>
 
       <div class="bar">
@@ -275,11 +333,11 @@ function render() {
       <button class="option" onclick="choose('D')">D. ${optD}</button>
 
       <div class="nav-control">
-        <button class="nav-btn" onclick="prev()">← Trước</button>
-        <button class="nav-btn" onclick="next()">Sau →</button>
+        <button class="nav-btn" onclick="prev()">← Câu trước</button>
+        <button class="nav-btn" onclick="next()">Câu sau →</button>
       </div>
 
-      <button class="btn" style="margin-top:15px; background:#b30000; color:#fff;" onclick="submit()">NỘP BÀI</button>
+      <button class="btn" style="margin-top:15px; background:#b30000; color:#fff;" onclick="submit()">NỘP BÀI THI</button>
 
       <div id="nav"></div>
     </div>
@@ -290,13 +348,11 @@ function render() {
   renderNav();
 }
 
-// ================= CHỌN =================
 function choose(c) {
   answers[index] = c;
   highlight();
 }
 
-// ================= HIGHLIGHT =================
 function highlight() {
   setTimeout(() => {
     document.querySelectorAll(".option").forEach(b => b.classList.remove("selected"));
@@ -313,7 +369,6 @@ function highlight() {
   }, 0);
 }
 
-// ================= NAV =================
 function renderNav() {
   let nav = document.getElementById("nav");
   if (!nav) return;
@@ -363,7 +418,7 @@ function updateBar() {
   }
 }
 
-// ================= TIMER =================
+// ================= ĐỒNG HỒ ĐẾM NGƯỢC =================
 function startTimer() {
   clearInterval(timer);
   timer = setInterval(() => {
@@ -376,7 +431,7 @@ function startTimer() {
   }, 1000);
 }
 
-// ================= SUBMIT =================
+// ================= NỘP BÀI VÀ CHẤM ĐIỂM SỬA WEIGHT LỖI =================
 function submit() {
   clearInterval(timer);
 
@@ -449,12 +504,12 @@ function submit() {
       <h1 style="font-size: 24px; font-weight: bold; text-align: center; margin: 0 0 10px 0; color: #111; letter-spacing: 0.5px;">BÁO CÁO KẾT QUẢ KIỂM TRA</h1>
       
       <p style="text-align: center; font-size: 15px; color: #555; margin: 0 0 20px 0; line-height: 1.6;">
-        Số câu đã làm: <b style="color: #00796b; font-size: 16px;">${submittedCount}/${questions.length}</b><br>
-        Số câu đúng: <b style="color: #2e7d32; font-size: 16px;">${correct}</b> | Chưa hoàn thành/Sai: <b style="color: #c62828; font-size: 16px;">${wrong}</b>
+        Số câu đã hoàn thành: <b style="color: #00796b; font-size: 16px;">${submittedCount}/${questions.length}</b><br>
+        Số câu đúng: <b style="color: #2e7d32; font-size: 16px;">${correct}</b> | Số câu sai/Chưa chọn: <b style="color: #c62828; font-size: 16px;">${wrong}</b>
       </p>
 
       <div style="text-align: center; margin-bottom: 25px;">
-        <button class="btn" style="background: #00796b; color: white; border: none; padding: 10px 28px; font-size: 14px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 20px; font-weight: bold; transition: 0.2s; box-shadow: 0 2px 6px rgba(0,121,107,0.2);" onclick="location.reload()">THI LẠI TRANG CHỦ</button>
+        <button class="btn" style="background: #00796b; color: white; border: none; padding: 10px 28px; font-size: 14px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 20px; font-weight: bold; transition: 0.2s;" onclick="location.reload()">THI VÒNG ĐỀ MỚI</button>
       </div>
 
       <div style="display: flex; gap: 8px; justify-content: center; margin-bottom: 25px; border-bottom: 1px solid #eef0f2; padding-bottom: 15px;">
@@ -470,7 +525,7 @@ function submit() {
   filterResult('all');
 }
 
-// ================= FILTER RESULT LIST =================
+// ================= BỘ LỌC ĐÁP ÁN KHẢO SÁT KẾT QUẢ THI =================
 function filterResult(type) {
   currentFilter = type;
   let listContainer = document.getElementById("result-list");
@@ -504,11 +559,11 @@ function filterResult(type) {
     if (type === 'correct' && !ok) return;
     if (type === 'wrong' && ok) return;
 
-    let qText = q.question || q.cauhoi || "Không tìm thấy nội dung dữ liệu";
-    let optA = q.a || q.Một || "";
-    let optB = q.b || "";
-    let optC = q.c || "";
-    let optD = q.d || "";
+    let qText = q.question || q.cauhoi || "Dữ liệu lỗi";
+    let optA = q.a || q.A || q.Một || "";
+    let optB = q.b || q.B || "";
+    let optC = q.c || q.C || "";
+    let optD = q.d || q.D || "";
 
     let fullCorrectText = "";
     if (correctAns === "a") fullCorrectText = `A. ${optA}`;
@@ -524,26 +579,14 @@ function filterResult(type) {
     else if (userAns === "d") fullUserText = `D. ${optD}`;
 
     html += `
-      <div style="
-        margin-bottom: 24px;
-        text-align: justify;
-        line-height: 1.5;
-        font-size: 15px;
-        color: #111;
-      ">
-        <p style="margin: 0 0 6px 0; padding: 0; white-space: pre-wrap;"><b>Câu ${i + 1}.</b> ${qText}</p>
+      <div style="margin-bottom: 24px; text-align: justify; line-height: 1.5; font-size: 15px; color: #111;">
+        <p style="margin: 0 0 6px 0; padding: 0; white-space: pre-wrap;"><b>Câu ${i + 1}.</b> ${qText} <span style="color:#00796b; font-size:12px;">[Phần: ${(q.fileSource || "").toUpperCase()}]</span></p>
         
         <div style="margin: 0 0 6px 0; padding-left: 15px; font-size: 14.5px; color: #333;">
           <div style="margin-bottom: 3px;">
             <span style="color: #666;">- Phương án đã chọn:</span> ${fullUserText} 
             <span style="
-              display: inline-block;
-              padding: 1px 6px;
-              font-size: 11px;
-              font-family: 'Times New Roman', Times, serif;
-              font-weight: bold;
-              border-radius: 3px;
-              margin-left: 8px;
+              display: inline-block; padding: 1px 6px; font-size: 11px; font-family: 'Times New Roman'; font-weight: bold; border-radius: 3px; margin-left: 8px;
               background-color: ${userAns === "" ? '#f1f3f5' : (ok ? '#e8f5e9' : '#ffebee')};
               color: ${userAns === "" ? '#555' : (ok ? '#2e7d32' : '#c62828')};
             ">${userAns === "" ? "CHƯA LÀM" : (ok ? "CHÍNH XÁC" : "KHÔNG ĐÚNG")}</span>
@@ -551,49 +594,28 @@ function filterResult(type) {
           ${!ok ? `<div style="margin-bottom: 3px;"><span style="color: #666;">- Đáp án đúng:</span> <b style="color: #2e7d32;">${fullCorrectText}</b></div>` : ""}
         </div>
 
-        <div style="
-          margin: 6px 0 0 15px;
-          padding: 4px 0 4px 10px;
-          font-style: italic;
-          font-size: 14px;
-          color: #555;
-          border-left: 2px solid #e0e0e0;
-          white-space: pre-wrap;
-        ">
+        <div style="margin: 6px 0 0 15px; padding: 4px 0 4px 10px; font-style: italic; font-size: 14px; color: #555; border-left: 2px solid #e0e0e0; white-space: pre-wrap;">
           <b>Cơ sở lý luận (Giải thích):</b> ${q.explanation ? q.explanation : (q.giảithích ? q.giảithích : "Chưa có nội dung giải thích.")}
         </div>
       </div>
     `;
   });
 
-  listContainer.innerHTML = html || `<p style='text-align:center; color:#777; font-style: italic; padding: 20px;'>Không tìm thấy câu hỏi nào phù hợp với danh sách lọc.</p>`;
+  listContainer.innerHTML = html || `<p style='text-align:center; color:#777; font-style: italic; padding: 20px;'>Không tìm thấy dữ liệu.</p>`;
 }
 
-// ================= HÀM BẢO VỆ DÀNH RIÊNG CHO TÀI KHOẢN CON =================
+// ================= HÀM KHÓA AN TOÀN CHỐT SAO CHÉP ĐỀ THI DÀNH CHO TÀI KHOẢN CON =================
 function enableProtectionForSubAccounts() {
   let user = JSON.parse(localStorage.getItem("user"));
   
   if (!user || user.role === "admin") {
-    return; 
+    return; // Nếu là tài khoản Admin (mainguyen) thì mở hết tính năng không khóa gì cả
   }
 
-  document.addEventListener('contextmenu', function(e) {
-    e.preventDefault();
-    alert("Tài khoản học viên không được phép sử dụng chuột phải!");
-  });
-
-  document.addEventListener('selectstart', function(e) {
-    e.preventDefault();
-  });
-  document.addEventListener('mousedown', function(e) {
-    if (e.target.tagName !== 'BUTTON' && e.target.tagName !== 'INPUT') {
-      e.preventDefault();
-    }
-  });
-
-  document.addEventListener('dragstart', function(e) {
-    e.preventDefault();
-  });
+  document.addEventListener('contextmenu', function(e) { e.preventDefault(); alert("Hệ thống kiểm tra đã khóa chuột phải học viên!"); });
+  document.addEventListener('selectstart', function(e) { e.preventDefault(); });
+  document.addEventListener('mousedown', function(e) { if (e.target.tagName !== 'BUTTON' && e.target.tagName !== 'INPUT') e.preventDefault(); });
+  document.addEventListener('dragstart', function(e) { e.preventDefault(); });
 
   document.body.style.userSelect = "none";
   document.body.style.webkitUserSelect = "none";
@@ -603,27 +625,17 @@ function enableProtectionForSubAccounts() {
   document.addEventListener('keydown', function(e) {
     if (e.ctrlKey && ['c', 'x', 'v', 'u', 's', 'p'].includes(e.key.toLowerCase())) {
       e.preventDefault();
-      alert("Hệ thống đã khóa tính năng sao chép, cắt và lưu đề!");
+      alert("Hành vi sao chép/tải đề đã bị ngăn chặn!");
       return false;
     }
-    
-    if (e.key === 'F12') {
-      e.preventDefault();
-      alert("Tính năng F12 đã bị khóa!");
-      return false;
-    }
-    
-    if (e.ctrlKey && e.shiftKey && ['i', 'j'].includes(e.key.toLowerCase())) {
-      e.preventDefault();
-      return false;
-    }
+    if (e.key === 'F12') { e.preventDefault(); alert("F12 Console đã bị khóa!"); return false; }
+    if (e.ctrlKey && e.shiftKey && ['i', 'j'].includes(e.key.toLowerCase())) { e.preventDefault(); return false; }
   });
 
   window.addEventListener('blur', function() {
     let appEl = document.getElementById("app");
     if (appEl) appEl.style.filter = "blur(15px)";
   });
-  
   window.addEventListener('focus', function() {
     let appEl = document.getElementById("app");
     if (appEl) appEl.style.filter = "none";
