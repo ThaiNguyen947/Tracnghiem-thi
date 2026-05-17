@@ -179,7 +179,7 @@ function shuffle(arr) {
   return a;
 }
 
-// ================= START EXAM (THUẬT TOÁN ĐÃ CẬP NHẬT THEO YÊU CẦU) =================
+// ================= START EXAM (THUẬT TOÁN BỐC ĐÈ BA GIAI ĐOẠN) =================
 function startExam() {
   answers = {};
   index = 0;
@@ -187,54 +187,69 @@ function startExam() {
 
   let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
 
-  // 1. Lọc danh sách thi hợp lệ: Giữ lại những câu CHƯA LÀM ĐÚNG 
-  // HOẶC những câu làm đúng nhưng trong lịch sử quá khứ có tỉ lệ làm sai nhiều (Cần ôn tập lại)
-  let danhSachThiHopLe = data.filter(q => {
+  // 1. Phân loại toàn bộ kho dữ liệu (data) thành 3 nhóm riêng biệt dựa trên lịch sử làm bài
+  
+  // Nhóm A: Câu hỏi ƯU TIÊN (Đã từng làm sai ít nhất 1 lần, hoặc có cân nặng phạt)
+  // Lưu ý: Nếu câu hỏi bị sai nhiều (wrongCount >= 3 hoặc weight >= 3.0), nó bắt buộc nằm ở đây kể cả khi đã làm đúng ở lần gần nhất.
+  let nhomUuTien = data.filter(q => {
+    let biSaiNhieu = (q.wrongCount && q.wrongCount >= 3) || (q.weight && q.weight >= 3.0);
+    let tungLamSai = (q.weight && q.weight > 1) || (q.wrongCount && q.wrongCount > 0);
+    return biSaiNhieu || tungLamSai;
+  });
+
+  // Nhóm B: Câu hỏi CHƯA LÀM / MỚI hoàn toàn (Chưa từng có lịch sử đúng sai, không nằm trong pool đúng)
+  let nhomChuaLam = data.filter(q => {
+    let qText = (q.question || q.cauhoi || "").trim();
+    let daTungTuongTac = (q.weight && q.weight > 1) || (q.wrongCount && q.wrongCount > 0);
+    return !daTungTuongTac && !correctPool.includes(qText);
+  });
+
+  // Nhóm C: Câu hỏi ĐÃ LÀM ĐÚNG (Dành để lấy bù vào khi câu sai + câu chưa làm không gom đủ 100 câu)
+  let nhomDaLamDung = data.filter(q => {
     let qText = (q.question || q.cauhoi || "").trim();
     let biSaiNhieu = (q.wrongCount && q.wrongCount >= 3) || (q.weight && q.weight >= 3.0);
-    
-    if (biSaiNhieu) return true; // Cứ sai nhiều là ép xuất hiện lại
-    return !correctPool.includes(qText); // Các câu còn lại loại trừ nếu đã làm đúng thành công
+    // Điều kiện: Nằm trong correctPool và không thuộc diện bị ép học lại do sai quá nhiều
+    return correctPool.includes(qText) && !biSaiNhieu;
   });
 
-  // Tách làm 2 nhóm để bốc đề thông minh
-  // Nhóm 1: Nhóm câu hỏi cần ưu tiên ôn lại (Đã từng làm sai ít nhất 1 lần)
-  let nhomUuTien = danhSachThiHopLe.filter(q => {
-    return (q.weight && q.weight > 1) || (q.wrongCount && q.wrongCount > 0);
-  });
-
-  // Nhóm 2: Nhóm câu hỏi MỚI hoàn toàn (Chưa bao giờ làm / Bỏ trống / File mới p3.json vừa nạp)
-  let nhomBinhThuong = danhSachThiHopLe.filter(q => {
-    return !((q.weight && q.weight > 1) || (q.wrongCount && q.wrongCount > 0));
-  });
-
-  // Sắp xếp nhóm ưu tiên: Câu nào sai nhiều nhất, trọng số lớn nhất thì đẩy lên trước
+  // 2. Định hình và sắp xếp dữ liệu trước khi bốc đề
+  // Nhóm ưu tiên: Sắp xếp câu sai nhiều lên trước
   nhomUuTien.sort((x, y) => {
     let weightX = x.weight || 1;
     let weightY = y.weight || 1;
     let wrongX = x.wrongCount || 0;
     let wrongY = y.wrongCount || 0;
-    
     if (wrongY !== wrongX) return wrongY - wrongX;
     return weightY - weightX;
   });
 
-  // Trộn ngẫu nhiên nhóm câu hỏi mới
-  nhomBinhThuong = shuffle(nhomBinhThuong);
+  // Nhóm mới và Nhóm đã làm đúng: Trộn lộn xộn ngẫu nhiên để tạo tính bất ngờ
+  nhomChuaLam = shuffle(nhomChuaLam);
+  nhomDaLamDung = shuffle(nhomDaLamDung);
 
+  // 3. Tiến trình gộp đề theo 3 bước lũy tiến
   let list = [];
 
-  // Bốc tối đa 70 câu từ nhóm ưu tiên (sai nhiều) để ôn lại, nhường 30 slot cho các câu hỏi mới
+  // Bước 3.1: Lấy từ nhóm câu hỏi từng làm sai (Giới hạn tối đa 70 câu để đề thi phong phú)
   let slotUuTien = nhomUuTien.slice(0, 70);
   list = list.concat(slotUuTien);
 
-  // Nạp nốt số lượng câu hỏi mới/chưa làm vào cho đủ đề 100 câu
-  for (let q of nhomBinhThuong) {
+  // Bước 3.2: Nếu chưa đủ 100 câu, nạp tiếp các câu chưa làm/câu mới
+  for (let q of nhomChuaLam) {
     if (list.length >= 100) break;
     list.push(q);
   }
 
-  // Nếu vẫn chưa đủ 100 câu (ví dụ kho câu mới bị cạn), lấy nốt phần còn dư của nhóm ưu tiên sai nhiều
+  // Bước 3.3: THỦ THUẬT MỚI THEO YÊU CẦU: Nếu câu sai + câu chưa làm vẫn hụt (< 100 câu)
+  // Tiến hành bốc thêm các câu hỏi đã làm đúng để bù đắp cho đủ 100 câu.
+  if (list.length < 100) {
+    for (let q of nhomDaLamDung) {
+      if (list.length >= 100) break;
+      list.push(q);
+    }
+  }
+
+  // Bước 3.4: Trường hợp dự phòng nếu kho đề quá nhỏ, vét nốt phần còn dư của nhóm ưu tiên sai nhiều
   if (list.length < 100 && nhomUuTien.length > 70) {
     let phanDuUuTien = nhomUuTien.slice(70);
     for (let q of phanDuUuTien) {
@@ -243,11 +258,10 @@ function startExam() {
     }
   }
 
-  // Trộn lộn xộn hoàn toàn 100 câu cuối cùng trước khi hiển thị cho học viên
+  // Trộn lộn xộn hoàn toàn 100 câu cuối cùng đan xen nhau trước khi hiển thị cho học viên
   list = shuffle(list);
 
-  // Kịch bản: TOÀN BỘ CÁC CÂU ĐÃ THI HẾT VÀ LÀM ĐÚNG (Mảng trống trơn không còn câu nào chưa làm hay làm sai)
-  // Hệ thống sẽ xóa sạch pool làm đúng và cho học lại từ đầu
+  // 4. Kịch bản quay lại từ đầu: Học viên xuất sắc làm đúng 100% không còn câu nào sai hay chưa làm
   if (list.length === 0 && data.length > 0) {
     alert("Chúc mừng! Bạn đã hoàn thành chính xác toàn bộ câu hỏi trong hệ thống. Đề thi sẽ tự động quay lại từ đầu!");
     localStorage.removeItem("correctPool");
@@ -443,8 +457,6 @@ function submit() {
         }
       }
     } else {
-      // THEO YÊU CẦU MỚI: Câu chưa làm (bỏ trống) được coi như câu mới. 
-      // Không phạt tăng weight nặng, KHÔNG ĐƯỢC CHO VÀO correctPool.
       wrong++; 
       let cIndex = correctPool.indexOf(qTextId);
       if (cIndex > -1) {
