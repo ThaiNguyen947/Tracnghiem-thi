@@ -179,47 +179,37 @@ function shuffle(arr) {
   return a;
 }
 
-// ================= START EXAM (THUẬT TOÁN TRỘN SIÊU MẠNH - DÀN TRẢI ĐỀ) =================
+// ================= START EXAM =================
 function startExam() {
   answers = {};
   index = 0;
   time = 60 * 60;
 
-  // Lấy danh sách nội dung câu hỏi đã làm đúng hoàn toàn từ các lượt trước
   let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
-
-  // Xáo trộn ngẫu nhiên toàn bộ kho dữ liệu gốc (data) ngay từ đầu để phá vỡ cấu trúc cụm file JSON
   let randomWholeData = shuffle(data);
 
-  // 1. Gom toàn bộ câu hỏi "Từng làm sai" từ kho đề đã được xáo trộn
   let wrongQuestions = randomWholeData.filter(q => {
     let qText = (q.question || q.cauhoi || "").trim();
     let isMarkedWrong = (q.weight && q.weight > 1) || (q.wrongCount && q.wrongCount > 0);
     return isMarkedWrong && !correctPool.includes(qText);
   });
 
-  // Lấy tối đa 100 câu sai làm nòng cốt nền tảng trước
   let list = wrongQuestions.slice(0, 100);
 
-  // 2. Nếu nhóm câu sai chưa đủ 100 câu ➡️ Bốc thêm từ các câu còn lại
   if (list.length < 100) {
-    // Lấy những câu chưa xuất hiện trong danh sách đề từ kho đã đảo ngẫu nhiên
     let remainingQuestions = randomWholeData.filter(q => {
       let qText = (q.question || q.cauhoi || "").trim();
       return !list.some(x => (x.question || x.cauhoi || "").trim() === qText);
     });
 
-    // Bốc bù lần lượt từ kho câu hỏi đã xáo trộn dàn trải
     for (let q of remainingQuestions) {
       if (list.length >= 100) break;
       list.push(q);
     }
   }
 
-  // 3. TRỘN TỔNG LỰC LẦN CUỐI: Nhào trộn lộn xộn tuyệt đối giữa câu sai và câu bù đắp
   list = shuffle(list);
 
-  // Trường hợp đặc biệt: Nếu người học đã làm đúng sạch hoàn toàn tất cả các câu
   if (list.length === 0 && data.length > 0) {
     alert("Chúc mừng! Bạn đã hoàn thành đúng toàn bộ câu hỏi. Hệ thống sẽ làm mới để bạn học lại từ đầu!");
     localStorage.removeItem("correctPool");
@@ -227,7 +217,6 @@ function startExam() {
     list = shuffle([...data]);
   }
 
-  // Cắt lấy chuẩn xác tối đa 100 câu phân tán ngẫu nhiên tuyệt đối
   questions = list.filter(q => q && (q.question || q.cauhoi)).slice(0, Math.min(100, list.length));
 
   render();
@@ -368,12 +357,13 @@ function startTimer() {
   }, 1000);
 }
 
-// ================= SUBMIT =================
+// ================= SUBMIT (UPDATED WITH SUBMITTED COUNT) =================
 function submit() {
   clearInterval(timer);
 
   let correct = 0;
   let wrong = 0;
+  let submittedCount = 0; // Biến đếm số câu học viên thực tế đã làm
   let newWrong = [];
 
   let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
@@ -394,6 +384,7 @@ function submit() {
     originalQ.wrongCount = originalQ.wrongCount || 0;
 
     if (userAns !== "") {
+      submittedCount++; // Tăng biến đếm nếu câu này học viên có chọn đáp án
       if (userAns === correctAns) {
         correct++;
         originalQ.correctCount++;
@@ -437,7 +428,9 @@ function submit() {
       font-family: 'Times New Roman', Times, serif;
     ">
       <h1 style="font-size: 24px; font-weight: bold; text-align: center; margin: 0 0 10px 0; color: #111; letter-spacing: 0.5px;">BÁO CÁO KẾT QUẢ KIỂM TRA</h1>
-      <p style="text-align: center; font-size: 15px; color: #555; margin: 0 0 20px 0;">
+      
+      <p style="text-align: center; font-size: 15px; color: #555; margin: 0 0 20px 0; line-height: 1.6;">
+        Số câu đã làm: <b style="color: #00796b; font-size: 16px;">${submittedCount}/${questions.length}</b><br>
         Số câu đúng: <b style="color: #2e7d32; font-size: 16px;">${correct}</b> | Chưa hoàn thành/Sai: <b style="color: #c62828; font-size: 16px;">${wrong}</b>
       </p>
 
