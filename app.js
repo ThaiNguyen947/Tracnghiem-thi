@@ -17,7 +17,6 @@ function getDeviceId() {
   }
   return id;
 }
-
 // ================= USER LIST =================
 const users = [
   { username: "mainguyen", password: "1234", role: "admin" },
