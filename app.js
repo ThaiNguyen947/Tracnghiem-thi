@@ -96,7 +96,9 @@ function checkLogin() {
 async function taiTatCaDuLieuCauHoi() {
   const danhSachFiles = [
     "./cau_hoi/p1.json",
-    "./cau_hoi/p2.json"
+    "./cau_hoi/p2.json",
+    "./cau_hoi/p3.json",
+    "./cau_hoi/p4.json"
   ];
   
   let beCauHoiTong = [];
