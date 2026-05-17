@@ -1,1 +1,771 @@
-[]
+[
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi tẩy xóa, sửa chữa làm sai lệch nội dung giấy tờ trong hồ sơ đề nghị bổ nhiệm công chứng viên bị xử phạt như thế nào?",
+    "a": "1.000.000 - 3.000.000 đồng",
+    "b": "3.000.000 - 7.000.000 đồng",
+    "c": "7.000.000 - 10.000.000 đồng",
+    "d": "10.000.000 - 15.000.000 đồng",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 13 Nghị định 109/2026/NĐ-CP quy định hành vi tẩy xóa, sửa chữa làm sai lệch nội dung giấy tờ trong hồ sơ bổ nhiệm, bổ nhiệm lại, miễn nhiệm công chứng viên bị phạt tiền từ 3.000.000 đến 7.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi giả mạo chữ ký của người yêu cầu công chứng thuộc nhóm vi phạm nào?",
+    "a": "Vi phạm về hồ sơ công chứng viên",
+    "b": "Vi phạm về hoạt động công chứng giao dịch",
+    "c": "Vi phạm về chứng thực chữ ký người dịch",
+    "d": "Vi phạm về tổ chức xã hội - nghề nghiệp",
+    "answer": "b",
+    "explanation": "Điểm a khoản 3 Điều 14 Nghị định 109/2026/NĐ-CP quy định hành vi giả mạo chữ ký thuộc nhóm vi phạm trong hoạt động công chứng giao dịch."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi cản trở hoạt động công chứng bị xử phạt ở mức nào?",
+    "a": "7.000.000 - 10.000.000 đồng",
+    "b": "10.000.000 - 15.000.000 đồng",
+    "c": "15.000.000 - 20.000.000 đồng",
+    "d": "20.000.000 - 30.000.000 đồng",
+    "answer": "d",
+    "explanation": "Khoản 3 Điều 14 Nghị định 109/2026/NĐ-CP quy định hành vi cản trở hoạt động công chứng bị phạt tiền từ 20.000.000 đến 30.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, công chứng di chúc khi người lập di chúc có dấu hiệu bị mất năng lực hành vi dân sự thuộc mức phạt nào?",
+    "a": "1.000.000 - 3.000.000 đồng",
+    "b": "7.000.000 - 10.000.000 đồng",
+    "c": "10.000.000 - 15.000.000 đồng",
+    "d": "15.000.000 - 25.000.000 đồng",
+    "answer": "c",
+    "explanation": "Điểm b khoản 3 Điều 15 Nghị định 109/2026/NĐ-CP quy định hành vi công chứng di chúc khi người lập di chúc không đủ điều kiện năng lực hoặc có dấu hiệu bị ép buộc bị phạt từ 10.000.000 đến 15.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi không kiểm tra đối chiếu bản chính giấy tờ trước khi công chứng bị xử phạt như thế nào?",
+    "a": "1.000.000 - 3.000.000 đồng",
+    "b": "3.000.000 - 7.000.000 đồng",
+    "c": "7.000.000 - 10.000.000 đồng",
+    "d": "10.000.000 - 15.000.000 đồng",
+    "answer": "c",
+    "explanation": "Điểm c khoản 3 Điều 16 Nghị định 109/2026/NĐ-CP quy định hành vi không kiểm tra, đối chiếu bản chính giấy tờ trước khi ký lời chứng bị phạt từ 7.000.000 đến 10.000.000 đồng."
+  },
+  {
+  "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi đồng thời hành nghề tại hai tổ chức hành nghề công chứng bị xử phạt tiền ở mức nào?",
+  "a": "3.000.000 - 7.000.000 đồng",
+  "b": "7.000.000 - 10.000.000 đồng",
+  "c": "10.000.000 - 15.000.000 đồng",
+  "d": "15.000.000 - 25.000.000 đồng",
+  "answer": "c",
+  "explanation": "Điểm q khoản 4 Điều 16 Nghị định 109/2026/NĐ-CP quy định hành vi đồng thời hành nghề tại hai tổ chức hành nghề công chứng bị phạt tiền từ 10.000.000 đến 15.000.000 đồng."
+},
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi không đăng ký hoạt động Văn phòng công chứng bị xử phạt như thế nào?",
+    "a": "10.000.000 - 20.000.000 đồng",
+    "b": "20.000.000 - 30.000.000 đồng",
+    "c": "30.000.000 - 40.000.000 đồng",
+    "d": "40.000.000 - 50.000.000 đồng",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 17 Nghị định 109/2026/NĐ-CP quy định hành vi không đăng ký hoạt động Văn phòng công chứng bị phạt từ 20.000.000 đến 30.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi sử dụng giấy tờ giả để chứng thực giao dịch bị xử phạt như thế nào?",
+    "a": "1.000.000 - 3.000.000 đồng",
+    "b": "7.000.000 - 10.000.000 đồng",
+    "c": "10.000.000 - 15.000.000 đồng",
+    "d": "15.000.000 - 20.000.000 đồng",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 20 Nghị định 109/2026/NĐ-CP quy định hành vi sử dụng giấy tờ giả để chứng thực giao dịch bị phạt từ 7.000.000 đến 10.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi không thực hiện nhận biết khách hàng trong phòng, chống rửa tiền bị xử phạt như thế nào?",
+    "a": "10.000.000 - 20.000.000 đồng",
+    "b": "20.000.000 - 30.000.000 đồng",
+    "c": "30.000.000 - 40.000.000 đồng",
+    "d": "40.000.000 - 60.000.000 đồng",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 22 Nghị định 109/2026/NĐ-CP quy định hành vi không áp dụng biện pháp nhận biết khách hàng bị phạt từ 10.000.000 đến 20.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi không gia nhập Hội công chứng viên tại địa phương nơi hành nghề bị xử phạt theo mức nào?",
+    "a": "1.000.000 - 3.000.000 đồng",
+    "b": "3.000.000 - 7.000.000 đồng",
+    "c": "7.000.000 - 10.000.000 đồng",
+    "d": "10.000.000 - 15.000.000 đồng",
+    "answer": "b",
+    "explanation": "Điểm đ khoản 2 Điều 16 Nghị định 109/2026/NĐ-CP quy định hành vi không gia nhập hoặc không duy trì tư cách hội viên Hội công chứng viên bị phạt tiền từ 3.000.000 đến 7.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi công chứng giao dịch khi không có chữ ký của các chủ thể giao dịch bị xử phạt như thế nào?",
+    "a": "10.000.000 - 15.000.000 đồng",
+    "b": "15.000.000 - 25.000.000 đồng",
+    "c": "25.000.000 - 30.000.000 đồng",
+    "d": "30.000.000 - 40.000.000 đồng",
+    "answer": "c",
+    "explanation": "Khoản 6 Điều 16 Nghị định 109/2026/NĐ-CP quy định hành vi công chứng giao dịch không có đầy đủ chữ ký của chủ thể giao dịch bị phạt tiền từ 25.000.000 đến 30.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi thu tiền hoa hồng trong hoạt động công chứng bị xử phạt theo mức nào?",
+    "a": "7.000.000 - 10.000.000 đồng",
+    "b": "10.000.000 - 15.000.000 đồng",
+    "c": "15.000.000 - 25.000.000 đồng",
+    "d": "25.000.000 - 30.000.000 đồng",
+    "answer": "c",
+    "explanation": "Điểm n khoản 4 Điều 16 Nghị định 109/2026/NĐ-CP quy định hành vi trả hoặc nhận hoa hồng, chiết khấu trong công chứng bị phạt tiền từ 10.000.000 đến 15.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi không lưu trữ hồ sơ công chứng bị xử phạt như thế nào?",
+    "a": "10.000.000 - 20.000.000 đồng",
+    "b": "20.000.000 - 30.000.000 đồng",
+    "c": "30.000.000 - 40.000.000 đồng",
+    "d": "40.000.000 - 50.000.000 đồng",
+    "answer": "c",
+    "explanation": "Điểm đ khoản 4 Điều 17 Nghị định 109/2026/NĐ-CP quy định hành vi không lưu trữ hồ sơ công chứng bị phạt tiền từ 20.000.000 đến 30.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi mở chi nhánh văn phòng công chứng ngoài trụ sở bị xử phạt như thế nào?",
+    "a": "10.000.000 - 20.000.000 đồng",
+    "b": "20.000.000 - 30.000.000 đồng",
+    "c": "30.000.000 - 40.000.000 đồng",
+    "d": "40.000.000 - 50.000.000 đồng",
+    "answer": "c",
+    "explanation": "Khoản 5 Điều 17 Nghị định 109/2026/NĐ-CP quy định hành vi mở chi nhánh, văn phòng đại diện hoặc cơ sở ngoài trụ sở bị phạt tiền từ 30.000.000 đến 40.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi làm mất hồ sơ công chứng bị xử phạt theo mức nào?",
+    "a": "20.000.000 - 30.000.000 đồng",
+    "b": "30.000.000 - 40.000.000 đồng",
+    "c": "40.000.000 - 50.000.000 đồng",
+    "d": "50.000.000 - 60.000.000 đồng",
+    "answer": "c",
+    "explanation": "Điểm e khoản 4 Điều 17 Nghị định 109/2026/NĐ-CP quy định hành vi làm mất hồ sơ công chứng bị phạt tiền từ 20.000.000 đến 30.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi công chứng giao dịch khi không có bản chính giấy tờ bắt buộc thuộc mức phạt nào?",
+    "a": "7.000.000 - 10.000.000 đồng",
+    "b": "10.000.000 - 15.000.000 đồng",
+    "c": "15.000.000 - 25.000.000 đồng",
+    "d": "25.000.000 - 30.000.000 đồng",
+    "answer": "d",
+    "explanation": "Điểm o khoản 4 Điều 16 Nghị định 109/2026/NĐ-CP quy định công chứng khi không có bản chính giấy tờ bắt buộc bị phạt từ 25.000.000 đến 30.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi không ban hành quy định nội bộ về phòng chống rửa tiền bị xử phạt như thế nào?",
+    "a": "20.000.000 - 40.000.000 đồng",
+    "b": "40.000.000 - 60.000.000 đồng",
+    "c": "60.000.000 - 80.000.000 đồng",
+    "d": "80.000.000 - 100.000.000 đồng",
+    "answer": "c",
+    "explanation": "Khoản 6 Điều 22 Nghị định 109/2026/NĐ-CP quy định hành vi không ban hành quy định nội bộ về phòng chống rửa tiền bị phạt tiền từ 60.000.000 đến 80.000.000 đồng."
+  },
+{
+  "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi quảng cáo về công chứng viên và tổ chức hành nghề công chứng bị xử phạt như thế nào?",
+  "a": "10.000.000 - 20.000.000 đồng",
+  "b": "20.000.000 - 30.000.000 đồng",
+  "c": "30.000.000 - 40.000.000 đồng",
+  "d": "40.000.000 - 50.000.000 đồng",
+  "answer": "c",
+  "explanation": "Điểm c khoản 4 Điều 17 Nghị định 109/2026/NĐ-CP quy định hành vi quảng cáo về công chứng viên và tổ chức hành nghề công chứng bị phạt tiền từ 20.000.000 đến 30.000.000 đồng."
+},
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi không niêm yết lịch làm việc, thủ tục công chứng tại trụ sở tổ chức hành nghề công chứng bị xử phạt như thế nào?",
+    "a": "1.000.000 - 3.000.000 đồng",
+    "b": "3.000.000 - 7.000.000 đồng",
+    "c": "7.000.000 - 10.000.000 đồng",
+    "d": "10.000.000 - 15.000.000 đồng",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 17 Nghị định 109/2026/NĐ-CP quy định hành vi không niêm yết hoặc niêm yết không đầy đủ nội dung bắt buộc tại trụ sở bị phạt từ 3.000.000 đến 7.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi không mua bảo hiểm trách nhiệm nghề nghiệp cho công chứng viên thuộc tổ chức hành nghề công chứng bị xử phạt như thế nào?",
+    "a": "7.000.000 - 10.000.000 đồng",
+    "b": "10.000.000 - 20.000.000 đồng",
+    "c": "20.000.000 - 30.000.000 đồng",
+    "d": "30.000.000 - 40.000.000 đồng",
+    "answer": "c",
+    "explanation": "Điểm b khoản 3 Điều 17 Nghị định 109/2026/NĐ-CP quy định hành vi không mua bảo hiểm trách nhiệm nghề nghiệp bị phạt tiền từ 10.000.000 đến 20.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi không đóng dấu giáp lai đối với văn bản công chứng từ 02 tờ trở lên bị xử phạt như thế nào?",
+    "a": "1.000.000 - 3.000.000 đồng",
+    "b": "3.000.000 - 7.000.000 đồng",
+    "c": "7.000.000 - 10.000.000 đồng",
+    "d": "10.000.000 - 15.000.000 đồng",
+    "answer": "b",
+    "explanation": "Điểm l khoản 1 Điều 16 Nghị định 109/2026/NĐ-CP quy định không đóng dấu giáp lai văn bản công chứng bị phạt từ 1.000.000 đến 3.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi từ chối tiếp nhận hồ sơ công chứng do Sở Tư pháp chỉ định mà không có lý do chính đáng bị xử phạt như thế nào?",
+    "a": "3.000.000 - 7.000.000 đồng",
+    "b": "7.000.000 - 10.000.000 đồng",
+    "c": "10.000.000 - 15.000.000 đồng",
+    "d": "15.000.000 - 25.000.000 đồng",
+    "answer": "a",
+    "explanation": "Điểm h khoản 3 Điều 17 Nghị định 109/2026/NĐ-CP quy định hành vi từ chối tiếp nhận hồ sơ công chứng do Sở Tư pháp chỉ định bị phạt từ 3.000.000 đến 7.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi công chứng giao dịch khi không chứng kiến trực tiếp việc ký hoặc điểm chỉ bị xử phạt như thế nào?",
+    "a": "3.000.000 - 7.000.000 đồng",
+    "b": "7.000.000 - 10.000.000 đồng",
+    "c": "10.000.000 - 15.000.000 đồng",
+    "d": "15.000.000 - 25.000.000 đồng",
+    "answer": "b",
+    "explanation": "Điểm đ khoản 3 Điều 16 Nghị định 109/2026/NĐ-CP quy định hành vi không chứng kiến trực tiếp việc ký hoặc điểm chỉ bị phạt từ 7.000.000 đến 10.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi không ghi số văn bản công chứng hoặc không đóng dấu tổ chức hành nghề công chứng bị xử phạt như thế nào?",
+    "a": "1.000.000 - 3.000.000 đồng",
+    "b": "3.000.000 - 7.000.000 đồng",
+    "c": "7.000.000 - 10.000.000 đồng",
+    "d": "10.000.000 - 15.000.000 đồng",
+    "answer": "b",
+    "explanation": "Điểm l khoản 1 Điều 17 Nghị định 109/2026/NĐ-CP quy định hành vi không ghi số văn bản công chứng hoặc không đóng dấu bị phạt từ 3.000.000 đến 7.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi không tham gia bồi dưỡng nghiệp vụ công chứng hằng năm bị xử phạt như thế nào?",
+    "a": "1.000.000 - 3.000.000 đồng",
+    "b": "3.000.000 - 7.000.000 đồng",
+    "c": "7.000.000 - 10.000.000 đồng",
+    "d": "10.000.000 - 15.000.000 đồng",
+    "answer": "b",
+    "explanation": "Điểm d khoản 1 và điểm e khoản 2 Điều 16 Nghị định 109/2026/NĐ-CP quy định hành vi không tham gia bồi dưỡng nghiệp vụ công chứng bị phạt từ 3.000.000 đến 7.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi công chứng ngoài trụ sở không đúng quy định bị xử phạt như thế nào?",
+    "a": "1.000.000 - 3.000.000 đồng",
+    "b": "3.000.000 - 7.000.000 đồng",
+    "c": "7.000.000 - 10.000.000 đồng",
+    "d": "10.000.000 - 15.000.000 đồng",
+    "answer": "b",
+    "explanation": "Điểm a khoản 2 Điều 16 Nghị định 109/2026/NĐ-CP quy định hành vi công chứng ngoài trụ sở không đúng quy định bị phạt từ 3.000.000 đến 7.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi không thực hiện chế độ báo cáo của tổ chức hành nghề công chứng bị xử phạt như thế nào?",
+    "a": "1.000.000 - 3.000.000 đồng",
+    "b": "3.000.000 - 7.000.000 đồng",
+    "c": "7.000.000 - 10.000.000 đồng",
+    "d": "10.000.000 - 15.000.000 đồng",
+    "answer": "b",
+    "explanation": "Điểm c khoản 1 Điều 17 Nghị định 109/2026/NĐ-CP quy định hành vi không thực hiện chế độ báo cáo hoặc báo cáo không đúng bị phạt từ 3.000.000 đến 7.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, những hành vi nào sau đây thuộc nhóm bị phạt tiền từ 3.000.000 đồng đến 7.000.000 đồng trong hoạt động công chứng và chứng thực?",
+    "a": "Công chứng ngoài trụ sở không đúng quy định; Không đánh số trang văn bản công chứng; Không xuất trình thẻ công chứng viên khi hành nghề",
+    "b": "Giả mạo chữ ký công chứng viên; Công chứng giao dịch giả tạo; Chiếm đoạt hồ sơ công chứng",
+    "c": "Quảng cáo dịch vụ công chứng; Đầu tư trái phép vào văn phòng công chứng; Hành nghề không đủ điều kiện",
+    "d": "Tiết lộ thông tin công chứng; Nhận tiền ngoài phí công chứng; Công chứng ngoài phạm vi tỉnh",
+    "answer": "a",
+    "explanation": "Nhóm hành vi tại khoản 2 Điều 16 và khoản 1 Điều 16 Nghị định 109/2026/NĐ-CP thuộc mức phạt 3.000.000 - 7.000.000 đồng gồm công chứng ngoài trụ sở không đúng quy định, không đánh số trang văn bản công chứng, không xuất trình thẻ công chứng viên khi hành nghề."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi nào sau đây thuộc nhóm bị phạt tiền từ 7.000.000 đồng đến 10.000.000 đồng trong lĩnh vực công chứng?",
+    "a": "Tiết lộ thông tin công chứng; Công chứng khi thiếu chữ ký; Không kiểm tra bản chính giấy tờ",
+    "b": "Quảng cáo dịch vụ công chứng; Nhận tiền ngoài phí; Đồng thời hành nghề 2 nơi",
+    "c": "Giả mạo chữ ký; Công chứng giao dịch giả tạo; Chiếm đoạt hồ sơ công chứng",
+    "d": "Hành nghề không đủ điều kiện; Công chứng điện tử sai nền tảng; Đầu tư trái phép văn phòng công chứng",
+    "answer": "a",
+    "explanation": "Khoản 3 Điều 16 Nghị định 109/2026/NĐ-CP quy định nhóm 7.000.000 - 10.000.000 đồng gồm tiết lộ thông tin công chứng, công chứng thiếu chữ ký, không kiểm tra đối chiếu bản chính giấy tờ."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi nào sau đây thuộc nhóm bị phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng?",
+    "a": "Công chứng di chúc trái quy định; Không có giấy tờ chứng minh quyền sở hữu tài sản; Công chứng không đủ điều kiện năng lực hành vi",
+    "b": "Công chứng ngoài trụ sở; Không xuất trình thẻ công chứng viên; Không đánh số trang văn bản",
+    "c": "Giả mạo chữ ký; Cung cấp thông tin sai sự thật; Cản trở hoạt động công chứng",
+    "d": "Quảng cáo công chứng; Đồng thời hành nghề 2 nơi; Nhận tiền ngoài phí công chứng",
+    "answer": "a",
+    "explanation": "Khoản 3 Điều 15 và khoản 3 Điều 14 Nghị định 109/2026/NĐ-CP quy định nhóm 10.000.000 - 15.000.000 đồng gồm công chứng di chúc trái quy định, thiếu giấy tờ chứng minh quyền sở hữu tài sản, và các trường hợp không đủ điều kiện lập di chúc."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, những hành vi nào thuộc nhóm bị phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng?",
+    "a": "Giả mạo chữ ký; Công chứng giao dịch giả tạo; Cung cấp thông tin sai sự thật; Cản trở hoạt động công chứng",
+    "b": "Công chứng ngoài trụ sở; Không đánh số trang; Không xuất trình thẻ công chứng viên",
+    "c": "Tiết lộ thông tin công chứng; Công chứng thiếu chữ ký; Không kiểm tra giấy tờ",
+    "d": "Không bồi dưỡng nghiệp vụ; Không niêm yết lịch làm việc; Không mua bảo hiểm",
+    "answer": "a",
+    "explanation": "Khoản 3 Điều 14 Nghị định 109/2026/NĐ-CP quy định nhóm 20.000.000 - 30.000.000 đồng gồm giả mạo chữ ký, công chứng giao dịch giả tạo, cung cấp thông tin sai sự thật và cản trở hoạt động công chứng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi nào thuộc nhóm bị phạt tiền từ 30.000.000 đồng đến 40.000.000 đồng trong hoạt động công chứng?",
+    "a": "Không phải tổ chức hành nghề công chứng nhưng cung cấp dịch vụ công chứng; Đặt tên, quảng cáo gây nhầm lẫn dịch vụ công chứng; Chiếm đoạt hồ sơ công chứng",
+    "b": "Công chứng ngoài trụ sở; Không xuất trình thẻ công chứng viên; Không đánh số trang",
+    "c": "Tiết lộ thông tin công chứng; Nhận tiền ngoài phí công chứng; Không kiểm tra giấy tờ",
+    "d": "Không niêm yết lịch làm việc; Không lập sổ công chứng; Không báo cáo định kỳ",
+    "answer": "a",
+    "explanation": "Khoản 4 Điều 14 Nghị định 109/2026/NĐ-CP quy định nhóm 30.000.000 - 40.000.000 đồng gồm hành vi giả danh hoạt động công chứng, cung cấp dịch vụ công chứng trái phép và chiếm đoạt hồ sơ công chứng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi nào thuộc nhóm bị phạt tiền từ 40.000.000 đồng đến 50.000.000 đồng?",
+    "a": "Không vào sổ công chứng; Nhận vốn góp trái phép; Thuê người không đủ điều kiện điều hành văn phòng công chứng",
+    "b": "Công chứng ngoài trụ sở; Không đánh số trang; Không xuất trình thẻ công chứng viên",
+    "c": "Giả mạo chữ ký; Công chứng giả tạo; Tiết lộ thông tin công chứng",
+    "d": "Không bồi dưỡng nghiệp vụ; Không niêm yết lịch làm việc; Không mua bảo hiểm",
+    "answer": "a",
+    "explanation": "Khoản 6 Điều 17 Nghị định 109/2026/NĐ-CP quy định nhóm 40.000.000 - 50.000.000 đồng gồm các hành vi nghiêm trọng như không vào sổ công chứng, nhận vốn góp trái phép và thuê người không đủ điều kiện điều hành."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, những hành vi nào thuộc nhóm bị phạt tiền từ 3.000.000 đồng đến 7.000.000 đồng trong hoạt động tổ chức hành nghề công chứng?",
+    "a": "Không niêm yết lịch làm việc, thủ tục công chứng; không ghi số văn bản công chứng; không đóng dấu giáp lai văn bản từ 02 tờ trở lên; không giao bản gốc văn bản công chứng cho người yêu cầu",
+    "b": "Công chứng giao dịch giả tạo; giả mạo chữ ký; chiếm đoạt hồ sơ công chứng; nhận tiền ngoài phí công chứng",
+    "c": "Không đăng ký hoạt động văn phòng công chứng; không mua bảo hiểm trách nhiệm nghề nghiệp; không lập quy định nội bộ",
+    "d": "Không thực hiện đánh giá rủi ro phòng chống rửa tiền; không báo cáo giao dịch đáng ngờ; không phân loại khách hàng",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 17 Nghị định 109/2026/NĐ-CP quy định nhóm hành vi về niêm yết, ghi số văn bản công chứng, đóng dấu giáp lai, giao bản gốc văn bản công chứng thuộc mức phạt 3.000.000 - 7.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, những hành vi nào thuộc nhóm bị phạt tiền từ 7.000.000 đồng đến 10.000.000 đồng trong hoạt động chứng thực?",
+    "a": "Không thực hiện đúng thời hạn chứng thực; chứng thực ngoài trụ sở không đúng quy định; không ghi hoặc ghi không rõ địa điểm chứng thực; lập sổ chứng thực không đúng quy định",
+    "b": "Giả mạo chữ ký công chứng viên; công chứng giao dịch giả tạo; cung cấp thông tin sai sự thật",
+    "c": "Không đăng ký hoạt động văn phòng công chứng; không mua bảo hiểm trách nhiệm nghề nghiệp",
+    "d": "Không thực hiện phòng chống rửa tiền; không báo cáo giao dịch đáng ngờ",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 19 Nghị định 109/2026/NĐ-CP quy định nhóm hành vi vi phạm về chứng thực bản sao và chữ ký như không đúng thời hạn, ghi sai địa điểm, lập sổ chứng thực sai quy định thuộc mức phạt 7.000.000 - 10.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, những hành vi nào thuộc nhóm bị phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng trong hoạt động chứng thực?",
+    "a": "Chứng thực chữ ký người dịch khi không kiểm tra điều kiện cộng tác viên; dịch sai nội dung; không ký hợp đồng với cộng tác viên dịch thuật; không báo cáo danh sách cộng tác viên",
+    "b": "Công chứng di chúc trái quy định; không đủ năng lực hành vi dân sự; thiếu giấy tờ chứng minh quyền sở hữu",
+    "c": "Giả mạo chữ ký; cản trở hoạt động công chứng; cung cấp thông tin sai sự thật",
+    "d": "Không niêm yết lịch làm việc; không lập sổ công chứng; không xuất trình thẻ công chứng viên",
+    "answer": "a",
+    "explanation": "Khoản 3 Điều 21 Nghị định 109/2026/NĐ-CP quy định nhóm hành vi về chứng thực chữ ký người dịch như không kiểm tra cộng tác viên, dịch sai nội dung, không ký hợp đồng hoặc không báo cáo danh sách cộng tác viên thuộc mức 10.000.000 - 15.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, những hành vi nào thuộc nhóm bị phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng trong lĩnh vực phòng chống rửa tiền?",
+    "a": "Không phân loại khách hàng theo mức độ rủi ro; không báo cáo giao dịch lớn; không báo cáo giao dịch đáng ngờ; không cung cấp thông tin theo quy định",
+    "b": "Không niêm yết lịch làm việc; không đánh số trang văn bản; không xuất trình thẻ công chứng viên",
+    "c": "Công chứng giao dịch giả tạo; giả mạo chữ ký; chiếm đoạt hồ sơ công chứng",
+    "d": "Không mua bảo hiểm nghề nghiệp; không đăng ký hoạt động; không lập sổ công chứng",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 22 Nghị định 109/2026/NĐ-CP quy định nhóm hành vi không phân loại khách hàng, không báo cáo giao dịch lớn, không báo cáo giao dịch đáng ngờ, không cung cấp thông tin theo quy định thuộc mức phạt 20.000.000 - 30.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, những hành vi nào thuộc nhóm bị phạt tiền từ 40.000.000 đồng đến 50.000.000 đồng trong hoạt động tổ chức hành nghề công chứng?",
+    "a": "Không tiếp nhận hồ sơ công chứng theo chỉ định; không thực hiện chuyển đổi hồ sơ công chứng sang dữ liệu điện tử; làm mất hồ sơ công chứng; không lưu trữ hồ sơ công chứng",
+    "b": "Công chứng ngoài trụ sở; không đánh số trang; không xuất trình thẻ công chứng viên",
+    "c": "Giả mạo chữ ký; công chứng giao dịch giả tạo; tiết lộ thông tin công chứng",
+    "d": "Không niêm yết lịch làm việc; không lập sổ công chứng; không bồi dưỡng nghiệp vụ",
+    "answer": "a",
+    "explanation": "Khoản 6 Điều 17 Nghị định 109/2026/NĐ-CP quy định nhóm hành vi nghiêm trọng như không tiếp nhận hồ sơ theo chỉ định, không lưu trữ hồ sơ, làm mất hồ sơ công chứng, không chuyển đổi hồ sơ điện tử thuộc mức phạt 40.000.000 - 50.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, những hành vi nào thuộc nhóm bị TƯỚC quyền sử dụng thẻ công chứng viên từ 01 tháng đến 03 tháng?",
+    "a": "Công chứng văn bản phân chia di sản có căn cứ cho rằng di chúc không hợp pháp; Công chứng văn bản phân chia di sản thiếu giấy tờ chứng minh quan hệ thừa kế; Công chứng văn bản từ chối nhận di sản trong trường hợp nhằm trốn tránh nghĩa vụ tài sản; Công chứng văn bản phân chia di sản không có giấy tờ chứng minh quyền sở hữu tài sản",
+    "b": "Sử dụng thẻ công chứng viên của người khác; Hành nghề trong thời gian bị tước thẻ; Công chứng điện tử không đủ điều kiện",
+    "c": "Không niêm phong di chúc; Không đánh số trang văn bản; Không xuất trình thẻ công chứng viên",
+    "d": "Không đăng ký hoạt động; Không lưu trữ hồ sơ công chứng; Thu phí vượt mức quy định",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 4 Điều 15 và khoản 8 Điều 16 Nghị định 109/2026/NĐ-CP, mức tước thẻ từ 01 đến 03 tháng áp dụng với các vi phạm ở mức trung bình như công chứng sai điều kiện thừa kế, sai hồ sơ di sản, hoặc có căn cứ cho rằng việc hưởng di sản trái pháp luật nhưng chưa đến mức nghiêm trọng hơn."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, những hành vi nào thuộc nhóm bị TƯỚC quyền sử dụng thẻ công chứng viên từ 03 tháng đến 06 tháng?",
+    "a": "Cho người khác sử dụng quyết định bổ nhiệm công chứng viên để thành lập Văn phòng công chứng; Sử dụng hoặc cho người khác sử dụng hồ sơ cá nhân công chứng viên không có đồng ý; Chứng thực chữ ký người dịch mà không ghi vào sổ chứng thực; Không chứng thực chữ ký người dịch theo đúng quy định sổ sách",
+    "b": "Không niêm phong di chúc; Không đánh số trang; Không giao giấy nhận lưu giữ",
+    "c": "Không đăng ký hoạt động; Không lưu trữ hồ sơ; Quảng cáo công chứng",
+    "d": "Công chứng di chúc trái luật; Giả mạo chữ ký công chứng viên; Nhận tiền ngoài phí công chứng",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 3 Điều 16 và khoản 6 Điều 19 Nghị định 109/2026/NĐ-CP, tước thẻ từ 03 đến 06 tháng áp dụng với hành vi vi phạm mang tính gian dối tổ chức, cho mượn hồ sơ, hoặc sai phạm nghiêm trọng về sổ sách chứng thực."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, những hành vi nào thuộc nhóm bị TƯỚC quyền sử dụng thẻ công chứng viên từ 06 tháng đến 09 tháng?",
+    "a": "Chứng thực bản sao không đối chiếu bản chính; Chứng thực chữ ký trong trường hợp giấy tờ không còn giá trị sử dụng; Chứng thực chữ ký trong văn bản liên quan tài sản của người thân; Không chụp ảnh người yêu cầu công chứng theo quy định; Không bảo đảm yêu cầu về ảnh chứng thực",
+    "b": "Không đánh số trang; Không niêm phong di chúc; Không xuất trình thẻ công chứng viên",
+    "c": "Không đăng ký hoạt động; Không báo cáo; Không mua bảo hiểm nghề nghiệp",
+    "d": "Công chứng ngoài trụ sở; Không đúng thời hạn; Không bồi dưỡng nghiệp vụ",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 6 Điều 19 Nghị định 109/2026/NĐ-CP, mức tước thẻ 06–09 tháng áp dụng với hành vi chứng thực sai điều kiện pháp lý cơ bản, không đối chiếu bản chính, hoặc thực hiện chứng thực trong trường hợp pháp luật cấm."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, những hành vi nào thuộc nhóm bị TƯỚC quyền sử dụng thẻ công chứng viên từ 09 tháng đến 12 tháng?",
+    "a": "Chứng thực nội dung trái pháp luật hoặc đạo đức xã hội; Tiết lộ thông tin công chứng trái quy định; Nhận tiền ngoài phí công chứng; Không chứng kiến việc ký, điểm chỉ; Công chứng khi người ký không có thẩm quyền; Công chứng giao dịch không có đủ chữ ký chủ thể",
+    "b": "Không đánh số trang; Không niêm phong di chúc; Không xuất trình thẻ công chứng viên",
+    "c": "Không đăng ký hoạt động; Không lưu trữ hồ sơ; Thu phí vượt mức",
+    "d": "Không ghi lời chứng; Không đóng dấu giáp lai; Không tham gia bồi dưỡng nghiệp vụ",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 4 và khoản 5 Điều 19, khoản 7 Điều 16 và khoản 5 Điều 14 Nghị định 109/2026/NĐ-CP, mức tước thẻ 09–12 tháng áp dụng với hành vi đặc biệt nghiêm trọng như giả mạo, công chứng trái pháp luật, nhận lợi ích trái quy định, hoặc vi phạm điều kiện nền tảng của hoạt động công chứng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, trường hợp nào có thể dẫn đến miễn nhiệm hoặc chấm dứt hành nghề công chứng (bản chất nghiêm trọng nhất trong nhóm chế tài)?",
+    "a": "Hành nghề khi không đủ điều kiện theo quy định; Sử dụng thẻ công chứng viên của người khác để hành nghề; Góp vốn trái phép để chi phối Văn phòng công chứng; Cho thuê hoặc để người khác điều hành Văn phòng công chứng; Công chứng viên bị thu hồi thẻ nhưng vẫn hành nghề",
+    "b": "Không niêm phong di chúc; Không đánh số trang; Không xuất trình thẻ công chứng viên",
+    "c": "Không niêm yết thủ tục; Không báo cáo định kỳ; Không bồi dưỡng nghiệp vụ",
+    "d": "Công chứng ngoài trụ sở; Không đúng thời hạn; Không ghi lời chứng đầy đủ",
+    "answer": "a",
+    "explanation": "Theo các quy định tại Điều 14, Điều 16 và Điều 17 Nghị định 109/2026/NĐ-CP, các hành vi vi phạm mang tính cấu trúc nghề nghiệp như hành nghề khi không đủ điều kiện, sử dụng thẻ người khác, thao túng tổ chức hành nghề hoặc bị thu hồi thẻ nhưng vẫn hành nghề là căn cứ nghiêm trọng có thể dẫn đến miễn nhiệm hoặc chấm dứt tư cách hành nghề công chứng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, tước quyền sử dụng thẻ công chứng viên từ 01 tháng đến 03 tháng áp dụng đối với những hành vi nào sau đây?",
+    "a": "Công chứng việc sửa đổi, bổ sung, hủy bỏ giao dịch đã công chứng mà không có sự thỏa thuận bằng văn bản của tất cả các bên tham gia giao dịch",
+    "b": "Công chứng giao dịch khi thiếu chữ ký của công chứng viên hoặc thiếu chữ ký của người yêu cầu công chứng ở từng trang của văn bản",
+    "c": "Không thực hiện chế độ báo cáo thống kê của tổ chức hành nghề công chứng",
+    "d": "Không niêm yết phí công chứng tại trụ sở",
+    "answer": "a",
+    "explanation": "Nhóm hành vi sửa đổi, bổ sung, hủy bỏ giao dịch đã công chứng nhưng không có sự thỏa thuận bằng văn bản của tất cả các bên thuộc trường hợp bị tước quyền sử dụng thẻ công chứng viên từ 01 đến 03 tháng theo khoản 8 Điều 16 Nghị định 109/2026/NĐ-CP."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, tước quyền sử dụng thẻ công chứng viên từ 03 tháng đến 06 tháng áp dụng đối với những hành vi nào sau đây?",
+    "a": "Không chứng kiến trực tiếp việc người yêu cầu công chứng, người làm chứng hoặc người phiên dịch ký hoặc điểm chỉ vào từng trang của giao dịch",
+    "b": "Không lập sổ công chứng theo quy định",
+    "c": "Không niêm yết lịch làm việc tại trụ sở",
+    "d": "Không tham gia bồi dưỡng nghiệp vụ công chứng hằng năm",
+    "answer": "a",
+    "explanation": "Khoản 8 Điều 16 Nghị định 109/2026/NĐ-CP quy định hành vi không chứng kiến trực tiếp việc ký hoặc điểm chỉ thuộc trường hợp bị tước thẻ công chứng viên từ 03 đến 06 tháng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, tước quyền sử dụng thẻ công chứng viên từ 06 tháng đến 09 tháng áp dụng đối với những hành vi nào sau đây?",
+    "a": "Chứng thực bản sao từ bản chính nhưng không đối chiếu với bản chính",
+    "b": "Không ghi số văn bản công chứng hoặc không đóng dấu giáp lai theo quy định",
+    "c": "Không niêm yết lịch làm việc tại trụ sở",
+    "d": "Không lập hồ sơ lưu trữ công chứng đầy đủ",
+    "answer": "a",
+    "explanation": "Khoản 8 Điều 16 Nghị định 109/2026/NĐ-CP quy định hành vi chứng thực bản sao không đối chiếu với bản chính thuộc nhóm bị tước thẻ công chứng viên từ 06 đến 09 tháng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, tước quyền sử dụng thẻ công chứng viên từ 09 tháng đến 12 tháng áp dụng đối với những hành vi nào sau đây?",
+    "a": "Chứng thực hoặc công chứng nội dung giao dịch trái pháp luật, trái đạo đức xã hội hoặc vi phạm nghiêm trọng điều kiện hành nghề",
+    "b": "Không thực hiện chế độ báo cáo định kỳ",
+    "c": "Không niêm yết phí công chứng tại trụ sở",
+    "d": "Không tham gia bồi dưỡng nghiệp vụ công chứng hằng năm",
+    "answer": "a",
+    "explanation": "Khoản 5 Điều 19 và các quy định liên quan của Nghị định 109/2026/NĐ-CP quy định hành vi chứng thực hoặc công chứng nội dung trái pháp luật, đạo đức xã hội thuộc nhóm bị tước thẻ công chứng viên từ 09 đến 12 tháng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, những hành vi nào sau đây thuộc nhóm bị phạt tiền từ 1.000.000 đồng đến 3.000.000 đồng?",
+    "a": "Không niêm phong bản di chúc khi gửi giữ; không giao giấy nhận lưu giữ di chúc; không ghi hoặc ghi thiếu thông tin giấy nhận lưu giữ di chúc; không ghi rõ việc người lập di chúc không xuất trình đủ giấy tờ do tính mạng bị đe dọa; không đánh số thứ tự trang văn bản công chứng; sửa lỗi kỹ thuật văn bản công chứng không đúng quy định; không xuất trình thẻ công chứng viên; không tham gia bồi dưỡng nghiệp vụ hằng năm",
+    "b": "Không niêm phong bản di chúc; công chứng ngoài trụ sở không đúng quy định; không xuất trình thẻ công chứng viên; không đánh số trang văn bản công chứng",
+    "c": "Không niêm phong bản di chúc; tiết lộ thông tin công chứng trái quy định; giả mạo chữ ký công chứng viên; không đánh số trang văn bản",
+    "d": "Không niêm phong bản di chúc; công chứng di chúc trái quy định; không có giấy tờ chứng minh quyền sở hữu tài sản; công chứng khi người lập di chúc mất năng lực hành vi dân sự",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 1 Điều 15 và khoản 1 Điều 16 Nghị định 109/2026/NĐ-CP, nhóm hành vi bị phạt tiền từ 1.000.000 đồng đến 3.000.000 đồng gồm: không niêm phong bản di chúc khi gửi giữ; không giao giấy nhận lưu giữ di chúc; không ghi hoặc ghi thiếu thông tin trong giấy nhận lưu giữ di chúc; không ghi rõ việc người lập di chúc không xuất trình đủ giấy tờ do tính mạng bị đe dọa; không đánh số thứ tự trang văn bản công chứng; sửa lỗi kỹ thuật văn bản công chứng không đúng quy định; không xuất trình thẻ công chứng viên; không tham gia bồi dưỡng nghiệp vụ công chứng hằng năm."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, những hành vi nào sau đây thuộc nhóm bị phạt tiền từ 1.000.000 đồng đến 3.000.000 đồng?",
+    "a": "Tẩy xóa, sửa chữa làm sai lệch nội dung bản chính để chứng thực; không thực hiện chứng thực đúng thời hạn; chứng thực ngoài trụ sở trái quy định; từ chối chứng thực không đúng quy định; không ghi hoặc ghi không rõ địa điểm chứng thực; không chứng thực đầy đủ chữ ký, điểm chỉ; không niêm yết đầy đủ thông tin làm việc, phí, thủ tục; lập, quản lý sổ chứng thực không đúng quy định; tẩy xóa, sửa chữa giấy tờ để chứng thực giao dịch",
+    "b": "Tẩy xóa giấy tờ để chứng thực; giả mạo chữ ký người thực hiện chứng thực; nhận tiền ngoài phí chứng thực; sử dụng giấy tờ giả để chứng thực",
+    "c": "Tẩy xóa giấy tờ; chứng thực chữ ký khi không đủ điều kiện; mạo danh chủ thể giao dịch; cản trở hoạt động công chứng",
+    "d": "Không lưu trữ hồ sơ chứng thực; không đăng ký hoạt động; quảng cáo dịch vụ công chứng; thu phí vượt mức quy định",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 1 và khoản 2 Điều 19, khoản 1 Điều 20 Nghị định 109/2026/NĐ-CP, nhóm hành vi bị phạt tiền từ 1.000.000 đồng đến 3.000.000 đồng gồm các vi phạm thủ tục chứng thực cơ bản như sai sót hồ sơ, sai quy trình, sai ghi chép, tẩy xóa tài liệu dùng để chứng thực giao dịch."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, những hành vi nào sau đây thuộc nhóm bị phạt tiền từ 1.000.000 đồng đến 3.000.000 đồng?",
+    "a": "Tẩy xóa, sửa chữa giấy tờ/văn bản cần dịch; không thực hiện chứng thực đúng thời hạn; từ chối chứng thực không đúng quy định; không bố trí người tiếp nhận hồ sơ đúng giờ làm việc; không niêm yết danh sách cộng tác viên dịch thuật; không ghi hoặc ghi không rõ địa điểm chứng thực; ghi lời chứng không đúng quy định; lập, quản lý sổ chứng thực không đúng quy định; cộng tác viên dịch thuật không đăng ký lại chữ ký mẫu khi thay đổi",
+    "b": "Tẩy xóa giấy tờ; sử dụng giấy tờ giả; nhận tiền ngoài phí chứng thực; giả mạo chữ ký người thực hiện chứng thực",
+    "c": "Không thực hiện chứng thực; cản trở hoạt động chứng thực; công chứng ngoài trụ sở; tiết lộ thông tin công chứng",
+    "d": "Không lưu trữ hồ sơ công chứng; quảng cáo công chứng; nhận vốn góp trái quy định; đồng thời hành nghề nhiều nơi",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 1, khoản 2 và khoản 3 Điều 21 Nghị định 109/2026/NĐ-CP, nhóm hành vi bị phạt tiền từ 1.000.000 đồng đến 3.000.000 đồng gồm các lỗi kỹ thuật, thủ tục và quản lý hành chính trong hoạt động chứng thực chữ ký người dịch."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, những hành vi nào sau đây thuộc nhóm bị phạt tiền từ 1.000.000 đồng đến 3.000.000 đồng?",
+    "a": "Không đánh số thứ tự từng trang văn bản công chứng có từ 02 trang trở lên; không sửa lỗi kỹ thuật đúng quy định; không xuất trình thẻ công chứng viên khi hành nghề; không tham gia bồi dưỡng nghiệp vụ hằng năm",
+    "b": "Không công chứng đúng thời hạn; công chứng ngoài trụ sở không đúng quy định; từ chối công chứng không có căn cứ pháp lý; tiết lộ thông tin công chứng",
+    "c": "Giả mạo chữ ký người yêu cầu công chứng; cản trở hoạt động công chứng; cung cấp thông tin sai sự thật để công chứng",
+    "d": "Quảng cáo dịch vụ công chứng; đồng thời hành nghề nhiều tổ chức; nhận tiền ngoài phí công chứng",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 1 Điều 16 Nghị định 109/2026/NĐ-CP, nhóm 1.000.000 - 3.000.000 đồng gồm các hành vi: không đánh số thứ tự từng trang văn bản công chứng; sửa lỗi kỹ thuật văn bản công chứng không đúng quy định; không xuất trình thẻ công chứng viên; không tham gia bồi dưỡng nghiệp vụ công chứng hằng năm."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, những hành vi nào sau đây thuộc nhóm bị phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng?",
+    "a": "Không thực hiện yêu cầu chứng thực đúng thời hạn; chứng thực ngoài trụ sở không đúng quy định; từ chối yêu cầu chứng thực không đúng quy định; lập sổ chứng thực không đúng quy định",
+    "b": "Giả mạo chữ ký công chứng viên; nhận tiền ngoài phí công chứng; chiếm đoạt hồ sơ công chứng",
+    "c": "Công chứng di chúc trái quy định; không có giấy tờ chứng minh quyền sở hữu tài sản; công chứng khi người lập di chúc mất năng lực hành vi",
+    "d": "Đồng thời hành nghề tại 2 tổ chức công chứng; quảng cáo công chứng; thu phí vượt mức quy định",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 2 Điều 19 Nghị định 109/2026/NĐ-CP, nhóm 3.000.000 - 5.000.000 đồng gồm các hành vi: không thực hiện yêu cầu chứng thực đúng thời hạn; chứng thực ngoài trụ sở không đúng quy định; từ chối chứng thực không đúng quy định; lập sổ chứng thực không đúng quy định."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, những hành vi nào sau đây thuộc nhóm bị phạt tiền từ 7.000.000 đồng đến 10.000.000 đồng?",
+    "a": "Công chứng văn bản phân chia di sản không có giấy tờ chứng minh quan hệ thừa kế; công chứng văn bản từ chối nhận di sản thiếu giấy chứng tử; công chứng khi thiếu tài liệu chứng minh quyền sở hữu tài sản",
+    "b": "Không niêm phong di chúc; không đánh số trang văn bản công chứng; không xuất trình thẻ công chứng viên",
+    "c": "Quảng cáo công chứng; nhận vốn góp trái quy định; đồng thời hành nghề nhiều nơi",
+    "d": "Giả mạo chữ ký; cung cấp thông tin sai sự thật; cản trở hoạt động công chứng",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 3 Điều 15 Nghị định 109/2026/NĐ-CP, nhóm 7.000.000 - 10.000.000 đồng gồm các hành vi công chứng thiếu căn cứ pháp lý như: không có giấy tờ chứng minh quan hệ thừa kế; thiếu giấy chứng tử; thiếu giấy tờ chứng minh quyền sở hữu tài sản."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, những hành vi nào sau đây thuộc nhóm bị phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng?",
+    "a": "Công chứng di chúc có nội dung trái pháp luật; công chứng khi người lập di chúc có dấu hiệu mất năng lực hành vi; công chứng văn bản phân chia di sản không đủ điều kiện theo luật",
+    "b": "Không đánh số trang văn bản công chứng; không xuất trình thẻ công chứng viên; không niêm yết thông tin chứng thực",
+    "c": "Không thực hiện chứng thực đúng thời hạn; chứng thực ngoài trụ sở; từ chối chứng thực không đúng quy định",
+    "d": "Quảng cáo công chứng; nhận tiền ngoài phí; đồng thời hành nghề nhiều tổ chức",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 3 Điều 15 Nghị định 109/2026/NĐ-CP, nhóm 10.000.000 - 15.000.000 đồng gồm các hành vi: công chứng di chúc trái quy định; công chứng khi người lập di chúc có dấu hiệu mất năng lực hành vi; công chứng văn bản phân chia di sản vi phạm điều kiện pháp luật."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, những hành vi nào thuộc nhóm bị phạt tiền từ 1.000.000 đồng đến 3.000.000 đồng?",
+    "a": "Không đánh số thứ tự từng trang văn bản công chứng có từ 02 trang trở lên; sửa lỗi kỹ thuật văn bản công chứng không đúng quy định; không xuất trình thẻ công chứng viên; không tham gia bồi dưỡng nghiệp vụ hằng năm",
+    "b": "Công chứng ngoài trụ sở không đúng quy định; không thực hiện chứng thực đúng thời hạn; từ chối chứng thực không đúng quy định; tiết lộ thông tin công chứng",
+    "c": "Giả mạo chữ ký người yêu cầu công chứng; cung cấp thông tin sai sự thật để công chứng; cản trở hoạt động công chứng",
+    "d": "Quảng cáo công chứng; đồng thời hành nghề tại nhiều tổ chức; nhận tiền ngoài phí công chứng",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 1 Điều 16 Nghị định 109/2026/NĐ-CP, nhóm 1.000.000 - 3.000.000 đồng gồm: không đánh số thứ tự từng trang văn bản công chứng; sửa lỗi kỹ thuật văn bản công chứng không đúng quy định; không xuất trình thẻ công chứng viên; không tham gia bồi dưỡng nghiệp vụ hằng năm."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, những hành vi nào thuộc nhóm bị phạt tiền từ 3.000.000 đồng đến 7.000.000 đồng?",
+    "a": "Công chứng ngoài trụ sở không đúng quy định; công chứng không đúng thời hạn; không bảo đảm thời gian làm việc theo quy định; sách nhiễu người yêu cầu công chứng",
+    "b": "Giả mạo chữ ký công chứng viên; chiếm đoạt hồ sơ công chứng; cung cấp thông tin sai sự thật để công chứng",
+    "c": "Không niêm phong di chúc; không đánh số trang văn bản công chứng; không xuất trình thẻ công chứng viên",
+    "d": "Quảng cáo công chứng; đồng thời hành nghề 2 nơi; nhận tiền ngoài phí công chứng",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 2 Điều 16 Nghị định 109/2026/NĐ-CP, nhóm 3.000.000 - 7.000.000 đồng gồm: công chứng ngoài trụ sở không đúng quy định; công chứng không đúng thời hạn; không bảo đảm thời gian làm việc; sách nhiễu, gây khó khăn cho người yêu cầu công chứng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, những hành vi nào thuộc nhóm bị phạt tiền từ 7.000.000 đồng đến 10.000.000 đồng?",
+    "a": "Tiết lộ thông tin công chứng không được phép; không hướng dẫn, giải thích quyền nghĩa vụ; công chứng khi thiếu chữ ký hoặc thiếu kiểm tra hồ sơ",
+    "b": "Không đánh số trang văn bản công chứng; không xuất trình thẻ công chứng viên; không niêm yết thông tin chứng thực",
+    "c": "Quảng cáo công chứng; thu phí vượt mức; đồng thời hành nghề nhiều nơi",
+    "d": "Giả mạo chữ ký; cản trở hoạt động công chứng; cung cấp thông tin sai sự thật",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 3 Điều 16 Nghị định 109/2026/NĐ-CP, nhóm 7.000.000 - 10.000.000 đồng gồm: tiết lộ thông tin công chứng trái quy định; không hướng dẫn, giải thích quyền nghĩa vụ; công chứng khi thiếu chữ ký hoặc không kiểm tra, đối chiếu hồ sơ theo quy định."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, những hành vi nào thuộc nhóm bị phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng?",
+    "a": "Công chứng di chúc có nội dung trái pháp luật; công chứng khi có dấu hiệu người lập di chúc mất năng lực hành vi; công chứng văn bản phân chia di sản không đủ điều kiện pháp luật",
+    "b": "Không đánh số trang văn bản công chứng; không xuất trình thẻ công chứng viên; không thực hiện chứng thực đúng thời hạn",
+    "c": "Quảng cáo công chứng; nhận tiền ngoài phí công chứng; đồng thời hành nghề nhiều nơi",
+    "d": "Không niêm phong di chúc; không giao giấy nhận lưu giữ; sửa lỗi kỹ thuật văn bản công chứng",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 3 Điều 15 Nghị định 109/2026/NĐ-CP, nhóm 10.000.000 - 15.000.000 đồng gồm: công chứng di chúc trái quy định; công chứng khi người lập di chúc có dấu hiệu mất năng lực hành vi; công chứng văn bản phân chia di sản vi phạm điều kiện pháp luật."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi nào sau đây thuộc nhóm bị phạt tiền từ 3.000.000 đồng đến 7.000.000 đồng (Điều 16 và Điều 17)?",
+    "a": "Công chứng ngoài trụ sở không đúng quy định; Không bảo đảm thời gian làm việc; Không gia nhập Hội công chứng viên; Sách nhiễu người yêu cầu công chứng",
+    "b": "Giả mạo chữ ký công chứng viên; Cung cấp thông tin sai sự thật; Chiếm đoạt hồ sơ công chứng",
+    "c": "Hành nghề khi bị tước thẻ; Dùng thẻ công chứng viên của người khác; Công chứng điện tử sai nền tảng",
+    "d": "Nhận tiền ngoài phí công chứng; Quảng cáo công chứng; Ép buộc dùng dịch vụ",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 16 và khoản 1 Điều 17 Nghị định 109/2026/NĐ-CP quy định nhóm 3.000.000 - 7.000.000 đồng gồm các vi phạm thủ tục hành nghề công chứng như công chứng ngoài trụ sở, không bảo đảm thời gian làm việc, không gia nhập hội nghề nghiệp và hành vi sách nhiễu người yêu cầu công chứng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi nào sau đây thuộc nhóm bị phạt tiền từ 7.000.000 đồng đến 10.000.000 đồng (Điều 16 và Điều 19)?",
+    "a": "Tiết lộ thông tin công chứng; Không kiểm tra bản chính; Không chứng kiến ký; Ghi lời chứng không đầy đủ; Nhận tiền ngoài phí",
+    "b": "Hành nghề khi bị tước thẻ; Giả mạo chữ ký công chứng viên; Chiếm đoạt hồ sơ công chứng",
+    "c": "Không đủ điều kiện hành nghề; Công chứng thiếu chữ ký chủ thể; Thành lập văn phòng công chứng trái phép",
+    "d": "Quảng cáo công chứng; Đồng thời hành nghề nhiều nơi; Góp vốn sai quy định",
+    "answer": "a",
+    "explanation": "Khoản 3 Điều 16 Nghị định 109/2026/NĐ-CP và khoản 3 Điều 19 quy định nhóm 7.000.000 - 10.000.000 đồng gồm vi phạm về nghiệp vụ công chứng như tiết lộ thông tin, không kiểm tra bản chính, không chứng kiến ký và ghi lời chứng không đầy đủ."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi nào sau đây thuộc nhóm bị phạt tiền từ 15.000.000 đồng đến 25.000.000 đồng?",
+    "a": "Sử dụng thẻ công chứng viên của người khác; Hành nghề khi bị tước thẻ; Công chứng điện tử sai quy định; Dùng nền tảng không đủ điều kiện",
+    "b": "Không niêm phong di chúc; Không xuất trình thẻ công chứng viên; Không đánh số trang văn bản",
+    "c": "Công chứng ngoài trụ sở; Không gia nhập hội công chứng viên; Không báo cáo định kỳ",
+    "d": "Tiết lộ thông tin công chứng; Không kiểm tra bản chính; Không ghi lời chứng",
+    "answer": "a",
+    "explanation": "Khoản 5 Điều 16 Nghị định 109/2026/NĐ-CP quy định nhóm 15.000.000 - 25.000.000 đồng gồm hành vi nghiêm trọng như sử dụng thẻ công chứng viên của người khác, hành nghề khi bị tước thẻ và vi phạm công chứng điện tử."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi nào sau đây thuộc nhóm bị phạt tiền từ 25.000.000 đồng đến 30.000.000 đồng?",
+    "a": "Không đủ điều kiện hành nghề công chứng; Công chứng không đủ chữ ký; Thành lập văn phòng công chứng trái quy định; Góp vốn sai quy định",
+    "b": "Không đánh số trang văn bản; Không xuất trình thẻ công chứng viên; Không niêm phong di chúc",
+    "c": "Công chứng ngoài trụ sở; Không gia nhập hội công chứng viên; Không báo cáo định kỳ",
+    "d": "Tiết lộ thông tin công chứng; Không kiểm tra bản chính; Ghi lời chứng thiếu nội dung",
+    "answer": "a",
+    "explanation": "Khoản 6 Điều 16 Nghị định 109/2026/NĐ-CP quy định nhóm 25.000.000 - 30.000.000 đồng gồm hành vi vi phạm điều kiện hành nghề công chứng, thiếu chữ ký chủ thể giao dịch và góp vốn, thành lập văn phòng công chứng trái pháp luật."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi nào sau đây thuộc nhóm bị phạt tiền từ 40.000.000 đồng đến 50.000.000 đồng?",
+    "a": "Không vào sổ công chứng; Thay đổi trụ sở sai quy định; Nhận vốn góp sai đối tượng; Cho thuê văn phòng công chứng; Không tiếp nhận hồ sơ theo chỉ định",
+    "b": "Không niêm phong di chúc; Không xuất trình thẻ công chứng viên; Không đánh số trang văn bản",
+    "c": "Công chứng ngoài trụ sở; Không gia nhập hội công chứng viên; Không báo cáo định kỳ",
+    "d": "Tiết lộ thông tin công chứng; Không kiểm tra bản chính; Ghi lời chứng thiếu nội dung",
+    "answer": "a",
+    "explanation": "Khoản 6 Điều 17 Nghị định 109/2026/NĐ-CP quy định nhóm 40.000.000 - 50.000.000 đồng gồm các vi phạm nghiêm trọng về quản lý hoạt động tổ chức hành nghề công chứng như không vào sổ công chứng, thay đổi trụ sở trái quy định, nhận vốn góp sai đối tượng và cho thuê văn phòng công chứng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi nào thuộc nhóm bị phạt tiền từ 3.000.000 đồng đến 7.000.000 đồng (Điều 16, Điều 17)?",
+    "a": "Không dùng tiếng Việt trong hành nghề; Không ký sổ công chứng đúng quy định; Không đóng dấu giáp lai; Không giao bản gốc văn bản công chứng",
+    "b": "Giả mạo chữ ký công chứng viên; Chiếm đoạt hồ sơ công chứng; Cung cấp thông tin sai sự thật",
+    "c": "Hành nghề khi bị tước thẻ; Đầu tư trái phép vào văn phòng công chứng; Nhận vốn góp không hợp pháp",
+    "d": "Quảng cáo công chứng; Nhận tiền ngoài phí công chứng; Ép buộc dùng dịch vụ",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 16 và khoản 1 Điều 17 Nghị định 109/2026/NĐ-CP quy định nhóm 3.000.000 - 7.000.000 đồng gồm vi phạm hành chính trong hành nghề công chứng như không sử dụng tiếng Việt, sai sót đóng dấu, không giao văn bản công chứng."
+  },
+
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi nào thuộc nhóm bị phạt tiền từ 5.000.000 đồng đến 7.000.000 đồng (Điều 16, Điều 21)?",
+    "a": "Dịch sai nội dung tài liệu; Không ký hợp đồng cộng tác viên dịch thuật; Không lập danh sách cộng tác viên; Không ghi vào sổ chứng thực; Không kiểm tra điều kiện cộng tác viên",
+    "b": "Giả mạo chữ ký công chứng viên; Cản trở hoạt động công chứng; Chiếm đoạt hồ sơ công chứng",
+    "c": "Không đủ điều kiện hành nghề; Công chứng thiếu chữ ký chủ thể; Hành nghề khi bị tước thẻ",
+    "d": "Quảng cáo công chứng; Nhận vốn góp trái phép; Công chứng ngoài trụ sở",
+    "answer": "a",
+    "explanation": "Khoản 3 Điều 21 Nghị định 109/2026/NĐ-CP quy định nhóm 5.000.000 - 7.000.000 đồng đối với vi phạm trong chứng thực chữ ký người dịch như dịch sai, không quản lý cộng tác viên dịch thuật, không ghi sổ chứng thực."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi nào thuộc nhóm bị phạt tiền từ 7.000.000 đồng đến 10.000.000 đồng (Điều 14, Điều 19)?",
+    "a": "Tiết lộ thông tin công chứng; Không kiểm tra bản chính giấy tờ; Không chứng kiến việc ký; Ghi lời chứng không đầy đủ; Sử dụng giấy tờ tẩy xóa để chứng thực",
+    "b": "Giả mạo chữ ký công chứng viên; Chiếm đoạt hồ sơ công chứng; Hành nghề khi bị tước thẻ",
+    "c": "Không đủ điều kiện hành nghề; Thành lập văn phòng công chứng trái phép; Đầu tư góp vốn sai quy định",
+    "d": "Quảng cáo công chứng; Nhận tiền ngoài phí công chứng; Ép buộc sử dụng dịch vụ",
+    "answer": "a",
+    "explanation": "Khoản 3 Điều 16 và khoản 3 Điều 19 Nghị định 109/2026/NĐ-CP quy định nhóm 7.000.000 - 10.000.000 đồng gồm vi phạm nghiệp vụ công chứng và chứng thực như tiết lộ thông tin, không kiểm tra bản chính, sai sót lời chứng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi nào thuộc nhóm bị phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng (Điều 14, Điều 15)?",
+    "a": "Công chứng di chúc trái quy định; Công chứng khi không đủ điều kiện năng lực hành vi; Không có giấy tờ chứng minh quyền sở hữu tài sản",
+    "b": "Không niêm phong di chúc; Không xuất trình thẻ công chứng viên; Không đánh số trang văn bản",
+    "c": "Công chứng ngoài trụ sở; Không gia nhập hội công chứng viên; Không báo cáo định kỳ",
+    "d": "Quảng cáo công chứng; Nhận vốn góp trái phép; Hành nghề nhiều nơi",
+    "answer": "a",
+    "explanation": "Khoản 3 Điều 14 và khoản 3 Điều 15 Nghị định 109/2026/NĐ-CP quy định nhóm 10.000.000 - 15.000.000 đồng gồm công chứng di chúc sai quy định, thiếu điều kiện năng lực hành vi, thiếu giấy tờ chứng minh quyền sở hữu."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi nào thuộc nhóm bị phạt tiền từ 15.000.000 đồng đến 25.000.000 đồng?",
+    "a": "Sử dụng thẻ công chứng viên của người khác; Hành nghề khi bị tước thẻ; Công chứng điện tử không đúng điều kiện",
+    "b": "Không niêm phong di chúc; Không đánh số trang văn bản; Không xuất trình thẻ công chứng viên",
+    "c": "Công chứng ngoài trụ sở; Không gia nhập hội công chứng viên; Không báo cáo định kỳ",
+    "d": "Không kiểm tra bản chính; Không ghi lời chứng; Tiết lộ thông tin công chứng",
+    "answer": "a",
+    "explanation": "Khoản 5 Điều 16 Nghị định 109/2026/NĐ-CP quy định nhóm 15.000.000 - 25.000.000 đồng gồm hành vi nghiêm trọng như sử dụng thẻ công chứng viên của người khác, hành nghề khi bị tước thẻ và vi phạm công chứng điện tử."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi nào thuộc nhóm bị phạt tiền từ 25.000.000 đồng đến 30.000.000 đồng?",
+    "a": "Không đủ điều kiện hành nghề công chứng; Công chứng không đủ chữ ký; Góp vốn thành lập văn phòng công chứng trái phép",
+    "b": "Không đánh số trang văn bản; Không xuất trình thẻ công chứng viên; Không niêm phong di chúc",
+    "c": "Không gia nhập hội công chứng viên; Không báo cáo định kỳ; Công chứng ngoài trụ sở",
+    "d": "Không kiểm tra bản chính; Tiết lộ thông tin công chứng; Ghi lời chứng thiếu nội dung",
+    "answer": "a",
+    "explanation": "Khoản 6 Điều 16 Nghị định 109/2026/NĐ-CP quy định nhóm 25.000.000 - 30.000.000 đồng gồm vi phạm điều kiện hành nghề, thiếu chữ ký chủ thể và góp vốn thành lập văn phòng công chứng trái luật."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, những hành vi nào thuộc nhóm bị đình chỉ hoạt động từ 01 tháng đến 03 tháng đối với tổ chức hành nghề công chứng?",
+    "a": "Thay đổi trụ sở Văn phòng công chứng không đúng quy định; Đầu tư toàn bộ hoặc góp vốn với tổ chức/cá nhân không đúng quy định để thành lập hoặc nhận chuyển nhượng Văn phòng công chứng; Góp vốn sai quy định vào mô hình công ty hợp danh của Văn phòng công chứng",
+    "b": "Không niêm phong di chúc; Không đánh số trang văn bản công chứng; Không xuất trình thẻ công chứng viên",
+    "c": "Giả mạo chữ ký công chứng viên; Nhận tiền ngoài phí công chứng; Cản trở hoạt động công chứng",
+    "d": "Công chứng di chúc trái luật; Không có giấy tờ chứng minh quyền sở hữu tài sản; Công chứng khi người lập di chúc mất năng lực hành vi dân sự",
+    "answer": "a",
+    "explanation": "Căn cứ điểm a khoản 7 Điều 17 và điểm b, d khoản 6 Điều 17 Nghị định 109/2026/NĐ-CP, hành vi bị đình chỉ từ 01–03 tháng gồm thay đổi trụ sở Văn phòng công chứng không đúng quy định và hành vi đầu tư, góp vốn trái quy định pháp luật vào mô hình tổ chức hành nghề công chứng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, những hành vi nào thuộc nhóm bị đình chỉ hoạt động từ 03 đến 06 tháng đối với tổ chức hành nghề công chứng?",
+    "a": "Mở chi nhánh, địa điểm giao dịch ngoài trụ sở; Không thuê Trưởng Văn phòng công chứng điều hành đúng quy định; Cho người không đủ điều kiện hành nghề công chứng thực hiện công chứng",
+    "b": "Không niêm phong di chúc; Không ghi giấy nhận lưu giữ di chúc; Không đánh số trang văn bản công chứng",
+    "c": "Giả mạo chữ ký công chứng viên; Cung cấp thông tin sai sự thật; Nhận tiền ngoài phí công chứng",
+    "d": "Công chứng di chúc trái luật; Công chứng khi mất năng lực hành vi dân sự; Không có giấy tờ sở hữu tài sản",
+    "answer": "a",
+    "explanation": "Căn cứ điểm b khoản 7 Điều 17 Nghị định 109/2026/NĐ-CP, đình chỉ 03–06 tháng áp dụng đối với hành vi mở địa điểm hoạt động trái quy định, không đảm bảo điều kiện điều hành tổ chức và sử dụng người không đủ điều kiện hành nghề công chứng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi nào thuộc nhóm bị phạt tiền từ 30.000.000 đồng đến 40.000.000 đồng?",
+    "a": "Nhận tiền từ người thứ ba để công chứng; Ép buộc sử dụng dịch vụ công chứng; Quảng cáo gây nhầm lẫn dịch vụ công chứng",
+    "b": "Không niêm phong di chúc; Không đánh số trang văn bản; Không xuất trình thẻ công chứng viên",
+    "c": "Không gia nhập hội công chứng viên; Không báo cáo định kỳ; Công chứng ngoài trụ sở",
+    "d": "Không kiểm tra bản chính; Tiết lộ thông tin công chứng; Không ghi lời chứng",
+    "answer": "a",
+    "explanation": "Khoản 4 Điều 14 Nghị định 109/2026/NĐ-CP quy định nhóm 30.000.000 - 40.000.000 đồng gồm hành vi nghiêm trọng như ép buộc sử dụng dịch vụ, nhận tiền từ bên thứ ba và quảng cáo sai lệch dịch vụ công chứng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi nào thuộc nhóm bị phạt tiền từ 40.000.000 đồng đến 50.000.000 đồng?",
+    "a": "Không vào sổ công chứng; Thay đổi trụ sở sai quy định; Cho thuê văn phòng công chứng; Nhận vốn góp trái phép",
+    "b": "Không niêm phong di chúc; Không đánh số trang văn bản; Không xuất trình thẻ công chứng viên",
+    "c": "Không gia nhập hội công chứng viên; Không báo cáo định kỳ; Công chứng ngoài trụ sở",
+    "d": "Không kiểm tra bản chính; Tiết lộ thông tin công chứng; Không ghi lời chứng",
+    "answer": "a",
+    "explanation": "Khoản 6 Điều 17 Nghị định 109/2026/NĐ-CP quy định nhóm 40.000.000 - 50.000.000 đồng gồm vi phạm quản lý hoạt động tổ chức hành nghề công chứng như không vào sổ công chứng, thay đổi trụ sở sai quy định, cho thuê văn phòng công chứng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi nào thuộc nhóm vi phạm phòng chống rửa tiền (Điều 22) bị phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng?",
+    "a": "Không áp dụng biện pháp nhận biết khách hàng; Không cập nhật thông tin khách hàng; Không xác minh thông tin khách hàng",
+    "b": "Không niêm phong di chúc; Không xuất trình thẻ công chứng viên; Không đánh số trang văn bản",
+    "c": "Công chứng ngoài trụ sở; Không gia nhập hội công chứng viên; Không báo cáo định kỳ",
+    "d": "Quảng cáo công chứng; Nhận vốn góp trái phép; Hành nghề nhiều nơi",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 22 Nghị định 109/2026/NĐ-CP quy định nhóm 10.000.000 - 20.000.000 đồng gồm không thực hiện nhận biết khách hàng và không cập nhật, xác minh thông tin khách hàng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi nào thuộc nhóm bị tước quyền sử dụng thẻ công chứng viên từ 03 đến 06 tháng?",
+    "a": "Cho người khác sử dụng quyết định bổ nhiệm công chứng viên để thành lập Văn phòng công chứng; Sử dụng hồ sơ cá nhân công chứng viên khi không có sự đồng ý; Không ghi hoặc ghi không đúng sổ chứng thực chữ ký người dịch",
+    "b": "Không niêm phong di chúc; Không giao giấy nhận lưu giữ di chúc; Không đánh số trang văn bản",
+    "c": "Công chứng ngoài trụ sở; Không xuất trình thẻ công chứng viên; Không tham gia bồi dưỡng nghiệp vụ",
+    "d": "Giả mạo chữ ký công chứng viên; Nhận tiền ngoài phí công chứng; Cản trở hoạt động công chứng",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 3 Điều 16 và điểm c, d khoản 2 Điều 13, hành vi mang tính gian dối về sử dụng hồ sơ, cho mượn tư cách pháp lý và vi phạm sổ sách chứng thực bị tước thẻ 03–06 tháng."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi nào thuộc nhóm bị tước quyền sử dụng thẻ công chứng viên từ 06 đến 09 tháng?",
+    "a": "Chứng thực bản sao từ bản chính không đối chiếu bản chính; Chứng thực giấy tờ không đủ điều kiện pháp lý; Chứng thực chữ ký trong văn bản có liên quan tài sản, giao dịch trái quy định",
+    "b": "Không niêm phong di chúc; Không đánh số trang; Không giao giấy nhận lưu giữ",
+    "c": "Không đăng ký hoạt động; Không lưu trữ hồ sơ; Quảng cáo công chứng",
+    "d": "Công chứng di chúc trái luật; Giả mạo chữ ký công chứng viên; Nhận tiền ngoài phí công chứng",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 6 Điều 19 Nghị định 109/2026/NĐ-CP, tước thẻ 06–09 tháng áp dụng với hành vi chứng thực sai quy trình nghiêm trọng như không đối chiếu bản chính, chứng thực trái điều kiện pháp lý và sai phạm trong giao dịch tài sản."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi nào thuộc nhóm bị tước quyền sử dụng thẻ công chứng viên từ 09 đến 12 tháng?",
+    "a": "Chứng thực chữ ký trong văn bản vi phạm pháp luật; Chứng thực khi người yêu cầu không đủ năng lực hành vi; Chứng thực bản sao không đối chiếu bản chính; Chứng thực trong giao dịch trái đạo đức xã hội",
+    "b": "Không niêm phong di chúc; Không đánh số trang văn bản công chứng; Không giao giấy nhận lưu giữ",
+    "c": "Không đăng ký hoạt động; Không báo cáo định kỳ; Không lập sổ công chứng",
+    "d": "Công chứng di chúc trái luật; Giả mạo chữ ký công chứng viên; Nhận tiền ngoài phí công chứng",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 5 Điều 19 Nghị định 109/2026/NĐ-CP, tước thẻ 09–12 tháng áp dụng với hành vi chứng thực nghiêm trọng như vi phạm đạo đức xã hội, không đối chiếu bản chính và thực hiện chứng thực khi người yêu cầu không đủ năng lực hành vi."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, biện pháp khắc phục hậu quả nào sau đây được áp dụng đối với hành vi vi phạm trong hoạt động công chứng và chứng thực?",
+    "a": "Buộc nộp lại số lợi bất hợp pháp có được; Buộc thông báo cho cơ quan, tổ chức, cá nhân có liên quan về hành vi vi phạm; Buộc hoàn trả vốn góp hoặc chấm dứt hợp đồng hợp tác trái pháp luật",
+    "b": "Tước quyền sử dụng thẻ công chứng viên; Đình chỉ hoạt động tổ chức hành nghề công chứng; Miễn nhiệm công chứng viên",
+    "c": "Phạt tiền từ 1 triệu đến 3 triệu; Phạt tiền từ 10 triệu đến 15 triệu; Phạt tiền từ 30 triệu đến 40 triệu",
+    "d": "Công chứng di chúc trái luật; Giả mạo chữ ký công chứng viên; Cản trở hoạt động công chứng",
+    "answer": "a",
+    "explanation": "Căn cứ Điều 15 khoản 4, Điều 16 khoản 9, Điều 17 khoản 8 và các quy định liên quan trong Nghị định 109/2026/NĐ-CP, biện pháp khắc phục hậu quả bao gồm buộc nộp lại lợi bất hợp pháp, buộc thông báo vi phạm cho cơ quan có thẩm quyền và buộc hoàn trả vốn góp hoặc chấm dứt hợp đồng/hành vi hợp tác trái pháp luật."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi nào sau đây thuộc nhóm 'cấm hành nghề thực tế' (mức xử lý nghiêm nhất liên quan trực tiếp đến điều kiện hành nghề công chứng)?",
+    "a": "Hành nghề công chứng khi đang bị tước quyền sử dụng thẻ công chứng viên; Công chứng khi chưa đủ điều kiện hành nghề; Sử dụng thẻ công chứng viên của người khác hoặc cho người khác sử dụng thẻ",
+    "b": "Không niêm phong di chúc; Không đánh số trang văn bản; Không giao giấy nhận lưu giữ di chúc",
+    "c": "Không xuất trình thẻ công chứng viên; Không tham gia bồi dưỡng nghiệp vụ; Không ký vào từng trang văn bản",
+    "d": "Không đăng ký hoạt động; Không lưu trữ hồ sơ công chứng; Không niêm yết lịch làm việc",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 5 và khoản 6 Điều 16 Nghị định 109/2026/NĐ-CP, nhóm hành vi cấm hành nghề thực tế bao gồm hành nghề khi bị tước thẻ, hành nghề khi không đủ điều kiện, và hành vi sử dụng hoặc cho người khác sử dụng thẻ công chứng viên để hành nghề trái phép."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi nào thuộc nhóm vi phạm về phòng, chống rửa tiền trong lĩnh vực bổ trợ tư pháp?",
+    "a": "Không áp dụng biện pháp nhận biết khách hàng; Không phân loại khách hàng theo mức độ rủi ro; Không báo cáo giao dịch đáng ngờ; Không cập nhật thông tin khách hàng theo quy định",
+    "b": "Không niêm phong di chúc; Không đánh số trang; Không giao giấy nhận lưu giữ di chúc",
+    "c": "Không xuất trình thẻ công chứng viên; Không tham gia bồi dưỡng nghiệp vụ; Không ký vào từng trang văn bản",
+    "d": "Không đăng ký hoạt động; Không lưu trữ hồ sơ công chứng; Quảng cáo công chứng sai quy định",
+    "answer": "a",
+    "explanation": "Căn cứ Điều 22 Nghị định 109/2026/NĐ-CP, nhóm vi phạm phòng, chống rửa tiền bao gồm các hành vi như không thực hiện nhận biết khách hàng, không phân loại rủi ro, không báo cáo giao dịch đáng ngờ, không cập nhật và quản lý thông tin khách hàng theo quy định pháp luật."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, điểm dễ bị nhầm trong xử phạt công chứng là gì?",
+    "a": "Không phải mọi hành vi sai sót đều bị tước thẻ công chứng viên; chỉ hành vi nghiêm trọng theo từng khoản mới bị áp dụng tước thẻ",
+    "b": "Chỉ cần sai sót trong hồ sơ là luôn bị tước thẻ công chứng viên",
+    "c": "Mọi hành vi vi phạm đều bị xử phạt tiền tối đa",
+    "d": "Tất cả hành vi chứng thực sai đều bị truy cứu hình sự",
+    "answer": "a",
+    "explanation": "Bẫy thường gặp là hiểu sai mức độ xử lý. Theo cấu trúc Nghị định 109/2026/NĐ-CP, chế tài được phân tầng: phạt tiền, tước thẻ, đình chỉ, biện pháp khắc phục hậu quả. Không phải mọi sai sót đều bị tước thẻ."
+  },
+  {
+    "question": "Theo quy định về công chứng, nhận định nào sau đây là SAI?",
+    "a": "Công chứng viên luôn được phép công chứng mọi giao dịch nếu các bên đồng ý",
+    "b": "Công chứng viên phải kiểm tra điều kiện pháp lý của giao dịch trước khi công chứng",
+    "c": "Có trường hợp công chứng bị cấm nếu người yêu cầu không đủ năng lực hành vi",
+    "d": "Công chứng viên có trách nhiệm từ chối công chứng khi có căn cứ vi phạm pháp luật",
+    "answer": "a",
+    "explanation": "Bẫy phổ biến: tưởng rằng công chứng là theo thỏa thuận của các bên. Thực tế, công chứng viên phải kiểm tra tính hợp pháp, không được công chứng nếu giao dịch vi phạm điều cấm hoặc người tham gia không đủ điều kiện."
+  },
+  {
+    "question": "Theo Nghị định 109/2026/NĐ-CP, nhận định nào dễ bị nhầm về tước thẻ công chứng viên?",
+    "a": "Tước thẻ chỉ áp dụng cho hành vi được liệt kê cụ thể trong từng khoản của điều luật",
+    "b": "Tước thẻ áp dụng cho mọi vi phạm hành chính có yếu tố lỗi",
+    "c": "Chỉ cần bị phạt tiền là có thể bị tước thẻ",
+    "d": "Tước thẻ áp dụng theo quyết định tùy ý của công chứng viên trưởng phòng",
+    "answer": "a",
+    "explanation": "Bẫy: nghĩ rằng tước thẻ áp dụng rộng. Thực tế, chỉ áp dụng khi hành vi thuộc đúng nhóm được quy định cụ thể trong từng khoản có chế tài tước thẻ (ví dụ Điều 16, Điều 19)."
+  },
+  {
+    "question": "Trong thực tiễn thi công chứng, nội dung nào dễ bị đánh sai khi học về 'đình chỉ hoạt động tổ chức hành nghề công chứng'?",
+    "a": "Đình chỉ chỉ áp dụng đối với tổ chức hành nghề công chứng, không áp dụng cho cá nhân công chứng viên",
+    "b": "Đình chỉ áp dụng cho cá nhân công chứng viên độc lập",
+    "c": "Đình chỉ là hình thức phạt tiền tăng nặng",
+    "d": "Đình chỉ chỉ áp dụng khi có yêu cầu của khách hàng",
+    "answer": "a",
+    "explanation": "Bẫy: nhầm đối tượng áp dụng. Đình chỉ hoạt động là chế tài áp dụng cho tổ chức hành nghề công chứng (theo Điều 17), không áp dụng cho cá nhân công chứng viên."
+  },
+  {
+    "question": "Theo quy định về biện pháp khắc phục hậu quả, nhận định nào là đúng?",
+    "a": "Biện pháp khắc phục hậu quả không phải là hình phạt, mà là nghĩa vụ bổ sung nhằm khôi phục tình trạng pháp lý",
+    "b": "Biện pháp khắc phục hậu quả là một dạng phạt tiền",
+    "c": "Biện pháp khắc phục hậu quả thay thế hoàn toàn hình phạt chính",
+    "d": "Biện pháp khắc phục hậu quả chỉ áp dụng khi không xác định được hành vi vi phạm",
+    "answer": "a",
+    "explanation": "Bẫy: nhầm biện pháp khắc phục hậu quả là hình phạt. Thực tế, đây là biện pháp bổ sung như buộc nộp lại lợi bất hợp pháp, buộc thông báo vi phạm, buộc hoàn trả vốn góp… theo Nghị định 109/2026/NĐ-CP."
+  }
+]
+
+
+
