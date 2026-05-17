@@ -91,7 +91,7 @@ function checkLogin() {
   startExam();
 }
 
-// ================= LOAD MULTIPLE JSON FILES =================
+// ================= LOAD MULTIPLE JSON FILES (ĐÃ THÊM ĐOẠN KIỂM TRA FILE) =================
 async function taiTatCaDuLieuCauHoi() {
   const danhSachFiles = [
     "./cau_hoi/p1.json",
@@ -102,16 +102,21 @@ async function taiTatCaDuLieuCauHoi() {
   
   let beCauHoiTong = [];
 
+  console.log("=== BẮT ĐẦU KIỂM TRA TẢI FILE JSON ===");
   for (const duongDan of danhSachFiles) {
     try {
       const res = await fetch(duongDan);
       if (!res.ok) throw new Error();
       const json = await res.json();
+      console.log(`✓ Tải thành công file: ${duongDan} | Số lượng câu: ${json.length}`);
       beCauHoiTong = beCauHoiTong.concat(json);
     } catch (err) {
-      console.error(`Không thể tải hoặc lỗi cấu trúc file: ${duongDan}`);
+      console.error(`❌ LỖI TẢI FILE HOẶC SAI CẤU TRÚC JSON tại đường dẫn: ${duongDan}`);
     }
   }
+
+  console.log(`➡️ TỔNG SỐ CÂU HỎI THỰC TẾ LOAD ĐƯỢC: ${beCauHoiTong.length} câu.`);
+  console.log("======================================");
 
   if (beCauHoiTong.length === 0) {
     return [];
@@ -179,28 +184,31 @@ function shuffle(arr) {
   return a;
 }
 
-// ================= START EXAM (LOGIC LOẠI TRỪ CÂU ĐÚNG) =================
+// ================= START EXAM (ĐÃ THÊM LOG KIỂM TRA BỐC ĐỀ) =================
 function startExam() {
   answers = {};
   index = 0;
   time = 60 * 60;
 
-  // Lấy danh sách nội dung câu hỏi đã làm ĐÚNG hoàn toàn từ các lượt trước
   let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
-
-  // Xáo trộn ngẫu nhiên toàn bộ kho dữ liệu gốc (data) ngay từ đầu để phá vỡ cấu trúc cụm file
   let randomWholeData = shuffle(data);
 
   // LOGIC: Lấy (Câu sai + Toàn bộ đề) - Loại bỏ hoàn toàn những câu nằm trong correctPool
   let poolKhaDung = randomWholeData.filter(q => {
     let qText = (q.question || q.cauhoi || "").trim();
-    // CHỈ lấy những câu KHÔNG nằm trong danh sách câu đã làm đúng hoàn toàn
     return !correctPool.includes(qText);
   });
+
+  console.log("=== KIỂM TRA LOGIC TRỘN ĐỀ ===");
+  console.log(`- Số câu đã làm ĐÚNG hoàn toàn (bị ẩn đi): ${correctPool.length}`);
+  console.log(`- Số câu KHẢ DỤNG còn lại có thể bốc: ${poolKhaDung.length}`);
 
   // Tách pool khả dụng làm 2 nhóm để ưu tiên đưa câu từng sai lên trước
   let wrongQuestions = poolKhaDung.filter(q => (q.weight && q.weight > 1) || (q.wrongCount && q.wrongCount > 0));
   let remainingQuestions = poolKhaDung.filter(q => !((q.weight && q.weight > 1) || (q.wrongCount && q.wrongCount > 0)));
+
+  console.log(`  + Trong đó số câu từng LÀM SAI (được ưu tiên): ${wrongQuestions.length}`);
+  console.log(`  + Trong đó số câu MỚI TINH / CHƯA LÀM: ${remainingQuestions.length}`);
 
   // Gom câu sai trước
   let list = wrongQuestions.slice(0, 100);
@@ -215,17 +223,20 @@ function startExam() {
 
   // Trường hợp đặc biệt: Nếu học viên đã làm ĐÚNG SẠCH SẼ toàn bộ kho đề (Hết sạch câu khả dụng)
   if (list.length === 0 && data.length > 0) {
+    console.log("🚨 KHO ĐỀ KHẢ DỤNG ĐÃ HẾT SẠCH! TỰ ĐỘNG RESET CORRECTPOOL ĐỂ CHẠY LẠI VÒNG MỚI.");
     alert("Chúc mừng! Bạn đã hoàn thành đúng toàn bộ câu hỏi. Hệ thống sẽ làm mới để bạn học lại từ đầu!");
     localStorage.removeItem("correctPool");
     data.forEach(q => { q.weight = 1; q.correctCount = 0; q.wrongCount = 0; });
     list = shuffle([...data]).slice(0, 100);
   }
 
-  // TRỘN TỔNG LỰC LẦN CUỐI: Xáo lộn xộn ngẫu nhiên tuyệt đối giữa câu sai và câu bù đắp
+  // TRỘN TỔNG LỰC LẦN CUỐI
   list = shuffle(list);
 
   // Lấy chuẩn xác tối đa 100 câu phân tán ngẫu nhiên không trùng lặp
   questions = list.filter(q => q && (q.question || q.cauhoi)).slice(0, Math.min(100, list.length));
+  console.log(`=> ĐỀ THI ĐÃ CHỐT: Tạo đề thành công với ${questions.length} câu hỏi không trùng lặp.`);
+  console.log("==============================");
 
   render();
   startTimer();
