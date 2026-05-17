@@ -179,96 +179,52 @@ function shuffle(arr) {
   return a;
 }
 
-// ================= START EXAM (THUẬT TOÁN BỐC ĐÈ BA GIAI ĐOẠN) =================
+// ================= START EXAM (LOGIC LOẠI TRỪ CÂU ĐÚNG) =================
 function startExam() {
   answers = {};
   index = 0;
   time = 60 * 60;
 
+  // Lấy danh sách nội dung câu hỏi đã làm ĐÚNG hoàn toàn từ các lượt trước
   let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
 
-  // 1. Phân loại toàn bộ kho dữ liệu (data) thành 3 nhóm riêng biệt dựa trên lịch sử làm bài
-  
-  // Nhóm A: Câu hỏi ƯU TIÊN (Đã từng làm sai ít nhất 1 lần, hoặc có cân nặng phạt)
-  // Lưu ý: Nếu câu hỏi bị sai nhiều (wrongCount >= 3 hoặc weight >= 3.0), nó bắt buộc nằm ở đây kể cả khi đã làm đúng ở lần gần nhất.
-  let nhomUuTien = data.filter(q => {
-    let biSaiNhieu = (q.wrongCount && q.wrongCount >= 3) || (q.weight && q.weight >= 3.0);
-    let tungLamSai = (q.weight && q.weight > 1) || (q.wrongCount && q.wrongCount > 0);
-    return biSaiNhieu || tungLamSai;
-  });
+  // Xáo trộn ngẫu nhiên toàn bộ kho dữ liệu gốc (data) ngay từ đầu để phá vỡ cấu trúc cụm file
+  let randomWholeData = shuffle(data);
 
-  // Nhóm B: Câu hỏi CHƯA LÀM / MỚI hoàn toàn (Chưa từng có lịch sử đúng sai, không nằm trong pool đúng)
-  let nhomChuaLam = data.filter(q => {
+  // LOGIC: Lấy (Câu sai + Toàn bộ đề) - Loại bỏ hoàn toàn những câu nằm trong correctPool
+  let poolKhaDung = randomWholeData.filter(q => {
     let qText = (q.question || q.cauhoi || "").trim();
-    let daTungTuongTac = (q.weight && q.weight > 1) || (q.wrongCount && q.wrongCount > 0);
-    return !daTungTuongTac && !correctPool.includes(qText);
+    // CHỈ lấy những câu KHÔNG nằm trong danh sách câu đã làm đúng hoàn toàn
+    return !correctPool.includes(qText);
   });
 
-  // Nhóm C: Câu hỏi ĐÃ LÀM ĐÚNG (Dành để lấy bù vào khi câu sai + câu chưa làm không gom đủ 100 câu)
-  let nhomDaLamDung = data.filter(q => {
-    let qText = (q.question || q.cauhoi || "").trim();
-    let biSaiNhieu = (q.wrongCount && q.wrongCount >= 3) || (q.weight && q.weight >= 3.0);
-    // Điều kiện: Nằm trong correctPool và không thuộc diện bị ép học lại do sai quá nhiều
-    return correctPool.includes(qText) && !biSaiNhieu;
-  });
+  // Tách pool khả dụng làm 2 nhóm để ưu tiên đưa câu từng sai lên trước
+  let wrongQuestions = poolKhaDung.filter(q => (q.weight && q.weight > 1) || (q.wrongCount && q.wrongCount > 0));
+  let remainingQuestions = poolKhaDung.filter(q => !((q.weight && q.weight > 1) || (q.wrongCount && q.wrongCount > 0)));
 
-  // 2. Định hình và sắp xếp dữ liệu trước khi bốc đề
-  // Nhóm ưu tiên: Sắp xếp câu sai nhiều lên trước
-  nhomUuTien.sort((x, y) => {
-    let weightX = x.weight || 1;
-    let weightY = y.weight || 1;
-    let wrongX = x.wrongCount || 0;
-    let wrongY = y.wrongCount || 0;
-    if (wrongY !== wrongX) return wrongY - wrongX;
-    return weightY - weightX;
-  });
+  // Gom câu sai trước
+  let list = wrongQuestions.slice(0, 100);
 
-  // Nhóm mới và Nhóm đã làm đúng: Trộn lộn xộn ngẫu nhiên để tạo tính bất ngờ
-  nhomChuaLam = shuffle(nhomChuaLam);
-  nhomDaLamDung = shuffle(nhomDaLamDung);
-
-  // 3. Tiến trình gộp đề theo 3 bước lũy tiến
-  let list = [];
-
-  // Bước 3.1: Lấy từ nhóm câu hỏi từng làm sai (Giới hạn tối đa 70 câu để đề thi phong phú)
-  let slotUuTien = nhomUuTien.slice(0, 70);
-  list = list.concat(slotUuTien);
-
-  // Bước 3.2: Nếu chưa đủ 100 câu, nạp tiếp các câu chưa làm/câu mới
-  for (let q of nhomChuaLam) {
-    if (list.length >= 100) break;
-    list.push(q);
-  }
-
-  // Bước 3.3: THỦ THUẬT MỚI THEO YÊU CẦU: Nếu câu sai + câu chưa làm vẫn hụt (< 100 câu)
-  // Tiến hành bốc thêm các câu hỏi đã làm đúng để bù đắp cho đủ 100 câu.
+  // Nếu câu sai chưa đủ 100 ➡️ Bốc bù từ nhóm câu chưa làm/chưa đúng
   if (list.length < 100) {
-    for (let q of nhomDaLamDung) {
+    for (let q of remainingQuestions) {
       if (list.length >= 100) break;
       list.push(q);
     }
   }
 
-  // Bước 3.4: Trường hợp dự phòng nếu kho đề quá nhỏ, vét nốt phần còn dư của nhóm ưu tiên sai nhiều
-  if (list.length < 100 && nhomUuTien.length > 70) {
-    let phanDuUuTien = nhomUuTien.slice(70);
-    for (let q of phanDuUuTien) {
-      if (list.length >= 100) break;
-      list.push(q);
-    }
-  }
-
-  // Trộn lộn xộn hoàn toàn 100 câu cuối cùng đan xen nhau trước khi hiển thị cho học viên
-  list = shuffle(list);
-
-  // 4. Kịch bản quay lại từ đầu: Học viên xuất sắc làm đúng 100% không còn câu nào sai hay chưa làm
+  // Trường hợp đặc biệt: Nếu học viên đã làm ĐÚNG SẠCH SẼ toàn bộ kho đề (Hết sạch câu khả dụng)
   if (list.length === 0 && data.length > 0) {
-    alert("Chúc mừng! Bạn đã hoàn thành chính xác toàn bộ câu hỏi trong hệ thống. Đề thi sẽ tự động quay lại từ đầu!");
+    alert("Chúc mừng! Bạn đã hoàn thành đúng toàn bộ câu hỏi. Hệ thống sẽ làm mới để bạn học lại từ đầu!");
     localStorage.removeItem("correctPool");
     data.forEach(q => { q.weight = 1; q.correctCount = 0; q.wrongCount = 0; });
-    list = shuffle([...data]);
+    list = shuffle([...data]).slice(0, 100);
   }
 
+  // TRỘN TỔNG LỰC LẦN CUỐI: Xáo lộn xộn ngẫu nhiên tuyệt đối giữa câu sai và câu bù đắp
+  list = shuffle(list);
+
+  // Lấy chuẩn xác tối đa 100 câu phân tán ngẫu nhiên không trùng lặp
   questions = list.filter(q => q && (q.question || q.cauhoi)).slice(0, Math.min(100, list.length));
 
   render();
@@ -440,7 +396,7 @@ function submit() {
       if (userAns === correctAns) {
         correct++;
         originalQ.correctCount++;
-        originalQ.weight = Math.max(1, originalQ.weight - 0.4); 
+        originalQ.weight = Math.max(1, originalQ.weight - 0.3);
         
         if (!correctPool.includes(qTextId)) {
           correctPool.push(qTextId);
@@ -449,7 +405,7 @@ function submit() {
         wrong++;
         newWrong.push(originalQ);
         originalQ.wrongCount++;
-        originalQ.weight = Math.min(10, originalQ.weight + 1.5); 
+        originalQ.weight = Math.min(10, originalQ.weight + 1.2); 
         
         let cIndex = correctPool.indexOf(qTextId);
         if (cIndex > -1) {
@@ -458,10 +414,6 @@ function submit() {
       }
     } else {
       wrong++; 
-      let cIndex = correctPool.indexOf(qTextId);
-      if (cIndex > -1) {
-        correctPool.splice(cIndex, 1);
-      }
     }
   });
 
