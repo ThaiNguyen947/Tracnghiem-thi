@@ -115,7 +115,6 @@ async function taiTatCaDuLieuCauHoi() {
   }
 
   if (beCauHoiTong.length === 0) {
-    alert("Không tải được bất kỳ file câu hỏi nào trong thư mục cau_hoi! Vui lòng kiểm tra lại đường dẫn.");
     return [];
   }
 
@@ -128,22 +127,56 @@ async function taiTatCaDuLieuCauHoi() {
   return beCauHoiTong;
 }
 
-// Hàm khởi động nạp dữ liệu chính
+// ================= KHI KHỞI ĐỘNG ỨNG DỤNG (FIXED) =================
 async function khoiDongUngDung() {
-  const localData = localStorage.getItem("questionData");
+  // 1. Luôn luôn tải dữ liệu mới nhất từ các file JSON về trước
+  const fileData = await taiTatCaDuLieuCauHoi();
   
-  if (localData) {
-    data = JSON.parse(localData);
-    checkLogin();
-  } else {
-    data = await taiTatCaDuLieuCauHoi();
-    if (data.length > 0) {
+  if (fileData.length === 0) {
+    // Nếu lỗi không tải được file JSON nào, dùng dữ liệu backup cũ từ localStorage
+    const localData = localStorage.getItem("questionData");
+    if (localData) {
+      data = JSON.parse(localData);
       checkLogin();
+    } else {
+      alert("Không tải được bất kỳ file câu hỏi nào trong thư mục cau_hoi! Vui lòng kiểm tra lại đường dẫn.");
     }
+    return;
   }
+
+  // 2. Đọc dữ liệu cũ trong localStorage (nếu có) để giữ lại lịch sử tiến trình (weight, correctCount...)
+  const localData = localStorage.getItem("questionData");
+  if (localData) {
+    const localQuestions = JSON.parse(localData);
+    
+    // Tạo bản đồ (Map) câu hỏi cũ theo nội dung câu chữ để đối chiếu tăng tốc độ xử lý
+    const localMap = new Map();
+    localQuestions.forEach(q => {
+      let qText = (q.question || q.cauhoi || "").trim();
+      if (qText) localMap.set(qText, q);
+    });
+
+    // Đồng bộ trạng thái cũ sang danh sách câu hỏi mới tải về
+    fileData.forEach(q => {
+      let qText = (q.question || q.cauhoi || "").trim();
+      if (localMap.has(qText)) {
+        const oldQ = localMap.get(qText);
+        q.weight = oldQ.weight || 1;
+        q.correctCount = oldQ.correctCount || 0;
+        q.wrongCount = oldQ.wrongCount || 0;
+      }
+    });
+  }
+
+  // 3. Cập nhật vào biến data chính và lưu lại bộ nhớ trình duyệt để đồng bộ đồng nhất
+  data = fileData;
+  localStorage.setItem("questionData", JSON.stringify(data));
+  
+  // 4. Tiến hành kiểm tra login và vào thi bài học
+  checkLogin();
 }
 
-// Chạy ứng dụng bằng cơ chế tải dữ liệu mới
+// Chạy ứng dụng bằng cơ chế tải dữ liệu mới ưu tiên hàng đầu
 khoiDongUngDung();
 
 
@@ -220,7 +253,7 @@ function startExam() {
   }
 
   // Nếu đã làm đúng sạch hoàn toàn tất cả các câu hỏi trong mọi file JSON
-  if (priorityQuestions.length === 0) {
+  if (priorityQuestions.length === 0 && data.length > 0) {
     alert("Chúc mừng! Bạn đã hoàn thành đúng tất cả các câu hỏi trong bộ đề. Hệ thống sẽ tự động làm mới (reset) lại từ đầu!");
     localStorage.removeItem("correctPool");
     list = shuffle([...data]);
