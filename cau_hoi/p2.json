@@ -5867,5 +5867,707 @@
     "d": "Chỉ Bộ Tư pháp mới được tiếp nhận hồ sơ bổ nhiệm lại công chứng viên.",
     "answer": "c",
     "explanation": "Căn cứ khoản 2 Điều 7 Nghị định 104/2025/NĐ-CP: Hồ sơ bổ nhiệm lại công chứng viên có thể nộp trực tiếp, qua bưu chính hoặc trực tuyến trên môi trường điện tử."
-  }
+  },
+  {
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, con sinh ra trong thời kỳ hôn nhân được xác định là:",
+  "a": "Con riêng của mẹ.",
+  "b": "Con chung của vợ chồng.",
+  "c": "Chỉ là con chung nếu cha thừa nhận.",
+  "d": "Phải giám định ADN mới xác định được.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 88 Luật Hôn nhân và gia đình năm 2014 quy định: \"Con sinh ra trong thời kỳ hôn nhân ... là con chung của vợ chồng.\""
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, con được sinh ra trong thời hạn bao nhiêu ngày kể từ thời điểm chấm dứt hôn nhân thì được coi là con do người vợ có thai trong thời kỳ hôn nhân?",
+  "a": "90 ngày.",
+  "b": "180 ngày.",
+  "c": "300 ngày.",
+  "d": "365 ngày.",
+  "answer": "c",
+  "explanation": "Khoản 1 Điều 88 Luật Hôn nhân và gia đình năm 2014 quy định con sinh ra trong thời hạn 300 ngày kể từ thời điểm chấm dứt hôn nhân được coi là con do người vợ có thai trong thời kỳ hôn nhân."
+},
+{
+  "question": "Tình huống: Ông A và bà B ly hôn ngày 01/01/2025. Ngày 01/08/2025 bà B sinh con. Theo Luật Hôn nhân và gia đình năm 2014, đứa trẻ:",
+  "a": "Đương nhiên không phải con ông A.",
+  "b": "Được coi là con do người vợ có thai trong thời kỳ hôn nhân.",
+  "c": "Chỉ được xác định là con nếu ông A đồng ý.",
+  "d": "Phải chờ Tòa án xác định.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 88 Luật Hôn nhân và gia đình năm 2014 quy định con sinh ra trong thời hạn 300 ngày kể từ thời điểm chấm dứt hôn nhân được coi là con do người vợ có thai trong thời kỳ hôn nhân."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, con sinh ra trước ngày đăng ký kết hôn được xác định là con chung của vợ chồng khi nào?",
+  "a": "Khi có giấy khai sinh.",
+  "b": "Khi cha mẹ thừa nhận là con chung.",
+  "c": "Khi đủ 18 tuổi.",
+  "d": "Khi có xác nhận của địa phương.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 88 Luật Hôn nhân và gia đình năm 2014 quy định con sinh ra trước ngày đăng ký kết hôn và được cha mẹ thừa nhận là con chung của vợ chồng."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, khi cha hoặc mẹ không thừa nhận con thì:",
+  "a": "Chỉ cần tuyên bố miệng.",
+  "b": "Phải có chứng cứ và được Tòa án xác định.",
+  "c": "Ủy ban nhân dân cấp xã quyết định.",
+  "d": "Người còn lại tự xác định.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 88 Luật Hôn nhân và gia đình năm 2014 quy định trong trường hợp cha, mẹ không thừa nhận con thì phải có chứng cứ và phải được Tòa án xác định."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, người không được nhận là cha, mẹ của một người có quyền gì?",
+  "a": "Yêu cầu cơ quan công an giải quyết.",
+  "b": "Yêu cầu Tòa án xác định người đó là con mình.",
+  "c": "Tự ý sửa giấy khai sinh.",
+  "d": "Không có quyền gì.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 89 Luật Hôn nhân và gia đình năm 2014 quy định người không được nhận là cha, mẹ của một người có thể yêu cầu Tòa án xác định người đó là con mình."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, người được nhận là cha, mẹ của một người có quyền:",
+  "a": "Yêu cầu Tòa án xác định người đó không phải là con mình.",
+  "b": "Tự hủy giấy khai sinh.",
+  "c": "Yêu cầu công an giải quyết.",
+  "d": "Không được phản đối.",
+  "answer": "a",
+  "explanation": "Khoản 2 Điều 89 Luật Hôn nhân và gia đình năm 2014 quy định người được nhận là cha, mẹ của một người có thể yêu cầu Tòa án xác định người đó không phải là con mình."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, con có quyền nhận cha, mẹ của mình trong trường hợp nào?",
+  "a": "Chỉ khi cha mẹ còn sống.",
+  "b": "Kể cả trong trường hợp cha, mẹ đã chết.",
+  "c": "Chỉ khi được người giám hộ đồng ý.",
+  "d": "Chỉ khi chưa thành niên.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 90 Luật Hôn nhân và gia đình năm 2014 quy định con có quyền nhận cha, mẹ của mình, kể cả trong trường hợp cha, mẹ đã chết."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, con đã thành niên nhận cha thì:",
+  "a": "Phải có sự đồng ý của mẹ.",
+  "b": "Không cần sự đồng ý của mẹ.",
+  "c": "Phải được Tòa án chấp thuận.",
+  "d": "Phải được người giám hộ đồng ý.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 90 Luật Hôn nhân và gia đình năm 2014 quy định con đã thành niên nhận cha không cần phải có sự đồng ý của mẹ."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, người đang có vợ hoặc chồng khi nhận con thì:",
+  "a": "Phải có sự đồng ý của người còn lại.",
+  "b": "Không cần sự đồng ý của người kia.",
+  "c": "Phải được Ủy ban nhân dân cấp xã chấp thuận.",
+  "d": "Chỉ được nhận con ngoài giá thú khi ly hôn.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 91 Luật Hôn nhân và gia đình năm 2014 quy định người đang có vợ, chồng mà nhận con thì việc nhận con không cần phải có sự đồng ý của người kia."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, khi người có yêu cầu xác định cha, mẹ, con đã chết thì ai có quyền yêu cầu Tòa án xác định?",
+  "a": "Bất kỳ người nào.",
+  "b": "Người thân thích của người đã chết.",
+  "c": "Ủy ban nhân dân cấp xã.",
+  "d": "Chỉ cơ quan công an.",
+  "answer": "b",
+  "explanation": "Điều 92 Luật Hôn nhân và gia đình năm 2014 quy định người thân thích của người có yêu cầu đã chết có quyền yêu cầu Tòa án xác định cha, mẹ, con."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, trong trường hợp người phụ nữ sống độc thân sinh con bằng kỹ thuật hỗ trợ sinh sản thì:",
+  "a": "Người cho tinh trùng là cha hợp pháp.",
+  "b": "Người phụ nữ đó là mẹ của con sinh ra.",
+  "c": "Đứa trẻ không xác định được cha mẹ.",
+  "d": "Tòa án quyết định người mẹ.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 93 Luật Hôn nhân và gia đình năm 2014 quy định người phụ nữ sống độc thân sinh con bằng kỹ thuật hỗ trợ sinh sản thì người phụ nữ đó là mẹ của con được sinh ra."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, việc sinh con bằng kỹ thuật hỗ trợ sinh sản có làm phát sinh quan hệ cha mẹ và con giữa người cho tinh trùng, noãn, phôi với đứa trẻ không?",
+  "a": "Có.",
+  "b": "Chỉ phát sinh với người cho tinh trùng.",
+  "c": "Chỉ phát sinh với người cho noãn.",
+  "d": "Không.",
+  "answer": "d",
+  "explanation": "Khoản 3 Điều 93 Luật Hôn nhân và gia đình năm 2014 quy định việc sinh con bằng kỹ thuật hỗ trợ sinh sản không làm phát sinh quan hệ cha, mẹ và con giữa người cho tinh trùng, cho noãn, cho phôi với người con được sinh ra."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, con sinh ra trong trường hợp mang thai hộ vì mục đích nhân đạo là con chung của ai?",
+  "a": "Người mang thai hộ và chồng người đó.",
+  "b": "Vợ chồng nhờ mang thai hộ.",
+  "c": "Người cho tinh trùng và người mang thai hộ.",
+  "d": "Nhà nước xác định theo từng trường hợp.",
+  "answer": "b",
+  "explanation": "Điều 94 Luật Hôn nhân và gia đình năm 2014 quy định con sinh ra trong trường hợp mang thai hộ vì mục đích nhân đạo là con chung của vợ chồng nhờ mang thai hộ kể từ thời điểm con được sinh ra."
+},
+{
+  "question": "Tình huống: Bà A mang thai hộ vì mục đích nhân đạo cho vợ chồng ông B. Sau khi sinh, bà A yêu cầu được công nhận là mẹ của đứa trẻ. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Bà A là mẹ hợp pháp vì trực tiếp sinh con.",
+  "b": "Con là con chung của vợ chồng ông B kể từ thời điểm sinh ra.",
+  "c": "Đứa trẻ có hai người mẹ hợp pháp.",
+  "d": "Phải chờ Tòa án xác định.",
+  "answer": "b",
+  "explanation": "Điều 94 Luật Hôn nhân và gia đình năm 2014 quy định con sinh ra trong trường hợp mang thai hộ vì mục đích nhân đạo là con chung của vợ chồng nhờ mang thai hộ kể từ thời điểm con được sinh ra."
+},
+{
+  "question": "Tình huống: Ông A và bà B chưa đăng ký kết hôn nhưng đã có con chung trước đó. Sau khi đăng ký kết hôn, cả hai cùng thừa nhận đứa trẻ là con chung. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Đứa trẻ chỉ được xác định là con của mẹ.",
+  "b": "Đứa trẻ được xác định là con chung của vợ chồng.",
+  "c": "Phải giám định ADN bắt buộc.",
+  "d": "Chỉ được xác định là con chung nếu Tòa án công nhận.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 88 Luật Hôn nhân và gia đình năm 2014 quy định con sinh ra trước ngày đăng ký kết hôn và được cha mẹ thừa nhận là con chung của vợ chồng."
+},
+{
+  "question": "Tình huống: Ông A cho rằng đứa trẻ sinh ra trong thời kỳ hôn nhân không phải là con mình nhưng không cung cấp được chứng cứ. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Đứa trẻ vẫn được xác định là con chung của vợ chồng.",
+  "b": "Đứa trẻ đương nhiên không phải con ông A.",
+  "c": "Ủy ban nhân dân cấp xã quyết định.",
+  "d": "Mẹ đứa trẻ tự xác định.",
+  "answer": "a",
+  "explanation": "Khoản 1 và khoản 2 Điều 88 Luật Hôn nhân và gia đình năm 2014 quy định con sinh ra trong thời kỳ hôn nhân là con chung của vợ chồng; trường hợp không thừa nhận con thì phải có chứng cứ và phải được Tòa án xác định."
+},
+{
+  "question": "Tình huống: Bà B sinh con sau 250 ngày kể từ ngày ly hôn với ông A. Sau đó ông A yêu cầu xác định đứa trẻ không phải con mình. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Đứa trẻ mặc nhiên không phải con ông A.",
+  "b": "Đứa trẻ vẫn được coi là con do người vợ có thai trong thời kỳ hôn nhân.",
+  "c": "Không được quyền yêu cầu Tòa án.",
+  "d": "Chỉ mẹ mới có quyền yêu cầu xác định cha cho con.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 88 Luật Hôn nhân và gia đình năm 2014 quy định con sinh ra trong thời hạn 300 ngày kể từ thời điểm chấm dứt hôn nhân được coi là con do người vợ có thai trong thời kỳ hôn nhân."
+},
+{
+  "question": "Tình huống: Ông A đã chết trước khi làm thủ tục nhận con. Sau khi ông A chết, người con yêu cầu xác định quan hệ cha con. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Không được xác định vì ông A đã chết.",
+  "b": "Con vẫn có quyền nhận cha kể cả khi cha đã chết.",
+  "c": "Chỉ được nhận cha nếu có di chúc.",
+  "d": "Ủy ban nhân dân cấp xã quyết định.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 90 Luật Hôn nhân và gia đình năm 2014 quy định con có quyền nhận cha, mẹ của mình kể cả trong trường hợp cha, mẹ đã chết."
+},
+{
+  "question": "Tình huống: Anh C đã 25 tuổi muốn nhận ông A là cha ruột của mình nhưng mẹ anh không đồng ý. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Không được nhận cha nếu mẹ không đồng ý.",
+  "b": "Phải chờ Tòa án giải quyết ly hôn của cha mẹ.",
+  "c": "Con đã thành niên nhận cha không cần sự đồng ý của mẹ.",
+  "d": "Chỉ được nhận cha nếu có người làm chứng.",
+  "answer": "c",
+  "explanation": "Khoản 2 Điều 90 Luật Hôn nhân và gia đình năm 2014 quy định con đã thành niên nhận cha không cần phải có sự đồng ý của mẹ."
+},
+{
+  "question": "Tình huống: Ông A đang có vợ hợp pháp nhưng muốn nhận con riêng với bà B. Người vợ phản đối việc nhận con. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Ông A không được nhận con.",
+  "b": "Phải có sự đồng ý bằng văn bản của vợ.",
+  "c": "Việc nhận con không cần sự đồng ý của người vợ.",
+  "d": "Chỉ được nhận con sau khi ly hôn.",
+  "answer": "c",
+  "explanation": "Khoản 2 Điều 91 Luật Hôn nhân và gia đình năm 2014 quy định người đang có vợ, chồng mà nhận con thì việc nhận con không cần phải có sự đồng ý của người kia."
+},
+{
+  "question": "Tình huống: Ông A đã nộp đơn yêu cầu Tòa án xác định cha cho mình nhưng chết trước khi giải quyết xong. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Vụ việc chấm dứt hoàn toàn.",
+  "b": "Người thân thích của ông A có quyền tiếp tục yêu cầu Tòa án xác định cha, mẹ, con.",
+  "c": "Chỉ Viện kiểm sát mới có quyền yêu cầu.",
+  "d": "Ủy ban nhân dân cấp xã tiếp tục giải quyết.",
+  "answer": "b",
+  "explanation": "Điều 92 Luật Hôn nhân và gia đình năm 2014 quy định khi người có yêu cầu chết thì người thân thích của người này có quyền yêu cầu Tòa án xác định cha, mẹ, con."
+},
+{
+  "question": "Tình huống: Một cặp vợ chồng hiếm muộn sử dụng tinh trùng hiến tặng để sinh con bằng kỹ thuật hỗ trợ sinh sản. Sau này người cho tinh trùng yêu cầu được công nhận là cha của đứa trẻ. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Được công nhận là cha ruột.",
+  "b": "Chỉ được công nhận nếu người mẹ đồng ý.",
+  "c": "Không phát sinh quan hệ cha con giữa người cho tinh trùng và đứa trẻ.",
+  "d": "Phải chờ Tòa án xác định.",
+  "answer": "c",
+  "explanation": "Khoản 3 Điều 93 Luật Hôn nhân và gia đình năm 2014 quy định việc sinh con bằng kỹ thuật hỗ trợ sinh sản không làm phát sinh quan hệ cha, mẹ và con giữa người cho tinh trùng với người con được sinh ra."
+},
+{
+  "question": "Tình huống: Chị A sống độc thân và sinh con bằng kỹ thuật hỗ trợ sinh sản. Sau đó một người đàn ông tự nhận là cha của đứa trẻ do đã hiến tinh trùng. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Người đàn ông được xác định là cha hợp pháp.",
+  "b": "Chị A là mẹ hợp pháp của đứa trẻ.",
+  "c": "Đứa trẻ không xác định được cha mẹ.",
+  "d": "Quan hệ cha con phát sinh theo ADN.",
+  "answer": "b",
+  "explanation": "Khoản 2 và khoản 3 Điều 93 Luật Hôn nhân và gia đình năm 2014 quy định người phụ nữ sống độc thân sinh con bằng kỹ thuật hỗ trợ sinh sản là mẹ của đứa trẻ và việc cho tinh trùng không làm phát sinh quan hệ cha, mẹ và con."
+},
+{
+  "question": "Tình huống: Vợ chồng ông A nhờ bà B mang thai hộ vì mục đích nhân đạo. Sau khi sinh, bà B yêu cầu được ghi tên mình vào giấy khai sinh với tư cách mẹ ruột. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Bà B là mẹ hợp pháp vì trực tiếp sinh con.",
+  "b": "Con là con chung của vợ chồng nhờ mang thai hộ kể từ thời điểm sinh ra.",
+  "c": "Đứa trẻ đồng thời có hai người mẹ hợp pháp.",
+  "d": "Phải đợi đủ 18 tuổi mới xác định được cha mẹ.",
+  "answer": "b",
+  "explanation": "Điều 94 Luật Hôn nhân và gia đình năm 2014 quy định con sinh ra trong trường hợp mang thai hộ vì mục đích nhân đạo là con chung của vợ chồng nhờ mang thai hộ kể từ thời điểm con được sinh ra."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, việc mang thai hộ vì mục đích nhân đạo phải được thực hiện trên cơ sở nào?",
+  "a": "Bắt buộc theo yêu cầu của cơ sở y tế.",
+  "b": "Tự nguyện của các bên và được lập thành văn bản.",
+  "c": "Chỉ cần thỏa thuận miệng.",
+  "d": "Theo quyết định của Tòa án.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 95 Luật Hôn nhân và gia đình năm 2014 quy định việc mang thai hộ vì mục đích nhân đạo phải được thực hiện trên cơ sở tự nguyện của các bên và được lập thành văn bản."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, điều kiện nào sau đây là bắt buộc để vợ chồng được nhờ mang thai hộ?",
+  "a": "Đã có ít nhất một con chung.",
+  "b": "Người vợ không thể mang thai và sinh con ngay cả khi áp dụng kỹ thuật hỗ trợ sinh sản.",
+  "c": "Có xác nhận của Ủy ban nhân dân cấp xã.",
+  "d": "Người chồng bị vô sinh.",
+  "answer": "b",
+  "explanation": "Điểm a khoản 2 Điều 95 Luật Hôn nhân và gia đình năm 2014 quy định phải có xác nhận của tổ chức y tế có thẩm quyền về việc người vợ không thể mang thai và sinh con ngay cả khi áp dụng kỹ thuật hỗ trợ sinh sản."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, vợ chồng nhờ mang thai hộ phải đáp ứng điều kiện nào sau đây?",
+  "a": "Đang không có con chung.",
+  "b": "Có ít nhất hai con chung.",
+  "c": "Chỉ cần có điều kiện kinh tế.",
+  "d": "Người vợ đã từng sinh con.",
+  "answer": "a",
+  "explanation": "Điểm b khoản 2 Điều 95 Luật Hôn nhân và gia đình năm 2014 quy định vợ chồng nhờ mang thai hộ phải đang không có con chung."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, người được nhờ mang thai hộ phải là:",
+  "a": "Người quen bất kỳ.",
+  "b": "Người thân thích cùng hàng của bên vợ hoặc bên chồng nhờ mang thai hộ.",
+  "c": "Người nước ngoài.",
+  "d": "Bất kỳ phụ nữ nào có khả năng sinh con.",
+  "answer": "b",
+  "explanation": "Điểm a khoản 3 Điều 95 Luật Hôn nhân và gia đình năm 2014 quy định người mang thai hộ phải là người thân thích cùng hàng của bên vợ hoặc bên chồng nhờ mang thai hộ."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, người phụ nữ được mang thai hộ tối đa bao nhiêu lần?",
+  "a": "Không giới hạn.",
+  "b": "01 lần.",
+  "c": "02 lần.",
+  "d": "03 lần.",
+  "answer": "b",
+  "explanation": "Điểm b khoản 3 Điều 95 Luật Hôn nhân và gia đình năm 2014 quy định người mang thai hộ đã từng sinh con và chỉ được mang thai hộ một lần."
+},
+{
+  "question": "Tình huống: Chị A được nhờ mang thai hộ và đang có chồng nhưng chưa có sự đồng ý của chồng bằng văn bản. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Vẫn được mang thai hộ nếu tự nguyện.",
+  "b": "Phải có sự đồng ý bằng văn bản của người chồng.",
+  "c": "Chỉ cần xác nhận của bệnh viện.",
+  "d": "Không cần điều kiện gì thêm.",
+  "answer": "b",
+  "explanation": "Điểm d khoản 3 Điều 95 Luật Hôn nhân và gia đình năm 2014 quy định trường hợp người phụ nữ mang thai hộ có chồng thì phải có sự đồng ý bằng văn bản của người chồng."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, thỏa thuận về mang thai hộ vì mục đích nhân đạo phải được lập dưới hình thức nào?",
+  "a": "Lời nói.",
+  "b": "Văn bản có công chứng.",
+  "c": "Tin nhắn điện thoại.",
+  "d": "Email xác nhận.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 96 Luật Hôn nhân và gia đình năm 2014 quy định thỏa thuận về việc mang thai hộ phải được lập thành văn bản có công chứng."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, việc ủy quyền cho người thứ ba tham gia thỏa thuận mang thai hộ:",
+  "a": "Có giá trị pháp lý.",
+  "b": "Chỉ cần lập thành văn bản.",
+  "c": "Không có giá trị pháp lý.",
+  "d": "Được thực hiện nếu Tòa án đồng ý.",
+  "answer": "c",
+  "explanation": "Khoản 2 Điều 96 Luật Hôn nhân và gia đình năm 2014 quy định việc ủy quyền cho người thứ ba không có giá trị pháp lý."
+},
+{
+  "question": "Tình huống: Sau khi sinh con bằng mang thai hộ, bên nhờ mang thai hộ từ chối nhận con. Theo Luật Hôn nhân và gia đình năm 2014, bên mang thai hộ có quyền:",
+  "a": "Tự ý cho con làm con nuôi.",
+  "b": "Yêu cầu Tòa án buộc bên nhờ mang thai hộ nhận con.",
+  "c": "Hủy bỏ việc mang thai hộ.",
+  "d": "Đăng ký con theo họ mình.",
+  "answer": "b",
+  "explanation": "Khoản 5 Điều 97 Luật Hôn nhân và gia đình năm 2014 quy định bên mang thai hộ có quyền yêu cầu Tòa án buộc bên nhờ mang thai hộ nhận con."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, người mang thai hộ được hưởng chế độ thai sản đến thời điểm nào?",
+  "a": "Đến khi đứa trẻ đủ 18 tuổi.",
+  "b": "Đến thời điểm giao đứa trẻ cho bên nhờ mang thai hộ.",
+  "c": "Đến khi xuất viện.",
+  "d": "Không được hưởng chế độ thai sản.",
+  "answer": "b",
+  "explanation": "Khoản 3 Điều 97 Luật Hôn nhân và gia đình năm 2014 quy định người mang thai hộ được hưởng chế độ thai sản cho đến thời điểm giao đứa trẻ cho bên nhờ mang thai hộ."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, quyền và nghĩa vụ của bên nhờ mang thai hộ đối với con phát sinh từ thời điểm nào?",
+  "a": "Từ thời điểm ký thỏa thuận.",
+  "b": "Từ thời điểm chuyển phôi.",
+  "c": "Từ thời điểm con được sinh ra.",
+  "d": "Từ thời điểm nhận con.",
+  "answer": "c",
+  "explanation": "Khoản 2 Điều 98 Luật Hôn nhân và gia đình năm 2014 quy định quyền và nghĩa vụ của bên nhờ mang thai hộ đối với con phát sinh kể từ thời điểm con được sinh ra."
+},
+{
+  "question": "Tình huống: Bên nhờ mang thai hộ chậm nhận con sau khi sinh. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Không phát sinh trách nhiệm gì.",
+  "b": "Phải có nghĩa vụ cấp dưỡng cho con và có thể phải bồi thường thiệt hại.",
+  "c": "Được quyền từ chối con.",
+  "d": "Người mang thai hộ phải tự nuôi con.",
+  "answer": "b",
+  "explanation": "Khoản 3 Điều 98 Luật Hôn nhân và gia đình năm 2014 quy định bên nhờ mang thai hộ chậm nhận con hoặc vi phạm nghĩa vụ nuôi dưỡng, chăm sóc con thì phải cấp dưỡng và bồi thường thiệt hại nếu có."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, cơ quan nào có thẩm quyền giải quyết tranh chấp về sinh con bằng kỹ thuật hỗ trợ sinh sản và mang thai hộ?",
+  "a": "Ủy ban nhân dân cấp xã.",
+  "b": "Cơ quan đăng ký hộ tịch.",
+  "c": "Tòa án.",
+  "d": "Cơ sở y tế.",
+  "answer": "c",
+  "explanation": "Khoản 1 Điều 99 Luật Hôn nhân và gia đình năm 2014 quy định Tòa án là cơ quan có thẩm quyền giải quyết tranh chấp về sinh con bằng kỹ thuật hỗ trợ sinh sản và mang thai hộ."
+},
+{
+  "question": "Tình huống: Khi chưa giao đứa trẻ thì cả hai vợ chồng bên nhờ mang thai hộ đều chết. Theo Luật Hôn nhân và gia đình năm 2014, bên mang thai hộ:",
+  "a": "Đương nhiên phải giao con cho Nhà nước.",
+  "b": "Có quyền nhận nuôi đứa trẻ.",
+  "c": "Không được tiếp tục chăm sóc trẻ.",
+  "d": "Phải giao trẻ cho cơ sở y tế.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 99 Luật Hôn nhân và gia đình năm 2014 quy định bên mang thai hộ có quyền nhận nuôi đứa trẻ nếu cả hai vợ chồng bên nhờ mang thai hộ chết hoặc mất năng lực hành vi dân sự trước khi nhận con."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, cơ quan đăng ký hộ tịch có thẩm quyền xác định cha, mẹ, con trong trường hợp nào?",
+  "a": "Mọi trường hợp.",
+  "b": "Trường hợp không có tranh chấp.",
+  "c": "Khi có tranh chấp phức tạp.",
+  "d": "Khi người được yêu cầu đã chết.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 101 Luật Hôn nhân và gia đình năm 2014 quy định cơ quan đăng ký hộ tịch có thẩm quyền xác định cha, mẹ, con trong trường hợp không có tranh chấp."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, Tòa án có thẩm quyền xác định cha, mẹ, con khi nào?",
+  "a": "Chỉ khi có yêu cầu của cơ quan công an.",
+  "b": "Khi có tranh chấp hoặc người được yêu cầu đã chết.",
+  "c": "Chỉ khi đương sự ở nước ngoài.",
+  "d": "Mọi trường hợp đều do Tòa án giải quyết.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 101 Luật Hôn nhân và gia đình năm 2014 quy định Tòa án có thẩm quyền giải quyết việc xác định cha, mẹ, con trong trường hợp có tranh chấp hoặc người được yêu cầu xác định đã chết."
+},
+{
+  "question": "Tình huống: Một người mẹ chưa thành niên muốn yêu cầu xác định cha cho con nhưng không đủ năng lực tự mình thực hiện thủ tục tố tụng. Theo Luật Hôn nhân và gia đình năm 2014, ai có quyền yêu cầu Tòa án xác định cha cho con?",
+  "a": "Chỉ cơ quan công an.",
+  "b": "Người giám hộ.",
+  "c": "Bất kỳ hàng xóm nào.",
+  "d": "Chỉ Hội liên hiệp phụ nữ.",
+  "answer": "b",
+  "explanation": "Khoản 3 Điều 102 Luật Hôn nhân và gia đình năm 2014 quy định người giám hộ có quyền yêu cầu Tòa án xác định cha, mẹ cho con chưa thành niên hoặc cho cha, mẹ chưa thành niên."
+},
+{
+  "question": "Tình huống: Ông A và bà B đang là vợ chồng hợp pháp nhưng sử dụng tinh trùng hiến tặng để sinh con bằng kỹ thuật hỗ trợ sinh sản. Sau khi sinh, ông A cho rằng đứa trẻ không phải con mình vì không cùng huyết thống. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Đứa trẻ chỉ là con của bà B.",
+  "b": "Người cho tinh trùng là cha hợp pháp của đứa trẻ.",
+  "c": "Đứa trẻ vẫn được xác định là con chung của vợ chồng ông A và bà B.",
+  "d": "Phải chờ Tòa án xác định.",
+  "answer": "c",
+  "explanation": "Khoản 1 Điều 93 và khoản 1 Điều 88 Luật Hôn nhân và gia đình năm 2014 quy định trong trường hợp người vợ sinh con bằng kỹ thuật hỗ trợ sinh sản thì việc xác định cha, mẹ áp dụng theo Điều 88; con sinh ra trong thời kỳ hôn nhân là con chung của vợ chồng."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, việc sinh con bằng kỹ thuật hỗ trợ sinh sản có làm phát sinh quan hệ cha, mẹ, con giữa người cho tinh trùng với đứa trẻ sinh ra không?",
+  "a": "Có, nếu có xét nghiệm ADN.",
+  "b": "Có, nếu người cho tinh trùng yêu cầu.",
+  "c": "Không làm phát sinh quan hệ cha, mẹ, con.",
+  "d": "Chỉ phát sinh khi không xác định được cha mẹ hợp pháp.",
+  "answer": "c",
+  "explanation": "Khoản 3 Điều 93 Luật Hôn nhân và gia đình năm 2014 quy định việc sinh con bằng kỹ thuật hỗ trợ sinh sản không làm phát sinh quan hệ cha, mẹ và con giữa người cho tinh trùng, cho noãn, cho phôi với người con được sinh ra."
+},
+{
+  "question": "Tình huống: Bà C sống độc thân và sinh con bằng kỹ thuật hỗ trợ sinh sản. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Đứa trẻ không được xác định mẹ.",
+  "b": "Người cho tinh trùng là cha hợp pháp.",
+  "c": "Bà C là mẹ hợp pháp của đứa trẻ.",
+  "d": "Phải chờ quyết định của Tòa án.",
+  "answer": "c",
+  "explanation": "Khoản 2 Điều 93 Luật Hôn nhân và gia đình năm 2014 quy định trong trường hợp người phụ nữ sống độc thân sinh con bằng kỹ thuật hỗ trợ sinh sản thì người phụ nữ đó là mẹ của con được sinh ra."
+},
+{
+  "question": "Tình huống: Ông A và bà B ly hôn ngày 01/01/2025. Ngày 15/09/2025 bà B sinh con. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Đứa trẻ mặc nhiên không phải con ông A.",
+  "b": "Đứa trẻ được coi là con do người vợ có thai trong thời kỳ hôn nhân.",
+  "c": "Chỉ được xác định cha nếu có ADN.",
+  "d": "Đứa trẻ là con riêng của bà B.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 88 Luật Hôn nhân và gia đình năm 2014 quy định con sinh ra trong thời hạn 300 ngày kể từ thời điểm chấm dứt hôn nhân được coi là con do người vợ có thai trong thời kỳ hôn nhân."
+},
+{
+  "question": "Tình huống: Anh D muốn nhận một người đã chết là con ruột của mình để xác lập quan hệ thừa kế. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Không được nhận con đã chết.",
+  "b": "Được quyền nhận con kể cả trong trường hợp con đã chết.",
+  "c": "Chỉ được nhận nếu có di chúc.",
+  "d": "Chỉ cơ quan hộ tịch mới được yêu cầu.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 91 Luật Hôn nhân và gia đình năm 2014 quy định cha, mẹ có quyền nhận con, kể cả trong trường hợp con đã chết."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, con đã thành niên nhận cha thì:",
+  "a": "Phải có sự đồng ý của mẹ.",
+  "b": "Không cần sự đồng ý của mẹ.",
+  "c": "Phải được UBND cấp xã chấp thuận.",
+  "d": "Phải có xác nhận ADN bắt buộc.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 90 Luật Hôn nhân và gia đình năm 2014 quy định con đã thành niên nhận cha không cần phải có sự đồng ý của mẹ."
+},
+{
+  "question": "Tình huống: Ông A đang có vợ hợp pháp nhưng muốn nhận một đứa trẻ là con ruột của mình ngoài hôn nhân. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Phải được người vợ đồng ý.",
+  "b": "Không cần sự đồng ý của người vợ.",
+  "c": "Không được quyền nhận con.",
+  "d": "Chỉ được nhận con khi đã ly hôn.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 91 Luật Hôn nhân và gia đình năm 2014 quy định trong trường hợp người đang có vợ, chồng mà nhận con thì việc nhận con không cần phải có sự đồng ý của người kia."
+},
+{
+  "question": "Tình huống: Ông A bị xác định không phải cha ruột của bé B và yêu cầu Tòa án xác định bé B không phải con mình. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Không có quyền yêu cầu.",
+  "b": "Chỉ mẹ đứa trẻ mới có quyền yêu cầu.",
+  "c": "Người được nhận là cha có quyền yêu cầu Tòa án xác định người đó không phải là con mình.",
+  "d": "Chỉ cơ quan hộ tịch giải quyết.",
+  "answer": "c",
+  "explanation": "Khoản 2 Điều 89 Luật Hôn nhân và gia đình năm 2014 quy định người được nhận là cha, mẹ của một người có thể yêu cầu Tòa án xác định người đó không phải là con mình."
+},
+{
+  "question": "Tình huống: Người đang yêu cầu xác định cha cho mình chết trong quá trình Tòa án giải quyết vụ việc. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Vụ việc đương nhiên chấm dứt.",
+  "b": "Người thân thích của người đó có quyền tiếp tục yêu cầu.",
+  "c": "Chỉ Viện kiểm sát mới được yêu cầu tiếp.",
+  "d": "UBND cấp xã tiếp tục giải quyết.",
+  "answer": "b",
+  "explanation": "Điều 92 Luật Hôn nhân và gia đình năm 2014 quy định trong trường hợp có yêu cầu xác định cha, mẹ, con mà người có yêu cầu chết thì người thân thích của người này có quyền yêu cầu Tòa án xác định cha, mẹ, con cho người yêu cầu đã chết."
+},
+{
+  "question": "Tình huống: Hai bên lập thỏa thuận mang thai hộ bằng văn bản nhưng không công chứng. Sau đó phát sinh tranh chấp. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Thỏa thuận vẫn mặc nhiên hợp pháp.",
+  "b": "Thỏa thuận không đáp ứng điều kiện về hình thức theo luật.",
+  "c": "Chỉ cần xác nhận của bệnh viện là đủ.",
+  "d": "Không cần văn bản.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 96 Luật Hôn nhân và gia đình năm 2014 quy định thỏa thuận về việc mang thai hộ phải được lập thành văn bản có công chứng."
+},
+{
+  "question": "Tình huống: Người mang thai hộ sinh đôi nhưng vì lý do sức khỏe muốn giảm số lượng bào thai trước khi sinh. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Không có quyền quyết định.",
+  "b": "Chỉ bên nhờ mang thai hộ được quyết định.",
+  "c": "Người mang thai hộ có quyền quyết định phù hợp quy định pháp luật.",
+  "d": "Bệnh viện toàn quyền quyết định.",
+  "answer": "c",
+  "explanation": "Khoản 4 Điều 97 Luật Hôn nhân và gia đình năm 2014 quy định vì lý do tính mạng, sức khỏe của mình hoặc sự phát triển của thai nhi, người mang thai hộ có quyền quyết định về số lượng bào thai, việc tiếp tục hay không tiếp tục mang thai phù hợp với pháp luật."
+},
+{
+  "question": "Tình huống: Ông A và bà B nhờ chị C mang thai hộ. Sau khi sinh con, chị C cho rằng mình có tình cảm với đứa trẻ nên không muốn giao con. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Chị C được quyền giữ con vì là người trực tiếp sinh ra.",
+  "b": "Bên nhờ mang thai hộ có quyền yêu cầu Tòa án buộc giao con.",
+  "c": "Phải chờ con đủ 18 tuổi để lựa chọn.",
+  "d": "Cơ sở y tế quyết định người nuôi con.",
+  "answer": "b",
+  "explanation": "Khoản 5 Điều 98 Luật Hôn nhân và gia đình năm 2014 quy định trong trường hợp bên mang thai hộ từ chối giao con thì bên nhờ mang thai hộ có quyền yêu cầu Tòa án buộc bên mang thai hộ giao con."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, con sinh ra trong trường hợp mang thai hộ vì mục đích nhân đạo là con chung của ai?",
+  "a": "Người mang thai hộ và chồng của họ.",
+  "b": "Vợ chồng nhờ mang thai hộ kể từ thời điểm con được sinh ra.",
+  "c": "Cơ sở y tế thực hiện kỹ thuật.",
+  "d": "Người cho tinh trùng và người mang thai hộ.",
+  "answer": "b",
+  "explanation": "Điều 94 Luật Hôn nhân và gia đình năm 2014 quy định con sinh ra trong trường hợp mang thai hộ vì mục đích nhân đạo là con chung của vợ chồng nhờ mang thai hộ kể từ thời điểm con được sinh ra."
+},
+{
+  "question": "Tình huống: Ông A muốn nhận một người là con mình nhưng người này không đồng ý và phát sinh tranh chấp. Theo Luật Hôn nhân và gia đình năm 2014, cơ quan nào có thẩm quyền giải quyết?",
+  "a": "Ủy ban nhân dân cấp xã.",
+  "b": "Cơ quan công an.",
+  "c": "Tòa án.",
+  "d": "Văn phòng công chứng.",
+  "answer": "c",
+  "explanation": "Khoản 2 Điều 101 Luật Hôn nhân và gia đình năm 2014 quy định Tòa án có thẩm quyền giải quyết việc xác định cha, mẹ, con trong trường hợp có tranh chấp."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, trường hợp nào sau đây KHÔNG làm phát sinh quan hệ cha, mẹ, con?",
+  "a": "Con sinh ra trong thời kỳ hôn nhân.",
+  "b": "Con sinh ra trong trường hợp mang thai hộ nhân đạo.",
+  "c": "Người cho tinh trùng trong kỹ thuật hỗ trợ sinh sản.",
+  "d": "Con sinh ra trước ngày đăng ký kết hôn và được cha mẹ thừa nhận.",
+  "answer": "c",
+  "explanation": "Khoản 3 Điều 93 Luật Hôn nhân và gia đình năm 2014 quy định việc sinh con bằng kỹ thuật hỗ trợ sinh sản không làm phát sinh quan hệ cha, mẹ, con giữa người cho tinh trùng, cho noãn, cho phôi với đứa trẻ sinh ra."
+},
+{
+  "question": "Tình huống: Anh A và chị B sống chung như vợ chồng, chưa đăng ký kết hôn. Sau đó chị B sinh con và anh A thừa nhận đứa trẻ là con mình. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Không thể xác định là con chung.",
+  "b": "Con sinh ra trước ngày đăng ký kết hôn và được cha mẹ thừa nhận là con chung của vợ chồng.",
+  "c": "Chỉ được công nhận khi có ADN.",
+  "d": "Phải đăng ký kết hôn trước mới được nhận con.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 88 Luật Hôn nhân và gia đình năm 2014 quy định con sinh ra trước ngày đăng ký kết hôn và được cha mẹ thừa nhận là con chung của vợ chồng."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, nếu cha mẹ không thừa nhận con thì:",
+  "a": "Chỉ cần tuyên bố miệng.",
+  "b": "Phải có chứng cứ và được Tòa án xác định.",
+  "c": "Ủy ban nhân dân tự quyết định.",
+  "d": "Không cần chứng cứ nếu có người làm chứng.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 88 Luật Hôn nhân và gia đình năm 2014 quy định trong trường hợp cha, mẹ không thừa nhận con thì phải có chứng cứ và phải được Tòa án xác định."
+},
+{
+  "question": "Tình huống: Người phụ nữ mang thai hộ yêu cầu bên nhờ mang thai hộ thanh toán các khoản chi phí chăm sóc sức khỏe sinh sản theo thỏa thuận. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Bên nhờ mang thai hộ không có nghĩa vụ chi trả.",
+  "b": "Chỉ cơ sở y tế phải chi trả.",
+  "c": "Bên nhờ mang thai hộ có nghĩa vụ chi trả chi phí thực tế.",
+  "d": "Người mang thai hộ tự chịu toàn bộ.",
+  "answer": "c",
+  "explanation": "Khoản 1 Điều 98 Luật Hôn nhân và gia đình năm 2014 quy định bên nhờ mang thai hộ có nghĩa vụ chi trả các chi phí thực tế để bảo đảm việc chăm sóc sức khỏe sinh sản."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, trường hợp bên nhờ mang thai hộ chết thì con sinh ra:",
+  "a": "Không có quyền hưởng di sản.",
+  "b": "Được hưởng thừa kế theo quy định pháp luật đối với di sản của bên nhờ mang thai hộ.",
+  "c": "Thuộc quyền nuôi dưỡng của cơ sở y tế.",
+  "d": "Phải cho làm con nuôi.",
+  "answer": "b",
+  "explanation": "Khoản 3 Điều 98 Luật Hôn nhân và gia đình năm 2014 quy định trong trường hợp bên nhờ mang thai hộ chết thì con được hưởng thừa kế theo quy định của pháp luật đối với di sản của bên nhờ mang thai hộ."
+},
+{
+  "question": "Tình huống: Ông A yêu cầu cơ quan hộ tịch xác định cha cho mình nhưng vụ việc đang có tranh chấp với người bị yêu cầu xác định là cha. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Cơ quan hộ tịch vẫn giải quyết.",
+  "b": "Phải chuyển sang Tòa án giải quyết.",
+  "c": "Ủy ban nhân dân cấp huyện giải quyết.",
+  "d": "Không cơ quan nào có thẩm quyền.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 101 Luật Hôn nhân và gia đình năm 2014 quy định Tòa án có thẩm quyền giải quyết việc xác định cha, mẹ, con trong trường hợp có tranh chấp."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, ai sau đây có quyền yêu cầu Tòa án xác định cha, mẹ cho con chưa thành niên trong trường hợp có tranh chấp?",
+  "a": "Hội liên hiệp phụ nữ.",
+  "b": "Cơ quan quản lý nhà nước về trẻ em.",
+  "c": "Người giám hộ.",
+  "d": "Tất cả các đáp án trên.",
+  "answer": "d",
+  "explanation": "Khoản 3 Điều 102 Luật Hôn nhân và gia đình năm 2014 quy định người giám hộ, cơ quan quản lý nhà nước về gia đình, cơ quan quản lý nhà nước về trẻ em và Hội liên hiệp phụ nữ đều có quyền yêu cầu Tòa án xác định cha, mẹ cho con chưa thành niên trong trường hợp luật định."
+},
+{
+  "question": "Tình huống: Chị A mang thai hộ cho vợ chồng ông B. Sau khi sinh con được 20 ngày thì giao con cho bên nhờ mang thai hộ. Theo Luật Hôn nhân và gia đình năm 2014, chị A:",
+  "a": "Chấm dứt ngay chế độ thai sản khi giao con.",
+  "b": "Tiếp tục được hưởng chế độ thai sản cho đến đủ 60 ngày nếu thời gian hưởng chưa đủ.",
+  "c": "Không được hưởng chế độ thai sản.",
+  "d": "Chỉ được hưởng trợ cấp một lần.",
+  "answer": "b",
+  "explanation": "Khoản 3 Điều 97 Luật Hôn nhân và gia đình năm 2014 quy định trường hợp kể từ ngày sinh đến thời điểm giao đứa trẻ mà thời gian hưởng chế độ thai sản chưa đủ 60 ngày thì người mang thai hộ vẫn được hưởng chế độ thai sản cho đến khi đủ 60 ngày."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, con được sinh ra trong thời hạn bao nhiêu ngày kể từ thời điểm chấm dứt hôn nhân thì được coi là con do người vợ có thai trong thời kỳ hôn nhân?",
+  "a": "180 ngày.",
+  "b": "240 ngày.",
+  "c": "300 ngày.",
+  "d": "365 ngày.",
+  "answer": "c",
+  "explanation": "Khoản 1 Điều 88 Luật Hôn nhân và gia đình năm 2014 quy định: 'Con được sinh ra trong thời hạn 300 ngày kể từ thời điểm chấm dứt hôn nhân được coi là con do người vợ có thai trong thời kỳ hôn nhân.'"
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, việc xử lý hành vi vi phạm quy định về mang thai hộ được thực hiện như thế nào?",
+  "a": "Chỉ xử lý hành chính.",
+  "b": "Chỉ xử lý dân sự.",
+  "c": "Tùy tính chất, mức độ vi phạm mà bị xử lý dân sự, hành chính hoặc hình sự.",
+  "d": "Không có chế tài.",
+  "answer": "c",
+  "explanation": "Điều 100 Luật Hôn nhân và gia đình năm 2014 quy định các bên vi phạm quy định về sinh con bằng kỹ thuật hỗ trợ sinh sản và mang thai hộ thì tùy tính chất, mức độ vi phạm mà bị xử lý theo trách nhiệm dân sự, hành chính, hình sự."
+},
+{
+  "question": "Tình huống: Anh A và chị B nhờ mang thai hộ nhưng chưa lập văn bản thỏa thuận. Sau đó phát sinh tranh chấp về việc nhận con. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Vẫn được công nhận vì các bên tự nguyện.",
+  "b": "Việc mang thai hộ phải được lập thành văn bản.",
+  "c": "Chỉ cần cơ sở y tế xác nhận.",
+  "d": "Không cần bất kỳ hình thức nào.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 95 Luật Hôn nhân và gia đình năm 2014 quy định việc mang thai hộ vì mục đích nhân đạo phải được thực hiện trên cơ sở tự nguyện của các bên và được lập thành văn bản."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, điều kiện nào sau đây bắt buộc đối với vợ chồng nhờ mang thai hộ?",
+  "a": "Đã có ít nhất một con chung.",
+  "b": "Người chồng không có khả năng sinh sản.",
+  "c": "Đang không có con chung.",
+  "d": "Đã kết hôn trên 05 năm.",
+  "answer": "c",
+  "explanation": "Điểm b khoản 2 Điều 95 Luật Hôn nhân và gia đình năm 2014 quy định vợ chồng nhờ mang thai hộ phải đang không có con chung."
+},
+{
+  "question": "Tình huống: Vợ chồng ông A nhờ mang thai hộ nhưng chưa được tư vấn pháp lý và tâm lý. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Vẫn đủ điều kiện nếu có xác nhận y tế.",
+  "b": "Không cần tư vấn nếu tự nguyện.",
+  "c": "Chưa đủ điều kiện nhờ mang thai hộ.",
+  "d": "Chỉ cần tư vấn y tế.",
+  "answer": "c",
+  "explanation": "Điểm c khoản 2 Điều 95 Luật Hôn nhân và gia đình năm 2014 quy định vợ chồng nhờ mang thai hộ phải được tư vấn về y tế, pháp lý, tâm lý."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, nếu người phụ nữ mang thai hộ có chồng thì:",
+  "a": "Không được phép mang thai hộ.",
+  "b": "Phải có sự đồng ý bằng văn bản của người chồng.",
+  "c": "Chỉ cần thông báo cho chồng biết.",
+  "d": "Không cần sự đồng ý của chồng.",
+  "answer": "b",
+  "explanation": "Điểm d khoản 3 Điều 95 Luật Hôn nhân và gia đình năm 2014 quy định trường hợp người phụ nữ mang thai hộ có chồng thì phải có sự đồng ý bằng văn bản của người chồng."
+},
+{
+  "question": "Tình huống: Hai bên lập thỏa thuận mang thai hộ nhưng không công chứng. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Thỏa thuận vẫn có giá trị vì có chữ ký các bên.",
+  "b": "Chỉ cần cơ sở y tế xác nhận là đủ.",
+  "c": "Thỏa thuận mang thai hộ phải được lập thành văn bản có công chứng.",
+  "d": "Không cần hình thức bắt buộc.",
+  "answer": "c",
+  "explanation": "Khoản 2 Điều 96 Luật Hôn nhân và gia đình năm 2014 quy định thỏa thuận về việc mang thai hộ phải được lập thành văn bản có công chứng."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, nội dung nào sau đây phải có trong thỏa thuận mang thai hộ?",
+  "a": "Cam kết thực hiện quyền và nghĩa vụ của các bên.",
+  "b": "Cam kết chia tài sản thừa kế.",
+  "c": "Cam kết cho nhận con nuôi.",
+  "d": "Cam kết chuyển hộ khẩu cho con.",
+  "answer": "a",
+  "explanation": "Điểm b khoản 1 Điều 96 Luật Hôn nhân và gia đình năm 2014 quy định thỏa thuận mang thai hộ phải có cam kết thực hiện các quyền, nghĩa vụ của các bên."
+},
+{
+  "question": "Tình huống: Người mang thai hộ từ chối thực hiện các quy trình khám, sàng lọc thai nhi theo hướng dẫn y tế. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Được quyền từ chối hoàn toàn.",
+  "b": "Phải tuân thủ quy định về thăm khám và sàng lọc.",
+  "c": "Chỉ thực hiện nếu bên nhờ mang thai hộ yêu cầu.",
+  "d": "Không có nghĩa vụ nào liên quan.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 97 Luật Hôn nhân và gia đình năm 2014 quy định người mang thai hộ phải tuân thủ quy định về thăm khám, các quy trình sàng lọc để phát hiện, điều trị các bất thường, dị tật của bào thai."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, việc sinh con do mang thai hộ:",
+  "a": "Được tính vào số con theo chính sách dân số.",
+  "b": "Không tính vào số con theo chính sách dân số và kế hoạch hóa gia đình.",
+  "c": "Chỉ tính đối với bên mang thai hộ.",
+  "d": "Chỉ tính đối với bên nhờ mang thai hộ.",
+  "answer": "b",
+  "explanation": "Khoản 3 Điều 97 Luật Hôn nhân và gia đình năm 2014 quy định việc sinh con do mang thai hộ không tính vào số con theo chính sách dân số và kế hoạch hóa gia đình."
+},
+{
+  "question": "Tình huống: Sau khi sinh con, bên nhờ mang thai hộ chậm nhận con và bỏ mặc nghĩa vụ nuôi dưỡng. Theo Luật Hôn nhân và gia đình năm 2014:",
+  "a": "Không phát sinh trách nhiệm vì chưa nhận con.",
+  "b": "Chỉ bị nhắc nhở hành chính.",
+  "c": "Phải có nghĩa vụ cấp dưỡng cho con.",
+  "d": "Người mang thai hộ tự chịu trách nhiệm hoàn toàn.",
+  "answer": "c",
+  "explanation": "Khoản 3 Điều 98 Luật Hôn nhân và gia đình năm 2014 quy định trường hợp bên nhờ mang thai hộ chậm nhận con hoặc vi phạm nghĩa vụ nuôi dưỡng, chăm sóc con thì phải có nghĩa vụ cấp dưỡng cho con."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, quyết định của Tòa án về xác định cha, mẹ, con phải được gửi cho cơ quan nào để ghi chú?",
+  "a": "Cơ quan công an.",
+  "b": "Cơ quan đăng ký hộ tịch.",
+  "c": "Ủy ban nhân dân cấp tỉnh.",
+  "d": "Cơ quan thi hành án.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 101 Luật Hôn nhân và gia đình năm 2014 quy định quyết định của Tòa án về xác định cha, mẹ, con phải được gửi cho cơ quan đăng ký hộ tịch để ghi chú theo quy định pháp luật."
+},
+{
+  "question": "Tình huống: Một người bị mất năng lực hành vi dân sự cần yêu cầu xác định con cho mình trong vụ việc có tranh chấp. Theo Luật Hôn nhân và gia đình năm 2014, ai có quyền yêu cầu Tòa án?",
+  "a": "Người giám hộ.",
+  "b": "Chỉ Viện kiểm sát.",
+  "c": "Chỉ cơ quan hộ tịch.",
+  "d": "Không ai có quyền yêu cầu.",
+  "answer": "a",
+  "explanation": "Điểm a khoản 3 Điều 102 Luật Hôn nhân và gia đình năm 2014 quy định người giám hộ có quyền yêu cầu Tòa án xác định con cho cha, mẹ mất năng lực hành vi dân sự."
+},
+{
+  "question": "Theo Luật Hôn nhân và gia đình năm 2014, trường hợp nào sau đây thuộc thẩm quyền của Tòa án khi xác định cha, mẹ, con?",
+  "a": "Không có tranh chấp giữa các bên.",
+  "b": "Người được yêu cầu xác định cha đã chết.",
+  "c": "Hai bên cùng tự nguyện nhận cha con.",
+  "d": "Đăng ký khai sinh lần đầu.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 101 Luật Hôn nhân và gia đình năm 2014 quy định Tòa án có thẩm quyền giải quyết việc xác định cha, mẹ, con khi người được yêu cầu xác định đã chết."
+}  
 ]
