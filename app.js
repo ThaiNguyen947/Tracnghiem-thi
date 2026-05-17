@@ -95,7 +95,6 @@ function checkLogin() {
 
 // ================= TỰ ĐỘNG NẠP TẤT CẢ FILE JSON CÓ TRONG THƯ MỤC =================
 async function taiTatCaDuLieuCauHoi() {
-  // Bạn có thêm bao nhiêu file tùy thích vào đây (p1, p2, p3, p4, p5, p6...)
   const danhSachFiles = [
     "./cau_hoi/p1.json",
     "./cau_hoi/p2.json",
@@ -112,7 +111,6 @@ async function taiTatCaDuLieuCauHoi() {
       if (!res.ok) throw new Error();
       const json = await res.json();
       
-      // Tự động tách tên file để làm nhãn nguồn (Ví dụ: p1, p2...)
       const fileTag = duongDan.split('/').pop().replace('.json', '');
       json.forEach(q => { q.fileSource = fileTag; });
 
@@ -198,7 +196,6 @@ function startExam() {
 
   let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
 
-  // Nếu đã làm đúng sạch sẽ toàn bộ kho đề -> Tự động reset bộ nhớ để làm vòng mới
   let poolCheck = data.filter(q => !correctPool.includes((q.question || q.cauhoi || "").trim()));
   if (poolCheck.length === 0 && data.length > 0) {
     console.log("🚨 HỌC VIÊN ĐÃ LÀM ĐÚNG HẾT KHO ĐỀ! TIẾN HÀNH RESET VÒNG MỚI");
@@ -207,7 +204,6 @@ function startExam() {
     data.forEach(q => { q.weight = 1; q.correctCount = 0; q.wrongCount = 0; });
   }
 
-  // 1. Quét danh sách file thực tế và tính tổng số câu trong toàn bộ kho dữ liệu
   const danhSachFileThucTe = [...new Set(data.map(q => q.fileSource).filter(Boolean))];
   const tongSoCauTrongKho = data.length || 1;
   const soLuongFile = danhSachFileThucTe.length || 1;
@@ -218,19 +214,15 @@ function startExam() {
   console.log(`=== THUẬT TOÁN ĐỀ PHÂN BỔ TRẢI ĐỀU % (TỔNG KHO KHO: ${tongSoCauTrongKho} CÂU) ===`);
 
   danhSachFileThucTe.forEach(fileKey => {
-    // Đếm số câu hỏi gốc ban đầu của file
     let tongCauGocCuaFile = data.filter(q => q.fileSource === fileKey).length;
     
-    // Công thức tính tỷ lệ % số câu đóng góp vào đề thi 100 câu
     let quota = Math.round((tongCauGocCuaFile / tongSoCauTrongKho) * 100);
     if (quota === 0 && tongCauGocCuaFile > 0) quota = 1; 
     chiTieuMoiFile[fileKey] = quota;
 
-    // Lọc ra các câu chưa làm chính xác ở file này
     let fileQuestions = data.filter(q => q.fileSource === fileKey && !correctPool.includes((q.question || q.cauhoi || "").trim()));
     fileQuestions = shuffle(fileQuestions);
 
-    // Xếp thứ tự ưu tiên: Câu từng làm sai lên đầu, câu chưa làm xuống sau
     let wrongInFile = fileQuestions.filter(q => (q.weight && q.weight > 1) || (q.wrongCount && q.wrongCount > 0));
     let normalInFile = fileQuestions.filter(q => !((q.weight && q.weight > 1) || (q.wrongCount && q.wrongCount > 0)));
     
@@ -239,7 +231,6 @@ function startExam() {
     console.log(`• Phần [${fileKey}.json]: Có ${tongCauGocCuaFile} câu (Tỷ lệ: ${((tongCauGocCuaFile/tongSoCauTrongKho)*100).toFixed(1)}%) -> Phải bốc: ${quota} câu. (Kho chưa làm đúng còn: ${khoCauHoiCacFile[fileKey].length} câu)`);
   });
 
-  // 2. Tiến hành rút câu hỏi theo chỉ tiêu phân bổ %
   let finalSelectedList = [];
 
   danhSachFileThucTe.forEach((fileKey, i) => {
@@ -249,7 +240,6 @@ function startExam() {
     let thucTeLay = poolHienTai.splice(0, quotaCanLay);
     finalSelectedList = finalSelectedList.concat(thucTeLay);
 
-    // CHIẾN THUẬT CUỐN CHIẾU: Nếu file cạn câu chưa làm -> mò tìm câu chưa làm ở các file liền kề đắp vào
     if (thucTeLay.length < quotaCanLay) {
       let soCauThieu = quotaCanLay - thucTeLay.length;
       console.log(`   ⚠️ Phần [${fileKey}.json] không đủ câu chưa làm (thiếu ${soCauThieu} câu). Đang lấy từ phần liền kề...`);
@@ -272,7 +262,6 @@ function startExam() {
     }
   });
 
-  // 3. KIỂM TRA BẢO HIỂM CUỐI CÙNG: Tránh làm tròn lệch số hoặc kho đề cạn kiệt hẳn câu chưa làm
   if (finalSelectedList.length < 100) {
     let thieuTong = 100 - finalSelectedList.length;
     let khoVetCacFile = [];
@@ -288,7 +277,6 @@ function startExam() {
     }
   }
 
-  // ĐẢO TRỘN TỔNG LỰC: Trộn ngẫu nhiên hoàn toàn 100 câu đan xen lẫn nhau trước khi xuất đề công bố học viên
   questions = shuffle(finalSelectedList).slice(0, 100);
   
   console.log(`=> ĐỀ THI ĐÃ CHỐT HOÀN CHỈNH: 100 câu hỏi ngẫu nhiên và trải rộng.`);
@@ -308,7 +296,6 @@ function render() {
   let q = questions[index];
   let qText = q.question || q.cauhoi || "Nội dung câu hỏi rỗng";
   
-  // Hỗ trợ tự động đồng bộ cả chữ thường viết hoa chữ Việt từ JSON gốc
   let optA = q.a || q.A || q.Một || "";
   let optB = q.b || q.B || "";
   let optC = q.c || q.C || "";
@@ -317,7 +304,7 @@ function render() {
   app.innerHTML = `
     <div class="box">
       <div class="top">
-        <div>Câu: ${index + 1}/${questions.length} [Nguồn file: ${(q.fileSource || "Chưa rõ").toUpperCase()}]</div>
+        <div>Câu: ${index + 1}/${questions.length}</div>
         <div>⏱ Thời gian: <span id="time"></span></div>
       </div>
 
@@ -578,13 +565,12 @@ function filterResult(type) {
     else if (userAns === "c") fullUserText = `C. ${optC}`;
     else if (userAns === "d") fullUserText = `D. ${optD}`;
 
+    // THAY ĐỔI: Đã loại bỏ hoàn toàn thẻ nhãn <span> nguồn file của câu hỏi tại đây
     html += `
-      html += `
-  <div style="margin-bottom: 24px; text-align: justify; line-height: 1.5; font-size: 15px; color: #111;">
-    <p style="margin: 0 0 6px 0; padding: 0; white-space: pre-wrap;"><b>Câu ${i + 1}.</b> ${qText}</p>
-    
-    <div style="margin: 0 0 6px 0; padding-left: 15px; font-size: 14.5px; color: #333;">
-`;
+      <div style="margin-bottom: 24px; text-align: justify; line-height: 1.5; font-size: 15px; color: #111;">
+        <p style="margin: 0 0 6px 0; padding: 0; white-space: pre-wrap;"><b>Câu ${i + 1}.</b> ${qText}</p>
+        
+        <div style="margin: 0 0 6px 0; padding-left: 15px; font-size: 14.5px; color: #333;">
           <div style="margin-bottom: 3px;">
             <span style="color: #666;">- Phương án đã chọn:</span> ${fullUserText} 
             <span style="
@@ -611,7 +597,7 @@ function enableProtectionForSubAccounts() {
   let user = JSON.parse(localStorage.getItem("user"));
   
   if (!user || user.role === "admin") {
-    return; // Nếu là tài khoản Admin (mainguyen) thì mở hết tính năng không khóa gì cả
+    return; 
   }
 
   document.addEventListener('contextmenu', function(e) { e.preventDefault(); alert("Hệ thống kiểm tra đã khóa chuột phải học viên!"); });
