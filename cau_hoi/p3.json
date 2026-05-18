@@ -764,6 +764,628 @@
     "d": "Biện pháp khắc phục hậu quả chỉ áp dụng khi không xác định được hành vi vi phạm",
     "answer": "a",
     "explanation": "Bẫy: nhầm biện pháp khắc phục hậu quả là hình phạt. Thực tế, đây là biện pháp bổ sung như buộc nộp lại lợi bất hợp pháp, buộc thông báo vi phạm, buộc hoàn trả vốn góp… theo Nghị định 109/2026/NĐ-CP."
+  },
+  
+  {
+    "question": "Theo Thông tư số 257/2016/TT-BTC, mức phí công chứng hợp đồng chuyển nhượng quyền sử dụng đất có giá trị từ trên 100 triệu đồng đến 01 tỷ đồng được tính như thế nào?",
+    "a": "50.000 đồng/trường hợp",
+    "b": "0,1% giá trị tài sản hoặc giá trị hợp đồng, giao dịch",
+    "c": "100.000 đồng/trường hợp",
+    "d": "0,08% giá trị tài sản",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 4 Thông tư 257/2016/TT-BTC quy định mức thu đối với hợp đồng có giá trị từ trên 100 triệu đến 01 tỷ đồng là 0,1% giá trị tài sản hoặc giá trị hợp đồng, giao dịch."
+  },
+  {
+    "question": "Theo Thông tư số 257/2016/TT-BTC, mức phí công chứng hợp đồng thuê nhà có giá trị trên 10 tỷ đồng được tính như thế nào?",
+    "a": "5 triệu đồng + 0,03% phần vượt quá 10 tỷ đồng, tối đa 8 triệu đồng",
+    "b": "3,2 triệu đồng + 0,04% phần vượt quá 5 tỷ đồng",
+    "c": "2 triệu đồng + 0,05% phần vượt quá 3 tỷ đồng",
+    "d": "0,1% toàn bộ giá trị hợp đồng",
+    "answer": "a",
+    "explanation": "Điểm b khoản 2 Điều 4 Thông tư 257/2016/TT-BTC quy định mức thu đối với hợp đồng thuê tài sản trên 10 tỷ đồng là 5 triệu đồng + 0,03% phần vượt quá 10 tỷ đồng, tối đa 8 triệu đồng."
+  },
+  {
+    "question": "Theo Thông tư số 257/2016/TT-BTC, phí công chứng di chúc là bao nhiêu?",
+    "a": "20.000 đồng",
+    "b": "40.000 đồng",
+    "c": "50.000 đồng",
+    "d": "100.000 đồng",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 4 Thông tư 257/2016/TT-BTC quy định phí công chứng di chúc là 50.000 đồng/trường hợp."
+  },
+  {
+    "question": "Theo Thông tư số 257/2016/TT-BTC, phí chứng thực chữ ký trong giấy tờ, văn bản là bao nhiêu?",
+    "a": "5.000 đồng/trường hợp",
+    "b": "10.000 đồng/trường hợp",
+    "c": "20.000 đồng/trường hợp",
+    "d": "50.000 đồng/trường hợp",
+    "answer": "b",
+    "explanation": "Khoản 8 Điều 4 Thông tư 257/2016/TT-BTC quy định phí chứng thực chữ ký là 10.000 đồng/trường hợp."
+  },
+  {
+    "question": "Theo Thông tư số 111/2017/TT-BTC, mức thu phí công chứng hợp đồng mua bán tài sản đấu giá dưới 5 tỷ đồng là bao nhiêu?",
+    "a": "100.000 đồng",
+    "b": "90.000 đồng",
+    "c": "80.000 đồng",
+    "d": "50.000 đồng",
+    "answer": "b",
+    "explanation": "Thông tư 111/2017/TT-BTC sửa đổi điểm c khoản 2 Điều 4 Thông tư 257/2016/TT-BTC, quy định mức thu đối với tài sản đấu giá dưới 5 tỷ đồng là 90.000 đồng/trường hợp."
+  },
+  {
+    "question": "Theo Thông tư số 111/2017/TT-BTC, mức thu phí công chứng hợp đồng mua bán tài sản đấu giá trên 20 tỷ đồng là bao nhiêu?",
+    "a": "300.000 đồng",
+    "b": "450.000 đồng",
+    "c": "500.000 đồng",
+    "d": "1.000.000 đồng",
+    "answer": "b",
+    "explanation": "điều 1- Thông tư 111/2017/TT-BTC quy định mức thu đối với tài sản đấu giá trên 20 tỷ đồng là 450.000 đồng/trường hợp."
+  },
+  {
+    "question": "Theo Thông tư số 257/2016/TT-BTC, trường hợp công chứng hợp đồng chuyển nhượng quyền sử dụng đất có tài sản gắn liền với đất thì phí công chứng được tính như thế nào?",
+    "a": "Chỉ tính giá trị quyền sử dụng đất",
+    "b": "Chỉ tính giá trị tài sản gắn liền với đất",
+    "c": "Tính tổng giá trị quyền sử dụng đất và tài sản gắn liền với đất",
+    "d": "Tính theo giá đất do Nhà nước quy định cố định",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 4 Thông tư 257/2016/TT-BTC quy định trường hợp này phải tính trên tổng giá trị quyền sử dụng đất và tài sản gắn liền với đất."
+  },
+  {
+    "question": "Theo Thông tư số 257/2016/TT-BTC, phí công chứng hợp đồng vay tiền được tính trên cơ sở nào?",
+    "a": "Giá trị tài sản bảo đảm",
+    "b": "Giá trị khoản vay",
+    "c": "Giá trị hợp đồng do công chứng viên xác định",
+    "d": "Giá trị tài sản và lãi suất",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 4 Thông tư 257/2016/TT-BTC quy định phí công chứng hợp đồng vay tiền được tính trên giá trị khoản vay."
+  },
+  {
+    "question": "Theo Thông tư số 257/2016/TT-BTC, mức phí công chứng hợp đồng ủy quyền là bao nhiêu?",
+    "a": "20.000 đồng",
+    "b": "40.000 đồng",
+    "c": "50.000 đồng",
+    "d": "100.000 đồng",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 4 Thông tư 257/2016/TT-BTC quy định phí công chứng hợp đồng ủy quyền là 50.000 đồng/trường hợp."
+  },
+  {
+    "question": "Theo Thông tư số 257/2016/TT-BTC, mức phí công chứng việc hủy bỏ hợp đồng, giao dịch là bao nhiêu?",
+    "a": "20.000 đồng",
+    "b": "25.000 đồng",
+    "c": "40.000 đồng",
+    "d": "50.000 đồng",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 4 Thông tư 257/2016/TT-BTC quy định phí công chứng việc hủy bỏ hợp đồng, giao dịch là 25.000 đồng/trường hợp."
+  },
+  {
+    "question": "Theo Thông tư số 257/2016/TT-BTC, phí công chứng bản dịch từ trang thứ 2 trở đi được tính như thế nào?",
+    "a": "10.000 đồng/trang",
+    "b": "5.000 đồng/trang",
+    "c": "3.000 đồng/trang",
+    "d": "Miễn phí",
+    "answer": "b",
+    "explanation": "Khoản 6 Điều 4 Thông tư 257/2016/TT-BTC quy định từ bản dịch thứ 2 trở lên, trang thứ nhất và thứ hai thu 5.000 đồng/trang."
+  },
+  {
+    "question": "Theo Thông tư số 111/2017/TT-BTC, nội dung sửa đổi chính liên quan đến điều khoản nào của Thông tư 257/2016/TT-BTC?",
+    "a": "Điều 3",
+    "b": "Điều 4 khoản 2 điểm c",
+    "c": "Điều 5",
+    "d": "Điều 6",
+    "answer": "b",
+    "explanation": "điều 1 Thông tư 111/2017/TT-BTC sửa đổi, bổ sung điểm c khoản 2 Điều 4 Thông tư 257/2016/TT-BTC."
+  },
+  {
+    "question": "Theo Thông tư số 111/2017/TT-BTC, mức thu phí công chứng tài sản đấu giá trên 5 tỷ đến dưới 20 tỷ đồng là bao nhiêu?",
+    "a": "300.000 đồng",
+    "b": "270.000 đồng",
+    "c": "450.000 đồng",
+    "d": "500.000 đồng",
+    "answer": "a",
+    "explanation": "điều 1 - Thông tư 111/2017/TT-BTC quy định mức thu đối với tài sản đấu giá từ 5 đến dưới 20 tỷ đồng là 270.000 đồng (đã điều chỉnh so với Thông tư 257/2016/TT-BTC)."
+  },
+  {
+    "question": "Theo Thông tư số 257/2016/TT-BTC, mức thu phí công chứng đối với việc công chứng văn bản từ chối nhận di sản là bao nhiêu?",
+    "a": "20.000 đồng/trường hợp",
+    "b": "25.000 đồng/trường hợp",
+    "c": "40.000 đồng/trường hợp",
+    "d": "50.000 đồng/trường hợp",
+    "answer": "a",
+    "explanation": "Khoản 3 Điều 4 Thông tư 257/2016/TT-BTC quy định phí công chứng văn bản từ chối nhận di sản là 20.000 đồng/trường hợp."
+  },
+  {
+    "question": "Theo Thông tư số 257/2016/TT-BTC, phí công chứng việc lưu giữ di chúc được quy định như thế nào?",
+    "a": "50.000 đồng/trường hợp",
+    "b": "80.000 đồng/trường hợp",
+    "c": "100.000 đồng/trường hợp",
+    "d": "150.000 đồng/trường hợp",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 4 Thông tư 257/2016/TT-BTC quy định phí nhận lưu giữ di chúc là 100.000 đồng/trường hợp."
+  },
+  {
+    "question": "Theo Thông tư số 257/2016/TT-BTC, phí cấp bản sao văn bản công chứng được tính như thế nào từ trang thứ ba trở đi?",
+    "a": "5.000 đồng/trang",
+    "b": "3.000 đồng/trang",
+    "c": "2.000 đồng/trang",
+    "d": "Miễn phí",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 4 Thông tư 257/2016/TT-BTC quy định từ trang thứ 3 trở lên thu 3.000 đồng/trang."
+  },
+  {
+    "question": "Theo Thông tư số 257/2016/TT-BTC, mức phí chứng thực bản sao từ bản chính tối đa cho một bản là bao nhiêu?",
+    "a": "100.000 đồng",
+    "b": "150.000 đồng",
+    "c": "200.000 đồng",
+    "d": "300.000 đồng",
+    "answer": "c",
+    "explanation": "Khoản 7 Điều 4 Thông tư 257/2016/TT-BTC quy định mức thu phí chứng thực bản sao tối đa không quá 200.000 đồng/bản."
+  },
+  {
+    "question": "Theo Thông tư số 257/2016/TT-BTC, phí công chứng hợp đồng chuyển đổi quyền sử dụng đất nông nghiệp là bao nhiêu?",
+    "a": "20.000 đồng",
+    "b": "30.000 đồng",
+    "c": "40.000 đồng",
+    "d": "50.000 đồng",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 4 Thông tư 257/2016/TT-BTC quy định phí công chứng hợp đồng chuyển đổi quyền sử dụng đất nông nghiệp là 40.000 đồng/trường hợp."
+  },
+  {
+    "question": "Theo Thông tư số 257/2016/TT-BTC, trường hợp sửa đổi, bổ sung hợp đồng làm tăng giá trị thì phí công chứng được tính như thế nào?",
+    "a": "Không thu phí",
+    "b": "Thu 40.000 đồng cố định",
+    "c": "Áp dụng mức thu theo phần giá trị tăng thêm",
+    "d": "Thu theo mức 0,1% toàn bộ hợp đồng",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 4 Thông tư 257/2016/TT-BTC quy định trường hợp sửa đổi, bổ sung làm tăng giá trị thì áp dụng mức thu tương ứng với phần giá trị tăng thêm theo khoản 2 Điều 4."
+  },
+  {
+    "question": "Theo Thông tư số 111/2017/TT-BTC, nội dung sửa đổi mức thu phí công chứng tài sản đấu giá được áp dụng từ thời điểm nào?",
+    "a": "01/01/2017",
+    "b": "01/11/2017",
+    "c": "11/12/2017",
+    "d": "20/10/2017",
+    "answer": "c",
+    "explanation": "Điều 2 Thông tư 111/2017/TT-BTC quy định hiệu lực thi hành từ ngày 11/12/2017."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, tổ chức nào là tổ chức thu phí thẩm định tiêu chuẩn, điều kiện hành nghề công chứng?",
+    "a": "Sở Tài chính",
+    "b": "Cục Bổ trợ tư pháp thuộc Bộ Tư pháp",
+    "c": "Ủy ban nhân dân cấp tỉnh",
+    "d": "Phòng Công chứng",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 3 Thông tư 257/2016/TT-BTC quy định Cục Bổ trợ tư pháp (Bộ Tư pháp) là tổ chức thu phí thẩm định tiêu chuẩn, điều kiện hành nghề công chứng."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, cơ quan nào thu lệ phí cấp thẻ công chứng viên?",
+    "a": "Bộ Tài chính",
+    "b": "Phòng Công chứng",
+    "c": "Sở Tư pháp",
+    "d": "Cục Bổ trợ tư pháp",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 3 Thông tư 257/2016/TT-BTC quy định Sở Tư pháp là tổ chức thu lệ phí cấp thẻ công chứng viên."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, cá nhân khi được cấp mới hoặc cấp lại thẻ công chứng viên phải nộp khoản nào?",
+    "a": "Phí công chứng",
+    "b": "Phí thẩm định hành nghề",
+    "c": "Lệ phí cấp thẻ công chứng viên",
+    "d": "Phí đăng ký hành nghề",
+    "answer": "c",
+    "explanation": "Khoản 5 Điều 2 Thông tư 257/2016/TT-BTC quy định cá nhân khi được cấp mới, cấp lại thẻ công chứng viên phải nộp lệ phí cấp thẻ công chứng viên."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, mức lệ phí cấp mới hoặc cấp lại thẻ công chứng viên là bao nhiêu?",
+    "a": "50.000 đồng",
+    "b": "100.000 đồng",
+    "c": "200.000 đồng",
+    "d": "500.000 đồng",
+    "answer": "b",
+    "explanation": "Khoản 9 Điều 4 Thông tư 257/2016/TT-BTC quy định lệ phí cấp mới, cấp lại thẻ công chứng viên là 100.000 đồng/trường hợp."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, phí thẩm định điều kiện hoạt động để cấp mới Giấy đăng ký hoạt động Văn phòng công chứng là bao nhiêu?",
+    "a": "500.000 đồng",
+    "b": "800.000 đồng",
+    "c": "1.000.000 đồng",
+    "d": "3.500.000 đồng",
+    "answer": "c",
+    "explanation": "Khoản 9 Điều 4 Thông tư 257/2016/TT-BTC quy định phí thẩm định để cấp mới Giấy đăng ký hoạt động Văn phòng công chứng là 1.000.000 đồng."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, phí thẩm định điều kiện hoạt động để cấp lại Giấy đăng ký hoạt động Văn phòng công chứng là bao nhiêu?",
+    "a": "100.000 đồng",
+    "b": "300.000 đồng",
+    "c": "500.000 đồng",
+    "d": "1.000.000 đồng",
+    "answer": "c",
+    "explanation": "Khoản 9 Điều 4 Thông tư 257/2016/TT-BTC quy định phí thẩm định để cấp lại Giấy đăng ký hoạt động Văn phòng công chứng là 500.000 đồng."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, người tham dự kiểm tra kết quả tập sự hành nghề công chứng để bổ nhiệm công chứng viên phải nộp mức phí thẩm định bao nhiêu?",
+    "a": "500.000 đồng",
+    "b": "1.000.000 đồng",
+    "c": "2.000.000 đồng",
+    "d": "3.500.000 đồng",
+    "answer": "d",
+    "explanation": "Khoản 9 Điều 4 Thông tư 257/2016/TT-BTC quy định phí thẩm định tiêu chuẩn, điều kiện hành nghề công chứng đối với trường hợp tham dự kiểm tra kết quả tập sự để bổ nhiệm công chứng viên là 3,5 triệu đồng."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, chậm nhất ngày nào hàng tháng tổ chức thu phí phải gửi số tiền phí đã thu của tháng trước vào tài khoản phí chờ nộp ngân sách?",
+    "a": "Ngày 01",
+    "b": "Ngày 03",
+    "c": "Ngày 05",
+    "d": "Ngày 10",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 5 Thông tư 257/2016/TT-BTC quy định chậm nhất là ngày 05 hàng tháng, tổ chức thu phí phải gửi số tiền phí đã thu của tháng trước vào tài khoản phí chờ nộp ngân sách mở tại Kho bạc Nhà nước."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, tổ chức nào phải gửi tiền phí vào tài khoản phí chờ nộp ngân sách mở tại Kho bạc Nhà nước?",
+    "a": "Chỉ Văn phòng công chứng",
+    "b": "Cục Bổ trợ tư pháp, Sở Tư pháp và Phòng công chứng",
+    "c": "Tất cả tổ chức hành nghề công chứng",
+    "d": "Chỉ Sở Tư pháp",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 5 Thông tư 257/2016/TT-BTC quy định Cục Bổ trợ tư pháp, Sở Tư pháp và Phòng công chứng phải gửi số tiền phí đã thu vào tài khoản phí chờ nộp ngân sách."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, Văn phòng công chứng được giữ lại bao nhiêu phần trăm số tiền phí thu được?",
+    "a": "50%",
+    "b": "75%",
+    "c": "90%",
+    "d": "100%",
+    "answer": "d",
+    "explanation": "Khoản 2 Điều 6 Thông tư 257/2016/TT-BTC quy định Văn phòng công chứng được giữ lại 100% số tiền phí thu được để trang trải cho việc thu phí."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, Văn phòng công chứng phải thực hiện nghĩa vụ nào đối với khoản phí thu được?",
+    "a": "Nộp toàn bộ vào ngân sách nhà nước",
+    "b": "Chỉ nộp thuế thu nhập doanh nghiệp",
+    "c": "Khai, nộp thuế giá trị gia tăng và thuế thu nhập doanh nghiệp",
+    "d": "Không phải kê khai thuế",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 6 Thông tư 257/2016/TT-BTC quy định Văn phòng công chứng phải khai, nộp thuế giá trị gia tăng và thuế thu nhập doanh nghiệp theo quy định pháp luật."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, Phòng công chứng tự bảo đảm chi thường xuyên và chi đầu tư được để lại bao nhiêu phần trăm số tiền phí thu được?",
+    "a": "50%",
+    "b": "60%",
+    "c": "75%",
+    "d": "90%",
+    "answer": "c",
+    "explanation": "Điểm b1 khoản 1 Điều 6 Thông tư 257/2016/TT-BTC quy định Phòng công chứng tự bảo đảm chi thường xuyên và chi đầu tư được trích lại 75% số tiền phí thu được."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, Phòng công chứng do Nhà nước bảo đảm chi thường xuyên được để lại bao nhiêu phần trăm số tiền phí thu được?",
+    "a": "25%",
+    "b": "40%",
+    "c": "50%",
+    "d": "60%",
+    "answer": "c",
+    "explanation": "Điểm b2 khoản 1 Điều 6 Thông tư 257/2016/TT-BTC quy định Phòng công chứng do Nhà nước bảo đảm chi thường xuyên được trích lại 50% số tiền phí thu được."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, tổ chức thu lệ phí phải nộp vào ngân sách nhà nước bao nhiêu phần trăm số tiền lệ phí thu được?",
+    "a": "50%",
+    "b": "75%",
+    "c": "90%",
+    "d": "100%",
+    "answer": "d",
+    "explanation": "Khoản 3 Điều 6 Thông tư 257/2016/TT-BTC quy định tổ chức thu lệ phí phải nộp 100% số tiền lệ phí thu được vào ngân sách nhà nước."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, tổ chức, cá nhân yêu cầu lưu giữ di chúc có phải nộp phí công chứng không?",
+    "a": "Không phải nộp",
+    "b": "Chỉ nộp lệ phí",
+    "c": "Phải nộp phí công chứng",
+    "d": "Chỉ nộp khi có yêu cầu cấp bản sao",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 2 Thông tư 257/2016/TT-BTC quy định tổ chức, cá nhân khi yêu cầu lưu giữ di chúc phải nộp phí công chứng."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, tổ chức, cá nhân yêu cầu cấp bản sao văn bản công chứng có phải nộp phí công chứng không?",
+    "a": "Không",
+    "b": "Có",
+    "c": "Chỉ nộp lệ phí",
+    "d": "Chỉ nộp trong trường hợp cấp nhiều bản",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 2 Thông tư 257/2016/TT-BTC quy định tổ chức, cá nhân khi yêu cầu cấp bản sao văn bản công chứng phải nộp phí công chứng."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, khoản thu đối với việc cấp mới hoặc cấp lại thẻ công chứng viên được xác định là gì?",
+    "a": "Phí công chứng",
+    "b": "Phí hành nghề",
+    "c": "Lệ phí cấp thẻ công chứng viên",
+    "d": "Phí quản lý công chứng viên",
+    "answer": "c",
+    "explanation": "Khoản 5 Điều 2 và khoản 9 Điều 4 Thông tư 257/2016/TT-BTC quy định cấp mới, cấp lại thẻ công chứng viên là khoản lệ phí."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, khoản thu đối với việc thẩm định điều kiện hoạt động Văn phòng công chứng được xác định là gì?",
+    "a": "Lệ phí",
+    "b": "Phí thẩm định",
+    "c": "Phí công chứng",
+    "d": "Phí hành nghề công chứng",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 2 và khoản 9 Điều 4 Thông tư 257/2016/TT-BTC quy định tổ chức đề nghị cấp giấy đăng ký hoạt động Văn phòng công chứng phải nộp phí thẩm định điều kiện hoạt động Văn phòng công chứng."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, Cục Bổ trợ tư pháp và Sở Tư pháp trong trường hợp được khoán chi phí hoạt động được để lại bao nhiêu phần trăm số tiền phí thu được?",
+    "a": "50%",
+    "b": "60%",
+    "c": "75%",
+    "d": "90%",
+    "answer": "d",
+    "explanation": "Điểm b1 khoản 1 Điều 6 Thông tư 257/2016/TT-BTC quy định Cục Bổ trợ tư pháp và Sở Tư pháp được để lại 90% số tiền phí thu được."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, Văn phòng công chứng có trách nhiệm gì đối với người nộp phí?",
+    "a": "Lập phiếu thu nội bộ",
+    "b": "Lập và giao hóa đơn theo quy định",
+    "c": "Chỉ cần ghi sổ theo dõi",
+    "d": "Không cần chứng từ",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 6 Thông tư 257/2016/TT-BTC quy định Văn phòng công chứng phải lập và giao hóa đơn cho đối tượng nộp phí theo quy định hiện hành của Bộ Tài chính."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, hồ sơ đề nghị công chứng nộp trước ngày Thông tư có hiệu lực nhưng được giải quyết sau ngày có hiệu lực thì áp dụng mức thu nào?",
+    "a": "Mức thu của Thông tư 257/2016/TT-BTC",
+    "b": "Mức thu do địa phương quy định",
+    "c": "Mức thu theo các văn bản cũ",
+    "d": "Mức thu theo thỏa thuận",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 7 Thông tư 257/2016/TT-BTC quy định hồ sơ nộp trước ngày Thông tư có hiệu lực nhưng giải quyết sau đó thì áp dụng mức thu theo các văn bản cũ."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, văn bản nào sau đây hết hiệu lực kể từ ngày Thông tư này có hiệu lực?",
+    "a": "Thông tư 156/2013/TT-BTC",
+    "b": "Thông tư liên tịch 08/2012/TTLT-BTC-BTP",
+    "c": "Nghị định 120/2016/NĐ-CP",
+    "d": "Luật Công chứng 2014",
+    "answer": "b",
+    "explanation": "Điểm a khoản 2 Điều 7 Thông tư 257/2016/TT-BTC quy định Thông tư liên tịch số 08/2012/TTLT-BTC-BTP hết hiệu lực kể từ ngày Thông tư 257/2016/TT-BTC có hiệu lực."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, phí công chứng hợp đồng thuê tài sản có giá trị từ trên 100 triệu đồng đến 01 tỷ đồng được tính như thế nào?",
+    "a": "0,1% giá trị hợp đồng",
+    "b": "0,08% giá trị hợp đồng",
+    "c": "800 nghìn đồng + 0,06% phần vượt quá 01 tỷ đồng",
+    "d": "02 triệu đồng + 0,05% phần vượt quá 03 tỷ đồng",
+    "answer": "b",
+    "explanation": "Điểm b khoản 2 Điều 4 Thông tư 257/2016/TT-BTC quy định hợp đồng thuê tài sản từ trên 100 triệu đồng đến 01 tỷ đồng có mức phí là 0,08% giá trị hợp đồng, giao dịch."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, phí công chứng hợp đồng thuê tài sản có giá trị từ trên 01 tỷ đồng đến 03 tỷ đồng được tính như thế nào?",
+    "a": "800 nghìn đồng + 0,06% phần vượt quá 01 tỷ đồng",
+    "b": "01 triệu đồng + 0,06% phần vượt quá 01 tỷ đồng",
+    "c": "02 triệu đồng + 0,05% phần vượt quá 03 tỷ đồng",
+    "d": "03 triệu đồng + 0,04% phần vượt quá 05 tỷ đồng",
+    "answer": "a",
+    "explanation": "Điểm b khoản 2 Điều 4 Thông tư 257/2016/TT-BTC quy định hợp đồng thuê tài sản từ trên 01 tỷ đồng đến 03 tỷ đồng có mức phí là 800 nghìn đồng + 0,06% của phần giá trị vượt quá 01 tỷ đồng."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, phí công chứng hợp đồng thuê tài sản có giá trị từ trên 03 tỷ đồng đến 05 tỷ đồng được tính như thế nào?",
+    "a": "800 nghìn đồng + 0,06% phần vượt quá 01 tỷ đồng",
+    "b": "01 triệu đồng + 0,05% phần vượt quá 03 tỷ đồng",
+    "c": "02 triệu đồng + 0,05% phần vượt quá 03 tỷ đồng",
+    "d": "03 triệu đồng + 0,04% phần vượt quá 05 tỷ đồng",
+    "answer": "c",
+    "explanation": "Điểm b khoản 2 Điều 4 Thông tư 257/2016/TT-BTC quy định hợp đồng thuê tài sản từ trên 03 tỷ đồng đến 05 tỷ đồng có mức phí là 02 triệu đồng + 0,05% của phần giá trị vượt quá 03 tỷ đồng."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, phí công chứng hợp đồng thuê tài sản có giá trị từ trên 05 tỷ đồng đến 10 tỷ đồng được tính như thế nào?",
+    "a": "02 triệu đồng + 0,05% phần vượt quá 03 tỷ đồng",
+    "b": "03 triệu đồng + 0,04% phần vượt quá 05 tỷ đồng",
+    "c": "05 triệu đồng + 0,03% phần vượt quá 10 tỷ đồng",
+    "d": "05,2 triệu đồng + 0,03% phần vượt quá 10 tỷ đồng",
+    "answer": "b",
+    "explanation": "Điểm b khoản 2 Điều 4 Thông tư 257/2016/TT-BTC quy định hợp đồng thuê tài sản từ trên 05 tỷ đồng đến 10 tỷ đồng có mức phí là 03 triệu đồng + 0,04% của phần giá trị vượt quá 05 tỷ đồng."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, phí công chứng hợp đồng thuê tài sản có giá trị trên 10 tỷ đồng được tính như thế nào?",
+    "a": "05 triệu đồng + 0,03% phần vượt quá 10 tỷ đồng, tối đa 08 triệu đồng",
+    "b": "05,2 triệu đồng + 0,03% phần vượt quá 10 tỷ đồng",
+    "c": "32,2 triệu đồng + 0,02% phần vượt quá 100 tỷ đồng",
+    "d": "03 triệu đồng + 0,04% phần vượt quá 05 tỷ đồng",
+    "answer": "a",
+    "explanation": "Điểm b khoản 2 Điều 4 Thông tư 257/2016/TT-BTC quy định hợp đồng thuê tài sản trên 10 tỷ đồng có mức phí là 05 triệu đồng + 0,03% phần vượt quá 10 tỷ đồng, tối đa không quá 08 triệu đồng/trường hợp."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, mức thu tối đa đối với hợp đồng thuê tài sản trên 10 tỷ đồng là bao nhiêu?",
+    "a": "05 triệu đồng",
+    "b": "08 triệu đồng",
+    "c": "10 triệu đồng",
+    "d": "70 triệu đồng",
+    "answer": "b",
+    "explanation": "Điểm b khoản 2 Điều 4 Thông tư 257/2016/TT-BTC quy định mức thu tối đa đối với hợp đồng thuê tài sản trên 10 tỷ đồng là 08 triệu đồng/trường hợp."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, phí công chứng hợp đồng, giao dịch có giá trị từ trên 100 triệu đồng đến 01 tỷ đồng được tính như thế nào?",
+    "a": "50.000 đồng/trường hợp",
+    "b": "100.000 đồng/trường hợp",
+    "c": "0,1% giá trị tài sản hoặc giá trị hợp đồng, giao dịch",
+    "d": "01 triệu đồng + 0,06% phần vượt quá 01 tỷ đồng",
+    "answer": "c",
+    "explanation": "Điểm a khoản 2 Điều 4 Thông tư 257/2016/TT-BTC quy định mức phí đối với giá trị từ trên 100 triệu đồng đến 01 tỷ đồng là 0,1% giá trị tài sản hoặc giá trị hợp đồng, giao dịch."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, phí công chứng hợp đồng, giao dịch có giá trị trên 100 tỷ đồng được tính như thế nào?",
+    "a": "05,2 triệu đồng + 0,03% phần vượt quá 10 tỷ đồng",
+    "b": "32,2 triệu đồng + 0,02% phần vượt quá 100 tỷ đồng",
+    "c": "03,2 triệu đồng + 0,04% phần vượt quá 05 tỷ đồng",
+    "d": "02,2 triệu đồng + 0,05% phần vượt quá 03 tỷ đồng",
+    "answer": "b",
+    "explanation": "Điểm a khoản 2 Điều 4 Thông tư 257/2016/TT-BTC quy định trường hợp giá trị trên 100 tỷ đồng có mức phí là 32,2 triệu đồng + 0,02% của phần giá trị vượt quá 100 tỷ đồng."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, mức thu phí công chứng tối đa đối với hợp đồng, giao dịch trên 100 tỷ đồng được áp dụng theo hình thức nào?",
+    "a": "Không giới hạn mức thu",
+    "b": "Tối đa 50 triệu đồng/trường hợp",
+    "c": "Tối đa 70 triệu đồng/trường hợp",
+    "d": "Tối đa 100 triệu đồng/trường hợp",
+    "answer": "c",
+    "explanation": "Điểm a khoản 2 Điều 4 Thông tư 257/2016/TT-BTC quy định mức thu tối đa đối với trường hợp trên 100 tỷ đồng là 70 triệu đồng/trường hợp."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, phí công chứng hợp đồng kinh tế, thương mại, đầu tư, kinh doanh được tính trên căn cứ nào?",
+    "a": "Theo số lượng bên tham gia",
+    "b": "Theo thời hạn hợp đồng",
+    "c": "Theo giá trị tài sản hoặc giá trị hợp đồng, giao dịch",
+    "d": "Theo mức lương cơ sở",
+    "answer": "c",
+    "explanation": "Điểm a7 khoản 2 Điều 4 Thông tư 257/2016/TT-BTC quy định công chứng hợp đồng kinh tế, thương mại, đầu tư, kinh doanh được tính trên giá trị tài sản hoặc giá trị hợp đồng, giao dịch."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, công chứng hợp đồng vay tiền được tính phí trên căn cứ nào?",
+    "a": "Theo thời hạn vay",
+    "b": "Theo số bên tham gia",
+    "c": "Theo giá trị khoản vay",
+    "d": "Theo giá trị tài sản bảo đảm",
+    "answer": "c",
+    "explanation": "Điểm a5 khoản 2 Điều 4 Thông tư 257/2016/TT-BTC quy định công chứng hợp đồng vay tiền được tính trên giá trị khoản vay."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, công chứng hợp đồng thế chấp tài sản có ghi giá trị khoản vay thì phí công chứng được tính theo căn cứ nào?",
+    "a": "Theo giá trị tài sản thế chấp",
+    "b": "Theo giá trị khoản vay",
+    "c": "Theo thỏa thuận các bên",
+    "d": "Theo giá thị trường",
+    "answer": "b",
+    "explanation": "Điểm a6 khoản 2 Điều 4 Thông tư 257/2016/TT-BTC quy định nếu hợp đồng thế chấp, cầm cố có ghi giá trị khoản vay thì tính phí trên giá trị khoản vay."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, công chứng văn bản thỏa thuận phân chia di sản được tính phí trên căn cứ nào?",
+    "a": "Theo số người thừa kế",
+    "b": "Theo giá trị di sản",
+    "c": "Theo số lượng tài sản",
+    "d": "Theo thời gian giải quyết hồ sơ",
+    "answer": "b",
+    "explanation": "Điểm a4 khoản 2 Điều 4 Thông tư 257/2016/TT-BTC quy định công chứng văn bản thỏa thuận phân chia di sản, văn bản khai nhận di sản được tính trên giá trị di sản."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, trường hợp sửa đổi, bổ sung hợp đồng làm tăng giá trị tài sản hoặc giá trị hợp đồng thì phí công chứng được áp dụng như thế nào?",
+    "a": "Thu cố định 40.000 đồng",
+    "b": "Thu lại toàn bộ từ đầu",
+    "c": "Áp dụng mức thu tương ứng với phần giá trị tăng",
+    "d": "Không thu thêm phí",
+    "answer": "c",
+    "explanation": "Điểm 5 khoản 3 Điều 4 Thông tư 257/2016/TT-BTC quy định trường hợp sửa đổi, bổ sung làm tăng giá trị tài sản hoặc giá trị hợp đồng thì áp dụng mức thu tương ứng với phần tăng."
+  },
+  {
+    "question": "Theo Thông tư 111/2017/TT-BTC, phí công chứng hợp đồng mua bán tài sản đấu giá dưới 5 tỷ đồng là bao nhiêu?",
+    "a": "50.000 đồng",
+    "b": "90.000 đồng",
+    "c": "100.000 đồng",
+    "d": "300.000 đồng",
+    "answer": "b",
+    "explanation": "Điều 1 Thông tư 111/2017/TT-BTC sửa đổi điểm c khoản 2 Điều 4 Thông tư 257/2016/TT-BTC, quy định mức phí đối với tài sản đấu giá dưới 5 tỷ đồng là 90.000 đồng."
+  },
+  {
+    "question": "Theo Thông tư 111/2017/TT-BTC, phí công chứng hợp đồng mua bán tài sản đấu giá từ 5 tỷ đồng đến dưới 20 tỷ đồng là bao nhiêu?",
+    "a": "270.000 đồng",
+    "b": "300.000 đồng",
+    "c": "450.000 đồng",
+    "d": "500.000 đồng",
+    "answer": "a",
+    "explanation": "Điều 1 Thông tư 111/2017/TT-BTC quy định mức phí công chứng hợp đồng mua bán tài sản đấu giá từ 5 tỷ đồng đến dưới 20 tỷ đồng là 270.000 đồng/trường hợp."
+  },
+  {
+    "question": "Theo Thông tư 111/2017/TT-BTC, phí công chứng hợp đồng mua bán tài sản đấu giá trên 20 tỷ đồng là bao nhiêu?",
+    "a": "300.000 đồng",
+    "b": "450.000 đồng",
+    "c": "500.000 đồng",
+    "d": "700.000 đồng",
+    "answer": "b",
+    "explanation": "Điều 1 Thông tư 111/2017/TT-BTC quy định mức phí công chứng hợp đồng mua bán tài sản đấu giá trên 20 tỷ đồng là 450.000 đồng/trường hợp."
+  },
+{
+  "question": "Theo Thông tư 257/2016/TT-BTC, phí công chứng hợp đồng thuê tài sản có giá trị từ 50 triệu đồng đến 100 triệu đồng là bao nhiêu?",
+  "a": "40.000 đồng",
+  "b": "50.000 đồng",
+  "c": "80.000 đồng",
+  "d": "100.000 đồng",
+  "answer": "c",
+  "explanation": "Điểm b khoản 2 Điều 4 Thông tư 257/2016/TT-BTC quy định hợp đồng thuê tài sản từ 50 triệu đồng đến 100 triệu đồng có mức phí công chứng là 80.000 đồng/trường hợp."
+},
+{
+  "question": "Theo Thông tư 111/2017/TT-BTC, phí công chứng hợp đồng mua bán tài sản đấu giá được tính trên căn cứ nào?",
+  "a": "Giá khởi điểm đấu giá",
+  "b": "Giá trị tài sản bán được",
+  "c": "Giá Nhà nước quy định",
+  "d": "Giá do tổ chức đấu giá xác định",
+  "answer": "b",
+  "explanation": "Điều 1 Thông tư 111/2017/TT-BTC sửa đổi điểm c khoản 2 Điều 4 Thông tư 257/2016/TT-BTC, quy định phí công chứng hợp đồng mua bán tài sản đấu giá được tính trên giá trị tài sản bán được."
+},
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, mức phí công chứng hợp đồng chuyển đổi quyền sử dụng đất nông nghiệp là bao nhiêu?",
+    "a": "20.000 đồng",
+    "b": "40.000 đồng",
+    "c": "50.000 đồng",
+    "d": "100.000 đồng",
+    "answer": "b",
+    "explanation": "Điểm 1 khoản 3 Điều 4 Thông tư 257/2016/TT-BTC quy định mức phí công chứng hợp đồng chuyển đổi quyền sử dụng đất nông nghiệp là 40.000 đồng/trường hợp."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, mức phí công chứng hợp đồng bảo lãnh là bao nhiêu?",
+    "a": "40.000 đồng",
+    "b": "50.000 đồng",
+    "c": "100.000 đồng",
+    "d": "200.000 đồng",
+    "answer": "c",
+    "explanation": "Điểm 2 khoản 3 Điều 4 Thông tư 257/2016/TT-BTC quy định mức phí công chứng hợp đồng bảo lãnh là 100.000 đồng/trường hợp."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, mức phí công chứng giấy ủy quyền là bao nhiêu?",
+    "a": "20.000 đồng",
+    "b": "25.000 đồng",
+    "c": "40.000 đồng",
+    "d": "50.000 đồng",
+    "answer": "a",
+    "explanation": "Điểm 4 khoản 3 Điều 4 Thông tư 257/2016/TT-BTC quy định mức phí công chứng giấy ủy quyền là 20.000 đồng/trường hợp."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, mức phí công chứng văn bản từ chối nhận di sản là bao nhiêu?",
+    "a": "20.000 đồng",
+    "b": "25.000 đồng",
+    "c": "40.000 đồng",
+    "d": "50.000 đồng",
+    "answer": "a",
+    "explanation": "Điểm 8 khoản 3 Điều 4 Thông tư 257/2016/TT-BTC quy định mức phí công chứng văn bản từ chối nhận di sản là 20.000 đồng/trường hợp."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, mức phí đối với các công việc công chứng hợp đồng, giao dịch khác là bao nhiêu?",
+    "a": "20.000 đồng",
+    "b": "25.000 đồng",
+    "c": "40.000 đồng",
+    "d": "50.000 đồng",
+    "answer": "c",
+    "explanation": "Điểm 9 khoản 3 Điều 4 Thông tư 257/2016/TT-BTC quy định các công việc công chứng hợp đồng, giao dịch khác có mức phí là 40.000 đồng/trường hợp."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, mức phí thẩm định tiêu chuẩn, điều kiện hành nghề công chứng đối với trường hợp đề nghị bổ nhiệm lại công chứng viên là bao nhiêu?",
+    "a": "100.000 đồng",
+    "b": "500.000 đồng",
+    "c": "1.000.000 đồng",
+    "d": "3.500.000 đồng",
+    "answer": "b",
+    "explanation": "Điểm b khoản 9 Điều 4 Thông tư 257/2016/TT-BTC quy định phí thẩm định tiêu chuẩn, điều kiện hành nghề công chứng đối với trường hợp đề nghị bổ nhiệm lại công chứng viên là 500.000 đồng/hồ sơ."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, khoản thu đối với trường hợp tham dự kiểm tra kết quả tập sự hành nghề công chứng để bổ nhiệm công chứng viên được xác định là gì?",
+    "a": "Lệ phí cấp thẻ công chứng viên",
+    "b": "Phí công chứng",
+    "c": "Phí thẩm định tiêu chuẩn, điều kiện hành nghề công chứng",
+    "d": "Phí cấp giấy đăng ký hoạt động",
+    "answer": "c",
+    "explanation": "Khoản 9 Điều 4 Thông tư 257/2016/TT-BTC quy định đây là khoản phí thẩm định tiêu chuẩn, điều kiện hành nghề công chứng."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, khoản thu đối với việc cấp mới, cấp lại thẻ công chứng viên được tính theo đơn vị nào?",
+    "a": "Đồng/trang",
+    "b": "Đồng/trường hợp",
+    "c": "Đồng/hợp đồng",
+    "d": "Đồng/năm",
+    "answer": "b",
+    "explanation": "Khoản 9 Điều 4 Thông tư 257/2016/TT-BTC quy định lệ phí cấp mới, cấp lại thẻ công chứng viên được tính theo đồng/trường hợp/hồ sơ, trong đó áp dụng theo trường hợp."
   }
 ]
 
