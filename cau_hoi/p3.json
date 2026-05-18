@@ -1,5 +1,329 @@
 [
   {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, người đề nghị bổ nhiệm công chứng viên nộp hồ sơ tại đâu?",
+    "a": "Bộ Tư pháp",
+    "b": "Tòa án nhân dân cấp tỉnh",
+    "c": "Sở Tư pháp nơi hoàn thành tập sự hành nghề công chứng",
+    "d": "Ủy ban nhân dân cấp xã",
+    "answer": "c",
+    "explanation": "Theo mục I Phụ lục IV Nghị định 121/2025/NĐ-CP, người có đủ tiêu chuẩn bổ nhiệm công chứng viên nộp hồ sơ trực tiếp, qua bưu chính hoặc trực tuyến đến Sở Tư pháp nơi hoàn thành tập sự hành nghề công chứng."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, giấy khám sức khỏe trong hồ sơ bổ nhiệm công chứng viên phải được cấp trong thời hạn bao lâu tính đến ngày nộp hồ sơ?",
+    "a": "06 tháng",
+    "b": "09 tháng",
+    "c": "12 tháng",
+    "d": "24 tháng",
+    "answer": "c",
+    "explanation": "Theo điểm d mục I Phụ lục IV Nghị định 121/2025/NĐ-CP, giấy khám sức khỏe phải do cơ sở khám bệnh, chữa bệnh có thẩm quyền cấp trong thời hạn 12 tháng tính đến ngày nộp hồ sơ."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, Sở Tư pháp có thời hạn bao lâu để kiểm tra hồ sơ bổ nhiệm công chứng viên kể từ ngày nhận đủ hồ sơ hợp lệ?",
+    "a": "05 ngày làm việc",
+    "b": "07 ngày làm việc",
+    "c": "10 ngày làm việc",
+    "d": "15 ngày làm việc",
+    "answer": "c",
+    "explanation": "Theo khoản 2 mục I Phụ lục IV Nghị định 121/2025/NĐ-CP, trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp có trách nhiệm kiểm tra hồ sơ."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, thời hạn xác minh tính hợp pháp hồ sơ bổ nhiệm công chứng viên của Sở Tư pháp tối đa là bao lâu?",
+    "a": "10 ngày làm việc",
+    "b": "15 ngày làm việc",
+    "c": "20 ngày làm việc",
+    "d": "30 ngày làm việc",
+    "answer": "b",
+    "explanation": "Theo khoản 2 mục I Phụ lục IV Nghị định 121/2025/NĐ-CP, trường hợp cần thiết thì Sở Tư pháp tiến hành xác minh tính hợp pháp của hồ sơ, thời hạn xác minh không quá 15 ngày làm việc."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, cơ quan nào có thẩm quyền quyết định bổ nhiệm công chứng viên?",
+    "a": "Bộ trưởng Bộ Tư pháp",
+    "b": "Giám đốc Sở Tư pháp",
+    "c": "Chủ tịch Ủy ban nhân dân cấp tỉnh",
+    "d": "Cục Bổ trợ tư pháp",
+    "answer": "c",
+    "explanation": "Theo khoản 3 mục I Phụ lục IV Nghị định 121/2025/NĐ-CP, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định bổ nhiệm công chứng viên."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, Chủ tịch UBND cấp tỉnh có thời hạn bao lâu để quyết định bổ nhiệm công chứng viên kể từ ngày nhận hồ sơ hợp lệ?",
+    "a": "05 ngày làm việc",
+    "b": "07 ngày làm việc",
+    "c": "10 ngày làm việc",
+    "d": "15 ngày làm việc",
+    "answer": "c",
+    "explanation": "Theo khoản 3 mục I Phụ lục IV Nghị định 121/2025/NĐ-CP, trong thời hạn 10 ngày làm việc kể từ ngày nhận được văn bản đề nghị của Sở Tư pháp kèm hồ sơ hợp lệ, Chủ tịch UBND cấp tỉnh xem xét, quyết định bổ nhiệm công chứng viên."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, hồ sơ đề nghị miễn nhiệm công chứng viên gồm giấy tờ nào?",
+    "a": "Đơn xin nghỉ việc",
+    "b": "Văn bản đề nghị miễn nhiệm công chứng viên",
+    "c": "Lý lịch tư pháp",
+    "d": "Giấy khám sức khỏe",
+    "answer": "b",
+    "explanation": "Theo khoản 1 mục II Phụ lục IV Nghị định 121/2025/NĐ-CP, hồ sơ đề nghị được miễn nhiệm công chứng viên gồm Văn bản đề nghị miễn nhiệm công chứng viên."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, Sở Tư pháp có thời hạn bao lâu để đề nghị miễn nhiệm công chứng viên kể từ ngày nhận đủ hồ sơ hợp lệ?",
+    "a": "03 ngày làm việc",
+    "b": "05 ngày làm việc",
+    "c": "07 ngày làm việc",
+    "d": "10 ngày làm việc",
+    "answer": "b",
+    "explanation": "Theo khoản 2 mục II Phụ lục IV Nghị định 121/2025/NĐ-CP, trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp có văn bản đề nghị miễn nhiệm công chứng viên."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, khi có căn cứ cho rằng công chứng viên thuộc trường hợp bị miễn nhiệm, Sở Tư pháp phải đề nghị miễn nhiệm trong thời hạn bao lâu?",
+    "a": "03 ngày làm việc",
+    "b": "05 ngày làm việc",
+    "c": "07 ngày làm việc",
+    "d": "15 ngày làm việc",
+    "answer": "b",
+    "explanation": "Theo khoản 3 mục II Phụ lục IV Nghị định 121/2025/NĐ-CP, trong thời hạn 05 ngày làm việc kể từ ngày có căn cứ cho rằng công chứng viên thuộc trường hợp bị miễn nhiệm, Sở Tư pháp phải có văn bản đề nghị Chủ tịch UBND cấp tỉnh miễn nhiệm."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, thời hạn xác minh tính hợp pháp hồ sơ miễn nhiệm công chứng viên tối đa là bao lâu?",
+    "a": "10 ngày làm việc",
+    "b": "15 ngày làm việc",
+    "c": "20 ngày làm việc",
+    "d": "30 ngày làm việc",
+    "answer": "c",
+    "explanation": "Theo khoản 4 mục II Phụ lục IV Nghị định 121/2025/NĐ-CP, việc xác minh tính hợp pháp của hồ sơ miễn nhiệm công chứng viên thực hiện không quá 20 ngày làm việc."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, công chứng viên không được ký văn bản công chứng từ thời điểm nào?",
+    "a": "Kể từ ngày nộp hồ sơ miễn nhiệm",
+    "b": "Kể từ ngày Sở Tư pháp đề nghị miễn nhiệm",
+    "c": "Kể từ thời điểm quyết định miễn nhiệm có hiệu lực thi hành",
+    "d": "Kể từ khi bị tạm đình chỉ hành nghề",
+    "answer": "c",
+    "explanation": "Theo khoản 6 mục II Phụ lục IV Nghị định 121/2025/NĐ-CP, công chứng viên không được ký văn bản công chứng kể từ thời điểm quyết định miễn nhiệm công chứng viên có hiệu lực thi hành."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, thủ tục bổ nhiệm lại công chứng viên được thực hiện theo quy định nào?",
+    "a": "Theo thủ tục riêng của Bộ Tư pháp",
+    "b": "Theo quy định tại mục I Phụ lục IV",
+    "c": "Theo Luật Tố tụng hành chính",
+    "d": "Theo quy định của UBND cấp tỉnh",
+    "answer": "b",
+    "explanation": "Theo khoản 2 mục III Phụ lục IV Nghị định 121/2025/NĐ-CP, thủ tục bổ nhiệm lại công chứng viên thực hiện theo quy định tại mục I Phụ lục này."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, người được đào tạo nghề công chứng ở nước ngoài có thể được công nhận tương đương khi nào?",
+    "a": "Chỉ khi có quốc tịch Việt Nam",
+    "b": "Khi có văn bằng đào tạo nghề công chứng ở nước ngoài",
+    "c": "Khi có ít nhất 10 năm kinh nghiệm",
+    "d": "Khi được Bộ Tư pháp giới thiệu",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 1 mục IV Phụ lục IV Nghị định 121/2025/NĐ-CP, người có văn bằng đào tạo nghề công chứng được cấp bởi cơ sở đào tạo nghề công chứng ở nước ngoài thuộc trường hợp được xem xét công nhận tương đương."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, giấy tờ đào tạo nghề công chứng ở nước ngoài phải được thực hiện thủ tục gì trước khi sử dụng tại Việt Nam?",
+    "a": "Đăng ký tại UBND cấp xã",
+    "b": "Hợp pháp hóa lãnh sự, trừ trường hợp được miễn",
+    "c": "Chứng nhận của cơ quan công an",
+    "d": "Xác nhận của tổ chức hành nghề công chứng",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 2 mục IV Phụ lục IV Nghị định 121/2025/NĐ-CP, giấy tờ đào tạo nghề công chứng ở nước ngoài phải được hợp pháp hóa lãnh sự, trừ trường hợp được miễn theo quy định pháp luật."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, bản dịch tiếng Việt của giấy tờ đào tạo nghề công chứng ở nước ngoài phải đáp ứng yêu cầu nào?",
+    "a": "Do cá nhân tự dịch",
+    "b": "Không cần chứng thực",
+    "c": "Phải được chứng thực chữ ký người dịch",
+    "d": "Phải dịch tại Bộ Tư pháp",
+    "answer": "c",
+    "explanation": "Theo điểm b khoản 2 mục IV Phụ lục IV Nghị định 121/2025/NĐ-CP, bản dịch tiếng Việt của giấy tờ đào tạo nghề công chứng ở nước ngoài phải được chứng thực chữ ký người dịch."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, Chủ tịch UBND cấp tỉnh có thời hạn bao lâu để ra quyết định công nhận tương đương đối với người được đào tạo nghề công chứng ở nước ngoài?",
+    "a": "05 ngày làm việc",
+    "b": "07 ngày làm việc",
+    "c": "10 ngày làm việc",
+    "d": "15 ngày làm việc",
+    "answer": "c",
+    "explanation": "Theo khoản 3 mục IV Phụ lục IV Nghị định 121/2025/NĐ-CP, trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Chủ tịch UBND cấp tỉnh ra quyết định công nhận tương đương."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, người đề nghị bổ nhiệm công chứng viên có thể nộp hồ sơ bằng hình thức nào?",
+    "a": "Chỉ nộp trực tiếp tại Bộ Tư pháp",
+    "b": "Nộp trực tiếp, qua dịch vụ bưu chính hoặc trực tuyến trên Cổng dịch vụ công quốc gia",
+    "c": "Chỉ nộp trực tuyến",
+    "d": "Chỉ nộp qua bưu điện",
+    "answer": "b",
+    "explanation": "Mục I Phụ lục IV Nghị định 121/2025/NĐ-CP quy định người đề nghị bổ nhiệm công chứng viên nộp hồ sơ trực tiếp, qua dịch vụ bưu chính đến Sở Tư pháp hoặc trực tuyến trên Cổng dịch vụ công quốc gia."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, giấy khám sức khỏe trong hồ sơ bổ nhiệm công chứng viên phải được cấp trong thời hạn bao lâu tính đến ngày nộp hồ sơ?",
+    "a": "03 tháng",
+    "b": "06 tháng",
+    "c": "12 tháng",
+    "d": "24 tháng",
+    "answer": "c",
+    "explanation": "Điểm d mục I Phụ lục IV Nghị định 121/2025/NĐ-CP quy định giấy khám sức khỏe phải do cơ sở khám bệnh, chữa bệnh có thẩm quyền cấp trong thời hạn 12 tháng tính đến ngày nộp hồ sơ."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, trong trường hợp cần xác minh tính hợp pháp của hồ sơ bổ nhiệm công chứng viên, thời hạn xác minh tối đa là bao lâu?",
+    "a": "05 ngày làm việc",
+    "b": "10 ngày làm việc",
+    "c": "15 ngày làm việc",
+    "d": "20 ngày làm việc",
+    "answer": "c",
+    "explanation": "Khoản 2 mục I Phụ lục IV Nghị định 121/2025/NĐ-CP quy định thời hạn xác minh hồ sơ bổ nhiệm công chứng viên không quá 15 ngày làm việc."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, Chủ tịch UBND cấp tỉnh có bao nhiêu ngày làm việc để quyết định bổ nhiệm công chứng viên kể từ ngày nhận được hồ sơ hợp lệ?",
+    "a": "05 ngày làm việc",
+    "b": "07 ngày làm việc",
+    "c": "10 ngày làm việc",
+    "d": "15 ngày làm việc",
+    "answer": "c",
+    "explanation": "Khoản 3 mục I Phụ lục IV Nghị định 121/2025/NĐ-CP quy định trong thời hạn 10 ngày làm việc kể từ ngày nhận được văn bản đề nghị của Sở Tư pháp kèm hồ sơ hợp lệ, Chủ tịch UBND cấp tỉnh xem xét, quyết định bổ nhiệm công chứng viên."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, hồ sơ đề nghị miễn nhiệm công chứng viên theo nguyện vọng gồm giấy tờ nào?",
+    "a": "Giấy khám sức khỏe",
+    "b": "Phiếu lý lịch tư pháp",
+    "c": "Văn bản đề nghị miễn nhiệm công chứng viên",
+    "d": "Giấy chứng nhận kết quả tập sự",
+    "answer": "c",
+    "explanation": "Khoản 1 mục II Phụ lục IV Nghị định 121/2025/NĐ-CP quy định hồ sơ đề nghị được miễn nhiệm công chứng viên gồm Văn bản đề nghị miễn nhiệm công chứng viên."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, Sở Tư pháp phải gửi văn bản đề nghị miễn nhiệm công chứng viên trong thời hạn bao lâu kể từ ngày nhận đủ hồ sơ hợp lệ?",
+    "a": "03 ngày làm việc",
+    "b": "05 ngày làm việc",
+    "c": "07 ngày làm việc",
+    "d": "10 ngày làm việc",
+    "answer": "b",
+    "explanation": "Khoản 2 mục II Phụ lục IV Nghị định 121/2025/NĐ-CP quy định trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp có văn bản đề nghị miễn nhiệm công chứng viên gửi Chủ tịch UBND cấp tỉnh."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, khi phát hiện công chứng viên thuộc trường hợp bị miễn nhiệm, tổ chức hành nghề công chứng phải làm gì?",
+    "a": "Tự đình chỉ hành nghề công chứng viên",
+    "b": "Thông báo cho Bộ Tư pháp",
+    "c": "Báo cáo kịp thời bằng văn bản cho Sở Tư pháp",
+    "d": "Đăng công khai trên cổng thông tin điện tử",
+    "answer": "c",
+    "explanation": "Khoản 5 mục II Phụ lục IV Nghị định 121/2025/NĐ-CP quy định tổ chức hành nghề công chứng phát hiện công chứng viên thuộc trường hợp bị miễn nhiệm hoặc đương nhiên miễn nhiệm phải báo cáo kịp thời bằng văn bản cho Sở Tư pháp nơi đăng ký hoạt động."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, công chứng viên không được ký văn bản công chứng kể từ thời điểm nào?",
+    "a": "Khi bị Sở Tư pháp đề nghị miễn nhiệm",
+    "b": "Khi nộp hồ sơ miễn nhiệm",
+    "c": "Khi có thông báo của tổ chức hành nghề công chứng",
+    "d": "Kể từ thời điểm quyết định miễn nhiệm có hiệu lực thi hành",
+    "answer": "d",
+    "explanation": "Khoản 6 mục II Phụ lục IV Nghị định 121/2025/NĐ-CP quy định công chứng viên không được ký văn bản công chứng kể từ thời điểm quyết định miễn nhiệm công chứng viên có hiệu lực thi hành."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, thủ tục bổ nhiệm lại công chứng viên được thực hiện theo quy định nào?",
+    "a": "Theo thủ tục miễn nhiệm công chứng viên",
+    "b": "Theo quy định riêng của Bộ Tư pháp",
+    "c": "Theo thủ tục bổ nhiệm công chứng viên",
+    "d": "Theo quyết định của Chủ tịch UBND cấp tỉnh",
+    "answer": "c",
+    "explanation": "Khoản 2 mục III Phụ lục IV Nghị định 121/2025/NĐ-CP quy định thủ tục bổ nhiệm lại công chứng viên thực hiện theo quy định tại mục I Phụ lục này."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, giấy tờ đào tạo nghề công chứng ở nước ngoài phải được dịch sang ngôn ngữ nào?",
+    "a": "Tiếng Anh",
+    "b": "Tiếng Việt",
+    "c": "Tiếng Pháp",
+    "d": "Không cần dịch",
+    "answer": "b",
+    "explanation": "Điểm b khoản 2 mục IV Phụ lục IV Nghị định 121/2025/NĐ-CP quy định giấy tờ đào tạo nghề công chứng ở nước ngoài phải được dịch ra tiếng Việt và bản dịch tiếng Việt phải được chứng thực chữ ký người dịch."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, giấy tờ đào tạo nghề công chứng ở nước ngoài phải được hợp pháp hóa lãnh sự trong trường hợp nào?",
+    "a": "Mọi trường hợp",
+    "b": "Chỉ khi do cơ sở tư nhân cấp",
+    "c": "Trừ trường hợp được miễn hợp pháp hóa lãnh sự theo quy định pháp luật",
+    "d": "Không cần hợp pháp hóa lãnh sự",
+    "answer": "c",
+    "explanation": "Điểm b khoản 2 mục IV Phụ lục IV Nghị định 121/2025/NĐ-CP quy định giấy tờ là bản chính hoặc bản sao có chứng thực hoặc bản sao điện tử đã được hợp pháp hóa lãnh sự, trừ trường hợp được miễn theo quy định pháp luật."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, người được đào tạo nghề công chứng ở nước ngoài được công nhận tương đương khi có văn bằng do đâu cấp?",
+    "a": "Sở Tư pháp cấp",
+    "b": "Bộ Tư pháp cấp",
+    "c": "Cơ sở đào tạo nghề công chứng ở nước ngoài cấp",
+    "d": "Ủy ban nhân dân cấp tỉnh cấp",
+    "answer": "c",
+    "explanation": "Điểm b khoản 1 mục IV Phụ lục IV Nghị định 121/2025/NĐ-CP quy định người có văn bằng đào tạo nghề công chứng được cấp bởi cơ sở đào tạo nghề công chứng ở nước ngoài thuộc trường hợp được xem xét công nhận tương đương."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, giấy tờ chứng minh thời gian công tác pháp luật trong hồ sơ bổ nhiệm công chứng viên được nộp dưới hình thức nào?",
+    "a": "Chỉ bản chính",
+    "b": "Chỉ bản sao chứng thực",
+    "c": "Bản chính, bản sao có chứng thực hoặc bản sao điện tử",
+    "d": "Chỉ bản điện tử",
+    "answer": "c",
+    "explanation": "Điểm b mục I Phụ lục IV Nghị định 121/2025/NĐ-CP quy định giấy tờ chứng minh thời gian công tác pháp luật có thể là bản chính, bản sao có chứng thực hoặc bản sao điện tử."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, trường hợp từ chối bổ nhiệm công chứng viên thì cơ quan có thẩm quyền phải thực hiện như thế nào?",
+    "a": "Thông báo miệng cho người đề nghị",
+    "b": "Không cần nêu lý do",
+    "c": "Thông báo bằng văn bản và nêu rõ lý do",
+    "d": "Chuyển hồ sơ về Bộ Tư pháp",
+    "answer": "c",
+    "explanation": "Khoản 2 và khoản 3 mục I Phụ lục IV Nghị định 121/2025/NĐ-CP đều quy định trường hợp từ chối phải thông báo bằng văn bản và nêu rõ lý do."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, văn bản đề nghị miễn nhiệm công chứng viên phải theo mẫu do ai quy định?",
+    "a": "Chủ tịch UBND cấp tỉnh",
+    "b": "Sở Tư pháp",
+    "c": "Bộ trưởng Bộ Tài chính",
+    "d": "Bộ trưởng Bộ Tư pháp",
+    "answer": "d",
+    "explanation": "Khoản 2 mục II Phụ lục IV Nghị định 121/2025/NĐ-CP quy định văn bản đề nghị miễn nhiệm công chứng viên theo mẫu do Bộ trưởng Bộ Tư pháp quy định."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, văn bản đề nghị miễn nhiệm công chứng viên của Sở Tư pháp phải có nội dung nào?",
+    "a": "Đề xuất mức xử phạt",
+    "b": "Nêu rõ quá trình hành nghề của công chứng viên và đề xuất của Sở Tư pháp",
+    "c": "Ý kiến của Đoàn luật sư",
+    "d": "Kết luận thanh tra",
+    "answer": "b",
+    "explanation": "Khoản 2 mục II Phụ lục IV Nghị định 121/2025/NĐ-CP quy định văn bản đề nghị miễn nhiệm phải nêu rõ quá trình hành nghề của công chứng viên và đề xuất của Sở Tư pháp."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, khi hồ sơ miễn nhiệm chưa đầy đủ hoặc chưa thống nhất thì Chủ tịch UBND cấp tỉnh có quyền gì?",
+    "a": "Tự hủy hồ sơ",
+    "b": "Yêu cầu Sở Tư pháp bổ sung, làm rõ hoặc phối hợp xác minh",
+    "c": "Chuyển hồ sơ sang Bộ Tài chính",
+    "d": "Đình chỉ hành nghề ngay",
+    "answer": "b",
+    "explanation": "Khoản 4 mục II Phụ lục IV Nghị định 121/2025/NĐ-CP quy định Chủ tịch UBND cấp tỉnh có quyền yêu cầu Sở Tư pháp bổ sung, làm rõ hoặc phối hợp với cơ quan liên quan xác minh thông tin."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, Sở Tư pháp có trách nhiệm cập nhật danh sách công chứng viên đương nhiên miễn nhiệm vào đâu?",
+    "a": "Cơ sở dữ liệu quốc gia về dân cư",
+    "b": "Phần mềm quản lý hoạt động công chứng của Bộ Tư pháp",
+    "c": "Trang thông tin của UBND cấp tỉnh",
+    "d": "Hệ thống quản lý cán bộ công chức",
+    "answer": "b",
+    "explanation": "Khoản 5 mục II Phụ lục IV Nghị định 121/2025/NĐ-CP quy định Sở Tư pháp phải cập nhật danh sách công chứng viên đương nhiên miễn nhiệm vào phần mềm quản lý hoạt động công chứng của Bộ Tư pháp."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, hồ sơ công nhận tương đương đào tạo nghề công chứng ở nước ngoài gồm mấy nhóm giấy tờ chính?",
+    "a": "01",
+    "b": "02",
+    "c": "03",
+    "d": "04",
+    "answer": "b",
+    "explanation": "Khoản 2 mục IV Phụ lục IV Nghị định 121/2025/NĐ-CP quy định hồ sơ gồm: văn bản đề nghị công nhận tương đương và văn bằng, kết quả đào tạo nghề công chứng ở nước ngoài."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, bản dịch tiếng Việt của giấy tờ đào tạo nghề công chứng ở nước ngoài phải đáp ứng điều kiện gì?",
+    "a": "Được công chứng hợp đồng dịch thuật",
+    "b": "Có xác nhận của cơ quan ngoại giao",
+    "c": "Được chứng thực chữ ký người dịch",
+    "d": "Được UBND cấp xã xác nhận",
+    "answer": "c",
+    "explanation": "Điểm b khoản 2 mục IV Phụ lục IV Nghị định 121/2025/NĐ-CP quy định bản dịch tiếng Việt phải được chứng thực chữ ký người dịch."
+  },
+  {
     "question": "Theo Nghị định 109/2026/NĐ-CP, hành vi tẩy xóa, sửa chữa làm sai lệch nội dung giấy tờ trong hồ sơ đề nghị bổ nhiệm công chứng viên bị xử phạt như thế nào?",
     "a": "1.000.000 - 3.000.000 đồng",
     "b": "3.000.000 - 7.000.000 đồng",
