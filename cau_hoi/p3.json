@@ -1,5 +1,77 @@
 [
   {
+    "question": "Theo Nghị định 121/2025/NĐ-CP, trong thời gian Nghị định còn hiệu lực, nếu quy định của Nghị định này khác với văn bản quy phạm pháp luật có liên quan thì thực hiện theo văn bản nào?",
+    "a": "Theo văn bản chuyên ngành được ban hành trước",
+    "b": "Theo Luật Ban hành văn bản quy phạm pháp luật",
+    "c": "Theo Nghị định 121/2025/NĐ-CP",
+    "d": "Theo hướng dẫn của Bộ Tư pháp",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 41 Nghị định 121/2025/NĐ-CP quy định trong thời gian các quy định của Nghị định còn hiệu lực, nếu quy định về thẩm quyền, trách nhiệm quản lý nhà nước, trình tự, thủ tục trong Nghị định này khác với các văn bản quy phạm pháp luật có liên quan thì thực hiện theo quy định tại Nghị định này."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, giấy tờ đào tạo nghề công chứng ở nước ngoài phải được hợp pháp hóa lãnh sự trong trường hợp nào?",
+    "a": "Mọi trường hợp đều không cần hợp pháp hóa lãnh sự",
+    "b": "Chỉ cần xác nhận của cơ sở đào tạo",
+    "c": "Phải hợp pháp hóa lãnh sự, trừ trường hợp được miễn theo quy định pháp luật",
+    "d": "Chỉ cần dịch ra tiếng Việt",
+    "answer": "c",
+    "explanation": "Khoản 2 mục IV Phụ lục IV Nghị định 121/2025/NĐ-CP quy định giấy tờ đào tạo nghề công chứng ở nước ngoài là bản chính hoặc bản sao có chứng thực hoặc bản sao điện tử đã được hợp pháp hóa lãnh sự, trừ trường hợp được miễn hợp pháp hóa lãnh sự theo quy định pháp luật."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, bản dịch tiếng Việt của giấy tờ đào tạo nghề công chứng ở nước ngoài phải đáp ứng yêu cầu nào?",
+    "a": "Chỉ cần người dịch ký tên",
+    "b": "Không cần chứng thực",
+    "c": "Phải được chứng thực chữ ký người dịch",
+    "d": "Phải công chứng tại Bộ Tư pháp",
+    "answer": "c",
+    "explanation": "Khoản 2 mục IV Phụ lục IV Nghị định 121/2025/NĐ-CP quy định giấy tờ bằng tiếng nước ngoài phải được dịch ra tiếng Việt và bản dịch tiếng Việt phải được chứng thực chữ ký người dịch."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, công chứng viên đã được bổ nhiệm nhưng chưa hành nghề thì nộp hồ sơ đề nghị miễn nhiệm tại đâu?",
+    "a": "Bộ Tư pháp",
+    "b": "Sở Tư pháp nơi cư trú",
+    "c": "Sở Tư pháp nơi đề nghị bổ nhiệm công chứng viên",
+    "d": "Ủy ban nhân dân cấp tỉnh",
+    "answer": "c",
+    "explanation": "Khoản 2 mục II Phụ lục IV Nghị định 121/2025/NĐ-CP quy định trường hợp công chứng viên được bổ nhiệm nhưng chưa hành nghề thì nộp hồ sơ đề nghị miễn nhiệm tại Sở Tư pháp nơi đề nghị bổ nhiệm công chứng viên."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, tổ chức hành nghề công chứng khi phát hiện công chứng viên thuộc trường hợp bị miễn nhiệm phải thực hiện việc gì?",
+    "a": "Đề nghị Bộ Tư pháp xử lý",
+    "b": "Ra quyết định tạm đình chỉ hành nghề",
+    "c": "Báo cáo kịp thời bằng văn bản cho Sở Tư pháp",
+    "d": "Thông báo cho Đoàn luật sư",
+    "answer": "c",
+    "explanation": "Khoản 5 mục II Phụ lục IV Nghị định 121/2025/NĐ-CP quy định tổ chức hành nghề công chứng phát hiện công chứng viên thuộc trường hợp bị miễn nhiệm hoặc đương nhiên miễn nhiệm thì phải báo cáo kịp thời bằng văn bản cho Sở Tư pháp nơi đăng ký hoạt động để xem xét, xử lý."
+  },
+  {
+    "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, thời hạn xác minh tính hợp pháp của hồ sơ miễn nhiệm công chứng viên tối đa là bao nhiêu ngày làm việc?",
+    "a": "10 ngày làm việc",
+    "b": "15 ngày làm việc",
+    "c": "20 ngày làm việc",
+    "d": "30 ngày làm việc",
+    "answer": "c",
+    "explanation": "Khoản 4 mục II Phụ lục IV Nghị định 121/2025/NĐ-CP quy định việc xác minh tính hợp pháp của hồ sơ miễn nhiệm công chứng viên thực hiện không quá 20 ngày làm việc."
+  },
+  {
+    "question": "Theo Nghị định 121/2025/NĐ-CP, người đạt yêu cầu kiểm tra kết quả tập sự hành nghề công chứng trước ngày 01/7/2025 khi đề nghị bổ nhiệm công chứng viên thì được áp dụng quy định nào?",
+    "a": "Được miễn toàn bộ lệ phí công chứng",
+    "b": "Không phải nộp phí tại mục 2a khoản 9 Điều 4 Thông tư 257/2016/TT-BTC",
+    "c": "Không phải nộp lệ phí cấp thẻ công chứng viên",
+    "d": "Được miễn phí công chứng trong 01 năm",
+    "answer": "b",
+    "explanation": "Khoản 8 Điều 42 Nghị định 121/2025/NĐ-CP quy định người đạt yêu cầu kiểm tra kết quả tập sự hành nghề công chứng trước ngày 01/7/2025 khi đề nghị bổ nhiệm công chứng viên không phải nộp phí tại mục 2a khoản 9 Điều 4 Thông tư 257/2016/TT-BTC."
+  },
+  {
+    "question": "Theo Nghị định 121/2025/NĐ-CP, đối với hồ sơ đề nghị cấp Chứng chỉ hành nghề luật sư đã nộp trước ngày Nghị định có hiệu lực thì thực hiện theo văn bản nào?",
+    "a": "Nghị định 121/2025/NĐ-CP",
+    "b": "Luật Công chứng năm 2024",
+    "c": "Luật Luật sư và Nghị định 123/2013/NĐ-CP",
+    "d": "Thông tư của Bộ Tư pháp",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 42 Nghị định 121/2025/NĐ-CP quy định các hồ sơ đề nghị thực hiện thủ tục hành chính quy định tại các Điều 9, 10, 11 và 12 đã nộp trước ngày Nghị định có hiệu lực thì thực hiện theo Luật Luật sư và Nghị định 123/2013/NĐ-CP."
+  },
+  {
     "question": "Theo Phụ lục IV Nghị định 121/2025/NĐ-CP, người đề nghị bổ nhiệm công chứng viên nộp hồ sơ tại đâu?",
     "a": "Bộ Tư pháp",
     "b": "Tòa án nhân dân cấp tỉnh",
