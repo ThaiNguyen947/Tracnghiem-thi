@@ -1386,6 +1386,205 @@
     "d": "Đồng/năm",
     "answer": "b",
     "explanation": "Khoản 9 Điều 4 Thông tư 257/2016/TT-BTC quy định lệ phí cấp mới, cấp lại thẻ công chứng viên được tính theo đồng/trường hợp/hồ sơ, trong đó áp dụng theo trường hợp."
+  },
+  
+  {
+    "question": "Theo Nghị định 121/2025/NĐ-CP, việc bổ nhiệm công chứng viên thuộc thẩm quyền của cơ quan nào?",
+    "a": "Bộ trưởng Bộ Tư pháp",
+    "b": "Giám đốc Sở Tư pháp",
+    "c": "Chủ tịch Ủy ban nhân dân cấp tỉnh",
+    "d": "Cục Bổ trợ tư pháp",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 14 Nghị định 121/2025/NĐ-CP quy định việc bổ nhiệm công chứng viên thuộc thẩm quyền của Chủ tịch Ủy ban nhân dân cấp tỉnh."
+  },
+  {
+    "question": "Theo Nghị định 121/2025/NĐ-CP, trình tự, thủ tục bổ nhiệm công chứng viên được thực hiện theo quy định nào?",
+    "a": "Phụ lục I",
+    "b": "Mục I Phụ lục IV",
+    "c": "Mục II Phụ lục IV",
+    "d": "Mục III Phụ lục IV",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 14 Nghị định 121/2025/NĐ-CP quy định trình tự, thủ tục bổ nhiệm công chứng viên thực hiện theo mục I Phụ lục IV ban hành kèm theo Nghị định."
+  },
+  {
+    "question": "Theo Nghị định 121/2025/NĐ-CP, việc miễn nhiệm công chứng viên thuộc thẩm quyền của ai?",
+    "a": "Bộ trưởng Bộ Tư pháp",
+    "b": "Chủ tịch Ủy ban nhân dân cấp tỉnh",
+    "c": "Giám đốc Sở Tư pháp",
+    "d": "Cục trưởng Cục Bổ trợ tư pháp",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 15 Nghị định 121/2025/NĐ-CP quy định việc miễn nhiệm công chứng viên thuộc thẩm quyền của Chủ tịch Ủy ban nhân dân cấp tỉnh."
+  },
+  {
+    "question": "Theo Nghị định 121/2025/NĐ-CP, trình tự, thủ tục miễn nhiệm công chứng viên được thực hiện theo quy định nào?",
+    "a": "Mục I Phụ lục IV",
+    "b": "Mục II Phụ lục IV",
+    "c": "Mục III Phụ lục IV",
+    "d": "Mục IV Phụ lục IV",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 15 Nghị định 121/2025/NĐ-CP quy định trình tự, thủ tục miễn nhiệm công chứng viên thực hiện theo mục II Phụ lục IV ban hành kèm theo Nghị định."
+  },
+  {
+    "question": "Theo Nghị định 121/2025/NĐ-CP, việc bổ nhiệm lại công chứng viên thuộc thẩm quyền của cơ quan nào?",
+    "a": "Bộ trưởng Bộ Tư pháp",
+    "b": "Sở Tư pháp",
+    "c": "Chủ tịch Ủy ban nhân dân cấp tỉnh",
+    "d": "Hội công chứng viên",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 16 Nghị định 121/2025/NĐ-CP quy định việc bổ nhiệm lại công chứng viên thuộc thẩm quyền của Chủ tịch Ủy ban nhân dân cấp tỉnh."
+  },
+  {
+    "question": "Theo Nghị định 121/2025/NĐ-CP, công nhận tương đương đối với người được đào tạo nghề công chứng ở nước ngoài thuộc thẩm quyền của ai?",
+    "a": "Bộ trưởng Bộ Tư pháp",
+    "b": "Chủ tịch Ủy ban nhân dân cấp tỉnh",
+    "c": "Giám đốc Học viện Tư pháp",
+    "d": "Cục trưởng Cục Bổ trợ tư pháp",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 17 Nghị định 121/2025/NĐ-CP quy định việc công nhận tương đương đối với người được đào tạo nghề công chứng ở nước ngoài thuộc thẩm quyền của Chủ tịch Ủy ban nhân dân cấp tỉnh."
+  },
+  {
+    "question": "Theo Nghị định 121/2025/NĐ-CP, người đạt yêu cầu kiểm tra kết quả tập sự hành nghề công chứng trước ngày 01/7/2025 khi đề nghị bổ nhiệm công chứng viên có phải nộp phí thẩm định 3,5 triệu đồng hay không?",
+    "a": "Phải nộp đầy đủ",
+    "b": "Được giảm 50%",
+    "c": "Không phải nộp",
+    "d": "Chỉ nộp nếu bổ nhiệm lại",
+    "answer": "c",
+    "explanation": "Khoản 8 Điều 42 Nghị định 121/2025/NĐ-CP quy định người đạt yêu cầu kiểm tra kết quả tập sự hành nghề công chứng trước ngày 01/7/2025 khi đề nghị bổ nhiệm công chứng viên không phải nộp phí tại mục 2a khoản 9 Điều 4 Thông tư 257/2016/TT-BTC."
+  },
+  {
+    "question": "Theo Nghị định 121/2025/NĐ-CP, thời điểm có hiệu lực thi hành của Nghị định là ngày nào?",
+    "a": "01/01/2025",
+    "b": "11/6/2025",
+    "c": "01/7/2025",
+    "d": "01/3/2027",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 41 Nghị định 121/2025/NĐ-CP quy định Nghị định có hiệu lực thi hành từ ngày 01/7/2025."
+  },
+  {
+    "question": "Theo Nghị định 121/2025/NĐ-CP, nghị định này hết hiệu lực kể từ ngày nào nếu không thuộc trường hợp được kéo dài?",
+    "a": "01/01/2027",
+    "b": "01/3/2027",
+    "c": "11/6/2027",
+    "d": "01/7/2027",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 41 Nghị định 121/2025/NĐ-CP quy định Nghị định hết hiệu lực kể từ ngày 01/3/2027, trừ các trường hợp được kéo dài hoặc có văn bản thay thế."
+  },
+  {
+    "question": "Theo Nghị định 121/2025/NĐ-CP, một trong các nguyên tắc phân quyền, phân cấp là gì?",
+    "a": "Cho phép chồng chéo nhiệm vụ để tăng kiểm soát",
+    "b": "Bảo đảm đồng bộ, liên thông, không bỏ sót nhiệm vụ",
+    "c": "Tập trung toàn bộ thẩm quyền cho Bộ Tư pháp",
+    "d": "Không cần bảo đảm tính liên thông giữa các cơ quan",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 2 Nghị định 121/2025/NĐ-CP quy định việc phân quyền, phân cấp phải bảo đảm đồng bộ, tổng thể, liên thông, không bỏ sót hoặc chồng lấn nhiệm vụ."
+  },
+  {
+    "question": "Theo Nghị định 121/2025/NĐ-CP, việc phân quyền, phân cấp phải bảo đảm điều gì đối với người dân và doanh nghiệp?",
+    "a": "Giảm quyền tiếp cận thông tin",
+    "b": "Hạn chế thực hiện thủ tục hành chính",
+    "c": "Bảo đảm công khai, minh bạch, tạo thuận lợi cho cá nhân, tổ chức",
+    "d": "Tăng số lượng thủ tục hành chính",
+    "answer": "c",
+    "explanation": "Khoản 6 Điều 2 Nghị định 121/2025/NĐ-CP quy định phải bảo đảm công khai, minh bạch, tạo điều kiện thuận lợi cho cá nhân, tổ chức."
+  },
+  {
+    "question": "Theo Nghị định 121/2025/NĐ-CP, việc phân quyền, phân cấp phải phù hợp với quy định của văn bản nào?",
+    "a": "Chỉ Luật Công chứng",
+    "b": "Hiến pháp và các nguyên tắc của Luật Tổ chức Chính phủ, Luật Tổ chức chính quyền địa phương",
+    "c": "Thông tư của Bộ Tư pháp",
+    "d": "Nội quy của địa phương",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 2 Nghị định 121/2025/NĐ-CP quy định việc phân quyền, phân cấp phải phù hợp với Hiến pháp và các nguyên tắc của Luật Tổ chức Chính phủ năm 2025, Luật Tổ chức chính quyền địa phương năm 2025."
+  },
+  {
+    "question": "Theo Nghị định 121/2025/NĐ-CP, việc phân quyền, phân cấp không được làm ảnh hưởng đến nội dung nào sau đây?",
+    "a": "Quyền con người, quyền công dân",
+    "b": "Nguồn thu ngân sách địa phương",
+    "c": "Hoạt động của doanh nghiệp tư nhân",
+    "d": "Quyền ban hành thông tư của bộ",
+    "answer": "a",
+    "explanation": "Khoản 6 Điều 2 Nghị định 121/2025/NĐ-CP quy định việc phân quyền, phân cấp phải bảo đảm quyền con người, quyền công dân."
+  },
+  {
+    "question": "Theo Nghị định 121/2025/NĐ-CP, việc phân quyền, phân cấp phải bảo đảm không làm ảnh hưởng đến việc thực hiện nội dung nào?",
+    "a": "Nghị quyết của Hội đồng nhân dân",
+    "b": "Điều ước quốc tế mà Việt Nam là thành viên",
+    "c": "Thông tư liên tịch",
+    "d": "Quy chế nội bộ của địa phương",
+    "answer": "b",
+    "explanation": "Khoản 7 Điều 2 Nghị định 121/2025/NĐ-CP quy định việc phân quyền, phân cấp phải bảo đảm không làm ảnh hưởng đến việc thực hiện các điều ước quốc tế mà Việt Nam là thành viên."
+  },
+  {
+    "question": "Theo Nghị định 121/2025/NĐ-CP, cơ quan nào có trách nhiệm cung cấp thông tin về hồ sơ giải quyết thủ tục hành chính trước ngày 01/7/2025 để bảo đảm việc phân quyền, phân cấp được thông suốt?",
+    "a": "Văn phòng Chính phủ",
+    "b": "Sở Tư pháp",
+    "c": "Bộ Tư pháp",
+    "d": "Ủy ban nhân dân cấp tỉnh",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 42 Nghị định 121/2025/NĐ-CP quy định Bộ Tư pháp có trách nhiệm cung cấp thông tin về hồ sơ giải quyết thủ tục hành chính trước ngày 01/7/2025."
+  },
+  {
+    "question": "Theo Nghị định 121/2025/NĐ-CP, việc giải quyết thủ tục hành chính có yêu cầu nộp phí, lệ phí thì mức phí, lệ phí được thực hiện theo quy định của ai?",
+    "a": "Chủ tịch UBND cấp huyện",
+    "b": "Bộ trưởng Bộ Tài chính hoặc Hội đồng nhân dân cấp tỉnh",
+    "c": "Bộ trưởng Bộ Tư pháp",
+    "d": "Cục Thuế địa phương",
+    "answer": "b",
+    "explanation": "Điều 3 Nghị định 121/2025/NĐ-CP quy định mức phí, lệ phí thực hiện theo quy định của Bộ trưởng Bộ Tài chính hoặc Hội đồng nhân dân cấp tỉnh đối với phí, lệ phí tương ứng."
+  },
+  {
+    "question": "Theo Nghị định 121/2025/NĐ-CP, Chính phủ, Thủ tướng Chính phủ và các bộ, cơ quan ngang bộ tập trung thực hiện nhiệm vụ quản lý nhà nước ở tầm nào?",
+    "a": "Tầm vi mô",
+    "b": "Tầm nội bộ",
+    "c": "Tầm vĩ mô",
+    "d": "Tầm địa phương",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 2 Nghị định 121/2025/NĐ-CP quy định Chính phủ, Thủ tướng Chính phủ, các bộ, cơ quan ngang bộ tập trung thực hiện nhiệm vụ quản lý nhà nước ở tầm vĩ mô."
+  },
+  {
+    "question": "Theo Nghị định 121/2025/NĐ-CP, việc phân quyền, phân cấp phải phát huy điều gì của chính quyền địa phương?",
+    "a": "Quyền ban hành luật",
+    "b": "Tính chủ động, sáng tạo, tự chịu trách nhiệm",
+    "c": "Quyền giải thích pháp luật",
+    "d": "Quyền kiểm sát tư pháp",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 2 Nghị định 121/2025/NĐ-CP quy định việc phân cấp phải phát huy tính chủ động, sáng tạo, tự chịu trách nhiệm của chính quyền địa phương."
+  },
+  {
+    "question": "Theo Nghị định 121/2025/NĐ-CP, một trong các yêu cầu của việc phân quyền, phân cấp là gì?",
+    "a": "Được phép làm gián đoạn việc giải quyết công việc",
+    "b": "Không cần phân định thẩm quyền giữa các cơ quan",
+    "c": "Không để gián đoạn công việc",
+    "d": "Tập trung toàn bộ nhiệm vụ về trung ương",
+    "answer": "c",
+    "explanation": "Khoản 5 Điều 2 Nghị định 121/2025/NĐ-CP quy định việc phân quyền, phân cấp phải bảo đảm không để gián đoạn công việc."
+  },
+{
+    "question": "Theo Nghị định 121/2025/NĐ-CP, đối với hồ sơ đề nghị thực hiện thủ tục hành chính về công chứng đã nộp trước ngày nghị định có hiệu lực thì xử lý như thế nào?",
+    "a": "Bị hủy toàn bộ hồ sơ",
+    "b": "Phải nộp lại theo quy định mới",
+    "c": "Tiếp tục thực hiện theo quy định cũ tương ứng",
+    "d": "Chuyển sang Tòa án giải quyết",
+    "answer": "c",
+    "explanation": "Điều 42 Nghị định 121/2025/NĐ-CP quy định các hồ sơ đã nộp trước ngày nghị định có hiệu lực thì tiếp tục thực hiện theo quy định cũ tương ứng."
+  },
+  {
+    "question": "Theo Nghị định 121/2025/NĐ-CP, văn bản, giấy tờ đã được cơ quan có thẩm quyền ban hành trước ngày nghị định có hiệu lực mà chưa hết hiệu lực thì được xử lý như thế nào?",
+    "a": "Đương nhiên vô hiệu",
+    "b": "Tiếp tục được áp dụng, sử dụng",
+    "c": "Phải xin cấp lại",
+    "d": "Chỉ sử dụng trong 06 tháng",
+    "answer": "b",
+    "explanation": "Khoản 10 Điều 42 Nghị định 121/2025/NĐ-CP quy định văn bản, giấy tờ đã ban hành mà chưa hết hiệu lực hoặc thời hạn sử dụng thì tiếp tục được áp dụng, sử dụng theo quy định pháp luật."
+  },
+  {
+    "question": "Theo Nghị định 121/2025/NĐ-CP, việc phân quyền, phân cấp phải phân định rõ thẩm quyền chung của cơ quan nào và thẩm quyền riêng của ai?",
+    "a": "Tòa án và Viện kiểm sát",
+    "b": "Ủy ban nhân dân và Chủ tịch Ủy ban nhân dân",
+    "c": "Bộ trưởng và Thứ trưởng",
+    "d": "Sở Tư pháp và Phòng Tư pháp",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 2 Nghị định 121/2025/NĐ-CP quy định phải phân định rõ thẩm quyền chung của Ủy ban nhân dân và thẩm quyền riêng của Chủ tịch Ủy ban nhân dân."
   }
 ]
 
