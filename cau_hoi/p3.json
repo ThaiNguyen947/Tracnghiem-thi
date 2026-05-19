@@ -1,5 +1,950 @@
 [
   {
+    "question": "Theo Thông tư 05/2025/TT-BTP, đơn vị có chức năng đào tạo nghề công chứng là cơ quan nào?",
+    "a": "Cục Bổ trợ tư pháp",
+    "b": "Học viện Tư pháp",
+    "c": "Hiệp hội công chứng viên Việt Nam",
+    "d": "Sở Tư pháp",
+    "correct": "b",
+    "explanation": "Khoản 1 Điều 3 Thông tư 05/2025/TT-BTP quy định đơn vị có chức năng đào tạo nghề công chứng là Học viện Tư pháp thuộc Bộ Tư pháp."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, chương trình khung đào tạo nghề công chứng do ai ban hành?",
+    "a": "Giám đốc Học viện Tư pháp",
+    "b": "Cục trưởng Cục Bổ trợ tư pháp",
+    "c": "Bộ trưởng Bộ Tư pháp",
+    "d": "Hiệp hội công chứng viên Việt Nam",
+    "correct": "c",
+    "explanation": "Khoản 3 Điều 3 Thông tư 05/2025/TT-BTP quy định Học viện Tư pháp chủ trì xây dựng và trình Bộ trưởng Bộ Tư pháp xem xét, ban hành chương trình khung đào tạo nghề công chứng."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, ai chịu trách nhiệm xây dựng và ban hành chương trình chi tiết đào tạo nghề công chứng?",
+    "a": "Bộ trưởng Bộ Tư pháp",
+    "b": "Cục trưởng Cục Bổ trợ tư pháp",
+    "c": "Giám đốc Sở Tư pháp",
+    "d": "Giám đốc Học viện Tư pháp",
+    "correct": "d",
+    "explanation": "Khoản 4 Điều 3 Thông tư 05/2025/TT-BTP quy định Giám đốc Học viện Tư pháp chịu trách nhiệm xây dựng và ban hành chương trình chi tiết đào tạo nghề công chứng."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, người được đào tạo nghề công chứng ở nước ngoài được công nhận tương đương khi nào?",
+    "a": "Chỉ khi có bằng tiến sĩ luật",
+    "b": "Chỉ khi học tại quốc gia có ký hiệp định với Việt Nam",
+    "c": "Khi có văn bằng đào tạo nghề công chứng do cơ sở đào tạo ở nước ngoài cấp",
+    "d": "Chỉ khi có kinh nghiệm hành nghề từ 05 năm trở lên",
+    "correct": "c",
+    "explanation": "Điểm b khoản 1 Điều 4 Thông tư 05/2025/TT-BTP quy định người có văn bằng đào tạo nghề công chứng được cấp bởi cơ sở đào tạo nghề công chứng ở nước ngoài được công nhận tương đương."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, hồ sơ đề nghị công nhận tương đương đào tạo nghề công chứng ở nước ngoài nộp về đâu?",
+    "a": "Sở Tư pháp",
+    "b": "Học viện Tư pháp",
+    "c": "Hiệp hội công chứng viên Việt Nam",
+    "d": "Bộ Tư pháp",
+    "correct": "d",
+    "explanation": "Khoản 2 Điều 4 Thông tư 05/2025/TT-BTP quy định hồ sơ đề nghị công nhận tương đương văn bằng đào tạo nghề công chứng ở nước ngoài được nộp về Bộ Tư pháp."
+  },
+{
+    "question": "Theo Thông tư 05/2025/TT-BTP, trong trường hợp Văn phòng công chứng giải thể, việc bàn giao hồ sơ công chứng phải được thực hiện trong thời hạn tối đa bao lâu?",
+    "a": "10 ngày",
+    "b": "20 ngày",
+    "c": "30 ngày",
+    "d": "60 ngày",
+    "answer": "c",
+    "explanation": "Theo Điều 18 khoản 2 Thông tư 05/2025/TT-BTP, chậm nhất 30 ngày kể từ ngày có quyết định giải thể hoặc chấm dứt hoạt động phải thực hiện bàn giao hồ sơ."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, trong thời hạn bao nhiêu ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ trưởng Bộ Tư pháp ra quyết định công nhận tương đương đào tạo nghề công chứng ở nước ngoài?",
+    "a": "05 ngày làm việc",
+    "b": "10 ngày làm việc",
+    "c": "15 ngày làm việc",
+    "d": "20 ngày làm việc",
+    "correct": "d",
+    "explanation": "Khoản 3 Điều 4 Thông tư 05/2025/TT-BTP quy định thời hạn giải quyết là 20 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, giấy tờ nào sau đây có thể chứng minh thuộc trường hợp có thời gian đào tạo nghề công chứng là 06 tháng?",
+    "a": "Giấy xác nhận cư trú",
+    "b": "Thẻ luật sư kèm giấy tờ chứng minh hành nghề luật sư từ đủ 05 năm trở lên",
+    "c": "Giấy phép lái xe",
+    "d": "Giấy chứng nhận kết hôn",
+    "correct": "b",
+    "explanation": "Điểm c khoản 1 Điều 5 Thông tư 05/2025/TT-BTP quy định chứng chỉ hành nghề luật sư và thẻ luật sư kèm giấy tờ chứng minh thời gian hành nghề luật sư từ đủ 05 năm trở lên là giấy tờ chứng minh thuộc trường hợp đào tạo nghề công chứng 06 tháng."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, người có bằng tiến sĩ luật thuộc trường hợp nào?",
+    "a": "Được miễn đào tạo nghề công chứng",
+    "b": "Được miễn tập sự hành nghề công chứng",
+    "c": "Thuộc trường hợp có thời gian đào tạo nghề công chứng là 06 tháng",
+    "d": "Được bổ nhiệm công chứng viên ngay",
+    "correct": "c",
+    "explanation": "Điểm đ khoản 1 Điều 5 Thông tư 05/2025/TT-BTP quy định bằng tiến sĩ luật là giấy tờ chứng minh thuộc trường hợp có thời gian đào tạo nghề công chứng là 06 tháng."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, thời gian công tác pháp luật có thể được tính như thế nào?",
+    "a": "Chỉ tính liên tục",
+    "b": "Chỉ tính cộng dồn",
+    "c": "Tính liên tục hoặc cộng dồn",
+    "d": "Chỉ tính tại cơ quan nhà nước",
+    "correct": "c",
+    "explanation": "Khoản 2 Điều 6 Thông tư 05/2025/TT-BTP quy định thời gian công tác pháp luật là thời gian công tác, làm việc liên tục hoặc cộng dồn."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, thời gian hành nghề luật sư có được tính là thời gian công tác pháp luật không?",
+    "a": "Không",
+    "b": "Chỉ tính nếu hành nghề tại cơ quan nhà nước",
+    "c": "Có",
+    "d": "Chỉ tính nếu hành nghề từ 10 năm trở lên",
+    "correct": "c",
+    "explanation": "Điểm c khoản 1 Điều 6 Thông tư 05/2025/TT-BTP quy định thời gian hành nghề luật sư được tính là thời gian công tác pháp luật."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, thời gian tham gia bồi dưỡng nghiệp vụ công chứng tối thiểu hằng năm là bao nhiêu?",
+    "a": "01 ngày làm việc",
+    "b": "02 ngày làm việc",
+    "c": "03 ngày làm việc",
+    "d": "05 ngày làm việc",
+    "correct": "b",
+    "explanation": "Khoản 1 Điều 9 Thông tư 05/2025/TT-BTP quy định thời gian tham gia bồi dưỡng nghiệp vụ tối thiểu là 02 ngày làm việc/năm (16 giờ/năm)."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, thời gian tham gia bồi dưỡng nghiệp vụ công chứng tối thiểu tương ứng bao nhiêu giờ mỗi năm?",
+    "a": "08 giờ",
+    "b": "12 giờ",
+    "c": "16 giờ",
+    "d": "20 giờ",
+    "correct": "c",
+    "explanation": "Khoản 1 Điều 9 Thông tư 05/2025/TT-BTP quy định thời gian tham gia bồi dưỡng nghiệp vụ tối thiểu là 16 giờ/năm."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, công chứng viên nữ đang mang thai thuộc trường hợp nào?",
+    "a": "Được công nhận hoàn thành nghĩa vụ bồi dưỡng nghiệp vụ",
+    "b": "Được miễn thực hiện nghĩa vụ tham gia bồi dưỡng nghiệp vụ trong năm",
+    "c": "Được miễn tập sự hành nghề công chứng",
+    "d": "Được miễn kiểm tra nghiệp vụ",
+    "correct": "b",
+    "explanation": "Điểm a khoản 3 Điều 9 Thông tư 05/2025/TT-BTP quy định công chứng viên nữ đang mang thai được miễn thực hiện nghĩa vụ tham gia bồi dưỡng nghiệp vụ trong năm."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, công chứng viên phải nộp giấy tờ chứng minh hoàn thành nghĩa vụ bồi dưỡng nghiệp vụ cho Hội công chứng viên trước ngày nào hằng năm?",
+    "a": "30/11",
+    "b": "15/12",
+    "c": "25/12",
+    "d": "31/12",
+    "correct": "b",
+    "explanation": "Khoản 2 Điều 10 Thông tư 05/2025/TT-BTP quy định công chứng viên nộp giấy tờ chứng minh hoàn thành nghĩa vụ bồi dưỡng trước ngày 15 tháng 12 hằng năm."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, Hội công chứng viên gửi danh sách hội viên hoàn thành nghĩa vụ bồi dưỡng nghiệp vụ cho Sở Tư pháp chậm nhất vào thời điểm nào?",
+    "a": "15/12",
+    "b": "20/12",
+    "c": "25/12",
+    "d": "31/12",
+    "correct": "c",
+    "explanation": "Khoản 2 Điều 10 Thông tư 05/2025/TT-BTP quy định Hội công chứng viên gửi danh sách cho Sở Tư pháp chậm nhất là ngày 25 tháng 12 hằng năm."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, tổ chức nào sau đây là tổ chức thực hiện bồi dưỡng nghiệp vụ công chứng?",
+    "a": "Ủy ban nhân dân cấp tỉnh",
+    "b": "Tòa án nhân dân cấp tỉnh",
+    "c": "Học viện Tư pháp",
+    "d": "Cục Thi hành án dân sự",
+    "correct": "c",
+    "explanation": "Khoản 1 Điều 8 Thông tư 05/2025/TT-BTP quy định Học viện Tư pháp là một trong các tổ chức thực hiện bồi dưỡng nghiệp vụ công chứng."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, công chứng viên có thể lựa chọn tham gia bồi dưỡng nghiệp vụ theo cách nào?",
+    "a": "Chỉ được tham gia 01 lớp duy nhất",
+    "b": "Chỉ được tham gia lớp do Sở Tư pháp tổ chức",
+    "c": "Có thể tham gia một hoặc một số lớp bồi dưỡng nghiệp vụ",
+    "d": "Chỉ được tham gia trực tuyến",
+    "correct": "c",
+    "explanation": "Khoản 2 Điều 8 Thông tư 05/2025/TT-BTP quy định công chứng viên có thể lựa chọn tham gia một hoặc một số lớp bồi dưỡng nghiệp vụ như Hiệp hôi công chứng, hội công chứng viên, Học viện tư pháp."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, nội dung nào sau đây thuộc nội dung bồi dưỡng nghiệp vụ công chứng hằng năm?",
+    "a": "Kỹ năng ứng dụng công nghệ thông tin trong hoạt động công chứng",
+    "b": "Huấn luyện quân sự",
+    "c": "Đào tạo ngoại ngữ bắt buộc",
+    "d": "Nghiệp vụ kiểm toán",
+    "correct": "a",
+    "explanation": "Điểm c khoản 1 Điều 7 Thông tư 05/2025/TT-BTP quy định nội dung bồi dưỡng bao gồm kỹ năng ứng dụng công nghệ thông tin trong hoạt động công chứng."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, việc bồi dưỡng nghiệp vụ công chứng được thực hiện theo hình thức nào?",
+    "a": "Chỉ trực tiếp",
+    "b": "Chỉ trực tuyến",
+    "c": "Trực tiếp hoặc trực tuyến hoặc kết hợp cả hai",
+    "d": "Chỉ đào tạo tại nước ngoài",
+    "correct": "c",
+    "explanation": "Khoản 2 Điều 7 Thông tư 05/2025/TT-BTP quy định việc bồi dưỡng nghiệp vụ được thực hiện theo hình thức trực tiếp hoặc trực tuyến hoặc kết hợp giữa trực tiếp và trực tuyến."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, công chứng viên tham gia giảng dạy về công chứng tại Học viện Tư pháp được xác định như thế nào đối với nghĩa vụ bồi dưỡng nghiệp vụ?",
+    "a": "Được miễn bổ nhiệm công chứng viên",
+    "b": "Được công nhận hoàn thành nghĩa vụ tham gia bồi dưỡng nghiệp vụ",
+    "c": "Được miễn kiểm tra chuyên môn",
+    "d": "Được miễn đóng hội phí",
+    "correct": "b",
+    "explanation": "Điểm d khoản 2 Điều 9 Thông tư 05/2025/TT-BTP quy định người tham gia giảng dạy về công chứng tại Học viện Tư pháp được công nhận hoàn thành nghĩa vụ tham gia bồi dưỡng nghiệp vụ."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, công chứng viên tham gia khóa bồi dưỡng chuyên môn, nghiệp vụ về công chứng ở nước ngoài thuộc trường hợp nào?",
+    "a": "Được miễn nhiệm công chứng viên",
+    "b": "Được công nhận hoàn thành nghĩa vụ tham gia bồi dưỡng nghiệp vụ",
+    "c": "Được miễn đóng bảo hiểm xã hội",
+    "d": "Được miễn thời gian tập sự",
+    "correct": "b",
+    "explanation": "Điểm đ khoản 2 Điều 9 Thông tư 05/2025/TT-BTP quy định công chứng viên tham gia các khóa bồi dưỡng chuyên môn, nghiệp vụ về công chứng ở nước ngoài được công nhận hoàn thành nghĩa vụ tham gia bồi dưỡng nghiệp vụ."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, công chứng viên đang điều trị dài ngày thuộc danh mục bệnh chữa trị dài ngày từ bao lâu trở lên thì được miễn thực hiện nghĩa vụ tham gia bồi dưỡng nghiệp vụ trong năm?",
+    "a": "01 tháng",
+    "b": "02 tháng",
+    "c": "03 tháng",
+    "d": "06 tháng",
+    "correct": "c",
+    "explanation": "Điểm b khoản 3 Điều 9 Thông tư 05/2025/TT-BTP quy định công chứng viên điều trị dài ngày từ 03 tháng trở lên được miễn thực hiện nghĩa vụ tham gia bồi dưỡng nghiệp vụ."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, Hội công chứng viên gửi danh sách công chứng viên được miễn thực hiện nghĩa vụ tham gia bồi dưỡng nghiệp vụ cho Sở Tư pháp chậm nhất vào thời điểm nào?",
+    "a": "15/12",
+    "b": "20/12",
+    "c": "25/12",
+    "d": "31/12",
+    "correct": "c",
+    "explanation": "Khoản 3 Điều 9 Thông tư 05/2025/TT-BTP quy định Hội công chứng viên gửi danh sách công chứng viên được miễn thực hiện nghĩa vụ tham gia bồi dưỡng nghiệp vụ cho Sở Tư pháp chậm nhất là ngày 25 tháng 12 hằng năm."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, Sở Tư pháp đăng tải danh sách công chứng viên hoàn thành nghĩa vụ bồi dưỡng nghiệp vụ chậm nhất vào ngày nào?",
+    "a": "15/12",
+    "b": "20/12",
+    "c": "25/12",
+    "d": "31/12",
+    "correct": "d",
+    "explanation": "Khoản 2 Điều 10 Thông tư 05/2025/TT-BTP quy định Sở Tư pháp đăng tải danh sách công chứng viên hoàn thành nghĩa vụ bồi dưỡng nghiệp vụ chậm nhất là ngày 31 tháng 12 hằng năm."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, giấy chứng nhận hoàn thành bồi dưỡng nghiệp vụ do ai cấp?",
+    "a": "Sở Tư pháp",
+    "b": "Bộ Tư pháp",
+    "c": "Tổ chức thực hiện bồi dưỡng nghiệp vụ",
+    "d": "Ủy ban nhân dân cấp tỉnh",
+    "correct": "c",
+    "explanation": "Điểm a khoản 1 Điều 10 Thông tư 05/2025/TT-BTP quy định giấy chứng nhận hoàn thành bồi dưỡng nghiệp vụ do tổ chức thực hiện bồi dưỡng nghiệp vụ cấp."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, tổ chức thực hiện bồi dưỡng nghiệp vụ phải công bố kế hoạch bồi dưỡng chậm nhất vào thời điểm nào?",
+    "a": "Cuối Quý I",
+    "b": "Cuối Quý II",
+    "c": "Cuối Quý III",
+    "d": "Ngày 31/12",
+    "correct": "a",
+    "explanation": "Điểm a khoản 1 Điều 11 Thông tư 05/2025/TT-BTP quy định kế hoạch bồi dưỡng nghiệp vụ phải được công bố chậm nhất là cuối Quý I của năm đó."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, nếu thay đổi kế hoạch bồi dưỡng nghiệp vụ thì phải công bố chậm nhất vào thời điểm nào?",
+    "a": "Cuối Quý I",
+    "b": "Cuối Quý II",
+    "c": "Cuối Quý III",
+    "d": "Ngày 31/12",
+    "correct": "b",
+    "explanation": "Điểm a khoản 1 Điều 11 Thông tư 05/2025/TT-BTP quy định trường hợp thay đổi kế hoạch thì phải công bố chậm nhất là cuối Quý II của năm đó."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, tổ chức thực hiện bồi dưỡng nghiệp vụ có trách nhiệm nào sau đây?",
+    "a": "Cấp giấy chứng nhận hoàn thành bồi dưỡng nghiệp vụ",
+    "b": "Bổ nhiệm công chứng viên",
+    "c": "Thu hồi thẻ công chứng viên",
+    "d": "Giải quyết tranh chấp dân sự",
+    "correct": "a",
+    "explanation": "Điểm c khoản 1 Điều 11 Thông tư 05/2025/TT-BTP quy định tổ chức thực hiện bồi dưỡng nghiệp vụ có trách nhiệm cấp giấy chứng nhận hoàn thành bồi dưỡng nghiệp vụ."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, Hiệp hội công chứng viên Việt Nam phải ban hành văn bản hướng dẫn nội dung trọng tâm bồi dưỡng nghiệp vụ chậm nhất vào thời điểm nào?",
+    "a": "Cuối Quý I hằng năm",
+    "b": "Cuối Quý II hằng năm",
+    "c": "Ngày 30/6 hằng năm",
+    "d": "Ngày 31/12 hằng năm",
+    "correct": "a",
+    "explanation": "Điểm b khoản 2 Điều 11 Thông tư 05/2025/TT-BTP quy định Hiệp hội công chứng viên Việt Nam ban hành văn bản hướng dẫn nội dung trọng tâm bồi dưỡng nghiệp vụ chậm nhất là cuối Quý I hằng năm."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, công chứng viên vi phạm nghĩa vụ tham gia bồi dưỡng nghiệp vụ có thể bị xử lý như thế nào?",
+    "a": "Chỉ bị nhắc nhở",
+    "b": "Chỉ bị phạt tiền",
+    "c": "Bị xử lý kỷ luật hoặc xử phạt vi phạm hành chính",
+    "d": "Đương nhiên bị miễn nhiệm",
+    "correct": "c",
+    "explanation": "Khoản 1 Điều 12 Thông tư 05/2025/TT-BTP quy định công chứng viên vi phạm nghĩa vụ tham gia bồi dưỡng nghiệp vụ có thể bị xử lý kỷ luật hoặc bị xử phạt vi phạm hành chính."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, mẫu thẻ công chứng viên được ban hành kèm theo mẫu nào?",
+    "a": "Mẫu TP-CC-23",
+    "b": "Mẫu TP-CC-24",
+    "c": "Mẫu TP-CC-25",
+    "d": "Mẫu TP-CC-26",
+    "correct": "c",
+    "explanation": "Khoản 1 Điều 13 Thông tư 05/2025/TT-BTP quy định thẻ công chứng viên thực hiện theo Mẫu TP-CC-25."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, cơ quan nào in thẻ công chứng viên?",
+    "a": "Bộ Tư pháp",
+    "b": "Hiệp hội công chứng viên Việt Nam",
+    "c": "Học viện Tư pháp",
+    "d": "Sở Tư pháp",
+    "correct": "d",
+    "explanation": "Khoản 2 Điều 13 Thông tư 05/2025/TT-BTP quy định Sở Tư pháp in thẻ công chứng viên."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, Phòng công chứng nộp hồ sơ đề nghị cấp thẻ công chứng viên đến đâu?",
+    "a": "Ủy ban nhân dân cấp tỉnh",
+    "b": "Bộ Tư pháp",
+    "c": "Sở Tư pháp nơi Phòng công chứng đặt trụ sở",
+    "d": "Hiệp hội công chứng viên Việt Nam",
+    "correct": "c",
+    "explanation": "Khoản 1 Điều 14 Thông tư 05/2025/TT-BTP quy định hồ sơ đề nghị cấp thẻ công chứng viên được nộp đến Sở Tư pháp nơi Phòng công chứng đặt trụ sở."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, hồ sơ đề nghị cấp mới, cấp lại thẻ công chứng viên phải kèm theo bao nhiêu ảnh của mỗi công chứng viên?",
+    "a": "01 ảnh",
+    "b": "02 ảnh",
+    "c": "03 ảnh",
+    "d": "04 ảnh",
+    "correct": "b",
+    "explanation": "Điểm b khoản 1 Điều 14, Điểm b khoản 1 Điều 16 Thông tư 05/2025/TT-BTP quy định hồ sơ phải kèm theo 02 ảnh 2cm x 3cm của mỗi công chứng viên."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, ảnh dùng để cấp thẻ công chứng viên phải được chụp không quá bao lâu trước ngày nộp hồ sơ?",
+    "a": "03 tháng",
+    "b": "06 tháng",
+    "c": "09 tháng",
+    "d": "12 tháng",
+    "correct": "b",
+    "explanation": "Điểm b khoản 1 Điều 14 Thông tư 05/2025/TT-BTP quy định ảnh chụp không quá 06 tháng trước ngày nộp hồ sơ."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, trong thời hạn bao nhiêu ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp cấp thẻ công chứng viên?",
+    "a": "03 ngày làm việc",
+    "b": "05 ngày làm việc",
+    "c": "07 ngày làm việc",
+    "d": "10 ngày làm việc",
+    "correct": "b",
+    "explanation": "Khoản 1 Điều 14 Thông tư 05/2025/TT-BTP quy định thời hạn cấp thẻ là 05 ngày làm việc."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, Sở Tư pháp phải đăng tải thông tin cấp thẻ công chứng viên chậm nhất khi nào?",
+    "a": "Trong 03 ngày làm việc",
+    "b": "Trong 05 ngày làm việc",
+    "c": "Trong ngày làm việc tiếp theo của ngày ra quyết định",
+    "d": "Trong 10 ngày làm việc",
+    "correct": "c",
+    "explanation": "Khoản 3 Điều 14 Thông tư 05/2025/TT-BTP quy định Sở Tư pháp đăng tải thông tin cấp thẻ chậm nhất là trong ngày làm việc tiếp theo của ngày ra quyết định."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, trường hợp nào sau đây làm phát sinh việc thu hồi thẻ công chứng viên?",
+    "a": "Công chứng viên nghỉ phép",
+    "b": "Công chứng viên được miễn nhiệm",
+    "c": "Công chứng viên thay đổi nơi cư trú",
+    "d": "Công chứng viên thay đổi số điện thoại",
+    "correct": "b",
+    "explanation": "Khoản 2 Điều 15 Thông tư 05/2025/TT-BTP quy định Sở Tư pháp ra quyết định thu hồi thẻ công chứng viên khi nhận được quyết định miễn nhiệm công chứng viên."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, trong thời hạn bao nhiêu ngày làm việc kể từ ngày nhận được quyết định miễn nhiệm công chứng viên, Sở Tư pháp ra quyết định thu hồi thẻ công chứng viên?",
+    "a": "03 ngày làm việc",
+    "b": "05 ngày làm việc",
+    "c": "07 ngày làm việc",
+    "d": "10 ngày làm việc",
+    "correct": "b",
+    "explanation": "Khoản 2 Điều 15 Thông tư 05/2025/TT-BTP quy định thời hạn là 05 ngày làm việc."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, thẻ công chứng viên không còn giá trị sử dụng kể từ thời điểm nào?",
+    "a": "Ngày ký quyết định thu hồi",
+    "b": "Ngày nhận được thông báo",
+    "c": "Ngày quyết định thu hồi thẻ có hiệu lực",
+    "d": "Sau 30 ngày kể từ ngày thu hồi",
+    "correct": "c",
+    "explanation": "Khoản 6 Điều 15 Thông tư 05/2025/TT-BTP quy định thẻ công chứng viên không còn giá trị sử dụng kể từ ngày quyết định thu hồi thẻ có hiệu lực."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, trong thời hạn bao nhiêu ngày làm việc kể từ ngày quyết định thu hồi thẻ có hiệu lực, người bị thu hồi thẻ phải nộp lại thẻ cho Sở Tư pháp?",
+    "a": "03 ngày làm việc",
+    "b": "05 ngày làm việc",
+    "c": "07 ngày làm việc",
+    "d": "10 ngày làm việc",
+    "correct": "b",
+    "explanation": "Khoản 6 Điều 15 Thông tư 05/2025/TT-BTP quy định thời hạn nộp lại thẻ là 05 ngày làm việc."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, trường hợp nào sau đây thuộc trường hợp cấp lại thẻ công chứng viên?",
+    "a": "Thẻ bị hỏng",
+    "b": "Công chứng viên nghỉ hưu",
+    "c": "Công chứng viên bị miễn nhiệm",
+    "d": "Văn phòng công chứng giải thể",
+    "correct": "a",
+    "explanation": "Khoản 1 Điều 16 Thông tư 05/2025/TT-BTP quy định công chứng viên thuộc trường hợp theo khoản 3 Điều 38 Luật Công chứng, trong đó có trường hợp thẻ bị hỏng, được đề nghị cấp lại thẻ."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, thẻ công chứng viên cấp lại được xử lý như thế nào về số thẻ?",
+    "a": "Cấp số mới hoàn toàn",
+    "b": "Giữ nguyên số thẻ đã cấp trước đây",
+    "c": "Đổi sang mã số điện tử",
+    "d": "Đánh lại số theo địa phương",
+    "correct": "b",
+    "explanation": "Khoản 4 Điều 16 Thông tư 05/2025/TT-BTP quy định thẻ công chứng viên cấp lại được giữ nguyên số thẻ đã cấp trước đây."
+  },
+{
+    "question": "Theo Thông tư 05/2025/TT-BTP, khi bàn giao hồ sơ công chứng, cơ quan nào tham gia lập biên bản bàn giao?",
+    "a": "Bộ Tài chính",
+    "b": "Hội công chứng viên",
+    "c": "Ngân hàng nhà nước",
+    "d": "Cơ quan thuế",
+    "answer": "b",
+    "explanation": "Theo Điều 18 Thông tư 05/2025/TT-BTP, việc bàn giao hồ sơ công chứng phải có sự tham gia của Hội công chứng viên và lập biên bản có chữ ký các bên."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, trường hợp Văn phòng công chứng thay đổi tên thì việc cấp lại thẻ cho công chứng viên được thực hiện đồng thời với thủ tục nào?",
+    "a": "Miễn nhiệm công chứng viên",
+    "b": "Thay đổi nội dung đăng ký hoạt động của Văn phòng công chứng",
+    "c": "Giải thể Văn phòng công chứng",
+    "d": "Đăng ký tập sự công chứng",
+    "correct": "b",
+    "explanation": "Khoản 3 Điều 16 Thông tư 05/2025/TT-BTP quy định trường hợp Văn phòng công chứng thay đổi tên thì việc cấp lại thẻ được thực hiện đồng thời với thủ tục thay đổi nội dung đăng ký hoạt động."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, hồ sơ đề nghị cấp thẻ công chứng viên phải có giấy tờ nào chứng minh công chứng viên là hội viên?",
+    "a": "là TV Hội Luật gia Việt Nam",
+    "b": "là TV Đoàn Luật sư",
+    "c": "là TV Hội công chứng viên tại địa phương",
+    "d": "là TV Hiệp hội doanh nghiệp",
+    "correct": "c",
+    "explanation": "Điểm c khoản 1 Điều 14 Thông tư 05/2025/TT-BTP quy định hồ sơ phải có giấy tờ chứng minh công chứng viên là hội viên Hội công chứng viên tại địa phương."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, trường hợp nào sau đây thuộc trường hợp thu hồi thẻ công chứng viên liên quan đến Phòng công chứng?",
+    "a": "Công chứng viên thay đổi nơi cư trú",
+    "b": "Phòng công chứng chuyển đổi hoặc giải thể",
+    "c": "Công chứng viên nghỉ phép dài hạn",
+    "d": "Công chứng viên đổi số điện thoại",
+    "correct": "b",
+    "explanation": "Khoản 3 Điều 15 Thông tư 05/2025/TT-BTP quy định trường hợp quyết định chuyển đổi, giải thể Phòng công chứng có hiệu lực thì Sở Tư pháp ra quyết định thu hồi thẻ công chứng viên."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, cơ quan nào cập nhật thông tin cấp, thu hồi thẻ công chứng viên trên phần mềm quản lý hoạt động công chứng của Bộ Tư pháp?",
+    "a": "Ủy ban nhân dân cấp tỉnh",
+    "b": "Hiệp hội công chứng viên Việt Nam",
+    "c": "Sở Tư pháp",
+    "d": "Học viện Tư pháp",
+    "correct": "c",
+    "explanation": "Khoản 3 Điều 14 và khoản 5 Điều 15 Thông tư 05/2025/TT-BTP quy định Sở Tư pháp cập nhật thông tin cấp, thu hồi thẻ công chứng viên trên phần mềm quản lý hoạt động công chứng của Bộ Tư pháp."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, trong trường hợp thẻ công chứng viên bị hỏng thì hồ sơ đề nghị cấp lại phải kèm theo giấy tờ nào?",
+    "a": "Giấy xác nhận cư trú",
+    "b": "Thẻ công chứng viên đang sử dụng",
+    "c": "Giấy khám sức khỏe",
+    "d": "Lý lịch tư pháp",
+    "correct": "b",
+    "explanation": "Điểm c khoản 1 Điều 16 Thông tư 05/2025/TT-BTP quy định trường hợp thẻ bị hỏng thì hồ sơ đề nghị cấp lại phải có thẻ công chứng viên đang sử dụng."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, trường hợp Văn phòng công chứng thay đổi tên thì việc cấp lại thẻ công chứng viên được thực hiện theo quy định tại văn bản nào?",
+    "a": "Luật Đấu giá tài sản",
+    "b": "Luật Luật sư",
+    "c": "Điều 21 Nghị định 104/2025/NĐ-CP",
+    "d": "Luật Tổ chức chính quyền địa phương",
+    "correct": "c",
+    "explanation": "Khoản 3 Điều 16 Thông tư 05/2025/TT-BTP quy định trường hợp Văn phòng công chứng thay đổi tên thì việc cấp lại thẻ được thực hiện theo Điều 21 Nghị định 104/2025/NĐ-CP."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, giấy tờ nào sau đây có thể được sử dụng để chứng minh thuộc trường hợp có thời gian đào tạo nghề công chứng là 06 tháng?",
+    "a": "Chỉ quyết định bổ nhiệm chức danh",
+    "b": "Chỉ giấy tờ chứng minh thời gian công tác",
+    "c": "Một hoặc một số giấy tờ theo quy định phù hợp với từng trường hợp",
+    "d": "Chỉ chứng chỉ hành nghề luật sư",
+    "answer": "c",
+    "explanation": "Điều 5 quy định giấy tờ chứng minh là một hoặc một số giấy tờ phù hợp với từng trường hợp cụ thể."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, nhóm chức danh nào sau đây thuộc trường hợp có thời gian đào tạo nghề công chứng là 06 tháng nếu đã giữ ngạch từ đủ 05 năm trở lên?",
+    "a": "Thẩm phán, kiểm sát viên, điều tra viên",
+    "b": "Giảng viên chính trong lĩnh vực pháp luật",
+    "c": "Chuyên viên chính, pháp chế viên chính, nghiên cứu viên chính",
+    "d": "Tất cả các phương án trên",
+    "answer": "d",
+    "explanation": "Điểm a khoản 1 Điều 5 liệt kê đầy đủ các chức danh này."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, giấy tờ nào phải kèm theo chứng minh thời gian hành nghề từ đủ 05 năm trở lên để được xác định thuộc trường hợp đào tạo nghề công chứng 06 tháng?",
+    "a": "Chứng chỉ hành nghề luật sư và thẻ luật sư",
+    "b": "Chứng chỉ hành nghề đấu giá",
+    "c": "Quyết định bổ nhiệm thừa phát lại và thẻ thừa phát lại",
+    "d": "Tất cả các phương án trên",
+    "answer": "d",
+    "explanation": "Các điểm b, c, d khoản 1 Điều 5 đều yêu cầu kèm giấy tờ chứng minh thời gian hành nghề từ đủ 05 năm."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, trường hợp nào sau đây được tính là thời gian công tác pháp luật?",
+    "a": "Thời gian làm công chức tư pháp - hộ tịch cấp xã",
+    "b": "Thời gian hành nghề luật sư",
+    "c": "Thời gian làm nghiệp vụ công chứng tại tổ chức hành nghề công chứng",
+    "d": "Tất cả các phương án trên",
+    "answer": "d",
+    "explanation": "Khoản 1 Điều 6 quy định các trường hợp này đều được tính là thời gian công tác pháp luật."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, thời gian công tác pháp luật được tính như thế nào?",
+    "a": "Chỉ tính liên tục",
+    "b": "Chỉ tính cộng dồn",
+    "c": "Liên tục hoặc cộng dồn",
+    "d": "Theo quyết định của Sở Tư pháp",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 6 quy định thời gian công tác pháp luật là thời gian công tác liên tục hoặc cộng dồn."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, giấy tờ chứng minh thời gian công tác pháp luật có thể bao gồm nhóm giấy tờ nào?",
+    "a": "Quyết định tuyển dụng, điều động, hợp đồng lao động",
+    "b": "Giấy tờ chứng minh thời gian đóng bảo hiểm xã hội",
+    "c": "Chứng chỉ hành nghề hoặc quyết định bổ nhiệm tương ứng",
+    "d": "Tất cả các phương án trên",
+    "answer": "d",
+    "explanation": "Khoản 3 Điều 6 quy định các nhóm giấy tờ này được sử dụng để chứng minh thời gian công tác pháp luật."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, khi Văn phòng công chứng tạm ngừng hoạt động thì cơ quan nào chỉ định tổ chức hành nghề công chứng tiếp nhận hồ sơ công chứng?",
+    "a": "Bộ Tư pháp",
+    "b": "Ủy ban nhân dân cấp tỉnh",
+    "c": "Sở Tư pháp",
+    "d": "Hội công chứng viên",
+    "answer": "c",
+    "explanation": "Điểm a khoản 1 Điều 18 quy định Sở Tư pháp chỉ định tổ chức hành nghề công chứng tiếp nhận hồ sơ."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, thông tin về tổ chức hành nghề công chứng tiếp nhận hồ sơ của Văn phòng công chứng tạm ngừng hoạt động phải được niêm yết và đăng tải trong ít nhất bao lâu?",
+    "a": "07 ngày",
+    "b": "15 ngày",
+    "c": "30 ngày",
+    "d": "45 ngày",
+    "answer": "c",
+    "explanation": "Điểm a khoản 1 Điều 18 Thông tư 05/2025/TT-BTP quy định thông tin này “được đăng tải trên Cổng thông tin điện tử của Sở Tư pháp trong thời gian ít nhất là 30 ngày...”"
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, tổ chức hành nghề công chứng nhận bàn giao hồ sơ có trách nhiệm gì?",
+    "a": "Chỉ lưu giữ hồ sơ",
+    "b": "Chỉ cấp bản sao văn bản công chứng",
+    "c": "Cập nhật thông tin liên quan đến hồ sơ vào cơ sở dữ liệu công chứng địa phương",
+    "d": "Chuyển hồ sơ cho Bộ Tư pháp",
+    "answer": "c",
+    "explanation": "Điểm d khoản 1 Điều 18 và điểm c khoản 2 Điều 18 Thông tư 05/2025/TT-BTP quy định: “Tổ chức hành nghề công chứng nhận bàn giao hồ sơ có trách nhiệm cập nhật thông tin liên quan đến hồ sơ... vào cơ sở dữ liệu công chứng của địa phương...”"
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, lời chứng của công chứng viên được xác định là gì?",
+    "a": "Phần tham khảo",
+    "b": "Phụ lục của văn bản công chứng",
+    "c": "Bộ phận cấu thành của văn bản công chứng",
+    "d": "Nội dung không bắt buộc",
+    "answer": "c",
+     "explanation": "Khoản 1 Điều 19 Thông tư 05/2025/TT-BTP quy định: “Lời chứng của công chứng viên là bộ phận cấu thành của văn bản công chứng.”"
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, công chứng viên không được đưa vào lời chứng nội dung nào sau đây?",
+    "a": "Nội dung nhằm trốn tránh trách nhiệm",
+    "b": "Nội dung vi phạm pháp luật",
+    "c": "Nội dung trái đạo đức xã hội",
+    "d": "Tất cả các phương án trên",
+    "answer": "d",
+    "explanation": "Khoản 4 Điều 19 Thông tư 05/2025/TT-BTP quy định: “Công chứng viên... không được đưa vào lời chứng những nội dung nhằm trốn tránh, giảm bớt trách nhiệm của mình hoặc nội dung vi phạm pháp luật, trái đạo đức xã hội.”"
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, phương thức kiểm tra về tổ chức và hoạt động công chứng bao gồm những phương thức nào?",
+    "a": "Kiểm tra trực tiếp",
+    "b": "Kiểm tra gián tiếp qua báo cáo",
+    "c": "Cả kiểm tra trực tiếp và gián tiếp qua báo cáo",
+    "d": "Chỉ kiểm tra trực tuyến",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 23 Thông tư 05/2025/TT-BTP quy định: “Phương thức kiểm tra bao gồm: Kiểm tra trực tiếp; kiểm tra gián tiếp qua báo cáo.”"
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, hình thức kiểm tra về tổ chức và hoạt động công chứng bao gồm những hình thức nào?",
+    "a": "Kiểm tra theo kế hoạch",
+    "b": "Kiểm tra đột xuất",
+    "c": "Cả kiểm tra theo kế hoạch và kiểm tra đột xuất",
+    "d": "Kiểm tra chuyên đề",
+    "answer": "c",
+   "explanation": "Khoản 4 Điều 23 Thông tư 05/2025/TT-BTP quy định hình thức kiểm tra bao gồm: “Kiểm tra theo kế hoạch...” và “Kiểm tra đột xuất...”"
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, đối tượng kiểm tra có quyền nào sau đây?",
+    "a": "Bảo lưu ý kiến trong biên bản kiểm tra",
+    "b": "Từ chối cung cấp tài liệu không liên quan nội dung kiểm tra",
+    "c": "Tố cáo hành vi vi phạm pháp luật trong quá trình kiểm tra",
+    "d": "Tất cả các phương án trên",
+    "answer": "d",
+    "explanation": "Điểm a khoản 7 Điều 23 Thông tư 05/2025/TT-BTP quy định đối tượng kiểm tra có quyền: “bảo lưu ý kiến trong biên bản kiểm tra”; “từ chối cung cấp thông tin... không liên quan”; “tố cáo hành vi vi phạm pháp luật trong quá trình kiểm tra...”"
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, đối tượng kiểm tra có nghĩa vụ nào sau đây?",
+    "a": "Chấp hành quyết định kiểm tra",
+    "b": "Cung cấp thông tin, tài liệu liên quan theo yêu cầu",
+    "c": "Ký biên bản kiểm tra sau khi kết thúc kiểm tra",
+    "d": "Tất cả các phương án trên",
+    "answer": "d",
+    "explanation": "Điểm b khoản 7 Điều 23 Thông tư 05/2025/TT-BTP quy định đối tượng kiểm tra có nghĩa vụ: “Chấp hành quyết định kiểm tra...”; “cung cấp kịp thời, đầy đủ...” và “ký biên bản kiểm tra...”"
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, trình tự kiểm tra về tổ chức và hoạt động công chứng bao gồm nội dung nào sau đây?",
+    "a": "Công bố nội dung, chương trình kiểm tra",
+    "b": "Lập biên bản kiểm tra",
+    "c": "Ban hành kết luận kiểm tra",
+    "d": "Tất cả các phương án trên",
+    "answer": "d",
+    "explanation": "Khoản 8 Điều 23 Thông tư 05/2025/TT-BTP quy định trình tự kiểm tra gồm: “Công bố nội dung...”; “Lập biên bản...”; “Ban hành Kết luận kiểm tra...”"
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, các thông tin nào được khai thác, sử dụng từ Cơ sở dữ liệu quốc gia về dân cư để giải quyết thủ tục hành chính?",
+    "a": "Giới tính, quốc tịch",
+    "b": "Nơi thường trú, nơi tạm trú",
+    "c": "Nơi ở hiện tại",
+    "d": "Tất cả các phương án trên",
+    "answer": "d",
+    "explanation": "Khoản 3 Điều 25 Thông tư 05/2025/TT-BTP quy định: “Các thông tin... bao gồm: Giới tính; quốc tịch; nơi thường trú; nơi tạm trú; nơi ở hiện tại.”"
+  },
+{
+    "question": "Theo Thông tư 05/2025/TT-BTP, mẫu TP-CC-33 dùng để làm gì?",
+    "a": "Sổ công chứng giao dịch",
+    "b": "Sổ yêu cầu công chứng",
+    "c": "Sổ theo dõi lao động",
+    "d": "Giấy chứng nhận bồi dưỡng",
+    "answer": "b",
+    "explanation": "Theo Điều 24 Thông tư 05/2025/TT-BTP, Mẫu TP-CC-33 là sổ yêu cầu công chứng."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, trường hợp Văn phòng công chứng bổ sung công chứng viên hợp danh thì phải có giấy tờ nào?",
+    "a": "Quyết định của Sở Tư pháp",
+    "b": "Văn bản chấp thuận của công chứng viên hợp danh và giấy tờ chứng minh đã góp đủ vốn",
+    "c": "Hợp đồng mua bán Văn phòng công chứng",
+    "d": "Giấy xác nhận thuế",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 17 quy định trường hợp bổ sung công chứng viên hợp danh phải có văn bản chấp thuận của các công chứng viên hợp danh và giấy tờ chứng minh đã nộp đủ vốn góp theo thỏa thuận."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, trường hợp giảm số lượng công chứng viên, phải có giấy tờ nào?",
+    "a": "Hợp đồng chuyển nhượng vốn góp",
+    "b": "Văn bản chấp thuận của công chứng viên hợp danh hoặc giấy tờ chấm dứt tư cách thành viên hợp danh",
+    "c": "Quyết định của UBND cấp huyện",
+    "d": "Biên bản họp Hội đồng nhân dân",
+    "answer": "b",
+    "explanation": "Điểm b khoản 1 Điều 17 quy định giảm số lượng công chứng viên phải có văn bản chấp thuận và giấy tờ chứng minh chấm dứt tư cách hoặc các văn bản liên quan theo Luật Công chứng."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, trong trường hợp tạm ngừng hoạt động, Sở Tư pháp thống nhất phương thức bàn giao hồ sơ trong thời hạn bao lâu?",
+    "a": "03 ngày làm việc",
+    "b": "05 ngày làm việc",
+    "c": "07 ngày làm việc",
+    "d": "10 ngày làm việc",
+    "answer": "b",
+    "explanation": "Điểm b khoản 1 Điều 18 quy định trong thời hạn 05 ngày làm việc, Sở Tư pháp chủ trì phối hợp thống nhất phương thức bàn giao hồ sơ công chứng."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, thông tin về tổ chức hành nghề công chứng tiếp nhận hồ sơ tạm ngừng hoạt động phải được đăng tải tối thiểu bao lâu?",
+    "a": "07 ngày",
+    "b": "15 ngày",
+    "c": "30 ngày",
+    "d": "45 ngày",
+    "answer": "c",
+    "explanation": "Điểm a khoản 1 Điều 18 quy định thông tin về tổ chức tiếp nhận hồ sơ phải được niêm yết và đăng tải ít nhất 30 ngày kể từ ngày quyết định có hiệu lực."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, thời hạn Sở Tư pháp tổ chức bàn giao hồ sơ công chứng khi giải thể hoặc chấm dứt hoạt động là bao lâu?",
+    "a": "10 ngày",
+    "b": "15 ngày",
+    "c": "30 ngày",
+    "d": "60 ngày",
+    "answer": "c",
+    "explanation": "Điểm a khoản 2 Điều 18 quy định chậm nhất 30 ngày kể từ ngày có quyết định giải thể hoặc thu hồi giấy đăng ký hoạt động phải tổ chức bàn giao hồ sơ."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, sổ yêu cầu công chứng và sổ công chứng được lập theo chu kỳ nào?",
+    "a": "Theo tháng",
+    "b": "Theo quý",
+    "c": "Theo năm",
+    "d": "Theo nhiệm kỳ",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 20 quy định sổ yêu cầu công chứng và sổ công chứng được lập theo từng năm, mở sổ ngày 01/01 và khóa sổ ngày 31/12."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, ký hiệu số công chứng là gì?",
+    "a": "CCCD",
+    "b": "CCGD",
+    "c": "CCGDĐT",
+    "d": "CCGT",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 20 quy định số công chứng kèm theo năm và ký hiệu CCGD (công chứng giao dịch)."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, số công chứng điện tử có ký hiệu là gì?",
+    "a": "CCGDT",
+    "b": "CCGDĐT",
+    "c": "CCĐT",
+    "d": "CCTD",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 20 quy định số công chứng điện tử sử dụng ký hiệu CCGDĐT (công chứng giao dịch điện tử)."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, trường hợp thay đổi địa chỉ trụ sở Văn phòng công chứng thì giấy tờ nào là bắt buộc?",
+    "a": "Giấy chứng nhận đăng ký thuế mới",
+    "b": "Giấy tờ chứng minh trụ sở mới",
+    "c": "Quyết định của Sở Tư pháp",
+    "d": "Hợp đồng chuyển nhượng vốn góp",
+    "answer": "b",
+    "explanation": "Điểm d khoản 1 Điều 17 quy định trường hợp thay đổi địa chỉ trụ sở phải có giấy tờ chứng minh về trụ sở mới."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, trường hợp thay đổi tên Văn phòng công chứng thì cần tài liệu nào?",
+    "a": "Quyết định của UBND cấp tỉnh",
+    "b": "Văn bản thỏa thuận của các thành viên hợp danh",
+    "c": "Giấy chứng nhận đăng ký doanh nghiệp mới",
+    "d": "Hợp đồng lao động mới",
+    "answer": "b",
+    "explanation": "Điểm đ khoản 1 Điều 17 quy định việc thay đổi tên phải có văn bản thỏa thuận của các thành viên hợp danh."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, trường hợp hợp nhất, sáp nhập hoặc chuyển nhượng vốn góp phải có giấy tờ nào?",
+    "a": "Biên bản họp nội bộ Văn phòng công chứng",
+    "b": "Quyết định của UBND cấp tỉnh cho phép",
+    "c": "Giấy xác nhận của Hội công chứng viên",
+    "d": "Văn bản thỏa thuận giữa các công chứng viên",
+    "answer": "b",
+    "explanation": "Điểm e khoản 1 Điều 17 quy định phải có Quyết định của UBND cấp tỉnh cho phép hợp nhất, sáp nhập, chuyển nhượng hoặc bán Văn phòng công chứng."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, Giấy đăng ký hoạt động cấp lại được giữ nguyên yếu tố nào?",
+    "a": "Tên Văn phòng công chứng",
+    "b": "Số đã cấp trước đó",
+    "c": "Địa chỉ trụ sở",
+    "d": "Ngày cấp mới",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 17 quy định Giấy đăng ký hoạt động cấp lại được giữ nguyên số đã cấp trước đó."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, việc bàn giao hồ sơ công chứng khi tạm ngừng hoạt động phải có sự tham gia của cơ quan nào?",
+    "a": "Tòa án nhân dân",
+    "b": "Sở Tư pháp và Hội công chứng viên",
+    "c": "Cơ quan thuế",
+    "d": "UBND cấp huyện",
+    "answer": "b",
+    "explanation": "Điểm b khoản 1 Điều 18 quy định Sở Tư pháp chủ trì phối hợp với Hội công chứng viên và các bên liên quan."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, việc bàn giao hồ sơ công chứng phải được lập thành gì?",
+    "a": "Biên bản có chữ ký các bên",
+    "b": "Quyết định hành chính",
+    "c": "Hợp đồng dân sự",
+    "d": "Thông báo nội bộ",
+    "answer": "a",
+    "explanation": "Điểm b khoản 1 Điều 18 quy định việc thống nhất bàn giao phải được lập thành biên bản có chữ ký các bên."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, tổ chức nhận hồ sơ công chứng có trách nhiệm gì sau khi nhận bàn giao?",
+    "a": "Báo cáo UBND cấp huyện",
+    "b": "Cập nhật dữ liệu công chứng địa phương",
+    "c": "Gửi lại Sở Tư pháp mỗi tháng",
+    "d": "Lưu riêng không cập nhật hệ thống",
+    "answer": "b",
+    "explanation": "Điểm d khoản 1 Điều 18 quy định tổ chức nhận hồ sơ phải cập nhật thông tin vào cơ sở dữ liệu công chứng của địa phương."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, khi công chứng viên yêu cầu sửa lỗi kỹ thuật văn bản công chứng thì liên hệ với đâu?",
+    "a": "Sở Tư pháp",
+    "b": "Tổ chức hành nghề công chứng được chỉ định tiếp nhận hồ sơ",
+    "c": "UBND cấp tỉnh",
+    "d": "Phòng công chứng cũ",
+    "answer": "b",
+    "explanation": "Điểm c khoản 1 Điều 18 quy định người yêu cầu liên hệ với tổ chức hành nghề công chứng được chỉ định tiếp nhận hồ sơ."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, Sổ công chứng điện tử được ký xác nhận vào thời điểm nào?",
+    "a": "Hằng tuần",
+    "b": "Hằng ngày",
+    "c": "Cuối mỗi tháng hoặc mỗi quý",
+    "d": "Cuối năm",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 20 quy định cuối mỗi tháng hoặc mỗi quý người đứng đầu phải ký số xác nhận."
+  },
+  {
+    "question": "Theo Thông tư 05/2025/TT-BTP, trong sổ công chứng, số thứ tự phải được ghi như thế nào?",
+    "a": "Có thể kèm chữ cái",
+    "b": "Không liên tục",
+    "c": "Liên tục từ số 01 đến hết năm",
+    "d": "Theo từng loại giao dịch",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 20 quy định số thứ tự phải liên tục từ 01 đến hết năm, không được ngắt quãng hoặc thêm ký tự."
+  },
+  {
+    "question": "Văn phòng công chứng A muốn bổ sung thêm 01 công chứng viên làm việc theo chế độ hợp đồng lao động. Hồ sơ nào sau đây là phù hợp nhất theo Thông tư 05/2025/TT-BTP?",
+    "a": "Quyết định của UBND cấp tỉnh",
+    "b": "Hợp đồng lao động với công chứng viên dự kiến và văn bản thỏa thuận của thành viên hợp danh",
+    "c": "Giấy xác nhận của Sở Tư pháp về nhu cầu nhân sự",
+    "d": "Biên bản họp Hội đồng công chứng viên quốc gia",
+    "answer": "b",
+    "explanation": "Căn cứ điểm a khoản 1 Điều 17 Thông tư 05/2025/TT-BTP, trường hợp bổ sung công chứng viên làm việc theo chế độ hợp đồng lao động phải có hợp đồng lao động và các tài liệu liên quan theo thỏa thuận của các thành viên hợp danh."
+  },
+  {
+    "question": "Văn phòng công chứng B thay đổi Trưởng Văn phòng do công chứng viên hiện tại chấm dứt tư cách thành viên hợp danh. Trường hợp này cần tài liệu nào?",
+    "a": "Văn bản thỏa thuận của thành viên hợp danh hoặc tài liệu chứng minh bắt buộc phải thay đổi Trưởng Văn phòng",
+    "b": "Quyết định của Tòa án",
+    "c": "Giấy xác nhận thuế thu nhập cá nhân",
+    "d": "Hợp đồng chuyển nhượng vốn góp",
+    "answer": "a",
+    "explanation": "Căn cứ điểm c khoản 1 Điều 17 Thông tư 05/2025/TT-BTP, việc thay đổi Trưởng Văn phòng phải có văn bản thỏa thuận hoặc tài liệu chứng minh bắt buộc phải thay đổi Trưởng Văn phòng."
+  },
+  {
+    "question": "Trong thời gian Văn phòng công chứng C tạm ngừng hoạt động, người dân yêu cầu cấp bản sao văn bản công chứng. Cơ quan nào tiếp nhận?",
+    "a": "Sở Tư pháp",
+    "b": "Văn phòng công chứng C",
+    "c": "Tổ chức hành nghề công chứng được chỉ định tiếp nhận hồ sơ",
+    "d": "UBND cấp xã",
+    "answer": "c",
+    "explanation": "Căn cứ điểm c khoản 1 Điều 18 Thông tư 05/2025/TT-BTP, người yêu cầu liên hệ với tổ chức hành nghề công chứng được chỉ định tiếp nhận hồ sơ."
+  },
+  {
+    "question": "Nếu các bên không thỏa thuận được việc bàn giao hồ sơ công chứng khi tạm ngừng hoạt động thì cơ quan nào quyết định chỉ định đơn vị tiếp nhận?",
+    "a": "Hội công chứng viên",
+    "b": "Sở Tư pháp",
+    "c": "UBND cấp huyện",
+    "d": "Cơ quan thuế",
+    "answer": "b",
+    "explanation": "Căn cứ điểm a khoản 1 Điều 18 Thông tư 05/2025/TT-BTP, nếu không thỏa thuận được thì Sở Tư pháp tự chỉ định tổ chức hành nghề công chứng tiếp nhận hồ sơ."
+  },
+  {
+    "question": "Tổ chức hành nghề công chứng nhận bàn giao hồ sơ có trách nhiệm gì ngay sau khi nhận?",
+    "a": "Niêm phong hồ sơ",
+    "b": "Cập nhật vào cơ sở dữ liệu công chứng địa phương",
+    "c": "Chuyển Bộ Tư pháp",
+    "d": "Lưu kho độc lập không cập nhật",
+    "answer": "b",
+    "explanation": "Căn cứ điểm d khoản 1 Điều 18 Thông tư 05/2025/TT-BTP, tổ chức nhận bàn giao phải cập nhật thông tin vào cơ sở dữ liệu công chứng của địa phương."
+  },
+  {
+    "question": "Sổ công chứng điện tử không thực hiện ký số cuối tháng hoặc quý. Hành vi này vi phạm quy định nào?",
+    "a": "Điều 17 Thông tư 05/2025/TT-BTP",
+    "b": "Điều 19 Thông tư 05/2025/TT-BTP",
+    "c": "Khoản 4 Điều 20 Thông tư 05/2025/TT-BTP",
+    "d": "Điều 22 Thông tư 05/2025/TT-BTP",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 4 Điều 20 Thông tư 05/2025/TT-BTP, sổ công chứng điện tử phải được người đứng đầu ký số cuối mỗi tháng hoặc quý."
+  },
+  {
+    "question": "Công chứng viên ghi số công chứng kèm ký tự chữ cái để dễ quản lý. Nhận định nào đúng?",
+    "a": "Đúng nếu thuận tiện quản lý",
+    "b": "Đúng nếu không ảnh hưởng thống kê",
+    "c": "Sai vì số công chứng phải liên tục, không kèm ký tự khác",
+    "d": "Đúng nếu được Sở Tư pháp đồng ý",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 20 Thông tư 05/2025/TT-BTP, số công chứng phải liên tục từ 01 đến hết năm và không được kèm chữ cái hoặc ký tự khác."
+  },
+  {
+    "question": "Trong quá trình kiểm tra, đoàn kiểm tra yêu cầu tài liệu không liên quan nội dung kiểm tra. Tổ chức hành nghề công chứng xử lý thế nào?",
+    "a": "Bắt buộc cung cấp",
+    "b": "Có quyền từ chối cung cấp",
+    "c": "Chỉ cung cấp khi có quyết định tòa án",
+    "d": "Phải xin UBND cấp tỉnh",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 7 Điều 23 Thông tư 05/2025/TT-BTP, đối tượng kiểm tra có quyền từ chối cung cấp tài liệu không liên quan đến nội dung kiểm tra."
+  },
+  {
+    "question": "Sau khi kết thúc kiểm tra về tổ chức hành nghề công chứng, bước cuối cùng bắt buộc là gì?",
+    "a": "Niêm phong hồ sơ",
+    "b": "Ban hành kết luận kiểm tra",
+    "c": "Thu hồi giấy đăng ký hoạt động",
+    "d": "Chuyển hồ sơ sang cơ quan thuế",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 8 Điều 23 Thông tư 05/2025/TT-BTP, sau khi kết thúc kiểm tra phải ban hành kết luận kiểm tra."
+  },
+  {
+    "question": "Văn phòng công chứng X tạm ngừng hoạt động. Do không thống nhất được nơi tiếp nhận hồ sơ, Sở Tư pháp phải chỉ định tổ chức hành nghề công chứng tiếp nhận hồ sơ. Việc chỉ định này được thực hiện theo nguyên tắc nào?",
+    "a": "Theo đề nghị của Văn phòng công chứng X",
+    "b": "Trên cơ sở thỏa thuận giữa các bên, nếu không thỏa thuận được thì Sở Tư pháp quyết định chỉ định",
+    "c": "Theo quyết định của UBND cấp tỉnh",
+    "d": "Theo đề xuất của Hội Công chứng viên",
+    "answer": "b",
+    "explanation": "Căn cứ điểm a khoản 1 Điều 18 Thông tư 05/2025/TT-BTP, việc chỉ định tổ chức tiếp nhận hồ sơ ưu tiên thỏa thuận, nếu không thỏa thuận được thì Sở Tư pháp quyết định chỉ định."
+  },
+  {
+    "question": "Trong trường hợp Văn phòng công chứng tạm ngừng hoạt động, thông tin về tổ chức tiếp nhận hồ sơ phải được đăng tải tối thiểu bao lâu kể từ ngày quyết định có hiệu lực?",
+    "a": "15 ngày",
+    "b": "20 ngày",
+    "c": "30 ngày",
+    "d": "45 ngày",
+    "answer": "c",
+    "explanation": "Căn cứ điểm a khoản 1 Điều 18 Thông tư 05/2025/TT-BTP, thông tin phải được niêm yết và đăng tải ít nhất 30 ngày."
+  },
+  {
+    "question": "Sau khi Văn phòng công chứng hết thời hạn tạm ngừng hoạt động, hồ sơ đã bàn giao cho tổ chức khác phải được xử lý thế nào?",
+    "a": "Tiếp tục lưu tại tổ chức nhận bàn giao",
+    "b": "Chuyển sang Sở Tư pháp quản lý",
+    "c": "Bàn giao lại cho Văn phòng công chứng ban đầu",
+    "d": "Hủy nếu không có yêu cầu",
+    "answer": "c",
+    "explanation": "Căn cứ điểm đ khoản 1 Điều 18 Thông tư 05/2025/TT-BTP, trong 05 ngày làm việc phải bàn giao lại hồ sơ cho Văn phòng công chứng sau khi hết thời hạn tạm ngừng."
+  },
+  {
+    "question": "Một Văn phòng công chứng tổ chức sổ công chứng theo năm nhưng ghi số thứ tự theo từng tháng để dễ quản lý nội bộ. Hành vi này đúng hay sai?",
+    "a": "Đúng nếu đảm bảo thống kê cuối năm",
+    "b": "Sai vì số công chứng phải liên tục từ 01 đến hết năm",
+    "c": "Đúng nếu có sự đồng ý của Sở Tư pháp",
+    "d": "Đúng nếu áp dụng công chứng điện tử",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 3 Điều 20 Thông tư 05/2025/TT-BTP, số công chứng phải liên tục từ 01 đến hết năm, không được chia theo tháng."
+  },
+  {
+    "question": "Trong sổ công chứng điện tử, người đứng đầu Văn phòng công chứng không ký số cuối tháng nhưng vẫn ký cuối năm. Nhận định nào đúng?",
+    "a": "Đúng vì ký cuối năm là đủ",
+    "b": "Đúng nếu hệ thống lưu trữ đầy đủ",
+    "c": "Sai vì phải ký cuối mỗi tháng hoặc quý",
+    "d": "Đúng nếu không phát sinh giao dịch",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 4 Điều 20 Thông tư 05/2025/TT-BTP, sổ công chứng điện tử phải được ký số cuối mỗi tháng hoặc mỗi quý."
+  },
+  {
+    "question": "Trong quá trình kiểm tra, Đoàn kiểm tra yêu cầu cung cấp hồ sơ tài chính không liên quan nội dung kiểm tra công chứng. Văn phòng công chứng xử lý thế nào?",
+    "a": "Bắt buộc cung cấp",
+    "b": "Có quyền từ chối cung cấp",
+    "c": "Chỉ cung cấp khi có lệnh Bộ Tư pháp",
+    "d": "Phải cung cấp nếu có yêu cầu miệng",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 7 Điều 23 Thông tư 05/2025/TT-BTP, đối tượng kiểm tra có quyền từ chối cung cấp tài liệu không liên quan nội dung kiểm tra."
+  },
+  {
+    "question": "Thời hạn kiểm tra trực tiếp của Đoàn kiểm tra đối với tổ chức hành nghề công chứng tối đa là bao lâu?",
+    "a": "05 ngày",
+    "b": "10 ngày",
+    "c": "15 ngày",
+    "d": "20 ngày",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 5 Điều 23 Thông tư 05/2025/TT-BTP, thời hạn kiểm tra không quá 10 ngày làm việc, có thể gia hạn nhưng tối đa thêm 10 ngày."
+  },
+  {
+    "question": "Công chứng viên mới được bổ nhiệm muốn làm Trưởng Văn phòng công chứng phải đáp ứng điều kiện hành nghề tối thiểu bao lâu?",
+    "a": "01 năm",
+    "b": "02 năm",
+    "c": "03 năm",
+    "d": "05 năm",
+    "answer": "b",
+    "explanation": "Căn cứ điểm c khoản 1 Điều 17 Thông tư 05/2025/TT-BTP, công chứng viên dự kiến làm Trưởng Văn phòng phải hành nghề từ 02 năm trở lên."
+  },
+  {
+    "question": "Giấy đăng ký hoạt động cấp lại của Văn phòng công chứng có đặc điểm gì về số giấy?",
+    "a": "Được cấp số mới hoàn toàn",
+    "b": "Giữ nguyên số đã cấp trước đó",
+    "c": "Đổi số theo năm cấp lại",
+    "d": "Do Sở Tư pháp tự quy định",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 17 Thông tư 05/2025/TT-BTP quy định giấy đăng ký hoạt động cấp lại vẫn giữ nguyên số đã cấp trước đó."
+  },
+  {
     "question": "Theo Nghị định 121/2025/NĐ-CP, trong thời gian Nghị định còn hiệu lực, nếu quy định của Nghị định này khác với văn bản quy phạm pháp luật có liên quan thì thực hiện theo văn bản nào?",
     "a": "Theo văn bản chuyên ngành được ban hành trước",
     "b": "Theo Luật Ban hành văn bản quy phạm pháp luật",
