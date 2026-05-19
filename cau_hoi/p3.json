@@ -1981,6 +1981,474 @@
     "d": "Sở Tư pháp và Phòng Tư pháp",
     "answer": "b",
     "explanation": "Khoản 4 Điều 2 Nghị định 121/2025/NĐ-CP quy định phải phân định rõ thẩm quyền chung của Ủy ban nhân dân và thẩm quyền riêng của Chủ tịch Ủy ban nhân dân."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, người đã liên hệ với ít nhất bao nhiêu tổ chức hành nghề công chứng đủ điều kiện nhận tập sự mà bị từ chối thì có thể đề nghị Sở Tư pháp bố trí nơi tập sự?",
+    "a": "01 tổ chức",
+    "b": "02 tổ chức",
+    "c": "03 tổ chức",
+    "d": "05 tổ chức",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 3 Thông tư 06/2025/TT-BTP quy định người đã liên hệ với ít nhất 03 tổ chức hành nghề công chứng đủ điều kiện nhận tập sự trên địa bàn tỉnh, thành phố trực thuộc Trung ương mà bị từ chối thì có thể đề nghị Sở Tư pháp bố trí nơi tập sự."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, thời hạn Sở Tư pháp ra quyết định đăng ký tập sự kể từ ngày nhận đủ hồ sơ hợp lệ là bao lâu?",
+    "a": "03 ngày làm việc",
+    "b": "05 ngày làm việc",
+    "c": "07 ngày làm việc",
+    "d": "10 ngày làm việc",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 3 Thông tư 06/2025/TT-BTP quy định trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp ra quyết định đăng ký tập sự hành nghề công chứng."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, trường hợp Sở Tư pháp phải chỉ định tổ chức hành nghề công chứng nhận tập sự thì thời hạn xem xét, chỉ định là bao lâu?",
+    "a": "05 ngày làm việc",
+    "b": "07 ngày làm việc",
+    "c": "10 ngày làm việc",
+    "d": "15 ngày làm việc",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 3 Thông tư 06/2025/TT-BTP quy định trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp xem xét, chỉ định tổ chức hành nghề công chứng nhận tập sự."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, người nào sau đây không được đăng ký tập sự hành nghề công chứng?",
+    "a": "Người làm việc theo hợp đồng lao động tại tổ chức hành nghề công chứng nơi mình tập sự",
+    "b": "Người là viên chức của Phòng công chứng",
+    "c": "Người đang là luật sư",
+    "d": "Người ký hợp đồng lao động làm việc ngoài giờ hành chính",
+    "answer": "c",
+    "explanation": "Điểm đ khoản 5 Điều 3 Thông tư 06/2025/TT-BTP quy định người đang là luật sư không được đăng ký tập sự hành nghề công chứng."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, người đang là viên chức nào vẫn được đăng ký tập sự hành nghề công chứng?",
+    "a": "Viên chức trường đại học",
+    "b": "Viên chức của Phòng công chứng",
+    "c": "Viên chức bệnh viện công",
+    "d": "Viên chức cơ quan thi hành án",
+    "answer": "b",
+    "explanation": "Điểm d khoản 5 Điều 3 Thông tư 06/2025/TT-BTP quy định người đang là viên chức không được đăng ký tập sự, trừ viên chức của Phòng công chứng."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, người tập sự được tạm ngừng tập sự tối đa bao nhiêu lần?",
+    "a": "01 lần",
+    "b": "02 lần",
+    "c": "03 lần",
+    "d": "Không hạn chế",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 8 Thông tư 06/2025/TT-BTP quy định người tập sự được tạm ngừng tập sự tối đa là 02 lần."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, mỗi lần tạm ngừng tập sự không quá bao lâu?",
+    "a": "03 tháng",
+    "b": "04 tháng",
+    "c": "06 tháng",
+    "d": "12 tháng",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 8 Thông tư 06/2025/TT-BTP quy định mỗi lần tạm ngừng tập sự không quá 06 tháng."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, thời gian tạm ngừng tập sự được tính như thế nào?",
+    "a": "Được tính một nửa vào thời gian tập sự",
+    "b": "Được tính toàn bộ vào thời gian tập sự",
+    "c": "Không được tính vào thời gian tập sự",
+    "d": "Do Sở Tư pháp quyết định",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 8 Thông tư 06/2025/TT-BTP quy định thời gian tạm ngừng tập sự không được tính vào thời gian tập sự."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, trường hợp nào sau đây làm chấm dứt tập sự?",
+    "a": "Người tập sự thay đổi nơi cư trú",
+    "b": "Người tập sự bị truy cứu trách nhiệm hình sự",
+    "c": "Người tập sự xin đổi công chứng viên hướng dẫn",
+    "d": "Người tập sự thay đổi nơi tập sự",
+    "answer": "b",
+    "explanation": "Điểm e khoản 1 Điều 9 Thông tư 06/2025/TT-BTP quy định việc tập sự chấm dứt khi người tập sự bị truy cứu trách nhiệm hình sự hoặc bị kết tội bằng bản án đã có hiệu lực pháp luật của Tòa án."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, người tập sự không thực hiện việc tập sự trong bao lâu kể từ ngày quyết định đăng ký tập sự có hiệu lực thì bị chấm dứt tập sự?",
+    "a": "10 ngày",
+    "b": "15 ngày",
+    "c": "20 ngày",
+    "d": "30 ngày",
+    "answer": "d",
+    "explanation": "Điểm h khoản 1 Điều 9 Thông tư 06/2025/TT-BTP quy định người không thực hiện việc tập sự trong thời hạn 30 ngày kể từ ngày quyết định đăng ký tập sự có hiệu lực thì bị chấm dứt tập sự."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, người tập sự phải nộp hồ sơ đề nghị công nhận hoàn thành tập sự trong thời hạn bao lâu kể từ ngày kết thúc thời gian tập sự?",
+    "a": "10 ngày",
+    "b": "15 ngày",
+    "c": "20 ngày",
+    "d": "30 ngày",
+    "answer": "d",
+    "explanation": "Khoản 1 Điều 11 Thông tư 06/2025/TT-BTP quy định trong thời hạn 30 ngày kể từ ngày kết thúc thời gian tập sự, người tập sự phải nộp hồ sơ đề nghị công nhận hoàn thành tập sự."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, trường hợp nào sau đây thuộc diện phải thay đổi công chứng viên hướng dẫn tập sự?",
+    "a": "Công chứng viên nghỉ phép năm",
+    "b": "Công chứng viên bị tạm đình chỉ hành nghề công chứng",
+    "c": "Công chứng viên đi công tác",
+    "d": "Công chứng viên thay đổi nơi cư trú",
+    "answer": "b",
+    "explanation": "Điểm c khoản 1 Điều 6 Thông tư 06/2025/TT-BTP quy định phải thay đổi công chứng viên hướng dẫn tập sự khi công chứng viên bị tạm đình chỉ hành nghề công chứng, bị miễn nhiệm công chứng viên hoặc không còn hành nghề tại tổ chức hành nghề công chứng nhận tập sự."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, trong thời hạn bao lâu kể từ ngày công chứng viên hướng dẫn tập sự thuộc trường hợp phải thay đổi, tổ chức hành nghề công chứng phải phân công công chứng viên khác?",
+    "a": "03 ngày làm việc",
+    "b": "05 ngày làm việc",
+    "c": "07 ngày làm việc",
+    "d": "10 ngày làm việc",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 6 Thông tư 06/2025/TT-BTP quy định trong thời hạn 05 ngày làm việc kể từ ngày công chứng viên hướng dẫn tập sự thuộc trường hợp phải thay đổi, tổ chức hành nghề công chứng phải phân công công chứng viên khác."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, người tập sự được thay đổi nơi tập sự khi nào?",
+    "a": "Tổ chức hành nghề công chứng nhận tập sự tạm ngừng hoạt động",
+    "b": "Người tập sự muốn đổi nơi tập sự không cần lý do",
+    "c": "Công chứng viên hướng dẫn đi nghỉ phép",
+    "d": "Người tập sự không thích môi trường làm việc",
+    "answer": "a",
+    "explanation": "Điểm a khoản 1 Điều 7 Thông tư 06/2025/TT-BTP quy định người tập sự được thay đổi nơi tập sự khi tổ chức hành nghề công chứng nhận tập sự tạm ngừng hoạt động hoặc chấm dứt hoạt động hoặc chuyển đổi, giải thể."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, người tập sự thay đổi nơi tập sự trong cùng tỉnh phải nộp Giấy đề nghị thay đổi nơi tập sự trong thời hạn bao lâu kể từ ngày được nhận tập sự tại nơi mới?",
+    "a": "01 ngày làm việc",
+    "b": "03 ngày làm việc",
+    "c": "05 ngày làm việc",
+    "d": "07 ngày làm việc",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 7 Thông tư 06/2025/TT-BTP quy định trong thời hạn 03 ngày làm việc kể từ ngày được nhận tập sự tại tổ chức hành nghề công chứng mới, người tập sự phải nộp Giấy đề nghị thay đổi nơi tập sự."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, khi thay đổi nơi tập sự sang tỉnh khác, Sở Tư pháp nơi đã đăng ký tập sự phải ra quyết định gì?",
+    "a": "Quyết định tạm ngừng tập sự",
+    "b": "Quyết định công nhận hoàn thành tập sự",
+    "c": "Quyết định xóa đăng ký tập sự",
+    "d": "Quyết định đình chỉ tập sự",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 7 Thông tư 06/2025/TT-BTP quy định Sở Tư pháp ra quyết định xóa đăng ký tập sự hành nghề công chứng khi người tập sự thay đổi nơi tập sự sang tỉnh, thành phố trực thuộc Trung ương khác."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, trường hợp nào sau đây là căn cứ tạm ngừng tập sự?",
+    "a": "Người tập sự đi du lịch",
+    "b": "Người tập sự nghỉ chế độ thai sản",
+    "c": "Người tập sự thay đổi số điện thoại",
+    "d": "Người tập sự chưa quen công việc",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 8 Thông tư 06/2025/TT-BTP quy định người tập sự được tạm ngừng tập sự khi nghỉ chế độ thai sản hoặc thuộc các trường hợp sức khỏe, điều trị, cách ly hoặc lý do chính đáng khác."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, người tập sự phải thông báo việc tạm ngừng tập sự chậm nhất bao lâu trước ngày tạm ngừng?",
+    "a": "01 ngày làm việc",
+    "b": "03 ngày làm việc",
+    "c": "05 ngày làm việc",
+    "d": "07 ngày làm việc",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 8 Thông tư 06/2025/TT-BTP quy định người tập sự phải thông báo bằng văn bản chậm nhất 05 ngày làm việc trước ngày tạm ngừng tập sự."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, người tập sự thuộc trường hợp nào sau đây được xem xét đăng ký tập sự lại?",
+    "a": "Đã bị kết án về tội phạm do cố ý",
+    "b": "Đã không đạt yêu cầu trong 03 kỳ kiểm tra nhưng chưa tập sự lại",
+    "c": "Đã chấp hành xong biện pháp xử lý hành chính",
+    "d": "Đang bị truy cứu trách nhiệm hình sự",
+    "answer": "c",
+    "explanation": "Điểm c khoản 3 Điều 9 Thông tư 06/2025/TT-BTP quy định người đã chấp hành xong biện pháp xử lý hành chính được xem xét đăng ký tập sự lại."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, thời gian tập sự trước khi chấm dứt tập sự được tính như thế nào?",
+    "a": "Được tính một nửa",
+    "b": "Được tính toàn bộ",
+    "c": "Không được tính vào thời gian tập sự",
+    "d": "Do Sở Tư pháp quyết định",
+    "answer": "c",
+    "explanation": "Khoản 6 Điều 9 Thông tư 06/2025/TT-BTP quy định thời gian tập sự trước khi chấm dứt tập sự không được tính vào thời gian tập sự."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, Sổ nhật ký tập sự phải được ai xác nhận hàng tuần?",
+    "a": "Sở Tư pháp",
+    "b": "Tổ chức xã hội - nghề nghiệp của công chứng viên",
+    "c": "Công chứng viên hướng dẫn tập sự",
+    "d": "Bộ Tư pháp",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 10 Thông tư 06/2025/TT-BTP quy định Sổ nhật ký tập sự có xác nhận hàng tuần của công chứng viên hướng dẫn tập sự."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, một trong các điều kiện để được công nhận hoàn thành tập sự là gì?",
+    "a": "Đã tham dự kỳ kiểm tra kết quả tập sự",
+    "b": "Có Báo cáo kết quả tập sự và Sổ nhật ký tập sự đáp ứng yêu cầu",
+    "c": "Được Bộ Tư pháp đề nghị bổ nhiệm công chứng viên",
+    "d": "Có ít nhất 05 năm công tác pháp luật",
+    "answer": "b",
+    "explanation": "Điểm c khoản 2 Điều 11 Thông tư 06/2025/TT-BTP quy định người tập sự phải có Báo cáo kết quả tập sự và Sổ nhật ký tập sự đáp ứng yêu cầu theo quy định."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, người tập sự có nghĩa vụ nào sau đây?",
+    "a": "Tự mình ký lời chứng công chứng",
+    "b": "Giữ bí mật thông tin về nội dung công chứng",
+    "c": "Được tự ý nhận hồ sơ công chứng",
+    "d": "Tự quyết định nội dung công chứng",
+    "answer": "b",
+    "explanation": "Điểm đ khoản 2 Điều 12 Thông tư 06/2025/TT-BTP quy định người tập sự có nghĩa vụ giữ bí mật thông tin về nội dung công chứng và các thông tin có liên quan."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, tổ chức hành nghề công chứng phải gửi báo cáo định kỳ hằng năm đến Sở Tư pháp trong thời hạn bao lâu kể từ khi kết thúc năm?",
+    "a": "05 ngày",
+    "b": "10 ngày",
+    "c": "15 ngày",
+    "d": "30 ngày",
+    "answer": "c",
+    "explanation": "Khoản 5 Điều 14 Thông tư 06/2025/TT-BTP quy định trong thời hạn 15 ngày kể từ thời điểm kết thúc năm, tổ chức hành nghề công chứng phải gửi báo cáo đến Sở Tư pháp."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, người nào sau đây được đăng ký tham dự kiểm tra kết quả tập sự?",
+    "a": "Người chưa được công nhận hoàn thành tập sự",
+    "b": "Người đã không đạt yêu cầu trong 03 kỳ kiểm tra mà chưa tập sự lại",
+    "c": "Người đã được công nhận hoàn thành tập sự",
+    "d": "Người đang bị hủy kết quả công nhận hoàn thành tập sự",
+    "answer": "c",
+    "explanation": "Điểm a khoản 1 Điều 16 Thông tư 06/2025/TT-BTP quy định người đã được công nhận hoàn thành tập sự được đăng ký tham dự kiểm tra."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, trường hợp nào sau đây không được đăng ký tham dự kiểm tra kết quả tập sự?",
+    "a": "Đã được công nhận hoàn thành tập sự",
+    "b": "Đã tham dự nhưng không đạt yêu cầu trong 01 kỳ kiểm tra trước",
+    "c": "Đã tham dự nhưng không đạt yêu cầu trong 03 kỳ kiểm tra trước mà chưa tập sự lại",
+    "d": "Người được công nhận hoàn thành tập sự đúng hạn",
+    "answer": "c",
+    "explanation": "Điểm c khoản 2 Điều 16 Thông tư 06/2025/TT-BTP quy định người đã tham dự nhưng không đạt yêu cầu trong 03 kỳ kiểm tra trước mà chưa tập sự lại thì không được đăng ký tham dự kiểm tra."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, nội dung tập sự nào sau đây được quy định đối với tổ chức đã cung cấp dịch vụ công chứng điện tử?",
+    "a": "Kỹ năng hòa giải tranh chấp đất đai",
+    "b": "Kỹ năng công chứng điện tử trực tiếp, công chứng điện tử trực tuyến",
+    "c": "Kỹ năng xét xử vụ án dân sự",
+    "d": "Kỹ năng điều tra xác minh hình sự",
+    "answer": "b",
+    "explanation": "Điểm đ khoản 1 Điều 5 Thông tư 06/2025/TT-BTP quy định nội dung tập sự bao gồm kỹ năng thực hiện quy trình công chứng điện tử trực tiếp, công chứng điện tử trực tuyến."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, trường hợp nào sau đây được tính thời gian tập sự liên tục?",
+    "a": "Thời gian tạm ngừng tập sự",
+    "b": "Thời gian trước khi chấm dứt tập sự",
+    "c": "Tổng thời gian tập sự tại các tổ chức hành nghề công chứng khi thay đổi nơi tập sự",
+    "d": "Thời gian chưa được Sở Tư pháp đăng ký tập sự",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 4 Thông tư 06/2025/TT-BTP quy định khi thay đổi nơi tập sự thì thời gian tập sự được tính bằng tổng thời gian tập sự tại các tổ chức hành nghề công chứng."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, trường hợp nào sau đây thuộc quyền của người tập sự?",
+    "a": "Được tự mình ký văn bản công chứng",
+    "b": "Được thay đổi nơi tập sự theo quy định",
+    "c": "Được quyết định việc công chứng",
+    "d": "Được cấp thẻ công chứng viên tạm thời",
+    "answer": "b",
+    "explanation": "Điểm c khoản 1 Điều 12 Thông tư 06/2025/TT-BTP quy định người tập sự có quyền được thay đổi nơi tập sự theo quy định."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, công chứng viên hướng dẫn tập sự có trách nhiệm nào sau đây?",
+    "a": "Tự quyết định công nhận hoàn thành tập sự",
+    "b": "Cấp giấy chứng nhận đạt kết quả kiểm tra",
+    "c": "Theo dõi, kiểm tra việc thực hiện các công việc của người tập sự",
+    "d": "Ra quyết định đăng ký tập sự",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 13 Thông tư 06/2025/TT-BTP quy định công chứng viên hướng dẫn tập sự có trách nhiệm theo dõi, kiểm tra việc thực hiện các công việc của người tập sự do mình phân công."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, Sổ theo dõi tập sự của tổ chức hành nghề công chứng phải được thực hiện như thế nào?",
+    "a": "Lập chung cho nhiều năm",
+    "b": "Lập theo từng quý",
+    "c": "Lập theo từng năm",
+    "d": "Không bắt buộc lập",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 14 Thông tư 06/2025/TT-BTP quy định tổ chức hành nghề công chứng phải lập Sổ theo dõi tập sự theo từng năm."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, nội dung kiểm tra kết quả tập sự bao gồm nội dung nào sau đây?",
+    "a": "Pháp luật tố tụng hình sự",
+    "b": "Pháp luật công chứng, chứng thực và Quy tắc đạo đức hành nghề công chứng",
+    "c": "Pháp luật thuế doanh nghiệp",
+    "d": "Pháp luật ngân hàng",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 15 Thông tư 06/2025/TT-BTP quy định nội dung kiểm tra bao gồm pháp luật công chứng, chứng thực, Quy tắc đạo đức hành nghề công chứng và quy định pháp luật có liên quan."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, hồ sơ đăng ký tham dự kiểm tra phải có giấy tờ nào sau đây?",
+    "a": "Lý lịch tư pháp",
+    "b": "Giấy xác nhận cư trú",
+    "c": "Giấy tờ chứng minh đã nộp phí thẩm định tiêu chuẩn, điều kiện hành nghề công chứng",
+    "d": "Giấy khám sức khỏe",
+    "answer": "c",
+    "explanation": "Điểm c khoản 3 Điều 16 Thông tư 06/2025/TT-BTP quy định hồ sơ đăng ký tham dự kiểm tra phải có giấy tờ chứng minh đã nộp phí thẩm định tiêu chuẩn, điều kiện hành nghề công chứng."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, Hội đồng kiểm tra kết quả tập sự gồm bao nhiêu người?",
+    "a": "Từ 03 đến 05 người",
+    "b": "Từ 05 đến 07 người",
+    "c": "Từ 07 đến 09 người",
+    "d": "Từ 09 đến 11 người",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 19 Thông tư 06/2025/TT-BTP quy định Hội đồng kiểm tra gồm từ 07 đến 09 người."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, ai là Chủ tịch Hội đồng kiểm tra kết quả tập sự?",
+    "a": "Cục trưởng Cục Bổ trợ tư pháp",
+    "b": "Lãnh đạo Bộ Tư pháp",
+    "c": "Giám đốc Sở Tư pháp",
+    "d": "Giám đốc Học viện Tư pháp",
+    "answer": "b",
+    "explanation": "Điểm a khoản 2 Điều 19 Thông tư 06/2025/TT-BTP quy định lãnh đạo Bộ Tư pháp là Chủ tịch Hội đồng kiểm tra."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, Ban Giám sát kỳ kiểm tra do ai quyết định thành lập?",
+    "a": "Chủ tịch Hội đồng kiểm tra",
+    "b": "Cục trưởng Cục Bổ trợ tư pháp",
+    "c": "Bộ trưởng Bộ Tư pháp",
+    "d": "Giám đốc Sở Tư pháp",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 22 Thông tư 06/2025/TT-BTP quy định Ban Giám sát kỳ kiểm tra do Bộ trưởng Bộ Tư pháp quyết định thành lập."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, người tham gia Ban Đề thi phải đáp ứng điều kiện nào sau đây?",
+    "a": "Là thí sinh đã đạt kiểm tra",
+    "b": "Là người có trình độ chuyên môn, kinh nghiệm, uy tín trong lĩnh vực công chứng",
+    "c": "Là người tập sự hành nghề công chứng",
+    "d": "Là công chức của mọi cơ quan",
+    "answer": "b",
+    "explanation": "Điểm a khoản 4 Điều 24 Thông tư 06/2025/TT-BTP quy định người tham gia Ban Đề thi phải là người có trình độ chuyên môn, kinh nghiệm, uy tín trong lĩnh vực công chứng."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, đề kiểm tra trắc nghiệm phải bảo đảm số lượng câu hỏi được xây dựng gấp tối thiểu bao nhiêu lần so với số câu hỏi theo quy định?",
+    "a": "02 lần",
+    "b": "03 lần",
+    "c": "04 lần",
+    "d": "05 lần",
+    "answer": "b",
+    "explanation": "Điểm c khoản 3 Điều 29 Thông tư 06/2025/TT-BTP quy định số lượng câu hỏi được xây dựng gấp tối thiểu 03 lần so với số câu hỏi theo quy định."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, trong thời hạn bao lâu kể từ ngày điểm kiểm tra được đăng tải, thí sinh có quyền làm đơn phúc tra?",
+    "a": "05 ngày làm việc",
+    "b": "07 ngày làm việc",
+    "c": "10 ngày làm việc",
+    "d": "15 ngày làm việc",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 32 Thông tư 06/2025/TT-BTP quy định trong thời hạn 10 ngày làm việc kể từ ngày điểm kiểm tra được đăng tải, thí sinh có quyền làm đơn phúc tra."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, bài kiểm tra nào không được phúc tra?",
+    "a": "Bài kiểm tra viết",
+    "b": "Bài kiểm tra tình huống",
+    "c": "Bài kiểm tra thực hành",
+    "d": "Bài kiểm tra trắc nghiệm trên máy vi tính",
+    "answer": "d",
+    "explanation": "Khoản 1 Điều 32 Thông tư 06/2025/TT-BTP quy định không phúc tra đối với bài kiểm tra trắc nghiệm trên máy vi tính."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, Thông tư này có hiệu lực thi hành từ ngày nào?",
+    "a": "01/01/2025",
+    "b": "01/05/2025",
+    "c": "01/07/2025",
+    "d": "15/07/2025",
+    "answer": "c",
+    "explanation": "Điều 37 Thông tư 06/2025/TT-BTP quy định Thông tư có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2025."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, người tập sự muốn thay đổi nơi tập sự hành nghề công chứng thì phải thực hiện thủ tục nào?",
+    "a": "Chỉ cần thông báo cho tổ chức hành nghề công chứng mới",
+    "b": "Đăng ký thay đổi nơi tập sự tại Sở Tư pháp",
+    "c": "Xin phép Bộ Tư pháp",
+    "d": "Chỉ cần công chứng viên hướng dẫn đồng ý",
+    "answer": "b",
+    "explanation": "Theo Điều 7 Thông tư 06/2025/TT-BTP quy định về thay đổi nơi tập sự, người tập sự khi thay đổi nơi tập sự phải thực hiện thủ tục đăng ký thay đổi với Sở Tư pháp."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, thời gian tạm ngừng tập sự có được tính vào thời gian tập sự hành nghề công chứng không?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Được tính một nửa",
+    "d": "Do Sở Tư pháp quyết định",
+    "answer": "b",
+    "explanation": "Theo Điều 8 Thông tư 06/2025/TT-BTP quy định về tạm ngừng tập sự, thời gian tạm ngừng tập sự không được tính vào thời gian tập sự hành nghề công chứng."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, người tập sự có nghĩa vụ nào sau đây?",
+    "a": "Ký văn bản công chứng độc lập",
+    "b": "Thu phí công chứng",
+    "c": "Tuân thủ nội quy, quy chế của tổ chức hành nghề công chứng nhận tập sự",
+    "d": "Công chứng hợp đồng theo phân công",
+    "answer": "c",
+    "explanation": "Theo điểm b khoản 2 Điều 12 Thông tư 06/2025/TT-BTP, người tập sự có nghĩa vụ tuân thủ nội quy, quy chế của tổ chức hành nghề công chứng nhận tập sự."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, công chứng viên hướng dẫn tập sự có trách nhiệm nào sau đây?",
+    "a": "Bổ nhiệm công chứng viên",
+    "b": "Tự quyết định công nhận hoàn thành tập sự",
+    "c": "Hướng dẫn, theo dõi và chịu trách nhiệm về việc hướng dẫn tập sự",
+    "d": "Cấp giấy chứng nhận kết quả kiểm tra tập sự",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 13 Thông tư 06/2025/TT-BTP, công chứng viên hướng dẫn có trách nhiệm hướng dẫn, theo dõi và chịu trách nhiệm về việc hướng dẫn tập sự."
+  },
+  {
+    "question": "Theo Thông tư 06/2025/TT-BTP, tổ chức hành nghề công chứng nhận tập sự có trách nhiệm nào sau đây?",
+    "a": "Cấp thẻ công chứng viên",
+    "b": "Quản lý, theo dõi người tập sự",
+    "c": "Tổ chức kỳ kiểm tra kết quả tập sự",
+    "d": "Bổ nhiệm công chứng viên hướng dẫn",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 14 Thông tư 06/2025/TT-BTP, tổ chức hành nghề công chứng nhận tập sự có trách nhiệm quản lý, theo dõi quá trình tập sự của người tập sự."
+  },
+{
+    "question": "Theo Thông tư 06/2025/TT-BTP, nội dung tập sự bao gồm kỹ năng nào sau đây?",
+    "a": "Kỹ năng xét xử tranh chấp dân sự",
+    "b": "Kỹ năng kiểm sát hoạt động tư pháp",
+    "c": "Kỹ năng soạn thảo lời chứng",
+    "d": "Kỹ năng điều tra hình sự",
+    "answer": "c",
+    "explanation": "Theo điểm e khoản 1 Điều 5 Thông tư 06/2025/TT-BTP, nội dung tập sự bao gồm kỹ năng soạn thảo lời chứng."
+  },
+  {
+    "question": "Anh A đang tập sự hành nghề công chứng tại Văn phòng công chứng X. Trong thời gian tập sự, anh A tự ý nghỉ tập sự kéo dài mà không có lý do chính đáng. Theo quy định của Thông tư 06/2025/TT-BTP, hậu quả pháp lý nào có thể xảy ra?",
+    "a": "Được tự động gia hạn thời gian tập sự",
+    "b": "Bị chấm dứt tập sự",
+    "c": "Được chuyển sang tổ chức hành nghề công chứng khác",
+    "d": "Chỉ bị nhắc nhở bằng văn bản",
+    "answer": "b",
+    "explanation": "Theo Điều 9 Thông tư 06/2025/TT-BTP quy định về chấm dứt tập sự hành nghề công chứng, người tập sự có thể bị chấm dứt tập sự trong trường hợp tự ý ngừng tập sự mà không có lý do chính đáng."
+  },
+  {
+    "question": "Chị B đang tập sự thì công chứng viên hướng dẫn không còn đủ điều kiện hướng dẫn tập sự theo quy định. Theo Thông tư 06/2025/TT-BTP, chị B phải thực hiện thủ tục nào?",
+    "a": "Tiếp tục tập sự bình thường",
+    "b": "Đăng ký kiểm tra kết quả tập sự ngay",
+    "c": "Thay đổi nơi tập sự",
+    "d": "Chấm dứt tập sự",
+    "answer": "c",
+    "explanation": "Theo Điều 7 Thông tư 06/2025/TT-BTP quy định về thay đổi nơi tập sự, trường hợp tổ chức hành nghề công chứng không còn công chứng viên đủ điều kiện hướng dẫn tập sự thì người tập sự phải thay đổi nơi tập sự."
+  },
+  {
+    "question": "Ông C tham dự kiểm tra kết quả tập sự hành nghề công chứng và sử dụng tài liệu trái phép trong thời gian làm bài. Theo quy định, hậu quả nào sau đây có thể được áp dụng?",
+    "a": "Được tiếp tục làm bài nhưng bị trừ điểm",
+    "b": "Bị hủy kết quả kiểm tra",
+    "c": "Được miễn kiểm tra lần sau",
+    "d": "Chỉ bị cảnh cáo",
+    "answer": "b",
+    "explanation": "Theo quy định về kiểm tra kết quả tập sự hành nghề công chứng tại Thông tư 06/2025/TT-BTP, người vi phạm quy chế kiểm tra như sử dụng tài liệu trái phép có thể bị hủy kết quả kiểm tra tập sự."
+  },
+  {
+    "question": "Anh D đã liên hệ với 03 tổ chức hành nghề công chứng đủ điều kiện nhận tập sự nhưng đều bị từ chối tiếp nhận. Theo Thông tư 06/2025/TT-BTP, anh D có quyền gì?",
+    "a": "Đề nghị Sở Tư pháp bố trí nơi tập sự",
+    "b": "Đề nghị Bộ Tư pháp miễn tập sự",
+    "c": "Được công nhận hoàn thành tập sự",
+    "d": "Được đăng ký hành nghề công chứng ngay",
+    "answer": "a",
+    "explanation": "Theo quy định của Thông tư 06/2025/TT-BTP về đăng ký tập sự hành nghề công chứng, người đã liên hệ với ít nhất 03 tổ chức hành nghề công chứng đủ điều kiện nhận tập sự mà bị từ chối thì có thể đề nghị Sở Tư pháp bố trí nơi tập sự."
+  },
+  {
+    "question": "Trong quá trình tập sự, chị H sao chụp hồ sơ công chứng để cung cấp cho người khác nhằm phục vụ mục đích cá nhân. Theo quy định, chị H đã vi phạm nghĩa vụ nào của người tập sự?",
+    "a": "Nghĩa vụ báo cáo kết quả tập sự",
+    "b": "Nghĩa vụ đóng phí tập sự",
+    "c": "Nghĩa vụ bảo mật thông tin",
+    "d": "Nghĩa vụ tham gia lớp bồi dưỡng",
+    "answer": "c",
+    "explanation": "Theo Điều 12 Thông tư 06/2025/TT-BTP quy định về quyền và nghĩa vụ của người tập sự, người tập sự có nghĩa vụ giữ bí mật thông tin về nội dung tập sự và hồ sơ công chứng mà mình biết được trong quá trình tập sự."
   }
 ]
 
