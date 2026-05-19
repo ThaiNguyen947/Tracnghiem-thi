@@ -3394,7 +3394,467 @@
     "d": "Nghĩa vụ tham gia lớp bồi dưỡng",
     "answer": "c",
     "explanation": "Theo Điều 12 Thông tư 06/2025/TT-BTP quy định về quyền và nghĩa vụ của người tập sự, người tập sự có nghĩa vụ giữ bí mật thông tin về nội dung tập sự và hồ sơ công chứng mà mình biết được trong quá trình tập sự."
-  }
+  },
+  
+  {
+    "question": "Theo quy định về mẫu lời chứng công chứng viên, lời chứng là bộ phận như thế nào của văn bản công chứng?",
+    "a": "Bộ phận có thể thay thế bằng phụ lục nếu các bên đồng ý",
+    "b": "Bộ phận bắt buộc phải có trong văn bản công chứng",
+    "c": "Bộ phận tùy chọn, công chứng viên có thể ghi hoặc không",
+    "d": "Bộ phận chỉ áp dụng đối với hợp đồng mua bán tài sản",
+    "answer": "b",
+    "explanation": "Căn cứ Mẫu lời chứng ban hành kèm Thông tư 05/2025/TT-BTP (các mẫu TP-CC-01 đến TP-CC-32), lời chứng được xác định là bộ phận bắt buộc của văn bản công chứng, thể hiện việc công chứng viên chứng nhận tính hợp pháp và tính xác thực của giao dịch."
+  },
+  {
+    "question": "Khi lập lời chứng, công chứng viên phải thực hiện theo nguyên tắc nào sau đây?",
+    "a": "Tự do soạn thảo theo kinh nghiệm cá nhân",
+    "b": "Theo mẫu lời chứng ban hành và phù hợp từng loại việc công chứng",
+    "c": "Theo yêu cầu riêng của người yêu cầu công chứng",
+    "d": "Có thể bỏ qua mẫu nếu nội dung đơn giản",
+    "answer": "b",
+    "explanation": "Căn cứ quy định tại các mẫu lời chứng ban hành kèm Thông tư 05/2025/TT-BTP, công chứng viên phải sử dụng mẫu lời chứng tương ứng từng loại việc công chứng (hợp đồng, giao dịch, di chúc, phân chia di sản…) và chỉ được điều chỉnh phù hợp nội dung cụ thể, không được tùy tiện thay đổi cấu trúc mẫu."
+  },
+  {
+    "question": "Nội dung nào sau đây không được phép thể hiện trong lời chứng của công chứng viên?",
+    "a": "Xác nhận thời điểm công chứng",
+    "b": "Xác nhận việc các bên đã ký trước mặt công chứng viên",
+    "c": "Nội dung nhằm hạn chế hoặc loại trừ trách nhiệm của công chứng viên",
+    "d": "Xác nhận năng lực hành vi dân sự của người tham gia giao dịch",
+    "answer": "c",
+    "explanation": "Căn cứ nội dung yêu cầu của Mẫu lời chứng tại Thông tư 05/2025/TT-BTP, lời chứng phải bảo đảm tính xác thực và hợp pháp của giao dịch, không được chứa nội dung nhằm hạn chế, loại trừ trách nhiệm pháp lý của công chứng viên hoặc nội dung trái pháp luật, đạo đức xã hội."
+  },
+  {
+    "question": "Theo mẫu lời chứng, trường hợp ghi ngày, tháng, năm công chứng viên ký và đóng dấu tại trụ sở tổ chức hành nghề công chứng được thể hiện như thế nào?",
+    "a": "Ghi tùy chọn bằng số hoặc bằng chữ",
+    "b": "Chỉ ghi bằng chữ để thống nhất",
+    "c": "Ghi cả bằng số và bằng chữ, phần chữ trong ngoặc đơn",
+    "d": "Chỉ ghi bằng số để thuận tiện lưu trữ",
+    "answer": "c",
+    "explanation": "Theo ghi chú (1), ngày, tháng, năm phải ghi cả bằng số và bằng chữ, trong đó phần chữ để trong dấu ngoặc đơn, áp dụng cả công chứng tại trụ sở và ngoài trụ sở."
+  },
+  {
+    "question": "Theo mẫu lời chứng, nếu người yêu cầu công chứng ký/điểm chỉ tại các thời điểm khác nhau thì cách ghi đúng là gì?",
+    "a": "Ghi theo thời điểm người ký cuối cùng",
+    "b": "Không cần ghi thời điểm cụ thể",
+    "c": "Ghi chung một thời điểm để thống nhất hồ sơ",
+    "d": "Ghi theo từng thời điểm từng người ký/điểm chỉ",
+    "answer": "d",
+    "explanation": "Theo ghi chú (1.1), trường hợp ký/điểm chỉ tại các thời điểm khác nhau phải ghi rõ thời điểm của từng người."
+  },
+  {
+    "question": "Theo mẫu lời chứng, đối với chủ thể là tổ chức thì nội dung nào sau đây phải thể hiện đầy đủ?",
+    "a": "Chỉ cần tên tổ chức và người đại diện",
+    "b": "Tên tổ chức, mã số doanh nghiệp (nếu có), địa chỉ trụ sở, người đại diện và văn bản ủy quyền (nếu có)",
+    "c": "Chỉ cần mã số doanh nghiệp",
+    "d": "Chỉ cần địa chỉ trụ sở",
+    "answer": "b",
+    "explanation": "Theo ghi chú (6), trường hợp tổ chức phải ghi đầy đủ thông tin pháp lý và người đại diện theo quy định."
+  },
+  {
+    "question": "Theo mẫu lời chứng, cách ghi tên giao dịch ở các lần xuất hiện tiếp theo sau lần đầu là gì?",
+    "a": "Phải viết đầy đủ lại toàn bộ tên giao dịch",
+    "b": "Có thể viết tắt tùy ý người soạn",
+    "c": "Có thể ghi ngắn gọn như 'hợp đồng' hoặc 'văn bản'",
+    "d": "Không cần ghi lại tên giao dịch",
+    "answer": "c",
+    "explanation": "Theo ghi chú (5), sau lần đầu ghi đầy đủ tên giao dịch, các lần tiếp theo được phép ghi ngắn gọn."
+  },
+  {
+    "question": "Theo mẫu lời chứng, trường hợp người yêu cầu công chứng vừa ký vừa điểm chỉ vào từng trang thì cách ghi nào đúng?",
+    "a": "ký vào từng trang",
+    "b": "dấu điểm chỉ",
+    "c": "ký và điểm chỉ vào từng trang",
+    "d": "chỉ ghi chữ ký và không cần ghi điểm chỉ",
+    "answer": "c",
+    "explanation": "Theo ghi chú (7), trường hợp vừa ký vừa điểm chỉ vào từng trang phải ghi rõ 'ký và điểm chỉ vào từng trang'."
+  },
+  {
+    "question": "Theo mẫu lời chứng, trường hợp người yêu cầu công chứng đề nghị công chứng viên đọc giao dịch thì ghi thế nào?",
+    "a": "Công chứng viên đã giải thích nội dung cho các bên",
+    "b": "Các bên đã tự đọc và hiểu toàn bộ nội dung",
+    "c": "Công chứng viên không cần ghi nhận việc đọc giao dịch",
+    "d": "Các bên/Bên/Ông (Bà)... đã nghe công chứng viên đọc theo đề nghị của mình",
+    "answer": "d",
+    "explanation": "Theo ghi chú (8), phải ghi rõ việc các bên đã nghe công chứng viên đọc theo đề nghị của mình."
+  },
+  {
+    "question": "Theo mẫu lời chứng, số lượng bản gốc văn bản công chứng phải được thể hiện như thế nào?",
+    "a": "Chỉ ghi bằng chữ",
+    "b": "Không cần ghi số lượng bản gốc",
+    "c": "Ghi bằng số và bằng chữ, phần chữ trong ngoặc đơn",
+    "d": "Chỉ ghi bằng số",
+    "answer": "c",
+    "explanation": "Theo ghi chú (9), số lượng bản gốc phải ghi cả bằng số và bằng chữ, phần chữ để trong ngoặc đơn."
+  },
+  {
+    "question": "Theo mẫu lời chứng, trong công chứng điện tử nhiều điểm cầu, nội dung nào là bắt buộc phải thể hiện?",
+    "a": "Chỉ ghi công chứng viên nơi khởi tạo giao dịch",
+    "b": "Chỉ ghi địa điểm trụ sở chính tổ chức hành nghề công chứng",
+    "c": "Không cần ghi công chứng viên điểm cầu còn lại",
+    "d": "Ghi rõ công chứng viên khởi tạo, công chứng viên điểm cầu còn lại và địa điểm từng điểm cầu",
+    "answer": "d",
+    "explanation": "Theo ghi chú (16)–(19), phải ghi đầy đủ thông tin công chứng viên và địa điểm tại từng điểm cầu trong giao dịch điện tử."
+  },
+  {
+    "question": "Theo mẫu lời chứng, trường hợp công chứng viên tự ý thay đổi trật tự câu chữ trong mẫu lời chứng để 'phù hợp thực tế hồ sơ' thì nhận định nào đúng?",
+    "a": "Được phép nếu nội dung không thay đổi bản chất giao dịch",
+    "b": "Chỉ là chỉnh sửa kỹ thuật, không ảnh hưởng giá trị pháp lý",
+    "c": "Được phép nếu các bên đồng ý",
+    "d": "Không đúng quy định vì mẫu lời chứng phải được sử dụng thống nhất, không tự ý thay đổi cấu trúc",
+    "answer": "d",
+    "explanation": "Theo nguyên tắc của mẫu lời chứng ban hành kèm Thông tư 05/2025/TT-BTP, công chứng viên phải sử dụng đúng mẫu, không được tự ý thay đổi cấu trúc câu chữ, dù không làm thay đổi nội dung giao dịch."
+  },
+  {
+    "question": "Theo mẫu lời chứng, hệ thống công chứng điện tử tự động tạo nội dung lời chứng và công chứng viên chỉ ký số mà không kiểm tra lại nội dung. Nhận định nào đúng?",
+    "a": "Hợp lệ vì hệ thống đã chuẩn hóa nội dung",
+    "b": "Hợp lệ vì chữ ký số của công chứng viên là đủ",
+    "c": "Không đúng quy trình vì công chứng viên vẫn phải kiểm tra và chịu trách nhiệm nội dung lời chứng",
+    "d": "Chỉ là lỗi kỹ thuật của phần mềm, không ảnh hưởng pháp lý",
+    "answer": "c",
+    "explanation": "Theo quy định về mẫu lời chứng điện tử, công chứng viên phải kiểm tra nội dung trước khi ký và chịu trách nhiệm về lời chứng, không được chỉ ký vào nội dung tự động sinh mà không kiểm tra."
+  },
+  {
+    "question": "Theo mẫu lời chứng, trong công chứng nhiều điểm cầu, công chứng viên tại điểm cầu còn lại không ký vào lời chứng nhưng vẫn ghi nhận sự chứng kiến giao dịch. Nhận định nào đúng?",
+    "a": "Vẫn hợp lệ vì chỉ cần công chứng viên khởi tạo ký là đủ",
+    "b": "Hợp lệ nếu hệ thống ghi nhận log điện tử",
+    "c": "Không đúng mẫu vì phải thể hiện đầy đủ vai trò công chứng viên tại từng điểm cầu theo quy định",
+    "d": "Chỉ là thiếu thông tin phụ, không ảnh hưởng pháp lý",
+    "answer": "c",
+    "explanation": "Theo ghi chú về công chứng điện tử nhiều điểm cầu (16)–(19), phải thể hiện đầy đủ vai trò công chứng viên tại từng điểm cầu, không thể chỉ ghi nhận mà không thể hiện đúng vai trò trong lời chứng."
+  },
+  {
+    "question": "Theo mẫu lời chứng, công chứng viên bổ sung câu: 'Công chứng viên không chịu trách nhiệm về tính hợp pháp của nội dung các bên thỏa thuận'. Nhận định nào đúng?",
+    "a": "Được phép vì là nội dung phân định trách nhiệm",
+    "b": "Bắt buộc phải có để giới hạn trách nhiệm",
+    "c": "Hợp lệ nếu không ảnh hưởng nội dung chính",
+    "d": "Không được phép vì lời chứng không được chứa nội dung hạn chế trách nhiệm công chứng viên",
+    "answer": "d",
+    "explanation": "Theo nguyên tắc mẫu lời chứng, không được đưa nội dung nhằm hạn chế hoặc loại trừ trách nhiệm của công chứng viên trong lời chứng."
+  },
+  {
+    "question": "Theo mẫu lời chứng, nếu thiếu nội dung xác nhận người yêu cầu công chứng đã nghe công chứng viên đọc lại toàn bộ giao dịch theo đề nghị thì nhận định nào đúng?",
+    "a": "Vẫn hợp lệ nếu các bên đã ký đầy đủ",
+    "b": "Hợp lệ nếu có người làm chứng ký",
+    "c": "Không đúng mẫu lời chứng vì thiếu nội dung bắt buộc về trình tự công chứng",
+    "d": "Chỉ là thiếu thông tin phụ, không ảnh hưởng giá trị pháp lý",
+    "answer": "c",
+    "explanation": "Theo ghi chú (8), nếu công chứng viên đọc giao dịch theo đề nghị thì phải ghi nhận việc các bên đã nghe công chứng viên đọc. Thiếu nội dung bắt buộc là không đúng mẫu."
+  },
+  {
+    "question": "Theo mẫu lời chứng, trường hợp ghi số lượng bản gốc chỉ bằng số mà không ghi bằng chữ thì nhận định nào đúng?",
+    "a": "Vẫn hợp lệ vì số là đủ xác định",
+    "b": "Hợp lệ nếu hồ sơ không tranh chấp",
+    "c": "Không đúng mẫu vì phải ghi cả số và chữ theo quy định",
+    "d": "Chỉ là lỗi hình thức, không ảnh hưởng pháp lý",
+    "answer": "c",
+    "explanation": "Theo ghi chú (9), số lượng bản gốc phải ghi cả bằng số và bằng chữ, trong đó phần chữ để trong ngoặc đơn."
+  },
+  {
+    "question": "Theo mẫu lời chứng, công chứng viên ký lời chứng trước khi hoàn tất việc kiểm tra hồ sơ, sau đó mới đối chiếu giấy tờ. Nhận định nào đúng nhất?",
+    "a": "Hợp lệ nếu hồ sơ sau đó đầy đủ",
+    "b": "Hợp lệ vì ký là hành vi cuối cùng",
+    "c": "Chỉ là sai trình tự nhưng không ảnh hưởng pháp lý",
+    "d": "Không đúng quy trình lập lời chứng vì công chứng viên phải kiểm tra xong hồ sơ trước khi ký",
+    "answer": "d",
+    "explanation": "Theo nguyên tắc lập lời chứng, công chứng viên chỉ ký sau khi đã hoàn tất kiểm tra hồ sơ, giấy tờ và nội dung giao dịch."
+  },
+  {
+    "question": "Theo mẫu lời chứng, trường hợp có người làm chứng thì nội dung nào sau đây KHÔNG thuộc nội dung bắt buộc phải bổ sung?",
+    "a": "Họ tên, giấy tờ tùy thân của người làm chứng",
+    "b": "Lý do phải có người làm chứng",
+    "c": "Đánh giá của công chứng viên về tính hợp pháp của giao dịch",
+    "d": "Cam đoan chịu trách nhiệm trước pháp luật của người làm chứng",
+    "answer": "c",
+    "explanation": "Theo điểm a của phần (*), nội dung người làm chứng chỉ bao gồm thông tin nhân thân, lý do, điều kiện, cam đoan và việc ký. Không có nội dung đánh giá của công chứng viên về tính hợp pháp."
+  },
+  {
+    "question": "Theo mẫu lời chứng, trường hợp có người phiên dịch thì nhận định nào sau đây đúng?",
+    "a": "Người phiên dịch chỉ cần dịch phần nội dung chính",
+    "b": "Người phiên dịch không cần ký vào từng trang giao dịch",
+    "c": "Người phiên dịch phải cam đoan chịu trách nhiệm trước pháp luật về việc phiên dịch",
+    "d": "Người phiên dịch có thể không cần đủ điều kiện theo pháp luật nếu các bên đồng ý",
+    "answer": "c",
+    "explanation": "Theo điểm b của phần (*), người phiên dịch phải dịch đầy đủ, chính xác, cam đoan chịu trách nhiệm và ký vào từng trang giao dịch."
+  },
+  {
+    "question": "Theo mẫu lời chứng, khi công chứng ngoài trụ sở tổ chức hành nghề công chứng, nội dung nào sau đây bắt buộc phải ghi?",
+    "a": "Giá trị tài sản giao dịch",
+    "b": "Họ tên, lý do, địa điểm và thời gian từng người ký",
+    "c": "Ý kiến đánh giá của công chứng viên về giao dịch",
+    "d": "Tóm tắt nội dung hợp đồng",
+    "answer": "b",
+    "explanation": "Theo điểm c của phần (*), công chứng ngoài trụ sở phải bổ sung họ tên, lý do, địa điểm và thời gian từng người tham gia ký giao dịch."
+  },
+  {
+    "question": "Theo mẫu lời chứng, trường hợp người yêu cầu công chứng đăng ký chữ ký mẫu thì nội dung nào sau đây là đúng?",
+    "a": "Công chứng viên không cần đối chiếu chữ ký",
+    "b": "Không cần thể hiện việc ký trước vào văn bản giao dịch",
+    "c": "Công chứng viên đối chiếu chữ ký trên văn bản với chữ ký mẫu đã đăng ký",
+    "d": "Chỉ cần lưu chữ ký mẫu trong hồ sơ, không cần ghi vào lời chứng",
+    "answer": "c",
+    "explanation": "Theo điểm d của phần (*), công chứng viên phải đối chiếu chữ ký và xác nhận phù hợp với chữ ký mẫu đã đăng ký tại tổ chức hành nghề công chứng."
+  },
+  {
+    "question": "Theo mẫu lời chứng, việc bổ sung nội dung khác ngoài mẫu chỉ được thực hiện trong trường hợp nào sau đây?",
+    "a": "Khi người yêu cầu công chứng đề nghị thêm bất kỳ nội dung nào",
+    "b": "Khi công chứng viên thấy cần thiết nhưng không được trái pháp luật hoặc loại trừ trách nhiệm",
+    "c": "Khi tổ chức hành nghề công chứng yêu cầu giảm trách nhiệm",
+    "d": "Không được bổ sung trong mọi trường hợp",
+    "answer": "b",
+    "explanation": "Theo điểm đ của phần (*), công chứng viên có thể bổ sung nội dung khác phù hợp nhưng không được đưa nội dung trốn tránh, loại trừ trách nhiệm hoặc trái pháp luật, đạo đức xã hội."
+  },
+  {
+    "question": "Theo mẫu lời chứng, trường hợp người yêu cầu công chứng không mời được người làm chứng thì người làm chứng do ai chỉ định?",
+    "a": "Cơ quan thuế",
+    "b": "Tòa án",
+    "c": "Công chứng viên",
+    "d": "Ủy ban nhân dân cấp xã",
+    "answer": "c",
+    "explanation": "Theo điểm a của phần (*), người làm chứng có thể do công chứng viên chỉ định nếu người yêu cầu công chứng không mời được."
+  },
+  {
+    "question": "Theo mẫu lời chứng, nếu nội dung về người làm chứng không thể hiện lý do phải có người làm chứng thì hậu quả đúng nhất là gì?",
+    "a": "Vẫn hợp lệ nếu có chữ ký người làm chứng",
+    "b": "Không ảnh hưởng vì lý do chỉ mang tính mô tả",
+    "c": "Không đúng mẫu lời chứng theo quy định",
+    "d": "Chỉ là thiếu thông tin hành chính",
+    "answer": "c",
+    "explanation": "Theo phần (*) điểm a, lý do phải có người làm chứng là nội dung bắt buộc. Thiếu một thành phần bắt buộc làm lời chứng không đúng mẫu."
+  },
+  {
+    "question": "Theo mẫu lời chứng, trường hợp người phiên dịch không ký vào từng trang giao dịch nhưng vẫn cam đoan đã dịch chính xác thì nhận định nào đúng?",
+    "a": "Vẫn hợp lệ nếu có cam đoan",
+    "b": "Vẫn hợp lệ vì không ảnh hưởng nội dung giao dịch",
+    "c": "Không đúng mẫu vì thiếu điều kiện bắt buộc là ký vào từng trang",
+    "d": "Chỉ là lỗi kỹ thuật không ảnh hưởng pháp lý",
+    "answer": "c",
+    "explanation": "Theo điểm b của phần (*), người phiên dịch bắt buộc phải ký vào từng trang giao dịch. Thiếu điều kiện này là không đúng mẫu."
+  },
+  {
+    "question": "Theo mẫu lời chứng, trong trường hợp công chứng ngoài trụ sở, nếu không ghi thời gian từng người ký mà chỉ ghi chung thời gian thì nhận định nào đúng?",
+    "a": "Vẫn hợp lệ vì thời gian đã được xác định",
+    "b": "Không ảnh hưởng vì các bên đã ký",
+    "c": "Không đúng mẫu vì phải ghi thời gian từng người ký",
+    "d": "Chỉ là sai cách trình bày",
+    "answer": "c",
+    "explanation": "Theo điểm c của phần (*), phải ghi thời gian từng người tham gia ký. Ghi chung là không đúng yêu cầu mẫu."
+  },
+  {
+    "question": "Theo mẫu lời chứng, nếu công chứng viên bổ sung nội dung nhằm giảm trách nhiệm của mình thì hậu quả pháp lý là gì?",
+    "a": "Được phép nếu không ảnh hưởng giao dịch",
+    "b": "Vẫn hợp lệ nếu các bên đồng ý",
+    "c": "Không phù hợp vì thuộc nhóm nội dung bị cấm trong lời chứng",
+    "d": "Chỉ là lỗi hành chính nội bộ",
+    "answer": "c",
+    "explanation": "Theo điểm đ của phần (*), không được đưa nội dung nhằm trốn tránh hoặc loại trừ trách nhiệm công chứng viên."
+  },
+  {
+    "question": "Theo mẫu lời chứng, nếu người làm chứng có ký vào giao dịch nhưng không cam đoan chịu trách nhiệm trước pháp luật thì nhận định nào đúng?",
+    "a": "Vẫn hợp lệ vì đã ký",
+    "b": "Vẫn hợp lệ nếu có đủ giấy tờ tùy thân",
+    "c": "Không đúng mẫu vì thiếu nội dung cam đoan bắt buộc",
+    "d": "Chỉ là thiếu lời cam kết bổ sung",
+    "answer": "c",
+    "explanation": "Theo điểm a của phần (*), người làm chứng phải cam đoan chịu trách nhiệm trước pháp luật. Thiếu nội dung này là không đúng mẫu."
+  },
+  {
+    "question": "Theo mẫu lời chứng, trong công chứng điện tử nhiều điểm cầu, nếu không thể hiện rõ địa điểm từng điểm cầu thì nhận định nào đúng?",
+    "a": "Vẫn hợp lệ nếu có chữ ký số",
+    "b": "Không ảnh hưởng vì hệ thống đã ghi nhận",
+    "c": "Không đúng mẫu vì bắt buộc phải ghi địa điểm từng điểm",
+    "d": "Chỉ là thiếu thông tin phụ",
+    "answer": "c",
+    "explanation": "Theo phần hướng dẫn (16)–(19), phải ghi rõ địa điểm từng điểm cầu trong công chứng điện tử nhiều điểm."
+  },
+  {
+    "question": "Theo mẫu lời chứng, nếu người làm chứng không ký vào từng trang giao dịch mà chỉ ký trang cuối thì nhận định nào đúng?",
+    "a": "Vẫn hợp lệ nếu có sự chứng kiến",
+    "b": "Vẫn hợp lệ nếu công chứng viên xác nhận",
+    "c": "Không đúng mẫu vì phải ký vào từng trang",
+    "d": "Chỉ là sai hình thức ký",
+    "answer": "c",
+    "explanation": "Theo điểm a của phần (*), người làm chứng phải ký vào từng trang giao dịch, không chỉ ký trang cuối."
+  },
+  {
+    "question": "Theo mẫu lời chứng, đối với nhóm giao dịch gồm di chúc, văn bản sửa đổi, bổ sung, thay thế hoặc hủy bỏ di chúc thì áp dụng mẫu nào sau đây?",
+    "a": "Mẫu lời chứng số 27",
+    "b": "Mẫu lời chứng số 26",
+    "c": "Mẫu lời chứng số 28",
+    "d": "Không có mẫu cố định",
+    "answer": "c",
+    "explanation": "Theo ghi chú (5), mẫu 28 áp dụng cho di chúc và các văn bản sửa đổi, bổ sung, thay thế, hủy bỏ di chúc."
+  },
+  {
+    "question": "Theo mẫu lời chứng, đối với nhóm giao dịch gồm hợp đồng chuyển nhượng quyền sử dụng đất, hợp đồng thế chấp tài sản, văn bản nhập tài sản riêng vào tài sản chung và văn bản thỏa thuận chế độ tài sản của vợ chồng thì áp dụng mẫu nào sau đây?",
+    "a": "Mẫu lời chứng số 28",
+    "b": "Mẫu lời chứng số 26",
+    "c": "Mẫu lời chứng số 27",
+    "d": "Tùy từng tổ chức hành nghề công chứng lựa chọn",
+    "answer": "b",
+    "explanation": "Theo ghi chú (5), mẫu 26 áp dụng cho các giao dịch như hợp đồng chuyển nhượng quyền sử dụng đất, thế chấp, thỏa thuận chế độ tài sản của vợ chồng và nhập tài sản riêng vào tài sản chung."
+  },
+  {
+    "question": "Theo mẫu lời chứng, việc ghi tên giao dịch trong lời chứng được thực hiện như thế nào?",
+    "a": "Phải lặp lại đầy đủ tên giao dịch trong toàn bộ lời chứng",
+    "b": "Chỉ ghi ngắn gọn ngay từ lần đầu tiên",
+    "c": "Lần đầu ghi đầy đủ, các lần sau có thể ghi ngắn gọn (ví dụ: hợp đồng, văn bản)",
+    "d": "Không cần ghi tên giao dịch trong lời chứng",
+    "answer": "c",
+    "explanation": "Theo ghi chú (5), tên giao dịch chỉ cần ghi đầy đủ lần đầu, các lần tiếp theo có thể ghi ngắn gọn."
+  },
+  {
+    "question": "Theo mẫu lời chứng, đối với chủ thể là cá nhân, trường hợp nào sau đây phải ghi bổ sung thông tin người đại diện hoặc người giám hộ?",
+    "a": "Khi cá nhân từ 18 tuổi trở lên",
+    "b": "Khi cá nhân có người đại diện xác lập giao dịch hoặc thông qua giám hộ",
+    "c": "Khi cá nhân tự ký giao dịch",
+    "d": "Chỉ khi có yêu cầu của các bên",
+    "answer": "b",
+    "explanation": "Theo ghi chú (6), trường hợp cá nhân xác lập giao dịch thông qua người đại diện hoặc giám hộ thì phải ghi thêm thông tin người đại diện, người giám hộ và người giám sát giám hộ (nếu có)."
+  },
+  {
+    "question": "Theo mẫu lời chứng, đối với trường hợp người yêu cầu công chứng ký/điểm chỉ vào từng trang thì cách ghi nào sau đây đúng?",
+    "a": "Chỉ ghi 'điểm chỉ'",
+    "b": "Chỉ ghi 'ký'",
+    "c": "Ghi 'ký vào từng trang và điểm chỉ vào trang cuối của giao dịch' nếu có",
+    "d": "Phải ghi tùy ý theo thực tế từng tổ chức",
+    "answer": "c",
+    "explanation": "Theo ghi chú (7), phải ghi đúng hình thức ký/điểm chỉ vào từng trang hoặc trang cuối theo từng trường hợp cụ thể."
+  },
+  {
+    "question": "Theo mẫu lời chứng, số lượng bản gốc của văn bản công chứng được thể hiện như thế nào?",
+    "a": "Chỉ ghi bằng số",
+    "b": "Chỉ ghi bằng chữ",
+    "c": "Không bắt buộc phải ghi",
+    "d": "Ghi cả bằng số và bằng chữ, phần chữ trong ngoặc đơn",
+    "answer": "d",
+    "explanation": "Theo ghi chú (9), số lượng bản gốc phải ghi bằng số và bằng chữ, trong đó phần chữ để trong dấu ngoặc đơn."
+  },
+  {
+    "question": "Theo mẫu lời chứng, trong công chứng điện tử nhiều điểm cầu, nội dung nào sau đây bắt buộc phải thể hiện?",
+    "a": "Chỉ ghi công chứng viên nơi khởi tạo",
+    "b": "Chỉ ghi địa điểm trụ sở chính",
+    "c": "Ghi rõ công chứng viên khởi tạo, công chứng viên tại điểm cầu còn lại và địa điểm từng điểm cầu",
+    "d": "Không cần ghi công chứng viên tại điểm cầu",
+    "answer": "c",
+    "explanation": "Theo ghi chú (16)–(19), công chứng điện tử nhiều điểm cầu phải thể hiện đầy đủ công chứng viên và địa điểm từng điểm cầu."
+  },
+{
+    "question": "Theo mẫu lời chứng, trường hợp văn bản có tên là 'Văn bản sửa đổi di chúc' nhưng nội dung chỉ điều chỉnh tài sản chung vợ chồng thì áp dụng mẫu nào?",
+    "a": "Mẫu lời chứng số 28",
+    "b": "Mẫu lời chứng số 26",
+    "c": "Mẫu lời chứng số 27",
+    "d": "Tùy nội dung thực tế từng điều khoản",
+    "answer": "b",
+    "explanation": "Căn cứ bản chất nội dung (tài sản vợ chồng), không phụ thuộc tên gọi, nên thuộc nhóm mẫu 26."
+  },
+{
+  "question": "Theo mẫu lời chứng, trường hợp công chứng chỉ có một bên tham gia giao dịch thì áp dụng mẫu nào sau đây?",
+  "a": "Có mẫu lời chứng riêng cho trường hợp một bên",
+  "b": "Tùy công chứng viên lựa chọn mẫu phù hợp",
+  "c": "Vẫn áp dụng mẫu theo loại giao dịch (26 hoặc 28), không có mẫu riêng",
+  "d": "Không cần lập lời chứng",
+  "answer": "c",
+  "explanation": "Mẫu lời chứng được xác định theo loại giao dịch, không phụ thuộc số lượng bên tham gia. Không có mẫu riêng cho trường hợp một bên."
+},
+{
+  "question": "Theo mẫu lời chứng, văn bản cam kết tài sản riêng thì áp dụng mẫu nào sau đây?",
+  "a": "Mẫu lời chứng số 28",
+  "b": "Mẫu lời chứng số 27",
+  "c": "Mẫu lời chứng số 26",
+  "d": "Không thuộc phạm vi lời chứng",
+  "answer": "c",
+  "explanation": "Văn bản cam kết tài sản riêng là giao dịch về tài sản, không thuộc nhóm di chúc nên áp dụng mẫu 26 theo ghi chú (5)."
+},
+  {
+    "question": "Theo TT 05/2025/TT-BTP, mẫu nào áp dụng chung đối với giao dịch công chứng?",
+    "a": "Mẫu TP-CC-27",
+    "b": "Mẫu TP-CC-28",
+    "c": "Mẫu TP-CC-26",
+    "d": "Mẫu TP-CC-29",
+    "answer": "c",
+    "explanation": "Theo danh mục, mẫu TP-CC-26 là mẫu lời chứng áp dụng chung đối với giao dịch công chứng."
+  },
+  {
+    "question": "Theo TT 05/2025/TT-BTP, mẫu TP-CC-27 được áp dụng trong trường hợp nào sau đây?",
+    "a": "Giao dịch công chứng điện tử trực tiếp",
+    "b": "Hợp đồng ủy quyền khi các bên không thể cùng đến một tổ chức hành nghề công chứng",
+    "c": "Di chúc và văn bản sửa đổi di chúc",
+    "d": "Văn bản phân chia di sản",
+    "answer": "b",
+    "explanation": "Mẫu TP-CC-27 áp dụng cho hợp đồng ủy quyền trong trường hợp bên ủy quyền và bên được ủy quyền không thể cùng đến một tổ chức hành nghề công chứng."
+  },
+  {
+    "question": "Theo TT 05/2025/TT-BTP, mẫu TP-CC-28 được sử dụng cho loại giao dịch nào?",
+    "a": "Di chúc và văn bản sửa đổi, bổ sung, thay thế, hủy bỏ di chúc",
+    "b": "Hợp đồng ủy quyền",
+    "c": "Giao dịch công chứng điện tử trực tiếp",
+    "d": "Văn bản từ chối nhận di sản",
+    "answer": "a",
+    "explanation": "Mẫu TP-CC-28 áp dụng cho di chúc và các văn bản sửa đổi, bổ sung, thay thế, hủy bỏ di chúc."
+  },
+  {
+    "question": "Theo TT 05/2025/TT-BTP, mẫu TP-CC-29 được sử dụng cho trường hợp nào?",
+    "a": "Văn bản từ chối nhận di sản",
+    "b": "Văn bản phân chia di sản",
+    "c": "Hợp đồng ủy quyền",
+    "d": "Giao dịch công chứng điện tử trực tuyến",
+    "answer": "b",
+    "explanation": "Mẫu TP-CC-29 áp dụng cho văn bản phân chia di sản."
+  },
+  {
+    "question": "Theo TT 05/2025/TT-BTP, mẫu TP-CC-30 được áp dụng cho trường hợp nào?",
+    "a": "Văn bản từ chối nhận di sản",
+    "b": "Di chúc",
+    "c": "Hợp đồng ủy quyền",
+    "d": "Giao dịch điện tử trực tiếp",
+    "answer": "a",
+    "explanation": "Mẫu TP-CC-30 áp dụng cho văn bản từ chối nhận di sản."
+  },
+  {
+    "question": "Theo TT 05/2025/TT-BTP, mẫu TP-CC-31 được áp dụng trong trường hợp nào?",
+    "a": "Giao dịch công chứng điện tử trực tuyến",
+    "b": "Giao dịch công chứng điện tử trực tiếp",
+    "c": "Văn bản phân chia di sản",
+    "d": "Hợp đồng thế chấp",
+    "answer": "b",
+    "explanation": "Mẫu TP-CC-31 áp dụng cho giao dịch công chứng điện tử trực tiếp."
+  },
+  {
+    "question": "Theo TT 05/2025/TT-BTP, mẫu TP-CC-32 được sử dụng cho trường hợp nào?",
+    "a": "Giao dịch công chứng điện tử trực tuyến",
+    "b": "Giao dịch công chứng điện tử trực tiếp",
+    "c": "Hợp đồng ủy quyền",
+    "d": "Di chúc",
+    "answer": "a",
+    "explanation": "Mẫu TP-CC-32 áp dụng cho giao dịch công chứng điện tử trực tuyến."
+  },
+  {
+    "question": "Theo TT 05/2025/TT-BTP, mẫu TP-CC-33 là gì?",
+    "a": "Sổ công chứng giao dịch điện tử",
+    "b": "Sổ yêu cầu công chứng",
+    "c": "Sổ công chứng giao dịch",
+    "d": "Sổ theo dõi lao động",
+    "answer": "b",
+    "explanation": "Mẫu TP-CC-33 là sổ yêu cầu công chứng."
+  },
+  {
+    "question": "Theo TT 05/2025/TT-BTP, mẫu TP-CC-34 là gì?",
+    "a": "Sổ công chứng giao dịch điện tử",
+    "b": "Sổ công chứng giao dịch",
+    "c": "Sổ theo dõi lao động",
+    "d": "Sổ yêu cầu công chứng",
+    "answer": "b",
+    "explanation": "Mẫu TP-CC-34 là sổ công chứng giao dịch."
+  },
+  {
+    "question": "Theo TT 05/2025/TT-BTP, mẫu TP-CC-35 được sử dụng cho nội dung nào?",
+    "a": "Sổ công chứng giao dịch",
+    "b": "Sổ yêu cầu công chứng",
+    "c": "Sổ công chứng giao dịch điện tử",
+    "d": "Sổ theo dõi lao động",
+    "answer": "c",
+    "explanation": "Mẫu TP-CC-35 là sổ công chứng giao dịch điện tử."
+  },
 ]
 
 
