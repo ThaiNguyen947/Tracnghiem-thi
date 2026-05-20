@@ -1,5 +1,311 @@
 [
   {
+    "question": "Theo quy định mới của Nghị định 18/2026/NĐ-CP, xu hướng cải cách thủ tục chứng thực là gì?",
+    "a": "Tăng giấy tờ phải nộp",
+    "b": "Giữ nguyên thủ tục cũ",
+    "c": "Cắt giảm thủ tục, tăng số hóa và khai thác dữ liệu",
+    "d": "Tăng yêu cầu công chứng bắt buộc",
+    "answer": "c",
+    "explanation": "Nghị định 18/2026/NĐ-CP định hướng cắt giảm thủ tục hành chính, tăng sử dụng dữ liệu điện tử và số hóa quy trình chứng thực."
+  },
+  {
+    "question": "Theo Nghị định 18/2026/NĐ-CP, khi tiếp nhận hồ sơ thực hiện thủ tục hành chính, cơ quan tiếp nhận không được thực hiện hành vi nào sau đây?",
+    "a": "Kiểm tra tính hợp lệ của hồ sơ",
+    "b": "Yêu cầu bổ sung giấy tờ trái quy định pháp luật",
+    "c": "Ghi phiếu tiếp nhận hồ sơ",
+    "d": "Hướng dẫn người dân hoàn thiện hồ sơ",
+    "answer": "b",
+    "explanation": "Theo Điều 8 Nghị định 18/2026/NĐ-CP, cơ quan tiếp nhận không được đặt thêm thủ tục hoặc yêu cầu nộp thêm giấy tờ trái quy định."
+  },
+{
+    "question": "Theo Thông tư 226/2016/TT-BTC, mức thu tối đa phí chứng thực bản sao từ bản chính là bao nhiêu?",
+    "a": "100.000 đồng/bản",
+    "b": "150.000 đồng/bản",
+    "c": "200.000 đồng/bản",
+    "d": "250.000 đồng/bản",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 4 Thông tư 226/2016/TT-BTC: mức thu tối đa phí chứng thực bản sao từ bản chính không quá 200.000 đồng/bản."
+  },
+  {
+    "question": "Theo Nghị định 18/2026/NĐ-CP, nguyên tắc xử lý hồ sơ khi tiếp nhận theo cơ chế một cửa là gì?",
+    "a": "Ưu tiên yêu cầu người dân bổ sung đầy đủ giấy tờ bản giấy",
+    "b": "Tự ý kéo dài thời gian giải quyết nếu hồ sơ phức tạp",
+    "c": "Không gây phiền hà và không đặt thêm thủ tục ngoài quy định",
+    "d": "Chỉ tiếp nhận hồ sơ khi có đầy đủ bản sao chứng thực",
+    "answer": "c",
+    "explanation": "Điều 8 quy định rõ nguyên tắc không gây phiền hà và không được tự đặt thêm thủ tục ngoài quy định pháp luật."
+  },
+{
+    "question": "Theo Thông tư 226/2016/TT-BTC, tổ chức thu phí được trích lại bao nhiêu % tiền phí để chi hoạt động (nếu thuộc cơ chế khoán chi)?",
+    "a": "30%",
+    "b": "40%",
+    "c": "50%",
+    "d": "60%",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 7 Thông tư 226/2016/TT-BTC: trường hợp được khoán chi phí thì được trích lại 50% số tiền phí thu được."
+  },
+  {
+    "question": "Theo Nghị định 18/2026/NĐ-CP, cơ quan tiếp nhận hồ sơ có trách nhiệm gì khi người dân nộp hồ sơ?",
+    "a": "Tự ý yêu cầu xác minh lại toàn bộ giấy tờ",
+    "b": "Kiểm tra hồ sơ theo quy định và tiếp nhận nếu hợp lệ",
+    "c": "Chuyển hồ sơ sang cơ quan khác mà không cần kiểm tra",
+    "d": "Từ chối nếu thiếu bất kỳ bản sao nào",
+    "answer": "b",
+    "explanation": "Điều 8 quy định cơ quan tiếp nhận có trách nhiệm kiểm tra hồ sơ và tiếp nhận nếu hợp lệ, không được gây phiền hà."
+  },
+  {
+    "question": "Theo tinh thần Điều 8 Nghị định 18/2026/NĐ-CP, xu hướng cải cách thủ tục hành chính là gì?",
+    "a": "Tăng giấy tờ chứng minh",
+    "b": "Giữ nguyên thủ tục hành chính truyền thống",
+    "c": "Cắt giảm thủ tục và không yêu cầu lại giấy tờ đã có trong hệ thống dữ liệu",
+    "d": "Tăng thủ tục kiểm tra chéo giữa các cơ quan",
+    "answer": "c",
+    "explanation": "Điều 8 thể hiện xu hướng cải cách là cắt giảm thủ tục hành chính, không yêu cầu lại giấy tờ đã có trong cơ sở dữ liệu."
+  },
+  {
+    "question": "Theo Nghị định 18/2026/NĐ-CP, cơ quan tiếp nhận hồ sơ được phép làm gì sau đây?",
+    "a": "Tự đặt thêm điều kiện tiếp nhận hồ sơ",
+    "b": "Yêu cầu nộp thêm giấy tờ nếu thấy cần thiết",
+    "c": "Kiểm tra, tiếp nhận và hướng dẫn hoàn thiện hồ sơ theo quy định",
+    "d": "Từ chối tiếp nhận nếu hồ sơ chưa đủ theo ý kiến cán bộ",
+    "answer": "c",
+    "explanation": "Điều 8 cho phép cơ quan tiếp nhận kiểm tra và hướng dẫn hoàn thiện hồ sơ đúng quy định pháp luật, không được tự ý đặt thêm điều kiện."
+  },
+  {
+    "question": "Theo Nghị định 18/2026/NĐ-CP, cơ quan tiếp nhận hồ sơ phải tuân thủ nguyên tắc nào sau đây?",
+    "a": "Tăng yêu cầu chứng thực để đảm bảo tính pháp lý",
+    "b": "Không gây phiền hà, không yêu cầu thêm thủ tục trái quy định",
+    "c": "Chỉ tiếp nhận hồ sơ bản gốc",
+    "d": "Chỉ tiếp nhận hồ sơ qua dịch vụ bưu chính",
+    "answer": "b",
+    "explanation": "Điều 8 quy định nguyên tắc không gây phiền hà và không yêu cầu thêm thủ tục trái quy định pháp luật."
+  },
+  {
+    "question": "Theo Nghị định 120/2025/NĐ-CP, người muốn làm cộng tác viên dịch thuật phải đáp ứng điều kiện nào?",
+    "a": "Chỉ cần có kinh nghiệm dịch thuật thực tế",
+    "b": "Phải có chứng chỉ ngoại ngữ do Sở Tư pháp cấp",
+    "c": "Phải đủ tiêu chuẩn, điều kiện theo Điều 27 Nghị định 23/2015/NĐ-CP",
+    "d": "Chỉ cần được UBND cấp xã chấp thuận",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 15 NĐ 120/2025/NĐ-CP quy định người muốn làm cộng tác viên dịch thuật phải đáp ứng tiêu chuẩn, điều kiện theo Điều 27 NĐ 23/2015/NĐ-CP."
+  },
+  {
+    "question": "Theo Nghị định 120/2025/NĐ-CP, cơ quan nào có trách nhiệm lập danh sách cộng tác viên dịch thuật cấp xã?",
+    "a": "Sở Tư pháp",
+    "b": "Bộ Tư pháp",
+    "c": "UBND cấp xã",
+    "d": "Phòng Công chứng",
+    "answer": "c",
+    "explanation": "UBND cấp xã có trách nhiệm kiểm tra điều kiện và lập danh sách cộng tác viên dịch thuật theo khoản 1 Điều 15."
+  },
+  {
+    "question": "Theo Nghị định 120/2025/NĐ-CP, danh sách cộng tác viên dịch thuật do UBND cấp xã lập phải được cơ quan nào phê duyệt?",
+    "a": "Bộ Ngoại giao",
+    "b": "Sở Tư pháp",
+    "c": "UBND cấp tỉnh",
+    "d": "Phòng Tư pháp",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 15 quy định UBND cấp xã lập danh sách và báo cáo Sở Tư pháp phê duyệt."
+  },
+  {
+    "question": "Theo Nghị định 120/2025/NĐ-CP, việc niêm yết danh sách cộng tác viên dịch thuật thuộc thẩm quyền của ai?",
+    "a": "Chủ tịch UBND cấp xã",
+    "b": "Sở Tư pháp",
+    "c": "Phòng Tư pháp",
+    "d": "Bộ Tư pháp",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 15 quy định việc niêm yết danh sách và ký hợp đồng cộng tác viên thuộc thẩm quyền Chủ tịch UBND cấp xã."
+  },
+  {
+    "question": "Theo Nghị định 120/2025/NĐ-CP, UBND cấp xã khi lập danh sách cộng tác viên dịch thuật phải thực hiện bước nào sau đây?",
+    "a": "Tự quyết định phê duyệt danh sách",
+    "b": "Gửi danh sách lên Bộ Tư pháp",
+    "c": "Báo cáo Sở Tư pháp phê duyệt",
+    "d": "Chỉ cần niêm yết công khai là đủ",
+    "answer": "c",
+    "explanation": "UBND cấp xã lập danh sách nhưng phải báo cáo Sở Tư pháp phê duyệt theo quy định tại khoản 1 Điều 15."
+  },
+  {
+    "question": "Theo Thông tư số 01/2020/TT-BTP, việc lập danh sách cộng tác viên dịch thuật của Ủy ban nhân dân cấp xã được thực hiện như thế nào?",
+    "a": "Chủ tịch UBND cấp xã tự quyết định phê duyệt danh sách",
+    "b": "UBND cấp xã lập danh sách và gửi Sở Tư pháp phê duyệt",
+    "c": "Phòng Tư pháp trực tiếp phê duyệt không cần báo cáo",
+    "d": "Cộng tác viên tự đăng ký tại Sở Tư pháp",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 18 Thông tư 01/2020/TT-BTP: Phòng Tư pháp lập danh sách cộng tác viên dịch thuật và gửi Sở Tư pháp phê duyệt. Sở Tư pháp là cơ quan có thẩm quyền quyết định phê duyệt hoặc từ chối."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, thời hạn Sở Tư pháp xem xét, phê duyệt danh sách cộng tác viên dịch thuật là bao lâu?",
+    "a": "03 ngày làm việc",
+    "b": "05 ngày làm việc",
+    "c": "07 ngày làm việc",
+    "d": "10 ngày làm việc",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 3 Điều 18 Thông tư 01/2020/TT-BTP: Trong thời hạn 05 ngày làm việc, Sở Tư pháp phải kiểm tra danh sách và ra quyết định phê duyệt hoặc từ chối phê duyệt cộng tác viên dịch thuật."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, trường hợp nào cộng tác viên dịch thuật có thể bị xóa tên khỏi danh sách?",
+    "a": "Không ký hợp đồng trong 06 tháng",
+    "b": "Không làm việc tại Phòng Tư pháp từ 12 tháng trở lên không có lý do chính đáng",
+    "c": "Không đăng ký lại chữ ký mẫu mỗi năm",
+    "d": "Không tham gia bồi dưỡng nghiệp vụ hàng năm",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 4 Điều 18 Thông tư 01/2020/TT-BTP: Cộng tác viên dịch thuật không làm việc tại Phòng Tư pháp từ 12 tháng trở lên mà không có lý do chính đáng thì bị đề nghị xóa tên khỏi danh sách."
+  },
+  {
+    "question": "Theo Thông tư số 01/2020/TT-BTP, thẩm quyền đăng ký lại chữ ký mẫu của cộng tác viên dịch thuật thuộc về ai?",
+    "a": "Sở Tư pháp",
+    "b": "Phòng Công chứng",
+    "c": "Trưởng phòng Tư pháp",
+    "d": "Bộ Tư pháp",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 19 Thông tư 01/2020/TT-BTP: việc ký và đăng ký lại chữ ký mẫu của cộng tác viên dịch thuật được thực hiện tại Phòng Tư pháp và trước mặt Trưởng phòng Tư pháp."
+  },
+  {
+    "question": "Theo Thông tư số 01/2020/TT-BTP, trong trường hợp người dịch ngôn ngữ không phổ biến không có bằng cấp ngoại ngữ theo quy định thì phải thực hiện như thế nào?",
+    "a": "Không được thực hiện dịch thuật",
+    "b": "Phải có chứng chỉ hành nghề dịch thuật",
+    "c": "Phải nộp bản cam kết thông thạo ngôn ngữ và chịu trách nhiệm về bản dịch",
+    "d": "Phải xin phép Bộ Tư pháp",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 17 Thông tư 01/2020/TT-BTP: người dịch ngôn ngữ không phổ biến, không có bằng cấp theo quy định phải nộp bản cam kết thông thạo ngôn ngữ và chịu trách nhiệm về nội dung bản dịch."
+  },
+  {
+    "question": "Theo Thông tư số 08/2025/TT-BTP, việc chứng thực chữ ký người dịch không phải là cộng tác viên thuộc thẩm quyền của cơ quan nào?",
+    "a": "Sở Tư pháp",
+    "b": "Bộ Tư pháp",
+    "c": "Ủy ban nhân dân cấp xã",
+    "d": "Phòng Công chứng",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 8 Thông tư 08/2025/TT-BTP (dẫn chiếu khoản 2 Điều 17 Thông tư 01/2020/TT-BTP): việc chứng thực chữ ký người dịch không phải cộng tác viên thuộc thẩm quyền Ủy ban nhân dân cấp xã."
+  },
+  {
+    "question": "Theo Thông tư 226/2016/TT-BTC, mức phí chứng thực chữ ký được quy định như thế nào?",
+    "a": "5.000 đồng/trường hợp",
+    "b": "10.000 đồng/trường hợp",
+    "c": "20.000 đồng/chữ ký",
+    "d": "10.000 đồng/chữ ký và 5.000 đồng bản sao",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 4 Thông tư 226/2016/TT-BTC: phí chứng thực chữ ký là 10.000 đồng/trường hợp. Trường hợp được hiểu là một hoặc nhiều chữ ký trong cùng một giấy tờ, văn bản."
+  },
+  {
+    "question": "Theo Thông tư 226/2016/TT-BTC, mức thu phí chứng thực bản sao từ bản chính được tính như thế nào?",
+    "a": "2.000 đồng/bản không giới hạn số trang",
+    "b": "2.000 đồng/trang, từ trang thứ ba trở lên 1.000 đồng/trang, tối đa 200.000 đồng/bản",
+    "c": "1.000 đồng/trang, không giới hạn mức tối đa",
+    "d": "3.000 đồng/trang cố định",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 4 Thông tư 226/2016/TT-BTC: phí chứng thực bản sao từ bản chính là 2.000 đồng/trang; từ trang thứ ba trở lên 1.000 đồng/trang; mức tối đa không quá 200.000 đồng/bản."
+  },
+  {
+    "question": "Theo Thông tư 226/2016/TT-BTC, mức phí chứng thực việc sửa đổi, bổ sung, hủy bỏ hợp đồng, giao dịch là bao nhiêu?",
+    "a": "20.000 đồng/hợp đồng",
+    "b": "25.000 đồng/hợp đồng",
+    "c": "30.000 đồng/hợp đồng",
+    "d": "50.000 đồng/hợp đồng",
+    "answer": "c",
+    "explanation": "Căn cứ điểm b khoản 3 Điều 4 Thông tư 226/2016/TT-BTC: phí chứng thực việc sửa đổi, bổ sung, hủy bỏ hợp đồng, giao dịch là 30.000 đồng/hợp đồng."
+  },
+{
+    "question": "Theo Thông tư 226/2016/TT-BTC, trường hợp nào sau đây được miễn phí chứng thực?",
+    "a": "Chứng thực hợp đồng mua bán nhà ở",
+    "b": "Chứng thực chữ ký trong giấy ủy quyền",
+    "c": "Vay vốn phục vụ phát triển nông nghiệp, nông thôn theo Nghị định 55/2015/NĐ-CP",
+    "d": "Chứng thực bản sao hộ khẩu",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 5 Thông tư 226/2016/TT-BTC: chỉ miễn phí đối với trường hợp vay vốn phục vụ phát triển nông nghiệp, nông thôn theo Nghị định 55/2015/NĐ-CP."
+  },
+  {
+    "question": "Theo Thông tư 226/2016/TT-BTC, tổ chức thu phí phải nộp số tiền phí vào Kho bạc Nhà nước chậm nhất vào thời điểm nào?",
+    "a": "Ngày 01 hàng tháng",
+    "b": "Ngày 03 hàng tháng",
+    "c": "Ngày 05 hàng tháng",
+    "d": "Ngày 10 hàng tháng",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 6 Thông tư 226/2016/TT-BTC: chậm nhất là ngày 05 hàng tháng, tổ chức thu phí phải gửi số tiền phí đã thu của tháng trước vào tài khoản phí chờ nộp ngân sách tại Kho bạc Nhà nước."
+  },
+  {
+    "question": "Theo Thông tư 226/2016/TT-BTC, đối tượng nào được miễn phí chứng thực hợp đồng thế chấp tài sản?",
+    "a": "Tất cả cá nhân vay vốn ngân hàng",
+    "b": "Hộ gia đình vay vốn phục vụ tiêu dùng",
+    "c": "Cá nhân, hộ gia đình vay vốn phục vụ phát triển nông nghiệp, nông thôn theo Nghị định 55/2015/NĐ-CP",
+    "d": "Doanh nghiệp nhỏ và vừa vay vốn",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 5 Thông tư 226/2016/TT-BTC: miễn phí đối với cá nhân, hộ gia đình vay vốn tại tổ chức tín dụng phục vụ phát triển nông nghiệp, nông thôn theo Nghị định 55/2015/NĐ-CP."
+  },
+  {
+    "question": "Theo Thông tư 226/2016/TT-BTC, tổ chức thu phí chứng thực bao gồm những cơ quan nào?",
+    "a": "Sở Tư pháp và Bộ Tư pháp",
+    "b": "Ủy ban nhân dân cấp tỉnh và Bộ Tài chính",
+    "c": "Ủy ban nhân dân cấp xã và Phòng Tư pháp thuộc UBND cấp huyện",
+    "d": "Tòa án nhân dân và Viện kiểm sát",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 3 Thông tư 226/2016/TT-BTC: tổ chức thu phí gồm Ủy ban nhân dân cấp xã và Phòng Tư pháp thuộc Ủy ban nhân dân cấp huyện."
+  },
+  {
+    "question": "Công dân nộp 02 bản sao hộ khẩu để chứng thực. Cơ quan thực hiện thu phí 2.000 đồng cho toàn bộ hồ sơ và không tính theo từng trang. Nhận định này đúng hay sai theo Thông tư 226/2016/TT-BTC?",
+    "a": "Đúng, vì phí được tính theo hồ sơ",
+    "b": "Sai, vì phí bản sao tính theo từng trang của bản chính",
+    "c": "Đúng nếu là hộ khẩu",
+    "d": "Đúng nếu không quá 5 trang",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 4 Thông tư 226/2016/TT-BTC: phí chứng thực bản sao được tính theo trang (2.000 đồng/trang; từ trang 3 trở lên 1.000 đồng/trang), không tính theo hồ sơ."
+  },
+  {
+    "question": "Một UBND cấp xã thu phí chứng thực chữ ký của 3 người trong cùng một giấy ủy quyền và thu 30.000 đồng. Cách thu phí này đúng hay sai?",
+    "a": "Đúng vì tính theo số người ký",
+    "b": "Sai vì phải tính từng chữ ký",
+    "c": "Đúng vì một giấy tờ là một trường hợp",
+    "d": "Đúng nếu người ký cùng nội dung",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 4 Thông tư 226/2016/TT-BTC: 'trường hợp' là một hoặc nhiều chữ ký trong cùng một giấy tờ, văn bản nên chỉ tính 10.000 đồng/trường hợp."
+  },
+  {
+    "question": "Phòng Tư pháp thu phí chứng thực hợp đồng 50.000 đồng và không thu thêm khi có nhiều trang hợp đồng. Nhận định này đúng hay sai?",
+    "a": "Đúng vì tính theo hợp đồng",
+    "b": "Sai vì phải tính theo trang",
+    "c": "Đúng nếu hợp đồng dưới 5 trang",
+    "d": "Sai vì phí phải tính theo số người",
+    "answer": "a",
+    "explanation": "Căn cứ điểm a khoản 3 Điều 4 Thông tư 226/2016/TT-BTC: phí chứng thực hợp đồng, giao dịch là 50.000 đồng/hợp đồng, không tính theo số trang."
+  },
+  {
+    "question": "Một trường hợp sửa lỗi sai sót trong hợp đồng đã chứng thực được thu 40.000 đồng. Nhận định này đúng hay sai?",
+    "a": "Đúng vì được phép thu tùy địa phương",
+    "b": "Sai vì mức phí cố định 25.000 đồng/hợp đồng",
+    "c": "Đúng nếu có nhiều lỗi",
+    "d": "Đúng nếu hợp đồng trên 10 trang",
+    "answer": "b",
+    "explanation": "Căn cứ điểm c khoản 3 Điều 4 Thông tư 226/2016/TT-BTC: sửa lỗi sai sót trong hợp đồng, giao dịch đã chứng thực là 25.000 đồng/hợp đồng, không phụ thuộc số lỗi."
+  },
+  {
+    "question": "Tổ chức thu phí chứng thực nộp tiền phí thu được vào ngân sách nhà nước vào ngày 10 hàng tháng. Nhận định này đúng hay sai?",
+    "a": "Đúng vì có thể linh hoạt theo tháng",
+    "b": "Sai vì phải nộp chậm nhất ngày 05 hàng tháng",
+    "c": "Đúng nếu không có phát sinh phí",
+    "d": "Đúng nếu nộp qua Kho bạc điện tử",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 6 Thông tư 226/2016/TT-BTC: chậm nhất ngày 05 hàng tháng phải nộp số tiền phí thu được của tháng trước."
+  },
+  {
+    "question": "UBND cấp xã được xác định là tổ chức thu phí chứng thực theo Thông tư 226/2016/TT-BTC. Nhận định này đúng hay sai?",
+    "a": "Đúng",
+    "b": "Sai, chỉ Phòng Tư pháp thu phí",
+    "c": "Sai, chỉ Sở Tư pháp thu phí",
+    "d": "Sai, chỉ Bộ Tư pháp thu phí",
+    "answer": "a",
+    "explanation": "Căn cứ Điều 3 Thông tư 226/2016/TT-BTC: UBND cấp xã là một trong các tổ chức thu phí chứng thực."
+  },
+  {
+    "question": "Một hộ gia đình vay vốn ngân hàng để mua xe ô tô phục vụ kinh doanh được miễn phí chứng thực hợp đồng thế chấp tài sản. Nhận định này đúng hay sai?",
+    "a": "Đúng vì là hộ gia đình vay vốn",
+    "b": "Sai vì chỉ áp dụng cho phát triển nông nghiệp, nông thôn",
+    "c": "Đúng nếu vay dưới 500 triệu",
+    "d": "Đúng nếu ngân hàng đồng ý",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 5 Thông tư 226/2016/TT-BTC: chỉ miễn phí đối với vay vốn phục vụ phát triển nông nghiệp, nông thôn theo Nghị định 55/2015/NĐ-CP."
+  },
+  {
     "question": "Theo Thông tư 05/2025/TT-BTP, đơn vị có chức năng đào tạo nghề công chứng là cơ quan nào?",
     "a": "Cục Bổ trợ tư pháp",
     "b": "Học viện Tư pháp",
