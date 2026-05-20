@@ -4214,6 +4214,1042 @@
     "d": "Chuyển công chứng viên",
     "answer": "a",
     "explanation": "Căn cứ khoản 1 Điều 5 Nghị định 23/2015/NĐ-CP, Phòng Tư pháp có thẩm quyền chứng thực giao dịch liên quan đến tài sản là động sản như xe máy."
+  },
+  
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người dân nộp hồ sơ chứng thực lúc 16 giờ 30 phút. Cơ quan chứng thực trả kết quả vào ngày làm việc tiếp theo. Việc này đúng hay sai?",
+    "a": "Đúng vì phải trả trong 3 ngày làm việc",
+    "b": "Sai vì phải trả ngay trong ngày",
+    "c": "Đúng vì tiếp nhận sau 15 giờ thì giải quyết ngày hôm sau",
+    "d": "Sai vì phải trả trong 2 ngày làm việc",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 7 Nghị định 23/2015/NĐ-CP, trường hợp tiếp nhận yêu cầu sau 15 giờ thì được giải quyết vào ngày làm việc tiếp theo."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người dân yêu cầu chứng thực và bị từ chối nhưng cơ quan không nêu lý do. Người dân yêu cầu giải thích bằng văn bản. Cơ quan xử lý thế nào?",
+    "a": "Không cần giải thích vì đã từ chối",
+    "b": "Phải giải thích rõ lý do từ chối bằng văn bản theo yêu cầu",
+    "c": "Chỉ giải thích miệng",
+    "d": "Chỉ giải thích nếu có khiếu nại",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 8 Nghị định 23/2015/NĐ-CP, người yêu cầu chứng thực có quyền yêu cầu cơ quan từ chối giải thích rõ lý do bằng văn bản."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người dân mang giấy tờ giả mạo đến yêu cầu chứng thực và nói 'cơ quan phải chịu trách nhiệm nếu sai'. Nhận định nào đúng?",
+    "a": "Cơ quan vẫn phải chứng thực nếu người dân cam kết",
+    "b": "Cơ quan phải chứng thực vì không chịu trách nhiệm nội dung",
+    "c": "Người yêu cầu phải chịu trách nhiệm về nội dung, tính hợp pháp của giấy tờ",
+    "d": "Cơ quan chịu trách nhiệm chính",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 8 Nghị định 23/2015/NĐ-CP, người yêu cầu chứng thực phải chịu trách nhiệm về nội dung, tính hợp pháp của giấy tờ, văn bản."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người dân có quyền thực hiện hành vi nào sau đây?",
+    "a": "Yêu cầu cơ quan chứng thực phải chứng thực mọi giấy tờ",
+    "b": "Chọn bất kỳ cơ quan nào có thẩm quyền thuận tiện để chứng thực",
+    "c": "Yêu cầu bỏ qua việc kiểm tra bản chính",
+    "d": "Yêu cầu chứng thực không cần giấy tờ gốc",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 8 Nghị định 23/2015/NĐ-CP, người yêu cầu chứng thực có quyền yêu cầu chứng thực tại bất kỳ cơ quan có thẩm quyền nào thuận tiện nhất."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, nếu hồ sơ chứng thực tiếp nhận lúc 14 giờ thì thời hạn giải quyết là khi nào?",
+    "a": "Ngày làm việc tiếp theo",
+    "b": "Trong ngày tiếp theo",
+    "c": "Ngay trong ngày tiếp nhận",
+    "d": "Sau 2 ngày làm việc",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 7 Nghị định 23/2015/NĐ-CP, nếu tiếp nhận trong giờ hành chính (trước 15 giờ) thì phải giải quyết ngay trong ngày."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người dân bị từ chối chứng thực và muốn khiếu nại. Nhận định nào đúng?",
+    "a": "Không được khiếu nại vì chứng thực là quyền của cơ quan",
+    "b": "Được quyền khiếu nại theo quy định pháp luật",
+    "c": "Chỉ được khiếu nại nếu có thiệt hại",
+    "d": "Chỉ được khiếu nại tại tòa án",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 8 Nghị định 23/2015/NĐ-CP, người yêu cầu chứng thực có quyền khiếu nại theo quy định của pháp luật nếu bị từ chối."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người thực hiện chứng thực phát hiện giấy tờ có dấu hiệu giả mạo nhưng người dân yêu cầu vẫn chứng thực để kịp giao dịch. Người thực hiện chứng thực phải xử lý thế nào?",
+    "a": "Vẫn chứng thực nếu người dân cam kết chịu trách nhiệm",
+    "b": "Từ chối chứng thực và giải thích lý do bằng văn bản",
+    "c": "Chứng thực nhưng ghi chú nghi ngờ giả mạo",
+    "d": "Chuyển người dân sang công chứng",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 6 và khoản 7 Điều 9 Nghị định 23/2015/NĐ-CP, người thực hiện chứng thực phải lập biên bản, từ chối và giải thích rõ lý do bằng văn bản; đồng thời có trách nhiệm xử lý giấy tờ có dấu hiệu giả mạo."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người thực hiện chứng thực được phép thực hiện hành vi nào sau đây?",
+    "a": "Chứng thực hợp đồng liên quan tài sản của vợ mình",
+    "b": "Chứng thực hợp đồng của anh ruột mình",
+    "c": "Yêu cầu cơ quan cung cấp thông tin để xác minh hồ sơ",
+    "d": "Chứng thực chữ ký của con dâu mình",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 5 Điều 9 Nghị định 23/2015/NĐ-CP, người thực hiện chứng thực có quyền yêu cầu cơ quan, tổ chức, cá nhân cung cấp thông tin để xác minh tính hợp pháp của giấy tờ."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người thực hiện chứng thực không được thực hiện chứng thực trong trường hợp nào sau đây?",
+    "a": "Chứng thực hợp đồng của người lạ",
+    "b": "Chứng thực chữ ký của bạn thân",
+    "c": "Chứng thực giao dịch liên quan tài sản của vợ/chồng mình",
+    "d": "Chứng thực bản sao từ bản chính",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 9 Nghị định 23/2015/NĐ-CP, người thực hiện chứng thực không được chứng thực các giao dịch liên quan đến tài sản, lợi ích của bản thân hoặc người thân thích."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người dân xuất trình giấy tờ đã tích hợp trên VNeID. Người thực hiện chứng thực phải xử lý thế nào?",
+    "a": "Vẫn yêu cầu nộp bản giấy",
+    "b": "Có quyền yêu cầu bản sao có chứng thực",
+    "c": "Không được yêu cầu nộp bản chính hoặc bản sao giấy đối với thông tin đã có trên VNeID",
+    "d": "Chỉ chấp nhận nếu có công chứng",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 8 Điều 9 Nghị định 23/2015/NĐ-CP (bổ sung), người thực hiện chứng thực không được yêu cầu nộp hoặc xuất trình bản giấy nếu thông tin đã có trên VNeID."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người yêu cầu chứng thực đề nghị cơ quan khai thác dữ liệu từ Cơ sở dữ liệu quốc gia về dân cư. Người thực hiện chứng thực xử lý thế nào?",
+    "a": "Từ chối vì không thuộc nhiệm vụ",
+    "b": "Phải tự khai thác dữ liệu và không được yêu cầu người dân nộp giấy tờ đã có trong cơ sở dữ liệu",
+    "c": "Chỉ khai thác khi có lệnh cấp trên",
+    "d": "Vẫn yêu cầu bản chính để đối chiếu",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 9 Điều 9 Nghị định 23/2015/NĐ-CP (bổ sung), người thực hiện chứng thực có trách nhiệm khai thác dữ liệu từ cơ sở dữ liệu, không được yêu cầu người dân xuất trình lại giấy tờ đã có."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người thực hiện chứng thực phát hiện hồ sơ chưa đầy đủ. Họ phải xử lý thế nào?",
+    "a": "Từ chối ngay không cần hướng dẫn",
+    "b": "Hướng dẫn người dân bổ sung hoặc nộp đúng cơ quan có thẩm quyền",
+    "c": "Chuyển sang công chứng viên",
+    "d": "Tự bổ sung hồ sơ thay người dân",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 7 Điều 9 Nghị định 23/2015/NĐ-CP, người thực hiện chứng thực có trách nhiệm hướng dẫn bổ sung hồ sơ hoặc hướng dẫn nộp đúng cơ quan có thẩm quyền."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người thực hiện chứng thực phát hiện người dân yêu cầu chứng thực hợp đồng liên quan đến tài sản của vợ mình. Người thực hiện chứng thực xử lý thế nào?",
+    "a": "Vẫn chứng thực nếu không có tranh chấp",
+    "b": "Chứng thực nhưng phải báo cáo cấp trên",
+    "c": "Từ chối chứng thực do xung đột lợi ích",
+    "d": "Chuyển sang công chứng viên khác ký",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 9 Nghị định 23/2015/NĐ-CP, người thực hiện chứng thực không được chứng thực giao dịch liên quan đến tài sản, lợi ích của vợ/chồng hoặc người thân thích."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người dân xuất trình thông tin đã tích hợp trên VNeID. Người thực hiện chứng thực xử lý thế nào?",
+    "a": "Vẫn yêu cầu nộp bản giấy để lưu hồ sơ",
+    "b": "Không được yêu cầu bản giấy nếu đã xác thực được trên VNeID",
+    "c": "Chỉ chấp nhận bản giấy có chứng thực",
+    "d": "Từ chối vì không có bản chính",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 8 Điều 9 (bổ sung), người thực hiện chứng thực không được yêu cầu bản chính/bản sao giấy nếu người dân đã xuất trình thông tin từ VNeID."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người thực hiện chứng thực phát hiện hồ sơ chưa đầy đủ giấy tờ. Họ phải xử lý thế nào?",
+    "a": "Từ chối ngay không cần giải thích",
+    "b": "Hướng dẫn người dân bổ sung hồ sơ hoặc nộp đúng nơi có thẩm quyền",
+    "c": "Tự ý bổ sung hồ sơ cho người dân",
+    "d": "Chuyển hồ sơ sang cơ quan khác",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 7 Điều 9 Nghị định 23/2015/NĐ-CP, người thực hiện chứng thực phải hướng dẫn bổ sung hồ sơ hoặc hướng dẫn nộp đúng cơ quan có thẩm quyền."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người thực hiện chứng thực phát hiện giấy tờ có dấu hiệu giả mạo. Người dân yêu cầu vẫn chứng thực để kịp giao dịch. Xử lý thế nào?",
+    "a": "Vẫn chứng thực nhưng ghi chú",
+    "b": "Chứng thực nếu người dân cam kết chịu trách nhiệm",
+    "c": "Từ chối và lập biên bản xử lý giấy tờ nghi giả mạo",
+    "d": "Chuyển công chứng viên xử lý",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 6 và khoản 7 Điều 9 Nghị định 23/2015/NĐ-CP, người thực hiện chứng thực phải lập biên bản và xử lý giấy tờ giả mạo, đồng thời từ chối chứng thực."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người thực hiện chứng thực có nghĩa vụ nào sau đây?",
+    "a": "Có quyền chứng thực mọi hồ sơ được yêu cầu",
+    "b": "Bảo đảm trung thực, chính xác, khách quan khi chứng thực",
+    "c": "Chỉ cần ký theo yêu cầu người dân",
+    "d": "Không chịu trách nhiệm về nội dung giấy tờ",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 9 Nghị định 23/2015/NĐ-CP, người thực hiện chứng thực phải bảo đảm trung thực, chính xác, khách quan khi thực hiện chứng thực."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người thực hiện chứng thực từ chối chứng thực hợp đồng của anh ruột mình. Nhận định nào đúng?",
+    "a": "Sai vì phải ưu tiên người quen",
+    "b": "Đúng vì thuộc trường hợp người thân thích bị cấm",
+    "c": "Sai vì chỉ cấm với tài sản lớn",
+    "d": "Đúng nếu có ủy quyền",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 3 Điều 9 Nghị định 23/2015/NĐ-CP, người thực hiện chứng thực không được chứng thực giao dịch của người thân thích như anh, chị, em ruột."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người dân là người già yếu không thể đi lại yêu cầu chứng thực hợp đồng tại nhà riêng. Cơ quan chứng thực xử lý thế nào?",
+    "a": "Từ chối vì bắt buộc tại trụ sở",
+    "b": "Chỉ công chứng mới được thực hiện tại nhà",
+    "c": "Được thực hiện ngoài trụ sở trong trường hợp có lý do chính đáng",
+    "d": "Chỉ thực hiện nếu có người thân ký thay",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 10 Nghị định 23/2015/NĐ-CP, việc chứng thực được thực hiện tại trụ sở, trừ trường hợp người yêu cầu là người già yếu, không thể đi lại hoặc có lý do chính đáng khác."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, khi thực hiện chứng thực ngoài trụ sở, người thực hiện chứng thực phải ghi nội dung nào?",
+    "a": "Chỉ ghi họ tên người yêu cầu",
+    "b": "Ghi rõ địa điểm và thời gian (giờ, phút) chứng thực",
+    "c": "Chỉ ghi ngày tháng năm",
+    "d": "Không cần ghi thêm gì",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 10 Nghị định 23/2015/NĐ-CP, trường hợp chứng thực ngoài trụ sở phải ghi rõ địa điểm và thời gian (giờ, phút) thực hiện chứng thực."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, cơ quan chứng thực phải thực hiện nghĩa vụ nào sau đây?",
+    "a": "Chỉ làm việc theo giờ hành chính không cần thông báo",
+    "b": "Bố trí tiếp nhận yêu cầu tất cả các ngày làm việc và niêm yết công khai thủ tục",
+    "c": "Chỉ tiếp nhận hồ sơ khi có hẹn trước",
+    "d": "Chỉ tiếp nhận hồ sơ công chứng",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 3 Điều 10 Nghị định 23/2015/NĐ-CP, cơ quan chứng thực phải bố trí tiếp nhận trong các ngày làm việc và niêm yết công khai thủ tục, lệ phí, thời gian giải quyết."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, ngôn ngữ dùng trong chứng thực hợp đồng, giao dịch là gì?",
+    "a": "Tiếng Anh",
+    "b": "Tiếng Việt",
+    "c": "Ngôn ngữ do các bên lựa chọn",
+    "d": "Song ngữ tùy trường hợp",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 11 Nghị định 23/2015/NĐ-CP, tiếng nói và chữ viết dùng trong chứng thực hợp đồng, giao dịch là tiếng Việt."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người yêu cầu chứng thực không thông thạo tiếng Việt thì xử lý thế nào?",
+    "a": "Từ chối chứng thực",
+    "b": "Yêu cầu công chứng bắt buộc",
+    "c": "Phải có người phiên dịch",
+    "d": "Tự ký theo hiểu biết",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 11 Nghị định 23/2015/NĐ-CP, trường hợp người yêu cầu không thông thạo tiếng Việt thì phải có người phiên dịch."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người dân yêu cầu chứng thực tại quán cà phê vì thuận tiện, không thuộc trường hợp đặc biệt. Cơ quan chứng thực xử lý thế nào?",
+    "a": "Vẫn thực hiện vì thuận tiện cho người dân",
+    "b": "Từ chối vì không thuộc trường hợp chứng thực ngoài trụ sở",
+    "c": "Thực hiện nhưng không cần ghi địa điểm",
+    "d": "Chuyển sang công chứng viên",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 10 Nghị định 23/2015/NĐ-CP, chứng thực ngoài trụ sở chỉ thực hiện trong trường hợp đặc biệt như già yếu, không đi lại được hoặc lý do chính đáng."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, lời chứng trong văn bản chứng thực có ý nghĩa như thế nào?",
+    "a": "Nội dung không bắt buộc trong văn bản chứng thực",
+    "b": "Chỉ mang tính tham khảo",
+    "c": "Là nội dung bắt buộc của văn bản chứng thực",
+    "d": "Chỉ áp dụng đối với hợp đồng",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 12 Nghị định 23/2015/NĐ-CP, lời chứng là nội dung bắt buộc của văn bản chứng thực."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, lời chứng chứng thực chữ ký được phân loại như thế nào?",
+    "a": "Chỉ có một mẫu chung cho mọi trường hợp",
+    "b": "Bao gồm nhiều loại như chữ ký một người, nhiều người, điểm chỉ, không thể ký/điểm chỉ",
+    "c": "Chỉ áp dụng cho chữ ký của công chứng viên",
+    "d": "Không có mẫu lời chứng cho chữ ký",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 12 Nghị định 23/2015/NĐ-CP, lời chứng chứng thực chữ ký gồm nhiều dạng: một người, nhiều người, điểm chỉ, hoặc trường hợp không thể ký/điểm chỉ."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, nội dung nào sau đây được bổ sung mới trong mẫu lời chứng?",
+    "a": "Lời chứng chỉ áp dụng tại UBND xã",
+    "b": "Lời chứng tại Trung tâm Phục vụ hành chính công",
+    "c": "Lời chứng chỉ áp dụng cho hợp đồng nhà đất",
+    "d": "Lời chứng chỉ áp dụng cho bản sao",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 12 (sửa đổi), bổ sung các mẫu lời chứng tại Trung tâm Phục vụ hành chính công."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, lời chứng chứng thực giao dịch bao gồm nội dung nào?",
+    "a": "Xác nhận nội dung hợp pháp của giao dịch",
+    "b": "Xác nhận giá trị tài sản trong giao dịch",
+    "c": "Các trường hợp như giao dịch, phân chia di sản, di chúc, từ chối nhận di sản",
+    "d": "Xác nhận quyền sở hữu tài sản",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 12 Nghị định 23/2015/NĐ-CP, lời chứng giao dịch bao gồm nhiều loại như giao dịch, phân chia di sản, khai nhận di sản, di chúc, từ chối nhận di sản."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, trường hợp nào sau đây phải có lời chứng trong văn bản chứng thực?",
+    "a": "Chỉ khi người dân yêu cầu",
+    "b": "Không bắt buộc",
+    "c": "Bắt buộc trong mọi văn bản chứng thực",
+    "d": "Chỉ khi có tranh chấp",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 12 Nghị định 23/2015/NĐ-CP, lời chứng là nội dung bắt buộc của văn bản chứng thực."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, lời chứng chứng thực di chúc có thể thực hiện tại đâu theo mẫu mới?",
+    "a": "Chỉ tại Phòng công chứng",
+    "b": "Chỉ tại UBND cấp xã",
+    "c": "Có thể thực hiện tại Trung tâm Phục vụ hành chính công theo mẫu bổ sung",
+    "d": "Chỉ tại tòa án",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 12 (sửa đổi), bổ sung mẫu lời chứng chứng thực di chúc tại Trung tâm Phục vụ hành chính công."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, cơ quan chứng thực ghi số chứng thực như thế nào nếu chưa hết năm nhưng phải chuyển sang sổ mới?",
+    "a": "Bắt đầu lại từ số 01",
+    "b": "Tiếp tục số cuối của sổ trước",
+    "c": "Bắt đầu lại theo từng tháng",
+    "d": "Tùy người ký chứng thực quyết định",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 13 Nghị định 23/2015/NĐ-CP, trường hợp chưa hết năm mà chuyển sang sổ khác thì phải tiếp tục số thứ tự của sổ trước, không được ghi lại từ số 01."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, sổ chứng thực được xử lý như thế nào khi hết năm?",
+    "a": "Được hủy bỏ toàn bộ",
+    "b": "Khóa sổ và thống kê tổng số việc chứng thực trong năm",
+    "c": "Chuyển sang năm sau dùng tiếp",
+    "d": "Không cần thực hiện gì",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 13 Nghị định 23/2015/NĐ-CP, khi hết năm phải khóa sổ và thống kê tổng số việc chứng thực đã thực hiện."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, trường hợp ứng dụng công nghệ thông tin trong chứng thực thì phải xử lý sổ chứng thực thế nào?",
+    "a": "Không cần in sổ",
+    "b": "Chỉ lưu file điện tử",
+    "c": "Định kỳ in, đóng sổ và cuối năm ghép thành 01 sổ theo từng loại việc",
+    "d": "Chỉ cần lưu trên VNeID",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 13 Nghị định 23/2015/NĐ-CP, phải in định kỳ, đóng dấu giáp lai và cuối năm ghép thành 01 sổ chứng thực theo từng loại việc."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, thời hạn lưu trữ đối với hồ sơ chứng thực chữ ký thông thường là bao lâu?",
+    "a": "01 năm",
+    "b": "02 năm",
+    "c": "05 năm",
+    "d": "Vĩnh viễn",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 14 Nghị định 23/2015/NĐ-CP, thời hạn lưu trữ đối với chứng thực chữ ký là 02 năm."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, hợp đồng, giao dịch được chứng thực phải lưu trữ trong bao lâu?",
+    "a": "05 năm",
+    "b": "10 năm",
+    "c": "20 năm",
+    "d": "Vĩnh viễn",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 14 Nghị định 23/2015/NĐ-CP, hợp đồng, giao dịch được chứng thực phải lưu trữ 20 năm."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, sổ chứng thực thuộc loại tài liệu nào?",
+    "a": "Tài liệu nội bộ có thể tiêu hủy ngay",
+    "b": "Tài liệu lưu trữ vĩnh viễn của Nhà nước",
+    "c": "Tài liệu lưu 5 năm",
+    "d": "Tài liệu không cần lưu",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 14 Nghị định 23/2015/NĐ-CP, sổ chứng thực là tài liệu lưu trữ vĩnh viễn của Nhà nước."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người dân yêu cầu cơ quan chứng thực in và chụp giấy tờ thì xử lý chi phí thế nào?",
+    "a": "Không được thu bất kỳ khoản nào",
+    "b": "Phải miễn phí hoàn toàn",
+    "c": "Phải nộp chi phí theo quy định của UBND tỉnh hoặc cơ quan có thẩm quyền",
+    "d": "Tùy người ký chứng thực quyết định",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 15 Nghị định 23/2015/NĐ-CP, trường hợp người yêu cầu đề nghị in, chụp thì phải nộp chi phí theo mức do UBND tỉnh hoặc cơ quan đại diện quy định."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người anh trai của người đã được cấp bản chính (người này đã chết) có được yêu cầu cấp bản sao từ sổ gốc không?",
+    "a": "Không được vì chỉ người được cấp bản chính mới có quyền",
+    "b": "Được nếu có giấy tờ chứng minh quan hệ với người đã chết",
+    "c": "Chỉ được nếu có ủy quyền của người đã chết",
+    "d": "Phải có quyết định của tòa án",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 3 Điều 16 Nghị định 23/2015/NĐ-CP, người thừa kế như anh, chị, em ruột của người đã chết có quyền yêu cầu cấp bản sao từ sổ gốc nếu chứng minh được quan hệ."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, khi nộp hồ sơ cấp bản sao từ sổ gốc trực tiếp, người yêu cầu phải xuất trình giấy tờ nào?",
+    "a": "Chỉ cần đơn đề nghị",
+    "b": "Căn cước điện tử hoặc CCCD/hộ chiếu còn giá trị",
+    "c": "Sổ hộ khẩu",
+    "d": "Giấy khai sinh bản sao",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 17 (sửa đổi), người yêu cầu phải xuất trình một trong các giấy tờ định danh như CCCD, hộ chiếu hoặc căn cước điện tử để kiểm tra."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người dân nộp hồ sơ cấp bản sao từ sổ gốc qua dịch vụ bưu chính thì phải kèm theo giấy tờ nào?",
+    "a": "Không cần giấy tờ gì",
+    "b": "Chỉ cần đơn đề nghị",
+    "c": "Bản sao giấy tờ + phong bì dán tem ghi địa chỉ người nhận",
+    "d": "Bản chính tất cả giấy tờ",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 17 (sửa đổi), khi nộp qua bưu chính phải gửi kèm hồ sơ và 01 phong bì dán tem ghi rõ họ tên, địa chỉ người nhận."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, nếu sổ gốc không còn lưu trữ hoặc không có thông tin yêu cầu thì cơ quan xử lý thế nào?",
+    "a": "Tự tạo bản sao thay thế",
+    "b": "Từ chối miệng không cần trả lời",
+    "c": "Trả lời bằng văn bản cho người yêu cầu",
+    "d": "Chuyển sang công chứng viên xử lý",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 17, nếu không còn sổ gốc hoặc không có thông tin thì cơ quan phải trả lời bằng văn bản."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, khi nộp hồ sơ trực tuyến cấp bản sao từ sổ gốc thì cách thực hiện nào đúng?",
+    "a": "Chỉ nộp bản giấy scan không hợp lệ",
+    "b": "Không được nộp trực tuyến",
+    "c": "Có thể nộp bản điện tử hoặc bản sao điện tử giấy tờ",
+    "d": "Phải đến trực tiếp để nộp lại",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 17 (sửa đổi), người dân có thể nộp hồ sơ trực tuyến bằng bản điện tử hoặc bản sao điện tử giấy tờ."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, thời hạn cấp bản sao từ sổ gốc được tính từ khi nào?",
+    "a": "Từ ngày người dân nộp đơn",
+    "b": "Từ ngày ký bản sao",
+    "c": "Từ khi cơ quan nhận đủ hồ sơ hợp lệ",
+    "d": "Từ ngày người dân yêu cầu miệng",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 4 Điều 17 (sửa đổi), thời hạn được tính từ thời điểm cơ quan nhận đủ hồ sơ hợp lệ theo từng phương thức nộp."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người dân nộp yêu cầu chứng thực bản sao từ bản chính nhưng bản chính bị nhàu nát, mờ thông tin không xác định được nội dung. Cơ quan xử lý thế nào?",
+    "a": "Vẫn chứng thực nếu người dân cam kết nội dung đúng",
+    "b": "Từ chối chứng thực vì không xác định được nội dung bản chính",
+    "c": "Chỉ chứng thực phần còn đọc được",
+    "d": "Chuyển sang chứng thực chữ ký",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 22 Nghị định 23/2015/NĐ-CP (được sửa đổi, bổ sung): bản chính bị hư hỏng, cũ nát, không xác định được nội dung thì không được dùng làm cơ sở để chứng thực bản sao."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người yêu cầu chứng thực chữ ký nhưng đã ký sẵn từ nhà trước khi đến cơ quan chứng thực. Xử lý thế nào?",
+    "a": "Vẫn chứng thực nếu chữ ký đúng",
+    "b": "Từ chối chứng thực vì không ký trước mặt người thực hiện chứng thực",
+    "c": "Cho ký lại và chứng thực luôn",
+    "d": "Chỉ cần xác minh danh tính là đủ",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 24 Nghị định 23/2015/NĐ-CP (được sửa đổi, bổ sung): người yêu cầu chứng thực chữ ký phải ký trước mặt người thực hiện chứng thực."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, bản chính giấy tờ có dấu mật hoặc ghi không được sao chụp được xử lý thế nào khi yêu cầu chứng thực bản sao?",
+    "a": "Vẫn chứng thực nếu nội dung rõ ràng",
+    "b": "Từ chối chứng thực",
+    "c": "Chỉ chứng thực phần không mật",
+    "d": "Chỉ chứng thực nếu cơ quan cấp xác nhận",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 3 Điều 22 Nghị định 23/2015/NĐ-CP (được sửa đổi, bổ sung): bản chính đóng dấu mật hoặc có ghi không được sao chụp thì không được dùng để chứng thực bản sao."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người yêu cầu chứng thực chữ ký không xuất trình được CCCD hoặc hộ chiếu hợp lệ thì xử lý thế nào?",
+    "a": "Vẫn chứng thực nếu người đó cam kết",
+    "b": "Từ chối chứng thực",
+    "c": "Cho ký rồi bổ sung giấy tờ sau",
+    "d": "Chuyển sang chứng thực bản sao",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 24 Nghị định 23/2015/NĐ-CP (được sửa đổi, bổ sung): người yêu cầu chứng thực chữ ký phải xuất trình giấy tờ tùy thân còn giá trị sử dụng, nếu không đủ điều kiện thì không thực hiện chứng thực."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, trường hợp cơ quan không có phương tiện để chụp bản chính khi chứng thực bản sao thì xử lý thế nào?",
+    "a": "Từ chối chứng thực",
+    "b": "Yêu cầu người dân tự đi photocopy",
+    "c": "Không thực hiện chứng thực",
+    "d": "Tự động chụp và chứng thực",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 20 Nghị định 23/2015/NĐ-CP (được sửa đổi, bổ sung): nếu cơ quan không có phương tiện sao chụp thì người yêu cầu chứng thực phải cung cấp bản sao để đối chiếu."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, thời hạn chứng thực trong trường hợp số lượng hồ sơ lớn, phức tạp được xử lý thế nào?",
+    "a": "Phải trả ngay trong ngày",
+    "b": "Từ chối tiếp nhận",
+    "c": "Gia hạn theo yêu cầu vô thời hạn",
+    "d": "Gia hạn tối đa 02 ngày làm việc hoặc theo thỏa thuận",
+    "answer": "d",
+    "explanation": "Căn cứ Điều 21 Nghị định 23/2015/NĐ-CP (được sửa đổi, bổ sung): trường hợp phức tạp có thể kéo dài thêm không quá 02 ngày làm việc hoặc theo thỏa thuận bằng văn bản."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, trong trường hợp người yêu cầu chứng thực bản sao từ bản chính nhưng pháp luật không quy định bắt buộc phải sử dụng bản sao chứng thực, người thực hiện chứng thực phải xử lý thế nào?",
+    "a": "Vẫn thực hiện chứng thực bình thường",
+    "b": "Từ chối ngay không cần giải thích",
+    "c": "Hướng dẫn người yêu cầu về việc không cần chứng thực bản sao",
+    "d": "Chuyển sang chứng thực chữ ký",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 19 Nghị định 23/2015/NĐ-CP (sửa đổi bởi NĐ 07/2025 và NĐ 280/2025): nếu pháp luật không quy định phải dùng bản sao chứng thực thì người thực hiện chứng thực phải hướng dẫn người yêu cầu về việc này."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, trường hợp nào dưới đây được xem là THỦ TỤC ĐÚNG khi chứng thực bản sao từ bản chính?",
+    "a": "Chỉ đối chiếu nội dung bản sao",
+    "b": "Chỉ kiểm tra CCCD người yêu cầu",
+    "c": "Kiểm tra bản chính và đối chiếu với bản sao trước khi ký chứng thực",
+    "d": "Chỉ cần người dân cam kết",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 20 Nghị định 23/2015/NĐ-CP: người thực hiện chứng thực phải kiểm tra bản chính, đối chiếu với bản sao, sau đó mới thực hiện ký, đóng dấu nếu hợp lệ."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, trường hợp bản chính giấy tờ do nước ngoài cấp nhưng chưa hợp pháp hóa lãnh sự thì xử lý thế nào?",
+    "a": "Vẫn được chứng thực nếu rõ nội dung",
+    "b": "Chỉ cần dịch sang tiếng Việt là được",
+    "c": "Không được dùng để chứng thực bản sao",
+    "d": "Chuyển sang công chứng",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 20 và khoản 5 Điều 22 Nghị định 23/2015/NĐ-CP: giấy tờ nước ngoài chưa hợp pháp hóa lãnh sự thì không được dùng làm cơ sở chứng thực bản sao."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người yêu cầu chứng thực chữ ký phải thực hiện điều kiện nào sau đây?",
+    "a": "Có người làm chứng",
+    "b": "Ký trước mặt người thực hiện chứng thực",
+    "c": "Có xác nhận của công an xã",
+    "d": "Chỉ cần xuất trình CCCD",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 24 Nghị định 23/2015/NĐ-CP: người yêu cầu chứng thực chữ ký phải ký trước mặt người thực hiện chứng thực."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, trường hợp nào sau đây bị cấm chứng thực chữ ký?",
+    "a": "Giấy khai sinh",
+    "b": "Giấy xác nhận cư trú",
+    "c": "Giấy tờ có nội dung thuộc hành vi bị cấm theo khoản 4 Điều 22",
+    "d": "Giấy ủy quyền không thù lao",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 25 Nghị định 23/2015/NĐ-CP: không chứng thực chữ ký đối với giấy tờ có nội dung thuộc khoản 4 Điều 22."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, trường hợp người yêu cầu chứng thực chữ ký không thể ký hoặc điểm chỉ được thì xử lý thế nào?",
+    "a": "Không được chứng thực",
+    "b": "Áp dụng quy định chứng thực chữ ký và điều chỉnh lời chứng phù hợp",
+    "c": "Chuyển sang công chứng bắt buộc",
+    "d": "Chỉ xác nhận bằng miệng",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 26 Nghị định 23/2015/NĐ-CP: quy định về chứng thực chữ ký được áp dụng cả trong trường hợp người yêu cầu không thể ký hoặc điểm chỉ được."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, trong trường hợp người yêu cầu chứng thực bản sao từ bản chính là người thân của người đã chết, họ phải xuất trình gì?",
+    "a": "Chỉ cần CCCD",
+    "b": "Không cần giấy tờ gì",
+    "c": "Giấy tờ chứng minh quan hệ với người được cấp bản chính",
+    "d": "Giấy xác nhận của UBND xã",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 17 (sửa đổi): người thuộc trường hợp quy định tại Điều 16 khoản 2 và 3 phải xuất trình giấy tờ chứng minh quan hệ với người được cấp bản chính."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, trường hợp cơ quan chứng thực nhận thấy không cần thiết phải sử dụng giấy tờ bản sao chứng thực thì phải làm gì?",
+    "a": "Vẫn bắt buộc chứng thực",
+    "b": "Hướng dẫn người dân chuyển sang công chứng",
+    "c": "Hướng dẫn người yêu cầu về việc không cần chứng thực bản sao",
+    "d": "Tự động từ chối hồ sơ",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 19: người thực hiện chứng thực phải hướng dẫn khi pháp luật không yêu cầu sử dụng bản sao chứng thực."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người có đủ tiêu chuẩn, điều kiện làm cộng tác viên dịch thuật được xác định như thế nào?",
+    "a": "Người có bằng cử nhân luật và chứng chỉ ngoại ngữ",
+    "b": "Người có đủ điều kiện NLHV, Bằng cử nhân ngoại ngữ...",
+    "c": "Người có kinh nghiệm dịch thuật từ 03 năm trở lên",
+    "d": "Người được Sở Tư pháp cấp thẻ hành nghề dịch thuật",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 28 Nghị định 23/2015/NĐ-CP (được sửa đổi, bổ sung bởi NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP), người có đủ tiêu chuẩn, điều kiện theo Điều 27 của Nghị định được làm cộng tác viên dịch thuật của Ủy ban nhân dân cấp xã hoặc tổ chức hành nghề công chứng trong phạm vi cả nước. Điểm sửa đổi quan trọng là mở rộng chủ thể quản lý cộng tác viên dịch thuật từ Phòng Tư pháp sang UBND cấp xã và tổ chức hành nghề công chứng."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, việc đăng ký chữ ký mẫu của người dịch là cộng tác viên được thực hiện như thế nào?",
+    "a": "Ký 01 chữ ký mẫu tại Sở Tư pháp",
+    "b": "Ký 02 chữ ký mẫu tại Phòng Tư pháp",
+    "c": "Ký 03 chữ ký mẫu tại UBND cấp xã hoặc tổ chức hành nghề công chứng",
+    "d": "Không cần đăng ký chữ ký mẫu",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 29 Nghị định 23/2015/NĐ-CP (được sửa đổi, bổ sung bởi NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP), người dịch là cộng tác viên phải đăng ký chữ ký mẫu tại UBND cấp xã hoặc tổ chức hành nghề công chứng, và ký 03 chữ ký mẫu trước mặt người có thẩm quyền. Điểm sửa đổi là chuyển thẩm quyền đăng ký chữ ký mẫu từ Phòng Tư pháp sang UBND cấp xã và tổ chức hành nghề công chứng."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người thực hiện chứng thực chữ ký người dịch có trách nhiệm như thế nào?",
+    "a": "Chịu trách nhiệm về nội dung bản dịch",
+    "b": "Chịu trách nhiệm về tính xác thực chữ ký của người dịch",
+    "c": "Chịu trách nhiệm về cả nội dung và hình thức bản dịch",
+    "d": "Không chịu trách nhiệm gì",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 30 Nghị định 23/2015/NĐ-CP (được sửa đổi, bổ sung bởi NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP), người thực hiện chứng thực chỉ chịu trách nhiệm về tính xác thực chữ ký của người dịch trong bản dịch, không chịu trách nhiệm về nội dung bản dịch. Đây là nội dung không thay đổi bản chất nhưng được nhấn mạnh lại trong sửa đổi để phân định rõ trách nhiệm."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, giấy tờ nào không được dịch để chứng thực chữ ký người dịch?",
+    "a": "Giấy tờ hợp pháp do cơ quan Việt Nam cấp",
+    "b": "Giấy tờ bị tẩy xóa, sửa chữa không hợp lệ",
+    "c": "Giấy tờ có bản sao chứng thực",
+    "d": "Giấy tờ có nội dung rõ ràng",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 32 Nghị định 23/2015/NĐ-CP (được sửa đổi, bổ sung bởi NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP), giấy tờ bị tẩy xóa, sửa chữa, thêm bớt nội dung không hợp lệ thuộc trường hợp không được dịch để chứng thực chữ ký người dịch. Sửa đổi không làm thay đổi nhóm cấm cơ bản nhưng bổ sung kỹ thuật kiểm soát chặt hơn về điều kiện giấy tờ."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, khi nghi ngờ chữ ký người dịch, người thực hiện chứng thực phải xử lý như thế nào?",
+    "a": "Từ chối chứng thực ngay",
+    "b": "Yêu cầu người dịch ký trước mặt để đối chiếu",
+    "c": "Gửi Sở Tư pháp xác minh chữ ký",
+    "d": "Hủy hồ sơ chứng thực",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 31 Nghị định 23/2015/NĐ-CP (được sửa đổi, bổ sung bởi NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP), trường hợp nghi ngờ chữ ký trên bản dịch so với chữ ký mẫu thì người thực hiện chứng thực phải yêu cầu người dịch ký trước mặt để đối chiếu. Đây là cơ chế kiểm soát trực tiếp, không qua xác minh bên ngoài."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, tiêu chuẩn về bằng cấp của người dịch được quy định như thế nào?",
+    "a": "Phải có chứng chỉ ngoại ngữ quốc tế",
+    "b": "Phải có bằng cử nhân ngoại ngữ hoặc bằng đại học đối với ngôn ngữ cần dịch",
+    "c": "Phải có bằng cử nhân luật",
+    "d": "Phải có chứng chỉ hành nghề dịch thuật",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 27 Nghị định 23/2015/NĐ-CP (được sửa đổi, bổ sung bởi NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP), người dịch phải có bằng cử nhân ngoại ngữ trở lên hoặc bằng đại học phù hợp với ngôn ngữ cần dịch. Trường hợp ngôn ngữ không phổ biến thì phải thông thạo ngôn ngữ cần dịch."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, cộng tác viên dịch thuật được tổ chức tại đâu?",
+    "a": "Chỉ Phòng Tư pháp cấp huyện",
+    "b": "UBND cấp xã và tổ chức hành nghề công chứng",
+    "c": "Sở Tư pháp",
+    "d": "Tòa án nhân dân cấp huyện",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 28 Nghị định 23/2015/NĐ-CP (được sửa đổi), cộng tác viên dịch thuật được làm việc tại UBND cấp xã và tổ chức hành nghề công chứng trong phạm vi cả nước. Đây là điểm sửa đổi quan trọng mở rộng chủ thể quản lý so với trước đây."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, danh sách cộng tác viên dịch thuật sau khi phê duyệt phải được thực hiện như thế nào?",
+    "a": "Lưu nội bộ không công khai",
+    "b": "Niêm yết và đăng tải công khai trên cổng thông tin điện tử",
+    "c": "Chỉ gửi Sở Tư pháp",
+    "d": "Chỉ thông báo bằng văn bản cho người dân",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 3 Điều 28 Nghị định 23/2015/NĐ-CP (sửa đổi), danh sách cộng tác viên dịch thuật phải được niêm yết công khai tại trụ sở UBND cấp xã, tổ chức hành nghề công chứng và đăng tải trên cổng thông tin điện tử của Sở Tư pháp. Đây là quy định tăng tính minh bạch."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, khi đăng ký chữ ký mẫu, người dịch phải thực hiện bao nhiêu chữ ký mẫu?",
+    "a": "01 chữ ký",
+    "b": "02 chữ ký",
+    "c": "03 chữ ký",
+    "d": "05 chữ ký",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 29 Nghị định 23/2015/NĐ-CP (sửa đổi), người dịch phải ký 03 chữ ký mẫu giống nhau trước mặt người có thẩm quyền (Chủ tịch UBND cấp xã hoặc Trưởng tổ chức hành nghề công chứng)."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, chữ ký mẫu của người dịch cộng tác viên được lưu tại đâu?",
+    "a": "Sở Tư pháp",
+    "b": "UBND cấp xã hoặc tổ chức hành nghề công chứng",
+    "c": "Phòng Tư pháp cấp huyện",
+    "d": "Bộ Tư pháp",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 29 Nghị định 23/2015/NĐ-CP (sửa đổi), chữ ký mẫu được lưu tại UBND cấp xã hoặc tổ chức hành nghề công chứng nơi người dịch đăng ký, không còn tập trung tại Phòng Tư pháp như trước."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, người thực hiện chứng thực chữ ký người dịch chịu trách nhiệm về nội dung bản dịch như thế nào?",
+    "a": "Chịu trách nhiệm toàn bộ nội dung bản dịch",
+    "b": "Không chịu trách nhiệm về nội dung bản dịch",
+    "c": "Chịu trách nhiệm kiểm tra nội dung bản dịch",
+    "d": "Chịu trách nhiệm nếu có sai sót nội dung",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 30 Nghị định 23/2015/NĐ-CP (sửa đổi), người thực hiện chứng thực chỉ chịu trách nhiệm về tính xác thực chữ ký người dịch, không chịu trách nhiệm về nội dung bản dịch."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, khi nghi ngờ chữ ký người dịch so với chữ ký mẫu thì xử lý như thế nào?",
+    "a": "Từ chối chứng thực",
+    "b": "Gửi Sở Tư pháp xác minh",
+    "c": "Yêu cầu người dịch ký trước mặt để đối chiếu",
+    "d": "Hủy hồ sơ chứng thực",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 31 Nghị định 23/2015/NĐ-CP (sửa đổi), nếu nghi ngờ chữ ký người dịch không trùng chữ ký mẫu thì phải yêu cầu người dịch ký trước mặt để đối chiếu, không được tự ý từ chối hoặc chuyển cơ quan khác."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, người không phải cộng tác viên dịch thuật khi yêu cầu chứng thực chữ ký người dịch phải ký ở đâu?",
+    "a": "Tại nhà riêng",
+    "b": "Trước mặt người thực hiện chứng thực",
+    "c": "Tại Sở Tư pháp",
+    "d": "Không cần ký trực tiếp",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 31 Nghị định 23/2015/NĐ-CP (sửa đổi), người không phải cộng tác viên phải ký trước mặt người thực hiện chứng thực để đảm bảo tính xác thực của chữ ký."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, giấy tờ nào sau đây không được dùng để dịch chứng thực chữ ký người dịch?",
+    "a": "Giấy tờ hợp pháp, rõ ràng",
+    "b": "Giấy tờ bị tẩy xóa, sửa chữa không hợp lệ",
+    "c": "Giấy tờ do cơ quan Việt Nam cấp",
+    "d": "Giấy tờ có bản sao chứng thực",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 32 Nghị định 23/2015/NĐ-CP (sửa đổi), giấy tờ bị tẩy xóa, sửa chữa, thêm bớt nội dung không hợp lệ thuộc trường hợp không được dịch để chứng thực chữ ký người dịch."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, giấy tờ mật có được dịch để chứng thực chữ ký người dịch không?",
+    "a": "Có, nếu có bản sao",
+    "b": "Không được phép",
+    "c": "Có nếu người dịch cam kết",
+    "d": "Có nếu cơ quan cho phép",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 3 Điều 32 Nghị định 23/2015/NĐ-CP (sửa đổi), giấy tờ, văn bản đóng dấu mật hoặc ghi rõ không được dịch thì không được phép dịch để chứng thực chữ ký người dịch."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, trường hợp người thực hiện chứng thực nghi ngờ chữ ký người dịch so với chữ ký mẫu thì phải xử lý như thế nào?",
+    "a": "Từ chối chứng thực ngay",
+    "b": "Yêu cầu người dịch ký trước mặt để đối chiếu",
+    "c": "Gửi Sở Tư pháp xác minh",
+    "d": "Chuyển hồ sơ sang cơ quan công an",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 31 Nghị định 23/2015/NĐ-CP (được sửa đổi, bổ sung bởi NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP), khi nghi ngờ chữ ký người dịch so với chữ ký mẫu thì người thực hiện chứng thực phải yêu cầu người dịch ký trước mặt để đối chiếu, không được tự ý từ chối hoặc chuyển cơ quan khác."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người thực hiện chứng thực chữ ký người dịch có chịu trách nhiệm về nội dung bản dịch không?",
+    "a": "Có, chịu trách nhiệm toàn bộ nội dung",
+    "b": "Không, chỉ chịu trách nhiệm về tính xác thực chữ ký người dịch",
+    "c": "Có, nếu phát hiện sai sót",
+    "d": "Có, trong mọi trường hợp",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 30 Nghị định 23/2015/NĐ-CP (được sửa đổi), người thực hiện chứng thực chỉ chịu trách nhiệm về tính xác thực chữ ký người dịch, không chịu trách nhiệm về nội dung bản dịch."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, trường hợp nào sau đây không được dịch để chứng thực chữ ký người dịch?",
+    "a": "Giấy tờ hợp pháp do cơ quan Việt Nam cấp",
+    "b": "Giấy tờ bị tẩy xóa, sửa chữa không hợp lệ",
+    "c": "Giấy tờ có bản sao chứng thực",
+    "d": "Giấy tờ có nội dung rõ ràng",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 32 Nghị định 23/2015/NĐ-CP (sửa đổi), giấy tờ bị tẩy xóa, sửa chữa, thêm bớt nội dung không hợp lệ không được dùng để dịch chứng thực chữ ký người dịch."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, giấy tờ do cơ quan nước ngoài cấp muốn dịch chứng thực chữ ký người dịch phải đáp ứng điều kiện nào?",
+    "a": "Chỉ cần bản dịch",
+    "b": "Phải được hợp pháp hóa lãnh sự theo quy định",
+    "c": "Không cần điều kiện gì",
+    "d": "Chỉ cần công chứng tại Việt Nam",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 5 Điều 32 Nghị định 23/2015/NĐ-CP (được sửa đổi), giấy tờ do cơ quan nước ngoài cấp, công chứng hoặc chứng nhận phải được hợp pháp hóa lãnh sự theo quy định thì mới được dịch để chứng thực chữ ký người dịch."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, khi đăng ký chữ ký mẫu, người dịch phải thực hiện ký bao nhiêu chữ ký mẫu và ký trong điều kiện nào?",
+    "a": "02 chữ ký, ký tại nhà",
+    "b": "03 chữ ký, ký trước mặt người có thẩm quyền",
+    "c": "01 chữ ký, ký tại Sở Tư pháp",
+    "d": "05 chữ ký, ký tự do",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 29 Nghị định 23/2015/NĐ-CP (sửa đổi), người dịch phải ký 03 chữ ký mẫu giống nhau và ký trực tiếp trước mặt Chủ tịch UBND cấp xã hoặc người có thẩm quyền của tổ chức hành nghề công chứng."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, người dịch là cộng tác viên dịch thuật được làm việc trong phạm vi nào?",
+    "a": "Chỉ trong tỉnh nơi đăng ký",
+    "b": "Trong phạm vi cả nước",
+    "c": "Chỉ tại nơi ký hợp đồng",
+    "d": "Chỉ trong huyện nơi cư trú",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 28 Nghị định 23/2015/NĐ-CP (được sửa đổi), người có đủ điều kiện được làm cộng tác viên dịch thuật trong phạm vi cả nước tại UBND cấp xã hoặc tổ chức hành nghề công chứng."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, trường hợp người dịch không phải cộng tác viên thì khi yêu cầu chứng thực chữ ký phải ký ở đâu?",
+    "a": "Tại nhà riêng",
+    "b": "Trước mặt người thực hiện chứng thực",
+    "c": "Tại Sở Tư pháp",
+    "d": "Sau khi nộp hồ sơ",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 31 Nghị định 23/2015/NĐ-CP (sửa đổi), người không phải cộng tác viên dịch thuật phải ký trước mặt người thực hiện chứng thực để đảm bảo tính xác thực của chữ ký."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, viên chức ngoại giao, lãnh sự khi thực hiện chứng thực chữ ký người dịch có đặc điểm gì?",
+    "a": "Phải đối chiếu chữ ký mẫu như bình thường",
+    "b": "Không cần đối chiếu chữ ký mẫu, mà cam đoan về nội dung dịch",
+    "c": "Phải gửi về Sở Tư pháp xác minh",
+    "d": "Không được thực hiện chứng thực",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 4 Điều 31 Nghị định 23/2015/NĐ-CP (sửa đổi), viên chức ngoại giao, viên chức lãnh sự thực hiện chứng thực tại Cơ quan đại diện phải cam đoan về tính chính xác nội dung bản dịch, ký và đóng dấu cơ quan đại diện."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, thời hạn chứng thực chữ ký người dịch được thực hiện như thế nào?",
+    "a": "Không quy định thời hạn",
+    "b": "Theo Điều 7 Nghị định 23 hoặc theo thỏa thuận nhưng có thể kéo dài hơn",
+    "c": "Trong 01 ngày làm việc",
+    "d": "Trong 03 ngày làm việc bắt buộc",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 33 Nghị định 23/2015/NĐ-CP (sửa đổi), thời hạn chứng thực thực hiện theo Điều 7 Nghị định hoặc có thể kéo dài hơn theo thỏa thuận bằng văn bản với người yêu cầu chứng thực."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, phạm vi chứng thực hợp đồng, giao dịch bao gồm những loại nào?",
+    "a": "Chỉ hợp đồng bắt buộc phải công chứng",
+    "b": "Hợp đồng, giao dịch pháp luật quy định phải chứng thực hoặc tự nguyện yêu cầu",
+    "c": "Chỉ hợp đồng liên quan đến bất động sản",
+    "d": "Chỉ giao dịch dân sự đơn giản",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 34 Nghị định 23/2015/NĐ-CP, phạm vi chứng thực hợp đồng, giao dịch bao gồm cả hợp đồng, giao dịch mà pháp luật quy định phải chứng thực và cả trường hợp cá nhân, tổ chức tự nguyện yêu cầu chứng thực."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, người yêu cầu chứng thực hợp đồng, giao dịch phải chịu trách nhiệm về nội dung như thế nào?",
+    "a": "Không chịu trách nhiệm",
+    "b": "Chịu trách nhiệm về nội dung và tính hợp pháp của hợp đồng, giao dịch",
+    "c": "Chỉ chịu trách nhiệm về hình thức",
+    "d": "Chịu trách nhiệm một phần nội dung",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 35 Nghị định 23/2015/NĐ-CP, người yêu cầu chứng thực phải chịu trách nhiệm hoàn toàn về nội dung, tính hợp pháp của hợp đồng, giao dịch và giấy tờ liên quan."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, người thực hiện chứng thực hợp đồng, giao dịch chịu trách nhiệm về nội dung nào sau đây?",
+    "a": "Toàn bộ nội dung hợp đồng",
+    "b": "Chỉ tính xác thực chữ ký",
+    "c": "Thời gian, địa điểm giao kết và ý chí tự nguyện của các bên",
+    "d": "Tính hợp pháp của tài sản",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 35 Nghị định 23/2015/NĐ-CP, người thực hiện chứng thực chịu trách nhiệm về thời gian, địa điểm giao kết, năng lực hành vi dân sự, ý chí tự nguyện và chữ ký của các bên, không chịu trách nhiệm nội dung hợp đồng."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, hồ sơ chứng thực hợp đồng, giao dịch có bao gồm căn cước điện tử không?",
+    "a": "Không bao giờ được sử dụng",
+    "b": "Có, được sử dụng theo quy định sửa đổi",
+    "c": "Chỉ dùng hộ chiếu",
+    "d": "Chỉ dùng CMND",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 36 Nghị định 23/2015/NĐ-CP (được sửa đổi), người yêu cầu chứng thực có thể xuất trình căn cước điện tử, thẻ căn cước, hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế còn hiệu lực."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, hồ sơ chứng thực giao dịch được thực hiện theo hình thức nào?",
+    "a": "Chỉ nộp trực tiếp",
+    "b": "Chỉ qua bưu chính",
+    "c": "Trực tiếp, bưu chính hoặc trực tuyến",
+    "d": "Chỉ nộp bản giấy",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 36 Nghị định 23/2015/NĐ-CP (sửa đổi), thủ tục chứng thực giao dịch có thể thực hiện trực tiếp, qua dịch vụ bưu chính hoặc trực tuyến trên môi trường điện tử."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, khi ký hợp đồng, giao dịch, các bên phải ký ở đâu?",
+    "a": "Ký trước mặt người thực hiện chứng thực",
+    "b": "Ký tại nhà riêng",
+    "c": "Không cần ký trực tiếp",
+    "d": "Ký sau khi chứng thực",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 3 Điều 36 Nghị định 23/2015/NĐ-CP, các bên tham gia hợp đồng, giao dịch phải ký trước mặt người thực hiện chứng thực để đảm bảo tính tự nguyện và xác thực chữ ký."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, trường hợp nào được ký trước vào hợp đồng, giao dịch mà không ký trước mặt người thực hiện chứng thực?",
+    "a": "Tất cả trường hợp",
+    "b": "Người đã đăng ký chữ ký mẫu tại cơ quan chứng thực",
+    "c": "Người nước ngoài",
+    "d": "Người không biết chữ",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 3 Điều 36 Nghị định 23/2015/NĐ-CP, người có thẩm quyền giao kết hợp đồng của tổ chức tín dụng, doanh nghiệp đã đăng ký chữ ký mẫu có thể ký trước, nhưng phải đối chiếu chữ ký mẫu trước khi chứng thực."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, thời hạn chứng thực hợp đồng, giao dịch tối đa là bao lâu?",
+    "a": "01 ngày làm việc",
+    "b": "02 ngày làm việc",
+    "c": "03 ngày làm việc",
+    "d": "05 ngày làm việc",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 37 Nghị định 23/2015/NĐ-CP, thời hạn chứng thực hợp đồng, giao dịch không quá 02 ngày làm việc kể từ khi nhận đủ hồ sơ, trừ trường hợp có thỏa thuận khác."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, việc sửa đổi, bổ sung hợp đồng, giao dịch đã chứng thực được thực hiện khi nào?",
+    "a": "Khi một bên yêu cầu",
+    "b": "Khi có thỏa thuận bằng văn bản của các bên",
+    "c": "Khi cơ quan chứng thực yêu cầu",
+    "d": "Khi phát hiện sai sót",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 38 Nghị định 23/2015/NĐ-CP, việc sửa đổi, bổ sung, hủy bỏ hợp đồng, giao dịch chỉ được thực hiện khi có thỏa thuận bằng văn bản của các bên tham gia."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, việc sửa lỗi sai sót trong hợp đồng, giao dịch có thể thực hiện như thế nào?",
+    "a": "Không được sửa",
+    "b": "Chỉ cơ quan chứng thực được sửa",
+    "c": "Theo thỏa thuận bằng văn bản và không ảnh hưởng quyền nghĩa vụ",
+    "d": "Bắt buộc phải lập hợp đồng mới",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 39 Nghị định 23/2015/NĐ-CP, việc sửa lỗi sai sót được thực hiện theo thỏa thuận bằng văn bản của các bên, không làm ảnh hưởng quyền và nghĩa vụ của các bên."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, việc cấp bản sao hợp đồng, giao dịch được thực hiện bởi ai?",
+    "a": "Bất kỳ cơ quan nào",
+    "b": "Cơ quan lưu trữ hợp đồng, giao dịch",
+    "c": "Sở Tư pháp",
+    "d": "Tòa án",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 40 Nghị định 23/2015/NĐ-CP, cơ quan lưu trữ hợp đồng, giao dịch có trách nhiệm cấp bản sao có chứng thực từ bản chính hợp đồng, giao dịch đã được chứng thực."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, điểm mới về phạm vi tổ chức cộng tác viên dịch thuật là gì?",
+    "a": "Chỉ Phòng Tư pháp được tổ chức",
+    "b": "UBND cấp xã và tổ chức hành nghề công chứng được tổ chức cộng tác viên dịch thuật",
+    "c": "Chỉ Sở Tư pháp được tổ chức",
+    "d": "Chỉ Tòa án được tổ chức",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 28 Nghị định 23/2015/NĐ-CP (sửa đổi), điểm mới là mở rộng chủ thể tổ chức cộng tác viên dịch thuật sang UBND cấp xã và tổ chức hành nghề công chứng, thay vì chỉ Phòng Tư pháp như trước đây."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, điểm mới về đăng ký chữ ký mẫu của người dịch là gì?",
+    "a": "Đăng ký tại Sở Tư pháp",
+    "b": "Đăng ký tại Phòng Tư pháp",
+    "c": "Đăng ký tại UBND cấp xã hoặc tổ chức hành nghề công chứng",
+    "d": "Không cần đăng ký chữ ký mẫu",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 29 Nghị định 23/2015/NĐ-CP (sửa đổi), người dịch đăng ký chữ ký mẫu tại UBND cấp xã hoặc tổ chức hành nghề công chứng, thay đổi từ mô hình tập trung Phòng Tư pháp trước đây."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, thủ tục chứng thực chữ ký người dịch có bổ sung giấy tờ tùy thân nào mới?",
+    "a": "Chỉ CCCD giấy",
+    "b": "Căn cước điện tử và giấy tờ xuất nhập cảnh",
+    "c": "Chỉ hộ chiếu",
+    "d": "Không thay đổi giấy tờ",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 31 Nghị định 23/2015/NĐ-CP (sửa đổi), bổ sung thêm căn cước điện tử, giấy tờ xuất nhập cảnh và giấy tờ đi lại quốc tế còn giá trị sử dụng."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, hình thức thực hiện thủ tục chứng thực hợp đồng, giao dịch được mở rộng như thế nào?",
+    "a": "Chỉ thực hiện trực tiếp",
+    "b": "Chỉ qua bưu chính",
+    "c": "Trực tiếp, bưu chính và trực tuyến",
+    "d": "Chỉ nộp bản giấy",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 36 Nghị định 23/2015/NĐ-CP (sửa đổi), thủ tục chứng thực hợp đồng, giao dịch được thực hiện trực tiếp, qua dịch vụ bưu chính hoặc trực tuyến trên môi trường điện tử."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, việc sửa đổi, bổ sung, hủy bỏ hợp đồng, giao dịch có thể thực hiện theo hình thức nào?",
+    "a": "Chỉ trực tiếp tại cơ quan chứng thực",
+    "b": "Chỉ qua bưu chính",
+    "c": "Trực tiếp, bưu chính hoặc trực tuyến",
+    "d": "Chỉ tại Tòa án",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 38 (bổ sung), thủ tục sửa đổi, bổ sung, hủy bỏ hợp đồng, giao dịch có thể thực hiện trực tiếp, qua bưu chính hoặc trực tuyến."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, việc sửa lỗi sai sót trong hợp đồng, giao dịch có điểm mới gì?",
+    "a": "Không được sửa lỗi",
+    "b": "Chỉ sửa tại cơ quan chứng thực",
+    "c": "Có thể thực hiện trực tiếp, bưu chính hoặc trực tuyến",
+    "d": "Phải lập hợp đồng mới",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 39 (bổ sung), việc sửa lỗi sai sót có thể thực hiện trực tiếp, qua bưu chính hoặc trực tuyến và kết quả được trả theo các hình thức tương ứng."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, điểm mới về giấy tờ nhân thân trong hồ sơ chứng thực hợp đồng, giao dịch là gì?",
+    "a": "Chỉ sử dụng CMND",
+    "b": "Chỉ sử dụng hộ chiếu",
+    "c": "Bổ sung căn cước điện tử và các giấy tờ xuất nhập cảnh",
+    "d": "Không thay đổi giấy tờ nhân thân",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 36 Nghị định 23/2015/NĐ-CP (sửa đổi), người yêu cầu chứng thực có thể sử dụng căn cước điện tử, thẻ căn cước, giấy chứng nhận căn cước, hộ chiếu hoặc giấy tờ xuất nhập cảnh còn giá trị sử dụng, thay thế quy định cũ chỉ giới hạn CMND/hộ chiếu."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, hình thức nộp hồ sơ chứng thực hợp đồng, giao dịch được thực hiện như thế nào?",
+    "a": "Chỉ nộp trực tiếp tại cơ quan chứng thực",
+    "b": "Chỉ nộp qua bưu chính",
+    "c": "Trực tiếp, qua bưu chính hoặc trực tuyến",
+    "d": "Chỉ nộp bản giấy trực tiếp",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 36 Nghị định 23/2015/NĐ-CP (sửa đổi), thủ tục chứng thực hợp đồng, giao dịch được thực hiện trực tiếp, qua dịch vụ bưu chính hoặc trực tuyến trên môi trường điện tử."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, trường hợp sửa đổi, bổ sung hoặc hủy bỏ di chúc đã chứng thực có đặc điểm nào sau đây?",
+    "a": "Phải thực hiện tại đúng cơ quan đã chứng thực ban đầu",
+    "b": "Có thể thực hiện tại bất kỳ cơ quan có thẩm quyền chứng thực",
+    "c": "Chỉ thực hiện tại Sở Tư pháp",
+    "d": "Không được sửa đổi di chúc đã chứng thực",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 38 Nghị định 23/2015/NĐ-CP (sửa đổi), việc sửa đổi, bổ sung, thay thế hoặc hủy bỏ di chúc có thể thực hiện tại bất kỳ cơ quan có thẩm quyền chứng thực, không bắt buộc tại nơi đã chứng thực ban đầu."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, khi sửa đổi hoặc hủy bỏ di chúc đã chứng thực, cơ quan thực hiện có nghĩa vụ gì?",
+    "a": "Không cần thông báo",
+    "b": "Phải thông báo cho cơ quan đã chứng thực trước đó để ghi chú sổ",
+    "c": "Chỉ lưu hồ sơ nội bộ",
+    "d": "Chuyển hồ sơ sang Tòa án",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 38 Nghị định 23/2015/NĐ-CP (sửa đổi), cơ quan thực hiện sửa đổi hoặc hủy bỏ di chúc phải thông báo bằng văn bản cho cơ quan đã chứng thực trước đó để ghi chú vào sổ chứng thực."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, điều kiện bắt buộc để sửa đổi, bổ sung, hủy bỏ hợp đồng, giao dịch là gì?",
+    "a": "Một bên yêu cầu là đủ",
+    "b": "Phải có thỏa thuận bằng văn bản của các bên",
+    "c": "Cơ quan chứng thực quyết định",
+    "d": "Tòa án chấp thuận",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 38 Nghị định 23/2015/NĐ-CP, việc sửa đổi, bổ sung hoặc hủy bỏ hợp đồng, giao dịch chỉ được thực hiện khi có thỏa thuận bằng văn bản của các bên tham gia."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, nhiệm vụ nào sau đây thuộc Bộ Tư pháp trong quản lý nhà nước về chứng thực?",
+    "a": "Trực tiếp thực hiện chứng thực tại UBND cấp xã",
+    "b": "Hợp tác quốc tế về chứng thực và ứng dụng công nghệ thông tin trong quản lý chứng thực",
+    "c": "Cấp bản sao từ sổ gốc tại địa phương",
+    "d": "Giải quyết tranh chấp hợp đồng dân sự",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 41 Nghị định 23/2015/NĐ-CP (sửa đổi), Bộ Tư pháp có nhiệm vụ ứng dụng công nghệ thông tin, hợp tác quốc tế và thống nhất quản lý nhà nước về chứng thực, không trực tiếp thực hiện chứng thực tại địa phương."
+  },
+  {
+    "question": "Theo quy định về quản lý chứng thực, viên chức lãnh sự tại Cơ quan đại diện có trách nhiệm nào sau đây?",
+    "a": "Ban hành văn bản quy phạm pháp luật về chứng thực",
+    "b": "Cam đoan về việc dịch chính xác nội dung giấy tờ khi thực hiện chứng thực",
+    "c": "Chỉ lưu trữ sổ chứng thực mà không ký chứng thực",
+    "d": "Không tham gia hoạt động chứng thực",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 42 Nghị định 23/2015/NĐ-CP, viên chức lãnh sự khi thực hiện chứng thực phải cam đoan về tính chính xác của bản dịch và ký, đóng dấu cơ quan đại diện."
+  },
+  {
+    "question": "Theo quy định mới về quản lý chứng thực, UBND cấp tỉnh có thêm nhiệm vụ nào sau đây?",
+    "a": "Cấp bản sao từ sổ gốc cho mọi giao dịch dân sự",
+    "b": "Tổng hợp và đăng tải danh sách người ký chứng thực của UBND cấp xã",
+    "c": "Thực hiện toàn bộ chứng thực hợp đồng",
+    "d": "Thay thế Bộ Tư pháp ban hành văn bản pháp luật",
+    "answer": "b",
+    "explanation": "Theo Điều 43 (sửa đổi), UBND cấp tỉnh có trách nhiệm tổng hợp, đăng tải danh sách người ký chứng thực của UBND cấp xã và cập nhật khi có thay đổi."
+  },
+  {
+    "question": "Theo quy định về chuyển giao chứng thực, điều kiện để chuyển giao việc chứng thực bản sao cho tổ chức hành nghề công chứng là gì?",
+    "a": "Không cần điều kiện, thực hiện tự động",
+    "b": "Có ít nhất 01 tổ chức hành nghề công chứng hoạt động ổn định, hiệu quả tại địa bàn",
+    "c": "Chỉ khi Bộ Tư pháp ban hành quyết định riêng",
+    "d": "Chỉ áp dụng tại cấp tỉnh",
+    "answer": "b",
+    "explanation": "Điểm h khoản 1 Điều 43 (sửa đổi) quy định việc chuyển giao chỉ thực hiện khi địa bàn có ít nhất 01 tổ chức hành nghề công chứng hoạt động ổn định, hiệu quả và phân bố hợp lý."
+  },
+  {
+    "question": "Theo quy định chuyển tiếp, đối với giao dịch đã chứng thực trước ngày 01/7/2025 thì việc sửa đổi, hủy bỏ được thực hiện như thế nào?",
+    "a": "Chỉ thực hiện tại Bộ Tư pháp",
+    "b": "Chỉ thực hiện tại tổ chức hành nghề công chứng",
+    "c": "Thực hiện tại UBND cấp xã nơi đang lưu trữ hồ sơ chứng thực",
+    "d": "Không được sửa đổi hoặc hủy bỏ",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 47 (sửa đổi) quy định giao dịch chứng thực trước 01/7/2025 được xử lý tại UBND cấp xã nơi lưu trữ hồ sơ chứng thực."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, cơ quan nào có trách nhiệm hướng dẫn, bồi dưỡng nghiệp vụ chứng thực cho công chức cấp xã?",
+    "a": "Bộ Ngoại giao",
+    "b": "UBND cấp huyện",
+    "c": "Sở Tư pháp",
+    "d": "Tòa án nhân dân",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 43 (sửa đổi), Sở Tư pháp là cơ quan giúp UBND cấp tỉnh hướng dẫn, bồi dưỡng nghiệp vụ chứng thực cho cán bộ, công chức tại UBND cấp xã."
+  },
+  {
+    "question": "Theo quy định về quản lý nhà nước về chứng thực, Phòng Tư pháp có nhiệm vụ nào sau đây?",
+    "a": "Ban hành văn bản quy phạm pháp luật",
+    "b": "Giúp UBND cấp huyện quản lý, lưu trữ sổ chứng thực và cấp bản sao có chứng thực từ hợp đồng, giao dịch",
+    "c": "Trực tiếp quản lý Bộ Tư pháp",
+    "d": "Thay thế UBND cấp tỉnh trong thanh tra",
+    "answer": "b",
+    "explanation": "Phòng Tư pháp giúp UBND cấp huyện thực hiện quản lý chứng thực, bao gồm lưu trữ sổ chứng thực và cấp bản sao từ hợp đồng, giao dịch theo Điều 43."
+  },
+  {
+    "question": "Theo quy định sửa đổi, việc kiểm tra, thanh tra hoạt động chứng thực tại địa phương thuộc trách nhiệm chính của cơ quan nào?",
+    "a": "UBND cấp tỉnh",
+    "b": "Sở Tư pháp",
+    "c": "Bộ Công an",
+    "d": "UBND cấp xã",
+    "answer": "a",
+    "explanation": "Theo Điều 43 (sửa đổi), UBND cấp tỉnh có trách nhiệm kiểm tra, thanh tra hoạt động chứng thực tại địa phương, bao gồm UBND cấp xã và tổ chức hành nghề công chứng."
+  },
+  {
+    "question": "Theo quy định mới, tổ chức hành nghề công chứng có trách nhiệm nào sau đây trong quản lý nhà nước về chứng thực?",
+    "a": "Ban hành quy định về chứng thực",
+    "b": "Lưu trữ sổ chứng thực và định kỳ báo cáo Sở Tư pháp",
+    "c": "Giải quyết tranh chấp dân sự",
+    "d": "Thay thế UBND cấp huyện",
+    "answer": "b",
+    "explanation": "Điều 46 quy định tổ chức hành nghề công chứng phải lưu trữ sổ chứng thực và định kỳ báo cáo Sở Tư pháp."
+  },
+  {
+    "question": "Theo quy định chuyển tiếp của Nghị định 23/2015/NĐ-CP (sửa đổi), sổ chứng thực lập trước ngày 31/12/2025 được xử lý như thế nào?",
+    "a": "Phải hủy toàn bộ ngay khi Nghị định có hiệu lực",
+    "b": "Tiếp tục sử dụng đến hết thời hạn quy định chuyển tiếp",
+    "c": "Chuyển sang Bộ Tư pháp quản lý tập trung",
+    "d": "Không được sử dụng trong bất kỳ trường hợp nào",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 47 (sửa đổi) quy định sổ chứng thực lập trước ngày có hiệu lực vẫn tiếp tục được sử dụng đến hết ngày 31/12/2025."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP, cơ quan nào chịu trách nhiệm tổ chức triển khai văn bản pháp luật về chứng thực tại địa phương?",
+    "a": "UBND cấp tỉnh",
+    "b": "Sở Tư pháp",
+    "c": "UBND cấp huyện",
+    "d": "Bộ Nội vụ",
+    "answer": "a",
+    "explanation": "Theo Điều 43 (sửa đổi), UBND cấp tỉnh có trách nhiệm tổ chức triển khai thực hiện văn bản quy phạm pháp luật về chứng thực tại địa phương."
+  },
+  {
+    "question": "Theo quy định về chứng thực, việc giải quyết khiếu nại, tố cáo trong hoạt động chứng thực thuộc thẩm quyền của cơ quan nào?",
+    "a": "Chỉ Bộ Tư pháp",
+    "b": "Các cơ quan thực hiện chứng thực theo thẩm quyền từng cấp",
+    "c": "Tòa án nhân dân",
+    "d": "Chỉ công chứng viên",
+    "answer": "b",
+    "explanation": "Điều 41–43 quy định mỗi cấp (Bộ, UBND, cơ quan đại diện) đều có thẩm quyền giải quyết khiếu nại, tố cáo trong phạm vi quản lý của mình."
   }
 ]
 
