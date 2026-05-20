@@ -5818,6 +5818,447 @@
     "d": "Chuyển sang cơ quan khác",
     "answer": "b",
     "explanation": "Căn cứ khoản 1 Điều 2 Thông tư 01/2020/TT-BTP: nếu tiếp nhận sau 15 giờ mà không giải quyết ngay thì phải cấp phiếu hẹn."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, người nào sau đây không được đăng ký tham gia đấu giá?",
+    "a": "Người đủ năng lực hành vi dân sự",
+    "b": "Người làm việc trong tổ chức đấu giá tài sản thực hiện cuộc đấu giá",
+    "c": "Người được ủy quyền hợp pháp",
+    "d": "Người cư trú tại địa phương khác",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 9 Luật Đấu giá tài sản 2016 quy định người không được đăng ký tham gia đấu giá bao gồm người làm việc trong tổ chức đấu giá tài sản thực hiện cuộc đấu giá đó."
+  },
+  {
+    "question": "Cha, mẹ, vợ, chồng, con của ai thì không được tham gia cuộc đấu giá do người đó điều hành?",
+    "a": "Người có tài sản đấu giá",
+    "b": "Đấu giá viên điều hành cuộc đấu giá",
+    "c": "Người tham gia đấu giá",
+    "d": "Công chứng viên",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 9 Luật Đấu giá tài sản 2016 quy định cha, mẹ, vợ, chồng, con của đấu giá viên điều hành cuộc đấu giá không được đăng ký tham gia đấu giá."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, tiền đặt trước được xác định trong khoảng nào?",
+    "a": "Từ 1% đến 5% giá khởi điểm",
+    "b": "Từ 5% đến 20% giá khởi điểm",
+    "c": "Từ 10% đến 30% giá khởi điểm",
+    "d": "Do đấu giá viên tự quyết định",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 39 Luật Đấu giá tài sản 2016 quy định tiền đặt trước do tổ chức hành nghề đấu giá tài sản và người có tài sản đấu giá thỏa thuận, tối thiểu là 5% và tối đa là 20% giá khởi điểm của tài sản đấu giá."
+  },
+  {
+    "question": "Người tham gia đấu giá không được nhận lại tiền đặt trước trong trường hợp nào?",
+    "a": "Không trúng đấu giá",
+    "b": "Rút lại giá đã trả hoặc giá đã chấp nhận",
+    "c": "Đến tham gia đúng thời gian",
+    "d": "Xem tài sản đấu giá",
+    "answer": "b",
+    "explanation": "Điểm b khoản 6 Điều 39 Luật Đấu giá tài sản 2016 quy định người tham gia đấu giá không được nhận lại tiền đặt trước nếu rút lại giá đã trả hoặc giá đã chấp nhận."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, hành vi nào sau đây bị nghiêm cấm?",
+    "a": "Thông đồng, dìm giá trong đấu giá tài sản",
+    "b": "Xem tài sản trước đấu giá",
+    "c": "Nộp hồ sơ đúng thời hạn",
+    "d": "Đề nghị giải thích quy chế đấu giá",
+    "answer": "a",
+    "explanation": "Khoản 5 Điều 9 và khoản 3 Điều 10 Luật Đấu giá tài sản 2016 nghiêm cấm hành vi thông đồng, móc nối, dìm giá trong đấu giá tài sản."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, đấu giá trực tuyến là:",
+    "a": "Một phương thức đấu giá",
+    "b": "Một hình thức đấu giá",
+    "c": "Một nguyên tắc đấu giá",
+    "d": "Một biện pháp xử lý vi phạm",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 40 Luật Đấu giá tài sản 2016 quy định đấu giá trực tuyến là một trong các hình thức đấu giá tài sản."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, trả giá lên là:",
+    "a": "Hình thức đấu giá",
+    "b": "Phương thức đấu giá",
+    "c": "Nguyên tắc đấu giá",
+    "d": "Trình tự đấu giá",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 41 Luật Đấu giá tài sản 2016 quy định phương thức đấu giá gồm phương thức trả giá lên và phương thức đặt giá xuống."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, đấu giá không thành trong trường hợp nào?",
+    "a": "Không có người trả giá hoặc không có người chấp nhận giá",
+    "b": "Có nhiều người tham gia đấu giá",
+    "c": "Người trúng đấu giá đã ký hợp đồng",
+    "d": "Đã hoàn thành sang tên tài sản",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 52 Luật Đấu giá tài sản 2016 quy định đấu giá không thành khi không có người trả giá hoặc không có người chấp nhận giá."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, kết quả đấu giá tài sản có thể bị hủy khi nào?",
+    "a": "Giá trúng đấu giá cao",
+    "b": "Có vi phạm nghiêm trọng về trình tự, thủ tục đấu giá",
+    "c": "Có ít người tham gia",
+    "d": "Người mua thay đổi ý định",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 72 Luật Đấu giá tài sản 2016 quy định kết quả đấu giá có thể bị hủy theo thỏa thuận hoặc bị Tòa án tuyên hủy khi có căn cứ vi phạm pháp luật về đấu giá tài sản."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, hành vi cho người khác sử dụng chứng chỉ hành nghề đấu giá là:",
+    "a": "Được phép nếu có hợp đồng",
+    "b": "Được phép nếu báo Sở Tư pháp",
+    "c": "Hành vi bị nghiêm cấm",
+    "d": "Chỉ bị xử lý nội bộ",
+    "answer": "c",
+    "explanation": "Khoản 6 Điều 10 Luật Đấu giá tài sản 2016 nghiêm cấm hành vi cho người khác sử dụng chứng chỉ hành nghề đấu giá."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, người gây mất trật tự cuộc đấu giá có thể bị áp dụng biện pháp nào?",
+    "a": "Được tiếp tục tham gia đấu giá",
+    "b": "Bị truất quyền tham gia đấu giá",
+    "c": "Được hoàn trả thêm tiền đặt trước",
+    "d": "Được ưu tiên trả giá",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 48 Luật Đấu giá tài sản 2016 quy định đấu giá viên có quyền truất quyền tham gia đấu giá đối với người gây rối, cản trở cuộc đấu giá."
+  },
+  {
+    "question": "Theo Nghị định 172/2024/NĐ-CP, nghị định này hướng dẫn thi hành văn bản nào?",
+    "a": "Luật Công chứng 2024",
+    "b": "Luật Đất đai 2024",
+    "c": "Luật Đấu giá tài sản 2016 được sửa đổi, bổ sung năm 2024",
+    "d": "Bộ luật Dân sự 2015",
+    "answer": "c",
+    "explanation": "Điều 1 Nghị định 172/2024/NĐ-CP quy định nghị định hướng dẫn thi hành Luật Đấu giá tài sản 2016 được sửa đổi, bổ sung bởi Luật số 37/2024/QH15."
+  },
+  {
+    "question": "Theo Nghị định 172/2024/NĐ-CP, nội dung nào sau đây thuộc phạm vi điều chỉnh?",
+    "a": "Thủ tục đăng ký kết hôn",
+    "b": "Điều kiện đối với Cổng Đấu giá tài sản quốc gia",
+    "c": "Thủ tục ly hôn",
+    "d": "Xử phạt vi phạm giao thông",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 1 Nghị định 172/2024/NĐ-CP quy định nghị định hướng dẫn về yêu cầu, điều kiện đối với Cổng Đấu giá tài sản quốc gia và trang thông tin đấu giá trực tuyến."
+  },
+  {
+    "question": "Trong thực tiễn công chứng, công chứng viên khi công chứng hợp đồng mua bán tài sản đấu giá cần kiểm tra nội dung nào?",
+    "a": "Kết quả đấu giá và căn cứ xác lập quyền sở hữu, quyền sử dụng tài sản",
+    "b": "Thu nhập của đấu giá viên",
+    "c": "Tình trạng hôn nhân của đấu giá viên",
+    "d": "Nơi cư trú của tất cả người tham gia đấu giá",
+    "answer": "a",
+    "explanation": "Theo Điều 42 và Điều 44 Luật Công chứng 2024, công chứng viên có trách nhiệm kiểm tra tính hợp pháp của giao dịch và giấy tờ trong hồ sơ yêu cầu công chứng, bao gồm căn cứ xác lập quyền sở hữu, quyền sử dụng đối với tài sản đấu giá."
+  },
+  {
+    "question": "Trong thi hành án dân sự, tài sản kê biên được bán đấu giá thì việc chuyển quyền sở hữu, quyền sử dụng tài sản được căn cứ vào đâu?",
+    "a": "Chỉ cần lời khai của người mua",
+    "b": "Kết quả đấu giá hợp pháp và hồ sơ thi hành án",
+    "c": "Ý kiến của người bị thi hành án",
+    "d": "Xác nhận của tổ dân phố",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 106 Luật Thi hành án dân sự sửa đổi, bổ sung năm 2014 và các quy định về bán đấu giá tài sản thi hành án xác định việc chuyển quyền căn cứ vào kết quả bán đấu giá hợp pháp và hồ sơ thi hành án."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016 được sửa đổi bởi Luật số 37/2024/QH15, tổ chức hành nghề đấu giá tài sản bao gồm loại hình nào?",
+    "a": "Chỉ doanh nghiệp đấu giá tài sản",
+    "b": "Doanh nghiệp đấu giá tài sản và Trung tâm dịch vụ đấu giá tài sản",
+    "c": "Chỉ Trung tâm dịch vụ đấu giá tài sản",
+    "d": "Doanh nghiệp thẩm định giá",
+    "answer": "b",
+    "explanation": "Điều 2 và Điều 23 Luật Đấu giá tài sản 2016 được sửa đổi, bổ sung năm 2024 quy định tổ chức hành nghề đấu giá tài sản gồm doanh nghiệp đấu giá tài sản và Trung tâm dịch vụ đấu giá tài sản."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản sửa đổi 2024, tài sản nào sau đây thuộc tài sản đấu giá theo quy định pháp luật?",
+    "a": "Tài sản mà pháp luật cấm giao dịch",
+    "b": "Tài sản bắt buộc phải bán thông qua đấu giá theo luật chuyên ngành",
+    "c": "Mọi tài sản cá nhân",
+    "d": "Tài sản không xác định được chủ sở hữu",
+    "answer": "b",
+    "explanation": "Điều 4 Luật Đấu giá tài sản 2016 được sửa đổi năm 2024 quy định tài sản đấu giá bao gồm tài sản mà pháp luật quy định phải bán thông qua đấu giá."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, người nào sau đây không được đăng ký tham gia đấu giá?",
+    "a": "Người có đủ năng lực hành vi dân sự",
+    "b": "Người làm việc trong tổ chức hành nghề đấu giá tài sản thực hiện cuộc đấu giá",
+    "c": "Người được ủy quyền hợp pháp",
+    "d": "Người ở địa phương khác",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 9 Luật Đấu giá tài sản 2016 quy định người làm việc trong tổ chức hành nghề đấu giá tài sản thực hiện cuộc đấu giá không được đăng ký tham gia đấu giá."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, hành vi nào sau đây bị nghiêm cấm?",
+    "a": "Thông đồng, dìm giá",
+    "b": "Xem tài sản trước đấu giá",
+    "c": "Nộp hồ sơ tham gia đấu giá",
+    "d": "Đặt câu hỏi về quy chế đấu giá",
+    "answer": "a",
+    "explanation": "Điều 10 Luật Đấu giá tài sản 2016 nghiêm cấm hành vi thông đồng, dìm giá, gây sai lệch kết quả đấu giá."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, tiền đặt trước trong đấu giá tài sản được xác định trong khoảng nào?",
+    "a": "Từ 1% đến 10% giá khởi điểm",
+    "b": "Từ 5% đến 20% giá khởi điểm",
+    "c": "Từ 10% đến 30% giá khởi điểm",
+    "d": "Do đấu giá viên tự quyết định",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 39 Luật Đấu giá tài sản 2016 quy định tiền đặt trước từ 5% đến 20% giá khởi điểm của tài sản đấu giá."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, người tham gia đấu giá sẽ không được hoàn trả tiền đặt trước trong trường hợp nào?",
+    "a": "Không trúng đấu giá",
+    "b": "Không mua tài sản sau khi được công nhận trúng đấu giá",
+    "c": "Đến muộn nhưng chưa khai mạc",
+    "d": "Yêu cầu xem lại tài sản",
+    "answer": "b",
+    "explanation": "Khoản 6 Điều 39 Luật Đấu giá tài sản 2016 quy định người trúng đấu giá nhưng từ chối mua tài sản sẽ không được hoàn trả tiền đặt trước."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, đấu giá trực tuyến là:",
+    "a": "Một phương thức đấu giá",
+    "b": "Một hình thức đấu giá",
+    "c": "Một biện pháp xử phạt",
+    "d": "Một loại tài sản đấu giá",
+    "answer": "b",
+    "explanation": "Điều 40 Luật Đấu giá tài sản 2016 quy định đấu giá trực tuyến là một hình thức đấu giá tài sản."
+  },
+  {
+    "question": "Theo Nghị định 172/2024/NĐ-CP, văn bản này hướng dẫn chi tiết một số điều của văn bản nào?",
+    "a": "Luật Công chứng 2024",
+    "b": "Luật Giá 2023",
+    "c": "Luật Đấu giá tài sản 2016 được sửa đổi bởi Luật số 37/2024/QH15",
+    "d": "Bộ luật Dân sự 2015",
+    "answer": "c",
+    "explanation": "Điều 1 Nghị định 172/2024/NĐ-CP quy định nghị định hướng dẫn Luật Đấu giá tài sản 2016 được sửa đổi, bổ sung bởi Luật số 37/2024/QH15."
+  },
+  {
+    "question": "Theo Nghị định 172/2024/NĐ-CP, nội dung nào sau đây thuộc phạm vi điều chỉnh của nghị định?",
+    "a": "Thủ tục công chứng hợp đồng",
+    "b": "Điều kiện đối với Cổng Đấu giá tài sản quốc gia",
+    "c": "Đăng ký kết hôn",
+    "d": "Xử lý vi phạm giao thông",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 1 Nghị định 172/2024/NĐ-CP quy định về yêu cầu, điều kiện đối với Cổng Đấu giá tài sản quốc gia và trang thông tin đấu giá trực tuyến."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, trả giá lên là:",
+    "a": "Hình thức đấu giá",
+    "b": "Nguyên tắc đấu giá",
+    "c": "Phương thức đấu giá",
+    "d": "Biện pháp cưỡng chế",
+    "answer": "c",
+    "explanation": "Điều 41 Luật Đấu giá tài sản 2016 quy định trả giá lên là một phương thức đấu giá tài sản."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, người trúng đấu giá là:",
+    "a": "Người nộp hồ sơ đầu tiên",
+    "b": "Người trả giá cao nhất hợp lệ hoặc được công nhận trúng đấu giá theo quy định",
+    "c": "Người có hộ khẩu tại nơi có tài sản",
+    "d": "Người có tài sản đấu giá",
+    "answer": "b",
+    "explanation": "Khoản 6 Điều 5 Luật Đấu giá tài sản 2016 quy định người trúng đấu giá là người được công nhận trúng đấu giá theo quy định của pháp luật."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, trường hợp nào sau đây thuộc trường hợp đấu giá không thành?",
+    "a": "Có người trả giá hợp lệ",
+    "b": "Không có người tham gia trả giá",
+    "c": "Đã ký hợp đồng mua bán tài sản",
+    "d": "Đã sang tên tài sản",
+    "answer": "b",
+    "explanation": "Điều 52 Luật Đấu giá tài sản 2016 quy định đấu giá không thành khi không có người trả giá hoặc không có người chấp nhận giá."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, kết quả đấu giá tài sản có thể bị hủy trong trường hợp nào?",
+    "a": "Giá trúng đấu giá quá cao",
+    "b": "Có vi phạm nghiêm trọng về trình tự, thủ tục đấu giá",
+    "c": "Người mua đổi ý",
+    "d": "Người tham gia đấu giá ít",
+    "answer": "b",
+    "explanation": "Điều 72 Luật Đấu giá tài sản 2016 quy định kết quả đấu giá có thể bị hủy khi có vi phạm pháp luật về đấu giá tài sản."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, hành vi cho người khác sử dụng chứng chỉ hành nghề đấu giá là:",
+    "a": "Được phép nếu có ủy quyền",
+    "b": "Được phép nếu báo Sở Tư pháp",
+    "c": "Hành vi bị nghiêm cấm",
+    "d": "Chỉ bị xử lý nội bộ",
+    "answer": "c",
+    "explanation": "Điều 10 Luật Đấu giá tài sản 2016 nghiêm cấm hành vi cho người khác sử dụng chứng chỉ hành nghề đấu giá."
+  },
+  {
+    "question": "Theo Nghị định 172/2024/NĐ-CP, một trong các nội dung được hướng dẫn là:",
+    "a": "Thủ tục ly hôn",
+    "b": "Trình tự, thủ tục đấu giá trực tuyến",
+    "c": "Đăng ký khai sinh",
+    "d": "Thủ tục cấp giấy phép xây dựng",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 1 Nghị định 172/2024/NĐ-CP quy định nghị định hướng dẫn trình tự, thủ tục đấu giá trực tuyến."
+  },
+  {
+    "question": "Người trúng đấu giá quyền sử dụng đất muốn chuyển nhượng quyền sử dụng đất thì hợp đồng chuyển nhượng thông thường thuộc trường hợp nào?",
+    "a": "Không cần công chứng",
+    "b": "Bắt buộc công chứng hoặc chứng thực theo pháp luật đất đai",
+    "c": "Chỉ cần xác nhận của đấu giá viên",
+    "d": "Chỉ cần biên bản đấu giá",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 27 Luật Đất đai 2024 và Điều 164 Luật Nhà ở 2023 quy định giao dịch chuyển nhượng quyền sử dụng đất thuộc trường hợp phải công chứng hoặc chứng thực, trừ trường hợp luật có quy định khác."
+  },
+  {
+    "question": "Trong bán đấu giá tài sản thi hành án dân sự, việc chuyển quyền sở hữu tài sản cho người mua trúng đấu giá có thể thực hiện dù:",
+    "a": "Người bị thi hành án không ký hợp đồng",
+    "b": "Không có kết quả đấu giá",
+    "c": "Không có quyết định thi hành án",
+    "d": "Không có biên bản đấu giá",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 106 Luật Thi hành án dân sự sửa đổi, bổ sung năm 2014 quy định việc chuyển quyền cho người mua được thực hiện căn cứ vào kết quả bán đấu giá hợp pháp và hồ sơ thi hành án."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, kết quả đấu giá tài sản có thể bị hủy trong trường hợp nào?",
+    "a": "Người mua không thích tài sản",
+    "b": "Có vi phạm pháp luật về đấu giá tài sản",
+    "c": "Có ít người tham gia",
+    "d": "Giá trúng đấu giá quá cao",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 72 Luật Đấu giá tài sản 2016 quy định kết quả đấu giá có thể bị hủy khi có căn cứ vi phạm pháp luật về đấu giá tài sản."
+  },
+  {
+    "question": "Nếu kết quả đấu giá bị Tòa án tuyên hủy thì hợp đồng công chứng phát sinh từ kết quả đấu giá đó có nguy cơ:",
+    "a": "Đương nhiên có hiệu lực",
+    "b": "Bị xem xét vô hiệu theo giao dịch gốc",
+    "c": "Được miễn mọi nghĩa vụ",
+    "d": "Tự động chuyển thành hợp đồng đặt cọc",
+    "answer": "b",
+    "explanation": "Điều 131 Bộ luật Dân sự 2015 quy định hậu quả pháp lý của giao dịch dân sự vô hiệu; trường hợp giao dịch phát sinh từ kết quả đấu giá bị hủy thì hợp đồng liên quan có thể bị xem xét vô hiệu."
+  },
+  {
+    "question": "Biên bản đấu giá tài sản là căn cứ chủ yếu để:",
+    "a": "Xác nhận kết quả đấu giá",
+    "b": "Thay thế giấy chứng nhận quyền sử dụng đất",
+    "c": "Miễn nghĩa vụ thuế",
+    "d": "Thay thế giấy tờ tùy thân",
+    "answer": "a",
+    "explanation": "Điều 47 và Điều 48 Luật Đấu giá tài sản 2016 quy định biên bản đấu giá là căn cứ xác nhận diễn biến và kết quả cuộc đấu giá."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, người trúng đấu giá là:",
+    "a": "Người đăng ký đầu tiên",
+    "b": "Người được công nhận trúng đấu giá theo quy định pháp luật",
+    "c": "Người có hộ khẩu tại nơi có tài sản",
+    "d": "Người có tài sản đấu giá",
+    "answer": "b",
+    "explanation": "Khoản 6 Điều 5 Luật Đấu giá tài sản 2016 quy định người trúng đấu giá là người được công nhận trúng đấu giá theo quy định."
+  },
+  {
+    "question": "Khi công chứng hợp đồng chuyển nhượng tài sản đấu giá là quyền sử dụng đất, giấy tờ nào sau đây đặc biệt quan trọng?",
+    "a": "Biên bản họp gia đình",
+    "b": "Văn bản xác nhận kết quả trúng đấu giá hợp pháp",
+    "c": "Giấy xác nhận độc thân của đấu giá viên",
+    "d": "Sổ tạm trú của người mua",
+    "answer": "b",
+    "explanation": "Theo Điều 42 Luật Công chứng 2024, công chứng viên phải kiểm tra giấy tờ làm căn cứ xác lập quyền sử dụng đất của bên chuyển nhượng, bao gồm hồ sơ đấu giá hợp pháp."
+  },
+  {
+    "question": "Trong thực tiễn công chứng, tài sản đấu giá nào sau đây thường phát sinh yêu cầu công chứng hợp đồng?",
+    "a": "Quần áo thanh lý",
+    "b": "Quyền sử dụng đất",
+    "c": "Hàng tiêu dùng thông thường",
+    "d": "Tài sản không đăng ký quyền sở hữu",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 27 Luật Đất đai 2024 quy định hợp đồng chuyển nhượng quyền sử dụng đất thuộc trường hợp phải công chứng hoặc chứng thực."
+  },
+  {
+    "question": "Người mua trúng đấu giá tài sản thi hành án dân sự được bảo vệ quyền lợi nếu:",
+    "a": "Việc bán đấu giá được thực hiện đúng quy định pháp luật",
+    "b": "Người bị thi hành án đồng ý miệng",
+    "c": "Có xác nhận của tổ dân phố",
+    "d": "Không có hồ sơ thi hành án",
+    "answer": "a",
+    "explanation": "Điều 103 và Điều 106 Luật Thi hành án dân sự quy định việc bán đấu giá và chuyển quyền tài sản thi hành án phải thực hiện theo đúng trình tự pháp luật để bảo vệ quyền lợi người mua."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, người tham gia đấu giá không được hoàn lại tiền đặt trước nếu:",
+    "a": "Không trúng đấu giá",
+    "b": "Rút lại giá đã trả hoặc từ chối mua tài sản sau khi trúng đấu giá",
+    "c": "Đến đúng giờ",
+    "d": "Xem tài sản trước đấu giá",
+    "answer": "b",
+    "explanation": "Khoản 6 Điều 39 Luật Đấu giá tài sản 2016 quy định các trường hợp không được hoàn trả tiền đặt trước."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, hành vi thông đồng dìm giá trong đấu giá là:",
+    "a": "Được phép nếu có thỏa thuận",
+    "b": "Hành vi bị nghiêm cấm",
+    "c": "Chỉ bị xử lý nội bộ",
+    "d": "Không ảnh hưởng kết quả đấu giá",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 10 Luật Đấu giá tài sản 2016 nghiêm cấm hành vi thông đồng, móc nối, dìm giá trong đấu giá tài sản."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, hình thức đấu giá tài sản bao gồm nội dung nào sau đây?",
+    "a": "Trả giá lên và đặt giá xuống",
+    "b": "Đấu giá trực tiếp bằng lời nói, đấu giá bằng bỏ phiếu và đấu giá trực tuyến",
+    "c": "Đấu giá công khai và đấu giá bí mật",
+    "d": "Đấu giá bắt buộc và đấu giá tự nguyện",
+    "answer": "b",
+    "explanation": "Điều 40 Luật Đấu giá tài sản 2016 quy định các hình thức đấu giá gồm: đấu giá trực tiếp bằng lời nói tại cuộc đấu giá; đấu giá bằng bỏ phiếu trực tiếp tại cuộc đấu giá; đấu giá bằng bỏ phiếu gián tiếp; đấu giá trực tuyến."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, trả giá lên là:",
+    "a": "Hình thức đấu giá",
+    "b": "Nguyên tắc đấu giá",
+    "c": "Phương thức đấu giá",
+    "d": "Trình tự đấu giá",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 41 Luật Đấu giá tài sản 2016 quy định phương thức đấu giá gồm phương thức trả giá lên và phương thức đặt giá xuống."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, đấu giá trực tuyến được xác định là:",
+    "a": "Một phương thức đấu giá",
+    "b": "Một hình thức đấu giá",
+    "c": "Một nguyên tắc đấu giá",
+    "d": "Một biện pháp cưỡng chế",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 40 Luật Đấu giá tài sản 2016 quy định đấu giá trực tuyến là một hình thức đấu giá."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, phương thức đặt giá xuống là:",
+    "a": "Giảm dần từ giá khởi điểm cho đến khi có người chấp nhận",
+    "b": "Người tham gia trả giá cao dần",
+    "c": "Đấu giá bằng bỏ phiếu kín",
+    "d": "Đấu giá thông qua công chứng viên",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 41 Luật Đấu giá tài sản 2016 quy định phương thức đặt giá xuống là phương thức mà mức giá được giảm dần từ giá khởi điểm cho đến khi có người chấp nhận giá."
+  },
+  {
+    "question": "Đấu giá bằng bỏ phiếu gián tiếp theo Luật Đấu giá tài sản 2016 là hình thức:",
+    "a": "Người tham gia trả giá trực tiếp tại cuộc đấu giá",
+    "b": "Người tham gia gửi phiếu trả giá trước cuộc đấu giá",
+    "c": "Đấu giá bằng lời nói",
+    "d": "Đấu giá trực tuyến trên Cổng quốc gia",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 40 Luật Đấu giá tài sản 2016 quy định đấu giá bằng bỏ phiếu gián tiếp là hình thức người tham gia gửi phiếu trả giá trước cuộc đấu giá."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, đấu giá trực tiếp bằng lời nói tại cuộc đấu giá là:",
+    "a": "Một hình thức đấu giá",
+    "b": "Một phương thức đấu giá",
+    "c": "Một nguyên tắc đấu giá",
+    "d": "Một loại tài sản đấu giá",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 40 Luật Đấu giá tài sản 2016 quy định đấu giá trực tiếp bằng lời nói tại cuộc đấu giá là một hình thức đấu giá."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, nội dung nào sau đây là phương thức đấu giá chứ không phải hình thức đấu giá?",
+    "a": "Đấu giá trực tuyến",
+    "b": "Đấu giá bằng bỏ phiếu trực tiếp",
+    "c": "Đặt giá xuống",
+    "d": "Đấu giá bằng bỏ phiếu gián tiếp",
+    "answer": "c",
+    "explanation": "Điều 40 Luật Đấu giá tài sản 2016 quy định về hình thức đấu giá; Điều 41 quy định phương thức đấu giá gồm trả giá lên và đặt giá xuống."
+  },
+  {
+    "question": "Theo Luật Đấu giá tài sản 2016, hình thức đấu giá nào sau đây cho phép người tham gia trả giá mà không cần có mặt trực tiếp tại cuộc đấu giá?",
+    "a": "Đấu giá trực tiếp bằng lời nói",
+    "b": "Đấu giá bằng bỏ phiếu gián tiếp",
+    "c": "Đấu giá bằng lời nói tại chỗ",
+    "d": "Trả giá lên",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 40 Luật Đấu giá tài sản 2016 quy định đấu giá bằng bỏ phiếu gián tiếp là hình thức người tham gia gửi phiếu trả giá trước cuộc đấu giá."
   }
 ]
 
