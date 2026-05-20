@@ -1,5 +1,482 @@
 [
   {
+    "question": "Theo BLDS 2015, tài sản bao gồm những loại nào?",
+    "a": "Chỉ vật và tiền",
+    "b": "Vật, tiền, giấy tờ có giá và quyền tài sản",
+    "c": "Chỉ động sản và bất động sản",
+    "d": "Chỉ quyền tài sản và vật",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 105 BLDS 2015 quy định tài sản gồm vật, tiền, giấy tờ có giá và quyền tài sản."
+  },
+  {
+    "question": "Theo BLDS 2015, tài sản bao gồm cách phân loại nào sau đây?",
+    "a": "Tài sản hữu hình và vô hình",
+    "b": "Tài sản công và tư",
+    "c": "Bất động sản và động sản",
+    "d": "Tài sản trong nước và ngoài nước",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 105 BLDS 2015 quy định tài sản gồm bất động sản và động sản."
+  },
+  {
+    "question": "Theo BLDS 2015, quyền sở hữu đối với bất động sản được xử lý như thế nào?",
+    "a": "Không cần đăng ký",
+    "b": "Phải đăng ký theo quy định pháp luật",
+    "c": "Chỉ cần công chứng",
+    "d": "Chỉ cần giao nhận thực tế",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 106 BLDS 2015 quy định quyền sở hữu bất động sản phải đăng ký theo pháp luật."
+  },
+  {
+    "question": "Theo BLDS 2015, động sản có bắt buộc phải đăng ký không?",
+    "a": "Luôn phải đăng ký",
+    "b": "Không phải đăng ký, trừ trường hợp pháp luật có quy định",
+    "c": "Chỉ đăng ký khi có giá trị lớn",
+    "d": "Chỉ đăng ký khi mua bán",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 106 BLDS 2015 quy định động sản không bắt buộc đăng ký trừ trường hợp luật có quy định."
+  },
+  {
+    "question": "Theo BLDS 2015, đất đai thuộc loại tài sản nào?",
+    "a": "Động sản",
+    "b": "Bất động sản",
+    "c": "Quyền tài sản",
+    "d": "Hoa lợi",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 107 BLDS 2015 quy định đất đai là bất động sản."
+  },
+  {
+    "question": "Theo BLDS 2015, tài sản hình thành trong tương lai bao gồm trường hợp nào?",
+    "a": "Tài sản đã có giấy chứng nhận",
+    "b": "Tài sản chưa hình thành hoặc đã hình thành nhưng quyền sở hữu xác lập sau",
+    "c": "Chỉ tài sản vô hình",
+    "d": "Chỉ tài sản công",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 108 BLDS 2015 quy định tài sản hình thành trong tương lai gồm tài sản chưa hình thành hoặc đã hình thành nhưng quyền sở hữu xác lập sau."
+  },
+  {
+    "question": "Theo BLDS 2015, hoa lợi được hiểu là gì?",
+    "a": "Khoản lợi nhuận từ kinh doanh",
+    "b": "Sản vật tự nhiên mà tài sản mang lại",
+    "c": "Tiền lãi ngân hàng",
+    "d": "Khoản thu từ chuyển nhượng",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 109 BLDS 2015 quy định hoa lợi là sản vật tự nhiên mà tài sản mang lại."
+  },
+  {
+    "question": "Theo BLDS 2015, vật phụ là gì?",
+    "a": "Vật không có giá trị sử dụng",
+    "b": "Vật trực tiếp phục vụ khai thác công dụng của vật chính",
+    "c": "Vật tiêu hao",
+    "d": "Vật không xác định được",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 110 BLDS 2015 quy định vật phụ là vật phục vụ cho vật chính."
+  },
+  {
+    "question": "Theo BLDS 2015, vật tiêu hao là gì?",
+    "a": "Vật dùng nhiều lần không thay đổi",
+    "b": "Vật sau một lần sử dụng bị mất hoặc không giữ nguyên tính chất",
+    "c": "Vật phải đăng ký",
+    "d": "Vật không thể chuyển giao",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 112 BLDS 2015 quy định vật tiêu hao là vật mất đi hoặc không giữ nguyên tính chất sau một lần sử dụng."
+  },
+  {
+    "question": "Theo BLDS 2015, vật đặc định là gì?",
+    "a": "Vật có thể thay thế bằng vật khác",
+    "b": "Vật xác định bằng đặc điểm riêng như hình dáng, ký hiệu, vị trí",
+    "c": "Vật không có giá trị",
+    "d": "Vật tiêu hao",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 113 BLDS 2015 quy định vật đặc định được xác định bằng đặc điểm riêng."
+  },
+  {
+    "question": "Theo BLDS 2015, giao dịch dân sự bao gồm những loại nào?",
+    "a": "Hợp đồng và hành vi pháp lý đơn phương",
+    "b": "Hợp đồng và thỏa thuận miệng",
+    "c": "Hành vi thực tế và văn bản công chứng",
+    "d": "Hợp đồng và quyết định hành chính",
+    "answer": "a",
+    "explanation": "Điều 116 BLDS 2015 quy định giao dịch dân sự gồm hợp đồng hoặc hành vi pháp lý đơn phương làm phát sinh, thay đổi hoặc chấm dứt quyền nghĩa vụ dân sự."
+  },
+  {
+    "question": "Theo BLDS 2015, điều kiện nào là bắt buộc để giao dịch dân sự có hiệu lực?",
+    "a": "Có công chứng hoặc chứng thực",
+    "b": "Chủ thể có năng lực, tự nguyện, mục đích nội dung không vi phạm điều cấm, đạo đức xã hội",
+    "c": "Có người làm chứng",
+    "d": "Có tài sản đảm bảo",
+    "answer": "b",
+    "explanation": "Điều 117 BLDS 2015 quy định 3 điều kiện cơ bản về chủ thể, ý chí tự nguyện và mục đích nội dung hợp pháp."
+  },
+  {
+    "question": "Trong trường hợp nào hình thức là điều kiện có hiệu lực của giao dịch dân sự?",
+    "a": "Khi các bên thỏa thuận",
+    "b": "Khi luật có quy định bắt buộc",
+    "c": "Khi tài sản có giá trị lớn",
+    "d": "Khi có tranh chấp",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 117 BLDS 2015 quy định hình thức chỉ là điều kiện có hiệu lực khi luật có quy định."
+  },
+  {
+    "question": "Theo BLDS 2015, hình thức giao dịch dân sự không bao gồm loại nào?",
+    "a": "Bằng lời nói",
+    "b": "Bằng văn bản",
+    "c": "Bằng hành vi cụ thể",
+    "d": "Bằng quyết định hành chính",
+    "answer": "d",
+    "explanation": "Điều 119 BLDS 2015 chỉ quy định 3 hình thức: lời nói, văn bản, hành vi cụ thể."
+  },
+  {
+    "question": "Theo BLDS 2015, giao dịch điện tử được coi là hình thức nào?",
+    "a": "Lời nói",
+    "b": "Hành vi",
+    "c": "Văn bản",
+    "d": "Không phải giao dịch dân sự",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 119 BLDS 2015 quy định giao dịch điện tử được coi là giao dịch bằng văn bản."
+  },
+  {
+    "question": "Theo BLDS 2015, giao dịch dân sự có điều kiện phát sinh hoặc hủy bỏ được xử lý thế nào?",
+    "a": "Luôn vô hiệu",
+    "b": "Không có giá trị pháp lý",
+    "c": "Phát sinh hoặc hủy bỏ khi điều kiện xảy ra",
+    "d": "Chỉ có hiệu lực khi công chứng",
+    "answer": "c",
+    "explanation": "Điều 120 BLDS 2015 quy định giao dịch có điều kiện sẽ phát sinh hoặc chấm dứt khi điều kiện xảy ra."
+  },
+  {
+    "question": "Nếu một bên cố ý cản trở điều kiện làm phát sinh giao dịch thì hậu quả pháp lý là gì?",
+    "a": "Giao dịch vô hiệu ngay",
+    "b": "Coi như điều kiện đã xảy ra",
+    "c": "Giao dịch tự động chấm dứt",
+    "d": "Phải hủy bỏ giao dịch",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 120 BLDS 2015 quy định nếu cố ý cản trở thì coi như điều kiện đã xảy ra."
+  },
+  {
+    "question": "Theo BLDS 2015, giao dịch dân sự được giải thích theo thứ tự ưu tiên nào?",
+    "a": "Theo ý chí, tập quán, mục đích",
+    "b": "Theo ý chí đích thực, mục đích, tập quán",
+    "c": "Theo luật, án lệ, tập quán",
+    "d": "Theo công chứng viên quyết định",
+    "answer": "b",
+    "explanation": "Điều 121 BLDS 2015 quy định giải thích theo: ý chí đích thực → mục đích → tập quán."
+  },
+  {
+    "question": "Trường hợp nào sau đây được giải thích theo quy định riêng ngoài Điều 121 BLDS 2015?",
+    "a": "Hợp đồng dân sự",
+    "b": "Di chúc",
+    "c": "Giao dịch điện tử",
+    "d": "Hợp đồng miệng",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 121 BLDS 2015 dẫn chiếu việc giải thích di chúc theo Điều 648 BLDS 2015."
+  },
+  {
+    "question": "Theo BLDS 2015, mục đích của giao dịch dân sự là gì?",
+    "a": "Nội dung hợp đồng",
+    "b": "Lợi ích mà chủ thể mong muốn đạt được",
+    "c": "Giá trị tài sản",
+    "d": "Hình thức giao dịch",
+    "answer": "b",
+    "explanation": "Điều 118 BLDS 2015 định nghĩa mục đích giao dịch là lợi ích mà chủ thể hướng tới."
+  },
+  {
+    "question": "Theo BLDS 2015, giao dịch dân sự vô hiệu được xác định khi nào?",
+    "a": "Khi không có công chứng",
+    "b": "Khi không đủ điều kiện theo Điều 117 BLDS 2015, trừ trường hợp luật có quy định khác",
+    "c": "Khi có tranh chấp",
+    "d": "Khi một bên không thực hiện nghĩa vụ",
+    "answer": "b",
+    "explanation": "Điều 122 BLDS 2015 quy định giao dịch vô hiệu khi không có đủ điều kiện tại Điều 117, trừ trường hợp luật có quy định khác."
+  },
+  {
+    "question": "Giao dịch dân sự có mục đích vi phạm điều cấm của luật hoặc trái đạo đức xã hội thì hậu quả pháp lý là gì?",
+    "a": "Có hiệu lực nếu đã thực hiện",
+    "b": "Vô hiệu tuyệt đối",
+    "c": "Chỉ vô hiệu nếu có tranh chấp",
+    "d": "Vẫn có hiệu lực nếu công chứng",
+    "answer": "b",
+    "explanation": "Điều 123 BLDS 2015 quy định giao dịch có mục đích, nội dung vi phạm điều cấm của luật hoặc trái đạo đức xã hội thì vô hiệu."
+  },
+  {
+    "question": "Trong giao dịch dân sự, điều cấm của luật được hiểu là gì?",
+    "a": "Quy định khuyến khích thực hiện",
+    "b": "Quy định không cho phép chủ thể thực hiện hành vi nhất định",
+    "c": "Quy định về thủ tục hành chính",
+    "d": "Quy định về nghĩa vụ thuế",
+    "answer": "b",
+    "explanation": "Khoản giải thích Điều 123 BLDS 2015 xác định điều cấm là quy định không cho phép thực hiện hành vi nhất định."
+  },
+  {
+    "question": "Giao dịch giả tạo nhằm che giấu giao dịch khác thì hậu quả pháp lý là gì?",
+    "a": "Cả hai giao dịch đều có hiệu lực",
+    "b": "Giao dịch giả tạo vô hiệu, giao dịch bị che giấu có thể có hiệu lực",
+    "c": "Giao dịch bị che giấu luôn vô hiệu",
+    "d": "Tùy Tòa án quyết định toàn bộ",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 124 BLDS 2015 quy định giao dịch giả tạo vô hiệu, giao dịch bị che giấu có thể có hiệu lực nếu không vi phạm luật."
+  },
+  {
+    "question": "Trường hợp giao dịch giả tạo nhằm trốn tránh nghĩa vụ với người thứ ba thì hậu quả pháp lý là gì?",
+    "a": "Giao dịch có hiệu lực",
+    "b": "Giao dịch vô hiệu",
+    "c": "Chỉ vô hiệu một phần",
+    "d": "Không bị ảnh hưởng",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 124 BLDS 2015 quy định giao dịch giả tạo nhằm trốn tránh nghĩa vụ với người thứ ba thì vô hiệu."
+  },
+  {
+    "question": "Theo BLDS 2015, giao dịch dân sự do người chưa thành niên xác lập có thể bị xử lý thế nào?",
+    "a": "Luôn có hiệu lực nếu tự nguyện",
+    "b": "Có thể bị tuyên vô hiệu theo yêu cầu của người đại diện nếu luật yêu cầu phải do người đại diện xác lập hoặc đồng ý",
+    "c": "Luôn vô hiệu tuyệt đối",
+    "d": "Chỉ vô hiệu nếu có tranh chấp",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 125 BLDS 2015 quy định giao dịch của người chưa thành niên có thể bị tuyên vô hiệu nếu phải do người đại diện xác lập hoặc đồng ý."
+  },
+  {
+    "question": "Giao dịch dân sự nào sau đây KHÔNG bị vô hiệu theo Điều 125 BLDS 2015?",
+    "a": "Người 10 tuổi mua đồ dùng thiết yếu",
+    "b": "Người mất năng lực hành vi dân sự ký hợp đồng vay tiền",
+    "c": "Người chưa thành niên ký hợp đồng bán nhà",
+    "d": "Người bị hạn chế năng lực hành vi dân sự tự chuyển nhượng đất",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 125 BLDS 2015 quy định giao dịch nhằm đáp ứng nhu cầu thiết yếu hàng ngày của người chưa đủ 6 tuổi hoặc mất năng lực hành vi dân sự thì không bị vô hiệu."
+  },
+  {
+    "question": "Theo BLDS 2015, giao dịch dân sự chỉ làm phát sinh quyền hoặc miễn nghĩa vụ cho người chưa thành niên thì hậu quả pháp lý là gì?",
+    "a": "Vô hiệu",
+    "b": "Không bị vô hiệu",
+    "c": "Bị đình chỉ",
+    "d": "Tùy Tòa án quyết định",
+    "answer": "b",
+    "explanation": "Điểm b khoản 2 Điều 125 BLDS 2015 quy định trường hợp chỉ phát sinh quyền hoặc miễn nghĩa vụ thì giao dịch không bị vô hiệu."
+  },
+  {
+    "question": "Theo BLDS 2015, giao dịch dân sự được xác lập do nhầm lẫn có thể bị xử lý thế nào?",
+    "a": "Luôn vô hiệu",
+    "b": "Có thể bị tuyên vô hiệu nếu làm cho một hoặc các bên không đạt mục đích giao dịch",
+    "c": "Luôn có hiệu lực",
+    "d": "Chỉ vô hiệu nếu có công chứng sai",
+    "answer": "b",
+    "explanation": "Điều 126 BLDS 2015 quy định giao dịch do nhầm lẫn có thể bị tuyên vô hiệu nếu làm ảnh hưởng mục đích giao dịch."
+  },
+  {
+    "question": "Theo BLDS 2015, giao dịch do nhầm lẫn KHÔNG bị vô hiệu trong trường hợp nào?",
+    "a": "Mục đích giao dịch đã đạt được",
+    "b": "Có tranh chấp giữa các bên",
+    "c": "Có công chứng sai sót",
+    "d": "Một bên không đọc hợp đồng",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 126 BLDS 2015 quy định nếu mục đích giao dịch đã đạt được hoặc có thể khắc phục nhầm lẫn thì không vô hiệu."
+  },
+  {
+    "question": "Theo BLDS 2015, giao dịch dân sự do bị lừa dối, đe dọa, cưỡng ép thì quyền xử lý thuộc về ai?",
+    "a": "Cơ quan công chứng",
+    "b": "Tòa án hoặc bên bị lừa dối, đe dọa, cưỡng ép yêu cầu tuyên vô hiệu",
+    "c": "UBND cấp xã",
+    "d": "Công chứng viên",
+    "answer": "b",
+    "explanation": "Điều 127 BLDS 2015 quy định bên bị lừa dối, đe dọa, cưỡng ép có quyền yêu cầu Tòa án tuyên bố giao dịch vô hiệu."
+  },
+  {
+    "question": "Theo BLDS 2015, hành vi lừa dối trong giao dịch dân sự là gì?",
+    "a": "Không đọc hợp đồng",
+    "b": "Cố ý làm bên kia hiểu sai về chủ thể, đối tượng hoặc nội dung giao dịch",
+    "c": "Không thực hiện nghĩa vụ",
+    "d": "Vi phạm thủ tục hành chính",
+    "answer": "b",
+    "explanation": "Điều 127 BLDS 2015 định nghĩa lừa dối là hành vi cố ý làm cho bên kia hiểu sai lệch về giao dịch."
+  },
+  {
+    "question": "Theo BLDS 2015, giao dịch dân sự do người có năng lực hành vi nhưng không nhận thức được hành vi tại thời điểm xác lập thì có thể xử lý thế nào?",
+    "a": "Luôn hợp pháp",
+    "b": "Có thể bị Tòa án tuyên vô hiệu",
+    "c": "Luôn vô hiệu tuyệt đối",
+    "d": "Chỉ bị phạt hành chính",
+    "answer": "b",
+    "explanation": "Điều 128 BLDS 2015 quy định người không nhận thức và làm chủ hành vi tại thời điểm xác lập giao dịch có quyền yêu cầu tuyên vô hiệu."
+  },
+  {
+    "question": "Theo BLDS 2015, giao dịch dân sự vi phạm quy định về hình thức thì hậu quả pháp lý là gì?",
+    "a": "Luôn có hiệu lực nếu có công chứng miệng",
+    "b": "Vô hiệu, trừ trường hợp luật có quy định khác",
+    "c": "Luôn có hiệu lực nếu các bên đồng ý",
+    "d": "Chỉ bị xử phạt hành chính",
+    "answer": "b",
+    "explanation": "Điều 129 BLDS 2015 quy định giao dịch vi phạm hình thức thì vô hiệu, trừ trường hợp luật có quy định khác."
+  },
+  {
+    "question": "Trường hợp nào giao dịch vi phạm hình thức nhưng vẫn có thể được Tòa án công nhận hiệu lực?",
+    "a": "Không ký hợp đồng",
+    "b": "Các bên đã thực hiện ít nhất 2/3 nghĩa vụ trong giao dịch",
+    "c": "Không có người làm chứng",
+    "d": "Không có tài sản đảm bảo",
+    "answer": "b",
+    "explanation": "Khoản 1 và 2 Điều 129 BLDS 2015 quy định nếu đã thực hiện ít nhất 2/3 nghĩa vụ thì Tòa án có thể công nhận hiệu lực."
+  },
+  {
+    "question": "Theo BLDS 2015, giao dịch dân sự vô hiệu từng phần được hiểu là:",
+    "a": "Toàn bộ giao dịch không có giá trị",
+    "b": "Chỉ một phần nội dung vô hiệu nhưng không ảnh hưởng phần còn lại",
+    "c": "Giao dịch không thể sửa chữa",
+    "d": "Giao dịch chỉ vô hiệu khi có tranh chấp",
+    "answer": "b",
+    "explanation": "Điều 130 BLDS 2015 quy định giao dịch vô hiệu từng phần khi một phần vô hiệu nhưng không ảnh hưởng phần còn lại."
+  },
+  {
+    "question": "Theo BLDS 2015, hậu quả pháp lý của giao dịch dân sự vô hiệu là gì?",
+    "a": "Các bên vẫn giữ nguyên quyền nghĩa vụ",
+    "b": "Không phát sinh, thay đổi, chấm dứt quyền nghĩa vụ từ thời điểm xác lập",
+    "c": "Chỉ vô hiệu từ thời điểm Tòa án tuyên",
+    "d": "Chỉ bên vi phạm bị xử lý",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 131 BLDS 2015 quy định giao dịch vô hiệu không làm phát sinh, thay đổi, chấm dứt quyền nghĩa vụ từ thời điểm xác lập."
+  },
+  {
+    "question": "Nguyên tắc xử lý khi giao dịch dân sự vô hiệu là gì?",
+    "a": "Các bên giữ tài sản đã nhận",
+    "b": "Khôi phục tình trạng ban đầu, hoàn trả cho nhau những gì đã nhận",
+    "c": "Chỉ bên có lỗi hoàn trả",
+    "d": "Tòa án quyết định không cần hoàn trả",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 131 BLDS 2015 quy định phải hoàn trả cho nhau những gì đã nhận."
+  },
+  {
+    "question": "Theo BLDS 2015, bên ngay tình trong việc thu hoa lợi, lợi tức thì xử lý thế nào?",
+    "a": "Phải hoàn trả toàn bộ",
+    "b": "Không phải hoàn trả hoa lợi, lợi tức",
+    "c": "Chỉ hoàn trả một phần",
+    "d": "Phải nộp lại cho Nhà nước",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 131 BLDS 2015 quy định bên ngay tình không phải hoàn trả hoa lợi, lợi tức."
+  },
+  {
+    "question": "Theo BLDS 2015, thời hiệu yêu cầu tuyên bố giao dịch dân sự vô hiệu theo các trường hợp nhầm lẫn, lừa dối, đe dọa là bao lâu?",
+    "a": "01 năm",
+    "b": "02 năm",
+    "c": "03 năm",
+    "d": "Không hạn chế",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 132 BLDS 2015 quy định thời hiệu là 02 năm đối với các trường hợp này."
+  },
+  {
+    "question": "Trường hợp nào KHÔNG bị hạn chế thời hiệu yêu cầu tuyên bố giao dịch dân sự vô hiệu?",
+    "a": "Nhầm lẫn",
+    "b": "Lừa dối",
+    "c": "Giao dịch vi phạm điều cấm của luật",
+    "d": "Giao dịch do bị đe dọa",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 132 BLDS 2015 quy định giao dịch vi phạm điều cấm hoặc trái đạo đức xã hội không bị hạn chế thời hiệu."
+  },
+  {
+    "question": "Theo BLDS 2015, tài sản đã đăng ký rồi chuyển giao cho người thứ ba ngay tình thì giao dịch với người thứ ba có hiệu lực không?",
+    "a": "Luôn vô hiệu",
+    "b": "Có hiệu lực nếu người thứ ba căn cứ vào đăng ký hợp pháp",
+    "c": "Không bao giờ có hiệu lực",
+    "d": "Chỉ có hiệu lực nếu có công chứng lại",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 133 BLDS 2015 quy định giao dịch với người thứ ba ngay tình dựa trên đăng ký hợp pháp thì không vô hiệu."
+  },
+  {
+    "question": "Theo BLDS 2015, trong trường hợp giao dịch vô hiệu nhưng tài sản chuyển cho người thứ ba ngay tình, chủ sở hữu có quyền gì?",
+    "a": "Đòi lại tài sản trực tiếp",
+    "b": "Khởi kiện người có lỗi để yêu cầu bồi thường",
+    "c": "Không có quyền gì",
+    "d": "Yêu cầu hủy toàn bộ giao dịch",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 133 BLDS 2015 quy định chủ sở hữu không đòi lại tài sản nhưng có quyền yêu cầu bồi thường từ người có lỗi."
+  },
+{
+      "question": "Ông A chuyển nhượng cho B quyền sử dụng đất sẽ hình thành từ dự án nhà ở trong tương lai. Hợp đồng này được đánh giá thế nào theo BLDS 2015?",
+      "a": "Luôn vô hiệu vì đất phải là tài sản hiện có",
+      "b": "Có thể có hiệu lực nếu pháp luật chuyên ngành không cấm và đáp ứng điều kiện giao dịch",
+      "c": "Chỉ có hiệu lực khi đã đăng ký biến động đất đai",
+      "d": "Vô hiệu vì quyền sử dụng đất không phải tài sản",
+      "answer": "b",
+      "explanation": "BLDS 2015 cho phép tài sản hình thành trong tương lai là đối tượng giao dịch nếu pháp luật không cấm."
+    },
+    {
+      "question": "Một hợp đồng mua bán nhà đất được lập nhằm che giấu việc tặng cho để tránh thuế. Hậu quả pháp lý đúng là:",
+      "a": "Cả hai giao dịch đều có hiệu lực",
+      "b": "Giao dịch giả tạo vô hiệu, giao dịch bị che giấu có thể có hiệu lực",
+      "c": "Giao dịch bị che giấu luôn vô hiệu",
+      "d": "Tòa án tự công nhận cả hai giao dịch",
+      "answer": "b",
+      "explanation": "Điều 124 BLDS 2015 quy định giao dịch giả tạo vô hiệu, giao dịch bị che giấu có thể có hiệu lực."
+    },
+    {
+      "question": "Người 16 tuổi tự ý ký hợp đồng bán căn nhà thuộc sở hữu của mình mà không có sự đồng ý của người đại diện. Hậu quả pháp lý:",
+      "a": "Có hiệu lực vì có năng lực hành vi một phần",
+      "b": "Có thể bị tuyên vô hiệu nếu pháp luật yêu cầu phải có đại diện",
+      "c": "Luôn có hiệu lực nếu đã công chứng",
+      "d": "Chỉ vô hiệu nếu gây thiệt hại",
+      "answer": "b",
+      "explanation": "Điều 125 BLDS 2015 quy định giao dịch của người chưa thành niên có thể bị vô hiệu nếu phải có đại diện xác lập."
+    },
+    {
+      "question": "Ông A ký hợp đồng bán đất khi đang trong tình trạng bệnh lý làm mất khả năng nhận thức tạm thời. Hướng xử lý đúng là:",
+      "a": "Luôn có hiệu lực",
+      "b": "Có thể bị tuyên vô hiệu theo yêu cầu của người có quyền lợi liên quan",
+      "c": "Chỉ vô hiệu nếu có chứng cứ công chứng sai",
+      "d": "Không thể vô hiệu",
+      "answer": "b",
+      "explanation": "Điều 128 BLDS 2015 cho phép tuyên vô hiệu nếu người xác lập không nhận thức và làm chủ hành vi."
+    },
+    {
+      "question": "Hợp đồng chuyển nhượng quyền sử dụng đất không được công chứng theo quy định bắt buộc, nhưng các bên đã thực hiện xong nghĩa vụ. Hậu quả pháp lý:",
+      "a": "Vô hiệu tuyệt đối",
+      "b": "Có thể được Tòa án công nhận hiệu lực",
+      "c": "Không có giá trị pháp lý",
+      "d": "Tự động hợp pháp hóa",
+      "answer": "b",
+      "explanation": "Điều 129 BLDS 2015 cho phép công nhận hiệu lực nếu đã thực hiện ít nhất 2/3 nghĩa vụ."
+    },
+    {
+      "question": "Giao dịch dân sự vô hiệu thì hậu quả pháp lý chung là:",
+      "a": "Chỉ bên vi phạm bị xử lý",
+      "b": "Không phát sinh quyền, nghĩa vụ từ thời điểm xác lập",
+      "c": "Có hiệu lực từ thời điểm ký",
+      "d": "Chỉ bị hủy phần vi phạm",
+      "answer": "b",
+      "explanation": "Điều 131 BLDS 2015 quy định giao dịch vô hiệu không làm phát sinh quyền nghĩa vụ."
+    },
+    {
+      "question": "Trong giao dịch vô hiệu, bên ngay tình thu hoa lợi từ tài sản thì:",
+      "a": "Phải hoàn trả toàn bộ",
+      "b": "Không phải hoàn trả",
+      "c": "Chỉ hoàn trả một phần",
+      "d": "Phải nộp cho Nhà nước",
+      "answer": "b",
+      "explanation": "Khoản 3 Điều 131 BLDS 2015 bảo vệ bên ngay tình."
+    },
+    {
+      "question": "Thời hiệu yêu cầu tuyên bố giao dịch vô hiệu do nhầm lẫn là:",
+      "a": "01 năm",
+      "b": "02 năm",
+      "c": "03 năm",
+      "d": "Không hạn chế",
+      "answer": "b",
+      "explanation": "Điều 132 BLDS 2015 quy định thời hiệu là 02 năm."
+    },
+    {
+      "question": "Trường hợp nào KHÔNG áp dụng thời hiệu 02 năm trong giao dịch vô hiệu?",
+      "a": "Lừa dối",
+      "b": "Nhầm lẫn",
+      "c": "Vi phạm điều cấm của luật",
+      "d": "Bị đe dọa",
+      "answer": "c",
+      "explanation": "Giao dịch vi phạm điều cấm hoặc trái đạo đức xã hội không bị hạn chế thời hiệu."
+    },
+    {
+      "question": "Tài sản đã đăng ký hợp pháp và được chuyển giao cho người thứ ba ngay tình thì giao dịch với người thứ ba:",
+      "a": "Luôn vô hiệu",
+      "b": "Có hiệu lực nếu căn cứ vào đăng ký hợp pháp",
+      "c": "Bị hủy bỏ",
+      "d": "Phải đăng ký lại",
+      "answer": "b",
+      "explanation": "Điều 133 BLDS 2015 bảo vệ người thứ ba ngay tình dựa trên đăng ký."
+    },
+  {
     "question": "Theo Bộ luật Dân sự 2015, năng lực pháp luật dân sự của cá nhân chấm dứt khi nào?",
     "a": "Khi đủ 18 tuổi",
     "b": "Khi bị Tòa án tuyên mất năng lực hành vi dân sự",
