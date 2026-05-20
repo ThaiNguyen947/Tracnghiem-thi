@@ -1,0 +1,1109 @@
+[
+  {
+    "question": "Theo Bộ luật Dân sự 2015, năng lực pháp luật dân sự của cá nhân chấm dứt khi nào?",
+    "a": "Khi đủ 18 tuổi",
+    "b": "Khi bị Tòa án tuyên mất năng lực hành vi dân sự",
+    "c": "Khi chết",
+    "d": "Khi không còn tài sản",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 16 Bộ luật Dân sự 2015 quy định năng lực pháp luật dân sự của cá nhân có từ khi sinh ra và chấm dứt khi người đó chết."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, nhận định nào sau đây đúng?",
+    "a": "Mọi cá nhân đều có năng lực hành vi dân sự như nhau",
+    "b": "Mọi cá nhân đều có năng lực pháp luật dân sự như nhau",
+    "c": "Người đủ 15 tuổi có năng lực hành vi dân sự đầy đủ",
+    "d": "Người dưới 18 tuổi không có năng lực hành vi dân sự",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 16 Bộ luật Dân sự 2015 quy định mọi cá nhân đều có năng lực pháp luật dân sự như nhau."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, người chưa đủ sáu tuổi xác lập giao dịch dân sự thông qua chủ thể nào?",
+    "a": "Người giám hộ",
+    "b": "Người đại diện theo pháp luật",
+    "c": "Tòa án",
+    "d": "Công chứng viên",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 21 Bộ luật Dân sự 2015 quy định giao dịch dân sự của người chưa đủ sáu tuổi do người đại diện theo pháp luật xác lập, thực hiện."
+  },
+  {
+    "question": "Người từ đủ 6 tuổi đến chưa đủ 15 tuổi theo Bộ luật Dân sự 2015 khi xác lập giao dịch dân sự phải:",
+    "a": "Tự mình thực hiện mọi giao dịch",
+    "b": "Có sự đồng ý của người đại diện theo pháp luật, trừ giao dịch phục vụ nhu cầu sinh hoạt hằng ngày phù hợp lứa tuổi",
+    "c": "Được Tòa án đồng ý",
+    "d": "Có xác nhận của UBND cấp xã",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 21 Bộ luật Dân sự 2015 quy định người từ đủ 6 tuổi đến chưa đủ 15 tuổi phải có sự đồng ý của người đại diện theo pháp luật, trừ giao dịch phục vụ nhu cầu sinh hoạt hằng ngày phù hợp lứa tuổi."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, người từ đủ 15 tuổi đến chưa đủ 18 tuổi không được tự mình xác lập giao dịch nào sau đây?",
+    "a": "Mua sách giáo khoa",
+    "b": "Mua điện thoại giá thấp",
+    "c": "Chuyển nhượng quyền sử dụng đất",
+    "d": "Mua quần áo",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 21 Bộ luật Dân sự 2015 quy định người từ đủ 15 tuổi đến chưa đủ 18 tuổi không được tự mình xác lập giao dịch liên quan bất động sản nếu không có sự đồng ý của người đại diện theo pháp luật."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, căn cứ nào sau đây bắt buộc để Tòa án tuyên một người mất năng lực hành vi dân sự?",
+    "a": "Ý kiến gia đình",
+    "b": "Xác nhận của công an",
+    "c": "Kết luận giám định pháp y tâm thần",
+    "d": "Ý kiến của tổ dân phố",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 22 Bộ luật Dân sự 2015 quy định việc tuyên bố mất năng lực hành vi dân sự phải trên cơ sở kết luận giám định pháp y tâm thần."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, chủ thể nào có thẩm quyền tuyên bố một người mất năng lực hành vi dân sự?",
+    "a": "UBND cấp xã",
+    "b": "Sở Tư pháp",
+    "c": "Tòa án",
+    "d": "Văn phòng công chứng",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 22 Bộ luật Dân sự 2015 quy định Tòa án ra quyết định tuyên bố một người mất năng lực hành vi dân sự."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, giao dịch dân sự của người mất năng lực hành vi dân sự phải do ai xác lập, thực hiện?",
+    "a": "Người thân thích bất kỳ",
+    "b": "Người đại diện theo pháp luật",
+    "c": "Công chứng viên",
+    "d": "Cơ quan công an",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 22 Bộ luật Dân sự 2015 quy định giao dịch dân sự của người mất năng lực hành vi dân sự phải do người đại diện theo pháp luật xác lập, thực hiện."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, người có khó khăn trong nhận thức, làm chủ hành vi phải là:",
+    "a": "Người chưa thành niên",
+    "b": "Người thành niên",
+    "c": "Người dưới 15 tuổi",
+    "d": "Mọi cá nhân",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 23 Bộ luật Dân sự 2015 quy định người có khó khăn trong nhận thức, làm chủ hành vi là người thành niên."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, chủ thể nào sau đây có quyền yêu cầu Tòa án tuyên bố một người mất năng lực hành vi dân sự?",
+    "a": "Bất kỳ cá nhân nào",
+    "b": "Người có quyền, lợi ích liên quan hoặc cơ quan, tổ chức hữu quan",
+    "c": "Chỉ UBND cấp xã",
+    "d": "Chỉ cơ sở y tế",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 22 Bộ luật Dân sự 2015 quy định người có quyền, lợi ích liên quan hoặc cơ quan, tổ chức hữu quan có quyền yêu cầu Tòa án tuyên bố một người mất năng lực hành vi dân sự."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, người có khó khăn trong nhận thức, làm chủ hành vi được xác định trên cơ sở nào?",
+    "a": "Xác nhận của công an",
+    "b": "Kết luận giám định pháp y tâm thần",
+    "c": "Biên bản họp gia đình",
+    "d": "Ý kiến tổ dân phố",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 23 Bộ luật Dân sự 2015 quy định việc tuyên bố người có khó khăn trong nhận thức, làm chủ hành vi dựa trên kết luận giám định pháp y tâm thần."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, cơ quan nào xác định quyền, nghĩa vụ của người giám hộ đối với người có khó khăn trong nhận thức, làm chủ hành vi?",
+    "a": "UBND cấp xã",
+    "b": "Sở Tư pháp",
+    "c": "Tòa án",
+    "d": "Cơ quan công an",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 23 Bộ luật Dân sự 2015 quy định Tòa án chỉ định người giám hộ và xác định quyền, nghĩa vụ của người giám hộ."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, nhận định nào sau đây đúng?",
+    "a": "Người nghiện ma túy đương nhiên là người mất năng lực hành vi dân sự",
+    "b": "Người nghiện ma túy đương nhiên bị hạn chế năng lực hành vi dân sự",
+    "c": "Người nghiện ma túy chỉ bị hạn chế năng lực hành vi dân sự khi có quyết định của Tòa án",
+    "d": "Người nghiện ma túy không được sở hữu tài sản",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 24 Bộ luật Dân sự 2015 quy định Tòa án có thể tuyên bố người nghiện ma túy dẫn đến phá tán tài sản gia đình là người bị hạn chế năng lực hành vi dân sự."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, giao dịch nào sau đây người từ đủ 15 tuổi đến chưa đủ 18 tuổi có thể tự mình xác lập?",
+    "a": "Chuyển nhượng quyền sử dụng đất",
+    "b": "Tặng cho nhà ở",
+    "c": "Bán xe ô tô đã đăng ký",
+    "d": "Mua máy tính cá nhân",
+    "answer": "d",
+    "explanation": "Khoản 4 Điều 21 Bộ luật Dân sự 2015 quy định người từ đủ 15 tuổi đến chưa đủ 18 tuổi được tự mình xác lập giao dịch, trừ giao dịch liên quan bất động sản, động sản phải đăng ký và giao dịch khác theo luật."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, giao dịch dân sự phục vụ nhu cầu sinh hoạt hàng ngày phù hợp với lứa tuổi của người từ đủ 6 tuổi đến dưới 15 tuổi:",
+    "a": "Luôn vô hiệu",
+    "b": "Phải được Tòa án chấp thuận",
+    "c": "Không cần người đại diện theo pháp luật đồng ý",
+    "d": "Phải công chứng",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 21 Bộ luật Dân sự 2015 quy định người từ đủ 6 tuổi đến dưới 15 tuổi được tự mình thực hiện giao dịch phục vụ nhu cầu sinh hoạt hàng ngày phù hợp lứa tuổi."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, năng lực pháp luật dân sự của cá nhân:",
+    "a": "Có thể bị hạn chế theo ý chí cá nhân",
+    "b": "Không bị hạn chế, trừ trường hợp luật có quy định",
+    "c": "Chỉ phát sinh từ đủ 18 tuổi",
+    "d": "Bị chấm dứt khi mất năng lực hành vi dân sự",
+    "answer": "b",
+    "explanation": "Điều 18 Bộ luật Dân sự 2015 quy định năng lực pháp luật dân sự của cá nhân không bị hạn chế, trừ trường hợp Bộ luật này, luật khác có liên quan quy định khác."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, người mất năng lực hành vi dân sự:",
+    "a": "Không còn năng lực pháp luật dân sự",
+    "b": "Không có quyền sở hữu tài sản",
+    "c": "Vẫn có năng lực pháp luật dân sự",
+    "d": "Đương nhiên mất quyền thừa kế",
+    "answer": "c",
+    "explanation": "Bộ luật Dân sự 2015 phân biệt năng lực pháp luật dân sự với năng lực hành vi dân sự; người mất năng lực hành vi dân sự vẫn có năng lực pháp luật dân sự."
+  },
+  {
+    "question": "B bị bệnh tâm thần, có hồ sơ bệnh án nhưng chưa có quyết định của Tòa án tuyên mất năng lực hành vi dân sự. Theo Bộ luật Dân sự 2015, nhận định nào sau đây đúng?",
+    "a": "B đương nhiên là người mất năng lực hành vi dân sự",
+    "b": "Mọi giao dịch của B đều vô hiệu",
+    "c": "Chưa đủ căn cứ pháp lý xác định B là người mất năng lực hành vi dân sự",
+    "d": "Gia đình có quyền tự tuyên bố B mất năng lực hành vi dân sự",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 22 Bộ luật Dân sự 2015 quy định việc tuyên bố mất năng lực hành vi dân sự thuộc thẩm quyền của Tòa án."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, khi không còn căn cứ tuyên bố một người bị hạn chế năng lực hành vi dân sự thì cơ quan nào có thẩm quyền hủy bỏ quyết định đó?",
+    "a": "UBND cấp xã",
+    "b": "Sở Tư pháp",
+    "c": "Tòa án",
+    "d": "Cơ quan công an",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 24 Bộ luật Dân sự 2015 quy định Tòa án ra quyết định hủy bỏ quyết định tuyên bố hạn chế năng lực hành vi dân sự."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, người nghiện ma túy dẫn đến phá tán tài sản gia đình có thể bị Tòa án tuyên:",
+    "a": "Mất năng lực pháp luật dân sự",
+    "b": "Không có năng lực pháp luật dân sự",
+    "c": "Hạn chế năng lực hành vi dân sự",
+    "d": "Mất quyền sở hữu tài sản",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 24 Bộ luật Dân sự 2015 quy định người nghiện ma túy hoặc chất kích thích khác dẫn đến phá tán tài sản gia đình có thể bị Tòa án tuyên hạn chế năng lực hành vi dân sự."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, nhận định nào sau đây đúng về người bị hạn chế năng lực hành vi dân sự?",
+    "a": "Không được thực hiện bất kỳ giao dịch nào",
+    "b": "Mọi giao dịch đều vô hiệu",
+    "c": "Giao dịch liên quan tài sản phải có sự đồng ý của người đại diện theo pháp luật, trừ trường hợp luật quy định khác",
+    "d": "Đương nhiên mất quyền sở hữu tài sản",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 24 Bộ luật Dân sự 2015 quy định giao dịch liên quan tài sản của người bị hạn chế năng lực hành vi dân sự phải có sự đồng ý của người đại diện theo pháp luật."
+  },
+  {
+    "question": "A, 17 tuổi, tự mình ký hợp đồng bán nhà thuộc sở hữu riêng mà không có sự đồng ý của người đại diện theo pháp luật. Theo Bộ luật Dân sự 2015, nhận định nào phù hợp nhất?",
+    "a": "Hợp đồng luôn có hiệu lực",
+    "b": "A được toàn quyền định đoạt vì tài sản thuộc sở hữu riêng",
+    "c": "A không được tự mình xác lập giao dịch liên quan bất động sản nếu không có sự đồng ý của người đại diện theo pháp luật",
+    "d": "Chỉ cần công chứng viên đồng ý",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 21 Bộ luật Dân sự 2015 quy định người từ đủ 15 tuổi đến chưa đủ 18 tuổi không được tự mình xác lập giao dịch liên quan bất động sản nếu không có sự đồng ý của người đại diện theo pháp luật."
+  },
+  {
+    "question": "A, 14 tuổi, dùng tiền được cho riêng để mua điện thoại trị giá 8 triệu đồng phục vụ học tập mà không hỏi ý kiến cha mẹ. Theo Bộ luật Dân sự 2015, giao dịch này:",
+    "a": "Đương nhiên vô hiệu",
+    "b": "Phải được Tòa án phê chuẩn",
+    "c": "Có thể thuộc giao dịch phục vụ nhu cầu sinh hoạt hàng ngày phù hợp lứa tuổi",
+    "d": "Bắt buộc phải công chứng",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 21 Bộ luật Dân sự 2015 quy định người từ đủ 6 tuổi đến dưới 15 tuổi được tự mình thực hiện giao dịch phục vụ nhu cầu sinh hoạt hàng ngày phù hợp lứa tuổi."
+  },
+  {
+    "question": "B, 17 tuổi, tự mình ký hợp đồng bán xe ô tô đứng tên mình mà không có sự đồng ý của người đại diện theo pháp luật. Theo Bộ luật Dân sự 2015, nhận định nào đúng?",
+    "a": "B được tự bán vì là tài sản riêng",
+    "b": "Hợp đồng luôn có hiệu lực",
+    "c": "B không được tự mình xác lập giao dịch liên quan động sản phải đăng ký",
+    "d": "Chỉ cần công chứng viên đồng ý là đủ",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 21 Bộ luật Dân sự 2015 quy định người từ đủ 15 đến dưới 18 tuổi không được tự xác lập giao dịch liên quan động sản phải đăng ký nếu không có sự đồng ý của người đại diện theo pháp luật."
+  },
+  {
+    "question": "C bị bệnh tâm thần nhiều năm, có hồ sơ điều trị nhưng chưa bị Tòa án tuyên mất năng lực hành vi dân sự. Khi công chứng hợp đồng, công chứng viên phải hiểu rằng:",
+    "a": "C đương nhiên mất năng lực hành vi dân sự",
+    "b": "Mọi giao dịch của C đều vô hiệu",
+    "c": "Chưa có căn cứ pháp lý xác định C mất năng lực hành vi dân sự",
+    "d": "Gia đình có thể thay C ký mọi giấy tờ",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 22 Bộ luật Dân sự 2015 quy định chỉ Tòa án mới có quyền tuyên bố một người mất năng lực hành vi dân sự."
+  },
+  {
+    "question": "D nghiện ma túy và thường xuyên bán tài sản gia đình. Theo Bộ luật Dân sự 2015, để D bị coi là người hạn chế năng lực hành vi dân sự thì:",
+    "a": "Chỉ cần xác nhận của công an",
+    "b": "Chỉ cần gia đình yêu cầu",
+    "c": "Phải có quyết định của Tòa án",
+    "d": "Đương nhiên bị hạn chế năng lực hành vi dân sự",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 24 Bộ luật Dân sự 2015 quy định Tòa án có thể ra quyết định tuyên bố người nghiện ma túy dẫn đến phá tán tài sản gia đình là người bị hạn chế năng lực hành vi dân sự."
+  },
+  {
+    "question": "E, 16 tuổi, được thừa kế riêng một căn nhà và tự đi ký hợp đồng tặng cho nhà cho người khác. Theo Bộ luật Dân sự 2015, giao dịch này:",
+    "a": "Được tự thực hiện vì là tài sản riêng",
+    "b": "Được thực hiện nếu có người làm chứng",
+    "c": "Phải có sự đồng ý của người đại diện theo pháp luật",
+    "d": "Không cần công chứng",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 21 Bộ luật Dân sự 2015 quy định người từ đủ 15 đến dưới 18 tuổi không được tự xác lập giao dịch liên quan bất động sản nếu không có sự đồng ý của người đại diện theo pháp luật."
+  },
+  {
+    "question": "F là người có khó khăn trong nhận thức, làm chủ hành vi theo quyết định của Tòa án. Khi xác lập giao dịch dân sự thì:",
+    "a": "Mọi giao dịch đều do người giám hộ thực hiện thay",
+    "b": "F không còn năng lực pháp luật dân sự",
+    "c": "Phạm vi tham gia giao dịch phụ thuộc quyết định của Tòa án",
+    "d": "F đương nhiên là người mất năng lực hành vi dân sự",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 23 Bộ luật Dân sự 2015 quy định Tòa án xác định quyền, nghĩa vụ của người giám hộ đối với người có khó khăn trong nhận thức, làm chủ hành vi."
+  },
+  {
+    "question": "G, 5 tuổi, được cha mẹ cho tiền lì xì và tự mua xe đạp. Theo Bộ luật Dân sự 2015, giao dịch này:",
+    "a": "Do G tự xác lập hợp pháp",
+    "b": "Phải do người đại diện theo pháp luật xác lập, thực hiện",
+    "c": "Chỉ cần cửa hàng đồng ý",
+    "d": "Không được phép trong mọi trường hợp",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 21 Bộ luật Dân sự 2015 quy định giao dịch dân sự của người chưa đủ 6 tuổi phải do người đại diện theo pháp luật xác lập, thực hiện."
+  },
+  {
+    "question": "H bị Tòa án tuyên mất năng lực hành vi dân sự nhưng tự mình ký hợp đồng chuyển nhượng đất. Theo Bộ luật Dân sự 2015, chủ thể có quyền xác lập giao dịch cho H là:",
+    "a": "Bất kỳ người thân nào",
+    "b": "Người đại diện theo pháp luật",
+    "c": "Công chứng viên",
+    "d": "UBND cấp xã",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 22 Bộ luật Dân sự 2015 quy định giao dịch dân sự của người mất năng lực hành vi dân sự phải do người đại diện theo pháp luật xác lập, thực hiện."
+  },
+  {
+    "question": "Ông A có hồ sơ điều trị tại bệnh viện tâm thần nhiều năm nhưng chưa có quyết định của Tòa án tuyên mất năng lực hành vi dân sự. Theo Bộ luật Dân sự 2015, nhận định nào đúng?",
+    "a": "Ông A đương nhiên mất năng lực hành vi dân sự",
+    "b": "Gia đình có quyền thay ông A ký mọi hợp đồng",
+    "c": "Chưa đủ căn cứ pháp lý xác định ông A mất năng lực hành vi dân sự",
+    "d": "Mọi giao dịch của ông A đều vô hiệu",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 22 Bộ luật Dân sự 2015 quy định việc tuyên bố mất năng lực hành vi dân sự thuộc thẩm quyền của Tòa án trên cơ sở kết luận giám định pháp y tâm thần."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, căn cứ trực tiếp để Tòa án tuyên bố một người mất năng lực hành vi dân sự là:",
+    "a": "Ý kiến của gia đình",
+    "b": "Xác nhận của tổ dân phố",
+    "c": "Kết luận giám định pháp y tâm thần",
+    "d": "Giấy ra viện",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 22 Bộ luật Dân sự 2015 quy định Tòa án tuyên bố một người mất năng lực hành vi dân sự trên cơ sở kết luận giám định pháp y tâm thần."
+  },
+  {
+    "question": "Bà B bị Tòa án tuyên mất năng lực hành vi dân sự. Khi ký hợp đồng chuyển nhượng quyền sử dụng đất thì:",
+    "a": "Bà B tự ký là đủ",
+    "b": "Con của bà B tự ký thay mà không cần tư cách đại diện",
+    "c": "Người đại diện theo pháp luật của bà B phải xác lập, thực hiện giao dịch",
+    "d": "Chỉ cần điểm chỉ",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 22 Bộ luật Dân sự 2015 quy định giao dịch dân sự của người mất năng lực hành vi dân sự phải do người đại diện theo pháp luật xác lập, thực hiện."
+  },
+  {
+    "question": "Ông C bị tai biến, trí nhớ giảm sút nhưng chưa đến mức mất năng lực hành vi dân sự. Tòa án đã tuyên ông C là người có khó khăn trong nhận thức, làm chủ hành vi. Theo Bộ luật Dân sự 2015:",
+    "a": "Ông C đương nhiên không được tham gia giao dịch dân sự",
+    "b": "Mọi giao dịch đều do người giám hộ thực hiện thay",
+    "c": "Phạm vi tham gia giao dịch phụ thuộc quyết định của Tòa án",
+    "d": "Ông C bị xem là mất năng lực hành vi dân sự",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 23 Bộ luật Dân sự 2015 quy định Tòa án xác định quyền, nghĩa vụ của người giám hộ đối với người có khó khăn trong nhận thức, làm chủ hành vi."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, người nghiện ma túy bị hạn chế năng lực hành vi dân sự khi nào?",
+    "a": "Ngay khi bị phát hiện sử dụng ma túy",
+    "b": "Khi gia đình xác nhận",
+    "c": "Khi có quyết định của Tòa án",
+    "d": "Khi công an lập biên bản",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 24 Bộ luật Dân sự 2015 quy định Tòa án có thể tuyên bố người nghiện ma túy là người bị hạn chế năng lực hành vi dân sự."
+  },
+  {
+    "question": "Anh D nghiện ma túy và bị Tòa án tuyên hạn chế năng lực hành vi dân sự. Khi bán căn nhà của mình thì:",
+    "a": "Anh D được tự bán",
+    "b": "Phải có sự đồng ý của người đại diện theo pháp luật",
+    "c": "Chỉ cần công chứng viên đồng ý",
+    "d": "Không được phép giao dịch trong mọi trường hợp",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 24 Bộ luật Dân sự 2015 quy định giao dịch liên quan tài sản của người bị hạn chế năng lực hành vi dân sự phải có sự đồng ý của người đại diện theo pháp luật."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, cơ quan nào có thẩm quyền hủy bỏ quyết định tuyên bố mất năng lực hành vi dân sự?",
+    "a": "UBND cấp xã",
+    "b": "Cơ sở y tế",
+    "c": "Tòa án",
+    "d": "Sở Tư pháp",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 22 Bộ luật Dân sự 2015 quy định Tòa án ra quyết định hủy bỏ quyết định tuyên bố mất năng lực hành vi dân sự khi không còn căn cứ."
+  },
+  {
+    "question": "Khi công chứng hợp đồng, công chứng viên thấy người yêu cầu công chứng có dấu hiệu không làm chủ được hành vi nhưng gia đình chỉ cung cấp hồ sơ bệnh án tâm thần, chưa có quyết định của Tòa án. Cách xử lý phù hợp nhất là:",
+    "a": "Tiếp tục công chứng ngay",
+    "b": "Cho người thân ký thay",
+    "c": "Từ chối hoặc tạm dừng công chứng để làm rõ năng lực hành vi dân sự",
+    "d": "Yêu cầu công an xác nhận",
+    "answer": "c",
+    "explanation": "Theo nguyên tắc xác định năng lực hành vi dân sự tại Điều 22 Bộ luật Dân sự 2015 và trách nhiệm kiểm tra năng lực hành vi của người yêu cầu công chứng, công chứng viên phải làm rõ tình trạng năng lực hành vi dân sự trước khi công chứng."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, việc lựa chọn người giám hộ cho mình khi còn đầy đủ năng lực hành vi dân sự phải được lập dưới hình thức nào?",
+    "a": "Lời nói trước người thân",
+    "b": "Văn bản có công chứng hoặc chứng thực",
+    "c": "Di chúc miệng",
+    "d": "Tin nhắn điện thoại",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 48 Bộ luật Dân sự 2015 quy định việc lựa chọn người giám hộ phải được lập thành văn bản có công chứng hoặc chứng thực."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, một người được giám hộ có thể có bao nhiêu người giám hộ?",
+    "a": "Không giới hạn",
+    "b": "Luôn phải có ít nhất 02 người",
+    "c": "Chỉ có một người, trừ trường hợp luật quy định khác",
+    "d": "Do UBND cấp xã quyết định",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 47 Bộ luật Dân sự 2015 quy định một người chỉ có thể được một người giám hộ, trừ trường hợp cha mẹ cùng giám hộ cho con hoặc ông bà cùng giám hộ cho cháu."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, người nào sau đây không đủ điều kiện làm người giám hộ?",
+    "a": "Người có năng lực hành vi dân sự đầy đủ",
+    "b": "Người có điều kiện chăm sóc người được giám hộ",
+    "c": "Người đang bị truy cứu trách nhiệm hình sự",
+    "d": "Người có tư cách đạo đức tốt",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 49 Bộ luật Dân sự 2015 quy định người đang bị truy cứu trách nhiệm hình sự không đủ điều kiện làm người giám hộ."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, trường hợp người chưa thành niên không còn cha mẹ thì ai là người giám hộ đương nhiên đầu tiên theo thứ tự luật định?",
+    "a": "Bác ruột",
+    "b": "Ông nội",
+    "c": "Anh ruột là anh cả hoặc chị ruột là chị cả",
+    "d": "UBND cấp xã",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 52 Bộ luật Dân sự 2015 quy định anh cả hoặc chị cả là người giám hộ đương nhiên đầu tiên."
+  },
+  {
+    "question": "Ông A bị Tòa án tuyên mất năng lực hành vi dân sự, có vợ hợp pháp. Theo Bộ luật Dân sự 2015, ai là người giám hộ đương nhiên của ông A?",
+    "a": "Con cả",
+    "b": "Cha mẹ",
+    "c": "Vợ",
+    "d": "UBND cấp xã",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 53 Bộ luật Dân sự 2015 quy định nếu chồng mất năng lực hành vi dân sự thì vợ là người giám hộ đương nhiên."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, việc bán tài sản có giá trị lớn của người được giám hộ phải:",
+    "a": "Được UBND cấp xã đồng ý",
+    "b": "Được công chứng viên đồng ý",
+    "c": "Được sự đồng ý của người giám sát việc giám hộ",
+    "d": "Được tất cả người thân thích đồng ý",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 59 Bộ luật Dân sự 2015 quy định việc bán tài sản có giá trị lớn của người được giám hộ phải được sự đồng ý của người giám sát việc giám hộ."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, người giám hộ có được đem tài sản của người được giám hộ tặng cho người khác không?",
+    "a": "Được nếu có công chứng",
+    "b": "Được nếu là người thân",
+    "c": "Không được",
+    "d": "Được nếu UBND cấp xã đồng ý",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 59 Bộ luật Dân sự 2015 quy định người giám hộ không được đem tài sản của người được giám hộ tặng cho người khác."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, giao dịch dân sự giữa người giám hộ với người được giám hộ liên quan tài sản của người được giám hộ:",
+    "a": "Luôn có hiệu lực",
+    "b": "Luôn vô hiệu",
+    "c": "Vô hiệu, trừ trường hợp vì lợi ích của người được giám hộ và có sự đồng ý của người giám sát việc giám hộ",
+    "d": "Chỉ cần công chứng là có hiệu lực",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 59 Bộ luật Dân sự 2015 quy định các giao dịch này vô hiệu, trừ trường hợp giao dịch vì lợi ích của người được giám hộ và có sự đồng ý của người giám sát việc giám hộ."
+  },
+  {
+    "question": "Anh B là người giám hộ của em ruột chưa thành niên. Anh B muốn bán đất thuộc sở hữu của em để lấy tiền trả nợ cá nhân của mình. Theo Bộ luật Dân sự 2015:",
+    "a": "Được phép vì là người giám hộ",
+    "b": "Được nếu có công chứng",
+    "c": "Không phù hợp vì giao dịch phải nhằm lợi ích của người được giám hộ",
+    "d": "Được nếu có xác nhận của gia đình",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 59 Bộ luật Dân sự 2015 quy định người giám hộ chỉ được thực hiện giao dịch liên quan tài sản của người được giám hộ vì lợi ích của người được giám hộ."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, trong thời hạn bao lâu kể từ ngày có người giám hộ mới thì phải chuyển giao giám hộ?",
+    "a": "03 ngày",
+    "b": "07 ngày",
+    "c": "15 ngày",
+    "d": "30 ngày",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 61 Bộ luật Dân sự 2015 quy định việc chuyển giao giám hộ phải thực hiện trong thời hạn 15 ngày kể từ ngày có người giám hộ mới."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, việc giám hộ chấm dứt trong trường hợp nào sau đây?",
+    "a": "Người được giám hộ chết",
+    "b": "Người giám hộ đi nước ngoài",
+    "c": "Người giám hộ đổi nơi cư trú",
+    "d": "Người giám sát việc giám hộ từ chối tiếp tục giám sát",
+    "answer": "a",
+    "explanation": "Điểm b khoản 1 Điều 62 Bộ luật Dân sự 2015 quy định việc giám hộ chấm dứt khi người được giám hộ chết."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, người giám hộ của người có khó khăn trong nhận thức, làm chủ hành vi có quyền và nghĩa vụ như thế nào?",
+    "a": "Đương nhiên có toàn bộ quyền như giám hộ người mất năng lực hành vi dân sự",
+    "b": "Theo quyết định của Tòa án",
+    "c": "Do UBND cấp xã xác định",
+    "d": "Do gia đình tự thỏa thuận",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 57 và khoản 2 Điều 58 Bộ luật Dân sự 2015 quy định quyền, nghĩa vụ của người giám hộ đối với người có khó khăn trong nhận thức, làm chủ hành vi do Tòa án xác định."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, trường hợp nào sau đây người giám hộ được thay đổi?",
+    "a": "Người giám hộ đổi nơi làm việc",
+    "b": "Người giám hộ vi phạm nghiêm trọng nghĩa vụ giám hộ",
+    "c": "Người được giám hộ thay đổi nơi cư trú",
+    "d": "Người giám hộ kết hôn",
+    "answer": "b",
+    "explanation": "Điểm c khoản 1 Điều 60 BLDS 2015 quy định người giám hộ được thay đổi khi vi phạm nghiêm trọng nghĩa vụ giám hộ."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, trường hợp pháp nhân làm người giám hộ chấm dứt tồn tại thì hậu quả pháp lý nào phát sinh?",
+    "a": "Việc giám hộ tự động chấm dứt",
+    "b": "Người được giám hộ trở thành người thành niên",
+    "c": "Phải thay đổi người giám hộ",
+    "d": "UBND cấp xã quản lý tài sản",
+    "answer": "c",
+    "explanation": "Điểm b khoản 1 Điều 60 BLDS 2015 quy định trường hợp pháp nhân làm giám hộ chấm dứt tồn tại thì phải thay đổi người giám hộ."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, khi chuyển giao giám hộ thì ai phải chứng kiến việc chuyển giao?",
+    "a": "Chỉ công chứng viên",
+    "b": "Cơ quan cử hoặc chỉ định người giám hộ và người giám sát việc giám hộ",
+    "c": "Công an cấp xã",
+    "d": "Người thân bất kỳ",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 61 BLDS 2015 quy định cơ quan cử, chỉ định người giám hộ và người giám sát việc giám hộ chứng kiến việc chuyển giao."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, trường hợp người được giám hộ là người chưa thành niên được nhận làm con nuôi thì việc giám hộ như thế nào?",
+    "a": "Tạm đình chỉ",
+    "b": "Tiếp tục đến đủ 18 tuổi",
+    "c": "Chấm dứt",
+    "d": "Do Tòa án quyết định từng trường hợp",
+    "answer": "c",
+    "explanation": "Điểm d khoản 1 Điều 62 BLDS 2015 quy định việc giám hộ chấm dứt khi người được giám hộ được nhận làm con nuôi."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, người giám hộ của người có khó khăn trong nhận thức, làm chủ hành vi có quyền và nghĩa vụ theo căn cứ nào?",
+    "a": "Theo yêu cầu của gia đình",
+    "b": "Theo quyết định của UBND cấp xã",
+    "c": "Theo quyết định của Tòa án",
+    "d": "Theo ý kiến công chứng viên",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 57 và khoản 2 Điều 58 BLDS 2015 quy định quyền, nghĩa vụ của người giám hộ đối với người có khó khăn trong nhận thức, làm chủ hành vi do Tòa án xác định."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, người giám sát việc giám hộ liên quan đến quản lý tài sản phải đăng ký tại đâu?",
+    "a": "Sở Tư pháp",
+    "b": "Tòa án",
+    "c": "Ủy ban nhân dân cấp xã nơi cư trú của người được giám hộ",
+    "d": "Văn phòng công chứng",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 51 BLDS 2015 quy định việc giám sát giám hộ liên quan quản lý tài sản phải đăng ký tại UBND cấp xã nơi cư trú của người được giám hộ."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, ai là người giám hộ đương nhiên của người mất năng lực hành vi dân sự là vợ?",
+    "a": "Con cả",
+    "b": "Cha mẹ",
+    "c": "Chồng",
+    "d": "UBND cấp xã",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 53 BLDS 2015 quy định nếu vợ mất năng lực hành vi dân sự thì chồng là người giám hộ đương nhiên."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, điều kiện nào sau đây áp dụng đối với pháp nhân làm người giám hộ?",
+    "a": "Có hộ khẩu thường trú",
+    "b": "Có năng lực pháp luật dân sự phù hợp với việc giám hộ",
+    "c": "Phải là tổ chức từ thiện",
+    "d": "Phải có tài sản bảo đảm",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 50 BLDS 2015 quy định pháp nhân làm người giám hộ phải có năng lực pháp luật dân sự phù hợp với việc giám hộ."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, người giám hộ đương nhiên không đăng ký việc giám hộ thì có phải thực hiện nghĩa vụ giám hộ không?",
+    "a": "Không phải thực hiện",
+    "b": "Chỉ thực hiện khi có yêu cầu của Tòa án",
+    "c": "Vẫn phải thực hiện nghĩa vụ giám hộ",
+    "d": "Chỉ thực hiện nghĩa vụ tài sản",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 46 BLDS 2015 quy định người giám hộ đương nhiên dù không đăng ký việc giám hộ vẫn phải thực hiện nghĩa vụ của người giám hộ."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, một người được giám hộ có thể có bao nhiêu người giám hộ?",
+    "a": "Chỉ một người, trừ trường hợp cha mẹ cùng giám hộ cho con hoặc ông bà cùng giám hộ cho cháu",
+    "b": "Không giới hạn số lượng",
+    "c": "Tối đa ba người",
+    "d": "Luôn phải có hai người",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 47 BLDS 2015 quy định một người chỉ có thể được một người giám hộ, trừ trường hợp cha mẹ cùng giám hộ cho con hoặc ông bà cùng giám hộ cho cháu."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, khi giám hộ cho người có khó khăn trong nhận thức, làm chủ hành vi thì cần điều kiện gì?",
+    "a": "Chỉ cần người thân đồng ý",
+    "b": "Phải được sự đồng ý của người đó nếu họ có khả năng thể hiện ý chí",
+    "c": "Chỉ cần UBND cấp xã xác nhận",
+    "d": "Không cần sự đồng ý của ai",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 46 BLDS 2015 quy định việc giám hộ cho người có khó khăn trong nhận thức, làm chủ hành vi phải được sự đồng ý của người đó nếu họ có năng lực thể hiện ý chí."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, trường hợp người giám hộ đề nghị được thay đổi thì điều kiện nào sau đây phải có?",
+    "a": "Có xác nhận của công an cấp xã",
+    "b": "Có người thân đồng ý",
+    "c": "Có công chứng viên xác nhận",
+    "d": "Có người khác nhận làm giám hộ",
+    "answer": "d",
+    "explanation": "Điểm d khoản 1 Điều 60 BLDS 2015 quy định người giám hộ được thay đổi khi có người khác nhận làm giám hộ."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, ai sau đây được xem là người thân thích của người được giám hộ?",
+    "a": "Bạn thân",
+    "b": "Đồng nghiệp",
+    "c": "Người thuê nhà",
+    "d": "Anh ruột",
+    "answer": "d",
+    "explanation": "Khoản 1 Điều 51 BLDS 2015 quy định anh ruột, chị ruột, em ruột là người thân thích của người được giám hộ."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, người giám hộ của người chưa đủ 15 tuổi có nghĩa vụ nào sau đây?",
+    "a": "Chỉ quản lý tài sản",
+    "b": "Chỉ chăm sóc sức khỏe",
+    "c": "Chăm sóc, giáo dục người được giám hộ",
+    "d": "Chỉ đại diện tố tụng",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 55 BLDS 2015 quy định người giám hộ của người chưa đủ 15 tuổi có nghĩa vụ chăm sóc, giáo dục người được giám hộ."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, sau khi chấm dứt giám hộ do người được giám hộ đã có năng lực hành vi dân sự đầy đủ thì trong bao lâu người giám hộ phải thanh toán tài sản?",
+    "a": "30 ngày",
+    "b": "03 tháng",
+    "c": "07 ngày",
+    "d": "15 ngày",
+    "answer": "d",
+    "explanation": "Khoản 1 Điều 63 BLDS 2015 quy định thời hạn 15 ngày kể từ ngày chấm dứt việc giám hộ."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, người giám hộ được sử dụng tài sản của người được giám hộ để làm gì?",
+    "a": "Đầu tư cá nhân",
+    "b": "Cho người khác vay",
+    "c": "Chăm sóc, chi dùng cho nhu cầu thiết yếu của người được giám hộ",
+    "d": "Tặng cho người thân",
+    "answer": "c",
+    "explanation": "Điểm a khoản 1 Điều 58 BLDS 2015 quy định người giám hộ được sử dụng tài sản của người được giám hộ cho nhu cầu thiết yếu của người đó."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, nghĩa vụ quản lý tài sản của người được giám hộ đối với người từ đủ 15 tuổi đến dưới 18 tuổi thuộc về ai?",
+    "a": "Người giám hộ, trừ trường hợp pháp luật có quy định khác",
+    "b": "UBND cấp xã",
+    "c": "Tòa án",
+    "d": "Người giám sát giám hộ",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 56 BLDS 2015 quy định người giám hộ quản lý tài sản của người được giám hộ từ đủ 15 đến dưới 18 tuổi, trừ trường hợp pháp luật quy định khác."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, người giám hộ có được thanh toán chi phí hợp lý cho việc quản lý tài sản của người được giám hộ không?",
+    "a": "Không bao giờ",
+    "b": "Chỉ khi có quyết định của Tòa án",
+    "c": "Được thanh toán các chi phí hợp lý",
+    "d": "Chỉ được nếu có công chứng",
+    "answer": "c",
+    "explanation": "Điểm b khoản 1 Điều 58 BLDS 2015 quy định người giám hộ được thanh toán các chi phí hợp lý cho việc quản lý tài sản của người được giám hộ."
+  },
+  {
+    "question": "Ông A bị bệnh tâm thần nhiều năm, gia đình mang hồ sơ bệnh án đến Văn phòng công chứng yêu cầu con trai ký bán nhà thay cho ông A. Chưa có quyết định của Tòa án tuyên bố mất năng lực hành vi dân sự. Công chứng viên xử lý thế nào?",
+    "a": "Cho ký nếu có bệnh án",
+    "b": "Cho ký nếu hàng xóm xác nhận",
+    "c": "Từ chối vì chưa có quyết định của Tòa án",
+    "d": "Cho ký nếu UBND cấp xã đồng ý",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 22 BLDS 2015 quy định việc xác định một người mất năng lực hành vi dân sự phải do Tòa án tuyên bố."
+  },
+  {
+    "question": "Bà B là người giám hộ của cháu C chưa thành niên. Bà B muốn dùng tiền của cháu để sửa nhà riêng của mình. Theo BLDS 2015, việc này như thế nào?",
+    "a": "Được nếu bà B trực tiếp nuôi cháu",
+    "b": "Được nếu có công chứng",
+    "c": "Không được vì không nhằm lợi ích của người được giám hộ",
+    "d": "Được nếu họ hàng đồng ý",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 59 BLDS 2015 quy định người giám hộ chỉ được thực hiện giao dịch liên quan tài sản của người được giám hộ vì lợi ích của người được giám hộ."
+  },
+  {
+    "question": "Anh D 16 tuổi được giám hộ do cha mẹ đều mất. Anh D tự ký hợp đồng bán xe máy phải đăng ký sở hữu mà không có sự đồng ý của người giám hộ. Hợp đồng này thế nào?",
+    "a": "Luôn có hiệu lực",
+    "b": "Vô hiệu do người từ đủ 15 đến dưới 18 tuổi giao dịch về động sản phải đăng ký cần sự đồng ý của người đại diện",
+    "c": "Có hiệu lực nếu bên mua ngay tình",
+    "d": "Có hiệu lực nếu đã giao xe",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 21 BLDS 2015 quy định người từ đủ 15 tuổi đến dưới 18 tuổi xác lập giao dịch liên quan động sản phải đăng ký cần có sự đồng ý của người đại diện theo pháp luật."
+  },
+  {
+    "question": "Ông E là người giám hộ của người mất năng lực hành vi dân sự. Ông E bán đất của người được giám hộ nhưng không có sự đồng ý của người giám sát việc giám hộ dù đây là tài sản có giá trị lớn. Nhận định nào đúng?",
+    "a": "Giao dịch hợp pháp vì ông E là người giám hộ",
+    "b": "Giao dịch vô hiệu do thiếu sự đồng ý của người giám sát việc giám hộ",
+    "c": "Chỉ bị xử phạt hành chính",
+    "d": "Vẫn có hiệu lực nếu đã sang tên",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 59 BLDS 2015 quy định giao dịch liên quan tài sản có giá trị lớn của người được giám hộ phải có sự đồng ý của người giám sát việc giám hộ."
+  },
+  {
+    "question": "Chị H được Tòa án xác định là người có khó khăn trong nhận thức, làm chủ hành vi và chỉ định người giám hộ. Sau thời gian điều trị, chị H hồi phục hoàn toàn. Ai có quyền yêu cầu hủy bỏ quyết định tuyên bố này?",
+    "a": "Chỉ người giám hộ",
+    "b": "Chỉ UBND cấp xã",
+    "c": "Chính chị H hoặc người có quyền, lợi ích liên quan",
+    "d": "Chỉ công chứng viên",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 23 BLDS 2015 quy định chính người đó hoặc người có quyền, lợi ích liên quan có quyền yêu cầu Tòa án hủy bỏ quyết định tuyên bố người có khó khăn trong nhận thức, làm chủ hành vi."
+  },
+  {
+    "question": "Cha mẹ của bé M đều mất năng lực hành vi dân sự. Anh ruột cả của M đủ điều kiện làm giám hộ nhưng từ chối. Theo BLDS 2015, ai là người giám hộ đương nhiên tiếp theo?",
+    "a": "UBND cấp xã",
+    "b": "Người chú ruột bất kỳ",
+    "c": "Anh ruột hoặc chị ruột tiếp theo đủ điều kiện",
+    "d": "Tòa án nhân dân",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 52 BLDS 2015 quy định nếu anh cả hoặc chị cả không đủ điều kiện thì anh chị tiếp theo là người giám hộ."
+  },
+  {
+    "question": "Ông K là người giám hộ đương nhiên của con chưa thành niên nhưng chưa đăng ký giám hộ tại cơ quan có thẩm quyền. Ông K cho rằng mình chưa có nghĩa vụ quản lý tài sản của con. Nhận định nào đúng?",
+    "a": "Đúng vì chưa đăng ký giám hộ",
+    "b": "Đúng nếu tài sản nhỏ",
+    "c": "Sai vì người giám hộ đương nhiên vẫn phải thực hiện nghĩa vụ giám hộ",
+    "d": "Sai nhưng chỉ áp dụng với người mất năng lực hành vi dân sự",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 46 BLDS 2015 quy định người giám hộ đương nhiên dù không đăng ký vẫn phải thực hiện nghĩa vụ giám hộ."
+  },
+  {
+    "question": "Người giám hộ của ông P muốn tặng chiếc ô tô thuộc sở hữu của ông P cho con mình. Việc này theo BLDS 2015 được xác định thế nào?",
+    "a": "Được nếu có công chứng",
+    "b": "Được nếu người nhận là người thân",
+    "c": "Không được phép",
+    "d": "Được nếu giá trị tài sản không lớn",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 59 BLDS 2015 quy định người giám hộ không được đem tài sản của người được giám hộ tặng cho người khác."
+  },
+  {
+    "question": "Anh A (17 tuổi) mồ côi cha mẹ, có anh ruột 25 tuổi đủ điều kiện làm giám hộ và chị ruột 27 tuổi cũng đủ điều kiện. Theo BLDS 2015, ai là người giám hộ đương nhiên?",
+    "a": "Chị ruột vì lớn tuổi hơn",
+    "b": "UBND cấp xã cử người giám hộ",
+    "c": "Anh ruột là anh cả",
+    "d": "Cả anh và chị cùng là người giám hộ",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 52 BLDS 2015 quy định anh ruột là anh cả hoặc chị ruột là chị cả là người giám hộ đương nhiên của người chưa thành niên."
+  },
+  {
+    "question": "Bà B mất năng lực hành vi dân sự theo quyết định của Tòa án, có chồng là ông C, con là cả. Ai là người giám hộ đương nhiên của bà B?",
+    "a": "Con cả của bà B",
+    "b": "Ông C",
+    "c": "UBND cấp xã",
+    "d": "Người do Tòa án chỉ định",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 53 BLDS 2015 quy định trường hợp vợ mất năng lực hành vi dân sự thì chồng là người giám hộ đương nhiên."
+  },
+  {
+    "question": "Người nào sau đây không đủ điều kiện làm người giám hộ?",
+    "a": "Người có năng lực hành vi dân sự đầy đủ",
+    "b": "Người đang bị truy cứu trách nhiệm hình sự",
+    "c": "Người có điều kiện chăm sóc người được giám hộ",
+    "d": "Người có tư cách đạo đức tốt",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 49 BLDS 2015 quy định người đang bị truy cứu trách nhiệm hình sự không đủ điều kiện làm người giám hộ."
+  },
+  {
+    "question": "Ông E lập văn bản có công chứng lựa chọn cháu ruột làm người giám hộ cho mình khi mất năng lực hành vi dân sự. Sau này điều kiện phát sinh, cháu ruột đồng ý nhận giám hộ. Việc lựa chọn này phải được lập dưới hình thức nào?",
+    "a": "Lời nói trước người thân",
+    "b": "Văn bản viết tay",
+    "c": "Văn bản có công chứng hoặc chứng thực",
+    "d": "Email xác nhận",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 48 BLDS 2015 quy định việc lựa chọn người giám hộ phải được lập thành văn bản có công chứng hoặc chứng thực."
+  },
+  {
+    "question": "Người giám hộ muốn bán căn nhà thuộc sở hữu của người được giám hộ là người mất năng lực hành vi dân sự. Theo BLDS 2015, điều kiện nào sau đây bắt buộc?",
+    "a": "Chỉ cần người giám hộ đồng ý",
+    "b": "Chỉ cần UBND cấp xã đồng ý",
+    "c": "Phải có sự đồng ý của người giám sát việc giám hộ",
+    "d": "Không được phép bán trong mọi trường hợp",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 59 BLDS 2015 quy định giao dịch đối với tài sản có giá trị lớn của người được giám hộ phải được sự đồng ý của người giám sát việc giám hộ."
+  },
+  {
+    "question": "Theo BLDS 2015, giao dịch dân sự giữa người giám hộ và người được giám hộ liên quan đến tài sản của người được giám hộ sẽ thế nào?",
+    "a": "Luôn có hiệu lực",
+    "b": "Luôn vô hiệu",
+    "c": "Vô hiệu, trừ trường hợp vì lợi ích của người được giám hộ và có sự đồng ý của người giám sát việc giám hộ",
+    "d": "Có hiệu lực nếu được công chứng",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 59 BLDS 2015 quy định các giao dịch này vô hiệu, trừ trường hợp vì lợi ích của người được giám hộ và có sự đồng ý của người giám sát việc giám hộ."
+  },
+  {
+    "question": "Trường hợp có tranh chấp giữa những người giám hộ đương nhiên về việc ai là người giám hộ thì cơ quan nào quyết định?",
+    "a": "UBND cấp xã",
+    "b": "Sở Tư pháp",
+    "c": "Tòa án",
+    "d": "Tổ chức hành nghề công chứng",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 54 BLDS 2015 quy định Tòa án chỉ định người giám hộ khi có tranh chấp."
+  },
+  {
+    "question": "Người chưa thành niên được giám hộ sau đó được nhận làm con nuôi hợp pháp. Việc giám hộ sẽ:",
+    "a": "Tự động chấm dứt",
+    "b": "Tiếp tục đến đủ 18 tuổi",
+    "c": "Do Tòa án xem xét",
+    "d": "Chỉ chấm dứt khi UBND cấp xã đồng ý",
+    "answer": "a",
+    "explanation": "Điểm d khoản 1 Điều 62 BLDS 2015 quy định việc giám hộ chấm dứt khi người được giám hộ được nhận làm con nuôi."
+  },
+  {
+    "question": "Theo BLDS 2015, người giám hộ có được dùng tài sản của người được giám hộ để chăm sóc, chi dùng cho nhu cầu thiết yếu của người được giám hộ hay không?",
+    "a": "Không được",
+    "b": "Chỉ được khi có quyết định của Tòa án",
+    "c": "Được",
+    "d": "Chỉ được nếu là bất động sản",
+    "answer": "c",
+    "explanation": "Điểm a khoản 1 Điều 58 BLDS 2015 quy định người giám hộ được sử dụng tài sản của người được giám hộ để chăm sóc, chi dùng cho nhu cầu thiết yếu."
+  },
+  {
+    "question": "Theo BLDS 2015, ai có quyền thỏa thuận cử người giám sát việc giám hộ?",
+    "a": "Người giám hộ",
+    "b": "Người thân thích của người được giám hộ",
+    "c": "UBND cấp xã",
+    "d": "Tổ chức hành nghề công chứng",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 51 BLDS 2015 quy định người thân thích của người được giám hộ thỏa thuận cử người giám sát việc giám hộ."
+  },
+  {
+    "question": "Theo BLDS 2015, trường hợp không có người thân thích hoặc không cử được người giám sát việc giám hộ thì ai cử?",
+    "a": "Sở Tư pháp",
+    "b": "Tòa án",
+    "c": "UBND cấp xã nơi cư trú của người giám hộ",
+    "d": "Người giám hộ tự chọn",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 51 BLDS 2015 quy định UBND cấp xã nơi cư trú của người giám hộ cử cá nhân hoặc pháp nhân giám sát việc giám hộ."
+  },
+  {
+    "question": "Người nào sau đây có thể là người giám sát việc giám hộ theo BLDS 2015?",
+    "a": "Người chưa đủ 18 tuổi",
+    "b": "Người mất năng lực hành vi dân sự",
+    "c": "Cá nhân có năng lực hành vi dân sự đầy đủ",
+    "d": "Mọi cá nhân đều được",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 51 BLDS 2015 quy định người giám sát việc giám hộ phải có năng lực hành vi dân sự đầy đủ nếu là cá nhân."
+  },
+  {
+    "question": "Theo BLDS 2015, việc giám sát việc giám hộ liên quan đến quản lý tài sản của người được giám hộ thì người giám sát phải đăng ký tại đâu?",
+    "a": "Tòa án",
+    "b": "UBND cấp xã nơi cư trú của người được giám hộ",
+    "c": "Sở Tư pháp",
+    "d": "Cơ quan công chứng",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 51 BLDS 2015 quy định trường hợp giám sát liên quan quản lý tài sản thì người giám sát phải đăng ký tại UBND cấp xã nơi cư trú của người được giám hộ."
+  },
+  {
+    "question": "Theo BLDS 2015, người giám sát việc giám hộ có quyền nào sau đây?",
+    "a": "Tự ý bán tài sản của người được giám hộ",
+    "b": "Theo dõi, kiểm tra người giám hộ trong việc thực hiện giám hộ",
+    "c": "Thay mặt người giám hộ giao dịch mọi tài sản",
+    "d": "Chấm dứt việc giám hộ",
+    "answer": "b",
+    "explanation": "Điểm a khoản 4 Điều 51 BLDS 2015 quy định người giám sát việc giám hộ có quyền theo dõi, kiểm tra người giám hộ."
+  },
+  {
+    "question": "Ông A là người giám hộ của cháu B. Nay ông A muốn bán đất của cháu B để chữa bệnh cho cháu. Theo BLDS 2015, cần thêm điều kiện nào?",
+    "a": "Chỉ cần công chứng hợp đồng",
+    "b": "Chỉ cần UBND cấp xã đồng ý",
+    "c": "Phải có sự đồng ý của người giám sát việc giám hộ",
+    "d": "Không được bán trong mọi trường hợp",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 59 BLDS 2015 quy định việc định đoạt tài sản có giá trị lớn của người được giám hộ phải có sự đồng ý của người giám sát việc giám hộ."
+  },
+  {
+    "question": "Theo BLDS 2015, đại diện là việc:",
+    "a": "Một người thay mặt Nhà nước thực hiện giao dịch",
+    "b": "Cá nhân, pháp nhân nhân danh và vì lợi ích của người khác xác lập, thực hiện giao dịch dân sự",
+    "c": "Người làm chứng cho giao dịch dân sự",
+    "d": "Người môi giới giao dịch",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 134 BLDS 2015 quy định đại diện là việc cá nhân, pháp nhân nhân danh và vì lợi ích của cá nhân, pháp nhân khác xác lập, thực hiện giao dịch dân sự."
+  },
+  {
+    "question": "Theo BLDS 2015, căn cứ xác lập quyền đại diện KHÔNG bao gồm:",
+    "a": "Theo ủy quyền",
+    "b": "Theo quyết định của cơ quan nhà nước có thẩm quyền",
+    "c": "Theo điều lệ pháp nhân",
+    "d": "Theo quan hệ bạn bè",
+    "answer": "d",
+    "explanation": "Điều 135 BLDS 2015 quy định quyền đại diện được xác lập theo ủy quyền, theo quyết định của cơ quan có thẩm quyền, theo điều lệ pháp nhân hoặc theo quy định của pháp luật."
+  },
+  {
+    "question": "Theo BLDS 2015, ai là người đại diện theo pháp luật của con chưa thành niên?",
+    "a": "Anh ruột",
+    "b": "Ông bà",
+    "c": "Cha, mẹ",
+    "d": "UBND cấp xã",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 136 BLDS 2015 quy định cha, mẹ là người đại diện theo pháp luật của con chưa thành niên."
+  },
+  {
+    "question": "Người từ đủ 15 tuổi đến chưa đủ 18 tuổi có thể là người đại diện theo ủy quyền trong trường hợp nào?",
+    "a": "Mọi giao dịch",
+    "b": "Không bao giờ được",
+    "c": "Trừ trường hợp pháp luật yêu cầu người từ đủ 18 tuổi trở lên xác lập, thực hiện giao dịch",
+    "d": "Chỉ khi có công chứng",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 138 BLDS 2015 quy định người từ đủ 15 tuổi đến chưa đủ 18 tuổi có thể là người đại diện theo ủy quyền, trừ trường hợp luật yêu cầu người từ đủ 18 tuổi trở lên."
+  },
+  {
+    "question": "Theo BLDS 2015, nếu không xác định cụ thể thời hạn đại diện và quyền đại diện không gắn với giao dịch cụ thể thì thời hạn đại diện là bao lâu?",
+    "a": "06 tháng",
+    "b": "01 năm",
+    "c": "02 năm",
+    "d": "03 năm",
+    "answer": "b",
+    "explanation": "Điểm b khoản 2 Điều 140 BLDS 2015 quy định thời hạn đại diện là 01 năm kể từ thời điểm phát sinh quyền đại diện."
+  },
+  {
+    "question": "Theo BLDS 2015, đại diện theo ủy quyền chấm dứt khi nào?",
+    "a": "Người đại diện thay đổi nơi cư trú",
+    "b": "Người được đại diện kết hôn",
+    "c": "Công việc được ủy quyền đã hoàn thành",
+    "d": "Người đại diện bị bệnh thông thường",
+    "answer": "c",
+    "explanation": "Điểm c khoản 3 Điều 140 BLDS 2015 quy định đại diện theo ủy quyền chấm dứt khi công việc được ủy quyền đã hoàn thành."
+  },
+  {
+    "question": "Theo BLDS 2015, người đại diện có nghĩa vụ gì đối với bên giao dịch?",
+    "a": "Thông báo về tài sản riêng của mình",
+    "b": "Thông báo về phạm vi đại diện",
+    "c": "Thông báo tình trạng hôn nhân",
+    "d": "Thông báo nơi cư trú của người được đại diện",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 141 BLDS 2015 quy định người đại diện phải thông báo cho bên giao dịch biết về phạm vi đại diện của mình."
+  },
+  {
+    "question": "Ông A được bà B ủy quyền bán xe ô tô với giá tối thiểu 700 triệu đồng nhưng tự ý bán với giá 500 triệu đồng. Phần vượt quá phạm vi đại diện sẽ:",
+    "a": "Đương nhiên có hiệu lực toàn bộ",
+    "b": "Không làm phát sinh quyền, nghĩa vụ đối với bà B nếu bà B không đồng ý",
+    "c": "Luôn vô hiệu toàn bộ",
+    "d": "Được công nhận nếu đã công chứng",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 143 BLDS 2015 quy định giao dịch vượt quá phạm vi đại diện không làm phát sinh quyền, nghĩa vụ đối với người được đại diện nếu họ không đồng ý hoặc không thuộc trường hợp luật định."
+  },
+  {
+    "question": "Theo BLDS 2015, người đại diện có được nhân danh người được đại diện để giao dịch với chính mình không?",
+    "a": "Luôn được",
+    "b": "Không được, trừ trường hợp pháp luật có quy định khác",
+    "c": "Được nếu giao dịch có công chứng",
+    "d": "Được nếu có người làm chứng",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 141 BLDS 2015 quy định người đại diện không được nhân danh người được đại diện để giao dịch với chính mình, trừ trường hợp pháp luật có quy định khác."
+  },
+  {
+    "question": "Theo BLDS 2015, giao dịch do người không có quyền đại diện xác lập sẽ có hiệu lực với người được đại diện khi nào?",
+    "a": "Người được đại diện công nhận giao dịch",
+    "b": "Luôn có hiệu lực",
+    "c": "Khi được công chứng",
+    "d": "Khi bên thứ ba yêu cầu",
+    "answer": "a",
+    "explanation": "Điểm a khoản 1 Điều 142 BLDS 2015 quy định giao dịch có hiệu lực nếu người được đại diện công nhận giao dịch."
+  },
+  {
+    "question": "Ông X giả làm người được ủy quyền của bà Y để bán đất cho ông Z. Sau đó bà Y biết việc này nhưng không phản đối trong thời gian hợp lý. Theo BLDS 2015, hậu quả pháp lý là gì?",
+    "a": "Giao dịch vô hiệu tuyệt đối",
+    "b": "Giao dịch làm phát sinh quyền, nghĩa vụ đối với bà Y",
+    "c": "Ông Z phải trả lại đất ngay",
+    "d": "UBND cấp xã quyết định hiệu lực giao dịch",
+    "answer": "b",
+    "explanation": "Điểm b khoản 1 Điều 142 BLDS 2015 quy định nếu người được đại diện biết mà không phản đối trong thời hạn hợp lý thì giao dịch vẫn làm phát sinh quyền, nghĩa vụ đối với họ."
+  },
+  {
+    "question": "Theo BLDS 2015, một pháp nhân có thể có bao nhiêu người đại diện theo pháp luật?",
+    "a": "Chỉ một người",
+    "b": "Tối đa hai người",
+    "c": "Không quá ba người",
+    "d": "Có thể có nhiều người",
+    "answer": "d",
+    "explanation": "Khoản 2 Điều 137 BLDS 2015 quy định một pháp nhân có thể có nhiều người đại diện theo pháp luật."
+  },
+  {
+    "question": "Theo BLDS 2015, căn cứ nào sau đây KHÔNG làm phát sinh quyền đại diện?",
+    "a": "Theo ủy quyền",
+    "b": "Theo quyết định của cơ quan nhà nước có thẩm quyền",
+    "c": "Theo điều lệ pháp nhân",
+    "d": "Theo quan hệ quen biết",
+    "answer": "d",
+    "explanation": "Điều 135 BLDS 2015 quy định quyền đại diện phát sinh theo ủy quyền, theo quyết định của cơ quan có thẩm quyền, theo điều lệ hoặc theo quy định pháp luật."
+  },
+  {
+    "question": "Theo BLDS 2015, khi nào đại diện theo pháp luật của cá nhân chấm dứt?",
+    "a": "Người đại diện thay đổi nơi cư trú",
+    "b": "Người được đại diện đã thành niên hoặc năng lực hành vi dân sự được khôi phục",
+    "c": "Người đại diện hết nhiệm kỳ",
+    "d": "Có yêu cầu của UBND cấp xã",
+    "answer": "b",
+    "explanation": "Điểm a khoản 4 Điều 140 BLDS 2015 quy định đại diện theo pháp luật chấm dứt khi người được đại diện đã thành niên hoặc năng lực hành vi dân sự được khôi phục."
+  },
+  {
+    "question": "Một công ty có hai người đại diện theo pháp luật. Theo BLDS 2015, nhận định nào đúng?",
+    "a": "Pháp nhân chỉ được có một người đại diện",
+    "b": "Chỉ Chủ tịch công ty mới là đại diện theo pháp luật",
+    "c": "Pháp nhân có thể có nhiều người đại diện theo pháp luật",
+    "d": "Muốn có nhiều người đại diện phải được Tòa án chấp thuận",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 137 BLDS 2015 quy định pháp nhân có thể có nhiều người đại diện theo pháp luật."
+  },
+  {
+    "question": "Trong hoạt động công chứng, trường hợp người ký hợp đồng nhân danh công ty nhưng Điều lệ quy định phải có đồng thời hai người đại diện cùng ký, công chứng viên cần xử lý thế nào?",
+    "a": "Vẫn công chứng nếu có đóng dấu công ty",
+    "b": "Xác định việc ký có đúng phạm vi, thẩm quyền đại diện theo Điều lệ hay không",
+    "c": "Chỉ cần kiểm tra CCCD",
+    "d": "Chỉ cần kiểm tra giấy đăng ký doanh nghiệp",
+    "answer": "b",
+    "explanation": "Điều 137 và Điều 141 BLDS 2015 quy định phạm vi đại diện của pháp nhân được xác định theo điều lệ và quy định pháp luật."
+  },
+  {
+    "question": "Theo BLDS 2015, trường hợp nào làm chấm dứt đại diện theo ủy quyền?",
+    "a": "Người đại diện thay đổi số điện thoại",
+    "b": "Người được đại diện đổi nơi cư trú",
+    "c": "Công việc được ủy quyền đã hoàn thành",
+    "d": "Người được đại diện kết hôn",
+    "answer": "c",
+    "explanation": "Điểm c khoản 3 Điều 140 BLDS 2015 quy định đại diện theo ủy quyền chấm dứt khi công việc được ủy quyền đã hoàn thành."
+  },
+  {
+    "question": "Bà A được ông B ủy quyền bán xe ô tô trong 01 năm. Sau khi hết thời hạn ủy quyền, bà A vẫn ký hợp đồng bán xe với ông C. Trường hợp này thuộc trường hợp nào?",
+    "a": "Đại diện hợp pháp",
+    "b": "Đại diện theo pháp luật",
+    "c": "Không có quyền đại diện",
+    "d": "Đại diện đương nhiên",
+    "answer": "c",
+    "explanation": "Điểm b khoản 3 Điều 140 BLDS 2015 quy định đại diện theo ủy quyền chấm dứt khi hết thời hạn ủy quyền."
+  },
+  {
+    "question": "Theo BLDS 2015, ai có quyền đơn phương chấm dứt hoặc hủy bỏ giao dịch do người không có quyền đại diện xác lập?",
+    "a": "Người giao dịch với người không có quyền đại diện",
+    "b": "UBND cấp xã",
+    "c": "Công chứng viên",
+    "d": "Bất kỳ người thân nào",
+    "answer": "a",
+    "explanation": "Khoản 3 Điều 142 BLDS 2015 quy định người đã giao dịch có quyền đơn phương chấm dứt hoặc hủy bỏ giao dịch."
+  },
+  {
+    "question": "Trong hồ sơ công chứng, giấy ủy quyền ghi được “quản lý và cho thuê nhà”, nhưng người được ủy quyền yêu cầu ký hợp đồng thế chấp nhà đất. Công chứng viên cần xác định điều gì?",
+    "a": "Có bản photo sổ đỏ hay không",
+    "b": "Việc thế chấp có vượt quá phạm vi đại diện hay không",
+    "c": "Có người làm chứng hay không",
+    "d": "Có xác nhận cư trú hay không",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 141 và Điều 143 BLDS 2015 quy định người đại diện chỉ được thực hiện giao dịch trong phạm vi đại diện."
+  },
+  {
+    "question": "Theo BLDS 2015, trường hợp người đại diện và bên giao dịch cố ý xác lập giao dịch vượt quá phạm vi đại diện gây thiệt hại cho người được đại diện thì hậu quả pháp lý là gì?",
+    "a": "Không ai phải chịu trách nhiệm",
+    "b": "Chỉ người đại diện bồi thường",
+    "c": "Chỉ bên giao dịch bồi thường",
+    "d": "Phải liên đới bồi thường thiệt hại",
+    "answer": "d",
+    "explanation": "Khoản 4 Điều 143 BLDS 2015 quy định người đại diện và bên giao dịch phải liên đới bồi thường thiệt hại."
+  },
+  {
+    "question": "Ông A ký hợp đồng chuyển nhượng đất với tư cách đại diện cho bà B. Sau đó xác định giấy ủy quyền đã bị bà B đơn phương chấm dứt trước ngày ký hợp đồng và ông A biết việc này. Công chứng viên cần lưu ý rủi ro pháp lý nào?",
+    "a": "Giao dịch có thể thuộc trường hợp không có quyền đại diện",
+    "b": "Giao dịch mặc nhiên có hiệu lực",
+    "c": "Chỉ cần chỉnh sửa ngày tháng",
+    "d": "Không ảnh hưởng giá trị hợp đồng",
+    "answer": "a",
+    "explanation": "Điểm d khoản 3 Điều 140 và Điều 142 BLDS 2015 quy định đại diện theo ủy quyền chấm dứt khi đơn phương chấm dứt việc ủy quyền."
+  },
+  {
+    "question": "Theo BLDS 2015, cá nhân không được để người khác đại diện cho mình trong trường hợp nào?",
+    "a": "Khi giao dịch có giá trị lớn",
+    "b": "Khi pháp luật quy định phải tự mình xác lập, thực hiện giao dịch",
+    "c": "Khi đang ở nước ngoài",
+    "d": "Khi giao dịch liên quan bất động sản",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 134 BLDS 2015 quy định cá nhân không được để người khác đại diện nếu pháp luật yêu cầu phải tự mình xác lập, thực hiện giao dịch."
+  },
+  {
+    "question": "Theo BLDS 2015, người giám hộ của người có khó khăn trong nhận thức, làm chủ hành vi chỉ là người đại diện theo pháp luật khi nào?",
+    "a": "Được UBND cấp xã xác nhận",
+    "b": "Được gia đình đồng ý",
+    "c": "Được Tòa án chỉ định",
+    "d": "Có xác nhận bệnh viện",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 136 BLDS 2015 quy định người giám hộ của người có khó khăn trong nhận thức, làm chủ hành vi là người đại diện theo pháp luật nếu được Tòa án chỉ định."
+  },
+  {
+    "question": "Trong hồ sơ công chứng, một công ty TNHH có hai người đại diện theo pháp luật. Điều lệ quy định mỗi người được ký riêng từng giao dịch trong phạm vi được phân công. Công chứng viên cần ưu tiên kiểm tra tài liệu nào?",
+    "a": "Sổ hộ khẩu của giám đốc",
+    "b": "Điều lệ công ty và giấy đăng ký doanh nghiệp",
+    "c": "Giấy xác nhận độc thân",
+    "d": "Biên bản họp tổ dân phố",
+    "answer": "b",
+    "explanation": "Điều 137 và Điều 141 BLDS 2015 quy định quyền đại diện của pháp nhân được xác định theo điều lệ và quy định pháp luật."
+  },
+  {
+    "question": "Theo BLDS 2015, trường hợp người được đại diện là pháp nhân chấm dứt tồn tại thì hậu quả đối với đại diện theo pháp luật là gì?",
+    "a": "Tạm ngừng đại diện",
+    "b": "Đại diện theo pháp luật chấm dứt",
+    "c": "Tự động chuyển cho người quản lý tài sản",
+    "d": "Chỉ chấm dứt khi Tòa án quyết định",
+    "answer": "b",
+    "explanation": "Điểm c khoản 4 Điều 140 BLDS 2015 quy định đại diện theo pháp luật chấm dứt khi pháp nhân chấm dứt tồn tại."
+  },
+  {
+    "question": "Ông A là người đại diện của cả bên bán và bên mua trong cùng hợp đồng chuyển nhượng tài sản. Theo BLDS 2015, giao dịch này được xem xét thế nào?",
+    "a": "Luôn hợp pháp",
+    "b": "Được phép nếu có công chứng",
+    "c": "Không được phép, trừ trường hợp pháp luật có quy định khác",
+    "d": "Chỉ cần hai bên đồng ý",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 141 BLDS 2015 quy định người đại diện không được nhân danh người được đại diện để giao dịch với bên thứ ba mà mình cũng là người đại diện."
+  },
+  {
+    "question": "Theo BLDS 2015, người đại diện có nghĩa vụ gì đối với bên giao dịch?",
+    "a": "Thông báo về phạm vi đại diện",
+    "b": "Nộp thay nghĩa vụ thuế",
+    "c": "Bảo lãnh thanh toán",
+    "d": "Xác nhận nguồn gốc tài sản",
+    "answer": "a",
+    "explanation": "Khoản 4 Điều 141 BLDS 2015 quy định người đại diện phải thông báo cho bên giao dịch biết về phạm vi đại diện."
+  },
+  {
+    "question": "Trong thực tiễn công chứng, người cha ký hợp đồng bán xe máy đứng tên con 17 tuổi mà không xuất trình giấy tờ chứng minh quan hệ cha con. Công chứng viên cần lưu ý vấn đề gì?",
+    "a": "Xác định tư cách đại diện theo pháp luật",
+    "b": "Kiểm tra nghề nghiệp người cha",
+    "c": "Kiểm tra nơi tạm trú",
+    "d": "Xác định thu nhập của người con",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 136 BLDS 2015 quy định cha, mẹ là người đại diện theo pháp luật của con chưa thành niên."
+  },
+  {
+    "question": "Theo BLDS 2015, ai có thể được đại diện theo ủy quyền?",
+    "a": "Chỉ cá nhân",
+    "b": "Chỉ pháp nhân",
+    "c": "Cá nhân hoặc pháp nhân",
+    "d": "Chỉ người thân thích",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 138 BLDS 2015 quy định cá nhân, pháp nhân có thể ủy quyền cho cá nhân hoặc pháp nhân khác."
+  },
+  {
+    "question": "Một hợp đồng được ký bởi người đại diện của công ty nhưng con dấu công ty bị thiếu. Tuy nhiên người ký đúng là người đại diện theo pháp luật theo đăng ký doanh nghiệp. Công chứng viên cần ưu tiên xác định yếu tố nào?",
+    "a": "Màu mực của chữ ký",
+    "b": "Thẩm quyền đại diện của người ký",
+    "c": "Loại giấy in hợp đồng",
+    "d": "Người ký có hộ khẩu tại địa phương không",
+    "answer": "b",
+    "explanation": "Trong giao dịch dân sự, thẩm quyền đại diện của người ký là yếu tố cốt lõi để xác định hiệu lực đại diện theo Điều 137 BLDS 2015."
+  },
+  {
+    "question": "Theo BLDS 2015, trường hợp người đại diện biết giao dịch được xác lập do bị lừa dối nhưng vẫn thực hiện thì hậu quả pháp lý thế nào?",
+    "a": "Luôn làm phát sinh quyền, nghĩa vụ với người được đại diện",
+    "b": "Không làm phát sinh quyền, nghĩa vụ với người được đại diện, trừ trường hợp người đó biết mà không phản đối",
+    "c": "Đương nhiên vô hiệu toàn bộ",
+    "d": "Chỉ vô hiệu nếu có công chứng",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 139 BLDS 2015 quy định trường hợp người đại diện biết hoặc phải biết việc bị lừa dối mà vẫn giao dịch thì không làm phát sinh quyền, nghĩa vụ với người được đại diện, trừ trường hợp người được đại diện biết mà không phản đối."
+  }
+]
