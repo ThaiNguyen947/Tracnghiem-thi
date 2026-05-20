@@ -1,5 +1,852 @@
 [
   {
+      "question": "Trong sở hữu chung theo phần, việc định đoạt tài sản chung được thực hiện như thế nào?",
+      "a": "Do một chủ sở hữu tự quyết định",
+      "b": "Theo ý kiến của đa số chủ sở hữu",
+      "c": "Theo thỏa thuận của các chủ sở hữu chung hoặc theo quy định pháp luật",
+      "d": "Do cơ quan nhà nước quyết định",
+      "answer": "c",
+      "explanation": "Điều 216 và Điều 218 BLDS 2015 quy định việc định đoạt tài sản chung phải theo thỏa thuận của các chủ sở hữu chung hoặc theo quy định pháp luật."
+    },
+    {
+      "question": "Trường hợp một chủ sở hữu chung theo phần từ bỏ quyền sở hữu đối với bất động sản thì phần quyền đó xử lý như thế nào?",
+      "a": "Thuộc về Nhà nước",
+      "b": "Tự động chia lại cho các chủ sở hữu còn lại",
+      "c": "Bị hủy bỏ",
+      "d": "Thuộc về bên đang sử dụng tài sản",
+      "answer": "a",
+      "explanation": "Khoản 4 Điều 218 BLDS 2015 quy định phần quyền sở hữu bị từ bỏ đối với bất động sản thuộc về Nhà nước, trừ trường hợp sở hữu chung của cộng đồng."
+    },
+    {
+      "question": "Quyền đối với bất động sản liền kề được xác lập theo căn cứ nào sau đây?",
+      "a": "Chỉ theo quyết định của Tòa án",
+      "b": "Theo địa thế tự nhiên, thỏa thuận, di chúc hoặc quy định pháp luật",
+      "c": "Chỉ theo hợp đồng chuyển nhượng",
+      "d": "Chỉ khi có tranh chấp",
+      "answer": "b",
+      "explanation": "Điều 246 BLDS 2015 quy định quyền đối với bất động sản liền kề được xác lập theo địa thế tự nhiên, thỏa thuận, di chúc hoặc theo luật."
+    },
+    {
+      "question": "Khi thực hiện quyền đối với bất động sản liền kề, nguyên tắc nào sau đây là đúng?",
+      "a": "Ưu tiên tuyệt đối cho bất động sản hưởng quyền",
+      "b": "Không được lạm dụng quyền và không được cản trở việc thực hiện quyền của bên hưởng quyền",
+      "c": "Có thể ngăn cản nếu bất động sản bị thiệt hại nhỏ",
+      "d": "Chỉ cần có thỏa thuận là không cần tuân thủ luật",
+      "answer": "b",
+      "explanation": "Điều 248 BLDS 2015 quy định không được lạm dụng quyền và không được cản trở việc thực hiện quyền đối với bất động sản hưởng quyền."
+    },
+    {
+      "question": "Quyền hưởng dụng có bản chất là gì?",
+      "a": "Quyền sở hữu tài sản",
+      "b": "Quyền chiếm hữu vĩnh viễn tài sản",
+      "c": "Quyền khai thác công dụng và hưởng hoa lợi, lợi tức trong thời hạn nhất định",
+      "d": "Quyền định đoạt tài sản của người khác",
+      "answer": "c",
+      "explanation": "Điều 257 BLDS 2015 quy định quyền hưởng dụng là quyền khai thác công dụng và hưởng hoa lợi, lợi tức đối với tài sản thuộc sở hữu người khác trong thời hạn nhất định."
+    },
+    {
+      "question": "Trong sở hữu chung hợp nhất, đặc điểm nào là đúng?",
+      "a": "Mỗi người có phần quyền xác định",
+      "b": "Có thể chia phần quyền sở hữu cụ thể",
+      "c": "Không xác định phần quyền sở hữu của từng chủ thể",
+      "d": "Chỉ áp dụng cho tài sản thương mại",
+      "answer": "c",
+      "explanation": "Điều 210 BLDS 2015 quy định sở hữu chung hợp nhất là sở hữu mà phần quyền của mỗi chủ sở hữu không được xác định."
+    },
+    {
+      "question": "Quyền bề mặt được xác lập từ thời điểm nào?",
+      "a": "Khi ký hợp đồng",
+      "b": "Khi đăng ký quyền sử dụng đất",
+      "c": "Khi bên có quyền sử dụng đất chuyển giao mặt đất, mặt nước hoặc không gian cho bên có quyền bề mặt",
+      "d": "Khi công trình xây dựng hoàn thành",
+      "answer": "c",
+      "explanation": "Điều 269 BLDS 2015 quy định quyền bề mặt có hiệu lực từ thời điểm chuyển giao mặt đất, mặt nước hoặc không gian."
+    },
+    {
+      "question": "Quyền bề mặt chấm dứt trong trường hợp nào?",
+      "a": "Khi công trình bị xuống cấp",
+      "b": "Khi hết thời hạn hoặc các bên thỏa thuận chấm dứt",
+      "c": "Khi có tranh chấp đất đai",
+      "d": "Khi Nhà nước yêu cầu bất kỳ lúc nào",
+      "answer": "b",
+      "explanation": "Điều 272 BLDS 2015 quy định quyền bề mặt chấm dứt khi hết thời hạn, các bên thỏa thuận hoặc theo quy định pháp luật."
+    },
+    {
+      "question": "Trong nghĩa vụ liên đới, bên có quyền có thể yêu cầu ai thực hiện nghĩa vụ?",
+      "a": "Tất cả cùng lúc theo tỷ lệ",
+      "b": "Chỉ người ký hợp đồng chính",
+      "c": "Bất kỳ người nào trong số những người có nghĩa vụ",
+      "d": "Chỉ người có tài sản lớn nhất",
+      "answer": "c",
+      "explanation": "Điều 288 BLDS 2015 quy định bên có quyền có thể yêu cầu bất kỳ người có nghĩa vụ liên đới nào thực hiện toàn bộ nghĩa vụ."
+    },
+    {
+      "question": "Trong trường hợp không xác định thời hạn thực hiện nghĩa vụ, cách xử lý đúng là gì?",
+      "a": "Không phải thực hiện nghĩa vụ",
+      "b": "Thực hiện hoặc yêu cầu thực hiện bất kỳ lúc nào nhưng phải thông báo hợp lý",
+      "c": "Chỉ thực hiện khi có bản án",
+      "d": "Tự động chấm dứt nghĩa vụ",
+      "answer": "b",
+      "explanation": "Điều 278 BLDS 2015 quy định nếu không xác định thời hạn thì có thể thực hiện hoặc yêu cầu thực hiện bất kỳ lúc nào nhưng phải thông báo trước thời gian hợp lý."
+    },
+  {
+    "question": "Sở hữu chung theo BLDS 2015 được hiểu là gì?",
+    "a": "Sở hữu của một cá nhân đối với tài sản",
+    "b": "Sở hữu của nhiều chủ thể đối với tài sản",
+    "c": "Sở hữu của Nhà nước đối với tài sản công",
+    "d": "Sở hữu của pháp nhân đối với vốn góp",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 207 BLDS 2015 quy định: sở hữu chung là sở hữu của nhiều chủ thể đối với tài sản."
+  },
+  {
+    "question": "Sở hữu chung bao gồm những loại nào theo BLDS 2015?",
+    "a": "Sở hữu chung theo phần và sở hữu chung hợp nhất",
+    "b": "Sở hữu toàn dân và sở hữu tư nhân",
+    "c": "Sở hữu cá nhân và sở hữu tập thể",
+    "d": "Sở hữu công và sở hữu tư",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 207 BLDS 2015 quy định sở hữu chung gồm sở hữu chung theo phần và sở hữu chung hợp nhất."
+  },
+  {
+    "question": "Quyền sở hữu chung được xác lập theo căn cứ nào?",
+    "a": "Chỉ theo hợp đồng",
+    "b": "Chỉ theo quyết định của Tòa án",
+    "c": "Theo thỏa thuận, pháp luật hoặc tập quán",
+    "d": "Chỉ theo thừa kế",
+    "answer": "c",
+    "explanation": "Điều 208 BLDS 2015 quy định quyền sở hữu chung được xác lập theo thỏa thuận, pháp luật hoặc tập quán."
+  },
+  {
+    "question": "Sở hữu chung theo phần là gì?",
+    "a": "Không xác định phần quyền sở hữu của từng chủ thể",
+    "b": "Phần quyền sở hữu của mỗi chủ sở hữu được xác định",
+    "c": "Chỉ áp dụng cho vợ chồng",
+    "d": "Chỉ áp dụng cho Nhà nước",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 209 BLDS 2015 quy định sở hữu chung theo phần là loại mà phần quyền của mỗi chủ sở hữu được xác định."
+  },
+  {
+    "question": "Sở hữu chung hợp nhất có đặc điểm nào?",
+    "a": "Có xác định phần quyền sở hữu rõ ràng",
+    "b": "Không xác định phần quyền sở hữu của từng chủ sở hữu",
+    "c": "Chỉ áp dụng cho tài sản thương mại",
+    "d": "Chỉ áp dụng cho cá nhân",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 210 BLDS 2015 quy định sở hữu chung hợp nhất là loại không xác định phần quyền sở hữu của từng chủ thể."
+  },
+  {
+    "question": "Nguyên tắc quản lý tài sản chung theo BLDS 2015 là gì?",
+    "a": "Theo quyết định của một chủ sở hữu",
+    "b": "Theo nguyên tắc nhất trí",
+    "c": "Theo đa số",
+    "d": "Theo cơ quan nhà nước quyết định",
+    "answer": "b",
+    "explanation": "Điều 216 BLDS 2015 quy định các chủ sở hữu chung cùng quản lý tài sản theo nguyên tắc nhất trí, trừ trường hợp có thỏa thuận khác."
+  },
+  {
+    "question": "Chủ sở hữu chung theo phần có quyền định đoạt phần quyền sở hữu của mình không?",
+    "a": "Không được định đoạt",
+    "b": "Chỉ được định đoạt khi có sự đồng ý của tất cả chủ sở hữu",
+    "c": "Có quyền định đoạt phần quyền sở hữu của mình",
+    "d": "Chỉ được cho thuê, không được bán",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 218 BLDS 2015 quy định chủ sở hữu chung theo phần có quyền định đoạt phần quyền sở hữu của mình."
+  },
+  {
+    "question": "Sở hữu chung chấm dứt trong trường hợp nào sau đây?",
+    "a": "Khi có tranh chấp",
+    "b": "Khi tài sản chung đã được chia",
+    "c": "Khi có thỏa thuận miệng",
+    "d": "Khi một chủ sở hữu vắng mặt",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 220 BLDS 2015 quy định sở hữu chung chấm dứt khi tài sản chung đã được chia."
+  },
+  {
+    "question": "Căn cứ xác lập quyền sở hữu theo BLDS 2015 bao gồm trường hợp nào?",
+    "a": "Chỉ do hợp đồng",
+    "b": "Chỉ do thừa kế",
+    "c": "Do lao động, sản xuất, kinh doanh hợp pháp",
+    "d": "Chỉ do Tòa án quyết định",
+    "answer": "c",
+    "explanation": "Điều 221 BLDS 2015 quy định quyền sở hữu được xác lập từ lao động, sản xuất, kinh doanh hợp pháp và các căn cứ khác."
+  },
+  {
+    "question": "Thời hiệu khởi kiện vụ án dân sự được tính từ khi nào?",
+    "a": "Từ ngày ký hợp đồng",
+    "b": "Từ ngày Tòa án thụ lý",
+    "c": "Từ ngày người có quyền biết hoặc phải biết quyền bị xâm phạm",
+    "d": "Từ ngày phát sinh tranh chấp",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 154 BLDS 2015 quy định thời hiệu khởi kiện tính từ ngày người có quyền biết hoặc phải biết quyền lợi bị xâm phạm."
+  },
+[
+  {
+    "question": "A và B cùng nhận chuyển nhượng một thửa đất, thỏa thuận mỗi người góp 50% tiền nhưng không ghi rõ phần quyền sở hữu. Khi phát sinh tranh chấp, xác định loại sở hữu nào và cách xử lý đúng?",
+    "a": "Sở hữu chung hợp nhất, mỗi bên có phần xác định 50%",
+    "b": "Sở hữu chung theo phần, phần quyền sở hữu được xác định theo tỷ lệ góp vốn",
+    "c": "Sở hữu riêng của người đứng tên trên giấy chứng nhận",
+    "d": "Thuộc sở hữu Nhà nước do không thỏa thuận rõ",
+    "answer": "b",
+    "explanation": "Điều 209 BLDS 2015: sở hữu chung theo phần là sở hữu mà phần quyền của mỗi chủ sở hữu được xác định; trường hợp không thỏa thuận thì căn cứ mức đóng góp để xác định quyền."
+  },
+  {
+    "question": "Vợ chồng xác lập tài sản chung là quyền sử dụng đất. Một bên tự ý chuyển nhượng cho người thứ ba mà không có sự đồng ý của bên còn lại. Giao dịch có hiệu lực như thế nào?",
+    "a": "Luôn có hiệu lực vì là người đứng tên sổ đỏ",
+    "b": "Vô hiệu do vi phạm quyền định đoạt tài sản chung",
+    "c": "Có hiệu lực nếu người mua ngay tình",
+    "d": "Chỉ bị xử phạt hành chính",
+    "answer": "b",
+    "explanation": "Điều 213 BLDS 2015: tài sản chung của vợ chồng là sở hữu chung hợp nhất, việc định đoạt phải có thỏa thuận hoặc ủy quyền."
+  },
+  {
+    "question": "Một người chiếm hữu tài sản không có căn cứ pháp luật, ngay tình, công khai liên tục 12 năm đối với động sản. Hậu quả pháp lý?",
+    "a": "Không làm phát sinh quyền sở hữu",
+    "b": "Trở thành chủ sở hữu tài sản",
+    "c": "Chỉ được hưởng hoa lợi",
+    "d": "Bị thu hồi toàn bộ tài sản",
+    "answer": "b",
+    "explanation": "Điều 236 BLDS 2015: chiếm hữu ngay tình, liên tục 10 năm đối với động sản thì xác lập quyền sở hữu."
+  },
+  {
+    "question": "A nhặt được tài sản trị giá lớn, đã thông báo công khai nhưng sau 01 năm không có người nhận. Xác định quyền sở hữu?",
+    "a": "Thuộc Nhà nước",
+    "b": "Thuộc người nhặt được",
+    "c": "Thuộc UBND cấp xã",
+    "d": "Phải đấu giá công khai",
+    "answer": "b",
+    "explanation": "Điều 230 BLDS 2015: sau 01 năm không xác định được chủ sở hữu thì người nhặt được được xác lập quyền sở hữu (trường hợp tài sản không thuộc nhóm đặc biệt)."
+  },
+  {
+    "question": "Hai bên thỏa thuận mua bán nhà nhưng không công chứng, đã thanh toán và giao nhận nhà 80% nghĩa vụ. Một bên yêu cầu Tòa án công nhận hợp đồng. Tòa án xử lý thế nào?",
+    "a": "Tuyên vô hiệu tuyệt đối",
+    "b": "Công nhận hiệu lực nếu đã thực hiện phần lớn nghĩa vụ",
+    "c": "Bắt buộc phải công chứng lại mới có hiệu lực",
+    "d": "Hủy hợp đồng và phạt vi phạm",
+    "answer": "b",
+    "explanation": "Áp dụng Điều 129 BLDS 2015: giao dịch vi phạm hình thức nhưng đã thực hiện phần lớn nghĩa vụ có thể được Tòa án công nhận hiệu lực."
+  },
+  {
+    "question": "Một tài sản chung hợp nhất của cộng đồng bị một thành viên tự ý bán. Hiệu lực giao dịch?",
+    "a": "Có hiệu lực nếu có chữ ký một người",
+    "b": "Vô hiệu do không đúng nguyên tắc định đoạt tài sản chung",
+    "c": "Có hiệu lực nếu bên mua ngay tình",
+    "d": "Chỉ bị yêu cầu bồi thường",
+    "answer": "b",
+    "explanation": "Điều 211 và Điều 210 BLDS 2015: tài sản cộng đồng là sở hữu chung hợp nhất, việc định đoạt phải theo thỏa thuận tập thể."
+  },
+  {
+    "question": "A sáp nhập tài sản của B vào tài sản của mình dù biết rõ không được phép. B có quyền gì?",
+    "a": "Chỉ yêu cầu nhận lại phần tài sản cũ",
+    "b": "Chỉ yêu cầu bồi thường",
+    "c": "Yêu cầu nhận tài sản mới hoặc thanh toán giá trị và bồi thường",
+    "d": "Không có quyền gì",
+    "answer": "c",
+    "explanation": "Điều 225 BLDS 2015: người bị sáp nhập trái phép có quyền lựa chọn nhận tài sản hoặc yêu cầu thanh toán và bồi thường."
+  },
+  {
+    "question": "Một người phát hiện tài sản chôn giấu có giá trị lớn hơn 10 lần mức lương cơ sở. Xác định quyền lợi?",
+    "a": "Toàn bộ thuộc người phát hiện",
+    "b": "Thuộc Nhà nước toàn bộ",
+    "c": "Người phát hiện được hưởng phần giá trị theo luật, phần còn lại thuộc Nhà nước",
+    "d": "Thuộc chủ đất nơi tìm thấy",
+    "answer": "c",
+    "explanation": "Điều 229 BLDS 2015: tài sản có giá trị lớn hơn mức quy định thì người tìm thấy chỉ được hưởng phần theo luật, phần còn lại thuộc Nhà nước."
+  },
+  {
+    "question": "Thời hiệu khởi kiện bị gián đoạn khi nào?",
+    "a": "Khi bên có quyền gửi đơn khởi kiện",
+    "b": "Khi bên có nghĩa vụ thừa nhận hoặc thực hiện nghĩa vụ",
+    "c": "Khi Tòa án thụ lý",
+    "d": "Khi có tranh chấp phát sinh",
+    "answer": "b",
+    "explanation": "Điều 157 BLDS 2015: thời hiệu bắt đầu lại khi bên có nghĩa vụ thừa nhận hoặc thực hiện một phần nghĩa vụ."
+  },
+  {
+    "question": "Nguyên tắc giải quyết quyền về lối đi qua là gì?",
+    "a": "Chủ đất liền kề có quyền từ chối tuyệt đối",
+    "b": "Tòa án không có thẩm quyền giải quyết",
+    "c": "Phải đảm bảo lối đi hợp lý, ít thiệt hại nhất và có đền bù",
+    "d": "Chỉ được mở lối đi nếu miễn phí",
+    "answer": "c",
+    "explanation": "Điều 254 BLDS 2015: quyền về lối đi qua phải đảm bảo hợp lý, ít thiệt hại và có đền bù trừ thỏa thuận khác."
+  },
+{
+  "question": "Một thửa đất của A bị vây bọc bởi các bất động sản xung quanh, không có lối đi ra đường công cộng. A yêu cầu B (chủ đất liền kề) cho mở lối đi nhưng hai bên không thỏa thuận được về vị trí và mức đền bù. Cách giải quyết đúng theo BLDS 2015 là gì?",
+  "a": "B có quyền từ chối vì đất thuộc quyền sở hữu riêng",
+  "b": "A không có quyền yêu cầu lối đi qua bất động sản của người khác",
+  "c": "A có quyền yêu cầu Tòa án xác định lối đi hợp lý, bảo đảm ít thiệt hại nhất và có đền bù tương ứng",
+  "d": "Chỉ được mở lối đi nếu B đồng ý miễn phí",
+  "answer": "c",
+  "explanation": "Điều 254 BLDS 2015: chủ bất động sản bị vây bọc có quyền yêu cầu lối đi qua bất động sản liền kề; vị trí lối đi do thỏa thuận, nếu không thỏa thuận được thì Tòa án xác định, bảo đảm hợp lý, thuận tiện và hạn chế thiệt hại, đồng thời phải đền bù (trừ thỏa thuận khác)."
+},
+  {
+    "question": "Ông A và bà B là vợ chồng, cùng đứng tên quyền sử dụng đất là tài sản chung. Ông A tự ý ký hợp đồng tặng cho toàn bộ thửa đất cho C, hợp đồng có công chứng đầy đủ. B không biết và không ký. Sau đó C đã xây nhà trên đất. Khi tranh chấp xảy ra, Tòa án xử lý giao dịch này như thế nào?",
+    "a": "Hợp đồng có hiệu lực vì đã công chứng",
+    "b": "Hợp đồng vô hiệu do vi phạm quyền định đoạt tài sản chung",
+    "c": "Hợp đồng có hiệu lực đối với phần của ông A",
+    "d": "Hợp đồng chỉ bị hủy nếu bà B yêu cầu trong thời hiệu 2 năm",
+    "answer": "b",
+    "explanation": "Điều 213 BLDS 2015: tài sản chung của vợ chồng là sở hữu chung hợp nhất có thể phân chia; việc định đoạt phải có thỏa thuận. Công chứng không khắc phục được vi phạm về chủ thể có quyền định đoạt."
+  },
+  {
+    "question": "A bán cho B một căn nhà nhưng hợp đồng chỉ lập giấy tay, chưa công chứng. B đã thanh toán 90% và nhận nhà ở ổn định 3 năm. A khởi kiện yêu cầu tuyên vô hiệu. Tòa án có thể xử lý theo hướng nào?",
+    "a": "Tuyên vô hiệu tuyệt đối do không công chứng",
+    "b": "Công nhận hợp đồng có hiệu lực do đã thực hiện phần lớn nghĩa vụ",
+    "c": "Buộc hai bên ký lại hợp đồng mới",
+    "d": "Hủy hợp đồng và trả lại toàn bộ tài sản",
+    "answer": "b",
+    "explanation": "Điều 129 BLDS 2015: giao dịch vi phạm hình thức nhưng đã thực hiện ít nhất 2/3 nghĩa vụ thì Tòa án có thể công nhận hiệu lực."
+  },
+  {
+    "question": "A chiếm hữu một xe máy của B ngay tình, công khai, liên tục trong 10 năm. Trong thời gian này B không phản đối. Xác định hậu quả pháp lý chính xác nhất.",
+    "a": "A chỉ được giữ xe nhưng không có quyền sở hữu",
+    "b": "A trở thành chủ sở hữu xe theo thời hiệu",
+    "c": "B vẫn là chủ sở hữu vì không có hợp đồng chuyển nhượng",
+    "d": "Xe thuộc Nhà nước",
+    "answer": "b",
+    "explanation": "Điều 236 BLDS 2015: chiếm hữu ngay tình, liên tục 10 năm đối với động sản làm phát sinh quyền sở hữu."
+  },
+  {
+    "question": "Một tài sản vô chủ là động sản được người X phát hiện và giữ. Sau 01 năm thông báo công khai nhưng không xác định được chủ sở hữu. Tuy nhiên trong thời gian này có người Y tranh chấp nói là chủ sở hữu nhưng không chứng minh được. Hệ quả pháp lý?",
+    "a": "Y đương nhiên được công nhận chủ sở hữu",
+    "b": "X được xác lập quyền sở hữu nếu hết thời hạn luật định",
+    "c": "Tài sản phải giao cho Nhà nước ngay lập tức",
+    "d": "Phải kéo dài thời hiệu thêm 5 năm",
+    "answer": "b",
+    "explanation": "Điều 228 BLDS 2015: sau 01 năm không xác định được chủ sở hữu thì người phát hiện được xác lập quyền sở hữu đối với động sản."
+  },
+  {
+    "question": "A và B cùng sở hữu một căn nhà theo phần, mỗi người 50%. A bán toàn bộ nhà cho C mà không có sự đồng ý của B. C ngay tình, đã nhận nhà và ở ổn định. Hậu quả pháp lý?",
+    "a": "Giao dịch luôn có hiệu lực đối với toàn bộ căn nhà",
+    "b": "C chỉ có quyền đối với phần của A",
+    "c": "C trở thành chủ sở hữu toàn bộ do ngay tình",
+    "d": "Giao dịch tự động vô hiệu toàn bộ không cần xét",
+    "answer": "b",
+    "explanation": "Điều 209 và 218 BLDS 2015: chủ sở hữu chung theo phần chỉ được định đoạt phần quyền của mình; phần còn lại thuộc đồng sở hữu."
+  },
+  {
+    "question": "Một người nhặt được tài sản đánh rơi có giá trị lớn, đã thông báo công khai. Sau 01 năm chủ sở hữu không đến nhận. Tuy nhiên người nhặt đã tự ý bán tài sản trong thời gian chờ xử lý. Xác định hậu quả pháp lý?",
+    "a": "Giao dịch bán luôn hợp pháp",
+    "b": "Người nhặt không có quyền định đoạt trước khi xác lập quyền sở hữu",
+    "c": "Người mua trở thành chủ sở hữu ngay lập tức",
+    "d": "Chỉ bị xử phạt hành chính",
+    "answer": "b",
+    "explanation": "Điều 230 BLDS 2015: trong thời gian chưa xác lập quyền sở hữu, người nhặt chỉ có nghĩa vụ bảo quản, không có quyền định đoạt tài sản."
+  },
+  {
+    "question": "Một bên trong hợp đồng vay tài sản đến hạn nhưng không trả. Sau 5 năm bên cho vay mới khởi kiện. Bên vay yêu cầu áp dụng thời hiệu. Tòa án xử lý thế nào?",
+    "a": "Tòa án tự động áp dụng thời hiệu",
+    "b": "Chỉ áp dụng nếu bên vay yêu cầu trước khi xét xử sơ thẩm",
+    "c": "Không áp dụng thời hiệu trong mọi trường hợp",
+    "d": "Bắt buộc bác yêu cầu khởi kiện",
+    "answer": "b",
+    "explanation": "Điều 149 BLDS 2015: Tòa án chỉ áp dụng thời hiệu nếu có yêu cầu và phải đưa ra trước khi có bản án sơ thẩm."
+  },
+  {
+    "question": "Hai bên ký hợp đồng chuyển nhượng đất nhưng không công chứng. Một bên đã giao đất, bên kia đã thanh toán và sử dụng 8 năm. Khi xảy ra tranh chấp, bên còn lại yêu cầu tuyên vô hiệu để đòi lại đất. Hướng xử lý đúng?",
+    "a": "Tuyên vô hiệu do không công chứng",
+    "b": "Công nhận giao dịch nếu đáp ứng điều kiện luật định về thực hiện nghĩa vụ",
+    "c": "Hủy hợp đồng và trả lại toàn bộ đất",
+    "d": "Chuyển sang xử lý hành chính",
+    "answer": "b",
+    "explanation": "Điều 129 BLDS 2015 kết hợp thực tiễn xét xử: giao dịch vi phạm hình thức nhưng đã thực hiện ổn định lâu dài có thể được công nhận hiệu lực."
+  },
+  {
+    "question": "A xây nhà lấn sang đất của B do nhầm ranh giới. B yêu cầu trả lại đất. Tuy nhiên việc tháo dỡ làm thiệt hại rất lớn. Tòa án có thể giải quyết theo hướng nào?",
+    "a": "Buộc tháo dỡ toàn bộ công trình ngay lập tức",
+    "b": "Giữ công trình và buộc thanh toán giá trị đất hoặc bồi thường",
+    "c": "Hủy toàn bộ quyền sở hữu của A",
+    "d": "Không giải quyết vì là tranh chấp dân sự",
+    "answer": "b",
+    "explanation": "Nguyên tắc xử lý tài sản gắn liền với đất và cân bằng lợi ích: ưu tiên phương án ít thiệt hại hơn, có bồi thường tương ứng."
+  },
+  {
+    "question": "Một hợp đồng ủy quyền bán nhà được lập, nhưng bên được ủy quyền tự bán cho chính mình mà không có thỏa thuận cho phép. Giao dịch có hiệu lực không?",
+    "a": "Có hiệu lực vì trong phạm vi ủy quyền",
+    "b": "Vô hiệu do xung đột lợi ích và vượt phạm vi đại diện",
+    "c": "Có hiệu lực nếu công chứng",
+    "d": "Chỉ bị phạt hành chính",
+    "answer": "b",
+    "explanation": "Nguyên tắc đại diện trong BLDS 2015: không được xác lập giao dịch với chính mình nếu không được cho phép; vi phạm làm giao dịch vô hiệu."
+  },
+  {
+    "question": "Hợp đồng vay tài sản đến hạn 3 năm, bên vay không trả. Sau 4 năm, bên cho vay khởi kiện, bên vay không có yêu cầu áp dụng thời hiệu. Tòa án xử lý thế nào?",
+    "a": "Tòa án tự động áp dụng thời hiệu và bác yêu cầu",
+    "b": "Tòa án không xem xét vì đã hết thời hiệu",
+    "c": "Tòa án vẫn giải quyết vì thời hiệu chỉ áp dụng khi có yêu cầu",
+    "d": "Tòa án chuyển sang xử lý hành chính",
+    "answer": "c",
+    "explanation": "Điều 149 BLDS 2015: Tòa án chỉ áp dụng thời hiệu theo yêu cầu của một bên và phải đưa ra trước khi có bản án sơ thẩm."
+  },
+  {
+    "question": "Trong thời hiệu khởi kiện, do thiên tai kéo dài 6 tháng khiến bên có quyền không thể khởi kiện. Khoảng thời gian này được xử lý như thế nào?",
+    "a": "Vẫn tính vào thời hiệu",
+    "b": "Không tính vào thời hiệu",
+    "c": "Làm chấm dứt thời hiệu",
+    "d": "Tự động gia hạn thêm 6 tháng",
+    "answer": "b",
+    "explanation": "Điều 156 BLDS 2015: thời gian có sự kiện bất khả kháng hoặc trở ngại khách quan không tính vào thời hiệu."
+  },
+  {
+    "question": "Một hợp đồng ghi thời hạn 1 tháng, nhưng hai bên thỏa thuận bắt đầu từ ngày 15/3. Theo BLDS 2015, ngày bắt đầu tính thời hạn là ngày nào?",
+    "a": "Ngày 15/3",
+    "b": "Ngày 16/3",
+    "c": "Ngày 01/3",
+    "d": "Ngày ký hợp đồng",
+    "answer": "b",
+    "explanation": "Điều 147 BLDS 2015: khi tính theo ngày, ngày đầu tiên không tính mà bắt đầu từ ngày tiếp theo."
+  },
+  {
+    "question": "Thời hạn 1 tháng kết thúc đúng vào ngày 30/4 nhưng ngày này là ngày nghỉ lễ. Thời điểm kết thúc thời hạn được xác định thế nào?",
+    "a": "Vẫn kết thúc ngày 30/4",
+    "b": "Lùi sang ngày làm việc tiếp theo",
+    "c": "Gia hạn thêm 1 ngày",
+    "d": "Hủy thời hạn",
+    "answer": "b",
+    "explanation": "Điều 148 BLDS 2015: nếu ngày cuối cùng là ngày nghỉ thì thời hạn kết thúc vào ngày làm việc tiếp theo."
+  },
+  {
+    "question": "A và B cùng chiếm hữu một tài sản không có căn cứ pháp luật, ngay tình, liên tục 8 năm. Sau đó A khởi kiện yêu cầu xác lập quyền sở hữu. Kết quả pháp lý?",
+    "a": "A được công nhận ngay quyền sở hữu",
+    "b": "Chưa đủ thời hiệu để xác lập quyền sở hữu",
+    "c": "B bị mất quyền sở hữu ngay lập tức",
+    "d": "Tòa án không thụ lý",
+    "answer": "b",
+    "explanation": "Điều 236 BLDS 2015: thời hiệu xác lập quyền sở hữu là 10 năm đối với động sản."
+  },
+  {
+    "question": "Một tài sản bị đánh rơi được người X nhặt được và đã thông báo công khai. Sau 01 năm không có người nhận. Tuy nhiên X không giao nộp mà tự sử dụng luôn tài sản trong thời gian chờ. Hành vi này đúng hay sai?",
+    "a": "Đúng vì sẽ trở thành chủ sở hữu sau 1 năm",
+    "b": "Đúng vì được quyền chiếm hữu ngay",
+    "c": "Sai vì chưa đủ điều kiện xác lập quyền sở hữu trước thời hạn luật định",
+    "d": "Đúng vì tài sản vô chủ",
+    "answer": "c",
+    "explanation": "Điều 230 BLDS 2015: trong thời gian chưa đủ điều kiện xác lập quyền sở hữu, người nhặt chỉ có nghĩa vụ bảo quản, không có quyền định đoạt."
+  },
+  {
+    "question": "A có quyền yêu cầu B mở lối đi qua bất động sản liền kề nhưng hai bên tranh chấp không xác định được vị trí. Nếu đưa ra Tòa án, nguyên tắc xác định lối đi là gì?",
+    "a": "Theo ý chí của chủ đất liền kề",
+    "b": "Theo nơi có giá đất thấp nhất",
+    "c": "Thuận tiện nhất, hợp lý nhất và thiệt hại ít nhất cho bất động sản chịu hưởng quyền",
+    "d": "Không được giải quyết bằng Tòa án",
+    "answer": "c",
+    "explanation": "Điều 254 BLDS 2015: lối đi qua phải hợp lý, thuận tiện và hạn chế thiệt hại, Tòa án có thẩm quyền xác định nếu không thỏa thuận được."
+  },
+  {
+    "question": "Trong thời hiệu khởi kiện, người có quyền chưa xác định được người đại diện hợp pháp của mình do mất năng lực hành vi dân sự. Khoảng thời gian này xử lý thế nào?",
+    "a": "Vẫn tính vào thời hiệu",
+    "b": "Không tính vào thời hiệu",
+    "c": "Làm thời hiệu tự động chấm dứt",
+    "d": "Chuyển sang thời hiệu mới 10 năm",
+    "answer": "b",
+    "explanation": "Điều 156 BLDS 2015: chưa có người đại diện hợp pháp thuộc trường hợp không tính vào thời hiệu."
+  },
+  {
+    "question": "Hai bên thỏa thuận thời hạn thực hiện nghĩa vụ nhưng không ghi rõ ngày bắt đầu. Theo BLDS 2015, xử lý thế nào?",
+    "a": "Hợp đồng vô hiệu",
+    "b": "Mỗi bên có thể yêu cầu thực hiện bất cứ lúc nào nhưng phải báo trước thời gian hợp lý",
+    "c": "Tòa án tự ấn định thời hạn",
+    "d": "Hợp đồng bị hủy bỏ",
+    "answer": "b",
+    "explanation": "Điều 278 BLDS 2015: nếu không xác định được thời hạn thì các bên có thể thực hiện hoặc yêu cầu thực hiện bất cứ lúc nào nhưng phải thông báo trước."
+  },
+  {
+    "question": "Một người chiếm hữu tài sản ngay tình, công khai nhưng bị chủ sở hữu kiện trước khi đủ 10 năm. Hậu quả pháp lý?",
+    "a": "Vẫn trở thành chủ sở hữu",
+    "b": "Chỉ cần chiếm hữu là đủ",
+    "c": "Chưa đủ thời hiệu nên không xác lập quyền sở hữu",
+    "d": "Tòa án bác đơn kiện",
+    "answer": "c",
+    "explanation": "Điều 236 BLDS 2015: phải đủ thời hạn 10 năm (động sản) hoặc 30 năm (bất động sản) mới xác lập quyền sở hữu."
+  },
+{
+      "question": "A và B cùng góp vốn mua một căn nhà nhưng không thỏa thuận phần sở hữu. Khi phát sinh tranh chấp, xác định chế độ sở hữu phù hợp nhất?",
+      "a": "Sở hữu riêng của người đứng tên hợp đồng",
+      "b": "Sở hữu chung theo phần mặc định tương ứng đóng góp nếu chứng minh được",
+      "c": "Sở hữu chung hợp nhất không phân chia",
+      "d": "Thuộc Nhà nước quản lý",
+      "answer": "c",
+      "explanation": "Điều 210 BLDS 2015: nếu không xác định được phần quyền sở hữu thì thuộc sở hữu chung hợp nhất; các chủ sở hữu có quyền ngang nhau."
+    },
+    {
+      "question": "Một người tự ý sáp nhập tài sản của người khác vào tài sản của mình dù biết rõ không phải của mình. Chủ sở hữu tài sản bị sáp nhập có quyền nào?",
+      "a": "Chỉ được yêu cầu trả lại phần giá trị tài sản bị mất",
+      "b": "Chỉ được yêu cầu bồi thường thiệt hại",
+      "c": "Có quyền yêu cầu giao tài sản mới hoặc yêu cầu thanh toán và bồi thường thiệt hại",
+      "d": "Không có quyền vì tài sản đã trở thành tài sản mới",
+      "answer": "c",
+      "explanation": "Điều 225 BLDS 2015: chủ sở hữu có quyền lựa chọn nhận tài sản mới hoặc yêu cầu thanh toán giá trị và bồi thường nếu không nhận."
+    },
+    {
+      "question": "Người ngay tình chiếm hữu tài sản không có căn cứ pháp luật liên tục 10 năm đối với động sản thì hậu quả pháp lý là gì?",
+      "a": "Luôn phải trả lại tài sản",
+      "b": "Trở thành chủ sở hữu kể từ thời điểm bắt đầu chiếm hữu",
+      "c": "Chỉ được hưởng hoa lợi, không có quyền sở hữu",
+      "d": "Phải xin Tòa án công nhận lại quyền sở hữu",
+      "answer": "b",
+      "explanation": "Điều 236 BLDS 2015: chiếm hữu ngay tình, công khai, liên tục 10 năm đối với động sản thì xác lập quyền sở hữu kể từ thời điểm bắt đầu chiếm hữu."
+    },
+    {
+      "question": "Trong sở hữu chung theo phần, khi một chủ sở hữu muốn bán phần quyền của mình, nguyên tắc ưu tiên nào được áp dụng?",
+      "a": "Bán tự do cho bất kỳ người nào",
+      "b": "Phải được tất cả đồng sở hữu đồng ý",
+      "c": "Các đồng chủ sở hữu có quyền ưu tiên mua trong thời hạn luật định",
+      "d": "Chỉ được bán cho Nhà nước",
+      "answer": "c",
+      "explanation": "Điều 218 BLDS 2015: đồng chủ sở hữu có quyền ưu tiên mua trong thời hạn luật định trước khi bán cho người ngoài."
+    },
+    {
+      "question": "Quyền hưởng dụng chấm dứt trong trường hợp nào sau đây là đúng nhất?",
+      "a": "Chủ sở hữu thay đổi ý chí đơn phương bất cứ lúc nào",
+      "b": "Người hưởng dụng không sử dụng tài sản trong 3 ngày",
+      "c": "Hết thời hạn hưởng dụng hoặc theo thỏa thuận hoặc tài sản không còn",
+      "d": "Chủ sở hữu bán tài sản cho người khác",
+      "answer": "c",
+      "explanation": "Điều 265 BLDS 2015: quyền hưởng dụng chấm dứt khi hết thời hạn, theo thỏa thuận, tài sản không còn hoặc các căn cứ luật định khác."
+    },
+    {
+      "question": "Một hợp đồng có nhiều người cùng phải thực hiện nghĩa vụ, bên có quyền có thể yêu cầu bất kỳ người nào thực hiện toàn bộ nghĩa vụ. Đây là loại nghĩa vụ nào?",
+      "a": "Nghĩa vụ riêng rẽ",
+      "b": "Nghĩa vụ liên đới",
+      "c": "Nghĩa vụ phân chia theo phần",
+      "d": "Nghĩa vụ có điều kiện",
+      "answer": "b",
+      "explanation": "Điều 288 BLDS 2015: nghĩa vụ liên đới cho phép bên có quyền yêu cầu bất kỳ người nào thực hiện toàn bộ nghĩa vụ."
+    },
+    {
+      "question": "Trường hợp tài sản được trộn lẫn không thể tách rời và không xác định được vật chính, hậu quả pháp lý là gì?",
+      "a": "Thuộc sở hữu của người tạo ra tài sản mới",
+      "b": "Thuộc Nhà nước",
+      "c": "Trở thành sở hữu chung của các chủ sở hữu ban đầu theo phần",
+      "d": "Bị tiêu hủy",
+      "answer": "c",
+      "explanation": "Điều 226 BLDS 2015: nếu trộn lẫn không xác định vật chính thì tài sản mới thuộc sở hữu chung của các chủ sở hữu."
+    },
+    {
+      "question": "Trong nghĩa vụ có nhiều phương án thực hiện, bên có nghĩa vụ được quyền lựa chọn một trong các đối tượng thực hiện, trừ khi có thỏa thuận khác. Đây là loại nghĩa vụ nào?",
+      "a": "Nghĩa vụ thay thế được",
+      "b": "Nghĩa vụ có đối tượng tùy ý lựa chọn",
+      "c": "Nghĩa vụ liên đới",
+      "d": "Nghĩa vụ không phân chia",
+      "answer": "b",
+      "explanation": "Điều 285 BLDS 2015: nghĩa vụ có đối tượng tùy ý lựa chọn cho phép bên có nghĩa vụ lựa chọn đối tượng thực hiện."
+    },
+{
+      "question": "Hợp đồng vay tiền không thỏa thuận địa điểm trả nợ. Khi đến hạn, bên vay phải trả tiền ở đâu?",
+      "a": "Nơi cư trú của bên vay",
+      "b": "Nơi cư trú hoặc trụ sở của bên có quyền (bên cho vay)",
+      "c": "Nơi ký kết hợp đồng",
+      "d": "Bất kỳ nơi nào bên vay lựa chọn",
+      "answer": "b",
+      "explanation": "Điều 277 BLDS 2015: nếu không có thỏa thuận thì nghĩa vụ thực hiện tại nơi cư trú hoặc trụ sở của bên có quyền (trừ bất động sản)."
+    },
+    {
+      "question": "Bên mua và bên bán không thỏa thuận thời hạn giao tài sản. Bên có quyền yêu cầu thực hiện nghĩa vụ như thế nào?",
+      "a": "Chỉ được yêu cầu sau khi Tòa án quyết định",
+      "b": "Có thể yêu cầu bất cứ lúc nào nhưng phải thông báo trước một thời gian hợp lý",
+      "c": "Chỉ được yêu cầu sau 30 ngày",
+      "d": "Không được yêu cầu nếu không có thỏa thuận",
+      "answer": "b",
+      "explanation": "Khoản 3 Điều 278 BLDS 2015: không xác định thời hạn thì có thể yêu cầu bất cứ lúc nào nhưng phải thông báo trước thời gian hợp lý."
+    },
+    {
+      "question": "Bên có nghĩa vụ giao chiếc xe máy (vật đặc định) nhưng trước khi giao đã tự ý thay đổi một số bộ phận làm thay đổi tình trạng xe so với ban đầu. Xử lý đúng nhất?",
+      "a": "Vẫn được giao xe vì không ảnh hưởng nghĩa vụ",
+      "b": "Phải giao đúng chiếc xe và đúng tình trạng đã cam kết",
+      "c": "Được phép giao xe khác cùng loại",
+      "d": "Chỉ cần bồi thường là xong",
+      "answer": "b",
+      "explanation": "Điều 279 BLDS 2015: nếu là vật đặc định thì phải giao đúng vật và đúng tình trạng như đã cam kết."
+    },
+    {
+      "question": "Nghĩa vụ trả tiền theo hợp đồng không quy định phương thức trả. Khi bên có nghĩa vụ chậm trả, nghĩa vụ bao gồm cả gì?",
+      "a": "Chỉ tiền gốc",
+      "b": "Tiền gốc và lãi theo thỏa thuận hoặc luật định",
+      "c": "Chỉ tiền lãi",
+      "d": "Không phải trả gì thêm",
+      "answer": "b",
+      "explanation": "Điều 280 BLDS 2015: nghĩa vụ trả tiền bao gồm cả tiền lãi trên nợ gốc, trừ trường hợp có thỏa thuận khác."
+    },
+    {
+      "question": "A có nghĩa vụ lựa chọn giao 1 trong 3 loại tài sản. Đến hạn, chỉ còn 1 loại tài sản tồn tại. A phải xử lý thế nào?",
+      "a": "Được quyền từ chối thực hiện nghĩa vụ",
+      "b": "Có quyền lựa chọn tiếp hoặc không thực hiện",
+      "c": "Phải giao tài sản còn lại đó",
+      "d": "Chuyển sang nghĩa vụ vô hiệu",
+      "answer": "c",
+      "explanation": "Điều 285 BLDS 2015: khi chỉ còn một đối tượng thì bên có nghĩa vụ phải thực hiện với đối tượng đó."
+    },
+    {
+      "question": "Bên có nghĩa vụ không thể thực hiện nghĩa vụ ban đầu và được bên có quyền chấp nhận thực hiện nghĩa vụ khác thay thế. Đây là loại nghĩa vụ nào?",
+      "a": "Nghĩa vụ liên đới",
+      "b": "Nghĩa vụ thay thế được",
+      "c": "Nghĩa vụ phân chia",
+      "d": "Nghĩa vụ có điều kiện",
+      "answer": "b",
+      "explanation": "Điều 286 BLDS 2015: nghĩa vụ thay thế được là nghĩa vụ thực hiện nghĩa vụ khác khi được bên có quyền chấp nhận."
+    },
+    {
+      "question": "Ba người cùng có nghĩa vụ trả 300 triệu, nhưng mỗi người chỉ chịu một phần riêng biệt. Đây là loại nghĩa vụ nào?",
+      "a": "Nghĩa vụ liên đới",
+      "b": "Nghĩa vụ riêng rẽ (phân chia theo phần)",
+      "c": "Nghĩa vụ không phân chia",
+      "d": "Nghĩa vụ có điều kiện",
+      "answer": "b",
+      "explanation": "Điều 287 BLDS 2015: nghĩa vụ riêng rẽ là mỗi người chỉ phải thực hiện phần nghĩa vụ của mình."
+    },
+    {
+      "question": "Bên cho vay có quyền yêu cầu bất kỳ một trong ba người vay liên đới phải trả toàn bộ khoản nợ. Đây là đặc điểm của loại nghĩa vụ nào?",
+      "a": "Nghĩa vụ riêng rẽ",
+      "b": "Nghĩa vụ liên đới",
+      "c": "Nghĩa vụ phân chia",
+      "d": "Nghĩa vụ theo phần",
+      "answer": "b",
+      "explanation": "Điều 288 BLDS 2015: nghĩa vụ liên đới cho phép yêu cầu bất kỳ người nào thực hiện toàn bộ nghĩa vụ."
+    },
+    {
+      "question": "Trong nghĩa vụ liên đới, nếu một người đã thực hiện toàn bộ nghĩa vụ thì hậu quả pháp lý chính là gì?",
+      "a": "Nghĩa vụ chấm dứt hoàn toàn không phát sinh quyền hoàn trả",
+      "b": "Người đó có quyền yêu cầu những người còn lại hoàn trả phần nghĩa vụ của họ",
+      "c": "Không được yêu cầu lại bất kỳ ai",
+      "d": "Nghĩa vụ chuyển thành vô hiệu",
+      "answer": "b",
+      "explanation": "Khoản 2 Điều 288 BLDS 2015: người thực hiện toàn bộ nghĩa vụ có quyền yêu cầu những người còn lại hoàn trả phần nghĩa vụ."
+    },
+    {
+      "question": "Nghĩa vụ mà đối tượng phải được thực hiện cùng một lúc, không thể chia nhỏ để thực hiện từng phần, là loại nghĩa vụ nào?",
+      "a": "Nghĩa vụ phân chia theo phần",
+      "b": "Nghĩa vụ không phân chia được theo phần",
+      "c": "Nghĩa vụ liên đới",
+      "d": "Nghĩa vụ tùy ý lựa chọn",
+      "answer": "b",
+      "explanation": "Điều 291 BLDS 2015: nghĩa vụ không phân chia phải thực hiện cùng một lúc."
+    },
+{
+      "question": "A và B ký hợp đồng mua bán tài sản, không thỏa thuận thời hạn giao hàng. Sau 10 ngày A yêu cầu giao ngay nhưng B chưa chuẩn bị hàng và cho rằng phải chờ 'khi thuận tiện'. Nhận định nào đúng?",
+      "a": "B có quyền trì hoãn vô thời hạn",
+      "b": "A chỉ được yêu cầu khi B đồng ý",
+      "c": "A có quyền yêu cầu thực hiện bất cứ lúc nào nhưng phải thông báo trước thời gian hợp lý",
+      "d": "Hợp đồng vô hiệu do không có thời hạn",
+      "answer": "c",
+      "explanation": "Điều 278 BLDS 2015: không xác định thời hạn thì bên có quyền có thể yêu cầu bất cứ lúc nào nhưng phải báo trước thời gian hợp lý."
+    },
+    {
+      "question": "Hợp đồng vay tiền không ghi địa điểm trả nợ. Bên vay chuyển đến nơi khác và yêu cầu trả tại nơi cư trú mới của mình. Cách xác định đúng là?",
+      "a": "Theo nơi cư trú mới của bên vay",
+      "b": "Theo nơi cư trú của bên cho vay tại thời điểm ký hợp đồng",
+      "c": "Theo nơi cư trú hoặc trụ sở của bên có quyền tại thời điểm thực hiện nghĩa vụ",
+      "d": "Theo nơi phát sinh khoản vay",
+      "answer": "c",
+      "explanation": "Điều 277 BLDS 2015: địa điểm thực hiện nghĩa vụ là nơi cư trú hoặc trụ sở của bên có quyền, nếu không có thỏa thuận."
+    },
+    {
+      "question": "A phải giao một chiếc xe cụ thể (xe biển số xác định). Trước ngày giao, A tự ý thay động cơ của xe bằng loại khác tốt hơn. Khi tranh chấp xảy ra, xử lý đúng là?",
+      "a": "A vẫn hoàn thành nghĩa vụ vì giá trị xe tăng",
+      "b": "A vi phạm nghĩa vụ do không giữ nguyên tình trạng vật đặc định",
+      "c": "A có quyền tự quyết vì là tài sản của mình",
+      "d": "Hợp đồng tự động chấm dứt",
+      "answer": "b",
+      "explanation": "Điều 279 BLDS 2015: vật đặc định phải được giao đúng tình trạng đã cam kết."
+    },
+    {
+      "question": "Trong hợp đồng vay, bên vay trả tiền nhưng không trả lãi do cho rằng không có thỏa thuận. Kết luận đúng là?",
+      "a": "Luôn phải trả lãi dù không thỏa thuận",
+      "b": "Chỉ trả lãi khi có thỏa thuận khác",
+      "c": "Không phải trả gốc",
+      "d": "Hợp đồng vô hiệu",
+      "answer": "b",
+      "explanation": "Điều 280 BLDS 2015: nghĩa vụ trả tiền bao gồm lãi trừ trường hợp có thỏa thuận khác."
+    },
+    {
+      "question": "A có nghĩa vụ giao một trong 3 loại tài sản. Trước thời điểm thực hiện, hai loại tài sản bị mất do sự kiện khách quan. A còn lại 1 loại. A từ chối giao vì cho rằng nghĩa vụ không xác định nữa. Nhận định đúng?",
+      "a": "A được miễn nghĩa vụ",
+      "b": "A phải thực hiện nghĩa vụ với tài sản còn lại",
+      "c": "Hợp đồng chấm dứt",
+      "d": "Bên có quyền phải lựa chọn lại",
+      "answer": "b",
+      "explanation": "Điều 285 BLDS 2015: khi chỉ còn một đối tượng thì nghĩa vụ phải được thực hiện với đối tượng đó."
+    },
+    {
+      "question": "A và B thỏa thuận: nếu A không giao được hàng thì phải thuê C giao thay. Sau đó C không thực hiện, B yêu cầu A chịu trách nhiệm. Nhận định đúng?",
+      "a": "A được miễn trách nhiệm hoàn toàn",
+      "b": "C chịu trách nhiệm trực tiếp với B",
+      "c": "A vẫn phải chịu trách nhiệm với B",
+      "d": "Hợp đồng vô hiệu",
+      "answer": "c",
+      "explanation": "Điều 283 BLDS 2015: thực hiện qua người thứ ba không làm thay đổi trách nhiệm của bên có nghĩa vụ."
+    },
+    {
+      "question": "Hợp đồng quy định A phải trả tiền hàng tháng. A trả chậm 2 kỳ liên tiếp. Nhận định đúng nhất?",
+      "a": "Chỉ vi phạm từng kỳ riêng lẻ",
+      "b": "Không vi phạm nghĩa vụ",
+      "c": "Vi phạm nghĩa vụ theo định kỳ",
+      "d": "Tự động chấm dứt hợp đồng",
+      "answer": "c",
+      "explanation": "Điều 282 BLDS 2015: nghĩa vụ theo định kỳ, chậm từng kỳ cũng là vi phạm nghĩa vụ."
+    },
+    {
+      "question": "Ba người cùng vay 300 triệu theo nghĩa vụ liên đới. Bên cho vay chỉ yêu cầu một người trả toàn bộ và người đó đã trả xong. Sau đó người này yêu cầu hai người còn lại hoàn trả. Nhận định đúng?",
+      "a": "Không có quyền yêu cầu lại",
+      "b": "Chỉ yêu cầu 1/3 mỗi người",
+      "c": "Có quyền yêu cầu phần nghĩa vụ tương ứng của những người còn lại",
+      "d": "Toàn bộ khoản vay bị xóa",
+      "answer": "c",
+      "explanation": "Điều 288 BLDS 2015: người thực hiện toàn bộ nghĩa vụ liên đới có quyền yêu cầu những người còn lại hoàn trả phần nghĩa vụ."
+    },
+    {
+      "question": "Nghĩa vụ có nhiều người cùng thực hiện nhưng không ràng buộc trách nhiệm chung, mỗi người chịu phần riêng biệt. Đây là trường hợp nào?",
+      "a": "Liên đới",
+      "b": "Không phân chia",
+      "c": "Riêng rẽ theo phần",
+      "d": "Có điều kiện",
+      "answer": "c",
+      "explanation": "Điều 287 BLDS 2015: nghĩa vụ riêng rẽ là mỗi người chịu phần nghĩa vụ của mình."
+    },
+    {
+      "question": "Một nghĩa vụ yêu cầu giao tài sản phải thực hiện cùng lúc, Trường hợp này thuộc loại?",
+      "a": "Phân chia theo phần",
+      "b": "Không phân chia được theo phần",
+      "c": "Liên đới",
+      "d": "Có lựa chọn",
+      "answer": "b",
+      "explanation": "Điều 291 BLDS 2015: nghĩa vụ không phân chia phải thực hiện cùng một lúc."
+    },
+{
+      "question": "Hợp đồng mua bán không thỏa thuận thời hạn giao tài sản. Sau khi ký 15 ngày, bên mua yêu cầu giao ngay nhưng bên bán chưa chuẩn bị xong và yêu cầu chờ thêm thời gian. Cách xử lý đúng?",
+      "a": "Bên bán được tự quyết thời gian",
+      "b": "Bên mua chỉ được yêu cầu khi đến hạn cố định",
+      "c": "Bên mua có quyền yêu cầu bất cứ lúc nào nhưng phải thông báo trước thời gian hợp lý",
+      "d": "Hợp đồng vô hiệu",
+      "answer": "c",
+      "explanation": "Điều 278 BLDS 2015: không xác định thời hạn thì bên có quyền được yêu cầu bất cứ lúc nào nhưng phải báo trước thời gian hợp lý."
+    },
+    {
+      "question": "Hợp đồng vay không xác định địa điểm trả tiền. Bên vay yêu cầu trả tại nơi cư trú mới của mình sau khi chuyển nơi ở. Xác định đúng?",
+      "a": "Theo nơi cư trú mới của bên vay",
+      "b": "Theo nơi giao kết hợp đồng",
+      "c": "Theo nơi cư trú hoặc trụ sở của bên có quyền tại thời điểm thực hiện",
+      "d": "Theo lựa chọn của bên vay",
+      "answer": "c",
+      "explanation": "Điều 277 BLDS 2015: địa điểm thực hiện nghĩa vụ là nơi cư trú hoặc trụ sở của bên có quyền nếu không có thỏa thuận."
+    },
+    {
+      "question": "A giao xe máy là vật đặc định nhưng trước khi giao đã thay đổi số khung để thuận tiện đăng ký. Hậu quả pháp lý?",
+      "a": "Vẫn đúng nghĩa vụ",
+      "b": "Không vi phạm vì không làm giảm giá trị",
+      "c": "Vi phạm nghĩa vụ giao đúng vật và tình trạng",
+      "d": "Được miễn trách nhiệm",
+      "answer": "c",
+      "explanation": "Điều 279 BLDS 2015: vật đặc định phải giao đúng vật và tình trạng đã cam kết."
+    },
+    {
+      "question": "Nghĩa vụ trả tiền nhưng không thỏa thuận lãi. Bên cho vay yêu cầu lãi khi chậm trả. Xử lý?",
+      "a": "Không được yêu cầu lãi",
+      "b": "Luôn phải trả lãi",
+      "c": "Chỉ trả gốc",
+      "d": "Hợp đồng vô hiệu",
+      "answer": "a",
+      "explanation": "Điều 280 BLDS 2015: lãi chỉ phát sinh khi có thỏa thuận hoặc theo quy định khác."
+    },
+    {
+      "question": "A có nghĩa vụ lựa chọn giao 1 trong 3 tài sản. Trước khi thực hiện, 2 tài sản bị mất do thiên tai. A từ chối giao vì cho rằng nghĩa vụ không còn xác định. Nhận định?",
+      "a": "Được miễn nghĩa vụ",
+      "b": "Phải thực hiện với tài sản còn lại",
+      "c": "Hợp đồng vô hiệu",
+      "d": "Bên có quyền phải chọn lại",
+      "answer": "b",
+      "explanation": "Điều 285 BLDS 2015: khi chỉ còn một đối tượng thì phải thực hiện với đối tượng đó."
+    },
+    {
+      "question": "A thuê C giao hàng thay mình nhưng C không thực hiện. Bên có quyền yêu cầu ai chịu trách nhiệm?",
+      "a": "Chỉ C chịu trách nhiệm",
+      "b": "A không chịu trách nhiệm",
+      "c": "A vẫn chịu trách nhiệm với bên có quyền",
+      "d": "Hợp đồng chấm dứt",
+      "answer": "c",
+      "explanation": "Điều 283 BLDS 2015: thực hiện qua người thứ ba không làm mất trách nhiệm của bên có nghĩa vụ."
+    },
+    {
+      "question": "Nghĩa vụ trả góp hàng tháng, bên có nghĩa vụ trả chậm 3 kỳ liên tiếp. Nhận định?",
+      "a": "Không vi phạm",
+      "b": "Vi phạm nghĩa vụ theo định kỳ",
+      "c": "Chỉ vi phạm 1 lần",
+      "d": "Hợp đồng vô hiệu",
+      "answer": "b",
+      "explanation": "Điều 282 BLDS 2015: nghĩa vụ theo định kỳ, chậm từng kỳ là vi phạm."
+    },
+    {
+      "question": "Ba người cùng vay theo nghĩa vụ liên đới, bên cho vay yêu cầu 1 người trả toàn bộ. Người đó đã trả xong. Quyền của người này?",
+      "a": "Không có quyền gì",
+      "b": "Có quyền yêu cầu hoàn trả phần nghĩa vụ của người khác",
+      "c": "Chỉ được yêu cầu 1/2",
+      "d": "Khoản nợ chấm dứt hoàn toàn",
+      "answer": "b",
+      "explanation": "Điều 288 BLDS 2015: người thực hiện toàn bộ nghĩa vụ liên đới có quyền yêu cầu hoàn trả phần nghĩa vụ."
+    },
+    {
+      "question": "Nghĩa vụ mà mỗi người chỉ chịu phần riêng biệt, không bị yêu cầu thực hiện toàn bộ là loại nào?",
+      "a": "Liên đới",
+      "b": "Riêng rẽ theo phần",
+      "c": "Không phân chia",
+      "d": "Có điều kiện",
+      "answer": "b",
+      "explanation": "Điều 287 BLDS 2015: nghĩa vụ riêng rẽ theo phần."
+    },
+    {
+      "question": "Nghĩa vụ yêu cầu giao một tài sản duy nhất cùng lúc, không thể chia nhỏ. Đây là?",
+      "a": "Phân chia",
+      "b": "Không phân chia được theo phần",
+      "c": "Liên đới",
+      "d": "Lựa chọn",
+      "answer": "b",
+      "explanation": "Điều 291 BLDS 2015: nghĩa vụ không phân chia phải thực hiện cùng một lúc."
+    },
+    {
+      "question": "Bên có nghĩa vụ giao hàng nhưng giao thiếu số lượng, không đúng thỏa thuận. Căn cứ pháp lý xử lý thuộc nhóm nào?",
+      "a": "Đối tượng nghĩa vụ không xác định",
+      "b": "Thực hiện nghĩa vụ giao vật không đúng nội dung",
+      "c": "Chấm dứt nghĩa vụ",
+      "d": "Miễn nghĩa vụ",
+      "answer": "b",
+      "explanation": "Điều 279 BLDS 2015: nghĩa vụ giao vật phải đúng số lượng, chất lượng, tình trạng."
+    },
+    {
+      "question": "Nghĩa vụ trả tiền được thực hiện trước hạn và bên có quyền chấp nhận. Xử lý?",
+      "a": "Luôn vô hiệu",
+      "b": "Được coi là đã thực hiện đúng nghĩa vụ",
+      "c": "Phải làm lại",
+      "d": "Bị phạt",
+      "answer": "b",
+      "explanation": "Điều 278 BLDS 2015: nếu bên có quyền chấp nhận thì nghĩa vụ được coi là hoàn thành đúng thời hạn."
+    },
+    {
+  "question": "A và B không thỏa thuận thời hạn thực hiện nghĩa vụ. Bên có quyền yêu cầu thế nào?",
+  "a": "Không được yêu cầu",
+  "b": "Chỉ khi Tòa án cho phép",
+  "c": "Có thể yêu cầu bất cứ lúc nào nhưng phải báo trước hợp lý",
+  "d": "Phải chờ 30 ngày",
+  "answer": "c",
+  "explanation": "Theo khoản 3 Điều 278 BLDS 2015, nếu không xác định được thời hạn thực hiện nghĩa vụ thì mỗi bên có quyền thực hiện hoặc yêu cầu thực hiện vào bất cứ lúc nào, nhưng phải thông báo trước trong một thời gian hợp lý. Điểm mấu chốt là nghĩa vụ vẫn có hiệu lực, chỉ phát sinh cơ chế 'yêu cầu linh hoạt kèm báo trước hợp lý'."
+},
+{
+  "question": "Hợp đồng không quy định địa điểm giao tài sản là bất động sản. Địa điểm thực hiện?",
+  "a": "Nơi cư trú bên mua",
+  "b": "Nơi có bất động sản",
+  "c": "Nơi ký hợp đồng",
+  "d": "Tùy bên bán",
+  "answer": "b",
+  "explanation": "Theo điểm a khoản 2 Điều 277 BLDS 2015, nếu đối tượng nghĩa vụ là bất động sản thì địa điểm thực hiện nghĩa vụ là nơi có bất động sản. Quy tắc này mang tính bắt buộc, không phụ thuộc nơi cư trú hay thỏa thuận nếu các bên không quy định."
+},
+{
+  "question": "Nghĩa vụ có nhiều phương án thực hiện, bên có nghĩa vụ được quyền lựa chọn. Đến hạn chỉ còn 1 phương án. Xử lý?",
+  "a": "Không phải thực hiện",
+  "b": "Phải thực hiện với phương án còn lại",
+  "c": "Chờ bên có quyền chọn",
+  "d": "Hủy nghĩa vụ",
+  "answer": "b",
+  "explanation": "Theo khoản 3 Điều 285 BLDS 2015, nếu nghĩa vụ có đối tượng lựa chọn mà chỉ còn một đối tượng duy nhất thì bên có nghĩa vụ phải thực hiện đối tượng đó. Quyền lựa chọn bị triệt tiêu khi thực tế không còn lựa chọn."
+},
+  {
     "question": "Theo BLDS 2015, tài sản bao gồm những loại nào?",
     "a": "Chỉ vật và tiền",
     "b": "Vật, tiền, giấy tờ có giá và quyền tài sản",
