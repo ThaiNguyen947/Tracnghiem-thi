@@ -3854,6 +3854,366 @@
     "d": "Sổ theo dõi lao động",
     "answer": "c",
     "explanation": "Mẫu TP-CC-35 là sổ công chứng giao dịch điện tử."
+  },
+  {
+    "question": "Một người yêu cầu cơ quan có thẩm quyền chứng thực bản sao từ bản chính nhưng không xuất trình bản chính để đối chiếu. Cơ quan xử lý thế nào?",
+    "a": "Vẫn thực hiện chứng thực nếu người yêu cầu cam kết chịu trách nhiệm",
+    "b": "Từ chối thực hiện chứng thực",
+    "c": "Chứng thực nhưng ghi rõ không có bản chính",
+    "d": "Chuyển sang công chứng viên thực hiện",
+    "answer": "b",
+    "explanation": "Theo phạm vi chứng thực trong Nghị định 23/2015/NĐ-CP, việc chứng thực bản sao từ bản chính bắt buộc phải có bản chính để đối chiếu, nếu không có thì từ chối."
+  },
+  {
+    "question": "Người dân yêu cầu chứng thực chữ ký trên giấy tờ nhưng nội dung giấy tờ liên quan giao dịch vi phạm pháp luật. Cơ quan chứng thực xử lý thế nào?",
+    "a": "Chứng thực chữ ký vì chỉ xác nhận chữ ký",
+    "b": "Từ chối chứng thực",
+    "c": "Vẫn chứng thực nhưng không chịu trách nhiệm nội dung",
+    "d": "Chỉ chứng thực nếu hai bên đồng ý",
+    "answer": "b",
+    "explanation": "Theo phạm vi điều chỉnh và nguyên tắc chứng thực của Nghị định 23/2015/NĐ-CP, cơ quan chứng thực có quyền từ chối nếu nội dung văn bản vi phạm pháp luật."
+  },
+  {
+    "question": "Một hợp đồng mua bán tài sản được yêu cầu chứng thực nhưng chỉ có một bên tham gia ký. Cơ quan chứng thực xử lý thế nào?",
+    "a": "Vẫn chứng thực nếu bên có mặt cam kết",
+    "b": "Từ chối chứng thực",
+    "c": "Chứng thực phần chữ ký của bên có mặt",
+    "d": "Chuyển sang công chứng",
+    "answer": "b",
+    "explanation": "Theo phạm vi chứng thực hợp đồng, giao dịch trong Nghị định 23/2015/NĐ-CP, các bên phải tham gia ký kết theo quy định, không đủ điều kiện thì từ chối."
+  },
+  {
+    "question": "Cơ quan, tổ chức yêu cầu cấp bản sao từ sổ gốc nhưng không có sổ gốc lưu trữ. Cơ quan xử lý thế nào?",
+    "a": "Vẫn cấp bản sao theo giấy tờ người yêu cầu cung cấp",
+    "b": "Từ chối cấp bản sao",
+    "c": "Chuyển sang chứng thực bản sao",
+    "d": "Yêu cầu công chứng lại hồ sơ",
+    "answer": "b",
+    "explanation": "Theo phạm vi điều chỉnh của Nghị định 23/2015/NĐ-CP, việc cấp bản sao từ sổ gốc chỉ thực hiện khi có sổ gốc hợp pháp để đối chiếu."
+  },
+  {
+    "question": "Nội dung nào sau đây thuộc phạm vi điều chỉnh của Nghị định 23/2015/NĐ-CP?",
+    "a": "Giải quyết tranh chấp hợp đồng dân sự",
+    "b": "Chứng thực bản sao từ bản chính",
+    "c": "Xét xử vụ án dân sự",
+    "d": "Đăng ký quyền sử dụng đất",
+    "answer": "b",
+    "explanation": "Điều 1 Nghị định 23/2015/NĐ-CP quy định rõ một trong các nội dung là chứng thực bản sao từ bản chính."
+  },
+  {
+    "question": "Theo phạm vi điều chỉnh của Nghị định 23/2015/NĐ-CP, nội dung nào KHÔNG thuộc nghị định này?",
+    "a": "Chứng thực chữ ký",
+    "b": "Chứng thực hợp đồng, giao dịch",
+    "c": "Công chứng hợp đồng, giao dịch",
+    "d": "Giá trị pháp lý của bản sao chứng thực",
+    "answer": "c",
+    "explanation": "Nghị định 23/2015/NĐ-CP không điều chỉnh công chứng, mà chỉ điều chỉnh hoạt động chứng thực."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP, nội dung quản lý nhà nước về chứng thực thuộc:",
+    "a": "Phạm vi điều chỉnh của nghị định",
+    "b": "Luật Công chứng",
+    "c": "Bộ luật Dân sự",
+    "d": "Luật Hành chính",
+    "answer": "a",
+    "explanation": "Điều 1 Nghị định 23/2015/NĐ-CP quy định rõ bao gồm cả quản lý nhà nước về chứng thực."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người dân yêu cầu chứng thực 'hợp đồng mua bán xe máy' được xử lý như thế nào?",
+    "a": "Vẫn chứng thực như hợp đồng dân sự độc lập",
+    "b": "Từ chối vì không thuộc phạm vi chứng thực",
+    "c": "Xử lý theo chứng thực giao dịch dân sự theo quy định tại Điều 2",
+    "d": "Bắt buộc chuyển sang công chứng",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 4 Điều 2 Nghị định 23/2015/NĐ-CP (được sửa đổi bởi NĐ 280/2025/NĐ-CP), 'chứng thực giao dịch' được hiểu là việc chứng thực về thời gian, địa điểm giao kết giao dịch dân sự, năng lực hành vi, ý chí tự nguyện, chữ ký hoặc dấu điểm chỉ của các bên tham gia. Do đó, hợp đồng được xem là giao dịch dân sự trong phạm vi chứng thực."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 280/2025/NĐ-CP, 'người thực hiện chứng thực' bao gồm những đối tượng nào sau đây?",
+    "a": "Chỉ công chứng viên",
+    "b": "Chủ tịch UBND cấp xã, người được ủy quyền hoặc phân công, công chứng viên, viên chức ngoại giao, lãnh sự",
+    "c": "Chỉ Trưởng phòng Tư pháp",
+    "d": "Thẩm phán Tòa án",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 9 Điều 2 Nghị định 23/2015/NĐ-CP (sửa đổi bởi NĐ 280/2025/NĐ-CP), người thực hiện chứng thực gồm: Chủ tịch UBND cấp xã; người được ủy quyền hoặc phân công; công chứng viên; viên chức ngoại giao, viên chức lãnh sự và cơ quan đại diện được ủy quyền."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, 'chứng thực bản sao từ bản chính' được hiểu như thế nào?",
+    "a": "Việc xác nhận chữ ký trên bản sao",
+    "b": "Việc cơ quan, tổ chức, người có thẩm quyền căn cứ bản chính để chứng thực bản sao đúng với bản chính",
+    "c": "Việc công chứng lại bản chính",
+    "d": "Việc sao lưu hồ sơ nội bộ cơ quan",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 2 Nghị định 23/2015/NĐ-CP (được sửa đổi, bổ sung bởi NĐ 280/2025/NĐ-CP), chứng thực bản sao từ bản chính là việc cơ quan, tổ chức, người có thẩm quyền căn cứ vào bản chính để chứng thực bản sao là đúng với bản chính."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP, 'bản chính' được hiểu là gì?",
+    "a": "Bản photocopy có xác nhận",
+    "b": "Giấy tờ do cơ quan có thẩm quyền cấp hoặc cá nhân lập có xác nhận, đóng dấu theo quy định",
+    "c": "Bản sao có chứng thực",
+    "d": "Tài liệu lưu trữ nội bộ",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 5 Điều 2 Nghị định 23/2015/NĐ-CP, bản chính là giấy tờ do cơ quan có thẩm quyền cấp lần đầu, cấp lại hoặc do cá nhân lập có xác nhận và đóng dấu của cơ quan có thẩm quyền."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 280/2025/NĐ-CP, điểm thay đổi quan trọng của khái niệm 'chứng thực giao dịch' là gì?",
+    "a": "Bổ sung công chứng viên vào phạm vi chứng thực",
+    "b": "Thay cụm từ 'hợp đồng, giao dịch' bằng 'giao dịch dân sự'",
+    "c": "Bỏ hoàn toàn chứng thực giao dịch",
+    "d": "Chuyển sang đăng ký giao dịch bảo đảm",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 4 Điều 2 Nghị định 23/2015/NĐ-CP (sửa đổi bởi NĐ 280/2025/NĐ-CP), thuật ngữ 'chứng thực hợp đồng, giao dịch' được chuẩn hóa thành 'chứng thực giao dịch dân sự'."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, 'văn bản chứng thực' được hiểu là gì?",
+    "a": "Văn bản do cơ quan nhà nước ban hành",
+    "b": "Giấy tờ, văn bản, hợp đồng, giao dịch đã được chứng thực theo quy định",
+    "c": "Văn bản có công chứng của tổ chức hành nghề công chứng",
+    "d": "Tài liệu nội bộ cơ quan hành chính",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 8 Điều 2 Nghị định 23/2015/NĐ-CP, 'văn bản chứng thực' là giấy tờ, văn bản, hợp đồng, giao dịch đã được chứng thực theo quy định của Nghị định này."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP, 'sổ gốc' được hiểu là gì?",
+    "a": "Sổ lưu bản sao tài liệu tại cơ quan chứng thực",
+    "b": "Sổ do cơ quan có thẩm quyền lập khi cấp bản chính, ghi đầy đủ nội dung như bản chính đã cấp",
+    "c": "Sổ đăng ký hộ tịch điện tử",
+    "d": "Sổ theo dõi công chứng hợp đồng",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 7 Điều 2 Nghị định 23/2015/NĐ-CP, sổ gốc là sổ do cơ quan, tổ chức có thẩm quyền lập khi cấp bản chính theo quy định pháp luật, trong đó ghi đầy đủ nội dung như bản chính đã cấp."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP, 'bản sao' được hiểu là gì?",
+    "a": "Bản chụp hoặc bản đánh máy có nội dung giống bản chính",
+    "b": "Bản do công chứng viên lập lại nội dung văn bản",
+    "c": "Bản lưu tại cơ quan hành chính nhà nước",
+    "d": "Bản dịch từ tiếng nước ngoài",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 6 Điều 2 Nghị định 23/2015/NĐ-CP, bản sao là bản chụp từ bản chính hoặc bản đánh máy có nội dung đầy đủ, chính xác như nội dung ghi trong sổ gốc."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP, 'bản chính' được hiểu như thế nào?",
+    "a": "Bản photo có chứng thực",
+    "b": "Giấy tờ do cơ quan có thẩm quyền cấp hoặc cá nhân lập có xác nhận, đóng dấu",
+    "c": "Bản sao được công chứng",
+    "d": "Tài liệu scan lưu điện tử",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 5 Điều 2 Nghị định 23/2015/NĐ-CP, bản chính là giấy tờ do cơ quan, tổ chức có thẩm quyền cấp lần đầu, cấp lại hoặc do cá nhân lập có xác nhận và đóng dấu của cơ quan có thẩm quyền."
+  },
+{
+    "question": "Theo Nghị định 23/2015/NĐ-CP, nội dung nào đúng về 'bản sao'?",
+    "a": "Chỉ là bản photocopy",
+    "b": "Là bản chụp hoặc bản đánh máy có nội dung đúng với bản chính",
+    "c": "Là bản công chứng lại nội dung tài liệu",
+    "d": "Là bản lưu tại cơ quan hành chính",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 6 Điều 2 Nghị định 23/2015/NĐ-CP, bản sao là bản chụp từ bản chính hoặc bản đánh máy có nội dung đầy đủ, chính xác như nội dung ghi trong sổ gốc."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung, nội dung nào sau đây là đúng về 'chứng thực chữ ký'?",
+    "a": "Xác nhận nội dung văn bản có hợp pháp hay không",
+    "b": "Xác nhận chữ ký trong giấy tờ là chữ ký của người yêu cầu chứng thực",
+    "c": "Xác nhận hợp đồng đúng pháp luật",
+    "d": "Xác nhận tài sản trong hợp đồng",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 3 Điều 2 Nghị định 23/2015/NĐ-CP (sửa đổi bởi NĐ 280/2025/NĐ-CP), chứng thực chữ ký là việc cơ quan, tổ chức, người có thẩm quyền chứng thực chữ ký là của người yêu cầu chứng thực."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP, nội dung nào KHÔNG thuộc 'bản chính'?",
+    "a": "Giấy tờ do cơ quan có thẩm quyền cấp lần đầu",
+    "b": "Giấy tờ do cá nhân lập có xác nhận",
+    "c": "Bản photocopy không xác nhận",
+    "d": "Giấy tờ cấp lại theo quy định",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 5 Điều 2 Nghị định 23/2015/NĐ-CP, bản chính phải do cơ quan có thẩm quyền cấp hoặc cá nhân lập có xác nhận, không bao gồm bản photocopy đơn thuần."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP, nội dung nào sau đây đúng về 'văn bản chứng thực'?",
+    "a": "Là văn bản hành chính do UBND ban hành",
+    "b": "Là giấy tờ đã được chứng thực theo quy định của Nghị định 23",
+    "c": "Là hợp đồng bắt buộc phải công chứng",
+    "d": "Là tài liệu nội bộ cơ quan nhà nước",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 8 Điều 2 Nghị định 23/2015/NĐ-CP, văn bản chứng thực là giấy tờ, văn bản, hợp đồng, giao dịch đã được chứng thực theo quy định."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, bản sao được cấp từ sổ gốc có giá trị pháp lý như thế nào?",
+    "a": "Chỉ có giá trị lưu trữ nội bộ",
+    "b": "Có giá trị thay thế bản chính trong mọi trường hợp",
+    "c": "Có giá trị sử dụng thay cho bản chính trong các giao dịch, trừ trường hợp pháp luật có quy định khác",
+    "d": "Không có giá trị pháp lý",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 3 Nghị định 23/2015/NĐ-CP, bản sao được cấp từ sổ gốc có giá trị sử dụng thay cho bản chính trong các giao dịch, trừ trường hợp pháp luật có quy định khác."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, bản sao được chứng thực từ bản chính có giá trị pháp lý như thế nào?",
+    "a": "Thay thế bản chính không giới hạn",
+    "b": "Chỉ có giá trị lưu hồ sơ",
+    "c": "Có giá trị sử dụng thay cho bản chính đã dùng để đối chiếu chứng thực, trừ trường hợp pháp luật có quy định khác",
+    "d": "Chỉ có giá trị khi công chứng lại",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 3 Nghị định 23/2015/NĐ-CP, bản sao chứng thực có giá trị thay cho bản chính đã dùng để đối chiếu chứng thực, trừ trường hợp pháp luật có quy định khác."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, chữ ký được chứng thực có giá trị pháp lý gì?",
+    "a": "Xác nhận nội dung hợp đồng hợp pháp",
+    "b": "Chứng minh người yêu cầu chứng thực đã ký chữ ký đó và là căn cứ xác định trách nhiệm của người ký",
+    "c": "Xác nhận quyền sở hữu tài sản",
+    "d": "Xác nhận hợp đồng có hiệu lực pháp luật",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 3 Điều 3 Nghị định 23/2015/NĐ-CP, chữ ký được chứng thực có giá trị chứng minh người ký đã ký chữ ký đó và là căn cứ xác định trách nhiệm đối với nội dung văn bản."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, hợp đồng, giao dịch được chứng thực có giá trị pháp lý gì?",
+    "a": "Có giá trị xác nhận nội dung hợp đồng hợp pháp",
+    "b": "Có giá trị chứng cứ về thời gian, địa điểm ký kết, năng lực hành vi dân sự, ý chí tự nguyện và chữ ký của các bên",
+    "c": "Có giá trị như công chứng hợp đồng",
+    "d": "Có giá trị thay thế đăng ký quyền sở hữu",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 4 Điều 3 Nghị định 23/2015/NĐ-CP, hợp đồng, giao dịch được chứng thực chỉ có giá trị chứng cứ về thời gian, địa điểm ký kết, năng lực hành vi dân sự, ý chí tự nguyện, chữ ký hoặc điểm chỉ của các bên."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, cơ quan nào có thẩm quyền cấp bản sao từ sổ gốc?",
+    "a": "UBND cấp tỉnh",
+    "b": "Cơ quan đang quản lý sổ gốc",
+    "c": "Phòng công chứng",
+    "d": "Tòa án nhân dân",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 4 Nghị định 23/2015/NĐ-CP, cơ quan, tổ chức đang quản lý sổ gốc có thẩm quyền và trách nhiệm cấp bản sao từ sổ gốc."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, việc cấp bản sao từ sổ gốc được thực hiện khi nào?",
+    "a": "Chỉ khi bản chính bị mất",
+    "b": "Chỉ khi có yêu cầu của Tòa án",
+    "c": "Đồng thời với việc cấp bản chính hoặc sau thời điểm cấp bản chính",
+    "d": "Chỉ khi công chứng viên yêu cầu",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 4 Nghị định 23/2015/NĐ-CP, việc cấp bản sao từ sổ gốc được thực hiện đồng thời với việc cấp bản chính hoặc sau thời điểm cấp bản chính."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, chủ thể nào có thẩm quyền chứng thực giao dịch liên quan đến tài sản là động sản tại Ủy ban nhân dân cấp xã?",
+    "a": "Phó Chủ tịch UBND cấp xã",
+    "b": "Trưởng phòng Tư pháp",
+    "c": "Chủ tịch Ủy ban nhân dân cấp xã",
+    "d": "Công chứng viên",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 5 Nghị định 23/2015/NĐ-CP (sửa đổi bởi NĐ 280/2025/NĐ-CP), Chủ tịch UBND cấp xã có thẩm quyền chứng thực giao dịch liên quan đến tài sản là động sản."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, việc chứng thực không phụ thuộc vào nơi cư trú của người yêu cầu chứng thực áp dụng trong trường hợp nào?",
+    "a": "Chứng thực hợp đồng mua bán đất",
+    "b": "Chứng thực di chúc, chứng thực chữ ký và chứng thực bản sao từ bản chính",
+    "c": "Đăng ký quyền sử dụng đất",
+    "d": "Cấp giấy chứng nhận nhà ở",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 5 Điều 5 Nghị định 23/2015/NĐ-CP (sửa đổi bởi NĐ 280/2025/NĐ-CP), việc chứng thực bản sao, chữ ký, di chúc và một số giao dịch nhất định không phụ thuộc vào nơi cư trú của người yêu cầu chứng thực."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, cơ quan tiếp nhận bản sao có chứng thực có được yêu cầu xuất trình bản chính không?",
+    "a": "Có, trong mọi trường hợp",
+    "b": "Không, tuyệt đối không được yêu cầu",
+    "c": "Không được yêu cầu, trừ trường hợp có căn cứ bản sao giả mạo hoặc bất hợp pháp",
+    "d": "Chỉ được yêu cầu khi người dân đồng ý",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 6 Nghị định 23/2015/NĐ-CP (sửa đổi bởi NĐ 07/2025/NĐ-CP), cơ quan tiếp nhận bản sao không được yêu cầu xuất trình bản chính, trừ trường hợp có căn cứ về việc bản sao giả mạo hoặc bất hợp pháp."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, khi pháp luật quy định nộp bản sao, cơ quan tiếp nhận có quyền nào sau đây?",
+    "a": "Bắt buộc yêu cầu bản sao có chứng thực",
+    "b": "Không được yêu cầu bản sao có chứng thực nhưng có thể yêu cầu bản chính để đối chiếu",
+    "c": "Chỉ nhận bản sao có công chứng",
+    "d": "Từ chối tiếp nhận nếu không có bản gốc",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 6 Nghị định 23/2015/NĐ-CP, cơ quan tiếp nhận bản sao không được yêu cầu bản sao có chứng thực nhưng có quyền yêu cầu xuất trình bản chính để đối chiếu."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, Chủ tịch UBND cấp xã có thể ủy quyền hoặc phân công thực hiện chứng thực theo căn cứ nào?",
+    "a": "Theo quyết định riêng của từng xã",
+    "b": "Theo quy định pháp luật về tổ chức chính quyền địa phương và pháp luật liên quan",
+    "c": "Theo ý kiến người dân",
+    "d": "Theo hướng dẫn của công chứng viên",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 5 Nghị định 23/2015/NĐ-CP (sửa đổi bởi NĐ 280/2025/NĐ-CP), việc ủy quyền, phân công thực hiện chứng thực được thực hiện theo pháp luật về tổ chức chính quyền địa phương và pháp luật liên quan."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, cơ quan đại diện ở nước ngoài có thẩm quyền chứng thực những việc nào?",
+    "a": "Tất cả các loại hợp đồng dân sự",
+    "b": "Chứng thực bản sao, chữ ký và chữ ký người dịch theo quy định",
+    "c": "Chứng thực quyền sử dụng đất",
+    "d": "Cấp giấy chứng nhận sở hữu tài sản",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 3 Điều 5 Nghị định 23/2015/NĐ-CP, cơ quan đại diện ở nước ngoài có thẩm quyền chứng thực bản sao, chữ ký và chữ ký người dịch theo quy định."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, việc chứng thực giao dịch liên quan đến quyền sử dụng đất được thực hiện ở đâu?",
+    "a": "Bất kỳ UBND cấp xã nào",
+    "b": "Tại UBND cấp xã nơi có đất",
+    "c": "Tại Phòng Tư pháp cấp huyện",
+    "d": "Tại Văn phòng công chứng bất kỳ",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 6 Điều 5 Nghị định 23/2015/NĐ-CP, việc chứng thực giao dịch liên quan đến quyền sử dụng đất được thực hiện tại UBND cấp xã nơi có đất."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người muốn chứng thực bản sao, nhưng chỉ nộp 1 bản sao CCCD nhưng không mang theo bản chính để đối chiếu. Cơ quan chứng thực xử lý thế nào?",
+    "a": "Vẫn chứng thực nếu người dân cam kết chịu trách nhiệm",
+    "b": "Từ chối chứng thực",
+    "c": "Chứng thực nhưng ghi chú không đối chiếu bản chính",
+    "d": "Chuyển sang công chứng",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 6 và nguyên tắc chứng thực tại khoản 2 Điều 3 Nghị định 23/2015/NĐ-CP, việc chứng thực bản sao bắt buộc phải đối chiếu bản chính. Không có bản chính thì không thực hiện chứng thực."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người dân yêu cầu chứng thực chữ ký của người khác nhưng người đó không trực tiếp có mặt. Cơ quan chứng thực xử lý thế nào?",
+    "a": "Vẫn chứng thực nếu có giấy ủy quyền",
+    "b": "Từ chối chứng thực",
+    "c": "Chứng thực nếu chữ ký giống mẫu",
+    "d": "Gửi xác minh người ký",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 3 Điều 3 và khoản 1 Điều 5 Nghị định 23/2015/NĐ-CP, chứng thực chữ ký phải xác nhận người ký đã ký trực tiếp trước người thực hiện chứng thực, không được ký thay hoặc vắng mặt."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người dân yêu cầu UBND xã xác nhận hợp đồng mua bán đất là hợp pháp. UBND xã xử lý thế nào?",
+    "a": "Xác nhận hợp đồng hợp pháp nếu đủ giấy tờ",
+    "b": "Chỉ chứng thực chữ ký trong hợp đồng",
+    "c": "Từ chối vì không thuộc thẩm quyền",
+    "d": "Chuyển sang Phòng Tư pháp",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 5 Nghị định 23/2015/NĐ-CP, chứng thực giao dịch chỉ xác nhận thời gian, địa điểm, chữ ký và năng lực hành vi, không xác nhận tính hợp pháp của nội dung hợp đồng."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người dân nộp bản sao điện tử hợp lệ nhưng cơ quan yêu cầu nộp thêm bản giấy có chứng thực. Việc này đúng hay sai?",
+    "a": "Đúng vì bản giấy luôn bắt buộc",
+    "b": "Sai vì phải chấp nhận bản điện tử hợp lệ",
+    "c": "Đúng nếu cơ quan yêu cầu",
+    "d": "Sai nhưng có thể yêu cầu bản sao chứng thực",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 3 Điều 6 Nghị định 23/2015/NĐ-CP (sửa đổi bởi NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP), cơ quan có trách nhiệm tiếp nhận bản điện tử hợp lệ và không được yêu cầu bản giấy hoặc bản sao có chứng thực."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người dân yêu cầu chứng thực giao dịch về nhà ở tại UBND xã không phải nơi có nhà. UBND xã xử lý thế nào?",
+    "a": "Vẫn chứng thực bình thường",
+    "b": "Từ chối vì sai nơi có thẩm quyền",
+    "c": "Chuyển UBND khác",
+    "d": "Chứng thực nhưng ghi chú",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 6 Điều 5 Nghị định 23/2015/NĐ-CP, giao dịch về nhà ở phải chứng thực tại UBND cấp xã nơi có nhà, trừ trường hợp pháp luật có quy định khác."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người dân yêu cầu chứng thực bản sao từ bản chính nhưng bản chính có dấu hiệu tẩy xóa. Cơ quan chứng thực xử lý thế nào?",
+    "a": "Vẫn chứng thực nếu người dân cam kết",
+    "b": "Từ chối chứng thực",
+    "c": "Chứng thực nhưng ghi chú",
+    "d": "Gửi công an xác minh rồi chứng thực",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 6 Nghị định 23/2015/NĐ-CP, cơ quan chỉ chứng thực khi bản chính hợp lệ, rõ ràng. Tài liệu có dấu hiệu giả mạo hoặc sửa chữa không rõ ràng thì không được chứng thực."
+  },
+  {
+    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người dân yêu cầu chứng thực hợp đồng chuyển nhượng xe máy tại Phòng Tư pháp. Phòng Tư pháp xử lý thế nào?",
+    "a": "Chứng thực vì có thẩm quyền",
+    "b": "Từ chối vì không đúng loại việc",
+    "c": "Chuyển UBND xã",
+    "d": "Chuyển công chứng viên",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 1 Điều 5 Nghị định 23/2015/NĐ-CP, Phòng Tư pháp có thẩm quyền chứng thực giao dịch liên quan đến tài sản là động sản như xe máy."
   }
 ]
 
