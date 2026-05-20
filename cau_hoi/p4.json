@@ -1,5 +1,1319 @@
 [
   {
+  "question": "Một bên dùng tài sản để cầm cố nhưng bên nhận cầm cố lại tự ý cho người khác sử dụng tài sản đó. Xử lý thế nào?",
+  "a": "Hành vi hợp pháp nếu tài sản vẫn an toàn",
+  "b": "Chỉ hợp pháp nếu có thỏa thuận cho phép",
+  "c": "Luôn được phép vì đã nhận cầm cố",
+  "d": "Chỉ bị phạt hành chính",
+  "answer": "b",
+  "explanation": "Bên nhận cầm cố không được sử dụng tài sản cầm cố, trừ trường hợp có thỏa thuận (Điều 313 BLDS 2015)."
+},
+{
+  "question": "Trong trường hợp tài sản cầm cố bị mất mát do lỗi của bên nhận cầm cố, trách nhiệm pháp lý là:",
+  "a": "Không phải bồi thường nếu đã bảo quản",
+  "b": "Phải bồi thường thiệt hại cho bên cầm cố",
+  "c": "Chỉ trả lại tài sản tương đương",
+  "d": "Chuyển nghĩa vụ sang bên thứ ba",
+  "answer": "b",
+  "explanation": "Bên nhận cầm cố phải bảo quản tài sản và nếu làm mất, hư hỏng thì phải bồi thường (Điều 313 BLDS 2015)."
+},
+{
+  "question": "Khi nghĩa vụ được bảo đảm bằng cầm cố chấm dứt, bên nhận cầm cố có nghĩa vụ:",
+  "a": "Giữ tài sản thêm 30 ngày",
+  "b": "Tự định đoạt tài sản",
+  "c": "Trả lại tài sản và giấy tờ liên quan",
+  "d": "Chỉ trả lại nếu bên cầm cố yêu cầu",
+  "answer": "c",
+  "explanation": "Bên nhận cầm cố phải trả lại tài sản và giấy tờ khi nghĩa vụ chấm dứt (Điều 313, 316 BLDS 2015)."
+},
+{
+  "question": "Trường hợp bên cầm cố không thông báo tài sản đang bị người thứ ba tranh chấp, bên nhận cầm cố có quyền:",
+  "a": "Hủy hợp đồng cầm cố và yêu cầu bồi thường",
+  "b": "Giữ tài sản vĩnh viễn",
+  "c": "Tăng giá trị tài sản",
+  "d": "Chuyển thành sở hữu",
+  "answer": "a",
+  "explanation": "Bên cầm cố phải thông báo quyền của người thứ ba, nếu không bên nhận cầm cố có quyền hủy hợp đồng và yêu cầu bồi thường (Điều 311 BLDS 2015)."
+},
+{
+  "question": "Một tài sản bảo đảm có thể bị xử lý trước hạn trong trường hợp nào?",
+  "a": "Khi bên bảo đảm yêu cầu",
+  "b": "Khi bên nhận bảo đảm muốn bán",
+  "c": "Khi bên có nghĩa vụ vi phạm nghĩa vụ theo thỏa thuận",
+  "d": "Khi giá tài sản tăng",
+  "answer": "c",
+  "explanation": "Tài sản bảo đảm có thể xử lý trước hạn khi bên có nghĩa vụ phải thực hiện nghĩa vụ trước thời hạn do vi phạm (Điều 299 BLDS 2015)."
+},
+{
+  "question": "Khi tài sản bảo đảm có nguy cơ bị hư hỏng nhanh, bên nhận bảo đảm được quyền:",
+  "a": "Chờ đến hạn xử lý",
+  "b": "Phải xin Tòa án trước khi xử lý",
+  "c": "Được xử lý ngay nhưng phải thông báo sau",
+  "d": "Không được xử lý",
+  "answer": "c",
+  "explanation": "Trường hợp tài sản có nguy cơ hư hỏng thì được xử lý ngay và phải thông báo cho các bên liên quan (Điều 300 BLDS 2015)."
+},
+{
+  "question": "Thứ tự ưu tiên thanh toán khi một tài sản có nhiều biện pháp bảo đảm không đối kháng với người thứ ba được xác định theo:",
+  "a": "Giá trị nghĩa vụ",
+  "b": "Thỏa thuận miệng giữa các bên",
+  "c": "Thứ tự xác lập biện pháp bảo đảm",
+  "d": "Thời điểm xử lý tài sản",
+  "answer": "c",
+  "explanation": "Nếu không có hiệu lực đối kháng thì ưu tiên theo thứ tự xác lập biện pháp bảo đảm (Điều 308 BLDS 2015)."
+},
+{
+  "question": "Trong trường hợp bên nhận bảo đảm nhận chính tài sản để trừ nợ nhưng giá trị tài sản lớn hơn nghĩa vụ, xử lý đúng là:",
+  "a": "Không phải thanh toán chênh lệch",
+  "b": "Phải trả phần chênh lệch cho bên bảo đảm",
+  "c": "Giữ luôn phần chênh lệch",
+  "d": "Chia cho người thứ ba",
+  "answer": "b",
+  "explanation": "Nếu giá trị tài sản lớn hơn nghĩa vụ thì phải thanh toán phần chênh lệch cho bên bảo đảm (Điều 305 BLDS 2015)."
+},
+{
+  "question": "Cầm cố tài sản chấm dứt trong trường hợp nào sau đây?",
+  "a": "Khi tài sản tăng giá",
+  "b": "Khi bên nhận cầm cố thay đổi",
+  "c": "Khi nghĩa vụ được bảo đảm chấm dứt",
+  "d": "Khi tài sản được định giá lại",
+  "answer": "c",
+  "explanation": "Cầm cố chấm dứt khi nghĩa vụ được bảo đảm chấm dứt hoặc theo các trường hợp luật định (Điều 315 BLDS 2015)."
+},
+{
+  "question": "Hiệu lực của cầm cố đối với người thứ ba phát sinh từ thời điểm:",
+  "a": "Ký hợp đồng",
+  "b": "Công chứng hợp đồng",
+  "c": "Bên nhận cầm cố nắm giữ tài sản",
+  "d": "Khi nghĩa vụ phát sinh",
+  "answer": "c",
+  "explanation": "Cầm cố có hiệu lực đối kháng với người thứ ba từ thời điểm bên nhận cầm cố nắm giữ tài sản (Điều 310 BLDS 2015)."
+},
+{
+  "question": "Một tài sản đang dùng để bảo đảm cho 2 nghĩa vụ. Bên nhận bảo đảm thứ hai không biết tài sản đã được dùng để bảo đảm trước đó. Khi xử lý tài sản, giải quyết thế nào?",
+  "a": "Bên thứ hai luôn được ưu tiên vì không biết",
+  "b": "Ưu tiên theo thứ tự xác lập biện pháp bảo đảm hoặc hiệu lực đối kháng",
+  "c": "Chia đều cho các bên nhận bảo đảm",
+  "d": "Hủy toàn bộ giao dịch bảo đảm",
+  "answer": "b",
+  "explanation": "Thứ tự ưu tiên khi một tài sản bảo đảm nhiều nghĩa vụ được xác định theo thứ tự xác lập hoặc hiệu lực đối kháng (Điều 308 BLDS 2015)."
+},
+{
+  "question": "Bên bảo đảm không thông báo việc tài sản đã được dùng để bảo đảm nhiều nghĩa vụ khác nhau. Hậu quả pháp lý đúng là:",
+  "a": "Không có hậu quả gì",
+  "b": "Giao dịch bảo đảm vô hiệu",
+  "c": "Có thể phát sinh trách nhiệm bồi thường nếu gây thiệt hại",
+  "d": "Tự động chuyển quyền sở hữu tài sản",
+  "answer": "c",
+  "explanation": "Việc không thông báo làm ảnh hưởng quyền của bên nhận bảo đảm sau và có thể phát sinh trách nhiệm bồi thường (Điều 296 BLDS 2015)."
+},
+{
+  "question": "Một bên nhận bảo đảm bán tài sản nhưng không thực hiện thủ tục chuyển quyền sở hữu cho người mua. Hệ quả pháp lý:",
+  "a": "Giao dịch mua bán vẫn hoàn tất",
+  "b": "Phải thực hiện thủ tục chuyển quyền sở hữu theo luật",
+  "c": "Tự động hủy hợp đồng mua bán",
+  "d": "Người mua mất quyền tài sản",
+  "answer": "b",
+  "explanation": "Sau khi bán tài sản bảo đảm, phải thực hiện thủ tục chuyển quyền sở hữu theo quy định pháp luật (Điều 304 BLDS 2015)."
+},
+{
+  "question": "Trong trường hợp xử lý tài sản bảo đảm, chi phí nào được trừ trước khi thanh toán nghĩa vụ?",
+  "a": "Chi phí đi lại của bên bảo đảm",
+  "b": "Chi phí bảo quản, thu giữ và xử lý tài sản",
+  "c": "Chi phí tư vấn luật sư của bên nhận bảo đảm",
+  "d": "Tiền phạt hợp đồng",
+  "answer": "b",
+  "explanation": "Chi phí bảo quản, thu giữ và xử lý tài sản được trừ trước khi phân chia (Điều 307 BLDS 2015)."
+},
+{
+  "question": "Bên nhận bảo đảm định giá tài sản thấp bất thường nhằm nhanh chóng xử lý tài sản. Hậu quả pháp lý:",
+  "a": "Không bị xử lý vì có quyền định giá",
+  "b": "Vi phạm nguyên tắc khách quan, có thể phải bồi thường",
+  "c": "Tự động làm tăng giá trị tài sản",
+  "d": "Không ảnh hưởng đến giao dịch",
+  "answer": "b",
+  "explanation": "Việc định giá phải khách quan, phù hợp giá thị trường; nếu gây thiệt hại phải bồi thường (Điều 306 BLDS 2015)."
+},
+{
+  "question": "Bên bảo đảm đã trả hết nợ nhưng tài sản vẫn bị bên nhận bảo đảm giữ lại. Xử lý đúng là:",
+  "a": "Bên nhận bảo đảm có quyền giữ thêm 30 ngày",
+  "b": "Phải trả lại tài sản ngay",
+  "c": "Có quyền bán tài sản",
+  "d": "Chỉ trả lại khi có yêu cầu của Tòa án",
+  "answer": "b",
+  "explanation": "Khi nghĩa vụ chấm dứt, bên nhận bảo đảm phải trả lại tài sản (Điều 302 và Điều 316 BLDS 2015)."
+},
+{
+  "question": "Trường hợp bên nhận bảo đảm không giao tài sản để xử lý theo yêu cầu, bên còn lại có quyền:",
+  "a": "Tự ý cưỡng chế",
+  "b": "Yêu cầu Tòa án giải quyết",
+  "c": "Hủy hợp đồng ngay lập tức",
+  "d": "Chuyển tài sản cho bên thứ ba",
+  "answer": "b",
+  "explanation": "Nếu không giao tài sản, bên nhận bảo đảm có quyền yêu cầu Tòa án giải quyết (Điều 301 BLDS 2015)."
+},
+{
+  "question": "Một tài sản bảo đảm được đăng ký theo thỏa thuận nhưng các bên không đăng ký. Hậu quả pháp lý chính là:",
+  "a": "Giao dịch vô hiệu",
+  "b": "Không phát sinh hiệu lực giữa các bên",
+  "c": "Không phát sinh hiệu lực đối kháng với người thứ ba",
+  "d": "Tự động chấm dứt bảo đảm",
+  "answer": "c",
+  "explanation": "Đăng ký giúp phát sinh hiệu lực đối kháng với người thứ ba, không đăng ký thì không có hiệu lực đối kháng (Điều 298 BLDS 2015)."
+},
+{
+  "question": "Trong cầm cố tài sản, bên nhận cầm cố có quyền nào sau đây nếu có thỏa thuận?",
+  "a": "Tự động bán tài sản",
+  "b": "Cho thuê hoặc khai thác công dụng tài sản",
+  "c": "Chuyển quyền sở hữu tài sản",
+  "d": "Tặng cho tài sản",
+  "answer": "b",
+  "explanation": "Bên nhận cầm cố chỉ được cho thuê, khai thác tài sản nếu có thỏa thuận (Điều 314 BLDS 2015)."
+},
+{
+  "question": "Khi nghĩa vụ được bảo đảm bằng cầm cố chấm dứt, hoa lợi từ tài sản cầm cố thuộc về:",
+  "a": "Bên nhận cầm cố",
+  "b": "Nhà nước",
+  "c": "Bên cầm cố, trừ thỏa thuận khác",
+  "d": "Người đang giữ tài sản",
+  "answer": "c",
+  "explanation": "Hoa lợi, lợi tức từ tài sản cầm cố được trả lại cho bên cầm cố khi nghĩa vụ chấm dứt, trừ khi có thỏa thuận khác (Điều 316 BLDS 2015)."
+},
+{
+  "question": "Một tài sản đang được dùng để bảo đảm nhiều nghĩa vụ. Bên nhận bảo đảm không thực hiện việc đăng ký và cũng không thông báo cho bên nhận bảo đảm sau. Khi xử lý tài sản, thứ tự ưu tiên thanh toán được xác định thế nào?",
+  "a": "Bên nào yêu cầu xử lý trước được ưu tiên",
+  "b": "Bên nhận bảo đảm có giá trị nghĩa vụ lớn hơn được ưu tiên",
+  "c": "Theo hiệu lực đối kháng, nếu không có thì theo thứ tự xác lập biện pháp bảo đảm",
+  "d": "Chia đều cho tất cả các bên",
+  "answer": "c",
+  "explanation": "Theo Điều 308 BLDS 2015, ưu tiên thanh toán xác định theo: (i) biện pháp có hiệu lực đối kháng với người thứ ba trước; nếu không có thì (ii) theo thứ tự xác lập biện pháp bảo đảm."
+},
+{
+  "question": "Một hợp đồng bảo đảm không đăng ký trong trường hợp pháp luật quy định phải đăng ký, đồng thời bên nhận bảo đảm đang giữ tài sản. Hiệu lực đối với người thứ ba được xác định thế nào?",
+  "a": "Vẫn có hiệu lực đối kháng vì đang giữ tài sản",
+  "b": "Không phát sinh hiệu lực đối kháng với người thứ ba",
+  "c": "Tự động vô hiệu toàn bộ giao dịch",
+  "d": "Chỉ có hiệu lực nếu công chứng",
+  "answer": "b",
+  "explanation": "Theo Điều 298 và Điều 297 BLDS 2015, hiệu lực đối kháng phát sinh từ đăng ký hoặc nắm giữ tài sản; nếu không thuộc trường hợp này thì không phát sinh hiệu lực đối kháng với người thứ ba."
+},
+{
+  "question": "Bên nhận bảo đảm xử lý tài sản nhưng không thông báo cho bên bảo đảm và các bên cùng nhận bảo đảm, gây thiệt hại. Xác định trách nhiệm pháp lý?",
+  "a": "Không chịu trách nhiệm vì có quyền xử lý tài sản",
+  "b": "Chỉ bị xử phạt hành chính",
+  "c": "Phải bồi thường thiệt hại phát sinh",
+  "d": "Giao dịch xử lý tài sản vô hiệu toàn bộ",
+  "answer": "c",
+  "explanation": "Theo Điều 300 khoản 2 BLDS 2015, nếu không thông báo việc xử lý tài sản bảo đảm mà gây thiệt hại thì phải bồi thường."
+},
+{
+  "question": "Một tài sản bảo đảm có nguy cơ hư hỏng nhanh, bên nhận bảo đảm xử lý ngay nhưng chưa thông báo. Việc này hợp pháp trong trường hợp nào?",
+  "a": "Không bao giờ hợp pháp nếu chưa thông báo",
+  "b": "Hợp pháp nếu tài sản có nguy cơ hư hỏng và phải thông báo sau",
+  "c": "Chỉ hợp pháp khi có quyết định Tòa án",
+  "d": "Chỉ hợp pháp nếu bên bảo đảm đồng ý trước",
+  "answer": "b",
+  "explanation": "Theo Điều 300 khoản 1 BLDS 2015, tài sản có nguy cơ hư hỏng được xử lý ngay và phải thông báo sau cho bên bảo đảm và các bên liên quan."
+},
+{
+  "question": "Bên nhận cầm cố sử dụng tài sản cầm cố để cho người khác thuê và hưởng lợi nhuận dù không có thỏa thuận. Xử lý pháp lý đúng là:",
+  "a": "Hợp pháp vì đang giữ tài sản",
+  "b": "Chỉ bị cảnh cáo",
+  "c": "Vi phạm nghĩa vụ, không được sử dụng trừ khi có thỏa thuận",
+  "d": "Chỉ cần chia lợi nhuận cho bên cầm cố",
+  "answer": "c",
+  "explanation": "Theo Điều 313 BLDS 2015, bên nhận cầm cố không được khai thác, cho thuê, sử dụng tài sản nếu không có thỏa thuận."
+},
+{
+  "question": "Một bên cầm cố không giao tài sản theo thỏa thuận, dẫn đến hợp đồng không thực hiện được. Bên nhận cầm cố có quyền:",
+  "a": "Chỉ yêu cầu phạt vi phạm",
+  "b": "Yêu cầu Tòa án buộc giao tài sản và bồi thường nếu có thiệt hại",
+  "c": "Tự chiếm giữ tài sản ở bất kỳ đâu",
+  "d": "Chỉ được hủy hợp đồng mà không yêu cầu gì thêm",
+  "answer": "b",
+  "explanation": "Theo Điều 311 BLDS 2015, bên cầm cố phải giao tài sản; nếu không thực hiện, bên nhận cầm cố có quyền yêu cầu biện pháp pháp lý và bồi thường thiệt hại."
+},
+{
+  "question": "Một tài sản bảo đảm được bán đấu giá nhưng giá bán cao hơn nghĩa vụ được bảo đảm. Số tiền dư xử lý thế nào?",
+  "a": "Thuộc về bên nhận bảo đảm",
+  "b": "Nộp ngân sách nhà nước",
+  "c": "Trả lại cho bên bảo đảm sau khi trừ chi phí",
+  "d": "Chia cho các bên cùng nhận bảo đảm",
+  "answer": "c",
+  "explanation": "Theo Điều 307 khoản 2 BLDS 2015, phần chênh lệch sau khi thanh toán nghĩa vụ và chi phí phải trả lại cho bên bảo đảm."
+},
+{
+  "question": "Một tài sản được dùng để bảo đảm nghĩa vụ nhưng sau đó giá trị tài sản giảm mạnh. Khi xử lý, phần nghĩa vụ còn thiếu được giải quyết thế nào?",
+  "a": "Xóa toàn bộ phần nghĩa vụ còn thiếu",
+  "b": "Phần thiếu trở thành nghĩa vụ không có bảo đảm",
+  "c": "Nhà nước chịu phần thiếu",
+  "d": "Tài sản tự động tăng giá trị để bù",
+  "answer": "b",
+  "explanation": "Theo Điều 307 khoản 3 BLDS 2015, phần nghĩa vụ chưa được thanh toán trở thành nghĩa vụ không có bảo đảm."
+},
+{
+  "question": "Khi xử lý tài sản cầm cố, thế chấp bằng hình thức bán đấu giá, việc bán đấu giá phải tuân theo nguyên tắc nào?",
+  "a": "Theo thỏa thuận giữa các bên",
+  "b": "Theo quy định của pháp luật về bán đấu giá tài sản",
+  "c": "Do bên nhận bảo đảm tự quyết định",
+  "d": "Do Tòa án trực tiếp bán",
+  "answer": "b",
+  "explanation": "Theo khoản 1 Điều 304 BLDS 2015, việc bán đấu giá tài sản cầm cố, thế chấp phải thực hiện theo quy định của pháp luật về bán đấu giá tài sản."
+},
+{
+  "question": "Sau khi xử lý tài sản bảo đảm bằng bán tài sản, việc chuyển quyền sở hữu cho người mua được thực hiện theo nguyên tắc nào?",
+  "a": "Tự động chuyển quyền khi thanh toán",
+  "b": "Phải thực hiện thủ tục chuyển quyền sở hữu theo quy định pháp luật",
+  "c": "Không cần sang tên",
+  "d": "Do ngân hàng quyết định",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 304 BLDS 2015, sau khi bán tài sản bảo đảm phải thực hiện thủ tục chuyển quyền sở hữu theo quy định của pháp luật."
+},
+{
+  "question": "Các bên cùng nhận bảo đảm có thể thỏa thuận thay đổi thứ tự ưu tiên thanh toán không?",
+  "a": "Không được phép",
+  "b": "Được phép nếu có thỏa thuận",
+  "c": "Chỉ Tòa án được thay đổi",
+  "d": "Chỉ cơ quan thi hành án được thay đổi",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 308 BLDS 2015, các bên cùng nhận bảo đảm có thể thỏa thuận thay đổi thứ tự ưu tiên thanh toán."
+},
+{
+  "question": "Việc thỏa thuận thay đổi thứ tự ưu tiên thanh toán giữa các bên nhận bảo đảm được thực hiện trong phạm vi nào?",
+  "a": "Không giới hạn trong mọi trường hợp",
+  "b": "Trong phạm vi quyền của các bên cùng nhận bảo đảm",
+  "c": "Chỉ khi có đăng ký biện pháp bảo đảm",
+  "d": "Chỉ khi Tòa án chấp thuận",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 308 BLDS 2015, việc thỏa thuận thay đổi thứ tự ưu tiên chỉ có giá trị trong phạm vi quyền của các bên cùng nhận bảo đảm."
+},
+{
+    "question": "Trong cầm cố tài sản, khi nghĩa vụ chấm dứt, bên nhận cầm cố không trả lại tài sản. Hành vi này được xác định như thế nào?",
+    "a": "Không vi phạm vì đang chiếm giữ hợp pháp",
+    "b": "Vi phạm nghĩa vụ trả lại tài sản theo quy định",
+    "c": "Chỉ vi phạm khi có quyết định của Tòa án",
+    "d": "Được quyền giữ tài sản nếu chưa thanh toán bất kỳ chi phí nào",
+    "answer": "b",
+    "explanation": "Theo khoản 4 Điều 313 và khoản 4 Điều 316 BLDS 2015, bên nhận cầm cố có nghĩa vụ trả lại tài sản khi nghĩa vụ được bảo đảm chấm dứt."
+  },
+  {
+    "question": "A vay tiền ngân hàng và thế chấp nhà ở. Sau đó A tiếp tục dùng chính nhà đó để bảo đảm cho khoản vay khác nhưng không đăng ký. Khi xử lý tài sản, quyền ưu tiên được xác định thế nào?",
+    "a": "Bên ký hợp đồng sau luôn được ưu tiên",
+    "b": "Theo hiệu lực đối kháng với người thứ ba và thứ tự xác lập biện pháp bảo đảm",
+    "c": "Chia đều cho các bên nhận bảo đảm",
+    "d": "Bên vay luôn được ưu tiên giữ tài sản",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 297 và khoản 1 Điều 308 BLDS 2015, hiệu lực đối kháng và thời điểm xác lập biện pháp bảo đảm quyết định thứ tự ưu tiên thanh toán."
+  },
+  {
+    "question": "A ký hợp đồng đặt cọc mua nhà với B. Sau đó B bán nhà cho người khác. Xử lý đúng là:",
+    "a": "Đặt cọc không có giá trị pháp lý",
+    "b": "B phải trả lại tiền đặt cọc và có thể bị phạt cọc theo thỏa thuận",
+    "c": "Người mua sau luôn được ưu tiên sở hữu",
+    "d": "Hợp đồng đặt cọc tự động vô hiệu",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 328 BLDS 2015, bên nhận đặt cọc vi phạm nghĩa vụ thì phải trả lại tài sản đặt cọc và có thể chịu phạt cọc nếu có thỏa thuận."
+  },
+  {
+    "question": "Doanh nghiệp ký quỹ tại ngân hàng để bảo đảm nghĩa vụ. Khi vi phạm nghĩa vụ, tiền ký quỹ được xử lý như thế nào?",
+    "a": "Ngân hàng tự quyết định sử dụng",
+    "b": "Dùng để thực hiện nghĩa vụ theo thỏa thuận ký quỹ",
+    "c": "Hoàn trả toàn bộ cho doanh nghiệp",
+    "d": "Nộp vào ngân sách nhà nước",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 330 BLDS 2015, tiền ký quỹ được xử lý theo thỏa thuận giữa các bên tại ngân hàng."
+  },
+  {
+    "question": "Bên thứ ba cam kết bảo lãnh nghĩa vụ vay tiền. Khi bên vay không thực hiện nghĩa vụ, trách nhiệm của bên bảo lãnh là:",
+    "a": "Không có nghĩa vụ gì",
+    "b": "Thực hiện nghĩa vụ thay trong phạm vi bảo lãnh",
+    "c": "Tự động trở thành bên vay mới",
+    "d": "Chỉ hỗ trợ tài chính thêm",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 335 BLDS 2015, bảo lãnh là việc bên bảo lãnh cam kết thực hiện nghĩa vụ thay khi bên được bảo lãnh không thực hiện nghĩa vụ."
+  },
+  {
+    "question": "Một tài sản được dùng để thế chấp nhưng không đăng ký trong trường hợp pháp luật yêu cầu. Hệ quả pháp lý là:",
+    "a": "Vẫn có hiệu lực đối kháng với người thứ ba",
+    "b": "Không phát sinh hiệu lực đối kháng với người thứ ba",
+    "c": "Hợp đồng thế chấp vô hiệu",
+    "d": "Bên thế chấp mất quyền sở hữu tài sản",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 298 BLDS 2015, đăng ký là căn cứ để phát sinh hiệu lực đối kháng với người thứ ba."
+  },
+  {
+    "question": "Trong các biện pháp sau, biện pháp nào không làm chuyển giao tài sản cho bên nhận bảo đảm?",
+    "a": "Cầm cố",
+    "b": "Thế chấp",
+    "c": "Ký cược",
+    "d": "Cầm giữ tài sản",
+    "answer": "b",
+    "explanation": "Theo Điều 317 BLDS 2015, thế chấp là biện pháp bảo đảm không chuyển giao tài sản."
+  },
+  {
+    "question": "A mua xe trả góp, quyền sở hữu chỉ chuyển khi thanh toán xong toàn bộ. Đây là biện pháp nào?",
+    "a": "Cầm cố",
+    "b": "Bảo lưu quyền sở hữu",
+    "c": "Ký quỹ",
+    "d": "Tín chấp",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 331 BLDS 2015, bên bán được quyền bảo lưu quyền sở hữu cho đến khi bên mua thanh toán xong."
+  },
+  {
+    "question": "Cá nhân vay vốn không có tài sản bảo đảm, chỉ dựa vào uy tín của tổ chức chính trị - xã hội. Đây là:",
+    "a": "Bảo lãnh",
+    "b": "Tín chấp",
+    "c": "Thế chấp",
+    "d": "Ký quỹ",
+    "answer": "b",
+    "explanation": "Theo Điều 344 BLDS 2015, tín chấp là việc vay vốn dựa trên uy tín của tổ chức chính trị - xã hội."
+  },
+  {
+    "question": "Một tài sản được dùng để bảo đảm nhiều nghĩa vụ. Khi xử lý tài sản, tất cả các bên cùng nhận bảo đảm:",
+    "a": "Không được tham gia xử lý",
+    "b": "Chỉ bên đầu tiên được tham gia",
+    "c": "Đều được tham gia xử lý tài sản",
+    "d": "Chỉ bên có đăng ký được tham gia",
+    "answer": "c",
+    "explanation": "Theo Điều 296 BLDS 2015, khi tài sản bảo đảm nhiều nghĩa vụ, tất cả các bên cùng nhận bảo đảm đều được tham gia xử lý tài sản."
+  },
+  {
+    "question": "Thứ tự ưu tiên thanh toán khi xử lý tài sản bảo đảm được xác định theo:",
+    "a": "Giá trị khoản vay",
+    "b": "Thỏa thuận tùy ý",
+    "c": "Hiệu lực đối kháng và thứ tự xác lập biện pháp bảo đảm",
+    "d": "Ngân hàng quyết định",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 308 BLDS 2015, thứ tự ưu tiên thanh toán được xác định theo hiệu lực đối kháng và thời điểm xác lập biện pháp bảo đảm."
+  },
+{
+  "question": "A giao xe máy cho B để cầm cố bảo đảm khoản vay. Trong thời gian cầm cố, B tự ý cho C mượn xe. Hành vi của B đúng hay sai?",
+  "a": "Đúng vì B đang giữ tài sản hợp pháp",
+  "b": "Sai vì bên nhận cầm cố không được cho mượn tài sản nếu không có thỏa thuận",
+  "c": "Đúng nếu xe không bị hư hỏng",
+  "d": "Sai chỉ khi có thiệt hại xảy ra",
+  "answer": "b",
+  "explanation": "Theo khoản 2 và khoản 3 Điều 313 BLDS 2015, bên nhận cầm cố không được cho mượn, cho thuê hoặc khai thác tài sản cầm cố nếu không có thỏa thuận."
+},
+{
+  "question": "Trong thời gian cầm cố, tài sản bị hư hỏng do lỗi của bên nhận cầm cố. Trách nhiệm pháp lý là gì?",
+  "a": "Không phải chịu trách nhiệm",
+  "b": "Chỉ chịu trách nhiệm nếu có thỏa thuận",
+  "c": "Phải bồi thường thiệt hại",
+  "d": "Chỉ trả lại tài sản nguyên trạng",
+  "answer": "c",
+  "explanation": "Theo khoản 1 Điều 313 BLDS 2015, bên nhận cầm cố phải bảo quản tài sản và bồi thường nếu làm mất hoặc hư hỏng."
+},
+{
+  "question": "A và B có hợp đồng cầm cố. A yêu cầu lấy lại tài sản dù nghĩa vụ chưa đến hạn, B xử lý thế nào đúng?",
+  "a": "Phải trả lại ngay",
+  "b": "Không trả vì nghĩa vụ chưa chấm dứt",
+  "c": "Trả nếu A yêu cầu",
+  "d": "Tùy B quyết định",
+  "answer": "b",
+  "explanation": "Theo Điều 312 BLDS 2015, bên cầm cố chỉ được nhận lại tài sản khi nghĩa vụ được bảo đảm đã chấm dứt."
+},
+{
+  "question": "Tài sản cầm cố đang bị bên thứ ba chiếm giữ trái pháp luật, bên nhận cầm cố có quyền gì?",
+  "a": "Không có quyền gì",
+  "b": "Phải chờ bên cầm cố giải quyết",
+  "c": "Có quyền yêu cầu người đang chiếm giữ trả lại tài sản",
+  "d": "Tự động mất quyền cầm cố",
+  "answer": "c",
+  "explanation": "Theo khoản 1 Điều 314 BLDS 2015, bên nhận cầm cố có quyền yêu cầu người chiếm giữ trái pháp luật trả lại tài sản."
+},
+{
+  "question": "Phương thức xử lý tài sản cầm cố không được các bên thỏa thuận trước thì xử lý thế nào?",
+  "a": "Do bên nhận cầm cố tự chọn",
+  "b": "Phải bán đấu giá tài sản",
+  "c": "Do Tòa án quyết định",
+  "d": "Hủy giao dịch cầm cố",
+  "answer": "b",
+  "explanation": "Theo khoản 1 Điều 314 BLDS 2015, nếu không có thỏa thuận thì tài sản cầm cố được xử lý bằng bán đấu giá."
+},
+{
+  "question": "Khi nghĩa vụ được bảo đảm đã hoàn thành, bên nhận cầm cố vẫn giữ tài sản và yêu cầu thêm chi phí không hợp lý. Hành vi này?",
+  "a": "Hợp pháp",
+  "b": "Chỉ hợp pháp nếu có thỏa thuận",
+  "c": "Vi phạm nghĩa vụ trả lại tài sản",
+  "d": "Được phép trong mọi trường hợp",
+  "answer": "c",
+  "explanation": "Theo khoản 4 Điều 313 và Điều 316 BLDS 2015, bên nhận cầm cố phải trả lại tài sản khi nghĩa vụ chấm dứt, không được giữ trái quy định."
+},
+{
+  "question": "A và B thỏa thuận thay cầm cố bằng một biện pháp bảo đảm khác. Hệ quả pháp lý là gì?",
+  "a": "Cầm cố vẫn tiếp tục",
+  "b": "Cầm cố chấm dứt",
+  "c": "Cầm cố vô hiệu từ đầu",
+  "d": "Phải đăng ký lại toàn bộ giao dịch",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 315 BLDS 2015, cầm cố chấm dứt khi được thay thế bằng biện pháp bảo đảm khác."
+},
+{
+  "question": "Tài sản cầm cố đã được xử lý để thanh toán nghĩa vụ. Quan hệ cầm cố được xác định như thế nào?",
+  "a": "Tiếp tục tồn tại",
+  "b": "Chấm dứt",
+  "c": "Tạm đình chỉ",
+  "d": "Chuyển thành thế chấp",
+  "answer": "b",
+  "explanation": "Theo khoản 3 Điều 315 BLDS 2015, cầm cố chấm dứt khi tài sản cầm cố đã được xử lý."
+},
+{
+  "question": "Hoa lợi phát sinh từ tài sản cầm cố trong thời gian cầm cố thuộc về ai nếu không có thỏa thuận?",
+  "a": "Bên nhận cầm cố",
+  "b": "Bên cầm cố",
+  "c": "Chia đôi",
+  "d": "Thuộc ngân hàng",
+  "answer": "b",
+  "explanation": "Theo Điều 316 BLDS 2015, hoa lợi, lợi tức thuộc về bên cầm cố nếu không có thỏa thuận khác."
+},
+{
+  "question": "A dùng tài sản đã cầm cố để tiếp tục bảo đảm nghĩa vụ khác mà không thông báo cho bên nhận cầm cố. Xử lý thế nào?",
+  "a": "Hợp pháp hoàn toàn",
+  "b": "Không ảnh hưởng gì",
+  "c": "Vi phạm nghĩa vụ thông báo và có thể phát sinh tranh chấp",
+  "d": "Tự động vô hiệu toàn bộ giao dịch",
+  "answer": "c",
+  "explanation": "Theo khoản 2 Điều 311 BLDS 2015, bên cầm cố phải thông báo quyền của người thứ ba, nếu không sẽ phát sinh trách nhiệm pháp lý."
+},
+{
+  "question": "A giao xe máy cho B cầm cố để vay tiền. Sau đó B tự ý sửa chữa lớn làm thay đổi hiện trạng xe. Xử lý đúng là gì?",
+  "a": "Được phép vì đang giữ tài sản hợp pháp",
+  "b": "Vi phạm nghĩa vụ bảo quản tài sản cầm cố",
+  "c": "Chỉ vi phạm nếu làm mất tài sản",
+  "d": "Không vi phạm nếu xe vẫn chạy được",
+  "answer": "b",
+  "explanation": "Theo khoản 1 Điều 313 BLDS 2015, bên nhận cầm cố có nghĩa vụ bảo quản tài sản, nếu tự ý làm thay đổi gây ảnh hưởng giá trị là vi phạm."
+},
+{
+  "question": "Trong thời gian cầm cố, bên nhận cầm cố muốn mang tài sản đi cho thuê để lấy tiền. Điều kiện đúng là:",
+  "a": "Được tự do cho thuê",
+  "b": "Chỉ được cho thuê nếu có thỏa thuận",
+  "c": "Luôn bị cấm tuyệt đối",
+  "d": "Chỉ cần thông báo là được",
+  "answer": "b",
+  "explanation": "Theo khoản 3 Điều 313 BLDS 2015, việc khai thác công dụng tài sản cầm cố chỉ được thực hiện nếu có thỏa thuận."
+},
+{
+  "question": "A yêu cầu trả lại tài sản cầm cố nhưng chưa thanh toán chi phí bảo quản hợp lý cho B. B xử lý thế nào?",
+  "a": "Phải trả ngay tài sản",
+  "b": "Có quyền yêu cầu thanh toán chi phí hợp lý trước khi trả",
+  "c": "Được bán tài sản luôn",
+  "d": "Không có quyền giữ tài sản",
+  "answer": "b",
+  "explanation": "Theo khoản 4 Điều 313 BLDS 2015, bên nhận cầm cố có quyền được thanh toán chi phí hợp lý trước khi trả tài sản."
+},
+{
+  "question": "Tài sản cầm cố đang bị người thứ ba chiếm giữ trái pháp luật, nhưng bên cầm cố không hợp tác xử lý. Bên nhận cầm cố có quyền gì?",
+  "a": "Mất quyền xử lý tài sản",
+  "b": "Yêu cầu người đang chiếm giữ trả lại tài sản",
+  "c": "Chỉ được chờ bên cầm cố giải quyết",
+  "d": "Tự động chấm dứt cầm cố",
+  "answer": "b",
+  "explanation": "Theo khoản 1 Điều 314 BLDS 2015, bên nhận cầm cố có quyền yêu cầu người chiếm giữ trái pháp luật trả lại tài sản."
+},
+{
+  "question": "Các bên thỏa thuận phương thức xử lý tài sản cầm cố nhưng không xác định rõ. Khi xảy ra tranh chấp thì áp dụng:",
+  "a": "Do bên nhận cầm cố quyết định",
+  "b": "Bán đấu giá tài sản",
+  "c": "Do Tòa án quyết định phương án mới",
+  "d": "Hủy giao dịch cầm cố",
+  "answer": "b",
+  "explanation": "Theo khoản 1 Điều 314 BLDS 2015, nếu không có thỏa thuận cụ thể thì tài sản cầm cố được xử lý bằng bán đấu giá."
+},
+{
+  "question": "A và B ký hợp đồng cầm cố. Sau đó A đã thực hiện xong nghĩa vụ nhưng B vẫn giữ tài sản và yêu cầu thêm phí không có thỏa thuận. Xử lý đúng là:",
+  "a": "B được quyền giữ tài sản",
+  "b": "B phải trả lại tài sản ngay",
+  "c": "B có quyền giữ đến khi A đồng ý",
+  "d": "B được quyền bán tài sản",
+  "answer": "b",
+  "explanation": "Theo Điều 312 và Điều 316 BLDS 2015, khi nghĩa vụ chấm dứt thì bên nhận cầm cố phải trả lại tài sản."
+},
+{
+  "question": "Tài sản cầm cố được thay thế bằng biện pháp bảo đảm khác theo thỏa thuận. Hiệu lực pháp lý là:",
+  "a": "Cầm cố vẫn tồn tại song song",
+  "b": "Cầm cố chấm dứt",
+  "c": "Cầm cố bị vô hiệu từ đầu",
+  "d": "Phải đăng ký lại toàn bộ",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 315 BLDS 2015, cầm cố chấm dứt khi được thay thế bằng biện pháp bảo đảm khác."
+},
+{
+  "question": "Hoa lợi từ tài sản cầm cố trong thời gian cầm cố nếu không có thỏa thuận thuộc về ai?",
+  "a": "Bên nhận cầm cố",
+  "b": "Bên cầm cố",
+  "c": "Ngân hàng",
+  "d": "Chia đôi",
+  "answer": "b",
+  "explanation": "Theo Điều 316 BLDS 2015, hoa lợi, lợi tức thuộc về bên cầm cố nếu không có thỏa thuận khác."
+},
+{
+  "question": "Trong cầm cố, bên nhận cầm cố tự ý mang tài sản đi cầm cố lại cho bên khác. Hành vi này:",
+  "a": "Hợp pháp nếu tài sản vẫn tồn tại",
+  "b": "Vi phạm nghĩa vụ nghiêm trọng",
+  "c": "Được phép nếu giá trị cao hơn",
+  "d": "Không ảnh hưởng quan hệ cầm cố",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 313 BLDS 2015, bên nhận cầm cố không được sử dụng tài sản để bảo đảm nghĩa vụ khác."
+},
+{
+  "question": "A thế chấp xe ô tô tại ngân hàng nhưng vẫn giữ xe để sử dụng. Việc này đúng bản chất của biện pháp nào?",
+  "a": "Cầm cố tài sản",
+  "b": "Thế chấp tài sản",
+  "c": "Ký cược",
+  "d": "Ký quỹ",
+  "answer": "b",
+  "explanation": "Theo khoản 1 Điều 317 BLDS 2015, thế chấp là việc dùng tài sản để bảo đảm nghĩa vụ nhưng không giao tài sản cho bên nhận bảo đảm."
+},
+{
+  "question": "Trong thế chấp, tài sản do ai quản lý trong trường hợp mặc định của luật?",
+  "a": "Bên nhận thế chấp",
+  "b": "Cơ quan thi hành án",
+  "c": "Bên thế chấp",
+  "d": "Ngân hàng Nhà nước",
+  "answer": "c",
+  "explanation": "Theo khoản 2 Điều 317 BLDS 2015, tài sản thế chấp do bên thế chấp giữ, trừ khi có thỏa thuận giao cho người thứ ba."
+},
+{
+  "question": "A thế chấp nhà ở, trong nhà có hệ thống điện nước gắn liền. Khi xử lý tài sản, vật phụ được xử lý thế nào?",
+  "a": "Không thuộc tài sản thế chấp",
+  "b": "Chỉ xử lý nếu có thỏa thuận",
+  "c": "Thuộc tài sản thế chấp trừ khi có thỏa thuận khác",
+  "d": "Thuộc tài sản riêng của bên thế chấp",
+  "answer": "c",
+  "explanation": "Theo khoản 1 Điều 318 BLDS 2015, thế chấp toàn bộ bất động sản thì vật phụ cũng thuộc tài sản thế chấp trừ khi có thỏa thuận khác."
+},
+{
+  "question": "A thế chấp quyền sử dụng đất, nhưng không thế chấp nhà xây trên đất thuộc sở hữu của A. Khi xử lý, nhà ở được xử lý thế nào?",
+  "a": "Không xử lý nhà ở",
+  "b": "Luôn xử lý cùng đất",
+  "c": "Có thể xử lý cùng đất trừ khi có thỏa thuận khác",
+  "d": "Nhà ở bị tịch thu riêng",
+  "answer": "c",
+  "explanation": "Theo khoản 3 Điều 318 BLDS 2015, tài sản gắn liền với đất thuộc sở hữu của bên thế chấp cũng thuộc tài sản thế chấp trừ khi có thỏa thuận khác."
+},
+{
+  "question": "Khi tài sản thế chấp được bảo hiểm, bên nhận thế chấp có nghĩa vụ gì?",
+  "a": "Không có nghĩa vụ gì",
+  "b": "Phải thông báo cho tổ chức bảo hiểm",
+  "c": "Phải tự đóng bảo hiểm",
+  "d": "Phải chuyển quyền sở hữu cho bảo hiểm",
+  "answer": "b",
+  "explanation": "Theo khoản 4 Điều 318 BLDS 2015, bên nhận thế chấp phải thông báo cho tổ chức bảo hiểm về việc tài sản đang được thế chấp."
+},
+{
+  "question": "Hợp đồng thế chấp có hiệu lực từ thời điểm nào theo mặc định pháp luật?",
+  "a": "Khi đăng ký",
+  "b": "Khi giao tài sản",
+  "c": "Khi giao kết hợp đồng",
+  "d": "Khi công chứng xong",
+  "answer": "c",
+  "explanation": "Theo khoản 1 Điều 319 BLDS 2015, hợp đồng thế chấp có hiệu lực từ thời điểm giao kết, trừ trường hợp có thỏa thuận hoặc luật khác quy định."
+},
+{
+  "question": "Hiệu lực đối kháng với người thứ ba của thế chấp phát sinh khi nào?",
+  "a": "Khi công chứng",
+  "b": "Khi đăng ký",
+  "c": "Khi ký hợp đồng",
+  "d": "Khi giao tài sản",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 319 BLDS 2015, thế chấp phát sinh hiệu lực đối kháng với người thứ ba kể từ thời điểm đăng ký."
+},
+{
+  "question": "A thế chấp nhà nhưng tiếp tục cho thuê mà không thông báo cho bên nhận thế chấp. Hành vi này đúng hay sai?",
+  "a": "Đúng vì vẫn là chủ sở hữu",
+  "b": "Sai vì phải thông báo cho bên nhận thế chấp",
+  "c": "Đúng nếu hợp đồng cho thuê có lợi",
+  "d": "Không ảnh hưởng pháp lý",
+  "answer": "b",
+  "explanation": "Theo khoản 6 Điều 321 và khoản 6 Điều 320 BLDS 2015, việc cho thuê phải thông báo cho bên nhận thế chấp."
+},
+{
+  "question": "A thế chấp hàng hóa luân chuyển trong kinh doanh. Khi bán hàng, quyền đối với tiền thu được thuộc về:",
+  "a": "Bên mua hàng",
+  "b": "Ngân hàng Nhà nước",
+  "c": "Tài sản thế chấp tiếp tục chuyển hóa theo quy định",
+  "d": "Bên thế chấp tự do sử dụng",
+  "answer": "c",
+  "explanation": "Theo khoản 4 Điều 321 BLDS 2015, quyền yêu cầu thanh toán và tài sản hình thành từ tiền thu được trở thành tài sản thế chấp."
+},
+{
+  "question": "Bên thế chấp không được thực hiện hành vi nào sau đây nếu không có thỏa thuận?",
+  "a": "Khai thác tài sản",
+  "b": "Đầu tư làm tăng giá trị",
+  "c": "Bán tài sản thế chấp",
+  "d": "Cung cấp thông tin tài sản",
+  "answer": "c",
+  "explanation": "Theo khoản 8 Điều 320 BLDS 2015, bên thế chấp không được bán, trao đổi, tặng cho tài sản thế chấp nếu không thuộc trường hợp luật cho phép."
+},
+{
+  "question": "Người thứ ba đang giữ tài sản thế chấp có quyền nhận thù lao và chi phí bảo quản khi nào?",
+  "a": "Luôn luôn",
+  "b": "Khi có thỏa thuận hoặc theo luật",
+  "c": "Không bao giờ",
+  "d": "Chỉ khi ngân hàng đồng ý",
+  "answer": "b",
+  "explanation": "Theo khoản 1 Điều 324 BLDS 2015, người thứ ba giữ tài sản có quyền được trả thù lao và chi phí bảo quản nếu có thỏa thuận hoặc luật quy định."
+},
+{
+  "question": "Khi nghĩa vụ được bảo đảm đã chấm dứt, bên thế chấp có quyền nhận lại tài sản trong trường hợp nào?",
+  "a": "Không bao giờ được nhận lại",
+  "b": "Chỉ khi ngân hàng đồng ý",
+  "c": "Khi nghĩa vụ chấm dứt hoặc được thay thế bằng biện pháp bảo đảm khác",
+  "d": "Chỉ khi có bản án",
+  "answer": "c",
+  "explanation": "Theo khoản 3 Điều 321 BLDS 2015, bên thế chấp được nhận lại tài sản khi nghĩa vụ chấm dứt hoặc thay thế biện pháp bảo đảm khác."
+},
+{
+  "question": "Thế chấp tài sản chấm dứt khi nào?",
+  "a": "Khi ngân hàng yêu cầu",
+  "b": "Khi hợp đồng bị công chứng lại",
+  "c": "Khi nghĩa vụ được bảo đảm chấm dứt",
+  "d": "Khi tài sản giảm giá trị",
+  "answer": "c",
+  "explanation": "Theo khoản 1 Điều 327 BLDS 2015, thế chấp chấm dứt khi nghĩa vụ được bảo đảm chấm dứt."
+},
+{
+  "question": "A thế chấp nhà ở cho ngân hàng nhưng không đăng ký thế chấp. Khi tranh chấp với người thứ ba, hiệu lực pháp lý được xác định thế nào?",
+  "a": "Vẫn có hiệu lực đối kháng với người thứ ba",
+  "b": "Không phát sinh hiệu lực đối kháng với người thứ ba",
+  "c": "Tự động vô hiệu hợp đồng thế chấp",
+  "d": "Ngân hàng được ưu tiên tuyệt đối",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 319 BLDS 2015, thế chấp chỉ phát sinh hiệu lực đối kháng với người thứ ba kể từ thời điểm đăng ký."
+},
+{
+  "question": "Bên thế chấp đang khai thác tài sản nhưng việc khai thác làm giảm giá trị tài sản. Bên nhận thế chấp có quyền yêu cầu gì?",
+  "a": "Không có quyền can thiệp",
+  "b": "Yêu cầu ngừng khai thác hoặc áp dụng biện pháp bảo toàn",
+  "c": "Tự động thu hồi tài sản ngay",
+  "d": "Hủy hợp đồng thế chấp",
+  "answer": "b",
+  "explanation": "Theo khoản 3 Điều 320 BLDS 2015, bên thế chấp phải ngừng khai thác nếu làm giảm giá trị tài sản theo yêu cầu bên nhận thế chấp."
+},
+{
+  "question": "A thế chấp tài sản và tài sản bị hư hỏng. Nghĩa vụ của A là gì?",
+  "a": "Không phải sửa chữa",
+  "b": "Phải sửa chữa hoặc thay thế tài sản tương đương",
+  "c": "Chỉ báo cho ngân hàng",
+  "d": "Chờ ngân hàng xử lý",
+  "answer": "b",
+  "explanation": "Theo khoản 4 Điều 320 BLDS 2015, bên thế chấp phải sửa chữa hoặc thay thế tài sản nếu bị hư hỏng."
+},
+{
+  "question": "Bên thế chấp có được bán tài sản thế chấp không?",
+  "a": "Luôn được bán",
+  "b": "Không bao giờ được bán",
+  "c": "Chỉ được bán trong trường hợp luật cho phép hoặc có thỏa thuận",
+  "d": "Được bán nếu báo trước",
+  "answer": "c",
+  "explanation": "Theo khoản 8 Điều 320 và khoản 5 Điều 321 BLDS 2015, việc bán tài sản thế chấp chỉ được thực hiện nếu có thỏa thuận hoặc luật cho phép."
+},
+{
+  "question": "A thế chấp hàng hóa luân chuyển trong kinh doanh. Sau khi bán hàng, tài sản thế chấp được xác định như thế nào?",
+  "a": "Mất hoàn toàn bảo đảm",
+  "b": "Chuyển sang quyền yêu cầu thanh toán và tài sản hình thành từ tiền thu được",
+  "c": "Thuộc ngân hàng ngay lập tức",
+  "d": "Tự động vô hiệu thế chấp",
+  "answer": "b",
+  "explanation": "Theo khoản 4 Điều 321 BLDS 2015, tài sản thế chấp có thể chuyển hóa thành quyền yêu cầu thanh toán và tài sản hình thành từ số tiền thu được."
+},
+{
+  "question": "Người thứ ba thuê tài sản thế chấp nhưng không biết tài sản đang bị thế chấp. Trách nhiệm thông báo thuộc về ai?",
+  "a": "Người thuê",
+  "b": "Bên nhận thế chấp",
+  "c": "Bên thế chấp",
+  "d": "Cơ quan đăng ký đất đai",
+  "answer": "c",
+  "explanation": "Theo khoản 6 Điều 321 BLDS 2015, bên thế chấp phải thông báo cho bên thuê, bên mượn biết về tình trạng thế chấp."
+},
+{
+  "question": "Người thứ ba giữ tài sản thế chấp làm mất tài sản do lỗi của mình. Hậu quả pháp lý là gì?",
+  "a": "Không chịu trách nhiệm",
+  "b": "Phải bồi thường thiệt hại",
+  "c": "Ngân hàng chịu trách nhiệm",
+  "d": "Hợp đồng thế chấp vô hiệu",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 324 BLDS 2015, người thứ ba giữ tài sản phải bồi thường nếu làm mất hoặc giảm giá trị tài sản."
+},
+{
+  "question": "Bên nhận thế chấp có quyền kiểm tra tài sản nhưng thực hiện việc kiểm tra gây cản trở hoạt động kinh doanh của bên thế chấp. Hành vi này:",
+  "a": "Hợp pháp",
+  "b": "Vi phạm quyền kiểm tra",
+  "c": "Được phép nếu có ngân hàng đồng ý",
+  "d": "Không bị hạn chế",
+  "answer": "b",
+  "explanation": "Theo khoản 1 Điều 323 BLDS 2015, bên nhận thế chấp được kiểm tra nhưng không được cản trở việc sử dụng, khai thác tài sản."
+},
+{
+  "question": "A thế chấp quyền sử dụng đất. Khi xử lý, tài sản gắn liền với đất có bị xử lý cùng không?",
+  "a": "Không bao giờ xử lý",
+  "b": "Luôn xử lý riêng",
+  "c": "Có thể xử lý cùng nếu thuộc sở hữu của bên thế chấp, trừ khi có thỏa thuận khác",
+  "d": "Chỉ xử lý quyền sử dụng đất",
+  "answer": "c",
+  "explanation": "Theo khoản 1 Điều 325 BLDS 2015, tài sản gắn liền với đất có thể được xử lý cùng quyền sử dụng đất nếu thuộc sở hữu của bên thế chấp."
+},
+{
+  "question": "A thế chấp tài sản gắn liền với đất nhưng không thế chấp quyền sử dụng đất. Khi xử lý tài sản, hệ quả pháp lý là:",
+  "a": "Không xử lý được tài sản",
+  "b": "Có thể xử lý cả quyền sử dụng đất trong một số trường hợp",
+  "c": "Chỉ xử lý tài sản gắn liền với đất, trừ khi có thỏa thuận khác",
+  "d": "Tự động vô hiệu hợp đồng",
+  "answer": "b",
+  "explanation": "Theo khoản 1 Điều 326 BLDS 2015, trong một số trường hợp, khi xử lý tài sản gắn liền với đất có thể bao gồm cả quyền sử dụng đất."
+},
+{
+  "question": "Thế chấp chấm dứt trong trường hợp nào sau đây là đúng?",
+  "a": "Khi tài sản giảm giá trị",
+  "b": "Khi ngân hàng yêu cầu chấm dứt",
+  "c": "Khi nghĩa vụ được bảo đảm chấm dứt",
+  "d": "Khi thay đổi chủ sở hữu tài sản",
+  "answer": "c",
+  "explanation": "Theo khoản 1 Điều 327 BLDS 2015, thế chấp chấm dứt khi nghĩa vụ được bảo đảm chấm dứt."
+},
+{
+  "question": "Tài sản đang thế chấp được bảo hiểm, nhưng bên nhận thế chấp không thông báo cho công ty bảo hiểm. Khi xảy ra sự kiện bảo hiểm, tiền bảo hiểm được xử lý thế nào?",
+  "a": "Bắt buộc chi trả cho bên nhận thế chấp",
+  "b": "Chi trả theo hợp đồng bảo hiểm cho bên thế chấp",
+  "c": "Hủy hợp đồng bảo hiểm",
+  "d": "Nộp ngân sách nhà nước",
+  "answer": "b",
+  "explanation": "Theo khoản 4 Điều 318 BLDS 2015, nếu bên nhận thế chấp không thông báo cho tổ chức bảo hiểm thì tiền bảo hiểm được chi trả theo hợp đồng bảo hiểm cho bên thế chấp."
+},
+{
+  "question": "Bên thế chấp cho thuê tài sản nhưng không thông báo cho bên nhận thế chấp. Hệ quả pháp lý là gì?",
+  "a": "Hợp đồng thuê vô hiệu",
+  "b": "Không có vi phạm",
+  "c": "Vi phạm nghĩa vụ thông báo và có thể phát sinh quyền hủy hợp đồng thế chấp",
+  "d": "Tự động chấm dứt thế chấp",
+  "answer": "c",
+  "explanation": "Theo khoản 7 Điều 320 BLDS 2015, bên thế chấp phải thông báo quyền của người thứ ba, nếu không có thể bị hủy hợp đồng hoặc bồi thường."
+},
+{
+  "question": "A thế chấp tài sản và bên nhận thế chấp muốn kiểm tra tài sản nhưng gây cản trở hoạt động kinh doanh của A. Xử lý đúng là:",
+  "a": "Được phép vì có quyền kiểm tra",
+  "b": "Không được kiểm tra nữa",
+  "c": "Chỉ được kiểm tra nhưng không được gây cản trở",
+  "d": "Phải có Tòa án cho phép",
+  "answer": "c",
+  "explanation": "Theo khoản 1 Điều 323 BLDS 2015, bên nhận thế chấp được kiểm tra tài sản nhưng không được gây cản trở việc sử dụng, khai thác."
+},
+{
+  "question": "Bên thế chấp không cung cấp thông tin về tình trạng tài sản khi bên nhận thế chấp yêu cầu. Hành vi này:",
+  "a": "Đúng vì không bắt buộc",
+  "b": "Sai vì vi phạm nghĩa vụ cung cấp thông tin",
+  "c": "Không ảnh hưởng pháp lý",
+  "d": "Chỉ sai khi tài sản giảm giá trị",
+  "answer": "b",
+  "explanation": "Theo khoản 5 Điều 320 và khoản 2 Điều 323 BLDS 2015, bên thế chấp phải cung cấp thông tin về thực trạng tài sản."
+},
+{
+  "question": "Người thứ ba giữ tài sản thế chấp tiếp tục khai thác tài sản nhưng làm giảm giá trị tài sản. Hậu quả pháp lý là gì?",
+  "a": "Không chịu trách nhiệm",
+  "b": "Phải bồi thường và chấm dứt việc khai thác nếu gây rủi ro",
+  "c": "Ngân hàng chịu trách nhiệm",
+  "d": "Tự động chuyển quyền sở hữu",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 324 BLDS 2015, người thứ ba phải bồi thường và không được tiếp tục khai thác nếu làm giảm giá trị tài sản."
+},
+{
+  "question": "Bên thế chấp tài sản có quyền đầu tư làm tăng giá trị tài sản. Quyền này có bị hạn chế không?",
+  "a": "Không bao giờ được đầu tư",
+  "b": "Luôn phải xin phép ngân hàng",
+  "c": "Được quyền đầu tư làm tăng giá trị tài sản thế chấp",
+  "d": "Chỉ được đầu tư nếu tài sản giảm giá trị",
+  "answer": "c",
+  "explanation": "Theo khoản 2 Điều 321 BLDS 2015, bên thế chấp có quyền đầu tư làm tăng giá trị tài sản thế chấp."
+},
+{
+  "question": "Tài sản thế chấp là kho hàng, bên thế chấp thay thế hàng hóa trong kho nhưng làm giảm giá trị tổng thể. Xử lý đúng là:",
+  "a": "Được phép vì là kho hàng",
+  "b": "Vi phạm nghĩa vụ bảo đảm giá trị tài sản",
+  "c": "Không có trách nhiệm",
+  "d": "Tự động chấm dứt hợp đồng",
+  "answer": "b",
+  "explanation": "Theo khoản 4 Điều 321 BLDS 2015, việc thay thế hàng hóa trong kho phải bảo đảm đúng giá trị thỏa thuận."
+},
+{
+  "question": "Bên nhận thế chấp giữ giấy tờ tài sản nhưng không trả lại khi nghĩa vụ đã chấm dứt. Hành vi này:",
+  "a": "Đúng vì có quyền giữ mãi",
+  "b": "Sai vì phải trả lại giấy tờ khi chấm dứt thế chấp",
+  "c": "Đúng nếu có phí phát sinh",
+  "d": "Chỉ sai khi có yêu cầu Tòa án",
+  "answer": "b",
+  "explanation": "Theo khoản 1 Điều 322 BLDS 2015, bên nhận thế chấp phải trả lại giấy tờ khi chấm dứt thế chấp."
+},
+{
+  "question": "A thế chấp tài sản nhưng sau đó tự ý tặng cho tài sản đó cho người khác. Giao dịch này:",
+  "a": "Luôn hợp pháp",
+  "b": "Có hiệu lực nếu bên nhận thế chấp đồng ý",
+  "c": "Tự động hợp pháp vì A là chủ sở hữu",
+  "d": "Không bị hạn chế",
+  "answer": "b",
+  "explanation": "Theo khoản 5 Điều 321 và khoản 8 Điều 320 BLDS 2015, việc định đoạt tài sản thế chấp chỉ được thực hiện nếu có sự đồng ý hoặc theo luật."
+},
+{
+  "question": "Người thứ ba giữ tài sản thế chấp có quyền nhận thù lao khi nào?",
+  "a": "Luôn luôn",
+  "b": "Chỉ khi có thỏa thuận hoặc luật quy định",
+  "c": "Không bao giờ",
+  "d": "Do ngân hàng quyết định",
+  "answer": "b",
+  "explanation": "Theo khoản 1 Điều 324 BLDS 2015, người thứ ba giữ tài sản có quyền được trả thù lao nếu có thỏa thuận hoặc luật quy định."
+}, 
+{
+  "question": "Bên thế chấp có nghĩa vụ giao giấy tờ tài sản theo thỏa thuận nhưng không thực hiện. Bên nhận thế chấp xử lý thế nào đúng luật?",
+  "a": "Tự động chấm dứt hợp đồng thế chấp",
+  "b": "Có quyền yêu cầu thực hiện nghĩa vụ giao giấy tờ",
+  "c": "Được bán tài sản ngay",
+  "d": "Không có quyền yêu cầu gì",
+  "answer": "b",
+  "explanation": "Theo khoản 1 Điều 320 và khoản 6 Điều 323 BLDS 2015, bên thế chấp có nghĩa vụ giao giấy tờ theo thỏa thuận và bên nhận thế chấp có quyền yêu cầu thực hiện."
+},
+{
+  "question": "Bên nhận thế chấp muốn kiểm tra tài sản nhưng việc kiểm tra làm gián đoạn hoạt động sản xuất của bên thế chấp. Hành vi đúng là:",
+  "a": "Được kiểm tra không giới hạn",
+  "b": "Chỉ được kiểm tra khi có sự đồng ý của bên thế chấp",
+  "c": "Được kiểm tra nhưng không được gây cản trở",
+  "d": "Mất quyền kiểm tra tài sản",
+  "answer": "c",
+  "explanation": "Theo khoản 1 Điều 323 BLDS 2015, việc kiểm tra tài sản không được cản trở việc sử dụng, khai thác tài sản."
+},
+{
+  "question": "Bên thế chấp không sửa chữa tài sản đang xuống cấp nghiêm trọng dù đã được yêu cầu. Bên nhận thế chấp có quyền:",
+  "a": "Không được làm gì",
+  "b": "Yêu cầu áp dụng biện pháp bảo toàn tài sản",
+  "c": "Tự động chuyển quyền sở hữu",
+  "d": "Hủy hợp đồng thế chấp ngay",
+  "answer": "b",
+  "explanation": "Theo khoản 3 Điều 320 BLDS 2015, bên nhận thế chấp có quyền yêu cầu áp dụng biện pháp cần thiết để bảo toàn tài sản."
+},
+{
+  "question": "Tài sản thế chấp bị hư hỏng, bên thế chấp không sửa chữa và cũng không thay thế tài sản. Hậu quả pháp lý là:",
+  "a": "Không có trách nhiệm",
+  "b": "Vi phạm nghĩa vụ bảo toàn tài sản thế chấp",
+  "c": "Tự động vô hiệu hợp đồng",
+  "d": "Ngân hàng phải chịu trách nhiệm",
+  "answer": "b",
+  "explanation": "Theo khoản 4 Điều 320 BLDS 2015, bên thế chấp phải sửa chữa hoặc thay thế tài sản khi bị hư hỏng."
+},
+{
+  "question": "A thế chấp tài sản nhưng sau đó cho mượn tài sản mà không thông báo cho bên nhận thế chấp. Hành vi này:",
+  "a": "Hợp pháp nếu tài sản không hư hỏng",
+  "b": "Vi phạm nghĩa vụ thông báo về quyền của người thứ ba",
+  "c": "Không ảnh hưởng pháp lý",
+  "d": "Chỉ sai nếu có thiệt hại",
+  "answer": "b",
+  "explanation": "Theo khoản 7 Điều 320 BLDS 2015, bên thế chấp phải thông báo quyền của người thứ ba, nếu không sẽ phát sinh trách nhiệm pháp lý."
+},
+{
+  "question": "Bên thế chấp tự ý bán tài sản không thuộc trường hợp được phép. Giao dịch này có hiệu lực thế nào?",
+  "a": "Luôn hợp pháp",
+  "b": "Có hiệu lực nếu đã giao tiền",
+  "c": "Vi phạm nghĩa vụ, có thể bị xử lý theo quy định bảo đảm",
+  "d": "Không ảnh hưởng đến hợp đồng thế chấp",
+  "answer": "c",
+  "explanation": "Theo khoản 8 Điều 320 BLDS 2015, bên thế chấp không được bán tài sản trừ trường hợp luật cho phép hoặc có thỏa thuận."
+},
+{
+  "question": "Người thứ ba đang giữ tài sản thế chấp có quyền khai thác tài sản trong trường hợp nào?",
+  "a": "Luôn được khai thác",
+  "b": "Không bao giờ được khai thác",
+  "c": "Chỉ được khai thác nếu có thỏa thuận",
+  "d": "Chỉ được khai thác khi ngân hàng đồng ý bằng miệng",
+  "answer": "c",
+  "explanation": "Theo điểm a khoản 1 Điều 324 BLDS 2015, người thứ ba giữ tài sản chỉ được khai thác nếu có thỏa thuận."
+},
+{
+  "question": "Người thứ ba giữ tài sản thế chấp làm mất tài sản do sơ suất. Trách nhiệm pháp lý là:",
+  "a": "Không chịu trách nhiệm",
+  "b": "Chỉ chịu trách nhiệm nếu có hợp đồng bảo hiểm",
+  "c": "Phải bồi thường thiệt hại",
+  "d": "Ngân hàng chịu trách nhiệm",
+  "answer": "c",
+  "explanation": "Theo điểm a khoản 2 Điều 324 BLDS 2015, người thứ ba giữ tài sản phải bồi thường nếu làm mất tài sản."
+},
+{
+  "question": "Khi chấm dứt thế chấp, bên nhận thế chấp không trả lại giấy tờ tài sản. Xử lý đúng là:",
+  "a": "Được giữ vĩnh viễn",
+  "b": "Chỉ trả nếu có yêu cầu của Tòa án",
+  "c": "Vi phạm nghĩa vụ trả lại giấy tờ khi chấm dứt thế chấp",
+  "d": "Không có nghĩa vụ trả",
+  "answer": "c",
+  "explanation": "Theo khoản 1 Điều 322 BLDS 2015, bên nhận thế chấp phải trả lại giấy tờ khi thế chấp chấm dứt."
+},
+{
+  "question": "Thế chấp chấm dứt trong trường hợp tài sản bị xử lý. Hệ quả pháp lý đúng là:",
+  "a": "Quan hệ thế chấp tiếp tục tồn tại",
+  "b": "Quan hệ thế chấp chấm dứt",
+  "c": "Chuyển thành cầm cố",
+  "d": "Phải ký lại hợp đồng mới",
+  "answer": "b",
+  "explanation": "Theo khoản 3 Điều 327 BLDS 2015, thế chấp chấm dứt khi tài sản thế chấp đã được xử lý."
+},
+{
+  "question": "Bên thế chấp tự ý định đoạt tài sản (bán, tặng cho) khi không thuộc trường hợp được phép. Hậu quả pháp lý đúng là gì?",
+  "a": "Giao dịch luôn có hiệu lực tuyệt đối",
+  "b": "Không bị ràng buộc bởi nghĩa vụ bảo đảm",
+  "c": "Vi phạm nghĩa vụ và có thể bị xử lý theo cơ chế bảo đảm",
+  "d": "Tự động chấm dứt hợp đồng thế chấp",
+  "answer": "c",
+  "explanation": "Theo khoản 8 Điều 320 BLDS 2015, bên thế chấp không được định đoạt tài sản, trừ trường hợp luật hoặc thỏa thuận cho phép, nếu vi phạm thì xử lý theo cơ chế bảo đảm."
+},
+{
+  "question": "Tài sản thế chấp đang được bên thứ ba thuê hợp pháp. Khi xử lý tài sản, quyền của bên thuê được giải quyết thế nào?",
+  "a": "Luôn chấm dứt hợp đồng thuê ngay",
+  "b": "Tiếp tục thực hiện quyền trong phạm vi hợp đồng",
+  "c": "Hợp đồng thuê bị vô hiệu",
+  "d": "Bên thuê trở thành chủ sở hữu tài sản",
+  "answer": "b",
+  "explanation": "Theo khoản 6 Điều 321 BLDS 2015, việc cho thuê phải thông báo và quyền của bên thuê vẫn được tôn trọng trong phạm vi pháp luật."
+},
+{
+  "question": "Bên nhận thế chấp giữ giấy tờ tài sản nhưng từ chối trả lại sau khi nghĩa vụ đã hoàn thành. Xử lý đúng là:",
+  "a": "Có quyền giữ nếu muốn",
+  "b": "Không vi phạm nếu chưa có yêu cầu",
+  "c": "Phải trả lại theo nghĩa vụ chấm dứt thế chấp",
+  "d": "Chỉ trả khi có quyết định Tòa án",
+  "answer": "c",
+  "explanation": "Theo khoản 1 Điều 322 BLDS 2015, khi thế chấp chấm dứt thì bên nhận thế chấp phải trả lại giấy tờ tài sản."
+},
+{
+  "question": "Bên thế chấp đang sử dụng tài sản nhưng tài sản xuống cấp, bên nhận thế chấp yêu cầu ngừng khai thác. Căn cứ pháp lý là:",
+  "a": "Khoản 3 Điều 320 BLDS 2015",
+  "b": "Điều 317 BLDS 2015",
+  "c": "Điều 327 BLDS 2015",
+  "d": "Điều 325 BLDS 2015",
+  "answer": "a",
+  "explanation": "Khoản 3 Điều 320 quy định bên thế chấp phải áp dụng biện pháp cần thiết hoặc ngừng khai thác nếu gây giảm giá trị tài sản."
+},
+{
+  "question": "Người thứ ba giữ tài sản thế chấp có quyền được trả thù lao khi nào?",
+  "a": "Luôn luôn",
+  "b": "Không bao giờ",
+  "c": "Chỉ khi có thỏa thuận",
+  "d": "Khi ngân hàng quyết định",
+  "answer": "c",
+  "explanation": "Theo khoản 1 Điều 324 BLDS 2015, người thứ ba chỉ được trả thù lao khi có thỏa thuận."
+},
+{
+  "question": "Tài sản thế chấp bị hư hỏng nghiêm trọng nhưng bên thế chấp không sửa chữa hoặc thay thế. Hệ quả pháp lý là:",
+  "a": "Không có trách nhiệm",
+  "b": "Vi phạm nghĩa vụ bảo đảm tài sản",
+  "c": "Tự động chuyển quyền sở hữu",
+  "d": "Hợp đồng vô hiệu",
+  "answer": "b",
+  "explanation": "Theo khoản 4 Điều 320 BLDS 2015, bên thế chấp phải sửa chữa hoặc thay thế tài sản nếu bị hư hỏng."
+},
+{
+  "question": "Bên thế chấp cho người khác mượn tài sản nhưng không thông báo cho bên nhận thế chấp. Hành vi này:",
+  "a": "Không vi phạm",
+  "b": "Vi phạm nghĩa vụ thông báo về quyền của người thứ ba",
+  "c": "Luôn hợp pháp",
+  "d": "Tự động làm mất hiệu lực thế chấp",
+  "answer": "b",
+  "explanation": "Khoản 7 Điều 320 BLDS 2015 quy định phải thông báo quyền của người thứ ba nếu có."
+},
+{
+  "question": "Khi xử lý tài sản thế chấp, bên nhận thế chấp không được thực hiện hành vi nào sau đây?",
+  "a": "Xử lý tài sản theo thỏa thuận",
+  "b": "Đăng ký bảo đảm",
+  "c": "Cản trở việc khai thác hợp pháp của bên thế chấp trước xử lý",
+  "d": "Yêu cầu giao tài sản để xử lý",
+  "answer": "c",
+  "explanation": "Theo Điều 323 BLDS 2015, bên nhận thế chấp chỉ có quyền kiểm tra và yêu cầu bảo toàn, không được cản trở trái pháp luật."
+},
+{
+  "question": "Bên thế chấp có quyền khai thác tài sản nhưng bị hạn chế trong trường hợp nào?",
+  "a": "Khi có thỏa thuận",
+  "b": "Không bao giờ bị hạn chế",
+  "c": "Khi tài sản giảm giá trị do khai thác",
+  "d": "Khi ngân hàng yêu cầu bất kỳ lúc nào",
+  "answer": "c",
+  "explanation": "Khoản 3 Điều 320 BLDS 2015 cho phép hạn chế khai thác nếu làm giảm giá trị tài sản."
+},
+{
+  "question": "Khi bên thế chấp không thực hiện nghĩa vụ bảo toàn tài sản dẫn đến tài sản bị giảm giá trị, bên nhận thế chấp có quyền gì?",
+  "a": "Không có quyền yêu cầu gì",
+  "b": "Yêu cầu áp dụng biện pháp bảo toàn tài sản",
+  "c": "Tự động bán tài sản",
+  "d": "Chấm dứt hợp đồng thế chấp ngay",
+  "answer": "b",
+  "explanation": "Theo khoản 3 Điều 320 BLDS 2015, bên nhận thế chấp có quyền yêu cầu bên thế chấp áp dụng biện pháp cần thiết để bảo toàn tài sản."
+},
+{
+  "question": "Tài sản thế chấp đang được cho thuê hợp pháp, khi xử lý tài sản thì hợp đồng thuê được xử lý thế nào?",
+  "a": "Hợp đồng thuê vẫn có thể tiếp tục thực hiện",
+  "b": "Luôn bị vô hiệu",
+  "c": "Ngân hàng có quyền hủy ngay không điều kiện",
+  "d": "Chuyển thành hợp đồng mua bán",
+  "answer": "a",
+  "explanation": "Theo khoản 6 Điều 321 BLDS 2015, việc cho thuê vẫn có thể tiếp tục thực hiện nếu có thông báo theo quy định."
+},
+{
+  "question": "Bên nhận thế chấp kiểm tra tài sản nhưng gây cản trở hoạt động sản xuất kinh doanh. Hành vi này bị đánh giá thế nào?",
+  "a": "Hợp pháp tuyệt đối",
+  "b": "Chỉ bị xử lý khi có thiệt hại",
+  "c": "Vi phạm giới hạn quyền kiểm tra",
+  "d": "Không bị hạn chế",
+  "answer": "c",
+  "explanation": "Khoản 1 Điều 323 BLDS 2015 quy định việc kiểm tra không được gây cản trở hoạt động sử dụng, khai thác tài sản."
+},
+{
+  "question": "Người thứ ba giữ tài sản thế chấp được hưởng quyền nào sau đây?",
+  "a": "Quyền bán tài sản",
+  "b": "Quyền tự định đoạt tài sản",
+  "c": "Quyền được trả thù lao nếu có thỏa thuận",
+  "d": "Quyền chuyển nhượng tài sản",
+  "answer": "c",
+  "explanation": "Theo điểm b khoản 1 Điều 324 BLDS 2015, người thứ ba giữ tài sản được trả thù lao nếu có thỏa thuận."
+},
+{
+  "question": "Bên thế chấp tự ý bán tài sản khi không thuộc trường hợp được phép. Hậu quả pháp lý là gì?",
+  "a": "Giao dịch luôn hợp pháp",
+  "b": "Không ảnh hưởng đến nghĩa vụ bảo đảm",
+  "c": "Vi phạm nghĩa vụ và có thể bị xử lý theo cơ chế bảo đảm",
+  "d": "Tự động vô hiệu hợp đồng thế chấp",
+  "answer": "c",
+  "explanation": "Khoản 8 Điều 320 BLDS 2015 quy định bên thế chấp không được bán tài sản trừ trường hợp luật cho phép."
+},
+{
+  "question": "Khi tài sản thế chấp bị hư hỏng nghiêm trọng, nghĩa vụ của bên thế chấp là gì?",
+  "a": "Không phải thực hiện gì",
+  "b": "Chỉ báo cho bên nhận thế chấp",
+  "c": "Phải sửa chữa hoặc thay thế tài sản",
+  "d": "Chờ xử lý tài sản",
+  "answer": "c",
+  "explanation": "Khoản 4 Điều 320 BLDS 2015 quy định bên thế chấp phải sửa chữa hoặc thay thế tài sản khi bị hư hỏng."
+},
+{
+  "question": "Khi chấm dứt thế chấp, bên nhận thế chấp có nghĩa vụ gì?",
+  "a": "Không phải làm gì",
+  "b": "Giữ giấy tờ vĩnh viễn",
+  "c": "Chỉ trả lại nếu bên thế chấp yêu cầu",
+  "d": "Trả lại giấy tờ tài sản",
+  "answer": "d",
+  "explanation": "Theo khoản 1 Điều 322 BLDS 2015, khi thế chấp chấm dứt thì bên nhận thế chấp phải trả lại giấy tờ tài sản."
+},
+{
+  "question": "Tài sản thế chấp là hàng hóa luân chuyển, sau khi bán hàng hóa thì tài sản thế chấp được xác định như thế nào?",
+  "a": "Mất toàn bộ quan hệ bảo đảm",
+  "b": "Chuyển thành quyền yêu cầu thanh toán hoặc tài sản hình thành từ tiền thu được",
+  "c": "Thuộc bên mua hàng hóa",
+  "d": "Tự động vô hiệu thế chấp",
+  "answer": "b",
+  "explanation": "Khoản 4 Điều 321 BLDS 2015 quy định quyền yêu cầu thanh toán và tài sản hình thành từ tiền thu được vẫn là tài sản thế chấp."
+},
+{
+  "question": "Thế chấp chấm dứt khi tài sản đã được xử lý thuộc trường hợp nào?",
+  "a": "Khoản 4 Điều 327",
+  "b": "Khoản 1 Điều 327",
+  "c": "Khoản 2 Điều 327",
+  "d": "Khoản 3 Điều 327",
+  "answer": "d",
+  "explanation": "Khoản 3 Điều 327 BLDS 2015 quy định thế chấp chấm dứt khi tài sản thế chấp đã được xử lý."
+},
+{
+  "question": "Bên thế chấp có quyền khai thác tài sản nhưng bị hạn chế khi nào?",
+  "a": "Khi tài sản có nguy cơ giảm giá trị do khai thác",
+  "b": "Không bao giờ bị hạn chế",
+  "c": "Khi ngân hàng yêu cầu bất kỳ lúc nào",
+  "d": "Khi hợp đồng ký kết",
+  "answer": "a",
+  "explanation": "Khoản 3 Điều 320 BLDS 2015 cho phép hạn chế khai thác nếu gây giảm giá trị tài sản."
+},
+{
+  "question": "A thế chấp xe ô tô cho Ngân hàng X (đã đăng ký). Sau đó A tiếp tục thế chấp cùng xe cho Ngân hàng Y nhưng không đăng ký. Khi xử lý tài sản, Y yêu cầu chia ưu tiên. Cách giải quyết đúng là:",
+  "a": "Chia đều cho X và Y vì cùng là giao dịch hợp pháp",
+  "b": "Y được ưu tiên vì ký sau",
+  "c": "X được ưu tiên do đã đăng ký phát sinh hiệu lực đối kháng",
+  "d": "Hợp đồng của Y vô hiệu hoàn toàn",
+  "answer": "c",
+  "explanation": "Theo Điều 297 và Điều 308 BLDS 2015, bên có hiệu lực đối kháng (đăng ký) được ưu tiên thanh toán trước."
+},
+{
+  "question": "Tài sản thế chấp có bảo hiểm, xảy ra sự kiện bảo hiểm. Bên nhận thế chấp không thông báo cho công ty bảo hiểm về việc thế chấp. Hệ quả xử lý tiền bảo hiểm là:",
+  "a": "Bắt buộc trả cho bên nhận thế chấp",
+  "b": "Trả cho ngân sách nhà nước",
+  "c": "Công ty bảo hiểm chi trả cho bên thế chấp theo hợp đồng bảo hiểm",
+  "d": "Tiền bảo hiểm bị phong tỏa",
+  "answer": "c",
+  "explanation": "Khoản 4 Điều 318 BLDS 2015 quy định nếu không thông báo, tổ chức bảo hiểm chi trả theo hợp đồng bảo hiểm cho bên thế chấp."
+},
+{
+  "question": "A thế chấp kho hàng, trong đó hàng hóa thường xuyên thay đổi. A bán hàng, thu tiền nhưng không dùng để thay thế hàng hóa trong kho. Khi tranh chấp, nhận định đúng là:",
+  "a": "Không ảnh hưởng vì kho hàng luôn biến động",
+  "b": "Vẫn bảo đảm đầy đủ nghĩa vụ",
+  "c": "Vi phạm nghĩa vụ bảo toàn giá trị tài sản thế chấp",
+  "d": "Tự động chấm dứt thế chấp",
+  "answer": "c",
+  "explanation": "Khoản 4 Điều 321 BLDS 2015 yêu cầu giá trị hàng hóa trong kho phải được bảo đảm theo thỏa thuận."
+},
+{
+  "question": "Bên thế chấp cho thuê tài sản nhưng không thông báo cho bên nhận thế chấp, đồng thời bên thuê không biết tài sản đang thế chấp. Khi xử lý tài sản, quyền của bên thuê:",
+  "a": "Luôn bị chấm dứt hợp đồng thuê",
+  "b": "Tiếp tục thực hiện trong phạm vi hợp đồng nếu đủ điều kiện pháp luật",
+  "c": "Mặc nhiên trở thành vô hiệu",
+  "d": "Chỉ được bồi thường",
+  "answer": "b",
+  "explanation": "Khoản 6 Điều 321 BLDS 2015 bảo vệ quyền thuê nếu có giao dịch hợp pháp và phù hợp điều kiện pháp luật."
+},
+{
+  "question": "Người thứ ba giữ tài sản thế chấp tự ý khai thác tài sản dù không có thỏa thuận. Khi tài sản giảm giá trị, trách nhiệm pháp lý là:",
+  "a": "Không chịu trách nhiệm vì chỉ giữ hộ",
+  "b": "Chỉ bị nhắc nhở",
+  "c": "Phải bồi thường thiệt hại",
+  "d": "Chuyển trách nhiệm sang bên thế chấp",
+  "answer": "c",
+  "explanation": "Điểm a khoản 2 Điều 324 BLDS 2015 quy định người giữ tài sản phải bồi thường nếu làm giảm giá trị tài sản."
+},
+{
+  "question": "Bên nhận thế chấp yêu cầu bên thế chấp giao tài sản để xử lý nhưng bên thế chấp không giao. Biện pháp đúng là:",
+  "a": "Tự ý cưỡng chế tài sản ngay",
+  "b": "Yêu cầu Tòa án giải quyết",
+  "c": "Hủy hợp đồng thế chấp",
+  "d": "Chuyển sang cầm cố",
+  "answer": "b",
+  "explanation": "Điều 301 BLDS 2015 quy định nếu không giao tài sản thì bên nhận thế chấp phải yêu cầu Tòa án giải quyết."
+},
+{
+  "question": "A thế chấp tài sản, sau đó tài sản bị xử lý do vi phạm nghĩa vụ. Tuy nhiên tiền xử lý không đủ trả nợ. Phần còn thiếu được xử lý thế nào?",
+  "a": "Tự động xóa nghĩa vụ còn lại",
+  "b": "Trở thành nghĩa vụ không có bảo đảm",
+  "c": "Ngân hàng phải chịu",
+  "d": "Chuyển sang bên thứ ba",
+  "answer": "b",
+  "explanation": "Khoản 3 Điều 307 BLDS 2015 quy định phần nghĩa vụ chưa thanh toán trở thành nghĩa vụ không có bảo đảm."
+},
+{
+  "question": "Một tài sản bảo đảm được dùng cho nhiều nghĩa vụ, nhưng chỉ một bên có đăng ký. Khi xử lý tài sản, thứ tự ưu tiên được xác định:",
+  "a": "Theo mức vay",
+  "b": "Theo thời gian vay",
+  "c": "Theo hiệu lực đối kháng (đăng ký trước ưu tiên)",
+  "d": "Theo thỏa thuận miệng",
+  "answer": "c",
+  "explanation": "Điều 308 BLDS 2015 quy định ưu tiên theo hiệu lực đối kháng và thời điểm xác lập."
+},
+{
+  "question": "Bên thế chấp bị yêu cầu ngừng khai thác tài sản do làm giảm giá trị nhưng vẫn tiếp tục khai thác. Bên nhận thế chấp có quyền:",
+  "a": "Không làm gì",
+  "b": "Yêu cầu biện pháp bảo toàn hoặc xử lý theo luật",
+  "c": "Tự bán tài sản ngay",
+  "d": "Chấm dứt nghĩa vụ vay",
+  "answer": "b",
+  "explanation": "Khoản 3 Điều 320 BLDS 2015 cho phép yêu cầu áp dụng biện pháp bảo toàn tài sản."
+},
+{
+  "question": "Tài sản thế chấp có vật phụ. Khi thế chấp toàn bộ tài sản nhưng không có thỏa thuận khác, vật phụ được xử lý thế nào?",
+  "a": "Không thuộc tài sản thế chấp",
+  "b": "Chỉ xử lý nếu có tranh chấp",
+  "c": "Thuộc tài sản thế chấp",
+  "d": "Do bên thế chấp quyết định",
+  "answer": "c",
+  "explanation": "Khoản 1 Điều 318 BLDS 2015 quy định vật phụ thuộc tài sản chính khi thế chấp toàn bộ."
+},
+{
+  "question": "Bên nhận thế chấp giữ giấy tờ tài sản nhưng từ chối trả lại dù nghĩa vụ đã hoàn thành và không có tranh chấp. Hành vi này:",
+  "a": "Đúng vì có quyền giữ",
+  "b": "Vi phạm nghĩa vụ trả lại tài sản",
+  "c": "Không ảnh hưởng pháp lý",
+  "d": "Được phép nếu chưa đóng phí",
+  "answer": "b",
+  "explanation": "Điều 322 BLDS 2015 quy định phải trả lại giấy tờ khi chấm dứt thế chấp."
+},
+{
+  "question": "Tài sản thế chấp bị bán trái phép bởi bên thế chấp cho người thứ ba ngay tình. Khi xử lý tranh chấp, nguyên tắc đúng là:",
+  "a": "Người thứ ba luôn giữ tài sản",
+  "b": "Giao dịch luôn vô hiệu",
+  "c": "Xử lý theo cơ chế bảo đảm và ưu tiên quyền đối kháng",
+  "d": "Ngân hàng mất toàn bộ quyền",
+  "answer": "c",
+  "explanation": "Kết hợp Điều 297 và nguyên tắc đối kháng: quyền đăng ký/chiếm giữ quyết định ưu tiên, không mặc nhiên vô hiệu giao dịch."
+},
+{
+  "question": "A thế chấp quyền sử dụng đất cho Ngân hàng X (đã đăng ký). Sau đó A tiếp tục thế chấp cùng quyền sử dụng đất cho Ngân hàng Y nhưng Y không đăng ký. Y sau đó cho rằng mình đã ký hợp đồng hợp pháp trước khi X phát hiện. Khi xử lý tài sản, ưu tiên được xác định thế nào?",
+  "a": "Y được ưu tiên vì hợp đồng ký sau nhưng hợp pháp",
+  "b": "X và Y chia đều do cùng là giao dịch bảo đảm",
+  "c": "X được ưu tiên vì có hiệu lực đối kháng với người thứ ba do đăng ký",
+  "d": "Hợp đồng của Y vô hiệu toàn bộ",
+  "answer": "c",
+  "explanation": "Theo Điều 297 và Điều 308 BLDS 2015, hiệu lực đối kháng phát sinh từ đăng ký, nên X có ưu tiên thanh toán."
+},
+{
+  "question": "A thế chấp tài sản cho ngân hàng X và có đăng ký. Sau đó tài sản bị bán cho B là người thứ ba ngay tình. B không biết về việc thế chấp do A không giao giấy tờ. Khi tranh chấp xảy ra, xử lý đúng là:",
+  "a": "B luôn được bảo vệ tuyệt đối quyền sở hữu",
+  "b": "Giao dịch của B luôn vô hiệu",
+  "c": "X vẫn có quyền đối kháng nếu đã đăng ký hợp lệ",
+  "d": "Tài sản thuộc về A vì vi phạm nghĩa vụ",
+  "answer": "c",
+  "explanation": "Theo Điều 297 BLDS 2015, quyền đối kháng phát sinh từ đăng ký, nên bên nhận thế chấp vẫn có quyền xử lý tài sản dù tài sản chuyển dịch."
+},
+{
+  "question": "A thế chấp kho hàng cho ngân hàng X. Sau đó A bán hàng hóa trong kho và không thay thế hàng hóa tương ứng. Đồng thời A dùng tiền bán hàng trả nợ cho Y. Khi X yêu cầu xử lý, nhận định nào đúng nhất?",
+  "a": "X mất toàn bộ quyền vì hàng hóa đã bán",
+  "b": "Quan hệ bảo đảm vẫn tồn tại với tài sản hình thành từ việc bán hàng",
+  "c": "Y phải trả lại tiền cho X",
+  "d": "Hợp đồng thế chấp tự động chấm dứt",
+  "answer": "b",
+  "explanation": "Theo khoản 4 Điều 321 BLDS 2015, tài sản thế chấp có thể chuyển hóa thành quyền đối với tài sản hình thành từ việc bán hàng hóa."
+},
+{
+  "question": "Tài sản thế chấp đang được bảo hiểm. Xảy ra sự kiện bảo hiểm, nhưng đồng thời tài sản cũng bị bên thứ ba xâm phạm gây hư hỏng. Bên nhận thế chấp không thông báo cho công ty bảo hiểm. Khi đó:",
+  "a": "Tiền bảo hiểm thuộc ngân hàng X",
+  "b": "Tiền bảo hiểm chi trả theo hợp đồng cho bên thế chấp",
+  "c": "Không phát sinh quyền bảo hiểm",
+  "d": "Tiền bảo hiểm bị hủy",
+  "answer": "b",
+  "explanation": "Khoản 4 Điều 318 BLDS 2015: không thông báo thì tổ chức bảo hiểm chi trả cho bên thế chấp theo hợp đồng."
+},
+{
+  "question": "A thế chấp tài sản cho ngân hàng X, đồng thời giao tài sản cho người thứ ba giữ. Người thứ ba vừa khai thác vừa cho thuê lại tài sản mà không có thỏa thuận. Khi tài sản giảm giá trị, trách nhiệm pháp lý được xác định thế nào?",
+  "a": "Người thứ ba không chịu trách nhiệm vì chỉ giữ hộ",
+  "b": "Chỉ A chịu trách nhiệm vì là chủ sở hữu",
+  "c": "Người thứ ba phải bồi thường và chấm dứt hành vi khai thác trái phép",
+  "d": "Ngân hàng phải chịu rủi ro",
+  "answer": "c",
+  "explanation": "Theo Điều 324 BLDS 2015, người thứ ba giữ tài sản phải bảo quản, không được khai thác trái phép và phải bồi thường nếu gây thiệt hại."
+},
+{
+  "question": "A thế chấp tài sản cho ngân hàng X, sau đó X không giữ giấy tờ tài sản nhưng A vẫn tự ý định đoạt tài sản. B mua tài sản ngay tình. Khi tranh chấp phát sinh:",
+  "a": "B luôn được bảo vệ tuyệt đối",
+  "b": "X mất quyền đối kháng vì không giữ giấy tờ",
+  "c": "X vẫn có quyền đối kháng nếu đã đăng ký biện pháp bảo đảm",
+  "d": "Giao dịch vô hiệu ngay từ đầu",
+  "answer": "c",
+  "explanation": "Theo Điều 297 BLDS 2015, hiệu lực đối kháng không phụ thuộc vào việc giữ giấy tờ mà phụ thuộc đăng ký hoặc chiếm giữ."
+},
+{
+  "question": "A thế chấp tài sản và không thực hiện nghĩa vụ. Ngân hàng yêu cầu xử lý tài sản nhưng A viện lý do tài sản đã được sửa chữa, đầu tư làm tăng giá trị. Khi định giá xử lý, nguyên tắc đúng là:",
+  "a": "Chỉ tính giá trị ban đầu khi thế chấp",
+  "b": "Không định giá lại",
+  "c": "Định giá theo giá thị trường tại thời điểm xử lý",
+  "d": "Theo giá do bên thế chấp tự quyết",
+  "answer": "c",
+  "explanation": "Theo Điều 306 BLDS 2015, việc định giá phải bảo đảm khách quan và phù hợp giá thị trường tại thời điểm xử lý."
+},
+{
+  "question": "Một tài sản bảo đảm được dùng cho nhiều nghĩa vụ. Khi xử lý, nghĩa vụ nào đến hạn nhưng chưa có hiệu lực đối kháng vẫn bị ảnh hưởng thế nào?",
+  "a": "Không bị ảnh hưởng",
+  "b": "Luôn được ưu tiên thanh toán",
+  "c": "Có thể bị coi là đến hạn để cùng xử lý tài sản",
+  "d": "Tự động vô hiệu nghĩa vụ",
+  "answer": "c",
+  "explanation": "Theo khoản 3 Điều 296 BLDS 2015, khi xử lý tài sản, các nghĩa vụ khác có thể bị coi là đến hạn để xử lý đồng thời."
+},
+{
+  "question": "A thế chấp tài sản và bị xử lý. Sau khi bán tài sản, số tiền thu được không đủ trả nợ. Ngân hàng yêu cầu tiếp tục truy đòi phần còn thiếu. Nhận định đúng là:",
+  "a": "Không được truy đòi vì đã xử lý tài sản",
+  "b": "Phần còn thiếu trở thành nghĩa vụ không có bảo đảm",
+  "c": "Tự động xóa nghĩa vụ",
+  "d": "Chuyển sang nghĩa vụ của người thứ ba",
+  "answer": "b",
+  "explanation": "Khoản 3 Điều 307 BLDS 2015: phần nghĩa vụ chưa thanh toán trở thành nghĩa vụ không có bảo đảm."
+},
+  {
       "question": "Trong sở hữu chung theo phần, việc định đoạt tài sản chung được thực hiện như thế nào?",
       "a": "Do một chủ sở hữu tự quyết định",
       "b": "Theo ý kiến của đa số chủ sở hữu",
