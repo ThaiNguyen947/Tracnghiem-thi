@@ -1,5 +1,275 @@
 [
   {
+    "question": "Theo Luật Lý lịch tư pháp 2009 được sửa đổi, bổ sung bởi Luật số 107/2025/QH15, Phiếu lý lịch tư pháp số 1 ghi nội dung nào sau đây?",
+    "a": "Ghi đầy đủ mọi án tích kể cả đã được xóa",
+    "b": "Chỉ ghi án tích chưa được xóa; án tích đã được xóa thì không ghi",
+    "c": "Không ghi án tích",
+    "d": "Chỉ ghi thông tin cấm đảm nhiệm chức vụ",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 41 Luật Lý lịch tư pháp 2009 được sửa đổi, bổ sung bởi Luật số 107/2025/QH15 quy định Phiếu LLTP số 1 không ghi án tích đã được xóa."
+  },
+  {
+    "question": "Theo Luật Lý lịch tư pháp 2009 được sửa đổi, bổ sung bởi Luật số 107/2025/QH15, Phiếu lý lịch tư pháp số 2 có đặc điểm nào sau đây?",
+    "a": "Không ghi án tích đã được xóa",
+    "b": "Chỉ cấp cho cơ quan nhà nước",
+    "c": "Ghi đầy đủ án tích, kể cả án tích đã được xóa",
+    "d": "Được ủy quyền cho người khác yêu cầu cấp",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 41 Luật Lý lịch tư pháp 2009 được sửa đổi, bổ sung bởi Luật số 107/2025/QH15 quy định Phiếu LLTP số 2 ghi đầy đủ các án tích, bao gồm cả án tích đã được xóa."
+  },
+  {
+    "question": "Theo Luật Lý lịch tư pháp 2009 được sửa đổi, bổ sung bởi Luật số 107/2025/QH15, cá nhân có được ủy quyền cho người khác yêu cầu cấp Phiếu lý lịch tư pháp số 2 hay không?",
+    "a": "Được ủy quyền trong mọi trường hợp",
+    "b": "Không được ủy quyền",
+    "c": "Được nếu có xác nhận của UBND cấp xã",
+    "d": "Được nếu là người thân thích",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 46 Luật Lý lịch tư pháp 2009 được sửa đổi, bổ sung bởi Luật số 107/2025/QH15 quy định cá nhân không được ủy quyền yêu cầu cấp Phiếu LLTP số 2."
+  },
+{
+  "question": "Theo Luật Lý lịch tư pháp 2009 được sửa đổi bởi Luật số 107/2025/QH15, người từ bao nhiêu tuổi trở lên có quyền yêu cầu cấp Phiếu lý lịch tư pháp của mình?",
+  "a": "Từ đủ 14 tuổi",
+  "b": "Từ đủ 15 tuổi",
+  "c": "Từ đủ 16 tuổi",
+  "d": "Từ đủ 18 tuổi",
+  "answer": "c",
+  "explanation": "Khoản 1 Điều 7 Luật Lý lịch tư pháp 2009 được sửa đổi, bổ sung bởi Luật số 107/2025/QH15 quy định công dân Việt Nam, người nước ngoài đã hoặc đang cư trú tại Việt Nam từ đủ 16 tuổi trở lên có quyền yêu cầu cấp Phiếu lý lịch tư pháp của mình."
+},
+  {
+    "question": "Theo Luật Lý lịch tư pháp 2009 được sửa đổi, bổ sung bởi Luật số 107/2025/QH15, thời hạn cấp Phiếu lý lịch tư pháp thông thường là bao lâu?",
+    "a": "Không quá 03 ngày",
+    "b": "Không quá 05 ngày",
+    "c": "Không quá 10 ngày",
+    "d": "Không quá 30 ngày",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 48 Luật Lý lịch tư pháp 2009 được sửa đổi, bổ sung bởi Luật số 107/2025/QH15 quy định thời hạn cấp Phiếu LLTP không quá 10 ngày kể từ ngày nhận đủ hồ sơ hợp lệ."
+  },
+  {
+    "question": "Theo Luật Lý lịch tư pháp 2009 được sửa đổi, bổ sung bởi Luật số 107/2025/QH15, trường hợp người được cấp Phiếu đã cư trú ở nhiều nơi hoặc có thời gian cư trú ở nước ngoài thì thời hạn cấp tối đa là:",
+    "a": "05 ngày",
+    "b": "10 ngày",
+    "c": "15 ngày",
+    "d": "20 ngày",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 48 Luật Lý lịch tư pháp 2009 được sửa đổi, bổ sung bởi Luật số 107/2025/QH15 quy định trường hợp cần xác minh nhiều nơi cư trú hoặc ở nước ngoài thì thời hạn không quá 15 ngày."
+  },
+  {
+    "question": "Theo Luật Lý lịch tư pháp 2009 được sửa đổi, bổ sung bởi Luật số 107/2025/QH15, cơ quan nào cấp Phiếu lý lịch tư pháp cho công dân Việt Nam cư trú trong nước?",
+    "a": "UBND cấp xã",
+    "b": "Sở Tư pháp",
+    "c": "Tòa án nhân dân",
+    "d": "Viện kiểm sát nhân dân",
+    "answer": "b",
+    "explanation": "Điều 44 Luật Lý lịch tư pháp 2009 được sửa đổi, bổ sung bởi Luật số 107/2025/QH15 quy định Sở Tư pháp có thẩm quyền cấp Phiếu LLTP cho công dân Việt Nam cư trú trong nước."
+  },
+  {
+    "question": "Theo Luật Lý lịch tư pháp 2009 được sửa đổi, bổ sung bởi Luật số 107/2025/QH15, Phiếu lý lịch tư pháp số 2 được cấp chủ yếu nhằm mục đích nào?",
+    "a": "Xin việc thông thường",
+    "b": "Điều tra, truy tố, xét xử hoặc theo yêu cầu cá nhân để biết nội dung LLTP của mình",
+    "c": "Đăng ký kết hôn",
+    "d": "Đăng ký thường trú",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 41 Luật Lý lịch tư pháp 2009 được sửa đổi, bổ sung bởi Luật số 107/2025/QH15 quy định Phiếu LLTP số 2 phục vụ hoạt động tố tụng và cấp cho cá nhân để biết nội dung LLTP của mình."
+  },
+  {
+    "question": "Theo Nghị định 111/2011/NĐ-CP, hợp pháp hóa lãnh sự là:",
+    "a": "Chứng nhận bản dịch",
+    "b": "Chứng nhận con dấu, chữ ký, chức danh trên giấy tờ nước ngoài để được công nhận và sử dụng tại Việt Nam",
+    "c": "Công chứng hợp đồng có yếu tố nước ngoài",
+    "d": "Xác nhận cư trú",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 2 Nghị định 111/2011/NĐ-CP quy định hợp pháp hóa lãnh sự là việc cơ quan có thẩm quyền của Việt Nam chứng nhận con dấu, chữ ký, chức danh trên giấy tờ nước ngoài để được công nhận và sử dụng tại Việt Nam."
+  },
+  {
+    "question": "Theo Nghị định 111/2011/NĐ-CP, chứng nhận lãnh sự là:",
+    "a": "Chứng nhận chữ ký người dịch",
+    "b": "Chứng nhận con dấu, chữ ký, chức danh trên giấy tờ của Việt Nam để được công nhận và sử dụng ở nước ngoài",
+    "c": "Công chứng bản sao",
+    "d": "Xác nhận cư trú",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 2 Nghị định 111/2011/NĐ-CP quy định chứng nhận lãnh sự là việc cơ quan có thẩm quyền của Việt Nam chứng nhận con dấu, chữ ký, chức danh trên giấy tờ Việt Nam để được công nhận và sử dụng ở nước ngoài."
+  },
+  {
+    "question": "Theo Nghị định 111/2011/NĐ-CP, trường hợp nào sau đây có thể được miễn hợp pháp hóa lãnh sự?",
+    "a": "Theo điều ước quốc tế mà Việt Nam là thành viên hoặc nguyên tắc có đi có lại",
+    "b": "Mọi giấy tờ nước ngoài",
+    "c": "Mọi bản photo",
+    "d": "Giấy tờ bị tẩy xóa",
+    "answer": "a",
+    "explanation": "Điều 9 Nghị định 111/2011/NĐ-CP quy định các trường hợp được miễn hợp pháp hóa lãnh sự theo điều ước quốc tế hoặc nguyên tắc có đi có lại."
+  },
+  {
+    "question": "Theo Nghị định 111/2011/NĐ-CP, giấy tờ nào sau đây không được chứng nhận lãnh sự, hợp pháp hóa lãnh sự?",
+    "a": "Giấy tờ bị tẩy xóa, sửa chữa không hợp lệ",
+    "b": "Giấy khai sinh hợp pháp",
+    "c": "Bằng đại học hợp pháp",
+    "d": "Hộ chiếu còn giá trị",
+    "answer": "a",
+    "explanation": "Điều 10 Nghị định 111/2011/NĐ-CP quy định giấy tờ bị tẩy xóa, sửa chữa không hợp lệ hoặc giả mạo không được chứng nhận lãnh sự, hợp pháp hóa lãnh sự."
+  },
+  {
+    "question": "Theo Nghị định 111/2011/NĐ-CP, cơ quan nào sau đây có thẩm quyền thực hiện chứng nhận lãnh sự, hợp pháp hóa lãnh sự ở trong nước?",
+    "a": "UBND cấp xã",
+    "b": "Bộ Ngoại giao và cơ quan ngoại vụ được ủy quyền",
+    "c": "Văn phòng công chứng",
+    "d": "Tòa án nhân dân",
+    "answer": "b",
+    "explanation": "Điều 5 Nghị định 111/2011/NĐ-CP quy định Bộ Ngoại giao và cơ quan ngoại vụ được ủy quyền có thẩm quyền thực hiện chứng nhận lãnh sự, hợp pháp hóa lãnh sự."
+  },
+  {
+    "question": "Theo Luật Lý lịch tư pháp 2009 được sửa đổi, bổ sung bởi Luật số 107/2025/QH15, nội dung về cấm đảm nhiệm chức vụ, thành lập, quản lý doanh nghiệp, hợp tác xã được ghi trên loại Phiếu nào?",
+    "a": "Chỉ Phiếu LLTP số 1 khi cá nhân có yêu cầu",
+    "b": "Chỉ Phiếu LLTP số 2",
+    "c": "Mọi loại giấy xác nhận",
+    "d": "Không ghi trên Phiếu LLTP",
+    "answer": "a",
+    "explanation": "Điều 42 Luật Lý lịch tư pháp 2009 được sửa đổi, bổ sung bởi Luật số 107/2025/QH15 quy định Phiếu LLTP số 1 ghi nội dung cấm đảm nhiệm chức vụ, thành lập, quản lý doanh nghiệp, hợp tác xã nếu cá nhân hoặc cơ quan, tổ chức có yêu cầu."
+  },
+  {
+    "question": "Theo pháp luật về lý lịch tư pháp, nhận định nào sau đây đúng về thời hạn sử dụng của Phiếu lý lịch tư pháp?",
+    "a": "Luật quy định Phiếu LLTP có giá trị 03 tháng",
+    "b": "Luật quy định Phiếu LLTP có giá trị 06 tháng",
+    "c": "Luật quy định Phiếu LLTP có giá trị 12 tháng",
+    "d": "Luật không quy định thời hạn sử dụng chung của Phiếu LLTP",
+    "answer": "d",
+    "explanation": "Luật Lý lịch tư pháp 2009 được sửa đổi, bổ sung bởi Luật số 107/2025/QH15 không quy định thời hạn sử dụng chung của Phiếu LLTP; thời hạn sử dụng thường do cơ quan, tổ chức tiếp nhận hồ sơ quy định."
+  },
+  {
+    "question": "Theo pháp luật về lý lịch tư pháp, cơ quan nào sau đây có quyền yêu cầu cấp Phiếu lý lịch tư pháp số 1 để phục vụ công tác quản lý nhân sự, đăng ký kinh doanh?",
+    "a": "Cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội theo quy định",
+    "b": "Mọi cá nhân",
+    "c": "Chỉ cơ quan điều tra",
+    "d": "Chỉ Tòa án",
+    "answer": "a",
+    "explanation": "Điều 7 Luật Lý lịch tư pháp 2009 được sửa đổi, bổ sung bởi Luật số 107/2025/QH15 quy định cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội có quyền yêu cầu cấp Phiếu LLTP số 1 để phục vụ công tác quản lý nhân sự, hoạt động đăng ký kinh doanh."
+  },
+  {
+    "question": "Theo Nghị định 111/2011/NĐ-CP, trường hợp nào sau đây là miễn hợp pháp hóa lãnh sự?",
+    "a": "Giấy tờ thuộc trường hợp miễn theo điều ước quốc tế mà Việt Nam là thành viên",
+    "b": "Mọi giấy tờ bằng tiếng Anh",
+    "c": "Mọi giấy tờ có công chứng",
+    "d": "Mọi giấy tờ do cơ quan nước ngoài cấp",
+    "answer": "a",
+    "explanation": "Điều 9 Nghị định 111/2011/NĐ-CP quy định giấy tờ, tài liệu được miễn hợp pháp hóa lãnh sự theo điều ước quốc tế mà Việt Nam là thành viên hoặc theo nguyên tắc có đi có lại."
+  },
+  {
+    "question": "Theo Nghị định 111/2011/NĐ-CP, giấy tờ có nội dung xâm phạm lợi ích của Nhà nước Việt Nam thì:",
+    "a": "Vẫn được hợp pháp hóa lãnh sự nếu có đóng dấu đầy đủ",
+    "b": "Không được chứng nhận lãnh sự, hợp pháp hóa lãnh sự",
+    "c": "Được hợp pháp hóa nếu dịch sang tiếng Việt",
+    "d": "Chỉ cần xác nhận của công chứng viên",
+    "answer": "b",
+    "explanation": "Điều 10 Nghị định 111/2011/NĐ-CP quy định giấy tờ, tài liệu có nội dung xâm phạm lợi ích của Nhà nước Việt Nam không được chứng nhận lãnh sự, hợp pháp hóa lãnh sự."
+  },
+  {
+    "question": "Trong hoạt động công chứng, giấy tờ do cơ quan nước ngoài cấp đã được hợp pháp hóa lãnh sự nhưng bằng tiếng nước ngoài thì thông thường còn cần:",
+    "a": "Dịch ra tiếng Việt theo quy định",
+    "b": "Xin xác nhận của công an",
+    "c": "Đổi sang bản photo",
+    "d": "Không cần thêm thủ tục gì",
+    "answer": "a",
+    "explanation": "Theo quy định về công chứng và sử dụng giấy tờ nước ngoài, giấy tờ bằng tiếng nước ngoài thường phải được dịch ra tiếng Việt để sử dụng trong hồ sơ công chứng."
+  },
+  {
+    "question": "Theo Nghị định 111/2011/NĐ-CP, cơ quan đại diện ngoại giao, cơ quan lãnh sự của Việt Nam ở nước ngoài có thẩm quyền:",
+    "a": "Cấp giấy chứng nhận quyền sử dụng đất",
+    "b": "Thực hiện chứng nhận lãnh sự, hợp pháp hóa lãnh sự",
+    "c": "Đăng ký khai sinh trong mọi trường hợp",
+    "d": "Công chứng mọi hợp đồng tại Việt Nam",
+    "answer": "b",
+    "explanation": "Điều 5 Nghị định 111/2011/NĐ-CP quy định cơ quan đại diện ngoại giao, cơ quan lãnh sự của Việt Nam ở nước ngoài có thẩm quyền thực hiện chứng nhận lãnh sự, hợp pháp hóa lãnh sự."
+  },
+  {
+    "question": "Theo pháp luật về lý lịch tư pháp, nhận định nào sau đây đúng?",
+    "a": "Phiếu LLTP số 2 được cấp cho mọi cá nhân khác theo giấy ủy quyền",
+    "b": "Phiếu LLTP số 1 luôn ghi đầy đủ mọi án tích",
+    "c": "Phiếu LLTP số 2 ghi đầy đủ án tích kể cả án tích đã được xóa",
+    "d": "Phiếu LLTP số 1 chỉ cấp cho cơ quan tố tụng",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 41 Luật Lý lịch tư pháp 2009 được sửa đổi, bổ sung bởi Luật số 107/2025/QH15 quy định Phiếu LLTP số 2 ghi đầy đủ án tích, bao gồm án tích đã được xóa."
+  },
+  {
+    "question": "Theo hướng dẫn về biểu mẫu lý lịch tư pháp, trường hợp người được cấp Phiếu có nhiều quốc tịch thì thông tin quốc tịch được ghi như thế nào?",
+    "a": "Chỉ ghi quốc tịch Việt Nam",
+    "b": "Chỉ ghi quốc tịch sử dụng gần nhất",
+    "c": "Ghi đầy đủ các quốc tịch",
+    "d": "Không ghi quốc tịch",
+    "answer": "c",
+    "explanation": "Theo biểu mẫu và hướng dẫn nghiệp vụ về lý lịch tư pháp được sửa đổi, bổ sung bởi Thông tư 06/2024/TT-BTP, trường hợp có nhiều quốc tịch thì phải ghi đầy đủ các quốc tịch của người được cấp Phiếu."
+  },
+  {
+    "question": "Theo hướng dẫn biểu mẫu lý lịch tư pháp, trường hợp cá nhân đã từng thay đổi họ tên thì việc ghi thông tin được thực hiện như thế nào?",
+    "a": "Chỉ ghi họ tên hiện tại",
+    "b": "Ghi họ tên hiện tại và họ tên trước khi thay đổi",
+    "c": "Chỉ ghi họ tên trong hộ chiếu",
+    "d": "Không cần ghi nếu đã đổi CCCD",
+    "answer": "b",
+    "explanation": "Theo hướng dẫn biểu mẫu tại Thông tư 06/2024/TT-BTP, trường hợp đã thay đổi họ tên thì phải ghi cả họ tên hiện tại và họ tên trước đây để phục vụ tra cứu lý lịch tư pháp."
+  },
+  {
+    "question": "Theo Luật Lý lịch tư pháp 2009 được sửa đổi, bổ sung bởi Luật số 107/2025/QH15, trường hợp người đã được xóa án tích thì Phiếu lý lịch tư pháp số 1 ghi như thế nào?",
+    "a": "Đã được xóa án tích",
+    "b": "Có án tích",
+    "c": "Không có án tích",
+    "d": "Chờ xác minh án tích",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 42 Luật Lý lịch tư pháp 2009 được sửa đổi, bổ sung bởi Luật số 107/2025/QH15 quy định người đã được xóa án tích thì Phiếu LLTP số 1 ghi 'Không có án tích'."
+  },
+  {
+    "question": "Theo Luật Lý lịch tư pháp 2009 được sửa đổi, bổ sung bởi Luật số 107/2025/QH15, trường hợp người đã được xóa án tích thì Phiếu lý lịch tư pháp số 2 ghi như thế nào?",
+    "a": "Không có án tích",
+    "b": "Đã được xóa án tích",
+    "c": "Không ghi nội dung gì",
+    "d": "Đang chờ cập nhật",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 43 Luật Lý lịch tư pháp 2009 được sửa đổi, bổ sung bởi Luật số 107/2025/QH15 quy định Phiếu LLTP số 2 vẫn ghi án tích đã được xóa và ghi rõ 'đã được xóa án tích'."
+  },
+  {
+    "question": "Theo pháp luật về lý lịch tư pháp, trường hợp người được miễn trách nhiệm hình sự thì trạng thái án tích được xác định như thế nào?",
+    "a": "Có án tích",
+    "b": "Không có án tích",
+    "c": "Đã được xóa án tích",
+    "d": "Án tích tạm đình chỉ",
+    "answer": "b",
+    "explanation": "Người được miễn trách nhiệm hình sự không bị coi là có án tích theo quy định của pháp luật hình sự và pháp luật về lý lịch tư pháp."
+  },
+  {
+    "question": "Theo Thông tư 06/2024/TT-BTP, việc sửa đổi biểu mẫu lý lịch tư pháp nhằm đáp ứng yêu cầu nào sau đây?",
+    "a": "Tăng lệ phí cấp Phiếu",
+    "b": "Tương thích với cấp Phiếu LLTP điện tử và ứng dụng VNeID",
+    "c": "Bỏ Phiếu LLTP số 2",
+    "d": "Thay thế toàn bộ Luật LLTP",
+    "answer": "b",
+    "explanation": "Thông tư 06/2024/TT-BTP sửa đổi, bổ sung biểu mẫu lý lịch tư pháp nhằm đáp ứng yêu cầu cấp Phiếu LLTP điện tử và tích hợp trên ứng dụng VNeID."
+  },
+  {
+    "question": "Theo quy định hiện hành, Phiếu lý lịch tư pháp điện tử có giá trị pháp lý như thế nào so với bản giấy?",
+    "a": "Không có giá trị sử dụng",
+    "b": "Chỉ dùng tham khảo",
+    "c": "Có giá trị pháp lý tương đương nếu được cấp đúng quy định",
+    "d": "Chỉ dùng nội bộ ngành tư pháp",
+    "answer": "c",
+    "explanation": "Theo định hướng chuyển đổi số và quy định về cấp Phiếu LLTP điện tử, Phiếu LLTP điện tử được cấp hợp lệ có giá trị pháp lý tương đương bản giấy."
+  },
+  {
+    "question": "Theo hướng dẫn về mẫu Phiếu lý lịch tư pháp mới, việc bổ sung các thông tin bảo mật trên phôi Phiếu chủ yếu nhằm mục đích gì?",
+    "a": "Tăng lệ phí",
+    "b": "Trang trí biểu mẫu",
+    "c": "Chống làm giả Phiếu lý lịch tư pháp",
+    "d": "Thay thế công chứng",
+    "answer": "c",
+    "explanation": "Thông tư 06/2024/TT-BTP sửa đổi biểu mẫu và bổ sung thông tin bảo mật trên phôi Phiếu nhằm phục vụ quản lý và chống làm giả."
+  },
+{
+  "question": "Theo Luật Lý lịch tư pháp 2009 được sửa đổi bởi Luật số 107/2025/QH15, cơ quan nào thực hiện cấp Phiếu lý lịch tư pháp?",
+  "a": "Sở Tư pháp",
+  "b": "UBND cấp huyện",
+  "c": "Cơ quan quản lý lý lịch tư pháp thuộc Công an nhân dân",
+  "d": "Tòa án nhân dân",
+  "answer": "c",
+  "explanation": "Luật số 107/2025/QH15 sửa đổi quy định về cơ quan quản lý cơ sở dữ liệu lý lịch tư pháp và cấp Phiếu lý lịch tư pháp theo hướng chuyển thẩm quyền sang cơ quan thuộc Công an nhân dân."
+},
+  {
     "question": "Theo quy định mới của Nghị định 18/2026/NĐ-CP, xu hướng cải cách thủ tục chứng thực là gì?",
     "a": "Tăng giấy tờ phải nộp",
     "b": "Giữ nguyên thủ tục cũ",
