@@ -5250,6 +5250,268 @@
     "d": "Chỉ công chứng viên",
     "answer": "b",
     "explanation": "Điều 41–43 quy định mỗi cấp (Bộ, UBND, cơ quan đại diện) đều có thẩm quyền giải quyết khiếu nại, tố cáo trong phạm vi quản lý của mình."
+  },
+  
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, trong trường hợp tiếp nhận yêu cầu chứng thực sau 15 giờ mà không thể trả kết quả ngay trong ngày, cơ quan thực hiện chứng thực phải xử lý như thế nào?",
+    "a": "Từ chối tiếp nhận hồ sơ",
+    "b": "Hẹn trả kết quả bằng lời nói",
+    "c": "Cấp phiếu hẹn ghi rõ thời gian trả kết quả",
+    "d": "Chuyển sang ngày làm việc tiếp theo không cần thông báo",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 2 Thông tư 01/2020/TT-BTP: nếu tiếp nhận sau 15 giờ mà không trả kết quả ngay thì người tiếp nhận hồ sơ phải cấp phiếu hẹn ghi rõ giờ, ngày trả kết quả."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, người tiếp nhận hồ sơ chứng thực có được yêu cầu người dân nộp thêm giấy tờ ngoài quy định không?",
+    "a": "Được nếu thấy cần thiết",
+    "b": "Được nếu cơ quan yêu cầu",
+    "c": "Không được đặt thêm thủ tục hoặc yêu cầu giấy tờ trái quy định",
+    "d": "Được trong trường hợp hồ sơ phức tạp",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 2 Thông tư 01/2020/TT-BTP: người tiếp nhận và người thực hiện chứng thực không được đặt thêm thủ tục hoặc yêu cầu giấy tờ ngoài quy định."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, số chứng thực bản sao từ bản chính được ghi như thế nào?",
+    "a": "Theo từng người yêu cầu chứng thực",
+    "b": "Theo từng loại giấy tờ được chứng thực",
+    "c": "Theo số lượng hồ sơ tiếp nhận trong ngày",
+    "d": "Theo từng cơ quan thực hiện chứng thực",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 4 Thông tư 01/2020/TT-BTP: số chứng thực bản sao được ghi theo từng loại giấy tờ, không theo lượt người yêu cầu."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, số chứng thực chữ ký người dịch được ghi theo nguyên tắc nào?",
+    "a": "Theo từng người dịch",
+    "b": "Theo từng ngày làm việc",
+    "c": "Theo từng loại giấy tờ cần chứng thực chữ ký",
+    "d": "Theo số lượng bản dịch",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 4 Thông tư 01/2020/TT-BTP: số chứng thực chữ ký người dịch được ghi theo từng loại giấy tờ, văn bản cần chứng thực."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, cơ quan chứng thực phải lưu giữ giấy tờ như thế nào khi chứng thực chữ ký người dịch?",
+    "a": "Không cần lưu",
+    "b": "Lưu bản chính giấy tờ",
+    "c": "Lưu 01 bản giấy tờ hoặc bản chụp giấy tờ đã chứng thực",
+    "d": "Chỉ lưu trên hệ thống điện tử",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 5 Thông tư 01/2020/TT-BTP: cơ quan chứng thực phải lưu 01 bản giấy tờ đã chứng thực hoặc bản chụp giấy tờ đó."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, giấy tờ nước ngoài nào KHÔNG phải hợp pháp hóa lãnh sự khi chứng thực bản sao?",
+    "a": "Hợp đồng thương mại nước ngoài",
+    "b": "Giấy tờ hộ tịch nước ngoài",
+    "c": "Hộ chiếu, thẻ căn cước, bằng cấp của cá nhân",
+    "d": "Giấy xác nhận tài sản ở nước ngoài",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 6 Thông tư 01/2020/TT-BTP: hộ chiếu, thẻ căn cước, bằng tốt nghiệp, chứng chỉ cá nhân không phải hợp pháp hóa lãnh sự khi chứng thực."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, khi chứng thực chữ ký trên giấy tờ tiếng nước ngoài, cơ quan chứng thực xử lý thế nào nếu không hiểu nội dung?",
+    "a": "Từ chối chứng thực ngay",
+    "b": "Yêu cầu bản dịch tiếng Việt",
+    "c": "Tự dịch nội dung",
+    "d": "Chỉ chứng thực chữ ký, không cần nội dung",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 12 Thông tư 01/2020/TT-BTP: nếu không hiểu nội dung giấy tờ tiếng nước ngoài thì yêu cầu nộp bản dịch tiếng Việt."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, người làm chứng trong chứng thực hợp đồng, giao dịch phải đáp ứng điều kiện nào?",
+    "a": "Có quan hệ thân thích với các bên",
+    "b": "Có quyền lợi liên quan hợp đồng",
+    "c": "Có năng lực hành vi dân sự đầy đủ và không có quyền lợi liên quan",
+    "d": "Do người thực hiện chứng thực chỉ định bắt buộc",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 36 Nghị định 23/2015/NĐ-CP và Điều 22 Thông tư 01/2020/TT-BTP: người làm chứng phải có năng lực hành vi dân sự đầy đủ và không có quyền, lợi ích liên quan."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, hợp đồng, giao dịch có nhiều người ký thì cách chứng thực chữ ký như thế nào?",
+    "a": "Chỉ chứng thực chữ ký người đại diện",
+    "b": "Chứng thực một chữ ký bất kỳ",
+    "c": "Phải chứng thực chữ ký của tất cả người đã ký",
+    "d": "Chỉ chứng thực khi có yêu cầu",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 13 Thông tư 01/2020/TT-BTP: nếu hợp đồng có nhiều người ký thì phải chứng thực chữ ký của tất cả người ký."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, việc chứng thực hợp đồng, giao dịch tại bộ phận một cửa yêu cầu điều kiện nào?",
+    "a": "Chỉ cần nộp hồ sơ",
+    "b": "Các bên ký trước mặt người tiếp nhận hồ sơ",
+    "c": "Ký sau khi được chứng thực",
+    "d": "Không cần người tiếp nhận kiểm tra",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 20 Thông tư 01/2020/TT-BTP: các bên phải ký trước mặt người tiếp nhận hồ sơ trong cơ chế một cửa."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, khi chứng thực chữ ký trên giấy tờ bằng tiếng nước ngoài mà người thực hiện chứng thực không hiểu nội dung, cơ quan chứng thực phải xử lý thế nào?",
+    "a": "Từ chối chứng thực ngay",
+    "b": "Yêu cầu người dân ký cam kết",
+    "c": "Yêu cầu nộp bản dịch tiếng Việt",
+    "d": "Tự dịch nội dung giấy tờ",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 12 Thông tư 01/2020/TT-BTP: nếu không hiểu nội dung giấy tờ bằng tiếng nước ngoài thì yêu cầu người yêu cầu chứng thực nộp bản dịch tiếng Việt."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, hợp đồng hoặc giao dịch có nhiều người ký thì việc chứng thực chữ ký được thực hiện như thế nào?",
+    "a": "Chỉ chứng thực chữ ký người đại diện",
+    "b": "Chỉ chứng thực một chữ ký bất kỳ",
+    "c": "Phải chứng thực chữ ký của tất cả người đã ký",
+    "d": "Chỉ chứng thực khi có yêu cầu riêng",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 13 Thông tư 01/2020/TT-BTP: hợp đồng có nhiều người ký thì phải chứng thực chữ ký của tất cả người đã ký."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, khi chứng thực chữ ký trên giấy ủy quyền, điều kiện nào sau đây là đúng?",
+    "a": "Có thù lao giữa các bên",
+    "b": "Có chuyển quyền sở hữu tài sản",
+    "c": "Không có thù lao, không có nghĩa vụ bồi thường và không liên quan đến chuyển quyền tài sản",
+    "d": "Chỉ cần các bên đồng ý",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 14 Thông tư 01/2020/TT-BTP: giấy ủy quyền được chứng thực chữ ký phải không có thù lao, không bồi thường và không liên quan chuyển quyền sở hữu tài sản."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, trường hợp nào KHÔNG được chứng thực chữ ký trên giấy ủy quyền?",
+    "a": "Ủy quyền nhận lương hưu",
+    "b": "Ủy quyền nộp hồ sơ hành chính",
+    "c": "Ủy quyền chuyển quyền sử dụng đất",
+    "d": "Ủy quyền nhận hộ giấy tờ",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 14 Thông tư 01/2020/TT-BTP: nếu có liên quan chuyển quyền sở hữu tài sản thì không được chứng thực chữ ký mà phải chứng thực hợp đồng, giao dịch."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, người yêu cầu chứng thực chữ ký trên tờ khai lý lịch cá nhân phải thực hiện hành vi nào?",
+    "a": "Được công chức kiểm tra nội dung",
+    "b": "Không phải chịu trách nhiệm nội dung",
+    "c": "Tự chịu trách nhiệm toàn bộ nội dung và gạch chéo mục không có thông tin",
+    "d": "Phải có xác nhận của cơ quan quản lý",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 15 Thông tư 01/2020/TT-BTP: người yêu cầu chứng thực chịu trách nhiệm toàn bộ nội dung, mục không có thông tin phải gạch chéo."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, ngôn ngữ phổ biến được hiểu là gì?",
+    "a": "Ngôn ngữ có ít người sử dụng",
+    "b": "Ngôn ngữ không có trong giấy tờ tại Việt Nam",
+    "c": "Ngôn ngữ được thể hiện nhiều trong giấy tờ và nhiều người Việt có thể dịch",
+    "d": "Ngôn ngữ chỉ dùng trong nước ngoài",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 16 Thông tư 01/2020/TT-BTP: ngôn ngữ phổ biến là ngôn ngữ được thể hiện nhiều trong giấy tờ tại Việt Nam và nhiều người có thể dịch."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, người dịch không có bằng đại học ngoại ngữ nhưng thông thạo ngôn ngữ không phổ biến phải làm gì khi yêu cầu chứng thực chữ ký?",
+    "a": "Không được chứng thực",
+    "b": "Phải nộp bản cam kết thông thạo ngôn ngữ và chịu trách nhiệm bản dịch",
+    "c": "Phải có chứng chỉ ngoại ngữ",
+    "d": "Phải qua công chứng bản dịch",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 17 Thông tư 01/2020/TT-BTP: người không có bằng vẫn được chứng thực nếu có cam kết thông thạo và chịu trách nhiệm bản dịch."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, trường hợp nào Phòng Tư pháp được chứng thực chữ ký người dịch không phải cộng tác viên?",
+    "a": "Dịch cho người khác có thù lao",
+    "b": "Dịch giấy tờ cho tổ chức",
+    "c": "Tự dịch giấy tờ của chính mình",
+    "d": "Dịch hợp đồng thương mại",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 17 Thông tư 01/2020/TT-BTP: chỉ chứng thực chữ ký người dịch không phải cộng tác viên khi người đó tự dịch giấy tờ của mình."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, Phòng Tư pháp phê duyệt cộng tác viên dịch thuật theo thẩm quyền của cơ quan nào?",
+    "a": "UBND cấp xã",
+    "b": "Sở Tư pháp",
+    "c": "Bộ Tư pháp",
+    "d": "Tòa án nhân dân",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 18 Thông tư 01/2020/TT-BTP: Phòng Tư pháp lập danh sách, Sở Tư pháp là cơ quan phê duyệt cộng tác viên dịch thuật."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, trong thủ tục chứng thực hợp đồng tại bộ phận một cửa, các bên phải ký khi nào?",
+    "a": "Sau khi chứng thực xong",
+    "b": "Trước mặt người tiếp nhận hồ sơ",
+    "c": "Ký tại nhà riêng",
+    "d": "Không cần ký trực tiếp",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 20 Thông tư 01/2020/TT-BTP: các bên phải ký trước mặt người tiếp nhận hồ sơ."
+  },
+{
+    "question": "Theo Thông tư 01/2020/TT-BTP, Sở Tư pháp có thời hạn bao lâu để kiểm tra và phê duyệt danh sách cộng tác viên dịch thuật?",
+    "a": "03 ngày làm việc",
+    "b": "05 ngày làm việc",
+    "c": "07 ngày làm việc",
+    "d": "10 ngày làm việc",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 3 Điều 18 Thông tư 01/2020/TT-BTP: trong thời hạn 05 ngày làm việc, Sở Tư pháp phải kiểm tra và phê duyệt hoặc từ chối danh sách cộng tác viên."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, việc rà soát danh sách cộng tác viên dịch thuật của Phòng Tư pháp được thực hiện với tần suất nào?",
+    "a": "Hàng quý",
+    "b": "6 tháng một lần",
+    "c": "Hàng năm",
+    "d": "Khi có yêu cầu của Sở Tư pháp",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 4 Điều 18 Thông tư 01/2020/TT-BTP: Phòng Tư pháp có trách nhiệm rà soát danh sách cộng tác viên dịch thuật hàng năm."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, khi chứng thực chữ ký trên hợp đồng, giao dịch tại bộ phận một cửa, các bên phải ký vào thời điểm nào?",
+    "a": "Sau khi có kết quả chứng thực",
+    "b": "Trước mặt người tiếp nhận hồ sơ",
+    "c": "Ký trước tại nhà và nộp lại",
+    "d": "Ký sau khi người thực hiện chứng thực ký",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 20 Thông tư 01/2020/TT-BTP: các bên phải ký trước mặt người tiếp nhận hồ sơ khi thực hiện tại bộ phận một cửa."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, trong trường hợp chữ ký mẫu của tổ chức tín dụng hoặc doanh nghiệp đã đăng ký, việc ký hợp đồng được thực hiện như thế nào?",
+    "a": "Phải ký trước mặt người thực hiện chứng thực",
+    "b": "Có thể ký trước vào hợp đồng, sau đó đối chiếu chữ ký mẫu",
+    "c": "Không cần ký",
+    "d": "Phải ký lại toàn bộ trước khi chứng thực",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 20 Thông tư 01/2020/TT-BTP: nếu đã đăng ký chữ ký mẫu thì có thể ký trước, người tiếp nhận hồ sơ đối chiếu chữ ký."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, việc ban hành quyết định hủy bỏ giá trị pháp lý của giấy tờ chứng thực không đúng quy định phải được thực hiện như thế nào?",
+    "a": "Trong vòng 03 ngày kể từ khi phát hiện",
+    "b": "Trong vòng 07 ngày",
+    "c": "Ngay sau khi phát hiện",
+    "d": "Sau khi có kết luận của cơ quan điều tra",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 4 Điều 7 Thông tư 01/2020/TT-BTP: việc hủy bỏ giá trị pháp lý phải thực hiện ngay sau khi phát hiện chứng thực không đúng quy định."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, việc lưu trữ giấy tờ khi chứng thực chữ ký người dịch được thực hiện vào thời điểm nào?",
+    "a": "Trước khi chứng thực",
+    "b": "Trong quá trình tiếp nhận hồ sơ",
+    "c": "Sau khi đã thực hiện chứng thực",
+    "d": "Chỉ lưu khi có tranh chấp",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 5 Thông tư 01/2020/TT-BTP: sau khi chứng thực chữ ký người dịch, cơ quan thực hiện chứng thực phải lưu 01 bản giấy tờ hoặc bản chụp."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, thời điểm có hiệu lực của Thông tư là khi nào?",
+    "a": "01/01/2020",
+    "b": "20/4/2020",
+    "c": "03/3/2020",
+    "d": "01/7/2020",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 25 Thông tư 01/2020/TT-BTP: Thông tư có hiệu lực kể từ ngày 20/4/2020."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, việc tiếp nhận hồ sơ chứng thực tại bộ phận một cửa phải được xử lý theo nguyên tắc thời gian nào?",
+    "a": "Có thể yêu cầu bổ sung bất kỳ lúc nào",
+    "b": "Được tự do kéo dài thời gian giải quyết",
+    "c": "Không được gây phiền hà và không được yêu cầu thêm giấy tờ trái quy định",
+    "d": "Chỉ giải quyết vào buổi sáng",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 2 Thông tư 01/2020/TT-BTP: không được đặt thêm thủ tục hoặc yêu cầu giấy tờ trái quy định."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, khi tiếp nhận hồ sơ chứng thực, người tiếp nhận phải xử lý nếu hồ sơ nộp sau giờ hành chính nhưng cần thời gian giải quyết là gì?",
+    "a": "Trả kết quả ngay trong ngày",
+    "b": "Hẹn trả kết quả bằng phiếu hẹn",
+    "c": "Từ chối tiếp nhận",
+    "d": "Chuyển sang cơ quan khác",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 2 Thông tư 01/2020/TT-BTP: nếu tiếp nhận sau 15 giờ mà không giải quyết ngay thì phải cấp phiếu hẹn."
   }
 ]
 
