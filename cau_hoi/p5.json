@@ -1,4 +1,5 @@
-{
+[
+    {
     "question": "Theo BLDS 2015, di chúc là gì?",
     "a": "Sự thỏa thuận phân chia tài sản giữa những người thừa kế",
     "b": "Sự thể hiện ý chí của cá nhân nhằm chuyển tài sản của mình cho người khác sau khi chết",
@@ -286,3 +287,4 @@
     "answer": "c",
     "explanation": "Khoản 5 Điều 643 BLDS 2015 quy định khi một người để lại nhiều bản di chúc đối với cùng một tài sản thì chỉ bản di chúc sau cùng có hiệu lực."
   }
+]
