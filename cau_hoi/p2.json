@@ -1,5 +1,609 @@
  [
   {
+    "question": "A đăng công khai trên mạng xã hội: 'Ai tìm được và giao trả chiếc đồng hồ thất lạc sẽ được thưởng 50 triệu đồng'. B tìm được và giao trả đúng chiếc đồng hồ. Sau đó A đổi ý, không trả thưởng vì cho rằng đây chỉ là lời nói xã giao. Theo BLDS 2015, B có quyền gì?",
+    "a": "Không có quyền yêu cầu vì hứa thưởng không phải hợp đồng",
+    "b": "Chỉ được yêu cầu nếu có văn bản công chứng",
+    "c": "Có quyền yêu cầu A trả thưởng theo nội dung đã công khai",
+    "d": "Chỉ được yêu cầu chi phí tìm kiếm",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 570 BLDS 2015 quy định người đã công khai hứa thưởng phải trả thưởng cho người đã thực hiện công việc theo yêu cầu của người hứa thưởng."
+  },
+  {
+    "question": "Một doanh nghiệp hứa thưởng cho người 'hack sập website đối thủ' để nhận 100 triệu đồng. Theo BLDS, việc hứa thưởng này có giá trị pháp lý không?",
+    "a": "Có hiệu lực nếu người tham gia đồng ý",
+    "b": "Có hiệu lực nếu trả thưởng đầy đủ",
+    "c": "Không có giá trị vì công việc vi phạm điều cấm của luật",
+    "d": "Chỉ vô hiệu phần tiền thưởng",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 570 BLDS 2015 quy định công việc được hứa thưởng không được vi phạm điều cấm của luật, không trái đạo đức xã hội."
+  },
+  {
+    "question": "A công khai hứa thưởng cho người tìm được tài liệu quý trước ngày 30/6. Ngày 20/6, chưa có ai tìm được tài liệu và giao cho A, A đăng thông báo hủy việc hứa thưởng trên cùng nền tảng đã công bố. Việc rút lại này có hợp pháp không?",
+    "a": "Không hợp pháp vì hứa thưởng không được hủy",
+    "b": "Hợp pháp nếu việc rút lại được thực hiện theo đúng cách thức, phương tiện đã công bố và chưa có ai hoàn thành công việc",
+    "c": "Chỉ hợp pháp nếu được cơ quan nhà nước đồng ý",
+    "d": "Chỉ hợp pháp nếu có sự đồng ý của tất cả người đang tìm kiếm",
+    "answer": "b",
+    "explanation": "Theo Điều 571 BLDS 2015, khi chưa đến hạn bắt đầu hoặc do tính chất công việc không xác định thời hạn, người hứa thưởng có quyền rút lại tuyên bố hứa thưởng nếu thực hiện theo đúng cách thức và phương tiện đã công bố."
+  },
+  {
+    "question": "A treo thưởng cho người đầu tiên giải được bài toán. B và C độc lập giải được bài toán và cùng gửi đáp án chính xác vào cùng một thời điểm. Theo BLDS, phần thưởng được xử lý thế nào?",
+    "a": "Người lớn tuổi hơn được nhận",
+    "b": "A được quyền chọn người nhận",
+    "c": "B và C chia đều phần thưởng",
+    "d": "Không ai được nhận",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 572 BLDS 2015 quy định trường hợp nhiều người cùng hoàn thành công việc được hứa thưởng vào cùng một thời điểm thì phần thưởng được chia đều cho những người đó."
+  },
+  {
+    "question": "Một nhóm gồm A, B, C cùng hợp tác hoàn thành công việc theo yêu cầu của người hứa thưởng. Theo BLDS, việc chia thưởng được xác định như thế nào?",
+    "a": "Người trưởng nhóm nhận toàn bộ",
+    "b": "Chia đều cho tất cả",
+    "c": "Mỗi người nhận phần tương ứng với phần đóng góp",
+    "d": "Người hứa thưởng tự quyết định",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 572 BLDS 2015 quy định trường hợp nhiều người cùng cộng tác để thực hiện công việc được hứa thưởng thì mỗi người được nhận phần thưởng tương ứng với phần đóng góp của mình."
+  },
+  {
+    "question": "Ban tổ chức cuộc thi khoa học thay đổi điều kiện dự thi chỉ 1 giờ trước khi thi mà không thông báo trước hợp lý. Theo BLDS, việc thay đổi này có phù hợp không?",
+    "a": "Phù hợp vì ban tổ chức có toàn quyền",
+    "b": "Không phù hợp vì phải công bố theo cách thức đã công bố trong thời gian hợp lý trước khi thi",
+    "c": "Chỉ sai nếu thí sinh phản đối",
+    "d": "Chỉ áp dụng cho thi thể thao",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 573 BLDS 2015 quy định việc thay đổi điều kiện dự thi phải được thực hiện theo cách thức đã công bố trong một thời gian hợp lý trước khi diễn ra cuộc thi."
+  },
+  {
+    "question": "A thấy nhà hàng xóm bị cháy khi chủ nhà đi vắng nên tự nguyện gọi cứu hỏa, thuê người phá cửa cứu tài sản nhằm tránh thiệt hại lớn. Đây là trường hợp gì theo BLDS?",
+    "a": "Thực hiện hợp đồng dịch vụ",
+    "b": "Đại diện theo pháp luật",
+    "c": "Thực hiện công việc không có ủy quyền",
+    "d": "Chiếm hữu tài sản không có căn cứ pháp luật",
+    "answer": "c",
+    "explanation": "Điều 574 BLDS 2015 quy định thực hiện công việc không có ủy quyền là việc một người không có nghĩa vụ nhưng tự nguyện thực hiện công việc vì lợi ích của người có công việc khi người này không biết hoặc biết mà không phản đối."
+  },
+  {
+    "question": "A tự nguyện sửa mái nhà cho B khi B đi công tác dài ngày để tránh mưa làm sập nhà. Khi thực hiện, A cố ý dùng vật liệu kém chất lượng gây thiệt hại thêm cho B. A phải chịu trách nhiệm thế nào?",
+    "a": "Không chịu trách nhiệm vì làm giúp không công",
+    "b": "Chỉ chịu một phần thiệt hại",
+    "c": "Phải bồi thường thiệt hại do cố ý gây ra",
+    "d": "Chỉ phải xin lỗi",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 577 BLDS 2015 quy định người thực hiện công việc không có ủy quyền mà cố ý gây thiệt hại trong khi thực hiện công việc thì phải bồi thường thiệt hại."
+  },
+  {
+    "question": "A tự nguyện chăm sóc đàn gia súc cho B trong lúc B bị tai nạn nhập viện. Sau khi B hồi phục, A yêu cầu thanh toán chi phí thức ăn đã bỏ ra hợp lý. B có nghĩa vụ thanh toán không?",
+    "a": "Không vì không có hợp đồng",
+    "b": "Có, kể cả khi kết quả không đạt như mong muốn",
+    "c": "Chỉ thanh toán nếu có văn bản thỏa thuận",
+    "d": "Chỉ thanh toán một nửa",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 576 BLDS 2015 quy định người có công việc được thực hiện phải thanh toán các chi phí hợp lý mà người thực hiện công việc không có ủy quyền đã bỏ ra, kể cả trường hợp công việc không đạt được kết quả theo ý muốn."
+  },
+  {
+    "question": "A tự nguyện quản lý việc thu hoạch vườn cây cho B khi B vắng mặt. A thực hiện rất chu đáo, giúp B tránh được thiệt hại lớn do bão. Theo BLDS, A có thể được nhận gì?",
+    "a": "Không được nhận gì vì đây là hành vi tự nguyện",
+    "b": "Được nhận một khoản thù lao hợp lý do đã thực hiện công việc chu đáo, có lợi cho B, trừ trường hợp A từ chối",
+    "c": "Chỉ được nhận nếu sau đó hai bên ký hợp đồng dịch vụ",
+    "d": "Được sở hữu một phần sản lượng vườn cây thu hoạch được",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 576 BLDS 2015 quy định người có công việc được thực hiện phải trả một khoản thù lao khi người thực hiện công việc không có ủy quyền thực hiện công việc chu đáo, có lợi cho mình, trừ trường hợp người đó từ chối."
+  },
+  {
+    "question": "A đang tự nguyện quản lý tài sản cho B không có ủy quyền nhưng sau đó B yêu cầu dừng ngay việc quản lý. Theo BLDS, việc thực hiện công việc không có ủy quyền chấm dứt khi nào?",
+    "a": "Khi A đồng ý",
+    "b": "Khi có quyết định của Tòa án",
+    "c": "Theo yêu cầu của người có công việc được thực hiện",
+    "d": "Sau 30 ngày kể từ yêu cầu",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 578 BLDS 2015 quy định việc thực hiện công việc không có ủy quyền chấm dứt theo yêu cầu của người có công việc được thực hiện."
+  },
+  {
+    "question": "A nhặt được một chiếc laptop của B nhưng giữ lại sử dụng cho riêng mình trong nhiều tháng dù biết rõ chủ sở hữu. Theo BLDS, A có nghĩa vụ gì?",
+    "a": "Được sở hữu luôn nếu dùng trên 30 ngày",
+    "b": "Phải hoàn trả tài sản cho chủ sở hữu",
+    "c": "Chỉ trả nếu B trả công",
+    "d": "Chỉ trả khi có quyết định của Tòa án",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 579 BLDS 2015 quy định người chiếm hữu, sử dụng tài sản của người khác không có căn cứ pháp luật phải hoàn trả cho chủ sở hữu hoặc chủ thể có quyền khác đối với tài sản đó."
+  },
+  {
+    "question": "A chiếm hữu trái pháp luật một căn nhà và cho thuê thu lợi trong thời gian dài dù biết rõ không có quyền đối với nhà đó. Theo BLDS, A có phải hoàn trả khoản lợi thu được không?",
+    "a": "Không vì tiền thuê là công sức của A",
+    "b": "Chỉ trả tiền gốc",
+    "c": "Phải hoàn trả hoa lợi, lợi tức thu được từ thời điểm chiếm hữu trái pháp luật",
+    "d": "Chỉ trả nếu có hợp đồng với chủ nhà",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 581 BLDS 2015 quy định người chiếm hữu, sử dụng tài sản không có căn cứ pháp luật và không ngay tình phải hoàn trả hoa lợi, lợi tức thu được từ thời điểm chiếm hữu, sử dụng tài sản."
+  },
+  {
+    "question": "A ngay tình sử dụng nhầm thửa đất của B trong 2 năm do tin tưởng giấy tờ chuyển nhượng hợp pháp. Sau đó A biết việc sử dụng là không có căn cứ pháp luật. Theo BLDS, A phải hoàn trả hoa lợi từ thời điểm nào?",
+    "a": "Từ thời điểm bắt đầu sử dụng đất",
+    "b": "Không phải hoàn trả",
+    "c": "Từ thời điểm A biết hoặc phải biết việc sử dụng không có căn cứ pháp luật",
+    "d": "Chỉ hoàn trả nếu có yêu cầu của UBND",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 581 BLDS 2015 quy định người chiếm hữu, sử dụng tài sản không có căn cứ pháp luật nhưng ngay tình phải hoàn trả hoa lợi, lợi tức từ thời điểm biết hoặc phải biết việc chiếm hữu, sử dụng là không có căn cứ pháp luật."
+  },
+  {
+    "question": "A chiếm hữu trái pháp luật chiếc xe máy của B rồi đem bán cho C (một người mua ngay tình). Sau khi phát hiện, B yêu cầu C hoàn trả lại xe. Theo BLDS, C có nghĩa vụ thế nào?",
+    "a": "Không phải trả vì C mua ngay tình và không biết xe do phạm pháp mà có",
+    "b": "Có nghĩa vụ hoàn trả xe máy cho chủ sở hữu là B",
+    "c": "Chỉ trả nếu A đồng ý hoàn tiền lại cho C",
+    "d": "Được quyền giữ xe nếu C đã làm thủ tục đăng ký sang tên mình",
+    "answer": "b",
+    "explanation": "Điều 582 BLDS 2015 quy định khi người chiếm hữu không có căn cứ pháp luật giao tài sản cho người thứ ba thì người thứ ba có nghĩa vụ hoàn trả tài sản cho chủ sở hữu, trừ trường hợp Bộ luật này có quy định khác (xe máy là tài sản phải đăng ký nên không thuộc trường hợp miễn hoàn trả)."
+  },
+  {
+    "question": "A ngay tình sửa chữa, cải tạo căn nhà mà mình tưởng thuộc quyền sở hữu hợp pháp của mình, làm tăng đáng kể giá trị căn nhà. Sau đó xác định nhà thuộc sở hữu của B. Khi nhận lại nhà, B có nghĩa vụ gì?",
+    "a": "Không phải thanh toán gì",
+    "b": "Phải thanh toán chi phí cần thiết mà A đã bỏ ra để bảo quản, làm tăng giá trị tài sản",
+    "c": "Chỉ thanh toán nếu có hợp đồng",
+    "d": "Chỉ thanh toán phần vật liệu",
+    "answer": "b",
+    "explanation": "Điều 583 BLDS 2015 quy định chủ sở hữu được hoàn trả tài sản phải thanh toán chi phí cần thiết mà người chiếm hữu, sử dụng tài sản không có căn cứ pháp luật nhưng ngay tình đã bỏ ra để bảo quản, làm tăng giá trị của tài sản."
+  },
+  {
+    "question": "A đăng công khai việc hứa thưởng trên báo điện tử. Sau đó A muốn rút lại việc hứa thưởng khi chưa đến hạn bắt đầu thực hiện công việc. Theo BLDS 2015, A phải thực hiện việc rút lại như thế nào?",
+    "a": "Chỉ cần thông báo miệng cho những người mình quen biết",
+    "b": "Phải đăng thông báo hủy trên một tờ báo giấy bất kỳ",
+    "c": "Phải thực hiện theo cách thức và trên phương tiện mà việc hứa thưởng đã được công bố",
+    "d": "Chỉ cần gửi email thông báo cho những người đã đăng ký tham gia",
+    "answer": "c",
+    "explanation": "Điều 571 BLDS 2015 quy định việc rút lại tuyên bố hứa thưởng phải được thực hiện theo cách thức và trên phương tiện mà việc hứa thưởng đã được công bố."
+  },
+  {
+    "question": "A hứa thưởng cho người đầu tiên tìm được chú chó lạc. B và C độc lập tìm kiếm ở hai khu vực khác nhau. B tìm thấy chú chó lúc 9h sáng, C tìm thấy một chú chó khác tưởng của A nên mang về lúc 10h. Theo BLDS, ai được nhận thưởng?",
+    "a": "B và C chia đôi phần thưởng vì cùng có công tìm kiếm",
+    "b": "Chỉ B được nhận thưởng vì là người hoàn thành công việc đầu tiên",
+    "c": "C được nhận thưởng vì là người mang chó về hoàn trả cho A trước",
+    "d": "A có quyền tự quyết định tặng phần thưởng này cho ai",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 572 BLDS 2015 quy định trường hợp một công việc hứa thưởng được nhiều người thực hiện độc lập thì người hoàn thành đầu tiên được nhận thưởng."
+  },
+  {
+    "question": "Trong một cuộc thi sáng tạo công nghệ, Ban tổ chức đã công bố giải nhất trị giá 500 triệu đồng. Sau khi công bố kết quả và có người đoạt giải, Ban tổ chức lấy lý do kinh phí khó khăn nên chỉ muốn trao 200 triệu đồng. Người đoạt giải có quyền gì?",
+    "a": "Không có quyền đòi thêm vì đây là tiền tài trợ tự nguyện",
+    "b": "Chỉ được nhận đủ nếu Ban tổ chức ký biên bản đồng ý bổ sung",
+    "c": "Có quyền yêu cầu Ban tổ chức trao giải thưởng đúng mức đã công bố công khai",
+    "d": "Chỉ có quyền khiếu nại lên cơ quan quản lý hành chính về văn hóa",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 573 BLDS 2015 quy định người đoạt giải có quyền yêu cầu người tổ chức cuộc thi trao giải thưởng đúng mức đã công bố."
+  },
+  {
+    "question": "A tự nguyện quản lý, coi giữ đất đai cho B khi B đi nước ngoài. Trong quá trình thực hiện, A biết rõ ý định của B là giữ nguyên trạng đất để chờ giá, nhưng A vẫn tự ý cho người khác thuê làm kho bãi để kiếm tiền đầu tư riêng. A đã vi phạm nghĩa vụ nào?",
+    "a": "Không vi phạm vì A làm như vậy là để tài sản không bị bỏ hoang",
+    "b": "Vi phạm nghĩa vụ thực hiện công việc phù hợp với ý định, lợi ích của người có công việc",
+    "c": "Chỉ vi phạm về mặt đạo đức xã hội, không vi phạm nghĩa vụ dân sự",
+    "d": "Không thuộc phạm vi điều chỉnh của thực hiện công việc không có ủy quyền",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 575 BLDS 2015 quy định người thực hiện công việc không có ủy quyền phải thực hiện công việc phù hợp với ý định và lợi ích của người có công việc nếu biết hoặc đoán biết được ý định đó."
+  },
+  {
+    "question": "A tự nguyện trông coi và vận hành cửa hàng kinh doanh cho B khi B gặp tai nạn phải cấp cứu. Không may B qua đời tại bệnh viện và hiện chưa có người thừa kế nào xuất hiện để tiếp quản. Theo BLDS, A phải xử lý thế nào?",
+    "a": "Có quyền đóng cửa hàng và tự ý chấm dứt công việc ngay lập tức",
+    "b": "Phải tiếp tục thực hiện công việc cho đến khi người thừa kế hoặc người đại diện của B tiếp nhận",
+    "c": "Được quyền bán thanh lý toàn bộ hàng hóa để trừ vào công sức của mình",
+    "d": "Pháp luật cấm A tiếp tục quản lý vì chủ sở hữu tài sản đã chết",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 575 BLDS 2015 quy định trường hợp người có công việc chết thì người thực hiện công việc không có ủy quyền phải tiếp tục thực hiện công việc cho đến khi người thừa kế hoặc người đại diện của người có công việc tiếp nhận."
+  },
+  {
+    "question": "A đang tự nguyện chăm sóc vườn cây ăn trái cho nhà hàng xóm đi vắng. Giữa chừng, A bị bệnh nặng phải nhập viện đột xuất, không thể tiếp tục công việc. Theo BLDS, A phải xử lý thế nào để đúng nghĩa vụ?",
+    "a": "Được quyền bỏ mặc vườn cây vì đây là việc làm tự nguyện không công",
+    "b": "Phải báo cho người có công việc hoặc nhờ người khác thay mình đảm nhận việc trông nom vườn",
+    "c": "Bắt buộc phải thuê người làm thay bằng chính tiền túi của mình",
+    "d": "Được tự ý giao lại vườn cây cho bất kỳ người qua đường nào quản lý",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 575 BLDS 2015 quy định trường hợp có lý do chính đáng mà người thực hiện công việc không có ủy quyền không thể tiếp tục đảm nhận công việc thì phải báo cho người có công việc hoặc người đại diện của họ, hoặc nhờ người khác thay mình đảm nhận."
+  },
+  {
+    "question": "A thấy nhà hàng xóm bị bão tốc mái khi chủ nhà đi vắng. Để cứu tài sản bên trong, A tự nguyện leo lên gia cố lại mái nhà. Do gió quá lớn, A vô ý làm rơi một viên ngói làm vỡ kính chắn gió xe máy của chủ nhà. Trách nhiệm bồi thường của A được xác định thế nào?",
+    "a": "Luôn luôn phải bồi thường toàn bộ giá trị kính xe bị vỡ",
+    "b": "Có thể được giảm mức bồi thường bồi thường căn cứ vào hoàn cảnh đảm nhận công việc",
+    "c": "Hoàn toàn không phải bồi thường trong mọi trường hợp do làm việc tốt",
+    "d": "Chỉ phải bồi thường nếu sau đó chủ nhà không chịu thanh toán tiền công",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 577 BLDS 2015 quy định nếu người thực hiện công việc không có ủy quyền vô ý gây thiệt hại trong khi thực hiện công việc thì có thể được giảm mức bồi thường thiệt hại, căn cứ vào hoàn cảnh đảm nhận công việc."
+  },
+  {
+    "question": "A chiếm hữu trái pháp luật chiếc xe máy của B rồi đem bán cho C (C có trả tiền cho A và mua ngay tình). Sau khi bị B phát hiện và đòi lại xe, C đã hoàn trả lại xe cho B. Theo BLDS, C có quyền gì đối với A?",
+    "a": "C không có quyền gì vì hợp đồng mua bán ban đầu là vô hiệu",
+    "b": "C có quyền yêu cầu A phải bồi thường thiệt hại cho mình",
+    "c": "C chỉ có quyền đòi lại số tiền gốc đã đưa cho A, không được đòi bồi thường",
+    "d": "C phải tự chịu trách nhiệm vì đã không kiểm tra kỹ giấy tờ xe",
+    "answer": "b",
+    "explanation": "Điều 582 BLDS 2015 quy định người thứ ba sau khi hoàn trả tài sản có quyền yêu cầu người đã giao tài sản cho mình bồi thường thiệt hại nếu giao dịch đó là giao dịch có đền bù."
+  },
+  {
+    "question": "Công chứng viên X nhận công chứng hợp đồng chuyển nhượng quyền sử dụng đất dù biết rõ người bán giả mạo hồ sơ. Sau đó, số tiền thanh toán được chuyển nhầm vào tài khoản của một người hoàn toàn không liên quan. Người nhận được tiền này có nghĩa vụ gì theo BLDS?",
+    "a": "Được quyền giữ lại số tiền vì lỗi hoàn toàn thuộc về bên chuyển tiền",
+    "b": "Phải hoàn trả khoản lợi về tài sản không có căn cứ pháp luật đó cho người bị thiệt hại",
+    "c": "Chỉ phải hoàn trả nếu có quyết định xử phạt vi phạm hành chính",
+    "d": "Không phải hoàn trả nếu chứng minh được mình đã tiêu hết số tiền đó",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 579 BLDS 2015 quy định người được lợi về tài sản mà không có căn cứ pháp luật làm cho người khác bị thiệt hại thì phải hoàn trả khoản lợi đó cho người bị thiệt hại."
+  },
+  {
+    "question": "Một tổ chức công khai hứa thưởng cho ai tìm được hồ sơ địa chính gốc bị thất lạc. Tuy nhiên, trước khi có người tìm thấy, cơ quan nhà nước đã cấp lại bộ hồ sơ mới và bộ hồ sơ cũ không còn giá trị. Công việc hứa thưởng không thể thực hiện được nữa do nguyên nhân khách quan. Trách nhiệm của người hứa thưởng thế nào?",
+    "a": "Vẫn phải trả thưởng cho bất kỳ ai tìm thấy sau đó",
+    "b": "Nghĩa vụ hứa thưởng chấm dứt và không phải chịu trách nhiệm trả thưởng",
+    "c": "Phải bồi thường chi phí cho tất cả những người đã đi tìm",
+    "d": "Phải nộp số tiền hứa thưởng đó vào ngân sách nhà nước",
+    "answer": "b",
+    "explanation": "Theo tinh thần của Điều 570 và Điều 572 BLDS 2015, khi công việc hứa thưởng không còn khả năng thực hiện hoặc mục đích hứa thưởng không còn do nguyên nhân khách quan, quan hệ hứa thưởng chấm dứt mà không phát sinh nghĩa vụ trả thưởng."
+  },
+  {
+    "question": "A tự nguyện quản lý, trông coi văn phòng và các giấy tờ giao dịch cho B khi B phải đi cách ly y tế. Theo BLDS, khi B trở về hoặc khi có yêu cầu, A có nghĩa vụ gì về tình hình công việc?",
+    "a": "A không cần làm gì vì đây là việc làm giúp đỡ, tự nguyện",
+    "b": "A chỉ cần bàn giao lại chìa khóa văn phòng là đủ",
+    "c": "A phải báo cáo về quá trình thực hiện công việc và trả lại tài sản, lợi ích thu được (nếu có) cho B",
+    "d": "A có quyền giữ lại một số giấy tờ để làm bằng chứng đòi tiền công",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 575 BLDS 2015 quy định người thực hiện công việc không có ủy quyền phải báo cáo về quá trình, kết quả thực hiện công việc và trả lại tài sản, lợi ích thu được từ việc thực hiện công việc cho người có công việc khi có yêu cầu."
+  },
+  {
+    "question": "A nhặt được một chiếc máy tính xách tay bên trong có chứa nhiều dữ liệu hồ sơ công chứng quan trọng của B. Thay vì trả lại, A đem bán máy tính này cho một cửa hàng phế liệu, sau đó cửa hàng đã rã xác máy nên không thể khôi phục. Nghĩa vụ của A đối với B được xác định thế nào?",
+    "a": "A chỉ cần xin lỗi vì máy tính đã bị tiêu hủy ngoài ý muốn",
+    "b": "A phải bồi thường thiệt hại bằng giá trị chiếc máy tính và các thiệt hại thực tế phát sinh do mất dữ liệu",
+    "c": "A không phải bồi thường vì không cố ý làm hỏng máy",
+    "d": "A chỉ phải bồi thường số tiền đúng bằng số tiền đã bán cho cửa hàng phế liệu",
+    "answer": "b",
+    "explanation": "Điều 580 BLDS 2015 quy định người chiếm hữu, sử dụng tài sản không có căn cứ pháp luật không ngay tình phải bồi thường nếu làm mất mát, hư hỏng hoặc tiêu hủy tài sản đó."
+  },
+  {
+    "question": "A chiếm hữu trái pháp luật một chiếc máy photo chuyên dụng của Văn phòng công chứng B để kinh doanh dịch vụ riêng. Sau 1 năm, chiếc máy bị hao mòn tự nhiên đáng kể do quá trình khai thác. Khi B đòi lại máy, ngoài việc trả máy, A có nghĩa vụ gì?",
+    "a": "Không có nghĩa vụ gì khác vì hao mòn là quy luật tự nhiên",
+    "b": "Phải bồi thường khoản tiền tương đương với giá trị hao mòn và khoản lợi nhuận thu được từ việc khai thác trái phép chiếc máy",
+    "c": "Chỉ cần trả lại số tiền đã thu được từ khách hàng",
+    "d": "Chỉ phải sửa chữa lại máy như mới trước khi bàn giao",
+    "answer": "b",
+    "explanation": "Theo Điều 580 và Điều 581 BLDS 2015, người chiếm hữu không ngay tình phải hoàn trả hoa lợi, lợi tức (khoản lợi thu được từ việc sử dụng tài sản) và phải bồi thường nếu làm giảm sút giá trị của tài sản vượt quá mức hao mòn tự nhiên."
+  },
+  {
+    "question": "A ngay tình sử dụng một thửa đất nông nghiệp do nhận chuyển nhượng từ người không có quyền định đoạt. Trong năm đầu tiên, A trồng trọt và thu hoạch được một lượng nông sản lớn. Sau đó A mới biết đất này thuộc sở hữu của B. Số nông sản (hoa lợi) thu được trước khi A biết sự thật sẽ được xử lý thế nào?",
+    "a": "A phải trả lại toàn bộ số nông sản hoặc giá trị bằng tiền cho B",
+    "b": "Số nông sản đó thuộc sở hữu của A và A không phải hoàn trả",
+    "c": "A và B mỗi người được hưởng một nửa giá trị số nông sản",
+    "d": "A phải nộp lại số nông sản đó cho Ủy ban nhân dân cấp xã",
+    "answer": "b",
+    "explanation": "Theo Khoản 2 Điều 581 BLDS 2015, người chiếm hữu ngay tình chỉ phải hoàn trả hoa lợi, lợi tức từ thời điểm biết hoặc phải biết việc chiếm hữu không có căn cứ pháp luật. Do đó, hoa lợi thu được trước thời điểm này thuộc về người ngay tình."
+  },
+  {
+    "question": "A chiếm hữu trái pháp luật (không ngay tình) một vườn cây ăn trái của B. Đến mùa thu hoạch, do A lười biếng và bỏ mặc không chăm sóc, thu hái khiến toàn bộ trái cây bị chín thối và hư hỏng, gây thiệt hại lớn. Khi đòi lại vườn, B có quyền yêu cầu gì về số hoa lợi này?",
+    "a": "B không được đòi gì vì thực tế A chưa thu lợi được gì từ vườn cây",
+    "b": "B có quyền yêu cầu A phải bồi thường giá trị hoa lợi đáng lẽ có thể thu hoạch được",
+    "c": "B chỉ được yêu cầu A dọn dẹp số trái cây bị thối",
+    "d": "B phải tự chịu trách nhiệm vì không trông coi tài sản của mình",
+    "answer": "b",
+    "explanation": "Theo quy định tại Điều 581 BLDS 2015 và nguyên tắc bồi thường thiệt hại, người chiếm hữu không ngay tình mà có lỗi làm cho hoa lợi, lợi tức bị mất mát, hư hỏng thì phải bồi thường giá trị hoa lợi, lợi tức đáng lẽ thu được cho chủ sở hữu."
+  },
+  {
+    "question": "A chiếm hữu trái pháp luật (không ngay tình) một chiếc ô tô của B. Trong thời gian giữ xe, để xe không bị hư hỏng bộ máy do ngập lụt, A đã bỏ chi phí cần thiết để thuê xe cẩu di dời và bảo dưỡng khẩn cấp. Khi B nhận lại xe, nghĩa vụ thanh toán của B đối với chi phí này được xác định thế nào?",
+    "a": "B không phải trả bất kỳ khoản nào vì A là người chiếm hữu bất hợp pháp",
+    "b": "B phải thanh toán chi phí cần thiết để bảo quản tài sản đó cho A",
+    "c": "B phải trả gấp đôi số chi phí để phạt vi phạm",
+    "d": "B chỉ phải thanh toán nếu trước đó A có thông báo bằng văn bản",
+    "answer": "b",
+    "explanation": "Điều 583 BLDS 2015 quy định chủ sở hữu khi nhận lại tài sản phải thanh toán cho người chiếm hữu không có căn cứ pháp luật (kể cả trường hợp không ngay tình) các chi phí cần thiết để bảo quản tài sản đó."
+  },
+  {
+    "question": "Theo Điều 584 BLDS 2015, trách nhiệm bồi thường thiệt hại ngoài hợp đồng phát sinh khi có căn cứ nào sau đây?",
+    "a": "Chỉ cần có thiệt hại thực tế xảy ra trên thực tế",
+    "b": "Có hành vi xâm phạm tính mạng, sức khỏe, danh dự, nhân phẩm, uy tín, tài sản, quyền, lợi ích hợp pháp khác của người khác mà gây thiệt hại",
+    "c": "Bắt buộc người gây thiệt hại phải có lỗi cố ý",
+    "d": "Chỉ phát sinh khi hai bên đã có thỏa thuận hợp đồng từ trước",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 584 BLDS 2015 quy định người nào có hành vi xâm phạm tính mạng, sức khỏe, danh dự, nhân phẩm, uy tín, tài sản, quyền, lợi ích hợp pháp khác của người khác mà gây thiệt hại thì phải bồi thường."
+  },
+  {
+    "question": "Trường hợp nào sau đây người có hành vi gây thiệt hại được miễn trách nhiệm bồi thường theo Điều 584 BLDS 2015?",
+    "a": "Thiệt hại phát sinh hoàn toàn do sự kiện bất khả kháng",
+    "b": "Thiệt hại phát sinh hoàn toàn do lỗi của bên bị thiệt hại",
+    "c": "Cả a và b đều đúng",
+    "d": "Người gây thiệt hại chứng minh được mình không có lỗi vô ý",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 584 BLDS 2015 quy định người gây thiệt hại không phải chịu trách nhiệm bồi thường trong trường hợp thiệt hại phát sinh do sự kiện bất khả kháng hoặc hoàn toàn do lỗi của bên bị thiệt hại, trừ trường hợp có thỏa thuận khác hoặc luật có quy định khác."
+  },
+  {
+    "question": "Theo Điều 585 BLDS 2015, một trong những nguyên tắc cốt lõi khi bồi thường thiệt hại thực tế là gì?",
+    "a": "Chỉ bồi thường một phần dựa trên khả năng tài chính hiện tại của người gây thiệt hại",
+    "b": "Phải được bồi thường toàn bộ và kịp thời",
+    "c": "Chỉ tập trung bồi thường thiệt hại về mặt vật chất, bỏ qua tổn thất tinh thần",
+    "d": "Mức bồi thường hoàn toàn do bên gây thiệt hại tự quyết định",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 585 BLDS 2015 khẳng định nguyên tắc đầu tiên: Thiệt hại thực tế phải được bồi thường toàn bộ và kịp thời."
+  },
+  {
+    "question": "Người gây thiệt hại có thể được Tòa án giảm mức bồi thường khi thỏa mãn các điều kiện nào dưới đây?",
+    "a": "Do lỗi vô ý hoặc không có lỗi và thiệt hại quá lớn so với khả năng kinh tế của mình",
+    "b": "Người gây thiệt hại hiện tại không còn tài sản hay thu nhập nào để tịch thu",
+    "c": "Người gây thiệt hại là người chưa thành niên hoặc người già neo đơn",
+    "d": "Khi bên bị thiệt hại tự nguyện có đơn xin giảm nhẹ trách nhiệm cho đối phương",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 585 BLDS 2015 quy định người chịu trách nhiệm bồi thường thiệt hại có thể được giảm mức bồi thường nếu không có lỗi hoặc có lỗi vô ý và thiệt hại quá lớn so với khả năng kinh tế của mình."
+  },
+  {
+    "question": "Khi bên bị thiệt hại cũng có một phần lỗi trong việc để xảy ra thiệt hại thì hậu quả pháp lý được xử lý thế nào?",
+    "a": "Bên bị thiệt hại vẫn được bồi thường toàn bộ để bảo đảm quyền lợi",
+    "b": "Không được bồi thường phần thiệt hại do lỗi của mình gây ra",
+    "c": "Bị tước hoàn toàn quyền yêu cầu bồi thường thiệt hại",
+    "d": "Bên gây thiệt hại được miễn toàn bộ trách nhiệm bồi thường",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 585 BLDS 2015 quy định rõ: Bên bị thiệt hại có lỗi trong việc gây thiệt hại thì không được bồi thường phần thiệt hại do lỗi của mình gây ra."
+  },
+  {
+    "question": "Theo quy định chung, người từ đủ bao nhiêu tuổi trở lên gây thiệt hại thì phải tự bồi thường bằng tài sản của mình?",
+    "a": "Đủ 15 tuổi",
+    "b": "Đủ 16 tuổi",
+    "c": "Đủ 18 tuổi",
+    "d": "Đủ 21 tuổi",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 586 BLDS 2015 quy định người từ đủ mười tám tuổi trở lên gây thiệt hại thì phải tự bồi thường."
+  },
+  {
+    "question": "Trường hợp người chưa đủ 15 tuổi gây thiệt hại mà còn cha mẹ thì trách nhiệm bồi thường thuộc về ai?",
+    "a": "Chính người chưa đủ 15 tuổi đó bằng tài sản riêng (nếu có)",
+    "b": "Cha mẹ phải bồi thường toàn bộ thiệt hại; nếu tài sản của cha mẹ không đủ mà con có tài sản riêng thì lấy tài sản riêng của con để bù vào",
+    "c": "Cơ quan bảo trợ xã hội hoặc Nhà nước bồi thường",
+    "d": "Bên bị thiệt hại phải tự gánh chịu vì người gây tai nạn chưa có năng lực hành vi",
+    "answer": "b",
+    "explanation": "Theo Khoản 2 Điều 586 BLDS 2015, người chưa đủ 15 tuổi gây thiệt hại mà còn cha mẹ thì cha mẹ phải bồi thường toàn bộ thiệt hại bằng tài sản của mình. Nếu tài sản của cha mẹ không đủ mà con có tài sản riêng thì lấy tài sản riêng của con để bồi thường phần còn thiếu."
+  },
+  {
+    "question": "Theo Điều 587 BLDS 2015, khi có nhiều người cùng phối hợp hoặc cùng gây ra một thiệt hại thì trách nhiệm của họ được xác định là:",
+    "a": "Mỗi người chỉ chịu trách nhiệm đối với phần thiệt hại do chính mình trực tiếp thực hiện",
+    "b": "Phải liên đới bồi thường thiệt hại cho người bị thiệt hại",
+    "c": "Người nào có điều kiện kinh tế tốt hơn hoặc có lỗi chính sẽ chịu toàn bộ trách nhiệm",
+    "d": "Trách nhiệm sẽ được Tòa án phân chia ngẫu nhiên bằng hình thức bốc thăm",
+    "answer": "b",
+    "explanation": "Điều 587 BLDS 2015 quy định: Nhiều người cùng gây thiệt hại thì phải liên đới bồi thường thiệt hại cho người bị thiệt hại."
+  },
+  {
+    "question": "Thời hiệu khởi kiện yêu cầu Tòa án giải quyết vụ án bồi thường thiệt hại ngoài hợp đồng là bao lâu?",
+    "a": "01 năm kể từ ngày xảy ra hành vi vi phạm",
+    "b": "02 năm kể từ ngày phát hiện ra thiệt hại thực tế",
+    "c": "03 năm kể từ ngày người có quyền yêu cầu biết hoặc phải biết quyền, lợi ích hợp pháp của mình bị xâm phạm",
+    "d": "05 năm kể từ ngày lập biên bản vi phạm",
+    "answer": "c",
+    "explanation": "Điều 588 BLDS 2015 quy định thời hiệu khởi kiện yêu cầu bồi thường thiệt hại là 03 năm kể từ ngày người có quyền yêu cầu biết hoặc phải biết quyền, lợi ích hợp pháp của mình bị xâm phạm."
+  },
+  {
+    "question": "Khoản chi phí nào sau đây KHÔNG thuộc phạm vi thiệt hại do tài sản bị xâm phạm theo Điều 589 BLDS 2015?",
+    "a": "Tài sản bị mất, bị hủy hoại hoặc bị hư hỏng",
+    "b": "Chi phí hợp lý để ngăn chặn, hạn chế và khắc phục thiệt hại",
+    "c": "Tiền cấp dưỡng cho những người mà người bị thiệt hại đang có nghĩa vụ nuôi dưỡng",
+    "d": "Lợi ích gắn liền với việc khai thác, sử dụng tài sản bị mất, bị giảm sút",
+    "answer": "c",
+    "explanation": "Tiền cấp dưỡng cho người mà người bị thiệt hại có nghĩa vụ nuôi dưỡng là khoản chi phí thuộc nhóm 'Thiệt hại do tính mạng bị xâm phạm' (Điều 591), không thuộc nhóm thiệt hại do tài sản bị xâm phạm (Điều 589)."
+  },
+  {
+    "question": "Theo Điều 590 BLDS 2015, mức bồi thường bù đắp tổn thất tinh thần tối đa cho một người có sức khỏe bị xâm phạm (nếu các bên không thỏa thuận được) là bao nhiêu?",
+    "a": "Không quá 10 lần mức lương cơ sở do Nhà nước quy định",
+    "b": "Không quá 30 lần mức lương cơ sở do Nhà nước quy định",
+    "c": "Không quá 50 lần mức lương cơ sở do Nhà nước quy định",
+    "d": "Không quá 100 lần mức lương cơ sở do Nhà nước quy định",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 590 BLDS 2015 quy định mức tối đa bù đắp tổn thất tinh thần cho người có sức khỏe bị xâm phạm không quá năm mươi lần mức lương cơ sở do Nhà nước quy định."
+  },
+  {
+    "question": "Theo Điều 591 BLDS 2015, mức bồi thường bù đắp tổn thất tinh thần tối đa cho những người thân thích khi tính mạng của một người bị xâm phạm là bao nhiêu?",
+    "a": "Không quá 50 lần mức lương cơ sở",
+    "b": "Không quá 70 lần mức lương cơ sở",
+    "c": "Không quá 100 lần mức lương cơ sở",
+    "d": "Không quá 150 lần mức lương cơ sở",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 591 BLDS 2015 quy định mức tối đa bù đắp tổn thất tinh thần cho những người thân thích thuộc hàng thừa kế của người bị thiệt hại không quá một trăm lần mức lương cơ sở do Nhà nước quy định."
+  },
+  {
+    "question": "Khi danh dự, nhân phẩm, uy tín của một cá nhân bị xâm phạm nghiêm trọng, mức bồi thường tổn thất tinh thần tối đa được luật quy định là:",
+    "a": "Không quá 05 lần mức lương cơ sở",
+    "b": "Không quá 10 lần mức lương cơ sở",
+    "c": "Không quá 30 lần mức lương cơ sở",
+    "d": "Không quá 50 lần mức lương cơ sở",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 592 BLDS 2015 quy định mức tối đa bù đắp tổn thất tinh thần do danh dự, nhân phẩm, uy tín bị xâm phạm không quá mười lần mức lương cơ sở do Nhà nước quy định."
+  },
+  {
+    "question": "Người thực hiện hành vi gây thiệt hại trong giới hạn phòng vệ chính đáng thì chịu trách nhiệm pháp lý thế nào?",
+    "a": "Vẫn phải chịu trách nhiệm bồi thường vì có thiệt hại xảy ra",
+    "b": "Không phải bồi thường cho người bị thiệt hại",
+    "c": "Chịu trách nhiệm bồi thường một phần dựa trên sự phân xử của Tòa án",
+    "d": "Phải bồi thường nếu người bị thiệt hại có hoàn cảnh khó khăn hơn",
+    "answer": "b",
+    "explanation": "Điều 594 BLDS 2015 quy định rõ: Người gây thiệt hại trong trường hợp phòng vệ chính đáng không phải bồi thường cho người bị thiệt hại."
+  },
+  {
+    "question": "Theo Điều 596 BLDS 2015, một người tự mình uống rượu đến mức say khướt, mất hoàn toàn khả năng nhận thức và làm chủ hành vi rồi đập phá tài sản của người khác thì:",
+    "a": "Được miễn trách nhiệm bồi thường vì tại thời điểm đó không có năng lực hành vi",
+    "b": "Vẫn phải chịu trách nhiệm bồi thường thiệt hại như bình thường",
+    "c": "Trách nhiệm bồi thường được chuyển giao toàn bộ sang cho cha mẹ hoặc người giám hộ",
+    "d": "Nhà nước sẽ đứng ra bồi thường từ quỹ dự phòng xã hội",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 596 BLDS 2015 quy định người do uống rượu hoặc dùng chất kích thích khác mà lâm vào tình trạng mất khả năng nhận thức, làm chủ hành vi gây thiệt hại cho người khác thì vẫn phải bồi thường."
+  },
+  {
+    "question": "Văn phòng công chứng A (hoạt động theo mô hình tổ chức hành nghề công chứng) phải bồi thường thiệt hại do ai gây ra theo quy định tại Điều 597 BLDS 2015?",
+    "a": "Bất kỳ cá nhân nào đến giao dịch tại văn phòng",
+    "b": "Người của pháp nhân (Công chứng viên, nhân viên) gây ra trong khi thực hiện nhiệm vụ được Văn phòng công chứng giao",
+    "c": "Chỉ bồi thường nếu thiệt hại do Trưởng văn phòng công chứng trực tiếp gây ra",
+    "d": "Chỉ bồi thường đối với những nhân viên có ký hợp đồng lao động không xác định thời hạn",
+    "answer": "b",
+    "explanation": "Điều 597 BLDS 2015 quy định pháp nhân phải bồi thường thiệt hại do người của mình gây ra trong khi thực hiện nhiệm vụ được giao; sau đó có quyền yêu cầu người đó hoàn trả một khoản tiền theo quy định."
+  },
+  {
+    "question": "Theo Điều 599 BLDS 2015, học sinh dưới 15 tuổi gây thiệt hại cho người khác trong thời gian trường học trực tiếp quản lý thì chủ thể nào có nghĩa vụ bồi thường?",
+    "a": "Cha mẹ của học sinh đó phải đến trường chịu trách nhiệm bồi thường toàn bộ",
+    "b": "Chính học sinh gây thiệt hại phải tự chịu trách nhiệm bằng tài sản của mình",
+    "c": "Trường học phải bồi thường thiệt hại, trừ trường hợp chứng minh được mình không có lỗi trong quản lý",
+    "d": "Cơ quan quản lý giáo dục cấp quận/huyện sở tại đứng ra chi trả",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 599 BLDS 2015 quy định trường học phải bồi thường thiệt hại do người dưới mười lăm tuổi gây ra trong thời gian trường học trực tiếp quản lý, nếu trường học có lỗi trong quản lý thì phải bồi thường bằng tài sản của trường."
+  },
+  {
+    "question": "Chủ sở hữu nguồn nguy hiểm cao độ (như xe ô tô, hệ thống tải điện, chất nổ) có phải bồi thường thiệt hại ngay cả khi mình hoàn toàn không có lỗi không?",
+    "a": "Không, nguyên tắc bồi thường là phải dựa trên yếu tố lỗi",
+    "b": "Có, phải bồi thường ngay cả khi không có lỗi, trừ trường hợp thiệt hại xảy ra do lỗi cố ý của nạn nhân hoặc do sự kiện bất khả kháng, tình thế cấp bách",
+    "c": "Chỉ phải bồi thường khi có thỏa thuận bằng văn bản giữa các bên",
+    "d": "Chỉ phải bồi thường khi hậu quả thiệt hại chạm mức đặc biệt nghiêm trọng",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 601 BLDS 2015 quy định chủ sở hữu, người chiếm hữu, sử dụng nguồn nguy hiểm cao độ phải bồi thường thiệt hại cả khi không có lỗi, trừ trường hợp thiệt hại xảy ra hoàn toàn do lỗi cố ý của người bị thiệt hại hoặc do sự kiện bất khả kháng, tình thế cấp bách."
+  },
+  {
+    "question": "Theo Điều 602 BLDS 2015, chủ thể có hành vi làm ô nhiễm môi trường và gây thiệt hại cho các hộ dân xung quanh có phải bồi thường khi không có lỗi không?",
+    "a": "Không phải bồi thường nếu quy trình sản xuất đã đạt chuẩn",
+    "b": "Chỉ phải bồi thường nếu cơ quan chức năng chứng minh được lỗi cố ý xả thải",
+    "c": "Có nghĩa vụ bồi thường kể cả trong trường hợp chủ thể đó không có lỗi",
+    "d": "Chỉ bồi thường sau khi đã bị xử phạt vi phạm hành chính",
+    "answer": "c",
+    "explanation": "Điều 602 BLDS 2015 quy định: Chủ thể làm ô nhiễm môi trường mà gây thiệt hại thì phải bồi thường theo quy định của pháp luật, kể cả trường hợp chủ thể đó không có lỗi."
+  },
+  {
+    "question": "Trâu của nhà A tự ý bứt dây thừng, chạy sang giẫm nát toàn bộ ruộng hoa màu đang chờ thu hoạch của nhà B. Trách nhiệm bồi thường được xác định thế nào theo Điều 603 BLDS 2015?",
+    "a": "Nhà A không phải bồi thường vì đây là hành vi tự phát của gia súc",
+    "b": "Nhà A phải bồi thường thiệt hại do súc vật của mình gây ra cho nhà B",
+    "c": "Nhà A chỉ bồi thường nếu nhà B chứng minh được nhà A cố tình thả rông trâu",
+    "d": "Nhà B phải tự chịu vì không làm rào chắn bảo vệ ruộng hoa màu",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 603 BLDS 2015 quy định: Chủ sở hữu súc vật phải bồi thường thiệt hại do súc vật gây ra cho người khác."
+  },
+  {
+    "question": "Một bức tường của ngôi nhà thuộc sở hữu của A bị đổ sập do giông bão, đè trúng xe ô tô của B đang đỗ đúng nơi quy định. Nghĩa vụ bồi thường được xử lý ra sao theo Điều 605 BLDS 2015?",
+    "a": "Chỉ có người trực tiếp thi công bức tường đó mới phải bồi thường",
+    "b": "Chủ sở hữu (A), người chiếm hữu, người được giao quản lý, sử dụng nhà cửa phải liên đới bồi thường thiệt hại cho B",
+    "c": "Bất kỳ đơn vị bảo hiểm xây dựng nào cũng phải đứng ra chi trả thay",
+    "d": "A được miễn hoàn toàn trách nhiệm vì thiên tai giông bão là sự kiện tự nhiên",
+    "answer": "b",
+    "explanation": "Điều 605 BLDS 2015 quy định chủ sở hữu, người chiếm hữu, người được giao quản lý, sử dụng nhà cửa, công trình xây dựng khác phải bồi thường thiệt hại do nhà cửa, công trình xây dựng đó gây ra cho người khác."
+  },
+  {
+    "question": "Theo Điều 606 BLDS 2015, mức bồi thường bù đắp tổn thất tinh thần tối đa đối với mỗi thi thể bị xâm phạm (trong trường hợp không thỏa thuận được) là:",
+    "a": "Không quá 10 lần mức lương cơ sở do Nhà nước quy định",
+    "b": "Không quá 20 lần mức lương cơ sở do Nhà nước quy định",
+    "c": "Không quá 30 lần mức lương cơ sở do Nhà nước quy định",
+    "d": "Không quá 50 lần mức lương cơ sở do Nhà nước quy định",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 606 BLDS 2015 quy định mức tối đa bù đắp tổn thất tinh thần đối với mỗi thi thể bị xâm phạm không quá ba mươi lần mức lương cơ sở do Nhà nước quy định."
+  },
+  {
+    "question": "Theo Điều 607 BLDS 2015, mức bồi thường bù đắp tổn thất tinh thần tối đa đối với mỗi mồ mả bị xâm phạm (trong trường hợp không thỏa thuận được) là:",
+    "a": "Không quá 05 lần mức lương cơ sở do Nhà nước quy định",
+    "b": "Không quá 10 lần mức lương cơ sở do Nhà nước quy định",
+    "c": "Không quá 30 lần mức lương cơ sở do Nhà nước quy định",
+    "d": "Không quá 50 lần mức lương cơ sở do Nhà nước quy định",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 607 BLDS 2015 quy định mức tối đa bù đắp tổn thất tinh thần đối với mỗi mồ mả bị xâm phạm không quá mười lần mức lương cơ sở do Nhà nước quy định."
+  },
+  {
+    "question": "Tình huống: Công chứng viên của Văn phòng công chứng X do sơ suất nghiệp vụ đã chứng thực một hợp đồng chuyển nhượng quyền sử dụng đất bằng giấy tờ giả, khiến bên mua bị lừa mất tiền. Quan hệ bồi thường này thuộc nhóm nào trong BLDS?",
+    "a": "Trách nhiệm hoàn trả tài sản do chiếm hữu không có căn cứ pháp luật",
+    "b": "Trách nhiệm bồi thường thiệt hại ngoài hợp đồng",
+    "c": "Hợp đồng dịch vụ ủy quyền dân sự",
+    "d": "Trách nhiệm do vi phạm cam kết hứa thưởng công khai",
+    "answer": "b",
+    "explanation": "Hành vi sai sót nghiệp vụ của Công chứng viên gây thiệt hại trực tiếp đến tài sản của người khác, làm phát sinh quan hệ bồi thường thiệt hại ngoài hợp đồng theo quy định tại Điều 584 BLDS 2015."
+  },
+  {
+    "question": "Tình huống: Một nhân viên lưu trữ hồ sơ của Văn phòng công chứng trong lúc mang hồ sơ gốc của khách hàng đi sao y đã làm mất hoàn toàn tài liệu, gây thiệt hại tài chính nặng nề cho khách. Khách hàng cần khởi kiện ai đầu tiên để đòi bồi thường?",
+    "a": "Khách hàng phải tự chịu rủi ro vì đã giao hồ sơ cho nhân viên",
+    "b": "Khởi kiện đích danh cá nhân người nhân viên lưu trữ hồ sơ đó",
+    "c": "Khởi kiện Văn phòng công chứng (pháp nhân sử dụng lao động)",
+    "d": "Khởi kiện Sở Tư pháp – cơ quan quản lý nhà nước về công chứng",
+    "answer": "c",
+    "explanation": "Theo Điều 597 và Điều 600 BLDS 2015, pháp nhân phải đứng ra chịu trách nhiệm bồi thường thiệt hại do người lao động của mình gây ra trong khi thực hiện công việc được giao trước, sau đó mới có quyền yêu cầu nhân viên hoàn trả lại sau."
+  },
+[
+  {
+    "question": "Theo Điều 608 BLDS 2015, cá nhân, pháp nhân sản xuất, kinh doanh hàng hóa, dịch vụ không bảo đảm chất lượng mà gây thiệt hại cho người tiêu dùng thì phải chịu trách nhiệm gì?",
+    "a": "Chỉ phải hoàn trả lại đúng số tiền mua hàng",
+    "b": "Phải bồi thường thiệt hại ngoài hợp đồng cho người tiêu dùng theo quy định của Bộ luật này",
+    "c": "Được miễn trách nhiệm bồi thường nếu đã nộp phạt vi phạm hành chính",
+    "d": "Chỉ bồi thường nếu người tiêu dùng chứng minh được lỗi cố ý của nhà sản xuất",
+    "answer": "b",
+    "explanation": "Điều 608 BLDS 2015 quy định cá nhân, pháp nhân sản xuất, kinh doanh hàng hóa, dịch vụ không bảo đảm chất lượng gây thiệt hại cho người tiêu dùng thì phải bồi thường."
+  },
+  {
+    "question": "Khi có sự thay đổi về giá trị tài sản bị thiệt hại hoặc có sự biến động lớn về khả năng kinh tế của người gây thiệt hại, các bên có quyền yêu cầu điều gì theo Điều 585 BLDS 2015?",
+    "a": "Không được thay đổi vì mức bồi thường ban đầu đã có hiệu lực",
+    "b": "Yêu cầu thay đổi mức bồi thường thiệt hại",
+    "c": "Yêu cầu Tòa án hủy bỏ toàn bộ trách nhiệm bồi thường",
+    "d": "Yêu cầu bên bị thiệt hại phải hoàn trả lại một phần tiền đã nhận",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 585 BLDS 2015 quy định khi mức bồi thường không còn phù hợp với thực tế thì bên bị thiệt hại hoặc bên gây thiệt hại có quyền yêu cầu Tòa án hoặc cơ quan nhà nước có thẩm quyền khác thay đổi mức bồi thường."
+  },
+  {
+    "question": "Một người bị mất năng lực hành vi dân sự (tâm thần) tự ý dùng gạch đá đập phá làm hỏng cửa kính của một Văn phòng công chứng. Trách nhiệm bồi thường thiệt hại này được xác định thế nào theo Điều 586 BLDS 2015?",
+    "a": "Người mất năng lực hành vi dân sự không phải bồi thường và không ai phải chịu thay",
+    "b": "Người giám hộ phải gánh chịu trách nhiệm bồi thường bằng tài sản của mình",
+    "c": "Người giám hộ gánh chịu trách nhiệm bồi thường bằng tài sản của người được giám hộ; nếu không đủ thì mới gánh chịu bằng tài sản của mình (nếu người giám hộ có lỗi)",
+    "d": "Văn phòng công chứng phải tự chịu rủi ro vì không có biện pháp tự bảo vệ tài sản",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 586 BLDS 2015 quy định người mất năng lực hành vi dân sự gây thiệt hại mà có người giám hộ thì người giám hộ được dùng tài sản của người được giám hộ để bồi thường; nếu không đủ mà người giám hộ không chứng minh được mình không có lỗi trong quản lý thì phải bồi thường bằng tài sản của mình."
+  },
+  {
+    "question": "Người gây thiệt hại trong trường hợp 'Tình thế cấp bách' (để vượt lên tránh một chiếc xe tải mất phanh lao thẳng vào mình nên đã bẻ lái đâm hỏng hàng rào nhà dân) thì trách nhiệm bồi thường thuộc về ai theo Điều 595 BLDS 2015?",
+    "a": "Người gây thiệt hại trong tình thế cấp bách phải chịu toàn bộ chi phí sửa hàng rào",
+    "b": "Người đã gây ra tình thế cấp bách (tài xế xe tải mất phanh) phải bồi thường cho chủ nhà dân",
+    "c": "Chủ nhà dân phải tự chịu thiệt hại vì đây là tai nạn bất khả kháng",
+    "d": "Ủy ban nhân dân địa phương đứng ra chi trả từ ngân sách phòng chống thiên tai",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 595 BLDS 2015 quy định người gây thiệt hại trong tình thế cấp bách không phải bồi thường. Người đã gây ra tình thế cấp bách dẫn đến thiệt hại phải bồi thường cho người bị thiệt hại."
+  },
+  {
+    "question": "Khoản chi phí nào sau đây KHÔNG nằm trong phạm vi thiệt hại do tính mạng bị xâm phạm quy định tại Điều 591 BLDS 2015?",
+    "a": "Chi phí hợp lý cho việc cứu chữa, bồi dưỡng, chăm sóc người bị thiệt hại trước khi chết",
+    "b": "Chi phí hợp lý cho việc mai táng",
+    "c": "Tiền cấp dưỡng cho những người mà người bị thiệt hại có nghĩa vụ nuôi dưỡng",
+    "d": "Toàn bộ tiền lương, thu nhập đáng lẽ có được trong 20 năm tiếp theo của người đã chết",
+    "answer": "d",
+    "explanation": "Điều 591 BLDS 2015 quy định các chi phí bao gồm: cứu chữa trước khi chết, thu nhập, mai táng phí, tiền cấp dưỡng cho người có nghĩa vụ nuôi dưỡng... Luật không quy định bồi thường toàn bộ thu nhập giả định trong 20 năm tiếp theo của người đã chết."
+  },
+  {
+    "question": "Theo Điều 585 BLDS 2015, nếu bên bị xâm phạm quyền và lợi ích hợp pháp không áp dụng các biện pháp cần thiết, hợp lý để ngăn chặn, hạn chế thiệt hại cho chính mình thì xử lý như thế nào?",
+    "a": "Vẫn được bồi thường toàn bộ thiệt hại thực tế phát sinh",
+    "b": "Không được bồi thường đối với phần thiệt hại xảy ra do không áp dụng các biện pháp đó",
+    "c": "Được bồi thường tối đa 50% giá trị thiệt hại thực tế",
+    "d": "Tòa án sẽ bác toàn bộ đơn khởi kiện yêu cầu bồi thường",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 585 BLDS 2015 quy định bên có quyền, lợi ích bị xâm phạm không được bồi thường nếu thiệt hại xảy ra do không áp dụng các biện pháp cần thiết, hợp lý để ngăn chặn, hạn chế thiệt hại cho chính mình."
+  },
+  {
+    "question": "Theo quy định tại Điều 593 BLDS 2015, đối với con đã thành thai của người chết, tiền cấp dưỡng được tính từ thời điểm nào?",
+    "a": "Tính từ thời điểm người cha bị xâm phạm tính mạng dẫn đến tử vong",
+    "b": "Tính từ thời điểm người mẹ bắt đầu mang thai",
+    "c": "Tính từ thời điểm người con này sinh ra và còn sống",
+    "d": "Tính từ thời điểm người con đủ 15 tuổi",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 593 BLDS 2015 quy định đối với con đã thành thai của người chết, tiền cấp dưỡng được tính từ thời điểm người này sinh ra và còn sống."
+  },
+  {
+    "question": "Tình huống: Kẻ trộm lén lút bẻ khóa lấy trộm một chiếc xe tải (nguồn nguy hiểm cao độ) đang đỗ ngoài đường và lái xe bỏ chạy, trên đường tẩu thoát đã gây tai nạn làm sập tường nhà dân. Ai có trách nhiệm bồi thường thiệt hại này theo Điều 601 BLDS 2015?",
+    "a": "Chủ sở hữu xe tải phải chịu trách nhiệm vì xe thuộc quyền sở hữu của mình",
+    "b": "Người chiếm hữu, sử dụng trái pháp luật (kẻ trộm) phải bồi thường toàn bộ thiệt hại",
+    "c": "Chủ sở hữu và kẻ trộm phải liên đới bồi thường theo tỷ lệ 50-50",
+    "d": "Công ty bảo hiểm xe cơ giới chịu trách nhiệm chi trả thay cho kẻ trộm",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 601 BLDS 2015 quy định người đang chiếm hữu, sử dụng trái pháp luật nguồn nguy hiểm cao độ phải bồi thường thiệt hại; chủ sở hữu chỉ liên đới bồi thường nếu có lỗi trong việc để tài sản bị chiếm hữu, sử dụng trái pháp luật (ở đây chủ xe đỗ xe bị bẻ khóa lén lút nên không có lỗi)."
+  },
+  {
+    "question": "Trong trường hợp chủ sở hữu nguồn nguy hiểm cao độ vô ý không khóa xe, để chìa khóa trên xe tạo điều kiện cho người khác tự ý lấy xe đi và gây thiệt hại, trách nhiệm bồi thường được xác định thế nào?",
+    "a": "Chỉ người lấy xe đi gây thiệt hại mới phải bồi thường",
+    "b": "Chủ sở hữu xe phải bồi thường toàn bộ vì là người có lỗi đầu tiên",
+    "c": "Chủ sở hữu và người chiếm hữu, sử dụng trái pháp luật phải liên đới bồi thường thiệt hại",
+    "d": "Không ai phải bồi thường vì đây là lỗi hỗn hợp phức tạp",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 601 BLDS 2015 quy định khi chủ sở hữu, người chiếm hữu, sử dụng nguồn nguy hiểm cao độ có lỗi trong việc để nguồn nguy hiểm cao độ bị chiếm hữu, sử dụng trái pháp luật thì phải liên đới bồi thường thiệt hại."
+  },
+  {
+    "question": "Theo quy định tại Điều 603 BLDS 2015, trường hợp súc vật thả rông theo tập quán gây thiệt hại thì chủ sở hữu phải bồi thường theo căn cứ nào?",
+    "a": "Bồi thường toàn bộ dựa trên bảng giá bồi thường của Ủy ban nhân dân cấp tỉnh",
+    "b": "Bồi thường theo tập quán nhưng không được trái pháp luật, đạo đức xã hội",
+    "c": "Được miễn hoàn toàn trách nhiệm bồi thường vì đây là tập quán địa phương",
+    "d": "Chỉ phải bồi thường khi người bị thiệt hại chứng minh được chủ sở hữu cố ý thả rông",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 603 BLDS 2015 quy định trường hợp súc vật thả rông theo tập quán gây thiệt hại thì chủ sở hữu súc vật phải bồi thường theo tập quán nhưng không được trái pháp luật, đạo đức xã hội."
+  },
+  {
     "question": "Theo Luật Hôn nhân và gia đình năm 2014, con sinh ra không phụ thuộc vào tình trạng hôn nhân của cha mẹ thì:",
     "a": "Chỉ có quyền với mẹ.",
     "b": "Chỉ có quyền nếu cha mẹ đăng ký kết hôn.",
