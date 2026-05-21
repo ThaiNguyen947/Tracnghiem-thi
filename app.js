@@ -279,10 +279,15 @@ function startExam() {
 
   let selected100 = shuffle(finalSelectedList).slice(0, 100);
 
-  // TIẾN HÀNH XÁO TRỘN ĐÁP ÁN CHO TỪNG CÂU HỎI & CHUẨN HÓA CHỮ HOA/THƯỜNG
+  // ================= ĐOẠN ĐÃ ĐƯỢC SỬA ĐỂ XÁO TRỘN ĐÁP ÁN CHÍNH XÁC =================
   questions = selected100.map(q => {
-    let clonedQ = { ...q }; 
+    let clonedQ = JSON.parse(JSON.stringify(q)); // Deep clone để tránh lỗi xung đột tham chiếu thuộc tính
     
+    // Lấy đáp án gốc từ file JSON và đưa về chữ thường sạch sẽ
+    let rawCorrectKey = (clonedQ.answer || clonedQ.trảlời || "").toString().trim().toLowerCase();
+    if (rawCorrectKey === "một") rawCorrectKey = "a";
+
+    // Quét động toàn bộ phương án (chấp nhận cả thuộc tính chữ hoa 'A' hoặc chữ thường 'a')
     let optA = clonedQ.a || clonedQ.A || clonedQ.Một || "";
     let optB = clonedQ.b || clonedQ.B || "";
     let optC = clonedQ.c || clonedQ.C || "";
@@ -295,17 +300,15 @@ function startExam() {
       { text: optD, key: 'd' }
     ];
 
+    // Tiến hành xáo trộn vị trí mảng đáp án
     let shuffled = shuffle(originalOptions);
 
-    let correctKeyInRaw = (clonedQ.answer || clonedQ.trảlời || "").toString().trim().toLowerCase();
-    if (correctKeyInRaw === "một") correctKeyInRaw = "a";
-
-    // Chuẩn hóa so khớp chữ thường để chấp nhận cả 'A' và 'a' từ file nguồn JSON
-    let newCorrectIndex = shuffled.findIndex(opt => opt.key.toString().trim().toLowerCase() === correctKeyInRaw);
+    // Tìm vị trí mới chính xác tuyệt đối sau khi trộn
+    let newCorrectIndex = shuffled.findIndex(opt => opt.key === rawCorrectKey);
     let indexToLetter = ['a', 'b', 'c', 'd'];
     
     clonedQ.shuffledOptions = shuffled; 
-    clonedQ.newCorrectAnswer = indexToLetter[newCorrectIndex] || 'a'; // Luôn lưu chữ thường để đồng bộ chấm điểm
+    clonedQ.newCorrectAnswer = indexToLetter[newCorrectIndex] || 'a'; 
 
     return clonedQ;
   });
@@ -461,10 +464,8 @@ function submit() {
   let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
 
   questions.forEach((q, i) => {
-    // Chuẩn hóa câu trả lời của user về chữ thường để so sánh
     let userAns = answers[i] ? answers[i].toString().trim().toLowerCase() : "";
     
-    // Chuẩn hóa câu trả lời đúng đã được định vị lại sau khi đảo đáp án
     let correctAns = q.newCorrectAnswer ? q.newCorrectAnswer.toString().trim().toLowerCase() : (q.answer || q.trảlời || "").toString().trim().toLowerCase();
     if (correctAns === "một") correctAns = "a";
 
