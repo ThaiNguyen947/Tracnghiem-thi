@@ -1,4 +1,95 @@
 [ 
+ [
+  {
+    "question": "Ông A ủy quyền cho anh B bán một thửa đất là tài sản riêng của ông A. Trong lúc anh B đang tiến hành đàm phán với người mua thì ông A đột ngột qua đời do đột quỵ. Anh B cho rằng văn bản ủy quyền vẫn còn thời hạn nên đã ký hợp đồng chuyển nhượng thửa đất đó cho anh C. Hiệu lực của hợp đồng này được xác định thế nào?",
+    "a": "Hợp đồng có hiệu lực vì việc ủy quyền được lập hợp pháp và vẫn còn thời hạn.",
+    "b": "Hợp đồng đương nhiên vô hiệu toàn bộ vì hợp đồng ủy quyền đã chấm dứt ngay tại thời điểm ông A chết.",
+    "c": "Hợp đồng vẫn có hiệu lực nếu anh C là người mua ngay tình và đã trả đủ tiền.",
+    "d": "Hợp đồng bị tạm đình chỉ cho đến khi các thừa kế của ông A ký văn bản đồng ý tiếp tục ủy quyền.",
+    "answer": "b",
+    "explanation": "Căn cứ Điểm b Khoản 3 Điều 140 và Điều 422 BLDS 2015, đại diện ủy quyền sẽ chấm dứt khi người ủy quyền là cá nhân chết. Do đó, hành vi ký hợp đồng sau khi ông A chết là hành vi không có quyền đại diện, khiến hợp đồng bị vô hiệu."
+  },
+  {
+    "question": "Vợ chồng ông M và bà N cùng đứng tên trên Giấy chứng nhận quyền sử dụng đất. Ông M đã lập Hợp đồng ủy quyền (có công chứng) giao toàn quyền cho bà N được tự mình chuyển nhượng thửa đất này. Khi bà N thực hiện ký hợp đồng bán đất cho người khác, cơ quan đăng ký đất đai từ chối hồ sơ vì cho rằng bà N không thể vừa là bên bán (đại diện cho chồng) vừa là bên nhận tiền. Nhận định nào sau đây đúng?",
+    "a": "Cơ quan đất đai đúng vì một người không được nhân danh cả hai bên trong một hợp đồng.",
+    "b": "Cơ quan đất đai sai vì bà N chỉ nhân danh ông M ký với bên mua (người thứ ba), chứ không phải bà N tự bán đất cho chính mình.",
+    "c": "Hợp đồng ủy quyền giữa hai vợ chồng mặc định vô hiệu do bản chất tài sản chung không thể ủy quyền cho nhau.",
+    "d": "Bà N bắt buộc phải ủy quyền lại cho người thứ ba thì mới ký hợp đồng chuyển nhượng được.",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 141 BLDS 2015 cấm một người nhân danh người được đại diện để xác lập giao dịch với chính mình hoặc với người thứ ba mà mình cũng là người đại diện. Ở đây, bà N đại diện ông M ký với người mua (bên thứ ba) nên hoàn toàn hợp pháp, không vi phạm điều cấm."
+  },
+  {
+    "question": "Anh X vay của anh Y số tiền 1 tỷ đồng. Để bảo đảm cho khoản vay, anh X đã ký một Hợp đồng ủy quyền có công chứng cho anh Y, nội dung là anh Y được toàn quyền bán thửa đất của anh X để trừ nợ nếu anh X không trả đúng hạn. Đến hạn, anh X không trả tiền nhưng đã gửi văn bản đơn phương hủy bỏ ủy quyền. Anh Y khởi kiện yêu cầu tiếp tục thực hiện ủy quyền. Tòa án sẽ giải quyết thế nào?",
+    "a": "Chấp nhận việc hủy bỏ của anh X vì quyền đơn phương chấm dứt ủy quyền là tuyệt đối.",
+    "b": "Tuyên hợp đồng ủy quyền vô hiệu vì đây là giao dịch giả tạo nhằm che giấu một giao dịch bảo đảm (thế chấp/cầm cố) ngầm.",
+    "c": "Buộc anh X phải tiếp tục thực hiện ủy quyền vì hợp đồng này gắn liền với nghĩa vụ trả nợ.",
+    "d": "Công nhận hợp đồng ủy quyền và chuyển giao thẳng quyền sở hữu đất sang cho anh Y.",
+    "answer": "b",
+    "explanation": "Theo Điều 124 BLDS 2015 về giao dịch dân sự giả tạo, việc các bên lập hợp đồng ủy quyền bán tài sản nhằm mục đích bảo đảm nghĩa vụ trả nợ bản chất là che giấu giao dịch bảo đảm, do đó hợp đồng ủy quyền này sẽ bị tuyên vô hiệu."
+  },
+  {
+    "question": "Ông A lập một Văn bản ủy quyền (đơn phương giao quyền) cho anh B tại Văn phòng công chứng X để anh B thay mặt mình quản lý nhà đất. Anh B hoàn toàn không biết về việc này và cũng chưa từng ký tên hay thể hiện sự đồng ý tiếp nhận công việc. Thời điểm phát sinh hiệu lực của việc đại diện này được tính khi nào?",
+    "a": "Phát sinh hiệu lực ngay khi ông A ký và Văn phòng công chứng đóng dấu chứng nhận.",
+    "b": "Chưa phát sinh hiệu lực đối với anh B cho đến khi anh B biết và đồng ý tiếp nhận việc đại diện đó.",
+    "c": "Mặc định phát sinh hiệu lực sau 15 ngày kể từ ngày công chứng.",
+    "d": "Văn bản này hoàn toàn vô hiệu do thiếu chữ ký của bên được ủy quyền.",
+    "answer": "b",
+    "explanation": "Bản chất của Văn bản ủy quyền là hành vi pháp lý đơn phương. Tuy nhiên, quyền và nghĩa vụ đại diện chỉ phát sinh thực tế khi người được đại diện chấp nhận (chấp nhận thẩm quyền đại diện). Nếu họ từ chối hoặc chưa biết, quan hệ đại diện chưa thể ràng buộc trách nhiệm của họ."
+  },
+  {
+    "question": "Bà K ủy quyền cho anh H (có thù lao) để thực hiện một công việc trong thời hạn 1 năm. Sau 3 tháng thực hiện, anh H bị Tòa án tuyên bố mất năng lực hành vi dân sự do một tai nạn nghiêm trọng. Gia đình bà K yêu cầu người giám hộ của anh H phải tiếp tục thực hiện nốt công việc hoặc bồi thường. Yêu cầu này có đúng luật không?",
+    "a": "Đúng, người giám hộ phải chịu trách nhiệm thực hiện thay nghĩa vụ tài sản của anh H.",
+    "b": "Sai, hợp đồng ủy quyền đương nhiên chấm dứt và anh H được miễn trách nhiệm bồi thường do nguyên nhân khách quan.",
+    "c": "Đúng, anh H vẫn phải bồi thường thiệt hại vì hợp đồng này là hợp đồng có thù lao.",
+    "d": "Hợp đồng sẽ được tạm dừng cho đến khi anh H khôi phục lại năng lực hành vi dân sự.",
+    "answer": "b",
+    "explanation": "Căn cứ Điểm c Khoản 3 Điều 140 BLDS 2015, đại diện ủy quyền chấm dứt khi người được đại diện hoặc người đại diện mất năng lực hành vi dân sự. Khi hợp đồng chấm dứt do sự kiện pháp lý này, các bên không có lỗi nên không phát sinh nghĩa vụ bồi thường."
+  },
+  {
+    "question": "Anh A ủy quyền cho anh B bán chiếc xe ô tô. Anh B đã ủy quyền lại hợp pháp cho anh C thực hiện công việc này. Trong quá trình thực hiện, anh C đã có hành vi gian lận, gây thiệt hại nghiêm trọng cho người mua xe. Ai là người phải trực tiếp chịu trách nhiệm bồi thường thiệt hại cho người mua?",
+    "a": "Anh B phải chịu trách nhiệm vì anh B là người trực tiếp chọn và giao việc cho anh C.",
+    "b": "Anh A phải chịu trách nhiệm vì anh C vẫn đang nhân danh anh A để thực hiện giao dịch.",
+    "c": "Anh C phải tự chịu trách nhiệm cá nhân đối với hành vi vi phạm, vượt quá hoặc lạm dụng quyền đại diện gây thiệt hại của mình.",
+    "d": "Anh B và anh C phải liên đới bồi thường, anh A không liên quan.",
+    "answer": "c",
+    "explanation": "Theo nguyên tắc tại Điều 142 và Điều 564 BLDS 2015, người nhận ủy quyền lại (anh C) thực hiện công việc nhân danh bên ủy quyền ban đầu, nhưng nếu chính họ thực hiện hành vi sai phạm, gây thiệt hại ngoài phạm vi hoặc lạm dụng quyền thì phải tự chịu trách nhiệm trực tiếp với người thứ ba."
+  },
+  {
+    "question": "Do doanh nghiệp gặp khó khăn, Tổng giám đốc công ty cổ phần A đã ký văn bản ủy quyền cho Trưởng phòng nhân sự được toàn quyền thay mặt mình quyết định việc thanh lý các tài sản cố định (máy móc, nhà xưởng) của công ty. Văn bản ủy quyền này có hợp pháp không?",
+    "a": "Hợp pháp vì Tổng giám đốc là người đại diện theo pháp luật nên có quyền ủy quyền cho cấp dưới.",
+    "b": "Không hợp pháp vì việc thanh lý tài sản cố định thuộc thẩm quyền của Hội đồng quản trị hoặc Đại hội đồng cổ đông, Tổng giám đốc không được tự ý ủy quyền vượt quá thẩm quyền của mình.",
+    "c": "Hợp pháp nếu thời hạn ủy quyền dưới 06 tháng.",
+    "d": "Văn bản này chỉ có hiệu lực nếu được toàn thể công nhân viên trong công ty bỏ phiếu thông qua.",
+    "answer": "b",
+    "explanation": "Người đại diện theo pháp luật của doanh nghiệp chỉ được ủy quyền trong phạm vi thẩm quyền của mình theo Luật Doanh nghiệp và Điều lệ công ty. Việc định đoạt tài sản lớn thường vượt thẩm quyền cá nhân của Tổng giám đốc, nên việc ủy quyền này vi phạm quy định pháp luật."
+  },
+  {
+    "question": "Ông A ủy quyền cho anh B quản lý và cho thuê căn nhà của mình. Trong văn bản ủy quyền, các bên thỏa thuận điều khoản: 'Trong mọi trường hợp, bên ủy quyền không được quyền đơn phương chấm dứt hợp đồng trước hạn'. Sau đó ông A cần tiền nên vẫn ra văn bản hủy ủy quyền để bán nhà. Anh B khởi kiện đòi thực hiện đúng cam kết 'không được hủy'. Tòa án sẽ giải quyết thế nào?",
+    "a": "Chấp nhận đơn khởi kiện của anh B, buộc ông A phải tiếp tục thực hiện hợp đồng.",
+    "b": "Tuyên điều khoản 'không được đơn phương chấm dứt' là vô hiệu do vi phạm quyền tự do định đoạt và chấm dứt hợp đồng được pháp luật bảo vệ, ông A vẫn có quyền hủy nhưng phải bồi thường thiệt hại (nếu có).",
+    "c": "Phạt ông A vì vi phạm cam kết bằng một khoản tiền bằng giá trị căn nhà.",
+    "d": "Tuyên bố toàn bộ hợp đồng ủy quyền bị vô hiệu ngay từ thời điểm ký kết.",
+    "answer": "b",
+    "explanation": "Quyền đơn phương chấm dứt hợp đồng ủy quyền quy định tại Điều 569 BLDS 2015 là quyền mang tính định chế pháp lý nhằm bảo vệ ý chí tự do trong quan hệ đại diện. Các bên không thể thỏa thuận từ bỏ quyền này; mọi thỏa thuận cấm hủy bỏ đều bị coi là vô hiệu, nhưng bên hủy phải chịu trách nhiệm do vi phạm thời hạn nếu có thù lao."
+  },
+  {
+    "question": "Anh B được anh A ủy quyền đến cơ quan nhà nước nộp hồ sơ xin phép xây dựng. Cơ quan nhà nước yêu cầu trong văn bản ủy quyền bắt buộc phải ghi rõ mức thù lao thì mới tiếp nhận hồ sơ. Nội dung này có đúng với quy định của BLDS không?",
+    "a": "Đúng, vì hợp đồng ủy quyền bắt buộc phải có điều khoản về thù lao mới có hiệu lực.",
+    "b": "Sai, vì việc có thù lao hay không có thù lao là do các bên tự do thỏa thuận; nếu không thỏa thuận thì mặc định là ủy quyền không có thù lao.",
+    "c": "Đúng, cơ quan nhà nước có quyền tự quy định biểu mẫu riêng áp dụng tại địa phương.",
+    "d": "Ủy quyền liên quan đến thủ tục hành chính thì bắt buộc phải là ủy quyền có thù lao.",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 562 BLDS 2015, thù lao chỉ bắt buộc phải trả 'nếu có thỏa thuận hoặc pháp luật có quy định'. Trong các giao dịch dân sự thông thường, nếu các bên không ghi, hợp đồng vẫn có hiệu lực và được hiểu là ủy quyền không thù lao."
+  },
+  {
+    "question": "Bà X ủy quyền cho ông Y bán chiếc xe ô tô thuộc sở hữu của bà. Ông Y đã ký hợp đồng bán chiếc xe này cho chính vợ ruột của mình (bà Z). Bà X biết chuyện và yêu cầu hủy hợp đồng vì cho rằng ông Y đã vi phạm điều cấm của pháp luật về đại diện. Khẳng định nào sau đây là đúng?",
+    "a": "Hợp đồng hoàn toàn hợp pháp vì vợ ông Y là một cá nhân độc lập, không phải chính ông Y.",
+    "b": "Hợp đồng vi phạm điều cấm vì người đại diện không được xác lập giao dịch với người mà mình cũng là người đại diện hoặc người có mối quan hệ quyền lợi liên đới mật thiết (vợ chồng) làm ảnh hưởng đến lợi ích của bên ủy quyền.",
+    "c": "Hợp đồng đương nhiên có hiệu lực nếu giá bán bằng hoặc cao hơn giá thị trường.",
+    "d": "Bà X không có quyền đòi hủy mà chỉ có quyền yêu cầu ông Y chia một nửa tiền cho mình.",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 141 BLDS 2015 và các nguyên tắc đạo đức nghề nghiệp, chống xung đột lợi ích quy định người đại diện không được xác lập giao dịch với chính mình hoặc dẫn đến xung đột lợi ích trực tiếp gây thiệt hại cho bên được đại diện. Việc bán tài sản cho vợ/chồng mình là hành vi lạm dụng quyền đại diện để trục lợi cho gia đình."
+  },
  {
     "question": "Theo Luật Hôn nhân và gia đình năm 2014, trong quan hệ hôn nhân và gia đình có yếu tố nước ngoài, người nước ngoài tại Việt Nam có quyền và nghĩa vụ như thế nào?",
     "a": "Không có quyền như công dân Việt Nam.",
