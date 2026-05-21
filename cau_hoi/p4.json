@@ -1,5 +1,222 @@
 [
   {
+    "question": "A và B ký hợp đồng trao đổi xe máy lấy laptop. Sau khi giao, A phát hiện B giao laptop không thuộc sở hữu của B và không được chủ sở hữu ủy quyền. A có quyền gì?",
+    "a": "Phải tiếp tục thực hiện hợp đồng vì đã giao kết",
+    "b": "Chỉ được yêu cầu giảm giá trị tài sản",
+    "c": "Có quyền hủy bỏ hợp đồng và yêu cầu bồi thường thiệt hại",
+    "d": "Chỉ được yêu cầu đổi tài sản khác",
+    "answer": "c",
+    "explanation": "Theo Điều 455 BLDS 2015, nếu tài sản trao đổi không thuộc sở hữu hoặc không được ủy quyền thì bên kia có quyền hủy bỏ hợp đồng và yêu cầu bồi thường."
+  },
+  {
+    "question": "Trong hợp đồng trao đổi tài sản, nếu hai tài sản có giá trị chênh lệch và không có thỏa thuận khác, xử lý đúng là gì?",
+    "a": "Không cần thanh toán phần chênh lệch",
+    "b": "Một bên phải trả toàn bộ giá trị tài sản",
+    "c": "Các bên phải thanh toán phần chênh lệch giá trị",
+    "d": "Tòa án quyết định phần chênh lệch",
+    "answer": "c",
+    "explanation": "Theo Điều 456 BLDS 2015, nếu có chênh lệch giá trị thì các bên phải thanh toán phần chênh lệch."
+  },
+  {
+    "question": "A tặng cho B một chiếc xe máy. Khi nào hợp đồng tặng cho động sản có hiệu lực?",
+    "a": "Khi hai bên ký hợp đồng",
+    "b": "Khi B đồng ý nhận lời tặng",
+    "c": "Khi B nhận tài sản",
+    "d": "Khi đăng ký tại cơ quan nhà nước",
+    "answer": "c",
+    "explanation": "Theo Điều 458 BLDS 2015, hợp đồng tặng cho động sản có hiệu lực khi bên được tặng cho nhận tài sản."
+  },
+  {
+    "question": "Trong trường hợp tặng cho bất động sản phải đăng ký quyền sở hữu, thời điểm có hiệu lực là khi nào?",
+    "a": "Khi ký hợp đồng",
+    "b": "Khi công chứng",
+    "c": "Khi đăng ký quyền sở hữu",
+    "d": "Khi bàn giao tài sản",
+    "answer": "c",
+    "explanation": "Theo Điều 459 BLDS 2015, tặng cho bất động sản có hiệu lực kể từ thời điểm đăng ký."
+  },
+  {
+    "question": "A cố ý tặng cho B tài sản không thuộc sở hữu của mình. Chủ sở hữu lấy lại tài sản. A phải chịu trách nhiệm gì?",
+    "a": "Không phải chịu trách nhiệm vì đã tặng cho",
+    "b": "Chỉ bị phạt hành chính",
+    "c": "Phải thanh toán chi phí làm tăng giá trị tài sản",
+    "d": "Phải hoàn trả toàn bộ tài sản cho B",
+    "answer": "c",
+    "explanation": "Theo Điều 460 BLDS 2015, bên tặng cho cố ý phải thanh toán chi phí làm tăng giá trị tài sản."
+  },
+  {
+    "question": "A tặng cho B một tài sản nhưng biết rõ tài sản có khuyết tật mà không thông báo. Hậu quả pháp lý là gì?",
+    "a": "Không phải chịu trách nhiệm vì là tặng cho",
+    "b": "Phải bồi thường thiệt hại cho B",
+    "c": "Chỉ phải xin lỗi B",
+    "d": "Hợp đồng tự động vô hiệu",
+    "answer": "b",
+    "explanation": "Theo Điều 461 BLDS 2015, nếu biết khuyết tật mà không thông báo thì phải bồi thường thiệt hại."
+  },
+  {
+    "question": "A tặng cho B tài sản với điều kiện B phải chăm sóc A trong 1 năm sau khi nhận tài sản. Nếu B không thực hiện nghĩa vụ, A có quyền gì?",
+    "a": "Không có quyền gì",
+    "b": "Chỉ được yêu cầu bồi thường",
+    "c": "Có quyền đòi lại tài sản và yêu cầu bồi thường",
+    "d": "Phải tiếp tục thực hiện hợp đồng",
+    "answer": "c",
+    "explanation": "Theo Điều 462 BLDS 2015, nếu không thực hiện nghĩa vụ sau khi tặng cho thì bên tặng cho có quyền đòi lại tài sản."
+  },
+  {
+    "question": "Trong hợp đồng trao đổi tài sản, mỗi bên được xem là gì theo quy định của BLDS?",
+    "a": "Chỉ là bên bán",
+    "b": "Chỉ là bên mua",
+    "c": "Không xác định vai trò pháp lý",
+    "d": "Vừa là bên bán vừa là bên mua",
+    "answer": "d",
+    "explanation": "Theo Điều 455 BLDS 2015, mỗi bên vừa là người bán vừa là người mua đối với tài sản trao đổi."
+  },
+  {
+    "question": "Hợp đồng tặng cho tài sản về bản chất là gì?",
+    "a": "Giao dịch có đền bù",
+    "b": "Giao dịch vay mượn tài sản",
+    "c": "Chuyển giao tài sản không yêu cầu đền bù",
+    "d": "Hợp đồng dịch vụ",
+    "answer": "c",
+    "explanation": "Theo Điều 457 BLDS 2015, tặng cho tài sản là chuyển quyền sở hữu không yêu cầu đền bù."
+  },
+  {
+    "question": "Trong tặng cho động sản không đăng ký quyền sở hữu, thời điểm có hiệu lực của hợp đồng là khi nào?",
+    "a": "Khi ký hợp đồng",
+    "b": "Khi công chứng hợp đồng",
+    "c": "Khi bên được tặng cho nhận tài sản",
+    "d": "Khi bên tặng cho giao tiền",
+    "answer": "c",
+    "explanation": "Theo Điều 458 BLDS 2015, tặng cho động sản có hiệu lực khi bên được tặng cho nhận tài sản."
+  },
+{
+    "question": "Trong tặng cho động sản không đăng ký quyền sở hữu, nếu bên nhận chưa nhận tài sản thì hậu quả là gì?",
+    "a": "Hợp đồng vẫn có hiệu lực",
+    "b": "Hợp đồng chưa phát sinh hiệu lực",
+    "c": "Hợp đồng tự động vô hiệu",
+    "d": "Phải chuyển sang hợp đồng mua bán",
+    "answer": "b",
+    "explanation": "Theo Điều 458 BLDS 2015, hiệu lực phát sinh khi bên được tặng cho nhận tài sản."
+  },
+  {
+    "question": "Theo BLDS 2015, hợp đồng vay tài sản được xác lập khi nào thì làm phát sinh quyền sở hữu của bên vay đối với tài sản vay?",
+    "a": "Khi ký kết hợp đồng vay",
+    "b": "Khi bên vay nhận tài sản",
+    "c": "Khi bên cho vay giao tài sản cho bên thứ ba",
+    "d": "Khi có công chứng hợp đồng",
+    "answer": "b",
+    "explanation": "Theo Điều 464 BLDS 2015, bên vay trở thành chủ sở hữu tài sản vay kể từ thời điểm nhận tài sản."
+  },
+  {
+    "question": "Trong hợp đồng vay tài sản, bên cho vay có nghĩa vụ gì nếu biết tài sản không bảo đảm chất lượng?",
+    "a": "Không phải thông báo cho bên vay",
+    "b": "Tự động hủy hợp đồng vay",
+    "c": "Phải báo cho bên vay, nếu không phải bồi thường thiệt hại",
+    "d": "Chỉ chịu trách nhiệm khi có yêu cầu của Tòa án",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 465 BLDS 2015, bên cho vay phải thông báo nếu biết tài sản không bảo đảm chất lượng, nếu không phải bồi thường thiệt hại."
+  },
+  {
+    "question": "Trong hợp đồng vay không lãi và không kỳ hạn, bên nào có quyền chấm dứt hợp đồng bất cứ lúc nào?",
+    "a": "Chỉ bên vay",
+    "b": "Chỉ bên cho vay",
+    "c": "Cả hai bên đều có quyền",
+    "d": "Phải có sự đồng ý của cơ quan nhà nước",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 469 BLDS 2015, cả bên vay và bên cho vay đều có quyền đòi/trả nợ bất cứ lúc nào nhưng phải báo trước thời gian hợp lý."
+  },
+  {
+    "question": "Trường hợp vay có lãi, bên vay chậm trả thì phải trả lãi quá hạn theo mức nào?",
+    "a": "150% lãi suất thỏa thuận",
+    "b": "200% lãi suất thỏa thuận",
+    "c": "Không phải trả lãi quá hạn",
+    "d": "Theo quyết định của ngân hàng",
+    "answer": "a",
+    "explanation": "Theo điểm b khoản 5 Điều 466 BLDS 2015, lãi quá hạn là 150% lãi suất vay theo hợp đồng."
+  },
+  {
+    "question": "Trong hợp đồng vay tài sản, lãi suất thỏa thuận vượt quá mức luật định thì hậu quả pháp lý là gì?",
+    "a": "Toàn bộ hợp đồng vô hiệu",
+    "b": "Chỉ phần lãi vượt quá không có hiệu lực",
+    "c": "Bên vay không phải trả nợ gốc",
+    "d": "Tòa án tự điều chỉnh hợp đồng",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 468 BLDS 2015, phần lãi vượt quá 20%/năm không có hiệu lực."
+  },
+  {
+    "question": "Trong hợp đồng vay có kỳ hạn và không có lãi, bên cho vay muốn đòi lại tài sản trước hạn phải đáp ứng điều kiện nào?",
+    "a": "Không cần điều kiện",
+    "b": "Phải có sự đồng ý của bên vay",
+    "c": "Phải thông báo trước",
+    "d": "Phải có quyết định của Tòa án",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 470 BLDS 2015, bên cho vay chỉ được đòi lại trước kỳ hạn nếu được bên vay đồng ý."
+  },
+  {
+    "question": "Trong hợp đồng vay không có lãi, khi bên vay chậm trả thì nghĩa vụ lãi phát sinh như thế nào?",
+    "a": "Không phát sinh lãi",
+    "b": "Lãi theo thỏa thuận bất kỳ",
+    "c": "Theo mức tại khoản 2 Điều 468 BLDS 2015",
+    "d": "Do ngân hàng quyết định",
+    "answer": "c",
+    "explanation": "Theo khoản 4 Điều 466 BLDS 2015, lãi chậm trả áp dụng theo khoản 2 Điều 468."
+  },
+
+  {
+    "question": "Trong hợp đồng vay có kỳ hạn, bên vay trả trước hạn thì nghĩa vụ lãi được xử lý thế nào?",
+    "a": "Không phải trả lãi",
+    "b": "Trả toàn bộ lãi theo kỳ hạn",
+    "c": "Trả 50% lãi đã thỏa thuận",
+    "d": "Do bên cho vay quyết định",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 470 BLDS 2015, bên vay trả trước hạn vẫn phải trả toàn bộ lãi theo kỳ hạn (trừ thỏa thuận khác)."
+  },
+  {
+    "question": "Trong hợp đồng vay tài sản, bên cho vay được quyền kiểm tra việc sử dụng tài sản khi nào?",
+    "a": "Không được kiểm tra",
+    "b": "Khi có yêu cầu của Tòa án",
+    "c": "Khi có thỏa thuận sử dụng đúng mục đích",
+    "d": "Chỉ khi bên vay vi phạm hợp đồng",
+    "answer": "c",
+    "explanation": "Theo Điều 467 BLDS 2015, nếu có thỏa thuận về mục đích sử dụng thì bên cho vay có quyền kiểm tra."
+  },
+  {
+    "question": "Trong họ, hụi, biêu, phường, hành vi nào bị pháp luật nghiêm cấm?",
+    "a": "Góp tiền theo thỏa thuận nhóm",
+    "b": "Tổ chức họ có lãi hợp pháp",
+    "c": "Tổ chức họ nhằm tương trợ",
+    "d": "Tổ chức họ dưới hình thức cho vay nặng lãi",
+    "answer": "d",
+    "explanation": "Theo khoản 4 Điều 471 BLDS 2015, nghiêm cấm tổ chức họ dưới hình thức cho vay nặng lãi."
+  },
+  {
+    "question": "Trong hợp đồng vay tài sản, nếu bên vay không trả đúng hạn thì lãi trên nợ gốc quá hạn được tính như thế nào?",
+    "a": "100% lãi suất thỏa thuận",
+    "b": "150% lãi suất thỏa thuận",
+    "c": "200% lãi suất thỏa thuận",
+    "d": "Không tính lãi quá hạn",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 5 Điều 466 BLDS 2015, lãi quá hạn bằng 150% lãi suất vay."
+  },
+  {
+    "question": "Trong hợp đồng vay không kỳ hạn, bên nào có quyền yêu cầu chấm dứt hợp đồng bất cứ lúc nào?",
+    "a": "Chỉ bên cho vay",
+    "b": "Chỉ bên vay",
+    "c": "Không bên nào được chấm dứt",
+    "d": "Cả hai bên đều có quyền",
+    "answer": "d",
+    "explanation": "Theo Điều 469 BLDS 2015, cả hai bên đều có quyền nhưng phải báo trước thời gian hợp lý."
+  },
+  {
+    "question": "Theo BLDS 2015, thời điểm phát sinh hợp đồng vay tài sản là khi nào?",
+    "a": "Khi công chứng hợp đồng",
+    "b": "Khi ký hợp đồng",
+    "c": "Khi bên vay nhận tài sản",
+    "d": "Khi bên cho vay chuyển tiền",
+    "answer": "c",
+    "explanation": "Hợp đồng vay tài sản phát sinh quyền sở hữu khi bên vay nhận tài sản theo Điều 464 BLDS 2015."
+  },
+  {
     "question": "Theo BLDS 2015, hợp đồng mua bán tài sản là sự thỏa thuận trong đó bên bán có nghĩa vụ gì?",
     "a": "Chỉ giao tài sản mà không cần chuyển quyền sở hữu",
     "b": "Chuyển quyền sở hữu tài sản cho bên mua",
