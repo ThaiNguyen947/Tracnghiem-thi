@@ -1,5 +1,698 @@
 [
   {
+  "question": "A đã thế chấp nhà cho ngân hàng X và đã đăng ký. Sau đó A tự ý bán nhà cho B mà không có sự đồng ý của X. Khi xảy ra tranh chấp, nhận định đúng là:",
+  "a": "B luôn trở thành chủ sở hữu hợp pháp",
+  "b": "Giao dịch mua bán tự động vô hiệu",
+  "c": "Ngân hàng X vẫn có quyền xử lý tài sản do có hiệu lực đối kháng",
+  "d": "X mất quyền vì tài sản đã bán",
+  "answer": "c",
+  "explanation": "Theo Điều 297 BLDS 2015, đăng ký thế chấp làm phát sinh hiệu lực đối kháng với người thứ ba, nên việc chuyển nhượng không làm mất quyền xử lý tài sản của X."
+},
+{
+  "question": "A thế chấp tài sản cho ngân hàng nhưng chưa đăng ký biện pháp thế chấp. Sau đó A bán tài sản cho B là người ngay tình. Khi tranh chấp xảy ra, xử lý đúng là:",
+  "a": "Ngân hàng luôn được ưu tiên",
+  "b": "B luôn phải trả lại tài sản",
+  "c": "Ngân hàng có thể mất ưu tiên do không có hiệu lực đối kháng",
+  "d": "Tài sản bị hủy giao dịch",
+  "answer": "c",
+  "explanation": "Theo Điều 297 BLDS 2015, nếu không đăng ký thì không phát sinh hiệu lực đối kháng với người thứ ba."
+},
+{
+  "question": "A bán tài sản đang thế chấp cho B, sau đó B tiếp tục cho C thuê tài sản. Khi ngân hàng xử lý tài sản, quyền của C:",
+  "a": "Luôn được bảo vệ tuyệt đối",
+  "b": "Tự động mất quyền thuê",
+  "c": "Có thể bị chấm dứt theo hiệu lực xử lý tài sản bảo đảm",
+  "d": "Trở thành chủ sở hữu",
+  "answer": "c",
+  "explanation": "Theo Điều 321 và Điều 299 BLDS 2015, khi xử lý tài sản bảo đảm, quyền của bên thuê có thể bị ảnh hưởng tùy điều kiện pháp luật."
+},
+{
+  "question": "A thế chấp kho hàng, sau đó bán hàng hóa trong kho mà không thay thế hàng hóa tương ứng. Khi ngân hàng xử lý tài sản, nhận định đúng là:",
+  "a": "Mất toàn bộ quan hệ bảo đảm",
+  "b": "Vẫn duy trì bảo đảm với tài sản hình thành từ việc bán hàng",
+  "c": "Ngân hàng không còn quyền gì",
+  "d": "Giao dịch bán luôn vô hiệu",
+  "answer": "b",
+  "explanation": "Theo khoản 4 Điều 321 BLDS 2015, tài sản luân chuyển có thể chuyển hóa thành tài sản thay thế hoặc quyền đối với tài sản hình thành."
+},
+{
+  "question": "A thế chấp tài sản cho ngân hàng X (đã đăng ký). Sau đó A bán tài sản cho B. B yêu cầu hủy hợp đồng vì tài sản đang thế chấp. Xử lý đúng là:",
+  "a": "Hợp đồng mua bán tự động vô hiệu",
+  "b": "B chỉ có quyền yêu cầu A chịu trách nhiệm dân sự, không làm mất quyền thế chấp của X",
+  "c": "X mất quyền thế chấp",
+  "d": "B trở thành bên thế chấp",
+  "answer": "b",
+  "explanation": "Quan hệ mua bán là quan hệ độc lập. Theo Điều 297 BLDS 2015, quyền thế chấp của X vẫn tồn tại."
+},
+{
+  "question": "A thế chấp tài sản và đã đăng ký. Sau đó bán cho B nhưng chưa sang tên. Khi ngân hàng yêu cầu xử lý tài sản, kết quả pháp lý là:",
+  "a": "B luôn được bảo vệ quyền sở hữu",
+  "b": "Ngân hàng không có quyền xử lý",
+  "c": "Ngân hàng vẫn có quyền xử lý tài sản thế chấp",
+  "d": "Tài sản thuộc B vì đã mua",
+  "answer": "c",
+  "explanation": "Theo Điều 297 BLDS 2015, quyền đối kháng không phụ thuộc việc sang tên mà phụ thuộc đăng ký thế chấp."
+},
+{
+  "question": "A bán tài sản thế chấp cho B. B ngay tình và đã trả tiền đầy đủ nhưng chưa nhận tài sản. Khi ngân hàng xử lý tài sản, nhận định đúng là:",
+  "a": "B luôn giữ tài sản",
+  "b": "Ngân hàng không có quyền xử lý",
+  "c": "Ngân hàng có quyền xử lý nếu đã đăng ký thế chấp",
+  "d": "Giao dịch vô hiệu toàn bộ",
+  "answer": "c",
+  "explanation": "Theo Điều 297 BLDS 2015, đăng ký thế chấp tạo quyền đối kháng với người thứ ba."
+},
+{
+  "question": "A thế chấp tài sản cho X và sau đó bán tài sản cho B. B kiện yêu cầu vô hiệu hợp đồng vì không được thông báo. Nhận định đúng là:",
+  "a": "Hợp đồng luôn vô hiệu",
+  "b": "Thiếu thông báo không làm mất quyền thế chấp của X",
+  "c": "X mất quyền ưu tiên",
+  "d": "B trở thành chủ sở hữu ngay",
+  "answer": "b",
+  "explanation": "Việc không thông báo không làm thay đổi hiệu lực đối kháng theo Điều 297 BLDS 2015."
+},
+{
+  "question": "A bán tài sản thế chấp cho B, sau đó B bán tiếp cho C. Khi ngân hàng xử lý tài sản, quyền của C:",
+  "a": "Luôn được bảo vệ",
+  "b": "Không bị ảnh hưởng vì ngay tình",
+  "c": "Có thể bị thu hồi để xử lý tài sản bảo đảm",
+  "d": "Trở thành người thế chấp mới",
+  "answer": "c",
+  "explanation": "Theo Điều 297 BLDS 2015, quyền đối kháng theo tài sản khiến quyền bảo đảm đi theo tài sản."
+},
+{
+  "question": "A thế chấp tài sản cho ngân hàng X. Sau đó A bán tài sản cho B nhưng hợp đồng mua bán có điều khoản 'tài sản không bị thế chấp'. Khi phát hiện có thế chấp, xử lý đúng là:",
+  "a": "X mất quyền thế chấp",
+  "b": "Điều khoản không ảnh hưởng quyền đối kháng của X",
+  "c": "Hợp đồng thế chấp tự động vô hiệu",
+  "d": "B được ưu tiên tài sản",
+  "answer": "b",
+  "explanation": "Điều khoản trong hợp đồng mua bán không làm ảnh hưởng quyền đối kháng của bên nhận thế chấp theo Điều 297 BLDS 2015."
+},
+{
+  "question": "A đặt cọc 100 triệu để mua nhà của B. Sau đó B từ chối bán nhà dù không có thỏa thuận phạt cọc. Xử lý đúng là:",
+  "a": "B chỉ trả lại 100 triệu đặt cọc",
+  "b": "B trả lại 100 triệu và một khoản tương đương 100 triệu",
+  "c": "A mất toàn bộ tiền đặt cọc",
+  "d": "Hợp đồng tự động vô hiệu",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 328 BLDS 2015, nếu bên nhận đặt cọc từ chối giao kết hợp đồng thì phải trả lại tài sản đặt cọc và một khoản tương đương giá trị tài sản đặt cọc, trừ khi có thỏa thuận khác."
+},
+{
+  "question": "A đặt cọc để mua xe nhưng sau đó A không muốn mua nữa. B xử lý đúng là:",
+  "a": "Phải trả lại toàn bộ tiền cọc",
+  "b": "Được giữ toàn bộ tài sản đặt cọc",
+  "c": "Chỉ được giữ 50% tiền cọc",
+  "d": "Phải trả lại và bồi thường",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 328 BLDS 2015, nếu bên đặt cọc từ chối giao kết hoặc thực hiện hợp đồng thì tài sản đặt cọc thuộc về bên nhận đặt cọc."
+},
+{
+  "question": "A thuê xe ô tô của B và ký cược 50 triệu. Khi trả xe, xe bị hư hỏng không thể khôi phục. Xử lý tiền ký cược là:",
+  "a": "Trả lại toàn bộ cho A",
+  "b": "Thuộc về B",
+  "c": "Chia đôi giữa A và B",
+  "d": "Nộp ngân sách nhà nước",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 329 BLDS 2015, nếu tài sản thuê không còn để trả lại thì tài sản ký cược thuộc về bên cho thuê."
+},
+{
+  "question": "A ký quỹ tại ngân hàng để bảo đảm nghĩa vụ với B. Khi A vi phạm nghĩa vụ, việc xử lý tiền ký quỹ được thực hiện như thế nào?",
+  "a": "Ngân hàng tự quyết định trả lại tiền",
+  "b": "B được thanh toán từ tài khoản ký quỹ tại tổ chức tín dụng",
+  "c": "Tiền ký quỹ thuộc về A",
+  "d": "Phải Tòa án quyết định mới được xử lý",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 330 BLDS 2015, bên có quyền được tổ chức tín dụng thanh toán từ tiền ký quỹ khi nghĩa vụ không được thực hiện đúng."
+},
+{
+  "question": "A mua xe trả góp của B, trong hợp đồng có điều khoản B giữ quyền sở hữu cho đến khi A thanh toán đủ. Đây là:",
+  "a": "Đặt cọc",
+  "b": "Ký quỹ",
+  "c": "Bảo lưu quyền sở hữu",
+  "d": "Thế chấp",
+  "answer": "c",
+  "explanation": "Theo khoản 1 Điều 331 BLDS 2015, bên bán có thể bảo lưu quyền sở hữu đến khi bên mua thanh toán đầy đủ."
+},
+{
+  "question": "A mua xe theo cơ chế bảo lưu quyền sở hữu nhưng chưa thanh toán đủ. A đem xe bán cho C. Khi tranh chấp xảy ra, nhận định đúng là:",
+  "a": "C luôn trở thành chủ sở hữu",
+  "b": "B mất quyền sở hữu ngay khi A bán",
+  "c": "B có quyền đòi lại tài sản nếu bảo lưu có hiệu lực đối kháng",
+  "d": "C có quyền ưu tiên vì ngay tình",
+  "answer": "c",
+  "explanation": "Theo khoản 3 Điều 331 BLDS 2015, bảo lưu quyền sở hữu có hiệu lực đối kháng với người thứ ba khi đăng ký."
+},
+{
+  "question": "A mua hàng trả góp, đã nhận hàng và sử dụng. Trong thời gian chưa thanh toán đủ, rủi ro mất mát tài sản thuộc về:",
+  "a": "Bên bán",
+  "b": "Bên mua",
+  "c": "Ngân hàng",
+  "d": "Cơ quan nhà nước",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 333 BLDS 2015, bên mua chịu rủi ro đối với tài sản trong thời gian bảo lưu quyền sở hữu, trừ thỏa thuận khác."
+},
+{
+  "question": "A ký hợp đồng đặt cọc nhưng không ghi rõ phạt cọc. Khi bên bán vi phạm, áp dụng chế tài nào?",
+  "a": "Không áp dụng gì",
+  "b": "nếu bên nhận đặt cọc từ chối giao kết thì phải trả lại cọc và trả thêm khoản tương đương, trừ khi có thỏa thuận khác",
+  "c": "Chỉ trả lại tiền cọc",
+  "d": "Tòa án quyết định tùy ý",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 328 BLDS 2015, nếu bên nhận đặt cọc từ chối giao kết thì phải trả lại và trả thêm khoản tương đương, trừ khi có thỏa thuận khác."
+},
+{
+  "question": "A ký quỹ tại ngân hàng để bảo đảm nghĩa vụ. Khi A vi phạm, ngân hàng có quyền:",
+  "a": "Tự giữ toàn bộ tiền ký quỹ",
+  "b": "Tự ý chuyển tiền cho bên có quyền",
+  "c": "Chỉ thực hiện thanh toán theo đúng thủ tục pháp luật",
+  "d": "Không được xử lý tiền ký quỹ",
+  "answer": "c",
+  "explanation": "Theo khoản 3 Điều 330 BLDS 2015, việc ký quỹ và thanh toán phải thực hiện theo thủ tục pháp luật."
+},
+{
+  "question": "Bảo lưu quyền sở hữu chấm dứt trong trường hợp nào sau đây?",
+  "a": "Bên mua sử dụng tài sản",
+  "b": "Bên mua chưa thanh toán đủ",
+  "c": "Bên bán đổi ý",
+  "d": "Nghĩa vụ thanh toán đã hoàn thành",
+  "answer": "d",
+  "explanation": "Theo Điều 334 BLDS 2015, bảo lưu quyền sở hữu chấm dứt khi nghĩa vụ thanh toán được thực hiện xong."
+},
+{
+  "question": "Trong đặt cọc, tài sản đặt cọc có thể được trừ để thực hiện nghĩa vụ trong trường hợp nào?",
+  "a": "Luôn luôn trừ vào nghĩa vụ",
+  "b": "Chỉ khi hợp đồng được giao kết và thực hiện",
+  "c": "Khi bên nhận cọc yêu cầu",
+  "d": "Khi Tòa án quyết định",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 328 BLDS 2015, khi hợp đồng được giao kết và thực hiện thì tài sản đặt cọc được trả lại hoặc trừ để thực hiện nghĩa vụ."
+},
+{
+  "question": "Trong ký cược, bản chất pháp lý đúng là:",
+  "a": "Bảo đảm nghĩa vụ giao kết hợp đồng",
+  "b": "Bảo đảm nghĩa vụ trả lại tài sản thuê động sản",
+  "c": "Bảo đảm nghĩa vụ vay vốn",
+  "d": "Bảo đảm chuyển nhượng tài sản",
+  "answer": "b",
+  "explanation": "Theo Điều 329 BLDS 2015, ký cược là biện pháp bảo đảm việc trả lại tài sản thuê là động sản."
+},
+{
+  "question": "Trong ký quỹ, tài sản được gửi vào đâu để bảo đảm nghĩa vụ?",
+  "a": "Bên nhận nghĩa vụ giữ trực tiếp",
+  "b": "Cơ quan thi hành án",
+  "c": "Tổ chức tín dụng trong tài khoản phong tỏa",
+  "d": "Cơ quan nhà nước có thẩm quyền",
+  "answer": "c",
+  "explanation": "Theo khoản 1 Điều 330 BLDS 2015, ký quỹ là việc gửi tài sản vào tài khoản phong tỏa tại tổ chức tín dụng."
+},
+{
+  "question": "Khi bên có nghĩa vụ ký quỹ vi phạm, việc xử lý tiền ký quỹ được thực hiện như thế nào?",
+  "a": "Ngân hàng tự quyết định chia tiền",
+  "b": "Bên có quyền được thanh toán theo quy định từ tổ chức tín dụng",
+  "c": "Tiền bị tịch thu toàn bộ",
+  "d": "Phải trả lại cho bên ký quỹ",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 330 BLDS 2015, bên có quyền được tổ chức tín dụng thanh toán khi có vi phạm nghĩa vụ."
+},
+{
+  "question": "Bảo lưu quyền sở hữu phải được lập dưới hình thức nào để có giá trị pháp lý rõ ràng?",
+  "a": "Chỉ cần thỏa thuận miệng",
+  "b": "Phải lập thành văn bản riêng hoặc ghi trong hợp đồng",
+  "c": "Chỉ cần hóa đơn bán hàng",
+  "d": "Chỉ cần giao tài sản",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 331 BLDS 2015, bảo lưu quyền sở hữu phải lập thành văn bản riêng hoặc ghi trong hợp đồng mua bán."
+},
+{
+  "question": "Trong bảo lưu quyền sở hữu, quyền đòi lại tài sản của bên bán phát sinh khi nào?",
+  "a": "Khi bên mua sử dụng tài sản",
+  "b": "Khi bên mua chậm thanh toán theo thỏa thuận",
+  "c": "Khi tài sản bị hư hỏng",
+  "d": "Khi đăng ký quyền sở hữu",
+  "answer": "b",
+  "explanation": "Theo Điều 332 BLDS 2015, bên bán có quyền đòi lại tài sản khi bên mua không hoàn thành nghĩa vụ thanh toán."
+},
+{
+  "question": "Khi bên mua trong bảo lưu quyền sở hữu làm hư hỏng tài sản, trách nhiệm phát sinh là:",
+  "a": "Không phải bồi thường",
+  "b": "Bên bán chịu rủi ro",
+  "c": "Phải bồi thường thiệt hại cho bên bán",
+  "d": "Chỉ trả lại tài sản",
+  "answer": "c",
+  "explanation": "Theo Điều 332 BLDS 2015, nếu bên mua làm mất hoặc hư hỏng tài sản thì phải bồi thường."
+},
+{
+  "question": "Trong thời gian bảo lưu quyền sở hữu, bên mua có quyền nào sau đây?",
+  "a": "Tự do bán tài sản",
+  "b": "Sử dụng và hưởng hoa lợi, lợi tức từ tài sản",
+  "c": "Định đoạt tài sản không hạn chế",
+  "d": "Chuyển quyền sở hữu cho người khác",
+  "answer": "b",
+  "explanation": "Theo khoản 1 Điều 333 BLDS 2015, bên mua được sử dụng và hưởng hoa lợi, lợi tức từ tài sản."
+},
+{
+  "question": "Bảo lưu quyền sở hữu chấm dứt trong trường hợp nào dưới đây KHÔNG đúng?",
+  "a": "Nghĩa vụ thanh toán hoàn thành",
+  "b": "Bên bán nhận lại tài sản",
+  "c": "Bên mua sử dụng tài sản ổn định",
+  "d": "Theo thỏa thuận",
+  "answer": "c",
+  "explanation": "Theo Điều 334 BLDS 2015, bảo lưu quyền sở hữu chỉ chấm dứt khi thanh toán xong, nhận lại tài sản hoặc theo thỏa thuận."
+},
+{
+  "question": "Trong đặt cọc, nếu không có thỏa thuận khác, hậu quả pháp lý khi bên đặt cọc vi phạm là:",
+  "a": "Được hoàn lại toàn bộ tiền cọc",
+  "b": "Mất tài sản đặt cọc",
+  "c": "Chỉ bị phạt hành chính",
+  "d": "Không phát sinh trách nhiệm",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 328 BLDS 2015, nếu bên đặt cọc từ chối giao kết hoặc thực hiện hợp đồng thì tài sản đặt cọc thuộc về bên nhận đặt cọc."
+},
+{
+  "question": "Bên nhận bảo lãnh có quyền yêu cầu bên bảo lãnh thực hiện nghĩa vụ thay khi nào?",
+  "a": "Khi ký hợp đồng bảo lãnh",
+  "b": "Khi nghĩa vụ chưa đến hạn",
+  "c": "Khi bên được bảo lãnh không thực hiện hoặc thực hiện không đúng nghĩa vụ đến hạn",
+  "d": "Bất kỳ lúc nào theo yêu cầu",
+  "answer": "c",
+  "explanation": "Theo khoản 1 Điều 339 BLDS 2015, bên nhận bảo lãnh chỉ có quyền yêu cầu khi bên được bảo lãnh không thực hiện hoặc thực hiện không đúng nghĩa vụ đến hạn."
+},
+{
+  "question": "Trong bảo lãnh, nếu các bên thỏa thuận bên bảo lãnh chỉ thực hiện khi bên được bảo lãnh không có khả năng thực hiện thì:",
+  "a": "Vẫn phải thực hiện ngay khi đến hạn",
+  "b": "Chỉ thực hiện khi bên được bảo lãnh không có khả năng thực hiện",
+  "c": "Tự động vô hiệu bảo lãnh",
+  "d": "Không còn nghĩa vụ bảo lãnh",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 335 BLDS 2015, các bên có thể thỏa thuận giới hạn trách nhiệm bảo lãnh chỉ khi bên được bảo lãnh không có khả năng thực hiện nghĩa vụ."
+},
+{
+  "question": "Phạm vi bảo lãnh theo pháp luật bao gồm những khoản nào sau đây?",
+  "a": "Chỉ nợ gốc",
+  "b": "Nợ gốc, lãi, phạt, bồi thường và lãi chậm trả (trừ thỏa thuận khác)",
+  "c": "Chỉ tiền gốc và phạt",
+  "d": "Chỉ bồi thường thiệt hại",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 336 BLDS 2015, phạm vi bảo lãnh bao gồm cả nợ gốc, lãi, phạt, bồi thường thiệt hại và lãi chậm trả, trừ khi có thỏa thuận khác."
+},
+{
+  "question": "Trong trường hợp nhiều người cùng bảo lãnh liên đới, bên có quyền có thể:",
+  "a": "Chỉ yêu cầu người ký đầu tiên",
+  "b": "Yêu cầu bất kỳ người bảo lãnh nào thực hiện toàn bộ nghĩa vụ",
+  "c": "Chia đều nghĩa vụ bắt buộc",
+  "d": "Chỉ yêu cầu Tòa án",
+  "answer": "b",
+  "explanation": "Theo Điều 338 BLDS 2015, khi bảo lãnh liên đới, bên có quyền có thể yêu cầu bất kỳ người bảo lãnh nào thực hiện toàn bộ nghĩa vụ."
+},
+{
+  "question": "Một người trong nhóm bảo lãnh liên đới đã thực hiện toàn bộ nghĩa vụ thay cho bên được bảo lãnh thì:",
+  "a": "Không có quyền gì thêm",
+  "b": "Có quyền yêu cầu những người bảo lãnh còn lại hoàn trả phần nghĩa vụ tương ứng",
+  "c": "Mất quyền yêu cầu",
+  "d": "Trở thành bên nhận bảo lãnh",
+  "answer": "b",
+  "explanation": "Theo Điều 338 BLDS 2015, người đã thực hiện nghĩa vụ thay có quyền yêu cầu những người bảo lãnh còn lại thực hiện phần nghĩa vụ của họ."
+},
+{
+  "question": "Bên bảo lãnh không phải thực hiện nghĩa vụ trong trường hợp nào sau đây?",
+  "a": "Bên được bảo lãnh không có tiền",
+  "b": "Bên nhận bảo lãnh có thể bù trừ nghĩa vụ với bên được bảo lãnh",
+  "c": "Bên bảo lãnh không muốn thực hiện",
+  "d": "Khi Tòa án chưa xét xử",
+  "answer": "b",
+  "explanation": "Theo khoản 3 Điều 339 BLDS 2015, bên bảo lãnh không phải thực hiện nghĩa vụ nếu bên nhận bảo lãnh có thể bù trừ nghĩa vụ với bên được bảo lãnh."
+},
+{
+  "question": "Khi bên được bảo lãnh không thực hiện nghĩa vụ, trách nhiệm đầu tiên phát sinh là:",
+  "a": "Bên bảo lãnh đương nhiên phải trả nợ",
+  "b": "Bên nhận bảo lãnh có quyền yêu cầu bên bảo lãnh thực hiện nghĩa vụ",
+  "c": "Hợp đồng tự động vô hiệu",
+  "d": "Tòa án tự động xử lý",
+  "answer": "b",
+  "explanation": "Theo Điều 339 và Điều 342 BLDS 2015, khi bên được bảo lãnh vi phạm nghĩa vụ, bên nhận bảo lãnh có quyền yêu cầu bên bảo lãnh thực hiện nghĩa vụ."
+},
+{
+  "question": "Trong trường hợp bên bảo lãnh không thực hiện đúng nghĩa vụ bảo lãnh, hậu quả pháp lý là:",
+  "a": "Không phát sinh trách nhiệm",
+  "b": "Chỉ bị nhắc nhở",
+  "c": "Phải thanh toán nghĩa vụ và bồi thường thiệt hại",
+  "d": "Hợp đồng tự động chấm dứt",
+  "answer": "c",
+  "explanation": "Theo khoản 2 Điều 342 BLDS 2015, nếu bên bảo lãnh không thực hiện đúng nghĩa vụ thì phải thanh toán giá trị nghĩa vụ vi phạm và bồi thường thiệt hại."
+},
+{
+  "question": "Bảo lãnh chấm dứt trong trường hợp nào sau đây?",
+  "a": "Bên được bảo lãnh thay đổi nơi cư trú",
+  "b": "Nghĩa vụ được bảo lãnh chấm dứt",
+  "c": "Bên bảo lãnh không muốn tiếp tục",
+  "d": "Bên nhận bảo lãnh đổi ý",
+  "answer": "b",
+  "explanation": "Theo Điều 343 BLDS 2015, bảo lãnh chấm dứt khi nghĩa vụ được bảo lãnh chấm dứt."
+},
+{
+  "question": "Trong bảo lãnh, việc bên nhận bảo lãnh miễn nghĩa vụ cho bên bảo lãnh dẫn đến hậu quả nào?",
+  "a": "Bên được bảo lãnh vẫn phải trả toàn bộ",
+  "b": "Bên được bảo lãnh không phải thực hiện nghĩa vụ, trừ trường hợp có thỏa thuận khác",
+  "c": "Hợp đồng bảo lãnh vô hiệu",
+  "d": "Chuyển nghĩa vụ sang người khác",
+  "answer": "b",
+  "explanation": "Theo khoản 1 Điều 341 BLDS 2015, nếu bên nhận bảo lãnh miễn cho bên bảo lãnh thì bên được bảo lãnh không phải thực hiện nghĩa vụ, trừ khi có thỏa thuận hoặc luật quy định khác."
+},
+{
+  "question": "Các bên trong bảo lãnh có được thỏa thuận sử dụng biện pháp bảo đảm bằng tài sản để bảo đảm thực hiện nghĩa vụ bảo lãnh không?",
+  "a": "Không được phép vì bảo lãnh không có tài sản",
+  "b": "Chỉ được nếu Tòa án cho phép",
+  "c": "Được phép thỏa thuận sử dụng biện pháp bảo đảm bằng tài sản",
+  "d": "Chỉ ngân hàng mới được áp dụng",
+  "answer": "c",
+  "explanation": "Theo khoản 3 Điều 336 BLDS 2015, các bên có thể thỏa thuận sử dụng biện pháp bảo đảm bằng tài sản để bảo đảm thực hiện nghĩa vụ bảo lãnh."
+},
+{
+  "question": "Trong trường hợp nghĩa vụ được bảo lãnh là nghĩa vụ phát sinh trong tương lai, bảo lãnh không bao gồm nghĩa vụ nào sau đây?",
+  "a": "Nghĩa vụ phát sinh sau khi người bảo lãnh chết",
+  "b": "Nghĩa vụ đã phát sinh trước khi ký bảo lãnh",
+  "c": "Nghĩa vụ có trong hợp đồng bảo lãnh",
+  "d": "Nghĩa vụ đã được xác định cụ thể",
+  "answer": "a",
+  "explanation": "Theo khoản 4 Điều 336 BLDS 2015, nghĩa vụ phát sinh trong tương lai không bao gồm nghĩa vụ phát sinh sau khi người bảo lãnh chết hoặc pháp nhân bảo lãnh chấm dứt."
+},
+{
+  "question": "Việc bên bảo lãnh được hưởng thù lao trong quan hệ bảo lãnh được xác định như thế nào?",
+  "a": "Luôn mặc định có thù lao",
+  "b": "Không bao giờ được nhận thù lao",
+  "c": "Chỉ có nếu các bên có thỏa thuận",
+  "d": "Do Tòa án quyết định",
+  "answer": "c",
+  "explanation": "Theo Điều 337 BLDS 2015, bên bảo lãnh chỉ được hưởng thù lao nếu có thỏa thuận."
+},
+{
+  "question": "Sau khi bên bảo lãnh đã thực hiện nghĩa vụ thay, quyền của bên bảo lãnh đối với bên được bảo lãnh là gì?",
+  "a": "Không có quyền gì",
+  "b": "Có quyền yêu cầu bên được bảo lãnh hoàn trả trong phạm vi đã thực hiện",
+  "c": "Trở thành bên nhận bảo lãnh",
+  "d": "Tự động được sở hữu tài sản của bên được bảo lãnh",
+  "answer": "b",
+  "explanation": "Theo Điều 340 BLDS 2015, bên bảo lãnh có quyền yêu cầu bên được bảo lãnh thực hiện nghĩa vụ hoàn trả trong phạm vi đã thực hiện."
+},
+{
+  "question": "Trường hợp bên nhận bảo lãnh có thể bù trừ nghĩa vụ với bên được bảo lãnh thì hậu quả pháp lý là gì?",
+  "a": "Vẫn được yêu cầu bên bảo lãnh thực hiện",
+  "b": "Bên bảo lãnh phải thực hiện ngay",
+  "c": "Bên bảo lãnh không phải thực hiện nghĩa vụ bảo lãnh",
+  "d": "Hợp đồng bảo lãnh vô hiệu",
+  "answer": "c",
+  "explanation": "Theo khoản 3 Điều 339 BLDS 2015, bên bảo lãnh không phải thực hiện nghĩa vụ nếu bên nhận bảo lãnh có thể bù trừ nghĩa vụ với bên được bảo lãnh."
+},
+{
+  "question": "Trong bảo lãnh, bên nhận bảo lãnh có được yêu cầu bên bảo lãnh thực hiện nghĩa vụ trước thời hạn không?",
+  "a": "Được trong mọi trường hợp",
+  "b": "Được nếu có yêu cầu đơn phương",
+  "c": "Không được yêu cầu khi nghĩa vụ chưa đến hạn",
+  "d": "Chỉ được khi có Tòa án",
+  "answer": "c",
+  "explanation": "Theo khoản 2 Điều 339 BLDS 2015, bên nhận bảo lãnh không được yêu cầu bên bảo lãnh thực hiện nghĩa vụ khi nghĩa vụ chưa đến hạn."
+},
+{
+  "question": "Trong trường hợp bên bảo lãnh đã thực hiện nghĩa vụ bảo lãnh, quan hệ bảo lãnh sẽ:",
+  "a": "Tiếp tục vô thời hạn",
+  "b": "Tự động chấm dứt",
+  "c": "Chuyển sang quan hệ vay nợ mới",
+  "d": "Bị Tòa án hủy bỏ",
+  "answer": "b",
+  "explanation": "Theo khoản 3 Điều 343 BLDS 2015, bảo lãnh chấm dứt khi bên bảo lãnh đã thực hiện nghĩa vụ bảo lãnh."
+},
+{
+  "question": "Việc miễn cho một người trong nhóm bảo lãnh liên đới có ảnh hưởng như thế nào đến những người còn lại?",
+  "a": "Những người còn lại cũng được miễn toàn bộ",
+  "b": "Những người còn lại vẫn phải thực hiện nghĩa vụ của mình",
+  "c": "Toàn bộ bảo lãnh chấm dứt",
+  "d": "Chuyển sang nghĩa vụ mới",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 341 BLDS 2015, miễn cho một người trong nhóm bảo lãnh liên đới không làm chấm dứt nghĩa vụ của những người còn lại."
+},
+{
+  "question": "Trong bảo lãnh, bên bảo lãnh phải thực hiện nghĩa vụ thay trong trường hợp nào sau đây là đúng nhất?",
+  "a": "Khi bên được bảo lãnh vi phạm nghĩa vụ đến hạn",
+  "b": "Khi hợp đồng bảo lãnh được ký",
+  "c": "Khi bên nhận bảo lãnh yêu cầu bất kỳ lúc nào",
+  "d": "Khi Tòa án ra quyết định trước",
+  "answer": "a",
+  "explanation": "Theo khoản 1 Điều 342 và Điều 339 BLDS 2015, bên bảo lãnh chỉ phải thực hiện khi bên được bảo lãnh không thực hiện hoặc thực hiện không đúng nghĩa vụ đến hạn."
+},
+{
+  "question": "Trong bảo lãnh, nếu các bên có thỏa thuận sử dụng thêm biện pháp bảo đảm bằng tài sản để bảo đảm nghĩa vụ bảo lãnh thì điều này có hợp pháp không?",
+  "a": "Không hợp pháp vì bảo lãnh không được kèm tài sản",
+  "b": "Chỉ hợp pháp nếu Tòa án chấp thuận",
+  "c": "Hợp pháp nếu các bên có thỏa thuận",
+  "d": "Chỉ ngân hàng mới được áp dụng",
+  "answer": "c",
+  "explanation": "Theo khoản 3 Điều 336 BLDS 2015, các bên có thể thỏa thuận dùng biện pháp bảo đảm bằng tài sản để bảo đảm nghĩa vụ bảo lãnh."
+},
+{
+  "question": "Bên bảo lãnh cam kết nghĩa vụ cho nghĩa vụ phát sinh trong tương lai. Trường hợp nào sau đây không thuộc phạm vi bảo lãnh?",
+  "a": "Nghĩa vụ phát sinh trước khi ký bảo lãnh",
+  "b": "Nghĩa vụ phát sinh sau khi người bảo lãnh chết",
+  "c": "Nghĩa vụ đã xác định trong hợp đồng",
+  "d": "Nghĩa vụ đang thực hiện",
+  "answer": "b",
+  "explanation": "Theo khoản 4 Điều 336 BLDS 2015, bảo lãnh nghĩa vụ tương lai không bao gồm nghĩa vụ phát sinh sau khi người bảo lãnh chết hoặc pháp nhân chấm dứt."
+},
+{
+  "question": "Trong quan hệ bảo lãnh, việc bên nhận bảo lãnh có thể bù trừ nghĩa vụ với bên được bảo lãnh dẫn đến hậu quả nào?",
+  "a": "Bên bảo lãnh vẫn phải thực hiện",
+  "b": "Bên bảo lãnh được miễn thực hiện nghĩa vụ bảo lãnh",
+  "c": "Hợp đồng vô hiệu",
+  "d": "Chuyển nghĩa vụ sang người thứ ba",
+  "answer": "b",
+  "explanation": "Theo khoản 3 Điều 339 BLDS 2015, bên bảo lãnh không phải thực hiện nghĩa vụ nếu bên nhận bảo lãnh có thể bù trừ nghĩa vụ với bên được bảo lãnh."
+},
+{
+  "question": "Trong bảo lãnh, bên nhận bảo lãnh yêu cầu bên bảo lãnh thực hiện nghĩa vụ trước thời hạn. Xử lý đúng là:",
+  "a": "Được phép vì bên nhận bảo lãnh có quyền tuyệt đối",
+  "b": "Chỉ được khi Tòa án quyết định",
+  "c": "Không được yêu cầu khi nghĩa vụ chưa đến hạn",
+  "d": "Được nếu có văn bản đơn phương",
+  "answer": "c",
+  "explanation": "Theo khoản 2 Điều 339 BLDS 2015, bên nhận bảo lãnh không được yêu cầu thực hiện nghĩa vụ khi chưa đến hạn."
+},
+{
+  "question": "Sau khi bên bảo lãnh đã thực hiện nghĩa vụ thay, quyền của họ đối với bên được bảo lãnh là gì?",
+  "a": "Không có quyền gì thêm",
+  "b": "Có quyền yêu cầu hoàn trả trong phạm vi đã thực hiện",
+  "c": "Trở thành chủ nợ mới độc lập",
+  "d": "Mất toàn bộ quyền yêu cầu",
+  "answer": "b",
+  "explanation": "Theo Điều 340 BLDS 2015, bên bảo lãnh có quyền yêu cầu bên được bảo lãnh hoàn trả trong phạm vi nghĩa vụ đã thực hiện."
+},
+{
+  "question": "Trong trường hợp nhiều người cùng bảo lãnh liên đới, nếu một người được miễn nghĩa vụ thì hậu quả pháp lý là:",
+  "a": "Toàn bộ nghĩa vụ chấm dứt",
+  "b": "Những người còn lại vẫn phải thực hiện phần nghĩa vụ của họ",
+  "c": "Cả nhóm đều được miễn",
+  "d": "Chuyển sang nghĩa vụ mới",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 341 BLDS 2015, miễn nghĩa vụ cho một người không làm chấm dứt nghĩa vụ của những người còn lại."
+},
+{
+  "question": "Bảo lãnh chấm dứt trong trường hợp nào sau đây đúng nhất?",
+  "a": "Khi bên được bảo lãnh mất khả năng tài chính",
+  "b": "Khi nghĩa vụ được bảo lãnh chấm dứt",
+  "c": "Khi bên nhận bảo lãnh thay đổi ý kiến",
+  "d": "Khi hợp đồng bị tranh chấp",
+  "answer": "b",
+  "explanation": "Theo Điều 343 BLDS 2015, bảo lãnh chấm dứt khi nghĩa vụ được bảo lãnh chấm dứt."
+},
+{
+  "question": "Trong bảo lãnh, phạm vi nghĩa vụ có thể bao gồm những khoản nào sau đây?",
+  "a": "Chỉ nợ gốc",
+  "b": "Chỉ nợ gốc và lãi",
+  "c": "Nợ gốc, lãi, phạt, bồi thường, lãi chậm trả",
+  "d": "Chỉ tiền phạt vi phạm",
+  "answer": "c",
+  "explanation": "Theo khoản 2 Điều 336 BLDS 2015, phạm vi bảo lãnh bao gồm cả nợ gốc, lãi, phạt, bồi thường thiệt hại và lãi chậm trả, trừ thỏa thuận khác."
+},
+{
+  "question": "Trong bảo đảm bằng tín chấp, chủ thể nào có quyền xác nhận điều kiện, hoàn cảnh của bên vay vốn?",
+  "a": "Ngân hàng thương mại",
+  "b": "Tổ chức chính trị - xã hội ở cơ sở",
+  "c": "Cơ quan thi hành án",
+  "d": "UBND cấp tỉnh",
+  "answer": "b",
+  "explanation": "Theo Điều 344 BLDS 2015, tổ chức chính trị - xã hội ở cơ sở có thể bảo đảm bằng tín chấp cho cá nhân, hộ gia đình nghèo vay vốn và xác nhận điều kiện, hoàn cảnh của bên vay."
+},
+{
+  "question": "Việc cho vay có bảo đảm bằng tín chấp phải được lập theo hình thức nào?",
+  "a": "Thỏa thuận miệng có người làm chứng",
+  "b": "Văn bản có xác nhận của tổ chức chính trị - xã hội",
+  "c": "Chỉ cần hợp đồng vay vốn",
+  "d": "Không cần văn bản",
+  "answer": "b",
+  "explanation": "Theo Điều 345 BLDS 2015, việc cho vay có tín chấp phải lập thành văn bản có xác nhận của tổ chức chính trị - xã hội."
+},
+{
+  "question": "Cầm giữ tài sản phát sinh khi nào?",
+  "a": "Ngay khi ký hợp đồng song vụ",
+  "b": "Khi bên có quyền yêu cầu",
+  "c": "Khi đến hạn mà bên có nghĩa vụ không thực hiện hoặc thực hiện không đúng nghĩa vụ",
+  "d": "Khi Tòa án ra quyết định",
+  "answer": "c",
+  "explanation": "Theo khoản 1 Điều 347 BLDS 2015, cầm giữ tài sản phát sinh từ thời điểm đến hạn mà bên có nghĩa vụ không thực hiện hoặc thực hiện không đúng nghĩa vụ."
+},
+{
+  "question": "Điều kiện quan trọng để xác lập cầm giữ tài sản là:",
+  "a": "Tài sản thuộc sở hữu bên cầm giữ",
+  "b": "Bên cầm giữ đang chiếm giữ hợp pháp tài sản",
+  "c": "Có hợp đồng thế chấp",
+  "d": "Có đăng ký biện pháp bảo đảm",
+  "answer": "b",
+  "explanation": "Theo Điều 346 BLDS 2015, cầm giữ chỉ phát sinh khi bên cầm giữ đang nắm giữ hợp pháp tài sản."
+},
+{
+  "question": "Trong cầm giữ tài sản, bên cầm giữ có quyền nào sau đây nếu được bên có nghĩa vụ đồng ý?",
+  "a": "Bán tài sản cầm giữ",
+  "b": "Định đoạt tài sản",
+  "c": "Khai thác tài sản để thu hoa lợi, lợi tức",
+  "d": "Tặng cho tài sản",
+  "answer": "c",
+  "explanation": "Theo khoản 3 Điều 348 BLDS 2015, bên cầm giữ chỉ được khai thác tài sản nếu có sự đồng ý của bên có nghĩa vụ."
+},
+{
+  "question": "Giá trị thu được từ việc khai thác tài sản cầm giữ được xử lý như thế nào?",
+  "a": "Thuộc toàn bộ bên cầm giữ",
+  "b": "Nộp ngân sách nhà nước",
+  "c": "Bù trừ vào nghĩa vụ của bên có nghĩa vụ",
+  "d": "Trả lại cho bên thứ ba",
+  "answer": "c",
+  "explanation": "Theo khoản 3 Điều 348 BLDS 2015, giá trị khai thác tài sản cầm giữ được bù trừ vào nghĩa vụ của bên có nghĩa vụ."
+},
+{
+  "question": "Bên cầm giữ tài sản có được quyền thay đổi tình trạng tài sản không?",
+  "a": "Được nếu cần thiết",
+  "b": "Được nếu không làm giảm giá trị",
+  "c": "Không được thay đổi tình trạng tài sản",
+  "d": "Được nếu có thỏa thuận miệng",
+  "answer": "c",
+  "explanation": "Theo khoản 2 Điều 349 BLDS 2015, bên cầm giữ không được thay đổi tình trạng tài sản cầm giữ."
+},
+{
+  "question": "Cầm giữ tài sản chấm dứt khi nào?",
+  "a": "Khi bên cầm giữ muốn chấm dứt",
+  "b": "Khi tài sản bị định giá lại",
+  "c": "Khi nghĩa vụ đã được thực hiện xong",
+  "d": "Khi bên có quyền yêu cầu",
+  "answer": "c",
+  "explanation": "Theo khoản 3 Điều 350 BLDS 2015, cầm giữ tài sản chấm dứt khi nghĩa vụ đã được thực hiện xong."
+},
+{
+  "question": "Trường hợp nào sau đây làm chấm dứt cầm giữ tài sản?",
+  "a": "Bên cầm giữ đổi ý",
+  "b": "Tài sản bị mất hoàn toàn",
+  "c": "Bên có nghĩa vụ đi khỏi nơi cư trú",
+  "d": "Hợp đồng vay vốn vẫn còn hiệu lực",
+  "answer": "b",
+  "explanation": "Theo khoản 4 Điều 350 BLDS 2015, cầm giữ tài sản chấm dứt khi tài sản không còn."
+},
+{
+  "question": "Trong cầm giữ tài sản, bên cầm giữ có nghĩa vụ nào sau đây?",
+  "a": "Được tự do định đoạt tài sản",
+  "b": "Phải giao tài sản khi nghĩa vụ được thực hiện",
+  "c": "Được bán tài sản nếu cần",
+  "d": "Không có nghĩa vụ gì",
+  "answer": "b",
+  "explanation": "Theo khoản 4 Điều 349 BLDS 2015, bên cầm giữ phải giao lại tài sản khi nghĩa vụ đã được thực hiện."
+},
+{
+  "question": "Tín chấp có đặc điểm pháp lý nào sau đây là đúng nhất?",
+  "a": "Là biện pháp bảo đảm bằng tài sản",
+  "b": "Là biện pháp bảo đảm có đăng ký bắt buộc",
+  "c": "Là biện pháp bảo đảm dựa trên uy tín của tổ chức chính trị - xã hội",
+  "d": "Là biện pháp bảo đảm do ngân hàng quyết định",
+  "answer": "c",
+  "explanation": "Theo Điều 344 BLDS 2015, tín chấp là biện pháp bảo đảm dựa trên uy tín của tổ chức chính trị - xã hội ở cơ sở, không phải bảo đảm bằng tài sản và không bắt buộc đăng ký."
+},
+{
+  "question": "Trong tín chấp, chủ thể nào sau đây KHÔNG có thẩm quyền xác nhận tín chấp?",
+  "a": "Tổ chức chính trị - xã hội ở cơ sở",
+  "b": "Hội phụ nữ, hội nông dân cấp cơ sở",
+  "c": "Ngân hàng thương mại",
+  "d": "Đoàn thanh niên cơ sở",
+  "answer": "c",
+  "explanation": "Theo Điều 344–345 BLDS 2015, chỉ tổ chức chính trị - xã hội ở cơ sở có quyền xác nhận tín chấp, không phải ngân hàng."
+},
+{
+  "question": "Trong cầm giữ tài sản, nếu bên cầm giữ tự ý bán tài sản thì hậu quả pháp lý là gì?",
+  "a": "Hợp pháp nếu đã giữ trên 6 tháng",
+  "b": "Được phép nếu tài sản giảm giá trị",
+  "c": "Vi phạm nghĩa vụ và phải bồi thường thiệt hại",
+  "d": "Được miễn trách nhiệm nếu có lỗi của bên kia",
+  "answer": "c",
+  "explanation": "Theo Điều 349 BLDS 2015, bên cầm giữ không có quyền định đoạt tài sản; việc tự ý bán là vi phạm nghĩa vụ và phải bồi thường."
+},
+{
+  "question": "Cầm giữ tài sản phát sinh hiệu lực đối kháng với người thứ ba từ thời điểm nào?",
+  "a": "Khi ký hợp đồng",
+  "b": "Khi đăng ký biện pháp bảo đảm",
+  "c": "Khi bên cầm giữ chiếm giữ tài sản",
+  "d": "Khi Tòa án công nhận",
+  "answer": "c",
+  "explanation": "Theo Điều 347 BLDS 2015, cầm giữ tài sản có hiệu lực đối kháng với người thứ ba từ thời điểm bên cầm giữ chiếm giữ tài sản."
+},
+{
+  "question": "Một hợp đồng song vụ đã thực hiện một phần. Bên A đang giữ tài sản của bên B. B không thực hiện nghĩa vụ đến hạn. A xử lý đúng là:",
+  "a": "Phải trả lại tài sản ngay",
+  "b": "Có quyền cầm giữ tài sản đến khi nghĩa vụ được thực hiện",
+  "c": "Chỉ được giữ nếu có thỏa thuận mới",
+  "d": "Phải đăng ký cầm giữ mới hợp pháp",
+  "answer": "b",
+  "explanation": "Theo Điều 346–347 BLDS 2015, cầm giữ phát sinh khi đến hạn mà bên có nghĩa vụ không thực hiện, và bên có quyền đang chiếm giữ hợp pháp tài sản."
+},
+{
+  "question": "Trong cầm giữ tài sản, quyền khai thác tài sản để thu hoa lợi chỉ được thực hiện khi nào?",
+  "a": "Luôn luôn được thực hiện",
+  "b": "Khi Tòa án cho phép",
+  "c": "Khi có sự đồng ý của bên có nghĩa vụ",
+  "d": "Khi tài sản là động sản",
+  "answer": "c",
+  "explanation": "Theo khoản 3 Điều 348 BLDS 2015, việc khai thác tài sản cầm giữ chỉ được thực hiện nếu bên có nghĩa vụ đồng ý."
+},
+{
+  "question": "Điểm khác biệt quan trọng nhất giữa cầm giữ tài sản và thế chấp là gì?",
+  "a": "Cầm giữ phải đăng ký",
+  "b": "Cầm giữ không cần chiếm giữ tài sản",
+  "c": "Cầm giữ phát sinh từ việc chiếm giữ thực tế tài sản",
+  "d": "Thế chấp không phải biện pháp bảo đảm",
+  "answer": "c",
+  "explanation": "Cầm giữ phát sinh từ việc chiếm giữ thực tế tài sản hợp pháp, trong khi thế chấp không cần chiếm giữ tài sản."
+},
+{
+  "question": "Trong cầm giữ tài sản, bên cầm giữ có được quyền sử dụng tài sản để thu lợi không?",
+  "a": "Có quyền tự do sử dụng",
+  "b": "Không được sử dụng trong mọi trường hợp",
+  "c": "Chỉ được sử dụng nếu bên có nghĩa vụ đồng ý",
+  "d": "Chỉ được sử dụng nếu Tòa án cho phép",
+  "answer": "c",
+  "explanation": "Theo Điều 348–349 BLDS 2015, bên cầm giữ chỉ được khai thác tài sản nếu có sự đồng ý của bên có nghĩa vụ."
+},
+{
+  "question": "Trường hợp nào sau đây làm chấm dứt cầm giữ tài sản dù nghĩa vụ chưa hoàn thành?",
+  "a": "Bên cầm giữ tự ý trả lại tài sản",
+  "b": "Bên có nghĩa vụ yêu cầu trả lại tài sản",
+  "c": "Bên cầm giữ không còn chiếm giữ thực tế tài sản",
+  "d": "Có tranh chấp phát sinh",
+  "answer": "c",
+  "explanation": "Theo khoản 1 Điều 350 BLDS 2015, cầm giữ chấm dứt khi bên cầm giữ không còn chiếm giữ thực tế tài sản."
+},
+{
+  "question": "Trong tín chấp, tài sản của bên vay có được dùng làm biện pháp bảo đảm không?",
+  "a": "Có bắt buộc",
+  "b": "Có thể nhưng không bắt buộc",
+  "c": "Không phải yếu tố của tín chấp",
+  "d": "Chỉ áp dụng với ngân hàng",
+  "answer": "c",
+  "explanation": "Theo Điều 344–345 BLDS 2015, tín chấp không dựa trên tài sản mà dựa trên uy tín của tổ chức chính trị - xã hội."
+},
+  {
   "question": "Một bên dùng tài sản để cầm cố nhưng bên nhận cầm cố lại tự ý cho người khác sử dụng tài sản đó. Xử lý thế nào?",
   "a": "Hành vi hợp pháp nếu tài sản vẫn an toàn",
   "b": "Chỉ hợp pháp nếu có thỏa thuận cho phép",
