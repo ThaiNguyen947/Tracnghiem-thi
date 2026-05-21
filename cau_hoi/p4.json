@@ -1,5 +1,221 @@
 [
   {
+    "question": "Theo BLDS 2015, hợp đồng thuê tài sản có bản chất pháp lý là gì?",
+    "a": "Chuyển quyền sở hữu tài sản",
+    "b": "Thỏa thuận sử dụng tài sản có trả tiền trong thời hạn",
+    "c": "Tặng cho có điều kiện",
+    "d": "Vay tài sản có lãi",
+    "answer": "b",
+    "explanation": "Điều 472 BLDS 2015: bên cho thuê giao tài sản để bên thuê sử dụng trong thời hạn và phải trả tiền thuê."
+  },
+  {
+    "question": "Trường hợp không có thỏa thuận về giá thuê, giá thuê được xác định theo căn cứ nào?",
+    "a": "Do Tòa án quyết định",
+    "b": "Theo ý chí bên cho thuê",
+    "c": "Theo giá thị trường tại thời điểm và địa điểm giao kết",
+    "d": "Theo cơ quan thuế ấn định",
+    "answer": "c",
+    "explanation": "Điều 473 BLDS 2015 quy định giá thuê không thỏa thuận thì theo giá thị trường."
+  },
+  {
+    "question": "Trường hợp không xác định được thời hạn thuê, quyền của các bên được xác định như thế nào?",
+    "a": "Hợp đồng vô hiệu",
+    "b": "Mỗi bên có quyền chấm dứt bất cứ lúc nào nhưng phải báo trước hợp lý",
+    "c": "Bên cho thuê được quyền đơn phương chấm dứt ngay",
+    "d": "Phải gia hạn bắt buộc 12 tháng",
+    "answer": "b",
+    "explanation": "Điều 474 BLDS 2015: nếu không xác định được thời hạn thuê thì mỗi bên có quyền chấm dứt nhưng phải báo trước hợp lý."
+  },
+  {
+    "question": "Bên thuê cho thuê lại tài sản đang thuê trong trường hợp nào là hợp pháp?",
+    "a": "Khi bên thuê tự quyết định",
+    "b": "Khi không cần thông báo",
+    "c": "Khi được bên cho thuê đồng ý",
+    "d": "Khi hợp đồng đã hết hạn",
+    "answer": "c",
+    "explanation": "Điều 475 BLDS 2015: cho thuê lại phải có sự đồng ý của bên cho thuê."
+  },
+  {
+    "question": "Trường hợp bên cho thuê giao tài sản không đúng chất lượng, bên thuê có quyền gì?",
+    "a": "Chỉ được nhận tài sản",
+    "b": "Không có quyền yêu cầu gì",
+    "c": "Yêu cầu sửa chữa, giảm giá hoặc hủy hợp đồng và bồi thường",
+    "d": "Phải tiếp tục sử dụng tài sản",
+    "answer": "c",
+    "explanation": "Điều 476 BLDS 2015 quy định quyền của bên thuê khi tài sản không đúng chất lượng."
+  },
+  {
+    "question": "Bên thuê có nghĩa vụ sử dụng tài sản thuê như thế nào?",
+    "a": "Tự do sử dụng theo nhu cầu",
+    "b": "Sử dụng theo công dụng và mục đích đã thỏa thuận",
+    "c": "Chỉ cần giữ nguyên tài sản",
+    "d": "Không cần tuân thủ mục đích",
+    "answer": "b",
+    "explanation": "Điều 480 BLDS 2015: phải sử dụng đúng công dụng và mục đích."
+  },
+  {
+    "question": "Trường hợp bên thuê không trả tiền thuê 3 kỳ liên tiếp, bên cho thuê có quyền gì?",
+    "a": "Không được chấm dứt hợp đồng",
+    "b": "Đơn phương chấm dứt hợp đồng",
+    "c": "Tự động gia hạn hợp đồng",
+    "d": "Chỉ được yêu cầu trả lãi",
+    "answer": "b",
+    "explanation": "Điều 481 BLDS 2015: không trả 3 kỳ liên tiếp thì bên cho thuê có quyền đơn phương chấm dứt."
+  },
+  {
+    "question": "Trường hợp tài sản thuê bị giảm giá trị sử dụng không do lỗi bên thuê, bên thuê có quyền nào?",
+    "a": "Không có quyền yêu cầu",
+    "b": "Chỉ được tiếp tục sử dụng",
+    "c": "Yêu cầu sửa chữa, giảm giá hoặc chấm dứt hợp đồng và bồi thường",
+    "d": "Tự động hủy hợp đồng",
+    "answer": "c",
+    "explanation": "Điều 477 BLDS 2015 quy định quyền của bên thuê khi tài sản giảm giá trị sử dụng."
+  },
+  {
+    "question": "Trong thời gian chậm trả tài sản thuê, rủi ro đối với tài sản thuộc về ai?",
+    "a": "Bên cho thuê",
+    "b": "Bên thuê",
+    "c": "Chia đôi rủi ro",
+    "d": "Nhà nước",
+    "answer": "b",
+    "explanation": "Điều 482 BLDS 2015: bên thuê chịu rủi ro trong thời gian chậm trả."
+  },
+  {
+    "question": "Bên cho thuê có nghĩa vụ bảo đảm điều gì trong suốt thời gian thuê?",
+    "a": "Giá thuê không thay đổi",
+    "b": "Quyền sử dụng tài sản ổn định cho bên thuê",
+    "c": "Tài sản không cần bảo dưỡng",
+    "d": "Tài sản thuộc quyền sở hữu bên thuê",
+    "answer": "b",
+    "explanation": "Điều 478 BLDS 2015: bên cho thuê phải bảo đảm quyền sử dụng ổn định."
+  },
+  {
+    "question": "Khi trả lại tài sản thuê, bên thuê phải trả trong tình trạng nào?",
+    "a": "Tốt hơn ban đầu",
+    "b": "Giống như khi nhận, trừ hao mòn tự nhiên",
+    "c": "Không cần trả lại",
+    "d": "Theo giá trị thị trường",
+    "answer": "b",
+    "explanation": "Điều 482 BLDS 2015: trả lại tài sản đúng tình trạng ban đầu trừ hao mòn tự nhiên."
+  },
+  {
+    "question": "Trường hợp bên thuê sử dụng tài sản sai mục đích, hậu quả pháp lý là gì?",
+    "a": "Hợp đồng tự động gia hạn",
+    "b": "Không ảnh hưởng gì",
+    "c": "Bên cho thuê có quyền đơn phương chấm dứt và yêu cầu bồi thường",
+    "d": "Chỉ bị nhắc nhở",
+    "answer": "c",
+    "explanation": "k 2 Điều 480 BLDS 2015 quy định bên cho thuê có quyền chấm dứt nếu bên thuê sử dụng sai mục đích."
+  },
+  {
+    "question": "Trong hợp đồng thuê tài sản, chi phí sửa chữa nhỏ do ai chịu?",
+    "a": "Bên thuê",
+    "b": "Bên cho thuê",
+    "c": "Nhà nước",
+    "d": "Người thứ ba",
+    "answer": "a",
+    "explanation": "Điều 479 BLDS 2015: bên thuê phải bảo quản và sửa chữa nhỏ theo tập quán."
+  },
+  {
+    "question": "Trường hợp bên cho thuê chậm giao tài sản, bên thuê có quyền gì?",
+    "a": "Chỉ chờ đợi vô thời hạn",
+    "b": "Chỉ yêu cầu xin lỗi",
+    "c": "Gia hạn hoặc hủy hợp đồng và yêu cầu bồi thường",
+    "d": "Tự động chấm dứt hợp đồng",
+    "answer": "c",
+    "explanation": "Điều 476 BLDS 2015: bên thuê có quyền gia hạn hoặc hủy hợp đồng nếu bên cho thuê chậm giao."
+  },
+{
+    "question": "A thuê của B một máy xúc trong 2 tháng. Sau 1 tháng, A tự ý cho C thuê lại máy xúc mà không được B đồng ý. Theo BLDS, quyền của B là gì?",
+    "a": "Chỉ được yêu cầu A chấm dứt hợp đồng với C",
+    "b": "Có quyền đơn phương chấm dứt hợp đồng thuê và yêu cầu bồi thường thiệt hại",
+    "c": "Phải chấp nhận việc cho thuê lại vì A đang chiếm hữu hợp pháp tài sản",
+    "d": "Chỉ được tăng tiền thuê đối với phần thời gian còn lại",
+    "answer": "b",
+    "explanation": "Điều 475 BLDS 2015: bên thuê chỉ được cho thuê lại khi có sự đồng ý của bên cho thuê; vi phạm có quyền chấm dứt và yêu cầu bồi thường."
+  },
+  {
+    "question": "B cho A thuê xe ô tô, các bên không thỏa thuận giá thuê và không xác định được giá thị trường rõ ràng tại thời điểm giao kết. Giá thuê được xác định như thế nào?",
+    "a": "Do B tự quyết định",
+    "b": "Do cơ quan nhà nước ấn định",
+    "c": "Theo tập quán tại địa điểm và thời điểm giao kết hợp đồng",
+    "d": "Hợp đồng vô hiệu do không có giá",
+    "answer": "c",
+    "explanation": "Điều 473 BLDS 2015: nếu không thỏa thuận và không rõ giá thị trường thì xác định theo tập quán tại địa điểm, thời điểm giao kết."
+  },
+  {
+    "question": "A thuê nhà của B, trong thời gian thuê phát sinh tranh chấp quyền sở hữu giữa B và người thứ ba khiến A không thể sử dụng ổn định tài sản. A có quyền gì?",
+    "a": "Tiếp tục sử dụng nhưng không trả tiền thuê",
+    "b": "Đơn phương chấm dứt hợp đồng và yêu cầu bồi thường thiệt hại",
+    "c": "Chỉ được yêu cầu giảm tiền thuê",
+    "d": "Phải chờ Tòa án giải quyết xong tranh chấp mới được chấm dứt hợp đồng",
+    "answer": "b",
+    "explanation": "Điều 478 BLDS 2015: bên cho thuê phải bảo đảm quyền sử dụng ổn định; nếu không bảo đảm thì bên thuê có quyền chấm dứt và yêu cầu bồi thường."
+  },
+  {
+    "question": "A thuê máy móc của B. Trong thời gian thuê, máy bị hư hỏng nhỏ thuộc loại sửa chữa nhỏ theo tập quán. Ai có nghĩa vụ sửa chữa?",
+    "a": "B phải sửa chữa toàn bộ",
+    "b": "Cơ quan bảo hiểm sửa chữa",
+    "c": "A phải tự sửa chữa và bảo quản tài sản",
+    "d": "Hai bên cùng chịu 50% chi phí",
+    "answer": "c",
+    "explanation": "Điều 479 BLDS 2015: bên thuê có nghĩa vụ bảo quản, sửa chữa nhỏ và chịu trách nhiệm về hao mòn thông thường."
+  },
+  {
+    "question": "A thuê tài sản của B và sử dụng sai mục đích đã thỏa thuận dù đã được nhắc nhở. B có quyền gì?",
+    "a": "Phạt vi phạm nhưng không được chấm dứt hợp đồng",
+    "b": "Đơn phương chấm dứt hợp đồng và yêu cầu bồi thường thiệt hại",
+    "c": "Chỉ được tăng giá thuê",
+    "d": "Phải gia hạn hợp đồng thêm 1 tháng",
+    "answer": "b",
+    "explanation": "Điều 480 BLDS 2015: sử dụng sai mục đích là căn cứ để bên cho thuê đơn phương chấm dứt và yêu cầu bồi thường."
+  },
+  {
+    "question": "Hợp đồng thuê tài sản không xác định thời hạn và cũng không xác định được theo mục đích thuê. Quyền của các bên là gì?",
+    "a": "Chỉ bên cho thuê được chấm dứt hợp đồng",
+    "b": "Không bên nào được chấm dứt hợp đồng",
+    "c": "Mỗi bên có quyền chấm dứt bất cứ lúc nào nhưng phải báo trước thời gian hợp lý",
+    "d": "Hợp đồng vô hiệu",
+    "answer": "c",
+    "explanation": "Điều 474 BLDS 2015: không xác định thời hạn thì mỗi bên được chấm dứt nhưng phải báo trước thời gian hợp lý."
+  },
+  {
+    "question": "Trong thời gian thuê, tài sản bị giảm giá trị do hao mòn tự nhiên khi sử dụng đúng mục đích. Trách nhiệm của bên thuê là gì?",
+    "a": "Phải bồi thường toàn bộ giá trị tài sản",
+    "b": "Không phải bồi thường thiệt hại do hao mòn tự nhiên",
+    "c": "Phải trả thêm tiền thuê",
+    "d": "Phải mua lại tài sản",
+    "answer": "b",
+    "explanation": "Điều 479 và 482 BLDS 2015: hao mòn tự nhiên không thuộc trách nhiệm bồi thường của bên thuê."
+  },
+  {
+    "question": "A chậm trả tài sản thuê khi hết hạn hợp đồng. Hậu quả pháp lý theo BLDS là gì?",
+    "a": "Chỉ phải trả tiền thuê phát sinh thêm",
+    "b": "Không có trách nhiệm gì nếu không có thiệt hại",
+    "c": "Phải trả lại tài sản, trả tiền thuê trong thời gian chậm trả và bồi thường thiệt hại",
+    "d": "Hợp đồng tự động gia hạn",
+    "answer": "c",
+    "explanation": "Điều 482 BLDS 2015: chậm trả tài sản thuê phải trả tiền thuê thời gian chậm trả và bồi thường thiệt hại nếu có."
+  },
+  {
+    "question": "A thuê gia súc của B. Trong thời gian thuê, gia súc sinh con. Khi hết hạn thuê, quyền đối với gia súc con thuộc về ai?",
+    "a": "A được sở hữu toàn bộ",
+    "b": "B được sở hữu và phải thanh toán chi phí chăm sóc hợp lý cho A",
+    "c": "Cùng sở hữu giữa A và B",
+    "d": "Thuộc về Nhà nước",
+    "answer": "b",
+    "explanation": "Điều 482 BLDS 2015: gia súc sinh ra trong thời gian thuê thuộc bên cho thuê, kèm nghĩa vụ thanh toán chi phí chăm sóc."
+  },
+  {
+    "question": "A thuê tài sản của B và chậm trả tiền thuê 3 kỳ liên tiếp. B muốn chấm dứt hợp đồng. Theo BLDS, B có quyền gì?",
+    "a": "Không được chấm dứt hợp đồng",
+    "b": "Chỉ được yêu cầu trả lãi chậm trả",
+    "c": "Đơn phương chấm dứt hợp đồng",
+    "d": "Phải gia hạn hợp đồng bắt buộc",
+    "answer": "c",
+    "explanation": "Điều 481 BLDS 2015: chậm trả tiền thuê theo kỳ hạn nhiều lần là căn cứ để bên cho thuê đơn phương chấm dứt hợp đồng."
+  },
+  {
     "question": "A và B ký hợp đồng trao đổi xe máy lấy laptop. Sau khi giao, A phát hiện B giao laptop không thuộc sở hữu của B và không được chủ sở hữu ủy quyền. A có quyền gì?",
     "a": "Phải tiếp tục thực hiện hợp đồng vì đã giao kết",
     "b": "Chỉ được yêu cầu giảm giá trị tài sản",
