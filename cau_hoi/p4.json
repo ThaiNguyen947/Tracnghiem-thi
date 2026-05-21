@@ -1,5 +1,1562 @@
 [
   {
+  "question": "A ký hợp đồng giao hàng, đến hạn A giao hàng đúng loại nhưng B từ chối nhận không có lý do. Trong thời gian chờ, hàng bị hư hỏng nhẹ do điều kiện tự nhiên. Trách nhiệm thuộc về ai?",
+  "a": "A phải chịu toàn bộ rủi ro",
+  "b": "B phải chịu rủi ro kể từ thời điểm chậm tiếp nhận",
+  "c": "Chia đôi rủi ro giữa A và B",
+  "d": "Hợp đồng tự động chấm dứt",
+  "answer": "b",
+  "explanation": "Theo Điều 359 BLDS 2015, khi bên có quyền chậm tiếp nhận nghĩa vụ thì phải chịu rủi ro và chi phí phát sinh kể từ thời điểm chậm tiếp nhận, trừ trường hợp luật có quy định khác."
+},
+{
+  "question": "A chuyển giao quyền đòi nợ cho C nhưng không thông báo cho B (bên có nghĩa vụ). Sau đó B trả tiền cho A. Xử lý đúng là:",
+  "a": "B vẫn phải trả lại cho C",
+  "b": "B không phải thực hiện lại nghĩa vụ",
+  "c": "B bị coi là vi phạm nghĩa vụ",
+  "d": "Giao dịch vô hiệu",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 369 BLDS 2015, nếu bên có nghĩa vụ không được thông báo về việc chuyển giao quyền yêu cầu mà đã thực hiện nghĩa vụ cho bên chuyển giao thì không phải thực hiện lại cho bên thế quyền."
+},
+{
+  "question": "Trong chuyển giao quyền yêu cầu, bên chuyển giao không cung cấp giấy tờ liên quan làm phát sinh thiệt hại. Trách nhiệm pháp lý là gì?",
+  "a": "Không chịu trách nhiệm vì đã chuyển giao xong",
+  "b": "Phải bồi thường thiệt hại",
+  "c": "Bên thế quyền tự chịu",
+  "d": "Hợp đồng tự động vô hiệu",
+  "answer": "b",
+  "explanation": "Theo Điều 366 BLDS 2015, người chuyển giao quyền yêu cầu phải cung cấp thông tin, giấy tờ; nếu vi phạm gây thiệt hại thì phải bồi thường."
+},
+{
+  "question": "Trong trường hợp chuyển giao nghĩa vụ, nếu nghĩa vụ gắn liền nhân thân thì:",
+  "a": "Vẫn được chuyển giao nếu có thỏa thuận",
+  "b": "Không được chuyển giao",
+  "c": "Chuyển giao nhưng phải đăng ký",
+  "d": "Tòa án quyết định",
+  "answer": "b",
+  "explanation": "Theo khoản 1 Điều 370 BLDS 2015, nghĩa vụ gắn liền với nhân thân không được chuyển giao."
+},
+{
+  "question": "Nghĩa vụ có biện pháp bảo đảm được chuyển giao thì nguyên tắc xử lý là:",
+  "a": "Biện pháp bảo đảm luôn giữ nguyên",
+  "b": "Tự động tăng giá trị bảo đảm",
+  "c": "Biện pháp bảo đảm chấm dứt, trừ thỏa thuận khác",
+  "d": "Chuyển thành bảo lãnh",
+  "answer": "c",
+  "explanation": "Theo Điều 371 BLDS 2015, khi chuyển giao nghĩa vụ thì biện pháp bảo đảm chấm dứt, trừ trường hợp có thỏa thuận khác."
+},
+{
+  "question": "A và B cùng có nghĩa vụ tiền đối với nhau, đến hạn cùng lúc. Hệ quả pháp lý là:",
+  "a": "Cả hai vẫn phải thanh toán đầy đủ",
+  "b": "Tự động chấm dứt nghĩa vụ do bù trừ",
+  "c": "Tòa án phân chia lại nghĩa vụ",
+  "d": "Một bên phải trả toàn bộ",
+  "answer": "b",
+  "explanation": "Theo Điều 378 BLDS 2015, khi các bên cùng có nghĩa vụ cùng loại và đến hạn thì nghĩa vụ được bù trừ và chấm dứt."
+},
+{
+  "question": "Trường hợp nào KHÔNG được bù trừ nghĩa vụ?",
+  "a": "Nghĩa vụ trả tiền",
+  "b": "Nghĩa vụ giao vật cùng loại",
+  "c": "Nghĩa vụ đang tranh chấp",
+  "d": "Nghĩa vụ thương mại thông thường",
+  "answer": "c",
+  "explanation": "Theo Điều 379 BLDS 2015, nghĩa vụ đang có tranh chấp không được bù trừ."
+},
+{
+  "question": "A vi phạm nghĩa vụ nhưng thiệt hại xảy ra do cả A và B cùng có lỗi. Trách nhiệm bồi thường xác định thế nào?",
+  "a": "A không phải bồi thường",
+  "b": "A bồi thường toàn bộ",
+  "c": "A bồi thường theo mức độ lỗi của mình",
+  "d": "B chịu toàn bộ",
+  "answer": "c",
+  "explanation": "Theo Điều 363 BLDS 2015, nếu bên bị vi phạm có lỗi thì bên vi phạm chỉ bồi thường tương ứng mức độ lỗi của mình."
+},
+{
+  "question": "Trong trách nhiệm dân sự, lỗi cố ý được hiểu đúng là:",
+  "a": "Không biết hậu quả xảy ra",
+  "b": "Có thể biết nhưng không chắc chắn",
+  "c": "Biết rõ hậu quả nhưng vẫn thực hiện hoặc bỏ mặc",
+  "d": "Do sự kiện khách quan",
+  "answer": "c",
+  "explanation": "Theo Điều 364 BLDS 2015, lỗi cố ý là biết rõ hành vi gây thiệt hại nhưng vẫn mong muốn hoặc bỏ mặc hậu quả xảy ra."
+},
+{
+  "question": "Khi bên có nghĩa vụ không thực hiện công việc phải làm, bên có quyền có thể:",
+  "a": "Chỉ được chờ thực hiện",
+  "b": "Tự thực hiện hoặc thuê người khác và yêu cầu chi phí",
+  "c": "Hủy hợp đồng ngay lập tức",
+  "d": "Không có quyền gì",
+  "answer": "b",
+  "explanation": "Theo Điều 358 BLDS 2015, bên có quyền có thể tự thực hiện hoặc thuê người khác thực hiện và yêu cầu chi phí hợp lý."
+},
+{
+  "question": "Bên có nghĩa vụ chậm thực hiện nhưng có thông báo và được bên có quyền đồng ý hoãn thì:",
+  "a": "Vẫn bị coi là vi phạm",
+  "b": "Được coi là vi phạm nghiêm trọng",
+  "c": "Được coi là thực hiện đúng hạn",
+  "d": "Hợp đồng bị chấm dứt",
+  "answer": "c",
+  "explanation": "Theo Điều 354 BLDS 2015, nếu được bên có quyền đồng ý hoãn thì việc thực hiện sau thời gian hoãn vẫn được coi là đúng hạn."
+},
+{
+  "question": "Khi vật đặc định trong nghĩa vụ giao vật không còn, hậu quả pháp lý là:",
+  "a": "Tiếp tục giao vật khác",
+  "b": "Nghĩa vụ tự động chấm dứt",
+  "c": "Phải giao vật tương đương",
+  "d": "Phải bồi thường hoặc nghĩa vụ chấm dứt theo luật",
+  "answer": "d",
+  "explanation": "Theo Điều 383 BLDS 2015, nghĩa vụ giao vật đặc định chấm dứt khi vật không còn, các bên có thể thỏa thuận thay thế hoặc bồi thường."
+},
+{
+  "question": "Khi nghĩa vụ được thay thế bằng nghĩa vụ khác, hệ quả pháp lý là:",
+  "a": "Cả hai nghĩa vụ cùng tồn tại",
+  "b": "Nghĩa vụ cũ chấm dứt",
+  "c": "Nghĩa vụ tăng thêm",
+  "d": "Tự động vô hiệu",
+  "answer": "b",
+  "explanation": "Theo Điều 377 BLDS 2015, khi nghĩa vụ được thay thế bằng nghĩa vụ khác thì nghĩa vụ ban đầu chấm dứt."
+},
+{
+  "question": "Trong trường hợp bên có quyền miễn thực hiện nghĩa vụ, hậu quả pháp lý là:",
+  "a": "Nghĩa vụ vẫn tiếp tục",
+  "b": "Nghĩa vụ chấm dứt",
+  "c": "Chuyển sang nghĩa vụ mới",
+  "d": "Phải bồi thường",
+  "answer": "b",
+  "explanation": "Theo Điều 376 BLDS 2015, khi bên có quyền miễn nghĩa vụ thì nghĩa vụ chấm dứt."
+},
+{
+  "question": "Khi hợp đồng được chuyển giao quyền yêu cầu, biện pháp bảo đảm đi kèm sẽ:",
+  "a": "Tự động mất hiệu lực",
+  "b": "Không bị ảnh hưởng",
+  "c": "Chuyển theo quyền yêu cầu",
+  "d": "Chỉ chuyển nếu đăng ký lại",
+  "answer": "c",
+  "explanation": "Theo Điều 368 BLDS 2015, khi chuyển giao quyền yêu cầu thì biện pháp bảo đảm cũng được chuyển theo quyền yêu cầu đó."
+},
+{
+  "question": "A gửi email đề nghị bán hàng cho B, không ghi thời hạn trả lời. B chưa trả lời thì A bán hàng cho C. B sau đó chấp nhận mua. Xử lý thế nào?",
+  "a": "Hợp đồng giữa A và B vẫn có hiệu lực",
+  "b": "A phải ưu tiên ký với B",
+  "c": "Đề nghị giao kết đã chấm dứt khi A bán cho C",
+  "d": "Hợp đồng tự động vô hiệu",
+  "answer": "c",
+  "explanation": "Theo Điều 391 BLDS 2015, đề nghị giao kết hợp đồng chấm dứt khi bên được đề nghị không chấp nhận hoặc khi có hành vi làm mất hiệu lực đề nghị theo quy định, trong đó việc giao kết với người thứ ba thể hiện việc không còn ràng buộc thực tế của đề nghị."
+},
+{
+  "question": "Trong trường hợp đề nghị giao kết hợp đồng không ghi thời hạn trả lời, thời điểm có hiệu lực trả lời chấp nhận là khi nào?",
+  "a": "Khi bên đề nghị ký hợp đồng",
+  "b": "Khi bên được đề nghị gửi trả lời",
+  "c": "Khi bên đề nghị nhận được trả lời",
+  "d": "Khi công chứng hợp đồng",
+  "answer": "c",
+  "explanation": "Theo khoản 1 Điều 394 BLDS 2015, nếu không có thời hạn thì trả lời chấp nhận chỉ có hiệu lực khi bên đề nghị nhận được trả lời."
+},
+{
+  "question": "A gửi đề nghị có ghi rõ: 'được quyền rút lại bất cứ lúc nào'. Sau đó A rút lại trước khi B trả lời. Hiệu lực pháp lý là gì?",
+  "a": "Rút lại không có hiệu lực",
+  "b": "Đề nghị vẫn ràng buộc A",
+  "c": "Đề nghị chấm dứt nếu B nhận được thông báo rút lại trước khi trả lời",
+  "d": "Hợp đồng đã hình thành",
+  "answer": "c",
+  "explanation": "Theo khoản 1 Điều 389 và Điều 390 BLDS 2015, đề nghị có thể bị rút lại hoặc hủy bỏ nếu đáp ứng điều kiện và bên được đề nghị nhận được thông báo hợp lệ."
+},
+{
+  "question": "Bên được đề nghị trả lời chấp nhận nhưng sửa đổi một điều khoản nhỏ. Hậu quả pháp lý là gì?",
+  "a": "Hợp đồng được giao kết",
+  "b": "Chấp nhận có hiệu lực",
+  "c": "Xem như một đề nghị mới",
+  "d": "Hợp đồng vô hiệu",
+  "answer": "c",
+  "explanation": "Theo Điều 392 BLDS 2015, nếu bên được đề nghị chấp nhận nhưng có sửa đổi thì được xem là một đề nghị mới."
+},
+{
+  "question": "Trong giao kết hợp đồng, sự im lặng của bên được đề nghị được hiểu thế nào?",
+  "a": "Luôn là chấp nhận",
+  "b": "Không bao giờ là chấp nhận",
+  "c": "Là chấp nhận nếu các bên có thỏa thuận hoặc theo thói quen",
+  "d": "Tòa án quyết định",
+  "answer": "c",
+  "explanation": "Theo khoản 2 Điều 393 BLDS 2015, im lặng không được coi là chấp nhận, trừ khi có thỏa thuận hoặc thói quen đã xác lập."
+},
+{
+  "question": "Hợp đồng được coi là giao kết tại thời điểm nào?",
+  "a": "Khi ký hợp đồng",
+  "b": "Khi công chứng",
+  "c": "Khi bên đề nghị nhận được chấp nhận",
+  "d": "Khi thực hiện nghĩa vụ đầu tiên",
+  "answer": "c",
+  "explanation": "Theo khoản 1 Điều 400 BLDS 2015, hợp đồng được giao kết tại thời điểm bên đề nghị nhận được chấp nhận giao kết."
+},
+{
+  "question": "Trường hợp hợp đồng có điều khoản không rõ ràng, cách giải thích ưu tiên là gì?",
+  "a": "Theo ngôn từ",
+  "b": "Theo ý chí các bên trong quá trình giao kết và thực hiện",
+  "c": "Theo Tòa án",
+  "d": "Theo bên soạn thảo",
+  "answer": "b",
+  "explanation": "Theo khoản 1 Điều 404 BLDS 2015, giải thích hợp đồng phải căn cứ vào ý chí các bên trong toàn bộ quá trình giao kết và thực hiện."
+},
+{
+  "question": "Điều khoản trong hợp đồng mẫu gây bất lợi cho bên kia thì hiệu lực như thế nào?",
+  "a": "Luôn có hiệu lực",
+  "b": "Không có hiệu lực, trừ trường hợp có thỏa thuận khác",
+  "c": "Tự động sửa lại",
+  "d": "Do Tòa án quyết định",
+  "answer": "b",
+  "explanation": "Theo khoản 3 Điều 405 BLDS 2015, điều khoản miễn trách nhiệm hoặc loại bỏ quyền lợi chính đáng của bên kia trong hợp đồng mẫu không có hiệu lực."
+},
+{
+  "question": "Hợp đồng vô hiệu do đối tượng không thể thực hiện được xảy ra khi nào?",
+  "a": "Khi một bên không thực hiện nghĩa vụ",
+  "b": "Khi đối tượng không thể thực hiện ngay từ thời điểm giao kết",
+  "c": "Khi vi phạm nghĩa vụ",
+  "d": "Khi một bên thay đổi ý định",
+  "answer": "b",
+  "explanation": "Theo khoản 1 Điều 408 BLDS 2015, hợp đồng vô hiệu nếu ngay từ khi giao kết có đối tượng không thể thực hiện được."
+},
+  {
+    "question": "Im lặng của bên được đề nghị giao kết hợp đồng được xem là chấp nhận trong trường hợp nào?",
+    "a": "Luôn luôn được coi là chấp nhận",
+    "b": "Khi bên đề nghị yêu cầu bằng văn bản",
+    "c": "Khi có thỏa thuận hoặc theo thói quen giữa các bên",
+    "d": "Khi hợp đồng có giá trị lớn",
+    "answer": "c",
+    "explanation": "Theo Điều 393 BLDS 2015, im lặng không mặc nhiên là chấp nhận, trừ trường hợp có thỏa thuận hoặc thói quen giữa các bên."
+  },
+  {
+    "question": "Trường hợp nào làm đề nghị giao kết hợp đồng chấm dứt?",
+    "a": "Bên đề nghị thay đổi nội dung",
+    "b": "Bên được đề nghị trả lời không chấp nhận",
+    "c": "Bên đề nghị muốn rút lại bất cứ lúc nào",
+    "d": "Khi chưa gửi đề nghị đi",
+    "answer": "b",
+    "explanation": "Theo Điều 391 BLDS 2015, đề nghị chấm dứt khi bên được đề nghị trả lời không chấp nhận."
+  },
+  {
+    "question": "Khi bên được đề nghị chấp nhận nhưng sửa đổi nội dung đề nghị thì pháp lý được xác định là:",
+    "a": "Hợp đồng đã giao kết",
+    "b": "Đề nghị vẫn giữ nguyên hiệu lực",
+    "c": "Được coi là đề nghị mới",
+    "d": "Hợp đồng vô hiệu",
+    "answer": "c",
+    "explanation": "Theo Điều 392 BLDS 2015, việc chấp nhận nhưng có sửa đổi được coi là một đề nghị mới."
+  },
+  {
+    "question": "Thời điểm giao kết hợp đồng bằng văn bản được xác định là:",
+    "a": "Khi các bên thỏa thuận xong nội dung",
+    "b": "Khi bên đề nghị gửi đi",
+    "c": "Khi bên sau cùng ký hoặc chấp nhận bằng văn bản",
+    "d": "Khi công chứng xong",
+    "answer": "c",
+    "explanation": "Theo Điều 400 BLDS 2015, hợp đồng bằng văn bản giao kết khi bên sau cùng ký hoặc xác nhận."
+  },
+  {
+    "question": "Trường hợp bên đề nghị chết sau khi bên kia đã chấp nhận giao kết hợp đồng thì:",
+    "a": "Hợp đồng tự vô hiệu",
+    "b": "Hợp đồng vẫn có giá trị trừ khi gắn liền nhân thân",
+    "c": "Phải ký lại hợp đồng",
+    "d": "Chỉ có hiệu lực khi thừa kế đồng ý",
+    "answer": "b",
+    "explanation": "Theo Điều 395 BLDS 2015, hợp đồng vẫn có giá trị nếu không gắn liền nhân thân."
+  },
+  {
+    "question": "Hợp đồng có đối tượng không thể thực hiện được ngay từ khi giao kết thì:",
+    "a": "Vẫn có hiệu lực",
+    "b": "Vô hiệu",
+    "c": "Tạm đình chỉ thực hiện",
+    "d": "Do Tòa án quyết định",
+    "answer": "b",
+    "explanation": "Theo Điều 408 BLDS 2015, hợp đồng vô hiệu nếu đối tượng không thể thực hiện ngay từ khi giao kết."
+  },
+  {
+    "question": "Điều khoản bất lợi trong hợp đồng theo mẫu do bên đưa ra thì:",
+    "a": "Luôn có hiệu lực",
+    "b": "Được ưu tiên áp dụng",
+    "c": "Không có hiệu lực nếu không có thỏa thuận khác",
+    "d": "Chỉ vô hiệu một phần nhỏ",
+    "answer": "c",
+    "explanation": "Theo Điều 405 BLDS 2015, điều khoản bất lợi trong hợp đồng mẫu có thể bị vô hiệu."
+  },
+  {
+    "question": "Điều kiện giao dịch chung chỉ có hiệu lực khi:",
+    "a": "Được đăng ký tại cơ quan nhà nước",
+    "b": "Được công khai để bên kia biết hoặc phải biết",
+    "c": "Có công chứng",
+    "d": "Có chữ ký của hai bên",
+    "answer": "b",
+    "explanation": "Theo Điều 406 BLDS 2015, điều kiện giao dịch chung phải được công khai."
+  },
+  {
+    "question": "Khi giải thích hợp đồng, nếu có nhiều cách hiểu thì ưu tiên:",
+    "a": "Theo bên soạn thảo",
+    "b": "Theo nghĩa bất lợi cho bên ký sau",
+    "c": "Theo mục đích và tính chất hợp đồng",
+    "d": "Theo Tòa án tự quyết",
+    "answer": "c",
+    "explanation": "Theo Điều 404 BLDS 2015, ưu tiên giải thích theo mục đích và tính chất hợp đồng."
+  },
+  {
+    "question": "Phụ lục hợp đồng có hiệu lực:",
+    "a": "Luôn cao hơn hợp đồng chính",
+    "b": "Không có giá trị pháp lý",
+    "c": "Như hợp đồng chính",
+    "d": "Chỉ mang tính tham khảo",
+    "answer": "c",
+    "explanation": "Theo Điều 403 BLDS 2015, phụ lục hợp đồng có hiệu lực như hợp đồng chính."
+  },
+  {
+    "question": "Nếu phụ lục hợp đồng trái với hợp đồng chính thì:",
+    "a": "Phụ lục luôn ưu tiên",
+    "b": "Điều khoản trái đó vô hiệu (trừ thỏa thuận khác)",
+    "c": "Hợp đồng chính vô hiệu toàn bộ",
+    "d": "Cả hai đều vô hiệu",
+    "answer": "b",
+    "explanation": "Theo Điều 403 BLDS 2015, điều khoản trái phụ lục có thể vô hiệu."
+  },
+  {
+    "question": "Hợp đồng vô hiệu làm hợp đồng phụ:",
+    "a": "Luôn có hiệu lực",
+    "b": "Tự động chấm dứt trừ thỏa thuận khác",
+    "c": "Bắt buộc chuyển sang hợp đồng mới",
+    "d": "Không liên quan",
+    "answer": "b",
+    "explanation": "Theo Điều 407 BLDS 2015, hợp đồng chính vô hiệu có thể làm chấm dứt hợp đồng phụ."
+  },
+  {
+    "question": "Bên biết hợp đồng có đối tượng không thể thực hiện nhưng không thông báo thì:",
+    "a": "Không có trách nhiệm",
+    "b": "Bị phạt hành chính",
+    "c": "Phải bồi thường thiệt hại",
+    "d": "Hợp đồng tự vô hiệu không bồi thường",
+    "answer": "c",
+    "explanation": "Theo Điều 408 BLDS 2015, bên không thông báo phải bồi thường thiệt hại."
+  },
+  {
+    "question": "Chấp nhận đề nghị giao kết hợp đồng có hiệu lực khi:",
+    "a": "Gửi đi là đủ",
+    "b": "Bên đề nghị nhận được trong thời hạn",
+    "c": "Có công chứng",
+    "d": "Có chữ ký hai bên và người làm chứng",
+    "answer": "b",
+    "explanation": "Theo Điều 394 BLDS 2015, chấp nhận chỉ có hiệu lực khi bên đề nghị nhận được đúng hạn."
+  },
+  {
+    "question": "Trường hợp im lặng được coi là chấp nhận khi:",
+    "a": "Luôn luôn áp dụng",
+    "b": "Có thỏa thuận hoặc thói quen đã xác lập",
+    "c": "Hợp đồng dân sự bắt buộc",
+    "d": "Bên đề nghị yêu cầu",
+    "answer": "b",
+    "explanation": "Theo Điều 393 BLDS 2015, im lặng chỉ được coi là chấp nhận khi có thỏa thuận hoặc thói quen."
+  },
+  {
+    "question": "Im lặng của bên được đề nghị giao kết hợp đồng được xem là chấp nhận trong trường hợp nào?",
+    "a": "Luôn luôn được coi là chấp nhận",
+    "b": "Khi bên đề nghị yêu cầu bằng văn bản",
+    "c": "Khi có thỏa thuận hoặc theo thói quen giữa các bên",
+    "d": "Khi hợp đồng có giá trị lớn",
+    "answer": "c",
+    "explanation": "Theo Điều 393 BLDS 2015, im lặng không mặc nhiên là chấp nhận, trừ trường hợp có thỏa thuận hoặc thói quen giữa các bên."
+  },
+  {
+    "question": "Trường hợp nào làm đề nghị giao kết hợp đồng chấm dứt?",
+    "a": "Bên đề nghị thay đổi nội dung",
+    "b": "Bên được đề nghị trả lời không chấp nhận",
+    "c": "Bên đề nghị muốn rút lại bất cứ lúc nào",
+    "d": "Khi chưa gửi đề nghị đi",
+    "answer": "b",
+    "explanation": "Theo Điều 391 BLDS 2015, đề nghị chấm dứt khi bên được đề nghị trả lời không chấp nhận."
+  },
+  {
+    "question": "Khi bên được đề nghị chấp nhận nhưng sửa đổi nội dung đề nghị thì pháp lý được xác định là:",
+    "a": "Hợp đồng đã giao kết",
+    "b": "Đề nghị vẫn giữ nguyên hiệu lực",
+    "c": "Được coi là đề nghị mới",
+    "d": "Hợp đồng vô hiệu",
+    "answer": "c",
+    "explanation": "Theo Điều 392 BLDS 2015, việc chấp nhận nhưng có sửa đổi được coi là một đề nghị mới."
+  },
+  {
+    "question": "Thời điểm giao kết hợp đồng bằng văn bản được xác định là:",
+    "a": "Khi các bên thỏa thuận xong nội dung",
+    "b": "Khi bên đề nghị gửi đi",
+    "c": "Khi bên sau cùng ký hoặc chấp nhận bằng văn bản",
+    "d": "Khi công chứng xong",
+    "answer": "c",
+    "explanation": "Theo Điều 400 BLDS 2015, hợp đồng bằng văn bản giao kết khi bên sau cùng ký hoặc xác nhận."
+  },
+  {
+    "question": "Trường hợp bên đề nghị chết sau khi bên kia đã chấp nhận giao kết hợp đồng thì:",
+    "a": "Hợp đồng tự vô hiệu",
+    "b": "Hợp đồng vẫn có giá trị trừ khi gắn liền nhân thân",
+    "c": "Phải ký lại hợp đồng",
+    "d": "Chỉ có hiệu lực khi thừa kế đồng ý",
+    "answer": "b",
+    "explanation": "Theo Điều 395 BLDS 2015, hợp đồng vẫn có giá trị nếu không gắn liền nhân thân."
+  },
+  {
+    "question": "Hợp đồng có đối tượng không thể thực hiện được ngay từ khi giao kết thì:",
+    "a": "Vẫn có hiệu lực",
+    "b": "Vô hiệu",
+    "c": "Tạm đình chỉ thực hiện",
+    "d": "Do Tòa án quyết định",
+    "answer": "b",
+    "explanation": "Theo Điều 408 BLDS 2015, hợp đồng vô hiệu nếu đối tượng không thể thực hiện ngay từ khi giao kết."
+  },
+  {
+    "question": "Điều khoản bất lợi trong hợp đồng theo mẫu do bên đưa ra thì:",
+    "a": "Luôn có hiệu lực",
+    "b": "Được ưu tiên áp dụng",
+    "c": "Không có hiệu lực nếu không có thỏa thuận khác",
+    "d": "Chỉ vô hiệu một phần nhỏ",
+    "answer": "c",
+    "explanation": "Theo Điều 405 BLDS 2015, điều khoản bất lợi trong hợp đồng mẫu có thể bị vô hiệu."
+  },
+  {
+    "question": "Điều kiện giao dịch chung chỉ có hiệu lực khi:",
+    "a": "Được đăng ký tại cơ quan nhà nước",
+    "b": "Được công khai để bên kia biết hoặc phải biết",
+    "c": "Có công chứng",
+    "d": "Có chữ ký của hai bên",
+    "answer": "b",
+    "explanation": "Theo Điều 406 BLDS 2015, điều kiện giao dịch chung phải được công khai."
+  },
+  {
+    "question": "Khi giải thích hợp đồng, nếu có nhiều cách hiểu thì ưu tiên:",
+    "a": "Theo bên soạn thảo",
+    "b": "Theo nghĩa bất lợi cho bên ký sau",
+    "c": "Theo mục đích và tính chất hợp đồng",
+    "d": "Theo Tòa án tự quyết",
+    "answer": "c",
+    "explanation": "Theo Điều 404 BLDS 2015, ưu tiên giải thích theo mục đích và tính chất hợp đồng."
+  },
+  {
+    "question": "Phụ lục hợp đồng có hiệu lực:",
+    "a": "Luôn cao hơn hợp đồng chính",
+    "b": "Không có giá trị pháp lý",
+    "c": "Như hợp đồng chính",
+    "d": "Chỉ mang tính tham khảo",
+    "answer": "c",
+    "explanation": "Theo Điều 403 BLDS 2015, phụ lục hợp đồng có hiệu lực như hợp đồng chính."
+  },
+  {
+    "question": "Nếu phụ lục hợp đồng trái với hợp đồng chính thì:",
+    "a": "Phụ lục luôn ưu tiên",
+    "b": "Điều khoản trái đó vô hiệu (trừ thỏa thuận khác)",
+    "c": "Hợp đồng chính vô hiệu toàn bộ",
+    "d": "Cả hai đều vô hiệu",
+    "answer": "b",
+    "explanation": "Theo Điều 403 BLDS 2015, điều khoản trái phụ lục có thể vô hiệu."
+  },
+  {
+    "question": "Hợp đồng vô hiệu làm hợp đồng phụ:",
+    "a": "Luôn có hiệu lực",
+    "b": "Tự động chấm dứt trừ thỏa thuận khác",
+    "c": "Bắt buộc chuyển sang hợp đồng mới",
+    "d": "Không liên quan",
+    "answer": "b",
+    "explanation": "Theo Điều 407 BLDS 2015, hợp đồng chính vô hiệu có thể làm chấm dứt hợp đồng phụ."
+  },
+  {
+    "question": "Bên biết hợp đồng có đối tượng không thể thực hiện nhưng không thông báo thì:",
+    "a": "Không có trách nhiệm",
+    "b": "Bị phạt hành chính",
+    "c": "Phải bồi thường thiệt hại",
+    "d": "Hợp đồng tự vô hiệu không bồi thường",
+    "answer": "c",
+    "explanation": "Theo Điều 408 BLDS 2015, bên không thông báo phải bồi thường thiệt hại."
+  },
+  {
+    "question": "Chấp nhận đề nghị giao kết hợp đồng có hiệu lực khi:",
+    "a": "Gửi đi là đủ",
+    "b": "Bên đề nghị nhận được trong thời hạn",
+    "c": "Có công chứng",
+    "d": "Có chữ ký hai bên và người làm chứng",
+    "answer": "b",
+    "explanation": "Theo Điều 394 BLDS 2015, chấp nhận chỉ có hiệu lực khi bên đề nghị nhận được đúng hạn."
+  },
+  {
+    "question": "Trường hợp im lặng được coi là chấp nhận khi:",
+    "a": "Luôn luôn áp dụng",
+    "b": "Có thỏa thuận hoặc thói quen đã xác lập",
+    "c": "Hợp đồng dân sự bắt buộc",
+    "d": "Bên đề nghị yêu cầu",
+    "answer": "b",
+    "explanation": "Theo Điều 393 BLDS 2015, im lặng chỉ được coi là chấp nhận khi có thỏa thuận hoặc thói quen."
+  },
+  {
+    "question": "A gửi đề nghị giao kết hợp đồng mua bán xe cho B, trong đó ghi rõ có quyền rút lại đề nghị nếu giá thị trường biến động mạnh. Trước khi B trả lời, giá xe tăng đột biến và A gửi thông báo rút lại đề nghị nhưng B đã nhận được đề nghị trước đó. Trường hợp nào đúng?",
+    "a": "A không được rút lại vì đã gửi đề nghị",
+    "b": "A được rút lại vì có thỏa thuận điều kiện rút lại",
+    "c": "A chỉ được rút lại nếu B đồng ý",
+    "d": "Đề nghị tự động vô hiệu",
+    "answer": "b",
+    "explanation": "Theo Điều 389 BLDS 2015, bên đề nghị được rút lại nếu đã nêu rõ điều kiện rút lại và điều kiện đó phát sinh."
+  },
+  {
+    "question": "A gửi đề nghị bán đất cho B, ghi rõ thời hạn trả lời 10 ngày. Ngày thứ 12 B mới trả lời chấp nhận. Hậu quả pháp lý là:",
+    "a": "Hợp đồng đã giao kết",
+    "b": "Chấp nhận có hiệu lực bình thường",
+    "c": "Trả lời chậm được coi là đề nghị mới",
+    "d": "Hợp đồng vô hiệu",
+    "answer": "c",
+    "explanation": "Theo Điều 394 BLDS 2015, chấp nhận quá thời hạn có hiệu lực như một đề nghị mới."
+  },
+  {
+    "question": "Trong quá trình giao kết hợp đồng, A biết rõ thông tin về rủi ro pháp lý của tài sản nhưng cố tình không thông báo cho B khiến B ký hợp đồng và bị thiệt hại. Trách nhiệm pháp lý là:",
+    "a": "A không chịu trách nhiệm vì B tự kiểm tra",
+    "b": "A phải bồi thường thiệt hại do không cung cấp thông tin",
+    "c": "Hợp đồng tự động vô hiệu",
+    "d": "B phải chịu toàn bộ rủi ro",
+    "answer": "b",
+    "explanation": "Theo Điều 387 BLDS 2015, bên vi phạm nghĩa vụ cung cấp thông tin gây thiệt hại phải bồi thường."
+  },
+  {
+    "question": "A gửi đề nghị giao kết hợp đồng cho B nhưng chưa đến hạn trả lời thì A bán tài sản cho C. B vẫn gửi chấp nhận trong thời hạn. Trường hợp đúng là:",
+    "a": "Hợp đồng vẫn được giao kết với B và A phải bồi thường",
+    "b": "Hợp đồng tự động chuyển sang C",
+    "c": "Đề nghị chấm dứt ngay lập tức",
+    "d": "B không có quyền yêu cầu gì",
+    "answer": "a",
+    "explanation": "Theo Điều 386 BLDS 2015, nếu bên đề nghị giao kết với người thứ ba trong thời hạn thì phải bồi thường thiệt hại cho bên được đề nghị."
+  },
+  {
+    "question": "A và B giao kết hợp đồng bằng lời nói và sau đó xác lập lại bằng văn bản. Thời điểm giao kết hợp đồng được xác định là:",
+    "a": "Thời điểm ký văn bản",
+    "b": "Thời điểm thỏa thuận bằng lời nói",
+    "c": "Thời điểm công chứng",
+    "d": "Thời điểm đăng ký hợp đồng",
+    "answer": "b",
+    "explanation": "Theo Điều 400 BLDS 2015, nếu đã giao kết bằng lời nói rồi lập văn bản sau thì thời điểm giao kết là lúc thỏa thuận lời nói."
+  },
+  {
+    "question": "Hợp đồng giữa A và B có điều khoản do A soạn sẵn, nội dung không rõ ràng có nhiều cách hiểu. Khi xảy ra tranh chấp, cách giải thích đúng là:",
+    "a": "Ưu tiên cách hiểu có lợi cho A",
+    "b": "Theo nghĩa bất lợi cho B",
+    "c": "Giải thích theo tập quán địa điểm giao kết",
+    "d": "Hợp đồng tự vô hiệu",
+    "answer": "c",
+    "explanation": "Theo Điều 404 BLDS 2015, nếu điều khoản khó hiểu thì giải thích theo tập quán tại nơi giao kết."
+  },
+  {
+    "question": "A ký hợp đồng theo mẫu do B đưa ra, trong đó có điều khoản miễn trách nhiệm hoàn toàn cho B khi giao hàng trễ. Khi xảy ra tranh chấp, điều khoản này:",
+    "a": "Luôn có hiệu lực",
+    "b": "Có hiệu lực nếu B yêu cầu",
+    "c": "Không có hiệu lực nếu loại bỏ quyền lợi chính đáng của A",
+    "d": "Bắt buộc Tòa án phải công nhận",
+    "answer": "c",
+    "explanation": "Theo Điều 405 BLDS 2015, điều khoản miễn trách nhiệm bất lợi cho bên kia trong hợp đồng mẫu có thể bị vô hiệu."
+  },
+  {
+    "question": "A gửi đề nghị giao kết hợp đồng nhưng không ấn định thời hạn trả lời. B trả lời chấp nhận sau 1 tháng trong khi giao dịch này thông thường chỉ hợp lý trong 10 ngày. Hậu quả:",
+    "a": "Chấp nhận vẫn có hiệu lực",
+    "b": "Chấp nhận vô hiệu",
+    "c": "Chấp nhận được coi là đề nghị mới",
+    "d": "Hợp đồng vẫn bắt buộc thực hiện",
+    "answer": "c",
+    "explanation": "Theo Điều 394 BLDS 2015, nếu trả lời không trong thời hạn hợp lý thì được coi là đề nghị mới."
+  },
+  {
+    "question": "A và B giao kết hợp đồng. Sau khi B đã chấp nhận, A bị mất năng lực hành vi dân sự nhưng nội dung hợp đồng không gắn với nhân thân. Hậu quả:",
+    "a": "Hợp đồng vô hiệu",
+    "b": "Hợp đồng vẫn có hiệu lực",
+    "c": "Hợp đồng phải ký lại",
+    "d": "Hợp đồng tự chấm dứt",
+    "answer": "b",
+    "explanation": "Theo Điều 395 BLDS 2015, hợp đồng vẫn có giá trị nếu không gắn liền nhân thân."
+  },
+  {
+    "question": "Trong trường hợp hợp đồng vô hiệu do đối tượng không thể thực hiện, nhưng một bên biết rõ điều này mà không thông báo, trách nhiệm pháp lý là:",
+    "a": "Không chịu trách nhiệm",
+    "b": "Chỉ bị phạt hành chính",
+    "c": "Phải bồi thường thiệt hại cho bên kia",
+    "d": "Hợp đồng vẫn có hiệu lực",
+    "answer": "c",
+    "explanation": "Theo Điều 408 BLDS 2015, bên biết mà không thông báo gây thiệt hại phải bồi thường."
+  },
+  {
+    "question": "A rút lại thông báo chấp nhận hợp đồng nhưng thông báo rút lại đến sau khi B đã nhận được chấp nhận. Hậu quả:",
+    "a": "Rút lại có hiệu lực",
+    "b": "Hợp đồng không được giao kết",
+    "c": "Rút lại không có hiệu lực",
+    "d": "Hợp đồng bị hủy",
+    "answer": "c",
+    "explanation": "Theo Điều 397 BLDS 2015, rút lại chỉ có hiệu lực nếu đến trước hoặc cùng lúc với chấp nhận."
+  },
+  {
+    "question": "A và B thỏa thuận im lặng là chấp nhận trong vòng 5 ngày. B không phản hồi trong thời hạn. Trường hợp đúng là:",
+    "a": "Không có hợp đồng",
+    "b": "Hợp đồng đã giao kết",
+    "c": "Đề nghị tự động vô hiệu",
+    "d": "Phải ký lại hợp đồng",
+    "answer": "b",
+    "explanation": "Theo Điều 400 BLDS 2015, nếu có thỏa thuận im lặng là chấp nhận thì hết thời hạn là thời điểm giao kết."
+  },
+  {
+    "question": "A gửi đề nghị giao kết hợp đồng nhưng trong thời hạn chờ trả lời, A và B thỏa thuận chấm dứt đề nghị. Trường hợp này:",
+    "a": "Đề nghị vẫn có hiệu lực",
+    "b": "Đề nghị chấm dứt theo thỏa thuận",
+    "c": "Đề nghị tự động chuyển thành hợp đồng",
+    "d": "Phải chờ hết thời hạn",
+    "answer": "b",
+    "explanation": "Theo Điều 391 BLDS 2015, đề nghị chấm dứt theo thỏa thuận của các bên."
+  },
+  {
+    "question": "A soạn hợp đồng theo mẫu, nội dung mơ hồ có nhiều cách hiểu. Khi giải thích, cơ quan giải quyết tranh chấp sẽ:",
+    "a": "Ưu tiên A",
+    "b": "Ưu tiên B",
+    "c": "Bên soạn thảo chịu bất lợi",
+    "d": "Tuyên vô hiệu hợp đồng",
+    "answer": "c",
+    "explanation": "Theo Điều 405 BLDS 2015, bên đưa ra hợp đồng theo mẫu chịu bất lợi khi điều khoản không rõ ràng."
+  },
+  {
+    "question": "A gửi đề nghị giao kết hợp đồng cho B, không ấn định thời hạn trả lời. Trong thời gian chờ trả lời, A muốn rút lại đề nghị nhưng B đã nhận được đề nghị trước đó và chưa có thỏa thuận về quyền rút lại. Trường hợp nào đúng?",
+    "a": "A được rút lại bất cứ lúc nào",
+    "b": "A không được rút lại vì đề nghị đã đến tay B và không có căn cứ rút lại",
+    "c": "A chỉ cần thông báo là rút lại được",
+    "d": "Đề nghị tự động chấm dứt",
+    "answer": "b",
+    "explanation": "Theo Điều 389 BLDS 2015, việc thay đổi/rút lại đề nghị chỉ có hiệu lực khi đáp ứng điều kiện luật định hoặc thỏa thuận."
+  },
+  {
+    "question": "A gửi đề nghị giao kết hợp đồng có nêu rõ sẽ được hủy bỏ nếu không tìm được nguồn hàng thay thế. Trước khi B trả lời, A không tìm được nguồn hàng và gửi thông báo hủy bỏ. Trường hợp đúng là:",
+    "a": "Hủy bỏ luôn có hiệu lực",
+    "b": "Không được hủy bỏ vì đã gửi đề nghị",
+    "c": "Hủy bỏ có hiệu lực nếu điều kiện hủy bỏ đã được nêu rõ và phát sinh",
+    "d": "Phải có sự đồng ý của B",
+    "answer": "c",
+    "explanation": "Theo Điều 389 và 390 BLDS 2015, hủy bỏ/rút lại có hiệu lực khi có điều kiện đã nêu rõ trong đề nghị và điều kiện đó phát sinh."
+  },
+  {
+    "question": "A gửi đề nghị giao kết hợp đồng cho B, trong đó ghi không áp dụng quyền hủy bỏ đề nghị. Sau đó A vẫn gửi thông báo hủy bỏ trước khi B trả lời. Trường hợp đúng là:",
+    "a": "Hủy bỏ có hiệu lực",
+    "b": "Hủy bỏ không có hiệu lực",
+    "c": "Hợp đồng tự động vô hiệu",
+    "d": "Bắt buộc B phải chấp nhận",
+    "answer": "b",
+    "explanation": "Theo Điều 390 BLDS 2015, quyền hủy bỏ phải được nêu rõ trong đề nghị, nếu không thì không được hủy bỏ."
+  },
+  {
+    "question": "A gửi đề nghị bán xe cho B, B trả lời chấp nhận đúng hạn nhưng gửi qua phương tiện bị trễ do lỗi hệ thống và đến sau thời hạn. A không phản hồi ngay. Trường hợp đúng là:",
+    "a": "Chấp nhận tự động vô hiệu",
+    "b": "Chấp nhận vẫn có hiệu lực nếu A biết hoặc phải biết lý do chậm",
+    "c": "Phải ký lại hợp đồng",
+    "d": "Bị coi là đề nghị mới",
+    "answer": "b",
+    "explanation": "Theo Điều 394 BLDS 2015, nếu chậm do lý do khách quan mà bên đề nghị biết hoặc phải biết thì vẫn có hiệu lực."
+  },
+  {
+    "question": "A và B giao kết hợp đồng tại nhà A, không có thỏa thuận về địa điểm giao kết. Trường hợp đúng là:",
+    "a": "Địa điểm là nơi công chứng",
+    "b": "Địa điểm là nơi A cư trú vì A là bên đưa ra đề nghị",
+    "c": "Địa điểm là nơi B cư trú",
+    "d": "Địa điểm do Tòa án xác định",
+    "answer": "b",
+    "explanation": "Theo Điều 399 BLDS 2015, nếu không thỏa thuận thì địa điểm giao kết là nơi cư trú/trụ sở của bên đề nghị."
+  },
+  {
+    "question": "A ký hợp đồng với B bằng email, sau đó ký bổ sung bản giấy xác nhận lại nội dung. Thời điểm giao kết hợp đồng được xác định là:",
+    "a": "Thời điểm ký bản giấy",
+    "b": "Thời điểm gửi email chấp nhận",
+    "c": "Thời điểm nhận được email chấp nhận đầu tiên",
+    "d": "Thời điểm công chứng bản giấy",
+    "answer": "b",
+    "explanation": "Theo Điều 400 BLDS 2015, hợp đồng giao kết bằng lời nói hoặc phương thức điện tử được xác định theo thời điểm đạt thỏa thuận nội dung ban đầu."
+  },
+  {
+    "question": "A gửi đề nghị giao kết hợp đồng cho B, sau đó A chết trước khi B trả lời chấp nhận. Nội dung hợp đồng không gắn với nhân thân. Trường hợp đúng là:",
+    "a": "Đề nghị luôn chấm dứt",
+    "b": "Đề nghị vẫn có giá trị",
+    "c": "Hợp đồng vô hiệu",
+    "d": "Phải ký lại với người thừa kế",
+    "answer": "b",
+    "explanation": "Theo Điều 395 BLDS 2015, đề nghị vẫn có giá trị nếu không gắn liền nhân thân."
+  },
+  {
+    "question": "Bên A và B ký hợp đồng theo mẫu, trong đó điều khoản quy định A phải chịu mọi rủi ro kể cả lỗi của B. Khi tranh chấp xảy ra, điều khoản này:",
+    "a": "Có hiệu lực tuyệt đối",
+    "b": "Chỉ vô hiệu nếu có yêu cầu Tòa án",
+    "c": "Không có hiệu lực nếu loại bỏ quyền lợi chính đáng của bên kia",
+    "d": "Luôn được ưu tiên áp dụng",
+    "answer": "c",
+    "explanation": "Theo Điều 405 BLDS 2015, điều khoản loại bỏ quyền lợi chính đáng trong hợp đồng mẫu không có hiệu lực."
+  },
+  {
+    "question": "A và B có hợp đồng với điều kiện giao dịch chung do B ban hành nhưng B không công khai trước khi ký kết. Trường hợp đúng là:",
+    "a": "Vẫn có hiệu lực đầy đủ",
+    "b": "Chỉ có hiệu lực nếu A biết hoặc phải biết điều kiện đó",
+    "c": "Luôn vô hiệu toàn bộ hợp đồng",
+    "d": "Tự động chuyển sang hợp đồng khác",
+    "answer": "b",
+    "explanation": "Theo Điều 406 BLDS 2015, điều kiện giao dịch chung chỉ có hiệu lực nếu đã được công khai."
+  },
+  {
+    "question": "A gửi đề nghị giao kết hợp đồng nhưng B trả lời chấp nhận kèm điều kiện sửa đổi giá. Trường hợp pháp lý đúng là:",
+    "a": "Hợp đồng đã giao kết",
+    "b": "Chấp nhận có hiệu lực một phần",
+    "c": "Được coi là đề nghị mới",
+    "d": "Hợp đồng vô hiệu",
+    "answer": "c",
+    "explanation": "Theo Điều 392 BLDS 2015, chấp nhận nhưng kèm điều kiện hoặc sửa đổi được coi là đề nghị mới."
+  },
+  {
+    "question": "A gửi đề nghị giao kết hợp đồng, B im lặng nhưng trước đó hai bên có thói quen nhiều lần im lặng vẫn coi là đồng ý. Trường hợp đúng là:",
+    "a": "Không bao giờ có giá trị",
+    "b": "Luôn là chấp nhận",
+    "c": "Có thể được coi là chấp nhận theo thói quen đã xác lập",
+    "d": "Phải có văn bản xác nhận lại",
+    "answer": "c",
+    "explanation": "Theo Điều 393 BLDS 2015, im lặng có thể là chấp nhận nếu có thói quen hoặc thỏa thuận."
+  },
+  {
+    "question": "A gửi đề nghị giao kết hợp đồng và quy định thời hạn 5 ngày. B gửi chấp nhận ngày thứ 6, A không phản đối ngay. Trường hợp đúng là:",
+    "a": "Hợp đồng tự động giao kết",
+    "b": "Chấp nhận có hiệu lực",
+    "c": "Chấp nhận được coi là đề nghị mới",
+    "d": "Hợp đồng vô hiệu",
+    "answer": "c",
+    "explanation": "Theo Điều 394 BLDS 2015, chấp nhận quá hạn được coi là đề nghị mới."
+  },
+  {
+    "question": "A và B giao kết hợp đồng, nhưng nội dung có nhiều cách hiểu khác nhau và không thể xác định rõ ý chí chung. Trường hợp giải thích đúng là:",
+    "a": "Ưu tiên bên có lợi thế kinh tế",
+    "b": "Hợp đồng tự vô hiệu",
+    "c": "Giải thích dựa trên toàn bộ quá trình giao kết và mục đích hợp đồng",
+    "d": "Tòa án tự quyết không căn cứ",
+    "answer": "c",
+    "explanation": "Theo Điều 404 BLDS 2015, hợp đồng được giải thích dựa trên ý chí chung và mục đích giao kết."
+  },
+  {
+    "question": "A và B ký hợp đồng, sau đó B gửi chấp nhận nhưng rút lại thông báo chấp nhận sau khi A đã nhận được. Trường hợp đúng là:",
+    "a": "Rút lại có hiệu lực",
+    "b": "Hợp đồng không hình thành",
+    "c": "Rút lại không có hiệu lực",
+    "d": "Hợp đồng phải ký lại",
+    "answer": "c",
+    "explanation": "Theo Điều 397 BLDS 2015, rút lại chấp nhận chỉ có hiệu lực nếu đến trước hoặc cùng thời điểm bên đề nghị nhận được."
+  },
+  {
+    "question": "A gửi đề nghị giao kết hợp đồng, trong thời hạn chờ trả lời A ký hợp đồng với người khác nhưng không có căn cứ rút lại hợp đồng với B. Trường hợp đúng là:",
+    "a": "Không có trách nhiệm gì",
+    "b": "A phải bồi thường thiệt hại cho B",
+    "c": "Hợp đồng với B tự động chấm dứt",
+    "d": "B phải chấp nhận chấm dứt",
+    "answer": "b",
+    "explanation": "Theo Điều 386 BLDS 2015, nếu giao kết với người thứ ba trong thời hạn đề nghị thì phải bồi thường thiệt hại."
+  },
+  {
+    "question": "Trong hợp đồng đơn vụ, bên có nghĩa vụ muốn thực hiện nghĩa vụ trước thời hạn thì cần điều kiện nào?",
+    "a": "Tự quyết định nếu thấy có lợi",
+    "b": "Phải được bên có quyền đồng ý",
+    "c": "Chỉ cần thông báo trước 1 ngày",
+    "d": "Không cần điều kiện nào",
+    "answer": "b",
+    "explanation": "Theo Điều 409 BLDS 2015, việc thực hiện trước hoặc sau thời hạn trong hợp đồng đơn vụ phải được bên có quyền đồng ý."
+  },
+  {
+    "question": "Trong hợp đồng song vụ, nếu các bên không thỏa thuận bên nào thực hiện trước, nguyên tắc thực hiện là gì?",
+    "a": "Bên nào ký trước thì thực hiện trước",
+    "b": "Bên có nghĩa vụ lớn hơn thực hiện trước",
+    "c": "Các bên thực hiện đồng thời, nếu không đồng thời thì nghĩa vụ mất nhiều thời gian hơn thực hiện trước",
+    "d": "Bên có quyền quyết định bên thực hiện trước",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 410 BLDS 2015, các bên phải thực hiện đồng thời; nếu không thể thì nghĩa vụ mất nhiều thời gian hơn thực hiện trước."
+  },
+  {
+    "question": "Trong hợp đồng song vụ, bên phải thực hiện nghĩa vụ sau có quyền hoãn thực hiện khi nào?",
+    "a": "Khi bên kia chưa nhắc nhở",
+    "b": "Khi bên thực hiện nghĩa vụ trước chưa thực hiện khi đến hạn",
+    "c": "Khi thấy hợp đồng không có lợi",
+    "d": "Khi muốn kéo dài thời gian",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 411 BLDS 2015, bên phải thực hiện nghĩa vụ sau có quyền hoãn nếu bên thực hiện nghĩa vụ trước chưa thực hiện khi đến hạn."
+  },
+  {
+    "question": "Trong hợp đồng song vụ, quyền cầm giữ tài sản được xác lập khi nào?",
+    "a": "Ngay khi ký hợp đồng",
+    "b": "Khi một bên vi phạm nghĩa vụ",
+    "c": "Khi có tranh chấp",
+    "d": "Khi Tòa án yêu cầu",
+    "answer": "b",
+    "explanation": "Theo Điều 412 BLDS 2015, quyền cầm giữ phát sinh khi bên có nghĩa vụ không thực hiện hoặc thực hiện không đúng nghĩa vụ."
+  },
+  {
+    "question": "Trong hợp đồng song vụ, nếu một bên không thực hiện nghĩa vụ do lỗi của bên kia thì hậu quả pháp lý là gì?",
+    "a": "Hợp đồng tự động vô hiệu",
+    "b": "Bên bị lỗi có quyền yêu cầu tiếp tục thực hiện hoặc hủy hợp đồng và bồi thường",
+    "c": "Cả hai bên đều không có nghĩa vụ",
+    "d": "Hợp đồng chấm dứt ngay lập tức",
+    "answer": "b",
+    "explanation": "Theo Điều 413 BLDS 2015, bên bị lỗi có quyền yêu cầu tiếp tục thực hiện hoặc hủy bỏ hợp đồng và yêu cầu bồi thường."
+  },
+  {
+    "question": "Trong hợp đồng song vụ, nếu không bên nào có lỗi nhưng một bên không thực hiện nghĩa vụ thì hậu quả là gì?",
+    "a": "Bên kia vẫn phải thực hiện toàn bộ nghĩa vụ",
+    "b": "Hợp đồng tự động chấm dứt",
+    "c": "Bên không thực hiện nghĩa vụ không được yêu cầu bên kia thực hiện phần tương ứng",
+    "d": "Tòa án quyết định lại hợp đồng",
+    "answer": "c",
+    "explanation": "Theo Điều 414 BLDS 2015, nếu không bên nào có lỗi thì bên không thực hiện nghĩa vụ không được yêu cầu bên kia thực hiện phần tương ứng."
+  },
+  {
+    "question": "Trong hợp đồng vì lợi ích người thứ ba, người thứ ba có quyền gì khi hợp đồng đang có tranh chấp giữa các bên?",
+    "a": "Không có quyền gì cho đến khi tranh chấp xong",
+    "b": "Có quyền hủy hợp đồng",
+    "c": "Có quyền yêu cầu thực hiện ngay",
+    "d": "Có quyền thay thế bên có quyền",
+    "answer": "a",
+    "explanation": "Theo Điều 415 BLDS 2015, khi có tranh chấp thì người thứ ba không có quyền yêu cầu thực hiện nghĩa vụ."
+  },
+  {
+    "question": "Khi người thứ ba từ chối lợi ích trước khi nghĩa vụ được thực hiện, hậu quả pháp lý là gì?",
+    "a": "Hợp đồng tiếp tục bình thường",
+    "b": "Bên có nghĩa vụ vẫn phải thực hiện",
+    "c": "Hợp đồng bị coi là hủy bỏ và hoàn trả cho nhau",
+    "d": "Chuyển lợi ích sang người thứ tư",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 416 BLDS 2015, hợp đồng bị coi là hủy bỏ và các bên hoàn trả cho nhau khi người thứ ba từ chối trước khi thực hiện."
+  },
+  {
+    "question": "Trong hợp đồng vì lợi ích người thứ ba, khi người thứ ba đã đồng ý hưởng lợi ích thì các bên có được sửa đổi hợp đồng không?",
+    "a": "Được sửa đổi bất kỳ lúc nào",
+    "b": "Không được sửa đổi hoặc hủy bỏ nếu không có sự đồng ý của người thứ ba",
+    "c": "Chỉ cần một bên đồng ý là được",
+    "d": "Tòa án tự động điều chỉnh",
+    "answer": "b",
+    "explanation": "Theo Điều 417 BLDS 2015, khi người thứ ba đã đồng ý thì không được sửa đổi hoặc hủy bỏ nếu không có sự đồng ý của họ."
+  },
+  {
+    "question": "Trong thỏa thuận phạt vi phạm, nếu không có thỏa thuận về bồi thường thiệt hại thì xử lý thế nào?",
+    "a": "Vừa phạt vừa bồi thường",
+    "b": "Chỉ bồi thường thiệt hại",
+    "c": "Chỉ phạt vi phạm",
+    "d": "Tòa án quyết định thêm",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 418 BLDS 2015, nếu không thỏa thuận thì chỉ áp dụng phạt vi phạm."
+  },
+  {
+    "question": "Trong bồi thường thiệt hại do vi phạm hợp đồng, người có quyền có thể yêu cầu khoản nào sau đây?",
+    "a": "Chỉ tiền gốc hợp đồng",
+    "b": "Chỉ lợi ích thực tế đã mất",
+    "c": "Lợi ích lẽ ra được hưởng từ hợp đồng",
+    "d": "Chỉ chi phí phát sinh",
+    "answer": "c",
+    "explanation": "Theo Điều 419 BLDS 2015, người có quyền có thể yêu cầu lợi ích lẽ ra được hưởng từ hợp đồng."
+  },
+  {
+    "question": "Điều kiện nào sau đây là bắt buộc để được coi là 'hoàn cảnh thay đổi cơ bản'?",
+    "a": "Một bên gặp khó khăn tài chính",
+    "b": "Giá thị trường biến động nhẹ",
+    "c": "Sự thay đổi khách quan không lường trước và gây thiệt hại nghiêm trọng nếu tiếp tục hợp đồng",
+    "d": "Một bên muốn thay đổi hợp đồng",
+    "answer": "c",
+    "explanation": "Theo Điều 420 BLDS 2015, phải có thay đổi khách quan, không lường trước và gây thiệt hại nghiêm trọng."
+  },
+  {
+    "question": "Trong trường hợp hoàn cảnh thay đổi cơ bản, bước đầu tiên các bên phải thực hiện là gì?",
+    "a": "Yêu cầu Tòa án giải quyết ngay",
+    "b": "Tự ý chấm dứt hợp đồng",
+    "c": "Yêu cầu đàm phán lại hợp đồng",
+    "d": "Hủy hợp đồng ngay lập tức",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 420 BLDS 2015, bên bị ảnh hưởng có quyền yêu cầu đàm phán lại hợp đồng."
+  },
+  {
+    "question": "Trong quá trình Tòa án giải quyết yêu cầu sửa đổi hợp đồng do hoàn cảnh thay đổi cơ bản, nghĩa vụ của các bên là gì?",
+    "a": "Tạm dừng toàn bộ hợp đồng",
+    "b": "Chỉ thực hiện phần nghĩa vụ không quan trọng",
+    "c": "Vẫn phải tiếp tục thực hiện hợp đồng, trừ thỏa thuận khác",
+    "d": "Chờ quyết định Tòa án rồi mới thực hiện",
+    "answer": "c",
+    "explanation": "Theo khoản 4 Điều 420 BLDS 2015, trong thời gian giải quyết, các bên vẫn phải thực hiện nghĩa vụ."
+  },
+  {
+    "question": "Trong hợp đồng đơn vụ, nếu bên có nghĩa vụ tự ý thực hiện nghĩa vụ trước thời hạn mà không có sự đồng ý của bên có quyền thì hậu quả pháp lý đúng là gì?",
+    "a": "Hợp đồng tự động vô hiệu",
+    "b": "Được coi là thực hiện đúng nghĩa vụ trong mọi trường hợp",
+    "c": "Có thể bị coi là thực hiện không đúng thời điểm đã thỏa thuận",
+    "d": "Bên có quyền bắt buộc phải chấp nhận",
+    "answer": "c",
+    "explanation": "Điều 409 BLDS 2015 quy định việc thực hiện trước/sau thời hạn trong hợp đồng đơn vụ phải có sự đồng ý của bên có quyền."
+  },
+  {
+    "question": "Trong hợp đồng song vụ, nghĩa vụ nào sau đây được ưu tiên thực hiện trước nếu không thể thực hiện đồng thời?",
+    "a": "Nghĩa vụ có giá trị lớn hơn",
+    "b": "Nghĩa vụ phát sinh trước",
+    "c": "Nghĩa vụ có lợi hơn cho bên có quyền",
+    "d": "Nghĩa vụ mất nhiều thời gian hơn",
+    "answer": "d",
+    "explanation": "Theo Điều 410 BLDS 2015, nếu không thể thực hiện đồng thời thì nghĩa vụ mất nhiều thời gian hơn được thực hiện trước."
+  },
+  {
+    "question": "Trong hợp đồng song vụ, quyền hoãn thực hiện nghĩa vụ của bên phải thực hiện trước phát sinh khi nào?",
+    "a": "Khi bên kia yêu cầu hoãn",
+    "b": "Khi bên kia chưa ký hợp đồng",
+    "c": "Khi bên kia không thực hiện nghĩa vụ khi đến hạn",
+    "d": "Khi giá trị hợp đồng thay đổi",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 411 BLDS 2015, bên phải thực hiện sau có quyền hoãn nếu bên kia chưa thực hiện khi đến hạn."
+  },
+  {
+    "question": "Quyền hoãn thực hiện nghĩa vụ theo Điều 411 được áp dụng trong trường hợp nào sau đây?",
+    "a": "Bên kia gặp khó khăn tài chính nhẹ",
+    "b": "Bên kia có dấu hiệu không muốn thực hiện",
+    "c": "Khả năng thực hiện của bên kia suy giảm nghiêm trọng",
+    "d": "Bên kia đề nghị thay đổi hợp đồng",
+    "answer": "c",
+    "explanation": "Điều 411 BLDS 2015 yêu cầu mức độ suy giảm nghiêm trọng về khả năng thực hiện nghĩa vụ."
+  },
+  {
+    "question": "Trong hợp đồng song vụ, việc cầm giữ tài sản chỉ được xác lập khi nào?",
+    "a": "Ngay khi ký hợp đồng",
+    "b": "Khi có thỏa thuận về bảo đảm",
+    "c": "Khi một bên đang giữ hợp pháp tài sản của bên kia và bên kia vi phạm nghĩa vụ",
+    "d": "Khi có quyết định của Tòa án",
+    "answer": "c",
+    "explanation": "Điều 412 BLDS 2015 yêu cầu bên cầm giữ phải đang nắm giữ hợp pháp tài sản và có vi phạm nghĩa vụ."
+  },
+  {
+    "question": "Trong hợp đồng song vụ, nếu bên có nghĩa vụ không thực hiện do lỗi của bên kia, quyền lựa chọn của bên bị vi phạm là gì?",
+    "a": "Chỉ được yêu cầu bồi thường",
+    "b": "Chỉ được hủy hợp đồng",
+    "c": "Có thể yêu cầu tiếp tục thực hiện hoặc hủy bỏ hợp đồng và bồi thường",
+    "d": "Không có quyền yêu cầu gì",
+    "answer": "c",
+    "explanation": "Theo Điều 413 BLDS 2015, bên bị vi phạm có quyền lựa chọn tiếp tục thực hiện hoặc hủy bỏ và yêu cầu bồi thường."
+  },
+  {
+    "question": "Trong trường hợp không bên nào có lỗi nhưng một bên không thực hiện nghĩa vụ trong hợp đồng song vụ, hệ quả pháp lý đúng là gì?",
+    "a": "Bên còn lại vẫn phải thực hiện toàn bộ nghĩa vụ",
+    "b": "Hợp đồng tự động vô hiệu",
+    "c": "Không được yêu cầu thực hiện phần nghĩa vụ tương ứng",
+    "d": "Tòa án xác định lại hợp đồng",
+    "answer": "c",
+    "explanation": "Theo Điều 414 BLDS 2015, bên không thực hiện nghĩa vụ không có quyền yêu cầu phần tương ứng."
+  },
+  {
+    "question": "Trong hợp đồng vì lợi ích người thứ ba, quyền yêu cầu trực tiếp của người thứ ba phát sinh khi nào?",
+    "a": "Ngay khi hợp đồng được ký",
+    "b": "Khi người thứ ba đồng ý",
+    "c": "Khi bên có nghĩa vụ bắt đầu thực hiện",
+    "d": "Khi hợp đồng được đăng ký",
+    "answer": "a",
+    "explanation": "Điều 415 BLDS 2015 cho phép người thứ ba yêu cầu trực tiếp khi hợp đồng có hiệu lực vì lợi ích của họ."
+  },
+  {
+    "question": "Trường hợp người thứ ba từ chối lợi ích sau khi nghĩa vụ đã được thực hiện thì hậu quả pháp lý là gì?",
+    "a": "Hợp đồng bị hủy bỏ",
+    "b": "Nghĩa vụ coi như chưa thực hiện",
+    "c": "Nghĩa vụ vẫn được coi là đã hoàn thành",
+    "d": "Phải ký hợp đồng mới",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 416 BLDS 2015, nếu từ chối sau khi đã thực hiện thì nghĩa vụ vẫn được coi là hoàn thành."
+  },
+  {
+    "question": "Trong thỏa thuận phạt vi phạm, nếu chỉ thỏa thuận phạt mà không nói về bồi thường thì xử lý thế nào?",
+    "a": "Chỉ áp dụng bồi thường",
+    "b": "Vừa phạt vừa bồi thường",
+    "c": "Chỉ áp dụng phạt vi phạm",
+    "d": "Tòa án quyết định bổ sung",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 418 BLDS 2015, nếu không thỏa thuận thì chỉ áp dụng phạt vi phạm."
+  },
+  {
+    "question": "Trong thiệt hại do vi phạm hợp đồng, khoản nào sau đây được phép yêu cầu bồi thường?",
+    "a": "Tiền phạt theo thỏa thuận",
+    "b": "Chi phí cơ hội không chứng minh được",
+    "c": "Lợi ích lẽ ra được hưởng từ hợp đồng",
+    "d": "Mức thiệt hại ước tính chủ quan",
+    "answer": "c",
+    "explanation": "Điều 419 BLDS 2015 cho phép yêu cầu bồi thường lợi ích lẽ ra được hưởng."
+  },
+  {
+    "question": "Một trong các điều kiện bắt buộc để xác định hoàn cảnh thay đổi cơ bản là gì?",
+    "a": "Một bên bị thua lỗ nặng",
+    "b": "Có sự biến động thị trường",
+    "c": "Sự kiện khách quan xảy ra sau khi ký hợp đồng",
+    "d": "Một bên yêu cầu thay đổi hợp đồng",
+    "answer": "c",
+    "explanation": "Điều 420 BLDS 2015 yêu cầu sự kiện khách quan xảy ra sau khi giao kết hợp đồng."
+  },
+  {
+    "question": "Trong trường hợp hoàn cảnh thay đổi cơ bản, nếu đàm phán lại không thành, bước tiếp theo hợp pháp là gì?",
+    "a": "Tự ý sửa hợp đồng",
+    "b": "Yêu cầu Tòa án giải quyết",
+    "c": "Hủy hợp đồng đơn phương",
+    "d": "Dừng thực hiện nghĩa vụ ngay",
+    "answer": "b",
+    "explanation": "Điều 420 BLDS 2015 quy định nếu không đàm phán được thì có quyền yêu cầu Tòa án."
+  },
+  {
+    "question": "Tòa án chỉ được quyết định sửa đổi hợp đồng trong trường hợp nào?",
+    "a": "Khi một bên yêu cầu",
+    "b": "Khi hợp đồng có tranh chấp",
+    "c": "Khi chấm dứt hợp đồng gây thiệt hại lớn hơn sửa đổi",
+    "d": "Khi giá trị hợp đồng thay đổi",
+    "answer": "c",
+    "explanation": "Điều 420 BLDS 2015 quy định Tòa án chỉ sửa đổi nếu chấm dứt gây thiệt hại lớn hơn."
+  },
+  {
+    "question": "Trong trường hợp hợp đồng được sửa đổi theo Điều 420 BLDS 2015, điều kiện đúng về hiệu lực của hợp đồng sửa đổi là gì?",
+    "a": "Có hiệu lực ngay cả khi không tuân thủ hình thức hợp đồng ban đầu",
+    "b": "Phải tuân theo hình thức của hợp đồng ban đầu",
+    "c": "Chỉ cần các bên ký lại là có hiệu lực",
+    "d": "Phải được Tòa án phê chuẩn",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 421 BLDS 2015, hợp đồng sửa đổi phải tuân theo hình thức của hợp đồng ban đầu."
+  },
+  {
+    "question": "Hợp đồng chấm dứt trong trường hợp nào sau đây là đúng theo quy định pháp luật?",
+    "a": "Khi một bên yêu cầu đơn phương chấm dứt bất kỳ lúc nào",
+    "b": "Khi hợp đồng chưa đến hạn thực hiện",
+    "c": "Khi hợp đồng đã hoàn thành nghĩa vụ",
+    "d": "Khi bên có quyền thay đổi ý chí",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 422 BLDS 2015, hợp đồng chấm dứt khi đã được hoàn thành."
+  },
+  {
+    "question": "Trong trường hợp hợp đồng bị hủy bỏ hợp pháp, hậu quả pháp lý chính xác là gì?",
+    "a": "Hợp đồng có hiệu lực từ thời điểm giao kết",
+    "b": "Hợp đồng vô hiệu từ thời điểm ký kết",
+    "c": "Hợp đồng không có hiệu lực từ thời điểm giao kết",
+    "d": "Hợp đồng chỉ chấm dứt từ thời điểm hủy bỏ",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 427 BLDS 2015, hợp đồng bị hủy bỏ thì không có hiệu lực từ thời điểm giao kết."
+  },
+  {
+    "question": "Sau khi hợp đồng bị hủy bỏ, các bên có nghĩa vụ gì?",
+    "a": "Tiếp tục thực hiện hợp đồng cho đến khi Tòa án quyết định",
+    "b": "Không cần làm gì thêm",
+    "c": "Hoàn trả cho nhau những gì đã nhận, trừ chi phí hợp lý",
+    "d": "Chỉ bên vi phạm phải hoàn trả",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 427 BLDS 2015, các bên phải hoàn trả cho nhau những gì đã nhận, trừ chi phí hợp lý."
+  },
+  {
+    "question": "Trong trường hợp đơn phương chấm dứt thực hiện hợp đồng, thời điểm chấm dứt hợp đồng được xác định là khi nào?",
+    "a": "Khi bên đơn phương gửi thông báo",
+    "b": "Khi Tòa án chấp nhận",
+    "c": "Khi bên kia nhận được thông báo chấm dứt",
+    "d": "Khi hợp đồng hết thời hạn",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 428 BLDS 2015, hợp đồng chấm dứt khi bên kia nhận được thông báo."
+  },
+  {
+    "question": "Trường hợp nào làm cho hợp đồng đơn phương chấm dứt thực hiện bị coi là trái pháp luật?",
+    "a": "Có thỏa thuận trong hợp đồng",
+    "b": "Có căn cứ vi phạm nghiêm trọng",
+    "c": "Không có căn cứ pháp luật hoặc thỏa thuận hợp lệ",
+    "d": "Có thông báo bằng văn bản",
+    "answer": "c",
+    "explanation": "Theo khoản 5 Điều 428 BLDS 2015, nếu không có căn cứ thì bên đơn phương chấm dứt bị coi là vi phạm nghĩa vụ."
+  },
+  {
+    "question": "Thời hiệu khởi kiện tranh chấp hợp đồng theo BLDS 2015 là bao lâu?",
+    "a": "01 năm kể từ khi ký hợp đồng",
+    "b": "02 năm kể từ khi vi phạm",
+    "c": "03 năm kể từ khi biết hoặc phải biết quyền bị xâm phạm",
+    "d": "05 năm kể từ khi hợp đồng chấm dứt",
+    "answer": "c",
+    "explanation": "Theo Điều 429 BLDS 2015, thời hiệu khởi kiện là 03 năm kể từ khi biết hoặc phải biết quyền bị xâm phạm."
+  },
+  {
+    "question": "Hợp đồng bị hủy bỏ hợp pháp thì hậu quả nào sau đây đúng?",
+    "a": "Chỉ chấm dứt nghĩa vụ tương lai",
+    "b": "Có hiệu lực từ thời điểm giao kết",
+    "c": "Chỉ chấm dứt nghĩa vụ chưa thực hiện",
+    "d": "Chỉ vô hiệu một phần hợp đồng",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 427 BLDS 2015, hợp đồng bị hủy bỏ thì không có hiệu lực từ thời điểm giao kết."
+  },
+  {
+    "question": "Trong trường hợp hợp đồng không thể thực hiện do đối tượng không còn, hậu quả pháp lý là gì?",
+    "a": "Hợp đồng tự động gia hạn",
+    "b": "Hợp đồng tiếp tục thực hiện bằng tài sản khác",
+    "c": "Hợp đồng chấm dứt",
+    "d": "Hợp đồng chuyển thành hợp đồng khác",
+    "answer": "c",
+    "explanation": "Theo khoản 5 Điều 422 BLDS 2015, hợp đồng chấm dứt khi đối tượng không còn."
+  },
+  {
+    "question": "Khi một bên đơn phương chấm dứt hợp đồng không có căn cứ pháp luật, hậu quả là gì?",
+    "a": "Không có hậu quả gì",
+    "b": "Vẫn được miễn trách nhiệm",
+    "c": "Bị xác định là vi phạm nghĩa vụ và phải bồi thường",
+    "d": "Hợp đồng tự động vô hiệu",
+    "answer": "c",
+    "explanation": "Theo khoản 5 Điều 428 BLDS 2015, đơn phương chấm dứt không có căn cứ thì phải chịu trách nhiệm dân sự."
+  },
+  {
+    "question": "Trường hợp nào sau đây hợp đồng không bị chấm dứt theo Điều 422 BLDS 2015?",
+    "a": "Hợp đồng hoàn thành",
+    "b": "Hợp đồng bị hủy bỏ",
+    "c": "Một bên thay đổi ý chí nhưng không có căn cứ pháp luật",
+    "d": "Hợp đồng không thể thực hiện do đối tượng không còn",
+    "answer": "c",
+    "explanation": "Theo Điều 422 BLDS 2015, hợp đồng chỉ chấm dứt khi có căn cứ pháp luật, không phải do ý chí đơn phương tùy ý."
+  },
+  {
+    "question": "Trong trường hợp sửa đổi hợp đồng theo Điều 421 BLDS 2015, nếu hợp đồng gốc phải tuân thủ hình thức nhất định thì hợp đồng sửa đổi phải như thế nào?",
+    "a": "Không cần tuân thủ hình thức",
+    "b": "Chỉ cần các bên thống nhất bằng lời nói",
+    "c": "Phải tuân theo hình thức của hợp đồng ban đầu",
+    "d": "Chỉ cần lập biên bản nội bộ",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 421 BLDS 2015, hợp đồng sửa đổi phải tuân theo hình thức của hợp đồng ban đầu."
+  },
+  {
+    "question": "Theo Điều 422 BLDS 2015, trường hợp nào sau đây làm hợp đồng chấm dứt hợp pháp?",
+    "a": "Một bên thay đổi ý chí thực hiện hợp đồng",
+    "b": "Hợp đồng đã được hoàn thành",
+    "c": "Một bên chậm thực hiện nghĩa vụ 1 ngày",
+    "d": "Bên có quyền không còn nhu cầu thực hiện",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 422 BLDS 2015, hợp đồng chấm dứt khi đã hoàn thành."
+  },
+  {
+    "question": "Trong trường hợp cá nhân giao kết hợp đồng chết, hợp đồng chấm dứt khi nào là đúng?",
+    "a": "Luôn chấm dứt bất kể nội dung hợp đồng",
+    "b": "Chỉ chấm dứt nếu Tòa án tuyên",
+    "c": "Chỉ chấm dứt nếu hợp đồng phải do chính cá nhân đó thực hiện",
+    "d": "Không bao giờ chấm dứt",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 422 BLDS 2015, chỉ chấm dứt nếu hợp đồng phải do chính cá nhân thực hiện."
+  },
+  {
+    "question": "Hợp đồng bị hủy bỏ theo Điều 423–426 BLDS 2015 có hậu quả pháp lý chính xác là gì?",
+    "a": "Chấm dứt từ thời điểm bị hủy bỏ",
+    "b": "Có hiệu lực từ thời điểm ký kết",
+    "c": "Không có hiệu lực từ thời điểm giao kết",
+    "d": "Chỉ chấm dứt phần nghĩa vụ chưa thực hiện",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 427 BLDS 2015, hợp đồng bị hủy bỏ thì không có hiệu lực từ thời điểm giao kết."
+  },
+  {
+    "question": "Sau khi hợp đồng bị hủy bỏ, nguyên tắc hoàn trả tài sản là gì?",
+    "a": "Chỉ bên vi phạm phải hoàn trả",
+    "b": "Hoàn trả cho bên có yêu cầu trước",
+    "c": "Hoàn trả cho nhau những gì đã nhận, trừ chi phí hợp lý",
+    "d": "Không phải hoàn trả nếu đã thực hiện một phần",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 427 BLDS 2015, các bên phải hoàn trả cho nhau những gì đã nhận, trừ chi phí hợp lý."
+  },
+  {
+    "question": "Trong trường hợp đơn phương chấm dứt hợp đồng, thời điểm chấm dứt được xác định là khi nào?",
+    "a": "Khi bên đơn phương ký thông báo",
+    "b": "Khi Tòa án xác nhận",
+    "c": "Khi bên kia nhận được thông báo",
+    "d": "Khi hợp đồng hết thời hạn",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 428 BLDS 2015, hợp đồng chấm dứt khi bên kia nhận được thông báo."
+  },
+  {
+    "question": "Trường hợp đơn phương chấm dứt hợp đồng không có căn cứ pháp luật thì hậu quả là gì?",
+    "a": "Không phát sinh trách nhiệm",
+    "b": "Vẫn được miễn nghĩa vụ",
+    "c": "Bị xác định là vi phạm nghĩa vụ và phải bồi thường",
+    "d": "Hợp đồng tự động vô hiệu",
+    "answer": "c",
+    "explanation": "Theo khoản 5 Điều 428 BLDS 2015, nếu không có căn cứ thì bên đơn phương chấm dứt bị coi là vi phạm nghĩa vụ."
+  },
+  {
+    "question": "Theo Điều 429 BLDS 2015, thời hiệu khởi kiện tranh chấp hợp đồng là bao lâu?",
+    "a": "01 năm kể từ ngày vi phạm",
+    "b": "02 năm kể từ ngày ký hợp đồng",
+    "c": "03 năm kể từ khi biết hoặc phải biết quyền bị xâm phạm",
+    "d": "05 năm kể từ khi hợp đồng chấm dứt",
+    "answer": "c",
+    "explanation": "Theo Điều 429 BLDS 2015, thời hiệu khởi kiện là 03 năm kể từ khi biết hoặc phải biết quyền bị xâm phạm."
+  },
+  {
+    "question": "Trường hợp hợp đồng bị hủy bỏ, nghĩa vụ các bên đối với phần đã thực hiện được xử lý như thế nào?",
+    "a": "Không phải xử lý gì",
+    "b": "Chỉ bên vi phạm phải chịu",
+    "c": "Các bên hoàn trả và thanh toán chi phí hợp lý phát sinh",
+    "d": "Giữ nguyên hiệu lực phần đã thực hiện",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 427 BLDS 2015, các bên hoàn trả và trừ chi phí hợp lý."
+  },
+  {
+    "question": "Trường hợp hợp đồng không thể thực hiện do đối tượng không còn thì hậu quả pháp lý là gì?",
+    "a": "Hợp đồng chuyển thành hợp đồng khác",
+    "b": "Hợp đồng vẫn có hiệu lực",
+    "c": "Hợp đồng chấm dứt",
+    "d": "Chỉ tạm dừng thực hiện",
+    "answer": "c",
+    "explanation": "Theo khoản 5 Điều 422 BLDS 2015, hợp đồng chấm dứt khi đối tượng không còn."
+  },
+{
+    "question": "Theo BLDS 2015, khi hoàn trả sau hủy bỏ hợp đồng, hình thức hoàn trả được ưu tiên là gì?",
+    "a": "Hoàn trả bằng tiền ngay cả khi còn vật gốc",
+    "b": "Hoàn trả bằng hiện vật nếu còn tồn tại",
+    "c": "Hoàn trả theo giá thị trường bắt buộc",
+    "d": "Không phải hoàn trả nếu đã thực hiện một phần nghĩa vụ",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 427 quy định việc hoàn trả được thực hiện bằng hiện vật nếu có thể."
+  },
+{
+    "question": "Theo BLDS 2015, chi phí nào được trừ khi hoàn trả sau hủy bỏ hợp đồng?",
+    "a": "Chi phí đầu tư kỳ vọng lợi nhuận",
+    "b": "Chi phí quảng cáo bên vi phạm tự thực hiện",
+    "c": "Chi phí hợp lý trong thực hiện hợp đồng và chi phí bảo quản, phát triển tài sản",
+    "d": "Toàn bộ chi phí phát sinh theo yêu cầu đơn phương",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 427 quy định được trừ chi phí hợp lý, bảo quản và phát triển tài sản."
+  },
+{
+    "question": "Theo BLDS 2015, nghĩa vụ nào vẫn tiếp tục tồn tại sau khi hợp đồng đơn phương chấm dứt?",
+    "a": "Toàn bộ nghĩa vụ đều chấm dứt hoàn toàn",
+    "b": "Chỉ nghĩa vụ chưa thực hiện bị hủy bỏ",
+    "c": "Thỏa thuận về phạt vi phạm, bồi thường thiệt hại và giải quyết tranh chấp",
+    "d": "Chỉ nghĩa vụ thanh toán còn lại",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 428 quy định các thỏa thuận về phạt, bồi thường, tranh chấp vẫn còn hiệu lực."
+  },
+{
+    "question": "Theo Điều 429 BLDS 2015, thời điểm bắt đầu tính thời hiệu khởi kiện được xác định như thế nào?",
+    "a": "Từ ngày hợp đồng được ký kết",
+    "b": "Từ ngày hợp đồng chấm dứt",
+    "c": "Từ ngày người có quyền biết hoặc phải biết quyền bị xâm phạm",
+    "d": "Từ ngày bên vi phạm thừa nhận lỗi",
+    "answer": "c",
+    "explanation": "Điều 429 quy định thời hiệu tính từ khi biết hoặc phải biết quyền bị xâm phạm."
+  },
+{
+    "question": "Trong trường hợp hợp đồng bị hủy bỏ hợp pháp, hậu quả pháp lý chính là:",
+    "a": "Hợp đồng tiếp tục có hiệu lực một phần",
+    "b": "Hợp đồng có hiệu lực từ thời điểm bị hủy bỏ",
+    "c": "Hợp đồng không có hiệu lực từ thời điểm giao kết",
+    "d": "Hợp đồng tự động chuyển thành hợp đồng mới",
+    "answer": "c",
+    "explanation": Khoản 1 Điều 427 BLDS 2015 quy định hợp đồng bị hủy bỏ thì không có hiệu lực từ thời điểm giao kết."
+  },
+  {
+  "question": "Trong trách nhiệm dân sự do vi phạm nghĩa vụ, trường hợp nào bên có nghĩa vụ được miễn trách nhiệm?",
+  "a": "Khi bên có quyền yêu cầu giảm nghĩa vụ",
+  "b": "Khi có sự kiện bất khả kháng trừ trường hợp có thỏa thuận khác",
+  "c": "Khi nghĩa vụ chưa đến hạn",
+  "d": "Khi bên có nghĩa vụ tự chứng minh không muốn thực hiện",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 351 BLDS 2015, bên có nghĩa vụ không phải chịu trách nhiệm nếu có sự kiện bất khả kháng, trừ trường hợp có thỏa thuận khác hoặc luật quy định khác."
+},
+{
+  "question": "Trong trường hợp bên có quyền có lỗi làm cho nghĩa vụ không thực hiện được, hậu quả pháp lý là gì?",
+  "a": "Bên có nghĩa vụ vẫn phải chịu trách nhiệm toàn bộ",
+  "b": "Nghĩa vụ tự động chấm dứt",
+  "c": "Bên có nghĩa vụ không phải chịu trách nhiệm dân sự",
+  "d": "Chuyển sang nghĩa vụ mới",
+  "answer": "c",
+  "explanation": "Theo khoản 3 Điều 351 BLDS 2015, nếu nghĩa vụ không thực hiện được hoàn toàn do lỗi của bên có quyền thì bên có nghĩa vụ không phải chịu trách nhiệm."
+},
+{
+  "question": "Trường hợp bên có quyền chậm tiếp nhận nghĩa vụ giao tài sản, bên có nghĩa vụ được quyền làm gì?",
+  "a": "Tự động hủy nghĩa vụ",
+  "b": "Gửi tài sản tại nơi gửi giữ và yêu cầu chi phí hợp lý",
+  "c": "Giữ tài sản vô thời hạn không cần thông báo",
+  "d": "Chuyển tài sản cho người khác sở hữu",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 355 BLDS 2015, bên có nghĩa vụ có quyền gửi tài sản và yêu cầu thanh toán chi phí hợp lý khi bên có quyền chậm tiếp nhận."
+},
+{
+  "question": "Trong trường hợp chậm trả tiền, nghĩa vụ lãi phát sinh được xác định như thế nào?",
+  "a": "Không phải trả lãi nếu có lý do",
+  "b": "Theo lãi suất thỏa thuận nhưng không vượt trần luật định",
+  "c": "Theo quyết định ngân hàng nhà nước từng vụ",
+  "d": "Tự do áp dụng bất kỳ mức lãi nào",
+  "answer": "b",
+  "explanation": "Theo Điều 357 và khoản 1 Điều 468 BLDS 2015, lãi chậm trả theo thỏa thuận nhưng không vượt trần luật định."
+},
+{
+  "question": "Khi bên có quyền chậm tiếp nhận nghĩa vụ, rủi ro thuộc về ai?",
+  "a": "Bên có nghĩa vụ",
+  "b": "Bên thứ ba",
+  "c": "Bên có quyền kể từ thời điểm chậm tiếp nhận",
+  "d": "Chia đôi rủi ro",
+  "answer": "c",
+  "explanation": "Theo Điều 359 BLDS 2015, bên có quyền phải chịu rủi ro và chi phí phát sinh kể từ thời điểm chậm tiếp nhận."
+},
+{
+  "question": "Chuyển giao quyền yêu cầu không cần điều kiện nào sau đây?",
+  "a": "Sự đồng ý của bên có nghĩa vụ",
+  "b": "Thông báo cho bên có nghĩa vụ",
+  "c": "Có hợp đồng chuyển giao",
+  "d": "Quyền không thuộc trường hợp cấm chuyển giao",
+  "answer": "a",
+  "explanation": "Theo khoản 2 Điều 365 BLDS 2015, chuyển giao quyền yêu cầu không cần sự đồng ý của bên có nghĩa vụ."
+},
+{
+  "question": "Trường hợp bên có nghĩa vụ không được thông báo về việc chuyển giao quyền yêu cầu thì quyền của họ là gì?",
+  "a": "Phải thực hiện lại nghĩa vụ",
+  "b": "Có quyền từ chối thực hiện cho người thế quyền",
+  "c": "Bị coi là vi phạm nghĩa vụ",
+  "d": "Tự động chuyển sang người thế quyền",
+  "answer": "b",
+  "explanation": "Theo Điều 369 BLDS 2015, nếu không được thông báo thì bên có nghĩa vụ có quyền từ chối thực hiện cho người thế quyền."
+},
+{
+  "question": "Khi chuyển giao nghĩa vụ, điều kiện bắt buộc là gì?",
+  "a": "Chỉ cần bên có nghĩa vụ đồng ý",
+  "b": "Cần sự đồng ý của bên có quyền",
+  "c": "Cần đăng ký tại cơ quan nhà nước",
+  "d": "Cần Tòa án xác nhận",
+  "answer": "b",
+  "explanation": "Theo Điều 370 BLDS 2015, chuyển giao nghĩa vụ phải có sự đồng ý của bên có quyền."
+},
+{
+  "question": "Trường hợp chuyển giao nghĩa vụ có biện pháp bảo đảm thì hậu quả pháp lý là gì?",
+  "a": "Biện pháp bảo đảm vẫn giữ nguyên",
+  "b": "Biện pháp bảo đảm chấm dứt, trừ thỏa thuận khác",
+  "c": "Tự động chuyển sang người mới",
+  "d": "Không ảnh hưởng gì",
+  "answer": "b",
+  "explanation": "Theo Điều 371 BLDS 2015, biện pháp bảo đảm chấm dứt khi nghĩa vụ được chuyển giao, trừ khi có thỏa thuận khác."
+},
+{
+  "question": "Trong các căn cứ chấm dứt nghĩa vụ, trường hợp nào sau đây làm nghĩa vụ chấm dứt mà không cần thực hiện thêm?",
+  "a": "Bên có nghĩa vụ xin gia hạn",
+  "b": "Nghĩa vụ được bù trừ",
+  "c": "Nghĩa vụ bị tranh chấp",
+  "d": "Bên có quyền thay đổi ý kiến",
+  "answer": "b",
+  "explanation": "Theo Điều 372 và 378 BLDS 2015, nghĩa vụ chấm dứt khi được bù trừ giữa các bên."
+},
+{
+  "question": "Bên có nghĩa vụ không thực hiện nghĩa vụ do thiên tai nhưng không có thỏa thuận miễn trách nhiệm. Hậu quả pháp lý chính xác là gì?",
+  "a": "Đương nhiên miễn toàn bộ trách nhiệm",
+  "b": "Vẫn phải chịu trách nhiệm dân sự",
+  "c": "Miễn trách nhiệm nếu chứng minh là bất khả kháng, trừ khi có thỏa thuận khác",
+  "d": "Chuyển nghĩa vụ sang bên thứ ba",
+  "answer": "c",
+  "explanation": "Theo khoản 2 Điều 351 BLDS 2015, bất khả kháng có thể miễn trách nhiệm trừ khi các bên có thỏa thuận khác hoặc luật quy định khác."
+},
+{
+  "question": "Trong trường hợp vi phạm nghĩa vụ có lỗi của cả hai bên, bên vi phạm phải bồi thường như thế nào?",
+  "a": "Không phải bồi thường",
+  "b": "Bồi thường toàn bộ thiệt hại",
+  "c": "Bồi thường tương ứng với mức độ lỗi của mình",
+  "d": "Tòa án quyết định không cần căn cứ lỗi",
+  "answer": "c",
+  "explanation": "Theo Điều 363 BLDS 2015, nếu bên bị vi phạm có lỗi thì bên vi phạm chỉ bồi thường tương ứng mức độ lỗi."
+},
+{
+  "question": "Bên có nghĩa vụ gửi tài sản do bên có quyền chậm tiếp nhận. Nếu không thông báo cho bên có quyền, hậu quả pháp lý là gì?",
+  "a": "Không phát sinh hậu quả",
+  "b": "Bị mất quyền gửi tài sản",
+  "c": "Phải bồi thường thiệt hại phát sinh",
+  "d": "Nghĩa vụ tự động chấm dứt",
+  "answer": "c",
+  "explanation": "Theo khoản 1 Điều 355 BLDS 2015, nếu không thông báo thì bên có nghĩa vụ phải bồi thường thiệt hại phát sinh."
+},
+{
+  "question": "Trong trường hợp chuyển giao quyền yêu cầu, nếu bên có nghĩa vụ không được thông báo nhưng đã thực hiện nghĩa vụ cho bên chuyển giao, hậu quả là:",
+  "a": "Phải thực hiện lại cho bên mới",
+  "b": "Không phải thực hiện lại nghĩa vụ",
+  "c": "Bị coi là vi phạm nghĩa vụ",
+  "d": "Tự động chuyển sang bên thế quyền",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 369 BLDS 2015, nếu đã thực hiện cho bên chuyển giao khi chưa được thông báo thì không phải thực hiện lại."
+},
+{
+  "question": "Chuyển giao nghĩa vụ có hiệu lực khi nào?",
+  "a": "Khi bên có nghĩa vụ thông báo",
+  "b": "Khi bên có quyền đồng ý",
+  "c": "Khi đăng ký tại cơ quan nhà nước",
+  "d": "Khi Tòa án xác nhận",
+  "answer": "b",
+  "explanation": "Theo khoản 1 Điều 370 BLDS 2015, chuyển giao nghĩa vụ chỉ có hiệu lực khi có sự đồng ý của bên có quyền."
+},
+{
+  "question": "Khi nghĩa vụ được chuyển giao và có biện pháp bảo đảm, nguyên tắc xử lý đúng là:",
+  "a": "Biện pháp bảo đảm tiếp tục nguyên trạng",
+  "b": "Biện pháp bảo đảm luôn chuyển sang người mới",
+  "c": "Biện pháp bảo đảm chấm dứt trừ khi có thỏa thuận khác",
+  "d": "Tự động chuyển thành bảo lãnh",
+  "answer": "c",
+  "explanation": "Theo Điều 371 BLDS 2015, biện pháp bảo đảm chấm dứt khi chuyển giao nghĩa vụ, trừ thỏa thuận khác."
+},
+{
+  "question": "Trường hợp nào sau đây làm chấm dứt nghĩa vụ mà không cần thực hiện thêm nghĩa vụ nào khác?",
+  "a": "Bên có nghĩa vụ xin giảm nghĩa vụ",
+  "b": "Nghĩa vụ được bù trừ hợp pháp",
+  "c": "Bên có quyền thay đổi ý kiến",
+  "d": "Có tranh chấp đang giải quyết",
+  "answer": "b",
+  "explanation": "Theo Điều 378 BLDS 2015, nghĩa vụ chấm dứt khi được bù trừ hợp pháp giữa các bên."
+},
+{
+  "question": "Trong trách nhiệm dân sự, lỗi cố ý được hiểu đúng nhất là:",
+  "a": "Không thấy trước hậu quả nhưng gây ra",
+  "b": "Thấy trước nhưng tin rằng không xảy ra",
+  "c": "Biết rõ hậu quả sẽ xảy ra nhưng vẫn mong muốn hoặc bỏ mặc",
+  "d": "Do lỗi kỹ thuật khách quan",
+  "answer": "c",
+  "explanation": "Theo Điều 364 BLDS 2015, lỗi cố ý là biết rõ hành vi gây thiệt hại nhưng vẫn mong muốn hoặc bỏ mặc hậu quả."
+},
+{
+  "question": "Bên có quyền phải hạn chế thiệt hại trong trường hợp vi phạm nghĩa vụ. Nếu không thực hiện thì:",
+  "b": "Được tăng mức bồi thường",
+  "c": "Không được bồi thường phần thiệt hại có thể hạn chế",
+  "a": "Chuyển trách nhiệm sang bên vi phạm",
+"d": "Không ảnh hưởng gì",
+  "answer": "a",
+  "explanation": "Theo Điều 362 BLDS 2015, bên có quyền phải áp dụng biện pháp hạn chế thiệt hại, nếu không thì phần thiệt hại có thể hạn chế sẽ không được bồi thường."
+},
+  {
+    "question": "Trong trường hợp bên có nghĩa vụ không thực hiện nghĩa vụ đúng hạn, khái niệm 'vi phạm nghĩa vụ' được hiểu đúng nhất là gì?",
+    "a": "Chỉ khi không thực hiện toàn bộ nghĩa vụ",
+    "b": "Chỉ khi gây thiệt hại cho bên có quyền",
+    "c": "Không thực hiện, thực hiện không đầy đủ hoặc không đúng nội dung nghĩa vụ",
+    "d": "Chỉ khi có lỗi cố ý",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 351 BLDS 2015, vi phạm nghĩa vụ gồm không thực hiện, thực hiện không đầy đủ hoặc không đúng nội dung nghĩa vụ."
+  },
+  {
+    "question": "Trường hợp nào sau đây KHÔNG làm phát sinh trách nhiệm dân sự của bên có nghĩa vụ?",
+    "a": "Thực hiện nghĩa vụ chậm",
+    "b": "Không thực hiện nghĩa vụ do bất khả kháng",
+    "c": "Thực hiện không đúng nội dung",
+    "d": "Thực hiện không đầy đủ",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 351 BLDS 2015, bất khả kháng có thể miễn trách nhiệm dân sự trừ trường hợp có thỏa thuận hoặc luật quy định khác."
+  },
+  {
+    "question": "Trong trường hợp nghĩa vụ không thực hiện được hoàn toàn do lỗi của bên có quyền, hậu quả pháp lý là gì?",
+    "a": "Bên có nghĩa vụ phải bồi thường một phần",
+    "b": "Bên có nghĩa vụ vẫn phải thực hiện nghĩa vụ",
+    "c": "Chuyển nghĩa vụ sang bên thứ ba",
+    "d": "Bên có nghĩa vụ không phải chịu trách nhiệm dân sự",
+    "answer": "d",
+    "explanation": "Theo khoản 3 Điều 351 BLDS 2015, nếu lỗi hoàn toàn thuộc về bên có quyền thì bên có nghĩa vụ không phải chịu trách nhiệm."
+  },
+  {
+    "question": "Chậm thực hiện nghĩa vụ được hiểu đúng là trường hợp nào?",
+    "a": "Chỉ thực hiện một phần khi hết hạn",
+    "b": "Không thể thực hiện do lỗi kỹ thuật",
+    "c": "Không thực hiện vì bên có quyền yêu cầu hoãn",
+    "d": "Đã thực hiện nhưng không đúng đối tượng",
+    "answer": "a",
+    "explanation": "Theo khoản 1 Điều 353 BLDS 2015, chậm thực hiện nghĩa vụ là khi đến hạn nhưng chưa thực hiện hoặc chỉ thực hiện một phần."
+  },
+  {
+    "question": "Trường hợp bên có quyền chậm tiếp nhận tài sản, hậu quả pháp lý về rủi ro thuộc về ai?",
+    "a": "Bên có nghĩa vụ",
+    "b": "Bên có quyền từ thời điểm chậm tiếp nhận",
+    "c": "Tòa án xác định từng trường hợp",
+    "d": "Chia đều cho các bên",
+    "answer": "b",
+    "explanation": "Theo Điều 359 BLDS 2015, bên có quyền chịu rủi ro kể từ thời điểm chậm tiếp nhận nghĩa vụ."
+  },
+  {
+    "question": "Trong trường hợp nghĩa vụ giao vật đặc định không còn, hậu quả pháp lý là gì?",
+    "a": "Phải giao vật cùng loại thay thế",
+    "b": "Nghĩa vụ tự động chuyển sang tiền",
+    "c": "Nghĩa vụ chấm dứt hoàn toàn",
+    "d": "Tiếp tục thực hiện khi có vật mới",
+    "answer": "c",
+    "explanation": "Theo Điều 383 BLDS 2015, nghĩa vụ giao vật đặc định chấm dứt khi vật không còn, trừ trường hợp thỏa thuận khác."
+  },
+  {
+    "question": "Trường hợp bên có nghĩa vụ chậm trả tiền, lãi phát sinh được xác định như thế nào?",
+    "a": "Do Tòa án quyết định",
+    "b": "Không phải trả lãi nếu không có lỗi",
+    "c": "Theo mức lãi thỏa thuận nhưng không vượt giới hạn luật định",
+    "d": "Theo yêu cầu của bên có quyền",
+    "answer": "c",
+    "explanation": "Theo Điều 357 và Điều 468 BLDS 2015, lãi chậm trả theo thỏa thuận nhưng không vượt trần pháp luật."
+  },
+  {
+    "question": "Trong trường hợp bên có nghĩa vụ không thực hiện công việc phải làm, bên có quyền được quyền nào sau đây?",
+    "a": "Tự động hủy hợp đồng",
+    "b": "Buộc bên có nghĩa vụ chuyển giao tài sản",
+    "c": "Tự thực hiện hoặc thuê người khác và yêu cầu chi phí hợp lý",
+    "d": "Chỉ được yêu cầu bồi thường",
+    "answer": "c",
+    "explanation": "Theo Điều 358 BLDS 2015, bên có quyền có thể tự thực hiện hoặc thuê người khác thực hiện công việc và yêu cầu chi phí."
+  },
+  {
+    "question": "Trong chuyển giao quyền yêu cầu, người chuyển giao không thực hiện nghĩa vụ nào có thể gây thiệt hại?",
+    "a": "Thông báo cho bên có nghĩa vụ",
+    "b": "Cung cấp thông tin và giấy tờ liên quan",
+    "c": "Yêu cầu bên có quyền đồng ý",
+    "d": "Đăng ký giao dịch",
+    "answer": "b",
+    "explanation": "Theo Điều 366 BLDS 2015, người chuyển giao phải cung cấp thông tin và giấy tờ, nếu không sẽ phải bồi thường."
+  },
+  {
+    "question": "Trong chuyển giao nghĩa vụ, điều kiện bắt buộc để có hiệu lực là gì?",
+    "a": "Bên có nghĩa vụ đồng ý",
+    "b": "Bên có quyền đồng ý",
+    "c": "Công chứng bắt buộc",
+    "d": "Đăng ký tại cơ quan nhà nước",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 370 BLDS 2015, chuyển giao nghĩa vụ phải có sự đồng ý của bên có quyền."
+  },
+  {
+    "question": "Trường hợp chuyển giao nghĩa vụ có biện pháp bảo đảm thì hậu quả pháp lý là gì?",
+    "a": "Biện pháp bảo đảm vẫn giữ nguyên",
+    "b": "Biện pháp bảo đảm chấm dứt trừ khi có thỏa thuận khác",
+    "c": "Tự động chuyển sang người mới",
+    "d": "Chuyển thành bảo lãnh",
+    "answer": "b",
+    "explanation": "Theo Điều 371 BLDS 2015, biện pháp bảo đảm chấm dứt khi chuyển giao nghĩa vụ, trừ khi có thỏa thuận khác."
+  },
+  {
+    "question": "Trường hợp nào sau đây làm nghĩa vụ chấm dứt mà không cần thực hiện thêm nghĩa vụ khác?",
+    "a": "Nghĩa vụ đang tranh chấp",
+    "b": "Bên có quyền thay đổi ý kiến",
+    "c": "Nghĩa vụ được bù trừ hợp pháp",
+    "d": "Gia hạn nghĩa vụ",
+    "answer": "c",
+    "explanation": "Theo Điều 378 BLDS 2015, nghĩa vụ chấm dứt khi được bù trừ giữa các bên."
+  },
+  {
+    "question": "Trong trường hợp miễn việc thực hiện nghĩa vụ, hậu quả pháp lý đối với nghĩa vụ gốc là gì?",
+    "a": "Tạm dừng thực hiện",
+    "b": "Chuyển sang nghĩa vụ mới",
+    "c": "Chấm dứt nghĩa vụ",
+    "d": "Vẫn phải thực hiện một phần",
+    "answer": "c",
+    "explanation": "Theo Điều 376 BLDS 2015, khi bên có quyền miễn nghĩa vụ thì nghĩa vụ chấm dứt."
+  },
+  {
+    "question": "Trong trường hợp bên có nghĩa vụ và bên có quyền hòa nhập làm một, hậu quả pháp lý là gì?",
+    "a": "Nghĩa vụ tiếp tục tồn tại",
+    "b": "Nghĩa vụ chấm dứt",
+    "c": "Chuyển sang nghĩa vụ dân sự khác",
+    "d": "Tạm đình chỉ nghĩa vụ",
+    "answer": "b",
+    "explanation": "Theo Điều 380 BLDS 2015, khi bên có nghĩa vụ và bên có quyền hòa nhập thì nghĩa vụ chấm dứt."
+  },
+  {
+    "question": "Trường hợp nghĩa vụ chấm dứt do hết thời hiệu miễn trừ nghĩa vụ, hậu quả pháp lý là gì?",
+    "a": "Nghĩa vụ vẫn phải thực hiện",
+    "b": "Nghĩa vụ được chuyển sang bên khác",
+    "c": "Nghĩa vụ chấm dứt",
+    "d": "Tạm đình chỉ nghĩa vụ",
+    "answer": "c",
+    "explanation": "Theo Điều 381 BLDS 2015, khi hết thời hiệu miễn trừ nghĩa vụ thì nghĩa vụ chấm dứt."
+  },
+  {
+    "question": "Trong trường hợp vật đặc định là đối tượng của nghĩa vụ không còn, hậu quả pháp lý là gì?",
+    "a": "Phải thay bằng vật cùng loại",
+    "b": "Nghĩa vụ tự động chuyển sang tiền",
+    "c": "Nghĩa vụ chấm dứt, trừ thỏa thuận khác",
+    "d": "Tòa án quyết định tiếp tục",
+    "answer": "c",
+    "explanation": "Theo Điều 383 BLDS 2015, nghĩa vụ giao vật đặc định chấm dứt khi vật không còn, trừ trường hợp có thỏa thuận khác."
+  },
+  {
+    "question": "Trong trường hợp phá sản, nghĩa vụ dân sự được xử lý như thế nào?",
+    "a": "Vẫn phải thực hiện đầy đủ",
+    "b": "Chuyển sang nghĩa vụ mới",
+    "c": "Chấm dứt theo Luật Phá sản",
+    "d": "Tạm hoãn vô thời hạn",
+    "answer": "c",
+    "explanation": "Theo Điều 384 BLDS 2015, nghĩa vụ trong trường hợp phá sản được xử lý theo Luật Phá sản."
+  },
+  {
   "question": "A đã thế chấp nhà cho ngân hàng X và đã đăng ký. Sau đó A tự ý bán nhà cho B mà không có sự đồng ý của X. Khi xảy ra tranh chấp, nhận định đúng là:",
   "a": "B luôn trở thành chủ sở hữu hợp pháp",
   "b": "Giao dịch mua bán tự động vô hiệu",
