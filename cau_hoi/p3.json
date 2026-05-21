@@ -1,5 +1,347 @@
 [
   {
+    "question": "Theo BLDS 2015, quyền thừa kế của cá nhân được pháp luật quy định như thế nào?",
+    "a": "Cá nhân chỉ được quyền để lại tài sản của mình cho những người thuộc hàng thừa kế theo pháp luật",
+    "b": "Cá nhân có quyền lập di chúc để định đoạt tài sản của mình; để lại tài sản cho người thừa kế theo pháp luật; hưởng di sản theo di chúc hoặc theo pháp luật",
+    "c": "Cá nhân chỉ được lập di chúc định đoạt tài sản cho tổ chức nếu được sự đồng ý của tất cả người thừa kế theo pháp luật",
+    "d": "Cá nhân không có quyền để lại di sản cho các tổ chức, cơ quan không có tư cách pháp nhân",
+    "answer": "b",
+    "explanation": "Điều 609 BLDS 2015 quy định cá nhân có quyền lập di chúc để định đoạt tài sản của mình; để lại tài sản cho người thừa kế theo pháp luật; hưởng di sản theo di chúc hoặc theo pháp luật."
+  },
+  {
+    "question": "Tổ chức, cơ quan không phải là cá nhân có thể trở thành người thừa kế hợp pháp và hưởng di sản trong trường hợp nào?",
+    "a": "Được hưởng di sản theo cả di chúc và theo phân chia của các hàng thừa kế theo pháp luật",
+    "b": "Chỉ được hưởng di sản theo di chúc và phải tồn tại vào thời điểm mở thừa kế",
+    "c": "Được hưởng di sản theo pháp luật khi người để lại di sản không còn bất kỳ người thân thích nào",
+    "d": "Chỉ được hưởng di sản khi có quyết định chỉ định hoặc phê duyệt từ Tòa án",
+    "answer": "b",
+    "explanation": Điều 609 và Điều 613 BLDS 2015 quy định người thừa kế không là cá nhân có quyền hưởng di sản theo di chúc và phải tồn tại vào thời điểm mở thừa kế."
+  },
+  {
+    "question": "Tình huống: Ông A bị tai nạn giao thông chấn thương sọ não nặng, được bệnh viện tiên lượng tử vong và rút ống thở lúc 23h00 ngày 20/05. Tuy nhiên, đến 01h15 ngày 21/05 ông A mới ngừng tim hoàn toàn. Thời điểm mở thừa kế của ông A được xác định là khi nào?",
+    "a": "Thời điểm bệnh viện tiên lượng không thể cứu chữa và làm thủ tục rút ống thở",
+    "b": "Thời điểm ông A chính thức ngừng tim hoàn toàn và chết trên thực tế (01h15 ngày 21/05)",
+    "c": "Thời điểm cơ quan công an hoàn thành biên bản khám nghiệm tử thi",
+    "d": "Ngày Ủy ban nhân dân cấp xã cấp Giấy chứng tử cho gia đình",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 611 BLDS 2015 quy định thời điểm mở thừa kế là thời điểm người có tài sản chết. Chết thực tế được tính khi các dấu hiệu sinh tồn dừng hoàn toàn."
+  },
+  {
+    "question": "Trường hợp Tòa án ra quyết định tuyên bố một người là đã chết do mất tích lâu ngày, thời điểm mở thừa kế của người này được xác định dựa trên căn cứ nào?",
+    "a": "Ngày bản án, quyết định của Tòa án chính thức có hiệu lực pháp luật",
+    "b": "Ngày gia đình người mất tích nộp đơn yêu cầu Tòa án giải quyết",
+    "c": "Ngày chết được xác định trong quyết định của Tòa án theo quy định tại khoản 2 Điều 71 BLDS 2015",
+    "d": "Ngày cơ quan hộ tịch địa phương xóa đăng ký thường trú của người đó",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 611 BLDS 2015 quy định trường hợp Tòa án tuyên bố một người là đã chết thì thời điểm mở thừa kế là ngày được xác định tại khoản 2 Điều 71 của Bộ luật này."
+  },
+  {
+    "question": "Xác định địa điểm mở thừa kế trong trường hợp người để lại di sản chết tại bệnh viện ở nước ngoài và có tài sản rải rác ở nhiều tỉnh thành tại Việt Nam?",
+    "a": "Nơi có khối tài sản (bất động sản) có giá trị lớn nhất của người để lại di sản",
+    "b": "Nơi cư trú cuối cùng của người để lại di sản trước khi ra nước ngoài chữa bệnh",
+    "c": "Nơi cư trú của người thừa kế được hưởng phần di sản lớn nhất",
+    "d": "Nơi đặt trụ sở của Tòa án nơi người thừa kế nộp đơn yêu cầu chia di sản",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 611 BLDS 2015 quy định địa điểm mở thừa kế là nơi cư trú cuối cùng của người để lại di sản; nếu không xác định được nơi cư trú cuối cùng thì địa điểm mở thừa kế là nơi có toàn bộ di sản hoặc nơi có phần lớn di sản."
+  },
+  {
+    "question": "Theo Điều 612 BLDS 2015, di sản của một người để lại sau khi chết được cấu thành từ những khối tài sản nào?",
+    "a": "Toàn bộ tài sản thuộc sở hữu riêng của người chết tính đến thời điểm mở thừa kế",
+    "b": "Tài sản riêng của người chết và phần tài sản của người chết trong khối tài sản chung với người khác",
+    "c": "Toàn bộ tài sản chung vợ chồng và tài sản riêng của người chết",
+    "d": "Tài sản riêng và các khoản tiền bảo hiểm nhân thọ phát sinh sau khi người đó qua đời",
+    "answer": "b",
+    "explanation": "Điều 612 BLDS 2015 quy định di sản bao gồm tài sản riêng của người chết và phần tài sản của người chết trong tài sản chung với người khác."
+  },
+  {
+    "question": "Tình huống: Ông X chết ngày 15/05. Vợ ông X đang mang thai được 5 tháng. Đến ngày 15/10, người vợ sinh ra một bé trai nhưng đứa bé chỉ thở được 10 phút thì tử vong. Đứa bé này có được xác định là người thừa kế hợp pháp của ông X hay không?",
+    "a": "Không, vì đứa bé đã chết nên không có năng lực hành vi dân sự để nhận di sản",
+    "b": "Có, vì đứa bé đã thành thai trước khi ông X chết và đã sinh ra còn sống",
+    "c": "Không, vì đứa bé phải sống tối thiểu 24 giờ sau khi sinh mới được tính là một cá nhân",
+    "d": "Có, nhưng phần di sản của đứa bé tự động hoàn lại cho người mẹ chứ không tính là di sản riêng của bé",
+    "answer": "b",
+    "explanation": "Điều 613 BLDS 2015 quy định người thừa kế là cá nhân phải còn sống vào thời điểm mở thừa kế hoặc sinh ra và còn sống sau thời điểm mở thừa kế nhưng đã thành thai trước khi người để lại di sản chết. Bé sinh ra còn sống (dù chỉ 10 phút) vẫn gặt hái được quyền thừa kế."
+  },
+  {
+    "question": "Thời điểm phát sinh các quyền và nghĩa vụ tài sản của người thừa kế đối với khối di sản do người chết để lại được luật định là khi nào?",
+    "a": "Kể từ thời điểm các bên ký văn bản thỏa thuận phân chia di sản có công chứng",
+    "b": "Kể từ thời điểm cơ quan có thẩm quyền đăng ký biến động sang tên tài sản",
+    "c": "Kể từ thời điểm mở thừa kế",
+    "d": "Kể từ khi có bản án chia thừa kế của Tòa án có hiệu lực pháp luật",
+    "answer": "c",
+    "explanation": "Điều 614 BLDS 2015 quy định kể từ thời điểm mở thừa kế, người thừa kế có các quyền và nghĩa vụ tài sản do người chết để lại."
+  },
+  {
+    "question": "Người thừa kế có trách nhiệm thực hiện nghĩa vụ tài sản (trả nợ, nộp thuế...) do người chết để lại trong phạm vi nào?",
+    "a": "Phải chịu trách nhiệm bằng toàn bộ tài sản thuộc sở hữu riêng hiện có của mình",
+    "b": "Chỉ thực hiện nghĩa vụ trong phạm vi di sản do người chết để lại, trừ trường hợp có thỏa thuận khác",
+    "c": "Chỉ phải thực hiện nếu người chết có để lại di chúc yêu cầu người thừa kế trả nợ thay",
+    "d": "Chịu trách nhiệm liên đới vô hạn cùng các đồng thừa kế khác không phụ thuộc vào giá trị di sản",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 615 BLDS 2015 quy định người hưởng thừa kế có trách nhiệm thực hiện nghĩa vụ tài sản trong phạm vi di sản do người chết để lại, trừ trường hợp có thỏa thuận khác."
+  },
+  {
+    "question": "Sau khi di sản đã được phân chia, trách nhiệm thực hiện nghĩa vụ tài sản của từng người thừa kế đối với các khoản nợ của người chết được xác định thế nào?",
+    "a": "Các người thừa kế vẫn phải liên đới chịu trách nhiệm trả toàn bộ khoản nợ còn lại",
+    "b": "Người nào nhận phần di sản có giá trị lớn nhất sẽ phải gánh chịu toàn bộ khoản nợ",
+    "c": "Mỗi người thừa kế thực hiện nghĩa vụ tương ứng nhưng không vượt quá phần tài sản mình đã nhận, trừ trường hợp có thỏa thuận khác",
+    "d": "Khoản nợ tự động chấm dứt hiệu lực do di sản đã được phân chia xong",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 615 BLDS 2015 quy định trường hợp di sản đã được chia thì mỗi người thừa kế thực hiện nghĩa vụ tài sản do người chết để lại tương ứng nhưng không vượt quá phần tài sản mình đã nhận, trừ trường hợp có thỏa thuận khác."
+  },
+  {
+    "question": "Chủ thể nào sau đây có thẩm quyền hợp pháp để trở thành người quản lý di sản theo Điều 616 BLDS 2015?",
+    "a": "Chỉ có thể là người được Tòa án nhân dân chỉ định bằng quyết định có hiệu lực",
+    "b": "Người được chỉ định trong di chúc hoặc do những người thừa kế thỏa thuận cử ra",
+    "c": "Mặc định là người lớn tuổi nhất trong số các đồng thừa kế theo pháp luật",
+    "d": "Cơ quan quản lý nhà nước nơi có bất động sản thuộc khối di sản",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 616 BLDS 2015 quy định người quản lý di sản là người được chỉ định trong di chúc hoặc do những người thừa kế thỏa thuận cử ra."
+  },
+  {
+    "question": "Trong giai đoạn quản lý di sản, người quản lý di sản có quyền thực hiện hành vi nào sau đây đối với tài sản được giao?",
+    "a": "Được tự do bán, thế chấp tài sản để thanh toán các chi phí cá nhân phát sinh",
+    "b": "Được tạm thời chiếm hữu, sử dụng di sản để phục vụ nhu cầu kinh doanh riêng của mình",
+    "c": "Chỉ được bán, trao đổi, tặng cho, thế chấp di sản nếu được những người thừa kế đồng ý bằng văn bản",
+    "d": "Được toàn quyền định đoạt di sản nếu những người thừa kế cư trú ở nước ngoài",
+    "answer": "c",
+    "explanation": "Điểm b khoản 1 Điều 617 BLDS 2015 quy định người quản lý di sản không được bán, trao đổi, tặng cho, cầm cố, thế chấp hoặc định đoạt tài sản bằng hình thức khác, nếu không được những người thừa kế đồng ý bằng văn bản."
+  },
+  {
+    "question": "Quyền lợi về thù lao của người quản lý di sản được quy định như thế nào tại Điều 618 BLDS 2015?",
+    "a": "Mặc định được hưởng 10% tổng giá trị khối di sản quản lý theo quy định của pháp luật",
+    "b": "Được hưởng thù lao theo thỏa thuận với những người thừa kế; nếu không thỏa thuận được thì được hưởng một khoản thù lao hợp lý",
+    "c": "Không được hưởng bất kỳ khoản thù lao nào nếu là người thân thích của người để lại di sản",
+    "d": "Được tự ý trích một phần tài sản trong khối di sản để làm thù lao mà không cần thông báo",
+    "answer": "b",
+    "explanation": "Điểm b khoản 1 Điều 618 BLDS 2015 quy định người quản lý di sản được hưởng thù lao theo thỏa thuận với những người thừa kế; nếu không thỏa thuận được thì có quyền yêu cầu hưởng một khoản thù lao hợp lý."
+  },
+  {
+    "question": "Tình huống: Hai cha con ông M và anh N không may cùng tử vong trong một vụ tai nạn máy bay và cơ quan chức năng xác định họ chết cùng thời điểm. Ông M có khối tài sản riêng là 2 tỷ đồng. Quan hệ thừa kế giữa ông M và anh N được giải quyết như thế nào?",
+    "a": "Anh N vẫn được thừa kế di sản của ông M, sau đó phần này chia cho con của anh N",
+    "b": "Ông M và anh N không được thừa kế di sản của nhau; di sản của ông M được chia cho những người thừa kế khác của ông M",
+    "c": "Tòa án sẽ gộp toàn bộ tài sản của hai người lại thành một khối và chia đều cho thân nhân",
+    "d": "Anh N được hưởng 50% di sản của cha vì là hàng thừa kế thứ nhất",
+    "answer": "b",
+    "explanation": "Điều 619 BLDS 2015 quy định những người có quyền thừa kế của nhau chết cùng thời điểm thì không được thừa kế của nhau, di sản của mỗi người do người thừa kế của người đó hưởng (trừ trường hợp thừa kế thế vị quy định tại Điều 652)."
+  },
+  {
+    "question": "Người thừa kế có quyền từ chối nhận di sản, trừ trường hợp nào sau đây theo Điều 620 BLDS 2015?",
+    "a": "Từ chối nhận di sản khi chưa có sự đồng ý của tất cả các đồng thừa kế khác",
+    "b": "Việc từ chối nhằm trốn tránh việc thực hiện nghĩa vụ tài sản của mình đối với người khác",
+    "c": "Người từ chối là người chưa thành niên hoặc người bị hạn chế năng lực hành vi dân sự",
+    "d": "Khối di sản để lại có tranh chấp gay gắt giữa các thành viên trong gia đình",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 620 BLDS 2015 quy định người thừa kế có quyền từ chối nhận di sản, trừ trường hợp việc từ chối nhằm trốn tránh việc thực hiện nghĩa vụ tài sản của mình đối với người khác."
+  },
+  {
+    "question": "Hành vi từ chối nhận di sản thừa kế muốn có hiệu lực pháp luật thì bắt buộc phải đáp ứng điều kiện nào về hình thức và thời gian?",
+    "a": "Phải thể hiện bằng lời nói trước mặt người chứng kiến tại thời điểm mở thừa kế",
+    "b": "Phải được lập thành văn bản và phải được thể hiện trước thời điểm phân chia di sản",
+    "c": "Phải gửi bằng văn bản điện tử (Email, tin nhắn) cho người quản lý di sản trong vòng 30 ngày",
+    "d": "Phải lập thành văn bản có chứng thực của UBND cấp xã sau khi đã chia xong di sản",
+    "answer": "b",
+    "explanation": "Khoản 2 và Khoản 3 Điều 620 BLDS 2015 quy định việc từ chối nhận di sản phải được lập thành văn bản và phải được thể hiện trước thời điểm phân chia di sản."
+  },
+  {
+    "question": "Chủ thể nào sau đây thuộc trường hợp không được quyền hưởng di sản theo quy định tại Điều 621 BLDS 2015?",
+    "a": "Người bị kết án về hành vi vô ý làm chết người để lại di sản",
+    "b": "Người có hành vi ngược đãi nghiêm trọng người để lại di sản nhưng đã được người đó tha thứ lúc sinh thời",
+    "c": "Người có hành vi giả mạo, sửa chữa hoặc che giấu di chúc nhằm hưởng một phần hoặc toàn bộ di sản trái với ý chí của người để lại di sản",
+    "d": "Người từ lâu không còn liên lạc hay đi lại thăm nom với người để lại di sản",
+    "answer": "c",
+    "explanation": "Điểm d khoản 1 Điều 621 BLDS 2015 quy định người có hành vi giả mạo, sửa chữa di chúc, hủy di chúc, che giấu di chúc nhằm hưởng một phần hoặc toàn bộ di sản trái với ý chí của người để lại di sản thì không được quyền hưởng di sản."
+  },
+  {
+    "question": "Tình huống: Anh K từng có hành vi ngược đãi, đánh đập nghiêm trọng cha mình là ông H và bị xã hội lên án. Tuy nhiên trước khi chết, ông H vẫn lập di chúc hợp pháp để lại cho anh K một căn nhà. Anh K có được nhận căn nhà này không?",
+    "a": "Không được nhận vì hành vi vi phạm đạo đức nghiêm trọng cấu thành loại trừ quyền thừa kế đương nhiên",
+    "b": "Được nhận, vì ông H đã biết rõ hành vi của anh K nhưng vẫn cho anh K hưởng di sản theo di chúc",
+    "c": "Chỉ được nhận một nửa giá trị căn nhà, phần còn lại nộp vào ngân sách nhà nước",
+    "d": "Chỉ được nhận nếu tất cả các đồng thừa kế khác ký biên bản đồng ý bỏ qua lỗi lầm",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 621 BLDS 2015 quy định những người thuộc trường hợp không được quyền hưởng di sản vẫn được hưởng di sản, nếu người để lại di sản đã biết hành vi của những người đó nhưng vẫn cho họ hưởng di sản theo di chúc."
+  },
+  {
+    "question": "Trường hợp di sản được xác định là không có người thừa kế theo di chúc, không có người thừa kế theo pháp luật hoặc có nhưng đều từ chối nhận di sản thì khối tài sản còn lại sau khi thanh toán nghĩa vụ thuộc về ai?",
+    "a": "Thuộc sở hữu chung của các cá nhân đang trực tiếp chiếm hữu hợp pháp tài sản đó",
+    "b": "Thuộc về người đã có công quản lý, gìn giữ khối di sản từ thời điểm mở thừa kế",
+    "c": "Thuộc về Nhà nước",
+    "d": "Thuộc về Ủy ban nhân dân cấp xã nơi có địa điểm mở thừa kế để làm quỹ từ thiện",
+    "answer": "c",
+    "explanation": "Điều 622 BLDS 2015 quy định trường hợp không có người thừa kế theo di chúc, theo pháp luật hoặc có nhưng không được quyền hưởng di sản, từ chối nhận di sản thì di sản còn lại sau khi đã thực hiện nghĩa vụ về tài sản mà không có người nhận thừa kế thuộc về Nhà nước."
+  },
+  {
+    "question": "Thời hiệu để người thừa kế yêu cầu Tòa án phân chia di sản đối với tài sản là bất động sản và động sản được quy định là bao lâu kể từ thời điểm mở thừa kế?",
+    "a": "10 năm đối với cả bất động sản và động sản",
+    "b": "30 năm đối với bất động sản và 10 năm đối với động sản",
+    "c": "20 năm đối với bất động sản và 05 năm đối với động sản",
+    "d": "Không áp dụng thời hiệu đối với bất động sản; 15 năm đối với động sản",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 623 BLDS 2015 quy định thời hiệu để người thừa kế yêu cầu chia di sản là 30 năm đối với bất động sản, 10 năm đối với động sản, kể từ thời điểm mở thừa kế."
+  },
+  {
+    "question": "Thời hiệu để một cá nhân yêu cầu xác nhận quyền thừa kế của mình hoặc bác bỏ quyền thừa kế của người khác là bao lâu?",
+    "a": "03 năm kể từ ngày biết quyền lợi bị xâm phạm",
+    "b": "05 năm kể từ thời điểm mở thừa kế",
+    "c": "10 năm kể từ thời điểm mở thừa kế",
+    "d": "30 năm kể từ thời điểm công bố di chúc",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 623 BLDS 2015 quy định thời hiệu yêu cầu xác nhận quyền thừa kế của mình hoặc bác bỏ quyền thừa kế của người khác là 10 năm kể từ thời điểm mở thừa kế."
+  },
+  {
+    "question": "Thời hiệu để người có quyền lợi (chủ nợ) yêu cầu người thừa kế thực hiện nghĩa vụ tài sản do người chết để lại là bao lâu kể từ thời điểm mở thừa kế?",
+    "a": "01 năm",
+    "b": "02 năm",
+    "c": "03 năm",
+    "d": "05 năm",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 623 BLDS 2015 quy định thời hiệu yêu cầu người thừa kế thực hiện nghĩa vụ tài sản của người chết để lại là 03 năm kể từ thời điểm mở thừa kế."
+  },
+{
+    "question": "Tình huống: Ông A chết để lại khoản nợ 2 tỷ đồng. Người con duy nhất của ông A nhận thừa kế khối tài sản trị giá 500 triệu đồng. Theo BLDS 2015, người con phải thực hiện nghĩa vụ trả nợ như thế nào?",
+    "a": "Bắt buộc phải trả đủ toàn bộ khoản nợ 2 tỷ đồng bằng cách bán thêm tài sản riêng của mình",
+    "b": "Chỉ phải trả tối đa 1 tỷ đồng (tương đương 50% khoản nợ của người chết)",
+    "c": "Chỉ có trách nhiệm trả nợ trong phạm vi di sản 500 triệu đồng đã nhận, trừ trường hợp có thỏa thuận khác",
+    "d": "Không phải trả bất kỳ khoản nợ nào vì nghĩa vụ tài sản chấm dứt khi người vay chết",
+    "answer": "c",
+    "explanation": "Khoản 1 và khoản 3 Điều 615 BLDS 2015 quy định người thừa kế chỉ thực hiện nghĩa vụ tài sản trong phạm vi di sản nhận được."
+  },
+  {
+    "question": "Tình huống: Ông A bị tai nạn giao thông chấn thương sọ não nặng, được bệnh viện làm thủ tục rút ống thở lúc 23h00 ngày 20/05. Tuy nhiên, đến 01h15 ngày 21/05 ông A mới ngừng tim hoàn toàn. Thời điểm mở thừa kế của ông A được xác định là khi nào?",
+    "a": "Thời điểm bệnh viện tiên lượng không thể cứu chữa và làm thủ tục rút ống thở (23h00 ngày 20/05)",
+    "b": "Thời điểm ông A chính thức ngừng tim hoàn toàn và chết trên thực tế (01h15 ngày 21/05)",
+    "c": "Thời điểm cơ quan công an hoàn thành biên bản khám nghiệm hiện trường",
+    "d": "Ngày Ủy ban nhân dân cấp xã ký cấp Giấy chứng tử cho gia đình",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 611 BLDS 2015 quy định thời điểm mở thừa kế là thời điểm người có tài sản chết. Chết thực tế được tính khi các dấu hiệu sinh tồn (tim, phổi) dừng hoạt động hoàn toàn trên thực tế, không phụ thuộc vào thời điểm rút thiết bị hỗ trợ."
+  },
+  {
+    "question": "Tình huống: Địa điểm mở thừa kế được xác định thế nào nếu người để lại di sản chết tại một bệnh viện ở nước ngoài, trước đó đăng ký thường trú tại Bình Dương, tạm trú làm việc tại TP.HCM, nhưng khối tài sản là bất động sản duy nhất lại nằm tại Đồng Nai?",
+    "a": "Tại nước ngoài (nơi chết thực tế)",
+    "b": "Tại tỉnh Đồng Nai (nơi có bất động sản)",
+    "c": "Tại tỉnh Bình Dương (nơi đăng ký thường trú - nơi cư trú cuối cùng)",
+    "d": "Tại TP.HCM (nơi tạm trú cuối cùng trước khi ra nước ngoài)",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 611 BLDS 2015 quy định địa điểm mở thừa kế là nơi cư trú cuối cùng của người để lại di sản. Nơi cư trú của cá nhân được xác định là nơi thường trú, nếu không có nơi thường trú thì mới tính đến nơi tạm trú."
+  },
+  {
+    "question": "Tình huống tài sản chung: Ông X chết đột ngột. Căn nhà duy nhất đứng tên một mình ông X được mua trong thời kỳ hôn nhân với bà Y (không có thỏa thuận tài sản riêng). Khi các con yêu cầu chia thừa kế, khối di sản của ông X được xác định như thế nào?",
+    "a": "Toàn bộ căn nhà đứng tên ông X vì ông là chủ sở hữu duy nhất trên giấy chứng nhận",
+    "b": "Chỉ tính 50% giá trị căn nhà, phân nửa còn lại thuộc sở hữu của bà Y dù bà không đứng tên trên sổ",
+    "c": "Toàn bộ căn nhà thuộc về bà Y, các con chỉ được chia các tài sản là động sản khác",
+    "d": "Căn nhà được phong tỏa hoàn toàn, không thể xác định di sản cho đến khi bà Y qua đời",
+    "answer": "b",
+    "explanation": "Điều 612 BLDS 2015 kết hợp Luật Hôn nhân và Gia đình quy định di sản bao gồm tài sản riêng và phần tài sản của người chết trong khối tài sản chung với người khác. Căn nhà mua trong thời kỳ hôn nhân là tài sản chung, nên di sản của ông X chỉ là 50% giá trị căn nhà."
+  },
+  {
+    "question": "Tình huống: Ông M mất tích từ năm 2020. Năm 2024, Tòa án ra quyết định tuyên bố ông M đã chết. Gia đình đã làm thủ tục khai nhận và chia xong di sản. Đến năm 2026, ông M đột ngột trở về và yêu cầu hủy văn bản khai nhận để đòi lại căn nhà đã chia cho người con trai (hiện người con vẫn đang giữ nhà). Tình huống này giải quyết thế nào?",
+    "a": "Ông M không có quyền đòi lại vì di sản đã được phân chia hợp pháp sau khi có quyết định của Tòa án",
+    "b": "Người con trai phải trả lại căn nhà hiện có cho ông M; nếu đã chuyển nhượng cho bên thứ ba ngay thẳng thì phải hoàn trả giá trị bằng tiền",
+    "c": "Ông M chỉ được nhận lại các tài sản là động sản, riêng bất động sản đã sang tên thì không được đòi lại",
+    "d": "Văn bản phân chia di sản cũ vẫn có hiệu lực, ông M chỉ có quyền yêu cầu các con cấp dưỡng nuôi mình",
+    "answer": "b",
+    "explanation": "Theo Điều 611 và Điều 73 BLDS 2015, khi Tòa án hủy bỏ quyết định tuyên bố một người đã chết, người đó có quyền nhận lại tài sản do người thừa kế nhận. Nếu tài sản còn nguyên thì trả lại, nếu đã định đoạt hợp pháp cho bên thứ ba thì người thừa kế phải hoàn trả giá trị."
+  },
+  {
+    "question": "Tình huống: Ông X chết ngày 15/05. Vợ ông X đang mang thai được 5 tháng. Đến ngày 15/10, người vợ sinh ra một bé trai nhưng đứa bé chỉ có nhịp tim và thở được 10 phút thì tử vong. Đứa bé này có được xác định là một người thừa kế của ông X để dịch chuyển tài sản sang cho người mẹ hay không?",
+    "a": "Không, vì đứa bé đã chết nên không có năng lực hành vi dân sự để thụ hưởng di sản",
+    "b": "Có, vì đứa bé đã thành thai trước khi ông X chết và đã sinh ra còn sống (dù chỉ trong thời gian ngắn)",
+    "c": "Không, vì đứa bé phải sống tối thiểu 24 giờ sau khi sinh mới được tính là một cá nhân độc lập",
+    "d": "Có, nhưng phần di sản này bắt buộc phải nộp vào quỹ bảo trợ trẻ em chứ mẹ không được hưởng",
+    "answer": "b",
+    "explanation": "Điều 613 BLDS 2015 quy định người thừa kế là cá nhân phải còn sống vào thời điểm mở thừa kế hoặc sinh ra và còn sống sau thời điểm mở thừa kế nhưng đã thành thai trước khi người chết qua đời. Chỉ cần sinh ra còn sống (có dấu hiệu sinh tồn), quyền thừa kế đã được xác lập."
+  },
+  {
+    "question": "Tình huống tín dụng: Ông A vay ngân hàng 2 tỷ đồng để kinh doanh. Ông A đột ngột qua đời để lại di sản là một chiếc ô tô trị giá 500 triệu đồng cho người con trai duy nhất. Ngân hàng yêu cầu người con phải trả đủ 2 tỷ đồng khoản nợ của cha. Trách nhiệm của người con được xử lý thế nào?",
+    "a": "Người con bắt buộc phải dùng tài sản riêng của mình để trả đủ toàn bộ khoản nợ 2 tỷ đồng",
+    "b": "Người con chỉ phải thực hiện nghĩa vụ trả nợ trong phạm vi giá trị chiếc xe (500 triệu đồng) nhận được, trừ trường hợp có thỏa thuận khác",
+    "c": "Khoản nợ tự động xóa bỏ 50% do người vay đã chết, người con phải trả 1 tỷ đồng",
+    "d": "Người con hoàn toàn không phải trả nợ vì hợp đồng tín dụng ký với cá nhân ông A, không ký với người con",
+    "answer": "b",
+    "explanation": "Khoản 1 và Khoản 3 Điều 615 BLDS 2015 quy định người hưởng thừa kế có trách nhiệm thực hiện nghĩa vụ tài sản tương ứng nhưng không vượt quá phạm vi khối di sản nhận được, trừ khi các bên có thỏa thuận khác."
+  },
+  {
+    "question": "Tình huống công chứng: Khối di sản gồm 3 quyền sử dụng đất chưa được các đồng thừa kế thỏa thuận phân chia. Người đang được giao quản lý di sản tự ý ký hợp đồng đặt cọc bán một trong ba thửa đất để lấy tiền sửa sang mồ mả cho người chết. Hợp đồng đặt cọc này về mặt dân sự được nhìn nhận thế nào?",
+    "a": "Hợp pháp vì mục đích sử dụng dòng tiền là chính đáng và phục vụ người chết",
+    "b": "Vi phạm nghĩa vụ của người quản lý di sản quy định tại Điều 617 BLDS do tự ý định đoạt tài sản khi chưa có sự đồng ý bằng văn bản của tất cả các đồng thừa kế",
+    "c": "Đương nhiên có hiệu lực nếu người quản lý cam kết bán đúng giá thị trường và không tư lợi",
+    "d": "Vẫn hợp pháp nếu người quản lý di sản đồng thời là người có thị phần thừa kế lớn nhất",
+    "answer": "b",
+    "explanation": "Điểm b khoản 1 Điều 617 BLDS 2015 quy định nghiêm cấm người quản lý di sản bán, trao đổi, tặng cho, thế chấp hoặc định đoạt tài sản bằng hình thức khác nếu không được tất cả những người thừa kế đồng ý bằng văn bản."
+  },
+  {
+    "question": "Tình huống: Hai cha con ông M và anh N cùng đi trên một chuyến xe và tử vong trong một vụ tai nạn giao thông thảm khốc. Cơ quan chức năng xác định họ chết cùng thời điểm. Ông M có tài sản 2 tỷ, anh N có vợ và con nhỏ. Quan hệ thừa kế giữa ông M và anh N được giải quyết như thế nào?",
+    "a": "Anh N vẫn được thừa kế di sản của ông M, sau đó phần này dịch chuyển sang cho vợ con anh N",
+    "b": "Ông M và anh N không được thừa kế di sản của nhau; di sản của ông M được chia cho những người thừa kế khác của ông M (các con của anh N có thể được thừa kế thế vị)",
+    "c": "Cơ quan tố tụng sẽ gộp toàn bộ tài sản của hai người lại thành một khối và chia đều theo đầu người",
+    "d": "Mặc định người cha chết trước, người con chết sau để chuyển dịch toàn bộ tài sản cho bên ngoại",
+    "answer": "b",
+    "explanation": "Điều 619 BLDS 2015 quy định những người có quyền thừa kế của nhau chết cùng thời điểm thì không được thừa kế của nhau, di sản của ai do người thừa kế của người đó hưởng."
+  },
+  {
+    "question": "Tình huống công chứng bẫy tiến trình: Sau khi các đồng thừa kế đã ký hoàn tất và đóng dấu công chứng Văn bản thỏa thuận phân chia di sản, một người con bất ngờ mang đến một 'Văn bản từ chối nhận di sản' đã lập trước đó 1 ngày nhưng quên không nộp. Công chứng viên xử lý thế nào?",
+    "a": "Chấp nhận bổ sung vào hồ sơ vì văn bản từ chối lập trước ngày ký phân chia",
+    "b": "Từ chối tiếp nhận vì việc từ chối di sản phải được 'thể hiện' (nộp/giao kết) trước thời điểm phân chia di sản; việc nộp sau khi đã ký phân chia là không phù hợp Điều 620 BLDS",
+    "c": "Yêu cầu hủy bỏ toàn bộ Văn bản thỏa thuận phân chia di sản cũ để làm lại từ đầu",
+    "d": "Yêu cầu người đó ký thêm một văn bản tặng cho phần tài sản thay vì từ chối",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 620 BLDS 2015 quy định việc từ chối nhận di sản phải được thể hiện trước thời điểm phân chia di sản. Khi văn bản phân chia đã ký xong và có hiệu lực thì không thể chen ngang một văn bản từ chối vào hồ sơ."
+  },
+  {
+    "question": "Tình huống trốn nợ: Anh K đang bị cơ quan thi hành án kê biên tài sản cá nhân để trả nợ cho đối tác. Khi cha anh K qua đời để lại một căn nhà trị giá 3 tỷ, anh K lập ngay văn bản từ chối nhận di sản thừa kế để căn nhà dịch chuyển toàn bộ sang cho em trai mình. Hành vi từ chối này của anh K có hợp pháp không?",
+    "a": "Hợp pháp, quyền từ chối nhận tài sản là quyền tự do dân sự tuyệt đối của công dân",
+    "b": "Không được pháp luật công nhận vì khoản 1 Điều 620 BLDS quy định không được từ chối di sản nhằm trốn tránh thực hiện nghĩa vụ tài sản đối với người khác",
+    "c": "Vẫn hợp pháp nếu người em trai cam kết sau khi nhận nhà sẽ cho anh K ở nhờ",
+    "d": "Chỉ bị vô hiệu nếu cơ quan công an ra quyết định khởi tố vụ án hình sự",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 620 BLDS 2015 quy định rõ người thừa kế có quyền từ chối nhận di sản, trừ trường hợp việc từ chối nhằm trốn tránh việc thực hiện nghĩa vụ tài sản của mình đối với người khác."
+  },
+  {
+    "question": "Tình huống tước quyền: Người con trai có hành vi ngược đãi, đánh đập nghiêm trọng cha mình và bị kết án hình sự (thuộc diện không được hưởng di sản theo Điều 621). Tuy nhiên, lúc sinh thời người cha lập di chúc hợp pháp ghi rõ: 'Dù con có lỗi nhưng tôi vẫn cho con hưởng căn nhà'. Người con này có được nhận căn nhà không?",
+    "a": "Không được nhận vì quy định loại trừ tại Điều 621 mang tính chất đương nhiên và mang tính chế tài đạo đức bắt buộc",
+    "b": "Được nhận, vì người để lại di sản đã biết rõ hành vi vi phạm của người đó nhưng vẫn đích thân cho họ hưởng di sản theo di chúc",
+    "c": "Chỉ được nhận một nửa giá trị, nửa còn lại bắt buộc nộp vào ngân sách Nhà nước",
+    "d": "Chỉ được nhận nếu toàn bộ các thành viên khác trong hội đồng thừa kế ký biên bản tha thứ",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 621 BLDS 2015 quy định những người thuộc diện không được quyền hưởng di sản vẫn được hưởng di sản, nếu người để lại di sản đã biết hành vi của những người đó nhưng vẫn cho họ hưởng di sản theo di chúc."
+  },
+  {
+    "question": "Tình huống tài sản vô chủ: Ông độc thân X qua đời không để lại di chúc. Cơ quan chức năng rà soát thấy ông không còn bất kỳ người thân thích nào thuộc cả 3 hàng thừa kế theo pháp luật. Khối tài sản của ông X sau khi trừ đi chi phí mai táng và trả nợ sẽ được xử lý ra sao?",
+    "a": "Thuộc sở hữu của người hàng xóm đã có công chăm sóc, nuôi dưỡng ông lúc ốm đau",
+    "b": "Thuộc về Nhà nước theo quy định tại Điều 622 BLDS 2015",
+    "c": "Thuộc về Ủy ban nhân dân cấp xã nơi có đất để tự do bán đấu giá làm từ thiện",
+    "d": "Chia đều cho những người cùng sinh sống trong khu dân cư hoặc tổ dân phố",
+    "answer": "b",
+    "explanation": "Điều 622 BLDS 2015 quy định trường hợp không có người thừa kế theo di chúc, theo pháp luật hoặc có nhưng không được quyền hưởng di sản, từ chối nhận di sản thì di sản còn lại sau khi đã thực hiện nghĩa vụ về tài sản thuộc về Nhà nước."
+  },
+  {
+    "question": "Tình huống thời hiệu bất động sản: Ông A chết năm 1992 để lại một mảnh đất (bất động sản). Đến năm 2026, các con ông A mới phát sinh tranh chấp và nộp đơn khởi kiện yêu cầu Tòa án phân chia thừa kế mảnh đất này. Tòa án có thụ lý giải quyết phân chia di sản thừa kế không?",
+    "a": "Không thụ lý vì đã hết thời hiệu yêu cầu chia di sản đối với bất động sản (thời hiệu là 30 năm kể từ thời điểm mở thừa kế)",
+    "b": "Vẫn thụ lý vì bất động sản là quyền sử dụng đất không áp dụng thời hiệu khởi kiện",
+    "c": "Vẫn thụ lý bình thường vì thời hiệu chia di sản bất động sản theo Luật mới là 50 năm",
+    "d": "Không thụ lý chia thừa kế nhưng thụ lý theo quan hệ pháp luật tranh chấp đất đai thông thường",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 623 BLDS 2015 quy định thời hiệu để người thừa kế yêu cầu chia di sản là 30 năm đối với bất động sản kể từ thời điểm mở thừa kế. Từ năm 1992 đến năm 2026 đã là 34 năm, nên đã hết thời hiệu yêu cầu chia di sản."
+  },
+  {
+    "question": "Tình huống thời hiệu động sản: Năm 2013, người mẹ chết để lại khối di sản gồm rất nhiều vàng miếng và trang sức (động sản) giao cho người anh cả giữ. Đến năm 2026, người em út nộp đơn kiện đòi chia phần vàng thừa kế này. Thời hiệu khởi kiện phân chia di sản được tính như thế nào?",
+    "a": "Vẫn còn thời hiệu vì tranh chấp tài sản là vàng không áp dụng thời hiệu",
+    "b": "Đã hết thời hiệu yêu cầu chia di sản đối với động sản (thời hiệu là 10 năm kể từ thời điểm mở thừa kế)",
+    "c": "Vẫn còn thời hiệu vì thời hiệu tính từ ngày người em út phát hiện ra người anh có ý định chiếm đoạt",
+    "d": "Đã hết thời hiệu vì thời hiệu đối với động sản quý hiếm chỉ có 03 năm",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 623 BLDS 2015 quy định thời hiệu để người thừa kế yêu cầu chia di sản là 10 năm đối với động sản kể từ thời điểm mở thừa kế. Từ 2013 đến 2026 đã quá mốc 10 năm."
+  },
+  {
+    "question": "Tình huống thời hiệu đòi nợ: Ông B vay tiền của bà C, có giấy viết tay hẹn trả. Một tháng sau ông B chết (tháng 02/2022). Do gia đình ông B bận rộn và né tránh, đến tận tháng 05/2026 bà C mới chính thức nộp đơn khởi kiện yêu cầu các con ông B (người thừa kế) phải thực hiện nghĩa vụ trả nợ thay cha từ khối di sản. Tòa án sẽ xử lý thế nào?",
+    "a": "Bác đơn khởi kiện của bà C vì đã hết thời hiệu yêu cầu người thừa kế thực hiện nghĩa vụ tài sản của người chết (thời hiệu là 03 năm kể từ thời điểm mở thừa kế)",
+    "b": "Vẫn chấp nhận thụ lý vì thời hiệu đòi nợ dân sự giữa các cá nhân mặc định là 10 năm",
+    "c": "Bác đơn vì nghĩa vụ trả nợ chỉ ràng buộc với cá nhân ông B, không ràng buộc với các con",
+    "d": "Chấp nhận thụ lý vì thời hiệu đòi nợ chỉ bắt đầu tính từ khi các con ông B nhận xong di sản",
+    "answer": "a",
+    "explanation": "Khoản 3 Điều 623 BLDS 2015 quy định thời hiệu yêu cầu người thừa kế thực hiện nghĩa vụ tài sản của người chết để lại là 03 năm kể từ thời điểm mở thừa kế (từ tháng 02/2022 đến tháng 05/2026 đã quá 03 năm)."
+  },
+  {
     "question": "Theo Luật Lý lịch tư pháp 2009 được sửa đổi, bổ sung bởi Luật số 107/2025/QH15, Phiếu lý lịch tư pháp số 1 ghi nội dung nào sau đây?",
     "a": "Ghi đầy đủ mọi án tích kể cả đã được xóa",
     "b": "Chỉ ghi án tích chưa được xóa; án tích đã được xóa thì không ghi",
