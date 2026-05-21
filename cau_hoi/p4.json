@@ -1,5 +1,275 @@
 [
   {
+    "question": "A ký hợp đồng thuê khoán một trang trại của B để nuôi bò, nhưng A không khai thác mà để đất bỏ hoang. B yêu cầu A trả tiền thuê khoán. A cho rằng không khai thác thì không phải trả. Theo BLDS, A phải xử lý thế nào?",
+    "a": "Không phải trả vì không khai thác",
+    "b": "Chỉ trả một phần tiền thuê khoán",
+    "c": "Vẫn phải trả đủ tiền thuê khoán",
+    "d": "Được miễn toàn bộ nghĩa vụ trả tiền",
+    "answer": "c",
+    "explanation": "Điều 488 BLDS: bên thuê khoán phải trả đủ tiền thuê khoán dù không khai thác tài sản."
+  },
+  {
+    "question": "Bên thuê khoán A sử dụng rừng thuê khoán đúng mục đích nhưng không báo cáo định kỳ tình trạng khai thác cho bên cho thuê khoán B dù B đã yêu cầu nhiều lần. Theo BLDS, hành vi này xử lý thế nào?",
+    "a": "Không vi phạm nghĩa vụ",
+    "b": "Vi phạm nghĩa vụ báo cáo, có thể bị yêu cầu chấm dứt hợp đồng nếu tiếp tục",
+    "c": "Chỉ bị phạt tiền",
+    "d": "Hợp đồng tự động vô hiệu",
+    "answer": "b",
+    "explanation": "Điều 489 BLDS: bên thuê khoán phải báo cáo định kỳ; không thực hiện là vi phạm nghĩa vụ."
+  },
+  {
+    "question": "A thuê khoán gia súc của B. Trong thời gian thuê, do thiên tai nên gia súc chết một nửa. Theo BLDS, trách nhiệm thiệt hại thuộc về ai?",
+    "a": "B chịu toàn bộ thiệt hại",
+    "b": "A chịu toàn bộ thiệt hại",
+    "c": "A và B mỗi bên chịu một nửa",
+    "d": "Nhà nước bồi thường",
+    "answer": "c",
+    "explanation": "Điều 491 BLDS: thuê khoán gia súc, các bên chịu thiệt hại theo tỷ lệ thỏa thuận, mặc định là 1/2 nếu không có thỏa thuận khác."
+  },
+  {
+    "question": "Trong hợp đồng thuê khoán, A tự ý cho C thuê lại toàn bộ trang trại mà không có sự đồng ý của B. B có quyền gì?",
+    "a": "Không có quyền vì A đang chiếm hữu hợp pháp",
+    "b": "Yêu cầu C trả tiền thuê",
+    "c": "Đơn phương chấm dứt hợp đồng và yêu cầu bồi thường",
+    "d": "Tăng giá thuê khoán",
+    "answer": "c",
+    "explanation": "Điều 490 BLDS: bên thuê khoán không được cho thuê khoán lại nếu không có sự đồng ý; vi phạm có thể bị chấm dứt hợp đồng."
+  },
+  {
+    "question": "A thuê khoán đất của B theo chu kỳ sản xuất nông nghiệp. Không có thỏa thuận về thời hạn thuê. Thời hạn thuê được xác định thế nào?",
+    "a": "01 năm cố định",
+    "b": "Theo chu kỳ sản xuất, kinh doanh phù hợp",
+    "c": "Do Tòa án quyết định",
+    "d": "Không xác định được nên hợp đồng vô hiệu",
+    "answer": "b",
+    "explanation": "Điều 485 BLDS: thời hạn thuê khoán xác định theo chu kỳ sản xuất, kinh doanh nếu không thỏa thuận."
+  },
+  {
+    "question": "Trong quá trình thuê khoán, A làm hư hỏng tài sản thuê khoán do lỗi sử dụng sai kỹ thuật, không phải do hao mòn tự nhiên. Trách nhiệm của A là gì?",
+    "a": "Không phải bồi thường",
+    "b": "Phải bồi thường thiệt hại",
+    "c": "Chỉ phải sửa chữa nếu B yêu cầu",
+    "d": "Được miễn trách nhiệm vì có hợp đồng",
+    "answer": "b",
+    "explanation": "Điều 490 BLDS: nếu làm mất, hư hỏng tài sản thuê khoán thì phải bồi thường, trừ hao mòn tự nhiên."
+  },
+  {
+    "question": "A thuê khoán cơ sở sản xuất của B. Do sự kiện bất khả kháng làm mất hơn 1/3 sản lượng. A yêu cầu giảm tiền thuê khoán. Theo BLDS, yêu cầu này có được chấp nhận không?",
+    "a": "Không được giảm",
+    "b": "Được giảm hoặc miễn theo thỏa thuận hoặc điều kiện luật định",
+    "c": "Chỉ được miễn, không được giảm",
+    "d": "B bắt buộc phải hủy hợp đồng",
+    "answer": "b",
+    "explanation": "Điều 488 BLDS: nếu mất ít nhất 1/3 do bất khả kháng thì có quyền yêu cầu giảm hoặc miễn tiền thuê khoán."
+  },
+  {
+    "question": "Bên thuê khoán A sử dụng đất thuê không đúng mục đích đã thỏa thuận (chuyển sang khai thác trái phép). B có quyền gì?",
+    "a": "Chỉ nhắc nhở",
+    "b": "Đơn phương chấm dứt hợp đồng và yêu cầu bồi thường",
+    "c": "Không có quyền gì",
+    "d": "Phải giảm tiền thuê",
+    "answer": "b",
+    "explanation": "Điều 489 BLDS: khai thác sai mục đích → bên cho thuê khoán có quyền chấm dứt và yêu cầu bồi thường."
+  },
+  {
+    "question": "Khi chấm dứt hợp đồng thuê khoán, A phải trả lại tài sản cho B. Tài sản bị giảm giá trị do hao mòn tự nhiên. Trách nhiệm của A là gì?",
+    "a": "Phải bồi thường toàn bộ",
+    "b": "Không phải bồi thường phần hao mòn tự nhiên",
+    "c": "Không phải trả lại tài sản",
+    "d": "Phải trả thêm tiền thuê",
+    "answer": "b",
+    "explanation": "Điều 493 BLDS: không phải bồi thường hao mòn tự nhiên, chỉ bồi thường nếu làm mất/giảm giá trị ngoài mức hao mòn."
+  },
+  {
+    "question": "A và B không thỏa thuận về phương thức trả tiền thuê khoán. Theo BLDS, thời hạn thanh toán được xác định thế nào?",
+    "a": "Do B tự quyết định",
+    "b": "Ngày cuối mỗi tháng hoặc cuối chu kỳ sản xuất, kinh doanh",
+    "c": "Khi kết thúc hợp đồng",
+    "d": "Do Nhà nước quy định",
+    "answer": "b",
+    "explanation": "Điều 488 BLDS: không thỏa thuận thì trả vào cuối tháng hoặc cuối chu kỳ sản xuất, kinh doanh."
+  },
+  {
+    "question": "A mượn xe máy của B để đi công việc 3 ngày nhưng sau đó tự ý cho C sử dụng mà không hỏi ý kiến B. Theo BLDS, B có quyền gì?",
+    "a": "Chỉ được nhắc nhở A",
+    "b": "Không có quyền đòi lại tài sản",
+    "c": "Có quyền đòi lại tài sản và yêu cầu bồi thường thiệt hại",
+    "d": "Phải chấp nhận vì A đang giữ hợp pháp",
+    "answer": "c",
+    "explanation": "Điều 499 BLDS: bên cho mượn có quyền đòi lại tài sản nếu bên mượn cho người khác sử dụng không được phép."
+  },
+  {
+    "question": "A mượn tài sản của B nhưng khi hết mục đích sử dụng vẫn tiếp tục giữ và không trả lại. Theo BLDS, hậu quả pháp lý là gì?",
+    "a": "Không có trách nhiệm gì",
+    "b": "Chỉ phải trả lại tài sản khi B yêu cầu",
+    "c": "Phải trả lại tài sản và chịu rủi ro trong thời gian chậm trả",
+    "d": "Tài sản thuộc về A",
+    "answer": "c",
+    "explanation": "Điều 496 BLDS: bên mượn phải trả đúng hạn và chịu rủi ro khi chậm trả."
+  },
+  {
+    "question": "B cho A mượn máy khoan. A sử dụng đúng mục đích nhưng máy bị hư hỏng do hao mòn tự nhiên. Ai phải chịu trách nhiệm?",
+    "a": "A phải bồi thường",
+    "b": "B phải bồi thường",
+    "c": "Không bên nào phải bồi thường",
+    "d": "Cơ quan bảo hiểm chịu",
+    "answer": "c",
+    "explanation": "Điều 497 BLDS: bên mượn không chịu trách nhiệm về hao mòn tự nhiên."
+  },
+  {
+    "question": "A mượn tài sản của B nhưng biết tài sản có khuyết tật nguy hiểm mà B không thông báo. A bị thiệt hại. Theo BLDS, trách nhiệm thuộc về ai?",
+    "a": "A tự chịu hoàn toàn",
+    "b": "B phải bồi thường thiệt hại",
+    "c": "Nhà nước hỗ trợ",
+    "d": "Không ai chịu trách nhiệm",
+    "answer": "b",
+    "explanation": "Điều 498 BLDS: bên cho mượn phải bồi thường nếu biết khuyết tật mà không thông báo."
+  },
+  {
+    "question": "A mượn tài sản của B không có thời hạn. B muốn lấy lại tài sản ngay dù A chưa dùng xong vì cần gấp. Theo BLDS, B có quyền gì?",
+    "a": "Không được lấy lại",
+    "b": "Chỉ được lấy lại khi A xong mục đích",
+    "c": "Được đòi lại nếu có nhu cầu cấp bách và phải báo trước hợp lý",
+    "d": "Phải chờ hết hợp đồng",
+    "answer": "c",
+    "explanation": "Điều 499 BLDS: bên cho mượn có quyền đòi lại khi cần thiết cấp bách nhưng phải báo trước."
+  },
+  {
+    "question": "A mượn tài sản của B nhưng không bảo quản tốt dẫn đến hư hỏng ngoài hao mòn tự nhiên. Trách nhiệm của A là gì?",
+    "a": "Không chịu trách nhiệm",
+    "b": "Phải bồi thường thiệt hại",
+    "c": "B phải chịu trách nhiệm",
+    "d": "Nhà nước chịu trách nhiệm",
+    "answer": "b",
+    "explanation": "Điều 496 BLDS: bên mượn phải giữ gìn, nếu làm hư hỏng thì phải bồi thường."
+  },
+  {
+    "question": "A sử dụng tài sản mượn đúng mục đích nhưng tự ý thay đổi kết cấu tài sản. Theo BLDS, hành vi này bị xử lý thế nào?",
+    "a": "Không vi phạm nếu không làm hỏng",
+    "b": "Vi phạm nghĩa vụ bảo quản tài sản",
+    "c": "Được phép nếu có lợi cho tài sản",
+    "d": "Không bị xử lý",
+    "answer": "b",
+    "explanation": "Điều 496 BLDS: không được tự ý thay đổi tình trạng tài sản."
+  },
+  {
+    "question": "A mượn xe của B nhưng chậm trả. Trong thời gian chậm trả xe bị tai nạn. Theo BLDS, trách nhiệm thuộc về ai?",
+    "a": "B chịu rủi ro",
+    "b": "A chịu rủi ro",
+    "c": "Công ty bảo hiểm",
+    "d": "Chia đôi",
+    "answer": "b",
+    "explanation": "Điều 496 BLDS: bên mượn chịu rủi ro trong thời gian chậm trả."
+  },
+  {
+    "question": "B cho A mượn tài sản nhưng không thông báo khuyết tật của tài sản dù biết rõ. A bị thiệt hại khi sử dụng. BLDS quy định gì?",
+    "a": "A tự chịu",
+    "b": "B phải bồi thường thiệt hại",
+    "c": "Không ai chịu trách nhiệm",
+    "d": "Tòa án quyết định",
+    "answer": "b",
+    "explanation": "Điều 498 BLDS: bên cho mượn phải bồi thường nếu biết khuyết tật mà không thông báo."
+  },
+  {
+    "question": "A mượn tài sản nhưng không trả lại dù đã hết mục đích sử dụng. B yêu cầu trả lại ngay. Theo BLDS, quyền của B là gì?",
+    "a": "Không được đòi lại",
+    "b": "Chỉ được đòi khi hết hạn",
+    "c": "Được đòi lại ngay tài sản",
+    "d": "Phải chờ A đồng ý",
+    "answer": "c",
+    "explanation": "Điều 499 BLDS: bên cho mượn có quyền đòi lại khi bên mượn đã đạt mục đích."
+  },
+  {
+    "question": "A và B ký hợp đồng chuyển nhượng quyền sử dụng đất nhưng chưa đăng ký sang tên. Theo BLDS, hợp đồng này có hiệu lực khi nào?",
+    "a": "Ngay khi ký giấy tay",
+    "b": "Khi công chứng hợp đồng",
+    "c": "Khi đăng ký theo quy định pháp luật đất đai",
+    "d": "Khi giao tiền xong",
+    "answer": "c",
+    "explanation": "Điều 503 BLDS: chuyển quyền sử dụng đất có hiệu lực kể từ thời điểm đăng ký."
+  },
+  {
+    "question": "A chuyển nhượng quyền sử dụng đất cho B nhưng đất đang thuộc quy hoạch sử dụng sai mục đích theo pháp luật đất đai. Hợp đồng có nội dung như vậy sẽ bị xử lý thế nào?",
+    "a": "Vẫn có hiệu lực nếu các bên đồng ý",
+    "b": "Luôn vô hiệu",
+    "c": "Không được trái với quy hoạch, kế hoạch sử dụng đất",
+    "d": "Tòa án quyết định toàn bộ",
+    "answer": "c",
+    "explanation": "Điều 501 BLDS: nội dung hợp đồng không được trái mục đích, quy hoạch, kế hoạch sử dụng đất."
+  },
+  {
+    "question": "A cho B thuê quyền sử dụng đất 5 năm nhưng không lập hợp đồng bằng văn bản. Theo BLDS, hình thức này có hợp lệ không?",
+    "a": "Có vì chỉ cần thỏa thuận miệng",
+    "b": "Không vì hợp đồng phải lập thành văn bản",
+    "c": "Có nếu có người làm chứng",
+    "d": "Có nếu đã giao đất",
+    "answer": "b",
+    "explanation": "Điều 502 BLDS: hợp đồng về quyền sử dụng đất phải lập thành văn bản."
+  },
+  {
+    "question": "A góp vốn bằng quyền sử dụng đất vào công ty B nhưng chưa thực hiện thủ tục đăng ký theo quy định. Theo BLDS, hậu quả pháp lý là gì?",
+    "a": "Góp vốn có hiệu lực ngay khi ký hợp đồng",
+    "b": "Chưa phát sinh hiệu lực chuyển quyền sử dụng đất",
+    "c": "Tự động vô hiệu hợp đồng",
+    "d": "Chỉ cần công chứng là đủ",
+    "answer": "b",
+    "explanation": "Điều 503 BLDS: chuyển quyền sử dụng đất chỉ có hiệu lực khi đăng ký."
+  },
+  {
+   "question": "Theo quy định của Bộ luật Dân sự, nội dung của hợp đồng chuyển nhượng quyền sử dụng đất phải tuân thủ điều kiện nào sau đây về mục đích sử dụng?",
+    "a": "Có thể thay đổi tùy ý theo thỏa thuận của các bên",
+    "b": "Chỉ cần phù hợp với nhu cầu của bên mua",
+    "c": "Không được trái mục đích sử dụng đất theo quy định của pháp luật về đất đai",
+    "d": "Do các bên tự thỏa thuận và tự chịu trách nhiệm mà không cần theo luật đất đai",
+    "answer": "c",
+    "explanation": "Điều 501 Bộ luật Dân sự quy định nội dung của hợp đồng quyền sử dụng đất phải phù hợp với quy định của Bộ luật này và pháp luật về đất đai, trong đó không được trái với mục đích sử dụng đất."
+ },
+  {
+    "question": "A cho B thuê quyền sử dụng đất. Hai bên có thỏa thuận miệng, nhưng B đã trả tiền và sử dụng đất ổn định. Theo BLDS, hợp đồng này xử lý thế nào?",
+    "a": "Vô hiệu vì không có văn bản",
+    "b": "Có hiệu lực đầy đủ",
+    "c": "Chỉ có hiệu lực tạm thời",
+    "d": "Tòa án công nhận tự động",
+    "answer": "a",
+    "explanation": "Điều 502 BLDS: hợp đồng về quyền sử dụng đất phải lập thành văn bản."
+  },
+  {
+    "question": "A chuyển nhượng quyền sử dụng đất cho B nhưng chưa đăng ký sang tên. B đã trả đủ tiền và đang sử dụng đất. Theo BLDS, quyền sử dụng đất đã chuyển chưa?",
+    "a": "Đã chuyển ngay khi trả tiền",
+    "b": "Đã chuyển khi giao đất",
+    "c": "Chưa chuyển vì chưa đăng ký",
+    "d": "Chuyển khi công chứng",
+    "answer": "c",
+    "explanation": "Điều 503 BLDS: hiệu lực chuyển quyền sử dụng đất phụ thuộc vào đăng ký."
+  },
+  {
+    "question": "A và B ký hợp đồng tặng cho quyền sử dụng đất nhưng chưa thực hiện thủ tục đăng ký. Theo BLDS, tình trạng pháp lý của giao dịch là gì?",
+    "a": "Đã hoàn tất",
+    "b": "Chưa có hiệu lực chuyển quyền sử dụng đất",
+    "c": "Tự động vô hiệu",
+    "d": "Có hiệu lực một phần",
+    "answer": "b",
+    "explanation": "Điều 503 BLDS: chuyển quyền sử dụng đất chỉ có hiệu lực khi đăng ký."
+  },
+  {
+    "question": "A ký hợp đồng góp vốn bằng quyền sử dụng đất vào doanh nghiệp nhưng nội dung hợp đồng vi phạm quy hoạch sử dụng đất. Theo BLDS, hệ quả là gì?",
+    "a": "Hợp đồng vẫn có hiệu lực",
+    "b": "Hợp đồng vô hiệu do trái quy định về đất đai",
+    "c": "Chỉ bị phạt hành chính",
+    "d": "Tòa án tự điều chỉnh nội dung",
+    "answer": "b",
+    "explanation": "Điều 501 BLDS: nội dung hợp đồng không được trái quy định về đất đai."
+  },
+  {
+    "question": "A chuyển nhượng quyền sử dụng đất cho B. Hai bên đã ký hợp đồng và công chứng nhưng chưa đăng ký. B yêu cầu xác lập quyền sử dụng đất ngay. Theo BLDS, yêu cầu này có đúng không?",
+    "a": "Đúng vì đã công chứng",
+    "b": "Đúng vì đã ký hợp đồng",
+    "c": "Sai vì phải đăng ký mới có hiệu lực",
+    "d": "Đúng nếu đã trả tiền",
+    "answer": "c",
+    "explanation": "Điều 503 BLDS: hiệu lực phát sinh khi đăng ký theo Luật đất đai."
+  },
+  {
     "question": "Theo BLDS 2015, hợp đồng thuê tài sản có bản chất pháp lý là gì?",
     "a": "Chuyển quyền sở hữu tài sản",
     "b": "Thỏa thuận sử dụng tài sản có trả tiền trong thời hạn",
