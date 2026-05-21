@@ -42,7 +42,7 @@
     "c": "Đến khi bên mua thanh toán đủ tiền",
     "d": "Đến khi Tòa án xác nhận quyền sở hữu",
     "answer": "b",
-    "explanation": Điều 441 BLDS quy định bên bán chịu rủi ro trước khi tài sản được giao."
+    "explanation": "Điều 441 BLDS quy định bên bán chịu rủi ro trước khi tài sản được giao."
   },
   {
     "question": "Trong trường hợp tài sản phải đăng ký quyền sở hữu, thời điểm chuyển rủi ro là khi nào?",
@@ -51,7 +51,7 @@
     "c": "Khi hoàn thành thủ tục đăng ký",
     "d": "Khi bên mua sử dụng tài sản",
     "answer": "c",
-    "explanation": Khoản 2 Điều 441 BLDS quy định rủi ro chuyển khi hoàn thành đăng ký quyền sở hữu."
+    "explanation": "Khoản 2 Điều 441 BLDS quy định rủi ro chuyển khi hoàn thành đăng ký quyền sở hữu."
   },
   {
     "question": "Trong trường hợp bên bán giao tài sản thiếu số lượng, bên mua KHÔNG có quyền nào sau đây?",
@@ -60,7 +60,7 @@
     "c": "Hủy bỏ hợp đồng nếu mục đích không đạt được",
     "d": "Tự động giảm giá mà không cần thỏa thuận",
     "answer": "d",
-    "explanation": Điều 437 BLDS không cho phép tự động giảm giá, phải theo thỏa thuận hoặc yêu cầu pháp lý."
+    "explanation": "Điều 437 BLDS không cho phép tự động giảm giá, phải theo thỏa thuận hoặc yêu cầu pháp lý."
   },
   {
     "question": "Trong trường hợp tài sản giao không đồng bộ, bên mua có quyền gì?",
@@ -69,7 +69,7 @@
     "c": "Phải tiếp tục thanh toán đầy đủ",
     "d": "Không có quyền từ chối nhận",
     "answer": "b",
-    "explanation": Điều 438 BLDS cho phép hủy bỏ hoặc yêu cầu giao bổ sung khi tài sản không đồng bộ."
+    "explanation": "Điều 438 BLDS cho phép hủy bỏ hoặc yêu cầu giao bổ sung khi tài sản không đồng bộ."
   },
   {
     "question": "Trong trường hợp bên bán giao sai chủng loại, bên mua có quyền gì?",
@@ -78,7 +78,7 @@
     "c": "Có thể hủy bỏ hợp đồng nếu mục đích không đạt được",
     "d": "Chỉ được yêu cầu giảm giá",
     "answer": "c",
-    "explanation": Điều 439 BLDS quy định quyền hủy bỏ nếu giao sai chủng loại làm mất mục đích hợp đồng."
+    "explanation": "Điều 439 BLDS quy định quyền hủy bỏ nếu giao sai chủng loại làm mất mục đích hợp đồng."
   },
   {
     "question": "Trong thời hạn bảo hành, nếu phát hiện khuyết tật, bên mua có quyền nào?",
@@ -87,7 +87,7 @@
     "c": "Yêu cầu sửa chữa, đổi, giảm giá hoặc trả lại",
     "d": "Chỉ được khởi kiện Tòa án",
     "answer": "c",
-    "explanation": Điều 447 BLDS quy định quyền yêu cầu sửa chữa, đổi, giảm giá hoặc trả lại."
+    "explanation": "Điều 447 BLDS quy định quyền yêu cầu sửa chữa, đổi, giảm giá hoặc trả lại."
   },
   {
     "question": "Trong thời hạn dùng thử, tài sản thuộc sở hữu của ai?",
@@ -96,7 +96,7 @@
     "c": "Cả hai cùng sở hữu",
     "d": "Tòa án giữ",
     "answer": "b",
-    "explanation": Khoản 2 Điều 452 BLDS quy định tài sản dùng thử vẫn thuộc sở hữu bên bán."
+    "explanation": "Khoản 2 Điều 452 BLDS quy định tài sản dùng thử vẫn thuộc sở hữu bên bán."
   },
   {
     "question": "Trong hợp đồng mua trả chậm, trả dần, rủi ro thuộc về ai khi bên mua đang sử dụng tài sản?",
@@ -105,7 +105,7 @@
     "c": "Chia đôi rủi ro",
     "d": "Nhà nước",
     "answer": "b",
-    "explanation": Khoản 2 Điều 453 BLDS quy định bên mua chịu rủi ro trong thời gian sử dụng."
+    "explanation": "Khoản 2 Điều 453 BLDS quy định bên mua chịu rủi ro trong thời gian sử dụng."
   },
   {
     "question": "Trong thời hạn chuộc lại tài sản, bên mua bị hạn chế quyền gì?",
@@ -114,7 +114,7 @@
     "c": "Quyền chuyển quyền sở hữu tài sản cho người khác",
     "d": "Quyền sửa chữa tài sản",
     "answer": "c",
-    "explanation": Điều 454 BLDS quy định bên mua không được chuyển quyền sở hữu trong thời hạn chuộc lại."
+    "explanation": "Điều 454 BLDS quy định bên mua không được chuyển quyền sở hữu trong thời hạn chuộc lại."
   },
   {
     "question": "Theo BLDS, nếu bên bán không cung cấp thông tin và hướng dẫn sử dụng tài sản, bên mua có quyền gì đầu tiên?",
@@ -123,7 +123,7 @@
     "c": "Không làm gì",
     "d": "Chỉ được kiện ra Tòa",
     "answer": "b",
-    "explanation": Điều 443 BLDS quy định phải yêu cầu thực hiện trong thời hạn hợp lý trước."
+    "explanation": "Điều 443 BLDS quy định phải yêu cầu thực hiện trong thời hạn hợp lý trước."
   },
   {
     "question": "A bán cho B một chiếc xe máy nhưng khi giao thì xe bị hỏng nặng do tai nạn trước đó, không còn khả năng sửa chữa. B có quyền nào sau đây?",
