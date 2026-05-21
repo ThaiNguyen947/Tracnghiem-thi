@@ -1,5 +1,465 @@
 [
     {
+    "question": "Theo quy định tại BLDS 2015, trường hợp nào sau đây di sản thừa kế sẽ được chuyển sang áp dụng phân chia theo pháp luật?",
+    "a": "Di chúc bằng văn bản có chữ ký của người lập di chúc nhưng không được công chứng, chứng thực và không có người làm chứng",
+    "b": "Di chúc chỉ định cơ quan, tổ chức hưởng di sản nhưng cơ quan, tổ chức đó đã thay đổi tên gọi hoặc sáp nhập vào đơn vị khác",
+    "c": "Người thừa kế theo di chúc chưa đủ 18 tuổi tại thời điểm mở thừa kế",
+    "d": "Người để lại di sản có nghĩa vụ tài sản lớn hơn giá trị khối di sản hiện có",
+    "answer": "a",
+    "explanation": "Di chúc bằng văn bản không công chứng/chứng thực mà cũng không có người làm chứng thì không đáp ứng điều kiện về hình thức quy định tại Điều 630 BLDS 2015, dẫn đến di chúc không hợp pháp. Theo Điểm b Khoản 1 Điều 650, trường hợp di chúc không hợp pháp thì áp dụng thừa kế theo pháp luật."
+  },
+  {
+    "question": "Tình huống: Ông A lập di chúc hợp pháp để lại toàn bộ tài sản cho người con trai cả là B. Tuy nhiên, B đã không may qua đời cùng thời điểm với ông A trong một vụ tai nạn giao thông. B có một người con đẻ là C (cháu nội ông A) đang còn sống. Khối di sản của ông A sẽ được dịch chuyển như thế nào theo quy định pháp luật?",
+    "a": "Di chúc đương nhiên bị vô hiệu toàn bộ và di sản của ông A được chia đều cho tất cả các thừa kế thuộc hàng thừa kế thứ nhất của ông A",
+    "b": "Phần di chúc định đoạt cho B không có hiệu lực pháp luật; khối di sản này sẽ được chia theo pháp luật và cháu C được hưởng thừa kế thế vị phần mà đáng lẽ B được hưởng",
+    "c": "Cháu C được hưởng toàn bộ khối di sản theo diện thừa kế thế vị trực tiếp từ di chúc của ông A",
+    "d": "Di sản của ông A tạm thời đóng băng, giao cho Nhà nước quản lý vì người được chỉ định trong di chúc đã chết cùng thời điểm với người lập di chúc",
+    "answer": "b",
+    "explanation": "Theo Điểm a Khoản 2 Điều 643 BLDS 2015, phần di chúc liên quan đến người thừa kế mà họ chết cùng thời điểm với người để lại di sản sẽ không có hiệu lực. Phần di sản này được chia theo pháp luật (Điểm c Khoản 1 Điều 650). Đồng thời, theo Điều 652 về thừa kế thế vị, do B chết cùng thời điểm với ông A nên con của B là C được hưởng phần di sản mà B đáng lẽ được hưởng nếu còn sống."
+  },
+  {
+    "question": "Trong các nhận định sau đây về quyền thừa kế theo pháp luật giữa các thành viên trong gia đình, nhận định nào là ĐÚNG với quy định tại BLDS 2015?",
+    "a": "Con nuôi chỉ được hưởng thừa kế theo pháp luật từ cha mẹ nuôi, không được quyền hưởng thừa kế từ cha mẹ đẻ",
+    "b": "Con riêng và bố dượng, mẹ kế đương nhiên thuộc hàng thừa kế thứ nhất của nhau kể từ thời điểm đăng ký kết hôn của bố mẹ",
+    "c": "Vợ, chồng đã chia tài sản chung trong thời kỳ hôn nhân thì khi một bên chết, bên còn sống không còn quyền hưởng di sản thừa kế của nhau theo pháp luật",
+    "d": "Người đang là vợ hoặc chồng của một người tại thời điểm người đó chết thì dù sau đó có kết hôn với người khác vẫn được hưởng di sản thừa kế của người chết",
+    "answer": "d",
+    "explanation": "Khoản 3 Điều 655 BLDS 2015 quy định rõ: Người đang là vợ hoặc chồng của một người tại thời điểm người đó chết thì dù sau đó có kết hôn với người khác vẫn được thừa kế di sản. Các phương án khác đều sai so với quy định tại Điều 653 (Con nuôi vẫn được thừa kế cha mẹ đẻ), Điều 654 (Con riêng phải có quan hệ nuôi dưỡng, chăm sóc), Khoản 1 Điều 655 (Chia tài sản chung vẫn được thừa kế)."
+  },
+  {
+    "question": "Tình huống: Khi tiến hành công chứng Văn bản thỏa thuận phân chia di sản theo pháp luật của ông X, các thừa kế khai báo rằng vợ của một người con trai đã chết trước ông X đang mang thai được 7 tháng. Công chứng viên phải hướng dẫn các thừa kế xử lý như thế nào để đúng quy định tại 2015?",
+    "a": "Từ chối thực hiện công chứng vì không thể xác định được tư cách thừa kế của thai nhi",
+    "b": "Vẫn chia đều di sản cho những người đang sống; thai nhi sau khi sinh ra sẽ được người mẹ tự thỏa thuận đòi lại tài sản sau",
+    "c": "Phải dành lại một phần di sản bằng phần mà người thừa kế khác được hưởng để dự phòng cho thai nhi; nếu thai nhi sinh ra và còn sống thì phần đó thuộc về đứa trẻ",
+    "d": "Yêu cầu các thừa kế làm văn bản cam kết từ chối quyền thừa kế thay cho thai nhi trước khi ký văn bản phân chia di sản",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 660 BLDS 2015 quy định: Khi phân chia di sản, nếu có người thừa kế cùng hàng đã thành thai nhưng chưa sinh ra thì phải dành lại một phần di sản bằng phần mà người thừa kế khác được hưởng; nếu thai nhi sinh ra và còn sống thì được hưởng; nếu sinh ra mà chết trước khi kịp rút thở thì phần di sản này thuộc về các thừa kế khác."
+  },
+  {
+    "question": "Theo quy định tại BLDS 2015 về thứ tự ưu tiên thanh toán các nghĩa vụ tài sản và các chi phí liên quan đến thừa kế, khoản chi phí nào sau đây được xếp ở thứ tự ưu tiên cao nhất (thanh toán đầu tiên)?",
+    "a": "Các khoản thuế và các khoản phải nộp khác vào ngân sách nhà nước",
+    "b": "Chi phí hợp lý theo tập quán cho việc mai táng người để lại di sản",
+    "c": "Khoản tiền bồi thường thiệt hại ngoài hợp đồng do người để lại di sản gây ra khi còn sống",
+    "d": "Chi phí cho việc bảo quản, quản lý di sản thừa kế",
+    "answer": "b",
+    "explanation": "Điều 658 BLDS 2015 quy định về thứ tự ưu tiên thanh toán, theo đó 'Chi phí hợp lý theo tập quán cho việc mai táng' đứng vị trí thứ 1 (Khoản 1). Chi phí quản lý di sản đứng thứ 2, tiền bồi thường thiệt hại đứng thứ 5, và thuế đứng thứ 7."
+  },
+  {
+    "question": "Tình huống: Sau khi các thừa kế đã hoàn thành thủ tục công chứng Văn bản thỏa thuận phân chia di sản và đã sang tên quyền sử dụng đất xong, một người con riêng hợp pháp của người chết (có giấy khai sinh chứng minh đầy đủ) từ nước ngoài trở về yêu cầu quyền thừa kế. Theo BLDS 2015, vụ việc này phải giải quyết như thế nào?",
+    "a": "Văn bản thỏa thuận trước đó đương nhiên bị hủy bỏ, toàn bộ di sản là quyền sử dụng đất phải được thu hồi để chia lại bằng hiện vật",
+    "b": "Không chấp nhận yêu cầu của người con riêng vì di sản đã được phân chia xong và đã đăng ký biến động đất đai hợp pháp",
+    "c": "Những người thừa kế đã nhận di sản không phải chia lại bằng hiện vật, nhưng phải thanh toán cho người thừa kế mới một khoản tiền tương ứng với phần di sản của người đó tại thời điểm chia thừa kế",
+    "d": "Giao cho cơ quan Ủy ban nhân dân cấp huyện nơi có đất đứng ra trích một phần quỹ đất công ích để bù đắp cho người thừa kế mới",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 662 BLDS 2015 quy định: Trường hợp đã phân chia di sản mà có người thừa kế mới xuất hiện thì không chia lại di sản bằng hiện vật, mà những người thừa kế đã nhận di sản phải thanh toán cho người thừa kế mới một khoản tiền tương ứng với phần di sản của người đó tại thời điểm phân chia di sản theo tỷ lệ tương ứng với phần di sản đã nhận, trừ trường hợp có thỏa thuận khác."
+  },
+  {
+    "question": "Khái niệm 'Thừa kế theo pháp luật' được Bộ luật Dân sự 2015 định nghĩa như thế nào?",
+    "a": "Là việc chuyển dịch tài sản của người chết cho những người còn sống dựa trên sự chỉ định của người quản lý di sản",
+    "b": "Là việc dịch chuyển di sản theo hàng thừa kế, điều kiện và trình tự thừa kế do pháp luật quy định",
+    "c": "Là việc phân chia toàn bộ tài sản của người chết căn cứ theo văn bản bàn giao tài sản có chứng thực của Ủy ban nhân dân cấp xã",
+    "d": "Là việc chia di sản thừa kế hoàn toàn dựa trên sự thỏa thuận của các thành viên mang dòng máu trực hệ với người chết",
+    "answer": "b",
+    "explanation": "Điều 649 BLDS 2015 quy định nguyên văn: 'Thừa kế theo pháp luật là thừa kế theo hàng thừa kế, điều kiện và trình tự thừa kế do pháp luật quy định'."
+  },
+  {
+    "question": "Theo quy định tại BLDS 2015, thừa kế theo pháp luật KHÔNG được áp dụng trong trường hợp nào sau đây?",
+    "a": "Người thừa kế theo di chúc đều từ chối nhận di sản",
+    "b": "Phần di sản không được định đoạt trong di chúc hợp pháp",
+    "c": "Người thừa kế theo di chúc chết cùng thời điểm với người lập di chúc và di chúc không có người thừa kế dự phòng",
+    "d": "Người thừa kế theo di chúc chưa thành niên hoặc người bị mất năng lực hành vi dân sự",
+    "answer": "d",
+    "explanation": "Người chưa thành niên hoặc người bị mất năng lực hành vi dân sự vẫn có quyền hưởng thừa kế theo di chúc thông qua người đại diện theo pháp luật (Điều 613, Điều 624). Do đó, di sản vẫn chia theo di chúc chứ không chuyển sang chia theo pháp luật. Các trường hợp a, b, c đều áp dụng thừa kế theo pháp luật theo Điều 650."
+  },
+  {
+    "question": "Căn cứ Điều 651 BLDS 2015, người ở hàng thừa kế sau chỉ được hưởng thừa kế theo pháp luật khi nào?",
+    "a": "Khi người ở hàng thừa kế trước yêu cầu chia tài sản bằng tiền thay vì nhận hiện vật",
+    "b": "Khi không còn ai ở hàng thừa kế trước do đã chết, không có quyền hưởng di sản, bị truất quyền hưởng di sản hoặc từ chối nhận di sản",
+    "c": "Khi có văn bản đồng ý cho hưởng thừa kế của tất cả những người thuộc hàng thừa kế trước",
+    "d": "Khi người ở hàng thừa kế sau chứng minh được mình có công sức đóng góp lớn hơn trong việc quản lý di sản",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 651 BLDS 2015 quy định: 'Những người ở hàng thừa kế sau chỉ được hưởng thừa kế, nếu không còn ai ở hàng thừa kế trước do đã chết, không có quyền hưởng di sản, bị truất quyền hưởng di sản hoặc từ chối nhận di sản'."
+  },
+  {
+    "question": "Về mặt pháp lý, điều kiện cốt lõi để một cá nhân được hưởng thừa kế thế vị theo quy định tại Điều 652 BLDS 2015 là gì?",
+    "a": "Cha hoặc mẹ của người thừa kế thế vị phải chết trước hoặc chết cùng thời điểm với người để lại di sản, và người thừa kế thế vị phải còn sống vào thời điểm mở thừa kế",
+    "b": "Người thừa kế thế vị bắt buộc phải sống chung và có quan hệ nuôi dưỡng trực tiếp với người để lại di sản từ 05 năm trở lên",
+    "c": "Người thừa kế thế vị phải thuộc đối tượng không có tài sản tự nuôi mình và không có khả năng lao động",
+    "d": "Người thừa kế thế vị phải được người để lại di sản lập văn bản xác nhận tư cách thế vị tại tổ chức hành nghề công chứng",
+    "answer": "a",
+    "explanation": "Điều 652 BLDS 2015 quy định con (hoặc cháu) được thế vị vị trí của cha/mẹ để hưởng phần di sản nếu cha/mẹ chết trước hoặc chết cùng thời điểm với người để lại di sản. Đồng thời, theo nguyên tắc chung tại Điều 613, người thừa kế thế vị phải còn sống vào thời điểm mở thừa kế hoặc sinh ra và còn sống sau thời điểm mở thừa kế nhưng đã thành thai trước khi người để lại di sản chết."
+  },
+  {
+    "question": "Theo BLDS 2015, sau khi có thông báo mở thừa kế hoặc nhận được di chúc, mọi thỏa thuận của những người thừa kế về việc cử người quản lý, phân chia di sản bắt buộc phải thể hiện dưới hình thức nào?",
+    "a": "Bằng văn bản hoặc bằng lời nói có ít nhất 02 người làm chứng ghi âm lại",
+    "b": "Phải được lập thành văn bản",
+    "c": "Bằng tin nhắn dữ liệu điện tử có dấu thời gian trực tuyến",
+    "d": "Phải lập thành biên bản có đóng dấu xác nhận của Ủy ban nhân dân cấp xã nơi có di sản",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 656 BLDS 2015 quy định bắt buộc về mặt hình thức: 'Mọi thỏa thuận của những người thừa kế phải được lập thành văn bản'."
+  },
+  {
+    "question": "Khi phân chia di sản thừa kế theo pháp luật, nếu có người thừa kế cùng hàng đã thành thai nhưng chưa sinh ra, phương án xử lý bắt buộc theo Điều 660 BLDS 2015 là gì?",
+    "a": "Tạm dừng toàn bộ việc phân chia di sản cho đến khi đứa trẻ được sinh ra",
+    "b": "Vẫn chia di sản bình thường, nếu sau này đứa trẻ sinh ra còn sống thì các thừa kế khác sẽ trích tài sản của mình cho sau",
+    "c": "Phải dành lại một phần di sản bằng phần mà người thừa kế khác được hưởng; nếu thai nhi sinh ra và còn sống thì được hưởng",
+    "d": "Không dành lại di sản vì thai nhi chưa có năng lực hành vi dân sự để sở hữu tài sản",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 660 BLDS 2015 quy định: 'Khi phân chia di sản, nếu có người thừa kế cùng hàng đã thành thai nhưng chưa sinh ra thì phải dành lại một phần di sản bằng phần mà người thừa kế khác được hưởng; nếu thai nhi sinh ra và còn sống thì được hưởng'."
+  },
+  {
+    "question": "Theo BLDS 2015, trong trường hợp việc chia di sản ảnh hưởng nghiêm trọng đến đời sống của bên vợ hoặc chồng còn sống và gia đình thì bên còn sống có quyền yêu cầu Tòa án quyết định hạn chế phân chia di sản trong thời hạn tối đa là bao lâu?",
+    "a": "Không quá 01 năm và không được gia hạn",
+    "b": "Không quá 03 năm kể từ thời điểm mở thừa kế; có thể được gia hạn một lần nhưng không quá 03 năm tiếp theo",
+    "c": "Không quá 05 năm và có thể gia hạn nhiều lần nếu hoàn cảnh khó khăn kéo dài",
+    "d": "Được tạm hoãn vô thời hạn cho đến khi người vợ hoặc chồng còn sống qua đời hoặc kết hôn mới",
+    "answer": "b",
+    "explanation": "Điều 661 BLDS 2015 quy định: Tòa án quyết định không cho phân chia di sản trong một thời hạn nhất định nhưng không quá 03 năm, kể từ thời điểm mở thừa kế. Hết thời hạn 03 năm này, nếu bên còn sống có yêu cầu thì Tòa án có thể gia hạn một lần nhưng không quá 03 năm."
+  },
+  {
+    "question": "Theo quy định tại BLDS 2015, những người nào sau đây được xếp vào 'Hàng thừa kế thứ hai' của người chết?",
+    "a": "Ông nội, bà nội, ông ngoại, bà ngoại, anh ruột, chị ruột, em ruột của người chết; cháu ruột của người chết mà người chết là ông nội, bà nội, ông ngoại, bà ngoại",
+    "b": "Anh ruột, chị ruột, em ruột, cô ruột, dì ruột, chú ruột, bác ruột của người chết",
+    "c": "Cháu nội, cháu ngoại, chắt nội, chắt ngoại của người chết",
+    "d": "Cha chồng, mẹ chồng (hoặc cha vợ, mẹ vợ), con dâu, con rể của người chết",
+    "answer": "a",
+    "explanation": "Điểm b Khoản 1 Điều 651 BLDS 2015 quy định hàng thừa kế thứ hai gồm: ông nội, bà nội, ông ngoại, bà ngoại, anh ruột, chị ruột, em ruột của người chết; cháu ruột của người chết mà người chết là ông nội, bà nội, ông ngoại, bà ngoại."
+  },
+  {
+    "question": "Theo quy định tại BLDS 2015, 'Hàng thừa kế thứ ba' của người chết KHÔNG bao gồm đối tượng nào sau đây?",
+    "a": "Cụ nội, cụ ngoại của người chết",
+    "b": "Bác ruột, chú ruột, cô ruột, dì ruột, cậu ruột của người chết",
+    "c": "Chắt ruột của người chết mà người chết là cụ nội, cụ ngoại",
+    "d": "Anh rể, chị dâu, em rể, em dâu của người chết",
+    "answer": "d",
+    "explanation": "Điểm c Khoản 1 Điều 651 BLDS 2015 quy định hàng thừa kế thứ ba gồm: cụ nội, cụ ngoại; bác ruột, chú ruột, cô ruột, cậu ruột, dì ruột; cháu ruột mà người chết là bác ruột, chú ruột, cô ruột, cậu ruột, dì ruột; chắt ruột mà người chết là cụ nội, cụ ngoại. Anh rể, chị dâu không thuộc các mối quan hệ huyết thống này nên không nằm trong các hàng thừa kế."
+  },
+  {
+    "question": "Mối quan hệ giữa 'Cháu ruột' và 'Người chết' xuất hiện ở cả Hàng thừa kế thứ hai và Hàng thừa kế thứ ba. Tiêu chí lý thuyết nào để phân định chính xác tư cách hàng thừa kế của cháu ruột theo Điều 651 BLDS 2015?",
+    "a": "Dựa vào độ tuổi của cháu ruột tại thời điểm mở thừa kế",
+    "b": "Cháu ruột thuộc hàng thứ hai nếu người chết là ông/bà nội ngoại; thuộc hàng thứ ba nếu người chết là bác/chú/cô/dì/cậu ruột",
+    "c": "Dựa vào việc cháu ruột đó là con của anh chị em ruột hay con của con đẻ",
+    "d": "Cháu ruột luôn thuộc hàng thứ hai, hàng thứ ba chỉ dành cho chắt ruột",
+    "answer": "b",
+    "explanation": "Điều 651 BLDS 2015 phân định rõ: Cháu ruột hưởng ở hàng thứ hai khi gọi người chết là ông/bà nội ngoại (Điểm b). Cháu ruột hưởng ở hàng thứ ba khi gọi người chết là bác, chú, cô, cậu, dì ruột (Điểm c)."
+  },
+  {
+    "question": "Nhận định nào sau đây là ĐÚNG khi nói về vị trí pháp lý của 'Anh ruột, chị ruột, em ruột' trong hệ thống các hàng thừa kế theo pháp luật?",
+    "a": "Họ thuộc hàng thừa kế thứ nhất nếu người chết không có con",
+    "b": "Họ luôn luôn thuộc hàng thừa kế thứ hai và chỉ được hưởng di sản khi hàng thừa kế thứ nhất không còn ai đủ điều kiện",
+    "c": "Họ thuộc hàng thừa kế thứ ba nếu người chết đã có vợ hoặc chồng",
+    "d": "Họ được ưu tiên hưởng thừa kế ngang hàng với cha đẻ, mẹ đẻ của người chết",
+    "answer": "b",
+    "explanation": "Theo quy định tại Điều 651 BLDS 2015, anh chị em ruột cố định thuộc hàng thừa kế thứ hai. Theo Khoản 3 Điều này, họ chỉ được hưởng di sản khi hàng thừa kế thứ nhất hoàn toàn trống (do đã chết, từ chối, bị truất hoặc không có quyền hưởng)."
+  },
+  {
+    "question": "Theo Điều 649 và Điều 650 BLDS 2015, thừa kế theo pháp luật được áp dụng trong trường hợp nào sau đây?",
+    "a": "Người chết có để lại di chúc công chứng nhưng người thừa kế theo di chúc là người chưa thành niên",
+    "b": "Người để lại di sản có di chúc hợp pháp nhưng toàn bộ những người được chỉ định trong di chúc đều từ chối nhận di sản",
+    "c": "Di sản thừa kế đã được các đồng thừa kế tự ý phân chia bằng văn bản tay trước khi thông báo mở thừa kế",
+    "d": "Người chết có di chúc nhưng nội dung di chúc chỉ định tài sản cho một tổ chức đã thay đổi tên gọi hành chính",
+    "answer": "b",
+    "explanation": "Điểm d Khoản 1 Điều 650 BLDS 2015 quy định thừa kế theo pháp luật được áp dụng khi những người thừa kế theo di chúc đều từ chối nhận di sản. Người chưa thành niên vẫn được hưởng di sản qua người đại diện (vẫn chia theo di chúc). Do đó phương án b là chính xác."
+  },
+  {
+    "question": "Tình huống: Ông A lập di chúc hợp pháp để lại căn nhà trị giá 2 tỷ cho con trai cả, phần đất vườn còn lại không được ông đề cập trong di chúc. Sau khi ông A mất, phần đất vườn này sẽ được xử lý như thế nào?",
+    "a": "Áp dụng thừa kế theo pháp luật đối với riêng phần đất vườn không được định đoạt trong di chúc",
+    "b": "Căn nhà và đất vườn đều phải chuyển sang chia theo pháp luật vì di chúc không định đoạt hết khối di sản",
+    "c": "Người con trai cả đương nhiên được hưởng luôn phần đất vườn theo diện ưu tiên của di chúc",
+    "d": "Giao cho tổ chức hành nghề công chứng đấu giá phần đất vườn để chia tiền đều cho các thừa kế",
+    "answer": "a",
+    "explanation": "Điểm a Khoản 2 Điều 650 BLDS 2015 quy định: Thừa kế theo pháp luật cũng được áp dụng đối với phần di sản không được định đoạt trong di chúc."
+  },
+  {
+    "question": "Căn cứ theo Điều 651 BLDS 2015, nhận định nào sau đây là ĐÚNG về nguyên tắc phân chia và dịch chuyển hàng thừa kế?",
+    "a": "Anh ruột, chị ruột, em ruột của người chết thuộc hàng thừa kế thứ hai và luôn được hưởng di sản song song với hàng thứ nhất",
+    "b": "Những người thừa kế cùng hàng được hưởng phần di sản bằng nhau, không phụ thuộc vào độ tuổi hay công sức đóng góp",
+    "c": "Người ở hàng thừa kế sau luôn được quyền yêu cầu chia một phần di sản nếu chứng minh được mình là người trực tiếp mai táng",
+    "d": "Hàng thừa kế thứ nhất chỉ bao gồm con đẻ và con trưởng, các con còn lại thuộc hàng thừa kế thứ hai",
+    "answer": "b",
+    "explanation": Khoản 2 Điều 651 BLDS 2015 quy định những người thừa kế cùng hàng được hưởng phần di sản bằng nhau. Người ở hàng sau chỉ được hưởng nếu hàng trước không còn ai do đã chết, từ chối, bị truất quyền hoặc không có quyền hưởng (Khoản 3)."
+  },
+  {
+    "question": "Tình huống: Ông M có người con trai là anh K. Anh K chết trước ông M và có một người con là cháu sở C. Theo quy định về thừa kế thế vị tại Điều 652 BLDS 2015, cháu C được hưởng thừa kế trong điều kiện nào?",
+    "a": "Cháu C được hưởng phần di sản mà anh K đáng lẽ được hưởng nếu còn sống, với điều kiện cháu C phải còn sống vào thời điểm ông M chết",
+    "b": "Cháu C được hưởng thế vị nhưng phải trừ đi phần tài sản mà vợ của anh K (mẹ cháu C) được chia",
+    "c": "Cháu C chỉ được hưởng thế vị nếu anh K chết sau hoặc chết cùng thời điểm với ông M",
+    "d": "Cháu C đương nhiên được thế vị hưởng toàn bộ di sản của ông M mà không cần xét đến các thừa kế khác của ông M",
+    "answer": "a",
+    "explanation": "Điều 652 BLDS 2015 quy định trường hợp con của người để lại di sản chết trước hoặc cùng thời điểm với người để lại di sản thì cháu được hưởng phần di sản mà cha hoặc mẹ của cháu đáng lẽ được hưởng nếu còn sống. Đồng thời cháu phải còn sống vào thời điểm mở thừa kế."
+  },
+  {
+    "question": "Quyền thừa kế thế vị của tầng lớp 'Chắt' đối với di sản của 'Cụ' được quy định như thế nào tại Điều 652 BLDS 2015?",
+    "a": "Chắt chỉ được hưởng thừa kế thế vị nếu được người cô, dì, chú, bác ruột đồng ý bằng văn bản công chứng",
+    "b": "Nếu con và cháu của người để lại di sản đều chết trước hoặc chết cùng thời điểm với người để lại di sản thì chắt được hưởng phần mà cha hoặc mẹ của chắt đáng lẽ được hưởng nếu còn sống",
+    "c": "Chắt không có quyền thừa kế thế vị theo pháp luật, chỉ được hưởng nếu có di chúc di tặng",
+    "d": "Chắt được hưởng thừa kế thế vị ngang bằng với hàng thừa kế thứ nhất của người để lại di sản",
+    "answer": "b",
+    "explanation": "Đoạn 2 Điều 652 BLDS 2015 quy định rõ: 'Nếu cháu cũng chết trước hoặc chết cùng thời điểm với người để lại di sản thì chắt được hưởng phần di sản mà cha hoặc mẹ của chắt đáng lẽ được hưởng nếu còn sống'."
+  },
+  {
+    "question": "Theo Điều 653 và Điều 654 BLDS 2015, quyền thừa kế theo pháp luật của con nuôi và con riêng được quy định như thế nào?",
+    "a": "Con nuôi hợp pháp chỉ được thừa kế di sản của cha mẹ nuôi và mất hoàn toàn quyền thừa kế đối với cha mẹ đẻ",
+    "b": "Con riêng và bố dượng, mẹ kế được thừa kế di sản của nhau nếu giữa họ có quan hệ chăm sóc, nuôi dưỡng nhau như cha con, mẹ con",
+    "c": "Con riêng đương nhiên thuộc hàng thừa kế thứ nhất của bố dượng, mẹ kế ngay sau khi bố mẹ họ đăng ký kết hôn",
+    "d": "Con nuôi không được áp dụng chế định thừa kế thế vị như con đẻ",
+    "answer": "b",
+    "explanation": "Điều 654 BLDS 2015 quy định con riêng và bố dượng, mẹ kế nếu có quan hệ chăm sóc, nuôi dưỡng nhau như cha con, mẹ con thì được thừa kế di sản của nhau theo Điều 651, 652. Con nuôi vẫn được thừa kế cha mẹ đẻ (Điều 653)."
+  },
+  {
+    "question": "Tình huống: Tòa án đã ra bản án tuyên bố cho ông A và bà B ly hôn. Tuy nhiên, trong thời gian 15 ngày kháng cáo kháng nghị (bản án chưa có hiệu lực pháp luật), ông A đột ngột qua đời. Quyền thừa kế của bà B đối với di sản của ông A được giải quyết thế nào?",
+    "a": "Bà B không được hưởng thừa kế vì Tòa án đã xét xử xong việc ly hôn",
+    "b": "Bà B vẫn được hưởng thừa kế với tư cách là vợ hợp pháp tại thời điểm ông A chết",
+    "c": "Bà B chỉ được hưởng nếu có sự đồng ý bằng văn bản của các con đẻ ông A",
+    "d": "Bà B không được thừa kế di sản của ông A nhưng được hưởng toàn bộ tài sản riêng của ông A",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 655 BLDS 2015 quy định: Trường hợp vợ, chồng xin ly hôn mà chưa được Tòa án cho ly hôn hoặc đã được Tòa án cho ly hôn bằng bản án hoặc quyết định chưa có hiệu lực pháp luật, nếu một người chết thì người còn sống vẫn được thừa kế di sản."
+  },
+  {
+    "question": "Theo Khoản 3 Điều 655 BLDS 2015, người đang là vợ hoặc chồng tại thời điểm người kia chết, nếu sau đó kết hôn với người khác thì quyền thừa kế di sản của người chồng/vợ cũ bị ảnh hưởng như thế nào?",
+    "a": "Đương nhiên bị tước bỏ quyền thừa kế di sản kể từ thời điểm đăng ký kết hôn mới",
+    "b": "Vẫn được hưởng thừa kế di sản của người chồng/vợ cũ bình thường",
+    "c": "Chỉ được hưởng thừa kế nếu việc kết hôn mới diễn ra sau khi đã hoàn thành việc chia di sản",
+    "d": "Phải hoàn trả lại 50% giá trị di sản đã nhận cho các thừa kế khác của người chết",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 655 BLDS 2015 quy định rất rõ ràng: 'Người đang là vợ hoặc chồng của một người tại thời điểm người đó chết thì dù sau đó có kết hôn với người khác vẫn được thừa kế di sản'."
+  },
+  {
+    "question": "Căn cứ Điều 656 và Điều 657 BLDS 2015, mọi thỏa thuận của những người thừa kế tại cuộc họp mặt phân chia di sản bắt buộc phải đáp ứng điều kiện nào về hình thức và nội dung?",
+    "a": "Phải được lập thành văn bản và người phân chia phải chia đúng theo di chúc hoặc đúng thỏa thuận của những người thừa kế theo pháp luật",
+    "b": "Có thể thỏa thuận bằng lời nói có ghi âm, ghi hình và có người làm chứng",
+    "c": "Bắt buộc phải được Ủy ban nhân dân cấp xã nơi có di sản lập biên bản hộ tịch",
+    "d": "Người phân chia di sản có quyền tự quyết định tỷ lệ phân chia dựa trên ý kiến của đa số thành viên",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 656 quy định mọi thỏa thuận của những người thừa kế phải được lập thành văn bản. Khoản 2 Điều 657 quy định người phân chia di sản phải chia theo đúng di chúc hoặc đúng thỏa thuận của những người thừa kế."
+  },
+  {
+    "question": "Theo quy định tại Điều 658 BLDS 2015 về thứ tự ưu tiên thanh toán nghĩa vụ tài sản và chi phí liên quan đến thừa kế, nhận định nào sau đây là ĐÚNG?",
+    "a": "Tiền phạt do vi phạm hành chính của người chết được ưu tiên thanh toán trước các khoản thuế",
+    "b": "Chi phí hợp lý theo tập quán cho việc mai táng là khoản được ưu tiên thanh toán đầu tiên",
+    "c": "Các khoản nợ cá nhân được ưu tiên thanh toán trước tiền công lao động của người lao động",
+    "d": "Tất cả các khoản nghĩa vụ đều được cấn trừ ngang bằng nhau mà không phân biệt thứ tự",
+    "answer": "b",
+    "explanation": "Theo Điều 658 BLDS 2015, Chi phí hợp lý cho việc mai táng đứng thứ tự ưu tiên số 1. Tiền công lao động đứng thứ 3, các khoản nợ cá nhân đứng thứ 8, và tiền phạt đứng thứ 9. Do đó phương án b đúng."
+  },
+  {
+    "question": "Tình huống: Bản di chúc của ông X chỉ ghi: 'Chia toàn bộ tài sản cho hai con trai theo tỷ lệ 1:2', không chỉ rõ mảnh đất nào hay số tiền cụ thể nào cho ai. Giá trị khối di sản này sẽ được xác định theo mốc thời gian nào để phân chia theo Điều 659 BLDS 2015?",
+    "a": "Tính theo giá trị tài sản tại thời điểm ông X lập văn bản di chúc",
+    "b": "Tính theo giá trị khối di sản đang còn vào thời điểm phân chia di sản",
+    "c": "Tính theo bảng giá đất và định giá tài sản của Nhà nước tại thời điểm mở thừa kế",
+    "d": "Do người con trai lớn tự quyết định định giá khối tài sản tại thời điểm nhận",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 659 BLDS 2015 quy định: 'Trường hợp di chúc chỉ xác định phân chia di sản theo tỷ lệ đối với tổng giá trị khối di sản thì tỷ lệ này được tính trên giá trị khối di sản đang còn vào thời điểm phân chia di sản'."
+  },
+  {
+    "question": "Tình huống: Sau khi các thừa kế theo pháp luật đã hoàn thành thủ tục khai nhận và phân chia xong di sản bằng văn bản công chứng, một người con riêng hợp pháp của người chết xuất hiện. Vụ việc này được xử lý như thế nào theo Điều 662 BLDS 2015?",
+    "a": "Hủy bỏ văn bản phân chia trước đó và buộc các thừa kế phải chia lại toàn bộ di sản bằng hiện vật",
+    "b": "Người thừa kế mới không được quyền đòi quyền lợi vì tài sản đã được phân chia xong hợp pháp",
+    "c": "Không chia lại di sản bằng hiện vật, nhưng những người thừa kế đã nhận di sản phải thanh toán cho người thừa kế mới một khoản tiền tương ứng với phần di sản của người đó tại thời điểm phân chia",
+    "d": "Tịch thu một phần di sản đã chia để nộp vào quỹ công ích của địa phương nhằm đền bù cho người thừa kế mới",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 662 BLDS 2015 quy định khi có người thừa kế mới xuất hiện thì không chia lại di sản bằng hiện vật, mà những người thừa kế đã nhận di sản phải thanh toán cho người thừa kế mới một khoản tiền tương ứng với phần di sản của người đó tại thời điểm phân chia di sản."
+  },
+  {
+    "question": "Tình huống: Sau khi ông M mất, các đồng thừa kế yêu cầu phân chia ngay căn nhà là di sản duy nhất. Tuy nhiên, bà X (vợ ông M) chứng minh được việc chia nhà lúc này sẽ ảnh hưởng nghiêm trọng đến đời sống của bà. Theo Điều 661 BLDS 2015, thời hạn tối đa bà X có thể yêu cầu hạn chế phân chia di sản (bao gồm cả gia hạn) là bao lâu?",
+    "a": "Không quá 01 năm kể từ thời điểm mở thừa kế",
+    "b": "Không quá 03 năm cho lần yêu cầu đầu tiên và tổng thời gian tối đa sau khi gia hạn là không quá 06 năm",
+    "c": "Bắt buộc phải đợi đến khi tất cả các con của ông M đủ 18 tuổi",
+    "d": "Không quá 05 năm và không được quyền gia hạn thêm",
+    "answer": "b",
+    "explanation": "Theo Khoản 2 Điều 661 BLDS 2015, trường hợp yêu cầu hạn chế phân chia di sản thì thời hạn này là không quá 03 năm. Nếu hết thời hạn này mà bên còn sống vẫn có yêu cầu thì được gia hạn, nhưng tổng thời gian hạn chế phân chia không quá 06 năm."
+  },
+  {
+    "question": "Tình huống: Ông B mất để lại một khối di sản. Tại thời điểm mở thừa kế, vợ ông B đang mang thai được 5 tháng. Các con lớn của ông B yêu cầu làm thủ tục phân chia ngay khối di sản này. Theo quy định tại BLDS 2015, yêu cầu này được giải quyết như thế nào?",
+    "a": "Vẫn phân chia bình thường, phần của thai nhi sẽ do người mẹ đứng tên nhận thay và tự quản lý",
+    "b": "Bắt buộc phải dành lại một phần di sản bằng phần mà người thừa kế khác được hưởng để chia cho thai nhi nếu thai nhi còn sống khi sinh ra",
+    "c": "Bắt buộc phải đợi đến khi đứa trẻ đủ 18 tuổi mới được tiến hành phân chia di sản thừa kế",
+    "d": "Thai nhi chưa phải là công dân nên không được tính phần di sản, các con lớn có quyền chia đều",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 661 BLDS 2015 quy định rõ: Nếu có người thừa kế cùng hàng mang thai thì phải dành lại một phần di sản tương đương phần người khác được hưởng. Nếu thai nhi còn sống khi sinh ra thì được hưởng, nếu chết trước khi sinh thì phần đó thuộc về các thừa kế khác."
+  },
+  {
+    "question": "Nhận định nào sau đây là ĐÚNG về quyền từ chối nhận di sản thừa kế theo quy định tại BLDS 2015?",
+    "a": "Người thừa kế có quyền từ chối nhận di sản bất cứ lúc nào, kể cả sau thời điểm di sản đã được phân chia xong",
+    "b": "Việc từ chối nhận di sản phải được lập thành văn bản và gửi đến người quản lý di sản, những người thừa kế khác hoặc người được giao nhiệm vụ phân chia di sản để biết",
+    "c": "Người thừa kế có quyền từ chối nhận di sản để trốn tránh việc thực hiện nghĩa vụ tài sản của mình đối với bên thứ ba (ví dụ: nghĩa vụ trả nợ ngân hàng)",
+    "d": "Thời hạn từ chối nhận di sản là 06 tháng kể từ thời điểm mở thừa kế, nếu quá thời hạn này thì không được từ chối nữa",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 620 BLDS 2015 quy định việc từ chối phải lập thành văn bản và thông báo cho các thừa kế khác/người quản lý di sản. Khoản 1 Điều này nghiêm cấm việc từ chối để trốn tránh nghĩa vụ tài sản. BLDS 2015 đã bỏ quy định thời hạn 6 tháng (cũ), người thừa kế được từ chối trước thời điểm phân chia di sản."
+  },
+  {
+    "question": "Tình huống: Ông M và bà N là vợ chồng, có khối tài sản chung là một căn nhà trị giá 3 tỷ đồng và có hai người con đã thành niên là A và B. Năm 2024, ông M và bà N cùng ký tên lập một văn bản gọi là 'Di chúc chung của vợ chồng' để lại căn nhà cho người con A. Năm 2025, ông M đột ngột qua đời. Người con B khiếu nại yêu cầu chia di sản của bố theo pháp luật. Phòng công chứng/Tòa án sẽ giải quyết trường hợp này như thế nào?",
+    "a": "Di chúc hoàn toàn vô hiệu vì BLDS 2015 không còn quy định về 'Di chúc chung của vợ chồng', toàn bộ căn nhà phải chia theo pháp luật",
+    "b": "Di chúc có hiệu lực hoàn toàn, người con A được hưởng toàn bộ căn nhà ngay lập tức",
+    "c": "Tách văn bản trên thành di chúc độc lập của ông M. Phần di chúc của ông M định đoạt 1.5 tỷ (50% căn nhà) cho A là hợp pháp và có hiệu lực; phần của bà N chưa có hiệu lực cho đến khi bà N chết",
+    "d": "Di chúc chỉ có hiệu lực nếu được tất cả các thành viên trong dòng họ ký tên làm chứng",
+    "answer": "c",
+    "explanation": "Mặc dù BLDS 2015 không còn điều luật riêng về di chúc chung của vợ chồng như BLDS 2005, nhưng về bản chất, một văn bản thể hiện ý chí định đoạt tài sản riêng (trong khối tài sản chung) của mỗi người vẫn được công nhận là di chúc hợp pháp của người đó. Khi ông M chết, phần di chúc của ông M có hiệu lực, phần của bà N chưa phát sinh hiệu lực."
+  },
+  {
+    "question": "Tình huống: Ông X mất để lại di sản trị giá 1,2 tỷ đồng. Ông X lập di chúc hợp pháp truất quyền thừa kế của người vợ (bà Y, 50 tuổi, có khả năng lao động bình thường) và để lại toàn bộ tài sản cho người tình. Biết rằng ông X và bà Y có 2 người con chung đã thành niên, đều khỏe mạnh. Theo BLDS 2015, bà Y sẽ được hưởng phần di sản là bao nhiêu?",
+    "a": "Bà Y không được hưởng gì vì ông X đã dùng quyền định đoạt bằng di chúc để truất quyền bà Y",
+    "b": "Bà Y được hưởng 400 triệu đồng",
+    "c": "Bà Y được hưởng 266.6 triệu đồng",
+    "d": "Bà Y được hưởng 300 triệu đồng",
+    "answer": "c",
+    "explanation": "Theo 2015, vợ thuộc đối tượng được hưởng di sản không phụ thuộc vào nội dung di chúc. Phần được hưởng bằng 2/3 suất của một người thừa kế theo pháp luật. Nếu chia theo pháp luật, hàng thừa kế thứ nhất có 3 người (vợ + 2 con). Một suất thừa kế theo pháp luật = 1.2 tỷ / 3 = 400 triệu. Suất của bà Y = 2/3 x 400 triệu = 266.6 triệu đồng."
+  },
+  {
+    "question": "Nhận định nào sau đây là ĐÚNG về điều kiện để một người con đã thành niên được hưởng suất thừa kế không phụ thuộc vào nội dung di chúc theo BLDS 2015?",
+    "a": "Chỉ cần là con đẻ của người để lại di sản thì đương nhiên được hưởng mà không cần thêm điều kiện gì",
+    "b": "Người con đã thành niên đó phải là con trưởng hoặc là người trực tiếp thờ cúng tổ tiên",
+    "c": "Người con đã thành niên đó phải không có khả năng lao động tại thời điểm mở thừa kế",
+    "d": "Người con đã thành niên đó phải chứng minh được mình không có tài sản riêng nào khác",
+    "answer": "c",
+    "explanation": "Điểm b Khoản 1 Điều 644 BLDS 2015 quy định rõ đối tượng con được hưởng quyền lợi này gồm: Con chưa thành niên HOẶC con đã thành niên mà không có khả năng lao động."
+  },
+  {
+    "question": "Tình huống: Anh A vay ngân hàng 1 tỷ đồng có thế chấp quyền sử dụng đất đứng tên cá nhân anh A. Sáu tháng sau, anh A bị tai nạn tử vong không để lại di chúc. Bố mẹ đẻ và vợ anh A là những người thừa kế theo pháp luật thực hiện thủ tục khai nhận di sản thừa kế để sang tên mảnh đất. Trách nhiệm trả khoản nợ 1 tỷ cho ngân hàng được xác định như thế nào?",
+    "a": "Hợp đồng tín dụng chấm dứt hiệu lực do bên vay đã chết, ngân hàng phải xóa nợ",
+    "b": "Những người thừa kế phải có trách nhiệm thực hiện nghĩa vụ trả nợ trong phạm vi di sản do anh A để lại",
+    "c": "Vợ anh A phải chịu trách nhiệm trả 100% khoản nợ vì là người cùng chung sống",
+    "d": "Những người thừa kế phải dùng tài sản riêng của mình để trả hết 1 tỷ cho ngân hàng nếu mảnh đất thế chấp bị mất giá chỉ còn 800 triệu",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 615 BLDS 2015 quy định: Những người thừa kế có trách nhiệm thực hiện nghĩa vụ tài sản trong phạm vi di sản do người chết để lại, trừ trường hợp có thỏa thuận khác. Do đó họ không phải chịu trách nhiệm bằng tài sản riêng của mình nếu giá trị di sản không đủ thanh toán nợ."
+  },
+[
+  {
+    "question": "Ông A có vợ là bà B và hai con là C và D (đều đã thành niên, khỏe mạnh). Anh C có một người con là cháu M. Năm 2024, anh C bị tai nạn chết. Đầu năm 2026, ông A chết, lập di chúc hợp pháp để lại toàn bộ di sản trị giá 1,2 tỷ đồng của mình cho một người bạn. Giá trị di sản được chia cho bà B và cháu M được xác định như thế nào?",
+    "a": "Bà B và cháu M không được hưởng gì vì ông A đã để lại di chúc toàn bộ cho người bạn",
+    "b": "Bà B được hưởng suất thừa kế bắt buộc là 266,6 triệu đồng; cháu M không được hưởng gì vì không thuộc đối tượng tại Điều 644 BLDS",
+    "c": "Bà B được hưởng suất thừa kế bắt buộc là 266,6 triệu đồng; cháu M được hưởng thừa kế thế vị phần của bố (anh C) là 400 triệu đồng",
+    "d": "Bà B được hưởng suất thừa kế bắt buộc là 266,6 triệu đồng; cháu M được hưởng thừa kế thế vị theo suất bắt buộc của anh C đáng lẽ được hưởng là 266,6 triệu đồng",
+    "answer": "b",
+    "explanation": "Bước 1: Tính suất thừa kế theo pháp luật nếu không có di chúc. Hàng thừa kế thứ nhất gồm: Vợ B, con D và con C (đã chết trước ông A nên con của C là cháu M được thế vị theo Điều 652). Tổng cộng có 3 suất pháp luật. 1 suất pháp luật = 1,2 tỷ / 3 = 400 triệu đồng. \nBước 2: Xét suất thừa kế bắt buộc (Điều 644). Vợ B được hưởng 2/3 của 1 suất pháp luật = 2/3 x 400 triệu = 266,6 triệu đồng. \nBước 3: Xét trường hợp của cháu M. M chỉ là cháu, không thuộc diện hưởng thừa kế bắt buộc theo Điều 644. M cũng không được thừa kế thế vị trong trường hợp này vì thừa kế thế vị chỉ áp dụng khi chia thừa kế THEO PHÁP LUẬT. Ở đây ông A có di chúc hợp pháp định đoạt hết tài sản, nên di chúc chỉ bị hạn chế bởi người thuộc Điều 644 (bà B). Do đó, cháu M không được hưởng di sản."
+  },
+  {
+    "question": "Ông X có vợ là bà Y và hai con là anh M, anh N. Khối tài sản riêng của ông X là 1,8 tỷ đồng, ông không lập di chúc. Tháng 1/2026, ông X qua đời. Khi gia đình chưa kịp làm thủ tục khai nhận di sản thì tháng 3/2026, anh M đột ngột qua đời. Biết anh M có vợ là chị H và con là cháu P. Phần di sản 1,8 tỷ của ông X sẽ được dịch chuyển như thế nào?",
+    "a": "Anh M đã chết nên phần di sản của anh M tự động chuyển sang cho em trai là anh N hưởng toàn bộ",
+    "b": "Cháu P được hưởng thừa kế thế vị phần của anh M trị giá 600 triệu đồng; chị H (vợ anh M) không được hưởng gì",
+    "c": "Di sản của ông X được chia đều làm 3 suất cho bà Y, anh N và anh M (mỗi suất 600 triệu). Do anh M chết sau ông X nên suất 600 triệu này đã nhập vào di sản của anh M và sẽ chia cho các thừa kế của anh M (vợ H, con P)",
+    "d": "Do có người chết sau nên toàn bộ khối tài sản 1,8 tỷ phải chuyển sang chia theo pháp luật cho hàng thừa kế thứ hai của ông X",
+    "answer": "c",
+    "explanation": "Vì anh M chết SAU ông X (thời điểm mở thừa kế của ông X), nên tại thời điểm ông X mất, anh M đã quyền xác lập quyền sở hữu đối với 1/3 khối di sản của cha (1,8 tỷ / 3 = 600 triệu). Khi anh M chết, suất 600 triệu này trở thành di sản của anh M và sẽ được dịch chuyển cho những người thừa kế của anh M (vợ H và con P) theo quy định pháp luật. Đây gọi là chế định thừa kế chuyển tiếp, không phải thừa kế thế vị."
+  },
+  {
+    "question": "Ông Bình và người con trai cả là anh Hải cùng đi trên một chuyến bay và không may gặp nạn tử vong. Cơ quan chức năng không xác định được ai là người chết trước. Ông Bình có vợ là bà An và con gái là chị Ba. Anh Hải có vợ là chị Tươi và con trai là cháu Long. Khối tài sản riêng của ông Bình là 1,2 tỷ đồng (không có di chúc). Mảnh đất này sẽ được phân chia như thế nào?",
+    "a": "Anh Hải và ông Bình chết cùng thời điểm nên cháu Long được hưởng thừa kế thế vị suất của bố (anh Hải) trị giá 400 triệu đồng",
+    "b": "Bà An và chị Ba được chia đôi khối tài sản, mỗi người 600 triệu; gia đình anh Hải không được hưởng gì vì anh Hải chết cùng lúc với bố",
+    "c": "Suất của anh Hải (400 triệu) sẽ được chuyển tiếp để chia cho vợ anh là chị Tươi và cháu Long hưởng",
+    "d": "Toàn bộ tài sản bị đóng băng và sung công quỹ nhà nước do không xác định được thứ tự chết",
+    "answer": "a",
+    "explanation": "Theo Điều 619 BLDS 2015, những người có quyền thừa kế di sản của nhau mà chết cùng thời điểm thì không được thừa kế di sản của nhau. Do đó anh Hải không được thừa kế của ông Bình. Tuy nhiên, theo Điều 652 BLDS 2015 về thừa kế thế vị: 'Trường hợp con của người để lại di sản chết trước HOẶC CÙNG THỜI ĐIỂM với người để lại di sản thì cháu được hưởng phần di sản mà cha hoặc mẹ của cháu đáng lẽ được hưởng'. Vì vậy, cháu Long được thế vị nhận suất của anh Hải (1,2 tỷ / 3 suất = 400 triệu đồng)."
+  },
+  {
+    "question": "Ông T mất để lại di sản trị giá 900 triệu đồng. Ông T lập di chúc để lại toàn bộ tài sản cho người hàng xóm chăm sóc mình cuối đời. Tại thời điểm ông mất, ông còn mẹ đẻ (80 tuổi) và một người con trai (15 tuổi). Hỏi người hàng xóm thực tế sẽ nhận được bao nhiêu tiền sau khi trừ đi các suất thừa kế bắt buộc?",
+    "a": "Người hàng xóm được nhận toàn bộ 900 triệu đồng theo đúng ý nguyện của di chúc",
+    "b": "Người hàng xóm được nhận 500 triệu đồng",
+    "c": "Người hàng xóm được nhận 300 triệu đồng",
+    "d": "Người hàng xóm được nhận 0 đồng vì di chúc bị vô hiệu hoàn toàn",
+    "answer": "c",
+    "explanation": "Bước 1: Xác định hàng thừa kế theo pháp luật gồm 2 người: Mẹ đẻ và con trai 15 tuổi. \nBước 2: Tính 1 suất thừa kế theo pháp luật = 900 triệu / 2 = 450 triệu đồng. \nBước 3: Mẹ đẻ (cha mẹ) và con trai (con chưa thành niên) đều thuộc đối tượng Điều 644. Mỗi người được hưởng suất bắt buộc = 2/3 x 450 triệu = 300 triệu đồng. \nTổng số tiền phải trích ra trả cho các suất bắt buộc là: 300 triệu (mẹ) + 300 triệu (con) = 600 triệu đồng. \nBước 4: Số tiền còn lại hợp pháp của di chúc dành cho người hàng xóm = 900 triệu - 600 triệu = 300 triệu đồng."
+  },
+  {
+    "question": "Anh độc thân A (30 tuổi) có khối tài sản riêng là 1,2 tỷ đồng tích lũy trong tài khoản ngân hàng. Bố mẹ đẻ anh A còn sống và anh không có con. Tháng 1/2026, anh A mất đột ngột không để lại di chúc. Khi bố mẹ chưa kịp làm thủ tục rút tiền tại ngân hàng thì tháng 4/2026, người bố cũng qua đời (bố anh A còn mẹ đẻ là cụ nội X và hai người con khác). Khối tài sản 1,2 tỷ của anh A được xử lý như thế nào?",
+    "a": "Do anh A chưa có vợ con nên tài sản 1,2 tỷ được chia đều cho các anh chị em ruột của anh A; bố mẹ không được hưởng vì đã mất",
+    "b": "Tại thời điểm anh A mất, 1,2 tỷ được chia đôi cho bố và mẹ (mỗi người 600 triệu). Khi người bố mất, suất 600 triệu của bố trở thành di sản của bố và được chia cho các thừa kế của bố (bà mẹ, cụ nội X, và các con của bố)",
+    "c": "Do cả anh A và bố đều đã chết nên toàn bộ 1,2 tỷ dịch chuyển thẳng sang cho người mẹ đẻ của anh A hưởng trọn vẹn",
+    "d": "Khoản tiền 1,2 tỷ bị đóng băng vĩnh viễn và sung công quỹ do chủ tài khoản và người thừa kế đều đã chết",
+    "answer": "b",
+    "explanation": "Tại thời điểm anh A mất (tháng 1/2026), hàng thừa kế thứ nhất của anh chỉ có bố đẻ và mẹ đẻ. Do đó, di sản chia đôi: Bố được 600 triệu, Mẹ được 600 triệu. Đến tháng 4/2026 bố mất, suất 600 triệu này đã thuộc quyền sở hữu của bố nên nó biến thành di sản của bố. Khối 600 triệu này sẽ được chia tiếp cho hàng thừa kế thứ nhất của bố gồm: Vợ (mẹ anh A), các con của bố (anh em anh A) và mẹ đẻ của bố (cụ nội X)."
+  },
+  {
+    "question": " Anh K có vợ là chị H, hai con nhỏ và bố mẹ đẻ còn đầy đủ. Anh K có khối tài sản riêng là một mảnh đất trị giá 2 tỷ đồng (không có di chúc). Tháng 2/2026, anh K gặp tai nạn qua đời. Một tháng sau, mẹ đẻ anh K vì quá đau buồn nên cũng đột ngột mất. Khối tài sản riêng 2 tỷ của anh K tại thời điểm này được xác định tỷ lệ phân chia như thế nào?",
+    "a": "Chia đều làm 5 suất cho Vợ, 2 con, Bố đẻ và Mẹ đẻ (mỗi suất 400 triệu). Suất 400 triệu của người mẹ đã mất sẽ được chuyển tiếp chia cho các thừa kế của mẹ (Bố đẻ và các con của mẹ)",
+    "b": "Vợ và 2 con của anh K được hưởng toàn bộ 2 tỷ; bố mẹ đẻ không được chia tài sản riêng của con trai khi đã có vợ con",
+    "c": "Suất của người mẹ đã mất tự động bị hủy bỏ, mảnh đất 2 tỷ được chia đều lại thành 4 suất cho Vợ, 2 con và Bố đẻ",
+    "d": "Chị H (vợ anh K) được thế vị nhận luôn suất của mẹ chồng để nuôi 2 con nhỏ",
+    "answer": "a",
+    "explanation": "Theo Điều 651 BLDS 2015, hàng thừa kế thứ nhất của một người bao gồm: Vợ, chồng, cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, con đẻ, con nuôi. Do đó, tại thời điểm anh K mất, cả vợ, 2 con và bố mẹ đẻ đều cùng thuộc hàng thừa kế thứ nhất (tổng 5 người, mỗi người 1 suất 400 triệu). Khi người mẹ chết sau anh K, suất 400 triệu của mẹ chuyển tiếp sang cho các thừa kế của mẹ theo pháp luật."
+  },
+  {
+    "question":"Chị Vy (đã kết hôn với anh Sơn) đứng tên một mình trên một sổ tiết kiệm trị giá 1 tỷ đồng mở tại ngân hàng trong thời kỳ hôn nhân. Chị Vy mất không để lại di chúc, bố mẹ đẻ chị Vy yêu cầu ngân hàng và phòng công chứng phải chia đều số tiền 1 tỷ này cho Bố, Mẹ, Anh Sơn (chồng) vì chị Vy không có con. Nhận định nào sau đây là ĐÚNG về việc xác định di sản của chị Vy?",
+    "a": "Bố mẹ đẻ Vy đúng, vì sổ tiết kiệm đứng tên một mình chị Vy nên toàn bộ 1 tỷ là di sản riêng của chị và phải chia đều làm 3 suất",
+    "b": "Số tiền 1 tỷ này là tài sản chung vợ chồng của Vy và Sơn (trừ khi có căn cứ chứng minh là tài sản riêng). Do đó, di sản của chị Vy chỉ là 500 triệu đồng. Khối 500 triệu này mới được chia đều cho Bố, Mẹ và anh Sơn",
+    "c": "Anh Sơn được hưởng trọn vẹn 1 tỷ vì là chồng hợp pháp, bố mẹ đẻ không có quyền can thiệp vào tài sản của con đã lấy chồng",
+    "d": "Ngân hàng sẽ tịch thu 50% số tiền để phạt lỗi không đăng ký tài sản chung vợ chồng",
+    "answer": "b",
+    "explanation": "Theo Luật Hôn nhân và Gia đình, tài sản tạo lập trong thời kỳ hôn nhân (dù đứng tên một mình) mặc định là tài sản chung vợ chồng trừ khi chứng minh được là tài sản riêng (được tặng cho riêng, thừa kế riêng...). Do đó phải chia đôi khối tài sản để xác định di sản thực tế của người chết trước khi tiến hành chia thừa kế."
+  },
+  {
+    "question": " Anh Nam là con riêng của bà Hoa (bố đẻ anh Nam đã mất từ lâu). Bà Hoa đi bước nữa với ông Bình (bố dượng) nhưng anh Nam không sống cùng và không có quan hệ chăm sóc nuôi dưỡng với ông Bình. Anh Nam độc thân, có tài sản riêng là 600 triệu đồng và mất trước bà Hoa. Ngay sau đó bà Hoa cũng mất. Ông Bình (bố dượng) có quyền đòi quyền lợi gì từ khối tài sản 600 triệu của anh Nam không?",
+    "a": "Ông Bình không được hưởng gì từ tài sản của anh Nam, nhưng được hưởng thừa kế đối với suất tài sản mà bà Hoa được chia từ anh Nam",
+    "b": "Ông Bình được đương nhiên hưởng 100% số tiền 600 triệu với tư cách là người đàn ông duy nhất còn lại trong gia đình",
+    "c": "Ông Bình thuộc hàng thừa kế thứ nhất của anh Nam nên được chia sòng phẳng ngay từ đầu",
+    "d": "Toàn bộ số tiền phải chia cho họ hàng bên nội của anh Nam vì ông Bình là người ngoại tộc",
+    "answer": "a",
+    "explanation": "Bước 1: Khi anh Nam mất, hàng thừa kế thứ nhất chỉ có mẹ đẻ (bà Hoa) vì anh độc thân và bố đẻ đã mất. Bà Hoa hưởng trọn vẹn 600 triệu. \nBước 2: Khi bà Hoa mất, khối 600 triệu này đã nhập vào tài sản của bà Hoa. Lúc này ông Bình với tư cách là chồng hợp pháp (hàng thừa kế thứ nhất của bà Hoa) sẽ được quyền khai nhận di sản đối với khối tài sản này của vợ. Do đó phương án a là chính xác."
+  },
+  {
+    "question": "Tình huống: Hai vợ chồng ông A và bà B có tài sản chung là mảnh đất tại Bình Dương (trị giá 4 tỷ) và một căn nhà tại TP.HCM (trị giá 6 tỷ). Họ có hai người con chung là C và D. Trong một chuyến du lịch, ông A và anh C (con cả, có vợ là H và con là M) cùng gặp tai nạn tử vong tại chỗ, không xác định được ai chết trước và không để lại di chúc. Biết bố mẹ đẻ ông A đã mất từ lâu. Suất thừa kế của ông A đối với khối tài sản trên được dịch chuyển như thế nào?",
+    "a": "Ông A và anh C chết cùng thời điểm nên không thừa kế của nhau. Di sản của ông A là 5 tỷ (50% tài sản chung) được chia đều làm 3 suất cho bà B, anh D và cháu M (thế vị anh C)",
+    "b": "Do anh C chết cùng ông A nên suất của anh C được dịch chuyển sang cho vợ là chị H hưởng thay",
+    "c": "Bà B và anh D được chia đôi toàn bộ khối di sản 5 tỷ của ông A; gia đình anh C không được hưởng gì",
+    "d": "Toàn bộ tài sản 10 tỷ thuộc quyền sở hữu tuyệt đối của bà B, các con không được chia khi bà B còn sống",
+    "answer": "a",
+    "explanation": "Theo Điều 619 BLDS 2015, ông A và anh C chết cùng thời điểm thì không được thừa kế di sản của nhau. Tuy nhiên, theo Điều 652 BLDS 2015 về thừa kế thế vị, anh C chết cùng thời điểm với ông A thì con của anh C là cháu M được hưởng phần di sản mà anh C đáng lẽ được hưởng nếu còn sống. Hàng thừa kế thứ nhất của ông A gồm: Vợ (bà B), con D và con C (được thế vị bởi cháu M). Di sản của ông A (5 tỷ) được chia đều cho 3 suất: B, D, M."
+  },
+  {
+    "question": "Tình huống: Gia gồm ông X, bà Y (vợ) và con trai duy nhất là anh độc thân T (có tài sản riêng là mảnh đất tại Đồng Nai trị giá 3 tỷ). Tháng 1/2026, anh T tử vong không di chúc. Tháng 3/2026, ông X đột tử (ông X còn mẹ đẻ là cụ nội M). Đến tháng 5/2026, bà Y cũng qua đời (bà Y còn bố đẻ là cụ ngoại N). Hãy xác định số tiền cụ nội M và cụ ngoại N thực tế được hưởng từ khối tài sản 3 tỷ ban đầu của anh T?",
+    "a": "Cụ nội M được hưởng 1,5 tỷ đồng và cụ ngoại N được hưởng 1,5 tỷ đồng",
+    "b": "Cụ nội M được hưởng 750 triệu đồng; cụ ngoại N được hưởng 2,25 tỷ đồng",
+    "c": "Cụ nội M được hưởng 500 triệu đồng; cụ ngoại N được hưởng 1 tỷ đồng",
+    "d": "Toàn bộ 3 tỷ bị sung công quỹ nhà nước do các thế hệ thừa kế đều đã chết",
+    "answer": "b",
+    "explanation": "Giải quyết theo tiến trình thời gian: Mốc 1 (Tháng 1/2026): T mất, di sản 3 tỷ chia đôi cho hàng thừa kế thứ nhất là Bố X (1,5 tỷ) và Mẹ Y (1,5 tỷ). Mốc 2 (Tháng 3/2026): Ông X mất, suất 1,5 tỷ của ông X biến thành di sản của ông và chia đều cho các thừa kế của ông gồm vợ (bà Y) và mẹ đẻ (cụ M) -> Mỗi người được 750 triệu. Lúc này bà Y có tổng tài sản là 1,5 tỷ + 750 triệu = 2,25 tỷ. Mốc 3 (Tháng 5/2026): Bà Y mất, khối 2,25 tỷ chuyển cho thừa kế của bà là bố đẻ (cụ N). Kết luận: Cụ M được 750 triệu, cụ N được 2,25 tỷ."
+  },
+  {
+    "question": "Nhận định nào sau đây là ĐÚNG về thẩm quyền công chứng văn bản thỏa thuận phân chia di sản thừa kế khi di sản bao gồm cả động sản (sổ tiết kiệm ngân hàng) và bất động sản (đất đai) nằm ở nhiều tỉnh thành khác nhau?",
+    "a": "Bắt buộc phải tách làm 2 văn bản: Sổ tiết kiệm công chứng tại nơi mở tài khoản, đất đai công chứng tại nơi có đất",
+    "b": "Tổ chức hành nghề công chứng tại tỉnh nơi có bất động sản có quyền công chứng toàn bộ văn bản phân chia di sản bao gồm cả sổ tiết kiệm và bất động sản nằm trên tỉnh đó, riêng bất động sản ở tỉnh khác phải lập văn bản riêng hoặc thực hiện ủy quyền theo quy định",
+    "c": "Người thừa kế có thể đến bất kỳ phòng công chứng nào trên cả nước để chia toàn bộ khối tài sản trên trong cùng một văn bản mà không bị hạn chế bởi địa giới hành chính",
+    "d": "Văn bản phân chia bất động sản bắt buộc phải do Ủy ban nhân dân cấp huyện nơi có đất chứng thực mới có giá trị sang tên",
+    "answer": "b",
+    "explanation": "Theo Điều 42 Luật Công chứng, công chứng hợp đồng, giao dịch về bất động sản phải được thực hiện trong phạm vi tỉnh, thành phố trực thuộc trung ương nơi có bất động sản. Đối với động sản (sổ tiết kiệm) thì không bị giới hạn địa giới. Vì vậy, văn bản lập tại tỉnh có đất sẽ gom luôn được sổ tiết kiệm, còn mảnh đất ở tỉnh khác sẽ phải xử lý theo thẩm quyền địa giới của tỉnh đó."
+  },
+  {
+    "question": "Tình huống: Anh Nam (có vợ là chị Mai và con là cháu An, bố mẹ đẻ anh Nam đều đã mất từ trước) đứng tên sở hữu một trang trại tại Long An là tài sản riêng. Anh Nam lập di chúc hợp pháp để lại toàn bộ trang trại cho người em trai ruột. Đầu năm 2026, anh Nam và cháu An cùng mất trong một vụ tai nạn (không xác định được ai chết trước, cháu An chưa có con). Khi phân chia di sản, chị Mai yêu cầu được hưởng suất thừa kế bắt buộc. Tỷ lệ chị Mai được hưởng theo Điều 644 BLDS 2015 là bao nhiêu?",
+    "a": "Chị Mai được hưởng 2/3 giá trị trang trại",
+    "b": "Chị Mai được hưởng 1/3 giá trị trang trại",
+    "c": "Chị Mai được hưởng 1/2 giá trị trang trại",
+    "d": "Chị Mai không được hưởng gì vì di chúc đã cho người em trai toàn bộ",
+    "answer": "a",
+    "explanation": "Gỡ bẫy theo quy trình 3 bước của Điều 644 và Điều 619 BLDS 2015:\nBước 1: Xác định hàng thừa kế thứ nhất giả định nếu chia theo pháp luật. Do anh Nam và cháu An chết cùng thời điểm, theo Điều 619 cháu An không được thừa kế của cha; cháu An cũng không có con để áp dụng thừa kế thế vị (Điều 652). Bên cạnh đó, bố mẹ đẻ anh Nam đã chết trước. Do đó, hàng thừa kế thứ nhất của anh Nam lúc này chỉ có duy nhất vị trí của vợ là chị Mai.\nBước 2: Tính giá trị một suất thừa kế theo pháp luật giả định: 1 suất pháp luật = 1/1 = Toàn bộ khối di sản (100% trang trại).\nBước 3: Tính suất thừa kế không phụ thuộc vào nội dung di chúc của chị Mai theo Điều 644: Bằng 2/3 của một suất thừa kế theo pháp luật = 2/3 x 1 = 2/3 giá trị trang trại. Người em trai theo di chúc chỉ được nhận 1/3 giá trị trang trại còn lại."
+  },
+  {
+    "question": "Tình huống: Ông Tư và bà Năm kết hôn hợp pháp, hai người không có con chung, bố mẹ đẻ ông Tư đều đã mất. Năm 2020, ông Tư lập di chúc công chứng truất quyền thừa kế của bà Năm, để lại toàn bộ tài sản cho người cháu ruột. Năm 2024, hai vợ chồng ra Tòa ly hôn, Tòa đã mở phiên hòa giải thành nhưng chưa ra quyết định công nhận thuận tình ly hôn. Đến năm 2026, ông Tư chung sống (không đăng ký kết hôn) với bà Tuyết; hai người góp tiền mua chung một mảnh đất tại Đồng Nai trị giá 3 tỷ đồng đứng tên ông Tư (bà Tuyết chứng minh được mình góp 50% vốn). Tháng 3/2026, ông Tư đột ngột qua đời. Bà Năm (có khả năng lao động bình thường) yêu cầu được chia suất thừa kế bắt buộc đối với mảnh đất này. Giá trị di sản thực tế bà Năm được nhận theo Điều 644 BLDS 2015 là bao nhiêu?",
+    "a": "Bà Năm được nhận 1 tỷ đồng",
+    "b": "Bà Năm được nhận 2 tỷ đồng",
+    "c": "Bà Năm không được nhận gì vì đã bị ông Tư lập di chúc truất quyền thừa kế hợp pháp từ trước",
+    "d": "Bà Năm được nhận 500 triệu đồng",
+    "answer": "a",
+    "explanation": "Gỡ bẫy theo quy trình chuẩn của Công chứng/Tòa án:\nBước 1 (Xác định quan hệ hôn nhân): Do Tòa án mới hòa giải thành, chưa ra Quyết định công nhận thuận tình ly hôn có hiệu lực pháp luật, nên bà Năm và ông Tư vẫn là vợ chồng hợp pháp. Quyền hưởng di sản không phụ thuộc vào di chúc (Điều 644) của bà Năm vẫn được giữ nguyên dù di chúc có nội dung 'truất quyền'.\nBước 2 (Xác định di sản của ông Tư): Mảnh đất 3 tỷ có sự đóng góp 50% vốn của bà Tuyết nên đây là tài sản chung theo phần. Di sản thực tế của ông Tư chỉ là 50% giá trị mảnh đất = 1,5 tỷ đồng.\nBước 3 (Tính suất bắt buộc): Giả định không có di chúc truất quyền, hàng thừa kế thứ nhất của ông Tư chỉ có duy nhất vợ là bà Năm (do không có con, bố mẹ đã mất). Vậy 1 suất thừa kế theo pháp luật = 1,5 tỷ đồng. Theo Điều 644, bà Năm được hưởng suất bắt buộc bằng 2/3 của 1 suất pháp luật = 2/3 x 1,5 tỷ = 1 tỷ đồng. Người cháu ruột được hưởng phần còn lại là 500 triệu đồng."
+  },
+  {
+    "question": ": Ông Phát có hai người con là anh Tài và chị Lộc. Anh Tài có con là cháu Tiến. Vì lòng tham, anh Tài đã có hành vi ngược đãi nghiêm trọng, cố ý gây thương tích cho ông Phát để ép ông chia đất và đã bị Tòa án kết án bằng bản án có hiệu lực pháp luật. Đầu năm 2026, anh Tài bị tai nạn chết. Hai tháng sau, ông Phát cũng qua đời đột ngột do bệnh nặng, không để lại di chúc. Cháu Tiến (con anh Tài) đến tổ chức hành nghề công chứng yêu cầu làm thủ tục thừa kế thế vị để nhận phần di sản đáng lẽ anh Tài được hưởng từ ông Phát. Cháu Tiến có được nhận di sản không?",
+    "a": "Cháu Tiến không được nhận vì anh Tài đã bị tước quyền thừa kế theo Điều 621 BLDS 2015, nên nhánh của anh Tài mất hoàn toàn quyền thế vị",
+    "b": "Cháu Tiến vẫn được hưởng thừa kế thế vị bình thường vì pháp luật chỉ tước quyền của anh Tài chứ không tước quyền của cháu Tiến",
+    "c": "Cháu Tiến chỉ được hưởng thừa kế thế vị nếu được chị Lộc (cô ruột) đồng ý bằng văn bản công chứng",
+    "d": "Cháu Tiến không được thế vị nhưng được chuyển sang hàng thừa kế thứ hai để chia đều với chị Lộc",
+    "answer": "b",
+    "explanation": "Đây là bẫy cực sâu về thừa kế thế vị: Bản chất của thừa kế thế vị (Điều 652) là cháu được hưởng phần di sản mà cha hoặc mẹ của cháu 'đáng lẽ được hưởng nếu còn sống'. Tuy nhiên, Khoản 2 Điều 621 BLDS 2015 quy định người không đáng được hưởng di sản vẫn được hưởng nếu người để lại di sản đã biết hành vi nhưng vẫn cho hưởng theo di chúc (ở đây không có di chúc). Nhưng điểm mấu chốt nằm ở chỗ: Anh Tài chết TRƯỚC ông Phát. Tại thời điểm ông Phát mất (thời điểm mở thừa kế), anh Tài đã chết nên không thể bị xét tư cách 'không đáng được hưởng di sản' tại thời điểm này nữa. Cháu Tiến là một chủ thể độc lập, không có lỗi, hoàn toàn có quyền thế vị vào vị trí của cha để nhận di sản trực tiếp từ ông nội theo án lệ và tinh thần của BLDS 2015."
+  },
+  {
+    "question": "Tình huống: Ông An (vợ chết sớm) có hai căn nhà: Căn nhà X tại Bình Dương (tài sản riêng) và căn nhà Y tại TP.HCM (góp vốn chung với người em trai theo tỷ lệ 5:5). Ông An có một người con duy nhất là anh Bình (đã kết hôn với chị Quỳnh, có con là cháu Chi). Cuối năm 2025, ông An, anh Bình và cháu Chi cùng đi trên một chiếc ô tô và gặp tai nạn, ông An và anh Bình chết tại chỗ (không xác định được ai chết trước), cháu Chi được đưa vào bệnh viện nhưng cũng mất sau đó 2 tiếng. Biết ông An còn mẹ đẻ là cụ nội C. Ai là người có quyền ký văn bản thỏa thuận phân chia di sản đối với căn nhà Y tại TP.HCM?",
+    "a": "Chị Quỳnh (vợ anh Bình) và người em trai của ông An",
+    "b": "Cụ nội C (mẹ ông An) và chị Quỳnh (vợ anh Bình)",
+    "c": "Duy nhất cụ nội C vì anh Bình và cháu Chi đã chết nên nhánh này không được hưởng tài sản của ông An",
+    "d": "Chị Quỳnh, cụ nội C và người em trai của ông An",
+    "answer": "b",
+    "explanation": "Phân tách ma trận thời gian và thẩm quyền:\n1. Mốc 1: Ông An và anh Bình chết cùng thời điểm $\rightarrow$ Không thừa kế của nhau (Điều 619). \n- Xét di sản của ông An: Hàng thừa kế thứ nhất gồm mẹ đẻ (cụ C) và con Bình. Vì Bình chết cùng lúc nên cháu Chi được nhảy lên thừa kế thế vị suất của Bình (Điều 652). Do đó, tài sản của ông An (bao gồm căn nhà X và 50% căn nhà Y) được chia đôi: Cụ C được 50%, cháu Chi được 50% (thế vị).\n2. Mốc 2: Cháu Chi chết sau 2 tiếng $\rightarrow$ Suất 50% di sản mà cháu Chi vừa được thế vị từ ông nội (An) lập tức biến thành di sản của Chi. Hàng thừa kế thứ nhất của cháu Chi là mẹ đẻ (chị Quỳnh). Do đó, chị Quỳnh được hưởng trọn vẹn phần của cháu Chi.\n3. Kết luận về chủ thể ký văn bản phân chia di sản của ông An đối với phần tài sản tại căn nhà Y: Gồm cụ nội C và chị Quỳnh (người em trai của ông An chỉ là chủ sở hữu chung 50% căn nhà, không phải là thừa kế của ông An nên không ký vào văn bản phân chia di sản thừa kế này, ông ấy chỉ tham gia khi có giao dịch định đoạt toàn bộ căn nhà)."
+  },
+    {
     "question": "Theo BLDS 2015, di chúc là gì?",
     "a": "Sự thỏa thuận phân chia tài sản giữa những người thừa kế",
     "b": "Sự thể hiện ý chí của cá nhân nhằm chuyển tài sản của mình cho người khác sau khi chết",
