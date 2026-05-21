@@ -1,5 +1,4 @@
 [
-  
   {
     "question": "Theo BLDS 2015, hợp đồng mua bán tài sản là sự thỏa thuận trong đó bên bán có nghĩa vụ gì?",
     "a": "Chỉ giao tài sản mà không cần chuyển quyền sở hữu",
@@ -34,7 +33,7 @@
     "c": "Ngay khi nhận tài sản hoặc giấy tờ sở hữu",
     "d": "Khi Tòa án yêu cầu",
     "answer": "c",
-    "explanation": Khoản 3 Điều 434 BLDS quy định thanh toán ngay khi nhận tài sản hoặc giấy tờ sở hữu."
+    "explanation": "Khoản 3 Điều 434 BLDS quy định thanh toán ngay khi nhận tài sản hoặc giấy tờ sở hữu."
   },
   {
     "question": "Theo BLDS, bên bán chịu rủi ro đối với tài sản đến thời điểm nào?",
