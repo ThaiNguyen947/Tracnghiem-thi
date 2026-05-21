@@ -1,4 +1,329 @@
 [
+  
+  {
+    "question": "Theo BLDS 2015, hợp đồng mua bán tài sản là sự thỏa thuận trong đó bên bán có nghĩa vụ gì?",
+    "a": "Chỉ giao tài sản mà không cần chuyển quyền sở hữu",
+    "b": "Chuyển quyền sở hữu tài sản cho bên mua",
+    "c": "Cho bên mua sử dụng tài sản trong thời gian dài",
+    "d": "Chỉ bảo đảm chất lượng tài sản",
+    "answer": "b",
+    "explanation": "Điều 430 BLDS 2015 quy định bên bán phải chuyển quyền sở hữu tài sản cho bên mua."
+  },
+  {
+    "question": "Theo BLDS, trường hợp nào tài sản KHÔNG thể là đối tượng của hợp đồng mua bán?",
+    "a": "Tài sản thuộc sở hữu hợp pháp của người bán",
+    "b": "Tài sản bị cấm chuyển nhượng theo luật",
+    "c": "Tài sản đang tranh chấp nhưng chưa có quyết định",
+    "d": "Tài sản chưa đăng ký quyền sở hữu",
+    "answer": "b",
+    "explanation": "Điều 431 BLDS quy định tài sản bị cấm hoặc hạn chế chuyển nhượng thì phải tuân theo luật chuyên ngành."
+  },
+  {
+    "question": "Trong trường hợp không có thỏa thuận về giá mua bán, giá được xác định như thế nào?",
+    "a": "Do Tòa án quyết định",
+    "b": "Theo giá do bên bán đưa ra",
+    "c": "Theo giá thị trường tại thời điểm giao kết hợp đồng",
+    "d": "Theo giá Nhà nước quy định cho mọi trường hợp",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 433 BLDS quy định giá được xác định theo giá thị trường nếu không có thỏa thuận."
+  },
+  {
+    "question": "Nếu bên mua không có thỏa thuận về thời hạn thanh toán thì phải thanh toán khi nào?",
+    "a": "Sau 30 ngày kể từ khi nhận tài sản",
+    "b": "Khi có thông báo của bên bán",
+    "c": "Ngay khi nhận tài sản hoặc giấy tờ sở hữu",
+    "d": "Khi Tòa án yêu cầu",
+    "answer": "c",
+    "explanation": Khoản 3 Điều 434 BLDS quy định thanh toán ngay khi nhận tài sản hoặc giấy tờ sở hữu."
+  },
+  {
+    "question": "Theo BLDS, bên bán chịu rủi ro đối với tài sản đến thời điểm nào?",
+    "a": "Đến khi ký hợp đồng",
+    "b": "Đến khi giao tài sản cho bên mua",
+    "c": "Đến khi bên mua thanh toán đủ tiền",
+    "d": "Đến khi Tòa án xác nhận quyền sở hữu",
+    "answer": "b",
+    "explanation": Điều 441 BLDS quy định bên bán chịu rủi ro trước khi tài sản được giao."
+  },
+  {
+    "question": "Trong trường hợp tài sản phải đăng ký quyền sở hữu, thời điểm chuyển rủi ro là khi nào?",
+    "a": "Khi giao tài sản thực tế",
+    "b": "Khi ký hợp đồng",
+    "c": "Khi hoàn thành thủ tục đăng ký",
+    "d": "Khi bên mua sử dụng tài sản",
+    "answer": "c",
+    "explanation": Khoản 2 Điều 441 BLDS quy định rủi ro chuyển khi hoàn thành đăng ký quyền sở hữu."
+  },
+  {
+    "question": "Trong trường hợp bên bán giao tài sản thiếu số lượng, bên mua KHÔNG có quyền nào sau đây?",
+    "a": "Nhận phần đã giao",
+    "b": "Yêu cầu giao phần còn thiếu",
+    "c": "Hủy bỏ hợp đồng nếu mục đích không đạt được",
+    "d": "Tự động giảm giá mà không cần thỏa thuận",
+    "answer": "d",
+    "explanation": Điều 437 BLDS không cho phép tự động giảm giá, phải theo thỏa thuận hoặc yêu cầu pháp lý."
+  },
+  {
+    "question": "Trong trường hợp tài sản giao không đồng bộ, bên mua có quyền gì?",
+    "a": "Chỉ được nhận tài sản và không có quyền khác",
+    "b": "Hủy bỏ hợp đồng hoặc yêu cầu giao bổ sung",
+    "c": "Phải tiếp tục thanh toán đầy đủ",
+    "d": "Không có quyền từ chối nhận",
+    "answer": "b",
+    "explanation": Điều 438 BLDS cho phép hủy bỏ hoặc yêu cầu giao bổ sung khi tài sản không đồng bộ."
+  },
+  {
+    "question": "Trong trường hợp bên bán giao sai chủng loại, bên mua có quyền gì?",
+    "a": "Chỉ được nhận tài sản",
+    "b": "Phải nhận và không được khiếu nại",
+    "c": "Có thể hủy bỏ hợp đồng nếu mục đích không đạt được",
+    "d": "Chỉ được yêu cầu giảm giá",
+    "answer": "c",
+    "explanation": Điều 439 BLDS quy định quyền hủy bỏ nếu giao sai chủng loại làm mất mục đích hợp đồng."
+  },
+  {
+    "question": "Trong thời hạn bảo hành, nếu phát hiện khuyết tật, bên mua có quyền nào?",
+    "a": "Chỉ được yêu cầu giảm giá",
+    "b": "Không được yêu cầu gì",
+    "c": "Yêu cầu sửa chữa, đổi, giảm giá hoặc trả lại",
+    "d": "Chỉ được khởi kiện Tòa án",
+    "answer": "c",
+    "explanation": Điều 447 BLDS quy định quyền yêu cầu sửa chữa, đổi, giảm giá hoặc trả lại."
+  },
+  {
+    "question": "Trong thời hạn dùng thử, tài sản thuộc sở hữu của ai?",
+    "a": "Bên mua",
+    "b": "Bên bán",
+    "c": "Cả hai cùng sở hữu",
+    "d": "Tòa án giữ",
+    "answer": "b",
+    "explanation": Khoản 2 Điều 452 BLDS quy định tài sản dùng thử vẫn thuộc sở hữu bên bán."
+  },
+  {
+    "question": "Trong hợp đồng mua trả chậm, trả dần, rủi ro thuộc về ai khi bên mua đang sử dụng tài sản?",
+    "a": "Bên bán",
+    "b": "Bên mua",
+    "c": "Chia đôi rủi ro",
+    "d": "Nhà nước",
+    "answer": "b",
+    "explanation": Khoản 2 Điều 453 BLDS quy định bên mua chịu rủi ro trong thời gian sử dụng."
+  },
+  {
+    "question": "Trong thời hạn chuộc lại tài sản, bên mua bị hạn chế quyền gì?",
+    "a": "Quyền sử dụng tài sản",
+    "b": "Quyền định giá tài sản",
+    "c": "Quyền chuyển quyền sở hữu tài sản cho người khác",
+    "d": "Quyền sửa chữa tài sản",
+    "answer": "c",
+    "explanation": Điều 454 BLDS quy định bên mua không được chuyển quyền sở hữu trong thời hạn chuộc lại."
+  },
+  {
+    "question": "Theo BLDS, nếu bên bán không cung cấp thông tin và hướng dẫn sử dụng tài sản, bên mua có quyền gì đầu tiên?",
+    "a": "Tự hủy hợp đồng ngay",
+    "b": "Yêu cầu bên bán thực hiện trong thời hạn hợp lý",
+    "c": "Không làm gì",
+    "d": "Chỉ được kiện ra Tòa",
+    "answer": "b",
+    "explanation": Điều 443 BLDS quy định phải yêu cầu thực hiện trong thời hạn hợp lý trước."
+  },
+  {
+    "question": "A bán cho B một chiếc xe máy nhưng khi giao thì xe bị hỏng nặng do tai nạn trước đó, không còn khả năng sửa chữa. B có quyền nào sau đây?",
+    "a": "Yêu cầu giảm giá bắt buộc",
+    "b": "Phải nhận xe và tự sửa chữa",
+    "c": "Hủy bỏ hợp đồng và yêu cầu bồi thường nếu đủ điều kiện",
+    "d": "Chỉ được khiếu nại cơ quan nhà nước",
+    "answer": "c",
+    "explanation": "Theo Điều 439 BLDS 2015, giao tài sản không đúng điều kiện làm bên mua không đạt mục đích có quyền hủy bỏ hợp đồng và yêu cầu bồi thường."
+  },
+  {
+    "question": "A và B không thỏa thuận về địa điểm giao hàng. Theo BLDS, địa điểm giao tài sản được xác định như thế nào?",
+    "a": "Theo nơi bên mua chỉ định",
+    "b": "Theo nơi cư trú hoặc trụ sở của bên bán",
+    "c": "Theo nơi giao dịch thực tế",
+    "d": "Theo nơi Tòa án xác định",
+    "answer": "b",
+    "explanation": "Theo Điều 399 và khoản 2 Điều 277 BLDS 2015, nếu không có thỏa thuận thì áp dụng nơi cư trú hoặc trụ sở bên bán."
+  },
+  {
+    "question": "Trong hợp đồng mua bán tài sản, nếu bên bán giao hàng trước thời hạn mà không được bên mua đồng ý, hậu quả pháp lý là gì?",
+    "a": "Hợp đồng tự động vô hiệu",
+    "b": "Bên bán được quyền đơn phương chấm dứt",
+    "c": "Vi phạm nghĩa vụ nếu không được bên mua chấp nhận",
+    "d": "Không phát sinh trách nhiệm gì",
+    "answer": "c",
+    "explanation": "Theo Điều 434 BLDS 2015, bên bán chỉ được giao trước thời hạn nếu được bên mua đồng ý."
+  },
+  {
+    "question": "Bên bán giao tài sản nhiều hơn số lượng thỏa thuận. Bên mua không phản hồi. Theo BLDS, quyền hợp pháp của bên mua là gì?",
+    "a": "Tự động phải thanh toán phần dư",
+    "b": "Không được giữ phần dư trong mọi trường hợp",
+    "c": "Có quyền nhận hoặc không nhận phần dư",
+    "d": "Phải trả lại toàn bộ tài sản",
+    "answer": "c",
+    "explanation": "Theo Điều 437 BLDS 2015, bên mua có quyền nhận hoặc không nhận phần dôi ra."
+  },
+  {
+    "question": "Bên mua đã trả tiền nhưng bên bán giao vật bị thiếu đồng bộ làm không sử dụng được. Bên mua có quyền gì?",
+    "a": "Chỉ được yêu cầu giảm giá",
+    "b": "Chỉ được nhận phần đã giao",
+    "c": "Có thể yêu cầu giao đủ và hoãn thanh toán hoặc hủy hợp đồng",
+    "d": "Không có quyền gì",
+    "answer": "c",
+    "explanation": "Theo Điều 438 BLDS 2015, bên mua có quyền yêu cầu hoàn thiện hoặc hủy hợp đồng nếu không đạt mục đích."
+  },
+  {
+    "question": "Trong hợp đồng mua bán tài sản, nếu tài sản phải đăng ký quyền sở hữu thì thời điểm chuyển rủi ro được xác định khi nào?",
+    "a": "Khi ký hợp đồng",
+    "b": "Khi giao tài sản",
+    "c": "Khi hoàn thành thủ tục đăng ký",
+    "d": "Khi bên mua sử dụng",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 441 BLDS 2015, rủi ro chuyển khi hoàn thành đăng ký quyền sở hữu."
+  },
+  {
+    "question": "Bên mua phát hiện tài sản có khuyết tật làm giảm giá trị sử dụng. Bên bán từ chối sửa chữa. Bên mua có quyền gì?",
+    "a": "Chỉ được im lặng chấp nhận",
+    "b": "Chỉ được yêu cầu cơ quan hành chính giải quyết",
+    "c": "Có thể yêu cầu giảm giá, đổi hàng hoặc hủy hợp đồng tùy trường hợp",
+    "d": "Tự sửa chữa và không yêu cầu gì",
+    "answer": "c",
+    "explanation": "Theo Điều 445 BLDS 2015, bên mua có quyền yêu cầu sửa chữa, giảm giá, đổi hoặc trả lại."
+  },
+  {
+    "question": "Trong thời hạn dùng thử, bên mua im lặng không trả lời. Hậu quả pháp lý là gì?",
+    "a": "Coi như không mua",
+    "b": "Coi như đã chấp nhận mua",
+    "c": "Hợp đồng tự động vô hiệu",
+    "d": "Phải gia hạn thêm thời gian",
+    "answer": "b",
+    "explanation": "Theo Điều 452 BLDS 2015, im lặng trong thời hạn dùng thử được coi là chấp nhận mua."
+  },
+  {
+    "question": "A bán tài sản cho B nhưng A không có quyền sở hữu và B không biết. Khi phát sinh tranh chấp, B có quyền gì?",
+    "a": "Không có quyền yêu cầu gì",
+    "b": "Phải trả lại tài sản nhưng không được bồi thường",
+    "c": "Có quyền hủy hợp đồng và yêu cầu bồi thường",
+    "d": "Phải mua lại từ chủ sở hữu thật",
+    "answer": "c",
+    "explanation": "Theo Điều 444 BLDS 2015, nếu tài sản thuộc người thứ ba thì bên mua có quyền hủy hợp đồng và yêu cầu bồi thường."
+  },
+  {
+    "question": "Trong hợp đồng mua trả chậm, trả dần, quyền sở hữu tài sản thuộc về ai trong thời gian chưa trả đủ tiền?",
+    "a": "Bên mua ngay khi nhận tài sản",
+    "b": "Bên bán nếu có thỏa thuận bảo lưu quyền sở hữu",
+    "c": "Cơ quan nhà nước",
+    "d": "Người sử dụng thực tế",
+    "answer": "b",
+    "explanation": "Theo Điều 453 BLDS 2015, bên bán có thể bảo lưu quyền sở hữu đến khi bên mua trả đủ tiền."
+  },
+  {
+    "question": "Bên bán không cung cấp hướng dẫn sử dụng tài sản, dẫn đến bên mua không đạt được mục đích hợp đồng. Bên mua có quyền gì?",
+    "a": "Không có quyền yêu cầu gì",
+    "b": "Chỉ được yêu cầu cơ quan nhà nước xử lý",
+    "c": "Yêu cầu thực hiện trong thời hạn hợp lý hoặc hủy hợp đồng",
+    "d": "Tự chịu rủi ro hoàn toàn",
+    "answer": "c",
+    "explanation": "Theo Điều 443 BLDS 2015, bên mua có quyền yêu cầu cung cấp thông tin, nếu không thực hiện có thể hủy hợp đồng."
+  },
+  {
+    "question": "Trong trường hợp chuộc lại tài sản đã bán, bên bán muốn chuộc lại nhưng không báo trước cho bên mua. Hậu quả pháp lý là gì?",
+    "a": "Vẫn được chuộc lại hợp pháp",
+    "b": "Mất quyền chuộc lại ngay lập tức",
+    "c": "Phải báo trước trong thời gian hợp lý, nếu không có thể bị từ chối",
+    "d": "Hợp đồng tự động vô hiệu",
+    "answer": "c",
+    "explanation": "Theo Điều 454 BLDS 2015, bên bán phải báo trước trong thời gian hợp lý khi thực hiện quyền chuộc lại."
+  },
+  {
+    "question": "A bán cho B một lô hàng, nhưng khi giao thì phát hiện hàng không đúng chủng loại như thỏa thuận, làm B không thể sử dụng đúng mục đích. B có quyền nào sau đây?",
+    "a": "Chỉ được yêu cầu giảm giá",
+    "b": "Yêu cầu giao đúng chủng loại và bồi thường thiệt hại",
+    "c": "Phải nhận hàng và không được khiếu nại",
+    "d": "Chỉ được yêu cầu hủy hợp đồng trong mọi trường hợp",
+    "answer": "b",
+    "explanation": "Theo Điều 439 BLDS 2015, bên mua có quyền yêu cầu giao đúng chủng loại và bồi thường thiệt hại."
+  },
+  {
+    "question": "Trong hợp đồng mua bán, nếu các bên không thỏa thuận giá thì giá được xác định như thế nào?",
+    "a": "Theo giá bên bán tự quyết định",
+    "b": "Theo giá Tòa án ấn định",
+    "c": "Theo giá thị trường tại thời điểm giao kết",
+    "d": "Theo giá thấp nhất trên thị trường",
+    "answer": "c",
+    "explanation": "Theo Điều 433 BLDS 2015, giá không thỏa thuận được xác định theo giá thị trường. (pt thanh toán theo tập quán)"
+  },
+  {
+    "question": "Bên bán giao tài sản đúng số lượng nhưng bên mua phát hiện tài sản không đồng bộ, không thể sử dụng. Bên mua có quyền gì?",
+    "a": "Chỉ được nhận tài sản",
+    "b": "Phải tự sửa chữa",
+    "c": "Có thể yêu cầu giao bổ sung hoặc hủy hợp đồng",
+    "d": "Không được yêu cầu gì",
+    "answer": "c",
+    "explanation": "Theo Điều 438 BLDS 2015, bên mua có quyền yêu cầu hoàn thiện hoặc hủy hợp đồng nếu không đạt mục đích."
+  },
+  {
+    "question": "A và B không thỏa thuận thời hạn giao tài sản. Theo BLDS, cách xử lý đúng là gì?",
+    "a": "Bên bán có quyền giao bất kỳ lúc nào mà không cần báo trước",
+    "b": "Hai bên có quyền yêu cầu giao và nhận bất cứ lúc nào nhưng phải báo trước thời gian hợp lý",
+    "c": "Chỉ bên mua có quyền quyết định thời điểm giao",
+    "d": "Hợp đồng tự động vô hiệu",
+    "answer": "b",
+    "explanation": "Theo Điều 434 BLDS 2015, khi không có thỏa thuận thì phải báo trước thời gian hợp lý."
+  },
+  {
+    "question": "Trong thời hạn bảo hành, bên bán từ chối sửa chữa vật bị lỗi. Bên mua có thể xử lý thế nào?",
+    "a": "Chỉ được khiếu nại hành chính",
+    "b": "Không có quyền yêu cầu thêm",
+    "c": "Yêu cầu giảm giá, đổi, trả lại hoặc bồi thường",
+    "d": "Phải tự chịu toàn bộ thiệt hại",
+    "answer": "c",
+    "explanation": "Theo Điều 447 BLDS 2015, bên mua có quyền yêu cầu sửa chữa, giảm giá, đổi hoặc trả lại."
+  },
+  {
+    "question": "Bên bán giao hàng thiếu số lượng đã thỏa thuận. Bên mua không muốn hủy hợp đồng ngay. Bên mua có thể làm gì?",
+    "a": "Yêu cầu giao tiếp phần còn thiếu trong thời hạn hợp lý",
+    "b": "Không có quyền yêu cầu gì thêm",
+    "c": "Bắt buộc phải hủy hợp đồng",
+    "d": "Tự động giảm giá",
+    "answer": "a",
+    "explanation": "Theo Điều 437 BLDS 2015, bên mua có quyền yêu cầu giao tiếp phần thiếu."
+  },
+  {
+    "question": "Trong hợp đồng mua bán tài sản phải đăng ký quyền sở hữu, thời điểm chuyển rủi ro là khi nào?",
+    "a": "Khi giao tài sản",
+    "b": "Khi ký hợp đồng",
+    "c": "Khi hoàn thành đăng ký quyền sở hữu",
+    "d": "Khi thanh toán xong",
+    "answer": "c",
+    "explanation": "Theo Điều 441 BLDS 2015, rủi ro chuyển khi hoàn thành đăng ký quyền sở hữu."
+  },
+  {
+    "question": "A bán tài sản cho B nhưng sau đó B phát hiện tài sản thuộc sở hữu người thứ ba. B có quyền gì?",
+    "a": "Phải tiếp tục thực hiện hợp đồng",
+    "b": "Chỉ được yêu cầu giảm giá",
+    "c": "Có quyền hủy hợp đồng và yêu cầu bồi thường",
+    "d": "Không có quyền yêu cầu gì",
+    "answer": "c",
+    "explanation": "Theo Điều 444 BLDS 2015, bên mua có quyền hủy hợp đồng nếu tài sản thuộc người thứ ba."
+  },
+  {
+    "question": "Trong hợp đồng mua trả chậm, trả dần, nếu không có thỏa thuận khác thì quyền sử dụng tài sản thuộc về ai?",
+    "a": "Bên bán",
+    "b": "Bên mua",
+    "c": "Cơ quan nhà nước",
+    "d": "Cả hai bên cùng sở hữu",
+    "answer": "b",
+    "explanation": "Theo Điều 453 BLDS 2015, bên mua được quyền sử dụng tài sản nhưng rủi ro có thể do thỏa thuận."
+  },
+  {
+    "question": "Trong thời hạn dùng thử, bên mua không trả lời trong thời hạn đã thỏa thuận. Hậu quả pháp lý là gì?",
+    "a": "Coi như không mua",
+    "b": "Phải trả lại tài sản ngay lập tức",
+    "c": "Coi như đã chấp nhận mua",
+    "d": "Hợp đồng tự động vô hiệu",
+    "answer": "c",
+    "explanation": "Theo Điều 452 BLDS 2015, im lặng trong thời hạn dùng thử được coi là chấp nhận."
+  },
   {
   "question": "A ký hợp đồng giao hàng, đến hạn A giao hàng đúng loại nhưng B từ chối nhận không có lý do. Trong thời gian chờ, hàng bị hư hỏng nhẹ do điều kiện tự nhiên. Trách nhiệm thuộc về ai?",
   "a": "A phải chịu toàn bộ rủi ro",
