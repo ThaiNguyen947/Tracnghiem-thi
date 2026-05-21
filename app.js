@@ -28,19 +28,8 @@ let sessions = JSON.parse(localStorage.getItem("loginSessions") || "{}");
 
 // ================= GIAO DIỆN ĐĂNG NHẬP =================
 function showLogin() {
-  // Đảm bảo hộp đăng nhập hiển thị đúng cấu trúc DOM
-  let loginBox = document.getElementById("loginBox");
-  if (!loginBox) {
-    loginBox = document.createElement("div");
-    loginBox.id = "loginBox";
-    document.body.insertBefore(loginBox, app);
-  }
-  
-  loginBox.style.display = "block";
-  app.style.display = "none";
-
-  loginBox.innerHTML = `
-    <div class="box" style="max-width:400px;text-align:center;margin: 120px auto 0 auto;">
+  document.getElementById("loginBox").innerHTML = `
+    <div class="box" style="max-width:400px;text-align:center;margin-top:120px">
       <h2>Đăng nhập hệ thống</h2>
       <input id="u" placeholder="Tài khoản" style="width:100%;padding:10px;margin:5px 0">
       <input id="p" type="password" placeholder="Mật khẩu" style="width:100%;padding:10px;margin:5px 0">
@@ -51,7 +40,7 @@ function showLogin() {
 
 // ================= XỬ LÝ ĐĂNG NHẬP =================
 function login() {
-  let u = document.getElementById("u").value.trim();
+  let u = document.getElementById("u").value;
   let p = document.getElementById("p").value;
 
   let user = users.find(x => x.username === u && x.password === p);
@@ -64,16 +53,15 @@ function login() {
     if (sessions[user.username] && sessions[user.username] !== deviceId) {
       alert("Tài khoản này đang được đăng nhập trên một thiết bị khác!");
       return;
-    </div>
+    }
   }
 
   sessions[user.username] = deviceId;
   localStorage.setItem("loginSessions", JSON.stringify(sessions));
   localStorage.setItem("user", JSON.stringify(user));
 
-  let loginBox = document.getElementById("loginBox");
-  if (loginBox) loginBox.style.display = "none";
-  app.style.display = "block";
+  document.getElementById("loginBox").style.display = "none";
+  document.getElementById("app").style.display = "block";
   
   enableProtectionForSubAccounts();
   startExam();
@@ -99,14 +87,13 @@ function checkLogin() {
     }
   }
 
-  let loginBox = document.getElementById("loginBox");
-  if (loginBox) loginBox.style.display = "none";
-  app.style.display = "block";
+  document.getElementById("loginBox").style.display = "none";
+  document.getElementById("app").style.display = "block";
   enableProtectionForSubAccounts();
   startExam();
 }
 
-// ================= TỰ ĐỘNG NẠP TẤT CẢ FILE JSON (SỬA LỖI UNEXPECTED TOKEN '<') =================
+// ================= TỰ ĐỘNG NẠP TẤT CẢ FILE JSON CÓ TRONG THƯ MỤC =================
 async function taiTatCaDuLieuCauHoi() {
   const danhSachFiles = [
     "./cau_hoi/p1.json",
@@ -121,23 +108,16 @@ async function taiTatCaDuLieuCauHoi() {
   for (const duongDan of danhSachFiles) {
     try {
       const res = await fetch(duongDan);
-      if (!res.ok) throw new Error(`HTTP Error ${res.status}`);
-      
-      // KIỂM TRA BẢO VỆ: Nếu Vercel trả về HTML trang lỗi 404 thay vì file JSON
-      const contentType = res.headers.get("content-type");
-      if (contentType && contentType.includes("text/html")) {
-        console.warn(`⚠️ Hệ thống chặn file lỗi: ${duongDan} trả về HTML thay vì JSON (Lỗi 404 đường dẫn trên Vercel).`);
-        continue; 
-      }
-
+      if (!res.ok) throw new Error();
       const json = await res.json();
+      
       const fileTag = duongDan.split('/').pop().replace('.json', '');
       json.forEach(q => { q.fileSource = fileTag; });
 
       console.log(`✓ Tải thành công: ${duongDan} | Quy mô: ${json.length} câu.`);
       beCauHoiTong = beCauHoiTong.concat(json);
     } catch (err) {
-      console.error(`❌ Không tìm thấy hoặc sai định dạng tại file: ${duongDan}`, err);
+      console.error(`❌ Không tìm thấy hoặc sai cấu trúc định dạng tại file: ${duongDan}`);
     }
   }
 
@@ -155,7 +135,7 @@ async function taiTatCaDuLieuCauHoi() {
   return beCauHoiTong;
 }
 
-// ================= KHỞI ĐỘNG ỨNG DỤNG AN TOÀN =================
+// ================= KHỞI ĐỘNG HỆ THỐNG =================
 async function khoiDongUngDung() {
   const fileData = await taiTatCaDuLieuCauHoi();
   
@@ -163,11 +143,10 @@ async function khoiDongUngDung() {
     const localData = localStorage.getItem("questionData");
     if (localData) {
       data = JSON.parse(localData);
+      checkLogin();
     } else {
-      console.error("Kho dữ liệu trống hoàn toàn (Cả file JSON lẫn bộ nhớ LocalStorage).");
-      data = []; 
+      alert("Không tìm thấy dữ liệu câu hỏi trong thư mục cau_hoi! Vui lòng kiểm tra lại cấu trúc thư mục.");
     }
-    checkLogin(); // Đảm bảo luôn gọi checkLogin để hiện khung Đăng nhập, chống trắng màn hình
     return;
   }
 
@@ -197,10 +176,9 @@ async function khoiDongUngDung() {
   checkLogin();
 }
 
-// Chạy khởi động hệ thống
 khoiDongUngDung();
 
-// ================= THUẬT TOÁN TRỘN MẢNG =================
+// ================= THUẬT TOÁN ĐẢO KHOÁ TRỘN ĐỀ TỐI ĐA =================
 function shuffle(arr) {
   let a = [...arr];
   for (let i = a.length - 1; i > 0; i--) {
@@ -210,7 +188,7 @@ function shuffle(arr) {
   return a;
 }
 
-// ================= KHỞI TẠO ĐỀ THI & ĐẢO NGẪU NHIÊN ĐÁP ÁN =================
+// ================= START EXAM (TỶ LỆ % THEO TỔNG CÂU FILE & BỐC BÙ LIỀN KỀ) =================
 function startExam() {
   answers = {};
   index = 0;
@@ -249,6 +227,8 @@ function startExam() {
     let normalInFile = fileQuestions.filter(q => !((q.weight && q.weight > 1) || (q.wrongCount && q.wrongCount > 0)));
     
     khoCauHoiCacFile[fileKey] = [...wrongInFile, ...normalInFile];
+
+    console.log(`• Phần [${fileKey}.json]: Có ${tongCauGocCuaFile} câu (Tỷ lệ: ${((tongCauGocCuaFile/tongSoCauTrongKho)*100).toFixed(1)}%) -> Phải bốc: ${quota} câu. (Kho chưa làm đúng còn: ${khoCauHoiCacFile[fileKey].length} câu)`);
   });
 
   let finalSelectedList = [];
@@ -262,6 +242,8 @@ function startExam() {
 
     if (thucTeLay.length < quotaCanLay) {
       let soCauThieu = quotaCanLay - thucTeLay.length;
+      console.log(`   ⚠️ Phần [${fileKey}.json] không đủ câu chưa làm (thiếu ${soCauThieu} câu). Đang lấy từ phần liền kề...`);
+
       let buocNhay = 1;
       while (soCauThieu > 0 && buocNhay < soLuongFile) {
         let indexFileLienKe = (i + buocNhay) % soLuongFile;
@@ -273,6 +255,7 @@ function startExam() {
           let cauBu = poolLienKe.splice(0, soCauLayBu);
           finalSelectedList = finalSelectedList.concat(cauBu);
           soCauThieu -= soCauLayBu;
+          console.log(`   ➡️ Đã bù đắp thành công ${soCauLayBu} câu chưa làm từ phần liền kề: [${fileLienKeKey}.json]`);
         }
         buocNhay++;
       }
@@ -290,61 +273,33 @@ function startExam() {
       khoVetCacFile = shuffle(khoVetCacFile);
       let extra = khoVetCacFile.slice(0, thieuTong);
       finalSelectedList = finalSelectedList.concat(extra);
+      console.log(`💡 Đã quét nốt ${extra.length} câu còn dư trên toàn hệ thống cho tròn đề 100 câu.`);
     }
   }
 
-  let rawSelected100 = shuffle(finalSelectedList).slice(0, 100);
-
-  // 🔄 THUẬT TOÁN ĐẢO ĐÁP ÁN KHÔNG PHÁ VỠ LOGIC GỐC
-  questions = rawSelected100.map(q => {
-    let originalAnsKey = (q.answer || q.trảlời || "").toString().trim().toUpperCase();
-    if (originalAnsKey === "MỘT") originalAnsKey = "A";
-    
-    let correctText = "";
-    if (originalAnsKey === "A") correctText = q.a || q.A || q.Một || "";
-    else if (originalAnsKey === "B") correctText = q.b || q.B || "";
-    else if (originalAnsKey === "C") correctText = q.c || q.C || "";
-    else if (originalAnsKey === "D") correctText = q.d || q.D || "";
-    else correctText = originalAnsKey; 
-
-    let optionsArray = [];
-    if (q.a || q.A || q.Một) optionsArray.push(q.a || q.A || q.Một);
-    if (q.b || q.B) optionsArray.push(q.b || q.B);
-    if (q.c || q.C) optionsArray.push(q.c || q.C);
-    if (q.d || q.D) optionsArray.push(q.d || q.D);
-
-    optionsArray = shuffle(optionsArray);
-
-    let newQ = { ...q };
-    newQ.shuffledOpts = {
-      A: optionsArray[0] || "",
-      B: optionsArray[1] || "",
-      C: optionsArray[2] || "",
-      D: optionsArray[3] || ""
-    };
-    
-    newQ.correctTextTarget = correctText.toString().trim().toLowerCase();
-    return newQ;
-  });
+  questions = shuffle(finalSelectedList).slice(0, 100);
+  
+  console.log(`=> ĐỀ THI ĐÃ CHỐT HOÀN CHỈNH: 100 câu hỏi ngẫu nhiên và trải rộng.`);
+  console.log("======================================================");
 
   render();
   startTimer();
 }
 
-// ================= GIAO DIỆN HIỂN THỊ CÂU HỎI =================
+// ================= HIỂN THỊ CÂU HỎI VÀ ĐÁP ÁN =================
 function render() {
   if (questions.length === 0 || !questions[index]) {
-    app.innerHTML = `<div class="box"><h2>Dữ liệu câu hỏi bị lỗi hoặc trống! Vui lòng tải lại trang.</h2></div>`;
+    app.innerHTML = `<div class="box"><h2>Dữ liệu câu hỏi bị lỗi hoặc bộ nhớ tạm rỗng! Vui lòng làm mới trang.</h2></div>`;
     return;
   }
 
   let q = questions[index];
   let qText = q.question || q.cauhoi || "Nội dung câu hỏi rỗng";
   
-  let optA = q.shuffledOpts ? q.shuffledOpts.A : (q.a || q.A || q.Một || "");
-  let optB = q.shuffledOpts ? q.shuffledOpts.B : (q.b || q.B || "");
-  let optC = q.shuffledOpts ? q.shuffledOpts.C : (q.c || q.C || "");
-  let optD = q.shuffledOpts ? q.shuffledOpts.D : (q.d || q.D || "");
+  let optA = q.a || q.A || q.Một || "";
+  let optB = q.b || q.B || "";
+  let optC = q.c || q.C || "";
+  let optD = q.d || q.D || "";
 
   app.innerHTML = `
     <div class="box">
@@ -383,19 +338,22 @@ function render() {
 function choose(c) {
   answers[index] = c;
   highlight();
-  renderNav();
 }
 
 function highlight() {
-  document.querySelectorAll(".option").forEach(b => b.classList.remove("selected"));
-  let ans = answers[index];
-  if (!ans) return;
+  setTimeout(() => {
+    document.querySelectorAll(".option").forEach(b => b.classList.remove("selected"));
 
-  const map = { A: 0, B: 1, C: 2, D: 3, a: 0, b: 1, c: 2, d: 3 };
-  let btns = document.querySelectorAll(".option");
-  if (btns[map[ans]]) {
-    btns[map[ans]].classList.add("selected");
-  }
+    let ans = answers[index];
+    if (!ans) return;
+
+    const map = { A: 0, B: 1, C: 2, D: 3, a: 0, b: 1, c: 2, d: 3 };
+    let btns = document.querySelectorAll(".option");
+
+    if (btns[map[ans]]) {
+      btns[map[ans]].classList.add("selected");
+    }
+  }, 0);
 }
 
 function renderNav() {
@@ -403,7 +361,6 @@ function renderNav() {
   if (!nav) return;
   nav.innerHTML = "";
 
-  let fragment = document.createDocumentFragment();
   questions.forEach((_, i) => {
     let btn = document.createElement("button");
     btn.innerText = i + 1;
@@ -412,6 +369,7 @@ function renderNav() {
       btn.style.background = "#b30000";
       btn.style.color = "white";
     }
+
     if (i === index) {
       btn.style.border = "2px solid #000";
       btn.style.fontWeight = "bold";
@@ -421,9 +379,9 @@ function renderNav() {
       index = i;
       render();
     };
-    fragment.appendChild(btn);
+
+    nav.appendChild(btn);
   });
-  nav.appendChild(fragment);
 }
 
 function next() {
@@ -447,6 +405,7 @@ function updateBar() {
   }
 }
 
+// ================= ĐỒNG HỒ ĐẾM NGƯỢC =================
 function startTimer() {
   clearInterval(timer);
   timer = setInterval(() => {
@@ -459,7 +418,7 @@ function startTimer() {
   }, 1000);
 }
 
-// ================= NỘP BÀI VÀ CHẤM ĐIỂM THEO CHUỖI VĂN BẢN (TEXT-MATCHING) =================
+// ================= NỘP BÀI VÀ CHẤM ĐIỂM SỬA WEIGHT LỖI =================
 function submit() {
   clearInterval(timer);
 
@@ -471,38 +430,40 @@ function submit() {
   let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
 
   questions.forEach((q, i) => {
-    let userAnsLetter = answers[i] ? answers[i].toString().trim().toUpperCase() : "";
-    
-    let userAnsText = "";
-    if (userAnsLetter && q.shuffledOpts) {
-      userAnsText = q.shuffledOpts[userAnsLetter].toString().trim().toLowerCase();
-    }
+    let userAns = answers[i] ? answers[i].toString().trim().toLowerCase() : "";
+    let correctAns = (q.answer || q.trảlời || "").toString().trim().toLowerCase();
 
-    // Đối chiếu nội dung chữ thực tế thay vì ký tự nhãn (A,B,C,D) để tránh lệch vị trí đã đảo
-    let isCorrect = userAnsText !== "" && userAnsText === q.correctTextTarget;
+    if (correctAns === "một") correctAns = "a";
 
     let qTextId = (q.question || q.cauhoi || "").trim();
     let originalQ = data.find(x => (x.question || x.cauhoi || "").trim() === qTextId);
+    
     if (!originalQ) originalQ = q; 
 
     originalQ.weight = originalQ.weight || 1;
     originalQ.correctCount = originalQ.correctCount || 0;
     originalQ.wrongCount = originalQ.wrongCount || 0;
 
-    if (userAnsLetter !== "") {
+    if (userAns !== "") {
       submittedCount++; 
-      if (isCorrect) {
+      if (userAns === correctAns) {
         correct++;
         originalQ.correctCount++;
         originalQ.weight = Math.max(1, originalQ.weight - 0.3);
-        if (!correctPool.includes(qTextId)) correctPool.push(qTextId);
+        
+        if (!correctPool.includes(qTextId)) {
+          correctPool.push(qTextId);
+        }
       } else {
         wrong++;
         newWrong.push(originalQ);
         originalQ.wrongCount++;
         originalQ.weight = Math.min(10, originalQ.weight + 1.2); 
+        
         let cIndex = correctPool.indexOf(qTextId);
-        if (cIndex > -1) correctPool.splice(cIndex, 1);
+        if (cIndex > -1) {
+          correctPool.splice(cIndex, 1);
+        }
       }
     } else {
       wrong++; 
@@ -518,20 +479,32 @@ function submit() {
   document.body.style.padding = "20px 0";
 
   app.innerHTML = `
-    <div style="max-width: 820px; margin: 0 auto; background: #ffffff; padding: 40px 50px; box-shadow: 0 4px 15px rgba(0,0,0,0.06); border-radius: 8px; font-family: 'Times New Roman', Times, serif;">
+    <div style="
+      max-width: 820px; 
+      margin: 0 auto; 
+      background: #ffffff; 
+      padding: 40px 50px; 
+      box-shadow: 0 4px 15px rgba(0,0,0,0.06);
+      border-radius: 8px;
+      font-family: 'Times New Roman', Times, serif;
+    ">
       <h1 style="font-size: 24px; font-weight: bold; text-align: center; margin: 0 0 10px 0; color: #111; letter-spacing: 0.5px;">BÁO CÁO KẾT QUẢ KIỂM TRA</h1>
+      
       <p style="text-align: center; font-size: 15px; color: #555; margin: 0 0 20px 0; line-height: 1.6;">
         Số câu đã hoàn thành: <b style="color: #00796b; font-size: 16px;">${submittedCount}/${questions.length}</b><br>
         Số câu đúng: <b style="color: #2e7d32; font-size: 16px;">${correct}</b> | Số câu sai/Chưa chọn: <b style="color: #c62828; font-size: 16px;">${wrong}</b>
       </p>
+
       <div style="text-align: center; margin-bottom: 25px;">
-        <button class="btn" style="background: #00796b; color: white; border: none; padding: 10px 28px; font-size: 14px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 20px; font-weight: bold;" onclick="location.reload()">THI VÒNG ĐỀ MỚI</button>
+        <button class="btn" style="background: #00796b; color: white; border: none; padding: 10px 28px; font-size: 14px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 20px; font-weight: bold; transition: 0.2s;" onclick="location.reload()">THI VÒNG ĐỀ MỚI</button>
       </div>
+
       <div style="display: flex; gap: 8px; justify-content: center; margin-bottom: 25px; border-bottom: 1px solid #eef0f2; padding-bottom: 15px;">
         <button id="btn-filter-all" style="padding: 6px 16px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('all')">Tất cả câu hỏi</button>
         <button id="btn-filter-correct" style="padding: 6px 16px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('correct')">Các câu đúng</button>
         <button id="btn-filter-wrong" style="padding: 6px 16px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('wrong')">Các câu chưa làm / sai</button>
       </div>
+
       <div id="result-list"></div>
     </div>
   `;
@@ -539,7 +512,7 @@ function submit() {
   filterResult('all');
 }
 
-// ================= BỘ LỌC KẾT QUẢ THI ĐÃ TRỘN =================
+// ================= BỘ LỌC ĐÁP ÁN KHẢO SÁT KẾT QUẢ THI =================
 function filterResult(type) {
   currentFilter = type;
   let listContainer = document.getElementById("result-list");
@@ -564,40 +537,51 @@ function filterResult(type) {
   questions.forEach((q, i) => {
     if (!q) return; 
 
-    let userAnsLetter = answers[i] ? answers[i].toString().trim().toUpperCase() : ""; 
-    let userAnsText = (userAnsLetter && q.shuffledOpts) ? q.shuffledOpts[userAnsLetter].toString().trim().toLowerCase() : "";
-
-    let ok = userAnsText !== "" && userAnsText === q.correctTextTarget;
+    let userAns = answers[i] ? answers[i].toString().trim().toLowerCase() : "";
+    let correctAns = (q.answer || q.trảlời || "").toString().trim().toLowerCase();
+    if (correctAns === "một") correctAns = "a";
+    
+    let ok = userAns !== "" && userAns === correctAns;
 
     if (type === 'correct' && !ok) return;
     if (type === 'wrong' && ok) return;
 
     let qText = q.question || q.cauhoi || "Dữ liệu lỗi";
-    let optA = q.shuffledOpts ? q.shuffledOpts.A : "";
-    let optB = q.shuffledOpts ? q.shuffledOpts.B : "";
-    let optC = q.shuffledOpts ? q.shuffledOpts.C : "";
-    let optD = q.shuffledOpts ? q.shuffledOpts.D : "";
+    let optA = q.a || q.A || q.Một || "";
+    let optB = q.b || q.B || "";
+    let optC = q.c || q.C || "";
+    let optD = q.d || q.D || "";
 
-    // Tìm nhãn chữ cái (A,B,C,D) mới đang chứa chuỗi text đáp án đúng sau khi đảo vị trí
-    let currentCorrectLetter = "A";
-    if (optA.toString().trim().toLowerCase() === q.correctTextTarget) currentCorrectLetter = "A";
-    else if (optB.toString().trim().toLowerCase() === q.correctTextTarget) currentCorrectLetter = "B";
-    else if (optC.toString().trim().toLowerCase() === q.correctTextTarget) currentCorrectLetter = "C";
-    else if (optD.toString().trim().toLowerCase() === q.correctTextTarget) currentCorrectLetter = "D";
+    let fullCorrectText = "";
+    if (correctAns === "a") fullCorrectText = `A. ${optA}`;
+    else if (correctAns === "b") fullCorrectText = `B. ${optB}`;
+    else if (correctAns === "c") fullCorrectText = `C. ${optC}`;
+    else if (correctAns === "d") fullCorrectText = `D. ${optD}`;
+    else fullCorrectText = (q.answer || q.trảlời || "Chưa rõ").toUpperCase();
 
-    let fullCorrectText = `${currentCorrectLetter}. ${q.shuffledOpts[currentCorrectLetter]}`;
-    let fullUserText = userAnsLetter ? `${userAnsLetter}. ${q.shuffledOpts[userAnsLetter]}` : "Không lựa chọn đáp án (Bỏ trống câu này)";
+    let fullUserText = "Không lựa chọn đáp án (Bỏ trống câu này)";
+    if (userAns === "a") fullUserText = `A. ${optA}`;
+    else if (userAns === "b") fullUserText = `B. ${optB}`;
+    else if (userAns === "c") fullUserText = `C. ${optC}`;
+    else if (userAns === "d") fullUserText = `D. ${optD}`;
 
+    // THAY ĐỔI: Đã loại bỏ hoàn toàn thẻ nhãn <span> nguồn file của câu hỏi tại đây
     html += `
       <div style="margin-bottom: 24px; text-align: justify; line-height: 1.5; font-size: 15px; color: #111;">
         <p style="margin: 0 0 6px 0; padding: 0; white-space: pre-wrap;"><b>Câu ${i + 1}.</b> ${qText}</p>
+        
         <div style="margin: 0 0 6px 0; padding-left: 15px; font-size: 14.5px; color: #333;">
           <div style="margin-bottom: 3px;">
             <span style="color: #666;">- Phương án đã chọn:</span> ${fullUserText} 
-            <span style="display: inline-block; padding: 1px 6px; font-size: 11px; font-family: 'Times New Roman'; font-weight: bold; border-radius: 3px; margin-left: 8px; background-color: ${userAnsLetter === "" ? '#f1f3f5' : (ok ? '#e8f5e9' : '#ffebee')}; color: ${userAnsLetter === "" ? '#555' : (ok ? '#2e7d32' : '#c62828')};">${userAnsLetter === "" ? "CHƯA LÀM" : (ok ? "CHÍNH XÁC" : "KHÔNG ĐÚNG")}</span>
+            <span style="
+              display: inline-block; padding: 1px 6px; font-size: 11px; font-family: 'Times New Roman'; font-weight: bold; border-radius: 3px; margin-left: 8px;
+              background-color: ${userAns === "" ? '#f1f3f5' : (ok ? '#e8f5e9' : '#ffebee')};
+              color: ${userAns === "" ? '#555' : (ok ? '#2e7d32' : '#c62828')};
+            ">${userAns === "" ? "CHƯA LÀM" : (ok ? "CHÍNH XÁC" : "KHÔNG ĐÚNG")}</span>
           </div>
           ${!ok ? `<div style="margin-bottom: 3px;"><span style="color: #666;">- Đáp án đúng:</span> <b style="color: #2e7d32;">${fullCorrectText}</b></div>` : ""}
         </div>
+
         <div style="margin: 6px 0 0 15px; padding: 4px 0 4px 10px; font-style: italic; font-size: 14px; color: #555; border-left: 2px solid #e0e0e0; white-space: pre-wrap;">
           <b>Cơ sở lý luận (Giải thích):</b> ${q.explanation ? q.explanation : (q.giảithích ? q.giảithích : "Chưa có nội dung giải thích.")}
         </div>
@@ -605,13 +589,16 @@ function filterResult(type) {
     `;
   });
 
-  listContainer.innerHTML = html || `<p style='text-align:center; color:#777; font-style: italic; padding: 20px;'>Không tìm thấy dữ liệu thích hợp.</p>`;
+  listContainer.innerHTML = html || `<p style='text-align:center; color:#777; font-style: italic; padding: 20px;'>Không tìm thấy dữ liệu.</p>`;
 }
 
-// ================= BẢO MẬT CHỐNG SAO CHÉP ĐỀ THI =================
+// ================= HÀM KHÓA AN TOÀN CHỐT SAO CHÉP ĐỀ THI DÀNH CHO TÀI KHOẢN CON =================
 function enableProtectionForSubAccounts() {
   let user = JSON.parse(localStorage.getItem("user"));
-  if (!user || user.role === "admin") return; 
+  
+  if (!user || user.role === "admin") {
+    return; 
+  }
 
   document.addEventListener('contextmenu', function(e) { e.preventDefault(); alert("Hệ thống kiểm tra đã khóa chuột phải học viên!"); });
   document.addEventListener('selectstart', function(e) { e.preventDefault(); });
@@ -633,6 +620,12 @@ function enableProtectionForSubAccounts() {
     if (e.ctrlKey && e.shiftKey && ['i', 'j'].includes(e.key.toLowerCase())) { e.preventDefault(); return false; }
   });
 
-  window.addEventListener('blur', function() { if (app) app.style.filter = "blur(15px)"; });
-  window.addEventListener('focus', function() { if (app) app.style.filter = "none"; });
+  window.addEventListener('blur', function() {
+    let appEl = document.getElementById("app");
+    if (appEl) appEl.style.filter = "blur(15px)";
+  });
+  window.addEventListener('focus', function() {
+    let appEl = document.getElementById("app");
+    if (appEl) appEl.style.filter = "none";
+  });
 }
