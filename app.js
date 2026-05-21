@@ -242,7 +242,7 @@ function startExam() {
 
     if (thucTeLay.length < quotaCanLay) {
       let soCauThieu = quotaCanLay - thucTeLay.length;
-      console.log(`   ⚠️ Phần [${fileKey}.json] không đủ câu chưa làm (thiếu ${soCauThieu} câu). Đang lấy từ phần liền kề...`);
+      console.log(`    ⚠️ Phần [${fileKey}.json] không đủ câu chưa làm (thiếu ${soCauThieu} câu). Đang lấy từ phần liền kề...`);
 
       let buocNhay = 1;
       while (soCauThieu > 0 && buocNhay < soLuongFile) {
@@ -255,7 +255,7 @@ function startExam() {
           let cauBu = poolLienKe.splice(0, soCauLayBu);
           finalSelectedList = finalSelectedList.concat(cauBu);
           soCauThieu -= soCauLayBu;
-          console.log(`   ➡️ Đã bù đắp thành công ${soCauLayBu} câu chưa làm từ phần liền kề: [${fileLienKeKey}.json]`);
+          console.log(`    ➡️ Đã bù đắp thành công ${soCauLayBu} câu chưa làm từ phần liền kề: [${fileLienKeKey}.json]`);
         }
         buocNhay++;
       }
@@ -277,9 +277,40 @@ function startExam() {
     }
   }
 
-  questions = shuffle(finalSelectedList).slice(0, 100);
+  let selected100 = shuffle(finalSelectedList).slice(0, 100);
+
+  // TIẾN HÀNH XÁO TRỘN ĐÁP ÁN CHO TỪNG CÂU HỎI & CHUẨN HÓA CHỮ HOA/THƯỜNG
+  questions = selected100.map(q => {
+    let clonedQ = { ...q }; 
+    
+    let optA = clonedQ.a || clonedQ.A || clonedQ.Một || "";
+    let optB = clonedQ.b || clonedQ.B || "";
+    let optC = clonedQ.c || clonedQ.C || "";
+    let optD = clonedQ.d || clonedQ.D || "";
+
+    let originalOptions = [
+      { text: optA, key: 'a' },
+      { text: optB, key: 'b' },
+      { text: optC, key: 'c' },
+      { text: optD, key: 'd' }
+    ];
+
+    let shuffled = shuffle(originalOptions);
+
+    let correctKeyInRaw = (clonedQ.answer || clonedQ.trảlời || "").toString().trim().toLowerCase();
+    if (correctKeyInRaw === "một") correctKeyInRaw = "a";
+
+    // Chuẩn hóa so khớp chữ thường để chấp nhận cả 'A' và 'a' từ file nguồn JSON
+    let newCorrectIndex = shuffled.findIndex(opt => opt.key.toString().trim().toLowerCase() === correctKeyInRaw);
+    let indexToLetter = ['a', 'b', 'c', 'd'];
+    
+    clonedQ.shuffledOptions = shuffled; 
+    clonedQ.newCorrectAnswer = indexToLetter[newCorrectIndex] || 'a'; // Luôn lưu chữ thường để đồng bộ chấm điểm
+
+    return clonedQ;
+  });
   
-  console.log(`=> ĐỀ THI ĐÃ CHỐT HOÀN CHỈNH: 100 câu hỏi ngẫu nhiên và trải rộng.`);
+  console.log(`=> ĐỀ THI ĐÃ CHỐT HOÀN CHỈNH: 100 câu hỏi ngẫu nhiên và XÁO TRỘN ĐÁP ÁN thành công.`);
   console.log("======================================================");
 
   render();
@@ -296,10 +327,10 @@ function render() {
   let q = questions[index];
   let qText = q.question || q.cauhoi || "Nội dung câu hỏi rỗng";
   
-  let optA = q.a || q.A || q.Một || "";
-  let optB = q.b || q.B || "";
-  let optC = q.c || q.C || "";
-  let optD = q.d || q.D || "";
+  let optA = q.shuffledOptions ? q.shuffledOptions[0].text : (q.a || q.A || q.Một || "");
+  let optB = q.shuffledOptions ? q.shuffledOptions[1].text : (q.b || q.B || "");
+  let optC = q.shuffledOptions ? q.shuffledOptions[2].text : (q.c || q.C || "");
+  let optD = q.shuffledOptions ? q.shuffledOptions[3].text : (q.d || q.D || "");
 
   app.innerHTML = `
     <div class="box">
@@ -430,9 +461,11 @@ function submit() {
   let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
 
   questions.forEach((q, i) => {
+    // Chuẩn hóa câu trả lời của user về chữ thường để so sánh
     let userAns = answers[i] ? answers[i].toString().trim().toLowerCase() : "";
-    let correctAns = (q.answer || q.trảlời || "").toString().trim().toLowerCase();
-
+    
+    // Chuẩn hóa câu trả lời đúng đã được định vị lại sau khi đảo đáp án
+    let correctAns = q.newCorrectAnswer ? q.newCorrectAnswer.toString().trim().toLowerCase() : (q.answer || q.trảlời || "").toString().trim().toLowerCase();
     if (correctAns === "một") correctAns = "a";
 
     let qTextId = (q.question || q.cauhoi || "").trim();
@@ -538,7 +571,7 @@ function filterResult(type) {
     if (!q) return; 
 
     let userAns = answers[i] ? answers[i].toString().trim().toLowerCase() : "";
-    let correctAns = (q.answer || q.trảlời || "").toString().trim().toLowerCase();
+    let correctAns = q.newCorrectAnswer ? q.newCorrectAnswer.toString().trim().toLowerCase() : (q.answer || q.trảlời || "").toString().trim().toLowerCase();
     if (correctAns === "một") correctAns = "a";
     
     let ok = userAns !== "" && userAns === correctAns;
@@ -547,17 +580,18 @@ function filterResult(type) {
     if (type === 'wrong' && ok) return;
 
     let qText = q.question || q.cauhoi || "Dữ liệu lỗi";
-    let optA = q.a || q.A || q.Một || "";
-    let optB = q.b || q.B || "";
-    let optC = q.c || q.C || "";
-    let optD = q.d || q.D || "";
+    
+    let optA = q.shuffledOptions ? q.shuffledOptions[0].text : (q.a || q.A || q.Một || "");
+    let optB = q.shuffledOptions ? q.shuffledOptions[1].text : (q.b || q.B || "");
+    let optC = q.shuffledOptions ? q.shuffledOptions[2].text : (q.c || q.C || "");
+    let optD = q.shuffledOptions ? q.shuffledOptions[3].text : (q.d || q.D || "");
 
     let fullCorrectText = "";
     if (correctAns === "a") fullCorrectText = `A. ${optA}`;
     else if (correctAns === "b") fullCorrectText = `B. ${optB}`;
     else if (correctAns === "c") fullCorrectText = `C. ${optC}`;
     else if (correctAns === "d") fullCorrectText = `D. ${optD}`;
-    else fullCorrectText = (q.answer || q.trảlời || "Chưa rõ").toUpperCase();
+    else fullCorrectText = correctAns.toUpperCase();
 
     let fullUserText = "Không lựa chọn đáp án (Bỏ trống câu này)";
     if (userAns === "a") fullUserText = `A. ${optA}`;
@@ -565,7 +599,6 @@ function filterResult(type) {
     else if (userAns === "c") fullUserText = `C. ${optC}`;
     else if (userAns === "d") fullUserText = `D. ${optD}`;
 
-    // THAY ĐỔI: Đã loại bỏ hoàn toàn thẻ nhãn <span> nguồn file của câu hỏi tại đây
     html += `
       <div style="margin-bottom: 24px; text-align: justify; line-height: 1.5; font-size: 15px; color: #111;">
         <p style="margin: 0 0 6px 0; padding: 0; white-space: pre-wrap;"><b>Câu ${i + 1}.</b> ${qText}</p>
