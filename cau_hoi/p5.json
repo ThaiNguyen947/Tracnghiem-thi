@@ -278,6 +278,123 @@
     "answer": "c",
     "explanation": "Điểm a khoản 1 Điều 644 BLDS 2015 quy định con chưa thành niên là người thừa kế không phụ thuộc vào nội dung của di chúc và được hưởng phần di sản bằng 2/3 suất của một người thừa kế theo pháp luật."
   },
+     {
+    "question": "Theo Điều 645 BLDS 2015, nhận định nào sau đây là ĐÚNG nhất về mặt pháp lý đối với phần di sản được người lập di chúc định đoạt dùng vào việc thờ cúng?",
+    "a": "Phần di sản này sẽ thuộc sở hữu chung hợp nhất của tất cả các đồng thừa kế và được phân chia sau 10 năm",
+    "b": "Phần di sản này không được chia thừa kế và phải được giao cho người đã được chỉ định trong di chúc quản lý",
+    "c": "Phần di sản này đương nhiên thuộc quyền sở hữu riêng của người trưởng nam trong gia đình để bảo đảm truyền thống",
+    "d": "Phần di sản này được coi là tài sản vô chủ và do Ủy ban nhân dân cấp xã nơi có tài sản quản lý",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 645 BLDS 2015 quy định rõ: Trường hợp người lập di chúc để lại một phần di sản dùng vào việc thờ cúng thì phần di sản đó không được chia thừa kế và được giao cho người đã được chỉ định trong di chúc quản lý."
+  },
+  {
+    "question": "Tình huống: Ông A lập di chúc hợp pháp để lại một mảnh đất làm nhà thờ họ và chỉ định người con trai cả quản lý. Sau khi ông A mất, người con cả tự ý làm thủ tục chuyển nhượng mảnh đất này cho người khác. Các đồng thừa kế còn lại cần làm gì để bảo vệ di sản theo quy định pháp luật?",
+    "a": "Yêu cầu Tòa án tuyên bố di chúc của ông A vô hiệu để chia đều mảnh đất theo pháp luật",
+    "b": "Họp mặt và ra quyết định giao phần di sản dùng vào việc thờ cúng này cho người khác quản lý",
+    "c": "Bắt buộc phải làm đơn đề nghị Ủy ban nhân dân cấp xã tịch thu mảnh đất để làm nhà văn hóa",
+    "d": "Không có quyền can thiệp vì người con cả là người quản lý hợp pháp duy nhất do ông A chỉ định",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 645 BLDS 2015 quy định: Nếu người được chỉ định không thực hiện đúng di chúc hoặc không theo thỏa thuận của những người thừa kế thì những người thừa kế có quyền giao phần di sản dùng vào việc thờ cúng cho người khác quản lý."
+  },
+  {
+    "question": "Tình huống: Bà B lập di chúc dành riêng căn nhà trị giá 2 tỷ đồng để làm nơi thờ cúng, không chỉ định ai quản lý. Khi bà mất, phát hiện bà còn khoản nợ 3 tỷ đồng tại ngân hàng và không còn tài sản nào khác. Căn nhà này sẽ được xử lý như thế nào?",
+    "a": "Vẫn giữ nguyên căn nhà để thờ cúng theo đúng ý chí và quyền định đoạt của bà B",
+    "b": "Ngân hàng và các thừa kế thỏa thuận chia đôi giá trị căn nhà, một nửa trả nợ, một nửa làm quỹ thờ cúng",
+    "c": "Căn nhà không được dành vào việc thờ cúng mà phải dùng để thanh toán nghĩa vụ tài sản của bà B",
+    "d": "Giao cho người thừa kế kế cận quản lý và người này phải đứng ra trả nợ thay cho bà B",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 645 BLDS 2015 quy định: Trường hợp toàn bộ di sản của người chết không đủ để thanh toán nghĩa vụ tài sản của người đó thì không được dành một phần di sản dùng vào việc thờ cúng."
+  },
+  {
+    "question": "Tình huống: Ông C để lại di chúc dành một khoản tiền tiết kiệm để làm quỹ thờ cúng tổ tiên. Tuy nhiên, tất cả những người được chỉ định thừa kế trong di chúc của ông C đều đã chết trước hoặc chết cùng thời điểm với ông C. Khoản tiền tiết kiệm dùng để thờ cúng này sẽ thuộc về ai?",
+    "a": "Đương nhiên bị sung công quỹ nhà nước do di chúc đã không còn người thừa kế",
+    "b": "Thuộc về người đang quản lý hợp pháp di sản đó trong số những người thuộc diện thừa kế theo pháp luật của ông C",
+    "c": "Giao cho tổ chức hành nghề công chứng nơi lưu giữ di chúc quản lý và giải ngân hàng năm",
+    "d": "Chia đều cho con nuôi hoặc người tình thực tế của những người thừa kế đã chết",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 645 BLDS 2015 quy định: Trường hợp tất cả những người thừa kế theo di chúc đều đã chết thì phần di sản dùng để thờ cúng thuộc về người đang quản lý hợp pháp di sản đó trong số những người thuộc diện thừa kế theo pháp luật."
+  },
+  {
+    "question": "Trong thực tiễn giải quyết hồ sơ công chứng Văn bản thỏa thuận phân chia di sản thừa kế, nếu trong di chúc có điều khoản 'Để lại quyền sử dụng đất diện tích 100m2 làm đất nhà thờ tự', Công chứng viên phải xử lý nội dung này như thế nào là đúng quy định pháp luật?",
+    "a": "Hướng dẫn các thừa kế chia đều 100m2 đất này vào văn bản phân chia nếu tất cả các đồng thừa kế đều đồng ý bằng văn bản",
+    "b": "Tách riêng phần đất 100m2 này ra khỏi phạm vi phân chia thừa kế và ghi nhận người quản lý di sản thờ cúng theo di chúc hoặc theo sự cử ra của các thừa kế",
+    "c": "Yêu cầu các thừa kế phải làm thủ tục chuyển mục đích sử dụng sang đất ở thông thường thì mới được tiến hành công chứng",
+    "d": "Từ chối công chứng toàn bộ hồ sơ vì di chúc có điều khoản vi phạm nguyên tắc tự do chuyển nhượng bất động sản",
+    "answer": "b",
+    "explanation": "Do phần di sản dùng vào việc thờ cúng không được phép chia thừa kế (Khoản 1 Điều 645 BLDS), Công chứng viên không được đưa phần tài sản này vào Văn bản thỏa thuận phân chia di sản. Tài sản này phải được quản lý riêng biệt theo đúng ý chí của người lập di chúc."
+  },
+  {
+    "question": "Theo BLDS 2015, điều kiện nào sau đây là bắt buộc để việc di tặng có hiệu lực đối với người được di tặng?",
+    "a": "Người được di tặng phải có văn bản đồng ý nhận di tặng gửi cho tổ chức hành nghề công chứng trong thời hạn 30 ngày kể từ ngày mở thừa kế",
+    "b": "Người được di tặng là cá nhân phải còn sống vào thời điểm mở thừa kế hoặc sinh ra và còn sống sau thời điểm mở thừa kế nhưng đã thành thai trước khi người để lại di sản chết",
+    "c": "Người được di tặng bắt buộc phải thuộc hàng thừa kế theo pháp luật của người lập di chúc",
+    "d": "Người được di tặng phải gánh chịu một phần nghĩa vụ tài sản tương ứng với tỷ lệ giá trị tài sản được di tặng trên tổng di sản",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 646 BLDS 2015 quy định rõ điều kiện đối với cá nhân được di tặng. Đồng thời, Khoản 3 Điều này khẳng định người được di tặng không phải thực hiện nghĩa vụ tài sản đối với phần được di tặng, trừ trường hợp toàn bộ di sản không đủ để thanh toán nghĩa vụ."
+  },
+  {
+    "question": "Tình huống: Ông A lập di chúc hợp pháp để lại toàn bộ di sản trị giá 1 tỷ đồng cho các con, đồng thời di tặng cho người bạn thân là ông B một chiếc xe máy trị giá 50 triệu đồng. Tuy nhiên, sau khi ông A qua đời, cơ quan chức năng xác định ông A còn khoản nợ tiền bồi thường thiệt hại ngoài hợp đồng lên đến 1,2 tỷ đồng. Chiếc xe máy di tặng cho ông B sẽ được xử lý như thế nào?",
+    "a": "Ông B vẫn được quyền nhận chiếc xe máy vì tài sản di tặng không phải dùng để thực hiện nghĩa vụ trả nợ của người chết",
+    "b": "Ông B được nhận chiếc xe máy nhưng phải nộp tiền mặt 50 triệu đồng cho các thừa kế để họ đi trả nợ",
+    "c": "Không thực hiện việc di tặng chiếc xe máy cho ông B; toàn bộ di sản (bao gồm cả chiếc xe) phải dùng để thanh toán nghĩa vụ tài sản của ông A",
+    "d": "Cơ quan thi hành án sẽ tịch thu chiếc xe máy và chia đôi: ông B hưởng 50% giá trị, chủ nợ hưởng 50% giá trị",
+    "answer": "c",
+    "explanation": "Theo Khoản 3 Điều 646 BLDS 2015, người được di tặng không phải thực hiện nghĩa vụ tài sản, TRỪ TRƯỜNG HỢP toàn bộ di sản không đủ để thanh toán nghĩa vụ tài sản của người lập di chúc. Do tổng di sản (1 tỷ + 50 triệu) nhỏ hơn khoản nợ (1,2 tỷ), phần di tặng không được thực hiện mà phải đưa vào để thanh toán nợ."
+  },
+  {
+    "question": "Tình huống: Một bản di chúc bằng văn bản của ông X đang được niêm phong và lưu giữ hợp pháp tại một Văn phòng Công chứng. Sau khi ông X mất, các thừa kế đến yêu cầu công bố di chúc. Ai là người có thẩm quyền và trách nhiệm công bố bản di chúc này theo quy định pháp luật?",
+    "a": "Người con trưởng hoặc người quản lý di sản do gia đình tự cử ra",
+    "b": "Công chứng viên của tổ chức hành nghề công chứng đang lưu giữ bản di chúc đó",
+    "c": "Chủ tịch Ủy ban nhân dân cấp xã nơi ông X cư trú cuối cùng trước khi chết",
+    "d": "Thẩm phán Tòa án nhân dân cấp huyện nơi có di sản là bất động sản",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 647 BLDS 2015 quy định: Trường hợp di chúc bằng văn bản được lưu giữ tại tổ chức hành nghề công chứng thì Công chứng viên là người công bố di chúc."
+  },
+  {
+    "question": "Tình huống: Ông A chỉ định anh B làm người công bố di chúc của mình. Sau khi ông A chết, anh B vì lý do cá nhân đã có văn bản từ chối thực hiện việc công bố di chúc. Trong trường hợp này, việc công bố di chúc sẽ được giải quyết như thế nào?",
+    "a": "Bản di chúc của ông A đương nhiên bị coi là vô hiệu và di sản được chuyển sang chia theo pháp luật",
+    "b": "Những người thừa kế còn lại có quyền thỏa thuận cử ra một người khác để công bố di chúc",
+    "c": "Bắt buộc phải làm đơn yêu cầu Tòa án nhân dân cấp huyện tiến hành phiên họp công bố di chúc",
+    "d": "Ủy ban nhân dân cấp xã nơi mở thừa kế có trách nhiệm chỉ định một công chức tư pháp - hộ tịch công bố thay",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 647 BLDS 2015 quy định: Trường hợp người lập di chúc chỉ định người công bố di chúc, nhưng người này từ chối thì những người thừa kế còn lại thỏa thuận cử người công bố di chúc."
+  },
+  {
+    "question": "Khi người thừa kế nhận được bản sao di chúc từ người công bố di chúc, họ có quyền gì để đảm bảo tính chính xác về mặt nội dung của văn bản này?",
+    "a": "Quyền yêu cầu người công bố phải đính chính các lỗi chính tả hoặc lỗi kỹ thuật theo ý mình",
+    "b": "Quyền yêu cầu đối chiếu bản sao đó với bản gốc của di chúc",
+    "c": "Quyền tự mình làm văn bản sửa đổi những điều khoản mà mình thấy chưa hợp lý trong bản sao",
+    "d": "Quyền yêu cầu Ủy ban nhân dân cấp xã đóng dấu chứng thực sao y bản chính ngay lập tức",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 647 BLDS 2015 quy định: Người nhận được bản sao di chúc có quyền yêu cầu đối chiếu với bản gốc của di chúc."
+  },
+  {
+    "question": "Tình huống: Công dân Việt Nam định cư tại nước ngoài lập di chúc bằng tiếng Pháp để định đoạt khối di sản tại Việt Nam. Khi người này qua đời, các thừa kế nộp bản di chúc này tại Văn phòng công chứng để làm thủ tục khai nhận di sản. Điều kiện bắt buộc để bản di chúc này được sử dụng tại Việt Nam là gì?",
+    "a": "Phải được hợp pháp hóa lãnh sự bởi Bộ Ngoại giao Việt Nam trước khi dịch sang tiếng Việt",
+    "b": "Phải được dịch ra tiếng Việt và bản dịch phải có công chứng hoặc chứng thực",
+    "c": "Chỉ cần tất cả các đồng thừa kế ký cam kết là hiểu rõ toàn bộ nội dung tiếng Pháp của di chúc",
+    "d": "Phải được Tòa án nhân dân cấp tỉnh ra quyết định công nhận hiệu lực văn bản nước ngoài",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 647 BLDS 2015 quy định: Di chúc lập bằng tiếng nước ngoài phải được dịch ra tiếng Việt và phải có công chứng hoặc chứng thực."
+  },
+  {
+    "question": "Khi nội dung di chúc của người chết để lại có những điều khoản không rõ ràng, dẫn đến nhiều cách hiểu khác nhau và gây tranh chấp giữa các thừa kế, thẩm quyền và nguyên tắc giải thích di chúc được quy định như thế nào tại BLDS 2015?",
+    "a": "Công chứng viên hoặc người công bố di chúc có toàn quyền đưa ra cách giải thích cuối cùng mang tính bắt buộc",
+    "b": "Những người thừa kế theo di chúc phải cùng nhau giải thích nội dung di chúc dựa trên ý nguyện đích thực trước đây của người chết",
+    "c": "Ủy ban nhân dân cấp xã nơi có di sản sẽ ban hành văn bản giải thích chính thức để các bên thực hiện",
+    "d": "Bản di chúc đương nhiên bị tuyên vô hiệu toàn bộ vì nội dung không rõ ràng, không thể thực hiện",
+    "answer": "b",
+    "explanation": "Điều 648 BLDS 2015 quy định: Trước hết, những người thừa kế theo di chúc phải cùng nhau giải thích nội dung di chúc dựa trên ý nguyện đích thực trước đây của người chết, có xem xét đến mối quan hệ của người chết với những người thừa kế."
+  },
+  {
+    "question": "Tình huống: Bản di chúc của ông M có 3 điều khoản độc lập chia tài sản cho 3 người con. Tuy nhiên, điều khoản thứ hai ghi: 'Cho con trai thứ hai hưởng một phần tài sản bí mật trong két sắt', nhưng khi mở két sắt thì không có bất kỳ tài sản hay giấy tờ nào, cũng không thể giải thích được ý ông M là gì. Hai điều khoản còn lại cho con cả và con út hoàn toàn rõ ràng. Bản di chúc này sẽ được xử lý như thế nào?",
+    "a": "Toàn bộ bản di chúc của ông M bị coi là vô hiệu vì có điều khoản không thể giải thích và thực hiện được",
+    "b": "Chỉ riêng phần nội dung không giải thích được (điều khoản thứ hai) là không có hiệu lực pháp lý; các phần còn lại vẫn có hiệu lực",
+    "c": "Công chứng viên sẽ tiến hành lập biên bản sửa đổi điều khoản thứ hai thành chia đều tài sản cho cả 3 người con",
+    "d": "Yêu cầu hủy bỏ di chúc để chuyển toàn bộ khối di sản sang chia thừa kế theo pháp luật",
+    "answer": "b",
+    "explanation": "Điều 648 BLDS 2015 quy định đoạn cuối: Trường hợp có một phần nội dung di chúc không giải thích được nhưng không ảnh hưởng đến các phần còn lại của di chúc thì chỉ phần không giải thích được không có hiệu lực."
+  },
   {
     "question": "Tình huống: Bà B lập 02 bản di chúc đối với cùng một căn nhà duy nhất. Di chúc năm 2020 cho con gái, di chúc năm 2024 cho con trai. Cả hai bản đều hợp pháp về hình thức và nội dung. Khi bà B chết thì áp dụng di chúc nào?",
     "a": "Di chúc lập năm 2020",
