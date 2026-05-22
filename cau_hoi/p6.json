@@ -1,5 +1,716 @@
 [
   {
+    "question": "Theo Luật Đất đai 2024, thời điểm tính thống kê đất đai hằng năm là khi nào?",
+    "a": "Đến hết ngày 30 tháng 6",
+    "b": "Đến hết ngày 31 tháng 12",
+    "c": "Đến hết ngày 01 tháng 01 năm kế tiếp",
+    "d": "Đến hết quý IV",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 57 quy định thống kê đất đai tính đến hết ngày 31/12 của năm thống kê."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, kiểm kê đất đai được thực hiện định kỳ mấy năm một lần?",
+    "a": "03 năm",
+    "b": "04 năm",
+    "c": "05 năm",
+    "d": "10 năm",
+    "answer": "c",
+    "explanation": "Điểm b khoản 2 Điều 57 quy định kiểm kê đất đai 05 năm một lần."
+  },
+  {
+    "question": "Kiểm kê đất đai được thực hiện vào năm có chữ số cuối là số nào?",
+    "a": "0 hoặc 5",
+    "b": "2 hoặc 7",
+    "c": "3 hoặc 8",
+    "d": "4 hoặc 9",
+    "answer": "d",
+    "explanation": "Điểm b khoản 2 Điều 57 quy định kiểm kê vào các năm có chữ số cuối là 4 hoặc 9."
+  },
+  {
+    "question": "Chỉ tiêu kiểm kê đất đai được xác định căn cứ vào đâu?",
+    "a": "Chỉ theo hồ sơ địa chính",
+    "b": "Theo hiện trạng sử dụng đất",
+    "c": "Theo hồ sơ địa chính và hiện trạng sử dụng đất tại thời điểm kiểm kê",
+    "d": "Theo bản đồ quy hoạch",
+    "answer": "c",
+    "explanation": "Điểm b khoản 2 Điều 58 quy định căn cứ cả hồ sơ địa chính và hiện trạng thực tế."
+  },
+  {
+    "question": "Hệ thống quy hoạch, kế hoạch sử dụng đất theo Luật Đất đai 2024 KHÔNG bao gồm cấp nào?",
+    "a": "Cấp quốc gia",
+    "b": "Cấp tỉnh",
+    "c": "Cấp huyện",
+    "d": "Cấp xã",
+    "answer": "d",
+    "explanation": "Khoản 1 Điều 61 không quy định quy hoạch, kế hoạch sử dụng đất cấp xã."
+  },
+  {
+    "question": "Nguyên tắc lập quy hoạch sử dụng đất cấp dưới đối với quy hoạch cấp trên là gì?",
+    "a": "Độc lập hoàn toàn",
+    "b": "Phù hợp với quy hoạch cấp trên",
+    "c": "Được ưu tiên hơn",
+    "d": "Tự quyết định",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 60 quy định cấp dưới phải phù hợp với quy hoạch cấp trên."
+  },
+  {
+    "question": "Khi hết thời kỳ quy hoạch mà quy hoạch tiếp theo chưa được phê duyệt thì các chỉ tiêu chưa thực hiện hết được xử lý thế nào?",
+    "a": "Hết hiệu lực",
+    "b": "Tạm dừng",
+    "c": "Tiếp tục thực hiện đến khi quy hoạch mới được phê duyệt",
+    "d": "Hủy bỏ",
+    "answer": "c",
+    "explanation": "Khoản 9 Điều 60 cho phép tiếp tục thực hiện các chỉ tiêu chưa hết."
+  },
+  {
+    "question": "Thời hạn lấy ý kiến về quy hoạch sử dụng đất cấp tỉnh là bao nhiêu ngày?",
+    "a": "20 ngày",
+    "b": "30 ngày",
+    "c": "45 ngày",
+    "d": "60 ngày",
+    "answer": "c",
+    "explanation": "Điểm c khoản 2 Điều 70 quy định 45 ngày."
+  },
+  {
+    "question": "Cơ quan nào có thẩm quyền phê duyệt quy hoạch sử dụng đất cấp huyện?",
+    "a": "Chính phủ",
+    "b": "Thủ tướng Chính phủ",
+    "c": "Bộ Tài nguyên và Môi trường",
+    "d": "Ủy ban nhân dân cấp tỉnh",
+    "answer": "d",
+    "explanation": "Khoản 4 Điều 72 quy định UBND cấp tỉnh phê duyệt."
+  },
+  {
+    "question": "Quy hoạch, kế hoạch sử dụng đất phải được công bố công khai chậm nhất bao nhiêu ngày kể từ ngày phê duyệt?",
+    "a": "07 ngày",
+    "b": "10 ngày",
+    "c": "15 ngày",
+    "d": "30 ngày",
+    "answer": "c",
+    "explanation": "Điểm a khoản 4 Điều 75 quy định 15 ngày."
+  },
+  {
+    "question": "Người sử dụng đất trong khu vực đã có quy hoạch nhưng chưa có kế hoạch sử dụng đất hằng năm cấp huyện thì được thực hiện quyền nào?",
+    "a": "Không được thực hiện quyền",
+    "b": "Chỉ được sử dụng ổn định",
+    "c": "Được tiếp tục sử dụng và thực hiện các quyền của người sử dụng đất",
+    "d": "Chỉ được chuyển nhượng khi có chấp thuận",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 76 cho phép thực hiện các quyền bình thường."
+  },
+  {
+    "question": "Đối với diện tích đã nằm trong kế hoạch sử dụng đất hằng năm cấp huyện phải thu hồi, người sử dụng đất có được xây dựng mới nhà ở không?",
+    "a": "Được xây dựng tự do",
+    "b": "Không được xây dựng mới nhà ở, công trình",
+    "c": "Được xây dựng nếu có giấy phép",
+    "d": "Chỉ được xây tạm",
+    "answer": "b",
+    "explanation": "Khoản 6 Điều 76 cấm xây mới nhà ở, công trình, trồng mới cây lâu năm."
+  },
+  {
+    "question": "Đối với đất thuộc kế hoạch sử dụng đất hằng năm cấp huyện, người sử dụng đất có được sửa chữa nhà ở hiện có không?",
+    "a": "Không được sửa chữa",
+    "b": "Phải xin phép Bộ TN&MT",
+    "c": "Được cải tạo, sửa chữa nhà ở, công trình hiện có theo quy định pháp luật",
+    "d": "Chỉ được sửa chữa không thay đổi kết cấu",
+    "answer": "c",
+    "explanation": "Khoản 6 Điều 76 cho phép cải tạo, sửa chữa theo quy định."
+  },
+  {
+    "question": "Sau bao nhiêu năm liên tục đất nằm trong kế hoạch sử dụng đất hằng năm cấp huyện mà chưa thu hồi thì phải xem xét điều chỉnh, hủy bỏ?",
+    "a": "01 năm",
+    "b": "02 năm",
+    "c": "03 năm",
+    "d": "05 năm",
+    "answer": "b",
+    "explanation": "Khoản 7 Điều 76 quy định mốc 02 năm."
+  },
+  {
+    "question": "Nếu quá 02 năm mà cơ quan thẩm quyền không điều chỉnh, hủy bỏ hoặc không công bố công khai kế hoạch sử dụng đất, thì người sử dụng đất xử lý thế nào?",
+    "a": "Bị hạn chế quyền",
+    "b": "Chỉ được chuyển nhượng",
+    "c": "Không bị hạn chế về các quyền sử dụng đất",
+    "d": "Phải chờ tiếp",
+    "answer": "c",
+    "explanation": "Khoản 7 Điều 76 khẳng định không bị hạn chế quyền."
+  },
+  {
+    "question": "Dự án nào sau đây KHÔNG phải bổ sung vào kế hoạch sử dụng đất hằng năm cấp huyện?",
+    "a": "Dự án tư nhân nhỏ",
+    "b": "Dự án đầu tư công thuộc thẩm quyền Quốc hội, Chính phủ, HĐND tỉnh",
+    "c": "Dự án chưa có quyết định đầu tư",
+    "d": "Dự án nông nghiệp",
+    "answer": "b",
+    "explanation": "Điểm a khoản 4 Điều 67 cho phép các dự án đầu tư công trọng điểm thực hiện ngay."
+  },
+  {
+    "question": "Nội dung nào sau đây thuộc kế hoạch sử dụng đất hằng năm cấp huyện?",
+    "a": "Danh mục các công trình, dự án dự kiến thực hiện trong năm",
+    "b": "Giá đất cụ thể",
+    "c": "Khung giá đất",
+    "d": "Bảng giá đất",
+    "answer": "a",
+    "explanation": "Điểm b khoản 3 Điều 67 quy định danh mục dự án là nội dung chính."
+  },
+  {
+    "question": "Tiêu chí lựa chọn dự án ưu tiên trong kế hoạch sử dụng đất KHÔNG bao gồm nội dung nào?",
+    "a": "Bảo đảm quốc phòng, an ninh",
+    "b": "Hiệu quả kinh tế, xã hội, môi trường",
+    "c": "Tính khả thi",
+    "d": "Giá thị trường",
+    "answer": "d",
+    "explanation": "Khoản 2 Điều 67 quy định 3 tiêu chí chính, không bao gồm giá thị trường."
+  },
+  {
+    "question": "Trách nhiệm rà soát, xử lý việc thu hồi đất đã ghi trong kế hoạch sử dụng đất hằng năm cấp huyện thuộc về ai?",
+    "a": "Bộ TN&MT",
+    "b": "UBND cấp tỉnh",
+    "c": "UBND cấp huyện",
+    "d": "UBND cấp xã",
+    "answer": "b",
+    "explanation": "Khoản 8 Điều 76 giao trách nhiệm cho UBND cấp tỉnh rà soát hằng năm."
+  },
+  {
+    "question": "Cơ quan nào phải công bố công khai phạm vi thu hồi đất theo tiến độ dự án?",
+    "a": "Bộ TN&MT",
+    "b": "UBND cấp tỉnh",
+    "c": "UBND cấp huyện",
+    "d": "UBND cấp xã",
+    "answer": "c",
+    "explanation": "Khoản 5 Điều 76 quy định UBND cấp huyện thực hiện công bố."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, chỉ tiêu thống kê đất đai được xác định theo căn cứ nào?",
+    "a": "Hiện trạng thực tế",
+    "b": "Hồ sơ địa chính tại thời điểm thống kê",
+    "c": "Quyết định giao đất",
+    "d": "Quy hoạch",
+    "answer": "b",
+    "explanation": "Điểm a khoản 2 Điều 58 quy định thống kê dựa theo hồ sơ địa chính."
+  },
+  {
+    "question": "UBND cấp tỉnh phải công bố kết quả thống kê đất đai trước ngày nào của năm kế tiếp?",
+    "a": "31/01",
+    "b": "31/03",
+    "c": "30/06",
+    "d": "30/09",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 59 quy định trước ngày 31/3."
+  },
+  {
+    "question": "UBND cấp tỉnh báo cáo Bộ TN&MT kết quả kiểm kê đất đai trước ngày nào của năm kế tiếp?",
+    "a": "31/03",
+    "b": "30/04",
+    "c": "30/06",
+    "d": "30/09",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 59 quy định trước ngày 30/6."
+  },
+  {
+    "question": "Bộ TN&MT công bố kết quả kiểm kê đất đai 05 năm của cả nước trước ngày nào?",
+    "a": "30/06",
+    "b": "31/07",
+    "c": "31/08",
+    "d": "30/09",
+    "answer": "d",
+    "explanation": "Khoản 6 Điều 59 quy định trước ngày 30/9."
+  },
+  {
+    "question": "Thời kỳ quy hoạch sử dụng đất cấp huyện là bao nhiêu năm?",
+    "a": "05 năm",
+    "b": "10 năm",
+    "c": "15 năm",
+    "d": "20 năm",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 62 quy định thời kỳ quy hoạch cấp huyện là 10 năm."
+  },
+  {
+    "question": "Tầm nhìn quy hoạch sử dụng đất cấp huyện là bao nhiêu năm?",
+    "a": "10 năm",
+    "b": "15 năm",
+    "c": "20 năm",
+    "d": "25 năm",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 62 quy định tầm nhìn quy hoạch cấp huyện là 20 năm."
+  },
+  {
+    "question": "Kế hoạch sử dụng đất hằng năm được lập ở cấp nào?",
+    "a": "Cấp quốc gia",
+    "b": "Cấp tỉnh",
+    "c": "Cấp huyện",
+    "d": "Cấp xã",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 62 quy định kế hoạch hằng năm cấp huyện."
+  },
+  {
+    "question": "Thời gian lấy ý kiến về quy hoạch sử dụng đất cấp huyện là bao nhiêu ngày?",
+    "a": "15 ngày",
+    "b": "20 ngày",
+    "c": "30 ngày",
+    "d": "45 ngày",
+    "answer": "c",
+    "explanation": "Điểm c khoản 3 Điều 70 quy định 30 ngày."
+  },
+  {
+    "question": "Thời gian lấy ý kiến về kế hoạch sử dụng đất hằng năm cấp huyện là bao nhiêu ngày?",
+    "a": "10 ngày",
+    "b": "15 ngày",
+    "c": "20 ngày",
+    "d": "30 ngày",
+    "answer": "c",
+    "explanation": "Điểm c khoản 3 Điều 70 quy định 20 ngày."
+  },
+  {
+    "question": "Công chứng viên cần đặc biệt lưu ý điều gì khi tiếp nhận hồ sơ chuyển nhượng đất nằm trong quy hoạch?",
+    "a": "Chỉ kiểm tra sổ đỏ",
+    "b": "Xác định đất đã có kế hoạch hằng năm hay chưa và thời gian ghi kế hoạch",
+    "c": "Không cần quan tâm quy hoạch",
+    "d": "Chỉ hỏi người bán",
+    "answer": "b",
+    "explanation": "Việc xác định trạng thái pháp lý (quy hoạch vs kế hoạch hằng năm) là nhiệm vụ sống còn để đảm bảo quyền của người giao dịch."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, người sử dụng đất trong khu vực đã có quy hoạch sử dụng đất được công bố nhưng chưa có kế hoạch sử dụng đất hằng năm cấp huyện thì được thực hiện quyền nào?",
+    "a": "Không được thực hiện bất kỳ quyền nào",
+    "b": "Chỉ được sử dụng ổn định nhưng không được chuyển nhượng",
+    "c": "Được tiếp tục sử dụng và thực hiện các quyền của người sử dụng đất",
+    "d": "Chỉ được chuyển nhượng khi có chấp thuận của UBND cấp huyện",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 76 Luật Đất đai 2024 quy định trường hợp quy hoạch sử dụng đất đã được công bố mà chưa có kế hoạch sử dụng đất hằng năm cấp huyện thì người sử dụng đất được tiếp tục sử dụng và thực hiện các quyền của người sử dụng đất."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, đối với diện tích đất nằm trong kế hoạch sử dụng đất hằng năm cấp huyện phải thu hồi hoặc chuyển mục đích sử dụng đất thì người sử dụng đất có bị hạn chế quyền hay không?",
+    "a": "Không bị hạn chế quyền nào",
+    "b": "Được thực hiện quyền nhưng không được xây dựng mới nhà ở, công trình, trồng mới cây lâu năm",
+    "c": "Không được chuyển nhượng quyền sử dụng đất",
+    "d": "Không được thế chấp quyền sử dụng đất",
+    "answer": "b",
+    "explanation": "Khoản 6 Điều 76 Luật Đất đai 2024 quy định người sử dụng đất vẫn được thực hiện quyền nhưng không được xây dựng mới nhà ở, công trình, trồng mới cây lâu năm."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, đối với đất thuộc kế hoạch sử dụng đất hằng năm cấp huyện, người sử dụng đất có được sửa chữa nhà ở hiện có không?",
+    "a": "Không được sửa chữa trong mọi trường hợp",
+    "b": "Chỉ được sửa chữa khi có quyết định của Bộ Tài nguyên và Môi trường",
+    "c": "Được cải tạo, sửa chữa nhà ở, công trình hiện có theo quy định pháp luật",
+    "d": "Chỉ được sửa chữa nếu không thay đổi kết cấu",
+    "answer": "c",
+    "explanation": "Khoản 6 Điều 76 Luật Đất đai 2024 quy định người sử dụng đất được xây dựng theo giấy phép xây dựng có thời hạn, cải tạo, sửa chữa nhà ở, công trình hiện có theo quy định của pháp luật."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, sau bao nhiêu năm liên tục đất đã ghi trong kế hoạch sử dụng đất hằng năm cấp huyện mà chưa có quyết định thu hồi hoặc chưa được phép chuyển mục đích sử dụng đất thì phải xem xét điều chỉnh, hủy bỏ?",
+    "a": "01 năm",
+    "b": "02 năm",
+    "c": "03 năm",
+    "d": "05 năm",
+    "answer": "b",
+    "explanation": "Khoản 7 Điều 76 Luật Đất đai 2024 quy định sau 02 năm liên tục mà chưa có quyết định thu hồi hoặc chưa được phép chuyển mục đích sử dụng đất thì phải xem xét điều chỉnh, hủy bỏ."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, nếu cơ quan có thẩm quyền không điều chỉnh, hủy bỏ hoặc có điều chỉnh, hủy bỏ nhưng không công bố công khai đối với đất đã ghi trong kế hoạch sử dụng đất hằng năm cấp huyện thì người sử dụng đất được xử lý thế nào?",
+    "a": "Bị hạn chế toàn bộ quyền sử dụng đất",
+    "b": "Chỉ được chuyển nhượng nhưng không được tặng cho",
+    "c": "Không bị hạn chế về các quyền sử dụng đất",
+    "d": "Phải xin phép UBND cấp huyện khi giao dịch",
+    "answer": "c",
+    "explanation": "Khoản 7 Điều 76 Luật Đất đai 2024 quy định nếu không điều chỉnh, hủy bỏ hoặc không công bố công khai thì người sử dụng đất không bị hạn chế về các quyền sử dụng đất."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, dự án nào sau đây được thực hiện mà không phải bổ sung vào kế hoạch sử dụng đất hằng năm cấp huyện?",
+    "a": "Mọi dự án đầu tư tư nhân",
+    "b": "Dự án chưa có bất kỳ quyết định đầu tư nào",
+    "c": "Dự án đã có quyết định đầu tư công thuộc thẩm quyền của Quốc hội, Thủ tướng Chính phủ hoặc Hội đồng nhân dân cấp tỉnh",
+    "d": "Mọi dự án sử dụng đất nông nghiệp",
+    "answer": "c",
+    "explanation": "Điểm a khoản 4 Điều 67 Luật Đất đai 2024 quy định dự án đã có quyết định đầu tư theo pháp luật về đầu tư công thuộc thẩm quyền của Quốc hội, Thủ tướng Chính phủ, người đứng đầu Bộ, cơ quan trung ương, HĐND cấp tỉnh thì được thực hiện mà không phải bổ sung vào kế hoạch sử dụng đất hằng năm cấp huyện."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, nội dung nào sau đây thuộc kế hoạch sử dụng đất hằng năm cấp huyện?",
+    "a": "Danh mục các công trình, dự án dự kiến thực hiện trong năm",
+    "b": "Giá đất cụ thể của từng thửa đất",
+    "c": "Khung giá đất quốc gia",
+    "d": "Bảng giá đất cấp xã",
+    "answer": "a",
+    "explanation": "Điểm b khoản 3 Điều 67 Luật Đất đai 2024 quy định kế hoạch sử dụng đất hằng năm cấp huyện bao gồm danh mục các công trình, dự án dự kiến thực hiện trong năm."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, tiêu chí lựa chọn công trình, dự án ưu tiên trong kế hoạch sử dụng đất hằng năm cấp huyện KHÔNG bao gồm nội dung nào sau đây?",
+    "a": "Bảo đảm quốc phòng, an ninh",
+    "b": "Hiệu quả kinh tế, xã hội, môi trường",
+    "c": "Tính khả thi của việc thực hiện",
+    "d": "Giá chuyển nhượng quyền sử dụng đất trên thị trường",
+    "answer": "d",
+    "explanation": "Khoản 2 Điều 67 Luật Đất đai 2024 quy định tiêu chí lựa chọn gồm: bảo đảm quốc phòng, an ninh; hiệu quả kinh tế, xã hội, môi trường; tính khả thi của việc thực hiện."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, UBND cấp tỉnh có trách nhiệm gì đối với việc thu hồi đất, chuyển mục đích sử dụng đất đã ghi trong kế hoạch sử dụng đất hằng năm cấp huyện?",
+    "a": "Không có trách nhiệm rà soát",
+    "b": "Hằng năm tổ chức rà soát, xử lý và công bố công khai",
+    "c": "05 năm mới rà soát một lần",
+    "d": "Chỉ rà soát khi có khiếu nại",
+    "answer": "b",
+    "explanation": "Khoản 8 Điều 76 Luật Đất đai 2024 quy định hằng năm UBND cấp tỉnh có trách nhiệm tổ chức rà soát, xử lý và công bố công khai việc thu hồi đất, chuyển mục đích sử dụng đất."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, đối với dự án thuộc trường hợp quy định tại khoản 4 Điều 67 mà phải thu hồi đất thì cơ quan nào phải công bố công khai phạm vi thu hồi đất?",
+    "a": "Bộ Tài nguyên và Môi trường",
+    "b": "UBND cấp tỉnh",
+    "c": "UBND cấp huyện nơi có dự án",
+    "d": "UBND cấp xã",
+    "answer": "c",
+    "explanation": "Khoản 5 Điều 76 Luật Đất đai 2024 quy định UBND cấp huyện nơi có dự án phải công bố công khai phạm vi thu hồi đất theo tiến độ của dự án đến người sử dụng đất."
+  },
+  {
+    "question": "Ông A muốn chuyển nhượng đất cho ông B. Thửa đất nằm trong kế hoạch sử dụng đất năm 2023 nhưng đến tháng 5/2026 vẫn chưa có quyết định thu hồi và cơ quan nhà nước không thực hiện điều chỉnh, hủy bỏ. Công chứng viên xử lý thế nào?",
+    "a": "Từ chối công chứng vì đất đang trong kế hoạch thu hồi",
+    "b": "Yêu cầu ông A xin giấy xác nhận không thuộc diện quy hoạch mới được công chứng",
+    "c": "Công chứng bình thường vì đã quá 02 năm kể từ khi ghi trong kế hoạch mà chưa thu hồi",
+    "d": "Chỉ công chứng nếu có sự đồng ý của UBND cấp xã",
+    "answer": "c",
+    "explanation": "Theo Khoản 7 Điều 76 Luật Đất đai 2024, sau 02 năm liên tục không có quyết định thu hồi thì người sử dụng đất không bị hạn chế quyền."
+  },
+  {
+    "question": "Bà C muốn thế chấp quyền sử dụng đất đang nằm trong kế hoạch sử dụng đất hằng năm cấp huyện năm 2026. Tuy nhiên, trên đất bà C vừa xây mới một nhà kho kiên cố. Công chứng viên tư vấn thế nào?",
+    "a": "Công chứng bình thường vì đó là tài sản của bà C",
+    "b": "Từ chối vì việc xây mới trên đất đã có kế hoạch thu hồi là vi phạm Khoản 6 Điều 76",
+    "c": "Công chứng nhưng ghi chú là công trình xây dựng trái phép",
+    "d": "Chỉ công chứng nếu bà C cam kết tháo dỡ sau này",
+    "answer": "b",
+    "explanation": "Khoản 6 Điều 76 cấm xây dựng mới nhà ở, công trình trên đất đã có kế hoạch sử dụng đất hằng năm cấp huyện."
+  },
+  {
+    "question": "Dự án đầu tư công của công ty X đã có quyết định phê duyệt của HĐND cấp tỉnh nhưng chưa kịp bổ sung vào kế hoạch sử dụng đất hằng năm cấp huyện. Hộ dân muốn chuyển nhượng đất cho công ty X, Công chứng viên nên làm gì?",
+    "a": "Từ chối vì chưa có trong kế hoạch sử dụng đất hằng năm cấp huyện",
+    "b": "Yêu cầu bổ sung kế hoạch rồi mới công chứng",
+    "c": "Công chứng bình thường vì dự án đầu tư công thuộc thẩm quyền HĐND cấp tỉnh không cần bổ sung vào kế hoạch cấp huyện",
+    "d": "Yêu cầu UBND cấp huyện xác nhận bằng văn bản trước khi công chứng",
+    "answer": "c",
+    "explanation": "Điểm a Khoản 4 Điều 67 quy định các dự án này không phải bổ sung vào kế hoạch sử dụng đất hằng năm cấp huyện."
+  },
+  {
+    "question": "Ông D có căn nhà cũ nằm trong kế hoạch thu hồi đất. Ông D muốn cải tạo phần mái và trát lại tường. Công chứng viên cần hướng dẫn ông D điều gì để tránh rủi ro khi sau này đất bị thu hồi?",
+    "a": "Không được phép làm gì vì đất đã có kế hoạch thu hồi",
+    "b": "Chỉ cần làm thủ tục thông báo với UBND cấp xã là được cải tạo, sửa chữa hiện trạng theo quy định",
+    "c": "Phải xây lại toàn bộ để được bồi thường cao hơn",
+    "d": "Phải xin ý kiến của Công chứng viên mới được sửa",
+    "answer": "b",
+    "explanation": "Khoản 6 Điều 76 cho phép cải tạo, sửa chữa nhà ở, công trình hiện có theo quy định pháp luật."
+  },
+  {
+    "question": "UBND tỉnh vừa phê duyệt quy hoạch ngày 01/05/2026 nhưng đến ngày 05/05/2026 chưa công bố công khai. Khách hàng yêu cầu công chứng dựa trên các hạn chế của quy hoạch mới này. Công chứng viên xử lý thế nào?",
+    "a": "Áp dụng ngay quy hoạch mới để từ chối công chứng",
+    "b": "Thực hiện dựa trên quy hoạch cũ hoặc thông tin đã được công bố công khai hợp lệ",
+    "c": "Tạm dừng công chứng để chờ UBND tỉnh đăng báo",
+    "d": "Yêu cầu khách hàng liên hệ Sở Tài nguyên và Môi trường",
+    "answer": "b",
+    "explanation": "Điểm a Khoản 4 Điều 75 quy định quy hoạch phải được công bố công khai mới có hiệu lực áp dụng hạn chế quyền."
+  },
+  {
+    "question": "Khách hàng muốn thế chấp quyền sử dụng đất nông nghiệp đã có trong kế hoạch sử dụng đất hằng năm cấp huyện để thu hồi. Công chứng viên kiểm tra và thấy đất này chưa được thu hồi sau 03 năm kể từ ngày ghi trong kế hoạch. Hướng xử lý nào đúng nhất?",
+    "a": "Từ chối vì đất đang trong kế hoạch thu hồi",
+    "b": "Công chứng bình thường vì sau 02 năm nếu không thu hồi thì quyền sử dụng đất không bị hạn chế",
+    "c": "Yêu cầu chủ đất làm đơn xin xác nhận không còn quy hoạch mới công chứng",
+    "d": "Chỉ công chứng nếu có sự bảo lãnh của ngân hàng",
+    "answer": "b",
+    "explanation": "Theo Khoản 7 Điều 76 Luật Đất đai 2024, sau 02 năm liên tục không thực hiện thu hồi mà không có điều chỉnh thì quyền của người sử dụng đất được khôi phục hoàn toàn."
+  },
+  {
+    "question": "Công ty X thực hiện dự án đầu tư nhà ở thương mại đã có quyết định đầu tư, đất đã nằm trong kế hoạch sử dụng đất hằng năm cấp huyện. Người dân muốn chuyển nhượng đất này cho Công ty X. Công chứng viên cần lưu ý điều gì?",
+    "a": "Chỉ cần kiểm tra giấy chứng nhận quyền sử dụng đất",
+    "b": "Phải yêu cầu Công ty X cung cấp quyết định giao đất hoặc cho phép chuyển mục đích sử dụng đất phù hợp với dự án",
+    "c": "Không cần kiểm tra gì vì đã có trong kế hoạch sử dụng đất",
+    "d": "Từ chối vì đất nằm trong kế hoạch thu hồi thì người dân không được bán",
+    "answer": "b",
+    "explanation": "Ngoài việc kiểm tra kế hoạch, Công chứng viên phải đối chiếu với quyết định phê duyệt dự án để đảm bảo việc chuyển nhượng đúng mục đích và đối tượng."
+  },
+  {
+    "question": "Ông H là chủ đất, trên đất có một nhà xưởng cũ. Đất nằm trong kế hoạch sử dụng đất năm 2026. Ông H muốn sửa chữa thay thế toàn bộ mái tôn và xây thêm một vách ngăn bằng tường gạch. Công chứng viên tư vấn thế nào?",
+    "a": "Được làm thoải mái vì nhà xưởng đã hiện hữu",
+    "b": "Cảnh báo ông H đây là hành vi cải tạo làm thay đổi kết cấu công trình, có thể bị coi là xây mới vi phạm Khoản 6 Điều 76",
+    "c": "Được phép vì đây là sửa chữa nhỏ",
+    "d": "Từ chối công chứng hợp đồng nếu ông H cố tình xây dựng",
+    "answer": "b",
+    "explanation": "Việc cải tạo làm thay đổi kết cấu chính của công trình trên đất đã có kế hoạch thu hồi dễ bị cơ quan chức năng quy kết là vi phạm, ảnh hưởng đến quyền lợi bồi thường sau này."
+  },
+  {
+    "question": "Một thửa đất nông nghiệp nằm trong quy hoạch đất phi nông nghiệp, nhưng tại thời điểm công chứng chưa có quyết định thu hồi và chưa có kế hoạch sử dụng đất hằng năm cấp huyện. Bên mua lo ngại sau này đất bị thu hồi sẽ bị mất tiền. Công chứng viên giải thích thế nào?",
+    "a": "Khuyên bên mua không nên mua vì rủi ro cao",
+    "b": "Giải thích rõ tình trạng pháp lý: hiện tại đất vẫn sử dụng ổn định, mọi quyền giao dịch được thực hiện bình thường cho đến khi có kế hoạch sử dụng đất hằng năm cấp huyện",
+    "c": "Từ chối công chứng để tránh rủi ro cho khách hàng",
+    "d": "Yêu cầu bên bán giảm giá để bù đắp rủi ro",
+    "answer": "b",
+    "explanation": "Công chứng viên cần giải thích dựa trên quy định về trạng thái 'quy hoạch' (định hướng) và 'kế hoạch' (thực hiện) để khách hàng tự quyết định."
+  },
+  {
+    "question": "UBND cấp tỉnh chậm trễ trong việc công bố kết quả rà soát kế hoạch sử dụng đất hằng năm cấp huyện theo quy định hằng năm. Công chứng viên nhận thấy các thửa đất trong khu vực này đang được người dân giao dịch nhộn nhịp. Công chứng viên nên làm gì?",
+    "a": "Dừng công chứng tất cả các thửa đất trong khu vực này",
+    "b": "Công chứng bình thường vì sự chậm trễ của cơ quan nhà nước không làm hạn chế quyền của người dân",
+    "c": "Chỉ công chứng nếu có xác nhận của phòng Tài nguyên và Môi trường",
+    "d": "Yêu cầu người dân nộp đơn kiện UBND tỉnh",
+    "answer": "b",
+    "explanation": "Việc cơ quan nhà nước chậm trễ công bố không thể là căn cứ để Công chứng viên hạn chế quyền giao dịch hợp pháp của người dân."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, trường hợp nào thuộc thu hồi đất vì mục đích quốc phòng, an ninh?",
+    "a": "Xây dựng khu du lịch sinh thái kết hợp quốc phòng",
+    "b": "Xây dựng căn cứ quân sự, công trình phòng thủ",
+    "c": "Xây dựng khu nghỉ dưỡng cho cán bộ quân đội",
+    "d": "Xây dựng trung tâm thương mại phục vụ lực lượng vũ trang",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 78 Luật Đất đai 2024 quy định cụ thể về xây dựng căn cứ quân sự, công trình phòng thủ."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, trường hợp nào thuộc thu hồi đất vì mục đích quốc phòng, an ninh?",
+    "a": "Xây dựng nhà ở công vụ của lực lượng vũ trang nhân dân",
+    "b": "Xây dựng nhà khách phục vụ các đơn vị quân đội",
+    "c": "Xây dựng khu gia binh thương mại",
+    "d": "Xây dựng khu trưng bày lịch sử quân đội tư nhân",
+    "answer": "a",
+    "explanation": "Khoản 9 Điều 78 Luật Đất đai 2024 quy định thu hồi đất để làm nhà ở công vụ của lực lượng vũ trang nhân dân."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, dự án nào thuộc trường hợp thu hồi đất để phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng?",
+    "a": "Dự án biệt thự nghỉ dưỡng cao cấp",
+    "b": "Xây dựng đường ô tô cao tốc, đường trục chính đô thị",
+    "c": "Dự án sân golf kết hợp nhà ở thương mại",
+    "d": "Dự án siêu thị tư nhân có vốn nước ngoài",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 79 Luật Đất đai 2024 quy định xây dựng công trình giao thông trọng điểm thuộc trường hợp thu hồi."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, dự án nào sau đây thuộc trường hợp thu hồi đất vì lợi ích quốc gia, công cộng?",
+    "a": "Xây dựng chợ dân sinh, chợ đầu mối theo quy hoạch",
+    "b": "Xây dựng trung tâm thương mại tư nhân",
+    "c": "Xây dựng văn phòng làm việc cho các tập đoàn",
+    "d": "Xây dựng cửa hàng tiện lợi tại khu dân cư",
+    "answer": "a",
+    "explanation": "Khoản 8 Điều 79 Luật Đất đai 2024 quy định xây dựng chợ dân sinh, chợ đầu mối thuộc trường hợp thu hồi."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, trường hợp nào thuộc thu hồi đất để phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng?",
+    "a": "Xây dựng công viên, khu vui chơi giải trí công cộng",
+    "b": "Xây dựng khu tổ hợp thể thao tư nhân",
+    "c": "Xây dựng sân vận động phục vụ kinh doanh",
+    "d": "Xây dựng showroom giới thiệu sản phẩm",
+    "answer": "a",
+    "explanation": "Khoản 11 Điều 79 Luật Đất đai 2024 quy định xây dựng công viên, khu vui chơi giải trí công cộng."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, căn cứ bắt buộc để thu hồi đất vì mục đích quốc phòng, an ninh hoặc phát triển kinh tế - xã hội là gì?",
+    "a": "Được sự đồng ý của đa số người dân có đất thu hồi",
+    "b": "Dự án đã được phê duyệt trong kế hoạch sử dụng đất hằng năm cấp huyện",
+    "c": "Chủ đầu tư đã thỏa thuận xong với 80% người dân",
+    "d": "Được UBND cấp xã xác nhận tính cấp thiết",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 80 Luật Đất đai 2024 quy định căn cứ phải là kế hoạch sử dụng đất hằng năm cấp huyện đã được phê duyệt."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, điều kiện cốt lõi để ban hành quyết định thu hồi đất là gì?",
+    "a": "Đã hoàn thành việc đo đạc địa chính chi tiết",
+    "b": "Đã phê duyệt phương án bồi thường, hỗ trợ, tái định cư",
+    "c": "Đã thực hiện kiểm kê tài sản trên đất",
+    "d": "Đã thông báo thu hồi đất quá 06 tháng",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 80 Luật Đất đai 2024 quy định phải hoàn thành phê duyệt phương án bồi thường, hỗ trợ, tái định cư trước khi thu hồi."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, sử dụng đất không đúng mục đích bị thu hồi đất khi nào?",
+    "a": "Khi người sử dụng đất tự ý chuyển mục đích dù chưa bị xử phạt",
+    "b": "Khi bị phát hiện vi phạm lần đầu",
+    "c": "Khi đã bị xử phạt vi phạm hành chính mà vẫn tiếp tục vi phạm",
+    "d": "Khi có yêu cầu của thanh tra đất đai",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 81 Luật Đất đai 2024 quy định phải đã bị xử phạt hành chính mà vẫn tiếp tục vi phạm mới bị thu hồi."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, đất trồng cây hằng năm không sử dụng liên tục bao lâu thì có thể bị thu hồi?",
+    "a": "06 tháng",
+    "b": "12 tháng",
+    "c": "18 tháng",
+    "d": "24 tháng",
+    "answer": "b",
+    "explanation": "Khoản 7 Điều 81 Luật Đất đai 2024 quy định thời hạn là 12 tháng liên tục."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, đất trồng cây lâu năm không sử dụng liên tục bao lâu thì có thể bị thu hồi?",
+    "a": "12 tháng",
+    "b": "18 tháng",
+    "c": "24 tháng",
+    "d": "36 tháng",
+    "answer": "b",
+    "explanation": "Khoản 7 Điều 81 Luật Đất đai 2024 quy định thời hạn là 18 tháng liên tục."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, đất trồng rừng không sử dụng liên tục bao lâu thì có thể bị thu hồi?",
+    "a": "12 tháng",
+    "b": "18 tháng",
+    "c": "24 tháng",
+    "d": "36 tháng",
+    "answer": "c",
+    "explanation": "Khoản 7 Điều 81 Luật Đất đai 2024 quy định thời hạn là 24 tháng liên tục."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, dự án đầu tư chậm tiến độ bao lâu so với tiến độ trong dự án thì thuộc trường hợp bị xem xét thu hồi?",
+    "a": "12 tháng",
+    "b": "18 tháng",
+    "c": "24 tháng",
+    "d": "36 tháng",
+    "answer": "c",
+    "explanation": "Khoản 8 Điều 81 Luật Đất đai 2024 quy định thời hạn chậm trễ là 24 tháng."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, cá nhân sử dụng đất chết mà không có người thừa kế thì bị thu hồi theo hình thức nào?",
+    "a": "Thu hồi do vi phạm pháp luật",
+    "b": "Thu hồi do chấm dứt sử dụng đất theo pháp luật",
+    "c": "Thu hồi do dự án phát triển kinh tế",
+    "d": "Không bị thu hồi mà nhà nước quản lý",
+    "answer": "b",
+    "explanation": "Điểm b khoản 1 Điều 82 Luật Đất đai 2024 quy định đây là trường hợp chấm dứt việc sử dụng đất theo pháp luật."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024 Ai có thẩm quyền quyết định thu hồi đất đối với hộ gia đình, cá nhân ?",
+    "a": "Chủ tịch UBND cấp huyện",
+    "b": "UBND cấp huyện",
+    "c": "Chủ tịch UBND cấp tỉnh",
+    "d": "UBND cấp tỉnh",
+    "answer": "b",
+    "explanation": "Điểm b khoản 2 Điều 83 Luật Đất đai 2024 quy định thẩm quyền thuộc về UBND cấp huyện."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, thời hạn thông báo thu hồi đất đối với đất nông nghiệp là bao lâu?",
+    "a": "30 ngày trước khi thu hồi",
+    "b": "60 ngày trước khi thu hồi",
+    "c": "90 ngày trước khi thu hồi",
+    "d": "180 ngày trước khi thu hồi",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 85 Luật Đất đai 2024 quy định thông báo chậm nhất là 90 ngày."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, thời hạn thông báo thu hồi đất đối với đất phi nông nghiệp là bao lâu?",
+    "a": "90 ngày trước khi thu hồi",
+    "b": "120 ngày trước khi thu hồi",
+    "c": "150 ngày trước khi thu hồi",
+    "d": "180 ngày trước khi thu hồi",
+    "answer": "d",
+    "explanation": "Khoản 1 Điều 85 Luật Đất đai 2024 quy định thông báo chậm nhất là 180 ngày."
+  },
+  {
+    "question": "Hiệu lực của thông báo thu hồi đất theo Luật Đất đai 2024 là bao lâu?",
+    "a": "06 tháng",
+    "b": "12 tháng",
+    "c": "18 tháng",
+    "d": "24 tháng",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 85 Luật Đất đai 2024 quy định thông báo có hiệu lực trong 12 tháng."
+  },
+  {
+    "question": "Cơ quan nào có trách nhiệm chỉ đạo thực hiện bồi thường, hỗ trợ, tái định cư?",
+    "a": "Chủ tịch UBND cấp huyện",
+    "b": "UBND cấp huyện",
+    "c": "Sở Tài nguyên và Môi trường",
+    "d": "Hội đồng bồi thường cấp tỉnh",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 86 Luật Đất đai 2024 giao trách nhiệm này cho UBND cấp huyện."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024 Thời gian vận động, thuyết phục người dân kiểm đếm là bao lâu?",
+    "a": "05 ngày",
+    "b": "10 ngày",
+    "c": "15 ngày",
+    "d": "30 ngày",
+    "answer": "c",
+    "explanation": "Điểm đ khoản 2 Điều 87 Luật Đất đai 2024 quy định thời gian là 15 ngày."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024 Ai có thẩm quyền ban hành quyết định kiểm đếm bắt buộc?",
+    "a": "Chủ tịch UBND cấp xã",
+    "b": "Chủ tịch UBND cấp huyện",
+    "c": "UBND cấp huyện",
+    "d": "Giám đốc Trung tâm phát triển quỹ đất",
+    "answer": "b",
+    "explanation": "Điểm đ khoản 2 Điều 87 Luật Đất đai 2024 quy định thẩm quyền thuộc Chủ tịch UBND cấp huyện."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024 Thời hạn niêm yết công khai phương án bồi thường, hỗ trợ, tái định cư là bao lâu?",
+    "a": "15 ngày",
+    "b": "30 ngày",
+    "c": "45 ngày",
+    "d": "60 ngày",
+    "answer": "b",
+    "explanation": "Điểm a khoản 3 Điều 87 Luật Đất đai 2024 quy định thời hạn 30 ngày."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024 Thời hạn tổ chức đối thoại nếu còn ý kiến không đồng ý với phương án bồi thường là bao lâu?",
+    "a": "30 ngày kể từ ngày kết thúc niêm yết",
+    "b": "45 ngày kể từ ngày kết thúc niêm yết",
+    "c": "60 ngày kể từ ngày kết thúc niêm yết",
+    "d": "90 ngày kể từ ngày kết thúc niêm yết",
+    "answer": "c",
+    "explanation": "Điểm a khoản 3 Điều 87 Luật Đất đai 2024 quy định thời hạn đối thoại là 60 ngày."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024 Quyết định thu hồi đất phải được ban hành trong bao lâu kể từ ngày đủ điều kiện theo quy định tại Điều 87?",
+    "a": "05 ngày",
+    "b": "10 ngày",
+    "c": "15 ngày",
+    "d": "30 ngày",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 87 Luật Đất đai 2024 quy định thời hạn ban hành quyết định là 10 ngày."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024 Cưỡng chế thu hồi đất KHÔNG được thực hiện trong khoảng thời gian nào?",
+    "a": "Ngoài giờ hành chính",
+    "b": "Từ 22 giờ hôm trước đến 06 giờ sáng hôm sau",
+    "c": "Ngày nghỉ, ngày lễ",
+    "d": "Sau 18 giờ chiều",
+    "answer": "b",
+    "explanation": "Điểm b khoản 1 Điều 89 Luật Đất đai 2024 cấm cưỡng chế từ 10 giờ đêm (22h) đến 06 giờ sáng."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024 Ai có thẩm quyền ban hành quyết định cưỡng chế thu hồi đất?",
+    "a": "Chủ tịch UBND cấp xã",
+    "b": "Chủ tịch UBND cấp huyện",
+    "c": "UBND cấp huyện",
+    "d": "Cơ quan công an cấp huyện",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 89 Luật Đất đai 2024 quy định thẩm quyền thuộc Chủ tịch UBND cấp huyện."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024 Thời hạn trưng dụng đất tối đa theo Luật Đất đai 2024 là bao lâu?",
+    "a": "15 ngày",
+    "b": "30 ngày",
+    "c": "45 ngày",
+    "d": "60 ngày",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 90 Luật Đất đai 2024 quy định thời hạn trưng dụng không quá 30 ngày."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024 Khi hết thời hạn trưng dụng đất mà mục đích chưa hoàn thành, thời gian gia hạn tối đa là bao lâu?",
+    "a": "15 ngày",
+    "b": "30 ngày",
+    "c": "45 ngày",
+    "d": "60 ngày",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 90 Luật Đất đai 2024 quy định được gia hạn không quá 30 ngày."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024 Trong trường hợp khẩn cấp ra quyết định trưng dụng đất bằng lời nói, phải xác nhận bằng văn bản trong bao lâu?",
+    "a": "12 giờ",
+    "b": "24 giờ",
+    "c": "48 giờ",
+    "d": "72 giờ",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 90 Luật Đất đai 2024 quy định thời hạn xác nhận là 48 giờ."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024 Tiền bồi thường thiệt hại do trưng dụng đất được chi trả trong thời hạn bao lâu kể từ ngày hoàn trả đất?",
+    "a": "15 ngày",
+    "b": "30 ngày",
+    "c": "45 ngày",
+    "d": "60 ngày",
+    "answer": "b",
+    "explanation": "Điểm đ khoản 7 Điều 90 Luật Đất đai 2024 quy định thời hạn không quá 30 ngày."
+  },
+  {
     "question": "Theo Luật Đất đai 2024, hợp đồng nào sau đây bắt buộc phải được công chứng hoặc chứng thực?",
     "a": "Hợp đồng cho thuê lại quyền sử dụng đất",
     "b": "Hợp đồng chuyển đổi quyền sử dụng đất nông nghiệp",
