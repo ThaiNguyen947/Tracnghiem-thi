@@ -1,5 +1,491 @@
 [
      {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, phạm vi điều chỉnh của Nghị định bao gồm nội dung nào sau đây?",
+    "a": "Quy định về trình tự, thủ tục đăng ký, cung cấp thông tin về biện pháp bảo đảm bằng tài sản và quản lý nhà nước về hoạt động này",
+    "b": "Quy định về điều kiện để các bên được xác lập hợp đồng bảo đảm",
+    "c": "Quy định về việc xử lý tài sản bảo đảm khi bên bảo đảm vi phạm nghĩa vụ",
+    "d": "Quy định về trình tự, thủ tục thi hành án đối với tài sản bảo đảm",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 1 Nghị định 99/2022/NĐ-CP quy định Nghị định này quy định về trình tự, thủ tục đăng ký, cung cấp thông tin về biện pháp bảo đảm và quản lý nhà nước về đăng ký biện pháp bảo đảm."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, ‘đăng ký biện pháp bảo đảm’ được hiểu là gì?",
+    "a": "Việc cơ quan đăng ký xác nhận hợp đồng bảo đảm đã được công chứng",
+    "b": "Việc các bên thỏa thuận về nội dung biện pháp bảo đảm trong hợp đồng",
+    "c": "Việc cơ quan đăng ký ghi, cập nhật vào Sổ đăng ký hoặc Cơ sở dữ liệu về biện pháp bảo đảm",
+    "d": "Việc bên nhận bảo đảm thông báo về việc xác lập biện pháp bảo đảm với cơ quan nhà nước",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 3 Nghị định 99/2022/NĐ-CP quy định đăng ký biện pháp bảo đảm là việc cơ quan đăng ký ghi, cập nhật vào Sổ đăng ký hoặc Cơ sở dữ liệu về biện pháp bảo đảm."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, trường hợp nào sau đây thuộc trường hợp đăng ký biện pháp bảo đảm?",
+    "a": "Đăng ký xác lập quyền sở hữu tài sản cho bên mua trong hợp đồng mua bán",
+    "b": "Đăng ký thế chấp tài sản, cầm cố tài sản, bảo lưu quyền sở hữu theo quy định",
+    "c": "Đăng ký biến động quyền sử dụng đất không liên quan đến biện pháp bảo đảm",
+    "d": "Đăng ký thay đổi thông tin chủ sở hữu tài sản tại cơ quan quản lý chuyên ngành",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 4 Nghị định 99/2022/NĐ-CP quy định các trường hợp đăng ký bao gồm thế chấp tài sản, cầm cố tài sản, bảo lưu quyền sở hữu theo Bộ luật Dân sự và luật khác liên quan."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, nguyên tắc nào sau đây là đúng khi đăng ký biện pháp bảo đảm?",
+    "a": "Cơ quan đăng ký có quyền yêu cầu người yêu cầu cung cấp thêm các giấy tờ không thuộc danh mục quy định",
+    "b": "Người yêu cầu đăng ký phải kê khai trung thực và chịu trách nhiệm về tính chính xác của thông tin kê khai",
+    "c": "Cơ quan đăng ký có trách nhiệm kiểm tra tính hợp pháp của toàn bộ nội dung hợp đồng bảo đảm",
+    "d": "Việc đăng ký được thực hiện miễn phí đối với mọi đối tượng và mọi loại tài sản",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 5 Nghị định 99/2022/NĐ-CP quy định người yêu cầu đăng ký phải kê khai trung thực và chịu trách nhiệm về tính chính xác của thông tin kê khai."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, thời điểm có hiệu lực của việc đăng ký biện pháp bảo đảm đối với quyền sử dụng đất là khi nào?",
+    "a": "Thời điểm hợp đồng thế chấp được công chứng, chứng thực",
+    "b": "Thời điểm cơ quan đăng ký nhận hồ sơ hợp lệ từ người yêu cầu",
+    "c": "Thời điểm cơ quan đăng ký ghi, cập nhật nội dung vào Sổ địa chính",
+    "d": "Thời điểm cơ quan đăng ký ký văn bản chấp thuận đăng ký",
+    "answer": "c",
+    "explanation": "Điểm a khoản 1 Điều 6 Nghị định 99/2022/NĐ-CP quy định thời điểm có hiệu lực là thời điểm cơ quan đăng ký ghi, cập nhật nội dung vào Sổ địa chính đối với quyền sử dụng đất."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, cơ quan nào có thẩm quyền đăng ký biện pháp bảo đảm bằng động sản là tài sản hình thành trong tương lai (không thuộc tàu bay, tàu biển)?",
+    "a": "Trung tâm Đăng ký giao dịch, tài sản thuộc Cục Đăng ký quốc gia giao dịch bảo đảm (Bộ Tư pháp)",
+    "b": "Ủy ban nhân dân cấp xã nơi bên bảo đảm cư trú",
+    "c": "Tòa án nhân dân cấp huyện nơi có tài sản",
+    "d": "Văn phòng công chứng thực hiện công chứng hợp đồng bảo đảm đó",
+    "answer": "a",
+    "explanation": "Khoản 5 Điều 10 Nghị định 99/2022/NĐ-CP quy định Trung tâm Đăng ký giao dịch, tài sản thực hiện đăng ký đối với động sản không phải tàu bay, tàu biển, chứng khoán đã đăng ký tập trung."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, chủ thể nào sau đây là người yêu cầu đăng ký biện pháp bảo đảm?",
+    "a": "Chỉ bên bảo đảm",
+    "b": "Chỉ bên nhận bảo đảm",
+    "c": "Bên bảo đảm, bên nhận bảo đảm hoặc người được ủy quyền",
+    "d": "Cơ quan thi hành án dân sự hoặc Chấp hành viên",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 8 Nghị định 99/2022/NĐ-CP quy định người yêu cầu đăng ký bao gồm bên bảo đảm, bên nhận bảo đảm hoặc người được các bên ủy quyền."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, Cơ sở dữ liệu về biện pháp bảo đảm được hiểu là gì?",
+    "a": "Tập hợp hồ sơ giấy do Văn phòng công chứng lưu giữ",
+    "b": "Tập hợp dữ liệu về biện pháp bảo đảm đã đăng ký, được tổ chức để truy cập và quản lý bằng phương tiện điện tử",
+    "c": "Sổ theo dõi hợp đồng thế chấp tại các chi nhánh ngân hàng",
+    "d": "Hệ thống lưu trữ bản gốc các hợp đồng bảo đảm tại Tòa án nhân dân",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 3 Nghị định 99/2022/NĐ-CP quy định Cơ sở dữ liệu về biện pháp bảo đảm là tập hợp dữ liệu về biện pháp bảo đảm đã được đăng ký, được sắp xếp, tổ chức để truy cập, khai thác, quản lý bằng phương tiện điện tử."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, thế nào là hồ sơ đăng ký hợp lệ?",
+    "a": "Là hồ sơ chỉ cần có hợp đồng bảo đảm đã được công chứng",
+    "b": "Là hồ sơ có Phiếu yêu cầu đăng ký và các giấy tờ theo quy định của Nghị định",
+    "c": "Là hồ sơ có xác nhận của Ủy ban nhân dân cấp xã nơi tài sản tọa lạc",
+    "d": "Là hồ sơ có bản sao chứng thực giấy tờ tùy thân của các bên",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 3 Nghị định 99/2022/NĐ-CP quy định hồ sơ đăng ký hợp lệ là hồ sơ có đầy đủ Phiếu yêu cầu đăng ký hợp lệ và giấy tờ khác thuộc thành phần hồ sơ theo quy định."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, nguyên tắc nào sau đây là đúng về nghĩa vụ của cơ quan đăng ký?",
+    "a": "Có quyền yêu cầu người yêu cầu nộp thêm giấy tờ ngoài quy định nếu thấy cần thiết",
+    "b": "Có quyền yêu cầu chỉnh sửa nội dung hợp đồng bảo đảm cho phù hợp thực tế",
+    "c": "Không được yêu cầu thêm giấy tờ hoặc thông tin ngoài quy định của Nghị định",
+    "d": "Có quyền từ chối đăng ký nếu chưa nhận được phí dịch vụ",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 5 Nghị định 99/2022/NĐ-CP quy định cơ quan đăng ký không được yêu cầu thêm giấy tờ hoặc thông tin ngoài quy định của Nghị định."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, việc đăng ký thay đổi có làm thay đổi thời điểm có hiệu lực của đăng ký không?",
+    "a": "Có, luôn làm thay đổi thời điểm hiệu lực của đăng ký cũ",
+    "b": "Không, trừ trường hợp bổ sung tài sản hoặc nghĩa vụ bảo đảm theo quy định",
+    "c": "Luôn làm mất hiệu lực của đăng ký cũ và xác lập hiệu lực mới",
+    "d": "Chỉ làm thay đổi khi có sự đồng ý của Tòa án",
+    "answer": "b",
+    "explanation": "Điểm c khoản 1 Điều 6 Nghị định 99/2022/NĐ-CP quy định việc đăng ký thay đổi không làm thay đổi thời điểm có hiệu lực, trừ một số trường hợp như bổ sung tài sản hoặc nghĩa vụ bảo đảm."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, thời điểm có hiệu lực của đăng ký đối với động sản không phải tàu bay, tàu biển là khi nào?",
+    "a": "Khi các bên ký kết hợp đồng bảo đảm",
+    "b": "Khi hợp đồng bảo đảm được công chứng, chứng thực",
+    "c": "Khi nội dung đăng ký được cập nhật vào Cơ sở dữ liệu",
+    "d": "Khi ngân hàng thực hiện giải ngân vốn cho bên bảo đảm",
+    "answer": "c",
+    "explanation": "Điểm a khoản 1 Điều 6 Nghị định 99/2022/NĐ-CP quy định đối với động sản không phải tàu bay, tàu biển thì thời điểm có hiệu lực là khi nội dung đăng ký được cập nhật vào Cơ sở dữ liệu."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, thời hạn giải quyết hồ sơ đăng ký biện pháp bảo đảm là bao lâu?",
+    "a": "Trong ngày làm việc tiếp theo kể từ ngày nhận hồ sơ hợp lệ",
+    "b": "Trong vòng 03 ngày làm việc kể từ ngày nhận hồ sơ",
+    "c": "Trong vòng 05 ngày làm việc kể từ ngày nhận hồ sơ",
+    "d": "Trong vòng 07 ngày làm việc kể từ ngày nhận hồ sơ",
+    "answer": "a",
+    "explanation": "Điều 16 Nghị định 99/2022/NĐ-CP quy định thời hạn giải quyết là trong ngày làm việc tiếp theo kể từ ngày nhận hồ sơ hợp lệ."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, chi nhánh của pháp nhân được đứng tên người yêu cầu đăng ký khi nào?",
+    "a": "Khi được pháp nhân giao nhiệm vụ hoặc ủy quyền theo quy định",
+    "b": "Khi chi nhánh có con dấu riêng và tự chủ về tài chính",
+    "c": "Khi có sự đồng ý bằng văn bản của bên nhận bảo đảm",
+    "d": "Khi pháp nhân mẹ đang trong tình trạng phá sản",
+    "answer": "a",
+    "explanation": "Khoản 8 Điều 8 Nghị định 99/2022/NĐ-CP quy định chi nhánh của pháp nhân được đứng tên người yêu cầu đăng ký khi được pháp nhân giao nhiệm vụ hoặc ủy quyền theo quy định."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, cơ quan nào có thẩm quyền đăng ký biện pháp bảo đảm bằng tàu bay?",
+    "a": "Bộ Tư pháp",
+    "b": "Cục Hàng không Việt Nam",
+    "c": "Cục Đăng ký quốc gia giao dịch bảo đảm",
+    "d": "Văn phòng đăng ký đất đai",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 10 Nghị định 99/2022/NĐ-CP quy định Cục Hàng không Việt Nam thực hiện đăng ký biện pháp bảo đảm bằng tàu bay."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, cơ quan đăng ký có nhiệm vụ nào sau đây?",
+    "a": "Soạn thảo hoặc chỉnh sửa nội dung hợp đồng bảo đảm cho các bên",
+    "b": "Từ chối đăng ký đối với mọi trường hợp tài sản có tranh chấp",
+    "c": "Cung cấp thông tin về biện pháp bảo đảm theo yêu cầu của tổ chức, cá nhân",
+    "d": "Tư vấn pháp luật cho các bên về việc xử lý tài sản bảo đảm",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 11 Nghị định 99/2022/NĐ-CP quy định cơ quan đăng ký có nhiệm vụ cung cấp thông tin về biện pháp bảo đảm."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, cơ quan đăng ký chỉ được từ chối đăng ký trong trường hợp nào?",
+    "a": "Khi người yêu cầu không nộp phí đăng ký đúng thời hạn",
+    "b": "Khi có căn cứ theo quy định tại Điều 15 và Điều 51 của Nghị định",
+    "c": "Khi thấy hợp đồng bảo đảm có các điều khoản không thuận lợi cho bên bảo đảm",
+    "d": "Khi tài sản bảo đảm có giá trị thấp hơn nghĩa vụ bảo đảm",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 11 Nghị định 99/2022/NĐ-CP quy định cơ quan đăng ký chỉ được từ chối đăng ký khi có căn cứ theo Điều 15 và Điều 51 của Nghị định."
+  },
+  {
+    "question": "Tình huống: Công ty ABC (trụ sở tại Quận 1, TP.HCM) thế chấp Quyền sử dụng đất tại Quận 7 cho Ngân hàng XYZ. Theo Nghị định 99/2022/NĐ-CP, cơ quan nào có thẩm quyền đăng ký?",
+    "a": "Trung tâm Đăng ký giao dịch, tài sản thuộc Bộ Tư pháp",
+    "b": "Văn phòng đăng ký đất đai TP.HCM (hoặc chi nhánh)",
+    "c": "Ủy ban nhân dân Quận 7",
+    "d": "Tòa án nhân dân Quận 7",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 10 Nghị định 99/2022/NĐ-CP, Văn phòng đăng ký đất đai là cơ quan thực hiện đăng ký đối với quyền sử dụng đất."
+  },
+  {
+    "question": "Tình huống: Công ty ABC thế chấp dàn máy móc thiết bị (động sản) cho Ngân hàng XYZ. Theo Nghị định 99/2022/NĐ-CP, cơ quan nào có thẩm quyền đăng ký?",
+    "a": "Trung tâm Đăng ký giao dịch, tài sản thuộc Bộ Tư pháp",
+    "b": "Sở Công Thương tỉnh Bình Dương",
+    "c": "Văn phòng đăng ký đất đai TP.HCM",
+    "d": "Phòng Tài nguyên và Môi trường Quận 1",
+    "answer": "a",
+    "explanation": "Theo khoản 5 Điều 10 Nghị định 99/2022/NĐ-CP, Trung tâm Đăng ký giao dịch, tài sản (thuộc Cục Đăng ký quốc gia giao dịch bảo đảm, Bộ Tư pháp) thực hiện đăng ký đối với động sản không phải tàu bay, tàu biển."
+  },
+  {
+    "question": "Tình huống: Chi nhánh của Công ty ABC muốn đứng tên người yêu cầu đăng ký thế chấp cho dàn máy móc. Theo Nghị định 99/2022/NĐ-CP, việc này có được phép không?",
+    "a": "Không được phép, bắt buộc phải là trụ sở chính của pháp nhân",
+    "b": "Được phép, nếu được Công ty ABC (trụ sở chính) giao nhiệm vụ hoặc ủy quyền theo quy định",
+    "c": "Được phép, chi nhánh có quyền tự quyết mọi giao dịch bảo đảm",
+    "d": "Chỉ được phép nếu dàn máy móc đó đặt tại địa bàn chi nhánh quản lý",
+    "answer": "b",
+    "explanation": "Theo khoản 8 Điều 8 Nghị định 99/2022/NĐ-CP, chi nhánh của pháp nhân được đứng tên người yêu cầu đăng ký khi được pháp nhân giao nhiệm vụ hoặc ủy quyền theo quy định."
+  },
+  {
+    "question": "Tình huống: Ngân hàng XYZ nộp hồ sơ hợp lệ tại cơ quan đăng ký vào sáng thứ Hai. Theo Nghị định 99/2022/NĐ-CP, thời hạn giải quyết đăng ký là khi nào?",
+    "a": "Trong vòng 03 ngày làm việc kể từ ngày nhận hồ sơ",
+    "b": "Trong ngày làm việc tiếp theo kể từ ngày nhận hồ sơ hợp lệ",
+    "c": "Ngay trong ngày làm việc hôm đó",
+    "d": "Trong vòng 05 ngày làm việc kể từ ngày nhận hồ sơ",
+    "answer": "b",
+    "explanation": "Theo Điều 16 Nghị định 99/2022/NĐ-CP, thời hạn giải quyết đăng ký là trong ngày làm việc tiếp theo kể từ ngày cơ quan đăng ký nhận được hồ sơ hợp lệ."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, trường hợp nào sau đây chỉ cần chữ ký của bên nhận bảo đảm khi thực hiện đăng ký?",
+    "a": "Đăng ký thế chấp quyền sử dụng đất",
+    "b": "Đăng ký thay đổi bên bảo đảm",
+    "c": "Đăng ký xóa đăng ký theo yêu cầu của bên nhận bảo đảm",
+    "d": "Đăng ký ban đầu biện pháp bảo đảm",
+    "answer": "c",
+    "explanation": "Điểm e khoản 1 Điều 12 quy định: Xóa đăng ký biện pháp bảo đảm theo yêu cầu của bên nhận bảo đảm thì chỉ cần chữ ký, con dấu (nếu có) của bên nhận bảo đảm."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, cơ quan đăng ký được từ chối đăng ký trong trường hợp nào?",
+    "a": "Hồ sơ có sai sót nhỏ nhưng không ảnh hưởng đến nội dung cốt lõi",
+    "b": "Tài sản đang có tranh chấp và đã có văn bản thụ lý của Tòa án hoặc cơ quan có thẩm quyền",
+    "c": "Người yêu cầu chưa nộp phí đăng ký tại thời điểm nộp hồ sơ",
+    "d": "Hợp đồng bảo đảm không được công chứng mặc dù pháp luật không yêu cầu bắt buộc",
+    "answer": "b",
+    "explanation": "Điểm c khoản 1 Điều 15 quy định: Từ chối đăng ký khi tài sản đang có tranh chấp và đã có văn bản thụ lý của Tòa án hoặc cơ quan có thẩm quyền."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, thời hạn giải quyết hồ sơ đăng ký thông thường là bao lâu?",
+    "a": "Trong ngày làm việc nhận được hồ sơ hợp lệ",
+    "b": "03 ngày làm việc kể từ khi nhận hồ sơ hợp lệ",
+    "c": "05 ngày làm việc kể từ khi nhận hồ sơ hợp lệ",
+    "d": "07 ngày làm việc kể từ khi nhận hồ sơ hợp lệ",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 16 quy định: Cơ quan đăng ký giải quyết trong ngày làm việc nhận được hồ sơ hợp lệ; trường hợp nhận sau 15 giờ thì có thể sang ngày làm việc tiếp theo."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, trường hợp nào sau đây phải thực hiện đăng ký thay đổi?",
+    "a": "Hợp đồng bảo đảm đã được công chứng",
+    "b": "Thay đổi bên bảo đảm hoặc bên nhận bảo đảm do kế thừa hoặc chuyển giao quyền",
+    "c": "Thay đổi tên gọi của tài sản nhưng không ảnh hưởng đến quyền sở hữu",
+    "d": "Thay đổi người soạn thảo hợp đồng bảo đảm",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 18 quy định: Thay đổi bên bảo đảm hoặc bên nhận bảo đảm do kế thừa, chuyển giao quyền là trường hợp phải đăng ký thay đổi."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, trường hợp nào không thực hiện xóa đăng ký mà phải thực hiện đăng ký thay đổi?",
+    "a": "Tài sản bảo đảm bị tiêu hủy hoàn toàn",
+    "b": "Nghĩa vụ bảo đảm đã chấm dứt hoàn toàn",
+    "c": "Tài sản bảo đảm được thay thế bằng tài sản khác theo thỏa thuận",
+    "d": "Hợp đồng bảo đảm bị Tòa án tuyên bố vô hiệu toàn bộ",
+    "answer": "c",
+    "explanation": "Điểm đ khoản 1 Điều 18 và khoản 1 Điều 20 quy định: Nếu có tài sản mới thay thế cho tài sản cũ thì thực hiện đăng ký thay đổi thay vì xóa đăng ký."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, trường hợp nào dẫn đến việc xóa đăng ký biện pháp bảo đảm?",
+    "a": "Khi tài sản tăng giá trị so với thời điểm ký kết hợp đồng",
+    "b": "Khi toàn bộ nghĩa vụ được bảo đảm đã chấm dứt",
+    "c": "Khi các bên muốn thay đổi thời hạn trả nợ trong hợp đồng",
+    "d": "Khi hợp đồng bảo đảm được công chứng lại",
+    "answer": "b",
+    "explanation": "Điểm b khoản 1 Điều 20 quy định: Xóa đăng ký khi toàn bộ nghĩa vụ được bảo đảm đã chấm dứt."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, thời điểm có hiệu lực của đăng ký đối với động sản là khi nào?",
+    "a": "Khi các bên ký kết văn bản hợp đồng bảo đảm",
+    "b": "Khi hợp đồng bảo đảm được công chứng",
+    "c": "Khi nội dung đăng ký được cập nhật vào Cơ sở dữ liệu",
+    "d": "Khi ngân hàng hoàn tất thủ tục giải ngân",
+    "answer": "c",
+    "explanation": "Điểm a khoản 1 Điều 6 quy định: Hiệu lực đối với động sản là thời điểm nội dung đăng ký được cập nhật vào Cơ sở dữ liệu."
+  },
+  {
+    "question": "Đối với các loại tài sản không bắt buộc công chứng, nếu cơ quan đăng ký yêu cầu hợp đồng phải có công chứng mới cho đăng ký, thì hành vi này như thế nào?",
+    "a": "Đúng quy định để đảm bảo an toàn pháp lý",
+    "b": "Là yêu cầu giấy tờ ngoài quy định của Nghị định 99/2022/NĐ-CP",
+    "c": "Đúng với nguyên tắc quản lý tài sản nhà nước",
+    "d": "Là căn cứ hợp pháp để từ chối đăng ký",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 5 quy định cơ quan đăng ký không được yêu cầu thêm giấy tờ hoặc thông tin ngoài quy định; công chứng chỉ bắt buộc khi luật chuyên ngành yêu cầu."
+  },
+  {
+    "question": "Trong hoạt động công chứng, khi soạn thảo văn bản sửa đổi hợp đồng thế chấp (do thay đổi tài sản), mục đích của việc đăng ký thay đổi theo NĐ 99 là gì?",
+    "a": "Để văn bản sửa đổi có hiệu lực pháp lý",
+    "b": "Để cập nhật tình trạng tài sản vào Cơ sở dữ liệu và bảo đảm quyền đối kháng với người thứ ba",
+    "c": "Để được cơ quan nhà nước xác nhận nội dung hợp đồng công chứng",
+    "d": "Để thay đổi chủ thể thực hiện nghĩa vụ bảo đảm",
+    "answer": "b",
+    "explanation": "Đăng ký biện pháp bảo đảm có mục đích cốt lõi là xác lập hiệu lực đối kháng với người thứ ba đối với tài sản bảo đảm."
+  },
+  {
+    "question": "Việc từ chối đăng ký của cơ quan có thẩm quyền phải tuân thủ hình thức nào?",
+    "a": "Phải lập thành văn bản nêu rõ căn cứ từ chối",
+    "b": "Có thể thông báo qua email hoặc tin nhắn điện thoại",
+    "c": "Có thể từ chối bằng lời nói tại bộ phận một cửa",
+    "d": "Không cần thông báo nếu hồ sơ sai sót nghiêm trọng",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 15 quy định: Việc từ chối đăng ký phải được lập thành văn bản, trong đó nêu rõ căn cứ từ chối."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, hồ sơ đăng ký thế chấp quyền sử dụng đất bao gồm thành phần nào sau đây?",
+    "a": "Hợp đồng mua bán đất và biên bản bàn giao",
+    "b": "Phiếu yêu cầu đăng ký và Hợp đồng bảo đảm",
+    "c": "Sổ hộ khẩu và giấy xác nhận cư trú",
+    "d": "Toàn bộ hồ sơ vay vốn tại ngân hàng",
+    "answer": "b",
+    "explanation": "Theo Điều 27 Nghị định 99/2022/NĐ-CP, hồ sơ cơ bản gồm Phiếu yêu cầu đăng ký và Hợp đồng bảo đảm."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, trường hợp nào phải thực hiện đăng ký thay đổi biện pháp bảo đảm?",
+    "a": "Khi bên nhận bảo đảm thay đổi nhân sự quản lý",
+    "b": "Khi có sửa đổi, bổ sung hợp đồng bảo đảm hoặc chuyển giao quyền, nghĩa vụ",
+    "c": "Khi công chứng viên thực hiện công chứng thay đổi",
+    "d": "Khi bên vay đổi địa chỉ thường trú",
+    "answer": "b",
+    "explanation": "Theo Điều 32 Nghị định 99/2022/NĐ-CP, đăng ký thay đổi áp dụng khi có sửa đổi, bổ sung nội dung hợp đồng bảo đảm."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, hồ sơ xóa đăng ký biện pháp bảo đảm bắt buộc có tài liệu nào?",
+    "a": "Chỉ cần Phiếu yêu cầu đăng ký",
+    "b": "Hợp đồng mua bán tài sản",
+    "c": "Biên bản công chứng văn bản chấm dứt hợp đồng",
+    "d": "Giấy ủy quyền của toàn bộ thành viên gia đình",
+    "answer": "a",
+    "explanation": "Theo Điều 33 Nghị định 99/2022/NĐ-CP, hồ sơ xóa đăng ký gồm Phiếu yêu cầu đăng ký và các giấy tờ liên quan (nếu có)."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, khi người yêu cầu xóa đăng ký không phải là bên nhận bảo đảm thì phải có thêm giấy tờ nào?",
+    "a": "Giấy khai sinh của bên vay",
+    "b": "Văn bản đồng ý xóa hoặc xác nhận giải chấp của bên nhận bảo đảm",
+    "c": "Hợp đồng tín dụng mới",
+    "d": "Biên bản họp gia đình",
+    "answer": "b",
+    "explanation": "Theo Điều 33, phải có văn bản đồng ý xóa hoặc xác nhận giải chấp từ bên nhận bảo đảm."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, trong hồ sơ đăng ký thế chấp dự án đầu tư xây dựng nhà ở, giấy tờ nào là bắt buộc (trừ trường hợp được miễn)?",
+    "a": "Giấy phép lái xe của chủ dự án",
+    "b": "Giấy phép xây dựng hoặc quyết định phê duyệt dự án",
+    "c": "Sổ hộ khẩu của các thành viên công ty",
+    "d": "Giấy khai sinh của người đại diện",
+    "answer": "b",
+    "explanation": "Theo Điều 28 Nghị định 99/2022/NĐ-CP, hồ sơ phải có giấy phép xây dựng hoặc quyết định phê duyệt dự án theo luật chuyên ngành."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, đối với tài sản hình thành trong tương lai, pháp luật quy định thế nào?",
+    "a": "Không được đăng ký thế chấp",
+    "b": "Chỉ đăng ký sau khi hoàn thành xây dựng",
+    "c": "Được đăng ký theo quy định riêng tại Nghị định",
+    "d": "Chỉ ngân hàng được phép đăng ký",
+    "answer": "c",
+    "explanation": "Nghị định 99/2022/NĐ-CP quy định cơ chế đăng ký cụ thể đối với tài sản hình thành trong tương lai."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, trường hợp chuyển tiếp từ thế chấp quyền tài sản sang thế chấp nhà ở xử lý như thế nào?",
+    "a": "Không cần làm thủ tục gì thêm",
+    "b": "Xóa đăng ký cũ và đăng ký mới hoặc thực hiện chuyển tiếp đăng ký",
+    "c": "Chỉ cần công chứng lại hợp đồng",
+    "d": "Không được thực hiện",
+    "answer": "b",
+    "explanation": "Theo Điều 26 Nghị định 99/2022/NĐ-CP, có hai phương án: xóa cũ đăng ký mới hoặc chuyển tiếp đăng ký."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, việc đăng ký biện pháp bảo đảm được thực hiện theo nguyên tắc nào?",
+    "a": "Theo yêu cầu ưu tiên của ngân hàng",
+    "b": "Theo thứ tự tiếp nhận hồ sơ hợp lệ",
+    "c": "Theo quyết định của công chứng viên",
+    "d": "Theo sự thỏa thuận của hai bên",
+    "answer": "b",
+    "explanation": "Theo Điều 35 Nghị định 99/2022/NĐ-CP, đăng ký thực hiện theo thứ tự tiếp nhận hồ sơ."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, nếu thông tin Giấy chứng nhận không thống nhất với Phiếu yêu cầu đăng ký thì xử lý ra sao?",
+    "a": "Từ chối đăng ký ngay lập tức",
+    "b": "Yêu cầu công chứng lại hợp đồng",
+    "c": "Đăng ký theo nội dung kê khai trên Phiếu yêu cầu nếu phù hợp pháp luật",
+    "d": "Hủy toàn bộ hồ sơ",
+    "answer": "c",
+    "explanation": "Theo Điều 25, cơ quan đăng ký thực hiện theo nội dung kê khai nếu phù hợp với Giấy chứng nhận và pháp luật."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, công trình tạm gắn liền với đất khi đăng ký biện pháp bảo đảm xử lý thế nào?",
+    "a": "Không được phép đăng ký",
+    "b": "Đăng ký theo quy định riêng tại Nghị định",
+    "c": "Phải chuyển đổi thành tài sản cố định trước",
+    "d": "Chỉ đăng ký tại tòa án",
+    "answer": "b",
+    "explanation": "Theo Điều 25, công trình tạm được đăng ký theo quy định riêng trong Nghị định."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, khi nộp đồng thời hồ sơ đăng ký biến động đất đai và đăng ký thế chấp thì cơ quan đăng ký xử lý ra sao?",
+    "a": "Ưu tiên xử lý hồ sơ đất đai trước",
+    "b": "Ưu tiên xử lý hồ sơ thế chấp trước",
+    "c": "Thực hiện đồng thời theo quy trình pháp luật đất đai và đăng ký biện pháp bảo đảm",
+    "d": "Từ chối nhận hồ sơ cùng lúc",
+    "answer": "c",
+    "explanation": "Theo Điều 35, cơ quan tiếp nhận xử lý đồng thời cả hai thủ tục."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, trường hợp nào thuộc thẩm quyền đăng ký của Cục Hàng không Việt Nam?",
+    "a": "Thế chấp quyền sử dụng đất",
+    "b": "Thế chấp tàu bay",
+    "c": "Thế chấp tàu cá",
+    "d": "Thế chấp chứng khoán",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 38 Nghị định 99/2022/NĐ-CP, Cục Hàng không Việt Nam có thẩm quyền đăng ký thế chấp tàu bay."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, hồ sơ đăng ký biện pháp bảo đảm đối với tàu bay bắt buộc bao gồm tài liệu nào?",
+    "a": "Phiếu yêu cầu và Hợp đồng bảo đảm",
+    "b": "Giấy chứng nhận quyền sử dụng đất",
+    "c": "Biên bản bàn giao tài sản",
+    "d": "Hợp đồng mua bán nhà ở",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 39 Nghị định 99/2022/NĐ-CP quy định hồ sơ gồm Phiếu yêu cầu và hợp đồng bảo đảm."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, sau khi tiếp nhận hồ sơ đăng ký tàu bay hợp lệ, cơ quan đăng ký thực hiện công việc gì?",
+    "a": "Từ chối ngay nếu không có hợp đồng gốc",
+    "b": "Ghi vào Sổ đăng bạ và cấp Giấy chứng nhận đăng ký",
+    "c": "Chuyển hồ sơ sang Tòa án",
+    "d": "Hủy hồ sơ nếu thiếu chứng thực",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 40 Nghị định 99/2022/NĐ-CP quy định cơ quan đăng ký ghi, cập nhật vào Sổ đăng bạ và cấp Giấy chứng nhận đăng ký."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, cơ quan nào có thẩm quyền đăng ký biện pháp bảo đảm đối với tàu biển?",
+    "a": "Cục Hàng không Việt Nam",
+    "b": "Trung tâm đăng ký giao dịch, tài sản",
+    "c": "Cơ quan đăng ký tàu biển Việt Nam",
+    "d": "UBND cấp tỉnh",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 41 Nghị định 99/2022/NĐ-CP quy định Cơ quan đăng ký tàu biển Việt Nam có thẩm quyền."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, hồ sơ xóa đăng ký tàu biển bắt buộc phải có tài liệu nào?",
+    "a": "Phiếu yêu cầu xóa đăng ký",
+    "b": "Hợp đồng bảo hiểm tàu biển",
+    "c": "Giấy phép hoạt động hàng hải",
+    "d": "Giấy đăng ký kinh doanh",
+    "answer": "a",
+    "explanation": "Khoản 3 Điều 42 Nghị định 99/2022/NĐ-CP quy định hồ sơ xóa đăng ký phải có Phiếu yêu cầu theo mẫu."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, trường hợp nào thuộc thẩm quyền đăng ký tại Trung tâm đăng ký giao dịch, tài sản?",
+    "a": "Thế chấp tàu bay",
+    "b": "Thế chấp tàu biển",
+    "c": "Thế chấp động sản",
+    "d": "Thế chấp quyền sử dụng đất",
+    "answer": "c",
+    "explanation": "Điểm a khoản 1 Điều 44 Nghị định 99/2022/NĐ-CP quy định thế chấp động sản thuộc thẩm quyền của Trung tâm."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, khi mô tả tài sản bảo đảm là phương tiện giao thông cơ giới đường bộ, thông tin nào là bắt buộc?",
+    "a": "Số khung phương tiện",
+    "b": "Số sổ hộ khẩu chủ sở hữu",
+    "c": "Giấy khai sinh của chủ xe",
+    "d": "Số tài khoản ngân hàng của chủ xe",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 45 Nghị định 99/2022/NĐ-CP quy định phương tiện giao thông cơ giới đường bộ phải có số khung."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, hồ sơ đăng ký động sản (cây hằng năm, công trình tạm) gồm tài liệu nào?",
+    "a": "Phiếu yêu cầu và Hợp đồng bảo đảm (nếu có)",
+    "b": "Giấy chứng nhận quyền sử dụng đất",
+    "c": "Giấy đăng ký tàu bay",
+    "d": "Giấy phép xây dựng nhà ở",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 46 Nghị định 99/2022/NĐ-CP quy định hồ sơ gồm Phiếu yêu cầu và hợp đồng bảo đảm."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, xử lý đăng ký trùng lặp biện pháp bảo đảm được thực hiện thế nào?",
+    "a": "Giữ tất cả các đăng ký trùng",
+    "b": "Hủy đăng ký theo đề nghị hoặc chủ động hủy trùng lặp",
+    "c": "Chuyển sang Tòa án giải quyết",
+    "d": "Tự động gia hạn đăng ký",
+    "answer": "b",
+    "explanation": "Điều 49 Nghị định 99/2022/NĐ-CP quy định Trung tâm đăng ký có thể hủy đăng ký trùng lặp."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, trường hợp nào cơ quan đăng ký được từ chối cung cấp thông tin?",
+    "a": "Yêu cầu đúng thẩm quyền",
+    "b": "Có nộp phí đầy đủ",
+    "c": "Yêu cầu không đúng thẩm quyền hoặc không nộp phí",
+    "d": "Có hợp đồng bảo đảm hợp lệ",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 51 Nghị định 99/2022/NĐ-CP quy định từ chối nếu sai thẩm quyền hoặc không nộp phí."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, Nghị định có hiệu lực từ thời điểm nào?",
+    "a": "01/01/2022",
+    "b": "15/01/2023",
+    "c": "01/01/2024",
+    "d": "01/07/2023",
+    "answer": "b",
+    "explanation": "Điều 56 Nghị định 99/2022/NĐ-CP quy định Nghị định có hiệu lực từ ngày 15/01/2023."
+  },
+  {
+    "question": "Theo Nghị định 99/2022/NĐ-CP, biện pháp bảo đảm đã đăng ký trước ngày Nghị định có hiệu lực thì xử lý thế nào?",
+    "a": "Phải đăng ký lại toàn bộ",
+    "b": "Không cần đăng ký lại",
+    "c": "Bị hủy toàn bộ",
+    "d": "Chỉ có hiệu lực trong 6 tháng",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 57 Nghị định 99/2022/NĐ-CP quy định không phải đăng ký lại, nhưng các thủ tục thay đổi/xóa thì áp dụng quy định mới."
+  },
+     {
     "question": "Theo Nghị định 21/2021/NĐ-CP, việc thế chấp quyền đòi nợ có cần sự đồng ý của người có nghĩa vụ không?",
     "a": "Bắt buộc phải có sự đồng ý bằng văn bản",
     "b": "Không cần sự đồng ý nhưng phải được thông báo",
