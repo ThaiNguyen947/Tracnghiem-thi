@@ -1,5 +1,275 @@
 [
   {
+    "question": "Ông A có căn nhà trên đất nông nghiệp (xây dựng trái phép trước năm 2014) nằm trong dự án thu hồi đất. Ông A yêu cầu bồi thường 100% giá trị nhà ở và đất ở. Công chứng viên tư vấn thế nào về khả năng bồi thường?",
+    "a": "Được bồi thường 100% vì đã sử dụng ổn định lâu dài",
+    "b": "Chỉ được xem xét hỗ trợ theo quy định của UBND cấp tỉnh về công trình xây dựng trái phép, không được bồi thường về đất ở",
+    "c": "Được bồi thường như nhà ở hợp pháp vì dự án thuộc lợi ích quốc gia",
+    "d": "Không được hỗ trợ bất kỳ khoản nào vì là nhà xây trái phép",
+    "answer": "b",
+    "explanation": "Luật Đất đai 2024 không bồi thường đất ở đối với đất không đủ điều kiện cấp GCN và công trình xây dựng trái phép, chỉ được xem xét hỗ trợ theo chính sách địa phương."
+  },
+  {
+    "question": "Hộ ông B có 02 thửa đất trong cùng một xã: 01 thửa bị thu hồi và 01 thửa còn lại. Ông B muốn nhận bồi thường bằng đất tại chính thửa đất còn lại đó. Chủ đầu tư từ chối. Hướng xử lý nào đúng nhất?",
+    "a": "Chủ đầu tư sai, phải thực hiện theo yêu cầu của ông B",
+    "b": "Việc bồi thường bằng đất phải thực hiện theo quy hoạch, kế hoạch sử dụng đất đã được phê duyệt, không thể tùy tiện hoán đổi",
+    "c": "Ông B có quyền khởi kiện yêu cầu bồi thường tại chỗ",
+    "d": "Công chứng viên có thể làm hợp đồng thỏa thuận hoán đổi này",
+    "answer": "b",
+    "explanation": "Bồi thường bằng đất phải đảm bảo cùng mục đích sử dụng và phù hợp quy hoạch. Việc tự ý thỏa thuận hoán đổi giữa người dân và chủ đầu tư không có giá trị pháp lý nếu không nằm trong phương án được phê duyệt."
+  },
+  {
+    "question": "Một người mua đất sau khi đã có Thông báo thu hồi đất của cơ quan nhà nước nhưng hợp đồng mua bán vẫn được công chứng. Sau khi thu hồi, người này yêu cầu bồi thường. Công chứng viên giải quyết thế nào?",
+    "a": "Người này được bồi thường vì đã có hợp đồng công chứng",
+    "b": "Người này không được bồi thường về tài sản tạo lập sau thông báo thu hồi và có thể đối mặt với rủi ro hợp đồng vô hiệu",
+    "c": "Được bồi thường theo giá thị trường",
+    "d": "Nhà nước phải chịu trách nhiệm bồi thường cho bên mua",
+    "answer": "b",
+    "explanation": "Theo Điều 105, tài sản tạo lập sau thông báo thu hồi không được bồi thường. Hợp đồng mua bán đất đã có thông báo thu hồi thường bị coi là có rủi ro pháp lý cao."
+  },
+  {
+    "question": "Dự án thu hồi đất thực hiện xong việc chi trả bồi thường, nhưng 03 năm sau dự án vẫn chưa triển khai. Người dân yêu cầu trả lại đất hoặc bồi thường thêm chênh lệch giá. Bạn tư vấn gì?",
+    "a": "Dự án quá 24 tháng không triển khai thì phải thu hồi đất dự án và trả lại cho dân",
+    "b": "Người dân chỉ có thể khiếu nại về tiến độ, không có quyền yêu cầu trả lại đất",
+    "c": "Dự án chậm tiến độ 24 tháng theo Điều 81 thì thuộc diện xem xét thu hồi, người dân có thể kiến nghị UBND tỉnh xử lý dự án",
+    "d": "Nhà nước sẽ tự động bồi thường thêm cho người dân",
+    "answer": "c",
+    "explanation": "Chậm tiến độ 24 tháng là căn cứ để xem xét thu hồi đất dự án, người dân có quyền kiến nghị cơ quan chức năng kiểm tra dự án."
+  },
+  {
+    "question": "UBND cấp huyện ra quyết định cưỡng chế thu hồi đất vào 20 giờ ngày thứ Sáu để sáng thứ Bảy thực hiện cưỡng chế. Việc này có đúng luật không?",
+    "a": "Đúng, vì là ngày cuối tuần nên tiến độ nhanh",
+    "b": "Sai, vì cấm cưỡng chế từ 22h đêm đến 06h sáng hôm sau",
+    "c": "Sai, vì không được cưỡng chế vào ngày nghỉ, ngày lễ",
+    "d": "Sai cả về thời điểm ban hành và thời điểm thực hiện",
+    "answer": "d",
+    "explanation": "Mặc dù luật chỉ cấm khung giờ 22h-06h, nhưng thực tế cưỡng chế vào ngày nghỉ (thứ Bảy) là trái với quy trình hành chính thông thường và nguyên tắc bảo vệ quyền lợi người dân."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, nguyên tắc nào phải được bảo đảm khi bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất?",
+    "a": "Chỉ cần bảo đảm đúng thời hạn",
+    "b": "Dân chủ, khách quan, công bằng, công khai, minh bạch, kịp thời và đúng quy định pháp luật",
+    "c": "Ưu tiên lợi ích của nhà đầu tư",
+    "d": "Bảo đảm bí mật thông tin người bị thu hồi đất",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 91 Luật Đất đai 2024 quy định việc bồi thường, hỗ trợ, tái định cư phải bảo đảm dân chủ, khách quan, công bằng, công khai, minh bạch, kịp thời và đúng quy định pháp luật."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, việc bồi thường về đất khi Nhà nước thu hồi đất được ưu tiên thực hiện bằng hình thức nào?",
+    "a": "Bằng tiền theo giá thị trường",
+    "b": "Bằng cổ phần doanh nghiệp",
+    "c": "Giao đất có cùng mục đích sử dụng với loại đất thu hồi",
+    "d": "Bố trí tái định cư",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 91 Luật Đất đai 2024 quy định việc bồi thường về đất được thực hiện bằng việc giao đất có cùng mục đích sử dụng với loại đất thu hồi."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, nếu không có đất để bồi thường thì người bị thu hồi đất được bồi thường bằng gì?",
+    "a": "Nhà ở xã hội",
+    "b": "Tiền theo giá đất cụ thể tại thời điểm phê duyệt phương án",
+    "c": "Đất do người dân tự lựa chọn",
+    "d": "Trái phiếu chính phủ",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 91 Luật Đất đai 2024 quy định trường hợp không có đất để bồi thường thì được bồi thường bằng tiền theo giá đất cụ thể do UBND cấp có thẩm quyền quyết định tại thời điểm phê duyệt phương án."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, việc phê duyệt phương án bồi thường, hỗ trợ, tái định cư phải hoàn thành vào thời điểm nào?",
+    "a": "Sau khi có quyết định thu hồi đất",
+    "b": "Trước khi có quyết định thu hồi đất",
+    "c": "Sau khi cưỡng chế thu hồi đất",
+    "d": "Sau khi bố trí tái định cư",
+    "answer": "b",
+    "explanation": "Khoản 6 Điều 91 Luật Đất đai 2024 quy định việc phê duyệt phương án bồi thường, hỗ trợ, tái định cư và bố trí tái định cư phải hoàn thành trước khi có quyết định thu hồi đất."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, khu tái định cư phải bảo đảm điều kiện nào?",
+    "a": "Chỉ cần có đất ở",
+    "b": "Hoàn thiện hạ tầng kỹ thuật và hạ tầng xã hội đồng bộ",
+    "c": "Chỉ cần phù hợp quy hoạch sử dụng đất",
+    "d": "Có thể chưa hoàn thiện hạ tầng",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 91 và khoản 2 Điều 110 Luật Đất đai 2024 quy định khu tái định cư phải hoàn thiện hạ tầng kỹ thuật, hạ tầng xã hội đồng bộ theo quy hoạch được phê duyệt."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, trong thời hạn bao nhiêu ngày kể từ ngày quyết định phê duyệt phương án bồi thường có hiệu lực thì phải chi trả tiền bồi thường, hỗ trợ?",
+    "a": "15 ngày",
+    "b": "20 ngày",
+    "c": "30 ngày",
+    "d": "45 ngày",
+    "answer": "c",
+    "explanation": "Điểm a khoản 3 Điều 94 Luật Đất đai 2024 quy định trong thời hạn 30 ngày kể từ ngày quyết định phê duyệt phương án bồi thường có hiệu lực thi hành thì phải chi trả tiền bồi thường, hỗ trợ."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, trường hợp chậm chi trả tiền bồi thường thì người có đất thu hồi được thanh toán thêm khoản nào?",
+    "a": "Tiền phạt vi phạm hợp đồng",
+    "b": "Tiền lãi suất ngân hàng thương mại",
+    "c": "Khoản tiền bằng mức tiền chậm nộp theo Luật Quản lý thuế",
+    "d": "Khoản hỗ trợ tái định cư",
+    "answer": "c",
+    "explanation": "Điểm b khoản 3 Điều 94 Luật Đất đai 2024 quy định ngoài tiền bồi thường còn được thanh toán thêm khoản tiền bằng mức tiền chậm nộp theo Luật Quản lý thuế."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, trường hợp người bị thu hồi đất không nhận tiền bồi thường thì tiền bồi thường được gửi ở đâu?",
+    "a": "Kho bạc Nhà nước",
+    "b": "Ngân hàng chính sách xã hội",
+    "c": "Tài khoản của đơn vị thực hiện bồi thường mở tại ngân hàng thương mại do Nhà nước nắm cổ phần chi phối",
+    "d": "UBND cấp xã",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 94 Luật Đất đai 2024 quy định tiền bồi thường được gửi vào tài khoản tiền gửi của đơn vị thực hiện nhiệm vụ bồi thường mở tại ngân hàng thương mại do Nhà nước nắm giữ cổ phần chi phối."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, hộ gia đình, cá nhân đang sử dụng đất nông nghiệp khi Nhà nước thu hồi đất nếu đủ điều kiện thì được bồi thường bằng hình thức nào?",
+    "a": "Chỉ bằng tiền",
+    "b": "Chỉ bằng đất nông nghiệp",
+    "c": "Bằng đất nông nghiệp, tiền, đất khác mục đích hoặc nhà ở",
+    "d": "Chỉ bằng nhà ở",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 96 Luật Đất đai 2024 quy định có thể bồi thường bằng đất nông nghiệp, bằng tiền, bằng đất có mục đích sử dụng khác hoặc bằng nhà ở."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, trường hợp nào không được bồi thường về đất khi Nhà nước thu hồi đất?",
+    "a": "Có Giấy chứng nhận quyền sử dụng đất",
+    "b": "Đất được giao có thu tiền sử dụng đất",
+    "c": "Đất không đủ điều kiện cấp Giấy chứng nhận, trừ trường hợp luật quy định",
+    "d": "Đất nhận thừa kế hợp pháp",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 101 Luật Đất đai 2024 quy định trường hợp không đủ điều kiện cấp Giấy chứng nhận thì không được bồi thường về đất, trừ trường hợp khoản 3 Điều 96."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, khi Nhà nước thu hồi đất mà nhà ở của hộ gia đình phải phá dỡ thì được bồi thường như thế nào?",
+    "a": "Theo giá trị còn lại của công trình",
+    "b": "Theo giá trị xây dựng mới có tiêu chuẩn kỹ thuật tương đương",
+    "c": "Theo giá do chủ đầu tư quyết định",
+    "d": "Không được bồi thường",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 102 Luật Đất đai 2024 quy định được bồi thường bằng giá trị xây dựng mới của nhà ở, công trình có tiêu chuẩn kỹ thuật tương đương."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, đối với cây hằng năm bị thiệt hại do thu hồi đất thì mức bồi thường được tính như thế nào?",
+    "a": "Theo giá thị trường của đất",
+    "b": "Theo giá trị sản lượng của vụ thu hoạch",
+    "c": "Theo chi phí đầu tư ban đầu",
+    "d": "Theo thỏa thuận với chủ đầu tư",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 103 Luật Đất đai 2024 quy định mức bồi thường cây hằng năm được tính bằng giá trị sản lượng của vụ thu hoạch."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, khi Nhà nước thu hồi đất mà phải di chuyển tài sản thì được bồi thường khoản nào?",
+    "a": "Tiền thuê nhà",
+    "b": "Chi phí tháo dỡ, di chuyển, lắp đặt",
+    "c": "Thuế tài sản",
+    "d": "Tiền sử dụng đất",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 104 Luật Đất đai 2024 quy định được bồi thường chi phí tháo dỡ, di chuyển, lắp đặt tài sản."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, tài sản gắn liền với đất được tạo lập trong thời hạn hiệu lực của thông báo thu hồi đất thì xử lý thế nào?",
+    "a": "Được bồi thường đầy đủ",
+    "b": "Được hỗ trợ 50%",
+    "c": "Không được bồi thường",
+    "d": "Được bồi thường theo thỏa thuận",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 105 Luật Đất đai 2024 quy định tài sản tạo lập trong thời hạn hiệu lực của thông báo thu hồi đất không được bồi thường."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, hỗ trợ khi Nhà nước thu hồi đất bao gồm nội dung nào sau đây?",
+    "a": "Hỗ trợ ổn định đời sống",
+    "b": "Hỗ trợ đào tạo, chuyển đổi nghề",
+    "c": "Hỗ trợ tái định cư",
+    "d": "Tất cả các đáp án trên",
+    "answer": "d",
+    "explanation": "Khoản 1 Điều 108 Luật Đất đai 2024 quy định các hình thức hỗ trợ gồm ổn định đời sống, sản xuất, đào tạo nghề, tái định cư..."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, mức hỗ trợ đào tạo, chuyển đổi nghề và tìm kiếm việc làm tối đa là bao nhiêu lần giá đất nông nghiệp cùng loại?",
+    "a": "03 lần",
+    "b": "04 lần",
+    "c": "05 lần",
+    "d": "10 lần",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 109 Luật Đất đai 2024 quy định hỗ trợ bằng tiền không quá 05 lần giá đất nông nghiệp cùng loại."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, địa điểm tái định cư được ưu tiên lựa chọn đầu tiên ở đâu?",
+    "a": "Tại tỉnh khác",
+    "b": "Tại địa bàn cấp xã nơi có đất bị thu hồi",
+    "c": "Tại trung tâm đô thị",
+    "d": "Theo đề xuất của chủ đầu tư",
+    "answer": "b",
+    "explanation": "Điểm a khoản 3 Điều 110 Luật Đất đai 2024 quy định ưu tiên tái định cư tại địa bàn đơn vị hành chính cấp xã nơi có đất bị thu hồi."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, phương án bố trí tái định cư phải được niêm yết công khai ít nhất bao nhiêu ngày trước khi phê duyệt?",
+    "a": "07 ngày",
+    "b": "10 ngày",
+    "c": "15 ngày",
+    "d": "30 ngày",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 111 Luật Đất đai 2024 quy định phải niêm yết công khai ít nhất 15 ngày."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, trường hợp tiền bồi thường về đất ở không đủ để mua suất tái định cư tối thiểu thì được xử lý thế nào?",
+    "a": "Người dân tự bù phần chênh lệch",
+    "b": "Được Nhà nước hỗ trợ đủ để có suất tái định cư tối thiểu",
+    "c": "Không được tái định cư",
+    "d": "Được vay ngân hàng thương mại",
+    "answer": "b",
+    "explanation": "Khoản 8 Điều 111 Luật Đất đai 2024 quy định Nhà nước hỗ trợ đủ tiền để được giao một suất tái định cư tối thiểu."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, quỹ phát triển đất là loại quỹ nào?",
+    "a": "Quỹ đầu tư tư nhân",
+    "b": "Quỹ tài chính nhà nước ngoài ngân sách",
+    "c": "Quỹ từ thiện",
+    "d": "Quỹ của doanh nghiệp",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 114 Luật Đất đai 2024 quy định quỹ phát triển đất là quỹ tài chính nhà nước ngoài ngân sách."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, tổ chức phát triển quỹ đất được thành lập nhằm mục đích gì?",
+    "a": "Kinh doanh bất động sản",
+    "b": "Tạo lập, phát triển, quản lý, khai thác quỹ đất tại địa phương",
+    "c": "Quản lý thuế đất",
+    "d": "Giải quyết tranh chấp đất đai",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 115 Luật Đất đai 2024 quy định tổ chức phát triển quỹ đất được thành lập để tạo lập, phát triển, quản lý, khai thác quỹ đất tại địa phương."
+  },
+  {
+    "question": "Một thửa đất nông nghiệp bị thu hồi, trên đất có căn nhà xây dựng trái phép từ năm 2025. Theo Luật Đất đai 2024, căn nhà này sẽ được xử lý như thế nào khi lập phương án bồi thường?",
+    "a": "Được bồi thường theo giá trị xây dựng mới vì đã có trên đất",
+    "b": "Không được bồi thường về tài sản và có thể bị cưỡng chế phá dỡ không được hỗ trợ",
+    "c": "Được hỗ trợ 50% chi phí xây dựng",
+    "d": "Chỉ được bồi thường phần vật liệu có thể thu hồi",
+    "answer": "b",
+    "explanation": "Theo Điều 105 Luật Đất đai 2024, tài sản gắn liền với đất được tạo lập không đúng quy định pháp luật thì không được bồi thường. Công chứng viên cần lưu ý kiểm tra các biên bản vi phạm hành chính về xây dựng."
+  },
+  {
+    "question": "Tại thời điểm cơ quan có thẩm quyền đã ban hành 'Thông báo thu hồi đất', hộ gia đình A muốn thực hiện thủ tục công chứng chuyển nhượng quyền sử dụng đất cho bên B. Với tư cách là Công chứng viên, bạn sẽ xử lý thế nào?",
+    "a": "Cho phép công chứng bình thường vì chưa có quyết định thu hồi đất",
+    "b": "Từ chối công chứng vì đất nằm trong diện thu hồi, tài sản tạo lập sau thông báo sẽ không được bồi thường",
+    "c": "Chỉ công chứng nếu có sự đồng ý bằng văn bản của cơ quan thu hồi đất",
+    "d": "Yêu cầu bên mua cam kết tự chịu mọi rủi ro",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 105 Luật Đất đai 2024 quy định tài sản tạo lập trong thời hạn hiệu lực của thông báo thu hồi đất không được bồi thường. Công chứng viên phải cảnh báo rủi ro về việc 'mất trắng' tài sản trên đất."
+  },
+  {
+    "question": "Luật Đất đai 2024 cho phép bồi thường bằng đất có mục đích sử dụng khác với loại đất thu hồi. Để đảm bảo tính pháp lý khi chuyển nhượng đất này, Công chứng viên cần lưu ý điều gì?",
+    "a": "Đất được bồi thường mặc định được chuyển nhượng ngay sau khi có sổ",
+    "b": "Phải kiểm tra quyết định giao đất tái định cư xem có hạn chế về thời hạn sở hữu hoặc điều kiện chuyển nhượng hay không",
+    "c": "Không cần kiểm tra vì đất Nhà nước giao thì chắc chắn đủ điều kiện",
+    "d": "Chỉ cần kiểm tra vị trí đất",
+    "answer": "b",
+    "explanation": "Quyết định giao đất tái định cư thường kèm các điều kiện ràng buộc cụ thể. Công chứng viên phải truy xuất văn bản này để đảm bảo đất đủ điều kiện giao dịch."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, tiền bồi thường đất đai khi Nhà nước thu hồi được xử lý thế nào về nghĩa vụ thuế Thu nhập cá nhân (TNCN) khi khách hàng khai báo?",
+    "a": "Là thu nhập chịu thuế TNCN theo biểu thuế lũy tiến",
+    "b": "Là thu nhập chịu thuế TNCN theo tỷ lệ 2% giá trị chuyển nhượng",
+    "c": "Là thu nhập được miễn thuế TNCN",
+    "d": "Phải tính thuế như giao dịch mua bán bất động sản thông thường",
+    "answer": "c",
+    "explanation": "Theo quy định tại Luật Thuế thu nhập cá nhân, tiền bồi thường đất đai và tài sản trên đất khi Nhà nước thu hồi thuộc diện miễn thuế."
+  },
+  {
     "question": "Theo Luật Đất đai 2024, thời điểm tính thống kê đất đai hằng năm là khi nào?",
     "a": "Đến hết ngày 30 tháng 6",
     "b": "Đến hết ngày 31 tháng 12",
