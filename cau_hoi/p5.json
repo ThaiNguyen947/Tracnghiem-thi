@@ -1,5 +1,834 @@
 [
      {
+    "question": "Quan hệ dân sự có yếu tố nước ngoài theo BLDS 2015 thuộc trường hợp nào sau đây?",
+    "a": "Chỉ khi có cá nhân nước ngoài tham gia",
+    "b": "Chỉ khi đối tượng quan hệ ở nước ngoài",
+    "c": "Có ít nhất một bên là cá nhân, pháp nhân nước ngoài hoặc việc xác lập, thực hiện, chấm dứt quan hệ xảy ra ở nước ngoài",
+    "d": "Mọi quan hệ dân sự có sử dụng ngoại tệ",
+    "answer": "c",
+    "explanation": "Theo Điều 663 BLDS 2015, quan hệ dân sự có yếu tố nước ngoài gồm nhiều trường hợp như có chủ thể nước ngoài; việc xác lập, thay đổi, thực hiện hoặc chấm dứt quan hệ xảy ra ở nước ngoài; hoặc đối tượng của quan hệ ở nước ngoài."
+  },
+  {
+    "question": "Trường hợp điều ước quốc tế mà Việt Nam là thành viên có quy định khác với BLDS về pháp luật áp dụng đối với quan hệ dân sự có yếu tố nước ngoài thì áp dụng thế nào?",
+    "a": "Áp dụng BLDS",
+    "b": "Áp dụng luật chuyên ngành",
+    "c": "Áp dụng điều ước quốc tế",
+    "d": "Do Tòa án lựa chọn",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 665 BLDS 2015, nếu điều ước quốc tế có quy định khác thì áp dụng điều ước quốc tế."
+  },
+  {
+    "question": "Trong trường hợp các bên được quyền lựa chọn pháp luật áp dụng đối với quan hệ dân sự có yếu tố nước ngoài, họ có thể lựa chọn gì?",
+    "a": "Chỉ được chọn pháp luật Việt Nam",
+    "b": "Được chọn pháp luật nước ngoài hoặc tập quán quốc tế nếu pháp luật cho phép",
+    "c": "Chỉ được chọn pháp luật của nước nơi ký hợp đồng",
+    "d": "Không được chọn tập quán quốc tế",
+    "answer": "b",
+    "explanation": "Theo Điều 664 và Điều 666 BLDS 2015, các bên có thể lựa chọn pháp luật áp dụng hoặc tập quán quốc tế nếu pháp luật cho phép."
+  },
+  {
+    "question": "Khi hậu quả của việc áp dụng tập quán quốc tế trái với các nguyên tắc cơ bản của pháp luật Việt Nam thì áp dụng pháp luật nào?",
+    "a": "Pháp luật nước ngoài",
+    "b": "Tập quán quốc tế",
+    "c": "Pháp luật Việt Nam",
+    "d": "Luật của nước thứ ba",
+    "answer": "c",
+    "explanation": "Theo Điều 666 BLDS 2015, nếu hậu quả của việc áp dụng tập quán quốc tế trái với các nguyên tắc cơ bản của pháp luật Việt Nam thì áp dụng pháp luật Việt Nam."
+  },
+  {
+    "question": "Trong trường hợp pháp luật nước ngoài được áp dụng nhưng có nhiều cách hiểu khác nhau thì việc áp dụng phải theo gì?",
+    "a": "Giải thích của đương sự",
+    "b": "Giải thích của Tòa án Việt Nam",
+    "c": "Giải thích của cơ quan có thẩm quyền tại nước đó",
+    "d": "Thông lệ quốc tế",
+    "answer": "c",
+    "explanation": "Theo Điều 667 BLDS 2015, việc áp dụng phải theo sự giải thích của cơ quan có thẩm quyền tại nước có pháp luật được áp dụng."
+  },
+  {
+    "question": "Trường hợp nội dung của pháp luật nước ngoài không xác định được dù đã áp dụng các biện pháp cần thiết theo pháp luật tố tụng thì xử lý thế nào?",
+    "a": "Đình chỉ giải quyết vụ việc",
+    "b": "Áp dụng tập quán quốc tế",
+    "c": "Áp dụng pháp luật Việt Nam",
+    "d": "Áp dụng pháp luật của nước thứ ba",
+    "answer": "c",
+    "explanation": "Theo Điều 670 BLDS 2015, nếu nội dung pháp luật nước ngoài không xác định được thì áp dụng pháp luật Việt Nam."
+  },
+  {
+    "question": "Thời hiệu đối với quan hệ dân sự có yếu tố nước ngoài được xác định theo căn cứ nào?",
+    "a": "Pháp luật Việt Nam",
+    "b": "Pháp luật của nước nơi Tòa án giải quyết",
+    "c": "Pháp luật áp dụng đối với quan hệ dân sự đó",
+    "d": "Theo lựa chọn của nguyên đơn",
+    "answer": "c",
+    "explanation": "Theo Điều 671 BLDS 2015, thời hiệu được xác định theo pháp luật áp dụng đối với quan hệ dân sự có yếu tố nước ngoài."
+  },
+  {
+    "question": "Người có nhiều quốc tịch, trong đó có quốc tịch Việt Nam thì pháp luật áp dụng được xác định thế nào?",
+    "a": "Theo quốc tịch do cá nhân lựa chọn",
+    "b": "Theo nơi cư trú",
+    "c": "Theo pháp luật Việt Nam",
+    "d": "Theo nơi có tài sản",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 672 BLDS 2015, nếu người có nhiều quốc tịch trong đó có quốc tịch Việt Nam thì áp dụng pháp luật Việt Nam."
+  },
+  {
+    "question": "Năng lực pháp luật dân sự của cá nhân được xác định theo pháp luật nào?",
+    "a": "Pháp luật nơi cư trú",
+    "b": "Pháp luật nơi có tài sản",
+    "c": "Pháp luật của nước mà người đó có quốc tịch",
+    "d": "Pháp luật nơi giao kết giao dịch",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 673 BLDS 2015, năng lực pháp luật dân sự của cá nhân được xác định theo pháp luật của nước mà người đó có quốc tịch."
+  },
+  {
+    "question": "Người nước ngoài xác lập giao dịch dân sự tại Việt Nam thì năng lực hành vi dân sự được xác định theo pháp luật nào?",
+    "a": "Pháp luật nước nơi họ có quốc tịch",
+    "b": "Pháp luật Việt Nam",
+    "c": "Theo thỏa thuận",
+    "d": "Theo nơi cư trú thường xuyên",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 674 BLDS 2015, năng lực hành vi dân sự của người nước ngoài xác lập, thực hiện giao dịch tại Việt Nam được xác định theo pháp luật Việt Nam."
+  },
+  {
+    "question": "Quốc tịch của pháp nhân được xác định theo pháp luật của nước nào?",
+    "a": "Nơi đặt trụ sở chính",
+    "b": "Nơi có tài sản chính",
+    "c": "Nơi pháp nhân thành lập",
+    "d": "Nơi có người đại diện",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 676 BLDS 2015, quốc tịch của pháp nhân được xác định theo pháp luật của nước nơi pháp nhân thành lập."
+  },
+  {
+    "question": "Việc phân loại tài sản là động sản hay bất động sản được xác định theo pháp luật nào?",
+    "a": "Pháp luật nơi có tài sản",
+    "b": "Pháp luật nơi cư trú của chủ sở hữu",
+    "c": "Pháp luật Việt Nam",
+    "d": "Theo thỏa thuận của các bên",
+    "answer": "a",
+    "explanation": "Theo Điều 677 BLDS 2015, việc phân loại tài sản được xác định theo pháp luật của nước nơi có tài sản."
+  },
+  {
+    "question": "Quyền sở hữu đối với bất động sản được xác định theo pháp luật nào?",
+    "a": "Pháp luật nơi chủ sở hữu cư trú",
+    "b": "Pháp luật nơi giao kết hợp đồng",
+    "c": "Pháp luật nơi có tài sản",
+    "d": "Pháp luật do các bên lựa chọn",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 678 BLDS 2015, quyền sở hữu và quyền khác đối với tài sản được xác định theo pháp luật nơi có tài sản."
+  },
+  {
+    "question": "Quyền sở hữu trí tuệ được xác định theo pháp luật của nước nào?",
+    "a": "Nơi đăng ký kinh doanh",
+    "b": "Nơi đối tượng quyền sở hữu trí tuệ được yêu cầu bảo hộ",
+    "c": "Nơi cư trú của tác giả",
+    "d": "Nơi giao kết hợp đồng",
+    "answer": "b",
+    "explanation": "Theo Điều 679 BLDS 2015, quyền sở hữu trí tuệ được xác định theo pháp luật của nước nơi đối tượng được yêu cầu bảo hộ."
+  },
+  {
+    "question": "Thừa kế theo pháp luật đối với quan hệ có yếu tố nước ngoài được xác định theo pháp luật của nước nào?",
+    "a": "Nơi có di sản",
+    "b": "Nơi mở thừa kế",
+    "c": "Nơi người để lại di sản có quốc tịch ngay trước khi chết",
+    "d": "Nơi người thừa kế cư trú",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 680 BLDS 2015, thừa kế được xác định theo pháp luật của nước mà người để lại di sản có quốc tịch ngay trước khi chết."
+  },
+  {
+    "question": "Hình thức của di chúc được xác định chủ yếu theo pháp luật nào?",
+    "a": "Nơi có di sản",
+    "b": "Nơi cư trú của người thừa kế",
+    "c": "Nơi di chúc được lập",
+    "d": "Nơi mở thừa kế",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 681 BLDS 2015, hình thức của di chúc được xác định theo pháp luật của nước nơi di chúc được lập."
+  },
+  {
+    "question": "Trong hợp đồng mua bán hàng hóa có yếu tố nước ngoài, nếu không có thỏa thuận chọn luật thì pháp luật nào được coi là có mối liên hệ gắn bó nhất?",
+    "a": "Pháp luật nơi giao hàng",
+    "b": "Pháp luật nơi người mua cư trú hoặc thành lập",
+    "c": "Pháp luật nơi người bán cư trú hoặc thành lập",
+    "d": "Pháp luật nơi thanh toán",
+    "answer": "c",
+    "explanation": "Theo điểm a khoản 2 Điều 683 BLDS 2015, hợp đồng mua bán hàng hóa áp dụng pháp luật nơi người bán cư trú hoặc thành lập."
+  },
+  {
+    "question": "Hợp đồng có đối tượng là bất động sản thì pháp luật áp dụng là pháp luật nào?",
+    "a": "Pháp luật do các bên chọn",
+    "b": "Pháp luật nơi có bất động sản",
+    "c": "Pháp luật nơi ký kết hợp đồng",
+    "d": "Pháp luật nơi người mua cư trú",
+    "answer": "b",
+    "explanation": "Theo khoản 4 Điều 683 BLDS 2015, hợp đồng liên quan bất động sản áp dụng pháp luật của nước nơi có bất động sản."
+  },
+  {
+    "question": "Các bên trong quan hệ bồi thường thiệt hại ngoài hợp đồng có được thỏa thuận lựa chọn pháp luật áp dụng không?",
+    "a": "Không bao giờ được",
+    "b": "Chỉ khi có yếu tố nước ngoài",
+    "c": "Được, trừ trường hợp luật có quy định khác",
+    "d": "Chỉ Tòa án mới được lựa chọn",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 687 BLDS 2015, các bên được thỏa thuận lựa chọn pháp luật áp dụng cho bồi thường thiệt hại ngoài hợp đồng, trừ trường hợp luật quy định khác."
+  },
+  {
+    "question": "Nếu bên gây thiệt hại và bên bị thiệt hại cùng cư trú hoặc cùng thành lập tại một nước thì pháp luật áp dụng đối với bồi thường thiệt hại ngoài hợp đồng là gì?",
+    "a": "Pháp luật nơi xảy ra hành vi gây thiệt hại",
+    "b": "Pháp luật nơi phát sinh hậu quả",
+    "c": "Pháp luật của nước nơi cả hai cùng cư trú hoặc thành lập",
+    "d": "Pháp luật Việt Nam",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 687 BLDS 2015, nếu các bên cùng cư trú hoặc cùng thành lập tại một nước thì áp dụng pháp luật của nước đó."
+  },
+  {
+    "question": "Ông A là công dân Pháp, sang Việt Nam du lịch và thực hiện ký hợp đồng thuê xe máy với một cửa hàng tại Đà Nẵng. Nếu xảy ra tranh chấp về năng lực hành vi của ông A khi ký hợp đồng, Tòa án Việt Nam sẽ áp dụng pháp luật của nước nào để giải quyết?",
+    "a": "Pháp luật Pháp (nơi ông A có quốc tịch)",
+    "b": "Pháp luật Việt Nam (nơi giao dịch được xác lập)",
+    "c": "Pháp luật của nước nơi ông A cư trú thường xuyên",
+    "d": "Pháp luật do các bên thỏa thuận trong hợp đồng",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 674 BLDS 2015, năng lực hành vi dân sự của người nước ngoài khi xác lập, thực hiện giao dịch tại Việt Nam được xác định theo pháp luật Việt Nam."
+  },
+  {
+    "question": "Công ty X được thành lập theo pháp luật của Singapore nhưng có trụ sở chính tại Việt Nam và toàn bộ hoạt động sản xuất kinh doanh diễn ra tại Việt Nam. Theo BLDS 2015, quốc tịch của Công ty X được xác định là gì?",
+    "a": "Quốc tịch Việt Nam",
+    "b": "Quốc tịch Singapore",
+    "c": "Quốc tịch của nước nơi có trụ sở chính",
+    "d": "Tùy thuộc vào đăng ký kinh doanh tại Việt Nam",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 676 BLDS 2015, quốc tịch của pháp nhân được xác định theo pháp luật của nước nơi pháp nhân thành lập."
+  },
+  {
+    "question": "Anh B (quốc tịch Việt Nam) và bà C (quốc tịch Mỹ) muốn thực hiện hợp đồng chuyển nhượng quyền sử dụng đất đối với một mảnh đất tại TP. Hồ Chí Minh. Pháp luật áp dụng cho hợp đồng này là?",
+    "a": "Pháp luật Việt Nam",
+    "b": "Pháp luật Mỹ",
+    "c": "Pháp luật do anh B và bà C lựa chọn",
+    "d": "Pháp luật của nước nơi ký kết hợp đồng",
+    "answer": "a",
+    "explanation": "Theo khoản 4 Điều 683 BLDS 2015, hợp đồng liên quan đến bất động sản áp dụng pháp luật của nước nơi có bất động sản."
+  },
+  {
+    "question": "Ông H (quốc tịch Hàn Quốc, thường trú tại Hàn Quốc) chết và để lại một căn nhà tại Hà Nội và một khoản tiền gửi tiết kiệm tại một ngân hàng ở Seoul. Pháp luật áp dụng để chia di sản thừa kế của ông H là gì?",
+    "a": "Luật Việt Nam đối với nhà và Luật Hàn Quốc đối với tiền",
+    "b": "Pháp luật nơi mở thừa kế",
+    "c": "Pháp luật Hàn Quốc đối với toàn bộ di sản",
+    "d": "Pháp luật nơi người thừa kế đang cư trú",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 680 BLDS 2015, thừa kế được xác định theo pháp luật của nước mà người để lại di sản có quốc tịch ngay trước khi chết."
+  },
+  {
+    "question": "Hai công dân Nhật Bản là anh K và anh M cùng đi du lịch tại Việt Nam. Tại đây, anh K đã vô ý gây thiệt hại ngoài hợp đồng cho anh M. Nếu họ tranh chấp về việc bồi thường, pháp luật nào được áp dụng?",
+    "a": "Pháp luật Việt Nam (nơi xảy ra hành vi gây thiệt hại)",
+    "b": "Pháp luật Nhật Bản (nơi cả hai cùng có quốc tịch và thường trú)",
+    "c": "Pháp luật do Tòa án chỉ định",
+    "d": "Pháp luật nơi xảy ra hậu quả của thiệt hại",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 687 BLDS 2015, nếu các bên cùng cư trú hoặc cùng thành lập tại một nước thì áp dụng pháp luật của nước đó đối với bồi thường thiệt hại ngoài hợp đồng."
+  },
+  {
+    "question": "Một tác giả người Anh muốn đăng ký bảo hộ quyền tác giả cho cuốn tiểu thuyết của mình tại Việt Nam. Việc xác định quyền sở hữu trí tuệ này sẽ dựa trên pháp luật của nước nào?",
+    "a": "Pháp luật Anh (nơi tác giả có quốc tịch)",
+    "b": "Pháp luật Việt Nam (nơi yêu cầu bảo hộ)",
+    "c": "Pháp luật nơi tác giả viết cuốn sách",
+    "d": "Pháp luật quốc tế",
+    "answer": "b",
+    "explanation": "Theo Điều 679 BLDS 2015, quyền sở hữu trí tuệ được xác định theo pháp luật của nước nơi đối tượng của quyền sở hữu trí tuệ được yêu cầu bảo hộ."
+  },
+  {
+    "question": "Anh A là công dân Việt Nam, chị B là công dân Nhật Bản ký hợp đồng mua bán hàng hóa tại Việt Nam. Quan hệ này có yếu tố nước ngoài vì lý do nào?",
+    "a": "Do hợp đồng được lập thành văn bản",
+    "b": "Do có ít nhất một bên tham gia là cá nhân nước ngoài",
+    "c": "Do hàng hóa được giao tại Việt Nam",
+    "d": "Do có thanh toán bằng ngoại tệ",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 2 Điều 663 BLDS 2015, quan hệ dân sự có yếu tố nước ngoài khi có ít nhất một bên tham gia là cá nhân hoặc pháp nhân nước ngoài."
+  },
+  {
+    "question": "Hai công dân Việt Nam ký kết và thực hiện hợp đồng tại Pháp. Quan hệ này được xem là:",
+    "a": "Quan hệ dân sự trong nước",
+    "b": "Quan hệ hành chính",
+    "c": "Quan hệ dân sự có yếu tố nước ngoài",
+    "d": "Quan hệ thương mại thuần túy",
+    "answer": "c",
+    "explanation": "Theo điểm b khoản 2 Điều 663 BLDS 2015, nếu việc xác lập, thực hiện hoặc chấm dứt quan hệ xảy ra ở nước ngoài thì là quan hệ dân sự có yếu tố nước ngoài."
+  },
+  {
+    "question": "Trường hợp điều ước quốc tế và BLDS 2015 có quy định khác nhau về pháp luật áp dụng đối với quan hệ có yếu tố nước ngoài thì ưu tiên áp dụng:",
+    "a": "BLDS 2015",
+    "b": "Luật chuyên ngành",
+    "c": "Điều ước quốc tế",
+    "d": "Theo lựa chọn của đương sự",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 665 BLDS 2015, điều ước quốc tế được ưu tiên áp dụng khi có quy định khác với BLDS."
+  },
+  {
+    "question": "Trong trường hợp pháp luật nước ngoài được dẫn chiếu đến nhưng hậu quả áp dụng trái với nguyên tắc cơ bản của pháp luật Việt Nam thì:",
+    "a": "Vẫn phải áp dụng pháp luật nước ngoài",
+    "b": "Áp dụng tập quán quốc tế",
+    "c": "Áp dụng pháp luật của nước thứ ba",
+    "d": "Không áp dụng pháp luật nước ngoài và áp dụng pháp luật Việt Nam",
+    "answer": "d",
+    "explanation": "Theo Điều 670 BLDS 2015, nếu hậu quả áp dụng pháp luật nước ngoài trái với nguyên tắc cơ bản của pháp luật Việt Nam thì không áp dụng pháp luật nước ngoài và áp dụng pháp luật Việt Nam."
+  },
+  {
+    "question": "Một người quốc tịch Hàn Quốc xác lập giao dịch mua bán tại Việt Nam. Năng lực hành vi dân sự của người này được xác định theo:",
+    "a": "Pháp luật Hàn Quốc",
+    "b": "Pháp luật nơi cư trú",
+    "c": "Pháp luật Việt Nam",
+    "d": "Theo điều ước quốc tế",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 674 BLDS 2015, người nước ngoài xác lập giao dịch dân sự tại Việt Nam thì năng lực hành vi dân sự được xác định theo pháp luật Việt Nam."
+  },
+  {
+    "question": "Một căn nhà tại Nhật Bản được để thừa kế. Việc thực hiện quyền thừa kế đối với bất động sản này được xác định theo pháp luật nào?",
+    "a": "Pháp luật Việt Nam",
+    "b": "Pháp luật Nhật Bản",
+    "c": "Pháp luật nơi người chết có quốc tịch",
+    "d": "Pháp luật nơi người thừa kế cư trú",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 680 BLDS 2015, việc thực hiện quyền thừa kế đối với bất động sản được xác định theo pháp luật nơi có bất động sản."
+  },
+  {
+    "question": "Trong hợp đồng dịch vụ có yếu tố nước ngoài, nếu các bên không thỏa thuận chọn luật thì pháp luật nào được áp dụng?",
+    "a": "Nơi giao kết hợp đồng",
+    "b": "Nơi thực hiện thanh toán",
+    "c": "Nơi người cung cấp dịch vụ cư trú hoặc thành lập",
+    "d": "Nơi người sử dụng dịch vụ cư trú",
+    "answer": "c",
+    "explanation": "Theo điểm b khoản 2 Điều 683 BLDS 2015, hợp đồng dịch vụ áp dụng pháp luật nơi người cung cấp dịch vụ cư trú hoặc thành lập."
+  },
+  {
+    "question": "Hợp đồng lao động có yếu tố nước ngoài nếu chọn luật nước ngoài nhưng ảnh hưởng đến quyền lợi tối thiểu của người lao động theo pháp luật Việt Nam thì:",
+    "a": "Hợp đồng vô hiệu toàn bộ",
+    "b": "Áp dụng pháp luật nước ngoài",
+    "c": "Áp dụng pháp luật Việt Nam",
+    "d": "Do Tòa án nước ngoài giải quyết",
+    "answer": "c",
+    "explanation": "Theo khoản 5 Điều 683 BLDS 2015, nếu việc chọn luật ảnh hưởng đến quyền lợi tối thiểu của người lao động theo pháp luật Việt Nam thì áp dụng pháp luật Việt Nam."
+  },
+  {
+    "question": "Các bên trong hợp đồng có thể thay đổi pháp luật áp dụng đối với hợp đồng khi nào?",
+    "a": "Không được thay đổi",
+    "b": "Chỉ trước khi ký hợp đồng",
+    "c": "Được thay đổi nhưng không ảnh hưởng quyền lợi người thứ ba đã phát sinh",
+    "d": "Chỉ khi có quyết định của Tòa án",
+    "answer": "c",
+    "explanation": "Theo khoản 6 Điều 683 BLDS 2015, các bên có thể thay đổi pháp luật áp dụng nhưng không được ảnh hưởng đến quyền, lợi ích hợp pháp của người thứ ba."
+  },
+  {
+    "question": "Pháp luật áp dụng đối với hành vi pháp lý đơn phương của cá nhân là pháp luật của nước nào?",
+    "a": "Nơi giao kết hành vi",
+    "b": "Nơi cá nhân cư trú",
+    "c": "Nơi có tài sản",
+    "d": "Nơi xảy ra tranh chấp",
+    "answer": "b",
+    "explanation": "Theo Điều 684 BLDS 2015, pháp luật áp dụng đối với hành vi pháp lý đơn phương là pháp luật nơi cá nhân cư trú."
+  },
+  {
+    "question": "Anh A và chị B cùng cư trú tại Việt Nam nhưng tai nạn gây thiệt hại ngoài hợp đồng xảy ra tại Lào. Pháp luật áp dụng để bồi thường là:",
+    "a": "Pháp luật Lào",
+    "b": "Pháp luật Việt Nam",
+    "c": "Pháp luật do nguyên đơn chọn",
+    "d": "Pháp luật nơi có tài sản",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 687 BLDS 2015, nếu các bên cùng cư trú tại một nước thì áp dụng pháp luật của nước đó."
+  },
+  {
+    "question": "Pháp luật được các bên lựa chọn theo BLDS bao gồm những nội dung nào?",
+    "a": "Quy định về quyền, nghĩa vụ và quy định xác định pháp luật áp dụng",
+    "b": "Chỉ quy định về thủ tục tố tụng",
+    "c": "Chỉ quy định về quyền và nghĩa vụ của các bên",
+    "d": "Chỉ quy định về thẩm quyền Tòa án",
+    "answer": "c",
+    "explanation": "Theo khoản 4 Điều 668 BLDS 2015, pháp luật do các bên lựa chọn chỉ bao gồm quy định về quyền, nghĩa vụ của các bên, không bao gồm quy định về xác định pháp luật áp dụng (quy phạm xung đột)."
+  },
+  {
+    "question": "Theo BLDS 2015, khi pháp luật Việt Nam dẫn chiếu đến pháp luật của một nước ngoài, nội dung 'pháp luật nước ngoài' được hiểu bao gồm những gì?",
+    "a": "Chỉ các quy định về quyền và nghĩa vụ của các bên trong quan hệ đó",
+    "b": "Bao gồm cả quy định về xác định pháp luật áp dụng (quy phạm xung đột) và quy định về quyền, nghĩa vụ của các bên",
+    "c": "Chỉ các quy định về tố tụng dân sự của nước đó",
+    "d": "Chỉ các quy định có lợi cho cá nhân hoặc pháp nhân nước ngoài",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 668 BLDS 2015, pháp luật được dẫn chiếu đến được hiểu đầy đủ bao gồm cả quy định về xác định pháp luật áp dụng (quy phạm xung đột) và quy định về quyền, nghĩa vụ của các bên."
+  },
+  {
+    "question": "Trường hợp pháp luật Việt Nam dẫn chiếu đến chính pháp luật Việt Nam thì áp dụng nội dung nào?",
+    "a": "Quy định về xác định pháp luật áp dụng (quy phạm xung đột)",
+    "b": "Chỉ quy định về quyền và nghĩa vụ của các bên",
+    "c": "Quy định về tố tụng dân sự",
+    "d": "Toàn bộ hệ thống pháp luật Việt Nam bao gồm cả quy phạm xung đột",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 668 BLDS 2015, trường hợp dẫn chiếu đến pháp luật Việt Nam thì chỉ áp dụng quy định về quyền, nghĩa vụ của các bên để tránh việc dẫn chiếu lòng vòng."
+  },
+  {
+    "question": "Trường hợp nước có nhiều hệ thống pháp luật (ví dụ: Canada, Mỹ) được dẫn chiếu đến, pháp luật áp dụng được xác định theo:",
+    "a": "Luật của bang có lợi nhất cho các bên",
+    "b": "Pháp luật Việt Nam",
+    "c": "Nguyên tắc do chính pháp luật nước đó quy định",
+    "d": "Nơi có tài sản",
+    "answer": "c",
+    "explanation": "Theo Điều 669 BLDS 2015, việc xác định hệ thống pháp luật áp dụng phải theo nguyên tắc do chính pháp luật nước đó quy định."
+  },
+  {
+    "question": "Động sản đang trên đường vận chuyển, nếu không có thỏa thuận khác, quyền sở hữu được xác định theo pháp luật của:",
+    "a": "Nơi xuất phát hàng hóa",
+    "b": "Nơi ký hợp đồng",
+    "c": "Nơi động sản được chuyển đến",
+    "d": "Nơi người bán cư trú",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 678 BLDS 2015, quyền sở hữu đối với động sản trên đường vận chuyển được xác định theo pháp luật nơi động sản được chuyển đến."
+  },
+  {
+    "question": "Năng lực lập di chúc của cá nhân được xác định theo pháp luật của nước nào tại thời điểm lập di chúc?",
+    "a": "Nơi lập di chúc",
+    "b": "Nơi có tài sản",
+    "c": "Nơi người lập di chúc có quốc tịch",
+    "d": "Nơi mở thừa kế",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 681 BLDS 2015, năng lực lập di chúc được xác định theo pháp luật của nước mà người lập di chúc có quốc tịch tại thời điểm lập di chúc."
+  },
+  {
+    "question": "Hợp đồng chuyển nhượng quyền sở hữu trí tuệ, nếu không có thỏa thuận chọn luật thì áp dụng pháp luật của nước nào?",
+    "a": "Nơi bên chuyển nhượng cư trú",
+    "b": "Nơi người nhận quyền cư trú hoặc thành lập",
+    "c": "Nơi đăng ký sở hữu trí tuệ",
+    "d": "Nơi ký hợp đồng",
+    "answer": "b",
+    "explanation": "Theo điểm c khoản 2 Điều 683 BLDS 2015, hợp đồng chuyển nhượng quyền sở hữu trí tuệ áp dụng pháp luật nơi người nhận quyền cư trú hoặc thành lập."
+  },
+  {
+    "question": "Người không quốc tịch thì pháp luật áp dụng được xác định chủ yếu theo:",
+    "a": "Nơi có tài sản",
+    "b": "Nơi cư trú",
+    "c": "Nơi phát sinh tranh chấp",
+    "d": "Nơi ký hợp đồng",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 672 BLDS 2015, đối với người không quốc tịch, áp dụng pháp luật của nước nơi người đó cư trú."
+  },
+  {
+    "question": "Pháp nhân nước ngoài xác lập giao dịch dân sự tại Việt Nam thì năng lực pháp luật dân sự được xác định theo:",
+    "a": "Pháp luật nước nơi pháp nhân thành lập",
+    "b": "Pháp luật Việt Nam",
+    "c": "Pháp luật nơi ký hợp đồng",
+    "d": "Pháp luật nơi có tài sản lớn nhất",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 676 BLDS 2015, pháp nhân nước ngoài xác lập giao dịch tại Việt Nam thì năng lực pháp luật dân sự của pháp nhân đó được xác định theo pháp luật Việt Nam."
+  },
+  {
+    "question": "Nếu không xác định được pháp luật áp dụng thông qua điều ước, luật Việt Nam hoặc lựa chọn của các bên thì áp dụng:",
+    "a": "Pháp luật Việt Nam",
+    "b": "Pháp luật của nước có mối liên hệ gắn bó nhất với quan hệ đó",
+    "c": "Tập quán quốc tế",
+    "d": "Pháp luật của nước nơi Tòa án giải quyết",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 664 BLDS 2015, đây là quy định về 'luật dự phòng' khi không có căn cứ xác định luật áp dụng."
+  },
+  {
+    "question": "Giao dịch dân sự được xác lập trước ngày BLDS 2015 có hiệu lực nhưng chưa được thực hiện và có nội dung, hình thức khác với BLDS 2015 thì áp dụng pháp luật nào?",
+    "a": "BLDS 2015",
+    "b": "BLDS 2005 và văn bản hướng dẫn",
+    "c": "Theo lựa chọn của Tòa án",
+    "d": "Theo tập quán",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 1 Điều 688 BLDS 2015, giao dịch chưa được thực hiện mà có nội dung, hình thức khác với BLDS 2015 thì tiếp tục áp dụng BLDS 2005 và văn bản hướng dẫn."
+  },
+  {
+    "question": "Các bên trong giao dịch dân sự xác lập trước ngày BLDS 2015 có hiệu lực có thể thỏa thuận sửa đổi giao dịch để áp dụng BLDS 2015 không?",
+    "a": "Không",
+    "b": "Chỉ Tòa án mới có quyền quyết định",
+    "c": "Có",
+    "d": "Chỉ được sửa đổi hình thức",
+    "answer": "c",
+    "explanation": "Theo điểm a khoản 1 Điều 688 BLDS 2015, các bên có thể thỏa thuận sửa đổi, bổ sung nội dung, hình thức giao dịch để phù hợp và áp dụng BLDS 2015."
+  },
+  {
+    "question": "Giao dịch dân sự đang được thực hiện trước ngày BLDS 2015 có hiệu lực mà có nội dung, hình thức khác với BLDS 2015 thì áp dụng:",
+    "a": "BLDS 2015",
+    "b": "BLDS 2005 và văn bản hướng dẫn",
+    "c": "Pháp luật tại thời điểm tranh chấp",
+    "d": "Theo thỏa thuận mới nhất",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 1 Điều 688 BLDS 2015, giao dịch đang được thực hiện mà khác với BLDS 2015 thì áp dụng BLDS 2005."
+  },
+  {
+    "question": "Giao dịch dân sự được xác lập trước ngày BLDS 2015 có hiệu lực, chưa được thực hiện hoặc đang được thực hiện nhưng có nội dung, hình thức phù hợp với BLDS 2015 thì:",
+    "a": "Áp dụng BLDS 2005",
+    "b": "Áp dụng BLDS 2015",
+    "c": "Không được công nhận",
+    "d": "Phải ký lại giao dịch",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 1 Điều 688 BLDS 2015, nếu nội dung và hình thức phù hợp với BLDS 2015 thì áp dụng BLDS 2015."
+  },
+  {
+    "question": "Giao dịch dân sự đã thực hiện xong trước ngày BLDS 2015 có hiệu lực mà phát sinh tranh chấp thì áp dụng:",
+    "a": "BLDS 2015",
+    "b": "BLDS 2005 và văn bản hướng dẫn",
+    "c": "Pháp luật tại thời điểm xét xử",
+    "d": "Theo lựa chọn của nguyên đơn",
+    "answer": "b",
+    "explanation": "Theo điểm c khoản 1 Điều 688 BLDS 2015, giao dịch đã thực hiện xong trước ngày BLDS 2015 có hiệu lực mà có tranh chấp thì áp dụng BLDS 2005."
+  },
+  {
+    "question": "Theo Điều 688 BLDS 2015, thời hiệu đối với giao dịch dân sự được áp dụng theo:",
+    "a": "BLDS 2005",
+    "b": "BLDS 2015",
+    "c": "Luật tố tụng dân sự",
+    "d": "Theo thỏa thuận các bên",
+    "answer": "b",
+    "explanation": "Theo điểm d khoản 1 Điều 688 BLDS 2015, thời hiệu được áp dụng theo quy định của BLDS 2015."
+  },
+  {
+    "question": "BLDS 2015 có được áp dụng để kháng nghị giám đốc thẩm đối với vụ việc đã được giải quyết trước ngày BLDS 2015 có hiệu lực không?",
+    "a": "Có",
+    "b": "Chỉ trong trường hợp đặc biệt",
+    "c": "Không",
+    "d": "Do Chánh án quyết định",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 688 BLDS 2015, không áp dụng BLDS 2015 để kháng nghị theo thủ tục giám đốc thẩm, tái thẩm đối với vụ việc đã giải quyết trước khi BLDS 2015 có hiệu lực."
+  },
+  {
+    "question": "BLDS 2015 có hiệu lực thi hành từ ngày nào?",
+    "a": "24/11/2015",
+    "b": "01/01/2016",
+    "c": "01/01/2017",
+    "d": "01/7/2017",
+    "answer": "c",
+    "explanation": "Theo Điều 689 BLDS 2015, Bộ luật có hiệu lực thi hành từ ngày 01/01/2017."
+  },
+  {
+    "question": "Kể từ ngày BLDS 2015 có hiệu lực thì BLDS số 33/2005/QH11:",
+    "a": "Vẫn áp dụng song song",
+    "b": "Chỉ áp dụng cho hợp đồng",
+    "c": "Hết hiệu lực",
+    "d": "Chỉ áp dụng cho giao dịch cũ",
+    "answer": "c",
+    "explanation": "Theo Điều 689 BLDS 2015, BLDS 2005 hết hiệu lực kể từ ngày BLDS 2015 có hiệu lực."
+  },
+  {
+    "question": "Ông A ký hợp đồng năm 2016, đến năm 2018 mới thực hiện. Hợp đồng có nội dung khác với BLDS 2015 và các bên không sửa đổi. Pháp luật áp dụng là:",
+    "a": "BLDS 2015",
+    "b": "BLDS 2005",
+    "c": "Luật thương mại",
+    "d": "Theo thỏa thuận miệng mới",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 1 Điều 688 BLDS 2015, giao dịch xác lập trước ngày BLDS 2015 có hiệu lực mà chưa thực hiện và khác với BLDS 2015 thì áp dụng BLDS 2005."
+  },
+  {
+    "question": "Anh B ký hợp đồng năm 2016, đang thực hiện dở dang vào năm 2017. Nội dung hợp đồng phù hợp với BLDS 2015. Trường hợp này áp dụng:",
+    "a": "BLDS 2015",
+    "b": "BLDS 2005",
+    "c": "Theo thời điểm ký hợp đồng",
+    "d": "Theo lựa chọn của Tòa án",
+    "answer": "a",
+    "explanation": "Theo điểm b khoản 1 Điều 688 BLDS 2015, giao dịch đang được thực hiện mà có nội dung, hình thức phù hợp với BLDS 2015 thì áp dụng BLDS 2015."
+  },
+  {
+    "question": "Hợp đồng mua bán hoàn thành năm 2016, đến năm 2018 phát sinh tranh chấp. Pháp luật áp dụng để giải quyết là:",
+    "a": "BLDS 2015",
+    "b": "BLDS 2005",
+    "c": "Luật tại thời điểm khởi kiện",
+    "d": "Theo thỏa thuận mới",
+    "answer": "b",
+    "explanation": "Theo điểm c khoản 1 Điều 688 BLDS 2015, giao dịch đã thực hiện xong trước ngày BLDS 2015 có hiệu lực mà phát sinh tranh chấp thì áp dụng BLDS 2005."
+  },
+  {
+    "question": "Các bên của giao dịch dân sự xác lập trước ngày 01/01/2017 muốn áp dụng BLDS 2015 thì điều kiện là gì?",
+    "a": "Được Tòa án cho phép",
+    "b": "Có công chứng",
+    "c": "Có thỏa thuận sửa đổi, bổ sung nội dung hoặc hình thức giao dịch",
+    "d": "Phải đăng ký lại giao dịch",
+    "answer": "c",
+    "explanation": "Theo điểm a khoản 1 Điều 688 BLDS 2015, các bên có thể thỏa thuận sửa đổi, bổ sung để phù hợp và áp dụng BLDS 2015."
+  },
+  {
+    "question": "Điều khoản chuyển tiếp của BLDS 2015 chủ yếu điều chỉnh:",
+    "a": "Quan hệ hình sự",
+    "b": "Hiệu lực hồi tố của luật",
+    "c": "Việc áp dụng pháp luật đối với giao dịch xác lập trước ngày luật có hiệu lực",
+    "d": "Thủ tục tố tụng",
+    "answer": "c",
+    "explanation": "Điều 688 BLDS 2015 quy định việc áp dụng pháp luật đối với giao dịch dân sự được xác lập trước ngày BLDS 2015 có hiệu lực."
+  },
+  {
+    "question": "Một vụ án dân sự đã được giải quyết theo BLDS 2005 trước ngày 01/01/2017. Sau đó đương sự yêu cầu kháng nghị giám đốc thẩm dựa trên quy định mới của BLDS 2015. Trường hợp này:",
+    "a": "Được chấp nhận",
+    "b": "Không áp dụng BLDS 2015 để kháng nghị",
+    "c": "Được áp dụng nếu có lợi hơn",
+    "d": "Do Tòa án tối cao quyết định",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 688 BLDS 2015, không áp dụng BLDS 2015 để kháng nghị giám đốc thẩm, tái thẩm đối với vụ việc đã được giải quyết trước khi Bộ luật có hiệu lực."
+  },
+  {
+    "question": "Điều kiện để giao dịch dân sự xác lập trước ngày 01/01/2017 được áp dụng BLDS 2015 theo điểm a khoản 1 Điều 688 là gì?",
+    "a": "Giao dịch phải được công chứng lại",
+    "b": "Các bên phải ký phụ lục hợp đồng",
+    "c": "Các bên có thỏa thuận sửa đổi, bổ sung nội dung hoặc hình thức giao dịch để phù hợp với BLDS 2015",
+    "d": "Tòa án có quyết định áp dụng BLDS 2015",
+    "answer": "c",
+    "explanation": "Điểm a khoản 1 Điều 688 BLDS 2015 quy định các bên có thể thỏa thuận sửa đổi, bổ sung nội dung hoặc hình thức giao dịch để phù hợp với BLDS 2015 và áp dụng BLDS 2015."
+  },
+  {
+    "question": "Giao dịch dân sự xác lập trước ngày 01/01/2017 chưa thực hiện, có nội dung khác BLDS 2015 nhưng các bên không sửa đổi giao dịch thì:",
+    "a": "Áp dụng BLDS 2015",
+    "b": "Áp dụng BLDS 2005",
+    "c": "Giao dịch vô hiệu",
+    "d": "Tòa án lựa chọn luật áp dụng",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 1 Điều 688 BLDS 2015, giao dịch chưa thực hiện mà khác BLDS 2015 thì tiếp tục áp dụng BLDS 2005 nếu các bên không sửa đổi."
+  },
+  {
+    "question": "Theo BLDS 2015, giao dịch đang được thực hiện mà có nội dung khác với BLDS 2015 thì:",
+    "a": "Bắt buộc sửa đổi để phù hợp BLDS 2015",
+    "b": "Đương nhiên vô hiệu",
+    "c": "Tiếp tục áp dụng BLDS 2005",
+    "d": "Áp dụng luật mới từ thời điểm 01/01/2017",
+    "answer": "c",
+    "explanation": "Điểm a khoản 1 Điều 688 BLDS 2015 quy định giao dịch đang được thực hiện mà khác BLDS 2015 thì áp dụng BLDS 2005."
+  },
+  {
+    "question": "Điểm khác nhau giữa giao dịch 'chưa được thực hiện' và 'đang được thực hiện' theo BLDS là:",
+    "a": "Không có khác biệt",
+    "b": "Giao dịch chưa thực hiện có thể được sửa đổi để áp dụng BLDS 2015",
+    "c": "Giao dịch đang thực hiện được tự động áp dụng BLDS 2015",
+    "d": "Giao dịch chưa thực hiện luôn vô hiệu",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 1 Điều 688 BLDS 2015, giao dịch chưa thực hiện có thể được các bên sửa đổi để phù hợp BLDS 2015; giao dịch đang thực hiện mà khác BLDS 2015 thì tiếp tục áp dụng BLDS 2005."
+  },
+  {
+    "question": "Hợp đồng ký năm 2016, chưa thực hiện, nội dung phù hợp BLDS 2015. Pháp luật áp dụng là:",
+    "a": "BLDS 2005",
+    "b": "BLDS 2015",
+    "c": "Do các bên lựa chọn",
+    "d": "Luật thương mại",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 1 Điều 688 BLDS 2015, giao dịch chưa thực hiện nhưng nội dung và hình thức phù hợp BLDS 2015 thì áp dụng BLDS 2015."
+  },
+  {
+    "question": "Hợp đồng lập năm 2016, đang thực hiện năm 2017 và phù hợp BLDS 2015 thì:",
+    "a": "Áp dụng BLDS 2015",
+    "b": "Áp dụng BLDS 2005",
+    "c": "Không được tiếp tục thực hiện",
+    "d": "Phải ký lại hợp đồng",
+    "answer": "a",
+    "explanation": "Theo điểm b khoản 1 Điều 688 BLDS 2015, giao dịch đang thực hiện mà nội dung, hình thức phù hợp BLDS 2015 thì áp dụng BLDS 2015."
+  },
+  {
+    "question": "BLDS 2015 quy định thời hiệu áp dụng theo:",
+    "a": "BLDS 2005",
+    "b": "BLDS 2015",
+    "c": "Luật tố tụng dân sự",
+    "d": "Luật tại thời điểm xác lập giao dịch",
+    "answer": "b",
+    "explanation": "Theo điểm d khoản 1 Điều 688 BLDS 2015, thời hiệu được áp dụng theo quy định của BLDS 2015."
+  },
+  {
+    "question": "BLDS 2015 là quy định mang tính:",
+    "a": "Hồi tố hoàn toàn",
+    "b": "Không hồi tố",
+    "c": "Áp dụng ngay quy định mới về thời hiệu",
+    "d": "Áp dụng theo lựa chọn của đương sự",
+    "answer": "c",
+    "explanation": "Điểm d khoản 1 Điều 688 BLDS 2015 quy định thời hiệu áp dụng theo BLDS 2015, thể hiện việc áp dụng ngay quy định mới về thời hiệu."
+  },
+  {
+    "question": "Giao dịch đã hoàn thành trước ngày 01/01/2017 nhưng phát sinh tranh chấp sau ngày này thì:",
+    "a": "Áp dụng BLDS 2015",
+    "b": "Áp dụng BLDS 2005",
+    "c": "Áp dụng luật tại thời điểm xét xử",
+    "d": "Áp dụng luật có lợi hơn",
+    "answer": "b",
+    "explanation": "Theo điểm c khoản 1 Điều 688 BLDS 2015, giao dịch thực hiện xong trước ngày BLDS 2015 có hiệu lực mà có tranh chấp thì áp dụng BLDS 2005."
+  },
+  {
+    "question": "Theo BLDS 2015, trường hợp nào sau đây KHÔNG được áp dụng BLDS 2015?",
+    "a": "Giao dịch chưa thực hiện nhưng phù hợp BLDS 2015",
+    "b": "Giao dịch đang thực hiện và phù hợp BLDS 2015",
+    "c": "Kháng nghị giám đốc thẩm vụ việc đã giải quyết trước ngày 01/01/2017",
+    "d": "Áp dụng thời hiệu",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 688 BLDS 2015 quy định không áp dụng BLDS 2015 để kháng nghị giám đốc thẩm, tái thẩm đối với vụ việc đã giải quyết trước ngày Bộ luật có hiệu lực."
+  },
+  {
+    "question": "BLDS 2015 nhắc đến những thủ tục nào không áp dụng?",
+    "a": "Phúc thẩm và giám đốc thẩm",
+    "b": "Giám đốc thẩm và tái thẩm",
+    "c": "Sơ thẩm và tái thẩm",
+    "d": "Hòa giải và phúc thẩm",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 688 BLDS 2015 quy định không áp dụng BLDS 2015 để kháng nghị theo thủ tục giám đốc thẩm, tái thẩm."
+  },
+  {
+    "question": "Một bản án dân sự có hiệu lực năm 2016 theo BLDS 2005. Năm 2018 có yêu cầu tái thẩm dựa trên quy định mới của BLDS 2015. Xử lý thế nào?",
+    "a": "Áp dụng BLDS 2015",
+    "b": "Không áp dụng BLDS 2015 cho tái thẩm",
+    "c": "Áp dụng nếu có lợi hơn cho đương sự",
+    "d": "Do Viện kiểm sát quyết định",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 688 BLDS 2015, không áp dụng BLDS 2015 để kháng nghị tái thẩm đối với vụ việc đã giải quyết trước ngày Bộ luật có hiệu lực."
+  },
+  {
+    "question": "BLDS 2005 hết hiệu lực kể từ:",
+    "a": "24/11/2015",
+    "b": "31/12/2016",
+    "c": "01/01/2017",
+    "d": "01/7/2017",
+    "answer": "c",
+    "explanation": "Theo Điều 689 BLDS 2015, BLDS 2005 hết hiệu lực kể từ ngày 01/01/2017."
+  },
+  {
+    "question": "BLDS 2015 chủ yếu nhằm giải quyết vấn đề nào?",
+    "a": "Xung đột pháp luật quốc tế",
+    "b": "Hiệu lực của giao dịch bảo đảm",
+    "c": "Chuyển tiếp giữa BLDS 2005 và BLDS 2015",
+    "d": "Thẩm quyền xét xử",
+    "answer": "c",
+    "explanation": "Điều 688 BLDS 2015 là điều khoản chuyển tiếp nhằm giải quyết việc áp dụng pháp luật giữa BLDS 2005 và BLDS 2015."
+  },
+  {
+    "question": "Theo BLDS 2015, yếu tố nào quyết định việc áp dụng BLDS 2005 hay BLDS 2015 đối với giao dịch xác lập trước ngày 01/01/2017?",
+    "a": "Giá trị giao dịch",
+    "b": "Thời điểm khởi kiện",
+    "c": "Tình trạng thực hiện và sự phù hợp của giao dịch với BLDS 2015",
+    "d": "Ý chí của Tòa án",
+    "answer": "c",
+    "explanation": "Điều 688 BLDS 2015 xác định việc áp dụng luật dựa vào tình trạng thực hiện giao dịch và việc nội dung, hình thức có phù hợp BLDS 2015 hay không."
+  },
+[
+  {
+    "question": "Theo BLDS 2015, yếu tố nào là căn cứ quan trọng để xác định áp dụng BLDS 2005 hay BLDS 2015 đối với giao dịch xác lập trước ngày 01/01/2017?",
+    "a": "Giá trị tài sản trong giao dịch",
+    "b": "Thời điểm phát sinh tranh chấp",
+    "c": "Tình trạng thực hiện giao dịch và sự phù hợp với BLDS 2015",
+    "d": "Ý chí của nguyên đơn",
+    "answer": "c",
+    "explanation": "Điều 688 BLDS 2015 xác định pháp luật áp dụng dựa vào việc giao dịch chưa thực hiện, đang thực hiện hay đã thực hiện xong và việc nội dung, hình thức có phù hợp với BLDS 2015 hay không."
+  },
+  {
+    "question": "Theo BLDS 2015 cho phép sửa đổi, bổ sung giao dịch để áp dụng BLDS 2015 trong trường hợp nào?",
+    "a": "Giao dịch đã thực hiện xong",
+    "b": "Giao dịch đang được thực hiện",
+    "c": "Giao dịch chưa được thực hiện",
+    "d": "Mọi giao dịch",
+    "answer": "c",
+    "explanation": "Điểm a khoản 1 Điều 688 BLDS 2015 chỉ quy định việc sửa đổi, bổ sung để áp dụng BLDS 2015 đối với giao dịch chưa được thực hiện."
+  },
+  {
+    "question": "Theo BLDS 2015, giao dịch đang được thực hiện mà có nội dung khác với BLDS 2015 thì:",
+    "a": "Được sửa đổi để áp dụng BLDS 2015",
+    "b": "Đương nhiên áp dụng BLDS 2015",
+    "c": "Áp dụng BLDS 2005",
+    "d": "Giao dịch vô hiệu",
+    "answer": "c",
+    "explanation": "Điểm a khoản 1 Điều 688 BLDS 2015 quy định giao dịch đang được thực hiện mà khác BLDS 2015 thì tiếp tục áp dụng BLDS 2005."
+  },
+  {
+    "question": "Theo BLDS 2015, để áp dụng BLDS 2015 theo điểm b khoản 1 thì giao dịch phải:",
+    "a": "Chỉ cần phù hợp về nội dung",
+    "b": "Chỉ cần phù hợp về hình thức",
+    "c": "Phù hợp cả nội dung và hình thức",
+    "d": "Có công chứng",
+    "answer": "c",
+    "explanation": "Điểm b khoản 1 Điều 688 BLDS 2015 yêu cầu giao dịch phải phù hợp cả nội dung và hình thức với BLDS 2015."
+  },
+  {
+    "question": "Hợp đồng ký năm 2016 phù hợp nội dung với BLDS 2015 nhưng hình thức không phù hợp. Nếu đang thực hiện thì:",
+    "a": "Áp dụng BLDS 2015",
+    "b": "Áp dụng BLDS 2005",
+    "c": "Đương nhiên vô hiệu",
+    "d": "Phải ký lại hợp đồng",
+    "answer": "b",
+    "explanation": "Điểm b khoản 1 Điều 688 BLDS 2015 yêu cầu giao dịch phải phù hợp cả nội dung và hình thức mới áp dụng BLDS 2015."
+  },
+  {
+    "question": "Một giao dịch ký năm 2016 chưa thực hiện, khác BLDS 2015. Năm 2017 các bên ký phụ lục sửa đổi phù hợp BLDS 2015. Pháp luật áp dụng là:",
+    "a": "BLDS 2005",
+    "b": "BLDS 2015",
+    "c": "Cả hai bộ luật",
+    "d": "Theo lựa chọn của Tòa án",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 1 Điều 688 BLDS 2015, các bên có thể sửa đổi, bổ sung để phù hợp và áp dụng BLDS 2015."
+  },
+  {
+    "question": "Theo BLDS 2015, giao dịch đã thực hiện xong trước ngày 01/01/2017 mà có tranh chấp thì:",
+    "a": "Áp dụng BLDS 2015",
+    "b": "Áp dụng BLDS 2005",
+    "c": "Áp dụng luật tại thời điểm khởi kiện",
+    "d": "Áp dụng luật có lợi hơn",
+    "answer": "b",
+    "explanation": "Điểm c khoản 1 Điều 688 BLDS 2015 quy định giao dịch thực hiện xong trước ngày 01/01/2017 mà có tranh chấp thì áp dụng BLDS 2005."
+  },
+  {
+    "question": "Nhận định nào sau đây đúng?",
+    "a": "Mọi giao dịch xác lập trước 01/01/2017 đều áp dụng BLDS 2005",
+    "b": "Mọi tranh chấp phát sinh sau 01/01/2017 đều áp dụng BLDS 2015",
+    "c": "Mọi thời hiệu đều áp dụng BLDS 2005",
+    "d": "Có trường hợp giao dịch xác lập trước 01/01/2017 nhưng áp dụng BLDS 2015",
+    "answer": "d",
+    "explanation": "Theo điểm b khoản 1 Điều 688 BLDS 2015, giao dịch xác lập trước 01/01/2017 nhưng phù hợp BLDS 2015 vẫn áp dụng BLDS 2015."
+  },
+  {
+    "question": "Nhận định nào sau đây sai?",
+    "a": "Điều 688 BLDS 2015 là điều khoản chuyển tiếp",
+    "b": "BLDS 2015 áp dụng cho mọi giao dịch cũ",
+    "c": "Thời hiệu áp dụng theo BLDS 2015",
+    "d": "Có trường hợp tiếp tục áp dụng BLDS 2005",
+    "answer": "b",
+    "explanation": "Điều 688 BLDS 2015 không quy định áp dụng BLDS 2015 cho mọi giao dịch cũ."
+  },
+  {
+    "question": "BLDS 2015 không cho phép áp dụng BLDS 2015 trong trường hợp nào sau đây?",
+    "a": "Giao dịch chưa thực hiện nhưng phù hợp BLDS 2015",
+    "b": "Thời hiệu",
+    "c": "Kháng nghị giám đốc thẩm vụ việc đã giải quyết trước 01/01/2017",
+    "d": "Giao dịch đang thực hiện phù hợp BLDS 2015",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 688 BLDS 2015 quy định không áp dụng BLDS 2015 để kháng nghị giám đốc thẩm, tái thẩm đối với vụ việc đã giải quyết trước ngày Bộ luật có hiệu lực."
+  },
+  {
+    "question": "Một vụ án dân sự đã được xét xử xong năm 2016 theo BLDS 2005. Năm 2018 có căn cứ theo BLDS 2015 để yêu cầu giám đốc thẩm. Trường hợp này:",
+    "a": "Được áp dụng BLDS 2015",
+    "b": "Không áp dụng BLDS 2015 cho giám đốc thẩm",
+    "c": "Được áp dụng nếu có lợi",
+    "d": "Tòa án tự quyết định",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 688 BLDS 2015 quy định không áp dụng BLDS 2015 cho giám đốc thẩm đối với vụ việc đã giải quyết trước ngày 01/01/2017."
+  },
+  {
+    "question": "BLDS 2015 thể hiện nguyên tắc nào sau đây?",
+    "a": "Hồi tố hoàn toàn",
+    "b": "Không hồi tố tuyệt đối",
+    "c": "Áp dụng hình sự có lợi",
+    "d": "Ưu tiên điều ước quốc tế",
+    "answer": "b",
+    "explanation": "Điều 688 là điều khoản chuyển tiếp, không phải quy định hồi tố toàn diện."
+  },
+  {
+    "question": "Hợp đồng lập năm 2016, đang thực hiện năm 2017, phù hợp BLDS 2015. Năm 2018 phát sinh tranh chấp. Pháp luật áp dụng chủ yếu là:",
+    "a": "BLDS 2005",
+    "b": "BLDS 2015",
+    "c": "Luật tại thời điểm xét xử",
+    "d": "Theo lựa chọn của nguyên đơn",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 1 Điều 688 BLDS 2015, giao dịch đang thực hiện và phù hợp BLDS 2015 thì áp dụng BLDS 2015."
+  },
+  {
+    "question": "Hợp đồng ký năm 2016, đã thực hiện xong cuối năm 2016, đến năm 2022 mới tranh chấp. Pháp luật áp dụng để giải quyết tranh chấp là:",
+    "a": "BLDS 2015",
+    "b": "BLDS 2005",
+    "c": "Theo thời điểm khởi kiện",
+    "d": "Theo thời điểm xét xử",
+    "answer": "b",
+    "explanation": "Theo điểm c khoản 1 Điều 688 BLDS 2015, giao dịch đã thực hiện xong trước ngày 01/01/2017 mà có tranh chấp thì áp dụng BLDS 2005."
+  },
+  {
+    "question": "Theo BLDS 2015, quy định về thời hiệu là ngoại lệ vì:",
+    "a": "Không phụ thuộc thời điểm xác lập giao dịch",
+    "b": "Luôn áp dụng BLDS 2005",
+    "c": "Do Tòa án quyết định",
+    "d": "Chỉ áp dụng với hợp đồng",
+    "answer": "a",
+    "explanation": "Điểm d khoản 1 Điều 688 BLDS 2015 quy định thời hiệu áp dụng theo BLDS 2015, không phụ thuộc thời điểm xác lập giao dịch."
+  },
+     {
     "question": "Tình huống: Ông Tư và bà Năm kết hôn hợp pháp, hai người không có con chung, bố mẹ đẻ ông Tư đều đã mất. Năm 2020, ông Tư lập di chúc công chứng truất quyền thừa kế của bà Năm, để lại toàn bộ tài sản cho người cháu ruột. Năm 2024, hai vợ chồng ra Tòa ly hôn, Tòa đã mở phiên hòa giải thành nhưng chưa ra quyết định công nhận thuận tình ly hôn. Đến năm 2026, ông Tư chung sống không đăng ký kết hôn với bà Tuyết; hai người góp tiền mua chung một mảnh đất tại Đồng Nai trị giá 3 tỷ đồng đứng tên ông Tư, bà Tuyết chứng minh được mình góp 50 phần trăm vốn. Tháng 3 năm 2026, ông Tư đột ngột qua đời. Bà Năm có khả năng lao động bình thường yêu cầu được chia suất thừa kế bắt buộc đối với mảnh đất này. Giá trị di sản thực tế bà Năm được nhận theo Điều 644 Bộ luật dân sự 2015 là bao nhiêu?",
     "a": "Bà Năm được nhận 1 tỷ đồng",
     "b": "Bà Năm được nhận 2 tỷ đồng",
