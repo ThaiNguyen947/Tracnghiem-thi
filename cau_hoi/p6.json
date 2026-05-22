@@ -1,4 +1,688 @@
 [
+    {
+    "question": "Theo Luật Đất Đai NĂM 2024, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất được cấp theo nguyên tắc nào?",
+    "a": "Cấp theo yêu cầu quản lý nhà nước mà không cần người dân có nhu cầu",
+    "b": "Cấp theo từng thửa đất cho người có quyền sử dụng, có nhu cầu và đủ điều kiện theo quy định",
+    "c": "Chỉ cấp cho các trường hợp đất ở, không cấp cho các loại đất khác",
+    "d": "Cấp theo hạn mức tối đa cho mọi đối tượng sử dụng đất tại địa phương",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 135 Luật Đất đai 2024: Giấy chứng nhận được cấp cho người có quyền sử dụng đất, chủ sở hữu tài sản gắn liền với đất có nhu cầu và đủ điều kiện."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, trường hợp người sử dụng đất có nhiều thửa đất nông nghiệp tại cùng 01 xã thì được cấp Giấy chứng nhận như thế nào?",
+    "a": "Bắt buộc mỗi thửa đất phải cấp một Giấy chứng nhận riêng biệt",
+    "b": "Chỉ được cấp chung nếu tổng diện tích dưới 01 héc-ta",
+    "c": "Được cấp 01 Giấy chứng nhận chung cho các thửa đất nếu có yêu cầu",
+    "d": "Không được cấp Giấy chứng nhận cho nhiều thửa đất cùng lúc",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 135 Luật Đất đai 2024: Cho phép cấp 01 Giấy chứng nhận chung cho các thửa đất nông nghiệp tại cùng 01 xã nếu người sử dụng đất có yêu cầu."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, điều kiện cốt lõi để được cấp Giấy chứng nhận quyền sử dụng đất là gì?",
+    "a": "Người dân nộp đơn và đóng phí đăng ký là được cấp ngay",
+    "b": "Hoàn thành nghĩa vụ tài chính theo quy định của pháp luật",
+    "c": "Có xác nhận của cơ quan công an địa phương về cư trú",
+    "d": "Đất phải được sử dụng từ trên 20 năm không tranh chấp",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 135 Luật Đất đai 2024: Giấy chứng nhận chỉ được cấp sau khi hoàn thành nghĩa vụ tài chính hoặc thuộc trường hợp được miễn, ghi nợ theo quy định."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, thẩm quyền cấp Giấy chứng nhận lần đầu cho tổ chức thuộc về cơ quan nào?",
+    "a": "UBND cấp huyện nơi có đất",
+    "b": "UBND cấp xã nơi có đất",
+    "c": "UBND cấp tỉnh hoặc cơ quan quản lý đất đai được ủy quyền",
+    "d": "Sở Tài chính địa phương",
+    "answer": "c",
+    "explanation": "Điểm a Khoản 1 Điều 136 Luật Đất đai 2024: UBND cấp tỉnh cấp Giấy chứng nhận và có thể ủy quyền cho cơ quan quản lý đất đai cùng cấp thực hiện."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, hộ gia đình, cá nhân có giấy tờ sử dụng đất hợp pháp trước ngày 15/10/1993 thì nghĩa vụ tài chính thế nào?",
+    "a": "Luôn phải nộp 100% tiền sử dụng đất",
+    "b": "Được cấp Giấy chứng nhận và không phải nộp tiền sử dụng đất",
+    "c": "Chỉ được miễn 50% tiền sử dụng đất",
+    "d": "Phải đóng phạt mới được cấp Giấy chứng nhận",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 137 Luật Đất đai 2024: Đất có giấy tờ trước 15/10/1993 được cấp Giấy chứng nhận và không phải nộp tiền sử dụng đất."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, đối với đất sử dụng ổn định trước 18/12/1980 và không tranh chấp thì xử lý ra sao?",
+    "a": "Không được cấp Giấy chứng nhận trong bất kỳ trường hợp nào",
+    "b": "Được cấp Giấy chứng nhận và không phải nộp tiền sử dụng đất trong hạn mức",
+    "c": "Phải chuyển sang hình thức thuê đất trả tiền hàng năm",
+    "d": "Bị Nhà nước thu hồi để đấu giá quyền sử dụng đất",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 138 Luật Đất đai 2024: Sử dụng trước 18/12/1980, không tranh chấp thì được cấp Giấy chứng nhận và không phải nộp tiền sử dụng đất trong hạn mức."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, việc xác định diện tích đất ở đối với đất không giấy tờ sử dụng từ 18/12/1980 đến trước 15/10/1993 được tính như thế nào?",
+    "a": "Công nhận toàn bộ diện tích thực tế là đất ở",
+    "b": "Theo hạn mức công nhận đất ở hoặc theo diện tích thực tế sử dụng tùy trường hợp",
+    "c": "Chỉ công nhận tối đa 200m2",
+    "d": "Không được công nhận là đất ở mà chỉ là đất nông nghiệp",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 138 Luật Đất đai 2024: Diện tích đất ở được xác định theo hạn mức hoặc thực tế tùy thuộc vào thời điểm và quá trình sử dụng."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, đất lấn chiếm hành lang bảo vệ công trình công cộng sau khi đã công bố mốc thì xử lý thế nào?",
+    "a": "Được hợp thức hóa nếu nộp đủ tiền sử dụng đất",
+    "b": "Nhà nước thu hồi đất và không cấp Giấy chứng nhận",
+    "c": "Được chuyển sang thuê đất 50 năm",
+    "d": "Chỉ bị xử phạt vi phạm hành chính và được giữ nguyên hiện trạng",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 139 Luật Đất đai 2024: Đất lấn chiếm hành lang bảo vệ công trình sau khi đã công bố mốc thì không được cấp Giấy chứng nhận và bị thu hồi."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, đất lấn chiếm sử dụng trước 01/7/2014 và phù hợp với quy hoạch được xử lý ra sao?",
+    "a": "Bị thu hồi ngay không bồi thường",
+    "b": "Được xem xét cấp Giấy chứng nhận và phải thực hiện nghĩa vụ tài chính",
+    "c": "Chỉ được sử dụng tạm thời và không được chuyển nhượng",
+    "d": "Không được cấp Giấy chứng nhận trong mọi trường hợp",
+    "answer": "b",
+    "explanation": "Khoản 2, 3 Điều 139 Luật Đất đai 2024: Nếu phù hợp quy hoạch và sử dụng trước 01/7/2014 thì được xem xét cấp Giấy chứng nhận sau khi hoàn thành nghĩa vụ tài chính."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, đất nông nghiệp tự khai hoang không tranh chấp được cấp Giấy chứng nhận như thế nào?",
+    "a": "Cấp trong hạn mức giao đất nông nghiệp do UBND cấp tỉnh quy định",
+    "b": "Không được cấp Giấy chứng nhận vì là đất khai hoang trái phép",
+    "c": "Cấp toàn bộ diện tích thực tế bất kể lớn hay nhỏ",
+    "d": "Chỉ được cấp Giấy chứng nhận nếu có xác nhận của chủ tịch tỉnh",
+    "answer": "a",
+    "explanation": "Khoản 4 Điều 139 Luật Đất đai 2024: Đất nông nghiệp tự khai hoang không tranh chấp được cấp theo hạn mức giao đất nông nghiệp của UBND cấp tỉnh."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, đối với tài sản chung là quyền sử dụng đất của vợ chồng thì Giấy chứng nhận ghi thế nào?",
+    "a": "Chỉ ghi tên người chồng là đại diện",
+    "b": "Ghi cả họ tên vợ và chồng, trừ trường hợp có thỏa thuận khác",
+    "c": "Ghi tên hộ gia đình",
+    "d": "Ghi tên một người để thuận tiện giao dịch",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 135 Luật Đất đai 2024: Tài sản chung vợ chồng phải ghi cả hai tên, trừ khi có thỏa thuận khác."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, nếu Giấy chứng nhận đã cấp chỉ ghi tên một người, vợ hoặc chồng có thể yêu cầu gì?",
+    "a": "Yêu cầu cấp đổi Giấy chứng nhận để ghi cả hai người",
+    "b": "Không được thay đổi vì đã ghi tên trên sổ",
+    "c": "Yêu cầu thu hồi sổ để in lại từ đầu",
+    "d": "Chỉ được làm văn bản xác nhận riêng lẻ",
+    "answer": "a",
+    "explanation": "Khoản 4 Điều 135 Luật Đất đai 2024: Có thể yêu cầu cấp đổi Giấy chứng nhận để ghi tên cả hai vợ chồng."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, Giấy chứng nhận của hộ gia đình được cấp ra sao?",
+    "a": "Cấp cho chủ hộ",
+    "b": "Cấp 01 Giấy chứng nhận ghi tên các thành viên có chung quyền và trao cho người đại diện",
+    "c": "Cấp cho từng thành viên một bản sao",
+    "d": "Không cấp cho hộ gia đình mà chỉ cấp cho cá nhân",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 135 Luật Đất đai 2024: Hộ gia đình được cấp 01 Giấy chứng nhận ghi tên thành viên và trao cho người đại diện."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, nếu diện tích thực tế khác với Giấy chứng nhận nhưng ranh giới không đổi, không tranh chấp thì xử lý thế nào?",
+    "a": "Phải sửa lại Giấy chứng nhận theo số liệu cũ",
+    "b": "Cấp Giấy chứng nhận theo số liệu đo đạc thực tế",
+    "c": "Không được điều chỉnh nếu không có bản án tòa án",
+    "d": "Phải đo đạc lại cả khu vực lân cận",
+    "answer": "b",
+    "explanation": "Khoản 6 Điều 135 Luật Đất đai 2024: Cấp Giấy chứng nhận theo số liệu thực tế nếu ranh giới không thay đổi và không có tranh chấp."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, thẩm quyền cấp Giấy chứng nhận lần đầu cho cá nhân, cộng đồng dân cư thuộc về cơ quan nào?",
+    "a": "UBND cấp tỉnh",
+    "b": "Tổ chức đăng ký đất đai",
+    "c": "Hội đồng nhân dân cấp huyện",
+    "d": "Cơ quan cảnh sát điều tra",
+    "answer": "b",
+    "explanation": "Điểm b Khoản 2 Điều 136 Luật Đất đai 2024: Tổ chức đăng ký đất đai là cơ quan có thẩm quyền cấp cho cá nhân, cộng đồng dân cư."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, nếu giấy tờ trước 15/10/1993 mang tên người khác thì xử lý thế nào?",
+    "a": "Không được cấp Giấy chứng nhận",
+    "b": "Được cấp nếu có giấy tờ chuyển quyền và không tranh chấp",
+    "c": "Phải nhờ người đứng tên trên sổ làm thủ tục sang tên",
+    "d": "Bị Nhà nước thu hồi ngay lập tức",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 137 Luật Đất đai 2024: Có giấy tờ chuyển quyền hợp pháp và không tranh chấp thì vẫn được cấp Giấy chứng nhận."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, trường hợp giấy tờ bị thất lạc nhưng có bản sao, xử lý thế nào?",
+    "a": "Không được cấp nếu không có bản chính",
+    "b": "Được cấp nếu UBND cấp xã xác nhận đất ổn định, không tranh chấp",
+    "c": "Phải đăng báo tìm kiếm 30 ngày",
+    "d": "Chỉ được cấp tạm thời 1 năm",
+    "answer": "b",
+    "explanation": "Khoản 7 Điều 137 Luật Đất đai 2024: Có bản sao và được UBND cấp xã xác nhận sử dụng ổn định, không tranh chấp thì được cấp Giấy chứng nhận."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, đất lấn chiếm sau ngày 01/7/2014 được xử lý ra sao?",
+    "a": "Được cấp Giấy chứng nhận nếu phù hợp quy hoạch",
+    "b": "Không được cấp Giấy chứng nhận và xử lý theo quy định pháp luật",
+    "c": "Được hợp thức hóa bằng cách nộp tiền phạt",
+    "d": "Được thuê đất 50 năm",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 139 Luật Đất đai 2024: Đất lấn chiếm từ 01/7/2014 trở về sau không được cấp Giấy chứng nhận."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, đối với đất nông nghiệp tự khai hoang vượt hạn mức thì xử lý thế nào?",
+    "a": "Cấp toàn bộ diện tích",
+    "b": "Chuyển phần vượt hạn mức sang thuê đất của Nhà nước",
+    "c": "Thu hồi toàn bộ diện tích khai hoang",
+    "d": "Không được cấp Giấy chứng nhận cho bất kỳ phần diện tích nào",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 139 Luật Đất đai 2024: Phần diện tích vượt hạn mức phải chuyển sang thuê đất của Nhà nước."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, nếu không đủ điều kiện cấp Giấy chứng nhận, người sử dụng đất được xử lý ra sao?",
+    "a": "Buộc tháo dỡ nhà cửa ngay lập tức",
+    "b": "Được tạm thời sử dụng theo hiện trạng cho đến khi Nhà nước thu hồi",
+    "c": "Phải chuyển nhượng quyền sử dụng cho người khác",
+    "d": "Không được tiếp tục sinh sống trên đất",
+    "answer": "b",
+    "explanation": "Khoản 8 Điều 138 Luật Đất đai 2024: Trường hợp không đủ điều kiện cấp Giấy chứng nhận thì được tạm thời sử dụng đất theo hiện trạng cho đến khi Nhà nước thu hồi."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, UBND cấp tỉnh có thể ủy quyền cho cơ quan nào cấp Giấy chứng nhận?",
+    "a": "Cơ quan quản lý đất đai cùng cấp",
+    "b": "UBND cấp xã",
+    "c": "Công an cấp tỉnh",
+    "d": "Chi cục Thuế địa phương",
+    "answer": "a",
+    "explanation": "Điểm a Khoản 1 Điều 136 Luật Đất đai 2024: UBND cấp tỉnh được ủy quyền cho cơ quan quản lý đất đai cùng cấp thực hiện."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, tổ chức đăng ký đất đai được cấp Giấy chứng nhận cho đối tượng nào?",
+    "a": "Cá nhân trong nước",
+    "b": "Tổ chức trong nước, tổ chức tôn giáo, tổ chức có vốn đầu tư nước ngoài",
+    "c": "Cộng đồng dân cư",
+    "d": "Người nước ngoài định cư tại Việt Nam",
+    "answer": "b",
+    "explanation": "Điểm a Khoản 2 Điều 136 Luật Đất đai 2024: Tổ chức đăng ký đất đai cấp cho tổ chức trong nước, tôn giáo, tổ chức có vốn đầu tư nước ngoài."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, hộ gia đình sử dụng đất trước 18/12/1980 vượt hạn mức thì xử lý ra sao?",
+    "a": "Được công nhận toàn bộ",
+    "b": "Chỉ công nhận trong hạn mức, phần vượt phải nộp tiền sử dụng đất",
+    "c": "Thu hồi toàn bộ đất vượt hạn mức",
+    "d": "Không được cấp Giấy chứng nhận",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 138 Luật Đất đai 2024: Công nhận trong hạn mức, phần vượt phải thực hiện nghĩa vụ tài chính."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, điều kiện cấp Giấy chứng nhận cho đất sử dụng từ 15/10/1993 đến trước 01/7/2014 không giấy tờ là gì?",
+    "a": "Có bản án tòa án",
+    "b": "Sử dụng ổn định, không tranh chấp, được UBND xã xác nhận",
+    "c": "Đã đóng thuế đất trên 50 năm",
+    "d": "Có xác nhận của cơ quan thuế",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 138 Luật Đất đai 2024: Sử dụng ổn định, không tranh chấp, được UBND cấp xã xác nhận."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, vi phạm đất đai trước 01/7/2014 được xử lý như thế nào?",
+    "a": "Được xem xét cấp Giấy chứng nhận nếu phù hợp quy hoạch và thực hiện nghĩa vụ tài chính",
+    "b": "Bị tịch thu tài sản gắn liền trên đất",
+    "c": "Không được cấp Giấy chứng nhận dưới mọi hình thức",
+    "d": "Tự động hợp thức hóa mà không cần nộp tiền",
+    "answer": "a",
+    "explanation": "Khoản 3 Điều 139 Luật Đất đai 2024: Được xem xét cấp Giấy chứng nhận nếu phù hợp quy hoạch và hoàn thành nghĩa vụ tài chính."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, nếu đất lấn chiếm không còn thuộc hành lang bảo vệ sau điều chỉnh quy hoạch, xử lý ra sao?",
+    "a": "Không được cấp Giấy chứng nhận",
+    "b": "Được xem xét cấp Giấy chứng nhận và phải thực hiện nghĩa vụ tài chính",
+    "c": "Được miễn toàn bộ nghĩa vụ tài chính",
+    "d": "Chỉ được thuê đất 10 năm",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 139 Luật Đất đai 2024: Điều chỉnh quy hoạch không còn lấn chiếm thì được xem xét cấp sau khi nộp nghĩa vụ tài chính."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, nếu hộ gia đình sử dụng nhiều thửa đất trước 15/10/1993 thì hạn mức đất ở xác định thế nào?",
+    "a": "Tính theo từng thửa đất riêng biệt",
+    "b": "Tính tổng diện tích rồi mới trừ hạn mức",
+    "c": "Không áp dụng hạn mức",
+    "d": "Chỉ áp dụng hạn mức cho thửa đất có diện tích nhỏ nhất",
+    "answer": "a",
+    "explanation": "Khoản 4 Điều 138 Luật Đất đai 2024: Hạn mức đất ở được xác định theo từng thửa đất."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, cơ sở xác định diện tích đất ở được công nhận là gì?",
+    "a": "Giá đất tại thời điểm mua",
+    "b": "Quy hoạch sử dụng đất và hạn mức tại thời điểm nộp hồ sơ",
+    "c": "Ý kiến của người dân xung quanh",
+    "d": "Diện tích ghi trên hóa đơn đóng thuế",
+    "answer": "b",
+    "explanation": "Khoản 7 Điều 138 Luật Đất đai 2024: Diện tích được xác định theo quy hoạch và hạn mức tại thời điểm nộp hồ sơ."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, trường hợp không đủ điều kiện cấp Giấy chứng nhận thì được làm gì?",
+    "a": "Được tiếp tục sử dụng tạm thời cho đến khi Nhà nước thu hồi",
+    "b": "Phải chuyển nhượng ngay lập tức",
+    "c": "Bị cưỡng chế trả lại đất",
+    "d": "Được cấp quyền sử dụng đất tạm thời 5 năm",
+    "answer": "a",
+    "explanation": "Khoản 8 Điều 138 Luật Đất đai 2024: Được tạm thời sử dụng theo hiện trạng cho đến khi Nhà nước thu hồi đất."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, việc cấp Giấy chứng nhận đối với đất lấn chiếm hành lang công trình công cộng sau khi đã có thông báo công bố mốc giới được quy định thế nào?",
+    "a": "Được cấp nếu đã sử dụng trên 20 năm",
+    "b": "Không được cấp Giấy chứng nhận",
+    "c": "Được cấp nếu phù hợp quy hoạch",
+    "d": "Được cấp nếu đã thực hiện nghĩa vụ thuế",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 139 Luật Đất đai 2024: Lấn chiếm sau khi đã công bố mốc giới hành lang bảo vệ công trình công cộng thì không được cấp Giấy chứng nhận."
+  },
+  {
+    "question": "Ông A sử dụng đất từ năm 1990 không có giấy tờ, đến năm 2025 đất này xảy ra tranh chấp ranh giới với hàng xóm. Theo Luật Đất đai 2024, ông A có được cấp Giấy chứng nhận không và vì sao?",
+    "a": "Được cấp, vì sử dụng ổn định trước 15/10/1993.",
+    "b": "Không được cấp, vì đang có tranh chấp (theo điểm e khoản 1 Điều 151).",
+    "c": "Được cấp, nếu có xác nhận của UBND cấp xã.",
+    "d": "Không được cấp, vì đất không có giấy tờ hợp lệ.",
+    "answer": "b",
+    "explanation": "Dù đất sử dụng ổn định trước 15/10/1993, nhưng điều kiện tiên quyết tại Điều 140 và khoản 1 Điều 151 là đất phải không có tranh chấp. Tranh chấp là yếu tố cản trở thủ tục cấp GCN."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, trường hợp nào sau đây Giấy chứng nhận ĐÃ CẤP sẽ bị thu hồi?",
+    "a": "Cấp sai thẩm quyền hoặc sai đối tượng sử dụng đất.",
+    "b": "Giấy chứng nhận có thông tin sai lệch về tên người sử dụng đất.",
+    "c": "Đất đã được cấp GCN nhưng sau đó quy hoạch địa phương thay đổi.",
+    "d": "Cả A và B đều đúng.",
+    "answer": "a",
+    "explanation": "Theo Điều 152 Luật Đất đai 2024, việc cấp sai thẩm quyền/đối tượng là căn cứ thu hồi (hủy bỏ giá trị pháp lý). Sai sót thông tin (tên, địa chỉ) chỉ thuộc diện đính chính, không phải thu hồi."
+  },
+  {
+    "question": "Một tổ chức sử dụng đất không có giấy tờ, thuộc trường hợp quy định tại Điều 142 Luật Đất đai 2024. Để được cấp Giấy chứng nhận, tổ chức này phải ưu tiên thực hiện bước nào?",
+    "a": "Nộp tiền sử dụng đất ngay cho cơ quan thuế.",
+    "b": "Tự kê khai hiện trạng sử dụng đất và báo cáo UBND cấp tỉnh.",
+    "c": "Xin ý kiến của Bộ Tài nguyên và Môi trường.",
+    "d": "Đăng ký biến động đất đai.",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 142 quy định tổ chức đang sử dụng đất phải tự kê khai hiện trạng và báo cáo UBND cấp tỉnh, đây là bước tiền đề trước khi xem xét điều kiện cấp GCN."
+  },
+{
+    "question": "Theo Luật Đất đai năm 2024, hộ gia đình, cá nhân sử dụng đất không đúng thẩm quyền trước 15/10/1993 được cấp Giấy chứng nhận khi nào?",
+    "a": "Chỉ cần cư trú tại địa phương",
+    "b": "Khi được UBND cấp xã xác nhận đất không có tranh chấp",
+    "c": "Khi có văn bản của Tòa án",
+    "d": "Khi có hợp đồng mua bán viết tay",
+    "answer": "b",
+    "explanation": "Theo Khoản 1 Điều 140 Luật Đất đai 2024: Đất sử dụng ổn định trước 15/10/1993 và được UBND cấp xã xác nhận không có tranh chấp thì được cấp Giấy chứng nhận."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, thửa đất hình thành từ 15/10/1993 đến trước 01/7/2004 muốn được cấp Giấy chứng nhận cần điều kiện nào?",
+    "a": "Chỉ cần có nhà ở trên đất",
+    "b": "Đất không có tranh chấp và phù hợp với quy hoạch",
+    "c": "Phải có biên lai nộp thuế đất",
+    "d": "Được hàng xóm xác nhận",
+    "answer": "b",
+    "explanation": "Theo Khoản 2 Điều 140 Luật Đất đai 2024: Đất giai đoạn này phải được xác nhận không có tranh chấp và phù hợp với quy hoạch sử dụng đất mới được cấp."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, đối với thửa đất có vườn, ao nhỏ hơn hạn mức công nhận đất ở thì xác định thế nào?",
+    "a": "Diện tích đất ở được xác định theo hạn mức địa phương",
+    "b": "Chỉ được cấp cho một phần diện tích",
+    "c": "Toàn bộ diện tích thửa đất được công nhận là đất ở",
+    "d": "Không được công nhận đất ở",
+    "answer": "c",
+    "explanation": "Theo Điểm b Khoản 3 Điều 140 và Điều 141 Luật Đất đai 2024: Nếu diện tích thửa đất nhỏ hơn hạn mức giao đất ở thì toàn bộ diện tích được công nhận là đất ở."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, trường hợp nào sau đây KHÔNG được cấp Giấy chứng nhận quyền sử dụng đất?",
+    "a": "Đất đang có tranh chấp",
+    "b": "Đất có giấy tờ nguồn gốc rõ ràng",
+    "c": "Đất nông nghiệp sử dụng ổn định",
+    "d": "Đất được giao đúng thẩm quyền",
+    "answer": "a",
+    "explanation": "Theo Điểm e Khoản 1 Điều 151 Luật Đất đai 2024: Đất đang có tranh chấp thì không được cấp Giấy chứng nhận quyền sử dụng đất."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, Giấy chứng nhận quyền sử dụng đất bị thu hồi trong trường hợp nào?",
+    "a": "Thay đổi địa chỉ người sử dụng đất",
+    "b": "Cấp không đúng thẩm quyền hoặc sai đối tượng",
+    "c": "Đất được sang nhượng lại",
+    "d": "Đất tăng giá thị trường",
+    "answer": "b",
+    "explanation": "Theo Điểm d Khoản 2 Điều 152 Luật Đất đai 2024: Giấy chứng nhận bị thu hồi khi được cấp không đúng thẩm quyền, đối tượng hoặc không đủ điều kiện."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, tổ chức đang sử dụng đất muốn được cấp Giấy chứng nhận phải thực hiện thủ tục nào đầu tiên?",
+    "a": "Kê khai hiện trạng sử dụng đất và báo cáo UBND cấp tỉnh",
+    "b": "Nộp hồ sơ cho cơ quan thuế",
+    "c": "Đăng ký kinh doanh",
+    "d": "Đấu giá đất",
+    "answer": "a",
+    "explanation": "Theo Khoản 1 Điều 142 Luật Đất đai 2024: Tổ chức đang sử dụng đất phải tự kê khai hiện trạng sử dụng đất và báo cáo UBND cấp tỉnh."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, trường hợp đất được giao không đúng thẩm quyền từ ngày 01/7/2014 trở về sau được xử lý thế nào?",
+    "a": "Vẫn được cấp Giấy chứng nhận",
+    "b": "Không được cấp Giấy chứng nhận, trừ trường hợp quy định tại Khoản 4 Điều 140",
+    "c": "Chỉ được cấp nếu nộp tiền sử dụng đất",
+    "d": "Được cấp nếu không tranh chấp",
+    "answer": "b",
+    "explanation": "Theo Khoản 5 Điều 140 Luật Đất đai 2024: Nhà nước không cấp Giấy chứng nhận đối với đất giao không đúng thẩm quyền từ 01/7/2014 trở về sau (trừ trường hợp cụ thể tại Khoản 4 Điều 140)."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, đối với thửa đất có nhà ở hình thành trước 18/12/1980 thì đất ở xác định như thế nào?",
+    "a": "Theo toàn bộ diện tích thực tế",
+    "b": "Theo giấy tờ hoặc hạn mức công nhận đất ở",
+    "c": "Không được công nhận đất ở",
+    "d": "Do UBND cấp huyện quyết định",
+    "answer": "b",
+    "explanation": "Theo Khoản 1 Điều 141 Luật Đất đai 2024: Xác định theo giấy tờ hợp lệ, nếu không có giấy tờ thì theo hạn mức công nhận đất ở."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, tổ chức sử dụng đất không đúng mục đích bị xử lý thế nào?",
+    "a": "Phạt tiền và cho sử dụng tiếp",
+    "b": "Bị thu hồi đất theo quyết định của UBND cấp tỉnh",
+    "c": "Bắt buộc chuyển đổi mục đích",
+    "d": "Không bị xử lý",
+    "answer": "b",
+    "explanation": "Theo Điểm c Khoản 2 Điều 142 Luật Đất đai 2024: Đất sử dụng không đúng mục đích sẽ bị thu hồi theo quyết định của UBND cấp tỉnh."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, tài sản gắn liền với đất nào KHÔNG được cấp Giấy chứng nhận?",
+    "a": "Nhà ở hợp pháp",
+    "b": "Công trình tạm thời, vật liệu đơn sơ",
+    "c": "Công trình xây dựng có giấy phép",
+    "d": "Công trình di tích",
+    "answer": "b",
+    "explanation": "Theo Điểm b Khoản 2 Điều 151 Luật Đất đai 2024: Công trình xây dựng tạm thời, công trình bằng vật liệu đơn sơ không được cấp Giấy chứng nhận."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, đất thuê lại của người sử dụng đất khác có được cấp Giấy chứng nhận không?",
+    "a": "Không được cấp",
+    "b": "Chỉ được cấp khi thuê của chủ đầu tư hạ tầng phù hợp dự án",
+    "c": "Được cấp trong mọi trường hợp",
+    "d": "Được cấp nếu có xác nhận xã",
+    "answer": "b",
+    "explanation": "Theo Điểm c Khoản 1 Điều 151 Luật Đất đai 2024: Chỉ cấp Giấy chứng nhận đối với đất thuê lại của chủ đầu tư hạ tầng phù hợp với dự án."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, nhà ở không có giấy tờ trước 01/7/2006 muốn được cấp Giấy chứng nhận cần điều kiện gì?",
+    "a": "Phải có xác nhận của ngân hàng",
+    "b": "Không có tranh chấp và phù hợp với quy hoạch",
+    "c": "Phải đóng phạt",
+    "d": "Phải có hợp đồng mua bán",
+    "answer": "b",
+    "explanation": "Theo Khoản 2 Điều 148 Luật Đất đai 2024: Nhà ở trước 01/7/2006 nếu không tranh chấp và phù hợp quy hoạch thì được cấp Giấy chứng nhận."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, tổ chức tôn giáo được cấp Giấy chứng nhận khi nào?",
+    "a": "Khi sử dụng ổn định trên 10 năm",
+    "b": "Khi được Nhà nước cho phép hoạt động và đất không có tranh chấp",
+    "c": "Khi có xác nhận của địa phương",
+    "d": "Khi nộp phí sử dụng đất",
+    "answer": "b",
+    "explanation": "Theo Khoản 3 Điều 145 Luật Đất đai 2024: Tổ chức tôn giáo phải được Nhà nước cho phép hoạt động và đất không có tranh chấp mới được cấp."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, trường hợp xác định lại diện tích đất ở mà không phải nộp tiền sử dụng đất?",
+    "a": "Mọi trường hợp đều không phải nộp",
+    "b": "Trường hợp có giấy tờ hợp lệ theo quy định tại Điều 141",
+    "c": "Trường hợp đất nông nghiệp",
+    "d": "Trường hợp đất thuê",
+    "answer": "b",
+    "explanation": "Theo Điều 141 Luật Đất đai 2024: Một số trường hợp có giấy tờ hợp lệ về quyền sử dụng đất được xác định lại diện tích đất ở mà không phải nộp tiền."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, đất có di tích lịch sử - văn hóa cấp Giấy chứng nhận cho ai?",
+    "a": "Không cấp cho ai",
+    "b": "Cấp cho tổ chức hoặc người đang sử dụng đất",
+    "c": "Cấp cho UBND xã",
+    "d": "Cấp cho cơ quan quản lý di tích",
+    "answer": "b",
+    "explanation": "Theo Điều 144 Luật Đất đai 2024: Đất có di tích lịch sử - văn hóa có thể cấp Giấy chứng nhận cho tổ chức hoặc cá nhân đang sử dụng đất hợp pháp."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, dự án có nhiều mục đích sử dụng đất cấp Giấy chứng nhận như thế nào?",
+    "a": "Chỉ cấp cho chủ đầu tư",
+    "b": "Cấp theo từng thửa đất và thể hiện rõ từng mục đích",
+    "c": "Không được cấp",
+    "d": "Chỉ cấp cho người mua nhà",
+    "answer": "b",
+    "explanation": "Theo Điều 143 Luật Đất đai 2024: Dự án nhiều mục đích sử dụng đất được cấp theo từng thửa và thể hiện rõ mục đích sử dụng từng phần."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, trường hợp đất đang có tranh chấp thì xử lý cấp Giấy chứng nhận thế nào?",
+    "a": "Chờ sau khi tranh chấp được giải quyết xong",
+    "b": "Cấp ngay để ổn định",
+    "c": "Cấp nhưng ghi chú tranh chấp",
+    "d": "Cấp cho người nộp đơn trước",
+    "answer": "a",
+    "explanation": "Theo Điểm đ Khoản 2 Điều 142 và Điểm e Khoản 1 Điều 151 Luật Đất đai 2024: Đất có tranh chấp chỉ được xem xét cấp sau khi tranh chấp đã giải quyết xong."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, diện tích đất tối thiểu tách thửa nếu không đủ thì xử lý thế nào?",
+    "a": "Không được cấp Giấy chứng nhận",
+    "b": "Hình thành trước quy định mà đủ điều kiện thì vẫn được cấp",
+    "c": "Bắt buộc thu hồi",
+    "d": "Bắt buộc đóng tiền phạt",
+    "answer": "b",
+    "explanation": "Theo Khoản 1 Điều 146 Luật Đất đai 2024: Thửa đất hình thành trước khi có quy định diện tích tối thiểu, nếu đủ điều kiện thì vẫn được cấp."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, đất đang bị kê biên thi hành án có được cấp Giấy chứng nhận không?",
+    "a": "Được cấp",
+    "b": "Không được cấp",
+    "c": "Được cấp nếu nộp tiền",
+    "d": "Được cấp nếu được Tòa án cho phép",
+    "answer": "b",
+    "explanation": "Theo Điểm e Khoản 1 Điều 151 Luật Đất đai 2024: Đất đang bị kê biên thi hành án không thuộc trường hợp được cấp Giấy chứng nhận."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, trường hợp tổ chức không có giấy tờ quyền sử dụng đất thì xử lý thế nào?",
+    "a": "Không được xem xét",
+    "b": "Áp dụng hình thức sử dụng đất theo Điều 118, 119 và 120",
+    "c": "Bắt buộc đấu giá",
+    "d": "Cấp tạm thời",
+    "answer": "b",
+    "explanation": "Theo Điểm a Khoản 2 Điều 142 Luật Đất đai 2024: Tổ chức không có giấy tờ thì áp dụng hình thức sử dụng đất theo các điều 118, 119, 120."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, thời hạn sử dụng đất của tổ chức khi giấy tờ không ghi được xác định ra sao?",
+    "a": "Do UBND cấp tỉnh quyết định",
+    "b": "Theo Điều 172 và tính từ thời điểm pháp luật quy định",
+    "c": "Tính từ ngày cấp Giấy chứng nhận",
+    "d": "Mặc định 50 năm",
+    "answer": "b",
+    "explanation": "Theo Điểm b Khoản 2 Điều 142 Luật Đất đai 2024: Thời hạn được xác định theo Điều 172 và tính từ thời điểm pháp luật quy định."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, diện tích đất công cộng trong khu đô thị xử lý thế nào?",
+    "a": "Cấp cho chủ đầu tư",
+    "b": "Bàn giao cho địa phương quản lý, không cấp Giấy chứng nhận",
+    "c": "Đấu giá bán",
+    "d": "Chia cho hộ dân",
+    "answer": "b",
+    "explanation": "Theo Điểm b Khoản 1 Điều 143 Luật Đất đai 2024: Phần đất công cộng trong dự án bàn giao địa phương quản lý, không cấp Giấy chứng nhận."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, nhà ở xây dựng sau thời điểm có lệnh cấm xây dựng được cấp Giấy chứng nhận không?",
+    "a": "Được cấp",
+    "b": "Không được cấp",
+    "c": "Được cấp nếu phù hợp quy hoạch",
+    "d": "Được cấp nếu không tranh chấp",
+    "answer": "b",
+    "explanation": "Theo Điểm d Khoản 2 Điều 151 Luật Đất đai 2024: Nhà ở xây dựng sau thời điểm công bố cấm xây dựng không được cấp Giấy chứng nhận."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, sai sót thông tin người sử dụng trên Giấy chứng nhận xử lý thế nào?",
+    "a": "Thu hồi Giấy chứng nhận",
+    "b": "Đính chính thông tin trên Giấy chứng nhận",
+    "c": "Cấp lại hoàn toàn",
+    "d": "Hủy bỏ quyền sử dụng",
+    "answer": "b",
+    "explanation": "Theo Khoản 1 Điều 152 Luật Đất đai 2024: Sai sót thông tin được thực hiện thủ tục đính chính, không thu hồi."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, trường hợp nào không phải căn cứ thu hồi Giấy chứng nhận?",
+    "a": "Cấp sai thẩm quyền",
+    "b": "Thay đổi nơi cư trú của người sử dụng đất",
+    "c": "Cấp sai diện tích",
+    "d": "Cấp sai đối tượng",
+    "answer": "b",
+    "explanation": "Theo Khoản 2 Điều 152 Luật Đất đai 2024: Việc thay đổi nơi cư trú không nằm trong căn cứ thu hồi Giấy chứng nhận."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, đất nông nghiệp công ích có được cấp Giấy chứng nhận không?",
+    "a": "Có",
+    "b": "Không được cấp Giấy chứng nhận",
+    "c": "Được cấp nếu nộp tiền",
+    "d": "Được cấp nếu có tranh chấp",
+    "answer": "b",
+    "explanation": "Theo Điểm a Khoản 1 Điều 151 Luật Đất đai 2024: Đất nông nghiệp công ích của xã, phường, thị trấn không được cấp Giấy chứng nhận."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, điều kiện cấp Giấy chứng nhận đối với tổ chức tôn giáo là gì?",
+    "a": "Có hồ sơ gửi bộ",
+    "b": "Được Nhà nước cho phép hoạt động và đất không có tranh chấp",
+    "c": "Có hợp đồng thuê",
+    "d": "Sử dụng ổn định lâu dài",
+    "answer": "b",
+    "explanation": "Theo Khoản 3 Điều 145 Luật Đất đai 2024: Điều kiện là được Nhà nước cho phép hoạt động và đất không có tranh chấp."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, đất có di tích lịch sử-văn hóa cấp cho cá nhân hay tổ chức?",
+    "a": "Chỉ cấp cho Nhà nước",
+    "b": "Cấp cho tổ chức hoặc người đang sử dụng hợp pháp",
+    "c": "Chỉ cấp cho bảo tàng",
+    "d": "Không cấp cho ai",
+    "answer": "b",
+    "explanation": "Theo Điều 144 Luật Đất đai 2024: Đất có di tích có thể cấp cho tổ chức hoặc người đang sử dụng hợp pháp."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, trường hợp thửa đất nhỏ hơn diện tích tối thiểu nhưng hình thành trước quy định, vẫn được cấp nếu?",
+    "a": "Không có tranh chấp và phù hợp quy hoạch",
+    "b": "Đóng tiền thuế",
+    "c": "Có đơn kiến nghị",
+    "d": "Chủ đất có hộ khẩu",
+    "answer": "a",
+    "explanation": "Theo Khoản 1 Điều 146 Luật Đất đai 2024: Thửa đất hình thành trước quy định tách thửa mà không có tranh chấp, phù hợp quy hoạch thì được cấp."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, dự án nhiều mục đích sử dụng đất được cấp một hay nhiều Giấy chứng nhận?",
+    "a": "Chỉ một",
+    "b": "Theo từng thửa đất hoặc một Giấy chứng nhận thể hiện rõ từng mục đích",
+    "c": "Không cấp",
+    "d": "Cấp cho người mua",
+    "answer": "b",
+    "explanation": "Theo Điều 143 Luật Đất đai 2024: Cấp theo từng thửa hoặc một Giấy chứng nhận nhưng phải thể hiện rõ từng mục đích sử dụng."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, sai sót trong hồ sơ cấp Giấy chứng nhận thuộc thẩm quyền đính chính của cơ quan nào?",
+    "a": "Cơ quan có thẩm quyền cấp Giấy chứng nhận",
+    "b": "Bộ Tài nguyên và Môi trường",
+    "c": "Tòa án nhân dân",
+    "d": "UBND cấp tỉnh",
+    "answer": "a",
+    "explanation": "Theo Khoản 1 Điều 152 Luật Đất đai 2024: Cơ quan có thẩm quyền cấp Giấy chứng nhận là đơn vị thực hiện đính chính các sai sót."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, việc cấp Giấy chứng nhận cho người đang sử dụng đất ổn định trước 15/10/1993 quy định tại?",
+    "a": "Điều 140",
+    "b": "Điều 145",
+    "c": "Điều 151",
+    "d": "Điều 152",
+    "answer": "a",
+    "explanation": "Theo Khoản 1 Điều 140 Luật Đất đai 2024: Quy định việc cấp Giấy chứng nhận cho người đang sử dụng đất ổn định trước 15/10/1993."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, đất xây dựng trụ sở cơ quan được cấp Giấy chứng nhận cho ai?",
+    "a": "Người đứng đầu cơ quan",
+    "b": "Cơ quan, tổ chức được giao quản lý",
+    "c": "Không cấp",
+    "d": "UBND xã",
+    "answer": "b",
+    "explanation": "Theo các quy định về tổ chức tại Điều 142 Luật Đất đai 2024: Đất xây dựng trụ sở được cấp cho cơ quan, tổ chức được giao quản lý."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, căn cứ thu hồi Giấy chứng nhận đã cấp khi không đúng thẩm quyền được quy định tại?",
+    "a": "Khoản 1 Điều 152",
+    "b": "Điểm d Khoản 2 Điều 152",
+    "c": "Điều 140",
+    "d": "Điều 142",
+    "answer": "b",
+    "explanation": "Theo Điểm d Khoản 2 Điều 152 Luật Đất đai 2024: Cấp không đúng thẩm quyền là căn cứ thu hồi."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, trường hợp tổ chức sử dụng đất bị thu hồi do sai mục đích được quy định tại?",
+    "a": "Điểm c Khoản 2 Điều 142",
+    "b": "Khoản 1 Điều 151",
+    "c": "Điều 144",
+    "d": "Điều 146",
+    "answer": "a",
+    "explanation": "Theo Điểm c Khoản 2 Điều 142 Luật Đất đai 2024: Tổ chức sử dụng đất không đúng mục đích bị thu hồi."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, việc không cấp Giấy chứng nhận đối với đất nông nghiệp công ích quy định tại?",
+    "a": "Điểm a Khoản 1 Điều 151",
+    "b": "Khoản 2 Điều 140",
+    "c": "Điều 143",
+    "d": "Khoản 3 Điều 145",
+    "answer": "a",
+    "explanation": "Theo Điểm a Khoản 1 Điều 151 Luật Đất đai 2024: Đất công ích không được cấp Giấy chứng nhận."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, ông B mua đất bằng giấy viết tay năm 2000, đất chưa từng xảy ra tranh chấp và phù hợp quy hoạch. Ông B muốn được cấp Giấy chứng nhận, ông B cần làm gì?",
+    "a": "Chỉ cần mang giấy tay lên xã đăng ký",
+    "b": "Thực hiện thủ tục đăng ký, cấp Giấy chứng nhận theo quy định tại Điều 140",
+    "c": "Đợi Nhà nước tự cấp",
+    "d": "Không thể được cấp",
+    "answer": "b",
+    "explanation": "Theo Khoản 2 Điều 140 Luật Đất đai 2024: Đất hình thành từ 15/10/1993 đến trước 01/7/2004 nếu sử dụng ổn định, không tranh chấp, phù hợp quy hoạch thì được cấp Giấy chứng nhận."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, công ty X thuê đất của Nhà nước nhưng sử dụng sai mục đích làm kho bãi thành làm dịch vụ karaoke. Xử lý như thế nào?",
+    "a": "Phạt tiền và tiếp tục cho thuê",
+    "b": "UBND cấp tỉnh thu hồi đất theo Điểm c Khoản 2 Điều 142",
+    "c": "Yêu cầu công ty X nộp thêm tiền",
+    "d": "Cấp Giấy chứng nhận mới",
+    "answer": "b",
+    "explanation": "Theo Điểm c Khoản 2 Điều 142 Luật Đất đai 2024: Đất của tổ chức sử dụng không đúng mục đích sẽ bị thu hồi theo quyết định của UBND cấp tỉnh."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, bà C có thửa đất 200m2, trong đó có nhà ở xây dựng năm 1975, phần còn lại là vườn ao. Việc xác định đất ở của bà C thế nào?",
+    "a": "Chỉ tính phần có nhà",
+    "b": "Xác định đất ở theo Khoản 1 Điều 141 đối với thửa đất có nhà ở hình thành trước 18/12/1980",
+    "c": "Tính theo hạn mức giao đất mới nhất",
+    "d": "Không tính đất ở",
+    "answer": "b",
+    "explanation": "Theo Khoản 1 Điều 141 Luật Đất đai 2024: Thửa đất có nhà ở hình thành trước 18/12/1980 xác định đất ở theo giấy tờ, nếu không rõ thì theo hạn mức công nhận đất ở."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, khu đô thị Z có phần đất công viên nội bộ. Chủ đầu tư muốn cấp Giấy chứng nhận cho phần đất này để bán. Có được không?",
+    "a": "Được, nếu có giấy phép",
+    "b": "Không, vì theo Điểm b Khoản 1 Điều 143, đất công cộng phải bàn giao cho địa phương quản lý",
+    "c": "Được, nếu cư dân đồng ý",
+    "d": "Được, nếu nộp thuế",
+    "answer": "b",
+    "explanation": "Theo Điểm b Khoản 1 Điều 143 Luật Đất đai 2024: Đất công cộng phục vụ lợi ích chung trong dự án khu đô thị không được cấp Giấy chứng nhận cho chủ đầu tư mà phải bàn giao địa phương."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, ông D có đất nông nghiệp nhưng bị kê biên thi hành án. Ông D có quyền tặng cho thửa đất này cho con mình không?",
+    "a": "Có, nếu được công chứng",
+    "b": "Không, vì đất đang bị kê biên không thuộc trường hợp được cấp/thực hiện quyền theo Điều 151",
+    "c": "Có, nếu được xã cho phép",
+    "d": "Có, nếu chưa bán",
+    "answer": "b",
+    "explanation": "Theo Điểm e Khoản 1 Điều 151 Luật Đất đai 2024: Đất đang bị kê biên để thi hành án không được cấp Giấy chứng nhận và không đủ điều kiện thực hiện các quyền (chuyển nhượng, tặng cho)."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, nếu Giấy chứng nhận cấp cho hộ ông E bị ghi sai số CMND/CCCD, ông E làm gì?",
+    "a": "Đợi thu hồi sổ mới",
+    "b": "Yêu cầu đính chính theo quy định tại Khoản 1 Điều 152",
+    "c": "Làm lại sổ mới",
+    "d": "Không cần làm gì",
+    "answer": "b",
+    "explanation": "Theo Khoản 1 Điều 152 Luật Đất đai 2024: Sai sót về thông tin cá nhân thì cơ quan có thẩm quyền thực hiện thủ tục đính chính Giấy chứng nhận."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, đất tôn giáo đang sử dụng ổn định trước năm 2010, muốn cấp Giấy chứng nhận thì điều kiện bắt buộc là gì?",
+    "a": "Sử dụng trên 20 năm",
+    "b": "Được Nhà nước cho phép hoạt động và đất không có tranh chấp (Khoản 3 Điều 145)",
+    "c": "Có hợp đồng thuê đất với xã",
+    "d": "Có xác nhận của hàng xóm",
+    "answer": "b",
+    "explanation": "Theo Khoản 3 Điều 145 Luật Đất đai 2024: Điều kiện cấp Giấy chứng nhận cho tổ chức tôn giáo là phải được Nhà nước cho phép hoạt động và đất không có tranh chấp."
+  },
    {
     "question": "Theo Luật Đất đai 2024, đối tượng nào bắt buộc phải thực hiện đăng ký đất đai?",
     "a": "Chỉ các tổ chức kinh tế và hộ gia đình",
