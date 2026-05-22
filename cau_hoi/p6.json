@@ -1,2 +1,434 @@
 [
+  {
+    "question": "Theo Luật Đất đai 2024, đối tượng áp dụng của Luật này bao gồm những ai?",
+    "a": "Chỉ các cá nhân và hộ gia đình đang trực tiếp sử dụng đất",
+    "b": "Cơ quan nhà nước, người sử dụng đất và các đối tượng khác có liên quan đến quản lý, sử dụng đất đai",
+    "c": "Chỉ các tổ chức trong nước và cá nhân có quốc tịch Việt Nam",
+    "d": "Chỉ các cơ quan quản lý đất đai từ trung ương đến địa phương",
+    "answer": "b",
+    "explanation": "Điều 2 Luật Đất đai 2024 quy định đối tượng áp dụng là cơ quan nhà nước, người sử dụng đất và các đối tượng khác có liên quan đến quản lý, sử dụng đất đai."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, hành vi 'chiếm đất' được xác định như thế nào?",
+    "a": "Sử dụng đất không đúng mục đích ghi trong giấy tờ nhưng đã được chính quyền cơ sở biết",
+    "b": "Sử dụng đất do Nhà nước đã quản lý mà chưa được cơ quan nhà nước có thẩm quyền cho phép hoặc sử dụng đất của người khác mà chưa được cho phép",
+    "c": "Tự ý chuyển nhượng quyền sử dụng đất khi chưa có Giấy chứng nhận",
+    "d": "Sử dụng đất vượt hạn mức do Nhà nước quy định",
+    "answer": "b",
+    "explanation": "Khoản 9 Điều 3 Luật Đất đai 2024 quy định chiếm đất là việc sử dụng đất do Nhà nước đã quản lý mà chưa được cơ quan nhà nước có thẩm quyền cho phép hoặc sử dụng đất của người sử dụng đất hợp pháp khác mà chưa được người đó cho phép."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, hành vi 'lấn đất' được hiểu là gì?",
+    "a": "Sử dụng diện tích đất vượt quá diện tích ghi trên Giấy chứng nhận do sai số đo đạc",
+    "b": "Sử dụng đất của hàng xóm do lầm tưởng về ranh giới",
+    "c": "Chuyển dịch mốc giới hoặc ranh giới thửa đất để mở rộng diện tích mà không được cơ quan hoặc người có thẩm quyền cho phép",
+    "d": "Sử dụng đất nông nghiệp vào mục đích phi nông nghiệp mà chưa được phép",
+    "answer": "c",
+    "explanation": "Khoản 31 Điều 3 Luật Đất đai 2024 quy định lấn đất là việc người sử dụng đất chuyển dịch mốc giới hoặc ranh giới thửa đất để mở rộng diện tích đất sử dụng mà không được cơ quan nhà nước có thẩm quyền hoặc người sử dụng hợp pháp cho phép."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, các hình thức 'chuyển quyền sử dụng đất' bao gồm những gì?",
+    "a": "Chuyển đổi, chuyển nhượng, thừa kế, tặng cho, góp vốn bằng quyền sử dụng đất",
+    "b": "Chuyển đổi, chuyển nhượng, thừa kế, tặng cho, cho thuê, góp vốn bằng quyền sử dụng đất",
+    "c": "Chuyển đổi, chuyển nhượng, thừa kế, tặng cho, góp vốn, cho thuê lại quyền sử dụng đất",
+    "d": "Chuyển nhượng, tặng cho, thừa kế, chuyển mục đích sử dụng đất",
+    "answer": "a",
+    "explanation": "Khoản 12 Điều 3 Luật Đất đai 2024 định nghĩa chuyển quyền sử dụng đất là chuyển đổi, chuyển nhượng, thừa kế, tặng cho, góp vốn bằng quyền sử dụng đất. 'Cho thuê' không nằm trong danh sách này."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, hộ gia đình sử dụng đất phải thỏa mãn điều kiện nào về thời điểm?",
+    "a": "Đang cùng sinh sống và có quan hệ hôn nhân tại thời điểm đăng ký biến động đất đai",
+    "b": "Có quyền sử dụng đất chung tại thời điểm được Nhà nước giao, cho thuê, công nhận hoặc nhận chuyển quyền trước ngày Luật này có hiệu lực",
+    "c": "Cùng đứng tên trên hộ khẩu tại thời điểm Luật Đất đai 2024 có hiệu lực thi hành",
+    "d": "Đang cùng sử dụng đất tại thời điểm xảy ra tranh chấp",
+    "answer": "b",
+    "explanation": "Khoản 25 Điều 3 Luật Đất đai 2024 quy định hộ gia đình sử dụng đất là những người có quan hệ hôn nhân, huyết thống, nuôi dưỡng, đang sống chung và có quyền sử dụng đất chung tại thời điểm được Nhà nước giao, cho thuê, công nhận hoặc nhận chuyển quyền sử dụng đất trước ngày Luật này có hiệu lực."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, loại đất nào dưới đây thuộc nhóm đất nông nghiệp?",
+    "a": "Đất xây dựng trụ sở cơ quan, công trình sự nghiệp",
+    "b": "Đất chăn nuôi tập trung",
+    "c": "Đất thương mại, dịch vụ",
+    "d": "Đất ở tại nông thôn",
+    "answer": "b",
+    "explanation": "Điểm đ khoản 2 Điều 9 Luật Đất đai 2024 quy định đất chăn nuôi tập trung thuộc nhóm đất nông nghiệp."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, nhóm đất phi nông nghiệp bao gồm loại đất nào sau đây?",
+    "a": "Đất trồng cây hàng năm",
+    "b": "Đất rừng phòng hộ",
+    "c": "Đất thương mại, dịch vụ",
+    "d": "Đất làm muối",
+    "answer": "c",
+    "explanation": "Điểm đ khoản 3 Điều 9 Luật Đất đai 2024 quy định đất thương mại, dịch vụ thuộc nhóm đất phi nông nghiệp."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, căn cứ nào là pháp lý cao nhất để xác định loại đất?",
+    "a": "Hiện trạng sử dụng đất thực tế của người sử dụng đất",
+    "b": "Giấy chứng nhận hoặc giấy tờ về quyền sử dụng đất hoặc quyết định giao, cho thuê, cho phép chuyển mục đích sử dụng đất",
+    "c": "Quy hoạch sử dụng đất cấp huyện đã được phê duyệt",
+    "d": "Ý kiến xác nhận của chính quyền địa phương tại thời điểm kiểm tra",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 10 Luật Đất đai 2024 quy định việc xác định loại đất dựa trên Giấy chứng nhận hoặc các giấy tờ pháp lý về quyền sử dụng đất."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, hành vi nào sau đây thuộc nhóm hành vi bị nghiêm cấm?",
+    "a": "Chậm nộp tiền sử dụng đất dưới 30 ngày",
+    "b": "Không thực hiện hoặc thực hiện không đầy đủ nghĩa vụ tài chính đối với Nhà nước",
+    "c": "Thay đổi hình thức sử dụng đất khi chưa đăng ký biến động",
+    "d": "Kê khai giá chuyển nhượng thấp hơn giá đất thực tế",
+    "answer": "b",
+    "explanation": "Khoản 9 Điều 11 Luật Đất đai 2024 quy định không thực hiện hoặc thực hiện không đầy đủ nghĩa vụ tài chính đối với Nhà nước là hành vi bị nghiêm cấm."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, giao dịch về quyền sử dụng đất không đăng ký với cơ quan có thẩm quyền bị coi là gì?",
+    "a": "Là hành vi hành chính thông thường, không bị nghiêm cấm",
+    "b": "Là hành vi bị nghiêm cấm",
+    "c": "Chỉ bị coi là vô hiệu dân sự giữa các bên",
+    "d": "Được phép thực hiện nếu có công chứng, chứng thực",
+    "answer": "b",
+    "explanation": "Khoản 8 Điều 11 Luật Đất đai 2024 quy định sử dụng đất, thực hiện giao dịch về quyền sử dụng đất mà không đăng ký với cơ quan có thẩm quyền là hành vi bị nghiêm cấm."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, hành vi 'hợp tác sản xuất, kinh doanh bằng quyền sử dụng đất' có đặc điểm pháp lý nào sau đây?",
+    "a": "Làm chấm dứt quyền sử dụng đất của người góp đất khi kết thúc hợp đồng",
+    "b": "Làm chuyển quyền sử dụng đất sang cho bên nhận hợp tác theo thỏa thuận",
+    "c": "Không làm thay đổi quyền sử dụng đất của người sử dụng đất",
+    "d": "Đòi hỏi người sử dụng đất phải làm thủ tục sang tên trên Giấy chứng nhận",
+    "answer": "c",
+    "explanation": "Khoản 26 Điều 3 Luật Đất đai 2024 quy định hợp tác sản xuất, kinh doanh bằng quyền sử dụng đất không làm thay đổi quyền sử dụng đất của người sử dụng đất."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, việc 'góp vốn bằng quyền sử dụng đất' có bản chất gì?",
+    "a": "Là thỏa thuận tạo thành vốn điều lệ của tổ chức kinh tế",
+    "b": "Là hình thức chuyển nhượng quyền sử dụng đất có thời hạn",
+    "c": "Là hình thức ủy quyền quản lý đất cho tổ chức kinh tế",
+    "d": "Là giao dịch nhằm thay thế thủ tục đăng ký quyền sử dụng đất lần đầu",
+    "answer": "a",
+    "explanation": "Khoản 22 Điều 3 Luật Đất đai 2024 xác định đây là sự thỏa thuận để tạo thành vốn điều lệ của tổ chức kinh tế."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, người đại diện cho cộng đồng dân cư trong quản lý, sử dụng đất được xác định như thế nào?",
+    "a": "Là người có chức vụ cao nhất tại địa phương nơi có đất",
+    "b": "Là trưởng thôn, làng, ấp, bản hoặc người được cộng đồng dân cư thỏa thuận cử ra",
+    "c": "Là người sở hữu diện tích đất lớn nhất trong cộng đồng dân cư đó",
+    "d": "Là công chức địa chính xã phụ trách địa bàn nơi có đất",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 6 Luật Đất đai 2024 quy định rõ người đại diện là trưởng thôn, làng, ấp, bản hoặc người được cộng đồng dân cư thỏa thuận cử ra."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, Chủ tịch UBND cấp xã có trách nhiệm trực tiếp đối với loại đất nào sau đây?",
+    "a": "Đất thương mại, dịch vụ của hộ gia đình",
+    "b": "Đất quốc phòng, an ninh nằm trên địa bàn xã",
+    "c": "Đất nông nghiệp sử dụng vào mục đích công ích",
+    "d": "Toàn bộ diện tích đất nông nghiệp của cá nhân trong xã",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 6 Luật Đất đai 2024 quy định Chủ tịch UBND cấp xã chịu trách nhiệm đối với việc sử dụng đất nông nghiệp vào mục đích công ích."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, nhóm 'đất chưa sử dụng' được định nghĩa là gì?",
+    "a": "Đất đã có quy hoạch nhưng chưa có quyết định giao đất",
+    "b": "Đất chưa xác định mục đích sử dụng và chưa giao, chưa cho thuê",
+    "c": "Đất đang trong thời gian chờ thu hồi để thực hiện dự án",
+    "d": "Đất nông nghiệp không còn khả năng canh tác do bị bỏ hoang",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 9 Luật Đất đai 2024 quy định nhóm đất chưa sử dụng là đất chưa xác định mục đích sử dụng và chưa giao, chưa cho thuê."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, đất có mặt nước chuyên dùng thuộc nhóm đất nào?",
+    "a": "Nhóm đất nông nghiệp vì có liên quan đến thủy lợi",
+    "b": "Nhóm đất phi nông nghiệp",
+    "c": "Nhóm đất chưa sử dụng",
+    "d": "Nhóm đất xây dựng công trình công cộng",
+    "answer": "b",
+    "explanation": "Điểm i khoản 3 Điều 9 Luật Đất đai 2024 quy định đất có mặt nước chuyên dùng thuộc nhóm đất phi nông nghiệp."
+  },
+  {
+    "question": "Khi giấy tờ về quyền sử dụng đất và hiện trạng sử dụng đất có sự khác biệt, việc xác định loại đất dựa trên cơ sở nào?",
+    "a": "Theo ý chí của người sử dụng đất tại thời điểm kiểm tra",
+    "b": "Theo quyết định của UBND cấp tỉnh",
+    "c": "Theo quy định của Chính phủ",
+    "d": "Theo hiện trạng sử dụng thực tế lâu dài tại địa phương",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 10 Luật Đất đai 2024 quy định trường hợp loại đất trên giấy tờ khác với hiện trạng sử dụng đất thì thực hiện theo quy định của Chính phủ."
+  },
+  {
+    "question": "Hành vi nào dưới đây được liệt kê cụ thể là 'bị nghiêm cấm' trong Luật Đất đai 2024?",
+    "a": "Phân biệt đối xử về giới trong quản lý, sử dụng đất đai",
+    "b": "Chậm thực hiện đăng ký biến động đất đai quá 30 ngày",
+    "c": "Sử dụng đất vượt quá diện tích ghi trên Giấy chứng nhận do sai số",
+    "d": "Kê khai sai giá đất trong hồ sơ thực hiện nghĩa vụ tài chính",
+    "answer": "a",
+    "explanation": "Khoản 11 Điều 11 Luật Đất đai 2024 quy định phân biệt đối xử về giới trong quản lý, sử dụng đất đai là hành vi bị nghiêm cấm."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, thế nào là 'đất đang có tranh chấp'?",
+    "a": "Là thửa đất đang có đơn khiếu nại chưa được thụ lý",
+    "b": "Là thửa đất có tranh chấp mà các bên đang tự thỏa thuận với nhau",
+    "c": "Là thửa đất có tranh chấp đất đai mà đang trong quá trình được cơ quan có thẩm quyền giải quyết",
+    "d": "Là thửa đất có nhiều người cùng đứng tên trên Giấy chứng nhận",
+    "answer": "c",
+    "explanation": "Khoản 16 Điều 3 Luật Đất đai 2024 quy định đất đang có tranh chấp là thửa đất có tranh chấp đất đai mà đang trong quá trình được cơ quan có thẩm quyền giải quyết."
+  },
+  {
+    "question": "Người nhận chuyển nhượng quyền thuê trong hợp đồng thuê đất được hưởng quyền lợi gì?",
+    "a": "Được quyền chuyển đổi mục đích sử dụng đất thành đất ở",
+    "b": "Được kế thừa các quyền và nghĩa vụ của người sử dụng đất",
+    "c": "Được miễn trừ mọi nghĩa vụ tài chính với Nhà nước",
+    "d": "Được quyền ưu tiên mua lại đất khi Nhà nước bán đấu giá",
+    "answer": "b",
+    "explanation": "Khoản 37 Điều 3 Luật Đất đai 2024 quy định người nhận chuyển nhượng quyền thuê trong hợp đồng thuê đất được kế thừa các quyền và nghĩa vụ của người sử dụng đất."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, đất đai thuộc hình thức sở hữu nào?",
+    "a": "Sở hữu nhà nước",
+    "b": "Sở hữu tập thể",
+    "c": "Sở hữu toàn dân do Nhà nước đại diện chủ sở hữu",
+    "d": "Sở hữu hỗn hợp",
+    "answer": "c",
+    "explanation": "Điều 12 Luật Đất đai 2024 quy định đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và thống nhất quản lý."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, cơ quan nào quyết định quy hoạch sử dụng đất quốc gia?",
+    "a": "Chính phủ",
+    "b": "Bộ Tài nguyên và Môi trường",
+    "c": "Ủy ban nhân dân cấp tỉnh",
+    "d": "Quốc hội",
+    "answer": "d",
+    "explanation": "Khoản 1 Điều 14 Luật Đất đai 2024 quy định Quốc hội quyết định quy hoạch sử dụng đất quốc gia."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, Nhà nước quyết định mục đích sử dụng đất thông qua hình thức nào sau đây?",
+    "a": "Tập quán địa phương",
+    "b": "Quy hoạch sử dụng đất, kế hoạch sử dụng đất và giao đất, cho thuê đất",
+    "c": "Ý chí của người sử dụng đất",
+    "d": "Thỏa thuận dân sự",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 13 Luật Đất đai 2024 quy định Nhà nước quyết định mục đích sử dụng đất thông qua quy hoạch, kế hoạch sử dụng đất, giao đất, cho thuê đất, công nhận quyền sử dụng đất và cho phép chuyển mục đích sử dụng đất."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, Nhà nước có trách nhiệm nào sau đây đối với người sử dụng đất?",
+    "a": "Tự động cấp Giấy chứng nhận cho mọi trường hợp",
+    "b": "Cấp Giấy chứng nhận khi người sử dụng đất có đủ điều kiện",
+    "c": "Chỉ cấp Giấy chứng nhận cho tổ chức",
+    "d": "Không có trách nhiệm giải quyết tranh chấp đất đai",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 15 Luật Đất đai 2024 quy định Nhà nước có trách nhiệm cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho người sử dụng đất khi có đủ điều kiện."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, Nhà nước không thừa nhận việc nào sau đây?",
+    "a": "Đòi lại đất đã được giao cho người khác sử dụng trong quá trình thực hiện chính sách đất đai của Nhà nước",
+    "b": "Chuyển nhượng quyền sử dụng đất",
+    "c": "Khiếu nại quyết định hành chính",
+    "d": "Đăng ký biến động đất đai",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 17 Luật Đất đai 2024 quy định Nhà nước không thừa nhận việc đòi lại đất đã được giao theo quy định của Nhà nước cho người khác sử dụng trong quá trình thực hiện chính sách đất đai."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, công dân được tiếp cận thông tin nào sau đây?",
+    "a": "Thông tin thuộc bí mật nhà nước",
+    "b": "Bảng giá đất đã được công bố",
+    "c": "Toàn bộ hồ sơ nội bộ của cơ quan quản lý đất đai",
+    "d": "Thông tin điều tra chưa công bố",
+    "answer": "b",
+    "explanation": "Điểm d khoản 1 Điều 24 Luật Đất đai 2024 quy định công dân được tiếp cận bảng giá đất đã được công bố."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, cơ quan nào là cơ quan đầu mối giúp Chính phủ thực hiện quản lý nhà nước về đất đai?",
+    "a": "Bộ Tư pháp",
+    "b": "Bộ Xây dựng",
+    "c": "Bộ Tài nguyên và Môi trường",
+    "d": "Thanh tra Chính phủ",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 21 Luật Đất đai 2024 quy định Bộ Tài nguyên và Môi trường là cơ quan đầu mối giúp Chính phủ, Thủ tướng Chính phủ thực hiện quản lý nhà nước về đất đai."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, nội dung nào sau đây thuộc quản lý nhà nước về đất đai?",
+    "a": "Đăng ký đất đai, lập và quản lý hồ sơ địa chính",
+    "b": "Quản lý hộ tịch",
+    "c": "Đăng kiểm phương tiện giao thông",
+    "d": "Cấp giấy phép lao động",
+    "answer": "a",
+    "explanation": "Khoản 12 Điều 20 Luật Đất đai 2024 quy định đăng ký đất đai, lập và quản lý hồ sơ địa chính là nội dung quản lý nhà nước về đất đai."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, công dân có quyền nào sau đây đối với đất đai?",
+    "a": "Tự quyết định bảng giá đất",
+    "b": "Tham gia góp ý, giám sát việc thực hiện chính sách pháp luật đất đai",
+    "c": "Tự cấp Giấy chứng nhận quyền sử dụng đất",
+    "d": "Miễn thực hiện nghĩa vụ tài chính",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 23 Luật Đất đai 2024 quy định công dân có quyền tham gia xây dựng, góp ý, giám sát trong việc hoàn thiện và tổ chức thực hiện chính sách, pháp luật về đất đai."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, nghĩa vụ nào sau đây là nghĩa vụ của công dân đối với đất đai?",
+    "a": "Tự xác định loại đất",
+    "b": "Giữ gìn, bảo vệ và phát triển tài nguyên đất",
+    "c": "Tự ban hành quy hoạch sử dụng đất",
+    "d": "Tự quyết định giá đất",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 25 Luật Đất đai 2024 quy định công dân có nghĩa vụ giữ gìn, bảo vệ và phát triển tài nguyên đất."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, Nhà nước có quyền nào sau đây với tư cách đại diện chủ sở hữu về đất đai?",
+    "a": "Quyết định thời hạn sử dụng đất",
+    "b": "Tự do mua bán đất đai như chủ thể dân sự",
+    "c": "Từ chối mọi giao dịch đất đai",
+    "d": "Tự động hủy Giấy chứng nhận đã cấp",
+    "answer": "a",
+    "explanation": "Khoản 4 Điều 13 Luật Đất đai 2024 quy định Nhà nước quyết định thời hạn sử dụng đất."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, Nhà nước điều tiết phần giá trị tăng thêm từ đất trong trường hợp nào?",
+    "a": "Do người sử dụng đất đầu tư mang lại",
+    "b": "Không do đầu tư của người sử dụng đất mang lại",
+    "c": "Do thừa kế quyền sử dụng đất",
+    "d": "Do chuyển nhượng giữa cá nhân với nhau",
+    "answer": "b",
+    "explanation": "Khoản 11 Điều 13 Luật Đất đai 2024 quy định Nhà nước điều tiết phần giá trị tăng thêm từ đất mà không do đầu tư của người sử dụng đất mang lại."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, cơ quan nào quyết định bảng giá đất?",
+    "a": "Ủy ban nhân dân cấp xã",
+    "b": "Hội đồng nhân dân các cấp theo thẩm quyền",
+    "c": "Tòa án nhân dân",
+    "d": "Văn phòng đăng ký đất đai",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 14 Luật Đất đai 2024 quy định Hội đồng nhân dân các cấp quyết định bảng giá đất."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, Hội đồng nhân dân các cấp có quyền nào sau đây?",
+    "a": "Cấp Giấy chứng nhận quyền sử dụng đất",
+    "b": "Thông qua quy hoạch sử dụng đất của địa phương trước khi trình phê duyệt",
+    "c": "Đăng ký biến động đất đai",
+    "d": "Ký hợp đồng chuyển nhượng quyền sử dụng đất",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 14 Luật Đất đai 2024 quy định Hội đồng nhân dân các cấp thực hiện quyền thông qua quy hoạch sử dụng đất của địa phương mình trước khi trình cơ quan có thẩm quyền phê duyệt."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, Nhà nước có trách nhiệm nào sau đây khi thu hồi đất vì mục đích quốc phòng, an ninh hoặc phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng?",
+    "a": "Chỉ hỗ trợ bằng tiền",
+    "b": "Thực hiện bồi thường, hỗ trợ, tái định cư theo quy định của pháp luật",
+    "c": "Không phải hỗ trợ người bị thu hồi đất",
+    "d": "Chỉ tái định cư cho tổ chức",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 15 Luật Đất đai 2024 quy định Nhà nước thực hiện bồi thường, hỗ trợ, tái định cư theo quy định của pháp luật cho người có đất thu hồi."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, cá nhân là người dân tộc thiểu số thuộc diện hộ nghèo tại vùng đồng bào dân tộc thiểu số và miền núi có thể được hỗ trợ nào sau đây lần đầu?",
+    "a": "Giao đất nông nghiệp trong hạn mức không thu tiền sử dụng đất",
+    "b": "Tự ý nhận mọi loại đất công",
+    "c": "Miễn toàn bộ nghĩa vụ tài chính với mọi loại đất",
+    "d": "Được cấp đất không giới hạn diện tích",
+    "answer": "a",
+    "explanation": "Điểm c khoản 2 Điều 16 Luật Đất đai 2024 quy định cá nhân là người dân tộc thiểu số thuộc diện hộ nghèo, hộ cận nghèo có thể được giao đất nông nghiệp trong hạn mức không thu tiền sử dụng đất."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, thông tin nào sau đây công dân được quyền tiếp cận?",
+    "a": "Thông tin thuộc bí mật nhà nước",
+    "b": "Kết quả thanh tra, kiểm tra, giải quyết tranh chấp đất đai",
+    "c": "Thông tin điều tra chưa được công bố",
+    "d": "Toàn bộ hồ sơ nội bộ của cơ quan quản lý",
+    "answer": "b",
+    "explanation": "Điểm e khoản 1 Điều 24 Luật Đất đai 2024 quy định công dân được tiếp cận kết quả thanh tra, kiểm tra, giải quyết tranh chấp đất đai."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, nội dung nào sau đây thuộc quản lý nhà nước về đất đai?",
+    "a": "Điều tra, xây dựng bảng giá đất và giá đất cụ thể",
+    "b": "Quản lý đăng ký hộ tịch",
+    "c": "Cấp giấy phép lái xe",
+    "d": "Đăng kiểm phương tiện giao thông",
+    "answer": "a",
+    "explanation": "Khoản 8 Điều 20 Luật Đất đai 2024 quy định điều tra, xây dựng bảng giá đất, giá đất cụ thể, quản lý giá đất là nội dung quản lý nhà nước về đất đai."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, cơ quan nào là cơ quan có chức năng quản lý nhà nước về đất đai ở trung ương?",
+    "a": "Bộ Nội vụ",
+    "b": "Bộ Tư pháp",
+    "c": "Bộ Tài nguyên và Môi trường",
+    "d": "Thanh tra Chính phủ",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 22 Luật Đất đai 2024 quy định cơ quan có chức năng quản lý nhà nước về đất đai ở trung ương là Bộ Tài nguyên và Môi trường."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, công dân có quyền nào sau đây?",
+    "a": "Tự quyết định giao đất cho người khác",
+    "b": "Nhận chuyển nhượng, nhận tặng cho, nhận thừa kế quyền sử dụng đất theo quy định pháp luật",
+    "c": "Tự ban hành bảng giá đất",
+    "d": "Miễn thực hiện nghĩa vụ tài chính về đất đai",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 23 Luật Đất đai 2024 quy định công dân có quyền nhận chuyển nhượng, nhận tặng cho, nhận thừa kế, nhận góp vốn, thuê quyền sử dụng đất theo quy định của pháp luật."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, Ủy ban Mặt trận Tổ quốc Việt Nam các cấp có quyền tham gia ý kiến đối với nội dung nào sau đây?",
+    "a": "Phương án bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất",
+    "b": "Bản án hình sự của Tòa án",
+    "c": "Kế hoạch tuyển dụng công chức",
+    "d": "Biểu thuế xuất nhập khẩu",
+    "answer": "a",
+    "explanation": "Điểm b khoản 2 Điều 19 Luật Đất đai 2024 quy định Ủy ban Mặt trận Tổ quốc Việt Nam các cấp tham gia ý kiến về trường hợp thu hồi đất, phương án bồi thường, hỗ trợ, tái định cư và trường hợp cưỡng chế khi thực hiện thu hồi đất."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, Ủy ban Mặt trận Tổ quốc Việt Nam các cấp có trách nhiệm nào đối với bảng giá đất?",
+    "a": "Quyết định giá đất cụ thể",
+    "b": "Cấp Giấy chứng nhận quyền sử dụng đất",
+    "c": "Tham gia ý kiến, giám sát quá trình xây dựng bảng giá đất",
+    "d": "Ra quyết định thu hồi đất",
+    "answer": "c",
+    "explanation": "Điểm c khoản 2 Điều 19 Luật Đất đai 2024 quy định Ủy ban Mặt trận Tổ quốc Việt Nam các cấp tham gia ý kiến, giám sát quá trình xây dựng bảng giá đất và thực hiện bảng giá đất."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, Mặt trận Tổ quốc Việt Nam có trách nhiệm nào trong giải quyết tranh chấp đất đai?",
+    "a": "Ra bản án giải quyết tranh chấp",
+    "b": "Tham gia hòa giải tranh chấp đất đai theo quy định pháp luật",
+    "c": "Tự quyết định bên thắng kiện",
+    "d": "Hủy Giấy chứng nhận quyền sử dụng đất",
+    "answer": "b",
+    "explanation": "Điểm d khoản 2 Điều 19 Luật Đất đai 2024 quy định Ủy ban Mặt trận Tổ quốc Việt Nam các cấp tham gia hòa giải tranh chấp đất đai theo quy định của pháp luật."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, nội dung nào sau đây thuộc trách nhiệm giám sát của Ủy ban Mặt trận Tổ quốc Việt Nam các cấp?",
+    "a": "Việc thực hiện chính sách, pháp luật về giao đất, cho thuê đất, chuyển mục đích sử dụng đất",
+    "b": "Hoạt động xét xử của Hội đồng xét xử",
+    "c": "Kế hoạch điều tra hình sự",
+    "d": "Hoạt động cấp hộ chiếu",
+    "answer": "a",
+    "explanation": "Điểm đ khoản 2 Điều 19 Luật Đất đai 2024 quy định Mặt trận Tổ quốc Việt Nam giám sát việc thực hiện chính sách, pháp luật về giao đất, cho thuê đất, chuyển mục đích sử dụng đất."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, nội dung nào sau đây là một trong các nội dung quản lý nhà nước về đất đai?",
+    "a": "Phát triển, quản lý và khai thác quỹ đất",
+    "b": "Đăng ký kết hôn",
+    "c": "Cấp giấy phép hành nghề luật sư",
+    "d": "Quản lý thi hành án dân sự",
+    "answer": "a",
+    "explanation": "Khoản 11 Điều 20 Luật Đất đai 2024 quy định phát triển, quản lý và khai thác quỹ đất là nội dung quản lý nhà nước về đất đai."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, nội dung nào sau đây thuộc quản lý nhà nước về đất đai?",
+    "a": "Xây dựng, quản lý, vận hành, khai thác Hệ thống thông tin quốc gia về đất đai",
+    "b": "Quản lý hộ tịch",
+    "c": "Cấp giấy phép xây dựng nhà ở riêng lẻ",
+    "d": "Đăng kiểm xe cơ giới",
+    "answer": "a",
+    "explanation": "Khoản 14 Điều 20 Luật Đất đai 2024 quy định xây dựng, quản lý, vận hành, khai thác Hệ thống thông tin quốc gia về đất đai là nội dung quản lý nhà nước về đất đai."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, công dân có quyền nào sau đây đối với đất đai?",
+    "a": "Tự quyết định thu hồi đất",
+    "b": "Tham gia đấu giá quyền sử dụng đất theo quy định pháp luật",
+    "c": "Tự ban hành quy hoạch sử dụng đất",
+    "d": "Tự xác định giá đất cụ thể",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 23 Luật Đất đai 2024 quy định công dân có quyền tham gia đấu giá quyền sử dụng đất theo quy định của pháp luật."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, công dân có nghĩa vụ nào sau đây đối với đất đai?",
+    "a": "Tôn trọng quyền sử dụng đất của người sử dụng đất khác",
+    "b": "Tự quyết định chuyển mục đích sử dụng đất",
+    "c": "Tự sửa thông tin địa chính",
+    "d": "Tự xác định loại đất",
+    "answer": "a",
+    "explanation": "Khoản 3 Điều 25 Luật Đất đai 2024 quy định công dân có nghĩa vụ tôn trọng quyền sử dụng đất của người sử dụng đất khác."
+  }
 ]
