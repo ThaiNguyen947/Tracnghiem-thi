@@ -26,6 +26,240 @@
     "answer": "b",
     "explanation": "Điểm a khoản 1 Điều 4 Nghị định 99/2022/NĐ-CP quy định các trường hợp đăng ký bao gồm thế chấp tài sản, cầm cố tài sản, bảo lưu quyền sở hữu theo Bộ luật Dân sự và luật khác liên quan."
   },
+     {
+    "question": "Theo Luật Kinh doanh bảo hiểm 2022, hợp đồng bảo hiểm là gì?",
+    "a": "Hợp đồng lao động giữa doanh nghiệp bảo hiểm và người lao động",
+    "b": "Sự thỏa thuận giữa doanh nghiệp bảo hiểm và bên mua bảo hiểm",
+    "c": "Quyết định đơn phương của doanh nghiệp bảo hiểm",
+    "d": "Cam kết của Nhà nước về bồi thường rủi ro",
+    "answer": "b",
+    "explanation": "Theo khoản 16 Điều 4 Luật Kinh doanh bảo hiểm 2022, hợp đồng bảo hiểm là sự thỏa thuận giữa doanh nghiệp bảo hiểm và bên mua bảo hiểm."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bảo hiểm 2022, quyền nhận tiền bảo hiểm được xác định là gì?",
+    "a": "Nghĩa vụ dân sự",
+    "b": "Tài sản công",
+    "c": "Quyền tài sản",
+    "d": "Quan hệ nhân thân không thể chuyển giao",
+    "answer": "c",
+    "explanation": "Theo Bộ luật Dân sự, quyền đòi tiền bảo hiểm là quyền tài sản, có thể chuyển nhượng, thừa kế hoặc dùng để bảo đảm."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bảo hiểm 2022, hợp đồng bảo hiểm có bắt buộc phải công chứng không?",
+    "a": "Có, trong mọi trường hợp",
+    "b": "Không bắt buộc công chứng",
+    "c": "Chỉ công chứng khi giá trị hợp đồng trên 1 tỷ đồng",
+    "d": "Chỉ công chứng khi có yêu cầu của cơ quan nhà nước",
+    "answer": "b",
+    "explanation": "Luật Kinh doanh bảo hiểm không quy định bắt buộc công chứng đối với hợp đồng bảo hiểm."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bảo hiểm 2022, người thụ hưởng trong hợp đồng bảo hiểm là ai?",
+    "a": "Người ký hợp đồng bảo hiểm",
+    "b": "Doanh nghiệp bảo hiểm",
+    "c": "Người được bên mua bảo hiểm chỉ định để nhận tiền bảo hiểm",
+    "d": "Cơ quan nhà nước quản lý bảo hiểm",
+    "answer": "c",
+    "explanation": "Theo  Luật Kinh doanh bảo hiểm 2022, người thụ hưởng là cá nhân hoặc tổ chức được bên mua bảo hiểm chỉ định để nhận tiền bảo hiểm."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bảo hiểm 2022, bên mua bảo hiểm có quyền chuyển nhượng hợp đồng bảo hiểm không?",
+    "a": "Không được chuyển nhượng trong mọi trường hợp",
+    "b": "Được chuyển nhượng nếu pháp luật không cấm và không trái hợp đồng",
+    "c": "Chỉ được chuyển nhượng khi doanh nghiệp bảo hiểm đồng ý bằng văn bản",
+    "d": "Chỉ được chuyển nhượng khi có công chứng bắt buộc",
+    "answer": "b",
+    "explanation": "Theo Luật Kinh doanh bảo hiểm 2022, bên mua bảo hiểm có thể chuyển nhượng hợp đồng nếu không trái với quy định của pháp luật hoặc hợp đồng."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bảo hiểm 2022, hình thức giao kết hợp đồng bảo hiểm được thể hiện như thế nào?",
+    "a": "Chỉ bằng văn bản giấy có công chứng",
+    "b": "Chỉ bằng lời nói",
+    "c": "Bằng văn bản hoặc dữ liệu điện tử",
+    "d": "Chỉ thông qua cơ quan nhà nước",
+    "answer": "c",
+    "explanation": "Theo  Luật Kinh doanh bảo hiểm 2022, hợp đồng bảo hiểm phải được lập thành văn bản, bao gồm cả dữ liệu điện tử."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bảo hiểm 2022, trường hợp nào người thụ hưởng có quyền trực tiếp nhận tiền bảo hiểm?",
+    "a": "Khi hợp đồng bảo hiểm có chỉ định người thụ hưởng hợp lệ",
+    "b": "Khi người mua bảo hiểm đồng ý miệng",
+    "c": "Khi có xác nhận của UBND xã",
+    "d": "Khi có quyết định của công chứng viên",
+    "answer": "a",
+    "explanation": "Người thụ hưởng có quyền nhận tiền theo chỉ định hợp pháp của bên mua bảo hiểm trong hợp đồng."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bảo hiểm 2022, hậu quả pháp lý khi bên mua bảo hiểm cố ý cung cấp thông tin sai sự thật là gì?",
+    "a": "Hợp đồng vẫn có hiệu lực đầy đủ",
+    "b": "Doanh nghiệp bảo hiểm phải tăng phí bảo hiểm",
+    "c": "Doanh nghiệp bảo hiểm có quyền đơn phương chấm dứt hợp đồng hoặc từ chối trả tiền bảo hiểm",
+    "d": "Hợp đồng tự động chuyển thành hợp đồng vô hiệu tuyệt đối",
+    "answer": "c",
+    "explanation": "Theo Luật Kinh doanh bảo hiểm 2022, doanh nghiệp bảo hiểm có quyền đơn phương chấm dứt hợp đồng hoặc từ chối bồi thường/trả tiền bảo hiểm nếu bên mua cố ý cung cấp thông tin sai sự thật."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bảo hiểm 2022, trường hợp nào doanh nghiệp bảo hiểm được đơn phương chấm dứt hợp đồng bảo hiểm?",
+    "a": "Khi người được bảo hiểm thay đổi nơi cư trú",
+    "b": "Khi bên mua bảo hiểm không đóng phí theo thời hạn thỏa thuận",
+    "c": "Khi hợp đồng đã có hiệu lực trên 1 năm",
+    "d": "Khi người thụ hưởng thay đổi",
+    "answer": "b",
+    "explanation": "Theo Luật Kinh doanh bảo hiểm 2022, doanh nghiệp bảo hiểm được chấm dứt hợp đồng khi bên mua không đóng phí hoặc không đóng đủ phí theo thời hạn thỏa thuận."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bảo hiểm 2022, quyền thay đổi người thụ hưởng thuộc về ai?",
+    "a": "Doanh nghiệp bảo hiểm",
+    "b": "Cơ quan nhà nước",
+    "c": "Bên mua bảo hiểm",
+    "d": "Người được bảo hiểm bắt buộc",
+    "answer": "c",
+    "explanation": "Theo Luật Kinh doanh bảo hiểm 2022, bên mua bảo hiểm có quyền chỉ định hoặc thay đổi người thụ hưởng, trừ trường hợp các bên có thỏa thuận khác."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bảo hiểm 2022, hợp đồng bảo hiểm bị vô hiệu trong trường hợp nào?",
+    "a": "Một bên không đọc kỹ hợp đồng",
+    "b": "Bên mua bảo hiểm không đóng phí đúng hạn",
+    "c": "Tại thời điểm giao kết, bên mua không có quyền lợi có thể được bảo hiểm",
+    "d": "Doanh nghiệp bảo hiểm thay đổi biểu phí",
+    "answer": "c",
+    "explanation": "Theo Luật Kinh doanh bảo hiểm 2022, nếu bên mua bảo hiểm không có quyền lợi có thể được bảo hiểm tại thời điểm giao kết thì hợp đồng vô hiệu."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bảo hiểm 2022, khi người được bảo hiểm chết, quyền nhận tiền bảo hiểm được xử lý như thế nào nếu không có người thụ hưởng?",
+    "a": "Thuộc về doanh nghiệp bảo hiểm",
+    "b": "Thuộc về Nhà nước",
+    "c": "Được giải quyết theo quy định về thừa kế",
+    "d": "Tự động hủy bỏ quyền tài sản",
+    "answer": "c",
+    "explanation": "Nếu không có người thụ hưởng, quyền nhận tiền bảo hiểm được giải quyết theo quy định của pháp luật về thừa kế."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bảo hiểm 2022, bên mua bảo hiểm không đóng phí đúng hạn thì hậu quả pháp lý là gì?",
+    "a": "Hợp đồng vẫn có hiệu lực vô thời hạn",
+    "b": "Doanh nghiệp bảo hiểm phải tự đóng phí thay",
+    "c": "Hợp đồng có thể bị tạm dừng hoặc chấm dứt theo điều kiện hợp đồng",
+    "d": "Hợp đồng tự động vô hiệu",
+    "answer": "c",
+    "explanation": "Việc không đóng phí đúng hạn dẫn đến hậu quả tạm dừng hoặc chấm dứt hợp đồng theo thỏa thuận của hai bên."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bảo hiểm 2022, doanh nghiệp bảo hiểm có nghĩa vụ nào sau đây?",
+    "a": "Tự ý thay đổi người thụ hưởng",
+    "b": "Giải thích rõ điều khoản hợp đồng cho bên mua bảo hiểm",
+    "c": "Từ chối mọi yêu cầu bồi thường",
+    "d": "Không cần cung cấp thông tin hợp đồng",
+    "answer": "b",
+    "explanation": "Theo Luật Kinh doanh bảo hiểm 2022, doanh nghiệp bảo hiểm có nghĩa vụ giải thích rõ quyền và nghĩa vụ cho bên mua bảo hiểm."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bảo hiểm 2022, bảo hiểm trách nhiệm nghề nghiệp đối với công chứng viên được quy định là hình thức nào?",
+    "a": "Bảo hiểm tự nguyện",
+    "b": "Bảo hiểm bắt buộc",
+    "c": "Bảo hiểm khuyến khích",
+    "d": "Không bắt buộc",
+    "answer": "b",
+    "explanation": "Bảo hiểm trách nhiệm nghề nghiệp của công chứng viên là bảo hiểm bắt buộc theo Luật Kinh doanh bảo hiểm và Luật Công chứng."
+  },
+  {
+    "question": "Trong hoạt động công chứng, việc xác định 'Người thụ hưởng' trong hợp đồng bảo hiểm nhân thọ là quan trọng nhất khi xử lý loại việc nào?",
+    "a": "Công chứng hợp đồng ủy quyền",
+    "b": "Công chứng văn bản khai nhận di sản thừa kế",
+    "c": "Công chứng hợp đồng thuê nhà",
+    "d": "Công chứng hợp đồng tặng cho quyền sử dụng đất",
+    "answer": "b",
+    "explanation": "Khi người được bảo hiểm chết, tiền bảo hiểm có thể thuộc về di sản thừa kế, công chứng viên cần xác định đúng để phân chia."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bảo hiểm 2022, quyền lợi có thể được bảo hiểm đối với hợp đồng bảo hiểm tài sản bao gồm?",
+    "a": "Quyền sở hữu, quyền chiếm hữu, quyền sử dụng tài sản",
+    "b": "Quyền được thừa kế tài sản",
+    "c": "Quyền được tặng cho tài sản",
+    "d": "Tất cả các phương án trên",
+    "answer": "a",
+    "explanation": "Theo Luật Kinh doanh bảo hiểm 2022, quyền lợi bảo hiểm tài sản bao gồm quyền sở hữu, quyền chiếm hữu, quyền sử dụng, quyền tài sản."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bảo hiểm 2022, thời hiệu khởi kiện về hợp đồng bảo hiểm là bao lâu?",
+    "a": "01 năm",
+    "b": "02 năm",
+    "c": "03 năm",
+    "d": "05 năm",
+    "answer": "c",
+    "explanation": "Theo Luật Kinh doanh bảo hiểm 2022, thời hiệu khởi kiện là 03 năm kể từ thời điểm quyền khởi kiện phát sinh."
+  },
+  {
+    "question": "Ai là người có quyền hủy bỏ (đơn phương chấm dứt) hợp đồng bảo hiểm?",
+    "a": "Bên mua bảo hiểm",
+    "b": "Doanh nghiệp bảo hiểm",
+    "c": "Cả bên mua bảo hiểm và doanh nghiệp bảo hiểm",
+    "d": "Người thụ hưởng",
+    "answer": "c",
+    "explanation": "Theo Luật Kinh doanh bảo hiểm 2022, cả hai bên đều có quyền đơn phương chấm dứt hợp đồng trong các trường hợp luật định."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bảo hiểm 2022, bảo hiểm trách nhiệm nghề nghiệp của công chứng viên nhằm mục đích gì?",
+    "a": "Bảo vệ tài sản văn phòng công chứng",
+    "b": "Bảo vệ quyền lợi của người yêu cầu công chứng khi có sai sót nghề nghiệp",
+    "c": "Trả lương cho công chứng viên",
+    "d": "Tăng uy tín cho doanh nghiệp bảo hiểm",
+    "answer": "b",
+    "explanation": "Bảo hiểm bắt buộc này giúp bồi thường thiệt hại cho người yêu cầu công chứng nếu có lỗi nghề nghiệp phát sinh."
+  },
+  {
+    "question": "Việc giao kết hợp đồng bảo hiểm bằng dữ liệu điện tử được thừa nhận như thế nào?",
+    "a": "Có giá trị pháp lý như hợp đồng bằng văn bản giấy",
+    "b": "Chỉ có giá trị nếu được công chứng",
+    "c": "Chỉ có giá trị với bảo hiểm nhân thọ",
+    "d": "Không có giá trị pháp lý",
+    "answer": "a",
+    "explanation": "Theo Luật Kinh doanh bảo hiểm 2022, văn bản bao gồm cả dữ liệu điện tử đáp ứng quy định của pháp luật về giao dịch điện tử."
+  },
+  {
+    "question": "Quyền đòi tiền bảo hiểm có thể được sử dụng làm gì?",
+    "a": "Chỉ để nhận tiền từ doanh nghiệp",
+    "b": "Chỉ được chuyển nhượng trong nội bộ gia đình",
+    "c": "Chuyển nhượng, thừa kế hoặc dùng làm tài sản bảo đảm",
+    "d": "Không được dùng cho bất kỳ giao dịch nào",
+    "answer": "c",
+    "explanation": "Vì là quyền tài sản nên người thụ hưởng có đầy đủ các quyền giao dịch dân sự theo pháp luật."
+  },
+  {
+    "question": "Nếu bên mua bảo hiểm không có quyền lợi có thể được bảo hiểm tại thời điểm giao kết, hậu quả là gì?",
+    "a": "Hợp đồng bị tạm đình chỉ",
+    "b": "Hợp đồng vô hiệu",
+    "c": "Doanh nghiệp bảo hiểm không phải trả tiền khi có sự kiện bảo hiểm",
+    "d": "Hợp đồng vẫn có hiệu lực nhưng phải đóng thêm phí",
+    "answer": "b",
+    "explanation": "Luật Kinh doanh bảo hiểm 2022 quy định rõ đây là trường hợp làm hợp đồng vô hiệu ngay từ khi giao kết."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bảo hiểm 2022, nghĩa vụ giải thích hợp đồng thuộc về ai?",
+    "a": "Bên mua bảo hiểm",
+    "b": "Người thụ hưởng",
+    "c": "Doanh nghiệp bảo hiểm",
+    "d": "Công chứng viên",
+    "answer": "c",
+    "explanation": "Doanh nghiệp bảo hiểm có nghĩa vụ cung cấp thông tin và giải thích rõ ràng các quyền, nghĩa vụ trong hợp đồng cho bên mua."
+  },
+  {
+    "question": "Trong bảo hiểm nhân thọ, bên mua bảo hiểm có quyền thay đổi người thụ hưởng khi nào?",
+    "a": "Chỉ khi có sự đồng ý của người thụ hưởng cũ",
+    "b": "Chỉ khi doanh nghiệp bảo hiểm cho phép",
+    "c": "Bất kỳ lúc nào, trừ khi có thỏa thuận khác trong hợp đồng",
+    "d": "Không được thay đổi",
+    "answer": "c",
+    "explanation": "Theo, đây là quyền của bên mua bảo hiểm nhằm đảm bảo tính linh hoạt của hợp đồng."
+  },
+  {
+    "question": "Điều khoản nào sau đây trong hợp đồng bảo hiểm bị coi là vô hiệu?",
+    "a": "Điều khoản về phí bảo hiểm",
+    "b": "Điều khoản vi phạm điều cấm của luật",
+    "c": "Điều khoản thay đổi người thụ hưởng",
+    "d": "Điều khoản về thời hạn bảo hiểm",
+    "answer": "b",
+    "explanation": "Theo quy định chung của BLDS và Luật KDBH, các điều khoản vi phạm điều cấm hoặc trái đạo đức xã hội đều vô hiệu."
+  },
   {
     "question": "Theo Nghị định 99/2022/NĐ-CP, nguyên tắc nào sau đây là đúng khi đăng ký biện pháp bảo đảm?",
     "a": "Cơ quan đăng ký có quyền yêu cầu người yêu cầu cung cấp thêm các giấy tờ không thuộc danh mục quy định",
