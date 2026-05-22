@@ -1,5 +1,608 @@
 [
      {
+    "question": "Theo Nghị định 21/2021/NĐ-CP, “bên bảo đảm” KHÔNG bao gồm chủ thể nào sau đây?",
+    "a": "Bên cầm cố",
+    "b": "Bên thế chấp",
+    "c": "Bên môi giới",
+    "d": "Bên bảo lãnh",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 3 Nghị định 21/2021/NĐ-CP: Bên bảo đảm bao gồm bên cầm cố, bên thế chấp, bên đặt cọc, bên ký cược, bên ký quỹ, bên bảo lãnh. Bên môi giới không phải là bên bảo đảm."
+  },
+  {
+    "question": "Hợp đồng bảo đảm theo Nghị định 21/2021/NĐ-CP có thể được thể hiện dưới hình thức nào?",
+    "a": "Chỉ bằng văn bản riêng",
+    "b": "Chỉ bằng điều khoản trong hợp đồng chính",
+    "c": "Chỉ bằng lời nói",
+    "d": "Bằng hợp đồng riêng hoặc điều khoản bảo đảm trong giao dịch dân sự khác",
+    "answer": "d",
+    "explanation": "Khoản 5 Điều 3 Nghị định 21/2021/NĐ-CP: Hợp đồng bảo đảm có thể được lập thành văn bản riêng hoặc là một phần (điều khoản) trong hợp đồng chính hoặc giao dịch dân sự khác."
+  },
+  {
+    "question": "Trường hợp pháp luật chuyên ngành có quy định đặc thù về tài sản bảo đảm thì áp dụng văn bản nào?",
+    "a": "Nghị định 21/2021/NĐ-CP",
+    "b": "Bộ luật Dân sự",
+    "c": "Quy định đặc thù của pháp luật chuyên ngành",
+    "d": "Thỏa thuận của các bên",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 4 Nghị định 21/2021/NĐ-CP: Trường hợp pháp luật chuyên ngành có quy định đặc thù về việc xác lập, thực hiện, xử lý tài sản bảo đảm thì áp dụng quy định của pháp luật đó."
+  },
+  {
+    "question": "Trường hợp các bên không xác định đúng tên biện pháp bảo đảm nhưng nội dung phù hợp với biện pháp bảo đảm trong Bộ luật Dân sự thì:",
+    "a": "Hợp đồng bị coi là vô hiệu",
+    "b": "Áp dụng theo tên gọi các bên đã ghi",
+    "c": "Áp dụng theo nội dung của biện pháp bảo đảm tương ứng",
+    "d": "Phải ký phụ lục sửa đổi tên hợp đồng",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 4 Nghị định 21/2021/NĐ-CP: Nếu các bên không xác định đúng tên biện pháp nhưng nội dung thỏa thuận phù hợp với biện pháp nào thì áp dụng quy định của biện pháp đó."
+  },
+  {
+    "question": "Người nhận bản chính Giấy chứng nhận từ bên nhận bảo đảm mà chậm hoặc không giao lại gây thiệt hại thì:",
+    "a": "Bị xử phạt vi phạm hành chính",
+    "b": "Phải bồi thường thiệt hại theo quy định",
+    "c": "Hợp đồng bảo đảm bị vô hiệu",
+    "d": "Không phát sinh trách nhiệm nếu không có thỏa thuận trước",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 6 Nghị định 21/2021/NĐ-CP: Bên nhận bản chính Giấy chứng nhận có nghĩa vụ giao lại khi nghĩa vụ bảo đảm chấm dứt; nếu chậm hoặc không giao gây thiệt hại thì phải bồi thường."
+  },
+  {
+    "question": "Việc giữ, sử dụng Giấy chứng nhận về tàu bay, tàu biển được thực hiện theo:",
+    "a": "Luật Đất đai",
+    "b": "Luật Nhà ở",
+    "c": "Luật Hàng không dân dụng và Bộ luật Hàng hải",
+    "d": "Nghị định 21/2021/NĐ-CP",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 6 Nghị định 21/2021/NĐ-CP: Việc giữ, sử dụng Giấy chứng nhận đối với tàu bay, tàu biển được thực hiện theo quy định của pháp luật về hàng không dân dụng và hàng hải."
+  },
+  {
+    "question": "Trường hợp bên bảo đảm là cá nhân chết, quyền truy đòi tài sản bảo đảm của bên nhận bảo đảm:",
+    "a": "Đương nhiên chấm dứt",
+    "b": "Vẫn tồn tại và thực hiện theo quy định về thừa kế",
+    "c": "Chuyển sang nghĩa vụ không có bảo đảm",
+    "d": "Chỉ thực hiện được khi người thừa kế đồng ý",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 7 Nghị định 21/2021/NĐ-CP: Quyền của bên nhận bảo đảm đối với tài sản không chấm dứt khi bên bảo đảm là cá nhân chết; quyền truy đòi được thực hiện theo quy định của Bộ luật Dân sự về thừa kế."
+  },
+  {
+    "question": "Theo Nghị định 21/2021/NĐ-CP, tài sản nào sau đây có thể dùng để bảo đảm thực hiện nghĩa vụ?",
+    "a": "Tài sản bị pháp luật cấm chuyển nhượng",
+    "b": "Tài sản thuộc sở hữu toàn dân nếu pháp luật cho phép",
+    "c": "Mọi tài sản đang tranh chấp quyền sở hữu",
+    "d": "Tài sản không xác định được giá trị",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 8 Nghị định 21/2021/NĐ-CP: Tài sản thuộc sở hữu toàn dân được dùng để bảo đảm nếu pháp luật về quản lý, sử dụng tài sản công cho phép."
+  },
+  {
+    "question": "Trường hợp cây hằng năm là tài sản gắn liền với đất được dùng để bảo đảm thực hiện nghĩa vụ thì áp dụng quy định về:",
+    "a": "Bất động sản",
+    "b": "Tài sản hình thành trong tương lai",
+    "c": "Động sản không phải là tàu bay, tàu biển",
+    "d": "Quyền tài sản",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 10 Nghị định 21/2021/NĐ-CP: Cây hằng năm là động sản không phải là tàu bay, tàu biển nên việc thế chấp/cầm cố được áp dụng theo quy định về động sản."
+  },
+  {
+    "question": "Khi quyền sử dụng đất đang là bất động sản hưởng quyền bất động sản liền kề được dùng để bảo đảm thì:",
+    "a": "Quyền đối với bất động sản liền kề đương nhiên chấm dứt",
+    "b": "Quyền đối với bất động sản liền kề vẫn có hiệu lực",
+    "c": "Phải đăng ký lại quyền hưởng lợi tại cơ quan chức năng",
+    "d": "Chỉ còn hiệu lực đối với chủ sở hữu cũ",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 10 Nghị định 21/2021/NĐ-CP: Trường hợp quyền sử dụng đất là bất động sản hưởng quyền thì khi thế chấp, quyền đối với bất động sản liền kề vẫn có hiệu lực đối với người nhận thế chấp."
+  },
+  {
+    "question": "Hoa lợi, lợi tức có được từ việc khai thác tài sản là đối tượng của quyền hưởng dụng:",
+    "a": "Không được dùng để bảo đảm nghĩa vụ",
+    "b": "Chỉ được dùng nếu có sự đồng ý của chủ sở hữu tài sản gốc",
+    "c": "Được dùng để bảo đảm thực hiện nghĩa vụ",
+    "d": "Chỉ được dùng trong hoạt động sản xuất kinh doanh",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 11 Nghị định 21/2021/NĐ-CP: Hoa lợi, lợi tức có được từ tài sản là đối tượng của quyền hưởng dụng thì thuộc sở hữu của người hưởng dụng và có thể dùng để bảo đảm."
+  },
+  {
+    "question": "Tài sản bảo đảm là vật có vật phụ hoặc vật đồng bộ thì việc mô tả trong hợp đồng phải:",
+    "a": "Ghi rõ giá trị riêng của vật phụ",
+    "b": "Mô tả theo ý chí của bên nhận bảo đảm",
+    "c": "Thể hiện được đặc điểm để xác định vật và các vật liên quan",
+    "d": "Có xác nhận của cơ quan chức năng địa phương",
+    "answer": "c",
+    "explanation": "Điều 12 Nghị định 21/2021/NĐ-CP: Việc mô tả vật phụ, vật đồng bộ phải thể hiện được đặc điểm, dấu hiệu hoặc địa điểm để xác định được vật đó."
+  },
+  {
+    "question": "Số dư tiền gửi tại tổ chức tín dụng dùng để bảo đảm thì việc mô tả tài sản phải tuân thủ:",
+    "a": "Luật Đất đai",
+    "b": "Pháp luật về ngân hàng",
+    "c": "Luật Xây dựng",
+    "d": "Quy định riêng của hợp đồng",
+    "answer": "b",
+    "explanation": "Điều 13 Nghị định 21/2021/NĐ-CP: Việc mô tả số dư tiền gửi dùng làm tài sản bảo đảm phải phù hợp với quy định của pháp luật về ngân hàng."
+  },
+  {
+    "question": "Chủ thể có quyền khai thác tài nguyên thiên nhiên có thể dùng tài sản nào để bảo đảm?",
+    "a": "Quyền khai thác khoáng sản",
+    "b": "Yến sào thiên nhiên",
+    "c": "Hải sản tự nhiên",
+    "d": "Tất cả các đáp án trên",
+    "answer": "d",
+    "explanation": "Điều 16 Nghị định 21/2021/NĐ-CP: Quyền khai thác khoáng sản, tài nguyên thiên nhiên khác (như yến sào, hải sản...) nếu được phép khai thác thì được dùng làm tài sản bảo đảm."
+  },
+  {
+    "question": "Quyền tài sản đối với đối tượng quyền tác giả có thể được dùng để:",
+    "a": "Bảo đảm thực hiện nghĩa vụ",
+    "b": "Chỉ để góp vốn vào doanh nghiệp",
+    "c": "Chỉ để chuyển nhượng quyền sử dụng",
+    "d": "Không được dùng làm đối tượng giao dịch",
+    "answer": "a",
+    "explanation": "Điều 17 Nghị định 21/2021/NĐ-CP: Quyền tài sản phát sinh từ quyền tác giả, quyền liên quan được dùng để bảo đảm thực hiện nghĩa vụ."
+  },
+  {
+    "question": "Chủ đầu tư được dùng dự án đầu tư để bảo đảm thực hiện nghĩa vụ khi:",
+    "a": "Dự án không bị pháp luật cấm chuyển nhượng",
+    "b": "Dự án đã hoàn thành trên 50%",
+    "c": "Có sự chấp thuận của cơ quan quản lý đầu tư",
+    "d": "Được các bên thỏa thuận",
+    "answer": "a",
+    "explanation": "Điều 18 Nghị định 21/2021/NĐ-CP: Dự án đầu tư được dùng làm tài sản bảo đảm nếu không thuộc trường hợp pháp luật cấm chuyển nhượng."
+  },
+  {
+    "question": "Khi dự án đầu tư dùng để bảo đảm thuộc trường hợp phải có giấy phép/quyết định của cơ quan nhà nước thì việc mô tả phải:",
+    "a": "Có xác nhận của công an địa phương",
+    "b": "Thể hiện được căn cứ pháp lý của giấy phép/quyết định đó",
+    "c": "Ghi rõ tên dự án là đủ",
+    "d": "Không cần mô tả chi tiết",
+    "answer": "b",
+    "explanation": "Điều 18 Nghị định 21/2021/NĐ-CP: Khi dự án đầu tư có yêu cầu về giấy chứng nhận/quyết định của cơ quan nhà nước thì việc mô tả phải thể hiện được số, ngày, cơ quan ban hành các văn bản đó."
+  },
+  {
+    "question": "Trường hợp chia, tách tài sản bảo đảm mà không làm thay đổi chủ sở hữu thì:",
+    "a": "Biện pháp bảo đảm chấm dứt",
+    "b": "Tài sản mới không còn là tài sản bảo đảm",
+    "c": "Tài sản mới tiếp tục là tài sản bảo đảm",
+    "d": "Phải đăng ký lại tại cơ quan có thẩm quyền",
+    "answer": "c",
+    "explanation": "Điểm a Khoản 1 Điều 21 Nghị định 21/2021/NĐ-CP: Khi tài sản bảo đảm được chia, tách nhưng không làm thay đổi chủ sở hữu thì tài sản mới tạo thành vẫn là tài sản bảo đảm."
+  },
+  {
+    "question": "Trường hợp vật mới được tạo thành do chế biến thuộc sở hữu của bên bảo đảm thì:",
+    "a": "Vật mới tiếp tục là tài sản bảo đảm",
+    "b": "Biện pháp bảo đảm chấm dứt",
+    "c": "Bên nhận bảo đảm phải xác lập giao dịch mới",
+    "d": "Vật mới trở thành tài sản riêng của bên bảo đảm",
+    "answer": "a",
+    "explanation": "Điểm b Khoản 2 Điều 21 Nghị định 21/2021/NĐ-CP: Vật mới được tạo thành do chế biến từ tài sản bảo đảm thì tài sản mới này vẫn là tài sản bảo đảm."
+  },
+  {
+    "question": "Trường hợp tài sản bảo đảm được dùng để góp vốn vào pháp nhân thì tài sản bảo đảm được xác định là:",
+    "a": "Đương nhiên chấm dứt",
+    "b": "Cổ phần hoặc phần vốn góp là tài sản bảo đảm",
+    "c": "Phần vốn góp chỉ là nghĩa vụ liên đới",
+    "d": "Không được xử lý để thu hồi nợ",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 21 Nghị định 21/2021/NĐ-CP: Khi tài sản bảo đảm được góp vốn vào pháp nhân thì cổ phần hoặc phần vốn góp của bên bảo đảm trong pháp nhân đó sẽ là tài sản bảo đảm."
+  },
+  {
+    "question": "Khi cây hằng năm là tài sản bảo đảm được thu hoạch thì:",
+    "a": "Biện pháp bảo đảm chấm dứt",
+    "b": "Hoa lợi có được trở thành tài sản bảo đảm",
+    "c": "Phải làm thủ tục đăng ký lại",
+    "d": "Tài sản bảo đảm chuyển thành tiền",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 21 Nghị định 21/2021/NĐ-CP: Khi cây hằng năm là tài sản bảo đảm được thu hoạch thì hoa lợi thu được (nông sản) trở thành tài sản bảo đảm."
+  },
+  {
+    "question": "Trường hợp tài sản bảo đảm bị thu hồi vì lợi ích quốc gia, công cộng thì:",
+    "a": "Biện pháp bảo đảm đương nhiên chấm dứt",
+    "b": "Tiền bồi thường hoặc tài sản thay thế trở thành tài sản bảo đảm",
+    "c": "Bên nhận bảo đảm phải khởi kiện đòi bồi thường",
+    "d": "Phải ký lại hợp đồng để cập nhật tài sản mới",
+    "answer": "b",
+    "explanation": "Khoản 8 Điều 21 Nghị định 21/2021/NĐ-CP: Khi tài sản bị thu hồi vì lợi ích quốc gia, công cộng, tiền bồi thường hoặc tài sản được bồi thường thay thế sẽ trở thành tài sản bảo đảm."
+  },
+  {
+    "question": "Trường hợp tài sản bảo đảm bị tiêu hủy hoặc mất toàn bộ thì:",
+    "a": "Biện pháp bảo đảm chấm dứt",
+    "b": "Tài sản vẫn được coi là tài sản bảo đảm",
+    "c": "Chuyển thành nghĩa vụ bảo lãnh",
+    "d": "Bên bảo đảm phải bồi thường ngay",
+    "answer": "a",
+    "explanation": "Khoản 9 Điều 21 Nghị định 21/2021/NĐ-CP: Biện pháp bảo đảm chấm dứt khi tài sản bảo đảm bị tiêu hủy hoặc mất toàn bộ (trừ khi có tài sản thay thế theo luật định)."
+  },
+  {
+    "question": "Hợp đồng bảo đảm được công chứng, chứng thực theo quy định thì có hiệu lực từ thời điểm nào?",
+    "a": "Từ ngày đăng ký giao dịch bảo đảm",
+    "b": "Từ thời điểm văn bản công chứng, chứng thực có hiệu lực",
+    "c": "Từ ngày giao tài sản",
+    "d": "Từ ngày các bên ký kết",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 22 Nghị định 21/2021/NĐ-CP: Hợp đồng bảo đảm có hiệu lực từ thời điểm công chứng, chứng thực theo quy định của pháp luật."
+  },
+  {
+    "question": "Biện pháp bảo đảm chưa phát sinh hiệu lực đối kháng với người thứ ba thì:",
+    "a": "Hợp đồng bảo đảm bị coi là vô hiệu",
+    "b": "Làm chấm dứt hiệu lực hợp đồng bảo đảm",
+    "c": "Không làm thay đổi hoặc chấm dứt hiệu lực của hợp đồng bảo đảm",
+    "d": "Bên nhận bảo đảm mất quyền xử lý tài sản",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 22 Nghị định 21/2021/NĐ-CP: Việc không phát sinh hiệu lực đối kháng với người thứ ba chỉ ảnh hưởng đến quyền ưu tiên thanh toán, không làm vô hiệu hay chấm dứt hiệu lực hợp đồng."
+  },
+  {
+    "question": "Hiệu lực đối kháng của biện pháp ký quỹ với người thứ ba phát sinh từ:",
+    "a": "Khi ký hợp đồng",
+    "b": "Khi công chứng",
+    "c": "Khi tài sản ký quỹ được gửi vào tài khoản phong tỏa",
+    "d": "Khi nghĩa vụ đến hạn",
+    "answer": "c",
+    "explanation": "Khoản 5 Điều 23 Nghị định 21/2021/NĐ-CP: Hiệu lực đối kháng của ký quỹ với người thứ ba phát sinh từ thời điểm tài sản ký quỹ được gửi vào tài khoản phong tỏa tại TCTD."
+  },
+  {
+    "question": "Hiệu lực của hợp đồng bảo đảm đối với nghĩa vụ trong tương lai:",
+    "a": "Chỉ có hiệu lực với nghĩa vụ hiện tại",
+    "b": "Có hiệu lực đối với toàn bộ nghĩa vụ trong tương lai đã thỏa thuận",
+    "c": "Phải ký phụ lục hợp đồng khi nghĩa vụ phát sinh",
+    "d": "Chỉ phát sinh khi có tranh chấp",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 25 Nghị định 21/2021/NĐ-CP: Hợp đồng bảo đảm có hiệu lực đối với các nghĩa vụ trong tương lai đã được các bên thỏa thuận tại thời điểm ký kết."
+  },
+  {
+    "question": "Trường hợp quyền đòi nợ có biện pháp bảo đảm được chuyển nhượng thì bên nhận chuyển nhượng:",
+    "a": "Đương nhiên trở thành bên nhận bảo đảm",
+    "b": "Phải ký lại hợp đồng bảo đảm mới",
+    "c": "Không có quyền đối với tài sản bảo đảm",
+    "d": "Chỉ được nhận quyền nếu có sự đồng ý của Tòa án",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 28 Nghị định 21/2021/NĐ-CP: Khi quyền đòi nợ được chuyển nhượng, bên nhận chuyển nhượng đương nhiên trở thành bên nhận bảo đảm đối với tài sản bảo đảm cho khoản nợ đó."
+  },
+  {
+    "question": "Trường hợp hợp đồng chính bị vô hiệu nhưng các bên đã thực hiện một phần hoặc toàn bộ thì:",
+    "a": "Hợp đồng bảo đảm đương nhiên chấm dứt",
+    "b": "Bên nhận bảo đảm vẫn có quyền xử lý tài sản bảo đảm để thanh toán nghĩa vụ hoàn trả",
+    "c": "Tài sản bảo đảm phải được trả lại ngay",
+    "d": "Không thể xử lý tài sản bảo đảm",
+    "answer": "b",
+    "explanation": "Điểm b Khoản 2 Điều 29 Nghị định 21/2021/NĐ-CP: Dù hợp đồng chính bị vô hiệu, nhưng nếu các bên đã thực hiện nghĩa vụ thì bên nhận bảo đảm vẫn có quyền xử lý tài sản để bảo đảm nghĩa vụ hoàn trả."
+  },
+  {
+    "question": "Trường hợp một phần nội dung hợp đồng bảo đảm bị vô hiệu thì:",
+    "a": "Toàn bộ hợp đồng đương nhiên vô hiệu",
+    "b": "Nghĩa vụ được bảo đảm theo phần vô hiệu trở thành nghĩa vụ không có bảo đảm",
+    "c": "Biện pháp bảo đảm vẫn giữ nguyên toàn bộ",
+    "d": "Phải hủy bỏ toàn bộ hợp đồng",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 30 Nghị định 21/2021/NĐ-CP: Nếu chỉ một phần hợp đồng bảo đảm bị vô hiệu thì phần đó không có hiệu lực, nghĩa vụ tương ứng với phần vô hiệu trở thành nghĩa vụ không có bảo đảm."
+  },
+[
+  {
+    "question": "Trường hợp bên thứ ba muốn đầu tư vào tài sản đang thế chấp thì cần điều kiện gì?",
+    "a": "Chỉ cần thông báo",
+    "b": "Không cần đồng ý",
+    "c": "Phải có sự đồng ý của bên nhận thế chấp",
+    "d": "Chỉ cần đăng ký tại UBND",
+    "answer": "c",
+    "explanation": "Điểm a Khoản 2 Điều 20 Nghị định 21/2021/NĐ-CP: Bên thứ ba muốn đầu tư tăng thêm vào tài sản thế chấp phải được bên nhận thế chấp đồng ý."
+  },
+  {
+    "question": "Khi tài sản bảo đảm được hợp nhất với tài sản khác tạo thành tài sản không chia được thì:",
+    "a": "Biện pháp bảo đảm chấm dứt",
+    "b": "Toàn bộ tài sản mới thuộc bên nhận bảo đảm",
+    "c": "Phần giá trị tài sản bảo đảm trở thành tài sản bảo đảm",
+    "d": "Phải ký hợp đồng bảo đảm mới",
+    "answer": "c",
+    "explanation": "Điểm a Khoản 2 Điều 21 Nghị định 21/2021/NĐ-CP: Trường hợp tài sản bảo đảm bị hợp nhất với tài sản khác tạo thành tài sản không chia được thì phần giá trị tương ứng của tài sản bảo đảm vẫn tiếp tục là tài sản bảo đảm."
+  },
+  {
+    "question": "Khi xảy ra sự kiện bảo hiểm đối với tài sản bảo đảm thì:",
+    "a": "Hợp đồng bảo đảm chấm dứt",
+    "b": "Tiền bồi thường bảo hiểm trở thành tài sản bảo đảm",
+    "c": "Chỉ doanh nghiệp bảo hiểm có quyền xử lý",
+    "d": "Biện pháp bảo đảm mặc nhiên vô hiệu",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 21 Nghị định 21/2021/NĐ-CP: Nếu tài sản bị hư hỏng hoặc mất mát do sự kiện bảo hiểm, tiền bồi thường bảo hiểm sẽ trở thành tài sản bảo đảm thay thế."
+  },
+  {
+    "question": "Biện pháp bảo đảm phát sinh hiệu lực đối kháng với người thứ ba trong trường hợp phải đăng ký từ thời điểm nào?",
+    "a": "Khi ký hợp đồng",
+    "b": "Khi công chứng",
+    "c": "Khi giao tài sản",
+    "d": "Khi đăng ký tại cơ quan có thẩm quyền",
+    "answer": "d",
+    "explanation": "Khoản 2 Điều 23 Nghị định 21/2021/NĐ-CP: Đối với biện pháp bảo đảm phải đăng ký theo quy định pháp luật thì hiệu lực đối kháng với người thứ ba phát sinh từ thời điểm đăng ký."
+  },
+  {
+    "question": "Hiệu lực đối kháng của biện pháp cầm cố phát sinh từ thời điểm nào nếu không thuộc trường hợp phải đăng ký?",
+    "a": "Khi công chứng",
+    "b": "Khi giao kết hợp đồng",
+    "c": "Khi bên nhận cầm cố nắm giữ tài sản",
+    "d": "Khi phát sinh tranh chấp",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 23 Nghị định 21/2021/NĐ-CP: Hiệu lực đối kháng của cầm cố với người thứ ba phát sinh từ thời điểm bên nhận cầm cố nắm giữ hoặc chiếm hữu tài sản cầm cố."
+  },
+  {
+    "question": "Đối với tài sản hình thành trong tương lai, bên nhận bảo đảm xác lập quyền đối với tài sản kể từ thời điểm nào?",
+    "a": "Khi ký hợp đồng",
+    "b": "Khi đăng ký giao dịch bảo đảm",
+    "c": "Khi tài sản được hình thành",
+    "d": "Khi nghĩa vụ đến hạn",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 24 Nghị định 21/2021/NĐ-CP: Quyền của bên nhận bảo đảm đối với tài sản hình thành trong tương lai chỉ được xác lập khi tài sản đó thực tế hình thành."
+  },
+  {
+    "question": "Hợp đồng bảo đảm bị vô hiệu có làm chấm dứt hợp đồng có nghĩa vụ được bảo đảm không?",
+    "a": "Luôn chấm dứt",
+    "b": "Chỉ chấm dứt khi có thỏa thuận",
+    "c": "Không làm chấm dứt",
+    "d": "Chỉ chấm dứt trong giao dịch thương mại",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 29 Nghị định 21/2021/NĐ-CP: Sự vô hiệu của hợp đồng bảo đảm không làm ảnh hưởng đến hiệu lực của hợp đồng chính."
+  },
+  {
+    "question": "Ông A thế chấp xe ô tô cho ngân hàng X rồi tự ý bán xe cho B mà không được ngân hàng đồng ý. Nhận định nào đúng?",
+    "a": "Quyền của ngân hàng đối với xe chấm dứt",
+    "b": "Ngân hàng vẫn có quyền truy đòi tài sản bảo đảm",
+    "c": "B đương nhiên trở thành bên nhận bảo đảm",
+    "d": "Hợp đồng thế chấp vô hiệu",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 7 Nghị định 21/2021/NĐ-CP: Quyền của bên nhận thế chấp không chấm dứt khi tài sản bị chuyển giao cho người khác mà không có sự đồng ý của họ."
+  },
+  {
+    "question": "Vợ dùng tài sản chung là sổ tiết kiệm để cầm cố vay vốn. Theo Nghị định 21/2021/NĐ-CP, việc vợ tự mình xác lập giao dịch:",
+    "a": "Hợp đồng vô hiệu do không có chữ ký của chồng",
+    "b": "Được coi là hợp lệ nếu tài sản thuộc quyền quản lý của vợ theo thỏa thuận",
+    "c": "Bắt buộc phải có sự xác nhận của UBND",
+    "d": "Mặc nhiên vi phạm pháp luật",
+    "answer": "b",
+    "explanation": "Điều 27 Nghị định 21/2021/NĐ-CP: Giao dịch bảo đảm đối với tài sản chung nếu tài sản thuộc quyền quản lý của một bên theo thỏa thuận thì bên đó được tự xác lập giao dịch."
+  },
+  {
+    "question": "A dùng kho hàng để thế chấp nhưng hợp đồng chỉ ghi “kho hàng của A” mà không ghi địa chỉ cụ thể. Nhận định nào đúng?",
+    "a": "Hợp đồng đương nhiên vô hiệu",
+    "b": "Việc mô tả chưa phù hợp quy định tại Điều 19",
+    "c": "Không cần mô tả địa chỉ kho",
+    "d": "Chỉ cần ghi giá trị hàng hóa",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 19 Nghị định 21/2021/NĐ-CP: Mô tả hàng hóa luân chuyển phải xác định được địa chỉ của kho hoặc nơi lưu giữ hàng hóa."
+  },
+  {
+    "question": "A cầm cố lô trái cây đông lạnh. Trong thời gian cầm cố, tài sản có nguy cơ hư hỏng. Bên nhận cầm cố phải làm gì?",
+    "a": "Tự ý bán ngay",
+    "b": "Chờ tài sản hỏng",
+    "c": "Thông báo và yêu cầu bên cầm cố cho biết cách giải quyết trong thời hạn hợp lý",
+    "d": "Trả tài sản lại ngay",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 31 Nghị định 21/2021/NĐ-CP: Bên nhận cầm cố phải thông báo ngay cho bên cầm cố và yêu cầu đưa ra cách giải quyết trong thời hạn hợp lý."
+  },
+  {
+    "question": "Theo Nghị định 21/2021/NĐ-CP, trường hợp nào sau đây làm chấm dứt biện pháp cầm cố?",
+    "a": "Bên cầm cố bán tài sản được bên nhận cầm cố đồng ý",
+    "b": "Tài sản tăng giá trị",
+    "c": "Bên cầm cố mất năng lực hành vi dân sự",
+    "d": "Tài sản bị giảm giá trị",
+    "answer": "a",
+    "explanation": "Điều 32 Nghị định 21/2021/NĐ-CP: Biện pháp bảo đảm chấm dứt khi tài sản được bán, trao đổi hoặc thay thế bằng tài sản khác với sự đồng ý của bên nhận bảo đảm."
+  },
+  {
+    "question": "Trường hợp tài sản cầm cố được giao cho người khác quản lý thì hiệu lực đối kháng với người thứ ba phát sinh từ thời điểm nào?",
+    "a": "Khi ký hợp đồng cầm cố",
+    "b": "Khi công chứng hợp đồng",
+    "c": "Khi người quản lý tài sản nhận trực tiếp tài sản bảo đảm",
+    "d": "Khi nghĩa vụ được bảo đảm đến hạn",
+    "answer": "c",
+    "explanation": "Điểm b Khoản 4 Điều 23 Nghị định 21/2021/NĐ-CP: Hiệu lực đối kháng phát sinh từ thời điểm người quản lý tài sản trực tiếp nhận tài sản."
+  },
+  {
+    "question": "Trường hợp người khác đang trực tiếp quản lý tài sản mà tài sản đó được dùng để cầm cố thì hiệu lực đối kháng với người thứ ba phát sinh từ:",
+    "a": "Thời điểm đăng ký giao dịch bảo đảm",
+    "b": "Thời điểm hợp đồng bảo đảm có hiệu lực",
+    "c": "Thời điểm nghĩa vụ phát sinh",
+    "d": "Thời điểm bên nhận bảo đảm yêu cầu giao tài sản",
+    "answer": "b",
+    "explanation": "Điểm c Khoản 4 Điều 23 Nghị định 21/2021/NĐ-CP: Nếu tài sản đã do người khác quản lý từ trước, hiệu lực đối kháng phát sinh ngay từ khi hợp đồng bảo đảm có hiệu lực."
+  },
+  {
+    "question": "Đối với tài sản hình thành trong tương lai, hiệu lực đối kháng với người thứ ba được áp dụng theo quy định nào?",
+    "a": "Chỉ theo Điều 24",
+    "b": "Theo các khoản 1, 2, 3 và 4 Điều 23",
+    "c": "Chỉ khi tài sản hoàn thành",
+    "d": "Chỉ khi đăng ký quyền sở hữu",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 24 Nghị định 21/2021/NĐ-CP: Việc xác định hiệu lực đối kháng với người thứ ba đối với tài sản hình thành trong tương lai áp dụng các nguyên tắc tại Điều 23."
+  },
+  {
+    "question": "Các bên không thỏa thuận cụ thể về phạm vi nghĩa vụ trong tương lai được bảo đảm thì:",
+    "a": "Hợp đồng bảo đảm vô hiệu",
+    "b": "Hiệu lực bảo đảm vẫn không thay đổi hoặc chấm dứt",
+    "c": "Chỉ bảo đảm nghĩa vụ hiện tại",
+    "d": "Phải ký phụ lục hợp đồng",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 25 Nghị định 21/2021/NĐ-CP: Nếu không thỏa thuận rõ phạm vi, thì hiệu lực của biện pháp bảo đảm vẫn không thay đổi hoặc chấm dứt đối với các nghĩa vụ trong tương lai đã thỏa thuận."
+  },
+  {
+    "question": "Trường hợp thế chấp quyền sử dụng đất mà tài sản gắn liền với đất không phải là tài sản bảo đảm nhưng được chuyển nhượng thì:",
+    "a": "Hợp đồng thế chấp chấm dứt",
+    "b": "Biện pháp thế chấp vẫn còn hiệu lực",
+    "c": "Đương nhiên vô hiệu với người thứ ba",
+    "d": "Phải ký lại hợp đồng thế chấp",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 26 Nghị định 21/2021/NĐ-CP: Việc chuyển nhượng tài sản gắn liền với đất không làm chấm dứt hiệu lực của biện pháp thế chấp quyền sử dụng đất."
+  },
+  {
+    "question": "Hiệu lực của biện pháp bảo đảm bằng tài sản được tạo lập từ quyền bề mặt với người thứ ba:",
+    "a": "Chấm dứt khi quyền sử dụng đất bị chuyển nhượng",
+    "b": "Không thay đổi hoặc chấm dứt khi quyền sử dụng đất được chuyển nhượng",
+    "c": "Chỉ còn hiệu lực với chủ cũ",
+    "d": "Phải đăng ký lại bắt buộc",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 26 Nghị định 21/2021/NĐ-CP: Quyền bề mặt là quyền độc lập, khi quyền sử dụng đất thay đổi chủ sở hữu thì biện pháp bảo đảm bằng tài sản trên đất không bị ảnh hưởng."
+  },
+  {
+    "question": "Vợ chồng không có văn bản thỏa thuận dùng tài sản chung để góp vốn nhưng người không trực tiếp kinh doanh biết mà không phản đối thì:",
+    "a": "Việc góp vốn vô hiệu",
+    "b": "Được coi như đã có thỏa thuận",
+    "c": "Phải được Tòa án xác nhận",
+    "d": "Chỉ có hiệu lực với bên thứ ba ngay tình",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 27 Nghị định 21/2021/NĐ-CP: Hành vi biết mà không phản đối được xem là sự đồng ý ngầm định, coi như đã có thỏa thuận hợp lệ giữa vợ chồng."
+  },
+  {
+    "question": "Khi vợ chồng ly hôn, người đã xác lập hợp đồng bảo đảm bằng tài sản chung trước đó:",
+    "a": "Đương nhiên mất quyền thực hiện hợp đồng",
+    "b": "Tiếp tục thực hiện hợp đồng bảo đảm, trừ trường hợp bản án có quy định khác",
+    "c": "Phải ký lại hợp đồng",
+    "d": "Hợp đồng bảo đảm chấm dứt",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 27 Nghị định 21/2021/NĐ-CP: Ly hôn không làm chấm dứt ngay hợp đồng, người xác lập vẫn có trách nhiệm thực hiện trừ khi có quyết định khác từ Tòa án."
+  },
+  {
+    "question": "Bên nhận bảo đảm mới trong trường hợp chuyển nhượng quyền đòi nợ có bảo đảm phải làm gì?",
+    "a": "Đăng ký lại toàn bộ giao dịch",
+    "b": "Thông báo cho bên bảo đảm trước khi nghĩa vụ được thực hiện",
+    "c": "Yêu cầu công chứng lại hợp đồng",
+    "d": "Không cần thực hiện thủ tục gì",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 28 Nghị định 21/2021/NĐ-CP: Bên nhận quyền đòi nợ mới có nghĩa vụ thông báo cho bên bảo đảm biết việc thay đổi chủ thể."
+  },
+  {
+    "question": "Việc chuyển giao quyền yêu cầu có biện pháp bảo đảm có phải xác lập lại hợp đồng bảo đảm không?",
+    "a": "Luôn phải xác lập lại",
+    "b": "Chỉ phải xác lập lại nếu có tài sản mới",
+    "c": "Không phải xác lập lại",
+    "d": "Phải được Tòa án chấp thuận",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 28 Nghị định 21/2021/NĐ-CP: Biện pháp bảo đảm đi theo quyền yêu cầu, nên không cần ký kết lại hợp đồng bảo đảm mới."
+  },
+  {
+    "question": "Trường hợp nhiều người cùng bảo lãnh nhưng chỉ một người thuộc phần nội dung hợp đồng bảo lãnh bị vô hiệu thì:",
+    "a": "Toàn bộ hợp đồng bảo lãnh vô hiệu",
+    "b": "Phần nghĩa vụ đó trở thành không có bảo đảm đối với người bị vô hiệu",
+    "c": "Bên nhận bảo đảm mất toàn bộ quyền",
+    "d": "Đương nhiên chấm dứt nghĩa vụ chính",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 30 Nghị định 21/2021/NĐ-CP: Sự vô hiệu phần nội dung liên quan đến một người bảo lãnh chỉ khiến phần nghĩa vụ của người đó mất bảo đảm, các người khác vẫn phải chịu trách nhiệm."
+  },
+  {
+    "question": "Trường hợp tài sản cầm cố bị hao mòn tự nhiên thì quy định về thông báo nguy cơ giảm giá trị tại Điều 31:",
+    "a": "Vẫn áp dụng",
+    "b": "Không áp dụng",
+    "c": "Chỉ áp dụng nếu có thỏa thuận",
+    "d": "Chỉ áp dụng với động sản",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 31 Nghị định 21/2021/NĐ-CP: Hao mòn tự nhiên là quy luật khách quan, nên không áp dụng quy định về việc thông báo nguy cơ giảm giá trị bất thường."
+  },
+  {
+    "question": "Khách hàng A thế chấp một dây chuyền sản xuất. Sau đó, A tự ý lắp đặt thêm hệ thống lọc bụi (bộ phận cấu thành) vào dây chuyền mà không thông báo. Ngân hàng xử lý thế nào?",
+    "a": "Hệ thống lọc bụi không thuộc tài sản thế chấp nên ngân hàng không có quyền gì",
+    "b": "Hệ thống lọc bụi thuộc tài sản thế chấp, A vi phạm quy định về đầu tư tăng thêm khi chưa được ngân hàng đồng ý",
+    "c": "Hợp đồng thế chấp đương nhiên vô hiệu",
+    "d": "A được quyền tự ý lắp đặt không cần thông báo",
+    "answer": "b",
+    "explanation": "Theo Điều 12 và Điều 20: Hệ thống lọc bụi là vật đồng bộ thuộc tài sản thế chấp. Việc đầu tư tăng thêm vào tài sản thế chấp bắt buộc phải được bên nhận thế chấp đồng ý."
+  },
+  {
+    "question": "Khách hàng B và C thế chấp nhà đất là tài sản chung để vay vốn. Sau khi ly hôn, Tòa án phân chia nhà đất thuộc quyền sở hữu riêng của C và C chịu trách nhiệm trả nợ. Ngân hàng cần làm gì?",
+    "a": "Hợp đồng thế chấp vô hiệu",
+    "b": "Hợp đồng không đương nhiên vô hiệu, C tiếp tục thực hiện hợp đồng theo Điều 27",
+    "c": "Bắt buộc phải ký lại toàn bộ hợp đồng thế chấp mới",
+    "d": "Giải chấp ngay lập tức vì không còn là tài sản chung",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 27 Nghị định 21/2021/NĐ-CP: Ly hôn không làm chấm dứt hợp đồng bảo đảm; người xác lập hợp đồng (hoặc người được phân chia sở hữu theo bản án) tiếp tục thực hiện hợp đồng."
+  },
+  {
+    "question": "Khu đất khách hàng thế chấp bị Nhà nước thu hồi vì lợi ích công cộng. Số tiền bồi thường từ Nhà nước sẽ được xử lý ra sao?",
+    "a": "Khách hàng được toàn quyền sử dụng số tiền này",
+    "b": "Tiền bồi thường trở thành tài sản bảo đảm thay thế theo Khoản 8 Điều 21",
+    "c": "Ngân hàng bị mất quyền lợi đối với tài sản",
+    "d": "Hợp đồng thế chấp chấm dứt, khách hàng không cần trả nợ",
+    "answer": "b",
+    "explanation": "Khoản 8 Điều 21 Nghị định 21/2021/NĐ-CP: Khi tài sản bị thu hồi, tiền bồi thường sẽ trở thành tài sản bảo đảm thay thế cho tài sản đã mất."
+  },
+  {
+    "question": "Ngân hàng bán quyền đòi nợ khoản vay (có thế chấp nhà ở) cho công ty mua bán nợ (AMC). Việc này ảnh hưởng thế nào đến hợp đồng thế chấp?",
+    "a": "Hợp đồng thế chấp đương nhiên chấm dứt",
+    "b": "Phải ký lại hợp đồng thế chấp giữa công ty AMC và khách hàng",
+    "c": "Không cần ký lại, biện pháp bảo đảm đi theo quyền yêu cầu, chỉ cần thông báo cho khách hàng",
+    "answer": "c",
+    "explanation": "Khoản 1 và Khoản 3 Điều 28 Nghị định 21/2021/NĐ-CP: Biện pháp bảo đảm đi theo quyền yêu cầu. Khi chuyển giao quyền, bên nhận quyền mới đương nhiên trở thành bên nhận bảo đảm."
+  },
+  {
+    "question": "Khách hàng cầm cố lô hàng và giao cho ông D (người quản lý kho) nắm giữ tài sản. Hiệu lực đối kháng với người thứ ba phát sinh từ thời điểm nào?",
+    "a": "Khi ký hợp đồng cầm cố",
+    "b": "Khi ông D trực tiếp nhận quản lý tài sản",
+    "c": "Khi khách hàng và ngân hàng ký biên bản",
+    "d": "Khi lô hàng được bán ra",
+    "answer": "b",
+    "explanation": "Điểm b Khoản 4 Điều 23 Nghị định 21/2021/NĐ-CP: Trường hợp tài sản cầm cố được giao cho người khác quản lý, hiệu lực đối kháng phát sinh từ thời điểm người quản lý tài sản trực tiếp nhận tài sản."
+  },
+  {
+    "question": "Khách hàng A chuyển nhượng nghĩa vụ nợ cho B. BIDV đã đồng ý việc này. Hợp đồng thế chấp của A có chấm dứt không?",
+    "a": "Có, phải ký hợp đồng thế chấp mới với B",
+    "b": "Không, hợp đồng tiếp tục có hiệu lực nhưng cần làm thủ tục thay đổi bên thế chấp",
+    "c": "Đương nhiên vô hiệu",
+    "d": "Chỉ có hiệu lực nếu có công chứng viên chứng kiến",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 28 Nghị định 21/2021/NĐ-CP: Khi nghĩa vụ được chuyển giao, biện pháp bảo đảm tiếp tục có hiệu lực đối với bên nhận chuyển giao nếu được bên nhận bảo đảm đồng ý."
+  },
+  {
+    "question": "Khi bán quyền đòi nợ cho bên thứ ba, bên nhận quyền mới có cần ký lại hợp đồng thế chấp với khách hàng không?",
+    "a": "Luôn luôn phải ký lại",
+    "b": "Chỉ ký lại nếu tài sản đảm bảo là bất động sản",
+    "c": "Không cần ký lại, biện pháp bảo đảm tự động đi theo quyền yêu cầu",
+    "d": "Phải có sự xác nhận của UBND",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 28 Nghị định 21/2021/NĐ-CP: Biện pháp bảo đảm đi theo quyền yêu cầu. Khi quyền yêu cầu được chuyển giao, bên nhận chuyển giao đương nhiên trở thành bên nhận bảo đảm."
+  },
+  {
+    "question": "Ông H bảo lãnh cho Công ty M. Công ty M chuyển nghĩa vụ cho Công ty K mà không thông báo cho ông H. Ông H có còn trách nhiệm bảo lãnh cho Công ty K không?",
+    "a": "Có, trách nhiệm bảo lãnh gắn liền với khoản nợ",
+    "b": "Không, trừ khi ông H được thông báo và đồng ý",
+    "c": "Có, nếu BIDV yêu cầu",
+    "d": "Không, vì Công ty M đã không còn nợ",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 28 Nghị định 21/2021/NĐ-CP: Sự chuyển giao nghĩa vụ có biện pháp bảo đảm phải được bên bảo lãnh đồng ý thì biện pháp bảo đảm mới tiếp tục có hiệu lực."
+  },
+  {
+    "question": "Khách hàng thế chấp quyền đòi nợ từ hợp đồng kinh tế. Sau đó hợp đồng bị hủy, đối tác phải hoàn lại tiền cho khách hàng. Ngân hàng xử lý thế nào?",
+    "a": "Hợp đồng thế chấp vô hiệu",
+    "b": "Số tiền hoàn lại trở thành tài sản bảo đảm thay thế theo nguyên tắc tài sản bảo đảm",
+    "c": "Ngân hàng không còn quyền",
+    "d": "Phải ký lại hợp đồng",
+    "answer": "b",
+    "explanation": "Theo nguyên tắc tại Điều 21 Nghị định 21/2021/NĐ-CP: Khi tài sản bảo đảm bị thay đổi hình thức do sự kiện pháp lý, phần giá trị thu hồi được vẫn tiếp tục là tài sản bảo đảm."
+  },
+  {
+    "question": "BIDV đăng ký giao dịch bảo đảm xe ô tô vào ngày 01/5. Tiệm cầm đồ đã nhận giữ chiếc xe đó từ ngày 20/4. Ai được ưu tiên thanh toán trước khi xử lý tài sản?",
+    "a": "BIDV vì có đăng ký",
+    "b": "Tiệm cầm đồ vì họ đã chiếm hữu tài sản trước và có hiệu lực đối kháng",
+    "c": "Chia đều",
+    "d": "BIDV ưu tiên vì là ngân hàng",
+    "answer": "b",
+    "explanation": "Theo Điều 308 Bộ luật Dân sự 2015 và Điều 23 Nghị định 21/2021/NĐ-CP: Thứ tự ưu tiên thanh toán xác định theo thời điểm phát sinh hiệu lực đối kháng. Tiệm cầm đồ có hiệu lực đối kháng từ ngày 20/4, BIDV từ 01/5."
+  },
+  {
+    "question": "Khi xử lý tài sản, bên nhận bảo đảm có quyền chiếm hữu tài sản không?",
+    "a": "Không, chỉ có Tòa án mới có quyền",
+    "b": "Có, nếu có thỏa thuận trong hợp đồng bảo đảm về việc bên bảo đảm phải giao tài sản khi nghĩa vụ đến hạn",
+    "c": "Chỉ được chiếm hữu nếu khách hàng đồng ý tại thời điểm đó",
+    "d": "Phải có sự can thiệp của chính quyền",
+    "answer": "b",
+    "explanation": "Nghị định 21/2021/NĐ-CP cho phép các bên thỏa thuận về việc bên bảo đảm có nghĩa vụ giao tài sản cho bên nhận bảo đảm để xử lý khi nghĩa vụ đến hạn mà không thanh toán."
+  },
+  {
+    "question": "Theo Nghị định 21/2021/NĐ-CP, “bên bảo đảm” KHÔNG bao gồm chủ thể nào sau đây?",
+    "a": "Bên cầm cố",
+    "b": "Bên thế chấp",
+    "c": "Bên môi giới",
+    "d": "Bên bảo lãnh",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 3 Nghị định 21/2021/NĐ-CP: Bên bảo đảm bao gồm bên cầm cố, bên thế chấp, bên đặt cọc, bên ký cược, bên ký quỹ, bên bảo lãnh. Bên môi giới không phải là bên bảo đảm."
+  },
+  {
+    "question": "Hợp đồng bảo đảm theo Nghị định 21/2021/NĐ-CP có thể được thể hiện dưới hình thức nào?",
+    "a": "Chỉ bằng văn bản riêng",
+    "b": "Chỉ bằng điều khoản trong hợp đồng chính",
+    "c": "Chỉ bằng lời nói",
+    "d": "Bằng hợp đồng riêng hoặc điều khoản bảo đảm trong giao dịch dân sự khác",
+    "answer": "d",
+    "explanation": "Khoản 5 Điều 3 Nghị định 21/2021/NĐ-CP: Hợp đồng bảo đảm có thể được lập thành văn bản riêng hoặc là một phần (điều khoản) trong hợp đồng chính hoặc giao dịch dân sự khác."
+  },
+     {
     "question": "Quan hệ dân sự có yếu tố nước ngoài theo BLDS 2015 thuộc trường hợp nào sau đây?",
     "a": "Chỉ khi có cá nhân nước ngoài tham gia",
     "b": "Chỉ khi đối tượng quan hệ ở nước ngoài",
