@@ -1,5 +1,293 @@
 [
      {
+    "question": "Theo Nghị định 21/2021/NĐ-CP, việc thế chấp quyền đòi nợ có cần sự đồng ý của người có nghĩa vụ không?",
+    "a": "Bắt buộc phải có sự đồng ý bằng văn bản",
+    "b": "Không cần sự đồng ý nhưng phải được thông báo",
+    "c": "Phải được cơ quan nhà nước chấp thuận",
+    "d": "Chỉ cần đồng ý miệng",
+    "answer": "b",
+    "explanation": "Theo Điều 33 Nghị định 21/2021/NĐ-CP: Việc thế chấp quyền đòi nợ, khoản phải thu không cần sự đồng ý của người có nghĩa vụ, nhưng bên thế chấp phải thông báo bằng văn bản cho người có nghĩa vụ biết về việc thế chấp."
+  },
+  {
+    "question": "Theo Nghị định 21/2021/NĐ-CP Tài sản đang cho thuê được dùng để thế chấp thì bên thế chấp có nghĩa vụ gì?",
+    "a": "Không cần thông báo cho ai",
+    "b": "Thông báo cho bên thuê",
+    "c": "Thông báo cho bên nhận thế chấp",
+    "d": "Thông báo cho UBND cấp xã",
+    "answer": "c",
+    "explanation": "Theo Khoản 1 Điều 34 Nghị định 21/2021/NĐ-CP: Bên thế chấp phải thông báo cho bên nhận thế chấp biết về việc tài sản đang được cho thuê, cho mượn."
+  },
+  {
+    "question": "Theo Nghị định 21/2021/NĐ-CP, khi xử lý tài sản thế chấp đang cho thuê hợp pháp thì hợp đồng thuê:",
+    "a": "Đương nhiên bị hủy",
+    "b": "Vẫn tiếp tục đến hết thời hạn thuê",
+    "c": "Chỉ tiếp tục nếu bên nhận thế chấp đồng ý",
+    "d": "Tự động chuyển cho ngân hàng",
+    "answer": "b",
+    "explanation": "Theo Khoản 2 Điều 34 Nghị định 21/2021/NĐ-CP: Việc xử lý tài sản thế chấp không làm chấm dứt hợp đồng thuê, mượn hợp pháp; bên thuê, mượn tiếp tục thực hiện hợp đồng với chủ sở hữu mới của tài sản."
+  },
+  {
+    "question": "Trường hợp tài sản thế chấp đã có hiệu lực đối kháng với người thứ ba mà bên thế chấp cho thuê nhưng không thông báo cho bên nhận thế chấp thì:",
+    "a": "Hợp đồng thuê luôn có hiệu lực",
+    "b": "Hợp đồng thuê vô hiệu ngay từ đầu",
+    "c": "Hợp đồng thuê chấm dứt tại thời điểm xử lý tài sản",
+    "d": "Người thuê được mua luôn tài sản",
+    "answer": "c",
+    "explanation": "Theo Khoản 3 Điều 34 Nghị định 21/2021/NĐ-CP: Nếu không thông báo cho bên nhận thế chấp về việc tài sản đang cho thuê, thì hợp đồng thuê, mượn chấm dứt tại thời điểm xử lý tài sản thế chấp."
+  },
+  {
+    "question": "Cá nhân nhận thế chấp quyền sử dụng đất của hộ gia đình phải đáp ứng điều kiện nào?",
+    "a": "Là công dân Việt Nam có năng lực hành vi dân sự đầy đủ",
+    "b": "Phải là công chức",
+    "c": "Phải là luật sư",
+    "d": "Phải có hộ khẩu cùng địa phương",
+    "answer": "a",
+    "explanation": "Theo Khoản 1 Điều 35 Nghị định 21/2021/NĐ-CP: Cá nhân nhận thế chấp quyền sử dụng đất, tài sản gắn liền với đất của hộ gia đình phải là công dân Việt Nam có năng lực hành vi dân sự đầy đủ."
+  },
+  {
+    "question": "Theo Nghị định 21/2021/NĐ-CP, lãi suất trong giao dịch nhận thế chấp của cá nhân không phải tổ chức tín dụng:",
+    "a": "Được tự do thỏa thuận không giới hạn",
+    "b": "Không được vượt quá giới hạn của Bộ luật Dân sự",
+    "c": "Luôn là 30%/năm",
+    "d": "Do UBND tỉnh quyết định",
+    "answer": "b",
+    "explanation": "Theo Khoản 3 Điều 35 Nghị định 21/2021/NĐ-CP: Lãi suất trong giao dịch bảo đảm (không phải TCTD) được xác định theo Điều 468 Bộ luật Dân sự (lãi suất vay không quá 20%/năm, trừ luật khác có quy định)."
+  },
+  {
+    "question": "Theo Nghị định 21/2021/NĐ-CP, hợp đồng thế chấp có bị vô hiệu nếu tài sản thuộc giao dịch dân sự vô hiệu nhưng bên nhận thế chấp ngay tình?",
+    "a": "Luôn vô hiệu",
+    "b": "Không bị vô hiệu trong trường hợp luật quy định",
+    "c": "Chỉ vô hiệu một phần",
+    "d": "Do UBND quyết định",
+    "answer": "b",
+    "explanation": "Theo Khoản 1 Điều 36 Nghị định 21/2021/NĐ-CP: Trường hợp tài sản thế chấp do bên thế chấp không có quyền định đoạt nhưng bên nhận thế chấp ngay tình thì hợp đồng thế chấp không bị vô hiệu (áp dụng Điều 133 BLDS về bảo vệ người thứ ba ngay tình)."
+  },
+  {
+    "question": "Các bên giao tiền nhưng không xác định rõ là đặt cọc hay trả trước thì khoản tiền được coi là gì?",
+    "a": "Tiền ký quỹ",
+    "b": "Tiền phạt vi phạm",
+    "c": "Tiền trả trước",
+    "d": "Tiền ký cược",
+    "answer": "c",
+    "explanation": "Theo Điều 37 Nghị định 21/2021/NĐ-CP: Trong trường hợp các bên có thỏa thuận về việc giao tiền nhưng không xác định rõ là đặt cọc hay trả trước thì khoản tiền này được xác định là tiền trả trước."
+  },
+  {
+    "question": "Theo Nghị định 21/2021/NĐ-CP Bên nhận đặt cọc có được sử dụng tài sản đặt cọc không?",
+    "a": "Được tự do sử dụng",
+    "b": "Được bán ngay",
+    "c": "Không được khai thác, sử dụng nếu chưa có sự đồng ý",
+    "d": "Được thế chấp tiếp",
+    "answer": "c",
+    "explanation": "Theo Điểm d Khoản 2 Điều 38 Nghị định 21/2021/NĐ-CP: Bên nhận đặt cọc không được khai thác, sử dụng tài sản đặt cọc nếu không được bên đặt cọc đồng ý."
+  },
+  {
+    "question": "Theo Nghị định 21/2021/NĐ-CP Tiền ký quỹ phải được gửi vào đâu?",
+    "a": "Ví điện tử",
+    "b": "Tài khoản phong tỏa tại tổ chức tín dụng",
+    "c": "Tài khoản cá nhân của bên nhận bảo đảm",
+    "d": "Kho bạc nhà nước",
+    "answer": "b",
+    "explanation": "Theo Khoản 1 Điều 39 Nghị định 21/2021/NĐ-CP: Tiền ký quỹ phải được gửi vào một tài khoản phong tỏa tại tổ chức tín dụng (ngân hàng) nơi các bên thỏa thuận."
+  },
+  {
+    "question": "Theo Nghị định 21/2021/NĐ-CP Trong ký quỹ, tổ chức tín dụng có quyền nào sau đây?",
+    "a": "Chiếm hữu toàn bộ tiền ký quỹ",
+    "b": "Hưởng phí dịch vụ",
+    "c": "Tự ý sử dụng tiền ký quỹ",
+    "d": "Xóa nghĩa vụ cho bên ký quỹ",
+    "answer": "b",
+    "explanation": "Theo Điểm a Khoản 1 Điều 40 Nghị định 21/2021/NĐ-CP: Tổ chức tín dụng nơi ký quỹ có quyền hưởng phí dịch vụ quản lý tài khoản ký quỹ theo thỏa thuận."
+  },
+  {
+    "question": "Theo Nghị định 21/2021/NĐ-CP Bên ký quỹ có được rút bớt tiền ký quỹ không?",
+    "a": "Không bao giờ được",
+    "b": "Được nếu bên có quyền đồng ý",
+    "c": "Được tự do",
+    "d": "Chỉ được khi có quyết định của Tòa án",
+    "answer": "b",
+    "explanation": "Theo Điểm c Khoản 2 Điều 40 Nghị định 21/2021/NĐ-CP: Bên ký quỹ được rút bớt tiền ký quỹ hoặc thay thế tài sản ký quỹ nếu có sự đồng ý của bên có quyền (bên nhận bảo đảm)."
+  },
+  {
+    "question": "Theo Nghị định 21/2021/NĐ-CP, bên mua có phải chịu trách nhiệm về hao mòn tự nhiên của tài sản bảo lưu quyền sở hữu không?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Chỉ chịu một phần",
+    "d": "Do các bên tự xác định",
+    "answer": "b",
+    "explanation": "Theo Khoản 2 Điều 41 Nghị định 21/2021/NĐ-CP: Bên mua không phải chịu trách nhiệm đối với sự hao mòn tự nhiên của tài sản do sử dụng trong thời gian bảo lưu quyền sở hữu."
+  },
+  {
+    "question": "Theo Nghị định 21/2021/NĐ-CP Khi bên bán chuyển giao quyền yêu cầu thanh toán tiền thì quyền bảo lưu quyền sở hữu:",
+    "a": "Bị chấm dứt",
+    "b": "Cũng được chuyển giao",
+    "c": "Thuộc Nhà nước",
+    "d": "Phải đăng ký lại từ đầu",
+    "answer": "b",
+    "explanation": "Theo Khoản 1 Điều 42 Nghị định 21/2021/NĐ-CP: Khi bên bán chuyển giao quyền yêu cầu thanh toán tiền (đòi nợ) cho người khác, thì quyền bảo lưu quyền sở hữu cũng được chuyển giao cho người đó."
+  },
+  {
+    "question": " Theo Nghị định 21/2021/NĐ-CP Thỏa thuận bảo lãnh có thể được thể hiện dưới hình thức nào?",
+    "a": "Chỉ bằng hợp đồng công chứng",
+    "b": "Chỉ bằng lời nói",
+    "c": "Hợp đồng riêng, thư bảo lãnh hoặc cam kết khác",
+    "d": "Chỉ bằng email",
+    "answer": "c",
+    "explanation": "Theo Khoản 3 Điều 43 Nghị định 21/2021/NĐ-CP: Thỏa thuận bảo lãnh có thể là hợp đồng riêng, thư bảo lãnh hoặc văn bản, cam kết khác thể hiện ý chí của bên bảo lãnh."
+  },
+  {
+    "question": "Theo Nghị định 21/2021/NĐ-CP Khi nào bên bảo lãnh phải thực hiện nghĩa vụ bảo lãnh?",
+    "a": "Ngay khi ký hợp đồng",
+    "b": "Khi nghĩa vụ được bảo lãnh bị vi phạm",
+    "c": "Khi bên nhận bảo lãnh yêu cầu vô điều kiện",
+    "d": "Khi tài sản bảo đảm tăng giá",
+    "answer": "b",
+    "explanation": "Theo Khoản 1 Điều 44 Nghị định 21/2021/NĐ-CP: Bên bảo lãnh phải thực hiện nghĩa vụ bảo lãnh khi nghĩa vụ được bảo lãnh bị vi phạm (khi bên được bảo lãnh không thực hiện hoặc thực hiện không đúng nghĩa vụ)."
+  },
+  {
+    "question": "Theo Nghị định 21/2021/NĐ-CP Tổ chức nào sau đây có thể là bên bảo đảm bằng tín chấp?",
+    "a": "Doanh nghiệp tư nhân",
+    "b": "Hội Nông dân Việt Nam cấp xã",
+    "c": "Công ty luật",
+    "d": "Văn phòng công chứng",
+    "answer": "b",
+    "explanation": "Theo Điều 45 Nghị định 21/2021/NĐ-CP: Các tổ chức chính trị - xã hội tại cơ sở (như Hội Nông dân, Hội Liên hiệp Phụ nữ, Đoàn Thanh niên, Hội Cựu chiến binh cấp xã) có thể là bên bảo đảm bằng tín chấp."
+  },
+  {
+    "question": "Theo Nghị định 21/2021/NĐ-CP, việc giao tài sản cầm giữ cho cơ quan có thẩm quyền có làm chấm dứt cầm giữ không?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Chỉ chấm dứt với động sản",
+    "d": "Chỉ chấm dứt nếu có thỏa thuận",
+    "answer": "b",
+    "explanation": "Theo Khoản 1 Điều 47 Nghị định 21/2021/NĐ-CP: Việc giao tài sản cầm giữ cho cơ quan nhà nước có thẩm quyền hoặc tổ chức lưu giữ để bảo quản thì không làm chấm dứt cầm giữ."
+  },
+  {
+    "question": "Theo Nghị định 21/2021/NĐ-CP Bên cầm giữ chỉ được cầm giữ tài sản nào?",
+    "a": "Toàn bộ tài sản của bên vi phạm",
+    "b": "Tài sản liên quan trực tiếp đến phần nghĩa vụ bị vi phạm",
+    "c": "Bất kỳ tài sản nào",
+    "d": "Tài sản của người thân bên vi phạm",
+    "answer": "b",
+    "explanation": "Theo Khoản 1 Điều 48 Nghị định 21/2021/NĐ-CP: Bên cầm giữ chỉ được quyền cầm giữ tài sản thuộc sở hữu của bên vi phạm nghĩa vụ và tài sản đó phải liên quan trực tiếp đến phần nghĩa vụ bị vi phạm."
+  },
+  {
+    "question": "Theo Nghị định 21/2021/NĐ-CP, bên nhận bảo đảm xử lý tài sản bảo đảm theo thỏa thuận có cần văn bản ủy quyền của bên bảo đảm không?",
+    "a": "Luôn cần",
+    "b": "Không cần",
+    "c": "Chỉ cần với bất động sản",
+    "d": "Chỉ cần với động sản",
+    "answer": "b",
+    "explanation": "Theo Khoản 2 Điều 49 Nghị định 21/2021/NĐ-CP: Nếu đã có thỏa thuận về phương thức xử lý tài sản trong hợp đồng bảo đảm, bên nhận bảo đảm không cần thêm văn bản ủy quyền hoặc đồng ý sau đó."
+  },
+  {
+    "question": "Theo Nghị định 21/2021/NĐ-CP Nếu bên bảo đảm thay đổi địa chỉ mà không thông báo thì địa chỉ để gửi thông báo xử lý tài sản được xác định thế nào?",
+    "a": "Theo nơi cư trú mới",
+    "b": "Theo nơi làm việc",
+    "c": "Theo địa chỉ đã cung cấp trước đó",
+    "d": "Theo địa chỉ của người thân",
+    "answer": "c",
+    "explanation": "Theo Khoản 2 Điều 51 Nghị định 21/2021/NĐ-CP: Nếu bên bảo đảm không thông báo thay đổi địa chỉ, bên nhận bảo đảm gửi thông báo tới địa chỉ cuối cùng đã được cung cấp thì được coi là đã thông báo hợp lệ."
+  },
+  {
+    "question": "Nếu không có thỏa thuận, thời hạn thông báo xử lý bất động sản bảo đảm tối thiểu là bao lâu?",
+    "a": "03 ngày",
+    "b": "05 ngày",
+    "c": "10 ngày",
+    "d": "15 ngày",
+    "answer": "d",
+    "explanation": "Theo Khoản 4 Điều 51 Nghị định 21/2021/NĐ-CP: Nếu không có thỏa thuận khác, phải thông báo về việc xử lý tài sản bảo đảm là bất động sản trước ít nhất 15 ngày."
+  },
+  {
+    "question": "Một nghĩa vụ được bảo đảm bằng nhiều tài sản nhưng không có thỏa thuận lựa chọn tài sản xử lý thì ai có quyền lựa chọn?",
+    "a": "Tòa án",
+    "b": "UBND cấp xã",
+    "c": "Bên nhận bảo đảm",
+    "d": "Bên bảo đảm",
+    "answer": "c",
+    "explanation": "Theo Khoản 1 Điều 52 Nghị định 21/2021/NĐ-CP: Nếu một nghĩa vụ được bảo đảm bằng nhiều tài sản mà không thỏa thuận tài sản nào xử lý trước, bên nhận bảo đảm có quyền lựa chọn tài sản để xử lý."
+  },
+  {
+    "question": "Trong thời gian chờ xử lý tài sản bảo đảm, bên nhận bảo đảm có được khai thác tài sản không?",
+    "a": "Không bao giờ được",
+    "b": "Được theo đúng tính năng, công dụng",
+    "c": "Được phá dỡ tài sản",
+    "d": "Được bán ngay",
+    "answer": "b",
+    "explanation": "Theo Khoản 2 Điều 53 Nghị định 21/2021/NĐ-CP: Bên nhận bảo đảm được khai thác, sử dụng tài sản bảo đảm để tạo ra hoa lợi, lợi tức theo đúng tính năng, công dụng của tài sản."
+  },
+  {
+    "question": "Hoa lợi, lợi tức phát sinh từ việc khai thác tài sản bảo đảm được dùng để:",
+    "a": "Cho Nhà nước",
+    "b": "Thanh toán nghĩa vụ được bảo đảm sau khi trừ chi phí",
+    "c": "Trả thưởng cho bên giữ tài sản",
+    "d": "Sung công quỹ",
+    "answer": "b",
+    "explanation": "Theo Khoản 3 Điều 53 Nghị định 21/2021/NĐ-CP: Hoa lợi, lợi tức thu được dùng để thanh toán các chi phí quản lý tài sản, sau đó dùng để thanh toán nghĩa vụ được bảo đảm."
+  },
+{
+    "question": "Theo Nghị định 21/2021/NĐ-CP, trong thời gian chờ xử lý tài sản bảo đảm, việc cho phép khai thác, sử dụng tài sản bảo đảm phải được lập dưới hình thức nào?",
+    "a": "Lời nói",
+    "b": "Tin nhắn điện thoại",
+    "c": "Văn bản",
+    "d": "Không cần hình thức",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 53 Nghị định 21/2021/NĐ-CP quy định việc cho phép, ủy quyền hoặc xử lý hoa lợi, lợi tức phát sinh từ khai thác, sử dụng tài sản bảo đảm phải được lập thành văn bản."
+  },
+{
+    "question": "Theo Nghị định 21/2021/NĐ-CP, Nghị định này có hiệu lực từ thời điểm nào?",
+    "a": "01/01/2021",
+    "b": "15/05/2021",
+    "c": "01/07/2021",
+    "d": "15/06/2021",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 60 Nghị định 21/2021/NĐ-CP quy định Nghị định này có hiệu lực từ ngày 15 tháng 5 năm 2021."
+  },
+{
+    "question": "Theo Nghị định 21/2021/NĐ-CP, trường hợp tài sản bảo đảm hình thành trong tương lai chưa được cấp Giấy chứng nhận thì bên nhận bảo đảm có thể làm gì?",
+    "a": "Tự ý hủy hợp đồng",
+    "b": "Chuyển nhượng hợp đồng mua bán tài sản",
+    "c": "Chiếm hữu vô thời hạn",
+    "d": "Yêu cầu Nhà nước mua lại",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 55 Nghị định 21/2021/NĐ-CP quy định bên nhận bảo đảm có thể chuyển nhượng hợp đồng mua bán tài sản hoặc hợp đồng khác về xác lập quyền đối với tài sản hình thành trong tương lai."
+  },
+  {
+    "question": "Theo Nghị định 21/2021/NĐ-CP, bên nhận bảo đảm có thể yêu cầu ai chuyển giao khoản tiền cho mình?",
+    "a": "Bất kỳ người nào",
+    "b": "Người thứ ba có nghĩa vụ thanh toán",
+    "c": "Chỉ cơ quan nhà nước",
+    "d": "Chỉ bên bảo đảm",
+    "answer": "b",
+    "explanation": "Theo Khoản 2 Điều 54 Nghị định 21/2021/NĐ-CP: Bên nhận bảo đảm có quyền yêu cầu người thứ ba (người đang có nghĩa vụ thanh toán tiền cho bên bảo đảm) chuyển giao khoản tiền đó trực tiếp cho mình."
+  },
+  {
+    "question": "Theo Nghị định 21/2021/NĐ-CP, bên bảo đảm được nhận lại tài sản bảo đảm khi nào?",
+    "a": "Khi hoàn thành nghĩa vụ",
+    "b": "Khi tài sản tăng giá",
+    "c": "Khi bên nhận bảo đảm đồng ý miệng",
+    "d": "Sau 01 năm",
+    "answer": "a",
+    "explanation": "Theo Điểm a Khoản 1 Điều 57 Nghị định 21/2021/NĐ-CP: Bên bảo đảm được nhận lại tài sản bảo đảm khi nghĩa vụ được bảo đảm chấm dứt (thực hiện xong nghĩa vụ)."
+  },
+  {
+    "question": "Người mua tài sản bảo đảm thông qua đấu giá được bảo vệ quyền lợi theo luật nào?",
+    "a": "Chỉ Bộ luật Dân sự",
+    "b": "Bộ luật Dân sự và Luật Đấu giá tài sản",
+    "c": "Chỉ Luật Đất đai",
+    "d": "Chỉ Luật Công chứng",
+    "answer": "b",
+    "explanation": "Theo Khoản 4 Điều 58 Nghị định 21/2021/NĐ-CP: Quyền lợi của người mua tài sản đấu giá được bảo vệ theo các quy định của Bộ luật Dân sự và Luật Đấu giá tài sản hiện hành."
+  },
+  {
+    "question": "Theo Nghị định 21/2021/NĐ-CP, bên nhận bảo đảm nhận chính tài sản bảo đảm để thay thế cho việc thực hiện nghĩa vụ thì được xác lập quyền sở hữu theo điều nào của Bộ luật Dân sự?",
+    "a": "Điều 117",
+    "b": "Điều 223",
+    "c": "Điều 299",
+    "d": "Điều 357",
+    "answer": "b",
+    "explanation": "Theo Khoản 1 Điều 59 Nghị định 21/2021/NĐ-CP: Việc xác lập quyền sở hữu đối với tài sản bảo đảm trong trường hợp này được dẫn chiếu thực hiện theo Điều 223 Bộ luật Dân sự năm 2015."
+  },
+     {
     "question": "Theo Nghị định 21/2021/NĐ-CP, “bên bảo đảm” KHÔNG bao gồm chủ thể nào sau đây?",
     "a": "Bên cầm cố",
     "b": "Bên thế chấp",
