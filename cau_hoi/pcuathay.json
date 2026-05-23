@@ -1,4 +1,5 @@
-{
+[
+    {
     "question": "Nội dung bồi dưỡng nghiệp vụ CC hàng năm bao gồm một hoặc một số vấn đề sau:",
     "a": "Quy tắc đạo đức hành nghề công chứng.",
     "b": "Cập nhật, bổ sung kiến thức pháp luật về công chứng và các quy định pháp luật khác có liên quan.",
@@ -448,3 +449,4 @@
     "answer": "d",
     "explanation": "Kết quả của hoạt động công chứng bao hàm cả hình thức (văn bản) và nội dung (an toàn pháp lý)."
   }
+]
