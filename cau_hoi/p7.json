@@ -1,5 +1,509 @@
 [
     {
+    "question": "Theo Luật Nhà ở 2023, trong dự án xây dựng khu nhà ở thương mại tại tỉnh X, Công ty B (chuyên xây dựng hạ tầng nhưng chưa đăng ký kinh doanh bất động sản) ký hợp đồng hợp tác với Công ty C (có chức năng kinh doanh bất động sản) để cùng đứng tên làm chủ đầu tư. Sau khi kiểm tra hồ sơ, cơ quan chức năng từ chối chấp thuận Công ty B làm chủ đầu tư. Hành động này của cơ quan chức năng có căn cứ không?",
+    "a": "Sai, vì Công ty B có năng lực xây dựng nên hoàn toàn được phép làm chủ đầu tư",
+    "b": "Sai, vì hợp tác với công ty có chức năng kinh doanh bất động sản là đủ điều kiện",
+    "c": "Đúng, vì chủ đầu tư dự án nhà ở thương mại phải là doanh nghiệp kinh doanh bất động sản và đáp ứng đủ điều kiện luật định",
+    "d": "Đúng, vì Công ty B phải có vốn điều lệ trên 100 tỷ đồng mới được làm chủ đầu tư",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 36 Luật Nhà ở 2023 quy định chủ đầu tư dự án đầu tư xây dựng nhà ở thương mại phải là doanh nghiệp kinh doanh bất động sản và đáp ứng điều kiện tại điểm a, c khoản 2 Điều 35."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, Chủ đầu tư K ký hợp đồng bàn giao nhà xây thô cho khách hàng H. Tuy nhiên, khi nhận nhà, H phát hiện phần mặt ngoài của căn nhà (tường bao, sơn bả, cửa sổ) vẫn chưa hoàn thiện, trong khi trong hợp đồng ghi 'bàn giao hiện trạng'. Chủ đầu tư K cho rằng mình không vi phạm vì đã thỏa thuận trong hợp đồng. Nhận định này có đúng không?",
+    "a": "Đúng, vì thỏa thuận trong hợp đồng dân sự là cao nhất",
+    "b": "Sai, vì Luật Nhà ở 2023 bắt buộc phải hoàn thiện toàn bộ phần mặt ngoài của nhà ở khi bàn giao xây thô",
+    "c": "Đúng, nếu khách hàng đã ký vào biên bản bàn giao",
+    "d": "Sai, vì chủ đầu tư phải hoàn thiện cả nội thất bên trong",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 37 Luật Nhà ở 2023 quy định trường hợp bàn giao nhà ở xây dựng thô thì phải hoàn thiện toàn bộ phần mặt ngoài của nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trong quá trình thực hiện dự án, Chủ đầu tư M tự ý thay đổi thiết kế các phân khu chức năng trong công trình hỗn hợp để tối ưu hóa không gian văn phòng, dẫn đến việc dùng chung hệ thống trang thiết bị kỹ thuật giữa khu vực để ở và khu vực văn phòng. Việc này vi phạm quy định gì?",
+    "a": "Vi phạm quy định về việc thiết kế, xây dựng tách biệt hệ thống trang thiết bị sử dụng chung cho từng khu chức năng",
+    "b": "Vi phạm quy định về thời hạn báo cáo định kỳ",
+    "c": "Vi phạm quy định về bảo lãnh ngân hàng",
+    "d": "Vi phạm quy định về việc công khai danh mục dự án",
+    "answer": "a",
+    "explanation": "Điểm b khoản 2 Điều 33 Luật Nhà ở 2023 quy định phải thiết kế, xây dựng tách biệt hệ thống trang thiết bị sử dụng chung cho từng khu chức năng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, ông A là giáo viên được thuê nhà ở công vụ. Sau khi ông A nhận quyết định nghỉ hưu vào ngày 01/01, cơ quan quản lý đã gửi thông báo yêu cầu ông trả lại nhà. Đến ngày 15/04, ông A vẫn chưa dọn ra và lấy lý do là đang đợi con cái chuyển công tác về đón. Cơ quan quản lý quyết định cưỡng chế. Việc cưỡng chế này có đúng luật?",
+    "a": "Sai, vì phải cho ông A gia hạn thêm do hoàn cảnh khó khăn",
+    "b": "Sai, vì thời hạn trả nhà là 120 ngày kể từ ngày có quyết định nghỉ hưu",
+    "c": "Đúng, vì thời hạn trả lại nhà là 90 ngày kể từ ngày nghỉ hưu, quá thời hạn thì có quyền thu hồi và cưỡng chế",
+    "d": "Đúng, nhưng phải đợi sau 6 tháng mới được cưỡng chế",
+    "answer": "c",
+    "explanation": "Điểm đ khoản 2 Điều 47 Luật Nhà ở 2023 quy định phải trả lại nhà ở công vụ trong thời hạn 90 ngày; quá thời hạn không trả thì cơ quan có thẩm quyền quyết định thu hồi và cưỡng chế bàn giao nhà ở công vụ."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, Chủ đầu tư dự án X muốn ủy quyền toàn bộ cho Công ty Môi giới Y thực hiện ký kết hợp đồng mua bán với khách hàng để đẩy nhanh tiến độ kinh doanh. Sau khi khách hàng khiếu nại, cơ quan chức năng đã xử phạt hành chính Chủ đầu tư X. Hành vi của Chủ đầu tư X bị xử phạt dựa trên cơ sở nào?",
+    "a": "Vi phạm nghĩa vụ ký quỹ",
+    "b": "Vi phạm quy định không được ủy quyền cho bên hợp tác đầu tư hoặc tổ chức khác ký hợp đồng mua bán, thuê mua, đặt cọc",
+    "c": "Vi phạm quy định về công khai thông tin dự án",
+    "d": "Vi phạm quy định về tiến độ xây dựng",
+    "answer": "b",
+    "explanation": "Khoản 6 Điều 39 Luật Nhà ở 2023 quy định chủ đầu tư không được ủy quyền cho bên hợp tác đầu tư hoặc tổ chức khác ký hợp đồng mua bán, thuê mua, đặt cọc giao dịch nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, các hình thức bố trí nhà ở phục vụ tái định cư bao gồm những phương án nào sau đây?",
+    "a": "Chỉ xây dựng nhà ở theo dự án hoặc đặt hàng mua nhà ở thương mại",
+    "b": "Chỉ thanh toán bằng tiền để người dân tự mua hoặc thuê nhà ở",
+    "c": "Xây dựng nhà ở theo dự án; đặt hàng hoặc mua nhà ở thương mại; bố trí nhà ở xã hội; thanh toán tiền để tự mua, thuê mua, thuê nhà ở",
+    "d": "Xây dựng nhà ở theo dự án, bố trí nhà ở công vụ hoặc thanh toán tiền để tự xây dựng nhà ở",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 48 Luật Nhà ở 2023 quy định nhiều hình thức bố trí nhà ở phục vụ tái định cư như xây dựng theo dự án, mua nhà ở thương mại, bố trí nhà ở xã hội hoặc thanh toán tiền để người dân tự mua, thuê mua, thuê nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, thời điểm thực hiện việc bố trí nhà ở phục vụ tái định cư cho trường hợp di dời đến nơi ở mới được quy định như thế nào?",
+    "a": "Thực hiện sau khi đã hoàn tất thủ tục cưỡng chế thu hồi đất",
+    "b": "Thực hiện trước khi thu hồi, giải tỏa nhà ở, trừ trường hợp người dân tự nguyện bàn giao nhà trước",
+    "c": "Thực hiện sau khi dự án xây dựng khu tái định cư đã hoàn thành toàn bộ hạ tầng kỹ thuật",
+    "d": "Thực hiện đồng thời với quá trình giải tỏa nhà ở để đảm bảo tiến độ dự án",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 49 Luật Nhà ở 2023 quy định việc bố trí nhà ở tái định cư phải thực hiện trước khi thu hồi, giải tỏa nhà ở, trừ trường hợp người dân tự nguyện bàn giao trước."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, tiêu chuẩn về điều kiện nhà ở phục vụ tái định cư phải bảo đảm yếu tố nào sau đây?",
+    "a": "Điều kiện hạ tầng kỹ thuật, hạ tầng xã hội phải tốt hơn nhà ở cũ",
+    "b": "Tổng diện tích sàn phải lớn hơn nhà ở bị thu hồi",
+    "c": "Bảo đảm điều kiện về hạ tầng kỹ thuật, hạ tầng xã hội và diện tích bằng hoặc tốt hơn nhà ở bị thu hồi, giải tỏa",
+    "d": "Chỉ cần bảo đảm tiêu chuẩn thiết kế nhà ở theo quy định của địa phương nơi tái định cư",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 49 Luật Nhà ở 2023 quy định nhà ở phục vụ tái định cư phải bảo đảm có điều kiện bằng hoặc tốt hơn nhà ở bị thu hồi, giải tỏa."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trong trường hợp giải tỏa nhà ở để thực hiện dự án nhà ở thương mại, trách nhiệm của chủ đầu tư đối với người dân có nhu cầu tái định cư tại chỗ là gì?",
+    "a": "Chỉ cần thanh toán tiền bồi thường theo giá thị trường để người dân tự lo nơi ở mới",
+    "b": "Phải bố trí nhà ở thương mại hoặc nhà ở xã hội ngay trong dự án để phục vụ tái định cư tại chỗ",
+    "c": "Có trách nhiệm liên hệ với UBND cấp tỉnh để bố trí quỹ đất tái định cư ở địa điểm khác",
+    "d": "Không có trách nhiệm bố trí nếu dự án không có quỹ đất tái định cư trong quy hoạch chi tiết",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 49 Luật Nhà ở 2023 quy định chủ đầu tư phải bố trí nhà ở thương mại hoặc nhà ở xã hội ngay trong dự án để phục vụ tái định cư tại chỗ."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, quy định về việc lập dự án đầu tư xây dựng nhà ở phục vụ tái định cư phải thực hiện như thế nào?",
+    "a": "Có thể được tích hợp chung vào dự án phát triển đô thị để tối ưu hóa nguồn lực",
+    "b": "Phải lập thành dự án riêng biệt để quản lý tập trung",
+    "c": "Chỉ cần được UBND cấp tỉnh phê duyệt chủ trương đầu tư trong dự án tổng thể",
+    "d": "Không cần lập dự án nếu chỉ xây dựng nhà ở quy mô nhỏ dưới 50 căn",
+    "answer": "b",
+    "explanation": "Khoản 6 Điều 49 Luật Nhà ở 2023 quy định dự án xây dựng nhà ở phục vụ tái định cư phải lập thành dự án riêng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, dự án nhà ở tái định cư KHÔNG được thực hiện hỗn hợp với loại hình nào dưới đây (trừ trường hợp cải tạo chung cư cũ)?",
+    "a": "Nhà ở thương mại, nhà ở công vụ hoặc nhà ở xã hội",
+    "b": "Chỉ không được hỗn hợp với nhà ở công vụ và nhà ở xã hội",
+    "c": "Chỉ không được hỗn hợp với nhà ở thương mại để tránh trục lợi chính sách",
+    "d": "Không được hỗn hợp với công trình thương mại dịch vụ quy mô lớn",
+    "answer": "a",
+    "explanation": "Khoản 6 Điều 49 Luật Nhà ở 2023 quy định dự án tái định cư không thực hiện hỗn hợp với nhà ở thương mại, nhà ở công vụ, nhà ở xã hội, trừ trường hợp cải tạo xây dựng lại chung cư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, đối với các dự án xây dựng nhà ở phục vụ tái định cư tại khu vực nông thôn, chủ đầu tư phải bổ sung nội dung nào?",
+    "a": "Bố trí khu vực dịch vụ thương mại thiết yếu",
+    "b": "Bố trí các cụm công nghiệp phụ trợ",
+    "c": "Bố trí quỹ đất phục vụ sản xuất cho người được tái định cư",
+    "d": "Bố trí không gian văn hóa cộng đồng và khu vui chơi",
+    "answer": "c",
+    "explanation": "Khoản 6 Điều 49 Luật Nhà ở 2023 quy định dự án tái định cư tại nông thôn phải bao gồm cả việc bố trí quỹ đất phục vụ sản xuất."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc xác định quỹ đất để lập dự án tái định cư phải căn cứ vào quy hoạch nào?",
+    "a": "Quy hoạch sử dụng đất cấp huyện hoặc quy hoạch chung xây dựng",
+    "b": "Quy hoạch phân khu hoặc quy hoạch chi tiết xây dựng tỷ lệ 1/500",
+    "c": "Quy hoạch tổng thể phát triển kinh tế - xã hội của tỉnh",
+    "d": "Kế hoạch sử dụng đất hằng năm cấp huyện",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 50 Luật Nhà ở 2023 quy định quỹ đất tái định cư được xác định trong quy hoạch phân khu hoặc quy hoạch chi tiết xây dựng tỷ lệ 1/500."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, những chủ thể nào sau đây có thể là chủ đầu tư dự án đầu tư xây dựng nhà ở phục vụ tái định cư?",
+    "a": "Chỉ các doanh nghiệp kinh doanh bất động sản có năng lực tài chính",
+    "b": "Chỉ cơ quan quản lý nhà ở hoặc tổ chức phát triển quỹ đất",
+    "c": "Ban quản lý dự án, tổ chức phát triển quỹ đất, cơ quan quản lý nhà ở, UBND cấp huyện hoặc doanh nghiệp kinh doanh bất động sản",
+    "d": "Chỉ UBND cấp tỉnh hoặc đơn vị được UBND cấp tỉnh giao nhiệm vụ",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 51 Luật Nhà ở 2023 quy định nhiều chủ thể có thể làm chủ đầu tư dự án tái định cư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, thẩm quyền quyết định chủ đầu tư dự án nhà ở tái định cư sử dụng vốn đầu tư công thuộc về ai?",
+    "a": "Cơ quan chuyên môn về xây dựng cấp tỉnh",
+    "b": "Hội đồng nhân dân cấp tỉnh",
+    "c": "Ủy ban nhân dân cấp tỉnh",
+    "d": "Người đứng đầu đơn vị được giao bố trí tái định cư",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 51 Luật Nhà ở 2023 quy định UBND cấp tỉnh quyết định chủ đầu tư dự án nhà ở tái định cư sử dụng vốn đầu tư công."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, đối với dự án nhà ở tái định cư thuộc dự án quan trọng quốc gia, ai là người có thẩm quyền quyết định chủ đầu tư?",
+    "a": "UBND cấp tỉnh nơi có dự án",
+    "b": "Thủ tướng Chính phủ hoặc cấp được Thủ tướng ủy quyền",
+    "c": "Bộ Xây dựng chủ trì phối hợp với các Bộ ngành liên quan",
+    "d": "Hội đồng nhân dân cấp tỉnh sau khi có ý kiến của Thủ tướng",
+    "answer": "b",
+    "explanation": "Điểm a khoản 3 Điều 51 Luật Nhà ở 2023 quy định Thủ tướng Chính phủ quyết định hoặc ủy quyền quyết định chủ đầu tư đối với dự án quan trọng quốc gia."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trong trường hợp đơn vị bố trí tái định cư ký hợp đồng mua nhà ở thương mại với chủ đầu tư, người tái định cư ký hợp đồng mua bán với ai?",
+    "a": "Ký trực tiếp với chủ đầu tư dự án nhà ở thương mại",
+    "b": "Ký với đơn vị được giao nhiệm vụ bố trí tái định cư",
+    "c": "Ký với cơ quan quản lý nhà ở cấp tỉnh",
+    "d": "Không phải ký hợp đồng mà thực hiện theo quyết định giao nhà",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 52 Luật Nhà ở 2023 quy định người tái định cư ký hợp đồng với đơn vị được giao bố trí tái định cư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi đơn vị được giao bố trí tái định cư thực hiện đặt hàng mua nhà ở, người được tái định cư sẽ ký hợp đồng mua bán nhà ở với ai?",
+    "a": "Đơn vị được giao bố trí tái định cư",
+    "b": "UBND cấp tỉnh nơi có dự án",
+    "c": "Chủ đầu tư dự án đầu tư xây dựng nhà ở",
+    "d": "Đơn vị tư vấn quản lý dự án",
+    "answer": "c",
+    "explanation": "Điểm b khoản 1 Điều 52 Luật Nhà ở 2023 quy định người tái định cư ký trực tiếp với chủ đầu tư dự án."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trách nhiệm thực hiện thủ tục đề nghị cấp Giấy chứng nhận cho người được bố trí tái định cư mua, thuê mua nhà ở thuộc về ai?",
+    "a": "Người mua nhà tự thực hiện theo hướng dẫn của cơ quan đăng ký đất đai",
+    "b": "UBND cấp xã nơi có nhà ở tái định cư",
+    "c": "Chủ đầu tư dự án đầu tư xây dựng nhà ở",
+    "d": "Đơn vị bố trí tái định cư",
+    "answer": "c",
+    "explanation": "Điểm c khoản 1 Điều 52 Luật Nhà ở 2023 quy định chủ đầu tư có trách nhiệm làm thủ tục cấp Giấy chứng nhận, trừ trường hợp người mua tự nguyện thực hiện."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, về việc thay đổi thiết kế hoặc diện tích nhà ở sau khi phương án tái định cư đã được phê duyệt, luật quy định như thế nào?",
+    "a": "Được phép thay đổi nếu tổng diện tích sàn không thay đổi",
+    "b": "Được phép thay đổi nếu được sự đồng ý của đa số hộ dân",
+    "c": "Không được thay đổi",
+    "d": "Chỉ được thay đổi các chi tiết kiến trúc không làm ảnh hưởng đến kết cấu",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 53 Luật Nhà ở 2023 quy định không được thay đổi thiết kế, diện tích nhà ở tái định cư sau khi phương án đã được phê duyệt."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cá nhân có quyền xây dựng nhà ở trên loại đất nào?",
+    "a": "Trên bất kỳ loại đất nào thuộc quyền sử dụng hợp pháp của mình",
+    "b": "Trên đất ở thuộc quyền sử dụng hợp pháp của mình",
+    "c": "Trên đất nông nghiệp hoặc đất ở nếu phù hợp quy hoạch",
+    "d": "Trên đất được thuê dài hạn của Nhà nước",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 54 Luật Nhà ở 2023 quy định cá nhân chỉ được xây dựng nhà ở trên diện tích đất ở thuộc quyền sử dụng của mình."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cá nhân tại khu vực đô thị được phép hợp tác xây dựng nhà ở bằng những hình thức nào?",
+    "a": "Chỉ được góp vốn và nhân công",
+    "b": "Chỉ được góp quyền sử dụng đất",
+    "c": "Góp quyền sử dụng đất, vốn, nhân công, vật liệu và công sức",
+    "d": "Chỉ được góp tiền mặt hoặc vật liệu xây dựng",
+    "answer": "c",
+    "explanation": "Điểm b khoản 2 Điều 55 Luật Nhà ở 2023 quy định các thành viên có thể góp đất, vốn, nhân công, vật liệu và công sức."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cá nhân xây dựng nhà ở nhiều tầng nhiều căn hộ để bán, cho thuê mua, cho thuê phải tuân thủ thêm quy định tại điều luật nào?",
+    "a": "Điều 52 Luật Nhà ở 2023",
+    "b": "Điều 57 Luật Nhà ở 2023",
+    "c": "Điều 60 Luật Nhà ở 2023",
+    "d": "Điều 48 Luật Nhà ở 2023",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 56 Luật Nhà ở 2023 quy định cá nhân xây dựng nhà nhiều tầng nhiều căn hộ phải thực hiện Điều 57."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp nào cá nhân xây dựng nhà ở phải đáp ứng các điều kiện làm chủ đầu tư dự án đầu tư xây dựng nhà ở?",
+    "a": "Nhà ở riêng lẻ có từ 02 tầng trở lên không phân chia căn hộ",
+    "b": "Nhà ở từ 02 tầng trở lên mà mỗi tầng có căn hộ để bán hoặc thuê mua",
+    "c": "Nhà ở cấp 4 có diện tích sàn trên 200m2",
+    "d": "Nhà ở hỗn hợp dùng để ở kết hợp kinh doanh mặt tiền",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 57 Luật Nhà ở 2023 quy định trường hợp nhà ở từ 02 tầng trở lên mà mỗi tầng có căn hộ để bán, thuê mua thì phải đáp ứng điều kiện chủ đầu tư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cá nhân xây dựng nhà ở từ 02 tầng trở lên với quy mô bao nhiêu căn hộ trở lên để cho thuê thì phải đáp ứng điều kiện chủ đầu tư dự án?",
+    "a": "Từ 10 căn hộ trở lên",
+    "b": "Từ 15 căn hộ trở lên",
+    "c": "Từ 20 căn hộ trở lên",
+    "d": "Từ 30 căn hộ trở lên",
+    "answer": "c",
+    "explanation": "Điểm b khoản 1 Điều 57 Luật Nhà ở 2023 quy định từ 20 căn hộ trở lên để cho thuê thì phải đáp ứng điều kiện chủ đầu tư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, quy định về việc cấp Giấy chứng nhận đối với các căn hộ trong công trình thuộc trường hợp quy định tại Khoản 1 Điều 57 như thế nào?",
+    "a": "Được cấp Giấy chứng nhận theo quy định pháp luật đất đai",
+    "b": "Không được cấp Giấy chứng nhận vì là hình thức hợp tác cá nhân",
+    "c": "Chỉ được cấp Giấy chứng nhận sau khi công trình đã hoàn công và chuyển đổi mục đích sử dụng",
+    "d": "Chỉ được cấp Giấy chứng nhận cho toàn bộ tòa nhà, không cấp cho từng căn hộ",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 57 Luật Nhà ở 2023 quy định căn hộ thuộc khoản 1 được cấp Giấy chứng nhận theo pháp luật đất đai."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, đối với nhà ở có từ 02 tầng trở lên và dưới 20 căn hộ có căn hộ để cho thuê, cá nhân phải đáp ứng các điều kiện nào?",
+    "a": "Chỉ cần tuân thủ quy định về PCCC",
+    "b": "Chỉ cần tuân thủ yêu cầu về xây dựng",
+    "c": "Phải đáp ứng yêu cầu về xây dựng, PCCC và điều kiện đường giao thông cho xe chữa cháy",
+    "d": "Phải thành lập doanh nghiệp hoặc hợp tác xã để quản lý",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 57 Luật Nhà ở 2023 quy định phải đáp ứng yêu cầu xây dựng, PCCC và điều kiện đường giao thông."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nếu nhà ở nhiều tầng nhiều căn hộ có dưới 20 căn hộ nhưng có căn hộ để bán thì cá nhân xây dựng phải đáp ứng điều kiện nào?",
+    "a": "Chỉ cần bảo đảm an toàn kết cấu công trình",
+    "b": "Chỉ cần đáp ứng các điều kiện PCCC theo quy định",
+    "c": "Phải đáp ứng điều kiện như đối với chủ đầu tư dự án theo Khoản 1 Điều 57",
+    "d": "Không cần đáp ứng điều kiện nào thêm ngoài giấy phép xây dựng",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 57 Luật Nhà ở 2023 quy định nếu có căn hộ để bán hoặc thuê mua thì phải đáp ứng điều kiện tại khoản 1."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc quản lý vận hành nhà ở nhiều tầng nhiều căn hộ của cá nhân được thực hiện dựa trên cơ sở nào?",
+    "a": "Theo quy chế quản lý, sử dụng nhà chung cư",
+    "b": "Theo thỏa thuận trong hợp đồng giữa chủ nhà và người thuê",
+    "c": "Theo nội quy của khu dân cư tại địa phương",
+    "d": "Theo quyết định của UBND cấp xã nơi có công trình",
+    "answer": "a",
+    "explanation": "Khoản 5 Điều 57 Luật Nhà ở 2023 quy định việc quản lý vận hành thực hiện theo Quy chế quản lý, sử dụng nhà chung cư."
+  },
+{
+    "question": "Theo Luật Nhà ở 2023, trường hợp giải tỏa nhà ở tại đô thị loại I, phường, quận, thành phố thuộc đô thị loại đặc biệt mà người dân có nhu cầu tái định cư tại chỗ thì được bố trí theo hình thức nào?",
+    "a": "Bố trí tại dự án nhà ở thương mại lân cận",
+    "b": "Chỉ được nhận tiền bồi thường thay vì nhà ở",
+    "c": "Một trong các hình thức tại điểm b, c, d khoản 1 Điều 48",
+    "d": "Chỉ được bố trí vào quỹ nhà ở xã hội hiện có",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 49 quy định trường hợp này được bố trí theo một trong các hình thức tại điểm b, c và d khoản 1 Điều 48."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, dự án đầu tư xây dựng nhà ở phục vụ tái định cư phải được lập như thế nào?",
+    "a": "Được lập chung trong quy hoạch hạ tầng kỹ thuật đô thị",
+    "b": "Phải lập và phê duyệt thành dự án riêng biệt",
+    "c": "Có thể tích hợp vào dự án nhà ở thương mại bất kỳ",
+    "d": "Không bắt buộc lập dự án nếu quỹ nhà dưới 50 căn",
+    "answer": "b",
+    "explanation": "Khoản 6 Điều 49 quy định dự án nhà ở phục vụ tái định cư phải lập và phê duyệt thành dự án riêng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp nào là ngoại lệ được thực hiện dự án hỗn hợp với nhà ở phục vụ tái định cư?",
+    "a": "Dự án đầu tư xây dựng nhà ở xã hội",
+    "b": "Dự án đầu tư xây dựng nhà ở thương mại",
+    "c": "Dự án đầu tư cải tạo, xây dựng lại nhà chung cư",
+    "d": "Dự án phát triển khu đô thị mới quy mô lớn",
+    "answer": "c",
+    "explanation": "Khoản 6 Điều 49 quy định không thực hiện dự án hỗn hợp với các loại hình nhà ở khác, trừ trường hợp dự án đầu tư cải tạo, xây dựng lại nhà chung cư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, dự án đầu tư xây dựng nhà ở phục vụ tái định cư tại khu vực nông thôn phải bao gồm nội dung nào?",
+    "a": "Hệ thống hạ tầng dịch vụ công cộng cao cấp",
+    "b": "Khu vực dành cho văn phòng và thương mại",
+    "c": "Quỹ đất phục vụ sản xuất cho người tái định cư",
+    "d": "Hạ tầng kỹ thuật khu công nghiệp hỗ trợ",
+    "answer": "c",
+    "explanation": "Khoản 6 Điều 49 quy định đối với khu vực nông thôn phải bao gồm cả việc bố trí quỹ đất để phục vụ sản xuất cho người thuộc trường hợp được tái định cư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, quỹ đất để lập dự án đầu tư xây dựng nhà ở phục vụ tái định cư được xác định trong loại quy hoạch nào?",
+    "a": "Quy hoạch tổng thể quốc gia về phân bổ dân cư",
+    "b": "Quy hoạch phân khu hoặc quy hoạch chi tiết xây dựng tỷ lệ 1/500",
+    "c": "Kế hoạch phát triển kinh tế - xã hội địa phương",
+    "d": "Quy hoạch chiến lược phát triển nhà ở cấp tỉnh",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 50 quy định quỹ đất được xác định trong quy hoạch phân khu hoặc quy hoạch chi tiết xây dựng tỷ lệ 1/500."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chủ đầu tư dự án đầu tư xây dựng nhà ở phục vụ tái định cư có thể là chủ thể nào sau đây?",
+    "a": "Ban quản lý dự án chuyên ngành thuộc UBND cấp tỉnh",
+    "b": "Tổ chức phát triển quỹ đất cấp tỉnh",
+    "c": "Doanh nghiệp kinh doanh bất động sản",
+    "d": "Tất cả các chủ thể nêu trên đều có thể là chủ đầu tư",
+    "answer": "d",
+    "explanation": "Khoản 1 Điều 51 quy định các chủ thể này đều có thể là chủ đầu tư dự án đầu tư xây dựng nhà ở phục vụ tái định cư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, đối với dự án tái định cư phục vụ dự án quan trọng quốc gia thì ai quyết định chủ đầu tư?",
+    "a": "UBND cấp tỉnh nơi có dự án",
+    "b": "Hội đồng nhân dân cấp tỉnh",
+    "c": "Thủ tướng Chính phủ hoặc ủy quyền cho Bộ trưởng Bộ Xây dựng",
+    "d": "Bộ trưởng Bộ Kế hoạch và Đầu tư",
+    "answer": "c",
+    "explanation": "Điểm a khoản 3 Điều 51 quy định Thủ tướng Chính phủ quyết định hoặc ủy quyền cho Bộ trưởng Bộ Xây dựng quyết định chủ đầu tư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp đơn vị được giao bố trí tái định cư ký hợp đồng mua bán nhà ở thương mại với chủ đầu tư thì người được tái định cư ký hợp đồng với ai?",
+    "a": "Ký trực tiếp với chủ đầu tư dự án",
+    "b": "Ký với đơn vị được giao bố trí tái định cư",
+    "c": "Ký với cơ quan tài chính địa phương",
+    "d": "Ký với UBND cấp tỉnh",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 52 quy định người được bố trí tái định cư trực tiếp ký hợp đồng với đơn vị được giao bố trí tái định cư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp đơn vị được giao bố trí tái định cư ký hợp đồng đặt hàng mua nhà ở với chủ đầu tư thì người được tái định cư ký hợp đồng với ai?",
+    "a": "Ký với đơn vị bố trí tái định cư",
+    "b": "Ký với cơ quan quản lý nhà ở cấp tỉnh",
+    "c": "Ký trực tiếp với chủ đầu tư dự án",
+    "d": "Ký với đại diện UBND cấp huyện",
+    "answer": "c",
+    "explanation": "Điểm b khoản 1 Điều 52 quy định người được bố trí tái định cư trực tiếp ký hợp đồng mua bán nhà ở với chủ đầu tư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cơ quan nào phải xác định số lượng nhà ở đặt hàng phù hợp nhu cầu tái định cư trên địa bàn?",
+    "a": "Sở Xây dựng sau khi báo cáo Bộ Xây dựng",
+    "b": "UBND cấp tỉnh",
+    "c": "UBND cấp huyện sau khi thống nhất với Sở Tài chính",
+    "d": "Đơn vị được giao thực hiện dự án tái định cư",
+    "answer": "b",
+    "explanation": "Điểm b khoản 1 Điều 52 quy định UBND cấp tỉnh phải xác định số lượng nhà ở đặt hàng phù hợp nhu cầu."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, sau khi phương án bố trí tái định cư đã được phê duyệt thì chủ đầu tư có được thay đổi thiết kế, diện tích nhà ở tái định cư hay không?",
+    "a": "Được thay đổi nếu có sự đồng ý của đa số người tái định cư",
+    "b": "Được thay đổi diện tích nếu không làm thay đổi giá trị",
+    "c": "Không được thay đổi",
+    "d": "Được thay đổi theo yêu cầu của cơ quan quản lý chuyên ngành",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 53 quy định chủ đầu tư không được thay đổi thiết kế, diện tích nhà ở và công trình phụ trợ sau khi phương án bố trí tái định cư đã được phê duyệt."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chủ thể nào chịu trách nhiệm về chất lượng nhà ở phục vụ tái định cư?",
+    "a": "Chủ đầu tư dự án tái định cư",
+    "b": "Chủ đầu tư dự án nhà ở dùng bố trí tái định cư",
+    "c": "Các tổ chức, cá nhân liên quan đến hoạt động xây dựng",
+    "d": "Tất cả các chủ thể trên",
+    "answer": "d",
+    "explanation": "Khoản 4 Điều 53 quy định tất cả các chủ thể trên đều chịu trách nhiệm về chất lượng nhà ở tái định cư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cá nhân xây dựng, cải tạo nhà ở phải kết hợp với việc nào sau đây?",
+    "a": "Tối ưu hóa mục đích thương mại",
+    "b": "Giữ gìn, bảo tồn kiến trúc nhà ở truyền thống",
+    "c": "Nâng cấp hệ thống kỹ thuật hiện đại hóa hoàn toàn",
+    "d": "Mở rộng diện tích sử dụng tối đa theo quy hoạch",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 54 quy định việc xây dựng, cải tạo nhà ở phải kết hợp với việc giữ gìn, bảo tồn kiến trúc nhà ở truyền thống."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, UBND cấp tỉnh có thể hỗ trợ kinh phí từ ngân sách để cá nhân thực hiện việc nào?",
+    "a": "Cải tạo nhà ở thành cơ sở kinh doanh dịch vụ",
+    "b": "Mua sắm trang thiết bị nội thất đạt chuẩn",
+    "c": "Bảo tồn, bảo trì, cải tạo nhà ở có giá trị nghệ thuật, văn hóa, lịch sử",
+    "d": "Hỗ trợ lãi suất vay vốn xây dựng nhà ở thương mại",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 54 quy định UBND cấp tỉnh xem xét hỗ trợ kinh phí để cá nhân bảo tồn, bảo trì, cải tạo nhà ở trong khu vực cần bảo tồn giá trị nghệ thuật, văn hóa, lịch sử."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cá nhân tại khu vực nông thôn khi pháp luật xây dựng yêu cầu thì phải thuê ai xây dựng nhà ở?",
+    "a": "Thợ xây dựng tại địa phương không cần chứng chỉ",
+    "b": "Tổ chức, cá nhân có năng lực hoạt động xây dựng",
+    "c": "Bất kỳ nhà thầu nào được chỉ định bởi chính quyền xã",
+    "d": "Doanh nghiệp xây dựng nhà nước",
+    "answer": "b",
+    "explanation": "Điểm b khoản 1 Điều 55 quy định phải thuê đơn vị, cá nhân có năng lực về hoạt động xây dựng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nhóm hợp tác xây dựng nhà ở có thể góp những nội dung nào sau đây?",
+    "a": "Quyền sử dụng đất",
+    "b": "Vốn, vật liệu, nhân công",
+    "c": "Công sức",
+    "d": "Tất cả các nội dung nêu trên",
+    "answer": "d",
+    "explanation": "Điểm b khoản 2 Điều 55 quy định các thành viên có thể góp quyền sử dụng đất, vốn, nhân công, vật liệu và công sức."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, các thành viên nhóm hợp tác xây dựng nhà ở phải thỏa thuận về nội dung nào?",
+    "a": "Cách thức góp vốn, góp quyền sử dụng đất",
+    "b": "Quyền và nghĩa vụ các thành viên",
+    "c": "Thời gian thực hiện và cam kết thực hiện",
+    "d": "Tất cả các nội dung nêu trên",
+    "answer": "d",
+    "explanation": "Khoản 2 Điều 55 quy định các thành viên phải thỏa thuận đầy đủ các nội dung này."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nếu cá nhân xây dựng, cải tạo nhà ở gây thiệt hại cho công trình liền kề thì phải làm gì?",
+    "a": "Chủ động xin lỗi và thỏa thuận mức bồi thường",
+    "b": "Chỉ phải sửa chữa lại phần hư hỏng",
+    "c": "Bồi thường theo quy định của pháp luật",
+    "d": "Ngừng thi công vô thời hạn",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 56 quy định trường hợp gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cá nhân đầu tư xây dựng nhà ở nhiều tầng nhiều căn hộ để bán, cho thuê mua, cho thuê còn phải thực hiện quy định tại điều nào?",
+    "a": "Điều 57",
+    "b": "Điều 48",
+    "c": "Điều 50",
+    "d": "Điều 60",
+    "answer": "a",
+    "explanation": "Khoản 4 Điều 56 quy định cá nhân đầu tư xây dựng nhà ở nhiều tầng nhiều căn hộ còn phải thực hiện Điều 57."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cá nhân xây dựng nhà ở có từ 02 tầng trở lên mà tại mỗi tầng có căn hộ để bán hoặc cho thuê mua thì phải đáp ứng điều kiện gì?",
+    "a": "Điều kiện về vốn điều lệ của hộ kinh doanh",
+    "b": "Điều kiện làm chủ đầu tư dự án đầu tư xây dựng nhà ở",
+    "c": "Điều kiện đấu giá quyền sử dụng đất",
+    "d": "Điều kiện về chứng chỉ năng lực xây dựng",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 57 quy định phải đáp ứng điều kiện làm chủ đầu tư dự án đầu tư xây dựng nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nhà ở có từ 02 tầng trở lên và có quy mô từ bao nhiêu căn hộ trở lên để cho thuê thì phải đáp ứng điều kiện làm chủ đầu tư dự án?",
+    "a": "10 căn hộ",
+    "b": "15 căn hộ",
+    "c": "20 căn hộ",
+    "d": "30 căn hộ",
+    "answer": "c",
+    "explanation": "Điểm b khoản 1 Điều 57 quy định nhà ở có từ 20 căn hộ trở lên để cho thuê phải đáp ứng điều kiện làm chủ đầu tư dự án."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, căn hộ trong nhà ở nhiều tầng nhiều căn hộ của cá nhân có được cấp Giấy chứng nhận không?",
+    "a": "Không, chỉ cấp Giấy chứng nhận cho toàn bộ công trình",
+    "b": "Chỉ được cấp tạm thời trong thời hạn 10 năm",
+    "c": "Được cấp theo quy định của pháp luật về đất đai",
+    "d": "Chỉ cấp cho trường hợp nhà ở xã hội",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 57 quy định căn hộ được cấp Giấy chứng nhận theo quy định của pháp luật về đất đai."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cá nhân xây dựng nhà ở từ 02 tầng trở lên dưới 20 căn hộ chỉ để cho thuê thì phải đáp ứng điều kiện nào?",
+    "a": "Yêu cầu về PCCC",
+    "b": "Yêu cầu của Bộ trưởng Bộ Xây dựng về quy chuẩn kỹ thuật",
+    "c": "Điều kiện đường giao thông để phương tiện chữa cháy thực hiện nhiệm vụ",
+    "d": "Tất cả các điều kiện nêu trên",
+    "answer": "d",
+    "explanation": "Khoản 3 Điều 57 quy định phải đáp ứng đồng thời các yêu cầu này."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, điều kiện về đường giao thông để phương tiện chữa cháy thực hiện nhiệm vụ đối với nhà ở nhiều tầng nhiều căn hộ của cá nhân do cơ quan nào quy định?",
+    "a": "Cục Cảnh sát Phòng cháy, chữa cháy và Cứu nạn, cứu hộ",
+    "b": "Bộ Xây dựng",
+    "c": "UBND cấp tỉnh",
+    "d": "Ủy ban nhân dân cấp xã",
+    "answer": "c",
+    "explanation": "Điểm c khoản 3 Điều 57 quy định điều kiện này do UBND cấp tỉnh quy định."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp nhà ở nhiều tầng nhiều căn hộ dưới 20 căn hộ mà có căn hộ để bán hoặc cho thuê mua thì phải đáp ứng điều kiện nào?",
+    "a": "Phải đáp ứng điều kiện làm chủ đầu tư dự án theo khoản 1 Điều 57",
+    "b": "Chỉ cần đáp ứng điều kiện về PCCC theo quy định",
+    "c": "Không cần đáp ứng điều kiện chủ đầu tư, chỉ cần đăng ký kinh doanh",
+    "d": "Chỉ cần đáp ứng quy chuẩn kỹ thuật xây dựng",
+    "answer": "a",
+    "explanation": "Khoản 4 Điều 57 quy định trường hợp có căn hộ để bán, cho thuê mua thì phải đáp ứng điều kiện tại khoản 1 Điều 57."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc quản lý vận hành nhà ở nhiều tầng nhiều căn hộ của cá nhân được thực hiện theo quy chế nào?",
+    "a": "Quy chế quản lý tòa nhà thương mại của Bộ Công Thương",
+    "b": "Quy chế quản lý, sử dụng nhà chung cư",
+    "c": "Quy chế quản lý nhà ở công vụ do UBND tỉnh ban hành",
+    "d": "Hợp đồng dân sự giữa chủ nhà và người thuê",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 57 quy định việc quản lý vận hành thực hiện theo Quy chế quản lý, sử dụng nhà chung cư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cơ quan nào có trách nhiệm kiểm tra, thanh tra việc đáp ứng điều kiện đối với nhà ở nhiều tầng nhiều căn hộ của cá nhân?",
+    "a": "Bộ Xây dựng chủ trì phối hợp với Bộ Công an",
+    "b": "UBND các cấp trong phạm vi nhiệm vụ, quyền hạn",
+    "c": "Sở Xây dựng và Công an tỉnh",
+    "d": "Cơ quan Thanh tra Chính phủ",
+    "answer": "b",
+    "explanation": "Khoản 6 Điều 57 quy định UBND các cấp có trách nhiệm kiểm tra, thanh tra."
+  },
+    {
     "question": "Theo Luật Nhà ở 2023, khẳng định nào sau đây là SAI về chủ đầu tư dự án nhà ở thương mại?",
     "a": "Phải là doanh nghiệp kinh doanh bất động sản",
     "b": "Phải đáp ứng các điều kiện cụ thể tại Điều 35",
