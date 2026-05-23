@@ -1,1 +1,450 @@
-
+{
+    "question": "Nội dung bồi dưỡng nghiệp vụ CC hàng năm bao gồm một hoặc một số vấn đề sau:",
+    "a": "Quy tắc đạo đức hành nghề công chứng.",
+    "b": "Cập nhật, bổ sung kiến thức pháp luật về công chứng và các quy định pháp luật khác có liên quan.",
+    "c": "Kỹ năng quản lý, tổ chức điều hành TCHNCC.",
+    "d": "Tất cả đáp án đều đúng.",
+    "answer": "d",
+    "explanation": "Nội dung bồi dưỡng bao gồm các vấn đề về đạo đức, kiến thức pháp luật và kỹ năng quản lý theo quy định."
+  },
+  {
+    "question": "Tổ chức thực hiện bồi dưỡng nghiệp vụ có trách nhiệm sau đây:",
+    "a": "Xây dựng và công bố kế hoạch bồi dưỡng nghiệp vụ của tổ chức mình trước ngày 30/01 hàng năm.",
+    "b": "Cấp Giấy chứng nhận tham gia bồi dưỡng nghiệp vụ công chứng.",
+    "c": "Thu, quản lý, sử dụng chi phí thực hiện bồi dưỡng nghiệp vụ theo quy định của pháp luật.",
+    "d": "Tất cả đáp án đều đúng.",
+    "answer": "d",
+    "explanation": "Các nội dung trên đều là trách nhiệm của tổ chức thực hiện bồi dưỡng nghiệp vụ theo quy định."
+  },
+  {
+    "question": "Hoạt động hành nghề công chứng là gì?",
+    "a": "Hoạt động mang tính chất dịch vụ.",
+    "b": "Hoạt động mang tính chất dịch vụ công.",
+    "c": "Hoạt động mang tính chất dịch vụ có thu phí.",
+    "d": "Hoạt động mang tính chất công quyền.",
+    "answer": "b",
+    "explanation": "Công chứng là hoạt động mang tính chất dịch vụ công do Nhà nước ủy nhiệm cho công chứng viên thực hiện."
+  },
+  {
+    "question": "CCV vi phạm nghĩa vụ tham gia bồi dưỡng nghiệp vụ thì tùy theo tính chất, mức độ vi phạm chỉ bị xử lý kỷ luật theo quy định của Hiệp hội CCV VN?",
+    "a": "Đúng",
+    "b": "Sai",
+    "c": "Nếu vi phạm lần đầu",
+    "d": "Không có quy định về xử lý vi phạm",
+    "answer": "b",
+    "explanation": "Việc xử lý vi phạm không chỉ giới hạn ở xử lý kỷ luật của Hiệp hội mà còn có thể bị xử lý hành chính theo quy định của pháp luật."
+  },
+  {
+    "question": "Phí công chứng bao gồm:",
+    "a": "Phí công chứng bao gồm phí công chứng hợp đồng, giao dịch, bản dịch, phí lưu giữ di chúc, phí công chứng ngoài trụ sở và phí cấp bản sao văn bản công chứng.",
+    "b": "Phí công chứng bao gồm phí công chứng giao dịch, bản dịch, phí cấp bản sao văn bản công chứng.",
+    "c": "Phí công chứng bao gồm phí công chứng giao dịch, phí lưu giữ di chúc, phí trích lục hồ sơ lưu trữ và phí cấp bản sao văn bản công chứng.",
+    "d": "Phí công chứng bao gồm phí công chứng giao dịch, phí nhận lưu giữ di chúc, phí cấp bản sao văn bản công chứng.",
+    "answer": "a",
+    "explanation": "Phí công chứng bao gồm toàn bộ các khoản mục phí dịch vụ liên quan đến hoạt động công chứng đã liệt kê tại đáp án a."
+  },
+  {
+    "question": "UBND cấp xã nơi niêm yết có trách nhiệm xác nhận việc niêm yết và bảo quản việc niêm yết trong thời gian niêm yết:",
+    "a": "Đúng",
+    "b": "Sai",
+    "c": "Sai, là trách nhiệm của TCHNCC thụ lý hồ sơ",
+    "d": "Đúng, vì TCHNCC/NYCCC phải trả phí niêm yết",
+    "answer": "a",
+    "explanation": "UBND cấp xã nơi niêm yết có trách nhiệm xác nhận và bảo quản việc niêm yết theo quy định."
+  },
+  {
+    "question": "Một trong các tiêu chuẩn để được xem xét, bổ nhiệm công chứng viên là:",
+    "a": "Có bằng cử nhân luật.",
+    "b": "Có thời gian công tác pháp luật liên tục từ 5 năm trở lên tại các cơ quan, tổ chức sau khi có bằng cử nhân luật.",
+    "c": "Tốt nghiệp khóa đào tạo nghề công chứng quy định tại Điều 9 của Luật công chứng.",
+    "d": "Hoàn thành việc tập sự hành nghề công chứng.",
+    "answer": "d",
+    "explanation": "Hoàn thành tập sự là điều kiện bắt buộc để được bổ nhiệm công chứng viên."
+  },
+  {
+    "question": "Bộ Tư pháp có nhiệm vụ, quyền hạn nào dưới đây:",
+    "a": "Chủ trì, phối hợp với bộ, ngành hướng dẫn, quản lý hoạt động của các tổ chức hành nghề công chứng.",
+    "b": "Xây dựng, trình Chính phủ ban hành chính sách phát triển nghề công chứng.",
+    "c": "Ban hành hoặc trình cơ quan nhà nước có thẩm quyền ban hành văn bản quy phạm pháp luật về công chứng.",
+    "d": "Tất cả đáp án đều đúng.",
+    "answer": "d",
+    "explanation": "Tất cả các nội dung nêu trên đều thuộc chức năng, nhiệm vụ quản lý nhà nước về công chứng của Bộ Tư pháp."
+  },
+  {
+    "question": "Xử lý vi phạm đối với người yêu cầu công chứng:",
+    "a": "Người yêu cầu công chứng có hành vi cung cấp thông tin, tài liệu sai sự thật, sử dụng giấy tờ, văn bản giả mạo, sửa chữa, tẩy xóa giấy tờ, văn bản trái pháp luật khi yêu cầu công chứng thì tùy theo tính chất, mức độ vi phạm mà bị xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.",
+    "b": "Người yêu cầu công chứng có hành vi gian dối khi yêu cầu công chứng thì tùy theo tính chất, mức độ vi phạm mà bị xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.",
+    "c": "Cả a và b đều đúng.",
+    "d": "Cả a và b đều sai.",
+    "answer": "c",
+    "explanation": "Cả hai hành vi trên đều bị xử lý theo quy định của pháp luật về xử phạt vi phạm hành chính, hình sự và bồi thường thiệt hại."
+  },
+  {
+    "question": "TCHNCC trực tiếp mua hoặc có thể ủy quyền cho tổ chức XH-NN của CCV mua bảo hiểm trách nhiệm nghề nghiệp cho CCV của tổ chức mình?",
+    "a": "Đúng",
+    "b": "Sai",
+    "c": "TCHNCC phải trực tiếp mua",
+    "d": "Trách nhiệm của CCV và TCHNCC phải trực tiếp mua",
+    "answer": "a",
+    "explanation": "Luật cho phép TCHNCC mua hoặc ủy quyền mua bảo hiểm cho CCV."
+  },
+  {
+    "question": "Cơ quan nào có trách nhiệm xây dựng cơ sở dữ liệu công chứng địa phương và ban hành quy chế khai thác, sử dụng cơ sở dữ liệu công chứng?",
+    "a": "Sở Tư pháp.",
+    "b": "UBND cấp tỉnh.",
+    "c": "Bộ Tư pháp.",
+    "d": "Bộ trưởng Bộ Tư pháp.",
+    "answer": "b",
+    "explanation": "Theo Luật Công chứng, UBND cấp tỉnh có trách nhiệm xây dựng và ban hành quy chế khai thác cơ sở dữ liệu công chứng địa phương."
+  },
+  {
+    "question": "Công việc về công chứng được xác định là:",
+    "a": "Nghề nghiệp",
+    "b": "Hành vi",
+    "c": "Nhiệm vụ",
+    "d": "Tất cả đáp án đều đúng.",
+    "answer": "d",
+    "explanation": "Hoạt động công chứng bao hàm cả tính chất nghề nghiệp, hành vi của công chứng viên và nhiệm vụ được nhà nước ủy quyền."
+  },
+  {
+    "question": "VPCC được thành lập từ việc chuyển đổi PCC phải kế thừa toàn bộ quyền, nghĩa vụ và tiếp nhận toàn bộ hồ sơ công chứng của PCC đó?",
+    "a": "Đúng",
+    "b": "Sai",
+    "c": "Chỉ có quy định trong thời gian chuyển tiếp về hoạt động công chứng kể từ ngày LCC năm 2024 có hiệu lực thi hành",
+    "d": "Không có quy định",
+    "answer": "a",
+    "explanation": "Việc chuyển đổi từ Phòng công chứng sang Văn phòng công chứng đòi hỏi sự kế thừa toàn bộ quyền và nghĩa vụ."
+  },
+  {
+    "question": "UBND cấp tỉnh có nhiệm vụ, quyền hạn nào dưới dây:",
+    "a": "Ban hành mức trần giá dịch vụ theo yêu cầu liên quan đến việc công chứng tại địa phương.",
+    "b": "Bổ nhiệm, bổ nhiệm lại, miễn nhiệm công chứng viên.",
+    "c": "Báo cáo Bộ Tư pháp về hoạt động công chứng tại địa phương để tổng hợp báo cáo Chính phủ.",
+    "d": "Tất cả đáp án đều đúng.",
+    "answer": "c",
+    "explanation": "UBND cấp tỉnh báo cáo Bộ Tư pháp về tình hình hoạt động công chứng tại địa phương."
+  },
+  {
+    "question": "Tiêu chuẩn Công chứng viên:",
+    "a": "Là công dân Việt Nam, tuân thủ Hiến pháp và pháp luật, có phẩm chất đạo đức tốt và có đủ các tiêu chuẩn theo Điều 8 Luật công chứng.",
+    "b": "Là người Việt Nam đang cư trú tại Việt Nam, tuân thủ Hiến pháp và pháp luật, có phẩm chất đạo đức tốt và có đủ các tiêu chuẩn theo Điều 8 Luật công chứng.",
+    "c": "Là công dân Việt Nam thường trú tại Việt Nam, tuân thủ Hiến pháp và pháp luật, có phẩm chất đạo đức tốt và có đủ các tiêu chuẩn theo khoản 1, 2, 3, 4, 5 Điều 8 Luật công chứng thì được xem xét bổ nhiệm công chứng viên.",
+    "d": "Là công dân Việt Nam lưu trú tại Việt Nam, tuân thủ Hiến pháp và pháp luật, có phẩm chất đạo đức tốt và có đủ các tiêu chuẩn theo khoản 1, 2, 3, 4, 5 Điều 8 Luật công chứng thì được xem xét bổ nhiệm công chứng viên.",
+    "answer": "a",
+    "explanation": "Đây là quy định chung về tiêu chuẩn công chứng viên theo Luật Công chứng."
+  },
+  {
+    "question": "Bộ Tư pháp có nhiệm vụ, quyền hạn nào dưới dây:",
+    "a": "Tuyên truyền, phổ biến pháp luật về công chứng, chính sách phát triển nghề công chứng.",
+    "b": "Rà soát, cập nhật, đăng tải các giao dịch phải được công chứng, chứng thực trên Cổng thông tin điện tử của Bộ Tư pháp.",
+    "c": "Hướng dẫn về chuẩn dữ liệu cơ sở dữ liệu công chứng của địa phương; hướng dẫn về yêu cầu kỹ thuật của nền tảng công chứng điện tử.",
+    "d": "Tất cả đáp án đều đúng.",
+    "answer": "d",
+    "explanation": "Đây là các nhiệm vụ quản lý nhà nước về công chứng của Bộ Tư pháp."
+  },
+  {
+    "question": "Xử lý vi phạm đối với TCHNCC:",
+    "a": "Tổ chức hành nghề công chứng vi phạm quy định của Luật công chứng thì bị xử phạt vi phạm hành chính hoặc bị chấm dứt hoạt động theo quy định của pháp luật, nếu gây thiệt hại phải bồi thường theo quy định của pháp luật.",
+    "b": "Tổ chức hành nghề công chứng vi phạm quy định của Luật công chứng thì bị xử phạt vi phạm hành chính, nếu gây thiệt hại phải bồi thường theo quy định của pháp luật.",
+    "c": "Tổ chức hành nghề công chứng vi phạm quy định của Luật công chứng thì bị xử phạt vi phạm hành chính, bị truy cứu trách nhiệm hình sự hoặc bị chấm dứt hoạt động theo quy định của pháp luật, nếu gây thiệt hại phải bồi thường theo quy định của pháp luật.",
+    "d": "Tổ chức hành nghề công chứng vi phạm quy định của Luật công chứng thì bị xử phạt vi phạm hành chính, bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại phải bồi thường theo quy định của pháp luật.",
+    "answer": "c",
+    "explanation": "Tùy tính chất, TCHNCC có thể bị xử phạt hành chính, truy cứu hình sự hoặc chấm dứt hoạt động và bồi thường."
+  },
+  {
+    "question": "Việc bồi dưỡng nghiệp vụ được tổ chức theo hình thức:",
+    "a": "Học bồi dưỡng nghiệp vụ.",
+    "b": "Lớp bồi dưỡng nghiệp vụ.",
+    "c": "Khóa bồi dưỡng nghiệp vụ.",
+    "d": "Nhóm bồi dưỡng nghiệp vụ.",
+    "answer": "c",
+    "explanation": "Theo quy định, bồi dưỡng nghiệp vụ được tổ chức theo hình thức khóa bồi dưỡng."
+  },
+  {
+    "question": "Hoạt động công chứng được coi là gì?",
+    "a": "Một hoạt động mang tính chất hỗ trợ pháp lý.",
+    "b": "Một hoạt động mang tính chất bổ trợ tư pháp.",
+    "c": "Một hoạt động mang tính chất phòng ngừa.",
+    "d": "Một hoạt động mang tính chất hỗ trợ tư pháp.",
+    "answer": "b",
+    "explanation": "Hoạt động công chứng được xác định là hoạt động bổ trợ tư pháp."
+  },
+  {
+    "question": "Đối với di chúc đã được tổ chức hành nghề công chứng nhận lưu giữ nhưng sau đó tổ chức này chấm dứt hoạt động, chuyển đổi hoặc giải thể thì:",
+    "a": "Trước khi chấm dứt hoạt động, chuyển đổi hoặc giải thể, tổ chức hành nghề công chứng phải chuyển cho tổ chức hành nghề công chứng khác lưu giữ di chúc.",
+    "b": "Trường hợp không chuyển cho tổ chức hành nghề công chứng khác được thì di chúc phải được trả lại cho người lập di chúc.",
+    "c": "Trường hợp không liên hệ được với người lập di chúc thì di chúc được chuyển giao cho tổ chức hành nghề công chứng tiếp nhận hồ sơ của tổ chức hành nghề công chứng đã chấm dứt hoạt động, chuyển đổi hoặc giải thể.",
+    "d": "Cả a và b đều đúng.",
+    "answer": "d",
+    "explanation": "Quy định về bảo quản di chúc khi TCHNCC giải thể, chuyển đổi nhằm bảo vệ quyền lợi người lập di chúc."
+  },
+  {
+    "question": "Người tập sự được tạm ngừng tập sự bao lâu?",
+    "a": "tối đa là 02 lần, mỗi lần không quá 06 tháng",
+    "b": "02 lần, mỗi lần không quá 06 tháng",
+    "c": "tối đa là 03 lần, mỗi lần không quá 06 tháng",
+    "d": "không có quy định",
+    "answer": "a",
+    "explanation": "Quy định về số lần và thời hạn tạm ngừng tập sự của người tập sự hành nghề công chứng."
+  },
+  {
+    "question": "Hiệp hội công chứng viên Việt Nam có trách nhiệm nào sau đây:",
+    "a": "Thực hiện nhiệm vụ của tổ chức thực hiện bồi dưỡng.",
+    "b": "Hướng dẫn nội dung trọng tâm bồi dưỡng nghiệp vụ.",
+    "c": "Cả a và b đều đúng.",
+    "d": "Cả a và b đều sai.",
+    "answer": "c",
+    "explanation": "Hiệp hội đóng vai trò chính trong việc hướng dẫn và tổ chức bồi dưỡng nghiệp vụ."
+  },
+  {
+    "question": "Người làm chứng, người phiên dịch không bắt buộc phải ký vào từng trang mà chỉ cần ký vào trang cuối của hợp đồng, giao dịch?",
+    "a": "Đúng",
+    "b": "Sai",
+    "c": "phải cùng ký và điểm chỉ",
+    "d": "chỉ trong trường hợp điểm chỉ",
+    "answer": "b",
+    "explanation": "Người làm chứng, phiên dịch phải ký vào từng trang của hợp đồng, giao dịch."
+  },
+  {
+    "question": "Lời chứng của công chứng viên đối với giao dịch phải ghi rõ các nội dung sau đây:",
+    "a": "Chứng nhận người tham gia giao dịch hoàn toàn tự nguyện, có năng lực hành vi dân sự theo quy định của pháp luật, mục đích, nội dung của giao dịch không vi phạm pháp luật, không trái đạo đức xã hội",
+    "b": "Chữ ký, dấu điểm chỉ trong giao dịch đúng là chữ ký, dấu điểm chỉ của người yêu cầu công chứng, chữ ký, dấu điểm chỉ của người làm chứng, người phiên dịch trong trường hợp có người làm chứng",
+    "c": "Các thông tin về lý do công chứng ngoài trụ sở, việc làm chứng, phiên dịch trong trường hợp công chứng ngoài trụ sở hoặc việc công chứng có người làm chứng, người phiên dịch",
+    "d": "Tất cả các phương án đều đúng",
+    "answer": "d",
+    "explanation": "Các nội dung trên là những yếu tố bắt buộc trong lời chứng để đảm bảo tính pháp lý của giao dịch."
+  },
+  {
+    "question": "Công chứng viên cần phải tuân thủ những nguyên tắc nào?",
+    "a": "Chỉ chịu trách nhiệm trước pháp luật về văn bản công chứng, bồi thường thiệt hại trong trường hợp việc công chứng dẫn đến thiệt hại cho người yêu cầu công chứng.",
+    "b": "Tuân thủ Hiến pháp, pháp luật, không trái đạo đức xã hội.",
+    "c": "Khách quan khi thực hiện công chứng, không vì bất kỳ lý do nào mà làm ảnh hưởng đến chất lượng công việc cũng như phân biệt đối xử với người yêu cầu công chứng.",
+    "d": "Tuân thủ các quy định của tổ chức xã hội nghề nghiệp công chứng.",
+    "answer": "b",
+    "explanation": "Nguyên tắc cốt lõi của công chứng viên là tuân thủ Hiến pháp và pháp luật."
+  },
+  {
+    "question": "Việc cấp bản sao công chứng được thực hiện trong trường hợp nào sau đây:",
+    "a": "Theo yêu cầu của cơ quan có thẩm quyền.",
+    "b": "Theo yêu cầu của các bên tham gia hợp đồng, giao dịch, người có quyền, nghĩa vụ liên quan đến hợp đồng, giao dịch đã được công chứng.",
+    "c": "Cả a và b đều đúng.",
+    "d": "Cả a và b đều sai.",
+    "answer": "c",
+    "explanation": "Quy định về đối tượng được quyền yêu cầu cấp bản sao văn bản công chứng."
+  },
+  {
+    "question": "Trường hợp nào sau đây đúng?",
+    "a": "Ủy ban nhân dân cấp tỉnh ban hành giá tối đa đối với dịch vụ theo yêu cầu liên quan đến việc công chứng áp dụng đối với các tổ chức hành nghề công chứng tại địa phương.",
+    "b": "Người yêu cầu công chứng phải thanh toán phí, giá dịch vụ theo yêu cầu liên quan đến việc công chứng khi yêu cầu tổ chức hành nghề công chứng thực hiện việc soạn thảo giao dịch, sao chụp, dịch giấy tờ, văn bản liên quan đến giao dịch.",
+    "c": "Công chứng viên có trách nhiệm giải thích rõ cho người yêu cầu công chứng về phí, giá dịch vụ theo yêu cầu liên quan đến việc công chứng công chứng.",
+    "d": "Cả a và c đều đúng, b sai.",
+    "answer": "d",
+    "explanation": "Các quy định về giá dịch vụ công chứng và trách nhiệm giải thích của công chứng viên."
+  },
+  {
+    "question": "Mức thu phí đối với việc công chứng hợp đồng góp vốn bằng tài sản:",
+    "a": "Tính trên giá trị tài sản.",
+    "b": "Tính theo giá trị hợp đồng.",
+    "c": "Theo thỏa thuận giữa TCHNCC và NYCCC",
+    "d": "Chỉ a hoặc b đúng, c sai.",
+    "answer": "d",
+    "explanation": "Phí công chứng hợp đồng thường được tính dựa trên giá trị tài sản hoặc giá trị hợp đồng."
+  },
+  {
+    "question": "Niêm yết việc tiếp nhận công chứng văn bản phân chia di sản được tiến hành tại trụ sở của UBND cấp xã nơi thường trú cuối cùng của người để lại di sản?",
+    "a": "Đúng",
+    "b": "Sai",
+    "c": "hoặc nơi có di sản",
+    "d": "không bắt buộc",
+    "answer": "a",
+    "explanation": "Quy định nơi niêm yết việc thụ lý công chứng văn bản phân chia di sản."
+  },
+  {
+    "question": "Thời gian niêm yết thụ lý công chứng văn bản thỏa thuận phân chia di sản, khai nhận di sản:",
+    "a": "sau 15 ngày, kể từ ngày niêm yết.",
+    "b": "30 ngày, kể từ ngày niêm yết.",
+    "c": "15 ngày, kể từ ngày niêm yết.",
+    "d": "10 ngày, kể từ ngày niêm yết.",
+    "answer": "c",
+    "explanation": "Thời hạn niêm yết theo quy định là 15 ngày."
+  },
+  {
+    "question": "Văn phòng công chứng được tổ chức và hoạt động theo quy định của Luật Công chứng và quy định khác của pháp luật có liên quan đối với loại hình công ty hợp danh?",
+    "a": "Sai, vì có 2 loại hình là VPCC và PCC",
+    "b": "Sai, vì Luật Công chứng khác Luật Doanh nghiệp",
+    "c": "Sai, vì có 2 loại hình công ty hợp danh và doanh nghiệp tư nhân",
+    "d": "Đúng",
+    "answer": "d",
+    "explanation": "Văn phòng công chứng được tổ chức theo loại hình công ty hợp danh."
+  },
+  {
+    "question": "UBND cấp tỉnh có nhiệm vụ, quyền hạn nào dưới dây:",
+    "a": "Tổ chức thi hành, tuyên truyền, phổ biến pháp luật về công chứng, chính sách phát triển nghề công chứng",
+    "b": "Thực hiện các biện pháp phát triển TCHNCC trên địa bàn phù hợp với Quy hoạch tổng thể phát triển TCHNCC đã được Thủ tướng Chính phủ phê duyệt",
+    "c": "Quyết định thành lập Phòng công chứng; (bảo đảm cơ sở vật chất và phương tiện làm việc cho các Phòng công chứng) quyết định việc giải thể hoặc chuyển đổi Phòng công chứng",
+    "d": "Cả a và c đều đúng, b sai.",
+    "answer": "d",
+    "explanation": "Các nhiệm vụ của UBND cấp tỉnh bao gồm tuyên truyền và quản lý các đơn vị công chứng tại địa phương."
+  },
+  {
+    "question": "Thời điểm mua bảo hiểm trách nhiệm nghề nghiệp của CCV được thực hiện chậm nhất là bao nhiêu ngày, kể từ ngày công chứng viên của tổ chức hành nghề công chứng được đăng ký hành nghề?",
+    "a": "90 ngày",
+    "b": "01 tháng",
+    "c": "60 ngày",
+    "d": "30 ngày",
+    "answer": "d",
+    "explanation": "Thời hạn tối đa là 30 ngày kể từ ngày đăng ký hành nghề."
+  },
+  {
+    "question": "Công chứng viên có trách nhiệm:",
+    "a": "Tham gia tổ chức xã hội – nghề nghiệp của công chứng viên.",
+    "b": "Coi trọng, giữ gìn uy tín nghề nghiệp, không được có hành vi làm tổn hại đến danh dự, uy tín cá nhân, thanh danh nghề nghiệp.",
+    "c": "Cần phải ứng xử văn minh, lịch sự trong hành nghề để nhận sự yêu quý, tôn trọng, tin cậy và vinh danh của đồng nghiệp, người yêu cầu công chứng và toản thể xã hội.",
+    "d": "Cả b và c đều đúng, a sai.",
+    "answer": "d",
+    "explanation": "Các quy định về đạo đức nghề nghiệp của công chứng viên."
+  },
+  {
+    "question": "Trường hợp nào sau đây được miễn thực hiện nghĩa vụ tham gia bồi dưỡng nghiệp vụ trong năm:",
+    "a": "Công chứng viên nữ đang mang thai.",
+    "b": "CCV nữ đang nuôi con nhỏ dưới 12 tháng tuổi.",
+    "c": "CCV đang điều trị dài ngày tại cơ sở khám chữa bệnh.",
+    "d": "Tất cả đáp án đều đúng.",
+    "answer": "d",
+    "explanation": "Các trường hợp đặc biệt được miễn bồi dưỡng nghiệp vụ."
+  },
+  {
+    "question": "Xử lý vi phạm đối với CCV:",
+    "a": "Công chứng viên vi phạm quy định của Luật công chứng chỉ bị xử phạt vi phạm hành chính.",
+    "b": "Công chứng viên vi phạm quy định của Luật công chứng thì thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.",
+    "c": "Công chứng viên vi phạm quy định của Luật công chứng thì bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.",
+    "d": "Công chứng viên vi phạm quy định của Luật công chứng thì bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự.",
+    "answer": "c",
+    "explanation": "Các hình thức xử lý vi phạm tùy theo mức độ đối với công chứng viên."
+  },
+  {
+    "question": "Mức thu phí công chứng hợp đồng, giao dịch được xác định theo:",
+    "a": "Giá trị tài sản.",
+    "b": "Giá trị hợp đồng, giao dịch.",
+    "c": "Theo thỏa thuận giữa TCHNCC và NYCCC",
+    "d": "Chỉ a hoặc b đúng, c sai.",
+    "answer": "d",
+    "explanation": "Phí được tính trên giá trị hợp đồng hoặc tài sản theo khung pháp luật."
+  },
+  {
+    "question": "VPCC được thành lập từ việc chuyển đổi PCC phải ký hợp đồng lao động với CCV, viên chức, người lao động của PCC đó, trừ trường hợp những người này không có nhu cầu tiếp tục làm việc tại VPCC?",
+    "a": "Không có quy định",
+    "b": "Đúng",
+    "c": "Sai",
+    "d": "Còn tùy theo nhu cầu của VPCC đó",
+    "answer": "b",
+    "explanation": "Việc bảo đảm quyền lợi người lao động khi chuyển đổi mô hình là quy định bắt buộc."
+  },
+  {
+    "question": "Thời gian tham gia bồi dưỡng nghiệp vụ là bao lâu:",
+    "a": "Tối thiểu là 4 ngày làm việc (32 giờ/năm).",
+    "b": "Tối thiểu là 2 ngày làm việc (16 giờ/năm).",
+    "c": "Tối thiểu là 1 ngày làm việc (8 giờ/năm).",
+    "d": "Tối thiểu là 3 ngày làm việc (24 giờ/năm).",
+    "answer": "c",
+    "explanation": "Quy định về thời lượng bồi dưỡng nghiệp vụ tối thiểu."
+  },
+  {
+    "question": "Khi hành nghề công chứng, CCV không được:",
+    "a": "Tiết lộ thông tin về nội dung công chứng.",
+    "b": "Chỉ thực hiện công chứng trong trường hợp nội dung của hợp đồng, giao dịch, nội dung bản dịch vi phạm pháp luât, trái đạo đức xã hội; xúi giục, tạo điều kiện cho ngưới tham gia hợp đồng, giao dịch thực hiện giao dịch giả tạo hoặc hành vi gian dối khác.",
+    "c": "Gây áp lực, đe dọa hoặc thực hiện hành vi vi phạm pháp luật, trái đạo đức xã hội để giành lợi thế cho mình hoặc tổ chức mình trong việc hành nghề công chứng.",
+    "d": "Cả a và c đều đúng, b sai.",
+    "answer": "d",
+    "explanation": "Các hành vi cấm đối với công chứng viên khi hành nghề."
+  },
+  {
+    "question": "Xử lý vi phạm đối với người có hành vi xâm phạm quyền, lợi ích hợp pháp của CCV, TCHNCC:",
+    "a": "Người có chức vụ, quyền hạn mà có hành vi xâm phạm quyền, lợi ích hợp pháp của CCV, TCHNCC hoặc cản trở CCV, TCHNCC thực hiện quyền, nghĩa vụ thì bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự.",
+    "b": "Người có chức vụ, quyền hạn mà có hành vi xâm phạm quyền, lợi ích hợp pháp của CCV, TCHNCC hoặc cản trở CCV, TCHNCC thực hiện quyền, nghĩa vụ thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự.",
+    "c": "Người có chức vụ, quyền hạn mà có hành vi xâm phạm quyền, lợi ích hợp pháp của CCV, TCHNCC hoặc cản trở CCV, TCHNCC thực hiện quyền, nghĩa vụ thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.",
+    "d": "Người có chức vụ, quyền hạn mà có hành vi xâm phạm quyền, lợi ích hợp pháp của CCV, TCHNCC hoặc cản trở CCV, TCHNCC thực hiện quyền, nghĩa vụ thì bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.",
+    "answer": "c",
+    "explanation": "Xử lý đối với hành vi cản trở, xâm phạm quyền lợi công chứng viên."
+  },
+  {
+    "question": "Trường hợp di sản chỉ gồm có bất động sản thì việc niêm yết việc tiếp nhận công chứng văn bản phân chia di sản được tiến hành tại UBND cấp xã nơi có bất động sản?",
+    "a": "và UBND cấp xã nơi TCHNCC đóng trụ sở",
+    "b": "Sai",
+    "c": "hoặc nơi thường trú cuối cùng trước khi chết của người để lại di sản",
+    "d": "Đúng",
+    "answer": "d",
+    "explanation": "Nơi thực hiện niêm yết di sản là bất động sản."
+  },
+  {
+    "question": "Trường hợp nào sau đây là đúng?",
+    "a": "Hồ sơ công chứng phải được lưu trữ tại trụ sở của tổ chức hành nghề công chứng trong thời hạn ít nhất 20 năm đối với các giao dịch có đối tượng là bất động sản, ít nhất 10 năm đối với các loại giao dịch khác kể từ ngày văn bản công chứng có hiệu lực.",
+    "b": "Tổ chức hành nghề công chứng có trách nhiệm bảo quản chặt chẽ, thực hiện đủ các biện pháp an ninh, an toàn về phòng, chống cháy, nổ, ẩm mốc, mối mọt đối với hồ sơ công chứng.",
+    "c": "Hồ sơ công chứng bắt buộc phải được lưu trữ tại trụ sở của tổ chức hành nghề công chứng.",
+    "d": "Hồ sơ công chứng phải được đánh số theo thứ tự thời gian phù hợp với thời gian công chứng.",
+    "answer": "a",
+    "explanation": "Thời hạn lưu trữ hồ sơ công chứng theo quy định của pháp luật."
+  },
+  {
+    "question": "Ai là người có thẩm quyền quy định chi tiết mẫu lời chứng của CCV đối với giao dịch?",
+    "a": "Chính phủ.",
+    "b": "Bộ trưởng bộ Tư pháp.",
+    "c": "Bộ Tư pháp.",
+    "d": "Sở Tư pháp.",
+    "answer": "b",
+    "explanation": "Thẩm quyền ban hành mẫu lời chứng thuộc về Bộ trưởng Bộ Tư pháp."
+  },
+  {
+    "question": "Niêm yết việc tiếp nhận công chứng văn bản phân chia di sản do ai thực hiện?",
+    "a": "Tổ chức hành nghề công chứng",
+    "b": "Cán bộ Tư pháp cấp xã",
+    "c": "Người yêu cầu công chứng",
+    "d": "UBND cấp xã",
+    "answer": "a",
+    "explanation": "Tổ chức hành nghề công chứng thực hiện niêm yết thông báo tại UBND cấp xã."
+  },
+  {
+    "question": "Nhận định nào sau đây đúng?",
+    "a": "Trường hợp công chứng tại trụ sở hay ngoài trụ sở TCHNCC thì CCV đều phải ký vào lời chứng ngoài trụ sở và đóng dấu TCHNCC tại trụ sở TCHNCC.",
+    "b": "Trường hợp công chứng ngoài trụ sở TCHNCC thì CCV có thể ký vào lời chứng và đóng dấu TCHNCC tại nơi người yêu cầu công chứng ngoài trụ sở.",
+    "c": "Trường hợp công chứng ngoài trụ sở TCHNCC thì CCV có thể ký vào lời chứng ngoài trụ sở, nhưng phải đóng dấu TCHNCC tại trụ sở TCHNCC.",
+    "d": "Tất cả các đáp án đều đúng",
+    "answer": "d",
+    "explanation": "Quy định về việc đóng dấu và ký lời chứng khi công chứng ngoài trụ sở."
+  },
+  {
+    "question": "Xử lý vi phạm đối với cá nhân, TCHNCC bất hợp pháp:",
+    "a": "Cá nhân không đủ điều kiện hành nghề công chứng mà hành nghề công chứng dưới bất kỳ hình thức nào thì phải chấm dứt hành vi vi phạm, bị xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.",
+    "b": "Tổ chức không đủ điều kiện hành nghề công chứng mà hành nghề công chứng dưới bất kỳ hình thức nào thì phải chấm dứt hành vi vi phạm, bị xử phạt vi phạm hành chính, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.",
+    "c": "Cả a và b đều đúng.",
+    "d": "Cả a và b đều sai.",
+    "answer": "c",
+    "explanation": "Các hình thức xử lý đối với hoạt động công chứng bất hợp pháp."
+  },
+  {
+    "question": "Cơ sở dữ liệu công chứng bao gồm:",
+    "a": "Cơ sở dữ liệu công chứng của Bộ Tư pháp bao gồm thông tin về công chứng viên, tổ chức hành nghề công chứng, số liệu về kết quả hoạt động công chứng.",
+    "b": "Bộ Tư pháp có trách nhiệm xây dựng cơ sở dữ liệu công chứng của Bộ Tư pháp; ban hành quy chế quản lý, cập nhật, khai thác, sử dụng, chia sẻ cơ sở dữ liệu công chứng của Bộ Tư pháp.",
+    "c": "Cơ sở dữ liệu công chứng phải được cập nhật đủ, kịp thời và bảo đảm an ninh, an toàn theo quy định của pháp luật.",
+    "d": "Cơ sở dữ liệu công chứng gồm cơ sở dữ liệu công chứng của Bộ Tư pháp.",
+    "answer": "d",
+    "explanation": "Cơ sở dữ liệu công chứng bao gồm hệ thống dữ liệu do Bộ Tư pháp quản lý."
+  },
+  {
+    "question": "Công chứng viên có các nghĩa vụ nào sau:",
+    "a": "Giải thích cho người yêu cầu công chứng hiểu rõ quyền, nghĩa vụ của họ, ý nghĩa và hậu quả pháp lý của việc công chứng.",
+    "b": "Giữ bí mật về nội dung công chứng trong mọi trường hợp.",
+    "c": "Chỉ chịu trách nhiệm trước pháp luật về văn bản công chứng của mình.",
+    "d": "Tôn trọng và bảo vệ quyền, lợi ích hợp pháp của người yêu cầu công chứng.",
+    "answer": "a",
+    "explanation": "Nghĩa vụ quan trọng nhất của CCV là giải thích quyền và hậu quả pháp lý cho người yêu cầu."
+  },
+  {
+    "question": "Kết quả của hoạt động công chứng là gì?",
+    "a": "Văn bản công chứng",
+    "b": "Đảm bảo an toàn pháp lý",
+    "c": "Đảm bảo an toàn pháp lý và đảm bảo quyền, lợi ích hợp pháp của cá nhân, tổ chức",
+    "d": "Tất cả đáp án đều đúng.",
+    "answer": "d",
+    "explanation": "Kết quả của hoạt động công chứng bao hàm cả hình thức (văn bản) và nội dung (an toàn pháp lý)."
+  }
