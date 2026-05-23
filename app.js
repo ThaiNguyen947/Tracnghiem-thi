@@ -102,7 +102,9 @@ async function taiTatCaDuLieuCauHoi() {
     "./cau_hoi/p4.json",
     "./cau_hoi/p5.json",
     "./cau_hoi/p6.json",
-    "./cau_hoi/p7.json"
+    "./cau_hoi/p7.json",
+    "./cau_hoi/p8.json",
+    "./cau_hoi/pcuathay.json"
   ];
   
   let beCauHoiTong = [];
