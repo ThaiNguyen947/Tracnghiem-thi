@@ -1,4 +1,49 @@
 [
+    {
+    "question": "Theo Luật Đất Đai năm 2024, trường hợp giao đất, cho thuê đất theo Luật Đất đai năm 1993 và Luật Đất đai năm 2003 mà được bàn giao đất trên thực tế trước ngày 01/01/2005 thì giá đất để tính tiền sử dụng đất được xác định như thế nào?",
+    "a": "Áp dụng bảng giá đất tại thời điểm bàn giao đất trên thực tế",
+    "b": "Áp dụng bảng giá đất năm 2005 do UBND cấp tỉnh ban hành",
+    "c": "Áp dụng bảng giá đất hiện hành tại thời điểm tính tiền",
+    "d": "Áp dụng giá đất do Nhà nước thỏa thuận với người sử dụng đất",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 điểm a Điều 257 Luật Đất đai 2024: trường hợp giao đất, cho thuê đất theo Luật Đất đai 1993, 2003 và đã bàn giao đất trên thực tế trước ngày 01/01/2005 thì chính sách thu tiền sử dụng đất, tiền thuê đất và giá đất áp dụng theo bảng giá đất năm 2005 do UBND cấp tỉnh ban hành."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, trường hợp giao đất, cho thuê đất theo Luật Đất đai 1993 và Luật Đất đai 2003 mà bàn giao đất trên thực tế từ ngày 01/01/2005 đến trước ngày Luật Đất đai 2024 có hiệu lực thì giá đất được xác định như thế nào?",
+    "a": "Theo giá đất tại thời điểm ban hành quyết định giao đất",
+    "b": "Theo giá đất tại thời điểm bàn giao đất trên thực tế",
+    "c": "Theo bảng giá đất hiện hành",
+    "d": "Theo giá đất do UBND cấp tỉnh quyết định tại thời điểm hiện tại",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 điểm b Điều 257 Luật Đất đai 2024: trường hợp bàn giao đất thực tế từ 01/01/2005 đến trước ngày Luật có hiệu lực thì giá đất và nghĩa vụ tài chính được xác định tại thời điểm bàn giao đất thực tế."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, trường hợp đã có quyết định giao đất, cho thuê đất nhưng phương án giá đất chưa được trình thì xác định giá đất như thế nào?",
+    "a": "Theo bảng giá đất tại thời điểm hiện tại",
+    "b": "Theo giá đất tại thời điểm ban hành quyết định giao đất, cho thuê đất",
+    "c": "Theo giá đất do người sử dụng đất thỏa thuận",
+    "d": "Theo giá đất tại thời điểm ký hợp đồng thuê đất",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 điểm c Điều 257 Luật Đất đai 2024: trường hợp đã có quyết định giao đất, cho thuê đất nhưng phương án giá đất chưa được trình thì giá đất được xác định tại thời điểm ban hành quyết định giao đất, cho thuê đất."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, trường hợp phương án giá đất đã được trình Ủy ban nhân dân nhưng chưa ban hành quyết định giá đất cụ thể thì xử lý như thế nào?",
+    "a": "Phải lập lại toàn bộ phương án giá đất",
+    "b": "Không được áp dụng Luật Đất đai 2024",
+    "c": "Ủy ban nhân dân quyết định giá đất cụ thể theo phương án đã trình mà không áp dụng quy định mới",
+    "d": "Chuyển sang đấu giá quyền sử dụng đất",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 257 Luật Đất đai 2024: trường hợp phương án giá đất đã trình UBND có thẩm quyền trước khi Luật có hiệu lực thì UBND quyết định giá đất cụ thể theo phương án đã trình, không áp dụng quy định mới của Luật."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, Chính phủ có trách nhiệm gì liên quan đến các trường hợp chưa tính đủ tiền sử dụng đất, tiền thuê đất?",
+    "a": "Quyết định miễn toàn bộ nghĩa vụ tài chính",
+    "b": "Quy định việc áp dụng phương pháp định giá đất và khoản tiền phải nộp bổ sung",
+    "c": "Giao UBND cấp xã xử lý",
+    "d": "Hủy toàn bộ nghĩa vụ tài chính trước đây",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 điểm d Điều 257 Luật Đất đai 2024: Chính phủ quy định việc áp dụng phương pháp định giá đất và khoản tiền người sử dụng đất phải nộp bổ sung đối với thời gian chưa tính tiền sử dụng đất, tiền thuê đất."
+  },
    {
     "question": "Theo Luật Đất Đai năm 2024, thủ tục hành chính về đất đai bao gồm nội dung nào sau đây?",
     "a": "Chỉ bao gồm đăng ký đất đai và cấp Giấy chứng nhận",
