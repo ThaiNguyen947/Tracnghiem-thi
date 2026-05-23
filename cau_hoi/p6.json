@@ -1,4 +1,832 @@
 [
+  {
+    "question": "Theo Luật Đất đai 2024, đâu KHÔNG phải là căn cứ để tính tiền sử dụng đất, tiền thuê đất?",
+    "a": "Diện tích đất được giao, cho thuê, chuyển mục đích sử dụng",
+    "b": "Thời hạn sử dụng đất",
+    "c": "Giá đất theo quy định của pháp luật tại thời điểm tính",
+    "d": "Lợi nhuận dự kiến của nhà đầu tư sau khi hoàn thành dự án",
+    "answer": "d",
+    "explanation": "Theo khoản 1 Điều 155 Luật Đất đai 2024, căn cứ tính tiền sử dụng đất, tiền thuê đất gồm: diện tích, thời hạn sử dụng đất, giá đất và chính sách miễn, giảm. Lợi nhuận nhà đầu tư không phải là căn cứ tính tiền sử dụng đất."
+  },
+  {
+    "question": "Phương pháp định giá đất nào sau đây yêu cầu tính toán 'chi phí phát triển' và 'tổng doanh thu phát triển'?",
+    "a": "Phương pháp so sánh",
+    "b": "Phương pháp thu nhập",
+    "c": "Phương pháp thặng dư",
+    "d": "Phương pháp hệ số điều chỉnh giá đất",
+    "answer": "c",
+    "explanation": "Theo điểm c khoản 5 Điều 158 Luật Đất đai 2024, phương pháp thặng dư được xác định bằng cách lấy tổng doanh thu phát triển ước tính trừ đi tổng chi phí phát triển ước tính."
+  },
+  {
+    "question": "Đối với trường hợp Nhà nước cho thuê đất thu tiền thuê đất hằng năm, chu kỳ ổn định tiền thuê đất là bao lâu?",
+    "a": "Ổn định trong suốt thời hạn cho thuê",
+    "b": "Ổn định cho chu kỳ 05 năm",
+    "c": "Ổn định cho chu kỳ 03 năm",
+    "d": "Thay đổi theo bảng giá đất hằng năm của UBND cấp tỉnh",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 153 Luật Đất đai 2024, tiền thuê đất hằng năm được áp dụng ổn định cho chu kỳ 05 năm tính từ thời điểm Nhà nước quyết định cho thuê đất."
+  },
+  {
+    "question": "Cơ quan nào có thẩm quyền quyết định giá đất cụ thể theo quy định của Luật Đất đai 2024?",
+    "a": "Ủy ban nhân dân cấp tỉnh",
+    "b": "Chủ tịch Ủy ban nhân dân cấp tỉnh",
+    "c": "Sở Tài nguyên và Môi trường",
+    "d": "Hội đồng thẩm định giá đất cụ thể",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 160 Luật Đất đai 2024, Chủ tịch UBND cấp tỉnh có thẩm quyền quyết định giá đất cụ thể (có thể phân cấp cho Chủ tịch UBND cấp huyện)."
+  },
+  {
+    "question": "Điều kiện để một tổ chức tư vấn được phép thực hiện tư vấn xác định giá đất là gì?",
+    "a": "Phải là đơn vị sự nghiệp công lập trực thuộc Sở Tài nguyên và Môi trường",
+    "b": "Có ít nhất 03 định giá viên hoặc 03 thẩm định viên về giá",
+    "c": "Có ít nhất 05 nhân sự có trình độ đại học ngành quản lý đất đai",
+    "d": "Phải có giấy phép kinh doanh bất động sản từ 05 năm trở lên",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 3 Điều 162 Luật Đất đai 2024, tổ chức tư vấn xác định giá đất phải có ít nhất 03 định giá viên hoặc 03 thẩm định viên về giá."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, đâu KHÔNG phải là căn cứ để tính tiền sử dụng đất, tiền thuê đất?",
+    "a": "Diện tích đất được giao, cho thuê, chuyển mục đích sử dụng",
+    "b": "Thời hạn sử dụng đất",
+    "c": "Giá đất theo quy định của pháp luật tại thời điểm tính",
+    "d": "Lợi nhuận dự kiến của nhà đầu tư sau khi hoàn thành dự án",
+    "answer": "d",
+    "explanation": "Theo khoản 1 Điều 155 Luật Đất đai 2024, căn cứ tính tiền sử dụng đất, tiền thuê đất gồm diện tích đất, giá đất (theo Điều 159, 160) và chính sách miễn, giảm tiền sử dụng đất, tiền thuê đất; không bao gồm lợi nhuận nhà đầu tư."
+  },
+  {
+    "question": "Phương pháp định giá đất nào sau đây yêu cầu tính toán 'chi phí phát triển' và 'tổng doanh thu phát triển'?",
+    "a": "Phương pháp so sánh",
+    "b": "Phương pháp thu nhập",
+    "c": "Phương pháp thặng dư",
+    "d": "Phương pháp hệ số điều chỉnh giá đất",
+    "answer": "c",
+    "explanation": "Theo điểm c khoản 5 Điều 158 Luật Đất đai 2024, phương pháp thặng dư được thực hiện bằng cách lấy tổng doanh thu phát triển ước tính trừ đi tổng chi phí phát triển ước tính của dự án."
+  },
+  {
+    "question": "Đối với trường hợp Nhà nước cho thuê đất thu tiền thuê đất hằng năm, chu kỳ ổn định tiền thuê đất là bao lâu?",
+    "a": "Ổn định trong suốt thời hạn cho thuê",
+    "b": "Ổn định cho chu kỳ 05 năm",
+    "c": "Ổn định cho chu kỳ 03 năm",
+    "d": "Thay đổi theo bảng giá đất hằng năm của UBND cấp tỉnh",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 153 Luật Đất đai 2024, tiền thuê đất hằng năm được áp dụng ổn định cho chu kỳ 05 năm tính từ thời điểm Nhà nước quyết định cho thuê đất."
+  },
+  {
+    "question": "Cơ quan nào có thẩm quyền quyết định giá đất cụ thể theo quy định của Luật Đất đai 2024?",
+    "a": "Ủy ban nhân dân cấp tỉnh",
+    "b": "Chủ tịch Ủy ban nhân dân cấp tỉnh hoặc cấp huyện",
+    "c": "Sở Tài nguyên và Môi trường",
+    "d": "Hội đồng thẩm định giá đất cụ thể",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 160 Luật Đất đai 2024, Chủ tịch UBND cấp tỉnh hoặc Chủ tịch UBND cấp huyện có thẩm quyền quyết định giá đất cụ thể tùy từng trường hợp."
+  },
+  {
+    "question": "Điều kiện để một tổ chức tư vấn được phép thực hiện tư vấn xác định giá đất là gì?",
+    "a": "Phải là đơn vị sự nghiệp công lập trực thuộc Sở Tài nguyên và Môi trường",
+    "b": "Có ít nhất 03 định giá viên hoặc 03 thẩm định viên về giá",
+    "c": "Có ít nhất 05 nhân sự có trình độ đại học ngành quản lý đất đai",
+    "d": "Phải có giấy phép kinh doanh bất động sản từ 05 năm trở lên",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 3 Điều 162 Luật Đất đai 2024, tổ chức tư vấn xác định giá đất phải đáp ứng điều kiện có ít nhất 03 định giá viên về giá đất hoặc 03 thẩm định viên về giá."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, phương pháp định giá đất nào KHÔNG được áp dụng để xác định giá đất cụ thể?",
+    "a": "Phương pháp so sánh",
+    "b": "Phương pháp thu nhập",
+    "c": "Phương pháp thặng dư",
+    "d": "Phương pháp kế toán doanh nghiệp",
+    "answer": "d",
+    "explanation": "Theo khoản 5 Điều 158 Luật Đất đai 2024, các phương pháp định giá đất gồm so sánh, thu nhập, thặng dư và hệ số điều chỉnh giá đất; không có phương pháp kế toán doanh nghiệp."
+  },
+  {
+    "question": "Hội đồng thẩm định giá đất cụ thể làm việc theo nguyên tắc nào?",
+    "a": "Quyết định theo ý kiến Chủ tịch UBND",
+    "b": "Làm việc độc lập, quyết định theo đa số",
+    "c": "Quyết định theo Bộ Tài nguyên và Môi trường",
+    "d": "Quyết định theo cơ quan tư vấn giá đất",
+    "answer": "b",
+    "explanation": "Theo khoản 6 Điều 161 Luật Đất đai 2024, Hội đồng thẩm định giá đất cụ thể làm việc độc lập, khách quan, theo chế độ tập thể và quyết định theo đa số."
+  },
+  {
+    "question": "Về bảng giá đất, nhận định nào sau đây là chính xác nhất theo quy định?",
+    "a": "Được xây dựng định kỳ 05 năm một lần",
+    "b": "Được cập nhật và công bố vào ngày 01/01 hằng năm",
+    "c": "Không được thay đổi trong thời gian áp dụng",
+    "d": "Do Bộ Tài nguyên và Môi trường ban hành",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 159 Luật Đất đai 2024, bảng giá đất được xây dựng, cập nhật, sửa đổi, bổ sung hằng năm và công bố công khai vào ngày 01/01 của năm tiếp theo."
+  },
+  {
+    "question": "Trường hợp nào sau đây được miễn tiền sử dụng đất, tiền thuê đất?",
+    "a": "Sử dụng đất để kinh doanh dịch vụ karaoke",
+    "b": "Sử dụng đất xây dựng nhà ở thương mại",
+    "c": "Sử dụng đất để thực hiện chính sách nhà ở xã hội",
+    "d": "Sử dụng đất để đầu cơ bất động sản",
+    "answer": "c",
+    "explanation": "Theo điểm b khoản 1 Điều 157 Luật Đất đai 2024, miễn, giảm tiền sử dụng đất, tiền thuê đất áp dụng cho nhà ở xã hội, nhà ở cho người có công và các chính sách an sinh xã hội."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, cơ sở dữ liệu quốc gia về đất đai bao gồm nội dung nào sau đây?",
+    "a": "Cơ sở dữ liệu về dân cư và hộ tịch",
+    "b": "Cơ sở dữ liệu về quy hoạch, kế hoạch sử dụng đất",
+    "c": "Cơ sở dữ liệu về thuế thu nhập doanh nghiệp",
+    "d": "Cơ sở dữ liệu về đăng ký xe cơ giới",
+    "answer": "b",
+    "explanation": "Theo điểm d khoản 1 Điều 165 Luật Đất đai 2024, cơ sở dữ liệu quốc gia về đất đai bao gồm cơ sở dữ liệu về quy hoạch, kế hoạch sử dụng đất."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, dịch vụ công về đất đai bao gồm những nội dung chính nào?",
+    "a": "Dịch vụ cấp hộ khẩu và đăng ký cư trú",
+    "b": "Dịch vụ cung cấp thông tin, dữ liệu về đất đai; đo đạc; đăng ký đất đai; tư vấn xác định giá đất",
+    "c": "Dịch vụ cấp giấy phép xây dựng nhà ở riêng lẻ",
+    "d": "Dịch vụ quản lý thuế thu nhập doanh nghiệp",
+    "answer": "b",
+    "explanation": "Theo Điều 154 Luật Đất đai 2024, dịch vụ công về đất đai bao gồm dịch vụ cung cấp thông tin, dữ liệu về đất đai; đo đạc địa chính; đăng ký đất đai; tư vấn xác định giá đất và các dịch vụ khác theo quy định."
+  },
+  {
+    "question": "Khi chuyển mục đích sử dụng đất, người sử dụng đất phải nộp tiền theo căn cứ nào sau đây?",
+    "a": "Chỉ tính trên diện tích đất chuyển mục đích",
+    "b": "Tính bằng mức chênh lệch giữa tiền sử dụng đất, tiền thuê đất của loại đất sau và trước khi chuyển mục đích",
+    "c": "Căn cứ vào bảng giá vàng tại thời điểm chuyển mục đích",
+    "d": "Căn cứ vào tổng doanh thu từ dự án kinh doanh",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 156 Luật Đất đai 2024, khi chuyển mục đích sử dụng đất, người sử dụng đất phải nộp tiền bằng mức chênh lệch giữa tiền sử dụng đất, tiền thuê đất của loại đất sau và trước khi chuyển mục đích."
+  },
+  {
+    "question": "Thời điểm định giá đất đối với trường hợp Nhà nước giao đất là thời điểm nào?",
+    "a": "Thời điểm ký hợp đồng thuê đất",
+    "b": "Thời điểm ban hành quyết định giao đất, cho thuê đất hoặc chuyển mục đích sử dụng đất",
+    "c": "Thời điểm hoàn thành nghĩa vụ tài chính",
+    "d": "Thời điểm cấp Giấy chứng nhận quyền sử dụng đất",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 3 Điều 155 Luật Đất đai 2024, thời điểm định giá đất là thời điểm Nhà nước ban hành quyết định giao đất, cho thuê đất hoặc chuyển mục đích sử dụng đất."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, phương pháp định giá đất nào được xác định bằng cách lấy thu nhập ròng bình quân năm chia cho lãi suất tiền gửi tiết kiệm?",
+    "a": "Phương pháp so sánh",
+    "b": "Phương pháp thu nhập",
+    "c": "Phương pháp thặng dư",
+    "d": "Phương pháp hệ số điều chỉnh giá đất",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 5 Điều 158 Luật Đất đai 2024, phương pháp thu nhập được xác định bằng cách lấy thu nhập ròng bình quân năm trên một đơn vị diện tích đất chia cho lãi suất tiền gửi tiết kiệm bình quân."
+  },
+  {
+    "question": "Bảng giá đất theo Luật Đất đai 2024 được áp dụng cho trường hợp nào sau đây?",
+    "a": "Tính tiền sử dụng đất khi công nhận quyền sử dụng đất ở của hộ gia đình, cá nhân",
+    "b": "Xác định giá trị cổ phần hóa của doanh nghiệp nhà nước",
+    "c": "Tính tiền thuê đất trả một lần của tổ chức kinh tế",
+    "d": "Tính tiền bồi thường khi Nhà nước thu hồi đất của tổ chức",
+    "answer": "a",
+    "explanation": "Theo khoản 1 Điều 159 Luật Đất đai 2024, bảng giá đất được áp dụng để tính tiền sử dụng đất khi công nhận quyền sử dụng đất ở của hộ gia đình, cá nhân và các trường hợp khác theo quy định."
+  },
+  {
+    "question": "Trường hợp nào sau đây KHÔNG thuộc phạm vi áp dụng của giá đất cụ thể?",
+    "a": "Tính tiền sử dụng đất của tổ chức khi giao đất không thông qua đấu giá",
+    "b": "Tính tiền bồi thường khi Nhà nước thu hồi đất",
+    "c": "Tính thuế thu nhập cá nhân từ chuyển nhượng quyền sử dụng đất",
+    "d": "Tính tiền thuê đất trả một lần cho cả thời gian thuê",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 160 Luật Đất đai 2024, giá đất cụ thể áp dụng cho giao đất, thuê đất, bồi thường, cổ phần hóa...; không áp dụng để tính thuế thu nhập cá nhân."
+  },
+  {
+    "question": "Trách nhiệm xây dựng bảng giá đất tại địa phương thuộc về cơ quan nào?",
+    "a": "Bộ Tài nguyên và Môi trường",
+    "b": "Ủy ban nhân dân cấp tỉnh",
+    "c": "Cục Thuế tỉnh",
+    "d": "Tòa án nhân dân cấp tỉnh",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 159 Luật Đất đai 2024, Ủy ban nhân dân cấp tỉnh có trách nhiệm xây dựng, trình Hội đồng nhân dân cùng cấp quyết định bảng giá đất."
+  },
+  {
+    "question": "Khoản thu ngân sách từ đất đai theo Điều 153 Luật Đất đai 2024 bao gồm những nội dung nào?",
+    "a": "Tiền sử dụng đất; tiền thuê đất; tiền xử phạt vi phạm hành chính về đất đai",
+    "b": "Tiền lương cán bộ địa chính; tiền thuê đất; thuế thu nhập doanh nghiệp",
+    "c": "Tiền thuê đất; tiền trợ cấp xã hội; tiền sử dụng đất",
+    "d": "Tiền sử dụng đất; tiền chuyển nhượng đất của cá nhân; thuế VAT",
+    "answer": "a",
+    "explanation": "Theo khoản 1 Điều 153 Luật Đất đai 2024, các khoản thu ngân sách từ đất đai gồm tiền sử dụng đất; tiền thuê đất; tiền thu từ xử phạt vi phạm hành chính về đất đai; tiền bồi thường cho Nhà nước; phí, lệ phí về đất đai."
+  },
+  {
+    "question": "Hệ thống thông tin đất đai theo Luật Đất đai 2024 được xây dựng theo nguyên tắc nào?",
+    "a": "Độc lập, không liên thông giữa các địa phương",
+    "b": "Được xây dựng liên thông, kết nối dữ liệu quốc gia và phục vụ Chính phủ số",
+    "c": "Chỉ lưu trữ dạng văn bản giấy tại cơ quan nhà nước",
+    "d": "Do các doanh nghiệp tư vấn định giá đất tự quản lý",
+    "answer": "b",
+    "explanation": "Theo Điều 163 Luật Đất đai 2024, hệ thống thông tin đất đai được xây dựng tập trung, thống nhất, liên thông, kết nối với cơ sở dữ liệu quốc gia và phục vụ Chính phủ số."
+  },
+  {
+    "question": "Cơ sở dữ liệu quốc gia về đất đai bao gồm nội dung nào sau đây?",
+    "a": "Dữ liệu về hộ tịch và quốc tịch",
+    "b": "Dữ liệu về quy hoạch, kế hoạch sử dụng đất",
+    "c": "Dữ liệu về bảo hiểm xã hội",
+    "d": "Dữ liệu về đăng ký xe cơ giới",
+    "answer": "b",
+    "explanation": "Theo điểm d khoản 1 Điều 165 Luật Đất đai 2024, cơ sở dữ liệu quốc gia về đất đai bao gồm cơ sở dữ liệu về quy hoạch, kế hoạch sử dụng đất."
+  },
+  {
+    "question": "Theo Điều 158 Luật Đất đai 2024, phương pháp định giá đất nào được thực hiện bằng cách lấy tổng doanh thu phát triển trừ đi tổng chi phí phát triển?",
+    "a": "Phương pháp so sánh",
+    "b": "Phương pháp thu nhập",
+    "c": "Phương pháp thặng dư",
+    "d": "Phương pháp hệ số điều chỉnh giá đất",
+    "answer": "c",
+    "explanation": "Theo điểm c khoản 5 Điều 158 Luật Đất đai 2024, phương pháp thặng dư được thực hiện bằng cách lấy tổng doanh thu phát triển ước tính trừ đi tổng chi phí phát triển ước tính."
+  },
+  {
+    "question": "Khi Nhà nước giao đất không thông qua đấu giá, việc định giá đất phải dựa trên căn cứ nào?",
+    "a": "Bảng giá đất chưa nhân hệ số",
+    "b": "Giá đất cụ thể",
+    "c": "Giá thị trường do người bán đất đề xuất",
+    "d": "Giá trị doanh nghiệp khi cổ phần hóa",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 160 Luật Đất đai 2024, giá đất cụ thể được áp dụng cho các trường hợp giao đất, cho thuê đất không thông qua đấu giá quyền sử dụng đất."
+  },
+  {
+    "question": "Phát biểu nào sau đây là SAI về bảng giá đất?",
+    "a": "Do UBND cấp tỉnh xây dựng",
+    "b": "Được áp dụng để tính thuế sử dụng đất",
+    "c": "Dùng để xác định giá khởi điểm đấu giá trong mọi trường hợp",
+    "d": "Áp dụng cho hộ gia đình, cá nhân khi công nhận quyền sử dụng đất",
+    "answer": "c",
+    "explanation": "Theo Điều 159 Luật Đất đai 2024, bảng giá đất không phải luôn dùng để xác định giá khởi điểm đấu giá (nhiều trường hợp phải dùng giá đất cụ thể)."
+  },
+  {
+    "question": "Căn cứ tính tiền sử dụng đất KHÔNG bao gồm yếu tố nào sau đây?",
+    "a": "Diện tích đất được giao, được chuyển mục đích sử dụng",
+    "b": "Giá đất theo quy định tại Điều 159 và 160",
+    "c": "Chính sách miễn, giảm tiền sử dụng đất",
+    "d": "Giá trị tài sản gắn liền với đất",
+    "answer": "d",
+    "explanation": "Theo khoản 1 Điều 155 Luật Đất đai 2024, căn cứ tính tiền sử dụng đất gồm diện tích đất, giá đất (Điều 159, 160) và chính sách miễn giảm; không bao gồm giá trị tài sản gắn liền với đất."
+  },
+  {
+    "question": "Trong hội đồng thẩm định giá đất cụ thể, ai là người có quyền quyết định theo đa số?",
+    "a": "Chủ tịch UBND cấp tỉnh",
+    "b": "Các thành viên Hội đồng tham gia cuộc họp",
+    "c": "Đơn vị tư vấn giá đất",
+    "d": "Cán bộ địa chính cấp xã",
+    "answer": "b",
+    "explanation": "Theo khoản 6 Điều 161 Luật Đất đai 2024, Hội đồng thẩm định giá đất cụ thể làm việc theo chế độ tập thể và quyết định theo đa số các thành viên tham gia cuộc họp."
+  },
+  {
+    "question": "Phương pháp hệ số điều chỉnh giá đất theo Luật Đất đai 2024 là gì?",
+    "a": "Phương pháp lấy bảng giá đất nhân với hệ số điều chỉnh giá đất",
+    "b": "Phương pháp lấy thu nhập ròng chia lãi suất",
+    "c": "Phương pháp lấy doanh thu trừ chi phí",
+    "d": "Phương pháp so sánh các lô đất tương tự",
+    "answer": "a",
+    "explanation": "Theo điểm d khoản 5 Điều 158 Luật Đất đai 2024, phương pháp hệ số điều chỉnh giá đất được xác định bằng cách lấy giá đất trong bảng giá đất nhân với hệ số điều chỉnh giá đất."
+  },
+  {
+    "question": "Đối tượng nào sau đây thường được hưởng chính sách miễn, giảm tiền sử dụng đất theo Điều 157?",
+    "a": "Nhà đầu tư khu nghỉ dưỡng cao cấp",
+    "b": "Nhà ở xã hội, người có công với cách mạng",
+    "c": "Doanh nghiệp kinh doanh bất động sản",
+    "d": "Cá nhân mua đất để kinh doanh thương mại",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 1 Điều 157 Luật Đất đai 2024, miễn, giảm tiền sử dụng đất áp dụng cho các dự án nhà ở xã hội, người có công với cách mạng và các đối tượng thuộc chính sách an sinh xã hội."
+  },
+  {
+    "question": "Theo quy định, giá đất cụ thể phải đảm bảo nguyên tắc nào?",
+    "a": "Phù hợp với giá đất phổ biến trên thị trường",
+    "b": "Phải thấp hơn bảng giá đất",
+    "c": "Do người sử dụng đất tự ấn định",
+    "d": "Không thay đổi trong suốt 10 năm",
+    "answer": "a",
+    "explanation": "Theo khoản 1 Điều 158 Luật Đất đai 2024, một trong các nguyên tắc định giá đất là phải phù hợp với giá đất phổ biến trên thị trường trong điều kiện bình thường."
+  },
+  {
+    "question": "Văn phòng đăng ký đất đai có trách nhiệm gì trong hệ thống thông tin đất đai?",
+    "a": "Chỉ lưu trữ hồ sơ giấy",
+    "b": "Cập nhật, chỉnh lý biến động đất đai vào cơ sở dữ liệu",
+    "c": "Không được truy cập vào cơ sở dữ liệu",
+    "d": "Tự ý xóa bỏ dữ liệu khi cần",
+    "answer": "b",
+    "explanation": "Theo Điều 164 và 165 Luật Đất đai 2024, Văn phòng đăng ký đất đai có trách nhiệm cập nhật, chỉnh lý thường xuyên các biến động đất đai vào cơ sở dữ liệu đất đai."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, giá đất trong bảng giá đất được xác định như thế nào?",
+    "a": "Theo nguyên tắc thị trường",
+    "b": "Do Chính phủ ấn định một giá duy nhất cho toàn quốc",
+    "c": "Không dựa trên bất kỳ căn cứ nào",
+    "d": "Dựa trên ý kiến chủ quan của người dân",
+    "answer": "a",
+    "explanation": "Theo khoản 2 Điều 159 Luật Đất đai 2024, bảng giá đất được xây dựng trên cơ sở nguyên tắc thị trường, phù hợp với giá đất phổ biến trên thị trường trong điều kiện bình thường."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, loại đất nào thuộc nhóm sử dụng đất ổn định lâu dài?",
+    "a": "Đất ở",
+    "b": "Đất rừng sản xuất do tổ chức quản lý",
+    "c": "Đất thương mại, dịch vụ của cá nhân giao có thời hạn",
+    "d": "Đất thuê để thực hiện dự án đầu tư",
+    "answer": "a",
+    "explanation": "Theo khoản 1 Điều 171 Luật Đất đai 2024, đất ở thuộc nhóm đất sử dụng ổn định lâu dài."
+  },
+  {
+    "question": "Thời hạn giao đất nông nghiệp cho cá nhân trực tiếp sản xuất nông nghiệp là bao lâu?",
+    "a": "30 năm",
+    "b": "50 năm",
+    "c": "70 năm",
+    "d": "Không xác định thời hạn",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 1 Điều 172 Luật Đất đai 2024, thời hạn giao đất nông nghiệp cho cá nhân trực tiếp sản xuất nông nghiệp là 50 năm."
+  },
+  {
+    "question": "Dự án đầu tư có thời hạn hoạt động trên 50 năm thì thời hạn cho thuê đất tối đa là bao nhiêu?",
+    "a": "50 năm",
+    "b": "60 năm",
+    "c": "70 năm",
+    "d": "99 năm",
+    "answer": "c",
+    "explanation": "Theo điểm c khoản 1 Điều 172 Luật Đất đai 2024, dự án có thời hạn trên 50 năm thì thời hạn giao đất, cho thuê đất theo dự án nhưng không quá 70 năm."
+  },
+  {
+    "question": "Loại đất nào sau đây KHÔNG thuộc nhóm sử dụng đất ổn định lâu dài?",
+    "a": "Đất ở",
+    "b": "Đất quốc phòng",
+    "c": "Đất rừng sản xuất do tổ chức quản lý",
+    "d": "Đất tín ngưỡng",
+    "answer": "c",
+    "explanation": "Theo khoản 1 và khoản 3 Điều 171 Luật Đất đai 2024, đất rừng sản xuất do tổ chức quản lý không thuộc nhóm đất sử dụng ổn định lâu dài."
+  },
+  {
+    "question": "Người sử dụng đất khi hết thời hạn nếu có nhu cầu gia hạn phải thực hiện như thế nào?",
+    "a": "Được gia hạn tự động",
+    "b": "Phải nộp hồ sơ đề nghị gia hạn trong năm cuối thời hạn sử dụng đất",
+    "c": "Không cần làm thủ tục gì",
+    "d": "Được chuyển sang sử dụng ổn định lâu dài",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 172 Luật Đất đai 2024, người sử dụng đất phải nộp hồ sơ đề nghị gia hạn chậm nhất 06 tháng trước khi hết thời hạn sử dụng đất và việc gia hạn thực hiện trong năm cuối."
+  },
+  {
+    "question": "Trường hợp không nộp hồ sơ gia hạn sử dụng đất đúng thời hạn thì hậu quả pháp lý là gì?",
+    "a": "Được gia hạn tự động",
+    "b": "Vẫn được tiếp tục sử dụng đất",
+    "c": "Không được gia hạn và bị xem xét thu hồi đất",
+    "d": "Chuyển sang đất ổn định lâu dài",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 172 Luật Đất đai 2024, quá thời hạn nộp hồ sơ mà không nộp thì không được gia hạn, trừ trường hợp bất khả kháng và Nhà nước thực hiện thu hồi đất."
+  },
+  {
+    "question": "Khi chuyển đất nông nghiệp sang đất phi nông nghiệp thì thời hạn sử dụng đất được xác định như thế nào?",
+    "a": "Giữ nguyên thời hạn cũ",
+    "b": "Luôn là ổn định lâu dài",
+    "c": "Theo loại đất sau khi chuyển mục đích sử dụng",
+    "d": "Không xác định thời hạn",
+    "answer": "c",
+    "explanation": "Theo điểm d khoản 1 Điều 173 Luật Đất đai 2024, thời hạn sử dụng đất được xác định theo loại đất sau khi chuyển mục đích sử dụng."
+  },
+  {
+    "question": "Khi nhận chuyển quyền sử dụng đất đối với loại đất có thời hạn, thời hạn sử dụng được xác định như thế nào?",
+    "a": "Là 50 năm kể từ ngày nhận chuyển quyền",
+    "b": "Là thời hạn mới do Nhà nước xác định",
+    "c": "Là thời gian sử dụng đất còn lại của thửa đất",
+    "d": "Là ổn định lâu dài",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 174 Luật Đất đai 2024, thời hạn sử dụng đất khi nhận chuyển quyền là thời gian còn lại của thời hạn sử dụng đất trước khi chuyển quyền."
+  },
+  {
+    "question": "Hạn mức giao đất trồng cây hằng năm tại khu vực Đông Nam Bộ và Đồng bằng sông Cửu Long là bao nhiêu?",
+    "a": "1 ha mỗi loại đất",
+    "b": "2 ha mỗi loại đất",
+    "c": "3 ha mỗi loại đất",
+    "d": "5 ha mỗi loại đất",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 176 Luật Đất đai 2024, hạn mức giao đất trồng cây hằng năm, nuôi trồng thủy sản, làm muối tại khu vực Đông Nam Bộ và Đồng bằng sông Cửu Long là không quá 03 ha mỗi loại đất."
+  },
+  {
+    "question": "Hạn mức nhận chuyển quyền sử dụng đất nông nghiệp của cá nhân tối đa là bao nhiêu lần hạn mức giao đất?",
+    "a": "10 lần",
+    "b": "12 lần",
+    "c": "15 lần",
+    "d": "20 lần",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 177 Luật Đất đai 2024, hạn mức nhận chuyển quyền sử dụng đất nông nghiệp của cá nhân không quá 15 lần hạn mức giao đất."
+  },
+  {
+    "question": "Trường hợp nào sau đây KHÔNG tính vào hạn mức giao đất nông nghiệp của cá nhân?",
+    "a": "Đất được Nhà nước giao không thu tiền sử dụng đất",
+    "b": "Đất thuê của Nhà nước",
+    "c": "Đất nhận thừa kế quyền sử dụng đất",
+    "d": "Đất được Nhà nước công nhận quyền sử dụng đất",
+    "answer": "c",
+    "explanation": "Theo khoản 7 Điều 176 Luật Đất đai 2024, diện tích đất nông nghiệp do nhận chuyển nhượng, thừa kế, tặng cho không tính vào hạn mức giao đất."
+  },
+  {
+    "question": "Hạn mức giao đất trồng cây lâu năm tại xã miền núi tối đa là bao nhiêu?",
+    "a": "10 ha",
+    "b": "20 ha",
+    "c": "30 ha",
+    "d": "50 ha",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 176 Luật Đất đai 2024, hạn mức giao đất trồng cây lâu năm tại xã miền núi không quá 30 ha."
+  },
+  {
+    "question": "Đất rừng đặc dụng được giao cho đối tượng nào sau đây?",
+    "a": "Cá nhân để khai thác gỗ",
+    "b": "Ban quản lý rừng đặc dụng",
+    "c": "Doanh nghiệp bất động sản",
+    "d": "Hộ gia đình không cư trú tại địa bàn",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 186 Luật Đất đai 2024, đất rừng đặc dụng được giao cho ban quản lý rừng đặc dụng, tổ chức khoa học, đơn vị vũ trang và cộng đồng dân cư tại địa bàn."
+  },
+  {
+    "question": "Nội dung nào sau đây đúng về đất làm muối?",
+    "a": "Chỉ giao cho tổ chức kinh tế",
+    "b": "Cá nhân được giao trong hạn mức giao đất nông nghiệp",
+    "c": "Không được Nhà nước cho thuê",
+    "d": "Không thuộc nhóm đất nông nghiệp",
+    "answer": "b",
+    "explanation": "Theo Điều 187 Luật Đất đai 2024, đất làm muối được Nhà nước giao cho cá nhân trong hạn mức giao đất nông nghiệp và cho thuê đối với tổ chức."
+  },
+  {
+    "question": "Nội dung nào sau đây đúng về hoạt động lấn biển?",
+    "a": "Hoạt động lấn biển chỉ cần UBND cấp tỉnh chấp thuận",
+    "b": "Hoạt động lấn biển không cần lập dự án đầu tư",
+    "c": "Hoạt động lấn biển phải lập dự án đầu tư hoặc hạng mục của dự án",
+    "d": "Hoạt động lấn biển không chịu sự điều chỉnh của pháp luật biển",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 190 Luật Đất đai 2024, hoạt động lấn biển phải được lập thành dự án đầu tư hoặc hạng mục của dự án đầu tư."
+  },
+  {
+    "question": "Trường hợp nào phải được Quốc hội hoặc Thủ tướng Chính phủ chấp thuận khi thực hiện lấn biển?",
+    "a": "Lấn biển tại khu dân cư thông thường",
+    "b": "Lấn biển tại khu vực không có quy hoạch",
+    "c": "Lấn biển trong khu vực di tích lịch sử - văn hóa, vườn quốc gia",
+    "d": "Lấn biển phục vụ nuôi trồng thủy sản nhỏ lẻ",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 190 Luật Đất đai 2024, lấn biển trong khu vực di tích, vườn quốc gia, khu bảo tồn... phải được Quốc hội hoặc Thủ tướng Chính phủ chấp thuận."
+  },
+  {
+    "question": "Nội dung nào sau đây đúng về đất bãi bồi ven sông, ven biển?",
+    "a": "Do UBND cấp xã quản lý trực tiếp",
+    "b": "Thuộc quyền quản lý của cá nhân đang sử dụng đất liền kề",
+    "c": "Thuộc UBND cấp huyện nơi có đất quản lý",
+    "d": "Do Bộ Tài nguyên và Môi trường quản lý trực tiếp",
+    "answer": "c",
+    "explanation": "Theo điểm a khoản 2 Điều 191 Luật Đất đai 2024, đất bãi bồi thuộc địa bàn nào thì UBND cấp huyện đó quản lý."
+  },
+  {
+    "question": "Đất có mặt nước ven biển được sử dụng theo nguyên tắc nào?",
+    "a": "Ưu tiên khai thác kinh tế tối đa không cần xét môi trường",
+    "b": "Không cần phù hợp quy hoạch sử dụng đất",
+    "c": "Phải bảo vệ hệ sinh thái, không gây nhiễm mặn nguồn nước ngầm",
+    "d": "Được tự do chuyển đổi mục đích sử dụng",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 189 Luật Đất đai 2024, việc sử dụng đất ven biển phải bảo vệ hệ sinh thái, môi trường và không gây nhiễm mặn nguồn nước ngầm."
+  },
+  {
+    "question": "Sự khác nhau giữa tập trung đất nông nghiệp và tích tụ đất nông nghiệp?",
+    "a": "Tập trung là nhận chuyển nhượng, tích tụ là thuê đất",
+    "b": "Tập trung là mở rộng thông qua dồn điền, tích tụ là nhận chuyển nhượng hoặc góp vốn",
+    "c": "Hai khái niệm là giống nhau",
+    "d": "Tích tụ chỉ áp dụng cho đất phi nông nghiệp",
+    "answer": "b",
+    "explanation": "Theo Điều 192 và 193 Luật Đất đai 2024, tập trung đất nông nghiệp gồm dồn điền đổi thửa, thuê đất, hợp tác; còn tích tụ là nhận chuyển nhượng hoặc góp vốn bằng quyền sử dụng đất."
+  },
+  {
+    "question": "Nội dung nào sau đây đúng về tích tụ đất nông nghiệp?",
+    "a": "Chỉ được thực hiện thông qua thuê đất",
+    "b": "Không được nhận góp vốn bằng quyền sử dụng đất",
+    "c": "Thực hiện thông qua nhận chuyển nhượng và góp vốn",
+    "d": "Bắt buộc phải do Nhà nước thực hiện",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 193 Luật Đất đai 2024, tích tụ đất nông nghiệp được thực hiện thông qua nhận chuyển nhượng và góp vốn bằng quyền sử dụng đất."
+  },
+  {
+    "question": "Nội dung nào sau đây đúng về đất do công ty nông, lâm nghiệp quản lý?",
+    "a": "Không được giao lại cho cá nhân sử dụng",
+    "b": "Chỉ được sử dụng cho mục đích thương mại",
+    "c": "Có thể thu hồi phần đất sử dụng không đúng mục đích để giao lại địa phương",
+    "d": "Không chịu sự quản lý của UBND cấp tỉnh",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 181 Luật Đất đai 2024, UBND cấp tỉnh có quyền thu hồi đất sử dụng sai mục đích của công ty nông, lâm nghiệp để giao lại cho địa phương."
+  },
+  {
+    "question": "Nội dung nào sau đây đúng về đất ở tại đô thị?",
+    "a": "Không cần phù hợp quy hoạch xây dựng",
+    "b": "Được tự ý chuyển sang đất sản xuất kinh doanh",
+    "c": "Phải phù hợp quy hoạch sử dụng đất và quy hoạch xây dựng",
+    "d": "Không chịu sự quản lý của pháp luật về môi trường",
+    "answer": "c",
+    "explanation": "Theo khoản 4 Điều 196 Luật Đất đai 2024, việc chuyển mục đích sử dụng đất ở đô thị phải phù hợp quy hoạch sử dụng đất và quy hoạch xây dựng."
+  },
+  {
+    "question": "Nội dung nào sau đây đúng về đất quốc phòng, an ninh?",
+    "a": "Do UBND cấp xã trực tiếp quản lý",
+    "b": "Không thuộc phạm vi quản lý của địa phương",
+    "c": "UBND cấp tỉnh phối hợp Bộ Quốc phòng, Bộ Công an quản lý",
+    "d": "Thuộc sở hữu tư nhân",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 200 Luật Đất đai 2024, UBND cấp tỉnh phối hợp Bộ Quốc phòng và Bộ Công an trong quản lý đất quốc phòng, an ninh."
+  },
+  {
+    "question": "Đất có mặt nước ao, hồ, đầm được Nhà nước giao cho đối tượng nào?",
+    "a": "Tổ chức kinh tế để xây dựng khu đô thị",
+    "b": "Cá nhân để nuôi trồng thủy sản trong hạn mức",
+    "c": "Doanh nghiệp nước ngoài để kinh doanh bất động sản",
+    "d": "Tổ chức tín dụng để bảo đảm khoản vay",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 188 Luật Đất đai 2024, đất ao, hồ, đầm được Nhà nước giao cho cá nhân theo hạn mức để nuôi trồng thủy sản."
+  },
+  {
+    "question": "Hoạt động lấn biển phải đáp ứng nguyên tắc nào sau đây?",
+    "a": "Không cần đánh giá tác động môi trường",
+    "b": "Chỉ cần phù hợp lợi ích của nhà đầu tư",
+    "c": "Phù hợp quy hoạch và bảo đảm phát triển bền vững",
+    "d": "Không cần dự án đầu tư",
+    "answer": "c",
+    "explanation": "Theo điểm b khoản 2 Điều 190 Luật Đất đai 2024, hoạt động lấn biển phải bảo đảm phát triển bền vững và đánh giá đầy đủ kinh tế – xã hội – môi trường."
+  },
+  {
+    "question": "Tập trung đất nông nghiệp được thực hiện thông qua phương thức nào?",
+    "a": "Nhận chuyển nhượng quyền sử dụng đất",
+    "b": "Nhận góp vốn bằng quyền sử dụng đất",
+    "c": "Dồn điền đổi thửa, thuê đất, hợp tác sản xuất",
+    "d": "Mua bán đất ở đô thị",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 192 Luật Đất đai 2024, tập trung đất nông nghiệp gồm dồn điền đổi thửa, thuê đất và hợp tác sản xuất."
+  },
+  {
+    "question": "Đối tượng nào được giao đất rừng sản xuất không thu tiền sử dụng đất?",
+    "a": "Doanh nghiệp FDI",
+    "b": "Cá nhân trực tiếp sản xuất nông nghiệp tại địa phương",
+    "c": "Tổ chức tài chính",
+    "d": "Nhà đầu tư bất động sản",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 184 Luật Đất đai 2024, cá nhân trực tiếp sản xuất nông nghiệp có thể được giao đất rừng sản xuất không thu tiền sử dụng đất trong hạn mức."
+  },
+  {
+    "question": "Đất trồng lúa khi chuyển sang mục đích phi nông nghiệp phải thực hiện nghĩa vụ nào?",
+    "a": "Không cần nghĩa vụ gì",
+    "b": "Chỉ cần xin phép chuyển mục đích",
+    "c": "Phải có phương án sử dụng tầng đất mặt và nộp khoản tiền theo quy định",
+    "d": "Chỉ cần thông báo cho UBND xã",
+    "answer": "c",
+    "explanation": "Theo khoản 4 Điều 182 Luật Đất đai 2024, khi chuyển đất lúa sang phi nông nghiệp phải có phương án sử dụng tầng đất mặt và nộp khoản tiền theo quy định."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, đối tượng nào được sử dụng đất quốc phòng, an ninh kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế?",
+    "a": "Đơn vị quân đội, đơn vị công an, đơn vị sự nghiệp công lập thuộc Quân đội nhân dân, Công an nhân dân và doanh nghiệp nhà nước do Bộ Quốc phòng, Bộ Công an quản lý theo khoản 1 Điều 201",
+    "b": "Tất cả tổ chức kinh tế trong nước, hộ gia đình và cá nhân nếu có phương án kinh doanh khả thi",
+    "c": "Đơn vị vũ trang, tổ chức kinh tế có vốn đầu tư nước ngoài và các đơn vị hành chính thuộc Bộ Quốc phòng",
+    "d": "Tất cả các tổ chức, cá nhân đang trực tiếp quản lý, sử dụng đất quốc phòng, an ninh trên địa bàn",
+    "correct": "a",
+    "explanation": "Căn cứ khoản 1 Điều 201 Luật Đất đai 2024 quy định rõ đối tượng gồm đơn vị quân đội, công an, đơn vị sự nghiệp công lập thuộc lực lượng vũ trang và doanh nghiệp nhà nước do Bộ Quốc phòng, Bộ Công an quản lý."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, việc sử dụng đất quốc phòng, an ninh kết hợp với hoạt động kinh tế phải nộp tiền sử dụng đất trong trường hợp nào?",
+    "a": "Phải nộp tiền sử dụng đất hằng năm theo phương án được Bộ trưởng Bộ Quốc phòng hoặc Bộ Công an phê duyệt theo khoản 2 Điều 201",
+    "b": "Phải nộp tiền sử dụng đất một lần cho cả thời gian sử dụng theo quyết định của UBND cấp tỉnh",
+    "c": "Không phải nộp trong mọi trường hợp do đất này thuộc diện miễn thuế sử dụng đất phi nông nghiệp",
+    "d": "Phải nộp tiền sử dụng đất hằng năm trừ trường hợp doanh nghiệp thuộc Bộ Quốc phòng, Bộ Công an tự kinh doanh",
+    "correct": "a",
+    "explanation": "Khoản 2 Điều 201 quy định việc sử dụng đất kết hợp phải lập phương án và nộp tiền sử dụng đất hằng năm, trừ trường hợp phục vụ giáo dục, cải tạo, hậu cần thì không phải nộp."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, chủ đầu tư khu công nghiệp được chuyển sang hình thức thuê đất trả tiền một lần trong trường hợp nào?",
+    "a": "Khi được Nhà nước cho thuê đất trả tiền hằng năm thì được quyền chuyển sang trả tiền một lần theo khoản 3 Điều 202",
+    "b": "Chỉ được chuyển đổi khi có sự chấp thuận của Thủ tướng Chính phủ đối với dự án quy mô lớn",
+    "c": "Chủ đầu tư không được chuyển đổi hình thức thuê đất để đảm bảo nguồn thu ổn định cho ngân sách nhà nước",
+    "d": "Khi thời hạn thuê đất còn lại từ 20 năm trở lên và được cơ quan tài chính địa phương phê duyệt",
+    "correct": "a",
+    "explanation": "Khoản 3 Điều 202 quy định chủ đầu tư khu công nghiệp, cụm công nghiệp được chuyển từ thuê đất trả tiền hằng năm sang trả tiền một lần cho cả thời gian thuê."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, khu công nghệ cao có thời hạn sử dụng đất tối đa là bao nhiêu năm?",
+    "a": "Không quá 70 năm theo khoản 2 Điều 204",
+    "b": "Không quá 50 năm theo quy định chung về đất thương mại dịch vụ",
+    "c": "Không quá 99 năm theo ưu đãi đầu tư đặc biệt của khu kinh tế",
+    "d": "Thời hạn sử dụng đất được xác định theo dự án đầu tư nhưng tối đa là 50 năm",
+    "correct": "a",
+    "explanation": "Khoản 2 Điều 204 quy định thời hạn sử dụng đất trong khu công nghệ cao theo dự án đầu tư nhưng không quá 70 năm."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, đất khu kinh tế bao gồm những loại đất nào?",
+    "a": "Bao gồm đất khu phi thuế quan, khu chế xuất, khu công nghiệp, khu du lịch, khu đô thị và khu hành chính theo khoản 1 Điều 203",
+    "b": "Chỉ bao gồm đất khu chức năng phi thuế quan và khu công nghiệp theo quy định về địa bàn kinh tế đặc biệt",
+    "c": "Bao gồm đất khu đô thị, đất dân cư nông thôn và đất thương mại dịch vụ nằm trong ranh giới hành chính của khu kinh tế",
+    "d": "Bao gồm tất cả các loại đất thuộc quyền quản lý của Ban quản lý khu kinh tế cấp tỉnh",
+    "correct": "a",
+    "explanation": "Khoản 1 Điều 203 quy định đất khu kinh tế bao gồm nhiều khu chức năng như phi thuế quan, chế xuất, công nghiệp, du lịch, đô thị, hành chính và các khu chức năng khác."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, việc sử dụng đất kết hợp đa mục đích phải đáp ứng yêu cầu nào sau đây?",
+    "a": "Không làm thay đổi loại đất và không làm mất điều kiện sử dụng đất chính theo khoản 2 Điều 218",
+    "b": "Phải thực hiện chuyển mục đích sử dụng đất sang loại đất phù hợp với mục đích kết hợp mới",
+    "c": "Phải có phương án sử dụng đất đa mục đích được UBND cấp xã xác nhận và không làm ảnh hưởng đến môi trường",
+    "d": "Phải nộp thuế sử dụng đất phi nông nghiệp cho toàn bộ diện tích đất sử dụng kết hợp",
+    "correct": "a",
+    "explanation": "Khoản 2 Điều 218 quy định rõ việc sử dụng đất đa mục đích không được làm thay đổi loại đất và không làm mất điều kiện để quay lại mục đích chính."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, điều kiện tách thửa đất nào sau đây là đúng?",
+    "a": "Thửa đất phải có Giấy chứng nhận và không có tranh chấp theo khoản 1 Điều 220",
+    "b": "Thửa đất chỉ cần đảm bảo diện tích tối thiểu và có sự đồng thuận của các hộ liền kề",
+    "c": "Thửa đất đang bị kê biên vẫn có thể tách nếu có văn bản đồng ý của cơ quan thi hành án",
+    "d": "Thửa đất có thể tách khi có quyết định giao đất của cấp xã mà chưa cần có Giấy chứng nhận",
+    "correct": "a",
+    "explanation": "Khoản 1 Điều 220 quy định điều kiện tách thửa gồm: có Giấy chứng nhận, còn thời hạn sử dụng, không tranh chấp, không bị kê biên hoặc áp dụng biện pháp khẩn cấp."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, đất chưa sử dụng được ưu tiên giao cho đối tượng nào?",
+    "a": "Cá nhân cư trú tại địa phương chưa được giao đất hoặc thiếu đất sản xuất theo khoản 3 Điều 222",
+    "b": "Doanh nghiệp trong nước có năng lực tài chính để thực hiện dự án khai hoang",
+    "c": "Tổ chức kinh tế đã có dự án đầu tư được cơ quan nhà nước chấp thuận chủ trương",
+    "d": "Cộng đồng dân cư tại địa phương để quản lý và bảo vệ rừng cộng đồng",
+    "correct": "a",
+    "explanation": "Khoản 3 Điều 222 quy định ưu tiên giao đất chưa sử dụng cho cá nhân tại địa phương chưa được giao đất hoặc thiếu đất sản xuất."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, đất có mặt nước chuyên dùng được hiểu là gì?",
+    "a": "Đất có mặt nước ao, hồ, đầm, phá đã xác định mục đích sử dụng không phải nuôi trồng thủy sản theo khoản 1 Điều 215",
+    "b": "Đất có mặt nước của các hồ chứa thủy lợi, thủy điện và các công trình thủy sản công cộng",
+    "c": "Toàn bộ diện tích mặt nước nằm trong ranh giới sử dụng đất của cơ sở sản xuất, kinh doanh",
+    "d": "Đất mặt nước ven biển được sử dụng vào mục đích nuôi trồng thủy sản kết hợp du lịch",
+    "correct": "a",
+    "explanation": "Khoản 1 Điều 215 quy định đất có mặt nước chuyên dùng là ao, hồ, đầm, phá đã xác định mục đích sử dụng không phải nuôi trồng thủy sản."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng phải được quản lý theo nguyên tắc nào?",
+    "a": "Phải quy hoạch thành khu tập trung, hợp vệ sinh và phù hợp quy hoạch theo khoản 1 Điều 214",
+    "b": "Được ưu tiên xây dựng theo nhu cầu của cộng đồng dân cư tại địa phương",
+    "c": "Quản lý theo hình thức tự quản của dòng họ hoặc tổ chức tín ngưỡng",
+    "d": "Chỉ cần đảm bảo khoảng cách an toàn môi trường theo quy định của Bộ Y tế",
+    "correct": "a",
+    "explanation": "Khoản 1 Điều 214 quy định đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng phải quy hoạch tập trung, phù hợp quy hoạch, bảo đảm môi trường."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, đất do cơ quan, tổ chức của Nhà nước quản lý bao gồm trường hợp nào sau đây?",
+    "a": "Đất đã giao cho cá nhân sử dụng ổn định lâu dài",
+    "b": "Đất chưa giao, chưa cho thuê hoặc đã giao để quản lý theo quy định tại khoản 1 Điều 217",
+    "c": "Đất đã có giấy chứng nhận quyền sử dụng đất cho hộ gia đình",
+    "d": "Đất đang tranh chấp nhưng chưa được Tòa án giải quyết",
+    "correct": "b",
+    "explanation": "Theo khoản 1 Điều 217 Luật Đất đai 2024, đất do cơ quan, tổ chức của Nhà nước quản lý bao gồm đất chưa giao, chưa cho thuê hoặc đã được giao để quản lý theo các trường hợp liệt kê tại Điều này."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, đất công ích của xã, phường, thị trấn thuộc nhóm đất nào sau đây?",
+    "a": "Đất do Nhà nước giao cho tổ chức kinh tế sử dụng",
+    "b": "Đất do cơ quan, tổ chức của Nhà nước quản lý theo điểm i khoản 1 Điều 217",
+    "c": "Đất ở đô thị",
+    "d": "Đất thương mại dịch vụ",
+    "correct": "b",
+    "explanation": "Theo điểm i khoản 1 Điều 217 Luật Đất đai 2024, đất nông nghiệp sử dụng vào mục đích công ích của xã, phường, thị trấn thuộc nhóm đất do Nhà nước quản lý."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, cơ quan nào có trách nhiệm chính quản lý đất chưa sử dụng tại địa phương cấp xã?",
+    "a": "Sở Tài nguyên và Môi trường",
+    "b": "Ủy ban nhân dân cấp xã",
+    "c": "Bộ Tài nguyên và Môi trường",
+    "d": "Hội đồng nhân dân cấp tỉnh",
+    "correct": "b",
+    "explanation": "Theo khoản 1 Điều 221 Luật Đất đai 2024, Ủy ban nhân dân cấp xã có trách nhiệm quản lý, bảo vệ đất chưa sử dụng tại địa phương."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, đất chưa sử dụng được Nhà nước khuyến khích sử dụng theo hướng nào?",
+    "a": "Chuyển toàn bộ sang đất ở",
+    "b": "Đấu giá bắt buộc cho doanh nghiệp",
+    "c": "Khuyến khích tổ chức, cá nhân đầu tư đưa đất chưa sử dụng vào sử dụng theo quy hoạch, kế hoạch",
+    "d": "Chỉ giao cho doanh nghiệp nhà nước",
+    "correct": "c",
+    "explanation": "Theo khoản 2 Điều 222 Luật Đất đai 2024, Nhà nước khuyến khích tổ chức, cá nhân đầu tư để đưa đất chưa sử dụng vào sử dụng theo quy hoạch, kế hoạch sử dụng đất."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, đất chưa sử dụng ưu tiên giao cho ai khi quy hoạch sử dụng vào mục đích nông nghiệp?",
+    "a": "Doanh nghiệp có vốn đầu tư nước ngoài",
+    "b": "Tổ chức kinh tế lớn",
+    "c": "Cá nhân cư trú tại địa phương chưa được giao đất hoặc thiếu đất sản xuất",
+    "d": "Tổ chức tín dụng",
+    "correct": "c",
+    "explanation": "Theo khoản 3 Điều 222 Luật Đất đai 2024, đất quy hoạch nông nghiệp ưu tiên giao cho cá nhân cư trú tại địa phương chưa được giao đất hoặc thiếu đất sản xuất."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, đất do Nhà nước thu hồi và giao cho tổ chức phát triển quỹ đất quản lý thuộc nhóm nào?",
+    "a": "Đất ở",
+    "b": "Đất do cơ quan, tổ chức của Nhà nước quản lý theo điểm e khoản 1 Điều 217",
+    "c": "Đất thương mại dịch vụ",
+    "d": "Đất khu công nghiệp",
+    "correct": "b",
+    "explanation": "Theo điểm e khoản 1 Điều 217 Luật Đất đai 2024, đất do Nhà nước thu hồi và giao cho tổ chức phát triển quỹ đất quản lý thuộc nhóm đất do Nhà nước quản lý."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, đất chưa sử dụng tại đảo chưa giao cho cấp huyện, cấp xã quản lý thuộc thẩm quyền quản lý của ai?",
+    "a": "Ủy ban nhân dân cấp tỉnh",
+    "b": "Bộ Quốc phòng",
+    "c": "Bộ Tài chính",
+    "d": "Sở Xây dựng",
+    "correct": "a",
+    "explanation": "Theo khoản 2 Điều 221 Luật Đất đai 2024, Ủy ban nhân dân cấp tỉnh quản lý đất chưa sử dụng tại các đảo chưa giao cho cấp huyện, cấp xã quản lý."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, việc đưa đất chưa sử dụng vào sử dụng phải căn cứ vào yếu tố nào?",
+    "a": "Nhu cầu thị trường bất động sản",
+    "b": "Quy hoạch, kế hoạch sử dụng đất đã được cơ quan có thẩm quyền phê duyệt",
+    "c": "Quyết định của doanh nghiệp đầu tư",
+    "d": "Đề xuất của hộ gia đình",
+    "correct": "b",
+    "explanation": "Theo khoản 1 Điều 222 Luật Đất đai 2024, việc đưa đất chưa sử dụng vào sử dụng phải căn cứ vào quy hoạch, kế hoạch sử dụng đất đã được phê duyệt."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, nguồn kinh phí phục vụ cải tạo, đưa đất chưa sử dụng vào sử dụng có thể lấy từ đâu?",
+    "a": "Ngân sách doanh nghiệp tư nhân",
+    "b": "Nguồn thu từ chuyển nhượng quyền sử dụng đất trôi nổi",
+    "c": "Nguồn thu từ chuyển mục đích sử dụng đất trồng lúa và nguồn hợp pháp khác",
+    "d": "Quỹ bảo hiểm xã hội",
+    "correct": "c",
+    "explanation": "Theo khoản 5 Điều 222 Luật Đất đai 2024, kinh phí được sử dụng từ nguồn thu khi cho phép chuyển mục đích đất trồng lúa và nguồn hợp pháp khác."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, đối với đất thuộc hành lang bảo vệ an toàn công trình, người sử dụng đất được thực hiện quyền nào sau đây?",
+    "a": "Tự ý xây dựng công trình mới nếu phù hợp nhu cầu sử dụng",
+    "b": "Được tiếp tục sử dụng đất theo đúng mục đích đã xác định nhưng không được gây cản trở việc bảo vệ an toàn công trình",
+    "c": "Được chuyển mục đích sử dụng đất khi có nhu cầu",
+    "d": "Được chuyển nhượng toàn bộ diện tích đất thuộc hành lang bảo vệ",
+    "correct": "b",
+    "explanation": "Theo khoản 3 Điều 210 Luật Đất đai 2024, người sử dụng đất trong hành lang bảo vệ an toàn được tiếp tục sử dụng đất theo đúng mục đích nhưng không được gây cản trở việc bảo vệ an toàn công trình."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, trường hợp việc sử dụng đất trong hành lang bảo vệ an toàn gây ảnh hưởng đến công trình thì xử lý như thế nào?",
+    "a": "Không xử lý vì thuộc quyền người sử dụng đất",
+    "b": "Chủ công trình phải bồi thường ngay cho người sử dụng đất",
+    "c": "Chủ công trình hoặc người sử dụng đất phải khắc phục, nếu không thì Nhà nước thu hồi đất và bồi thường theo quy định",
+    "d": "Chỉ xử phạt hành chính mà không thu hồi đất",
+    "correct": "c",
+    "explanation": "Theo khoản 3 Điều 210 Luật Đất đai 2024, nếu ảnh hưởng an toàn mà không khắc phục được thì Nhà nước thu hồi đất và bồi thường theo quy định."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, đối với đất có di tích lịch sử - văn hóa, danh lam thắng cảnh, trách nhiệm quản lý thuộc về ai trong trường hợp không có tổ chức trực tiếp quản lý?",
+    "a": "Bộ Xây dựng",
+    "b": "Ủy ban nhân dân cấp xã nơi có di tích",
+    "c": "Doanh nghiệp được thuê đất",
+    "d": "Tổ chức chính trị - xã hội",
+    "correct": "b",
+    "explanation": "Theo điểm b khoản 1 Điều 211 Luật Đất đai 2024, UBND cấp xã chịu trách nhiệm quản lý khi không có tổ chức trực tiếp quản lý."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, việc sử dụng đất có di tích lịch sử - văn hóa kết hợp mục đích khác phải đáp ứng điều kiện nào?",
+    "a": "Được phép thay đổi mục đích nếu có lợi nhuận",
+    "b": "Phải tuân thủ quy định của Luật Đất đai và Luật Di sản văn hóa, không làm ảnh hưởng yếu tố gốc của di tích",
+    "c": "Chỉ cần được doanh nghiệp đồng ý",
+    "d": "Không cần xin phép cơ quan nhà nước",
+    "correct": "b",
+    "explanation": "Theo khoản 2 Điều 211, việc sử dụng kết hợp phải tuân thủ Luật Đất đai, Luật Di sản văn hóa và không làm ảnh hưởng yếu tố gốc di tích."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, đất tín ngưỡng có được sử dụng kết hợp thương mại, dịch vụ không?",
+    "a": "Không được phép trong mọi trường hợp",
+    "b": "Được phép nếu phù hợp quy hoạch và đáp ứng yêu cầu tại khoản 2 Điều 218",
+    "c": "Chỉ được phép khi chuyển sang đất ở",
+    "d": "Chỉ được phép khi Nhà nước thu hồi đất",
+    "correct": "b",
+    "explanation": "Theo khoản 3 Điều 212 và khoản 2 Điều 218, đất tín ngưỡng có thể sử dụng kết hợp thương mại, dịch vụ nếu đáp ứng điều kiện pháp luật."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, Nhà nước giao đất đối với cơ sở tôn giáo theo hình thức nào?",
+    "a": "Giao đất có thu tiền sử dụng đất",
+    "b": "Giao đất không thu tiền sử dụng đất",
+    "c": "Cho thuê đất trả tiền một lần",
+    "d": "Đấu giá quyền sử dụng đất",
+    "correct": "b",
+    "explanation": "Theo khoản 2 Điều 213 Luật Đất đai 2024, Nhà nước giao đất không thu tiền sử dụng đất cho cơ sở tôn giáo."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng được quản lý như thế nào nếu không giao cho tổ chức kinh tế?",
+    "a": "Giao cho cá nhân quản lý",
+    "b": "Nhà nước giao cho UBND cấp xã hoặc đơn vị sự nghiệp công lập quản lý",
+    "c": "Bán đấu giá cho doanh nghiệp tư nhân",
+    "d": "Chuyển sang đất ở",
+    "correct": "b",
+    "explanation": "Theo khoản 4 Điều 214, nếu không giao cho tổ chức kinh tế thì Nhà nước giao UBND cấp xã hoặc đơn vị sự nghiệp công lập quản lý."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, việc sử dụng đất có mặt nước chuyên dùng phải đảm bảo nguyên tắc nào sau đây?",
+    "a": "Ưu tiên khai thác thương mại tối đa",
+    "b": "Không làm ảnh hưởng đến mục đích sử dụng chủ yếu và không cản trở dòng chảy tự nhiên",
+    "c": "Được tự do chuyển đổi sang đất ở",
+    "d": "Không cần tuân thủ quy hoạch thủy lợi",
+    "correct": "b",
+    "explanation": "Theo khoản 3 Điều 215, việc sử dụng đất mặt nước phải không ảnh hưởng mục đích chính và không cản trở dòng chảy."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, đối với công trình ngầm, người sử dụng đất có quyền nào sau đây?",
+    "a": "Chỉ được sử dụng phần mặt đất",
+    "b": "Được chuyển nhượng, cho thuê không gian dưới lòng đất khi được xác định theo quy định pháp luật",
+    "c": "Không có quyền gì liên quan đến không gian ngầm",
+    "d": "Chỉ được sử dụng khi Nhà nước cho phép riêng từng lần",
+    "correct": "b",
+    "explanation": "Theo khoản 2 Điều 216, người sử dụng đất có thể chuyển nhượng, cho thuê không gian dưới lòng đất khi được xác định theo pháp luật."
+  },
+  {
+    "question": "Theo Luật Đất Đai NĂM 2024, điều kiện bắt buộc khi tách thửa đất là gì?",
+    "a": "Chỉ cần có giấy tờ viết tay",
+    "b": "Đất phải có giấy chứng nhận, còn thời hạn sử dụng, không tranh chấp và không bị kê biên",
+    "c": "Chỉ cần UBND xã xác nhận",
+    "d": "Không cần điều kiện cụ thể",
+    "correct": "b",
+    "explanation": "Theo khoản 1 Điều 220, tách thửa phải có GCN, còn thời hạn sử dụng, không tranh chấp, không kê biên."
+  },
     {
     "question": "Theo Luật Đất Đai NĂM 2024, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất được cấp theo nguyên tắc nào?",
     "a": "Cấp theo yêu cầu quản lý nhà nước mà không cần người dân có nhu cầu",
