@@ -1,5 +1,131 @@
 [
    {
+    "question": "Theo Luật Nhà ở 2023, ông A (cá nhân quốc tịch Singapore) được phép nhập cảnh vào Việt Nam và dự định mua 300 căn nhà ở riêng lẻ trong một khu vực có quy mô dân số tương đương một phường. Việc thực hiện giao dịch này được pháp luật quy định như thế nào?",
+    "a": "Được phép xác lập quyền sở hữu nếu hoàn thành đầy đủ nghĩa vụ thanh toán theo hợp đồng",
+    "b": "Được phép nếu nhận được văn bản chấp thuận từ UBND cấp tỉnh nơi có dự án",
+    "c": "Không được công nhận quyền sở hữu đối với toàn bộ số nhà này vì vượt quá hạn mức quy định",
+    "d": "Không được phép vì cá nhân nước ngoài tuyệt đối không được sở hữu nhà ở riêng lẻ tại Việt Nam",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 19 Luật Nhà ở 2023 quy định tổ chức, cá nhân nước ngoài chỉ được sở hữu không quá 250 căn nhà ở riêng lẻ trong khu vực có quy mô dân số tương đương một phường."
+  },
+  {
+    "question": "Công ty C là tổ chức nước ngoài đang hoạt động tại Việt Nam, sở hữu Giấy chứng nhận đầu tư hiệu lực đến năm 2032. Năm 2026, công ty mua nhà ở thương mại. Thời hạn sở hữu nhà ở của công ty được xác định theo nguyên tắc nào?",
+    "a": "Thời hạn 50 năm kể từ ngày cơ quan có thẩm quyền cấp Giấy chứng nhận",
+    "b": "Thời hạn 70 năm kể từ ngày hoàn tất giao dịch mua nhà",
+    "c": "Không được vượt quá thời hạn ghi trong Giấy chứng nhận đầu tư",
+    "d": "Được sở hữu ổn định lâu dài kể từ thời điểm đăng ký quyền sở hữu",
+    "answer": "c",
+    "explanation": "Điểm d khoản 2 Điều 20 Luật Nhà ở 2023 quy định tổ chức nước ngoài được sở hữu nhà ở không quá thời hạn ghi trong giấy chứng nhận đầu tư."
+  },
+  {
+    "question": "Ông D là cá nhân nước ngoài được phép nhập cảnh vào Việt Nam nhưng đang thuộc diện hưởng quyền ưu đãi, miễn trừ ngoại giao tại Việt Nam. Ông D có quyền mua và xác lập sở hữu nhà ở tại Việt Nam không?",
+    "a": "Có quyền mua và sở hữu nếu đáp ứng điều kiện nhập cảnh",
+    "b": "Có quyền mua nhưng không được cấp Giấy chứng nhận quyền sở hữu",
+    "c": "Không được sở hữu nhà ở tại Việt Nam",
+    "d": "Chỉ được phép thực hiện giao dịch thuê mua nhà ở",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 18 Luật Nhà ở 2023 quy định cá nhân nước ngoài được sở hữu nhà ở tại Việt Nam phải không thuộc trường hợp được hưởng quyền ưu đãi, miễn trừ ngoại giao, lãnh sự."
+  },
+  {
+    "question": "Bà E (quốc tịch Pháp) mua nhà ở thương mại tại Việt Nam, được cấp Giấy chứng nhận ngày 01/01/2026 với thời hạn sở hữu 50 năm. Khi thời hạn này kết thúc, quy định về việc gia hạn sở hữu đối với bà E như thế nào?",
+    "a": "Không được phép gia hạn thêm thời hạn sở hữu",
+    "b": "Được phép gia hạn nhiều lần, mỗi lần 50 năm",
+    "c": "Được gia hạn một lần với thời hạn không quá 50 năm nếu có nhu cầu",
+    "d": "Được gia hạn tối đa 20 năm nếu đáp ứng điều kiện cư trú",
+    "answer": "c",
+    "explanation": "Điểm c khoản 2 Điều 20 Luật Nhà ở 2023 quy định cá nhân nước ngoài được gia hạn một lần với thời hạn không quá 50 năm nếu có nhu cầu."
+  },
+  {
+    "question": "Ông H là cá nhân nước ngoài được phép nhập cảnh vào Việt Nam, đã sở hữu nhà ở hợp pháp. Ông H tặng cho nhà ở này cho con trai là người nước ngoài nhưng chưa được phép nhập cảnh vào Việt Nam. Người con có được cấp Giấy chứng nhận không?",
+    "a": "Được cấp nếu chứng minh được mối quan hệ huyết thống",
+    "b": "Được cấp nếu có xác nhận tạm trú tại Việt Nam",
+    "c": "Không được cấp Giấy chứng nhận quyền sở hữu",
+    "d": "Được cấp Giấy chứng nhận tạm thời trong thời hạn 12 tháng",
+    "answer": "c",
+    "explanation": "Điểm b khoản 1 Điều 22 Luật Nhà ở 2023 quy định cá nhân nước ngoài không được phép nhập cảnh vào Việt Nam nhưng được tặng cho nhà ở thì không được cấp Giấy chứng nhận."
+  },
+  {
+    "question": "Bà K là cá nhân nước ngoài đã mua nhà ở thương mại hợp pháp tại Việt Nam. Sau đó, bà K bị cơ quan có thẩm quyền ra quyết định trục xuất khỏi Việt Nam do vi phạm pháp luật. Việc xử lý tài sản nhà ở của bà K tuân theo nguyên tắc nào?",
+    "a": "Nhà ở đương nhiên thuộc quyền sở hữu của Nhà nước",
+    "b": "Được xử lý theo quyết định của cơ quan có thẩm quyền của Việt Nam",
+    "c": "Cơ quan có thẩm quyền hủy bỏ Giấy chứng nhận ngay tại thời điểm có quyết định trục xuất",
+    "d": "Chủ sở hữu được tự do chuyển nhượng tài sản không hạn chế",
+    "answer": "b",
+    "explanation": "Điểm d khoản 2 Điều 21 Luật Nhà ở 2023 quy định trường hợp cá nhân nước ngoài bị buộc xuất cảnh hoặc trục xuất thì nhà ở được xử lý theo quyết định của cơ quan có thẩm quyền của Việt Nam."
+  },
+  {
+    "question": "Ông M là người Việt Nam định cư ở nước ngoài, được phép nhập cảnh vào Việt Nam và mua nhà ở gắn liền với quyền sử dụng đất ở. Ông M có thuộc đối tượng được sở hữu nhà ở tại Việt Nam không?",
+    "a": "Không thuộc đối tượng được sở hữu nhà ở tại Việt Nam",
+    "b": "Thuộc đối tượng được sở hữu nhà ở tại Việt Nam",
+    "c": "Chỉ thuộc đối tượng được thuê mua nhà ở",
+    "d": "Chỉ thuộc đối tượng được nhận thừa kế nhà ở",
+    "answer": "b",
+    "explanation": "Điểm b khoản 1 Điều 8 Luật Nhà ở 2023 quy định người Việt Nam định cư ở nước ngoài thuộc đối tượng được sở hữu nhà ở tại Việt Nam."
+  },
+  {
+    "question": "Cá nhân nước ngoài sở hữu nhà ở tại Việt Nam muốn thực hiện giao dịch cho thuê nhà ở. Nghĩa vụ hành chính của chủ sở hữu trước khi cho thuê là gì?",
+    "a": "Xin văn bản chấp thuận từ Bộ Công an",
+    "b": "Thông báo bằng văn bản cho cơ quan quản lý nhà ở cấp huyện và nộp thuế theo quy định",
+    "c": "Chỉ cần thực hiện thủ tục khai báo tạm trú cho khách thuê",
+    "d": "Chỉ cần thực hiện đăng ký kinh doanh hoạt động cho thuê nhà ở",
+    "answer": "b",
+    "explanation": "Điểm a khoản 2 Điều 21 Luật Nhà ở 2023 quy định cá nhân nước ngoài trước khi cho thuê nhà phải thông báo bằng văn bản với cơ quan quản lý nhà ở cấp huyện và nộp thuế theo quy định."
+  },
+  {
+    "question": "Công ty N là tổ chức nước ngoài đang hoạt động hợp pháp tại Việt Nam, nhận thừa kế nhà ở thương mại trong dự án đầu tư xây dựng nhà ở hợp pháp. Công ty N có được sở hữu nhà ở này không?",
+    "a": "Không, vì tổ chức nước ngoài không được quyền nhận thừa kế nhà ở tại Việt Nam",
+    "b": "Có quyền sở hữu nhà ở này theo quy định của pháp luật",
+    "c": "Chỉ được phép sử dụng thông qua hình thức thuê nhà ở",
+    "d": "Chỉ được hưởng giá trị của nhà ở thông qua việc bán lại cho đối tượng đủ điều kiện",
+    "answer": "b",
+    "explanation": "Điểm b khoản 2 Điều 17 Luật Nhà ở 2023 quy định tổ chức nước ngoài đang hoạt động tại Việt Nam được sở hữu nhà ở thông qua nhận thừa kế nhà ở thương mại trong dự án đầu tư xây dựng nhà ở không thuộc khu vực quốc phòng, an ninh."
+  },
+  {
+    "question": "Ông P (cá nhân nước ngoài) được phép nhập cảnh vào Việt Nam và mua căn hộ thứ 61 trong tòa nhà chung cư có tổng số 200 căn hộ. Giao dịch này được pháp luật xử lý thế nào?",
+    "a": "Được công nhận quyền sở hữu bình thường đối với căn hộ đó",
+    "b": "Được công nhận quyền sở hữu nếu có văn bản xác nhận của Sở Xây dựng",
+    "c": "Không được công nhận quyền sở hữu, chỉ được hưởng giá trị của căn hộ vượt quá giới hạn sở hữu",
+    "d": "Được xác lập quyền đồng sở hữu với chủ đầu tư dự án",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 19 và khoản 1 Điều 22 Luật Nhà ở 2023 quy định cá nhân nước ngoài chỉ được sở hữu tối đa 30% số căn hộ trong một tòa chung cư; vượt quá giới hạn thì chỉ được hưởng giá trị."
+  },
+  {
+    "question": "Trường hợp tổ chức nước ngoài được tặng cho nhà ở nhưng đã chấm dứt hoạt động tại Việt Nam tại thời điểm ký kết giao dịch. Việc cấp Giấy chứng nhận được quy định ra sao?",
+    "a": "Được cấp Giấy chứng nhận quyền sở hữu bình thường",
+    "b": "Không được cấp Giấy chứng nhận quyền sở hữu",
+    "c": "Được sở hữu có thời hạn 12 tháng để thực hiện giao dịch khác",
+    "d": "Được xác lập quyền đồng sở hữu với bên tặng cho",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 18 và điểm b khoản 1 Điều 22 Luật Nhà ở 2023 quy định tổ chức nước ngoài phải đang hoạt động hợp pháp tại Việt Nam; nếu không thì không được cấp Giấy chứng nhận."
+  },
+  {
+    "question": "Bà Q (cá nhân quốc tịch Đức) kết hôn hợp pháp với công dân Việt Nam đang sinh sống tại Việt Nam. Về quyền sở hữu nhà ở tại Việt Nam, bà Q có bị giới hạn thời hạn sở hữu là 50 năm không?",
+    "a": "Có, vẫn bị giới hạn thời hạn sở hữu 50 năm",
+    "b": "Không, vì có quyền sở hữu nhà ở như công dân Việt Nam",
+    "c": "Có bị giới hạn nhưng được quyền gia hạn thêm",
+    "d": "Chỉ được quyền sở hữu nhà ở là căn hộ chung cư",
+    "answer": "b",
+    "explanation": "Điểm c khoản 2 Điều 20 Luật Nhà ở 2023 quy định cá nhân nước ngoài kết hôn với công dân Việt Nam đang sinh sống tại Việt Nam có quyền sở hữu nhà ở như công dân Việt Nam."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, tổ chức hoặc cá nhân nước ngoài muốn sở hữu nhà ở tại Việt Nam thì nhà ở đó phải đáp ứng điều kiện gì?",
+    "a": "Phải là loại nhà ở bất kỳ phù hợp với nhu cầu",
+    "b": "Phải là nhà ở thương mại trong dự án đầu tư xây dựng nhà ở không thuộc khu vực quốc phòng, an ninh",
+    "c": "Phải là nhà ở xã hội để hỗ trợ an sinh",
+    "d": "Phải là nhà ở thuộc tài sản công được Nhà nước cho phép",
+    "answer": "b",
+    "explanation": "Điểm b khoản 2 Điều 17 và Điều 16 Luật Nhà ở 2023 quy định tổ chức, cá nhân nước ngoài được sở hữu nhà ở thương mại trong dự án đầu tư xây dựng nhà ở không thuộc khu vực cần bảo đảm quốc phòng, an ninh."
+  },
+  {
+    "question": "Trường hợp cá nhân nước ngoài và cá nhân là công dân Việt Nam cùng được thừa kế một nhà ở tại Việt Nam. Việc xử lý tài sản thừa kế được thực hiện như thế nào?",
+    "a": "Bắt buộc phải bán nhà ở và chia tiền",
+    "b": "Chỉ người nước ngoài được phép đứng tên sở hữu",
+    "c": "Để người thuộc đối tượng được sở hữu nhà ở tại Việt Nam nhận nhà, người còn lại hưởng giá trị tương ứng",
+    "d": "Nhà ở đương nhiên thuộc sở hữu của Nhà nước",
+    "answer": "c",
+    "explanation": "Điểm a khoản 3 Điều 22 Luật Nhà ở 2023 quy định trường hợp có cả người thuộc và không thuộc đối tượng được sở hữu nhà ở tại Việt Nam thì có thể để người đủ điều kiện nhận nhà, người còn lại hưởng giá trị tương ứng."
+  },
+   {
     "question": "Theo Luật Nhà ở 2023, trường hợp ông A (quốc tịch Hàn Quốc), được phép nhập cảnh vào Việt Nam, muốn xác lập quyền sở hữu đối với 01 căn hộ chung cư trong dự án thương mại tại khu vực không thuộc diện bảo đảm quốc phòng, an ninh. Hình thức sở hữu này được pháp luật quy định như thế nào?",
     "a": "Không được công nhận quyền sở hữu nhà ở đối với cá nhân nước ngoài theo Luật Nhà ở 2023",
     "b": "Được công nhận quyền sở hữu thông qua hình thức mua căn hộ chung cư trong dự án nhà ở thương mại",
