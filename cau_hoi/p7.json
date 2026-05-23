@@ -1,4 +1,346 @@
 [
+    {
+    "question": "Theo Luật Nhà ở 2023, khẳng định nào sau đây là SAI về chủ đầu tư dự án nhà ở thương mại?",
+    "a": "Phải là doanh nghiệp kinh doanh bất động sản",
+    "b": "Phải đáp ứng các điều kiện cụ thể tại Điều 35",
+    "c": "Cá nhân có đủ năng lực tài chính hoàn toàn có quyền làm chủ đầu tư",
+    "d": "Phải có chức năng kinh doanh bất động sản",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 36 Luật Nhà ở 2023 quy định chủ đầu tư dự án đầu tư xây dựng nhà ở thương mại phải là doanh nghiệp kinh doanh bất động sản và đáp ứng điều kiện tại điểm a, c khoản 2 Điều 35."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, căn cứ nào sau đây là điều kiện tiên quyết để nhà đầu tư được chấp thuận làm chủ đầu tư dự án nhà ở thương mại?",
+    "a": "Chỉ cần có đủ vốn pháp định",
+    "b": "Có quyền sử dụng đất thông qua thỏa thuận hoặc đang có quyền sử dụng đất phù hợp",
+    "c": "Có sự xác nhận của chính quyền cấp xã về nhu cầu nhà ở",
+    "d": "Có hợp đồng đặt cọc mua gom đất của người dân",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 36 Luật Nhà ở 2023 quy định nhà đầu tư được chấp thuận làm chủ đầu tư khi có quyền sử dụng đất thông qua thỏa thuận nhận quyền sử dụng đất hoặc đang có quyền sử dụng đất phù hợp."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chủ đầu tư dự án nhà ở thương mại phải thực hiện xây dựng dựa trên cơ sở pháp lý nào?",
+    "a": "Nhu cầu thực tế của thị trường tại từng thời điểm",
+    "b": "Sự thống nhất bằng văn bản với khách hàng mua nhà",
+    "c": "Quy hoạch, nội dung và tiến độ dự án đã được phê duyệt",
+    "d": "Đề xuất điều chỉnh của chủ đầu tư để tối ưu lợi nhuận",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 37 Luật Nhà ở 2023 quy định chủ đầu tư phải xây dựng nhà ở và hạ tầng theo quy hoạch, nội dung và tiến độ dự án đã được phê duyệt."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, điều kiện bắt buộc để chủ đầu tư được phép bàn giao nhà ở cho người mua là gì?",
+    "a": "Đã hoàn tất thủ tục ký hợp đồng mua bán",
+    "b": "Đã nghiệm thu công trình nhà ở",
+    "c": "Đã hoàn thành nghiệm thu công trình nhà ở và hạ tầng kỹ thuật theo tiến độ dự án",
+    "d": "Đã hoàn thành nghĩa vụ thuế với Nhà nước",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 37 Luật Nhà ở 2023 quy định chỉ được bàn giao nhà ở sau khi nghiệm thu công trình nhà ở và công trình hạ tầng kỹ thuật theo tiến độ dự án."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, đối với trường hợp bàn giao nhà ở xây dựng thô, chủ đầu tư phải đảm bảo yêu cầu nào?",
+    "a": "Phải hoàn thiện nội thất cơ bản",
+    "b": "Phải hoàn thiện toàn bộ phần mặt ngoài của nhà ở",
+    "c": "Phải lắp đặt đầy đủ thiết bị vệ sinh",
+    "d": "Phải có Giấy chứng nhận quyền sở hữu nhà ở",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 37 Luật Nhà ở 2023 quy định trường hợp bàn giao nhà ở xây dựng thô thì phải hoàn thiện toàn bộ phần mặt ngoài của nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trong các quyền sau, quyền nào thuộc về chủ đầu tư dự án nhà ở thương mại?",
+    "a": "Tự quyết định thay đổi quy hoạch tổng mặt bằng dự án",
+    "b": "Bán, cho thuê mua, cho thuê nhà ở",
+    "c": "Từ chối thực hiện nghĩa vụ tài chính với ngân sách",
+    "d": "Không cần thông báo khi thay đổi vật liệu xây dựng",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 38 Luật Nhà ở 2023 quy định chủ đầu tư có quyền bán, cho thuê mua, cho thuê nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc chủ đầu tư chuyển nhượng dự án phải thực hiện theo nguyên tắc nào?",
+    "a": "Tự do chuyển nhượng khi tìm được đối tác",
+    "b": "Phải tuân thủ quy định pháp luật về kinh doanh bất động sản, đất đai và đầu tư",
+    "c": "Chỉ được chuyển nhượng khi có sự đồng ý của khách hàng",
+    "d": "Chỉ được chuyển nhượng khi dự án đã bán được 50% sản phẩm",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 38 Luật Nhà ở 2023 quy định việc chuyển nhượng một phần hoặc toàn bộ dự án phải theo quy định pháp luật liên quan."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nghĩa vụ ký quỹ hoặc bảo lãnh ngân hàng của chủ đầu tư nhằm mục đích gì?",
+    "a": "Đảm bảo kinh phí quảng cáo dự án",
+    "b": "Đảm bảo thực hiện dự án theo quy định pháp luật đầu tư",
+    "c": "Đảm bảo hoàn tiền cho khách hàng nếu dự án chậm tiến độ",
+    "d": "Đảm bảo trả lương cho cán bộ dự án",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 39 Luật Nhà ở 2023 quy định chủ đầu tư phải ký quỹ hoặc có bảo lãnh ngân hàng về nghĩa vụ ký quỹ để thực hiện dự án."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, điều kiện nào sau đây là bắt buộc để chủ đầu tư được phép chuyển nhượng quyền sử dụng đất cho cá nhân tự xây nhà ở?",
+    "a": "Đã ký kết xong hợp đồng với nhà thầu",
+    "b": "Đã hoàn thành và nghiệm thu hệ thống hạ tầng kỹ thuật",
+    "c": "Đã có quy hoạch chi tiết 1/500",
+    "d": "Đã nộp tiền sử dụng đất cho toàn bộ khu đất",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 39 Luật Nhà ở 2023 quy định chỉ được chuyển nhượng sau khi hoàn thành và nghiệm thu hệ thống hạ tầng kỹ thuật."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, quy định nào sau đây là cấm đối với chủ đầu tư về việc ủy quyền?",
+    "a": "Ủy quyền cho các đơn vị môi giới bán nhà",
+    "b": "Ủy quyền cho bên hợp tác đầu tư ký hợp đồng mua bán, thuê mua, đặt cọc",
+    "c": "Ủy quyền cho đơn vị quản lý vận hành tòa nhà",
+    "d": "Ủy quyền cho các đơn vị bảo vệ an ninh dự án",
+    "answer": "b",
+    "explanation": "Khoản 6 Điều 39 Luật Nhà ở 2023 quy định chủ đầu tư không được ủy quyền cho bên hợp tác đầu tư hoặc tổ chức khác ký hợp đồng mua bán, thuê mua, đặt cọc giao dịch nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trong thời hạn bao nhiêu ngày kể từ ngày bàn giao nhà ở, chủ đầu tư phải nộp hồ sơ xin cấp sổ hồng cho người mua?",
+    "a": "30 ngày",
+    "b": "45 ngày",
+    "c": "50 ngày",
+    "d": "60 ngày",
+    "answer": "c",
+    "explanation": "Khoản 8 Điều 39 Luật Nhà ở 2023 quy định thời hạn là 50 ngày kể từ ngày bàn giao nhà ở hoặc kể từ ngày bên thuê mua thanh toán đủ tiền."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, quy định về thu tiền sử dụng đất đối với đất xây dựng nhà ở công vụ như thế nào?",
+    "a": "Thu tiền theo giá đất tại thời điểm giao đất",
+    "b": "Thu tiền theo khung giá đất do UBND tỉnh quy định",
+    "c": "Nhà nước không thu tiền sử dụng đất",
+    "d": "Thu tiền sau khi đã trừ đi các chi phí xây dựng",
+    "answer": "c",
+    "explanation": "Khoản 5 Điều 40 Luật Nhà ở 2023 quy định Nhà nước không thu tiền sử dụng đất đối với diện tích đất xây dựng nhà ở công vụ."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nguồn vốn chính để đầu tư xây dựng nhà ở công vụ được xác định như thế nào?",
+    "a": "Huy động từ nguồn vốn xã hội hóa",
+    "b": "Ngân sách nhà nước (trung ương và địa phương)",
+    "c": "Vốn vay từ các tổ chức tín dụng ưu đãi",
+    "d": "Quỹ hỗ trợ từ doanh nghiệp",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 41 Luật Nhà ở 2023 quy định Nhà nước đầu tư vốn từ ngân sách trung ương và địa phương để xây dựng nhà ở công vụ."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, giai đoạn lập kế hoạch phát triển nhà ở công vụ là bao nhiêu năm?",
+    "a": "03 năm",
+    "b": "05 năm",
+    "c": "07 năm",
+    "d": "10 năm",
+    "answer": "b",
+    "explanation": "Khoản 2 và khoản 3 Điều 41 Luật Nhà ở 2023 quy định kế hoạch phát triển nhà ở công vụ được lập theo giai đoạn 05 năm."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp nào sau đây thuộc diện đối tượng được thuê nhà ở công vụ?",
+    "a": "Công chức làm việc tại trung tâm hành chính cấp tỉnh",
+    "b": "Giáo viên công tác tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn",
+    "c": "Người lao động làm việc trong khu chế xuất",
+    "d": "Sinh viên các trường đại học công lập",
+    "answer": "b",
+    "explanation": "Điểm đ khoản 1 Điều 45 Luật Nhà ở 2023 quy định giáo viên, bác sĩ, nhân viên y tế công tác tại vùng khó khăn thuộc đối tượng được thuê nhà ở công vụ."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, điều kiện chung về nhà ở để được thuê nhà ở công vụ là gì?",
+    "a": "Đã có hộ khẩu thường trú tại địa phương",
+    "b": "Chưa có nhà ở hoặc diện tích nhà ở bình quân thấp hơn mức tối thiểu",
+    "c": "Phải đang sinh sống cùng gia đình tại địa phương",
+    "d": "Đã có thời gian công tác từ 10 năm trở lên",
+    "answer": "b",
+    "explanation": "Điểm b khoản 2 Điều 45 Luật Nhà ở 2023 quy định phải chưa có nhà ở hoặc diện tích nhà ở bình quân thấp hơn mức tối thiểu."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi xác định giá thuê nhà ở công vụ, thành phần chi phí nào sau đây KHÔNG được tính?",
+    "a": "Chi phí quản lý vận hành",
+    "b": "Chi phí bảo trì nhà ở",
+    "c": "Tiền sử dụng đất và chi phí khấu hao vốn đầu tư",
+    "d": "Chi phí điện nước sinh hoạt",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 46 Luật Nhà ở 2023 quy định không tính tiền sử dụng đất và không tính chi phí khấu hao vốn đầu tư xây dựng nhà ở công vụ."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hành vi nào sau đây là vi phạm đối với người thuê nhà ở công vụ?",
+    "a": "Sử dụng nhà ở để ở",
+    "b": "Cho thuê lại, cho mượn hoặc ủy quyền quản lý nhà ở công vụ",
+    "c": "Đăng ký tạm trú tại nơi thuê nhà",
+    "d": "Thanh toán tiền thuê nhà hàng tháng",
+    "answer": "b",
+    "explanation": "Điểm c khoản 2 Điều 47 Luật Nhà ở 2023 quy định người thuê không được cho thuê lại, cho mượn, ủy quyền quản lý nhà ở công vụ."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, thời hạn tối đa để người thuê phải trả lại nhà ở công vụ sau khi nghỉ hưu hoặc chuyển công tác là bao lâu?",
+    "a": "30 ngày",
+    "b": "60 ngày",
+    "c": "90 ngày",
+    "d": "120 ngày",
+    "answer": "c",
+    "explanation": "Điểm đ khoản 2 Điều 47 Luật Nhà ở 2023 quy định phải trả lại nhà ở công vụ trong thời hạn 90 ngày."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, biện pháp nào được áp dụng nếu người thuê nhà ở công vụ không trả lại nhà sau khi đã quá thời hạn?",
+    "a": "Yêu cầu gia hạn thêm hợp đồng",
+    "b": "Phạt tiền và cho phép ở tiếp",
+    "c": "Thu hồi và cưỡng chế bàn giao nhà ở công vụ",
+    "d": "Trừ tiền vào lương hưu của người đó",
+    "answer": "c",
+    "explanation": "Điểm đ khoản 2 Điều 47 Luật Nhà ở 2023 quy định cơ quan có thẩm quyền quyết định thu hồi và cưỡng chế bàn giao nhà ở công vụ."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trong trường hợp người mua nhà ở tự nguyện làm thủ tục đề nghị cấp Giấy chứng nhận, trách nhiệm của chủ đầu tư được quy định như thế nào?",
+    "a": "Vẫn phải thực hiện song song việc nộp hồ sơ để đảm bảo tiến độ",
+    "b": "Được miễn trừ nghĩa vụ nộp hồ sơ đề nghị cấp Giấy chứng nhận",
+    "c": "Phải có văn bản xác nhận đồng ý của cơ quan quản lý nhà ở cấp tỉnh mới được dừng nộp",
+    "d": "Phải nộp hồ sơ trước, sau đó người mua mới được làm thủ tục",
+    "answer": "b",
+    "explanation": "Khoản 8 Điều 39 Luật Nhà ở 2023 quy định chủ đầu tư phải nộp hồ sơ đề nghị cấp Giấy chứng nhận, trừ trường hợp người mua, thuê mua tự nguyện làm thủ tục."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp người nước ngoài kết hôn với công dân Việt Nam, thời hạn sở hữu nhà ở được xác định ra sao so với các đối tượng nước ngoài khác?",
+    "a": "Bị hạn chế thời hạn 50 năm nhưng được gia hạn thêm 01 lần",
+    "b": "Được sở hữu ổn định lâu dài như công dân Việt Nam, khác với thời hạn giới hạn đối với cá nhân nước ngoài nói chung",
+    "c": "Chỉ được sở hữu theo thời hạn của thị thực nhập cảnh",
+    "d": "Không được sở hữu nhà ở tại Việt Nam",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 20 Luật Nhà ở 2023 quy định cá nhân nước ngoài kết hôn với công dân Việt Nam hoặc người Việt Nam định cư ở nước ngoài thì được sở hữu nhà ở ổn định lâu dài."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi hết thời hạn sở hữu nhà ở đối với tổ chức, cá nhân nước ngoài mà chủ sở hữu không thực hiện chuyển nhượng hoặc tặng cho, hậu quả pháp lý xảy ra là gì?",
+    "a": "Chủ sở hữu được quyền gia hạn thêm thời gian để giải quyết",
+    "b": "Nhà ở sẽ thuộc sở hữu Nhà nước",
+    "c": "Nhà ở bị buộc tháo dỡ để trả lại mặt bằng cho Nhà nước",
+    "d": "Tài sản được thanh lý theo giá thị trường và trả lại tiền cho chủ sở hữu",
+    "answer": "b",
+    "explanation": "Điều 22 Luật Nhà ở 2023 quy định khi hết thời hạn sở hữu mà không chuyển nhượng hoặc tặng cho thì nhà ở thuộc sở hữu Nhà nước."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc bố trí diện tích đất phát triển nhà ở phải đảm bảo tính thống nhất với các văn bản nào sau đây?",
+    "a": "Chỉ cần phù hợp với quy hoạch sử dụng đất",
+    "b": "Quy hoạch sử dụng đất và kế hoạch sử dụng đất cấp huyện",
+    "c": "Quy hoạch sử dụng đất, kế hoạch sử dụng đất và chương trình, kế hoạch phát triển nhà ở cấp tỉnh",
+    "d": "Chỉ cần chương trình phát triển nhà ở của cấp trung ương",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 32 Luật Nhà ở 2023 quy định việc bố trí diện tích đất để phát triển nhà ở phải phù hợp quy hoạch sử dụng đất, kế hoạch sử dụng đất và chương trình, kế hoạch phát triển nhà ở cấp tỉnh."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi đặt tên dự án bằng tiếng nước ngoài, chủ đầu tư phải tuân thủ nguyên tắc trình bày nào?",
+    "a": "Có thể chọn một trong hai ngôn ngữ (Việt hoặc nước ngoài)",
+    "b": "Ưu tiên tên tiếng nước ngoài nếu dự án có vốn đầu tư nước ngoài",
+    "c": "Phải ghi đầy đủ tên tiếng Việt trước, tên tiếng nước ngoài sau",
+    "d": "Tên tiếng Việt và tiếng nước ngoài phải có kích thước chữ bằng nhau",
+    "answer": "c",
+    "explanation": "Điểm c khoản 1 Điều 33 Luật Nhà ở 2023 quy định phải viết tên đầy đủ bằng tiếng Việt trước, tên tiếng nước ngoài sau."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, tài liệu nào là căn cứ bắt buộc để xác định việc phân chia dự án thành phần hoặc phân kỳ đầu tư?",
+    "a": "Hợp đồng ký kết với đơn vị xây dựng",
+    "b": "Chủ trương đầu tư, Báo cáo nghiên cứu khả thi hoặc quyết định đầu tư xây dựng",
+    "c": "Quyết định phê duyệt quy hoạch chi tiết 1/500",
+    "d": "Giấy phép kinh doanh của chủ đầu tư",
+    "answer": "b",
+    "explanation": "Điểm b khoản 1 Điều 33 Luật Nhà ở 2023 quy định việc phân chia dự án thành phần, phân kỳ đầu tư phải được xác định trong chủ trương đầu tư, Báo cáo nghiên cứu khả thi hoặc quyết định đầu tư xây dựng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, đối với công trình có mục đích sử dụng hỗn hợp, chủ trương đầu tư phải thể hiện rõ nội dung gì để quản lý?",
+    "a": "Tỷ lệ diện tích thương mại so với diện tích ở",
+    "b": "Mục đích để ở và mục đích văn phòng, thương mại, dịch vụ hoặc mục đích khác",
+    "c": "Số lượng căn hộ tối đa được chuyển nhượng cho người nước ngoài",
+    "d": "Đơn vị vận hành chuyên nghiệp cho từng khối chức năng",
+    "answer": "b",
+    "explanation": "Điểm a khoản 2 Điều 33 Luật Nhà ở 2023 quy định phải xác định rõ mục đích để ở và mục đích khác trong chủ trương đầu tư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, yêu cầu kỹ thuật bắt buộc đối với công trình hỗn hợp khi phân chia khu chức năng riêng biệt là gì?",
+    "a": "Phải tách biệt hoàn toàn về hệ thống phòng cháy chữa cháy",
+    "b": "Thiết kế, xây dựng tách biệt hệ thống trang thiết bị sử dụng chung cho từng khu chức năng",
+    "c": "Phải có lối thoát hiểm riêng biệt cho từng khối",
+    "d": "Hệ thống điện và nước phải có công tơ riêng cho từng khu",
+    "answer": "b",
+    "explanation": "Điểm b khoản 2 Điều 33 Luật Nhà ở 2023 quy định phải thiết kế, xây dựng tách biệt hệ thống trang thiết bị sử dụng chung cho từng khu chức năng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, dự án được chuyển nhượng quyền sử dụng đất cho cá nhân tự xây dựng nhà ở phải làm rõ điều gì trong hồ sơ dự án?",
+    "a": "Giá nền đất đã bao gồm chi phí hạ tầng",
+    "b": "Khu vực, vị trí phải xây nhà và khu vực được chuyển nhượng quyền sử dụng đất",
+    "c": "Tiến độ cam kết xây dựng nhà của người nhận chuyển nhượng",
+    "d": "Quy chuẩn kiến trúc của các căn nhà xây tự phát",
+    "answer": "b",
+    "explanation": "Điểm c khoản 3 Điều 33 Luật Nhà ở 2023 quy định phải xác định rõ khu vực, vị trí phải đầu tư xây dựng nhà ở và khu vực được chuyển nhượng quyền sử dụng đất."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trách nhiệm công khai danh mục dự án nhà ở đang triển khai được quy định như thế nào?",
+    "a": "Công khai tại trụ sở Sở Xây dựng",
+    "b": "Công khai trên Cổng thông tin điện tử của UBND cấp tỉnh và cơ quan quản lý nhà ở cấp tỉnh",
+    "c": "Phải niêm yết tại cổng dự án và báo địa phương",
+    "d": "Không bắt buộc công khai danh mục",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 33 Luật Nhà ở 2023 quy định danh mục dự án đang triển khai phải được công khai trên Cổng thông tin điện tử của UBND cấp tỉnh và cơ quan quản lý nhà ở cấp tỉnh."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khái niệm 'Chủ đầu tư' đối với dự án nhà ở sử dụng vốn công được định nghĩa như thế nào?",
+    "a": "Là các tổng công ty xây dựng thuộc sở hữu nhà nước",
+    "b": "Tổ chức được người quyết định đầu tư giao quản lý, sử dụng vốn để thực hiện dự án",
+    "c": "Sở Xây dựng địa phương nơi có dự án",
+    "d": "Đơn vị thắng thầu dự án theo quy định đấu thầu",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 35 Luật Nhà ở 2023 quy định chủ đầu tư là tổ chức được người quyết định đầu tư giao quản lý, sử dụng vốn để thực hiện dự án."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, thời điểm bàn giao hạ tầng kỹ thuật, hạ tầng xã hội cho Nhà nước được quy định cụ thể ra sao?",
+    "a": "Ngay sau khi phê duyệt quy hoạch chi tiết",
+    "b": "Sau khi hoàn thành việc đầu tư xây dựng",
+    "c": "Sau khi dự án được nghiệm thu toàn bộ công trình nhà ở",
+    "d": "Theo thỏa thuận riêng giữa chủ đầu tư và cơ quan nhà nước",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 37 Luật Nhà ở 2023 quy định phải thực hiện bàn giao sau khi hoàn thành việc đầu tư xây dựng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, quyền lợi của chủ đầu tư dự án nhà ở trong quá trình triển khai là gì?",
+    "a": "Được miễn toàn bộ nghĩa vụ tài chính về đất đai",
+    "b": "Được hưởng chính sách ưu đãi của Nhà nước theo quy định pháp luật",
+    "c": "Được quyền tự ý điều chỉnh quy hoạch dự án một lần",
+    "d": "Được ưu tiên giao các dự án khác mà không cần đấu thầu",
+    "answer": "b",
+    "explanation": "Khoản 7 Điều 38 Luật Nhà ở 2023 quy định chủ đầu tư được hưởng chính sách ưu đãi của Nhà nước theo quy định pháp luật."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nghĩa vụ báo cáo tình hình triển khai dự án của chủ đầu tư được thực hiện như thế nào?",
+    "a": "Chỉ báo cáo khi có khiếu nại của khách hàng",
+    "b": "Theo định kỳ và khi kết thúc dự án",
+    "c": "Báo cáo đột xuất khi có yêu cầu từ cơ quan thanh tra",
+    "d": "Báo cáo hằng năm theo lịch tài chính",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 39 Luật Nhà ở 2023 quy định chủ đầu tư phải báo cáo tình hình triển khai, kết quả thực hiện dự án theo định kỳ và khi kết thúc dự án."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, kế hoạch phát triển nhà ở công vụ phải bao gồm nội dung chủ yếu nào để đảm bảo tính thực tiễn?",
+    "a": "Tổng kinh phí dự kiến cho công tác bảo trì",
+    "b": "Xác định số lượng, vị trí việc làm của đối tượng được thuê",
+    "c": "Quy chuẩn thiết kế nội thất nhà công vụ",
+    "d": "Phương án chuyển đổi công năng nhà công vụ khi không sử dụng",
+    "answer": "b",
+    "explanation": "Điểm a khoản 5 Điều 41 Luật Nhà ở 2023 quy định kế hoạch phát triển nhà ở công vụ phải xác định số lượng, vị trí việc làm của đối tượng được thuê."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, căn cứ xác định giá mua nhà ở thương mại để làm nhà ở công vụ là gì?",
+    "a": "Giá thành xây dựng cộng lợi nhuận định mức",
+    "b": "Giá trị quyết toán công trình đã được kiểm toán",
+    "c": "Tham khảo giá thị trường và kết quả thẩm định giá",
+    "d": "Giá do chủ đầu tư niêm yết công khai",
+    "answer": "c",
+    "explanation": "Điểm đ khoản 3 Điều 43 Luật Nhà ở 2023 quy định giá mua do người quyết định đầu tư quyết định trên cơ sở tham khảo giá thị trường và kết quả thẩm định giá."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, quyền lợi của người thuê nhà ở công vụ khi hết hạn hợp đồng là gì?",
+    "a": "Được quyền mua lại nhà ở đó với giá ưu đãi",
+    "b": "Được tiếp tục ký hợp đồng thuê nếu vẫn thuộc đối tượng và đủ điều kiện",
+    "c": "Được chuyển nhượng quyền ưu tiên thuê cho người khác",
+    "d": "Được yêu cầu hỗ trợ chuyển đổi nhà ở khác",
+    "answer": "b",
+    "explanation": "Điểm d khoản 1 Điều 47 Luật Nhà ở 2023 quy định người thuê được tiếp tục ký hợp đồng thuê nếu vẫn thuộc đối tượng và đủ điều kiện thuê."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nghĩa vụ bổ sung của người thuê căn hộ chung cư công vụ là gì?",
+    "a": "Phải tham gia ban quản trị tòa nhà",
+    "b": "Tuân thủ quy định về quản lý, sử dụng nhà chung cư",
+    "c": "Phải tự đóng bảo hiểm cháy nổ cho căn hộ",
+    "d": "Phải chịu trách nhiệm chi trả toàn bộ phí bảo trì tòa nhà",
+    "answer": "b",
+    "explanation": "Điểm b khoản 2 Điều 47 Luật Nhà ở 2023 quy định trường hợp sử dụng căn hộ chung cư thì còn phải tuân thủ quy định về quản lý, sử dụng nhà chung cư."
+  },
    {
     "question": "Theo Luật Nhà ở 2023, việc xác định kỳ Chiến lược phát triển nhà ở quốc gia phải tuân thủ quy định nào về thời hạn?",
     "a": "Kỳ chiến lược được xác định là 05 năm để đồng bộ với kế hoạch phát triển kinh tế - xã hội",
