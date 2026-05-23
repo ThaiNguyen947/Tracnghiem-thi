@@ -1,4 +1,274 @@
 [
+  {
+    "question": "Theo Luật Nhà ở 2023, đối tượng nào sau đây được liệt kê cụ thể trong nhóm người thu nhập thấp tại khu vực đô thị để hưởng chính sách hỗ trợ về nhà ở xã hội?",
+    "a": "Người nước ngoài đang cư trú và làm việc hợp pháp tại Việt Nam",
+    "b": "Người thu nhập thấp tại khu vực đô thị",
+    "c": "Người sở hữu từ 02 nhà ở trở lên nhưng diện tích nhỏ",
+    "d": "Doanh nghiệp bất động sản có quy mô vốn vừa và nhỏ",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 76 Luật Nhà ở 2023 quy định người thu nhập thấp tại khu vực đô thị thuộc đối tượng được hưởng chính sách hỗ trợ về nhà ở xã hội."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, công nhân đang làm việc tại doanh nghiệp trong khu công nghiệp được hưởng hình thức hỗ trợ cụ thể nào?",
+    "a": "Được cấp miễn phí nhà ở xã hội căn hộ chung cư",
+    "b": "Được thuê nhà lưu trú công nhân trong khu công nghiệp",
+    "c": "Được mua nhà ở thương mại với giá ưu đãi từ nhà nước",
+    "d": "Được cấp quyền sử dụng đất ở miễn phí để xây nhà",
+    "answer": "b",
+    "explanation": "Khoản 8 Điều 77 Luật Nhà ở 2023 quy định công nhân đang làm việc tại doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã trong khu công nghiệp được thuê nhà lưu trú công nhân trong khu công nghiệp."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, đối với học sinh, sinh viên, chính sách hỗ trợ về nhà ở xã hội được quy định như thế nào?",
+    "a": "Được quyền mua nhà ở xã hội theo hình thức trả góp",
+    "b": "Được thuê nhà ở xã hội trong thời gian học tập",
+    "c": "Được quyền thuê mua nhà ở xã hội sau khi tốt nghiệp",
+    "d": "Được hỗ trợ tài chính để mua nhà ở thương mại",
+    "answer": "b",
+    "explanation": "Khoản 6 Điều 77 Luật Nhà ở 2023 quy định đối tượng quy định tại khoản 11 Điều 76 được thuê nhà ở xã hội trong thời gian học tập."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, điều kiện tiên quyết về nhà ở để được mua nhà ở xã hội là gì?",
+    "a": "Phải có nhà ở tại địa phương nhưng diện tích dưới 30m2",
+    "b": "Chưa có nhà ở thuộc sở hữu của mình tại tỉnh, thành phố nơi có dự án hoặc diện tích bình quân thấp hơn mức tối thiểu",
+    "c": "Chỉ cần có hộ khẩu thường trú tại nơi có dự án nhà ở",
+    "d": "Đã từng được hưởng chính sách nhà ở xã hội ở một tỉnh khác",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 78 Luật Nhà ở 2023 quy định người mua, thuê mua nhà ở xã hội phải chưa có nhà ở thuộc sở hữu của mình tại tỉnh, thành phố nơi có dự án hoặc có nhưng diện tích bình quân đầu người thấp hơn mức diện tích nhà ở tối thiểu."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nhóm đối tượng nào khi thuê nhà ở xã hội thì không cần đáp ứng điều kiện về nhà ở và thu nhập?",
+    "a": "Chỉ áp dụng cho đối tượng là học sinh, sinh viên",
+    "b": "Chỉ áp dụng cho đối tượng là người có công với cách mạng",
+    "c": "Các đối tượng quy định tại khoản 1, 4, 5, 6, 8, 9, 10 và 11 Điều 76",
+    "d": "Áp dụng cho mọi đối tượng có nhu cầu thuê nhà ở xã hội",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 78 Luật Nhà ở 2023 quy định các đối tượng tại khoản 1, 4, 5, 6, 8, 9, 10 và 11 Điều 76 nếu thuê nhà ở xã hội thì không phải đáp ứng điều kiện về nhà ở và thu nhập."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp một đối tượng thuộc diện được hưởng nhiều chính sách hỗ trợ nhà ở khác nhau thì áp dụng nguyên tắc nào?",
+    "a": "Được hưởng đồng thời tất cả các chính sách hỗ trợ",
+    "b": "Được lựa chọn hưởng tối đa hai chính sách hỗ trợ",
+    "c": "Chỉ được lựa chọn hưởng một chính sách hỗ trợ có mức cao nhất",
+    "d": "Không được hưởng bất kỳ chính sách nào do quy định tránh trùng lặp",
+    "answer": "c",
+    "explanation": "Điểm đ khoản 1 Điều 79 Luật Nhà ở 2023 quy định trường hợp một đối tượng được hưởng nhiều chính sách hỗ trợ khác nhau thì được hưởng một chính sách hỗ trợ mức cao nhất."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nghĩa vụ của chủ đầu tư dự án nhà ở xã hội đối với quyền sử dụng đất trong dự án là gì?",
+    "a": "Được phép chuyển nhượng một phần đất cho cá nhân tự xây nhà",
+    "b": "Được quyền bán lại đất cho doanh nghiệp bất động sản khác",
+    "c": "Không được chuyển nhượng quyền sử dụng đất để cá nhân tự xây dựng nhà ở",
+    "d": "Được phép chuyển nhượng đất nếu được sự đồng ý của hội nghị nhà chung cư",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 81 Luật Nhà ở 2023 quy định chủ đầu tư dự án đầu tư xây dựng nhà ở xã hội phải xây dựng nhà ở để bán, cho thuê mua, cho thuê và không được chuyển nhượng quyền sử dụng đất để cá nhân tự xây dựng nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, loại hình công trình nào là hình thức chủ yếu của nhà ở xã hội?",
+    "a": "Nhà biệt thự đơn lập hoặc song lập",
+    "b": "Nhà ở thấp tầng, liền kề phố",
+    "c": "Nhà chung cư",
+    "d": "Nhà ở kết hợp nghỉ dưỡng",
+    "answer": "c",
+    "explanation": "Điểm a khoản 1 Điều 82 Luật Nhà ở 2023 quy định nhà ở xã hội là nhà chung cư, trừ trường hợp đặc biệt tại xã thuộc vùng đồng bào dân tộc thiểu số và miền núi."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, mức lợi nhuận định mức tối đa mà chủ đầu tư dự án nhà ở xã hội được hưởng đối với phần diện tích nhà ở xã hội là bao nhiêu?",
+    "a": "Tối đa 5% tổng chi phí đầu tư xây dựng",
+    "b": "Tối đa 8% tổng chi phí đầu tư xây dựng",
+    "c": "Tối đa 10% tổng chi phí đầu tư xây dựng",
+    "d": "Tối đa 15% tổng chi phí đầu tư xây dựng",
+    "answer": "c",
+    "explanation": "Điểm c khoản 2 Điều 85 Luật Nhà ở 2023 quy định chủ đầu tư dự án đầu tư xây dựng nhà ở xã hội được hưởng lợi nhuận định mức tối đa 10% tổng chi phí đầu tư xây dựng đối với phần diện tích xây dựng nhà ở xã hội."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chủ đầu tư dự án nhà ở xã hội được dành tối đa bao nhiêu % tổng diện tích đất ở trong phạm vi dự án để kinh doanh thương mại?",
+    "a": "Tối đa 10%",
+    "b": "Tối đa 15%",
+    "c": "Tối đa 20%",
+    "d": "Tối đa 25%",
+    "answer": "c",
+    "explanation": "Điểm d khoản 2 Điều 85 Luật Nhà ở 2023 quy định chủ đầu tư được dành tỷ lệ tối đa 20% tổng diện tích đất ở trong phạm vi dự án để đầu tư công trình kinh doanh dịch vụ, thương mại, nhà ở thương mại."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, thời hạn tối thiểu mà người mua nhà ở xã hội không được bán lại kể từ ngày thanh toán đủ tiền là bao nhiêu?",
+    "a": "02 năm",
+    "b": "03 năm",
+    "c": "05 năm",
+    "d": "10 năm",
+    "answer": "c",
+    "explanation": "Điểm d khoản 1 Điều 89 Luật Nhà ở 2023 quy định bên mua nhà ở xã hội không được bán lại nhà ở trong thời hạn tối thiểu là 05 năm kể từ ngày thanh toán đủ tiền mua nhà."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trong thời hạn 05 năm kể từ ngày thanh toán đủ tiền, nếu người mua có nhu cầu bán thì chỉ được phép bán cho ai?",
+    "a": "Bất kỳ cá nhân, tổ chức nào có nhu cầu",
+    "b": "Chỉ được bán cho người thân trong gia đình",
+    "c": "Chủ đầu tư hoặc đối tượng thuộc diện được mua nhà ở xã hội",
+    "d": "Tổ chức tín dụng hoặc cơ quan quản lý nhà ở địa phương",
+    "answer": "c",
+    "explanation": "Điểm đ khoản 1 Điều 89 Luật Nhà ở 2023 quy định trong thời hạn 05 năm, người mua chỉ được bán lại cho chủ đầu tư hoặc đối tượng thuộc trường hợp được mua nhà ở xã hội."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, giới hạn số lượng căn hộ nhà ở xã hội mà mỗi đối tượng được hưởng chính sách có thể mua hoặc thuê mua là bao nhiêu?",
+    "a": "Không giới hạn số lượng căn hộ",
+    "b": "Tối đa 02 căn hộ",
+    "c": "Tối đa 03 căn hộ",
+    "d": "Chỉ được mua hoặc thuê mua 01 căn",
+    "answer": "d",
+    "explanation": "Khoản 6 Điều 88 Luật Nhà ở 2023 quy định mỗi đối tượng chỉ được mua hoặc thuê mua 01 căn nhà ở xã hội."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, điều kiện để chủ đầu tư thực hiện bán nhà ở xã hội hình thành trong tương lai là gì?",
+    "a": "Ngay sau khi nhận quyết định giao đất của cấp có thẩm quyền",
+    "b": "Sau khi hoàn thành toàn bộ công trình và nghiệm thu đưa vào sử dụng",
+    "c": "Sau khi hoàn thành xây dựng phần móng và hệ thống hạ tầng kỹ thuật theo tiến độ",
+    "d": "Sau khi người mua thực hiện xong việc đặt cọc và đóng 50% tiền",
+    "answer": "c",
+    "explanation": "Điểm b khoản 3 Điều 88 Luật Nhà ở 2023 quy định phải hoàn thành việc xây dựng phần móng của nhà ở và hoàn thành hệ thống hạ tầng kỹ thuật theo tiến độ dự án."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hậu quả pháp lý đối với hợp đồng mua bán nhà ở xã hội vi phạm quy định về đối tượng hoặc điều kiện mua là gì?",
+    "a": "Hợp đồng vẫn có hiệu lực nhưng phải đóng thêm phí phạt",
+    "b": "Chỉ bị cơ quan quản lý xử phạt hành chính",
+    "c": "Hợp đồng vô hiệu và bên mua, thuê mua phải bàn giao lại nhà ở",
+    "d": "Hợp đồng được chuyển đổi sang dạng thuê nhà ở thương mại",
+    "answer": "c",
+    "explanation": "Khoản 10 Điều 88 Luật Nhà ở 2023 quy định trường hợp bán, cho thuê mua nhà ở xã hội vi phạm quy định về đối tượng hoặc điều kiện thì hợp đồng vô hiệu và bên mua, thuê mua phải bàn giao lại nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cá nhân là công nhân trong khu công nghiệp tại cùng một thời điểm được thuê tối đa bao nhiêu nhà lưu trú công nhân?",
+    "a": "Tối đa 02 nhà lưu trú để dự phòng trường hợp thay đổi công việc",
+    "b": "Số lượng không giới hạn tùy thuộc vào nhu cầu thực tế của người lao động",
+    "c": "Chỉ được thuê duy nhất 01 nhà lưu trú công nhân trong cùng thời điểm",
+    "d": "Không quá 03 nhà lưu trú nếu có nhiều nơi làm việc khác nhau",
+    "answer": "c",
+    "explanation": "Theo điểm a khoản 1 Điều 100 Luật Nhà ở 2023, cá nhân là công nhân trong khu công nghiệp chỉ được thuê 01 nhà lưu trú công nhân trong khu công nghiệp trong cùng thời điểm."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cá nhân thuê nhà lưu trú công nhân trong khu công nghiệp có được cho thuê lại hoặc chuyển nhượng hợp đồng thuê hay không?",
+    "a": "Được cho thuê lại nếu có sự đồng ý của đơn vị quản lý khu công nghiệp",
+    "b": "Được phép chuyển nhượng hợp đồng thuê cho công nhân khác cùng doanh nghiệp",
+    "c": "Tuyệt đối không được cho thuê lại hoặc chuyển nhượng hợp đồng thuê",
+    "d": "Được quyền cho thuê lại nhưng không được vượt quá giá nhà nước quy định",
+    "answer": "c",
+    "explanation": "Theo điểm a khoản 1 Điều 100 Luật Nhà ở 2023, cá nhân thuê nhà lưu trú công nhân không được cho thuê lại hoặc chuyển nhượng hợp đồng thuê."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, sau khi chấm dứt hợp đồng lao động thì người thuê nhà lưu trú công nhân phải thực hiện trách nhiệm gì?",
+    "a": "Được tiếp tục thuê trong vòng 06 tháng để tìm việc mới",
+    "b": "Được ưu tiên mua lại nhà lưu trú với giá ưu đãi trong 01 tháng",
+    "c": "Phải bàn giao lại nhà lưu trú công nhân cho bên cho thuê",
+    "d": "Có quyền chuyển nhượng hợp đồng thuê cho người lao động khác",
+    "answer": "c",
+    "explanation": "Theo điểm b khoản 1 Điều 100 Luật Nhà ở 2023, sau khi chấm dứt hợp đồng lao động thì người thuê nhà phải bàn giao lại nhà lưu trú công nhân cho bên cho thuê."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, số tiền ứng trước lần đầu khi mua nhà ở xã hội tối đa là bao nhiêu phần trăm giá trị hợp đồng?",
+    "a": "Không được vượt quá 20% giá trị hợp đồng bao gồm tiền đặt cọc",
+    "b": "Không vượt quá 30% giá trị hợp đồng bao gồm cả tiền đặt cọc",
+    "c": "Tối đa 50% giá trị hợp đồng nếu chủ đầu tư có cam kết tiến độ",
+    "d": "Không quá 70% giá trị hợp đồng theo quy định về thanh toán theo tiến độ",
+    "answer": "b",
+    "explanation": "Theo điểm c khoản 1 Điều 89 Luật Nhà ở 2023, số tiền ứng trước lần đầu không vượt quá 30% giá trị hợp đồng (đã bao gồm cả tiền đặt cọc)."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, tổng số tiền thanh toán trước khi bàn giao nhà ở xã hội cho người mua không được vượt quá bao nhiêu phần trăm giá trị hợp đồng?",
+    "a": "Tối đa 50% tổng giá trị hợp đồng mua bán",
+    "b": "Không được vượt quá 70% giá trị hợp đồng đến trước khi bàn giao nhà",
+    "c": "Không quá 90% giá trị hợp đồng theo lộ trình thanh toán",
+    "d": "Tối đa 95% giá trị hợp đồng nếu có bảo lãnh ngân hàng",
+    "answer": "b",
+    "explanation": "Theo điểm c khoản 1 Điều 89 Luật Nhà ở 2023, tổng số tiền các lần thanh toán không được vượt quá 70% giá trị hợp đồng đến trước khi bàn giao nhà ở cho người mua."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trước khi người mua được cấp Giấy chứng nhận thì tổng số tiền thanh toán mua nhà ở xã hội tối đa là bao nhiêu?",
+    "a": "Không được vượt quá 70% giá trị hợp đồng mua bán",
+    "b": "Không được vượt quá 80% giá trị hợp đồng mua bán",
+    "c": "Không được vượt quá 90% giá trị hợp đồng mua bán",
+    "d": "Không được vượt quá 95% giá trị hợp đồng mua bán",
+    "answer": "d",
+    "explanation": "Theo điểm c khoản 1 Điều 89 Luật Nhà ở 2023, tổng số tiền thanh toán không được vượt quá 95% giá trị hợp đồng đến trước khi người mua được cấp Giấy chứng nhận."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, quy định về việc ký hợp đồng thuê nhà ở xã hội hình thành trong tương lai như thế nào?",
+    "a": "Được phép ký hợp đồng nếu đã được phê duyệt phương án cho thuê",
+    "b": "Chỉ được ký hợp đồng thuê nếu có bảo lãnh của tổ chức tín dụng",
+    "c": "Không được phép ký hợp đồng thuê nhà ở xã hội hình thành trong tương lai",
+    "d": "Được ký hợp đồng thuê nếu cơ quan quản lý nhà ở cấp tỉnh chấp thuận",
+    "answer": "c",
+    "explanation": "Theo điểm c khoản 3 Điều 89 Luật Nhà ở 2023, quy định không được ký hợp đồng thuê nhà ở xã hội hình thành trong tương lai."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, tiền đặt cọc thuê nhà ở xã hội tối đa bằng bao nhiêu tháng tiền thuê nhà tạm tính?",
+    "a": "Tối đa bằng 03 tháng tiền thuê nhà tạm tính",
+    "b": "Tối đa bằng 06 tháng tiền thuê nhà tạm tính",
+    "c": "Tối đa bằng 12 tháng tiền thuê nhà tạm tính",
+    "d": "Tối đa bằng 24 tháng tiền thuê nhà tạm tính",
+    "answer": "c",
+    "explanation": "Theo điểm c khoản 3 Điều 89 Luật Nhà ở 2023, chủ đầu tư chỉ được thu tiền đặt cọc thuê nhà ở tối đa bằng 12 tháng tiền thuê nhà tạm tính."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, bên thuê, thuê mua nhà ở xã hội có quyền sử dụng nhà ở vào mục đích nào?",
+    "a": "Kinh doanh dịch vụ hoặc cho thuê lại để tăng thu nhập",
+    "b": "Sử dụng làm văn phòng giao dịch hoặc mục đích ở tạm thời",
+    "c": "Chỉ được phục vụ vào mục đích ở cho bản thân và thành viên trong gia đình",
+    "d": "Sử dụng theo thỏa thuận giữa bên thuê và chủ đầu tư trong hợp đồng",
+    "answer": "c",
+    "explanation": "Theo khoản 8 Điều 88 Luật Nhà ở 2023, bên thuê, thuê mua nhà ở xã hội chỉ được sử dụng nhà ở phục vụ vào mục đích ở cho bản thân và thành viên trong gia đình."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chủ đầu tư dự án nhà ở xã hội để cho thuê được quyền bán nhà ở đó theo cơ chế thị trường sau thời hạn bao lâu?",
+    "a": "Sau 03 năm kể từ ngày nghiệm thu đưa vào sử dụng",
+    "b": "Sau 05 năm kể từ ngày nghiệm thu đưa vào sử dụng",
+    "c": "Sau 10 năm kể từ ngày nghiệm thu đưa vào sử dụng",
+    "d": "Sau 20 năm kể từ ngày nghiệm thu đưa vào sử dụng",
+    "answer": "c",
+    "explanation": "Theo khoản 9 Điều 88 Luật Nhà ở 2023, chủ đầu tư dự án đầu tư xây dựng nhà ở xã hội để cho thuê được bán nhà ở này theo cơ chế thị trường sau 10 năm kể từ ngày nghiệm thu đưa vào sử dụng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trong phương án bố trí quỹ đất nhà ở xã hội tại đô thị loại đặc biệt, trường hợp chủ đầu tư nộp tiền tương đương giá trị quỹ đất thì số tiền này được sử dụng vào mục đích gì?",
+    "a": "Nộp vào ngân sách nhà nước để chi tiêu thường xuyên",
+    "b": "Chỉ được dùng để phát triển hạ tầng kỹ thuật trong chính dự án đó",
+    "c": "Nộp vào ngân sách địa phương để đầu tư phát triển nhà ở xã hội trên địa bàn",
+    "d": "Chuyển cho chủ đầu tư khác để xây dựng nhà ở thương mại",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 83 Luật Nhà ở 2023 quy định tiền thu được từ việc nộp tương đương giá trị quỹ đất phải được nộp vào ngân sách địa phương để đầu tư phát triển nhà ở xã hội."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, doanh nghiệp trong khu công nghiệp thuê nhà lưu trú công nhân có nghĩa vụ pháp lý nào sau đây?",
+    "a": "Được quyền tự quyết định mức giá cho thuê lại đối với người lao động",
+    "b": "Phải chịu trách nhiệm quản lý, bảo trì và cam kết không thu lợi nhuận từ việc cho thuê lại",
+    "c": "Được chuyển nhượng lại quyền thuê cho doanh nghiệp khác trong cùng khu công nghiệp",
+    "d": "Chỉ được thuê với mục đích làm văn phòng tạm thời cho ban quản lý",
+    "answer": "b",
+    "explanation": "Điều 92 và Điều 100 Luật Nhà ở 2023 quy định doanh nghiệp thuê nhà lưu trú để bố trí cho công nhân của mình, phải quản lý và đảm bảo không vì mục đích lợi nhuận."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, đối với công trình nhà lưu trú công nhân trong khu công nghiệp, yêu cầu về quy hoạch bắt buộc phải tuân thủ điều kiện gì?",
+    "a": "Phải được xây dựng xen kẽ trong khu vực sản xuất của nhà máy",
+    "b": "Phải bảo đảm tách biệt với khu sản xuất công nghiệp và có hàng rào ngăn cách",
+    "c": "Chỉ cần nằm trong phạm vi ranh giới của khu công nghiệp, không yêu cầu tách biệt",
+    "d": "Do chủ đầu tư tự thỏa thuận với cơ quan quản lý môi trường",
+    "answer": "b",
+    "explanation": "Điều 95 Luật Nhà ở 2023 quy định nhà lưu trú công nhân phải bảo đảm an toàn, có hàng rào ngăn cách và tách biệt với khu sản xuất để bảo đảm vệ sinh, môi trường."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, quy định về loại hình công trình đối với nhà lưu trú công nhân trong khu công nghiệp là gì?",
+    "a": "Bắt buộc phải là loại hình nhà ở riêng lẻ để đảm bảo quyền riêng tư",
+    "b": "Có thể là nhà tạm hoặc nhà lắp ghép với độ bền tối thiểu 10 năm",
+    "c": "Bắt buộc là nhà chung cư",
+    "d": "Không quy định loại hình, miễn là đáp ứng tiêu chuẩn diện tích tối thiểu",
+    "answer": "c",
+    "explanation": "Điều 96 Luật Nhà ở 2023 quy định rõ nhà lưu trú công nhân trong khu công nghiệp phải là nhà chung cư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trong trường hợp chủ đầu tư dự án nhà ở xã hội có từ 02 nhà đầu tư trở lên cùng quan tâm, hình thức lựa chọn chủ đầu tư nào được áp dụng?",
+    "a": "Thực hiện đấu thầu lựa chọn nhà đầu tư theo quy định pháp luật về đấu thầu",
+    "b": "Ủy ban nhân dân cấp tỉnh ưu tiên chỉ định nhà đầu tư có năng lực tài chính mạnh nhất",
+    "c": "Cơ quan quản lý nhà ở cấp tỉnh tổ chức bốc thăm công khai",
+    "d": "Ưu tiên cho nhà đầu tư đã có sẵn quỹ đất hợp pháp tại khu vực dự án",
+    "answer": "a",
+    "explanation": "Khoản 4 Điều 84 Luật Nhà ở 2023 quy định: trường hợp có từ 02 nhà đầu tư trở lên quan tâm thì phải tổ chức đấu thầu lựa chọn nhà đầu tư."
+  },
      {
     "question": "Theo Luật Nhà ở 2023, thời hạn sử dụng nhà chung cư được xác định theo căn cứ nào?",
     "a": "Theo thời hạn ghi trên Giấy chứng nhận quyền sở hữu nhà ở",
