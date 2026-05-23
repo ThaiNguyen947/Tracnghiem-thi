@@ -1,5 +1,140 @@
 [
    {
+    "question": "Theo TT 10/2024/TT-BTNMT, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất gồm bao nhiêu trang?",
+    "a": "Gồm 01 trang",
+    "b": "Gồm 02 trang, có thể kèm trang bổ sung",
+    "c": "Gồm 03 trang",
+    "d": "Gồm 04 trang",
+    "answer": "b",
+    "explanation": "Theo Điều 23 Thông tư 10/2024/TT-BTNMT, Giấy chứng nhận gồm 02 trang; trường hợp có nội dung vượt quá số dòng quy định thì sử dụng trang bổ sung để thể hiện thông tin."
+  },
+  {
+    "question": "Theo TT 10/2024/TT-BTNMT, thông tin nào được thể hiện tại trang 1 của Giấy chứng nhận?",
+    "a": "Thông tin về thế chấp và xử phạt vi phạm",
+    "b": "Thông tin về tranh chấp đất đai",
+    "c": "Tên người sử dụng đất, thông tin thửa đất",
+    "d": "Thông tin về quy hoạch xây dựng",
+    "answer": "c",
+    "explanation": "Theo Điều 23 Thông tư 10/2024/TT-BTNMT, trang 1 của Giấy chứng nhận thể hiện tên người sử dụng đất, chủ sở hữu tài sản gắn liền với đất; thông tin về thửa đất như số thửa, tờ bản đồ, địa chỉ, diện tích, hình thức sử dụng, thời hạn sử dụng và nguồn gốc sử dụng đất."
+  },
+  {
+    "question": "Theo TT 10/2024/TT-BTNMT, nội dung nào sau đây được ghi tại trang 2 của Giấy chứng nhận?",
+    "a": "Thông tin tài sản gắn liền với đất và sơ đồ thửa đất",
+    "b": "Thông tin xử phạt vi phạm hành chính",
+    "c": "Thông tin hộ khẩu thường trú",
+    "d": "Thông tin lịch sử giao dịch ngân hàng",
+    "answer": "a",
+    "explanation": "Theo Điều 23 Thông tư 10/2024/TT-BTNMT, trang 2 của Giấy chứng nhận ghi thông tin về tài sản gắn liền với đất; sơ đồ thửa đất, tài sản gắn liền với đất và nội dung thay đổi sau khi cấp Giấy chứng nhận."
+  },
+  {
+    "question": "Theo TT 10/2024/TT-BTNMT, mã QR được in tại vị trí nào trên Giấy chứng nhận?",
+    "a": "Góc trên bên trái trang 1",
+    "b": "Góc dưới bên phải trang 1",
+    "c": "Giữa trang 2",
+    "d": "Trang bổ sung",
+    "answer": "b",
+    "explanation": "Theo Điều 22 Thông tư 10/2024/TT-BTNMT, mã QR được in tại góc dưới bên phải trang 1 của Giấy chứng nhận để lưu trữ và hiển thị thông tin chi tiết về Giấy chứng nhận và các thông tin liên quan."
+  },
+  {
+    "question": "Theo TT 10/2024/TT-BTNMT, mã QR trên Giấy chứng nhận dùng để làm gì?",
+    "a": "Lưu trữ và hiển thị thông tin chi tiết về Giấy chứng nhận",
+    "b": "Xác nhận nghĩa vụ thuế",
+    "c": "Theo dõi biến động dân cư",
+    "d": "Ghi nhận lịch sử tín dụng",
+    "answer": "a",
+    "explanation": "Theo Điều 22 Thông tư 10/2024/TT-BTNMT, mã QR được sử dụng để lưu trữ, hiển thị các thông tin chi tiết về Giấy chứng nhận và các thông tin liên quan đến thửa đất, tài sản gắn liền với đất."
+  },
+  {
+    "question": "Theo TT 10/2024/TT-BTNMT, nội dung nào sau đây thuộc trường hợp ghi nhận thay đổi sau khi cấp Giấy chứng nhận?",
+    "a": "Chuyển nhượng quyền sử dụng đất",
+    "b": "Đăng ký khai sinh",
+    "c": "Thay đổi số điện thoại",
+    "d": "Đổi căn cước công dân của hàng xóm",
+    "answer": "a",
+    "explanation": "Theo Điều 26 Thông tư 10/2024/TT-BTNMT, các thay đổi sau khi cấp Giấy chứng nhận như chuyển nhượng, tặng cho quyền sử dụng đất phải được ghi nhận trên Giấy chứng nhận."
+  },
+  {
+    "question": "Theo TT 10/2024/TT-BTNMT, việc xóa đăng ký thế chấp được thể hiện ở đâu?",
+    "a": "Không cần thể hiện",
+    "b": "Trong hồ sơ địa chính nội bộ",
+    "c": "Trong nội dung thay đổi sau khi cấp Giấy chứng nhận",
+    "d": "Trong giấy khai sinh của chủ sử dụng đất",
+    "answer": "c",
+    "explanation": "Theo Điều 26 Thông tư 10/2024/TT-BTNMT, việc xóa đăng ký thế chấp hoặc thay đổi thông tin thế chấp được ghi nhận tại phần nội dung thay đổi sau khi cấp Giấy chứng nhận."
+  },
+  {
+    "question": "Theo TT 10/2024/TT-BTNMT, thay đổi nào sau đây phải được ghi nhận trên Giấy chứng nhận?",
+    "a": "Thay đổi diện tích đất",
+    "b": "Thay đổi nghề nghiệp của chủ đất",
+    "c": "Thay đổi số điện thoại",
+    "d": "Thay đổi tài khoản ngân hàng",
+    "answer": "a",
+    "explanation": "Theo Điều 26 Thông tư 10/2024/TT-BTNMT, thay đổi diện tích, mục đích sử dụng hoặc thời hạn sử dụng đất là các trường hợp phải ghi nhận nội dung thay đổi trên Giấy chứng nhận."
+  },
+  {
+    "question": "Theo TT 10/2024/TT-BTNMT, Điều 27 quy định chủ yếu về nội dung nào?",
+    "a": "Thu thuế sử dụng đất",
+    "b": "Ghi thông tin đối với tài sản gắn liền với đất",
+    "c": "Xử phạt hành chính về đất đai",
+    "d": "Đấu giá quyền sử dụng đất",
+    "answer": "b",
+    "explanation": "Theo Điều 27 Thông tư 10/2024/TT-BTNMT, quy định việc ghi thông tin đối với tài sản gắn liền với đất trên Giấy chứng nhận."
+  },
+  {
+    "question": "Theo TT 10/2024/TT-BTNMT, sơ đồ thửa đất trên Giấy chứng nhận phải thể hiện nội dung nào sau đây?",
+    "a": "Thông tin tài khoản ngân hàng của chủ sử dụng đất",
+    "b": "Chỉ giới hành lang an toàn công trình",
+    "c": "Lịch sử giao dịch dân sự",
+    "d": "Thông tin cư trú của người mua",
+    "answer": "b",
+    "explanation": "Theo Phụ lục ban hành kèm Thông tư 10/2024/TT-BTNMT, sơ đồ thửa đất phải thể hiện các cạnh, kích thước và các chỉ giới hành lang an toàn giao thông, thủy lợi, di tích hoặc công trình khác có liên quan."
+  },
+  {
+    "question": "Theo TT 10/2024/TT-BTNMT, phần sơ đồ thửa đất có ý nghĩa gì đối với hoạt động công chứng?",
+    "a": "Để xác định mức thuế thu nhập cá nhân",
+    "b": "Để xác định tình trạng hôn nhân",
+    "c": "Để kiểm tra tình trạng lấn chiếm hoặc diện tích thuộc hành lang an toàn",
+    "d": "Để xác định lịch sử tín dụng",
+    "answer": "c",
+    "explanation": "Theo Phụ lục ban hành kèm Thông tư 10/2024/TT-BTNMT, sơ đồ thửa đất thể hiện kích thước, ranh giới, hành lang bảo vệ công trình; đây là căn cứ để công chứng viên kiểm tra tình trạng pháp lý thực tế của thửa đất."
+  },
+  {
+    "question": "Theo TT 10/2024/TT-BTNMT, thông tin nào sau đây thuộc thông tin về thửa đất tại trang 1 Giấy chứng nhận?",
+    "a": "Số thửa đất",
+    "b": "Mức lương của chủ sử dụng đất",
+    "c": "Số tài khoản ngân hàng",
+    "d": "Thông tin bảo hiểm xã hội",
+    "answer": "a",
+    "explanation": "Theo Điều 23 Thông tư 10/2024/TT-BTNMT, trang 1 của Giấy chứng nhận ghi nhận thông tin về thửa đất gồm số thửa, tờ bản đồ, địa chỉ, diện tích, hình thức sử dụng, thời hạn sử dụng và nguồn gốc sử dụng đất."
+  },
+  {
+    "question": "Theo TT 10/2024/TT-BTNMT, thông tin về nhà ở và công trình xây dựng được ghi ở đâu trên Giấy chứng nhận?",
+    "a": "Trang 1",
+    "b": "Trang 2",
+    "c": "Trang bổ sung duy nhất",
+    "d": "Không ghi trên Giấy chứng nhận",
+    "answer": "b",
+    "explanation": "Theo Điều 23 Thông tư 10/2024/TT-BTNMT, trang 2 của Giấy chứng nhận ghi thông tin tài sản gắn liền với đất như nhà ở, công trình xây dựng, rừng sản xuất là rừng trồng và cây lâu năm."
+  },
+  {
+    "question": "Theo TT 10/2024/TT-BTNMT, trường hợp nội dung thay đổi vượt quá số dòng quy định thì xử lý thế nào?",
+    "a": "Không ghi nhận thay đổi",
+    "b": "Lập Giấy chứng nhận mới bắt buộc",
+    "c": "Sử dụng trang bổ sung",
+    "d": "Ghi tay ngoài bìa",
+    "answer": "c",
+    "explanation": "Theo Điều 23 Thông tư 10/2024/TT-BTNMT, trường hợp nội dung vượt quá số dòng thể hiện trên Giấy chứng nhận thì được sử dụng trang bổ sung để ghi nhận thông tin."
+  },
+  {
+    "question": "Theo TT 10/2024/TT-BTNMT, việc thay đổi mục đích sử dụng đất có phải ghi nhận trên Giấy chứng nhận không?",
+    "a": "Không",
+    "b": "Chỉ ghi khi có tranh chấp",
+    "c": "Có",
+    "d": "Chỉ ghi khi có yêu cầu của ngân hàng",
+    "answer": "c",
+    "explanation": "Theo Điều 26 Thông tư 10/2024/TT-BTNMT, thay đổi mục đích sử dụng đất thuộc trường hợp phải ghi nhận nội dung thay đổi sau khi cấp Giấy chứng nhận."
+  },
+   {
     "question": "Theo Nghị định 103/2024/NĐ-CP, giấy tờ nào sau đây có thể được sử dụng để chứng minh đã nộp tiền sử dụng đất khi cấp Giấy chứng nhận quyền sử dụng đất?",
     "a": "Biên lai, phiếu thu, hóa đơn thu tiền để được sử dụng đất",
     "b": "Giấy xác nhận tạm trú",
