@@ -1,5 +1,131 @@
 [
    {
+        "question": "Ông A là cá nhân, muốn ký hợp đồng cho ông B (cá nhân) thuê quyền sử dụng đất trong 5 năm. Ông A mang hợp đồng đến văn phòng công chứng của bạn. Căn cứ Luật Đất đai 2024, bạn tư vấn như thế nào?",
+        "a": "Hợp đồng bắt buộc phải được công chứng tại Văn phòng công chứng mới có hiệu lực.",
+        "b": "Hợp đồng không bắt buộc phải công chứng hoặc chứng thực, việc công chứng là do các bên tự nguyện thỏa thuận.",
+        "c": "Hợp đồng chỉ có hiệu lực khi được UBND cấp xã chứng thực.",
+        "d": "Hợp đồng bắt buộc phải đăng ký tại Văn phòng đăng ký đất đai trước khi ký công chứng.",
+        "answer": "b",
+        "explanation": "Theo Luật Đất đai 2024, hợp đồng cho thuê quyền sử dụng đất không thuộc trường hợp bắt buộc phải công chứng hoặc chứng thực. Các bên có quyền lựa chọn công chứng/chứng thực hoặc không, tùy theo thỏa thuận."
+    },
+    {
+        "question": "Bà C muốn chuyển nhượng nhà ở và quyền sử dụng đất cho ông D. Tuy nhiên, căn nhà của bà C đang trong quá trình bị cưỡng chế thi hành án. Công chứng viên cần áp dụng Điều 124 Luật Đất đai 2024 để xử lý tình huống này như thế nào?",
+        "a": "Chỉ cần bà C cam kết nhà không có tranh chấp là được phép công chứng.",
+        "b": "Yêu cầu bà C nộp thêm phí bảo lãnh để được phép ký hợp đồng.",
+        "c": "Từ chối yêu cầu công chứng vì đất đang bị kê biên để bảo đảm thi hành án, không đủ điều kiện chuyển nhượng.",
+        "d": "Vẫn ký hợp đồng nhưng ghi chú rõ vào văn bản là 'giao dịch có rủi ro'.",
+        "answer": "c",
+        "explanation": "Theo Luật Đất đai 2024, một trong các điều kiện để người sử dụng đất được thực hiện quyền chuyển nhượng là quyền sử dụng đất không bị kê biên để bảo đảm thi hành án. Nếu đất đang bị kê biên, Công chứng viên phải từ chối theo quy định của Luật Công chứng."
+    },
+    {
+        "question": "Công ty Bất động sản X (doanh nghiệp kinh doanh BĐS) muốn góp vốn bằng quyền sử dụng đất vào công ty Y. Hợp đồng này có bắt buộc phải công chứng theo Luật Đất đai 2024 không?",
+        "a": "Bắt buộc công chứng vì đây là góp vốn bằng quyền sử dụng đất.",
+        "b": "Không bắt buộc công chứng vì các bên tham gia giao dịch là tổ chức hoạt động kinh doanh bất động sản.",
+        "c": "Chỉ bắt buộc nếu đất thuộc dự án bất động sản nhà ở thương mại.",
+        "d": "Bắt buộc phải chứng thực tại UBND cấp huyện.",
+        "answer": "b",
+        "explanation": "Luật Đất đai 2024, trường hợp hợp đồng góp vốn bằng quyền sử dụng đất mà một bên hoặc các bên tham gia giao dịch là tổ chức hoạt động kinh doanh bất động sản thì không bắt buộc phải công chứng hoặc chứng thực."
+    },
+  {
+    "question": "Trường hợp người sử dụng đất là hộ gia đình, quyền sử dụng đất là tài sản chung. Khi thực hiện thủ tục chuyển nhượng, công chứng viên cần lưu ý điều gì về chủ thể tham gia?",
+    "a": "Chỉ cần người đứng tên trên Giấy chứng nhận ký là đủ.",
+    "b": "Cần sự đồng ý và ký kết của tất cả các thành viên có chung quyền sử dụng đất trong hộ gia đình.",
+    "c": "Chỉ cần chủ hộ gia đình ký.",
+    "d": "Công chứng viên không cần kiểm tra thành viên hộ gia đình, chỉ cần xem Giấy chứng nhận.",
+    "answer": "b",
+    "explanation": ", đối với đất là tài sản chung của hộ gia đình, việc thực hiện quyền phải có sự đồng ý của các thành viên có chung quyền sử dụng đất."
+  },
+  {
+    "question": "Công ty X nhận chuyển nhượng dự án bất động sản nhưng chưa hoàn thành thủ tục đất đai tại thời điểm Luật Đất đai 2024 có hiệu lực. Xử lý như thế nào?",
+    "a": "Hợp đồng chuyển nhượng vô hiệu, phải ký lại.",
+    "b": "Bên nhận chuyển nhượng được kế thừa quyền và nghĩa vụ về đất đai của bên chuyển nhượng.",
+    "c": "Phải thực hiện lại từ đầu quy trình giao đất từ Nhà nước.",
+    "d": "Không được cấp Giấy chứng nhận nữa.",
+    "answer": "b",
+    "explanation": "Luật Đất đai 2024 quy định rõ bên nhận chuyển nhượng dự án được kế thừa quyền và nghĩa vụ đất đai của bên chuyển nhượng."
+  },
+  {
+    "question": "Ông A (cá nhân) không trực tiếp sản xuất nông nghiệp, muốn nhận chuyển nhượng 5 héc-ta đất trồng lúa từ ông B. Theo Luật Đất đai 2024, ông A cần đáp ứng điều kiện nào để giao dịch này được pháp luật công nhận?",
+    "a": "Chỉ cần ông A có đủ năng lực hành vi dân sự và hợp đồng được công chứng.",
+    "b": "Ông A phải thành lập tổ chức kinh tế và có phương án sử dụng đất trồng lúa được UBND cấp huyện phê duyệt.",
+    "c": "Ông A phải được UBND cấp tỉnh chấp thuận bằng văn bản.",
+    "d": "Ông A không được nhận chuyển nhượng trong mọi trường hợp do không trực tiếp sản xuất nông nghiệp.",
+    "answer": "b",
+    "explanation": "Theo khoản 7 Điều 45, cá nhân không trực tiếp sản xuất nông nghiệp nhận chuyển nhượng đất trồng lúa quá hạn mức phải thành lập tổ chức kinh tế và có phương án sử dụng đất được UBND cấp huyện phê duyệt (lưu ý: hiện nay thẩm quyền này được chuyển giao cho Chủ tịch UBND cấp xã thực hiện theo Nghị định 151/2025/NĐ-CP)."
+  },
+  {
+    "question": "Công ty X là doanh nghiệp được Nhà nước cho thuê đất thu tiền thuê đất hằng năm. Công ty X muốn bán tài sản gắn liền với đất. Theo Luật Đất đai 2024, điều kiện nào sau đây là bắt buộc?",
+    "a": "Chỉ cần tài sản đã được đăng ký quyền sở hữu theo quy định.",
+    "b": "Tài sản phải được tạo lập hợp pháp, đăng ký theo quy định và đã hoàn thành xây dựng theo đúng quy hoạch/dự án đầu tư đã được phê duyệt.",
+    "c": "Công ty X phải trả hết tiền thuê đất cho toàn bộ thời gian 50 năm thì mới được bán tài sản.",
+    "d": "Phải có sự đồng ý của toàn bộ nhân viên công ty bằng văn bản.",
+    "answer": "b",
+    "explanation": "Điều 46 quy định rõ về điều kiện bán tài sản trên đất thuê trả tiền hằng năm: (1) Tài sản tạo lập hợp pháp và đăng ký; (2) Hoàn thành xây dựng đúng quy hoạch và dự án đầu tư."
+  },
+  {
+    "question": "Ông M (người dân tộc thiểu số) được Nhà nước giao đất theo chính sách hỗ trợ đất đai. Ông M muốn thế chấp quyền sử dụng đất này để vay vốn. Theo Luật Đất đai 2024, ông M có quyền này không?",
+    "a": "Được thế chấp tại bất kỳ ngân hàng thương mại nào ông M muốn.",
+    "b": "Không được thế chấp trong mọi trường hợp.",
+    "c": "Được thế chấp quyền sử dụng đất tại ngân hàng chính sách.",
+    "d": "Chỉ được thế chấp nếu có sự bảo lãnh của UBND cấp xã.",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 48, để bảo vệ quyền lợi và hỗ trợ người dân tộc thiểu số, luật quy định cá nhân thuộc đối tượng này chỉ được thế chấp quyền sử dụng đất tại ngân hàng chính sách."
+  },
+  {
+    "question": "Công ty A là chủ đầu tư dự án nhà ở thương mại, đã hoàn thành hạ tầng kỹ thuật và muốn chuyển nhượng quyền sử dụng đất cho người dân tự xây nhà. Theo Luật Đất đai 2024, công ty A phải đảm bảo điều kiện gì?",
+    "a": "Chỉ cần hoàn thành nghĩa vụ tài chính với Nhà nước là được chuyển nhượng.",
+    "b": "Phải đáp ứng điều kiện quy định tại khoản 1 Điều 45 và các điều kiện theo quy định của Luật Kinh doanh bất động sản, Luật Nhà ở.",
+    "c": "Phải có sự đồng ý của tất cả khách hàng đã mua sản phẩm trong dự án.",
+    "d": "Chỉ cần có Giấy chứng nhận quyền sử dụng đất tổng thể của cả dự án.",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 45 khẳng định: Đối với đất trong dự án bất động sản, ngoài các điều kiện chung (Giấy chứng nhận, không tranh chấp...), chủ đầu tư phải tuân thủ thêm các quy định chuyên ngành (Luật Kinh doanh BĐS, Luật Nhà ở) về điều kiện chuyển nhượng."
+  },
+  {
+    "question": "Trong trường hợp người sử dụng đất được Nhà nước cho phép ghi nợ nghĩa vụ tài chính (tiền sử dụng đất), họ có được quyền chuyển nhượng quyền sử dụng đất không?",
+    "a": "Có, vì nợ tiền sử dụng đất không liên quan đến quyền định đoạt đất đai.",
+    "b": "Không, phải thực hiện xong nghĩa vụ tài chính trước khi thực hiện quyền chuyển nhượng.",
+    "c": "Được phép chuyển nhượng nếu người mua cam kết trả nợ thay.",
+    "d": "Được phép chuyển nhượng, nhưng phải để lại 50% tiền thu được từ việc bán đất để trả nợ cho Nhà nước.",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 45 Luật Đất đai 2024 quy định rất rõ: Trường hợp được chậm thực hiện hoặc ghi nợ nghĩa vụ tài chính thì phải thực hiện xong nghĩa vụ đó trước khi thực hiện các quyền chuyển đổi, chuyển nhượng, tặng cho, thế chấp..."
+  },
+  {
+    "question": "Tổ chức kinh tế X muốn nhận chuyển nhượng quyền sử dụng đất rừng phòng hộ của cá nhân. Theo điểm a khoản 8 Điều 45, việc này được thực hiện như thế nào?",
+    "a": "Được phép nhận chuyển nhượng tự do vì đây là giao dịch dân sự.",
+    "b": "Không được nhận chuyển nhượng, trừ trường hợp được chuyển mục đích sử dụng đất theo quy hoạch, kế hoạch đã được phê duyệt.",
+    "c": "Chỉ được nhận chuyển nhượng nếu có sự đồng ý của Bộ Nông nghiệp và Phát triển nông thôn.",
+    "d": "Chỉ được nhận chuyển nhượng nếu tổ chức X là doanh nghiệp nhà nước.",
+    "answer": "b",
+    "explanation": "Điểm a khoản 8 Điều 45 là quy định cấm/hạn chế chặt chẽ. Tổ chức kinh tế không được nhận chuyển nhượng đất rừng phòng hộ, trừ khi đất đó đã được cấp có thẩm quyền cho phép chuyển mục đích sử dụng đất theo quy hoạch."
+  },
+  {
+    "question": "Ông A (người dân tộc thiểu số) được giao đất theo chính sách hỗ trợ đất đai . Nếu ông A qua đời mà không có người thừa kế thuộc đối tượng được hưởng chính sách này, Nhà nước giải quyết thế nào?",
+    "a": "Chuyển quyền sử dụng đất cho người thân bất kỳ của ông A.",
+    "b": "Nhà nước thu hồi đất và bồi thường tài sản gắn liền với đất cho người thừa kế theo pháp luật.",
+    "c": "Đất sẽ thuộc về cộng đồng dân cư tại địa phương.",
+    "d": "Người thừa kế đương nhiên được cấp Giấy chứng nhận quyền sử dụng đất.",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 48, khi người DTTS được giao đất theo chính sách hỗ trợ chết mà không có người thừa kế cùng diện hưởng chính sách, Nhà nước thu hồi đất và bồi thường tài sản gắn liền với đất cho người thừa kế theo quy định."
+  },
+  {
+    "question": "Việc góp vốn bằng quyền sử dụng đất được coi là hoàn tất khi nào?",
+    "a": "Khi các bên ký xong hợp đồng góp vốn tại trụ sở công ty.",
+    "b": "Khi đã thực hiện xong thủ tục đăng ký biến động theo quy định của pháp luật đất đai.",
+    "c": "Khi có văn bản xác nhận của UBND cấp huyện.",
+    "d": "Khi bên nhận góp vốn đã chuyển tiền vào tài khoản bên góp vốn.",
+    "answer": "b",
+    "explanation": "Theo quy định chung về trình tự thực hiện quyền, việc góp vốn bằng quyền sử dụng đất chỉ làm phát sinh hiệu lực pháp lý và quyền sở hữu/sử dụng mới sau khi đã hoàn tất thủ tục đăng ký biến động tại cơ quan có thẩm quyền."
+  },
+  {
+    "question": "Một thửa đất ở đang bị áp dụng 'biện pháp khẩn cấp tạm thời' bởi Tòa án. Công chứng viên phải xử lý thế nào đối với yêu cầu chuyển nhượng thửa đất này?",
+    "a": "Cho phép chuyển nhượng nếu bên bán cam kết sẽ tự giải quyết với Tòa án.",
+    "b": "Từ chối yêu cầu công chứng vì vi phạm điều kiện tại điểm đ khoản 1 Điều 45 Luật Đất đai 2024.",
+    "c": "Vẫn công chứng nhưng ghi chú vào hợp đồng là đất đang có tranh chấp.",
+    "d": "Công chứng bình thường vì biện pháp khẩn cấp tạm thời không phải là 'kê biên'.",
+    "answer": "b",
+    "explanation": "Điểm đ khoản 1 Điều 45 quy định: Quyền sử dụng đất không bị áp dụng biện pháp khẩn cấp tạm thời. Đây là điều kiện tiên quyết để thực hiện các quyền (chuyển nhượng, tặng cho...)."
+  },
+   {
     "question": "Theo TT 10/2024/TT-BTNMT, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất gồm bao nhiêu trang?",
     "a": "Gồm 01 trang",
     "b": "Gồm 02 trang, có thể kèm trang bổ sung",
