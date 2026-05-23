@@ -1,5 +1,267 @@
 [
     {
+    "question": "Theo NĐ101/2024/NĐ-CP, trường hợp hồ sơ tách thửa không đủ điều kiện giải quyết thì cơ quan đăng ký đất đai phải xử lý như thế nào?",
+    "a": "Tiếp tục giải quyết hồ sơ",
+    "b": "Trả lại hồ sơ trong thời hạn 03 ngày làm việc",
+    "c": "Chuyển sang đăng ký biến động",
+    "d": "Yêu cầu công chứng lại hợp đồng",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 7 NĐ101/2024/NĐ-CP: trường hợp hồ sơ không đủ điều kiện thì cơ quan đăng ký đất đai trả lại hồ sơ trong 03 ngày làm việc."
+  },
+  {
+    "question": "Theo NĐ101/2024/NĐ-CP, trường hợp Giấy chứng nhận quyền sử dụng đất không có sơ đồ thửa đất thì xử lý như thế nào trước khi tách thửa?",
+    "a": "Không cần thực hiện thủ tục gì",
+    "b": "Thực hiện đăng ký biến động để cập nhật thông tin thửa đất",
+    "c": "Cấp lại Giấy chứng nhận ngay",
+    "d": "Hủy Giấy chứng nhận cũ",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 7 NĐ101/2024/NĐ-CP: trường hợp GCN thiếu sơ đồ hoặc thông tin thửa đất phải thực hiện đăng ký biến động để cập nhật."
+  },
+  {
+    "question": "Theo NĐ101/2024/NĐ-CP, quyền sử dụng đất trong trường hợp đăng ký biến động được xác lập từ thời điểm nào?",
+    "a": "Thời điểm ký hợp đồng công chứng",
+    "b": "Thời điểm nộp hồ sơ",
+    "c": "Thời điểm đăng ký vào sổ địa chính",
+    "d": "Thời điểm thanh toán tiền",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 30 NĐ101/2024/NĐ-CP: việc đăng ký biến động có hiệu lực từ thời điểm đăng ký vào sổ địa chính."
+  },
+  {
+    "question": "Theo NĐ101/2024/NĐ-CP, khi đăng ký biến động do chuyển nhượng quyền sử dụng đất, công chứng viên phải kiểm tra nội dung nào?",
+    "a": "Giá chuyển nhượng",
+    "b": "Tình trạng pháp lý của Giấy chứng nhận và quyền sử dụng đất",
+    "c": "Phong thủy thửa đất",
+    "d": "Màu sắc Giấy chứng nhận",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 30 và Điều 41 NĐ101/2024/NĐ-CP: phải kiểm tra tình trạng pháp lý của GCN và quyền sử dụng đất trước khi giao dịch."
+  },
+  {
+    "question": "Theo NĐ101/2024/NĐ-CP, trường hợp sai lệch diện tích do đo đạc lại thì xử lý như thế nào?",
+    "a": "Hủy Giấy chứng nhận",
+    "b": "Cấp đổi Giấy chứng nhận",
+    "c": "Thu hồi đất",
+    "d": "Không xử lý",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 38 NĐ101/2024/NĐ-CP: sai lệch diện tích do đo đạc lại thuộc trường hợp cấp đổi GCN."
+  },
+  {
+    "question": "Theo NĐ101/2024/NĐ-CP, trường hợp Giấy chứng nhận có sai sót do cơ quan nhà nước cấp thì xử lý như thế nào?",
+    "a": "Người dân phải làm lại hồ sơ từ đầu",
+    "b": "Thực hiện đính chính Giấy chứng nhận",
+    "c": "Hủy quyền sử dụng đất",
+    "d": "Phải công chứng lại hợp đồng",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 45 NĐ101/2024/NĐ-CP: sai sót do cơ quan cấp thì thực hiện đính chính GCN."
+  },
+  {
+    "question": "Theo NĐ101/2024/NĐ-CP, thời gian xác định nghĩa vụ tài chính có được tính vào thời hạn giải quyết đăng ký biến động không?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Tùy từng trường hợp",
+    "d": "Do UBND quyết định",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 19 và Điều 30 NĐ101/2024/NĐ-CP: thời gian xác định nghĩa vụ tài chính không tính vào thời hạn giải quyết."
+  },
+  {
+    "question": "Theo NĐ101/2024/NĐ-CP, khi tách thửa đất, yêu cầu đầu tiên phải đảm bảo điều kiện gì?",
+    "a": "Có công chứng hợp đồng",
+    "b": "Đủ điều kiện pháp lý của thửa đất",
+    "c": "Có bản vẽ xây dựng",
+    "d": "Có người làm chứng",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 7 NĐ101/2024/NĐ-CP: thửa đất phải đủ điều kiện pháp lý trước khi tách thửa."
+  },
+  {
+    "question": "Theo NĐ101/2024/NĐ-CP, trường hợp hộ gia đình đã được cấp Giấy chứng nhận nhưng khi đăng ký biến động chuyển nhượng, xác định thành viên có chung quyền sử dụng đất phải dựa trên căn cứ nào sau đây?",
+    "a": "Danh sách nhân khẩu thường trú tại thời điểm chuyển nhượng",
+    "b": "Thành viên có tên trong sổ hộ khẩu gia đình tại thời điểm ký hợp đồng",
+    "c": "Thành viên hộ gia đình có chung quyền sử dụng đất tại thời điểm được Nhà nước giao đất, cho thuê đất, công nhận quyền sử dụng đất",
+    "d": "Những người có tên trong hợp đồng chuyển nhượng",
+    "answer": "c",
+    "explanation": "Căn cứ Khoản 19 Điều 30 NĐ101/2024/NĐ-CP: việc xác định thành viên hộ gia đình có chung quyền sử dụng đất phải căn cứ vào thời điểm được Nhà nước giao đất, cho thuê đất hoặc công nhận quyền sử dụng đất."
+  },
+  {
+    "question": "Theo NĐ101/2024/NĐ-CP, khi thực hiện thủ tục cấp đổi Giấy chứng nhận do sai lệch diện tích đất do đo đạc lại, Công chứng viên cần lưu ý điều kiện nào sau đây là bắt buộc?",
+    "a": "Diện tích đất sau khi đo đạc lại phải bằng diện tích ghi trên Giấy chứng nhận đã cấp",
+    "b": "Phải có sự xác nhận của toàn bộ hộ gia đình liền kề về ranh giới thửa đất",
+    "c": "Sai lệch diện tích đất không phải do hành vi lấn, chiếm đất",
+    "d": "Chủ sở hữu phải nộp lại toàn bộ hồ sơ gốc từ thời điểm được giao đất lần đầu",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 38 NĐ101/2024/NĐ-CP: việc cấp đổi do sai lệch diện tích đo đạc lại chỉ áp dụng khi sự sai lệch đó không do hành vi lấn, chiếm đất gây ra."
+  },
+  {
+    "question": "Theo NĐ101/2024/NĐ-CP, trường hợp nào sau đây KHÔNG được coi là căn cứ để cơ quan đăng ký đất đai thực hiện thủ tục đính chính Giấy chứng nhận đã cấp?",
+    "a": "Sai sót thông tin thửa đất do lỗi của cơ quan đăng ký đất đai",
+    "b": "Sai sót thông tin về chủ sở hữu do lỗi của người yêu cầu đăng ký",
+    "c": "Sai sót thông tin về địa chỉ thửa đất phát sinh sau khi cấp GCN",
+    "d": "Có sự sai lệch thông tin giữa hồ sơ địa chính và Giấy chứng nhận do lỗi của cơ quan nhà nước",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 45 NĐ101/2024/NĐ-CP: đính chính GCN chỉ áp dụng cho các sai sót thông tin (tên, thông tin thửa đất) có từ thời điểm cấp GCN, không áp dụng cho các thay đổi phát sinh sau đó."
+  },
+  {
+    "question": "Theo NĐ101/2024/NĐ-CP, hành vi nào sau đây là cơ sở để thu hồi Giấy chứng nhận đã cấp?",
+    "a": "Giấy chứng nhận bị rách, hư hỏng trong quá trình sử dụng",
+    "b": "Giấy chứng nhận được cấp không đúng thẩm quyền, không đúng đối tượng sử dụng đất hoặc không đúng diện tích đất",
+    "c": "Người sử dụng đất thay đổi địa chỉ trên Giấy chứng nhận",
+    "d": "Giấy chứng nhận có sai sót về thông tin cá nhân",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 47 NĐ101/2024/NĐ-CP: Các trường hợp thu hồi Giấy chứng nhận đã cấp bao gồm trường hợp cấp không đúng thẩm quyền, không đúng đối tượng, không đúng diện tích..."
+  },
+  {
+    "question": "Theo NĐ101/2024/NĐ-CP, việc chỉnh lý biến động trên Giấy chứng nhận đã cấp được thực hiện trong trường hợp nào?",
+    "a": "Đăng ký thay đổi thông tin về người sử dụng đất, tài sản gắn liền với đất",
+    "b": "Cấp mới Giấy chứng nhận cho toàn bộ diện tích",
+    "c": "Khi cơ quan nhà nước thay đổi địa giới hành chính",
+    "d": "Chỉ thực hiện khi có yêu cầu từ Tòa án",
+    "answer": "a",
+    "explanation": "Căn cứ Điều 30 NĐ101/2024/NĐ-CP: Việc chỉnh lý nội dung biến động trên Giấy chứng nhận đã cấp được thực hiện khi người sử dụng đất, chủ sở hữu tài sản gắn liền với đất thực hiện đăng ký biến động theo quy định."
+  },
+  {
+    "question": "Theo NĐ101/2024/NĐ-CP, trường hợp thửa đất có nhiều thành viên hộ gia đình cùng sử dụng, khi chuyển nhượng, yêu cầu về chữ ký trên hợp đồng là gì?",
+    "a": "Chỉ cần chữ ký của người đại diện đứng tên trên Giấy chứng nhận",
+    "b": "Phải có chữ ký của tất cả các thành viên hộ gia đình có chung quyền sử dụng đất tại thời điểm được Nhà nước giao đất",
+    "c": "Chữ ký của chủ hộ gia đình là đủ",
+    "d": "Chữ ký của người đại diện theo pháp luật của hộ gia đình",
+    "answer": "b",
+    "explanation": "Căn cứ Khoản 19 Điều 30 NĐ101/2024/NĐ-CP: Khi thực hiện quyền đối với đất là tài sản của hộ gia đình thì phải được tất cả các thành viên có chung quyền sử dụng đất đồng ý bằng văn bản có công chứng hoặc chứng thực."
+  },
+  {
+    "question": "Theo NĐ101/2024/NĐ-CP, trường hợp nào sau đây KHÔNG thuộc diện phải đăng ký biến động đất đai?",
+    "a": "Thay đổi hình thức sử dụng đất từ thuê đất trả tiền hằng năm sang trả tiền một lần",
+    "b": "Người sử dụng đất đổi tên do thay đổi địa giới hành chính",
+    "c": "Thay đổi diện tích đất sau khi đã đo đạc lại mà ranh giới thửa đất không thay đổi",
+    "d": "Thay đổi quyền sử dụng đất do thừa kế theo di chúc",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 30 NĐ101/2024/NĐ-CP: Việc thay đổi thông tin về địa giới hành chính do cơ quan nhà nước thực hiện thuộc trường hợp chỉnh lý bản đồ, hồ sơ địa chính, không phải là thủ tục đăng ký biến động do người sử dụng đất thực hiện."
+  },
+  {
+    "question": "Theo NĐ101/2024/NĐ-CP, khi thực hiện thủ tục tách thửa, nếu cơ quan đăng ký đất đai phát hiện ranh giới thửa đất có tranh chấp thì xử lý như thế nào?",
+    "a": "Tiếp tục giải quyết và ghi chú tranh chấp lên GCN mới",
+    "b": "Dừng giải quyết và hướng dẫn người sử dụng đất giải quyết tranh chấp trước",
+    "c": "Yêu cầu Tòa án giải quyết ngay lập tức",
+    "d": "Tách thửa theo yêu cầu của người sử dụng đất vì quyền tự định đoạt tài sản",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 7 NĐ101/2024/NĐ-CP: Việc tách thửa chỉ được thực hiện đối với thửa đất đủ điều kiện pháp lý. Trường hợp có tranh chấp, thửa đất không đủ điều kiện để tách thửa cho đến khi tranh chấp được giải quyết."
+  },
+  {
+    "question": "Theo NĐ101/2024/NĐ-CP, trường hợp hộ gia đình muốn thực hiện chuyển quyền đối với đất nông nghiệp, việc xác định thành viên có chung quyền sử dụng đất phải dựa trên văn bản nào sau đây?",
+    "a": "Sổ hộ khẩu của gia đình",
+    "b": "Văn bản xác nhận của UBND xã về thành viên gia đình",
+    "c": "Văn bản thỏa thuận của các thành viên có chung quyền sử dụng đất tại thời điểm được Nhà nước giao đất",
+    "d": "Danh sách cử tri của gia đình tại địa phương",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 19 Điều 30 NĐ101/2024/NĐ-CP: Khi thực hiện quyền đối với đất là tài sản của hộ gia đình, phải có văn bản thỏa thuận của các thành viên có chung quyền sử dụng đất tại thời điểm được Nhà nước giao/công nhận quyền, văn bản này phải được công chứng hoặc chứng thực."
+  },
+  {
+    "question": "Theo NĐ101/2024/NĐ-CP, việc cấp Giấy chứng nhận cho người nhận chuyển quyền sử dụng đất trong trường hợp đã có hợp đồng công chứng nhưng chưa sang tên được thực hiện như thế nào?",
+    "a": "Cơ quan đăng ký đất đai tự động cập nhật tên trên GCN cũ",
+    "b": "Thực hiện đăng ký biến động và cấp GCN mới hoặc cập nhật vào GCN đã cấp theo yêu cầu",
+    "c": "Phải hủy hợp đồng cũ và ký lại hợp đồng mới",
+    "d": "Không được cấp GCN vì thời hạn hợp đồng đã quá lâu",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 30 NĐ101/2024/NĐ-CP: Việc đăng ký biến động là cơ sở pháp lý để cập nhật thông tin chủ sở hữu mới trên hệ thống địa chính và chỉnh lý hoặc cấp mới GCN."
+  },
+  {
+    "question": "Theo NĐ101/2024/NĐ-CP, khi có sự thay đổi về tài sản gắn liền với đất (như xây thêm công trình) trên thửa đất đã có GCN, người sử dụng đất phải làm gì?",
+    "a": "Không cần làm gì cho đến khi chuyển nhượng",
+    "b": "Thực hiện đăng ký biến động tài sản gắn liền với đất",
+    "c": "Xin cấp đổi Giấy chứng nhận ngay lập tức",
+    "d": "Báo cáo với cơ quan quản lý đô thị, không cần báo cơ quan đất đai",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 30 NĐ101/2024/NĐ-CP: Việc thay đổi, bổ sung tài sản gắn liền với đất là một nội dung của đăng ký biến động cần phải thực hiện để cập nhật vào hồ sơ địa chính và GCN."
+  },
+  {
+    "question": "Theo NĐ101/2024/NĐ-CP, cơ quan nào có thẩm quyền cao nhất trong việc thẩm định nội dung kỹ thuật để xây dựng hệ thống thông tin đất đai?",
+    "a": "UBND cấp tỉnh",
+    "b": "Cơ quan có chức năng quản lý đất đai cấp tỉnh",
+    "c": "Chi nhánh Văn phòng đăng ký đất đai",
+    "d": "Bộ Tài nguyên và Môi trường",
+    "answer": "d",
+    "explanation": "Căn cứ các quy định chung trong NĐ101/2024/NĐ-CP về Hệ thống thông tin đất đai: Bộ Tài nguyên và Môi trường là cơ quan chịu trách nhiệm về kỹ thuật và chuẩn hóa dữ liệu quốc gia về đất đai."
+  },
+{
+    "question": "Theo NĐ101/2024/NĐ-CP, trường hợp nào KHÔNG phải cấp đổi Giấy chứng nhận?",
+    "a": "Thay đổi thông tin người sử dụng đất",
+    "b": "GCN bị hư hỏng",
+    "c": "Người dân tự ý lấn chiếm thêm đất",
+    "d": "Sai lệch diện tích do đo đạc lại",
+    "answer": "c",
+    "explanation": "Theo Điều 38 NĐ101/2024/NĐ-CP, lấn chiếm đất không thuộc trường hợp cấp đổi mà là vi phạm pháp luật đất đai."
+  },
+{
+    "question": "Theo NĐ101/2024/NĐ-CP, hồ sơ đăng ký biến động không hợp lệ thì xử lý thế nào?",
+    "a": "Chuyển sang cấp xã xử lý",
+    "b": "Trả hồ sơ trong 03 ngày làm việc",
+    "c": "Giữ hồ sơ để bổ sung không thời hạn",
+    "d": "Tự động từ chối sau 10 ngày",
+    "answer": "b",
+    "explanation": "Theo Điều 30 NĐ101/2024/NĐ-CP, hồ sơ không hợp lệ phải trả lại trong 03 ngày làm việc."
+  },
+{
+    "question": "Theo NĐ101/2024/NĐ-CP, trường hợp Giấy chứng nhận bị mất thì giải quyết thế nào?",
+    "a": "Cấp đổi ngay",
+    "b": "Thu hồi GCN cũ",
+    "c": "Cấp lại Giấy chứng nhận",
+    "d": "Hủy quyền sử dụng đất",
+    "answer": "c",
+    "explanation": "Theo Điều 38 NĐ101/2024/NĐ-CP, mất GCN thuộc trường hợp cấp lại."
+  },
+{
+    "question": "Theo NĐ101/2024/NĐ-CP, việc thu hồi Giấy chứng nhận được thực hiện khi nào?",
+    "a": "Người dân không còn nhu cầu sử dụng đất",
+    "b": "GCN cấp không đúng thẩm quyền",
+    "c": "Đất bị giảm giá trị",
+    "d": "Người dân không nộp thuế",
+    "answer": "b",
+    "explanation": "Theo Điều 46 NĐ101/2024/NĐ-CP, GCN cấp không đúng thẩm quyền phải thu hồi."
+  },
+
+  {
+    "question": "Theo NĐ101/2024/NĐ-CP, trong thủ tục đăng ký biến động, thời gian xác minh nghĩa vụ tài chính có tính vào thời hạn giải quyết không?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Tùy từng địa phương",
+    "d": "Do người dân quyết định",
+    "answer": "b",
+    "explanation": "Theo Điều 30 NĐ101/2024/NĐ-CP, thời gian xác định nghĩa vụ tài chính không tính vào thời hạn giải quyết."
+  },
+{
+    "question": "Theo NĐ101/2024/NĐ-CP, trường hợp Giấy chứng nhận bị rách, hư hỏng thì thực hiện thủ tục nào?",
+    "a": "Đăng ký biến động",
+    "b": "Cấp đổi Giấy chứng nhận",
+    "c": "Thu hồi Giấy chứng nhận",
+    "d": "Hủy Giấy chứng nhận",
+    "answer": "b",
+    "explanation": "Theo Điều 38 NĐ101/2024/NĐ-CP, GCN bị rách, hư hỏng thuộc trường hợp cấp đổi GCN."
+  },
+  {
+    "question": "Theo NĐ101/2024/NĐ-CP, trường hợp phát hiện Giấy chứng nhận có sai sót do cơ quan cấp thì xử lý như thế nào?",
+    "a": "Cấp lại Giấy chứng nhận mới",
+    "b": "Đính chính Giấy chứng nhận",
+    "c": "Thu hồi Giấy chứng nhận",
+    "d": "Hủy hợp đồng liên quan",
+    "answer": "b",
+    "explanation": "Theo Điều 45 NĐ101/2024/NĐ-CP, sai sót do cơ quan có thẩm quyền thì thực hiện thủ tục đính chính GCN."
+  },
+  {
+    "question": "Theo NĐ101/2024/NĐ-CP, trường hợp nào phải thu hồi Giấy chứng nhận?",
+    "a": "GCN bị rách",
+    "b": "GCN cấp sai đối tượng sử dụng đất",
+    "c": "Người dân có nhu cầu đổi GCN",
+    "d": "Sai sót nhỏ về chính tả",
+    "answer": "b",
+    "explanation": "Theo Điều 46 NĐ101/2024/NĐ-CP, GCN cấp sai đối tượng là trường hợp phải thu hồi."
+  },
+  {
+    "question": "Theo NĐ101/2024/NĐ-CP, thời gian thực hiện thủ tục đăng ký biến động đất đai thông thường là bao lâu?",
+    "a": "05 ngày làm việc",
+    "b": "07 ngày làm việc",
+    "c": "10 ngày làm việc",
+    "d": "15 ngày làm việc",
+    "answer": "c",
+    "explanation": "Theo Điều 30 NĐ101/2024/NĐ-CP, thời hạn đăng ký biến động thông thường là không quá 10 ngày làm việc."
+  },
+    {
     "question": "Theo Luật Đất Đai năm 2024, trường hợp giao đất, cho thuê đất theo Luật Đất đai năm 1993 và Luật Đất đai năm 2003 mà được bàn giao đất trên thực tế trước ngày 01/01/2005 thì giá đất để tính tiền sử dụng đất được xác định như thế nào?",
     "a": "Áp dụng bảng giá đất tại thời điểm bàn giao đất trên thực tế",
     "b": "Áp dụng bảng giá đất năm 2005 do UBND cấp tỉnh ban hành",
