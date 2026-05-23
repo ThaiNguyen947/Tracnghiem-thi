@@ -1,4 +1,139 @@
 [
+   {
+    "question": "Theo Nghị định 103/2024/NĐ-CP, giấy tờ nào sau đây có thể được sử dụng để chứng minh đã nộp tiền sử dụng đất khi cấp Giấy chứng nhận quyền sử dụng đất?",
+    "a": "Biên lai, phiếu thu, hóa đơn thu tiền để được sử dụng đất",
+    "b": "Giấy xác nhận tạm trú",
+    "c": "Hợp đồng vay tiền cá nhân",
+    "d": "Giấy đăng ký kết hôn",
+    "answer": "a",
+    "explanation": "Nghị định 103/2024/NĐ-CP công nhận biên lai, phiếu thu, hóa đơn thu tiền để được sử dụng đất là căn cứ chứng minh đã hoàn thành nghĩa vụ tài chính."
+  },
+  {
+    "question": "Theo Nghị định 103/2024/NĐ-CP, bản sao hồ sơ lưu trữ tại UBND cấp xã xác nhận việc đã nộp tiền sử dụng đất có giá trị như thế nào?",
+    "a": "Không có giá trị pháp lý",
+    "b": "Chỉ dùng tham khảo",
+    "c": "Được công nhận là giấy tờ chứng minh",
+    "d": "Chỉ dùng trong tố tụng",
+    "answer": "c",
+    "explanation": "Nghị định cho phép sử dụng bản xác nhận hoặc sao y từ hồ sơ lưu trữ để chứng minh việc đã nộp tiền sử dụng đất."
+  },
+  {
+    "question": "Theo Nghị định 103/2024/NĐ-CP, trường hợp cấp Giấy chứng nhận dựa trên bản án của Tòa án đã xác định nghĩa vụ tài chính về đất thì thực hiện như thế nào?",
+    "a": "Phải xác định lại toàn bộ tiền sử dụng đất",
+    "b": "Thực hiện theo đúng nội dung bản án",
+    "c": "UBND xã tự quyết định lại",
+    "d": "Không được cấp Giấy chứng nhận",
+    "answer": "b",
+    "explanation": "Điều 9 Nghị định 103/2024/NĐ-CP quy định nếu bản án hoặc quyết định đã xác định nghĩa vụ tài chính thì thực hiện theo nội dung đó."
+  },
+  {
+    "question": "Theo Nghị định 103/2024/NĐ-CP, loại văn bản nào sau đây là căn cứ xác định nghĩa vụ tài chính về đất đai?",
+    "a": "Phán quyết của Trọng tài thương mại",
+    "b": "Giấy mời họp tổ dân phố",
+    "c": "Giấy chứng nhận độc thân",
+    "d": "Thông báo lưu trú",
+    "answer": "a",
+    "explanation": "Nghị định công nhận phán quyết của Trọng tài thương mại là căn cứ xử lý nghĩa vụ tài chính đất đai."
+  },
+  {
+    "question": "Theo Nghị định 103/2024/NĐ-CP, khi bán lại nhà ở xã hội là nhà ở riêng lẻ sau 5 năm thì phải thực hiện nghĩa vụ tài chính nào?",
+    "a": "Nộp 20% tiền sử dụng đất",
+    "b": "Nộp 30% tiền sử dụng đất",
+    "c": "Nộp 50% tiền sử dụng đất",
+    "d": "Không phải nộp",
+    "answer": "c",
+    "explanation": "Điều 6 Nghị định 103/2024/NĐ-CP quy định phải nộp 50% tiền sử dụng đất khi bán lại nhà ở xã hội là nhà ở riêng lẻ sau 5 năm."
+  },
+  {
+    "question": "Theo Nghị định 103/2024/NĐ-CP, công chứng viên cần kiểm tra nội dung nào khi công chứng chuyển nhượng nhà ở xã hội?",
+    "a": "Màu sơn của căn nhà",
+    "b": "Nghĩa vụ tài chính đã hoàn thành chưa",
+    "c": "Nghề nghiệp của hàng xóm",
+    "d": "Thu nhập của người mua",
+    "answer": "b",
+    "explanation": "Công chứng viên cần kiểm tra việc hoàn thành nghĩa vụ tài chính để xác định điều kiện chuyển nhượng hợp pháp."
+  },
+  {
+    "question": "Theo Nghị định 103/2024/NĐ-CP, quy định phân bổ tiền sử dụng đất trong nhà chung cư có ý nghĩa gì đối với công chứng?",
+    "a": "Xác định phần sở hữu riêng và chung",
+    "b": "Xác định tuổi của công trình",
+    "c": "Xác định số tầng xây dựng",
+    "d": "Xác định giá điện sinh hoạt",
+    "answer": "a",
+    "explanation": "Việc phân bổ tiền sử dụng đất liên quan trực tiếp đến xác định quyền sở hữu riêng và sử dụng chung trong chung cư."
+  },
+  {
+    "question": "Theo Nghị định 103/2024/NĐ-CP, giấy tờ do UBND cấp xã giao đất không đúng thẩm quyền nhưng có thu tiền có được xem xét làm căn cứ chứng minh nghĩa vụ tài chính không?",
+    "a": "Không bao giờ",
+    "b": "Được xem xét công nhận",
+    "c": "Chỉ khi có xác nhận công an",
+    "d": "Chỉ áp dụng với doanh nghiệp",
+    "answer": "b",
+    "explanation": "Nghị định công nhận một số giấy tờ giao đất không đúng thẩm quyền có thu tiền là căn cứ xem xét nghĩa vụ tài chính."
+  },
+  {
+    "question": "Theo Nghị định 103/2024/NĐ-CP, biên lai theo Thông tư 60/TC-TCT năm 1993 được sử dụng nhằm mục đích gì?",
+    "a": "Chứng minh việc đăng ký kết hôn",
+    "b": "Chứng minh đã nộp tiền sử dụng đất",
+    "c": "Chứng minh việc cư trú",
+    "d": "Chứng minh việc đóng BHXH",
+    "answer": "b",
+    "explanation": "Thông tư 60/TC-TCT liên quan đến bán nhà thuộc sở hữu nhà nước và cấp quyền sử dụng đất."
+  },
+  {
+    "question": "Theo Nghị định 103/2024/NĐ-CP, công chứng viên cần đặc biệt lưu ý điều gì khi công chứng giao dịch liên quan đến đất có nguồn gốc giao trái thẩm quyền?",
+    "a": "Kiểm tra nghĩa vụ tài chính và giấy tờ chứng minh đã nộp tiền",
+    "b": "Kiểm tra hộ khẩu của hàng xóm",
+    "c": "Kiểm tra lịch sử tín dụng",
+    "d": "Kiểm tra biển số xe của chủ đất",
+    "answer": "a",
+    "explanation": "Đây là dạng tình huống phổ biến trong thực tiễn công chứng liên quan nguồn gốc đất và nghĩa vụ tài chính."
+  },
+  {
+    "question": "Theo Nghị định 103/2024/NĐ-CP, việc đã có giấy tờ sử dụng đất có đồng nghĩa với việc đã hoàn thành nghĩa vụ tài chính hay không?",
+    "a": "Luôn luôn",
+    "b": "Không đồng nghĩa",
+    "c": "Chỉ áp dụng với đất nông nghiệp",
+    "d": "Chỉ áp dụng với tổ chức",
+    "answer": "b",
+    "explanation": "Có giấy tờ sử dụng đất không đồng nghĩa đã hoàn thành nghĩa vụ tài chính về đất đai."
+  },
+  {
+    "question": "Theo Nghị định 103/2024/NĐ-CP, công chứng viên cần kiểm tra nội dung nào khi hồ sơ đất đai có bản án của Tòa án?",
+    "a": "Bản án đã xác định nghĩa vụ tài chính chưa",
+    "b": "Người ký bản án sinh năm bao nhiêu",
+    "c": "Có đóng dấu treo hay không",
+    "d": "Tòa án ở cấp nào",
+    "answer": "a",
+    "explanation": "Đây là yếu tố quan trọng để xác định còn phát sinh nghĩa vụ tài chính hay không."
+  },
+  {
+    "question": "Theo Nghị định 103/2024/NĐ-CP, giấy tờ thu tiền đền bù thiệt hại đất nông nghiệp theo Quyết định 186/HĐBT năm 1990 có ý nghĩa gì?",
+    "a": "Là căn cứ chứng minh đã nộp tiền để được sử dụng đất",
+    "b": "Là giấy phép xây dựng",
+    "c": "Là giấy chứng nhận kết hôn",
+    "d": "Là giấy xác nhận cư trú",
+    "answer": "a",
+    "explanation": "Nghị định công nhận loại giấy tờ này là căn cứ chứng minh nghĩa vụ tài chính."
+  },
+  {
+    "question": "Theo Nghị định 103/2024/NĐ-CP, trường hợp nào sau đây công chứng viên cần đặc biệt chú ý nghĩa vụ tài chính?",
+    "a": "Chuyển nhượng đất có nguồn gốc giao trái thẩm quyền",
+    "b": "Đăng ký khai sinh",
+    "c": "Chứng thực chữ ký",
+    "d": "Xác nhận sơ yếu lý lịch",
+    "answer": "a",
+    "explanation": "Đất giao trái thẩm quyền thường phát sinh vấn đề về nguồn gốc và nghĩa vụ tài chính."
+  },
+  {
+    "question": "Theo Nghị định 103/2024/NĐ-CP, việc phân bổ tiền sử dụng đất cho căn hộ chung cư liên quan trực tiếp đến vấn đề nào?",
+    "a": "Quyền sở hữu riêng và phần sử dụng chung",
+    "b": "Đăng ký thường trú",
+    "c": "Chi phí điện nước",
+    "d": "Thuế thu nhập cá nhân",
+    "answer": "a",
+    "explanation": "Đây là nội dung quan trọng khi công chứng giao dịch căn hộ chung cư."
+  },
    {"question": "Theo NĐ 102/2024/NĐ-CP, đất trồng cây hằng năm bao gồm loại đất nào sau đây?",
     "a": "Đất trồng cây lâu năm và đất rừng sản xuất",
     "b": "Đất trồng lúa và đất trồng cây hằng năm khác",
