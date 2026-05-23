@@ -1,5 +1,419 @@
 [
    {
+    "question": "Theo Luật Nhà ở 2023, việc xác định kỳ Chiến lược phát triển nhà ở quốc gia phải tuân thủ quy định nào về thời hạn?",
+    "a": "Kỳ chiến lược được xác định là 05 năm để đồng bộ với kế hoạch phát triển kinh tế - xã hội",
+    "b": "Kỳ chiến lược được xác định là 10 năm",
+    "c": "Kỳ chiến lược được xác định là 15 năm để đảm bảo tính ổn định của chính sách",
+    "d": "Kỳ chiến lược không cố định mà do Thủ tướng quyết định tùy tình hình thực tế",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 25 Luật Nhà ở 2023 quy định kỳ Chiến lược phát triển nhà ở quốc gia là 10 năm."
+  },
+  {
+    "question": "Căn cứ theo Luật Nhà ở 2023, quy trình xây dựng và phê duyệt Chiến lược phát triển nhà ở quốc gia được phân định thẩm quyền như thế nào?",
+    "a": "Bộ Xây dựng chủ trì xây dựng, trình Quốc hội phê duyệt",
+    "b": "Bộ Xây dựng chủ trì xây dựng, trình Chính phủ phê duyệt",
+    "c": "Bộ Xây dựng chủ trì xây dựng, trình Thủ tướng Chính phủ phê duyệt",
+    "d": "Văn phòng Chính phủ chủ trì xây dựng và Thủ tướng Chính phủ phê duyệt",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 25 Luật Nhà ở 2023 quy định Bộ Xây dựng chủ trì xây dựng Chiến lược phát triển nhà ở quốc gia trình Thủ tướng Chính phủ phê duyệt."
+  },
+  {
+    "question": "Thẩm quyền phê duyệt Chiến lược phát triển nhà ở quốc gia thuộc về cơ quan, chức danh nào?",
+    "a": "Quốc hội",
+    "b": "Chính phủ",
+    "c": "Thủ tướng Chính phủ",
+    "d": "Bộ trưởng Bộ Xây dựng",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 25 Luật Nhà ở 2023 quy định Chiến lược phát triển nhà ở quốc gia do Thủ tướng Chính phủ phê duyệt."
+  },
+  {
+    "question": "Theo quy định tại Luật Nhà ở 2023, kỳ chương trình phát triển nhà ở cấp tỉnh được quy định như thế nào để đảm bảo tính đồng bộ?",
+    "a": "Kỳ chương trình là 05 năm",
+    "b": "Kỳ chương trình là 10 năm",
+    "c": "Kỳ chương trình là 15 năm",
+    "d": "Kỳ chương trình là 20 năm",
+    "answer": "b",
+    "explanation": "Điểm a khoản 4 Điều 26 Luật Nhà ở 2023 quy định kỳ chương trình phát triển nhà ở cấp tỉnh là 10 năm."
+  },
+  {
+    "question": "Kỳ kế hoạch phát triển nhà ở cấp tỉnh được Luật Nhà ở 2023 quy định là bao nhiêu năm?",
+    "a": "03 năm",
+    "b": "05 năm",
+    "c": "10 năm",
+    "d": "15 năm",
+    "answer": "b",
+    "explanation": "Điểm b khoản 4 Điều 26 Luật Nhà ở 2023 quy định kỳ kế hoạch phát triển nhà ở cấp tỉnh là 05 năm."
+  },
+  {
+    "question": "Căn cứ theo quy định tại Điều 26 Luật Nhà ở 2023, văn bản/tài liệu nào sau đây KHÔNG phải là căn cứ pháp lý trực tiếp để xây dựng chương trình phát triển nhà ở cấp tỉnh?",
+    "a": "Chiến lược phát triển nhà ở quốc gia",
+    "b": "Quy hoạch sử dụng đất cấp tỉnh",
+    "c": "Điều lệ Đảng của địa phương",
+    "d": "Điều kiện phát triển kinh tế - xã hội của địa phương",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 26 Luật Nhà ở 2023 không quy định Điều lệ Đảng là căn cứ xây dựng chương trình phát triển nhà ở cấp tỉnh."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chương trình phát triển nhà ở cấp tỉnh đóng vai trò gì đối với kế hoạch phát triển nhà ở cấp tỉnh?",
+    "a": "Là chương trình song song, không liên quan đến kế hoạch",
+    "b": "Là căn cứ pháp lý để xây dựng kế hoạch phát triển nhà ở cấp tỉnh",
+    "c": "Là văn bản hướng dẫn thực hiện kế hoạch",
+    "d": "Là văn bản thay thế kế hoạch khi có tình huống khẩn cấp",
+    "answer": "b",
+    "explanation": "Điểm a khoản 2 Điều 26 Luật Nhà ở 2023 quy định chương trình phát triển nhà ở cấp tỉnh là căn cứ xây dựng kế hoạch phát triển nhà ở cấp tỉnh."
+  },
+  {
+    "question": "Cơ quan nào có thẩm quyền tổ chức xây dựng chương trình phát triển nhà ở cấp tỉnh theo Luật Nhà ở 2023?",
+    "a": "Sở Xây dựng",
+    "b": "Ủy ban nhân dân cấp huyện",
+    "c": "Ủy ban nhân dân cấp tỉnh",
+    "d": "Hội đồng nhân dân cấp tỉnh",
+    "answer": "c",
+    "explanation": "Điểm a khoản 1 Điều 29 Luật Nhà ở 2023 quy định UBND cấp tỉnh tổ chức xây dựng chương trình phát triển nhà ở cấp tỉnh."
+  },
+  {
+    "question": "Trình tự phê duyệt chương trình phát triển nhà ở cấp tỉnh theo Luật Nhà ở 2023 yêu cầu phải thông qua cơ quan nào trước khi ban hành?",
+    "a": "Bộ Xây dựng",
+    "b": "Hội đồng nhân dân cùng cấp",
+    "c": "Thường trực Ủy ban nhân dân cấp tỉnh",
+    "d": "Ban chỉ đạo phát triển nhà ở cấp tỉnh",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 29 Luật Nhà ở 2023 quy định chương trình phát triển nhà ở cấp tỉnh phải trình Hội đồng nhân dân cùng cấp thông qua."
+  },
+  {
+    "question": "Sau khi chương trình phát triển nhà ở cấp tỉnh được Hội đồng nhân dân thông qua, cơ quan nào có thẩm quyền chính thức phê duyệt?",
+    "a": "Bộ Xây dựng",
+    "b": "Ủy ban nhân dân cấp tỉnh",
+    "c": "Chủ tịch Ủy ban nhân dân cấp tỉnh",
+    "d": "Sở Xây dựng",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 29 Luật Nhà ở 2023 quy định UBND cấp tỉnh phê duyệt chương trình phát triển nhà ở cấp tỉnh."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, sau khi phê duyệt chương trình, kế hoạch phát triển nhà ở cấp tỉnh, hình thức công khai bắt buộc là gì?",
+    "a": "Niêm yết tại trụ sở UBND các cấp",
+    "b": "Đăng tải trên Cổng thông tin điện tử của UBND cấp tỉnh",
+    "c": "Đăng tải trên báo in địa phương trong 03 kỳ liên tiếp",
+    "d": "Gửi văn bản thông báo đến tất cả các tổ chức, doanh nghiệp trên địa bàn",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 29 Luật Nhà ở 2023 quy định UBND cấp tỉnh phải công khai trên Cổng thông tin điện tử của UBND cấp tỉnh."
+  },
+  {
+    "question": "Nội dung nào sau đây là chỉ tiêu bắt buộc phải có trong chương trình phát triển nhà ở cấp tỉnh theo Luật Nhà ở 2023?",
+    "a": "Dự kiến diện tích đất để phát triển nhà ở xã hội",
+    "b": "Danh mục các doanh nghiệp được ưu tiên đầu tư",
+    "c": "Dự toán ngân sách chi tiết cho từng dự án",
+    "d": "Phương án thu hồi đất chi tiết từng hộ gia đình",
+    "answer": "a",
+    "explanation": "Điểm c khoản 1 Điều 27 Luật Nhà ở 2023 quy định dự kiến diện tích đất để phát triển nhà ở xã hội là nội dung của chương trình phát triển nhà ở cấp tỉnh."
+  },
+  {
+    "question": "Việc điều chỉnh chương trình phát triển nhà ở cấp tỉnh theo Luật Nhà ở 2023 chỉ được thực hiện trong trường hợp nào?",
+    "a": "Khi có yêu cầu từ chủ đầu tư dự án",
+    "b": "Khi có thay đổi về mục tiêu, chỉ tiêu, nội dung theo quy định tại Điều 27",
+    "c": "Khi thay đổi cơ cấu tổ chức của UBND cấp tỉnh",
+    "d": "Khi có sự thay đổi về giá vật liệu xây dựng trên thị trường",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 28 Luật Nhà ở 2023 quy định việc điều chỉnh được thực hiện khi có thay đổi một số nội dung theo Điều 27."
+  },
+  {
+    "question": "Khi thực hiện điều chỉnh chương trình hoặc kế hoạch phát triển nhà ở cấp tỉnh, quy định về kỳ chương trình/kế hoạch được xác định ra sao?",
+    "a": "Có thể rút ngắn hoặc kéo dài tùy theo tình hình thực tế",
+    "b": "Phải giữ nguyên kỳ chương trình, kế hoạch đã được phê duyệt",
+    "c": "Phải xác định lại kỳ mới kể từ thời điểm điều chỉnh",
+    "d": "Kỳ chương trình/kế hoạch tự động gia hạn thêm",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 28 Luật Nhà ở 2023 quy định phải giữ nguyên kỳ chương trình, kế hoạch đã được phê duyệt."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chỉ tiêu 'Diện tích nhà ở bình quân đầu người' được xác định thuộc nội dung nào?",
+    "a": "Nội dung của kế hoạch phát triển nhà ở cấp tỉnh",
+    "b": "Chỉ tiêu cơ bản trong Chiến lược phát triển nhà ở quốc gia",
+    "c": "Tiêu chuẩn kỹ thuật trong thiết kế nhà ở",
+    "d": "Chỉ tiêu phát triển kinh tế - xã hội hàng năm",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 25 Luật Nhà ở 2023 quy định diện tích nhà ở bình quân đầu người là chỉ tiêu cơ bản về phát triển nhà ở trong Chiến lược phát triển nhà ở quốc gia."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, dự án đầu tư xây dựng khu đô thị có nhà ở được định danh pháp lý thuộc hình thức nào?",
+    "a": "Phát triển nhà ở xã hội tập trung",
+    "b": "Phát triển nhà ở theo dự án đầu tư xây dựng nhà ở",
+    "c": "Phát triển hạ tầng kỹ thuật đô thị chuyên biệt",
+    "d": "Phát triển nhà ở cá nhân theo quy hoạch",
+    "answer": "b",
+    "explanation": "Điểm đ khoản 1 Điều 30 Luật Nhà ở 2023 quy định dự án đầu tư xây dựng khu đô thị có nhà ở là hình thức phát triển nhà ở theo dự án đầu tư xây dựng nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, dự án đầu tư xây dựng hạ tầng kỹ thuật khu nhà ở nhằm mục đích chuyển nhượng quyền sử dụng đất cho cá nhân tự xây dựng nhà ở thuộc hình thức nào?",
+    "a": "Hình thức chuyển nhượng đất nền không thuộc phạm vi điều chỉnh",
+    "b": "Hình thức phát triển nhà ở cá nhân riêng lẻ",
+    "c": "Hình thức phát triển nhà ở theo dự án đầu tư xây dựng nhà ở",
+    "d": "Hình thức dự án đầu tư hạ tầng kinh doanh dịch vụ",
+    "answer": "c",
+    "explanation": "Điểm d khoản 1 Điều 30 Luật Nhà ở 2023 quy định đây là hình thức phát triển nhà ở theo dự án đầu tư xây dựng nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, loại hình nào sau đây KHÔNG thuộc danh mục các loại hình nhà ở phát triển theo dự án đầu tư xây dựng nhà ở?",
+    "a": "Nhà ở thương mại trong dự án xây dựng mới",
+    "b": "Nhà ở xã hội trong dự án đầu tư hạ tầng",
+    "c": "Nhà ở do cá nhân tự xây dựng trên đất thổ cư ngoài phạm vi dự án",
+    "d": "Nhà ở công vụ thuộc dự án đầu tư xây dựng nhà ở",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 31 Luật Nhà ở 2023 liệt kê các loại hình nhà ở phát triển theo dự án. Nhà ở do cá nhân tự xây dựng riêng lẻ không thuộc danh mục này."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, căn hộ chung cư phải đảm bảo yêu cầu kỹ thuật nào?",
+    "a": "Phải đảm bảo tính khép kín và diện tích không thấp hơn quy chuẩn kỹ thuật quốc gia",
+    "b": "Phải có ít nhất 02 phòng ngủ và diện tích sàn tối thiểu 45m2",
+    "c": "Thiết kế căn hộ do chủ đầu tư toàn quyền quyết định theo nhu cầu thị trường",
+    "d": "Không nhất thiết phải khép kín nếu là loại hình studio cao cấp",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 31 Luật Nhà ở 2023 quy định căn hộ chung cư phải thiết kế, xây dựng khép kín và không thấp hơn diện tích theo quy chuẩn kỹ thuật quốc gia về nhà chung cư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc xác định diện tích đất dành cho phát triển nhà ở phải căn cứ vào đâu?",
+    "a": "Chỉ dựa vào chương trình phát triển nhà ở của cấp tỉnh",
+    "b": "Căn cứ vào kế hoạch kinh doanh của các doanh nghiệp trên địa bàn",
+    "c": "Các loại quy hoạch theo quy định của pháp luật có liên quan",
+    "d": "Dựa trên quyết định phê duyệt dự án đầu tư của cơ quan nhà nước",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 32 Luật Nhà ở 2023 quy định diện tích đất phát triển nhà ở phải được xác định trong các loại quy hoạch theo quy định pháp luật có liên quan."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc bố trí quỹ đất phát triển nhà ở phải đảm bảo tính đồng bộ với các yếu tố nào?",
+    "a": "Quy hoạch sử dụng đất, kế hoạch sử dụng đất và chương trình, kế hoạch phát triển nhà ở cấp tỉnh",
+    "b": "Chỉ tiêu phát triển kinh tế xã hội và chiến lược thu hút vốn đầu tư nước ngoài",
+    "c": "Quy hoạch xây dựng và tiến độ giải phóng mặt bằng của chủ đầu tư",
+    "d": "Nhu cầu nhà ở của cán bộ công nhân viên chức trên địa bàn",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 32 Luật Nhà ở 2023 quy định việc bố trí đất phát triển nhà ở phải phù hợp quy hoạch sử dụng đất, kế hoạch sử dụng đất và chương trình, kế hoạch phát triển nhà ở cấp tỉnh."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, dự án đầu tư xây dựng nhà ở phải đảm bảo tính phù hợp với các yếu tố nào?",
+    "a": "Khả năng tài chính của nhà thầu xây dựng",
+    "b": "Chương trình, kế hoạch phát triển nhà ở cấp tỉnh đã được phê duyệt",
+    "c": "Đề xuất quy hoạch chi tiết của chủ đầu tư",
+    "d": "Nhu cầu chuyển nhượng của người dân trong khu vực dự án",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 33 Luật Nhà ở 2023 quy định dự án đầu tư xây dựng nhà ở phải phù hợp với chương trình, kế hoạch phát triển nhà ở cấp tỉnh đã được phê duyệt."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, tên dự án đầu tư xây dựng nhà ở phải tuân thủ nguyên tắc nào?",
+    "a": "Phải đặt bằng tiếng nước ngoài để đảm bảo tính quốc tế",
+    "b": "Ưu tiên tên tiếng Việt, nếu có tiếng nước ngoài thì phải ghi tiếng Việt trước",
+    "c": "Được phép chọn tên tiếng Việt hoặc tiếng nước ngoài tùy ý",
+    "d": "Tên dự án phải gắn liền với tên của chủ đầu tư",
+    "answer": "b",
+    "explanation": "Điểm c khoản 1 Điều 33 Luật Nhà ở 2023 quy định tên dự án phải bằng tiếng Việt; nếu có tên tiếng nước ngoài thì phải ghi tiếng Việt trước."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nếu dự án cần điều chỉnh nội dung nhưng phát sinh thay đổi thuộc phạm vi điều chỉnh chủ trương đầu tư thì chủ đầu tư phải làm gì?",
+    "a": "Điều chỉnh nội dung dự án ngay để kịp tiến độ",
+    "b": "Xin ý kiến bằng văn bản của cơ quan quản lý nhà ở trước",
+    "c": "Thực hiện thủ tục điều chỉnh chủ trương đầu tư trước khi điều chỉnh nội dung dự án",
+    "d": "Điều chỉnh đồng thời cả hai thủ tục để tiết kiệm thời gian",
+    "answer": "c",
+    "explanation": "Điểm d khoản 1 Điều 33 Luật Nhà ở 2023 quy định chủ đầu tư phải thực hiện thủ tục điều chỉnh chủ trương đầu tư trước khi điều chỉnh nội dung dự án."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, đối với dự án đầu tư xây dựng nhà ở có mục đích sử dụng hỗn hợp, chủ đầu tư có nghĩa vụ gì trong chủ trương đầu tư?",
+    "a": "Xác định rõ mục đích để ở và mục đích sử dụng khác",
+    "b": "Tính toán chỉ tiêu lợi nhuận dự kiến cho từng phân khu",
+    "c": "Đề xuất đơn vị quản lý vận hành tòa nhà ngay từ khâu đầu tư",
+    "d": "Công khai mức phí dịch vụ áp dụng cho phần diện tích hỗn hợp",
+    "answer": "a",
+    "explanation": "Điểm a khoản 2 Điều 33 Luật Nhà ở 2023 quy định phải xác định rõ mục đích để ở và mục đích sử dụng khác trong chủ trương đầu tư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, yêu cầu hạ tầng đối với dự án đầu tư xây dựng khu nhà ở là gì?",
+    "a": "Chỉ cần đảm bảo hạ tầng kỹ thuật đạt chuẩn",
+    "b": "Chỉ cần đảm bảo hạ tầng xã hội phục vụ cư dân",
+    "c": "Phải có đầy đủ hệ thống hạ tầng kỹ thuật và hạ tầng xã hội",
+    "d": "Ưu tiên hạ tầng kỹ thuật, hạ tầng xã hội được xây dựng sau khi dân về ở",
+    "answer": "c",
+    "explanation": "Điểm a khoản 3 Điều 33 Luật Nhà ở 2023 quy định dự án phải có đầy đủ hệ thống hạ tầng kỹ thuật và hạ tầng xã hội."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cơ quan nào chịu trách nhiệm công khai danh mục dự án đầu tư xây dựng nhà ở đang triển khai?",
+    "a": "UBND cấp tỉnh và cơ quan quản lý nhà ở cấp tỉnh",
+    "b": "Sở Quy hoạch - Kiến trúc",
+    "c": "Ban quản lý các khu công nghiệp",
+    "d": "Các cơ quan báo chí địa phương",
+    "answer": "a",
+    "explanation": "Khoản 5 Điều 33 Luật Nhà ở 2023 quy định danh mục dự án phải được công khai trên Cổng thông tin điện tử của UBND cấp tỉnh và cơ quan quản lý nhà ở cấp tỉnh."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, quy trình thực hiện dự án đầu tư xây dựng nhà ở gồm các giai đoạn nào?",
+    "a": "Chuẩn bị dự án, thực hiện dự án, kết thúc xây dựng và đưa công trình vào khai thác sử dụng",
+    "b": "Lập quy hoạch, giải phóng mặt bằng, nghiệm thu công trình",
+    "c": "Chuẩn bị dự án, nghiệm thu công trình, bàn giao nhà ở",
+    "d": "Phê duyệt chủ trương, lựa chọn nhà thầu, quyết toán dự án",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 34 Luật Nhà ở 2023 quy định rõ 3 giai đoạn của dự án đầu tư xây dựng nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, điều kiện về năng lực của chủ đầu tư dự án đầu tư xây dựng nhà ở bao gồm những yếu tố nào?",
+    "a": "Vốn chủ sở hữu, quyền sử dụng đất, năng lực và kinh nghiệm thực hiện dự án",
+    "b": "Chỉ cần có năng lực tài chính và kinh nghiệm kinh doanh bất động sản",
+    "c": "Chỉ cần có quyền sử dụng đất hợp pháp và giấy phép xây dựng",
+    "d": "Có uy tín trên thị trường bất động sản và sự chấp thuận của cổ đông",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 35 Luật Nhà ở 2023 quy định các điều kiện chủ chốt đối với chủ đầu tư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chủ thể nào sau đây có thể trở thành chủ đầu tư dự án nhà ở nếu đáp ứng đầy đủ điều kiện?",
+    "a": "Doanh nghiệp kinh doanh bất động sản, hợp tác xã, liên hiệp hợp tác xã",
+    "b": "Chỉ doanh nghiệp kinh doanh bất động sản có vốn nước ngoài",
+    "c": "Chỉ các đơn vị sự nghiệp công lập có chức năng kinh doanh",
+    "d": "Tất cả các tổ chức cá nhân có vốn đầu tư",
+    "answer": "a",
+    "explanation": "Điểm a khoản 1 Điều 35 Luật Nhà ở 2023 xác định các chủ thể được phép làm chủ đầu tư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc lựa chọn chủ đầu tư dự án nhà ở phải phù hợp với hình thức nào?",
+    "a": "Phù hợp với kế hoạch đầu tư công trung hạn của địa phương",
+    "b": "Phù hợp với chương trình, kế hoạch phát triển nhà ở cấp tỉnh đã được phê duyệt",
+    "c": "Phù hợp với chiến lược phát triển kinh tế của vùng lãnh thổ",
+    "d": "Phù hợp với nhu cầu của người dân khu vực dự án",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 33 Luật Nhà ở 2023 khẳng định tính phù hợp với chương trình, kế hoạch phát triển nhà ở cấp tỉnh."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, các dự án sử dụng đất kết hợp đa mục đích mà trong đó có dành một phần diện tích đất để xây dựng nhà ở được phân loại vào hình thức phát triển nào?",
+    "a": "Phát triển nhà ở theo dự án đầu tư xây dựng nhà ở",
+    "b": "Phát triển nhà ở cá nhân riêng lẻ theo quy hoạch",
+    "c": "Dự án đầu tư công phục vụ mục đích an sinh xã hội",
+    "d": "Dự án khai thác quỹ đất hỗn hợp không thuộc phạm vi điều chỉnh",
+    "answer": "a",
+    "explanation": "Điểm e khoản 1 Điều 30 Luật Nhà ở 2023 quy định đây là hình thức phát triển nhà ở theo dự án đầu tư xây dựng nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, loại hình nhà ở hỗn hợp được định vị trong hệ thống pháp luật là gì?",
+    "a": "Loại hình nhà ở bị hạn chế xây dựng trong các khu đô thị mới",
+    "b": "Loại hình nhà ở phát triển theo dự án đầu tư xây dựng nhà ở",
+    "c": "Loại hình nhà ở chỉ được phép triển khai bởi chủ đầu tư là doanh nghiệp nhà nước",
+    "d": "Loại hình nhà ở không thuộc phạm vi điều chỉnh của Luật Nhà ở",
+    "answer": "b",
+    "explanation": "Điểm e khoản 1 Điều 31 Luật Nhà ở 2023 quy định phát triển các loại nhà ở hỗn hợp theo quy định của Luật này."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc xây dựng nhà ở tại khu vực nông thôn phải bảo đảm nguyên tắc then chốt nào?",
+    "a": "Phải phù hợp với phong tục, tập quán và kiến trúc vùng miền",
+    "b": "Phải tuân thủ theo đúng các mẫu thiết kế chung của Bộ Xây dựng",
+    "c": "Phải được cơ quan quản lý nhà ở cấp tỉnh phê duyệt thiết kế chi tiết",
+    "d": "Phải đáp ứng các tiêu chuẩn kỹ thuật nghiêm ngặt như đối với nhà chung cư",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 31 Luật Nhà ở 2023 quy định việc xây dựng nhà ở nông thôn phải phù hợp với phong tục, tập quán và kiến trúc vùng miền."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cấu trúc của nhà ở tại khu vực nông thôn bao gồm những thành phần nào?",
+    "a": "Chỉ bao gồm phần diện tích ở chính và không gian lưu thông",
+    "b": "Bao gồm nhà ở và các công trình phụ trợ phục vụ nhu cầu sinh hoạt, sản xuất",
+    "c": "Bao gồm nhà ở chính và bắt buộc phải có hạ tầng thương mại dịch vụ kèm theo",
+    "d": "Bao gồm nhà ở và các công trình cộng đồng như nhà văn hóa",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 31 Luật Nhà ở 2023 quy định nhà ở nông thôn phải bao gồm các công trình phụ trợ phục vụ nhu cầu sinh hoạt, sản xuất của gia đình, cá nhân."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc bố trí diện tích đất để phát triển nhà ở phải bảo đảm tính thống nhất với chương trình, kế hoạch nào?",
+    "a": "Chương trình, kế hoạch phát triển nhà ở cấp tỉnh đã được phê duyệt",
+    "b": "Chương trình, kế hoạch do chủ đầu tư đề xuất trong hồ sơ dự án",
+    "c": "Kế hoạch sử dụng đất do UBND cấp xã ban hành hàng năm",
+    "d": "Chương trình dự báo nhu cầu nhà ở chưa được phê duyệt chính thức",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 32 Luật Nhà ở 2023 quy định phải phù hợp với chương trình, kế hoạch phát triển nhà ở cấp tỉnh đã được phê duyệt."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc triển khai thực hiện dự án đầu tư xây dựng nhà ở phải tuân thủ nghiêm ngặt căn cứ nào?",
+    "a": "Quy hoạch chi tiết đã được phê duyệt",
+    "b": "Ý kiến chỉ đạo của chủ đầu tư trong từng giai đoạn",
+    "c": "Phương án thiết kế sơ bộ được chủ đầu tư lựa chọn",
+    "d": "Quy hoạch chung của toàn khu vực chưa có quy hoạch chi tiết",
+    "answer": "a",
+    "explanation": "Điểm a khoản 1 Điều 33 Luật Nhà ở 2023 quy định dự án phải triển khai theo quy hoạch chi tiết đã được phê duyệt."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nếu chủ đầu tư dự án nhà ở thương mại sử dụng tên dự án bằng tiếng nước ngoài thì phải thực hiện theo cách nào?",
+    "a": "Ưu tiên ghi tên tiếng nước ngoài trước, tên tiếng Việt sau",
+    "b": "Chỉ được dùng tên tiếng Việt đã đăng ký",
+    "c": "Ghi tên đầy đủ bằng tiếng Việt trước, tên tiếng nước ngoài sau",
+    "d": "Chỉ được dùng tên tiếng nước ngoài khi có sự đồng ý của Bộ Ngoại giao",
+    "answer": "c",
+    "explanation": "Điểm c khoản 1 Điều 33 Luật Nhà ở 2023 quy định phải ghi tên đầy đủ bằng tiếng Việt trước, tên tiếng nước ngoài sau."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trong các công trình nhà ở hỗn hợp có sự phân chia riêng biệt các khu chức năng, yêu cầu về kỹ thuật là gì?",
+    "a": "Phải thiết kế, xây dựng tách biệt hệ thống trang thiết bị sử dụng chung cho từng khu chức năng",
+    "b": "Chỉ cần tách biệt lối đi, các hệ thống kỹ thuật khác có thể dùng chung",
+    "c": "Việc phân chia hệ thống kỹ thuật do chủ đầu tư toàn quyền quyết định",
+    "d": "Không bắt buộc tách biệt hệ thống kỹ thuật nếu đảm bảo an toàn PCCC",
+    "answer": "a",
+    "explanation": "Điểm b khoản 2 Điều 33 Luật Nhà ở 2023 quy định phải thiết kế, xây dựng tách biệt hệ thống trang thiết bị sử dụng chung cho từng khu chức năng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, dự án khu nhà ở phải đáp ứng yêu cầu kết nối hạ tầng như thế nào?",
+    "a": "Phải bảo đảm kết nối với hệ thống hạ tầng kỹ thuật chung của khu vực",
+    "b": "Chỉ cần tự xây dựng hệ thống hạ tầng nội khu khép kín",
+    "c": "Chỉ cần kết nối với đường giao thông chính của quốc gia",
+    "d": "Không bắt buộc kết nối nếu dự án có quy mô dưới 5ha",
+    "answer": "a",
+    "explanation": "Điểm a khoản 3 Điều 33 Luật Nhà ở 2023 quy định dự án phải bảo đảm kết nối với hệ thống hạ tầng kỹ thuật chung của khu vực."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trách nhiệm quản lý hệ thống hạ tầng trong chủ trương đầu tư dự án khu nhà ở được xác định như thế nào?",
+    "a": "Phải xác định rõ trách nhiệm đầu tư, xây dựng và quản lý, sử dụng sau đầu tư",
+    "b": "Chỉ cần xác định đơn vị thi công hạ tầng",
+    "c": "Việc quản lý sau đầu tư do cư dân tự thỏa thuận với đơn vị vận hành",
+    "d": "Việc quản lý hạ tầng mặc định thuộc về cơ quan nhà nước",
+    "answer": "a",
+    "explanation": "Điểm b khoản 3 Điều 33 Luật Nhà ở 2023 quy định phải xác định trách nhiệm đầu tư, xây dựng và quản lý, sử dụng sau đầu tư xây dựng các công trình hạ tầng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, đối với dự án cho phép chuyển nhượng quyền sử dụng đất để cá nhân tự xây dựng nhà ở, nội dung nào phải được làm rõ?",
+    "a": "Khu vực, vị trí được chuyển nhượng quyền sử dụng đất",
+    "b": "Mẫu nhà chi tiết cho từng lô đất được chuyển nhượng",
+    "c": "Giá bán đất nền tại thời điểm chuyển nhượng",
+    "d": "Danh sách các cá nhân dự kiến sẽ nhận chuyển nhượng",
+    "answer": "a",
+    "explanation": "Điểm c khoản 3 Điều 33 Luật Nhà ở 2023 quy định phải xác định rõ khu vực, vị trí được chuyển nhượng quyền sử dụng đất để cá nhân tự xây dựng nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, phương thức công khai danh mục dự án đầu tư xây dựng nhà ở đang triển khai trên địa bàn là gì?",
+    "a": "Cổng thông tin điện tử của UBND cấp tỉnh và cơ quan quản lý nhà ở cấp tỉnh",
+    "b": "Niêm yết tại các bảng tin công cộng ở UBND cấp xã nơi có dự án",
+    "c": "Gửi thông báo đến từng hộ gia đình trong khu vực dự án",
+    "d": "Chỉ cần cung cấp thông tin khi có cá nhân hoặc tổ chức yêu cầu",
+    "answer": "a",
+    "explanation": "Khoản 5 Điều 33 Luật Nhà ở 2023 quy định việc công khai danh mục dự án trên Cổng thông tin điện tử của UBND cấp tỉnh và cơ quan quản lý nhà ở cấp tỉnh."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, giai đoạn cuối cùng trong chuỗi giai đoạn dự án đầu tư xây dựng nhà ở là gì?",
+    "a": "Đưa công trình của dự án vào khai thác, sử dụng",
+    "b": "Hoàn tất thủ tục quyết toán công trình",
+    "c": "Bàn giao hồ sơ dự án cho cơ quan quản lý nhà ở",
+    "d": "Kết thúc việc giải phóng mặt bằng và xây dựng cơ bản",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 34 Luật Nhà ở 2023 quy định giai đoạn cuối là đưa công trình của dự án vào khai thác, sử dụng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, điều kiện để tổ chức kinh tế có vốn đầu tư nước ngoài trở thành chủ đầu tư dự án nhà ở là gì?",
+    "a": "Được thành lập và hoạt động theo pháp luật Việt Nam",
+    "b": "Được công ty mẹ ở nước ngoài bảo lãnh tài chính",
+    "c": "Có kinh nghiệm đầu tư bất động sản tại ít nhất 3 quốc gia",
+    "d": "Được cấp phép kinh doanh trực tiếp từ cơ quan quản lý tại nước sở tại",
+    "answer": "a",
+    "explanation": "Điểm a khoản 1 Điều 35 Luật Nhà ở 2023 quy định tổ chức kinh tế có vốn đầu tư nước ngoài được thành lập và hoạt động theo pháp luật Việt Nam có thể là chủ đầu tư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc xác định điều kiện về vốn của chủ đầu tư dự án nhà ở phải tuân theo quy định nào?",
+    "a": "Pháp luật về kinh doanh bất động sản",
+    "b": "Luật Đầu tư công",
+    "c": "Quy định riêng của ngành xây dựng địa phương",
+    "d": "Thỏa thuận giữa chủ đầu tư và ngân hàng tài trợ dự án",
+    "answer": "a",
+    "explanation": "Điểm a khoản 2 Điều 35 Luật Nhà ở 2023 quy định chủ đầu tư phải có vốn chủ sở hữu theo pháp luật về kinh doanh bất động sản."
+  },
+   {
     "question": "Theo Luật Nhà ở 2023, ông A (cá nhân quốc tịch Singapore) được phép nhập cảnh vào Việt Nam và dự định mua 300 căn nhà ở riêng lẻ trong một khu vực có quy mô dân số tương đương một phường. Việc thực hiện giao dịch này được pháp luật quy định như thế nào?",
     "a": "Được phép xác lập quyền sở hữu nếu hoàn thành đầy đủ nghĩa vụ thanh toán theo hợp đồng",
     "b": "Được phép nếu nhận được văn bản chấp thuận từ UBND cấp tỉnh nơi có dự án",
