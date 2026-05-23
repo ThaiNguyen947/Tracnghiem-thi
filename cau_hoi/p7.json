@@ -1,5 +1,203 @@
 [
   {
+    "question": "Theo Luật Nhà ở 2023, danh mục nào sau đây được xác định là thuộc 'phần sở hữu riêng' của chủ sở hữu nhà chung cư?",
+    "a": "Hệ thống kết cấu chịu lực, khung cột, tường chịu lực và hệ thống hạ tầng kỹ thuật chung.",
+    "b": "Phần diện tích sàn xây dựng bên trong căn hộ, bao gồm cả diện tích ban công và lô gia gắn liền với căn hộ đó.",
+    "c": "Hệ thống mái, sân thượng, không gian sinh hoạt cộng đồng và hệ thống thoát nước ngoài căn hộ.",
+    "d": "Phần diện tích tường bao quanh căn hộ và hệ thống đường ống dẫn kỹ thuật chạy xuyên qua các tầng.",
+    "answer": "b",
+    "explain": "Căn cứ khoản 1 Điều 142 Luật Nhà ở 2023: phần sở hữu riêng bao gồm diện tích trong căn hộ, bao gồm ban công, lô gia gắn liền với căn hộ."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, các thành phần cấu tạo như hệ thống kết cấu chịu lực (cột, dầm, sàn chịu lực) trong nhà chung cư được phân loại là gì?",
+    "a": "Thuộc quyền sở hữu riêng của chủ sở hữu căn hộ tại tầng đó nếu có thỏa thuận trong hợp đồng.",
+    "b": "Thuộc quyền sở hữu chung của các chủ sở hữu nhà chung cư và không thể tách rời.",
+    "c": "Thuộc quyền sở hữu riêng của chủ đầu tư dự án cho đến khi hết thời hạn bảo hành công trình.",
+    "d": "Thuộc quyền sở hữu của đơn vị quản lý vận hành tòa nhà để phục vụ công tác bảo trì.",
+    "answer": "b",
+    "explain": "Căn cứ điểm b khoản 2 Điều 142 Luật Nhà ở 2023: hệ thống kết cấu chịu lực thuộc phần sở hữu chung."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, phương pháp đo đạc nào được quy định là chuẩn để tính diện tích sử dụng căn hộ?",
+    "a": "Diện tích tim tường (đo từ trung tâm của các bức tường bao căn hộ).",
+    "b": "Diện tích thông thủy (đo theo kích thước lọt lòng của căn hộ).",
+    "c": "Diện tích sàn xây dựng tổng thể bao gồm cả phần tường bao và diện tích hộp kỹ thuật.",
+    "d": "Diện tích thực tế ghi nhận tại thời điểm bàn giao nhà theo chứng nhận của bên thứ ba.",
+    "answer": "b",
+    "explain": "Căn cứ khoản 1 Điều 143 Luật Nhà ở 2023: diện tích sử dụng căn hộ được tính theo kích thước thông thủy."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, thành phần nào sau đây KHÔNG ĐƯỢC tính vào diện tích sử dụng căn hộ chung cư?",
+    "a": "Diện tích sàn căn hộ bên trong các bức tường bao.",
+    "b": "Diện tích ban công và lô gia gắn liền với căn hộ đó.",
+    "c": "Diện tích các bức tường phân chia không gian bên trong căn hộ.",
+    "d": "Diện tích các bức tường bao căn hộ, tường chung và hộp kỹ thuật.",
+    "answer": "d",
+    "explain": "Căn cứ khoản 1 Điều 143 Luật Nhà ở 2023: không tính diện tích tường bao căn hộ vào diện tích sử dụng."
+  },
+  {
+    "question": "Theo quy định của Luật Nhà ở 2023, quyền sở hữu đối với chỗ để xe đạp và xe máy trong nhà chung cư được xác định như thế nào?",
+    "a": "Thuộc sở hữu riêng của chủ đầu tư vì đây là hạng mục được đầu tư từ ngân sách của dự án.",
+    "b": "Thuộc sở hữu riêng của từng chủ căn hộ theo tỷ lệ diện tích sàn được mua.",
+    "c": "Thuộc sở hữu chung của các chủ sở hữu nhà chung cư.",
+    "d": "Thuộc tài sản công do Nhà nước quản lý và cho thuê lại để đảm bảo trật tự đô thị.",
+    "answer": "c",
+    "explain": "Căn cứ điểm a khoản 2 Điều 144 Luật Nhà ở 2023: chỗ để xe đạp, xe máy là sở hữu chung."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, đối với chỗ để xe ô tô trong nhà chung cư, quyền của người mua/thuê mua căn hộ là gì?",
+    "a": "Được quyền yêu cầu chủ đầu tư bàn giao miễn phí nếu đã mua căn hộ.",
+    "b": "Có quyền quyết định mua hoặc thuê từ chủ đầu tư dự án.",
+    "c": "Bắt buộc phải thuộc quyền sở hữu chung của tòa nhà và không được bán riêng lẻ.",
+    "d": "Chỉ được phép thuê, nghiêm cấm hoạt động mua bán dưới mọi hình thức để tránh đầu cơ.",
+    "answer": "b",
+    "explain": "Căn cứ điểm b khoản 2 Điều 144 Luật Nhà ở 2023: người mua/thuê mua căn hộ có quyền mua hoặc thuê chỗ để xe ô tô."
+  },
+  {
+    "question": "Luật Nhà ở 2023 cho phép tổ chức Hội nghị nhà chung cư thông qua các hình thức nào để đảm bảo tính linh hoạt?",
+    "a": "Bắt buộc phải họp trực tiếp tại khu sinh hoạt cộng đồng để đảm bảo tính minh bạch.",
+    "b": "Chỉ được phép tổ chức họp trực tuyến thông qua nền tảng số.",
+    "c": "Tổ chức họp trực tiếp, trực tuyến hoặc kết hợp cả hai hình thức này.",
+    "d": "Chỉ thực hiện lấy ý kiến bằng văn bản để tránh tranh cãi trực tiếp giữa các cư dân.",
+    "answer": "c",
+    "explain": "Căn cứ khoản 2 Điều 145 Luật Nhà ở 2023: có thể họp trực tiếp, trực tuyến hoặc kết hợp."
+  },
+  {
+    "question": "Thẩm quyền chủ chốt của Hội nghị nhà chung cư theo quy định tại Luật Nhà ở 2023 bao gồm nội dung nào?",
+    "a": "Phê duyệt hồ sơ thiết kế điều chỉnh và cấp sổ đỏ cho các căn hộ trong tòa nhà.",
+    "b": "Bầu, miễn nhiệm các thành viên Ban quản trị nhà chung cư.",
+    "c": "Phê duyệt các thay đổi về quy hoạch đô thị tại khu vực xung quanh dự án.",
+    "d": "Quyết định các thủ tục thu hồi đất và đền bù giải phóng mặt bằng cho cư dân.",
+    "answer": "b",
+    "explain": "Căn cứ điểm a khoản 3 Điều 145 Luật Nhà ở 2023: Hội nghị có quyền bầu, miễn nhiệm Ban quản trị."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, ngưỡng quy mô nào của một nhà chung cư bắt buộc phải thành lập Ban quản trị?",
+    "a": "Từ 10 căn hộ trở lên.",
+    "b": "Từ 15 căn hộ trở lên.",
+    "c": "Từ 20 căn hộ trở lên.",
+    "d": "Từ 30 căn hộ trở lên.",
+    "answer": "c",
+    "explain": "Căn cứ khoản 2 Điều 146 Luật Nhà ở 2023: từ 20 căn hộ trở lên phải thành lập Ban quản trị."
+  },
+  {
+    "question": "Ban quản trị nhà chung cư được Luật Nhà ở 2023 giao nhiệm vụ quản lý khoản kinh phí quan trọng nào?",
+    "a": "Kinh phí đầu tư xây dựng dự án ban đầu của chủ đầu tư.",
+    "b": "Kinh phí bảo trì phần sở hữu chung của nhà chung cư.",
+    "c": "Khoản thuế đất và phí dịch vụ hạ tầng xã hội thu từ người dân.",
+    "d": "Tiền thuê đất mà chủ đầu tư phải nộp cho Nhà nước hàng năm.",
+    "answer": "b",
+    "explain": "Căn cứ điểm b khoản 1 Điều 147 Luật Nhà ở 2023: Ban quản trị quản lý kinh phí bảo trì."
+  },
+  {
+    "question": "Để trở thành đơn vị quản lý vận hành nhà chung cư, đơn vị đó phải đáp ứng điều kiện tiên quyết nào?",
+    "a": "Chỉ cần đăng ký kinh doanh ngành nghề dịch vụ bất động sản.",
+    "b": "Phải có chức năng và năng lực chuyên môn về quản lý vận hành nhà chung cư.",
+    "c": "Phải được cư dân tòa nhà chỉ định trực tiếp thông qua bầu cử tại Hội nghị.",
+    "d": "Không cần chứng chỉ hành nghề, chỉ cần đảm bảo nhân sự tại chỗ.",
+    "answer": "b",
+    "explain": "Căn cứ điểm a khoản 1 Điều 150 Luật Nhà ở 2023: phải là đơn vị có chức năng, năng lực quản lý vận hành."
+  },
+  {
+    "question": "Đơn vị đo lường nào được dùng làm căn cứ xác định giá dịch vụ quản lý vận hành nhà chung cư?",
+    "a": "Số lượng căn hộ thực tế có người ở.",
+    "b": "Theo m2 diện tích sử dụng căn hộ.",
+    "c": "Số lượng nhân khẩu đăng ký cư trú tại mỗi căn hộ.",
+    "d": "Tầng của căn hộ (càng lên cao chi phí vận hành càng thấp).",
+    "answer": "b",
+    "explain": "Căn cứ khoản 2 Điều 151 Luật Nhà ở 2023: tính theo m2 diện tích sử dụng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, tỷ lệ kinh phí bảo trì phần sở hữu chung được tính bằng bao nhiêu phần trăm?",
+    "a": "1% giá trị của căn hộ.",
+    "b": "2% giá trị căn hộ theo quy định.",
+    "c": "3% tổng giá trị dự án sau khi hoàn công.",
+    "d": "5% giá trị hợp đồng mua bán chưa bao gồm thuế GTGT.",
+    "answer": "b",
+    "explain": "Căn cứ khoản 1 Điều 152 Luật Nhà ở 2023: kinh phí bảo trì là 2% giá trị căn hộ."
+  },
+  {
+    "question": "Mục đích sử dụng hợp pháp duy nhất của kinh phí bảo trì nhà chung cư là gì?",
+    "a": "Chi trả lương và phụ cấp cho các thành viên Ban quản trị.",
+    "b": "Chi trả cho công tác quản lý vận hành thường xuyên như vệ sinh, an ninh.",
+    "c": "Bảo trì phần sở hữu chung của nhà chung cư.",
+    "d": "Phục vụ các hoạt động Marketing và sự kiện cộng đồng của tòa nhà.",
+    "answer": "c",
+    "explain": "Căn cứ khoản 1 Điều 155 Luật Nhà ở 2023: chỉ được dùng để bảo trì phần sở hữu chung."
+  },
+  {
+    "question": "Cơ quan nào có thẩm quyền ban hành quyết định cưỡng chế bàn giao kinh phí bảo trì nếu chủ đầu tư không thực hiện?",
+    "a": "Tòa án nhân dân nơi có dự án.",
+    "b": "Ủy ban nhân dân cấp xã nơi tọa lạc dự án.",
+    "c": "Ủy ban nhân dân cấp huyện.",
+    "d": "Sở Xây dựng (cơ quan chuyên môn cấp tỉnh).",
+    "answer": "c",
+    "explain": "Căn cứ Điều 154 Luật Nhà ở 2023: UBND cấp huyện có thẩm quyền cưỡng chế bàn giao."
+  },
+  {
+    "question": "Sau khi bàn giao nhà, công trình hạ tầng kỹ thuật khu vực nhà chung cư được quản lý bởi ai?",
+    "a": "Chủ đầu tư dự án để đảm bảo tính đồng bộ.",
+    "b": "Ban quản trị nhà chung cư đại diện cho cư dân.",
+    "c": "Cơ quan tiếp nhận quản lý của địa phương.",
+    "d": "Tập thể cư dân trong khu vực thông qua thỏa thuận tự quản.",
+    "answer": "c",
+    "explain": "Căn cứ Điều 158 Luật Nhà ở 2023: cơ quan tiếp nhận của địa phương quản lý sau bàn giao."
+  },
+  {
+    "question": "Trong trường hợp hợp đồng mua bán căn hộ không quy định rõ về diện tích sở hữu chung, sở hữu riêng, Luật Nhà ở 2023 xử lý vấn đề này dựa trên cơ sở nào?",
+    "a": "Thỏa thuận bổ sung bằng văn bản giữa chủ đầu tư và khách hàng.",
+    "b": "Quyết định của cơ quan quản lý nhà nước về nhà ở cấp tỉnh.",
+    "c": "Áp dụng trực tiếp quy định về xác định sở hữu chung và sở hữu riêng tại Điều 142 Luật Nhà ở 2023.",
+    "d": "Tạm dừng bàn giao căn hộ cho đến khi các bên làm rõ các diện tích tranh chấp.",
+    "answer": "c",
+    "explain": "Căn cứ khoản 3 Điều 142 Luật Nhà ở 2023: Nếu hợp đồng không ghi rõ, diện tích này được mặc nhiên xác định theo quy định của Luật để bảo vệ quyền lợi của người mua."
+  },
+  {
+    "question": "Đối với nhà chung cư có duy nhất một chủ sở hữu, thành phần nào sau đây được quyền tham gia Hội nghị nhà chung cư?",
+    "a": "Chỉ bao gồm chủ sở hữu tòa nhà.",
+    "b": "Bao gồm chủ sở hữu và người đang thực tế sử dụng nhà chung cư đó.",
+    "c": "Chỉ những người đang thuê căn hộ dài hạn trên 05 năm.",
+    "d": "Đại diện chủ đầu tư và chính quyền địa phương cấp xã.",
+    "answer": "b",
+    "explain": "Căn cứ khoản 1 Điều 145 Luật Nhà ở 2023: Nhằm đảm bảo quyền lợi và nghĩa vụ của cả người sở hữu lẫn người trực tiếp sinh sống trong tòa nhà."
+  },
+  {
+    "question": "Nguyên tắc ra quyết định tại Hội nghị nhà chung cư theo Luật Nhà ở 2023 được quy định như thế nào để đảm bảo tính dân chủ?",
+    "a": "Quyết định của chủ đầu tư là quyết định cao nhất.",
+    "b": "Phải đạt sự nhất trí 100% của tất cả chủ sở hữu.",
+    "c": "Thông qua nguyên tắc đa số bằng hình thức biểu quyết hoặc bỏ phiếu.",
+    "d": "Phải có sự phê duyệt cuối cùng từ UBND cấp huyện mới có hiệu lực thi hành.",
+    "answer": "c",
+    "explain": "Căn cứ khoản 5 Điều 145 Luật Nhà ở 2023: Hội nghị thực hiện quyền quyết định theo đa số, đảm bảo hiệu quả vận hành tòa nhà."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trong giá dịch vụ quản lý vận hành nhà chung cư, hạng mục nào sau đây không được tính vào?",
+    "a": "Chi phí vệ sinh, an ninh và chăm sóc cây xanh.",
+    "b": "Chi phí tiêu hao năng lượng cho hệ thống chiếu sáng công cộng.",
+    "c": "Thù lao cho các thành viên Ban quản trị nhà chung cư.",
+    "d": "Chi phí bảo trì các thiết bị kỹ thuật nhỏ trong tòa nhà.",
+    "answer": "c",
+    "explain": "Căn cứ khoản 2 Điều 151 Luật Nhà ở 2023: Thù lao của Ban quản trị là khoản chi phí tách biệt, không thuộc giá dịch vụ vận hành (phí quản lý hàng tháng)."
+  },
+  {
+    "question": "Trước khi thành lập được Ban quản trị nhà chung cư, việc quản lý kinh phí bảo trì được Luật Nhà ở 2023 quy định ra sao?",
+    "a": "Chủ đầu tư tiếp tục giữ và quản lý cho đến khi có Ban quản trị.",
+    "b": "Phải cử người đại diện quản lý tài khoản kinh phí bảo trì.",
+    "c": "Chuyển giao cho UBND cấp xã quản lý tạm thời.",
+    "d": "Đơn vị quản lý vận hành được quyền quản lý và sử dụng cho mục đích sửa chữa.",
+    "answer": "b",
+    "explain": "Căn cứ khoản 6 Điều 155 Luật Nhà ở 2023: Để tránh việc chủ đầu tư chiếm dụng, luật quy định phải cử người đại diện quản lý tài khoản này trước khi bàn giao cho Ban quản trị."
+  },
+  {
+    "question": "Trong trường hợp xảy ra tranh chấp về phần sở hữu chung, Luật Nhà ở 2023 quy định việc xác định này dựa trên yếu tố nào?",
+    "a": "Dựa trên hợp đồng mua bán căn hộ của từng hộ dân.",
+    "b": "Dựa trên hồ sơ thiết kế dự án đã được phê duyệt.",
+    "c": "Dựa trên quy định pháp luật về sở hữu chung, không phụ thuộc vào thỏa thuận đơn phương.",
+    "d": "Dựa trên quyết định hòa giải của Hội nghị nhà chung cư.",
+    "answer": "c",
+    "explain": "Căn cứ Điều 142 Luật Nhà ở 2023: Để tránh việc chủ đầu tư tự ý chiếm dụng, Luật quy định ranh giới sở hữu chung là mặc định, không phụ thuộc vào ý chí thỏa thuận trong hợp đồng."
+  },
+  {
     "question": "Theo Luật Nhà ở 2023, nội dung quản lý, sử dụng nhà ở bao gồm những nội dung nào?",
     "a": "Chỉ tập trung vào công tác hành chính: quản lý hồ sơ nhà ở và thực hiện thủ tục cấp giấy chứng nhận quyền sở hữu.",
     "b": "Lập, lưu trữ, bàn giao hồ sơ; quản lý nhà ở có giá trị; quản lý nhà ở thuộc tài sản công; bảo trì, cải tạo, phá dỡ nhà ở.",
