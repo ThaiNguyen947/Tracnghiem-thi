@@ -1,4 +1,463 @@
 [
+     {
+    "question": "Theo Luật Nhà ở 2023, thời hạn sử dụng nhà chung cư được xác định theo căn cứ nào?",
+    "a": "Theo thời hạn ghi trên Giấy chứng nhận quyền sở hữu nhà ở",
+    "b": "Theo hồ sơ thiết kế và thời gian sử dụng thực tế theo kết luận kiểm định",
+    "c": "Theo thời hạn khấu hao tài sản cố định của doanh nghiệp",
+    "d": "Theo tuổi thọ công trình quy định tại các tiêu chuẩn quốc gia",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 58 Luật Nhà ở 2023 quy định thời hạn sử dụng nhà chung cư được xác định theo hồ sơ thiết kế và thời gian sử dụng thực tế theo kết luận kiểm định của cơ quan có thẩm quyền."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, thời hạn sử dụng nhà chung cư được tính từ thời điểm nào?",
+    "a": "Từ ngày được cấp Giấy chứng nhận cho chủ sở hữu căn hộ đầu tiên",
+    "b": "Từ ngày ký hợp đồng mua bán căn hộ giữa chủ đầu tư và khách hàng",
+    "c": "Từ khi nghiệm thu nhà chung cư đưa vào sử dụng theo pháp luật về xây dựng",
+    "d": "Từ ngày hoàn thành thi công phần khung chịu lực công trình",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 58 Luật Nhà ở 2023 quy định thời hạn sử dụng nhà chung cư được tính từ khi nghiệm thu nhà chung cư đưa vào sử dụng theo pháp luật về xây dựng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cơ quan nào có trách nhiệm chỉ đạo kiểm định khi nhà chung cư hết thời hạn sử dụng hoặc có nguy cơ sập đổ?",
+    "a": "Bộ Xây dựng chủ trì thực hiện",
+    "b": "Ủy ban nhân dân cấp huyện nơi có công trình",
+    "c": "Ủy ban nhân dân cấp tỉnh",
+    "d": "Sở Xây dựng trực tiếp chỉ đạo",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 58 Luật Nhà ở 2023 quy định Ủy ban nhân dân cấp tỉnh phải chỉ đạo thực hiện kiểm định, đánh giá chất lượng nhà chung cư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp nào sau đây thuộc trường hợp phải phá dỡ nhà chung cư?",
+    "a": "Nhà chung cư hết thời hạn sử dụng thuộc diện phải phá dỡ",
+    "b": "Nhà chung cư chưa hết thời hạn nhưng thuộc trường hợp phải phá dỡ",
+    "c": "Chỉ các tòa nhà chung cư được xác định là tài sản công",
+    "d": "Cả a và b đều đúng",
+    "answer": "d",
+    "explanation": "Khoản 1 Điều 59 Luật Nhà ở 2023 quy định cả nhà chung cư đã hết thời hạn sử dụng và chưa hết thời hạn nhưng thuộc trường hợp phải phá dỡ đều thuộc diện phải phá dỡ."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nhà chung cư bị hư hỏng do cháy, nổ không còn đủ điều kiện an toàn thì xử lý thế nào?",
+    "a": "Được phép thực hiện sửa chữa, cải tạo nhỏ",
+    "b": "Phải thực hiện thủ tục phá dỡ",
+    "c": "Được phép gia hạn sử dụng nếu hội nghị nhà chung cư đồng ý",
+    "d": "Chỉ kiểm định định kỳ để theo dõi tình trạng hư hỏng",
+    "answer": "b",
+    "explanation": "Điểm a khoản 2 Điều 59 Luật Nhà ở 2023 quy định nhà chung cư bị hư hỏng do cháy, nổ không còn đủ điều kiện bảo đảm an toàn để tiếp tục sử dụng thì thuộc trường hợp phải phá dỡ."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nhà chung cư có kết cấu chịu lực chính xuất hiện tình trạng nguy hiểm tổng thể, có nguy cơ sập đổ thì xử lý thế nào?",
+    "a": "Cho phép tiếp tục sử dụng với điều kiện hạn chế dân cư",
+    "b": "Chỉ sửa chữa phần kết cấu hư hỏng cục bộ",
+    "c": "Phải di dời khẩn cấp và thực hiện phá dỡ",
+    "d": "Đợi quyết định từ Hội nghị nhà chung cư mới được di dời",
+    "answer": "c",
+    "explanation": "Điểm c khoản 2 Điều 59 Luật Nhà ở 2023 quy định trường hợp này phải di dời khẩn cấp chủ sở hữu, người sử dụng và thuộc trường hợp phải phá dỡ."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc cải tạo, xây dựng lại nhà chung cư phải được thực hiện theo hình thức nào?",
+    "a": "Triển khai theo dự án đầu tư",
+    "b": "Theo thỏa thuận dân sự giữa các chủ sở hữu",
+    "c": "Theo đề xuất riêng lẻ của từng hộ gia đình",
+    "d": "Theo phương án tự cải tạo của cộng đồng cư dân",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 60 Luật Nhà ở 2023 quy định việc cải tạo, xây dựng lại nhà chung cư phải được thực hiện theo dự án."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp theo quy hoạch tiếp tục xây dựng lại nhà chung cư thì chủ sở hữu được bảo đảm quyền gì?",
+    "a": "Nhận bồi thường bằng tiền mặt tương đương giá thị trường",
+    "b": "Được tái định cư tại chỗ, trừ trường hợp không có nhu cầu",
+    "c": "Được buộc phải nhận nhà ở xã hội tại khu vực khác",
+    "d": "Chỉ được nhận hỗ trợ tiền thuê nhà trong thời gian chờ đợi",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 60 Luật Nhà ở 2023 quy định các chủ sở hữu được tái định cư tại chỗ nếu tiếp tục xây dựng lại nhà chung cư, trừ trường hợp không có nhu cầu."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp theo quy hoạch không tiếp tục xây dựng lại nhà chung cư thì chủ sở hữu được giải quyết thế nào?",
+    "a": "Được bồi thường bằng tiền hoặc bố trí tái định cư tại địa điểm khác",
+    "b": "Không được bồi thường nếu công trình đã quá thời hạn sử dụng",
+    "c": "Chỉ được quyền thuê nhà ở xã hội do Nhà nước cung cấp",
+    "d": "Phải tự tìm nơi ở mới mà không được hỗ trợ",
+    "answer": "a",
+    "explanation": "Khoản 4 Điều 60 Luật Nhà ở 2023 quy định trường hợp không tiếp tục xây dựng lại thì chủ sở hữu được bồi thường bằng tiền hoặc bố trí tái định cư tại địa điểm khác."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc lựa chọn chủ đầu tư dự án cải tạo, xây dựng lại nhà chung cư chỉ được thực hiện sau khi nào?",
+    "a": "Đã có giấy phép xây dựng được cấp",
+    "b": "Có kế hoạch cải tạo, xây dựng lại nhà chung cư được phê duyệt",
+    "c": "Đã có quyết định cưỡng chế di dời cư dân",
+    "d": "Đã hoàn tất phương án phá dỡ công trình",
+    "answer": "b",
+    "explanation": "Khoản 7 Điều 60 Luật Nhà ở 2023 quy định việc lựa chọn chủ đầu tư chỉ được thực hiện sau khi có kế hoạch cải tạo, xây dựng lại nhà chung cư được phê duyệt."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, điều kiện để thỏa thuận chuyển nhượng quyền sử dụng đất nhằm thực hiện dự án cải tạo, xây dựng lại nhà chung cư là gì?",
+    "a": "Dự án chỉ có diện tích đất thuộc quyền sử dụng chung",
+    "b": "Toàn bộ chủ sở hữu thống nhất với chủ đầu tư",
+    "c": "Dự án không thuộc trường hợp quy định tại khoản 1 và khoản 3 Điều 68",
+    "d": "Tất cả các điều kiện nêu trên",
+    "answer": "d",
+    "explanation": "Khoản 11 Điều 60 Luật Nhà ở 2023 quy định đủ 03 điều kiện để được thỏa thuận chuyển nhượng quyền sử dụng đất."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc chuyển nhượng quyền sử dụng đất để thực hiện dự án cải tạo, xây dựng lại nhà chung cư được hưởng ưu đãi gì?",
+    "a": "Miễn lệ phí trước bạ khi đăng ký biến động",
+    "b": "Miễn các nghĩa vụ về thuế theo quy định",
+    "c": "Miễn phí công chứng hợp đồng chuyển nhượng",
+    "d": "Miễn tiền sử dụng đất cho toàn bộ diện tích dự án",
+    "answer": "b",
+    "explanation": "Điểm c khoản 11 Điều 60 Luật Nhà ở 2023 quy định việc chuyển nhượng quyền sử dụng đất trong trường hợp này được miễn các nghĩa vụ về thuế."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cơ quan nào chủ trì kiểm định, đánh giá chất lượng nhà chung cư?",
+    "a": "Bộ Tài nguyên và Môi trường phối hợp cùng địa phương",
+    "b": "Cơ quan quản lý nhà ở cấp tỉnh",
+    "c": "Ủy ban nhân dân cấp xã nơi có chung cư",
+    "d": "Hội nghị nhà chung cư thông qua kiểm định độc lập",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 61 Luật Nhà ở 2023 quy định cơ quan quản lý nhà ở cấp tỉnh chủ trì phối hợp thực hiện kiểm định, đánh giá chất lượng nhà chung cư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, kết luận kiểm định chất lượng nhà chung cư phải được đăng tải ở đâu?",
+    "a": "Niêm yết công khai tại sảnh chung cư",
+    "b": "Cổng thông tin điện tử của cơ quan quản lý nhà ở cấp tỉnh",
+    "c": "Trang thông tin của chủ đầu tư dự án",
+    "d": "Cổng thông tin điện tử của Bộ Tài chính",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 61 Luật Nhà ở 2023 quy định kết luận kiểm định phải được đăng tải công khai trên Cổng thông tin điện tử của cơ quan quản lý nhà ở cấp tỉnh."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hình thức chủ yếu để cải tạo, xây dựng lại nhà chung cư là gì?",
+    "a": "Doanh nghiệp kinh doanh bất động sản đầu tư vốn hoặc góp vốn cùng chủ sở hữu",
+    "b": "Tự thực hiện phá dỡ bởi cộng đồng cư dân",
+    "c": "Sử dụng ngân sách địa phương để đầu tư trực tiếp",
+    "d": "Kêu gọi vốn đầu tư từ các tổ chức thiện nguyện",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 62 Luật Nhà ở 2023 quy định doanh nghiệp kinh doanh bất động sản đầu tư vốn hoặc góp vốn cùng chủ sở hữu để thực hiện dự án."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chủ đầu tư dự án cải tạo, xây dựng lại nhà chung cư được miễn khoản nào sau đây?",
+    "a": "Thuế thu nhập doanh nghiệp phát sinh từ dự án",
+    "b": "Tiền sử dụng đất, tiền thuê đất trong phạm vi dự án theo quy định",
+    "c": "Thuế giá trị gia tăng đối với vật liệu xây dựng",
+    "d": "Lệ phí cấp giấy phép xây dựng cho dự án",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 63 Luật Nhà ở 2023 quy định chủ đầu tư được miễn tiền sử dụng đất, tiền thuê đất trong phạm vi dự án."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chủ đầu tư dự án cải tạo, xây dựng lại nhà chung cư có phải thực hiện thủ tục xác định giá đất đối với phần được miễn tiền sử dụng đất không?",
+    "a": "Phải thực hiện để làm cơ sở tính thuế",
+    "b": "Không phải thực hiện",
+    "c": "Chỉ với các dự án có sử dụng vốn ngân sách nhà nước",
+    "d": "Chỉ thực hiện khi có yêu cầu từ Sở Tài chính",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 63 Luật Nhà ở 2023 quy định chủ đầu tư không phải thực hiện thủ tục xác định giá đất, tính tiền sử dụng đất, tiền thuê đất được miễn."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, quy hoạch chi tiết dự án cải tạo, xây dựng lại nhà chung cư phải có nội dung nào sau đây?",
+    "a": "Chỉ tiêu sử dụng đất",
+    "b": "Quy mô dân số",
+    "c": "Phần diện tích có thể chuyển đổi mục đích sử dụng",
+    "d": "Tất cả các nội dung trên",
+    "answer": "d",
+    "explanation": "Khoản 2 Điều 64 Luật Nhà ở 2023 quy định các nội dung này phải có trong quy hoạch chi tiết dự án."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc phê duyệt kế hoạch cải tạo, xây dựng lại nhà chung cư chỉ được thực hiện sau khi nào?",
+    "a": "Sau khi có quyết định phá dỡ hành chính",
+    "b": "Có kết luận kiểm định, đánh giá chất lượng nhà chung cư",
+    "c": "Có phương án phá dỡ sơ bộ được phê duyệt",
+    "d": "Có hồ sơ lựa chọn chủ đầu tư",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 65 Luật Nhà ở 2023 quy định việc phê duyệt kế hoạch chỉ được thực hiện sau khi có kết luận kiểm định."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, kế hoạch cải tạo, xây dựng lại nhà chung cư phải được công khai ở đâu?",
+    "a": "Cổng thông tin điện tử của UBND cấp tỉnh và cấp huyện",
+    "b": "Gửi cho UBND cấp xã nơi có dự án",
+    "c": "Gửi thông báo đến Bộ Xây dựng để theo dõi",
+    "d": "Cả a, b và c đều đúng",
+    "answer": "d",
+    "explanation": "Khoản 5 Điều 65 Luật Nhà ở 2023 quy định kế hoạch phải được công khai và gửi đến các cơ quan liên quan."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nội dung kế hoạch cải tạo, xây dựng lại nhà chung cư phải bao gồm nội dung nào?",
+    "a": "Danh mục, địa điểm nhà chung cư cần cải tạo",
+    "b": "Dự kiến nguồn vốn đầu tư",
+    "c": "Trách nhiệm thực hiện của cơ quan chức năng",
+    "d": "Tất cả các nội dung nêu trên",
+    "answer": "d",
+    "explanation": "Điều 66 Luật Nhà ở 2023 quy định đầy đủ các nội dung này trong kế hoạch cải tạo, xây dựng lại nhà chung cư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp không lựa chọn được nhà đầu tư thực hiện dự án trong thời hạn quy định thì xử lý thế nào?",
+    "a": "Chấm dứt hoàn toàn dự án cải tạo",
+    "b": "Cơ quan quản lý nhà ở cấp tỉnh tổ chức đấu thầu lựa chọn nhà đầu tư",
+    "c": "Bộ Xây dựng trực tiếp làm chủ đầu tư dự án",
+    "d": "Các chủ sở hữu buộc phải tự bỏ tiền xây dựng",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 68 Luật Nhà ở 2023 quy định cơ quan quản lý nhà ở cấp tỉnh tổ chức đấu thầu lựa chọn nhà đầu tư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chủ đầu tư dự án cải tạo, xây dựng lại nhà chung cư có nghĩa vụ nào sau đây?",
+    "a": "Bảo đảm năng lực tài chính thực hiện dự án",
+    "b": "Bố trí chỗ ở tạm thời cho người dân",
+    "c": "Thực hiện phá dỡ nhà chung cư cũ",
+    "d": "Tất cả các nghĩa vụ nêu trên",
+    "answer": "d",
+    "explanation": "Khoản 5 Điều 68 Luật Nhà ở 2023 quy định đầy đủ các nghĩa vụ này của chủ đầu tư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hồ sơ đề nghị chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư phải có tài liệu nào sau đây?",
+    "a": "Phương án bồi thường, tái định cư",
+    "b": "Tài liệu chứng minh năng lực tài chính của nhà đầu tư",
+    "c": "Biên bản lấy ý kiến lựa chọn nhà đầu tư",
+    "d": "Tất cả các tài liệu trên",
+    "answer": "d",
+    "explanation": "Khoản 1 Điều 69 Luật Nhà ở 2023 quy định các tài liệu này phải có trong hồ sơ."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trong thời hạn bao nhiêu ngày kể từ ngày nhận đủ hồ sơ, cơ quan quản lý nhà ở cấp tỉnh phải gửi lấy ý kiến thẩm định?",
+    "a": "02 ngày làm việc",
+    "b": "03 ngày làm việc",
+    "c": "05 ngày làm việc",
+    "d": "07 ngày làm việc",
+    "answer": "b",
+    "explanation": "Điểm b khoản 4 Điều 69 Luật Nhà ở 2023 quy định thời hạn là 03 ngày làm việc."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, phương án bồi thường, tái định cư chỉ được lập và phê duyệt sau khi nào?",
+    "a": "Sau khi có quyết định phá dỡ hành chính",
+    "b": "Có quy hoạch chi tiết được phê duyệt",
+    "c": "Đã có giấy phép xây dựng dự án",
+    "d": "Đã có quyết định cưỡng chế của địa phương",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 70 Luật Nhà ở 2023 quy định việc lập, phê duyệt phương án chỉ được thực hiện sau khi có quy hoạch chi tiết được phê duyệt."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nguyên tắc bồi thường, hỗ trợ, tái định cư phải bảo đảm yêu cầu nào?",
+    "a": "Công khai",
+    "b": "Minh bạch",
+    "c": "Khách quan",
+    "d": "Tất cả các yêu cầu trên",
+    "answer": "d",
+    "explanation": "Khoản 4 Điều 70 Luật Nhà ở 2023 quy định việc bồi thường, hỗ trợ, tái định cư phải bảo đảm công khai, minh bạch, khách quan."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, diện tích căn hộ bố trí tái định cư phải bảo đảm thế nào?",
+    "a": "Không thấp hơn diện tích nhà ở cũ",
+    "b": "Không thấp hơn diện tích tối thiểu theo quy chuẩn kỹ thuật quốc gia về nhà chung cư",
+    "c": "Phải bằng đúng diện tích nhà ở cũ",
+    "d": "Theo thỏa thuận tự nguyện của chủ đầu tư và người dân",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 70 Luật Nhà ở 2023 quy định diện tích căn hộ bố trí tái định cư không được thấp hơn diện tích căn hộ theo quy chuẩn kỹ thuật quốc gia về nhà chung cư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, UBND cấp tỉnh có thẩm quyền gì đối với phương án bồi thường, tái định cư?",
+    "a": "Phê duyệt phương án",
+    "b": "Kiểm tra, đôn đốc chủ đầu tư thực hiện",
+    "c": "Cả a và b đều đúng",
+    "d": "Không có thẩm quyền phê duyệt",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 71 Luật Nhà ở 2023 quy định UBND cấp tỉnh phê duyệt và kiểm tra, đôn đốc việc thực hiện phương án."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc bố trí chỗ ở tạm thời chỉ áp dụng với trường hợp nào?",
+    "a": "Áp dụng cho mọi đối tượng cư dân đang sinh sống",
+    "b": "Áp dụng cho người thuê nhà ở công vụ",
+    "c": "Chủ sở hữu có nhu cầu tái định cư bằng nhà ở",
+    "d": "Người thuê mặt bằng kinh doanh dịch vụ",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 72 Luật Nhà ở 2023 quy định việc bố trí chỗ ở tạm thời chỉ áp dụng đối với chủ sở hữu có nhu cầu tái định cư bằng nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp nhà chung cư bị hư hỏng do thiên tai, địch họa thì ai có trách nhiệm bố trí chỗ ở tạm thời trong thời gian thực hiện dự án?",
+    "a": "Chủ đầu tư dự án",
+    "b": "Ủy ban nhân dân cấp tỉnh",
+    "c": "Ủy ban nhân dân cấp huyện",
+    "d": "Cư dân tự túc bố trí nơi ở",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 72 Luật Nhà ở 2023 quy định trường hợp tại điểm b khoản 2 Điều 59 thì UBND cấp tỉnh có trách nhiệm bố trí chỗ ở tạm thời."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, đối với nhà chung cư thuộc trường hợp phải phá dỡ do cháy, nổ thì UBND cấp tỉnh phải làm gì?",
+    "a": "Ban hành quyết định di dời khẩn cấp",
+    "b": "Tổ chức di dời đến chỗ ở tạm thời",
+    "c": "Cả a và b đều đúng",
+    "d": "Chỉ kiểm định lại công trình trước khi ra quyết định",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 73 Luật Nhà ở 2023 quy định UBND cấp tỉnh phải ban hành quyết định di dời khẩn cấp và tổ chức di dời."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nếu quá thời hạn di dời mà chủ sở hữu không thực hiện thì cơ quan nào ban hành quyết định cưỡng chế di dời?",
+    "a": "Ủy ban nhân dân cấp xã",
+    "b": "Ủy ban nhân dân cấp huyện",
+    "c": "Ủy ban nhân dân cấp tỉnh",
+    "d": "Cơ quan quản lý nhà ở cấp tỉnh",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 74 Luật Nhà ở 2023 quy định UBND cấp tỉnh ban hành quyết định cưỡng chế di dời."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cơ quan nào tổ chức thực hiện cưỡng chế di dời?",
+    "a": "Ủy ban nhân dân cấp xã",
+    "b": "Ủy ban nhân dân cấp huyện nơi có nhà chung cư",
+    "c": "Bộ Xây dựng",
+    "d": "Chủ đầu tư dự án",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 74 Luật Nhà ở 2023 quy định UBND cấp huyện nơi có nhà chung cư tổ chức thực hiện cưỡng chế di dời."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trước khi thực hiện phá dỡ nhà chung cư, chủ đầu tư phải làm gì?",
+    "a": "Lập phương án phá dỡ gửi cơ quan quản lý nhà ở cấp tỉnh thẩm định, phê duyệt",
+    "b": "Lấy ý kiến biểu quyết bằng văn bản của người dân",
+    "c": "Thông báo trực tiếp cho Bộ Tài chính",
+    "d": "Tự ý tiến hành phá dỡ để đảm bảo tiến độ",
+    "answer": "a",
+    "explanation": "Điểm b khoản 1 Điều 75 Luật Nhà ở 2023 quy định chủ đầu tư phải lập phương án phá dỡ gửi cơ quan quản lý nhà ở cấp tỉnh thẩm định và phê duyệt."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trong thời hạn bao nhiêu ngày kể từ ngày nhận được phương án phá dỡ, cơ quan quản lý nhà ở cấp tỉnh phải tổ chức thẩm định và phê duyệt?",
+    "a": "15 ngày làm việc",
+    "b": "20 ngày làm việc",
+    "c": "30 ngày làm việc",
+    "d": "45 ngày làm việc",
+    "answer": "c",
+    "explanation": "Điểm b khoản 1 Điều 75 Luật Nhà ở 2023 quy định thời hạn là 30 ngày."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cơ quan nào có trách nhiệm ban hành quyết định di dời khẩn cấp đối với nhà chung cư bị hư hỏng do cháy, nổ không còn đủ điều kiện an toàn để tiếp tục sử dụng?",
+    "a": "Ủy ban nhân dân cấp huyện sở tại",
+    "b": "Cơ quan chuyên môn về nhà ở cấp tỉnh",
+    "c": "Ủy ban nhân dân cấp tỉnh",
+    "d": "Chủ đầu tư dự án cải tạo, xây dựng lại nhà chung cư",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 73 Luật Nhà ở 2023, đối với nhà chung cư thuộc trường hợp phải phá dỡ quy định tại điểm a khoản 2 Điều 59 thì UBND cấp tỉnh phải ban hành quyết định di dời khẩn cấp và tổ chức di dời."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp nào sau đây thuộc diện phải phá dỡ nhà chung cư do xuất hiện tình trạng nguy hiểm tổng thể?",
+    "a": "Hệ thống cấp điện và phòng cháy không đáp ứng tiêu chuẩn kỹ thuật",
+    "b": "Xuất hiện nguy hiểm cục bộ tại một vài cấu kiện chịu lực chính",
+    "c": "Nhà chung cư bị xuống cấp nhẹ nhưng cần chỉnh trang theo quy hoạch đô thị",
+    "d": "Các kết cấu chịu lực chính xuất hiện tình trạng nguy hiểm tổng thể, có nguy cơ sập đổ",
+    "answer": "d",
+    "explanation": "Theo điểm c khoản 2 Điều 59 Luật Nhà ở 2023, nhà chung cư có các kết cấu chịu lực chính xuất hiện tình trạng nguy hiểm tổng thể, có nguy cơ sập đổ, không đáp ứng điều kiện tiếp tục sử dụng thuộc trường hợp phải phá dỡ."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cơ quan nào có trách nhiệm đăng tải công khai kết luận kiểm định chất lượng nhà chung cư?",
+    "a": "Ủy ban nhân dân cấp xã nơi có công trình",
+    "b": "Cơ quan quản lý nhà ở cấp tỉnh",
+    "c": "Ủy ban nhân dân cấp huyện",
+    "d": "Chủ đầu tư dự án đã được phê duyệt",
+    "answer": "b",
+    "explanation": "Theo khoản 4 Điều 61 Luật Nhà ở 2023, kết luận kiểm định phải được đăng tải công khai trên Cổng thông tin điện tử của cơ quan quản lý nhà ở cấp tỉnh."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, thời hạn bao lâu kể từ ngày nhận đủ hồ sơ thì cơ quan quản lý nhà ở cấp tỉnh phải gửi lấy ý kiến thẩm định của các cơ quan liên quan?",
+    "a": "03 ngày làm việc",
+    "b": "05 ngày làm việc",
+    "c": "07 ngày làm việc",
+    "d": "15 ngày kể từ ngày nhận hồ sơ",
+    "answer": "a",
+    "explanation": "Theo điểm b khoản 4 Điều 69 Luật Nhà ở 2023, trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ hồ sơ, cơ quan quản lý nhà ở cấp tỉnh phải gửi lấy ý kiến thẩm định."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cơ quan được lấy ý kiến thẩm định phải có ý kiến trong thời hạn bao lâu kể từ ngày nhận được đề nghị thẩm định?",
+    "a": "03 ngày làm việc",
+    "b": "07 ngày làm việc",
+    "c": "15 ngày",
+    "d": "25 ngày",
+    "answer": "c",
+    "explanation": "Theo điểm c khoản 4 Điều 69 và điểm b khoản 5 Điều 69 Luật Nhà ở 2023, thời hạn cơ quan được lấy ý kiến thẩm định trả lời là 15 ngày."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cơ quan quản lý nhà ở cấp tỉnh phải lập báo cáo thẩm định trình UBND cấp tỉnh trong thời hạn bao lâu kể từ ngày nhận đủ hồ sơ?",
+    "a": "15 ngày",
+    "b": "20 ngày",
+    "c": "25 ngày",
+    "d": "30 ngày",
+    "answer": "c",
+    "explanation": "Theo điểm c khoản 4 Điều 69 và điểm b khoản 5 Điều 69 Luật Nhà ở 2023, trong thời hạn 25 ngày kể từ ngày nhận đủ hồ sơ, cơ quan quản lý nhà ở cấp tỉnh phải lập báo cáo thẩm định."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, UBND cấp tỉnh phải xem xét quyết định chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư trong thời hạn bao lâu kể từ ngày nhận đủ hồ sơ và báo cáo thẩm định?",
+    "a": "03 ngày làm việc",
+    "b": "05 ngày làm việc",
+    "c": "07 ngày làm việc",
+    "d": "15 ngày",
+    "answer": "c",
+    "explanation": "Theo điểm d khoản 4 Điều 69 Luật Nhà ở 2023, UBND cấp tỉnh phải xem xét quyết định trong thời hạn 07 ngày làm việc."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc thỏa thuận chuyển nhượng quyền sử dụng đất để thực hiện dự án cải tạo, xây dựng lại nhà chung cư được miễn nghĩa vụ nào?",
+    "a": "Nghĩa vụ lệ phí trước bạ khi đăng ký quyền sử dụng đất",
+    "b": "Nghĩa vụ tài chính về ký quỹ đầu tư dự án",
+    "c": "Nghĩa vụ về thuế",
+    "d": "Nghĩa vụ nộp tiền bảo trì dự án",
+    "answer": "c",
+    "explanation": "Theo điểm c khoản 11 Điều 60 Luật Nhà ở 2023, việc chuyển nhượng quyền sử dụng đất trong trường hợp này được miễn các nghĩa vụ về thuế."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, điều kiện nào sau đây là bắt buộc để được thỏa thuận chuyển nhượng quyền sử dụng đất nhằm thực hiện dự án cải tạo, xây dựng lại nhà chung cư?",
+    "a": "Được Ủy ban nhân dân cấp huyện chấp thuận bằng văn bản",
+    "b": "Toàn bộ chủ sở hữu nhà chung cư thống nhất với chủ đầu tư",
+    "c": "Có ít nhất 80% chủ sở hữu nhà chung cư đồng ý bằng văn bản",
+    "d": "Có bảo lãnh của tổ chức tín dụng về nghĩa vụ tài chính",
+    "answer": "b",
+    "explanation": "Theo điểm c khoản 11 Điều 60 Luật Nhà ở 2023, việc thỏa thuận chuyển nhượng quyền sử dụng đất phải được toàn bộ chủ sở hữu nhà chung cư thống nhất với chủ đầu tư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chủ đầu tư dự án cải tạo, xây dựng lại nhà chung cư được miễn tiền sử dụng đất đối với phạm vi nào?",
+    "a": "Chỉ phần diện tích xây dựng nhà chung cư cũ hiện hữu",
+    "b": "Chỉ phần diện tích kinh doanh thương mại, dịch vụ",
+    "c": "Toàn bộ diện tích trong phạm vi dự án thuộc trường hợp phải nộp tiền sử dụng đất, tiền thuê đất",
+    "d": "Chỉ diện tích đất phục vụ bố trí tái định cư",
+    "answer": "c",
+    "explanation": "Theo điểm a khoản 1 Điều 63 Luật Nhà ở 2023, chủ đầu tư được miễn tiền sử dụng đất, tiền thuê đất đối với toàn bộ diện tích thuộc phạm vi dự án thuộc trường hợp phải nộp."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chủ đầu tư dự án cải tạo, xây dựng lại nhà chung cư có phải thực hiện thủ tục xác định giá đất đối với phần diện tích được miễn tiền sử dụng đất hay không?",
+    "a": "Phải thực hiện để xác định giá trị ưu đãi đầu tư",
+    "b": "Chỉ thực hiện khi có yêu cầu thanh tra của UBND cấp tỉnh",
+    "c": "Không phải thực hiện",
+    "d": "Do Hội đồng nhân dân cấp tỉnh quyết định tùy từng trường hợp",
+    "answer": "c",
+    "explanation": "Theo điểm a khoản 1 Điều 63 Luật Nhà ở 2023, chủ đầu tư không phải thực hiện thủ tục xác định giá đất, tính tiền sử dụng đất, tiền thuê đất được miễn."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp nào chủ đầu tư phải hoàn trả kinh phí di dời cho cơ quan nhà nước?",
+    "a": "Khi công tác cưỡng chế di dời gặp sự cố thất bại",
+    "b": "Khi cơ quan nhà nước đã thực hiện di dời trước khi lựa chọn được chủ đầu tư",
+    "c": "Khi dự án chậm tiến độ so với kế hoạch đã phê duyệt",
+    "d": "Khi chủ sở hữu nhà chung cư từ chối nhận phương án tái định cư",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 6 Điều 73 Luật Nhà ở 2023, chủ đầu tư có trách nhiệm hoàn trả kinh phí di dời cho cơ quan nhà nước nếu cơ quan nhà nước đã thực hiện di dời trước khi lựa chọn được chủ đầu tư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cơ quan nào tổ chức thực hiện cưỡng chế di dời chủ sở hữu, người sử dụng nhà chung cư?",
+    "a": "Ủy ban nhân dân cấp xã nơi có công trình",
+    "b": "Cơ quan quản lý nhà ở cấp tỉnh",
+    "c": "Ủy ban nhân dân cấp huyện nơi có nhà chung cư",
+    "d": "Chủ đầu tư dự án được chỉ định",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 74 Luật Nhà ở 2023, UBND cấp huyện nơi có nhà chung cư có trách nhiệm tổ chức thực hiện việc cưỡng chế di dời."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp phải phá dỡ khẩn cấp nhà chung cư để bảo đảm an toàn cho công trình xung quanh thì cơ quan nào lập phương án phá dỡ?",
+    "a": "Ủy ban nhân dân cấp huyện",
+    "b": "Chủ đầu tư dự án (nếu đã được lựa chọn)",
+    "c": "Cơ quan quản lý nhà ở cấp tỉnh",
+    "d": "Sở Xây dựng phối hợp với đơn vị kiểm định",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 75 Luật Nhà ở 2023, cơ quan quản lý nhà ở cấp tỉnh có trách nhiệm lập phương án phá dỡ khẩn cấp."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trong thời hạn bao lâu kể từ ngày nhận được phương án phá dỡ thì cơ quan quản lý nhà ở cấp tỉnh phải tổ chức thẩm định và phê duyệt?",
+    "a": "07 ngày làm việc",
+    "b": "15 ngày làm việc",
+    "c": "20 ngày làm việc",
+    "d": "30 ngày",
+    "answer": "d",
+    "explanation": "Theo điểm b khoản 1 Điều 75 Luật Nhà ở 2023, thời hạn tổ chức thẩm định và phê duyệt phương án phá dỡ là 30 ngày."
+  },
     {
     "question": "Theo Luật Nhà ở 2023, trong dự án xây dựng khu nhà ở thương mại tại tỉnh X, Công ty B (chuyên xây dựng hạ tầng nhưng chưa đăng ký kinh doanh bất động sản) ký hợp đồng hợp tác với Công ty C (có chức năng kinh doanh bất động sản) để cùng đứng tên làm chủ đầu tư. Sau khi kiểm tra hồ sơ, cơ quan chức năng từ chối chấp thuận Công ty B làm chủ đầu tư. Hành động này của cơ quan chức năng có căn cứ không?",
     "a": "Sai, vì Công ty B có năng lực xây dựng nên hoàn toàn được phép làm chủ đầu tư",
