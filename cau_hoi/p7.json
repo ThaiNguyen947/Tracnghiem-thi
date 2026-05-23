@@ -1,92 +1,326 @@
 [
   {
-    "question": "Theo Luật Nhà ở 2023, nhà ở hình thành trong tương lai và nhà ở có sẵn được phân biệt dựa trên điều kiện nào?",
-    "a": "Trình trạng nghiệm thu đưa vào sử dụng",
-    "b": "Quá trình đầu tư xây dựng",
+    "question": "Theo Luật Nhà ở 2023, nhà ở hình thành trong tương lai và nhà ở có sẵn được phân biệt như thế nào?",
+    "a": "Nhà ở hình thành trong tương lai đang đầu tư hoặc chưa nghiệm thu",
+    "b": "Nhà ở có sẵn đã hoàn thành xây dựng và nghiệm thu",
     "c": "Cả a và b đều đúng",
-    "d": "Chỉ dựa trên Giấy chứng nhận quyền sở hữu",
+    "d": "Cả a và b đều sai",
     "answer": "c",
-    "explanation": "Theo khoản 23 và khoản 24 Điều 2 Luật Nhà ở 2023, nhà ở có sẵn là nhà ở đã hoàn thành việc xây dựng và đã được nghiệm thu; nhà ở hình thành trong tương lai là nhà ở đang trong quá trình đầu tư xây dựng hoặc chưa được nghiệm thu đưa vào sử dụng."
+    "explanation": "Theo khoản 24 Điều 2 Luật Nhà ở 2023, nhà ở hình thành trong tương lai là nhà ở đang trong quá trình đầu tư xây dựng hoặc chưa được nghiệm thu đưa vào sử dụng. Theo khoản 23 Điều 2, nhà ở có sẵn là nhà ở đã hoàn thành việc xây dựng và đã được nghiệm thu đưa vào sử dụng."
   },
   {
-    "question": "Theo Luật Nhà ở 2023, các hành vi nào sau đây bị nghiêm cấm trong quản lý, sử dụng nhà chung cư?",
-    "a": "Sử dụng căn hộ chung cư vào mục đích không phải để ở",
-    "b": "Thay đổi, làm hư hại kết cấu chịu lực của nhà chung cư",
-    "c": "Kinh doanh vật liệu gây cháy, nổ hoặc dịch vụ karaoke",
-    "d": "Tất cả các phương án trên",
-    "answer": "d",
-    "explanation": "Theo khoản 8 Điều 3 Luật Nhà ở 2023, việc sử dụng căn hộ không phải để ở, tự ý thay đổi kết cấu chịu lực, kinh doanh vật liệu cháy nổ, karaoke đều là các hành vi bị nghiêm cấm."
-  },
-  {
-    "question": "Theo Luật Nhà ở 2023, chủ sở hữu nhà chung cư bao gồm những đối tượng nào?",
-    "a": "Chủ sở hữu căn hộ",
-    "b": "Chủ sở hữu phần diện tích khác không phải là căn hộ",
-    "c": "Chủ đầu tư dự án (đối với diện tích chưa bán)",
-    "d": "Cả a và b",
-    "answer": "d",
-    "explanation": "Theo khoản 19 Điều 2 Luật Nhà ở 2023, chủ sở hữu nhà chung cư bao gồm chủ sở hữu căn hộ và chủ sở hữu phần diện tích khác không phải là căn hộ trong nhà chung cư."
-  },
-  {
-    "question": "Theo Luật Nhà ở 2023, những hành vi nào liên quan đến huy động vốn và bàn giao nhà ở bị nghiêm cấm?",
-    "a": "Ký kết văn bản huy động vốn khi chưa đủ điều kiện",
-    "b": "Bàn giao nhà ở cho người mua khi chưa đủ điều kiện theo quy định",
-    "c": "Sử dụng sai mục đích nguồn vốn huy động hoặc tiền mua nhà trả trước",
-    "d": "Tất cả các phương án trên",
-    "answer": "d",
-    "explanation": "Theo khoản 6 Điều 3 Luật Nhà ở 2023, việc huy động vốn trái phép, sử dụng sai mục đích vốn huy động và bàn giao nhà ở khi chưa đủ điều kiện đều bị nghiêm cấm."
-  },
-  {
-    "question": "Theo Luật Nhà ở 2023, nhà ở thuộc tài sản công bao gồm các đặc điểm nào?",
-    "a": "Thuộc sở hữu toàn dân",
-    "b": "Do Nhà nước làm đại diện chủ sở hữu",
-    "c": "Do Nhà nước thống nhất quản lý",
-    "d": "Tất cả các phương án trên",
-    "answer": "d",
-    "explanation": "Theo khoản 11 Điều 2 Luật Nhà ở 2023, nhà ở thuộc tài sản công là nhà ở thuộc sở hữu toàn dân do Nhà nước làm đại diện chủ sở hữu và thống nhất quản lý."
-  },
-  {
-    "question": "Theo Luật Nhà ở 2023, phát triển và cải tạo nhà ở được định nghĩa như thế nào?",
-    "a": "Phát triển là đầu tư xây dựng mới, xây dựng lại hoặc cải tạo làm tăng diện tích",
-    "b": "Cải tạo là nâng cấp chất lượng, tăng diện tích hoặc điều chỉnh cơ cấu diện tích",
-    "c": "Cả a và b đều đúng",
-    "d": "Chỉ có phương án a đúng",
-    "answer": "c",
-    "explanation": "Theo khoản 15 và khoản 16 Điều 2 Luật Nhà ở 2023, phát triển nhà ở là việc đầu tư xây dựng mới, xây dựng lại hoặc cải tạo nhà ở làm tăng diện tích nhà ở; cải tạo nhà ở là việc nâng cấp chất lượng, tăng diện tích hoặc điều chỉnh cơ cấu diện tích nhà ở hiện có."
-  },
-  {
-    "question": "Theo Luật Nhà ở 2023, việc phát triển nhà ở tại khu vực đô thị phải tuân thủ các yêu cầu nào?",
-    "a": "Phù hợp với chiến lược, quy hoạch và kế hoạch phát triển nhà ở",
-    "b": "Thực hiện đúng yêu cầu về phòng cháy, chữa cháy",
-    "c": "Chủ yếu thực hiện theo dự án",
-    "d": "Tất cả các phương án trên",
-    "answer": "d",
-    "explanation": "Theo các khoản 2, 3, 4 Điều 5 Luật Nhà ở 2023, việc phát triển nhà ở phải phù hợp với quy hoạch, kế hoạch, đáp ứng yêu cầu PCCC và ưu tiên phát triển theo dự án tại đô thị."
-  },
-  {
-    "question": "Theo Luật Nhà ở 2023, các loại nhà ở nào sau đây được xác định là nhà ở xã hội?",
-    "a": "Nhà ở cho lực lượng vũ trang nhân dân",
-    "b": "Nhà lưu trú công nhân trong khu công nghiệp",
-    "c": "Nhà ở phục vụ tái định cư",
-    "d": "Chỉ có a và b",
-    "answer": "d",
-    "explanation": "Theo khoản 8 và khoản 9 Điều 2 Luật Nhà ở 2023, nhà ở cho lực lượng vũ trang nhân dân và nhà lưu trú công nhân được xác định là nhà ở xã hội."
-  },
-  {
-    "question": "Theo Luật Nhà ở 2023, đối với việc thuê mua nhà ở, quy định nào sau đây là chính xác?",
-    "a": "Người thuê mua phải thanh toán trước một tỷ lệ nhất định",
-    "b": "Tỷ lệ thanh toán trước tối đa không quá 50% giá trị hợp đồng",
-    "c": "Cả a và b đều đúng",
-    "d": "Người thuê mua phải thanh toán 100% khi nhận bàn giao",
-    "answer": "c",
+    "question": "Theo Luật Nhà ở 2023, bên thuê mua nhà ở phải thanh toán trước tối đa bao nhiêu phần trăm giá trị hợp đồng?",
+    "a": "Không quá 30%",
+    "b": "Không quá 50%",
+    "c": "Không quá 70%",
+    "d": "Không quá 95%",
+    "answer": "b",
     "explanation": "Theo khoản 22 Điều 2 Luật Nhà ở 2023, người thuê mua thanh toán trước một tỷ lệ nhất định nhưng không quá 50% giá trị hợp đồng thuê mua nhà ở."
   },
   {
-    "question": "Theo Luật Nhà ở 2023, giao dịch nào về nhà ở phải thực hiện theo pháp luật về kinh doanh bất động sản?",
-    "a": "Mua bán, cho thuê mua, cho thuê nhà ở thương mại của doanh nghiệp",
-    "b": "Chuyển nhượng hợp đồng mua bán nhà ở",
-    "c": "Chuyển nhượng quyền sử dụng đất cho cá nhân tự xây dựng nhà ở",
+    "question": "Theo Luật Nhà ở 2023, phần diện tích còn lại của nhà chung cư ngoài phần sở hữu riêng được xác định như thế nào?",
+    "a": "Là phần diện tích phụ trợ",
+    "b": "Là phần sử dụng hạn chế",
+    "c": "Là phần sở hữu chung",
+    "d": "Là phần công cộng đô thị",
+    "answer": "c",
+    "explanation": "Theo khoản 21 Điều 2 Luật Nhà ở 2023, phần diện tích còn lại ngoài phần sở hữu riêng và trang thiết bị dùng chung là phần sở hữu chung của nhà chung cư."
+  },
+  {
+    "question": "Những hành vi nào sau đây bị nghiêm cấm trong quản lý, sử dụng nhà chung cư?",
+    "a": "Sử dụng căn hộ chung cư vào mục đích không phải để ở",
+    "b": "Thay đổi, làm hư hại kết cấu chịu lực",
+    "c": "Kinh doanh vật liệu gây cháy, nổ, karaoke",
     "d": "Tất cả các phương án trên",
     "answer": "d",
-    "explanation": "Theo khoản 2 Điều 1 và khoản 5 Điều 5 Luật Nhà ở 2023, các giao dịch thương mại và chuyển nhượng hợp đồng/quyền sử dụng đất dự án đều phải thực hiện theo pháp luật về kinh doanh bất động sản."
+    "explanation": "Theo khoản 8 Điều 3 Luật Nhà ở 2023, các hành vi: sử dụng căn hộ vào mục đích khác, tự ý chia tách căn hộ, thay đổi kết cấu chịu lực, chiếm dụng diện tích chung, kinh doanh vật liệu gây cháy nổ, karaoke đều bị nghiêm cấm."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, các giao dịch về nhà ở nào sau đây phải tuân thủ đúng quy định pháp luật?",
+    "a": "Mua bán, thuê mua, thuê, tặng cho",
+    "b": "Thế chấp, góp vốn",
+    "c": "Cho mượn, ở nhờ, ủy quyền quản lý nhà ở",
+    "d": "Tất cả các phương án trên",
+    "answer": "d",
+    "explanation": "Theo khoản 7 Điều 3 Luật Nhà ở 2023, các giao dịch như mua bán, thuê mua, thuê, tặng cho, thế chấp, góp vốn, cho mượn, ở nhờ, ủy quyền quản lý nhà ở phải đúng quy định pháp luật."
+  },
+  {
+    "question": "Hành vi bàn giao nhà ở cho người mua, thuê mua khi chưa đủ điều kiện bị quy định như thế nào?",
+    "a": "Là hành vi bị nghiêm cấm",
+    "b": "Chỉ bị cấm đối với nhà ở xã hội",
+    "c": "Được phép nếu các bên tự nguyện thỏa thuận",
+    "d": "Được phép nếu đã thanh toán đủ tiền",
+    "answer": "a",
+    "explanation": "Theo khoản 7 Điều 3 Luật Nhà ở 2023, việc bàn giao nhà ở cho người mua, thuê mua khi chưa đủ điều kiện theo quy định là hành vi bị nghiêm cấm."
+  },
+  {
+    "question": "Nhà ở có mục đích sử dụng hỗn hợp được định nghĩa là gì?",
+    "a": "Nhà ở vừa để ở vừa làm nhà lưu trú",
+    "b": "Nhà ở sử dụng vào mục đích để ở và mục đích khác mà pháp luật không cấm",
+    "c": "Nhà ở vừa để ở vừa là nhà công vụ",
+    "d": "Nhà ở vừa để ở vừa là nhà xã hội",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 2 Luật Nhà ở 2023, nhà ở sử dụng vào mục đích để ở và mục đích khác mà pháp luật không cấm là nhà ở có mục đích sử dụng hỗn hợp."
+  },
+  {
+    "question": "Nhà ở riêng lẻ có thể được xây dựng trên loại đất nào?",
+    "a": "Trên đất thuộc quyền sử dụng của chủ sở hữu",
+    "b": "Trên đất thuê, đất mượn của tổ chức, cá nhân",
+    "c": "Cả a và b đều đúng",
+    "d": "Chỉ được xây trên đất ở đô thị",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 2 Luật Nhà ở 2023, nhà ở riêng lẻ có thể xây dựng trên đất thuộc quyền sử dụng hoặc trên đất thuê, đất mượn của tổ chức, cá nhân."
+  },
+  {
+    "question": "Tại khu vực nào chủ yếu phát triển nhà chung cư?",
+    "a": "Toàn bộ khu vực nông thôn",
+    "b": "Đô thị loại I và các phường, quận, thành phố thuộc đô thị loại đặc biệt",
+    "c": "Khu vực miền núi",
+    "d": "Khu vực biên giới",
+    "answer": "b",
+    "explanation": "Theo khoản 4 Điều 5 Luật Nhà ở 2023, tại đô thị loại I và các phường, quận, thành phố thuộc đô thị loại đặc biệt thì chủ yếu phát triển nhà chung cư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, giao dịch mua bán, thuê mua, cho thuê nhà ở thương mại của doanh nghiệp kinh doanh BĐS thực hiện theo luật nào?",
+    "a": "Luật Nhà ở",
+    "b": "Luật Kinh doanh bất động sản",
+    "c": "Luật Xây dựng",
+    "d": "Luật Đầu tư công",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 1 Luật Nhà ở 2023, giao dịch mua bán, cho thuê mua, cho thuê nhà ở thương mại của doanh nghiệp kinh doanh bất động sản được thực hiện theo pháp luật về kinh doanh bất động sản."
+  },
+  {
+    "question": "Giao dịch chuyển nhượng hợp đồng mua bán nhà ở được thực hiện theo luật nào?",
+    "a": "Luật Dân sự",
+    "b": "Luật Nhà ở",
+    "c": "Luật Kinh doanh bất động sản",
+    "d": "Luật Đầu tư",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 1 Luật Nhà ở 2023, giao dịch chuyển nhượng hợp đồng mua bán nhà ở được thực hiện theo pháp luật về kinh doanh bất động sản."
+  },
+  {
+    "question": "Nhà ở thuộc tài sản công được xác định là gì?",
+    "a": "Sở hữu toàn dân do Nhà nước đại diện chủ sở hữu",
+    "b": "Sở hữu của doanh nghiệp nhà nước",
+    "c": "Sở hữu tập thể",
+    "d": "Sở hữu chung hợp nhất",
+    "answer": "a",
+    "explanation": "Theo khoản 11 Điều 2 Luật Nhà ở 2023, nhà ở thuộc tài sản công là nhà ở thuộc sở hữu toàn dân do Nhà nước làm đại diện chủ sở hữu và thống nhất quản lý."
+  },
+  {
+    "question": "Chủ sở hữu nhà chung cư bao gồm những đối tượng nào?",
+    "a": "Chỉ chủ sở hữu căn hộ",
+    "b": "Chỉ chủ đầu tư",
+    "c": "Chủ sở hữu căn hộ và chủ sở hữu phần diện tích khác không phải căn hộ",
+    "d": "Ban quản trị nhà chung cư",
+    "answer": "c",
+    "explanation": "Theo khoản 19 Điều 2 Luật Nhà ở 2023, chủ sở hữu nhà chung cư bao gồm chủ sở hữu căn hộ và chủ sở hữu phần diện tích khác không phải là căn hộ."
+  },
+  {
+    "question": "Phần sở hữu riêng trong nhà chung cư bao gồm những gì?",
+    "a": "Diện tích trong căn hộ",
+    "b": "Trang thiết bị sử dụng riêng",
+    "c": "Phần diện tích không phải căn hộ được công nhận sở hữu riêng",
+    "d": "Tất cả các phương án trên",
+    "answer": "d",
+    "explanation": "Theo khoản 20 Điều 2 Luật Nhà ở 2023, phần sở hữu riêng gồm diện tích trong căn hộ hoặc phần diện tích không phải căn hộ được công nhận sở hữu riêng và trang thiết bị sử dụng riêng."
+  },
+  {
+    "question": "Nhà ở cũ là nhà ở được đầu tư xây dựng từ năm nào trở về trước?",
+    "a": "1986",
+    "b": "1990",
+    "c": "1994",
+    "d": "2000",
+    "answer": "c",
+    "explanation": "Theo khoản 10 Điều 2 Luật Nhà ở 2023, nhà ở cũ là nhà ở được đầu tư xây dựng từ năm 1994 trở về trước."
+  },
+  {
+    "question": "Nhà ở xã hội là nhà ở có đặc điểm nào?",
+    "a": "Có sự hỗ trợ của Nhà nước cho đối tượng được hưởng chính sách",
+    "b": "Bán theo cơ chế thị trường",
+    "c": "Dành riêng cho cán bộ công chức",
+    "d": "Là tài sản công",
+    "answer": "a",
+    "explanation": "Theo khoản 7 Điều 2 Luật Nhà ở 2023, nhà ở xã hội là nhà ở có sự hỗ trợ của Nhà nước cho đối tượng được hưởng chính sách hỗ trợ nhà ở."
+  },
+  {
+    "question": "Nhà ở công vụ được sử dụng để làm gì?",
+    "a": "Bố trí cho đối tượng được thuê trong thời gian đảm nhận chức vụ, công tác",
+    "b": "Bán đấu giá công khai",
+    "c": "Cho mọi đối tượng thuê",
+    "d": "Làm trụ sở cơ quan",
+    "answer": "a",
+    "explanation": "Theo khoản 5 Điều 2 Luật Nhà ở 2023, nhà ở công vụ được dùng để bố trí cho đối tượng thuộc trường hợp được thuê trong thời gian đảm nhận chức vụ, công tác."
+  },
+  {
+    "question": "Nhà ở phục vụ tái định cư được bố trí cho đối tượng nào?",
+    "a": "Người lao động trong khu công nghiệp",
+    "b": "Người bị thu hồi đất ở hoặc giải tỏa nhà ở",
+    "c": "Cán bộ công chức",
+    "d": "Người nước ngoài",
+    "answer": "b",
+    "explanation": "Theo khoản 6 Điều 2 Luật Nhà ở 2023, nhà ở phục vụ tái định cư để bố trí cho đối tượng được tái định cư khi Nhà nước thu hồi đất ở, giải tỏa nhà ở."
+  },
+  {
+    "question": "Nhà ở cho lực lượng vũ trang nhân dân thuộc loại nhà ở nào?",
+    "a": "Nhà ở thương mại",
+    "b": "Nhà ở xã hội",
+    "c": "Nhà ở công vụ",
+    "d": "Nhà ở tái định cư",
+    "answer": "b",
+    "explanation": "Theo khoản 9 Điều 2 Luật Nhà ở 2023, nhà ở cho lực lượng vũ trang nhân dân là nhà ở xã hội."
+  },
+  {
+    "question": "Hành vi huy động vốn và sử dụng sai mục đích vốn huy động khi chưa đủ điều kiện bị quy định thế nào?",
+    "a": "Là hành vi bị nghiêm cấm",
+    "b": "Được phép nếu có bảo lãnh",
+    "c": "Được phép nếu có thỏa thuận",
+    "d": "Không bị điều chỉnh",
+    "answer": "a",
+    "explanation": "Theo khoản 6 Điều 3 Luật Nhà ở 2023, hành vi ký kết văn bản huy động vốn khi chưa đủ điều kiện và sử dụng sai mục đích nguồn vốn huy động hoặc tiền mua nhà trả trước là hành vi bị nghiêm cấm."
+  },
+  {
+    "question": "Hành vi tự ý chia, tách căn hộ chung cư khi chưa được cơ quan có thẩm quyền cho phép là:",
+    "a": "Được quyền thực hiện",
+    "b": "Hành vi bị nghiêm cấm",
+    "c": "Chỉ cần thông báo ban quản trị",
+    "d": "Không thuộc phạm vi điều chỉnh",
+    "answer": "b",
+    "explanation": "Theo điểm c khoản 8 Điều 3 Luật Nhà ở 2023, hành vi chia, tách căn hộ không được cơ quan có thẩm quyền cho phép là hành vi bị nghiêm cấm."
+  },
+  {
+    "question": "Hành vi tự ý sử dụng phần diện tích thuộc sở hữu chung vào mục đích riêng là:",
+    "a": "Hành vi bị nghiêm cấm",
+    "b": "Được phép nếu cư dân đồng ý",
+    "c": "Được phép nếu có bồi thường",
+    "d": "Không bị điều chỉnh",
+    "answer": "a",
+    "explanation": "Theo điểm d khoản 8 Điều 3 Luật Nhà ở 2023, tự ý sử dụng phần diện tích thuộc sở hữu chung vào sử dụng riêng là hành vi bị nghiêm cấm."
+  },
+  {
+    "question": "Tại khu vực đô thị, việc phát triển nhà ở chủ yếu được thực hiện theo hình thức nào?",
+    "a": "Theo hộ gia đình tự phát",
+    "b": "Theo dự án",
+    "c": "Theo hợp tác xã",
+    "d": "Theo quy hoạch nông thôn",
+    "answer": "b",
+    "explanation": "Theo khoản 4 Điều 5 Luật Nhà ở 2023, tại khu vực đô thị việc phát triển nhà ở chủ yếu được thực hiện theo dự án."
+  },
+  {
+    "question": "Trường hợp đấu giá quyền sử dụng đất để đầu tư dự án nhà ở thì chủ đầu tư phải làm gì?",
+    "a": "Phải xây dựng nhà ở để bán, cho thuê mua, cho thuê",
+    "b": "Được phân lô bán nền toàn bộ",
+    "c": "Chỉ cần đầu tư hạ tầng",
+    "d": "Được chuyển nhượng toàn bộ đất nền",
+    "answer": "a",
+    "explanation": "Theo khoản 5 Điều 5 Luật Nhà ở 2023, trường hợp đấu giá quyền sử dụng đất để đầu tư dự án nhà ở thì chủ đầu tư phải xây dựng nhà ở để bán, cho thuê mua, cho thuê."
+  },
+  {
+    "question": "Việc chủ đầu tư chuyển nhượng quyền sử dụng đất cho cá nhân tự xây dựng nhà ở phải tuân theo luật nào?",
+    "a": "Luật Kinh doanh bất động sản",
+    "b": "Pháp luật đất đai",
+    "c": "Cả a và b đều đúng",
+    "d": "Chỉ Luật Nhà ở",
+    "answer": "c",
+    "explanation": "Theo khoản 5 Điều 5 Luật Nhà ở 2023, việc chuyển nhượng quyền sử dụng đất cho cá nhân tự xây dựng nhà ở thực hiện theo pháp luật về kinh doanh bất động sản và đất đai."
+  },
+  {
+    "question": "Việc quản lý, sử dụng nhà ở phải đáp ứng yêu cầu nào?",
+    "a": "Đúng mục đích, công năng sử dụng",
+    "b": "Đúng quy hoạch",
+    "c": "Đảm bảo quyền sở hữu",
+    "d": "Tất cả các phương án trên",
+    "answer": "d",
+    "explanation": "Theo khoản 8 Điều 5 Luật Nhà ở 2023, việc quản lý, sử dụng nhà ở phải đúng mục đích, công năng sử dụng, phù hợp với quy hoạch và bảo đảm quyền sở hữu."
+  },
+  {
+    "question": "Việc phát triển nhà ở phải phù hợp với nội dung nào sau đây?",
+    "a": "Chiến lược phát triển nhà ở quốc gia",
+    "b": "Quy hoạch sử dụng đất",
+    "c": "Kế hoạch phát triển nhà ở",
+    "d": "Tất cả các đáp án trên",
+    "answer": "d",
+    "explanation": "Theo khoản 2 Điều 5 Luật Nhà ở 2023, việc phát triển nhà ở phải phù hợp với chiến lược, quy hoạch và kế hoạch phát triển nhà ở."
+  },
+  {
+    "question": "Việc phát triển nhà ở phải đáp ứng yêu cầu nào về phòng cháy, chữa cháy?",
+    "a": "Không bắt buộc",
+    "b": "Phải thực hiện đúng quy định pháp luật về PCCC",
+    "c": "Chỉ áp dụng với chung cư",
+    "d": "Chỉ áp dụng với nhà thương mại",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 5 Luật Nhà ở 2023, việc phát triển nhà ở phải thực hiện đúng yêu cầu về phòng cháy, chữa cháy."
+  },
+  {
+    "question": "Nhà chung cư là nhà ở có từ bao nhiêu tầng trở lên?",
+    "a": "01 tầng",
+    "b": "02 tầng",
+    "c": "03 tầng",
+    "d": "05 tầng",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 2 Luật Nhà ở 2023, nhà chung cư là nhà ở có từ 02 tầng trở lên."
+  },
+  {
+    "question": "Nhà ở thương mại được đầu tư xây dựng để làm gì?",
+    "a": "Bán, cho thuê mua, cho thuê theo cơ chế thị trường",
+    "b": "Bố trí tái định cư",
+    "c": "Cho cán bộ công vụ thuê",
+    "d": "Làm tài sản công",
+    "answer": "a",
+    "explanation": "Theo khoản 4 Điều 2 Luật Nhà ở 2023, nhà ở thương mại là nhà ở được đầu tư xây dựng để bán, cho thuê mua, cho thuê theo cơ chế thị trường."
+  },
+  {
+    "question": "Phát triển nhà ở bao gồm các hoạt động nào?",
+    "a": "Đầu tư xây dựng mới",
+    "b": "Xây dựng lại hoặc cải tạo nhà ở làm tăng diện tích",
+    "c": "Cả a và b đều đúng",
+    "d": "Chỉ hoạt động sửa chữa nhà ở",
+    "answer": "c",
+    "explanation": "Theo khoản 15 Điều 2 Luật Nhà ở 2023, phát triển nhà ở là việc đầu tư xây dựng mới, xây dựng lại hoặc cải tạo nhà ở làm tăng diện tích nhà ở."
+  },
+  {
+    "question": "Bảo trì nhà ở nhằm mục đích nào?",
+    "a": "Duy trì chất lượng nhà ở",
+    "b": "Duy trì hoạt động bình thường và an toàn của nhà ở",
+    "c": "Cả a và b đều đúng",
+    "d": "Tăng giá bán nhà ở",
+    "answer": "c",
+    "explanation": "Theo khoản 17 Điều 2 Luật Nhà ở 2023, bảo trì nhà ở nhằm duy trì chất lượng, hoạt động bình thường, an toàn của nhà ở."
+  },
+  {
+    "question": "Cải tạo nhà ở là việc:",
+    "a": "Nâng cấp chất lượng nhà ở",
+    "b": "Tăng diện tích hoặc điều chỉnh cơ cấu diện tích nhà ở hiện có",
+    "c": "Cả a và b đều đúng",
+    "d": "Phá dỡ hoàn toàn nhà ở",
+    "answer": "c",
+    "explanation": "Theo khoản 16 Điều 2 Luật Nhà ở 2023, cải tạo nhà ở là việc nâng cấp chất lượng, tăng diện tích hoặc điều chỉnh cơ cấu diện tích nhà ở hiện có."
+  },
+  {
+    "question": "Chủ đầu tư dự án đầu tư xây dựng nhà ở là ai?",
+    "a": "Tổ chức được lựa chọn để thực hiện dự án",
+    "b": "Cơ quan quản lý xây dựng",
+    "c": "Ủy ban nhân dân cấp tỉnh",
+    "d": "Đơn vị cấp Giấy chứng nhận",
+    "answer": "a",
+    "explanation": "Theo khoản 14 Điều 2 Luật Nhà ở 2023, chủ đầu tư dự án đầu tư xây dựng nhà ở là tổ chức được lựa chọn để thực hiện dự án."
+  },
+  {
+    "question": "Nhà lưu trú công nhân trong khu công nghiệp được bố trí cho ai thuê?",
+    "a": "Công nhân làm việc tại khu công nghiệp",
+    "b": "Mọi cá nhân có nhu cầu",
+    "c": "Cán bộ công chức",
+    "d": "Người nước ngoài",
+    "answer": "a",
+    "explanation": "Theo khoản 8 Điều 2 Luật Nhà ở 2023, nhà lưu trú công nhân được bố trí cho cá nhân là công nhân thuê trong thời gian làm việc tại khu công nghiệp."
+  },
+  {
+    "question": "Hành vi chiếm dụng diện tích nhà ở trái pháp luật bị quy định thế nào?",
+    "a": "Là hành vi bị nghiêm cấm",
+    "b": "Được phép nếu sử dụng lâu dài",
+    "c": "Chỉ bị xử phạt hành chính",
+    "d": "Không thuộc phạm vi điều chỉnh",
+    "answer": "a",
+    "explanation": "Theo khoản 5 Điều 3 Luật Nhà ở 2023, hành vi chiếm dụng diện tích nhà ở trái pháp luật là hành vi bị nghiêm cấm."
   }
 ]
