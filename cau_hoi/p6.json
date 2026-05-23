@@ -1,4 +1,427 @@
 [
+   {
+    "question": "Theo Luật Đất Đai năm 2024, thủ tục hành chính về đất đai bao gồm nội dung nào sau đây?",
+    "a": "Chỉ bao gồm đăng ký đất đai và cấp Giấy chứng nhận",
+    "b": "Bao gồm việc giao đất, cho thuê đất, chuyển mục đích sử dụng đất",
+    "c": "Bao gồm thủ tục tách thửa đất, hợp thửa đất",
+    "d": "Bao gồm cả các thủ tục hành chính, giải quyết tranh chấp và thanh tra",
+    "answer": "C",
+    "explanation": "Theo khoản 1 điểm đ Điều 223 Luật Đất đai 2024, thủ tục hành chính về đất đai bao gồm thủ tục tách thửa đất, hợp thửa đất."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, nguyên tắc thực hiện thủ tục hành chính về đất đai được quy định như thế nào?",
+    "a": "Ưu tiên giải quyết nhanh gọn, lược bỏ các quy trình xác minh",
+    "b": "Bảo đảm bình đẳng, khách quan, công khai, minh bạch",
+    "c": "Ưu tiên quyết định của cơ quan nhà nước có thẩm quyền cao nhất",
+    "d": "Bảo đảm sự phối hợp chặt chẽ giữa các đơn vị không cần công khai kết quả",
+    "answer": "B",
+    "explanation": "Theo khoản 1 Điều 224 Luật Đất đai 2024, việc thực hiện thủ tục hành chính phải bảo đảm bình đẳng, khách quan, công khai, minh bạch."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, hình thức thực hiện thủ tục hành chính về đất đai bao gồm hình thức nào sau đây?",
+    "a": "Chỉ thực hiện trực tiếp tại cơ quan đăng ký đất đai",
+    "b": "Trực tiếp, qua bưu chính hoặc trên môi trường điện tử",
+    "c": "Chỉ thực hiện thông qua cổng dịch vụ công trực tuyến",
+    "d": "Trực tiếp tại UBND cấp xã hoặc thông qua đại diện ủy quyền",
+    "answer": "B",
+    "explanation": "Theo khoản 4 Điều 224 Luật Đất đai 2024, thủ tục hành chính có thể thực hiện trực tiếp, qua bưu chính hoặc môi trường điện tử."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, nội dung công khai thủ tục hành chính về đất đai bao gồm nội dung nào sau đây?",
+    "a": "Danh sách chi tiết cán bộ phụ trách xử lý hồ sơ từng ngày",
+    "b": "Thời gian giải quyết từng thủ tục hành chính",
+    "c": "Kết quả thanh tra nội bộ và danh tính người tố cáo",
+    "d": "Thông tin chi tiết về tài sản và nơi ở của người sử dụng đất",
+    "answer": "B",
+    "explanation": "Theo khoản 2 điểm b Điều 225 Luật Đất đai 2024, nội dung công khai bao gồm thời gian giải quyết thủ tục hành chính."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, nội dung giám sát của công dân trong quản lý đất đai không bao gồm nội dung nào sau đây?",
+    "a": "Việc thu hồi đất và bồi thường, hỗ trợ, tái định cư",
+    "b": "Việc cấp Giấy chứng nhận quyền sử dụng đất",
+    "c": "Việc điều tra hình sự đối với tội phạm",
+    "d": "Việc định giá đất và lập quy hoạch, kế hoạch sử dụng đất",
+    "answer": "C",
+    "explanation": "Theo khoản 3 Điều 231 Luật Đất đai 2024, công dân không giám sát hoạt động điều tra hình sự."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, việc theo dõi và đánh giá quản lý đất đai được thực hiện với tần suất nào?",
+    "a": "Hằng năm",
+    "b": "Định kỳ 2 năm một lần",
+    "c": "Định kỳ 5 năm một lần",
+    "d": "Thực hiện đột xuất khi có yêu cầu từ Chính phủ",
+    "answer": "A",
+    "explanation": "Theo khoản 3 Điều 232 Luật Đất đai 2024, việc theo dõi và đánh giá được thực hiện định kỳ hằng năm."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, hệ thống theo dõi và đánh giá đất đai là bộ phận của hệ thống nào?",
+    "a": "Hệ thống dữ liệu dân cư quốc gia (VNeID)",
+    "b": "Hệ thống thông tin quốc gia về đất đai",
+    "c": "Hệ thống cơ sở dữ liệu quản lý thuế bất động sản",
+    "d": "Hệ thống thống kê đất đai của ngành Tài nguyên và Môi trường",
+    "answer": "B",
+    "explanation": "Theo khoản 1 Điều 233 Luật Đất đai 2024, hệ thống theo dõi là bộ phận của hệ thống thông tin quốc gia về đất đai."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, thanh tra chuyên ngành đất đai thuộc trách nhiệm của cơ quan nào?",
+    "a": "Thanh tra Chính phủ",
+    "b": "Bộ Tài nguyên và Môi trường",
+    "c": "Tòa án nhân dân các cấp",
+    "d": "UBND các cấp trong phạm vi địa phương",
+    "answer": "B",
+    "explanation": "Theo điểm a khoản 3 Điều 234 Luật Đất đai 2024, Bộ Tài nguyên và Môi trường chịu trách nhiệm thanh tra chuyên ngành đất đai."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, trước khi giải quyết tranh chấp đất đai bắt buộc phải thực hiện bước nào?",
+    "a": "Gửi đơn khởi kiện tại Tòa án nhân dân cấp huyện",
+    "b": "Hòa giải tại UBND cấp xã nơi có đất tranh chấp",
+    "c": "Yêu cầu cơ quan chuyên môn đo đạc lại diện tích đất",
+    "d": "Thực hiện thủ tục hành chính thu hồi đất để làm rõ",
+    "answer": "B",
+    "explanation": "Theo khoản 2 Điều 235 Luật Đất đai 2024, phải hòa giải tại UBND cấp xã trước khi giải quyết tranh chấp."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, tranh chấp đất đai có Giấy chứng nhận quyền sử dụng đất thuộc thẩm quyền giải quyết của cơ quan nào?",
+    "a": "UBND cấp xã nơi có đất",
+    "b": "UBND cấp huyện nơi có đất",
+    "c": "Tòa án nhân dân",
+    "d": "Cơ quan công an cấp huyện",
+    "answer": "C",
+    "explanation": "Theo khoản 1 Điều 236 Luật Đất đai 2024, tranh chấp có Giấy chứng nhận thuộc thẩm quyền Tòa án."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, người sử dụng đất có quyền gì khi có quyết định hành chính về đất đai?",
+    "a": "Chỉ được gửi đơn phản ánh, kiến nghị tới cơ quan ban hành",
+    "b": "Không được khiếu nại nếu quyết định đã có hiệu lực",
+    "c": "Khiếu nại hoặc khởi kiện",
+    "d": "Chỉ được xin ý kiến tư vấn từ luật sư",
+    "answer": "C",
+    "explanation": "Theo khoản 1 Điều 237 Luật Đất đai 2024, người sử dụng đất có quyền khiếu nại hoặc khởi kiện."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, việc giải quyết tố cáo về đất đai thực hiện theo quy định của luật nào?",
+    "a": "Luật Dân sự hiện hành",
+    "b": "Luật Khiếu nại và các văn bản hướng dẫn",
+    "c": "Luật Tố cáo",
+    "d": "Luật Tổ chức cơ quan điều tra hình sự",
+    "answer": "C",
+    "explanation": "Theo khoản 2 Điều 238 Luật Đất đai 2024, việc giải quyết tố cáo thực hiện theo Luật Tố cáo."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, người có hành vi vi phạm pháp luật về đất đai có thể bị xử lý như thế nào?",
+    "a": "Chỉ bị xử lý hành chính",
+    "b": "Chỉ bị xử lý kỷ luật",
+    "c": "Xử lý kỷ luật, hành chính hoặc hình sự và có thể phải bồi thường",
+    "d": "Không bị xử lý nếu chưa gây thiệt hại",
+    "answer": "C",
+    "explanation": "Căn cứ Điều 239 Luật Đất đai 2024 quy định người có hành vi vi phạm pháp luật về đất đai tùy tính chất, mức độ có thể bị xử lý kỷ luật, xử lý vi phạm hành chính hoặc truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định pháp luật."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, hành vi lợi dụng chức vụ trong quản lý đất đai có thể bị xử lý như thế nào?",
+    "a": "Không bị xử lý nếu chưa gây hậu quả",
+    "b": "Chỉ bị nhắc nhở nội bộ",
+    "c": "Bị xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự",
+    "d": "Chỉ bị xử phạt hành chính",
+    "answer": "C",
+    "explanation": "Căn cứ Điều 240 khoản 1 điểm a Luật Đất đai 2024 quy định hành vi lợi dụng hoặc lạm dụng chức vụ, quyền hạn trong các hoạt động như giao đất, thu hồi đất, cấp giấy chứng nhận… có thể bị xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, hành vi thiếu trách nhiệm trong quản lý đất đai gây thiệt hại sẽ bị xử lý như thế nào?",
+    "a": "Không bị xử lý",
+    "b": "Chỉ xử lý hành chính",
+    "c": "Xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự",
+    "d": "Chỉ bồi thường dân sự",
+    "answer": "C",
+    "explanation": "Căn cứ Điều 240 khoản 1 điểm b Luật Đất đai 2024 quy định hành vi thiếu trách nhiệm trong quản lý đất đai gây thiệt hại đến lợi ích Nhà nước hoặc người sử dụng đất thì bị xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, trách nhiệm của Chủ tịch Ủy ban nhân dân cấp xã trong quản lý đất đai là gì?",
+    "a": "Chỉ ký giấy chứng nhận quyền sử dụng đất",
+    "b": "Không có trách nhiệm kiểm tra vi phạm đất đai",
+    "c": "Kiểm tra, phát hiện và xử lý lấn chiếm, sử dụng sai mục đích",
+    "d": "Chỉ giải quyết tranh chấp tại Tòa án",
+    "answer": "C",
+    "explanation": "Căn cứ Điều 241 khoản 1 điểm b Luật Đất đai 2024 quy định Chủ tịch UBND cấp xã có trách nhiệm thường xuyên kiểm tra, phát hiện, ngăn chặn và xử lý hành vi lấn chiếm đất, sử dụng đất sai mục đích, không đăng ký đất đai và vi phạm khác."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, công chức làm công tác địa chính cấp xã có trách nhiệm gì khi thi hành công vụ?",
+    "a": "Không có trách nhiệm phát hiện vi phạm",
+    "b": "Chỉ lập hồ sơ khi có yêu cầu",
+    "c": "Phát hiện và đề xuất xử lý vi phạm pháp luật về đất đai",
+    "d": "Chỉ thực hiện theo chỉ đạo của người dân",
+    "answer": "C",
+    "explanation": "Căn cứ Điều 241 khoản 3 Luật Đất đai 2024 quy định công chức làm công tác địa chính cấp xã khi thi hành công vụ có trách nhiệm phát hiện và đề xuất xử lý kịp thời các hành vi vi phạm pháp luật về đất đai."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, khi phát hiện công chức quản lý đất đai vi phạm thì người dân gửi kiến nghị đến đâu?",
+    "a": "Cơ quan báo chí",
+    "b": "Tòa án nhân dân",
+    "c": "Cơ quan có thẩm quyền theo từng cấp quản lý",
+    "d": "Không được quyền kiến nghị",
+    "answer": "C",
+    "explanation": "Căn cứ Điều 242 khoản 1 Luật Đất đai 2024 quy định người dân có quyền gửi kiến nghị đến Chủ tịch UBND cấp xã đối với công chức địa chính xã; gửi thủ trưởng cơ quan quản lý đất đai đối với cấp tương ứng; và gửi Chủ tịch UBND cùng cấp đối với thủ trưởng cơ quan quản lý đất đai."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, thời hạn giải quyết kiến nghị về vi phạm của công chức đất đai là bao lâu?",
+    "a": "15 ngày",
+    "b": "20 ngày",
+    "c": "30 ngày",
+    "d": "45 ngày",
+    "answer": "C",
+    "explanation": "Căn cứ Điều 242 khoản 2 Luật Đất đai 2024 quy định trong thời hạn 30 ngày kể từ ngày nhận kiến nghị, cơ quan có thẩm quyền phải xem xét, giải quyết và thông báo kết quả bằng văn bản."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, quy hoạch sử dụng đất quốc gia bao gồm những nội dung chủ yếu nào?",
+    "a": "Phân tích, đánh giá yếu tố tự nhiên, nguồn lực; dự báo xu thế sử dụng đất; xác định mục tiêu, định hướng sử dụng đất; xác định chỉ tiêu sử dụng đất; giải pháp thực hiện.",
+    "b": "Chỉ gồm phân tích hiện trạng sử dụng đất và dự báo biến động.",
+    "c": "Chỉ xác định chỉ tiêu đất nông nghiệp và phi nông nghiệp.",
+    "d": "Chỉ bao gồm giải pháp thực hiện quy hoạch.",
+    "answer": "a",
+    "explanation": "Căn cứ Điều 243 khoản 1 điểm a, b, c, d, đ, e Luật Đất đai 2024 (sửa đổi Điều 24 Luật Quy hoạch). Quy định rõ quy hoạch sử dụng đất quốc gia gồm: (a) phân tích điều kiện tự nhiên, nguồn lực; (b) dự báo xu thế sử dụng đất; (c) xác định quan điểm và mục tiêu; (d) định hướng sử dụng đất quốc gia; (đ) xác định chỉ tiêu sử dụng đất; (e) giải pháp, nguồn lực thực hiện."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, thời hạn giao khu vực biển để nuôi trồng thủy sản tối đa là bao lâu?",
+    "a": "Không quá 50 năm và có thể gia hạn nhưng tổng thời gian gia hạn không quá 20 năm.",
+    "b": "Không quá 70 năm và không được gia hạn.",
+    "c": "Không quá 30 năm và được gia hạn không giới hạn.",
+    "d": "Không quy định thời hạn cụ thể.",
+    "answer": "a",
+    "explanation": "Căn cứ Điều 244 Luật Đất đai 2024 (sửa đổi khoản 4 Điều 44 Luật Thủy sản 2017). Quy định: thời hạn giao khu vực biển không quá 50 năm; khi hết thời hạn được xem xét gia hạn nhiều lần nhưng tổng thời gian gia hạn không quá 20 năm."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, thu nhập chịu thuế từ chuyển nhượng quyền sử dụng đất được xác định như thế nào?",
+    "a": "Theo giá chuyển nhượng từng lần hoặc theo giá đất trong bảng giá đất.",
+    "b": "Theo giá thị trường do người chuyển nhượng tự xác định.",
+    "c": "Theo giá do cơ quan thuế ấn định không căn cứ bảng giá đất.",
+    "d": "Không phụ thuộc giá đất mà tính theo diện tích.",
+    "answer": "a",
+    "explanation": "Căn cứ Điều 247 Luật Đất đai 2024 (sửa đổi khoản 1 Điều 14 Luật Thuế TNCN). Quy định rõ: thu nhập chịu thuế từ chuyển nhượng bất động sản tính theo giá chuyển nhượng từng lần; riêng chuyển nhượng quyền sử dụng đất thì tính theo giá đất trong bảng giá đất."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, quy hoạch sử dụng đất cấp tỉnh thuộc danh mục quy hoạch nào?",
+    "a": "Quy hoạch sử dụng đất cấp tỉnh thuộc danh mục quy hoạch có tính chất kỹ thuật, chuyên ngành.",
+    "b": "Thuộc quy hoạch ngành quốc gia.",
+    "c": "Không thuộc hệ thống quy hoạch.",
+    "d": "Thuộc quy hoạch đô thị riêng biệt.",
+    "answer": "a",
+    "explanation": "Căn cứ Điều 243 khoản 4 Luật Đất đai 2024: bổ sung quy hoạch sử dụng đất cấp tỉnh vào Phụ lục danh mục quy hoạch kỹ thuật, chuyên ngành theo Luật Quy hoạch."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, việc lập quy hoạch sử dụng đất quốc phòng, an ninh bao gồm nội dung nào sau đây?",
+    "a": "Định hướng sử dụng đất; xác định nhu cầu sử dụng; phân kỳ quy hoạch; giải pháp thực hiện.",
+    "b": "Chỉ xác định diện tích đất quốc phòng.",
+    "c": "Chỉ phân kỳ sử dụng đất.",
+    "d": "Không cần xác định nhu cầu sử dụng đất.",
+    "answer": "a",
+    "explanation": "Căn cứ Điều 243 khoản 2 điểm b (khoản 4a Điều 25 Luật Quy hoạch). Quy định gồm: (a) định hướng sử dụng đất; (b) xác định nhu cầu sử dụng đất quốc phòng, an ninh; (c) phân kỳ quy hoạch theo 5 năm; (d) giải pháp, nguồn lực thực hiện."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, giá đất để tính thuế sử dụng đất phi nông nghiệp được xác định như thế nào?",
+    "a": "Theo bảng giá đất do UBND cấp tỉnh ban hành và ổn định theo chu kỳ 5 năm.",
+    "b": "Theo giá thị trường từng thời điểm.",
+    "c": "Theo giá do người sử dụng đất tự khai.",
+    "d": "Theo giá đấu giá quyền sử dụng đất.",
+    "answer": "a",
+    "explanation": "Căn cứ Điều 249 Luật Đất đai 2024 (sửa đổi khoản 3 Điều 6 Luật Thuế SDĐ phi nông nghiệp). Quy định rõ: giá 1m² đất tính theo bảng giá đất và ổn định trong chu kỳ 5 năm."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, khi đấu giá quyền sử dụng đất không thành thì xử lý như thế nào?",
+    "a": "Cơ quan có thẩm quyền được chấp thuận nhà đầu tư theo quy định pháp luật đầu tư.",
+    "b": "Hủy toàn bộ dự án đầu tư.",
+    "c": "Không được tiếp tục giao đất.",
+    "d": "Tự động chuyển sang chỉ định thầu không điều kiện.",
+    "answer": "a",
+    "explanation": "Căn cứ Điều 250 Luật Đất đai 2024 (sửa đổi khoản 3 Điều 29 Luật Đầu tư). Quy định: trường hợp đấu giá quyền sử dụng đất không thành thì cơ quan có thẩm quyền thực hiện thủ tục chấp thuận nhà đầu tư theo luật đầu tư."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, bảng giá đất do UBND cấp tỉnh ban hành được áp dụng đến thời điểm nào?",
+    "a": "Đến hết ngày 31/12/2025.",
+    "b": "Đến hết năm 2024.",
+    "c": "Không có thời hạn cụ thể.",
+    "d": "Chỉ áp dụng trong 1 năm.",
+    "answer": "a",
+    "explanation": "Căn cứ Điều 257 khoản 1 Luật Đất đai 2024: bảng giá đất theo Luật cũ tiếp tục áp dụng đến hết 31/12/2025, sau đó điều chỉnh theo luật mới."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, trường hợp thu hồi đất nhưng chưa phê duyệt phương án bồi thường thì áp dụng quy định nào?",
+    "a": "Tiếp tục thực hiện theo Luật Đất đai năm 2024.",
+    "b": "Áp dụng luật cũ 100%.",
+    "c": "Hủy quyết định thu hồi đất.",
+    "d": "Không giải quyết tiếp.",
+    "answer": "a",
+    "explanation": "Căn cứ Điều 254 khoản 1 Luật Đất đai 2024: nếu đã có quyết định thu hồi đất nhưng chưa phê duyệt phương án bồi thường thì tiếp tục thực hiện theo Luật Đất đai 2024."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, Giấy chứng nhận quyền sử dụng đất đã cấp trước đây có còn giá trị không?",
+    "a": "Vẫn có giá trị pháp lý và không bắt buộc cấp đổi.",
+    "b": "Bắt buộc phải đổi toàn bộ.",
+    "c": "Tự động hết hiệu lực.",
+    "d": "Chỉ có giá trị 1 năm.",
+    "answer": "a",
+    "explanation": "Căn cứ Điều 256 khoản 3 Luật Đất đai 2024: Giấy chứng nhận đã cấp trước ngày luật có hiệu lực vẫn có giá trị pháp lý, không bắt buộc cấp đổi, chỉ đổi khi có nhu cầu."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, quy hoạch sử dụng đất quốc gia bao gồm nội dung nào sau đây?",
+    "a": "Phân tích, đánh giá điều kiện tự nhiên và thực trạng sử dụng đất của các ngành, lĩnh vực",
+    "b": "Chỉ xác định chỉ tiêu sử dụng đất cấp xã",
+    "c": "Chỉ quy định giá đất cụ thể từng khu vực",
+    "d": "Chỉ quy định thủ tục cấp Giấy chứng nhận quyền sử dụng đất",
+    "correct": "a",
+    "explanation": "Đáp án đúng theo Điều 243 khoản 1 điểm a Luật Đất đai 2024: quy hoạch sử dụng đất quốc gia bao gồm phân tích, đánh giá điều kiện tự nhiên, nguồn lực và thực trạng sử dụng đất."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, quy hoạch sử dụng đất quốc phòng, an ninh bao gồm nội dung nào sau đây?",
+    "a": "Định hướng sử dụng đất quốc phòng, đất an ninh",
+    "b": "Chỉ xác định giá đất trong khu vực quốc phòng",
+    "c": "Chỉ quy định thủ tục cấp sổ đỏ",
+    "d": "Chỉ quy định thu hồi đất nông nghiệp",
+    "correct": "a",
+    "explanation": "Đáp án đúng theo Điều 243 khoản 4a điểm a: quy hoạch sử dụng đất quốc phòng, an ninh bao gồm định hướng sử dụng đất quốc phòng, an ninh."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, định hướng sử dụng đất đến từng đơn vị hành chính cấp huyện thuộc nội dung nào?",
+    "a": "Quy hoạch sử dụng đất cấp tỉnh",
+    "b": "Quy hoạch sử dụng đất quốc gia",
+    "c": "Quy hoạch sử dụng đất quốc phòng",
+    "d": "Kế hoạch thu hồi đất",
+    "correct": "a",
+    "explanation": "Đáp án đúng theo Điều 245 khoản 3: bổ sung điểm l khoản 2 Điều 27 quy định định hướng sử dụng đất đến từng đơn vị hành chính cấp huyện thuộc quy hoạch cấp tỉnh."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, thời hạn giao khu vực biển để nuôi trồng thủy sản tối đa là bao lâu?",
+    "a": "Không quá 50 năm",
+    "b": "Không quá 70 năm",
+    "c": "Không quá 30 năm",
+    "d": "Không quy định thời hạn",
+    "correct": "a",
+    "explanation": "Theo Điều 244 khoản 4 Luật Đất đai 2024: thời hạn giao khu vực biển không quá 50 năm."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, trường hợp không được chuyển mục đích sử dụng rừng tự nhiên là gì?",
+    "a": "Chuyển mục đích sang dự án quan trọng quốc gia",
+    "b": "Chuyển mục đích sang mục đích khác thông thường",
+    "c": "Chuyển mục đích phục vụ quốc phòng an ninh",
+    "d": "Chuyển mục đích phục vụ dự án cấp thiết theo Chính phủ quy định",
+    "correct": "b",
+    "explanation": "Theo Điều 248 khoản 1: không được chuyển mục đích sử dụng rừng tự nhiên sang mục đích khác, trừ các trường hợp đặc biệt như quốc phòng, an ninh hoặc dự án quan trọng."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, giá tính thuế sử dụng đất phi nông nghiệp là gì?",
+    "a": "Giá đất theo bảng giá đất và ổn định theo chu kỳ 5 năm",
+    "b": "Giá thị trường tại thời điểm chuyển nhượng",
+    "c": "Giá do người sử dụng đất tự khai",
+    "d": "Giá do ngân hàng định giá",
+    "correct": "a",
+    "explanation": "Theo Điều 249 khoản 3: giá 1m2 đất là giá theo bảng giá đất và ổn định theo chu kỳ 5 năm."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, trường hợp nào không phải đấu giá quyền sử dụng đất?",
+    "a": "Đấu giá không thành theo Luật Đất đai",
+    "b": "Có nhiều nhà đầu tư cùng tham gia",
+    "c": "Khu đất có giá trị cao",
+    "d": "Đất ở đô thị",
+    "correct": "a",
+    "explanation": "Theo Điều 250 khoản 3 điểm a: đấu giá quyền sử dụng đất không thành là trường hợp thực hiện thủ tục chấp thuận nhà đầu tư."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, văn bản nào bị bãi bỏ liên quan đến đất đai?",
+    "a": "Nghị quyết 132/2020/QH14",
+    "b": "Luật Dân sự 2015",
+    "c": "Luật Hình sự 2015",
+    "d": "Luật Giao thông đường bộ",
+    "correct": "a",
+    "explanation": "Theo Điều 251 khoản 2: bãi bỏ Nghị quyết số 132/2020/QH14 về thí điểm chính sách đất quốc phòng, an ninh."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, Luật Đất đai số 45/2013/QH13 có hiệu lực đến thời điểm nào?",
+    "a": "Hết ngày 31/12/2025",
+    "b": "Hết ngày 01/01/2025",
+    "c": "Không bị bãi bỏ",
+    "d": "Hết năm 2026",
+    "correct": "b",
+    "explanation": "Theo Điều 252 khoản 4: Luật Đất đai 2013 hết hiệu lực từ ngày Luật này có hiệu lực (01/01/2025)."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, quy hoạch, kế hoạch sử dụng đất đã được phê duyệt trước khi luật có hiệu lực thì xử lý như thế nào?",
+    "a": "Tiếp tục thực hiện",
+    "b": "Hủy bỏ toàn bộ",
+    "c": "Phải lập lại từ đầu",
+    "d": "Chỉ áp dụng trong 1 năm",
+    "correct": "a",
+    "explanation": "Theo Điều 253 khoản 1: quy hoạch, kế hoạch đã phê duyệt trước khi luật có hiệu lực thì tiếp tục thực hiện."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, trường hợp đã có quyết định thu hồi đất nhưng chưa có phương án bồi thường thì áp dụng luật nào?",
+    "a": "Áp dụng Luật Đất đai 2024",
+    "b": "Áp dụng Luật cũ 2013",
+    "c": "Không xử lý",
+    "d": "Áp dụng tùy địa phương",
+    "correct": "a",
+    "explanation": "Theo Điều 254 khoản 1: tiếp tục thực hiện bồi thường, hỗ trợ, tái định cư theo Luật Đất đai 2024."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, trường hợp đã có quyết định thu hồi đất và phương án bồi thường nhưng chưa chi trả thì xử lý thế nào?",
+    "a": "Tiếp tục thực hiện phương án đã phê duyệt",
+    "b": "Hủy phương án",
+    "c": "Lập lại phương án mới",
+    "d": "Dừng toàn bộ dự án",
+    "correct": "a",
+    "explanation": "Theo Điều 254 khoản 2: tiếp tục thực hiện phương án bồi thường đã phê duyệt."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, đất vượt hạn mức giao đất nông nghiệp phải xử lý như thế nào?",
+    "a": "Chuyển sang thuê đất",
+    "b": "Giữ nguyên sử dụng miễn phí",
+    "c": "Bị thu hồi toàn bộ",
+    "d": "Chuyển sang đất ở",
+    "correct": "a",
+    "explanation": "Theo Điều 255 khoản 1: phần vượt hạn mức phải chuyển sang thuê đất."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, hồ sơ địa chính dạng giấy trước đây được xử lý thế nào?",
+    "a": "Tiếp tục sử dụng và số hóa dần",
+    "b": "Hủy toàn bộ",
+    "c": "Không còn giá trị",
+    "d": "Chỉ dùng nội bộ",
+    "correct": "a",
+    "explanation": "Theo Điều 256 khoản 1: hồ sơ địa chính giấy được tiếp tục sử dụng và số hóa."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, bảng giá đất do UBND cấp tỉnh ban hành được áp dụng đến thời điểm nào?",
+    "a": "Đến hết 31/12/2025",
+    "b": "Đến hết 2024",
+    "c": "Không còn áp dụng",
+    "d": "Đến khi có bảng giá mới",
+    "correct": "a",
+    "explanation": "Theo Điều 257 khoản 1: bảng giá đất được tiếp tục áp dụng đến 31/12/2025."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, trường hợp nào được tiếp tục sử dụng đất khi hết thời hạn sử dụng?",
+    "a": "Có thể được gia hạn hoặc thu hồi theo luật",
+    "b": "Tự động mất quyền sử dụng",
+    "c": "Không cần xử lý",
+    "d": "Chuyển thành đất công",
+    "correct": "a",
+    "explanation": "Theo Điều 258 khoản 2: hết thời hạn sử dụng đất thì xem xét gia hạn hoặc thu hồi theo Luật Đất đai 2024."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, hộ gia đình sử dụng đất trước đây được xác định như thế nào?",
+    "a": "Nhóm người sử dụng đất có chung quyền sử dụng đất",
+    "b": "Cá nhân sở hữu toàn bộ",
+    "c": "Nhà nước sở hữu",
+    "d": "Do UBND cấp xã quản lý",
+    "correct": "a",
+    "explanation": "Theo Điều 259 khoản 1: hộ gia đình được xác định là nhóm người có chung quyền sử dụng đất."
+  },
+  {
+    "question": "Theo Luật Đất Đai năm 2024, trường hợp dự án khu công nghiệp đã cho thuê đất trước đây thì xử lý thế nào?",
+    "a": "Tiếp tục sử dụng theo thời hạn còn lại",
+    "b": "Thu hồi toàn bộ",
+    "c": "Phải đấu giá lại",
+    "d": "Chuyển sang đất ở",
+    "correct": "a",
+    "explanation": "Theo Điều 260 khoản 3: tiếp tục sử dụng đất theo thời hạn còn lại của dự án."
+  },
   {
     "question": "Theo Luật Đất đai 2024, đâu KHÔNG phải là căn cứ để tính tiền sử dụng đất, tiền thuê đất?",
     "a": "Diện tích đất được giao, cho thuê, chuyển mục đích sử dụng",
