@@ -1,5 +1,185 @@
 [
   {
+    "question": "Theo Luật Nhà ở 2023, trong cơ chế xác định nhu cầu nhà ở cho lực lượng vũ trang nhân dân, cơ quan nào có thẩm quyền tổng hợp và chịu trách nhiệm về số liệu nhu cầu đối với đối tượng thuộc phạm vi quản lý?",
+    "a": "Ủy ban nhân dân cấp tỉnh sở tại nơi có dự án nhà ở",
+    "b": "Bộ Xây dựng chủ trì phối hợp với các cơ quan chuyên môn",
+    "c": "Bộ Quốc phòng và Bộ Công an xác định đối với đối tượng thuộc phạm vi quản lý",
+    "d": "Cơ quan quản lý nhà ở cấp tỉnh phối hợp với Ban chỉ huy quân sự địa phương",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 102 Luật Nhà ở 2023, Bộ Quốc phòng và Bộ Công an có trách nhiệm xác định nhu cầu nhà ở đối với đối tượng thuộc phạm vi quản lý."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hình thức phát triển nhà ở cho lực lượng vũ trang nhân dân nào sau đây bị cấm trong việc triển khai dự án?",
+    "a": "Đầu tư bằng vốn đầu tư công để cho thuê",
+    "b": "Doanh nghiệp bất động sản đầu tư để bán, thuê mua, cho thuê",
+    "c": "Nhà nước giao đất trực tiếp cho cá nhân là sĩ quan để tự xây dựng nhà ở riêng lẻ trong dự án",
+    "d": "Đầu tư bằng nguồn vốn hợp pháp khác để cho thuê mua",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 103 khoản 3 Luật Nhà ở 2023, chủ đầu tư dự án không được chuyển nhượng quyền sử dụng đất để cá nhân tự xây dựng nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc bố trí quỹ đất để phát triển dự án nhà ở cho lực lượng vũ trang nhân dân phải tuân thủ nguyên tắc nào?",
+    "a": "Phải bố trí trong phạm vi đất quốc phòng, an ninh được chuyển đổi mục đích",
+    "b": "Ủy ban nhân dân cấp tỉnh quyết định bố trí đất trong quỹ đất phát triển nhà ở xã hội",
+    "c": "Phải dành tối thiểu 50% diện tích đất ở của dự án khu đô thị mới",
+    "d": "Bộ Tài nguyên và Môi trường thực hiện giao đất trực tiếp cho Bộ Quốc phòng",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 104 Luật Nhà ở 2023, Ủy ban nhân dân cấp tỉnh quyết định bố trí đất trong quỹ đất phát triển nhà ở xã hội để xây dựng nhà ở cho lực lượng vũ trang nhân dân."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, dự án nhà ở cho lực lượng vũ trang nhân dân khi triển khai phải đáp ứng điều kiện tiêu chuẩn nào?",
+    "a": "Tuân thủ nghiêm ngặt Luật Đầu tư công và Luật Đấu thầu",
+    "b": "Phải phù hợp với quy hoạch sử dụng đất quốc phòng, an ninh",
+    "c": "Phải đáp ứng quy định tại Điều 33 Luật Nhà ở và các quy định của Bộ Quốc phòng, Bộ Công an",
+    "d": "Phải có sự phê duyệt của Hội đồng nhân dân tỉnh nơi dự án tọa lạc",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 105 khoản 2 Luật Nhà ở 2023, dự án phải đáp ứng Điều 33 Luật Nhà ở và quy định của Bộ Quốc phòng, Bộ Công an."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, đối với các dự án nhà ở cho lực lượng vũ trang nhân dân không sử dụng vốn đầu tư công, thẩm quyền lựa chọn chủ đầu tư thuộc về ai?",
+    "a": "Bộ Quốc phòng/Bộ Công an (tùy theo đơn vị thụ hưởng)",
+    "b": "Ủy ban nhân dân cấp tỉnh",
+    "c": "Bộ Xây dựng",
+    "d": "Chính phủ quyết định thông qua chủ trương đầu tư",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 106 khoản 2 Luật Nhà ở 2023, Ủy ban nhân dân cấp tỉnh lựa chọn chủ đầu tư đối với dự án không sử dụng vốn đầu tư công."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nguồn vốn nhà nước dành cho phát triển nhà ở không bao gồm thành phần nào sau đây?",
+    "a": "Vốn từ ngân sách nhà nước theo Luật Đầu tư công",
+    "b": "Vốn thu được từ bán nhà ở thuộc sở hữu nhà nước",
+    "c": "Vốn huy động từ cá nhân dưới hình thức góp vốn tự phát không qua đăng ký",
+    "d": "Vốn từ nguồn vay ưu đãi từ các tổ chức tài chính quốc tế",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 113 Luật Nhà ở 2023, vốn nhà nước gồm đầu tư công, trái phiếu, ODA, vốn vay ưu đãi... không bao gồm vốn tự phát không hợp pháp."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nguyên tắc huy động vốn để phát triển nhà ở nghiêm cấm hành vi nào sau đây?",
+    "a": "Huy động vốn dưới hình thức chia nhỏ diện tích sàn",
+    "b": "Phân chia sản phẩm nhà ở dưới hình thức phân chia căn hộ cho bên góp vốn",
+    "c": "Sử dụng vốn huy động từ khách hàng để triển khai hạ tầng",
+    "d": "Huy động vốn trước khi được cấp phép xây dựng",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 116 Luật Nhà ở 2023, không được phân chia sản phẩm nhà ở (dưới mọi hình thức) cho bên góp vốn."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nguồn vốn để Ngân hàng Chính sách xã hội thực hiện cho vay ưu đãi phát triển nhà ở xã hội được hình thành từ đâu?",
+    "a": "Nguồn vốn huy động trực tiếp từ tiền gửi tiết kiệm của nhân dân",
+    "b": "Ngân sách nhà nước cấp và nguồn huy động khác theo quy định pháp luật",
+    "c": "Lợi nhuận từ các dịch vụ ngân hàng thương mại",
+    "d": "Vốn góp cổ phần của các doanh nghiệp bất động sản",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 117 khoản 1 Luật Nhà ở 2023, nguồn vốn cho vay là từ ngân sách nhà nước cấp và các nguồn hợp pháp theo quy định."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc xác định đối tượng được hưởng chính sách hỗ trợ về nhà ở cho lực lượng vũ trang nhân dân phải dựa trên căn cứ pháp lý nào?",
+    "a": "Danh sách cán bộ do cơ quan quản lý nhân sự địa phương cung cấp",
+    "b": "Đối tượng quy định tại khoản 7 Điều 76 của Luật Nhà ở",
+    "c": "Người có thu nhập thấp làm việc trong khu vực quốc phòng",
+    "d": "Tất cả các cá nhân đang phục vụ trong quân đội và công an",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 101 khoản 1 Luật Nhà ở 2023, đối tượng được hưởng chính sách là đối tượng quy định tại khoản 7 Điều 76 của Luật Nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi chủ đầu tư dự án nhà ở cho lực lượng vũ trang nhân dân triển khai, họ KHÔNG có quyền thực hiện hành vi nào sau đây?",
+    "a": "Bán nhà ở cho đối tượng đủ điều kiện",
+    "b": "Cho thuê mua nhà ở theo hợp đồng mẫu",
+    "c": "Chuyển nhượng quyền sử dụng đất để đối tượng thụ hưởng tự xây dựng nhà ở",
+    "d": "Cho thuê nhà ở trong thời hạn quy định",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 105 khoản 3 Luật Nhà ở 2023, chủ đầu tư không được chuyển nhượng quyền sử dụng đất để cá nhân tự xây dựng nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc xác định giá bán, giá thuê mua, giá thuê nhà ở cho lực lượng vũ trang nhân dân trong dự án không sử dụng vốn đầu tư công phải thực hiện theo nguyên tắc nào?",
+    "a": "Chủ đầu tư toàn quyền quyết định dựa trên cơ sở thu hồi vốn và lợi nhuận hợp lý",
+    "b": "Áp dụng phương pháp xác định giá tương tự như nhà ở xã hội quy định tại Điều 87 Luật Nhà ở 2023",
+    "c": "Do UBND cấp tỉnh quyết định dựa trên bảng giá đất và chi phí xây dựng thực tế",
+    "d": "Phải có sự thỏa thuận giữa cơ quan quản lý nhân sự của đơn vị quốc phòng/công an với chủ đầu tư",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 108 khoản 2 Luật Nhà ở 2023, đối với dự án không sử dụng vốn đầu tư công thì xác định giá theo Điều 87 Luật Nhà ở 2023."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trình tự, thủ tục bán, cho thuê mua, cho thuê nhà ở cho lực lượng vũ trang nhân dân do cơ quan nào quy định chi tiết?",
+    "a": "Ủy ban nhân dân cấp tỉnh ban hành quy chế riêng cho từng dự án",
+    "b": "Bộ Quốc phòng và Bộ Công an tự quy định trong nội bộ ngành",
+    "c": "Chính phủ quy định chi tiết về trình tự, thủ tục thực hiện",
+    "d": "Bộ Xây dựng ban hành thông tư hướng dẫn thực hiện thống nhất toàn quốc",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 109 khoản 3 Luật Nhà ở 2023, Chính phủ quy định trình tự, thủ tục bán, cho thuê mua, cho thuê nhà ở này."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp hộ gia đình, cá nhân được hỗ trợ vốn vay và ngân sách nhưng vẫn không đủ khả năng tự xây dựng/cải tạo nhà ở, Nhà nước có chính sách gì?",
+    "a": "Hỗ trợ thêm bằng cách cho phép chuyển đổi mục đích sử dụng đất sang thương mại",
+    "b": "Có thể xem xét hình thức tặng cho nhà ở theo quy định của pháp luật",
+    "c": "Đình chỉ hỗ trợ và thu hồi các khoản vốn đã giải ngân",
+    "d": "Cho phép cá nhân thuê nhà ở công vụ trong thời hạn 05 năm",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 110 khoản 2 điểm d Luật Nhà ở 2023, trường hợp không đủ khả năng tài chính sau khi đã hỗ trợ vẫn có thể được xem xét tặng nhà."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, điều kiện đối với hộ gia đình, cá nhân muốn được vay vốn ưu đãi để cải tạo nhà ở tại nơi thường trú yêu cầu phải có yếu tố nào?",
+    "a": "Phải là đối tượng thuộc diện hưởng lương từ ngân sách nhà nước",
+    "b": "Phải có quyền sử dụng đất ở hoặc nhà ở cần cải tạo tại địa phương nơi đăng ký thường trú",
+    "c": "Phải có xác nhận không có nhà ở tại bất kỳ tỉnh, thành phố nào khác",
+    "d": "Phải có cam kết không thực hiện chuyển nhượng quyền sử dụng đất trong 10 năm",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 110 khoản 4 Luật Nhà ở 2023, điều kiện là phải có đất ở hoặc nhà ở cần cải tạo tại nơi thường trú."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hành vi nào sau đây bị coi là vi phạm nghiêm trọng trong nguyên tắc huy động vốn để phát triển nhà ở?",
+    "a": "Hợp tác đầu tư với doanh nghiệp khác để triển khai hạ tầng",
+    "b": "Huy động vốn dưới hình thức phân chia sản phẩm nhà ở cho bên góp vốn",
+    "c": "Vay vốn từ các tổ chức tín dụng để triển khai dự án",
+    "d": "Phát hành trái phiếu doanh nghiệp theo quy định của Luật Chứng khoán",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 116 khoản 2 Luật Nhà ở 2023, nghiêm cấm phân chia sản phẩm nhà ở dưới hình thức phân chia căn hộ/nhà cho bên góp vốn."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nguồn vốn để phát triển nhà ở công vụ được quy định cụ thể như thế nào?",
+    "a": "Chủ yếu từ nguồn vốn huy động từ chủ đầu tư các dự án thương mại",
+    "b": "Sử dụng vốn ngân sách nhà nước để đầu tư xây dựng",
+    "c": "Kết hợp giữa vốn ngân sách và vốn ODA theo hình thức PPP",
+    "d": "Sử dụng quỹ nhà ở do các doanh nghiệp nhà nước tự đầu tư",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 115 khoản 2 Luật Nhà ở 2023, nhà ở công vụ chủ yếu sử dụng vốn ngân sách nhà nước."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc quản lý nguồn vốn vay ưu đãi tại Ngân hàng Chính sách xã hội cho mục đích phát triển nhà ở xã hội phải được thực hiện như thế nào?",
+    "a": "Gộp chung vào quỹ tín dụng chung của ngân hàng để tăng tính thanh khoản",
+    "b": "Phải được lập thành khoản mục riêng biệt để theo dõi và quản lý",
+    "c": "Điều chuyển theo từng năm dựa trên chỉ tiêu tăng trưởng tín dụng của ngân hàng",
+    "d": "Quản lý theo hình thức ủy thác thông qua các quỹ đầu tư phát triển địa phương",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 117 khoản 3 Luật Nhà ở 2023, Ngân hàng Chính sách xã hội phải lập khoản mục riêng để quản lý vốn cho vay."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hậu quả pháp lý đối với hợp đồng huy động vốn không đúng hình thức hoặc điều kiện theo luật là gì?",
+    "a": "Hợp đồng vẫn có hiệu lực nhưng phải nộp phạt hành chính",
+    "b": "Hợp đồng không có giá trị pháp lý và các bên phải hoàn trả cho nhau những gì đã nhận",
+    "c": "Hợp đồng được coi là vô hiệu một phần và cần điều chỉnh lại",
+    "d": "Cơ quan quản lý nhà ở sẽ can thiệp để ép buộc thực hiện hợp đồng",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 116 khoản 2 Luật Nhà ở 2023, huy động vốn sai hình thức/điều kiện thì không có giá trị pháp lý."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, vốn để phát triển nhà ở tái định cư bao gồm những nguồn nào?",
+    "a": "Chỉ sử dụng ngân sách trung ương",
+    "b": "Vốn của chủ đầu tư và các nguồn vốn huy động hợp pháp khác",
+    "c": "Sử dụng nguồn tiền thu từ đấu giá đất công cộng trong khu vực dự án",
+    "d": "Nguồn vốn vay thương mại từ ngân hàng nước ngoài",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 115 khoản 4 Luật Nhà ở 2023, nhà ở tái định cư bao gồm vốn chủ đầu tư và vốn huy động hợp pháp."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hình thức thực hiện chính sách hỗ trợ nhà ở cho hộ gia đình, cá nhân được tổ chức theo những phương thức nào?",
+    "a": "Do người dân tự tổ chức xây dựng hoặc Nhà nước tổ chức xây dựng",
+    "b": "Chỉ hỗ trợ bằng tiền mặt để người dân tự mua nhà ở thương mại",
+    "c": "Nhà nước hỗ trợ đất, người dân tự xây dựng toàn bộ",
+    "d": "Thông qua việc cung cấp các căn hộ nhà ở xã hội sẵn có tại địa phương",
+    "answer": "a",
+    "explanation": "Căn cứ Điều 111 Luật Nhà ở 2023, hỗ trợ gồm tự tổ chức xây dựng hoặc Nhà nước tổ chức xây dựng."
+  },
+  {
     "question": "Theo Luật Nhà ở 2023, đối tượng nào sau đây được liệt kê cụ thể trong nhóm người thu nhập thấp tại khu vực đô thị để hưởng chính sách hỗ trợ về nhà ở xã hội?",
     "a": "Người nước ngoài đang cư trú và làm việc hợp pháp tại Việt Nam",
     "b": "Người thu nhập thấp tại khu vực đô thị",
