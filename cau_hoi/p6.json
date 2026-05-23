@@ -1,4 +1,426 @@
 [
+   {"question": "Theo NĐ 102/2024/NĐ-CP, đất trồng cây hằng năm bao gồm loại đất nào sau đây?",
+    "a": "Đất trồng cây lâu năm và đất rừng sản xuất",
+    "b": "Đất trồng lúa và đất trồng cây hằng năm khác",
+    "c": "Đất trồng lúa và đất trồng cây lâu năm",
+    "d": "Đất nông nghiệp khác và đất trồng lúa",
+    "correct": "b",
+    "explanation": "Căn cứ Điều 4 khoản 1 Nghị định 102/2024/NĐ-CP quy định đất trồng cây hằng năm gồm đất trồng lúa và đất trồng cây hằng năm khác."
+  },
+  {
+    "question": "Theo NĐ 102/2024/NĐ-CP, đất trồng lúa chuyên trồng lúa được hiểu là loại đất nào?",
+    "a": "Đất trồng 1 vụ lúa với năng suất cao",
+    "b": "Đất trồng từ 2 vụ lúa trở lên",
+    "c": "Đất lúa thuộc khu vực quy hoạch nông nghiệp công nghệ cao",
+    "d": "Đất chuyên dùng để trồng lúa nước hoặc lúa nương",
+    "correct": "b",
+    "explanation": "Căn cứ Điều 4 khoản 1 điểm a Nghị định 102/2024/NĐ-CP, đất chuyên trồng lúa là đất trồng từ 02 vụ lúa trở lên."
+  },
+  {
+    "question": "Theo NĐ 102/2024/NĐ-CP, đất trồng cây lâu năm được hiểu như thế nào?",
+    "a": "Cây trồng dưới 1 năm",
+    "b": "Cây gieo trồng một lần, sinh trưởng nhiều năm và cho thu hoạch nhiều lần",
+    "c": "Cây trồng trong nhà kính",
+    "d": "Cây trồng theo mùa vụ",
+    "correct": "b",
+    "explanation": "Căn cứ Điều 4 khoản 2 Nghị định 102/2024/NĐ-CP, đất trồng cây lâu năm là đất trồng cây gieo một lần, sinh trưởng nhiều năm và cho thu hoạch một hoặc nhiều lần."
+  },
+  {
+    "question": "Theo NĐ 102/2024/NĐ-CP, đất rừng sản xuất được xác định như thế nào?",
+    "a": "Đất trồng cây hằng năm",
+    "b": "Đất có rừng đặc dụng",
+    "c": "Đất có rừng sản xuất hoặc được giao, cho thuê để phát triển rừng sản xuất",
+    "d": "Đất nuôi thủy sản",
+    "correct": "c",
+    "explanation": "Căn cứ Điều 4 khoản 3 điểm c Nghị định 102/2024/NĐ-CP, đất rừng sản xuất là đất có rừng sản xuất hoặc được giao, cho thuê, chuyển mục đích để phát triển rừng sản xuất."
+  },
+  {
+    "question": "Theo NĐ 102/2024/NĐ-CP, đất nuôi trồng thủy sản được hiểu là gì?",
+    "a": "Đất trồng cây",
+    "b": "Đất xây dựng nhà ở",
+    "c": "Đất sử dụng chuyên vào mục đích nuôi trồng thủy sản",
+    "d": "Đất sản xuất công nghiệp",
+    "correct": "c",
+    "explanation": "Căn cứ Điều 4 khoản 4 Nghị định 102/2024/NĐ-CP, đất nuôi trồng thủy sản là đất sử dụng chuyên vào mục đích nuôi trồng thủy sản."
+  },
+  {
+    "question": "Theo NĐ 102/2024/NĐ-CP, đất làm muối được sử dụng vào mục đích nào?",
+    "a": "Trồng cây công nghiệp",
+    "b": "Sản xuất muối từ nước biển",
+    "c": "Nuôi trồng thủy sản",
+    "d": "Xây dựng công nghiệp",
+    "correct": "b",
+    "explanation": "Căn cứ Điều 4 khoản 6 Nghị định 102/2024/NĐ-CP, đất làm muối là đất sử dụng vào mục đích sản xuất muối từ nước biển."
+  },
+  {
+    "question": "Theo NĐ 102/2024/NĐ-CP, đất nông nghiệp khác bao gồm loại nào sau đây?",
+    "a": "Đất ở đô thị",
+    "b": "Đất xây dựng trụ sở cơ quan",
+    "c": "Đất ươm cây giống, đất nhà kính phục vụ nông nghiệp",
+    "d": "Đất khu công nghiệp",
+    "correct": "c",
+    "explanation": "Căn cứ Điều 4 khoản 7 Nghị định 102/2024/NĐ-CP, đất nông nghiệp khác gồm đất ươm cây giống, đất trồng hoa cây cảnh, đất nhà kính và công trình phục vụ nông nghiệp."
+  },
+  {
+    "question": "Theo NĐ 102/2024/NĐ-CP, đất ở tại nông thôn được xác định như thế nào?",
+    "a": "Đất trong phường",
+    "b": "Đất thuộc xã, trừ đất đô thị mới",
+    "c": "Đất khu công nghiệp",
+    "d": "Đất quốc phòng",
+    "correct": "b",
+    "explanation": "Căn cứ Điều 5 khoản 1 điểm a Nghị định 102/2024/NĐ-CP, đất ở tại nông thôn là đất thuộc địa giới đơn vị hành chính xã, trừ trường hợp đô thị mới."
+  },
+  {
+    "question": "Theo NĐ 102/2024/NĐ-CP, đất ở tại đô thị gồm những khu vực nào?",
+    "a": "Chỉ phường",
+    "b": "Phường, thị trấn và một số xã thuộc đô thị mới",
+    "c": "Chỉ xã",
+    "d": "Khu nông thôn",
+    "correct": "b",
+    "explanation": "Căn cứ Điều 5 khoản 1 điểm b Nghị định 102/2024/NĐ-CP, đất ở đô thị gồm đất thuộc phường, thị trấn và đất trong xã thuộc dự án đô thị mới."
+  },
+  {
+    "question": "Theo NĐ 102/2024/NĐ-CP, trường hợp không có giấy tờ về đất thì xác định loại đất như thế nào?",
+    "a": "Theo giá thị trường",
+    "b": "Theo hiện trạng sử dụng đất",
+    "c": "Theo ý kiến người dân",
+    "d": "Theo quyết định tòa án",
+    "correct": "b",
+    "explanation": "Căn cứ Điều 7 khoản 1 Nghị định 102/2024/NĐ-CP, trường hợp không có giấy tờ thì xác định loại đất theo hiện trạng sử dụng đất."
+  },
+  {
+    "question": "Theo NĐ 102/2024/NĐ-CP, nếu giấy tờ về đất khác với hiện trạng thì xử lý thế nào?",
+    "a": "Theo giấy tờ",
+    "b": "Theo hiện trạng",
+    "c": "Theo Điều 7 khoản 3, tùy trường hợp trước hoặc sau 15/10/1993",
+    "d": "Do người sử dụng đất quyết định",
+    "correct": "c",
+    "explanation": "Căn cứ Điều 7 khoản 3 Nghị định 102/2024/NĐ-CP, trường hợp giấy tờ khác hiện trạng thì xử lý theo quy định từng trường hợp trước hoặc sau 15/10/1993."
+  },
+  {
+    "question": "Theo NĐ 102/2024/NĐ-CP, đất chưa sử dụng được hiểu như thế nào?",
+    "a": "Đất đang tranh chấp",
+    "b": "Đất đã giao nhưng chưa xây dựng",
+    "c": "Đất chưa xác định mục đích sử dụng và chưa giao, chưa cho thuê",
+    "d": "Đất đang quy hoạch",
+    "correct": "c",
+    "explanation": "Căn cứ Điều 6 Nghị định 102/2024/NĐ-CP, đất chưa sử dụng là đất chưa xác định mục đích sử dụng và chưa được giao hoặc cho thuê."
+  },
+  {
+    "question": "Theo NĐ 102/2024/NĐ-CP, trong trường hợp tổ chức kinh tế có vốn đầu tư nước ngoài nhận chuyển nhượng quyền sử dụng đất tại khu vực hạn chế tiếp cận đất đai để thực hiện dự án đầu tư thì bắt buộc phải thực hiện thủ tục nào?",
+    "a": "Chỉ cần đăng ký biến động đất đai",
+    "b": "Chỉ cần UBND cấp xã xác nhận",
+    "c": "Phải lấy ý kiến Bộ Quốc phòng và Bộ Công an theo quy định",
+    "d": "Chỉ cần công chứng hợp đồng chuyển nhượng",
+    "correct": "c",
+    "explanation": "Căn cứ Điều 10 khoản 3 NĐ 102/2024/NĐ-CP, trường hợp nhận chuyển nhượng hoặc góp vốn bằng quyền sử dụng đất tại khu vực hạn chế tiếp cận đất đai thì phải lấy ý kiến Bộ Quốc phòng và Bộ Công an."
+  },
+  {
+    "question": "Theo NĐ 102/2024/NĐ-CP, trình tự xử lý việc lấy ý kiến Bộ Quốc phòng, Bộ Công an trong khu vực hạn chế tiếp cận đất đai được thực hiện như thế nào?",
+    "a": "Do doanh nghiệp tự thực hiện trực tiếp với Bộ Quốc phòng",
+    "b": "UBND cấp tỉnh gửi văn bản lấy ý kiến sau khi nhận đề nghị",
+    "c": "Công chứng viên thực hiện lấy ý kiến",
+    "d": "Người dân tự nộp hồ sơ lên Bộ Quốc phòng",
+    "correct": "b",
+    "explanation": "Căn cứ Điều 10 khoản 3 điểm b NĐ 102/2024/NĐ-CP, UBND cấp tỉnh là cơ quan gửi văn bản lấy ý kiến Bộ Quốc phòng và Bộ Công an."
+  },
+  {
+    "question": "Theo NĐ 102/2024/NĐ-CP, thời hạn để Bộ Quốc phòng và Bộ Công an có ý kiến về việc nhận chuyển nhượng quyền sử dụng đất tại khu vực hạn chế tiếp cận đất đai là bao lâu?",
+    "a": "10 ngày",
+    "b": "15 ngày",
+    "c": "20 ngày kể từ ngày nhận văn bản",
+    "d": "30 ngày",
+    "correct": "c",
+    "explanation": "Căn cứ Điều 10 khoản 3 điểm c NĐ 102/2024/NĐ-CP, Bộ Quốc phòng và Bộ Công an có 20 ngày để trả lời kể từ ngày nhận văn bản lấy ý kiến."
+  },
+  {
+    "question": "Theo NĐ 102/2024/NĐ-CP, nguyên tắc phân bổ chỉ tiêu sử dụng đất phải bảo đảm yếu tố nào sau đây là quan trọng nhất?",
+    "a": "Tối đa hóa giá trị thương mại đất",
+    "b": "Phù hợp tiềm năng đất đai và định hướng phát triển kinh tế - xã hội",
+    "c": "Ưu tiên doanh nghiệp có vốn đầu tư nước ngoài",
+    "d": "Tăng nhanh tốc độ đô thị hóa",
+    "correct": "b",
+    "explanation": "Căn cứ Điều 22 khoản 1 điểm a NĐ 102/2024/NĐ-CP, phân bổ chỉ tiêu sử dụng đất phải phù hợp tiềm năng đất đai, phát huy hiệu quả nguồn lực và phục vụ phát triển kinh tế - xã hội."
+  },
+  {
+    "question": "Theo NĐ 102/2024/NĐ-CP, việc phân bổ chỉ tiêu sử dụng đất phải dựa trên cơ sở nào sau đây?",
+    "a": "Giá đất thị trường",
+    "b": "Quy hoạch tổng thể quốc gia và quy hoạch ngành",
+    "c": "Ý kiến doanh nghiệp bất động sản",
+    "d": "Thỏa thuận giữa cá nhân sử dụng đất",
+    "correct": "b",
+    "explanation": "Căn cứ Điều 22 khoản 1 điểm b NĐ 102/2024/NĐ-CP, việc phân bổ chỉ tiêu phải phù hợp quy hoạch tổng thể quốc gia, quy hoạch sử dụng đất quốc gia và quy hoạch ngành."
+  },
+  {
+    "question": "Theo NĐ 102/2024/NĐ-CP, tiêu chí phân bổ đất ở tại nông thôn và đô thị được xác định chủ yếu dựa trên yếu tố nào?",
+    "a": "Giá chuyển nhượng quyền sử dụng đất",
+    "b": "Chiến lược phát triển nhà ở, dân số và đô thị hóa",
+    "c": "Thỏa thuận giữa người dân",
+    "d": "Ý kiến công chứng viên",
+    "correct": "b",
+    "explanation": "Căn cứ Điều 22 khoản 3 điểm g NĐ 102/2024/NĐ-CP, đất ở được xác định dựa trên chiến lược nhà ở quốc gia, dân số, đô thị hóa, định mức sử dụng đất và quy hoạch tỉnh."
+  },
+  {
+    "question": "Theo NĐ 102/2024/NĐ-CP, khi phân bổ đất khu công nghiệp thì tiêu chí quan trọng cần xem xét là gì?",
+    "a": "Mức thuế đất",
+    "b": "Tỷ lệ lấp đầy khu công nghiệp",
+    "c": "Giá trị chuyển nhượng",
+    "d": "Số lượng công chứng hợp đồng",
+    "correct": "b",
+    "explanation": "Căn cứ Điều 22 khoản 3 điểm k NĐ 102/2024/NĐ-CP, đất khu công nghiệp được xác định trên cơ sở nhu cầu phát triển công nghiệp và tỷ lệ lấp đầy khu công nghiệp."
+  },
+  {
+    "question": "Theo NĐ 102/2024/NĐ-CP, việc phân bổ đất quốc phòng, an ninh phải căn cứ vào yếu tố nào?",
+    "a": "Giá đất tại địa phương",
+    "b": "Chỉ tiêu sử dụng đất do Quốc hội quyết định và nhu cầu của Bộ Quốc phòng, Bộ Công an",
+    "c": "Kế hoạch của UBND cấp xã",
+    "d": "Nhu cầu doanh nghiệp",
+    "correct": "b",
+    "explanation": "Căn cứ Điều 22 khoản 2 điểm c NĐ 102/2024/NĐ-CP, đất quốc phòng, an ninh được xác định theo chỉ tiêu Quốc hội quyết định và nhu cầu của Bộ Quốc phòng, Bộ Công an."
+  },
+  {
+    "question": "Theo Nghị định 102/2024/NĐ-CP, khu vực hạn chế tiếp cận đất đai bao gồm những khu vực nào?",
+    "a": "Khu vực thuộc xã, phường, thị trấn biên giới; ven biển; đảo; và khu vực khác có ảnh hưởng quốc phòng, an ninh",
+    "b": "Chỉ khu vực biên giới đất liền",
+    "c": "Chỉ khu vực ven biển và đảo",
+    "d": "Chỉ khu vực do Bộ Quốc phòng quản lý",
+    "correct": "a",
+    "explanation": "Căn cứ Điều 10 khoản 1 Nghị định 102/2024/NĐ-CP: Khu vực hạn chế tiếp cận đất đai bao gồm khu vực thuộc xã, phường, thị trấn biên giới; xã, phường, thị trấn ven biển; đảo; và khu vực khác có ảnh hưởng đến quốc phòng, an ninh theo quy định pháp luật."
+  },
+  {
+    "question": "Theo Nghị định 102/2024/NĐ-CP, khi tổ chức kinh tế có vốn đầu tư nước ngoài nhận chuyển nhượng quyền sử dụng đất tại khu vực hạn chế tiếp cận đất đai thì phải thực hiện thủ tục gì?",
+    "a": "Không cần xin ý kiến cơ quan nhà nước",
+    "b": "Phải xin ý kiến Bộ Quốc phòng và Bộ Công an theo thủ tục quy định",
+    "c": "Chỉ cần UBND cấp tỉnh chấp thuận",
+    "d": "Chỉ cần đăng ký biến động đất đai",
+    "correct": "b",
+    "explanation": "Căn cứ Điều 10 khoản 3 Nghị định 102/2024/NĐ-CP: Tổ chức kinh tế có vốn đầu tư nước ngoài khi nhận chuyển nhượng hoặc góp vốn bằng quyền sử dụng đất tại khu vực hạn chế tiếp cận đất đai phải lấy ý kiến Bộ Quốc phòng, Bộ Công an theo trình tự quy định."
+  },
+  {
+    "question": "Theo Nghị định 102/2024/NĐ-CP, nguyên tắc phân bổ chỉ tiêu sử dụng đất phải bảo đảm yêu cầu nào sau đây?",
+    "a": "Chỉ ưu tiên phát triển công nghiệp",
+    "b": "Bảo đảm nhu cầu sử dụng đất của các ngành, phù hợp tiềm năng đất đai và phát triển kinh tế - xã hội",
+    "c": "Chỉ ưu tiên đất ở đô thị",
+    "d": "Không cần phù hợp quy hoạch quốc gia",
+    "correct": "b",
+    "explanation": "Căn cứ Điều 22 khoản 1 điểm a Nghị định 102/2024/NĐ-CP: Việc phân bổ chỉ tiêu sử dụng đất phải bảo đảm nhu cầu sử dụng đất của các ngành, lĩnh vực; phù hợp tiềm năng đất đai; phát huy hiệu quả nguồn lực đất đai; bảo đảm phát triển kinh tế - xã hội, quốc phòng, an ninh và môi trường."
+  },
+  {
+    "question": "Theo Nghị định 102/2024/NĐ-CP, việc phân bổ chỉ tiêu sử dụng đất phải phù hợp với căn cứ nào sau đây?",
+    "a": "Chỉ theo nhu cầu địa phương",
+    "b": "Chỉ theo ý kiến doanh nghiệp",
+    "c": "Phù hợp định hướng quy hoạch tổng thể quốc gia, quy hoạch ngành quốc gia có liên quan",
+    "d": "Không cần căn cứ quy hoạch",
+    "correct": "c",
+    "explanation": "Căn cứ Điều 22 khoản 1 điểm b Nghị định 102/2024/NĐ-CP: Việc phân bổ chỉ tiêu sử dụng đất phải bảo đảm phù hợp với định hướng sử dụng đất trong quy hoạch tổng thể quốc gia, quy hoạch sử dụng đất quốc gia và quy hoạch ngành quốc gia có liên quan."
+  },
+  {
+    "question": "Theo Nghị định 102/2024/NĐ-CP, đất trồng lúa chuyên trồng lúa là loại đất nào?",
+    "a": "Đất trồng một vụ lúa trở lên",
+    "b": "Đất trồng 02 vụ lúa trở lên",
+    "c": "Đất trồng cây lâu năm",
+    "d": "Đất nuôi trồng thủy sản",
+    "correct": "b",
+    "explanation": "Căn cứ Điều 4 khoản 1 điểm a Nghị định 102/2024/NĐ-CP: Đất chuyên trồng lúa là đất trồng từ 02 vụ lúa trở lên."
+  },
+  {
+    "question": "Theo Nghị định 102/2024/NĐ-CP, đất ở tại nông thôn được xác định như thế nào?",
+    "a": "Thuộc địa giới phường",
+    "b": "Thuộc địa giới xã, trừ đất thuộc đô thị mới theo quy hoạch",
+    "c": "Thuộc khu công nghiệp",
+    "d": "Chỉ là đất chưa sử dụng",
+    "correct": "b",
+    "explanation": "Căn cứ Điều 5 khoản 1 điểm a Nghị định 102/2024/NĐ-CP: Đất ở tại nông thôn là đất thuộc phạm vi địa giới đơn vị hành chính xã, trừ đất thuộc dự án đô thị mới theo quy hoạch hệ thống đô thị và nông thôn."
+  },
+  {
+    "question": "Theo Nghị định 102/2024/NĐ-CP, trường hợp giao đất lấn biển không đấu giá quyền sử dụng đất được thực hiện theo trình tự nào?",
+    "a": "Theo Điều 44 và Điều 55 của Nghị định",
+    "b": "Theo Luật Dân sự",
+    "c": "Theo Luật Đầu tư công",
+    "d": "Không cần thủ tục",
+    "correct": "a",
+    "explanation": "Căn cứ Điều 73 khoản 1 Nghị định 102/2024/NĐ-CP: Trường hợp giao đất, cho thuê đất không đấu giá quyền sử dụng đất để thực hiện dự án lấn biển thì thực hiện theo các khoản 2, 3, 4 và 6 Điều 44 của Nghị định; trường hợp đấu giá thì thực hiện theo Điều 55."
+  },
+  {
+    "question": "Theo Nghị định 102/2024/NĐ-CP, trường hợp đã có quyết định giao đất trước khi Nghị định có hiệu lực thì xử lý thế nào?",
+    "a": "Phải làm lại toàn bộ thủ tục",
+    "b": "Tiếp tục thực hiện theo pháp luật tại thời điểm ban hành quyết định giao đất",
+    "c": "Bị hủy toàn bộ",
+    "d": "Tự động chuyển sang quy hoạch mới",
+    "correct": "b",
+    "explanation": "Căn cứ Điều 112 khoản 2 Nghị định 102/2024/NĐ-CP: Trường hợp đã có quyết định giao đất, cho thuê đất trước khi Nghị định có hiệu lực thì tiếp tục thực hiện theo pháp luật có hiệu lực tại thời điểm ban hành quyết định."
+  },
+  {
+    "question": "Theo Điều 44, căn cứ để giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất (trường hợp không thuộc chấp thuận chủ trương đầu tư) là gì?",
+    "a": "Quy hoạch sử dụng đất cấp tỉnh",
+    "b": "Kế hoạch sử dụng đất hằng năm cấp huyện đã được phê duyệt",
+    "c": "Quy hoạch xây dựng đô thị",
+    "d": "Nhu cầu của người sử dụng đất",
+    "correct": "b",
+    "explanation": "Khoản 1 Điều 44 quy định căn cứ là kế hoạch sử dụng đất hằng năm cấp huyện đã được phê duyệt."
+  },
+  {
+    "question": "Theo Nghị định 102/2024/NĐ-CP, thời gian thực hiện thủ tục giao đất, cho thuê đất, chuyển mục đích sử dụng đất tối đa là bao nhiêu ngày?",
+    "a": "10 ngày",
+    "b": "15 ngày",
+    "c": "20 ngày",
+    "d": "30 ngày",
+    "correct": "c",
+    "explanation": "Khoản 6 Điều 44 quy định thời gian không quá 20 ngày."
+  },
+  {
+    "question": "Theo Nghị định 102/2024/NĐ-CP, cơ quan nào xác định tiền sử dụng đất, tiền thuê đất phải nộp?",
+    "a": "UBND cấp xã",
+    "b": "Cơ quan thuế",
+    "c": "Văn phòng đăng ký đất đai",
+    "d": "Sở Tài nguyên và Môi trường",
+    "correct": "b",
+    "explanation": "Điểm e khoản 2 Điều 44: cơ quan thuế xác định tiền phải nộp."
+  },
+  {
+    "question": "Theo Nghị định 102/2024/NĐ-CP, căn cứ để điều chỉnh quyết định giao đất, cho thuê đất gồm trường hợp nào sau đây?",
+    "a": "Người sử dụng đất thay đổi ý kiến",
+    "b": "Thay đổi căn cứ pháp lý hoặc sai sót ranh giới, diện tích",
+    "c": "Giá đất thị trường tăng",
+    "d": "UBND cấp xã đề nghị",
+    "correct": "b",
+    "explanation": "Khoản 1 Điều 45 quy định 2 nhóm trường hợp điều chỉnh."
+  },
+  {
+    "question": "Theo Nghị định 102/2024/NĐ-CP, điều kiện chuyển mục đích sử dụng đất từ 2 ha trở lên KHÔNG bao gồm nội dung nào?",
+    "a": "Phương án trồng rừng thay thế",
+    "b": "Phương án sử dụng tầng đất mặt",
+    "c": "Đánh giá tác động môi trường",
+    "d": "Xác nhận của ngân hàng",
+    "correct": "d",
+    "explanation": "Khoản 1 Điều 46 chỉ quy định a, b, c."
+  },
+  {
+    "question": "Theo Nghị định 102/2024/NĐ-CP, đất xen kẹt muốn giao cho người liền kề phải đáp ứng điều kiện nào?",
+    "a": "Có tranh chấp đang tồn tại",
+    "b": "Không phù hợp quy hoạch",
+    "c": "Phù hợp quy hoạch và không thuộc dự án đã xác định",
+    "d": "Diện tích trên 500m2",
+    "correct": "c",
+    "explanation": "Khoản 1 Điều 47 yêu cầu phù hợp quy hoạch và không thuộc dự án đã xác định."
+  },
+  {
+    "question": "Theo Nghị định 102/2024/NĐ-CP, nguyên tắc ưu tiên xử lý đất xen kẹt là gì?",
+    "a": "Bán đấu giá toàn bộ",
+    "b": "Ưu tiên sử dụng vào mục đích công cộng",
+    "c": "Giao cho doanh nghiệp lớn",
+    "d": "Cho thuê dài hạn 99 năm",
+    "correct": "b",
+    "explanation": "Khoản 2 Điều 47 quy định ưu tiên mục đích công cộng."
+  },
+  {
+    "question": "Theo Nghị định 102/2024/NĐ-CP, cơ quan nào có thẩm quyền ban hành quyết định giao đất?",
+    "a": "Cơ quan thuế",
+    "b": "UBND cấp có thẩm quyền",
+    "c": "Văn phòng đăng ký đất đai",
+    "d": "Sở Kế hoạch và Đầu tư",
+    "correct": "b",
+    "explanation": "Khoản 2 Điều 44: UBND cấp có thẩm quyền ban hành quyết định."
+  },
+  {
+    "question": "Theo Nghị định 102/2024/NĐ-CP, tiền đặt trước khi tham gia đấu giá quyền sử dụng đất là bao nhiêu?",
+    "a": "10%",
+    "b": "15%",
+    "c": "20%",
+    "d": "25%",
+    "correct": "c",
+    "explanation": "Khoản 1 Điều 55 quy định đặt trước 20% giá trị thửa đất."
+  },
+  {
+    "question": "Theo Nghị định 102/2024/NĐ-CP, nếu người trúng đấu giá không nộp tiền thì sau bao lâu bị hủy kết quả?",
+    "a": "60 ngày",
+    "b": "90 ngày",
+    "c": "120 ngày",
+    "d": "150 ngày",
+    "correct": "c",
+    "explanation": "Điểm c khoản 9 Điều 55: sau 120 ngày bị hủy."
+  },
+  {
+    "question": "Theo Nghị định 102/2024/NĐ-CP, khoản tiền đặt trước sau khi trúng đấu giá được xử lý thế nào?",
+    "a": "Hoàn trả toàn bộ",
+    "b": "Nộp vào ngân sách ngay",
+    "c": "Chuyển thành tiền đặt cọc",
+    "d": "Hủy bỏ",
+    "correct": "c",
+    "explanation": "Khoản 9 Điều 55: chuyển thành tiền đặt cọc."
+  },
+  {
+    "question": "Theo Nghị định 102/2024/NĐ-CP, hình thức thu tiền thuê đất công ích khi đấu giá là gì?",
+    "a": "Thu một lần",
+    "b": "Thu theo quý",
+    "c": "Thu hằng năm",
+    "d": "Miễn tiền thuê đất",
+    "correct": "c",
+    "explanation": "Khoản 2 Điều 56 quy định thu tiền thuê đất hằng năm."
+  },
+  {
+    "question": "Theo Nghị định 102/2024/NĐ-CP, thời gian thực hiện điều chỉnh quyết định giao đất tối đa là bao lâu?",
+    "a": "10 ngày",
+    "b": "15 ngày",
+    "c": "20 ngày",
+    "d": "30 ngày",
+    "correct": "c",
+    "explanation": "Điều 45 quy định thời gian không quá 20 ngày."
+  },
+  {
+    "question": "Theo Nghị định 102/2024/NĐ-CP, điều kiện bắt buộc khi chuyển mục đích sử dụng đất rừng gồm nội dung nào?",
+    "a": "Có phương án trồng rừng thay thế",
+    "b": "Có giấy phép xây dựng",
+    "c": "Có hợp đồng chuyển nhượng",
+    "d": "Có xác nhận ngân hàng",
+    "correct": "a",
+    "explanation": "Khoản 1 Điều 46 yêu cầu phương án trồng rừng thay thế."
+  },
+  {
+    "question": "Theo Nghị định 102/2024/NĐ-CP, việc giao đất xen kẹt phải đảm bảo nguyên tắc nào?",
+    "a": "Không công khai thông tin",
+    "b": "Công khai, minh bạch, dân chủ",
+    "c": "Ưu tiên doanh nghiệp",
+    "d": "Không cần lấy ý kiến dân",
+    "correct": "b",
+    "explanation": "Khoản 2 Điều 47 quy định công khai, minh bạch, dân chủ."
+  },
+  {
+    "question": "Theo Nghị định 102/2024/NĐ-CP, Văn phòng đăng ký đất đai có trách nhiệm gì?",
+    "a": "Thu tiền sử dụng đất",
+    "b": "Cập nhật cơ sở dữ liệu đất đai",
+    "c": "Phê duyệt dự án",
+    "d": "Ban hành quyết định giao đất",
+    "correct": "b",
+    "explanation": "Điểm k khoản 2 Điều 44: cập nhật, chỉnh lý dữ liệu đất đai."
+  },
+  {
+    "question": "Theo Nghị định 102/2024/NĐ-CP, cá nhân tham gia đấu giá nếu trúng phải làm gì khi đầu tư dự án?",
+    "a": "Không cần thành lập tổ chức",
+    "b": "Phải thành lập tổ chức kinh tế",
+    "c": "Chuyển nhượng ngay",
+    "d": "Cho thuê lại ngay",
+    "correct": "b",
+    "explanation": "Khoản 2 Điều 55 yêu cầu thành lập tổ chức kinh tế."
+  },
+  {
+    "question": "Theo Nghị định 102/2024/NĐ-CP, cơ quan nào gửi thông tin địa chính cho cơ quan thuế?",
+    "a": "UBND xã",
+    "b": "Cơ quan tài nguyên môi trường",
+    "c": "Văn phòng đăng ký đất đai",
+    "d": "Sở Xây dựng",
+    "correct": "c",
+    "explanation": "Điểm đ khoản 2 Điều 44 quy định cơ quan quản lý đất đai chuyển thông tin địa chính."
+  },
+  {
+    "question": "Theo Nghị định 102/2024/NĐ-CP, sau khi được giao đất xen kẹt, người sử dụng đất phải thực hiện thủ tục gì?",
+    "a": "Tách thửa",
+    "b": "Hợp thửa",
+    "c": "Chuyển nhượng",
+    "d": "Thế chấp",
+    "correct": "b",
+    "explanation": "Điểm đ khoản 2 Điều 47 quy định phải thực hiện hợp thửa."
+  },
     {
     "question": "Theo NĐ101/2024/NĐ-CP, trường hợp hồ sơ tách thửa không đủ điều kiện giải quyết thì cơ quan đăng ký đất đai phải xử lý như thế nào?",
     "a": "Tiếp tục giải quyết hồ sơ",
