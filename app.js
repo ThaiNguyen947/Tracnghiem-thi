@@ -112,78 +112,87 @@ async function taiTatCaDuLieuCauHoi() {
   let beCauHoiTong = [];
 
   console.log("=== BẮT ĐẦU KIỂM TRA VÀ TẢI DỮ LIỆU FILE ===");
+
   for (const duongDan of danhSachFiles) {
     try {
       const res = await fetch(duongDan);
-      if (!res.ok) throw new Error();
+      if (!res.ok) throw new Error("File không tồn tại");
       const json = await res.json();
       
       const fileTag = duongDan.split('/').pop().replace('.json', '');
-      json.forEach(q => { q.fileSource = fileTag; });
+      json.forEach(q => { 
+        q.fileSource = fileTag; 
+        q.weight = q.weight || 1;
+        q.correctCount = q.correctCount || 0;
+        q.wrongCount = q.wrongCount || 0;
+      });
 
       console.log(`✓ Tải thành công: ${duongDan} | Quy mô: ${json.length} câu.`);
       beCauHoiTong = beCauHoiTong.concat(json);
+
+      // --- CHỖ FIX QUAN TRỌNG NHẤT ---
+      // Dừng lại 50ms để trình duyệt iOS giải phóng RAM/CPU trước khi tải file tiếp theo
+      await new Promise(resolve => setTimeout(resolve, 50));
+      // -------------------------------
+
     } catch (err) {
-      console.error(`❌ Không tìm thấy hoặc sai cấu trúc định dạng tại file: ${duongDan}`);
+      console.error(`❌ Lỗi tại file: ${duongDan}`, err);
     }
   }
 
   console.log(`➡️ TỔNG SỐ CÂU HỎI THỰC TẾ LOAD ĐƯỢC: ${beCauHoiTong.length} câu.`);
   console.log("=================================================");
 
-  if (beCauHoiTong.length === 0) return [];
-
-  beCauHoiTong.forEach(q => {
-    q.weight = q.weight || 1;
-    q.correctCount = q.correctCount || 0;
-    q.wrongCount = q.wrongCount || 0;
-  });
-
   return beCauHoiTong;
 }
 
 // ================= KHỞI ĐỘNG HỆ THỐNG =================
 async function khoiDongUngDung() {
+  // 1. Tải dữ liệu từ file (với hàm taiTatCaDuLieuCauHoi đã có delay 50ms)
   const fileData = await taiTatCaDuLieuCauHoi();
   
   if (fileData.length === 0) {
-    const localData = localStorage.getItem("questionData");
-    if (localData) {
-      data = JSON.parse(localData);
-      checkLogin();
-    } else {
-      alert("Không tìm thấy dữ liệu câu hỏi trong thư mục cau_hoi! Vui lòng kiểm tra lại cấu trúc thư mục.");
-    }
+    alert("Không tìm thấy dữ liệu câu hỏi! Vui lòng kiểm tra lại kết nối mạng.");
     return;
   }
 
-  const localData = localStorage.getItem("questionData");
-  if (localData) {
-    const localQuestions = JSON.parse(localData);
-    const localMap = new Map();
-    localQuestions.forEach(q => {
-      let qText = (q.question || q.cauhoi || "").trim();
-      if (qText) localMap.set(qText, q);
-    });
+  // 2. Khôi phục trạng thái (weight, count) từ localStorage mà không cần lưu cả đống câu hỏi
+  // Chúng ta lưu weight vào một object theo ID câu hỏi hoặc nội dung câu hỏi
+  const savedStats = JSON.parse(localStorage.getItem("questionStats") || "{}");
 
-    fileData.forEach(q => {
-      let qText = (q.question || q.cauhoi || "").trim();
-      if (localMap.has(qText)) {
-        const oldQ = localMap.get(qText);
-        q.weight = oldQ.weight || 1;
-        q.correctCount = oldQ.correctCount || 0;
-        q.wrongCount = oldQ.wrongCount || 0;
-        if(oldQ.fileSource) q.fileSource = oldQ.fileSource;
-      }
-    });
-  }
+  fileData.forEach(q => {
+    let qText = (q.question || q.cauhoi || "").trim();
+    if (savedStats[qText]) {
+      const stats = savedStats[qText];
+      q.weight = stats.weight || 1;
+      q.correctCount = stats.correctCount || 0;
+      q.wrongCount = stats.wrongCount || 0;
+    }
+  });
 
+  // 3. Gán vào biến data toàn cục (Dữ liệu sống trong RAM, không lưu vào Storage)
   data = fileData;
-  localStorage.setItem("questionData", JSON.stringify(data));
+  
+  // 4. Lưu lại stats chỉ khi người dùng nộp bài (trong hàm submit)
+  // Không lưu toàn bộ 'data' vào localStorage ở đây nữa => Fix lỗi crash iOS
+  
   checkLogin();
 }
 
-khoiDongUngDung();
+// BẠN CẦN SỬA THÊM HÀM SUBMIT ĐỂ CẬP NHẬT STATS MỚI
+// Thay vì lưu "questionData", hãy lưu như sau:
+function updateStatsAndSave() {
+  let stats = {};
+  data.forEach(q => {
+    let qText = (q.question || q.cauhoi || "").trim();
+    stats[qText] = {
+      weight: q.weight,
+      correctCount: q.correctCount,
+      wrongCount: q.wrongCount
+    };
+  });
+  localStorage.setItem("questionStats", JSON.stringify(stats));
+}
 
 // ================= THUẬT TOÁN ĐẢO KHOÁ TRỘN ĐỀ TỐI ĐA =================
 function shuffle(arr) {
