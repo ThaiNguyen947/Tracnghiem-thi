@@ -539,12 +539,6 @@ function submit() {
         Số câu đã hoàn thành: <b>${submittedCount}/${questions.length}</b><br>
         Số câu đúng: <b style="color: #2e7d32;">${correct}</b> | Sai: <b style="color: #c62828;">${wrong}</b>
       </p>
-      <!-- THÊM BỘ LỌC TẠI ĐÂY -->
-      <div style="text-align: center; margin-bottom: 20px;">
-        <button id="btn-filter-all" class="btn" onclick="filterResult('all')" style="margin: 5px;">Tất cả</button>
-        <button id="btn-filter-correct" class="btn" onclick="filterResult('correct')" style="margin: 5px;">Câu đúng</button>
-        <button id="btn-filter-wrong" class="btn" onclick="filterResult('wrong')" style="margin: 5px;">Câu sai</button>
-      </div>
       <div style="text-align: center; margin-bottom: 25px;">
         <button class="btn" style="background: #00796b; color: white; padding: 10px 28px; border-radius: 20px; cursor: pointer; border: none;" onclick="location.reload()">THI VÒNG ĐỀ MỚI</button>
       </div>
@@ -562,7 +556,7 @@ function filterResult(type) {
   let listContainer = document.getElementById("result-list");
   if (!listContainer) return;
 
-  // 1. Tự động kiểm tra và thêm bộ nút lọc nếu chưa tồn tại
+  // 1. Tạo thanh bộ lọc nếu chưa có
   let filterBar = document.getElementById("filter-bar");
   if (!filterBar) {
     let div = document.createElement("div");
@@ -576,27 +570,14 @@ function filterResult(type) {
     listContainer.parentNode.insertBefore(div, listContainer);
   }
 
-  // 2. Cập nhật giao diện các nút
+  // 2. Cập nhật Style cho các nút
   const btnAll = document.getElementById("btn-filter-all");
   const btnCorrect = document.getElementById("btn-filter-correct");
   const btnWrong = document.getElementById("btn-filter-wrong");
 
-  // Reset Style mặc định cho các nút
-  [btnAll, btnCorrect, btnWrong].forEach(b => {
-      b.style.border = "1px solid #dee2e6";
-      b.style.borderRadius = "4px";
-      b.style.fontWeight = "normal";
-  });
-
-  // Thiết lập Style cho nút được chọn
-  if (type === 'all') btnAll.style.cssText = "background: #00796b; color: #fff; border: 1px solid #00796b; font-weight: bold; padding: 5px 15px; margin: 5px; cursor: pointer;";
-  else btnAll.style.cssText = "background: #f1f3f5; color: #555; border: 1px solid #dee2e6; padding: 5px 15px; margin: 5px; cursor: pointer;";
-
-  if (type === 'correct') btnCorrect.style.cssText = "background: #2e7d32; color: #fff; border: 1px solid #2e7d32; font-weight: bold; padding: 5px 15px; margin: 5px; cursor: pointer;";
-  else btnCorrect.style.cssText = "background: #e8f5e9; color: #2e7d32; border: 1px solid #c8e6c9; padding: 5px 15px; margin: 5px; cursor: pointer;";
-
-  if (type === 'wrong') btnWrong.style.cssText = "background: #c62828; color: #fff; border: 1px solid #c62828; font-weight: bold; padding: 5px 15px; margin: 5px; cursor: pointer;";
-  else btnWrong.style.cssText = "background: #ffebee; color: #c62828; border: 1px solid #ffcdd2; padding: 5px 15px; margin: 5px; cursor: pointer;";
+  btnAll.style.cssText = `padding: 5px 15px; margin: 5px; cursor: pointer; border: 1px solid #dee2e6; border-radius: 4px; ${type === 'all' ? 'background: #00796b; color: #fff; font-weight: bold;' : 'background: #f1f3f5;'}`;
+  btnCorrect.style.cssText = `padding: 5px 15px; margin: 5px; cursor: pointer; border: 1px solid #dee2e6; border-radius: 4px; ${type === 'correct' ? 'background: #2e7d32; color: #fff; font-weight: bold;' : 'background: #e8f5e9;'}`;
+  btnWrong.style.cssText = `padding: 5px 15px; margin: 5px; cursor: pointer; border: 1px solid #dee2e6; border-radius: 4px; ${type === 'wrong' ? 'background: #c62828; color: #fff; font-weight: bold;' : 'background: #ffebee;'}`;
 
   // 3. Xử lý danh sách hiển thị
   let html = "";
@@ -607,32 +588,36 @@ function filterResult(type) {
     let correctAns = q.newCorrectAnswer ? q.newCorrectAnswer.toString().trim().toLowerCase() : (q.answer || q.trảlời || "").toString().trim().toLowerCase();
     if (correctAns === "một") correctAns = "a";
     
-    let ok = userAns !== "" && userAns === correctAns;
+    let isDone = (userAns !== "");
+    let isCorrect = (isDone && userAns === correctAns);
+    let isWrong = (isDone && userAns !== correctAns);
 
-    if (type === 'correct' && !ok) return;
-    if (type === 'wrong' && ok) return;
+    // LOGIC LỌC CHÍNH XÁC:
+    if (type === 'correct' && !isCorrect) return; // Chỉ lấy câu Đúng
+    if (type === 'wrong' && !isWrong) return;     // Chỉ lấy câu Sai
+    // Nếu type === 'all', không return (hiện tất cả)
 
     let qText = q.question || q.cauhoi || "Dữ liệu lỗi";
-    
-    let optA = q.shuffledOptions ? q.shuffledOptions[0].text : (q.a || q.A || q.Một || "");
-    let optB = q.shuffledOptions ? q.shuffledOptions[1].text : (q.b || q.B || "");
-    let optC = q.shuffledOptions ? q.shuffledOptions[2].text : (q.c || q.C || "");
-    let optD = q.shuffledOptions ? q.shuffledOptions[3].text : (q.d || q.D || "");
+    let mapAns = { 
+      a: q.shuffledOptions ? q.shuffledOptions[0].text : (q.a || q.A || q.Một || ""),
+      b: q.shuffledOptions ? q.shuffledOptions[1].text : (q.b || q.B || ""),
+      c: q.shuffledOptions ? q.shuffledOptions[2].text : (q.c || q.C || ""),
+      d: q.shuffledOptions ? q.shuffledOptions[3].text : (q.d || q.D || "")
+    };
 
-    let mapAns = { a: optA, b: optB, c: optC, d: optD };
     let fullCorrectText = mapAns[correctAns] ? `${correctAns.toUpperCase()}. ${mapAns[correctAns]}` : correctAns.toUpperCase();
-    let fullUserText = mapAns[userAns] ? `${userAns.toUpperCase()}. ${mapAns[userAns]}` : "Không lựa chọn đáp án";
+    let fullUserText = mapAns[userAns] ? `${userAns.toUpperCase()}. ${mapAns[userAns]}` : "Chưa chọn đáp án";
 
     html += `
-      <div style="margin-bottom: 24px; padding-bottom: 10px; border-bottom: 1px solid #eee; text-align: justify; line-height: 1.5; font-size: 15px; color: #111;">
-        <p style="margin: 0 0 6px 0; white-space: pre-wrap;"><b>Câu ${i + 1}.</b> ${qText}</p>
-        <div style="margin: 0 0 6px 0; padding-left: 15px; font-size: 14.5px;">
+      <div style="margin-bottom: 24px; padding-bottom: 10px; border-bottom: 1px solid #eee; text-align: justify; line-height: 1.5; font-size: 15px;">
+        <p style="margin: 0 0 6px 0;"><b>Câu ${i + 1}.</b> ${qText}</p>
+        <div style="margin: 0 0 6px 0; padding-left: 15px;">
           <div><span style="color: #666;">- Đã chọn:</span> ${fullUserText} 
-            <span style="padding: 1px 6px; font-size: 11px; font-weight: bold; border-radius: 3px; margin-left: 8px; background-color: ${userAns === "" ? '#f1f3f5' : (ok ? '#e8f5e9' : '#ffebee')}; color: ${userAns === "" ? '#555' : (ok ? '#2e7d32' : '#c62828')};">
-              ${userAns === "" ? "CHƯA LÀM" : (ok ? "CHÍNH XÁC" : "SAI")}
+            <span style="padding: 1px 6px; font-size: 11px; font-weight: bold; border-radius: 3px; margin-left: 8px; background-color: ${!isDone ? '#f1f3f5' : (isCorrect ? '#e8f5e9' : '#ffebee')}; color: ${!isDone ? '#555' : (isCorrect ? '#2e7d32' : '#c62828')};">
+              ${!isDone ? "CHƯA LÀM" : (isCorrect ? "CHÍNH XÁC" : "SAI")}
             </span>
           </div>
-          ${!ok ? `<div><span style="color: #666;">- Đúng:</span> <b style="color: #2e7d32;">${fullCorrectText}</b></div>` : ""}
+          ${isWrong ? `<div><span style="color: #666;">- Đáp án đúng:</span> <b style="color: #2e7d32;">${fullCorrectText}</b></div>` : ""}
         </div>
         <div style="margin: 6px 0 0 15px; padding: 4px 10px; font-style: italic; font-size: 14px; color: #555; border-left: 2px solid #e0e0e0;">
           <b>Giải thích:</b> ${q.explanation || q.giảithích || "Chưa có giải thích."}
@@ -641,7 +626,7 @@ function filterResult(type) {
     `;
   });
 
-  listContainer.innerHTML = html || `<p style='text-align:center; color:#777; font-style: italic; padding: 20px;'>Không có câu hỏi nào thỏa mãn bộ lọc.</p>`;
+  listContainer.innerHTML = html || `<p style='text-align:center; color:#777; font-style: italic; padding: 20px;'>Không tìm thấy câu hỏi nào phù hợp với bộ lọc này.</p>`;
 }
 
 // ================= HÀM KHÓA AN TOÀN CHỐT SAO CHÉP ĐỀ THI DÀNH CHO TÀI KHOẢN CON =================
