@@ -1,4 +1,301 @@
 [
+    {
+    "question": "Theo Luật Nhà ở 2023, chủ sở hữu nhà ở là tổ chức được thế chấp nhà ở tại chủ thể nào?",
+    "a": "Cá nhân kinh doanh tài chính bất kỳ",
+    "b": "Tổ chức tín dụng đang hoạt động tại Việt Nam",
+    "c": "Tổ chức kinh tế có chức năng kinh doanh bất động sản",
+    "d": "Doanh nghiệp dịch vụ cầm đồ hợp pháp",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 181 Luật Nhà ở 2023, chủ sở hữu nhà ở là tổ chức được thế chấp nhà ở tại tổ chức tín dụng đang hoạt động tại Việt Nam."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chủ sở hữu nhà ở là cá nhân được thế chấp nhà ở tại chủ thể nào?",
+    "a": "Chỉ tại tổ chức tín dụng được Ngân hàng Nhà nước cấp phép",
+    "b": "Tổ chức tín dụng, tổ chức kinh tế đang hoạt động tại Việt Nam hoặc cá nhân theo quy định của pháp luật",
+    "c": "Tổ chức tín dụng hoặc các tổ chức tài chính vi mô được cấp phép",
+    "d": "Chỉ tại các tổ chức kinh tế hoặc cá nhân có năng lực hành vi dân sự đầy đủ",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 181 Luật Nhà ở 2023, cá nhân được thế chấp nhà ở tại tổ chức tín dụng, tổ chức kinh tế đang hoạt động tại Việt Nam hoặc cá nhân theo quy định của pháp luật."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chủ sở hữu nhà ở có quyền thế chấp nhà ở đang cho thuê không?",
+    "a": "Không, vì quyền sử dụng bị hạn chế bởi hợp đồng thuê",
+    "b": "Chỉ được phép nếu hợp đồng thuê có công chứng",
+    "c": "Có, chủ sở hữu vẫn có quyền thế chấp",
+    "d": "Chỉ được phép nếu được bên thuê đồng ý bằng văn bản",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 182 Luật Nhà ở 2023, chủ sở hữu có quyền thế chấp nhà ở đang cho thuê."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi thế chấp nhà ở đang cho thuê thì chủ sở hữu phải thông báo cho bên thuê bằng hình thức nào?",
+    "a": "Thông báo miệng trực tiếp",
+    "b": "Bằng văn bản",
+    "c": "Thông báo qua phương tiện thông tin đại chúng",
+    "d": "Bằng văn bản có xác nhận của chính quyền địa phương",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 182 Luật Nhà ở 2023, chủ sở hữu phải thông báo bằng văn bản cho bên thuê biết trước về việc thế chấp."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi thế chấp nhà ở đang cho thuê thì chủ sở hữu phải thông báo cho chủ thể nào biết việc nhà ở đang cho thuê?",
+    "a": "Ủy ban nhân dân cấp xã nơi có nhà ở",
+    "b": "Cơ quan quản lý thuế trực tiếp",
+    "c": "Bên nhận thế chấp",
+    "d": "Cơ quan đăng ký đất đai",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 182 Luật Nhà ở 2023, chủ sở hữu phải thông báo cho bên nhận thế chấp biết về việc nhà ở đang cho thuê."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, bên thuê nhà ở được tiếp tục thuê đến hết thời hạn hợp đồng khi nhà ở đang cho thuê bị thế chấp, trừ trường hợp nào?",
+    "a": "Các bên có thỏa thuận khác",
+    "b": "Bên cho thuê thay đổi tư cách pháp nhân",
+    "c": "Nhà ở bị chuyển quyền sở hữu do xử lý thế chấp",
+    "d": "Bên thuê không còn nhu cầu sử dụng",
+    "answer": "a",
+    "explanation": "Theo khoản 1 Điều 182 Luật Nhà ở 2023, bên thuê được tiếp tục thuê đến hết thời hạn hợp đồng, trừ trường hợp các bên có thỏa thuận khác."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi nhà ở đang cho thuê bị xử lý để thực hiện nghĩa vụ của bên thế chấp thì bên thuê được tiếp tục thuê đến hết thời hạn hợp đồng trong trường hợp nào?",
+    "a": "Mọi trường hợp bất kể nội dung hợp đồng thuê",
+    "b": "Trừ trường hợp vi phạm khoản 2 Điều 172 hoặc các bên có thỏa thuận khác",
+    "c": "Chỉ khi hợp đồng thuê đã được công chứng trước thời điểm thế chấp",
+    "d": "Chỉ khi bên nhận thế chấp đồng ý bằng văn bản",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 182 Luật Nhà ở 2023, bên thuê được tiếp tục thuê đến hết thời hạn hợp đồng, trừ trường hợp vi phạm khoản 2 Điều 172 hoặc các bên có thỏa thuận khác."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chủ đầu tư dự án đầu tư xây dựng nhà ở được thế chấp một phần hoặc toàn bộ dự án tại đâu?",
+    "a": "Tại bất kỳ tổ chức kinh tế nào được pháp luật cho phép",
+    "b": "Tại tổ chức tín dụng đang hoạt động tại Việt Nam",
+    "c": "Tại các quỹ đầu tư phát triển nhà ở",
+    "d": "Tại ngân hàng nước ngoài chưa có chi nhánh tại Việt Nam",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 183 Luật Nhà ở 2023, chủ đầu tư được thế chấp dự án tại tổ chức tín dụng đang hoạt động tại Việt Nam."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc thế chấp dự án đầu tư xây dựng nhà ở hoặc nhà ở trong dự án phải bao gồm nội dung nào?",
+    "a": "Thế chấp quyền sử dụng đất thuộc dự án",
+    "b": "Thế chấp toàn bộ tài sản hình thành trên đất",
+    "c": "Thế chấp quyền khai thác hạ tầng kỹ thuật",
+    "d": "Thế chấp quyền sở hữu thương hiệu dự án",
+    "answer": "a",
+    "explanation": "Theo khoản 1 Điều 183 Luật Nhà ở 2023, việc thế chấp phải bao gồm cả thế chấp quyền sử dụng đất."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trước khi ký hợp đồng mua bán, thuê mua nhà ở với khách hàng thì chủ đầu tư phải thực hiện việc gì nếu nhà ở đã được thế chấp?",
+    "a": "Thông báo cho khách hàng bằng văn bản",
+    "b": "Giải chấp nhà ở và quyền sử dụng đất",
+    "c": "Được sự đồng ý của bên nhận thế chấp",
+    "d": "Mua bảo hiểm cháy nổ cho công trình",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 183 Luật Nhà ở 2023, chủ đầu tư phải giải chấp nhà ở và quyền sử dụng đất trước khi ký hợp đồng với khách hàng, trừ trường hợp luật quy định khác."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc xác định nhà ở đã được giải chấp trước khi ký hợp đồng mua bán được thể hiện trong văn bản nào?",
+    "a": "Giấy xác nhận của ngân hàng nhận thế chấp",
+    "b": "Thông báo nhà ở đủ điều kiện được bán của cơ quan quản lý nhà ở cấp tỉnh",
+    "c": "Văn bản đăng ký biến động đất đai",
+    "d": "Hợp đồng thế chấp đã được xóa đăng ký",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 183 Luật Nhà ở 2023, nội dung này được nêu rõ trong văn bản thông báo nhà ở đủ điều kiện được bán."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi ký hợp đồng mua bán, thuê mua nhà ở thì chủ đầu tư có trách nhiệm cung cấp cho khách hàng giấy tờ gì?",
+    "a": "Bản sao hồ sơ thiết kế đã được phê duyệt",
+    "b": "Văn bản thông báo nhà ở đủ điều kiện được bán",
+    "c": "Giấy chứng nhận quyền sử dụng đất của dự án",
+    "d": "Văn bản xác nhận đã hoàn thành nghĩa vụ tài chính",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 183 Luật Nhà ở 2023, chủ đầu tư có trách nhiệm cung cấp văn bản thông báo nhà ở đủ điều kiện được bán."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi huy động vốn góp mà nhà ở đã từng được thế chấp thì chủ đầu tư phải cung cấp giấy tờ gì cho bên góp vốn?",
+    "a": "Văn bản cam kết giải chấp của chủ đầu tư",
+    "b": "Văn bản giải chấp của tổ chức tín dụng",
+    "c": "Văn bản phê duyệt dự án của cơ quan có thẩm quyền",
+    "d": "Giấy phép xây dựng của dự án",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 183 Luật Nhà ở 2023, chủ đầu tư phải cung cấp văn bản giải chấp của tổ chức tín dụng khi ký hợp đồng góp vốn."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, tổ chức, cá nhân xây dựng nhà ở hình thành trong tương lai trên thửa đất ở hợp pháp của mình được thế chấp nhà ở này tại đâu?",
+    "a": "Tại Ủy ban nhân dân cấp xã nơi có đất",
+    "b": "Tại tổ chức tín dụng đang hoạt động tại Việt Nam",
+    "c": "Tại các tổ chức tài chính hoặc cá nhân cho vay vốn",
+    "d": "Tại cơ quan đăng ký đất đai cấp huyện",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 183 Luật Nhà ở 2023, được thế chấp tại tổ chức tín dụng đang hoạt động tại Việt Nam."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp chủ đầu tư thế chấp một phần hoặc toàn bộ dự án đầu tư xây dựng nhà ở thì phải có điều kiện nào?",
+    "a": "Có hồ sơ dự án và thiết kế kỹ thuật được phê duyệt",
+    "b": "Đã hoàn thành nghĩa vụ thuế với Nhà nước",
+    "c": "Đã có báo cáo đánh giá tác động môi trường",
+    "d": "Đã được nghiệm thu hạ tầng kỹ thuật",
+    "answer": "a",
+    "explanation": "Theo điểm a khoản 1 Điều 184 Luật Nhà ở 2023, phải có hồ sơ dự án, thiết kế kỹ thuật được phê duyệt."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi chủ đầu tư thế chấp dự án đầu tư xây dựng nhà ở thì phải có giấy tờ nào về đất?",
+    "a": "Giấy chứng nhận quyền sử dụng đất hoặc quyết định giao đất, cho thuê đất",
+    "b": "Giấy tờ xác nhận đã nộp tiền sử dụng đất",
+    "c": "Bản đồ quy hoạch chi tiết 1/500",
+    "d": "Văn bản chấp thuận chủ trương đầu tư",
+    "answer": "a",
+    "explanation": "Theo điểm a khoản 1 Điều 184 Luật Nhà ở 2023, phải có Giấy chứng nhận hoặc quyết định giao đất, cho thuê đất."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nhà ở hình thành trong tương lai xây dựng trong dự án được thế chấp khi đã hoàn thành phần nào?",
+    "a": "Phần mái công trình",
+    "b": "Phần móng công trình",
+    "c": "Phần khung kết cấu chịu lực",
+    "d": "Phần hạ tầng kỹ thuật xung quanh",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 1 Điều 184 Luật Nhà ở 2023, nhà ở phải xây dựng xong phần móng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp tổ chức, cá nhân thế chấp nhà ở hình thành trong tương lai trên đất hợp pháp của mình thì phải có giấy tờ gì?",
+    "a": "Giấy tờ chứng minh quyền sử dụng đất",
+    "b": "Giấy phép xây dựng hoặc văn bản miễn giấy phép",
+    "c": "Bản vẽ thiết kế đã được thẩm định",
+    "d": "Văn bản thông báo khởi công công trình",
+    "answer": "a",
+    "explanation": "Theo điểm c khoản 1 Điều 184 Luật Nhà ở 2023, phải có giấy tờ chứng minh quyền sử dụng đất."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp thế chấp một phần hoặc toàn bộ dự án đầu tư xây dựng nhà ở hoặc nhà ở hình thành trong tương lai không đúng quy định thì hậu quả pháp lý thế nào?",
+    "a": "Bị đình chỉ hoạt động đầu tư",
+    "b": "Bị vô hiệu",
+    "c": "Bị phạt vi phạm hành chính gấp 02 lần",
+    "d": "Phải thực hiện bổ sung thủ tục trong 30 ngày",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 184 Luật Nhà ở 2023, trường hợp thế chấp không đúng quy định thì vô hiệu."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chủ sở hữu nhà ở là cá nhân được thế chấp nhà ở cho cá nhân khác trong trường hợp nào?",
+    "a": "Trong mọi trường hợp không vi phạm điều cấm của luật",
+    "b": "Theo quy định của pháp luật",
+    "c": "Khi được sự phê duyệt của cơ quan quản lý nhà ở cấp tỉnh",
+    "d": "Chỉ khi cá nhân đó có hộ khẩu thường trú tại địa phương",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 181 Luật Nhà ở 2023, cá nhân được thế chấp nhà ở tại tổ chức tín dụng, tổ chức kinh tế đang hoạt động tại Việt Nam hoặc cá nhân theo quy định của pháp luật."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chủ sở hữu nhà ở là tổ chức có được thế chấp nhà ở cho cá nhân không?",
+    "a": "Có, nếu được sự đồng ý của tổ chức tín dụng đang quản lý tài sản",
+    "b": "Có, nếu có hợp đồng thế chấp được công chứng",
+    "c": "Không",
+    "d": "Có, nếu đáp ứng đủ điều kiện về vốn pháp định",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 181 Luật Nhà ở 2023, chủ sở hữu nhà ở là tổ chức được thế chấp nhà ở tại tổ chức tín dụng đang hoạt động tại Việt Nam (không quy định thế chấp cho cá nhân)."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chủ đầu tư dự án đầu tư xây dựng nhà ở được thế chấp dự án hoặc nhà ở để vay vốn phục vụ mục đích nào?",
+    "a": "Để đầu tư dự án hoặc xây dựng nhà ở đó",
+    "b": "Để mở rộng quy mô kinh doanh đa ngành nghề",
+    "c": "Để tái cơ cấu các khoản nợ xấu hiện hữu",
+    "d": "Để hỗ trợ tài chính cho các đối tác chiến lược",
+    "answer": "a",
+    "explanation": "Theo khoản 1 Điều 183 Luật Nhà ở 2023, chủ đầu tư được thế chấp dự án hoặc nhà ở hình thành trong tương lai tại tổ chức tín dụng để vay vốn phục vụ đầu tư dự án hoặc xây dựng nhà ở đó."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chủ đầu tư được thế chấp phạm vi nào của dự án đầu tư xây dựng nhà ở?",
+    "a": "Chỉ được thế chấp toàn bộ dự án để đảm bảo tính thống nhất",
+    "b": "Chỉ được thế chấp các hạng mục nhà ở đã hoàn thành",
+    "c": "Một phần hoặc toàn bộ dự án",
+    "d": "Chỉ được thế chấp phần diện tích đất đã hoàn thành nghĩa vụ tài chính",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 183 Luật Nhà ở 2023, chủ đầu tư được thế chấp một phần hoặc toàn bộ dự án đầu tư xây dựng nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, tổ chức, cá nhân mua nhà ở hình thành trong tương lai được thế chấp nhà ở này để phục vụ mục đích nào?",
+    "a": "Để mua, cải tạo, sửa chữa nhà ở đó",
+    "b": "Để đầu tư tài chính hoặc mua sắm tài sản khác",
+    "c": "Để trả nợ cho các hợp đồng tín dụng khác",
+    "d": "Để góp vốn kinh doanh theo hình thức hợp tác",
+    "answer": "a",
+    "explanation": "Theo khoản 3 Điều 183 Luật Nhà ở 2023, tổ chức, cá nhân được thế chấp nhà ở hình thành trong tương lai để vay vốn phục vụ mua, cải tạo, sửa chữa nhà ở đó."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nhà ở hình thành trong tương lai trong dự án muốn được thế chấp thì không được thuộc trường hợp nào?",
+    "a": "Đã xây dựng xong phần móng nhưng chưa có nghiệm thu",
+    "b": "Đang trong quá trình hoàn thiện nội thất căn hộ",
+    "c": "Thuộc phần dự án hoặc toàn bộ dự án đã thế chấp",
+    "d": "Đã có thiết kế kỹ thuật được cơ quan thẩm quyền phê duyệt",
+    "answer": "c",
+    "explanation": "Theo điểm b khoản 1 Điều 184 Luật Nhà ở 2023, nhà ở không được thuộc phần dự án hoặc toàn bộ dự án đã thế chấp, trừ trường hợp đã giải chấp."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nhà ở hình thành trong tương lai thuộc phần dự án đã thế chấp vẫn có thể được thế chấp nếu thuộc trường hợp nào?",
+    "a": "Đã giải chấp",
+    "b": "Có xác nhận về việc đã đóng đủ 95% giá trị hợp đồng",
+    "c": "Có bảo hiểm công trình thay thế cho việc giải chấp",
+    "d": "Có biên bản họp cư dân thông qua việc thế chấp",
+    "answer": "a",
+    "explanation": "Theo điểm b khoản 1 Điều 184 Luật Nhà ở 2023, nhà ở được thế chấp nếu không thuộc phần dự án hoặc toàn bộ dự án đã thế chấp, trừ trường hợp đã giải chấp."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp tổ chức, cá nhân thế chấp nhà ở hình thành trong tương lai trên đất hợp pháp của mình thì phải có giấy phép xây dựng khi nào?",
+    "a": "Áp dụng cho mọi trường hợp xây dựng nhà ở",
+    "b": "Khi thuộc trường hợp phải có giấy phép xây dựng",
+    "c": "Chỉ bắt buộc đối với nhà chung cư cao tầng",
+    "d": "Chỉ bắt buộc đối với nhà ở tại khu vực đô thị",
+    "answer": "b",
+    "explanation": "Theo điểm c khoản 1 Điều 184 Luật Nhà ở 2023, phải có giấy phép xây dựng nếu thuộc trường hợp phải có giấy phép xây dựng theo quy định của pháp luật về xây dựng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, bên nhận chuyển nhượng hợp đồng mua bán nhà ở muốn thế chấp nhà ở hình thành trong tương lai thì phải có giấy tờ nào?",
+    "a": "Giấy xác nhận tình trạng cư trú của chủ đầu tư",
+    "b": "Văn bản chuyển nhượng hợp đồng mua bán nhà ở",
+    "c": "Hợp đồng ủy quyền cho bên nhận thế chấp thực hiện thủ tục cấp giấy",
+    "d": "Biên bản bàn giao nhà ở tạm thời",
+    "answer": "b",
+    "explanation": "Theo điểm c khoản 1 Điều 184 Luật Nhà ở 2023, bên nhận chuyển nhượng hợp đồng mua bán nhà ở phải có văn bản chuyển nhượng hợp đồng mua bán nhà ở theo quy định."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, tổ chức, cá nhân mua nhà ở hình thành trong tương lai muốn thế chấp nhà ở thì phải có giấy tờ chứng minh nội dung nào?",
+    "a": "Đã đóng tiền mua nhà theo tiến độ thỏa thuận",
+    "b": "Đã thực hiện xong thủ tục nhập hộ khẩu vào căn hộ",
+    "c": "Đã hoàn thành nghĩa vụ thuế thu nhập cá nhân đối với giao dịch",
+    "d": "Đã được cơ quan quản lý nhà ở cấp mã số định danh căn hộ",
+    "answer": "a",
+    "explanation": "Theo điểm c khoản 1 Điều 184 Luật Nhà ở 2023, phải có giấy tờ chứng minh đã đóng tiền mua nhà theo tiến độ thỏa thuận."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nhà ở hình thành trong tương lai muốn được thế chấp thì không được thuộc trường hợp nào liên quan đến tranh chấp?",
+    "a": "Đang có tranh chấp, khiếu nại, khiếu kiện về hợp đồng mua bán",
+    "b": "Đang thực hiện bảo trì, sửa chữa định kỳ",
+    "c": "Đang trong quá trình hoàn thiện nội thất và cảnh quan",
+    "d": "Đang trong thời gian bảo hành công trình",
+    "answer": "a",
+    "explanation": "Theo điểm c khoản 1 Điều 184 Luật Nhà ở 2023, nhà ở không được thuộc trường hợp đang có tranh chấp, khiếu nại, khiếu kiện về hợp đồng mua bán, thuê mua."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc xử lý tài sản thế chấp là nhà ở hình thành trong tương lai được thực hiện theo quy định nào?",
+    "a": "Theo quy định riêng của Luật Nhà ở",
+    "b": "Luật Nhà ở, pháp luật về dân sự và pháp luật có liên quan",
+    "c": "Theo thỏa thuận của các bên trong hợp đồng tín dụng",
+    "d": "Theo hướng dẫn của Ngân hàng Nhà nước",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 185 Luật Nhà ở 2023, việc xử lý tài sản thế chấp thực hiện theo quy định của Luật này, pháp luật về dân sự và pháp luật khác có liên quan."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, tổ chức nhận chuyển nhượng một phần hoặc toàn bộ dự án đầu tư xây dựng nhà ở phải đáp ứng điều kiện gì?",
+    "a": "Đủ điều kiện về năng lực tài chính và kinh nghiệm triển khai dự án",
+    "b": "Đủ điều kiện làm chủ đầu tư dự án đầu tư xây dựng nhà ở",
+    "c": "Có trụ sở chính tại địa phương nơi có dự án",
+    "d": "Có uy tín và lịch sử tín dụng tốt trong 05 năm",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 185 Luật Nhà ở 2023, tổ chức nhận chuyển nhượng phải đủ điều kiện làm chủ đầu tư dự án đầu tư xây dựng nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, tổ chức nhận chuyển nhượng một phần hoặc toàn bộ dự án đầu tư xây dựng nhà ở phải thực hiện thủ tục gì?",
+    "a": "Thủ tục xin chấp thuận chủ trương đầu tư điều chỉnh",
+    "b": "Thủ tục nhận chuyển nhượng dự án theo quy định của pháp luật",
+    "c": "Thủ tục đánh giá tác động môi trường mới",
+    "d": "Thủ tục thẩm định lại thiết kế cơ sở",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 185 Luật Nhà ở 2023, tổ chức nhận chuyển nhượng phải thực hiện thủ tục nhận chuyển nhượng dự án theo quy định của Luật này và pháp luật liên quan."
+  },
    {
     "question": "Theo Luật Nhà ở 2023, việc tặng cho nhà ở thuộc sở hữu chung hợp nhất phải đáp ứng điều kiện nào?",
     "a": "Có sự đồng ý bằng văn bản của đa số các chủ sở hữu",
