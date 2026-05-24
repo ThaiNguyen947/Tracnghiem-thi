@@ -182,6 +182,16 @@ async function khoiDongUngDung() {
 // Gọi hàm khởi động
 khoiDongUngDung();
 
+
+// Đặt hàm này ở đầu file, sau các khai báo biến let
+function shuffle(arr) {
+  let a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    let j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
 // ================= START EXAM (TỶ LỆ % THEO TỔNG CÂU FILE & BỐC BÙ LIỀN KỀ) =================
 function startExam() {
   answers = {};
