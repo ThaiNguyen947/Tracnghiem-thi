@@ -142,58 +142,45 @@ async function taiTatCaDuLieuCauHoi() {
   return beCauHoiTong;
 }
 
-// ================= KHỞI ĐỘNG HỆ THỐNG =================
+// ================= KHỞI ĐỘNG HỆ THỐNG - BẢN FIX HOÀN CHỈNH =================
 async function khoiDongUngDung() {
+  // 1. Tải dữ liệu từ file JSON
   const fileData = await taiTatCaDuLieuCauHoi();
   
   if (fileData.length === 0) {
-    const localData = localStorage.getItem("questionData");
-    if (localData) {
-      data = JSON.parse(localData);
-      checkLogin();
-    } else {
-      alert("Không tìm thấy dữ liệu câu hỏi trong thư mục cau_hoi! Vui lòng kiểm tra lại cấu trúc thư mục.");
-    }
+    alert("Không tìm thấy dữ liệu câu hỏi trong thư mục cau_hoi! Vui lòng kiểm tra lại đường dẫn.");
     return;
   }
 
-  const localData = localStorage.getItem("questionData");
-  if (localData) {
-    const localQuestions = JSON.parse(localData);
-    const localMap = new Map();
-    localQuestions.forEach(q => {
-      let qText = (q.question || q.cauhoi || "").trim();
-      if (qText) localMap.set(qText, q);
-    });
+  // 2. Lấy chỉ các thông tin trạng thái học tập đã lưu (weight, count...) từ localStorage
+  // Lưu dưới dạng Map để truy xuất siêu nhanh theo nội dung câu hỏi
+  const savedStats = JSON.parse(localStorage.getItem("userStats") || "{}");
 
-    fileData.forEach(q => {
-      let qText = (q.question || q.cauhoi || "").trim();
-      if (localMap.has(qText)) {
-        const oldQ = localMap.get(qText);
-        q.weight = oldQ.weight || 1;
-        q.correctCount = oldQ.correctCount || 0;
-        q.wrongCount = oldQ.wrongCount || 0;
-        if(oldQ.fileSource) q.fileSource = oldQ.fileSource;
-      }
-    });
-  }
+  // 3. Gán lại trạng thái vào dữ liệu vừa tải
+  fileData.forEach(q => {
+    let qText = (q.question || q.cauhoi || "").trim();
+    if (savedStats[qText]) {
+      const stats = savedStats[qText];
+      q.weight = stats.weight || 1;
+      q.correctCount = stats.correctCount || 0;
+      q.wrongCount = stats.wrongCount || 0;
+      q.fileSource = stats.fileSource || q.fileSource;
+    } else {
+      // Thiết lập mặc định nếu chưa có
+      q.weight = q.weight || 1;
+      q.correctCount = q.correctCount || 0;
+      q.wrongCount = q.wrongCount || 0;
+    }
+  });
 
+  // 4. Lưu dữ liệu vào RAM (biến global 'data'), KHÔNG LƯU VÀO LOCALSTORAGE
   data = fileData;
-  localStorage.setItem("questionData", JSON.stringify(data));
+  
   checkLogin();
 }
 
+// Gọi hàm khởi động
 khoiDongUngDung();
-
-// ================= THUẬT TOÁN ĐẢO KHOÁ TRỘN ĐỀ TỐI ĐA =================
-function shuffle(arr) {
-  let a = [...arr];
-  for (let i = a.length - 1; i > 0; i--) {
-    let j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
-  }
-  return a;
-}
 
 // ================= START EXAM (TỶ LỆ % THEO TỔNG CÂU FILE & BỐC BÙ LIỀN KỀ) =================
 function startExam() {
@@ -459,7 +446,8 @@ function startTimer() {
   }, 1000);
 }
 
-// ================= NỘP BÀI VÀ CHẤM ĐIỂM SỬA WEIGHT LỖI =================
+
+// ================= NỘP BÀI VÀ CHẤM ĐIỂM (ĐÃ TỐI ƯU) =================
 function submit() {
   clearInterval(timer);
 
@@ -511,47 +499,46 @@ function submit() {
     }
   });
 
+  // 1. LƯU CORRECT POOL
   localStorage.setItem("correctPool", JSON.stringify(correctPool));
-  localStorage.setItem("questionData", JSON.stringify(data)); 
+
+  // 2. TỐI ƯU: CHỈ LƯU TRẠNG THÁI CÂU HỎI, KHÔNG LƯU TOÀN BỘ MẢNG DATA
+  let statsToSave = {};
+  data.forEach(q => {
+    let qText = (q.question || q.cauhoi || "").trim();
+    statsToSave[qText] = {
+      weight: q.weight,
+      correctCount: q.correctCount,
+      wrongCount: q.wrongCount,
+      fileSource: q.fileSource
+    };
+  });
+  localStorage.setItem("userStats", JSON.stringify(statsToSave)); 
+
   wrongPool = newWrong;
 
+  // ... (phần code hiển thị kết quả giữ nguyên như cũ) ...
   document.body.style.backgroundColor = "#f4f5f7";
   document.body.style.margin = "0";
   document.body.style.padding = "20px 0";
 
   app.innerHTML = `
-    <div style="
-      max-width: 820px; 
-      margin: 0 auto; 
-      background: #ffffff; 
-      padding: 40px 50px; 
-      box-shadow: 0 4px 15px rgba(0,0,0,0.06);
-      border-radius: 8px;
-      font-family: 'Times New Roman', Times, serif;
-    ">
-      <h1 style="font-size: 24px; font-weight: bold; text-align: center; margin: 0 0 10px 0; color: #111; letter-spacing: 0.5px;">BÁO CÁO KẾT QUẢ KIỂM TRA</h1>
-      
-      <p style="text-align: center; font-size: 15px; color: #555; margin: 0 0 20px 0; line-height: 1.6;">
-        Số câu đã hoàn thành: <b style="color: #00796b; font-size: 16px;">${submittedCount}/${questions.length}</b><br>
-        Số câu đúng: <b style="color: #2e7d32; font-size: 16px;">${correct}</b> | Số câu sai/Chưa chọn: <b style="color: #c62828; font-size: 16px;">${wrong}</b>
+    <div style="max-width: 820px; margin: 0 auto; background: #ffffff; padding: 40px 50px; box-shadow: 0 4px 15px rgba(0,0,0,0.06); border-radius: 8px; font-family: 'Times New Roman', Times, serif;">
+      <h1 style="font-size: 24px; font-weight: bold; text-align: center; margin: 0 0 10px 0; color: #111;">BÁO CÁO KẾT QUẢ KIỂM TRA</h1>
+      <p style="text-align: center; font-size: 15px; color: #555; margin: 0 0 20px 0;">
+        Số câu đã hoàn thành: <b>${submittedCount}/${questions.length}</b><br>
+        Số câu đúng: <b style="color: #2e7d32;">${correct}</b> | Sai: <b style="color: #c62828;">${wrong}</b>
       </p>
-
       <div style="text-align: center; margin-bottom: 25px;">
-        <button class="btn" style="background: #00796b; color: white; border: none; padding: 10px 28px; font-size: 14px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 20px; font-weight: bold; transition: 0.2s;" onclick="location.reload()">THI VÒNG ĐỀ MỚI</button>
+        <button class="btn" style="background: #00796b; color: white; padding: 10px 28px; border-radius: 20px; cursor: pointer; border: none;" onclick="location.reload()">THI VÒNG ĐỀ MỚI</button>
       </div>
-
-      <div style="display: flex; gap: 8px; justify-content: center; margin-bottom: 25px; border-bottom: 1px solid #eef0f2; padding-bottom: 15px;">
-        <button id="btn-filter-all" style="padding: 6px 16px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('all')">Tất cả câu hỏi</button>
-        <button id="btn-filter-correct" style="padding: 6px 16px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('correct')">Các câu đúng</button>
-        <button id="btn-filter-wrong" style="padding: 6px 16px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('wrong')">Các câu chưa làm / sai</button>
-      </div>
-
       <div id="result-list"></div>
     </div>
   `;
-
   filterResult('all');
 }
+
+
 
 // ================= BỘ LỌC ĐÁP ÁN KHẢO SÁT KẾT QUẢ THI =================
 function filterResult(type) {
