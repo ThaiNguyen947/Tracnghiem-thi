@@ -1,4 +1,382 @@
 [
+   {
+    "question": "Theo Luật Nhà ở 2023, việc tặng cho nhà ở thuộc sở hữu chung hợp nhất phải đáp ứng điều kiện nào?",
+    "a": "Có sự đồng ý bằng văn bản của đa số các chủ sở hữu",
+    "b": "Có sự đồng ý bằng văn bản của tất cả các chủ sở hữu",
+    "c": "Có sự đồng ý của người đại diện theo pháp luật của các chủ sở hữu",
+    "d": "Phải được cơ quan quản lý nhà ở cấp tỉnh chấp thuận bằng văn bản",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 1 Điều 177 Luật Nhà ở 2023, việc tặng cho nhà ở thuộc sở hữu chung hợp nhất phải được sự đồng ý bằng văn bản của tất cả các chủ sở hữu."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chủ sở hữu nhà ở thuộc sở hữu chung theo phần được tặng cho phần nhà ở nào?",
+    "a": "Toàn bộ nhà ở nếu được các chủ sở hữu khác ủy quyền",
+    "b": "Phần nhà ở thuộc quyền sở hữu của mình",
+    "c": "Bất kỳ phần nào của nhà ở nếu giá trị không vượt quá 50% tổng giá trị",
+    "d": "Chỉ được tặng cho khi có sự phân chia bằng văn bản có công chứng",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 1 Điều 177 Luật Nhà ở 2023, chủ sở hữu chung theo phần chỉ được tặng cho phần nhà ở thuộc quyền sở hữu của mình."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chủ sở hữu nhà ở đang cho thuê phải thông báo cho bên thuê biết trước ít nhất bao nhiêu ngày về việc tặng cho nhà ở?",
+    "a": "15 ngày kể từ ngày ký hợp đồng tặng cho",
+    "b": "20 ngày trước khi làm thủ tục công chứng",
+    "c": "30 ngày trước khi thực hiện việc tặng cho",
+    "d": "45 ngày kể từ ngày hoàn tất thủ tục sang tên",
+    "answer": "c",
+    "explanation": "Theo điểm a khoản 2 Điều 177 Luật Nhà ở 2023, phải thông báo bằng văn bản cho bên thuê biết trước ít nhất 30 ngày."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, sau khi nhà ở đang cho thuê được tặng cho thì bên thuê được tiếp tục thuê như thế nào?",
+    "a": "Được tiếp tục thuê đến hết thời hạn hợp đồng đã ký, trừ trường hợp có thỏa thuận khác",
+    "b": "Được tiếp tục thuê thêm 06 tháng để tìm chỗ ở mới",
+    "c": "Phải ký lại hợp đồng với chủ sở hữu mới trong vòng 15 ngày",
+    "d": "Hợp đồng thuê chấm dứt hiệu lực ngay khi việc tặng cho hoàn tất",
+    "answer": "a",
+    "explanation": "Theo điểm b khoản 2 Điều 177 Luật Nhà ở 2023, bên thuê được tiếp tục thuê đến hết thời hạn hợp đồng đã ký, trừ trường hợp có thỏa thuận khác."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc đổi nhà ở thuộc sở hữu chung hợp nhất phải có điều kiện nào?",
+    "a": "Phải có sự xác nhận của UBND cấp xã nơi có nhà ở",
+    "b": "Phải có sự đồng ý bằng văn bản của tất cả các chủ sở hữu",
+    "c": "Phải có sự đồng ý của quá nửa số chủ sở hữu chung",
+    "d": "Phải được tổ dân phố xác nhận không có tranh chấp",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 1 Điều 178 Luật Nhà ở 2023, việc đổi nhà ở thuộc sở hữu chung hợp nhất phải được sự đồng ý bằng văn bản của tất cả các chủ sở hữu."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chủ sở hữu nhà ở thuộc sở hữu chung theo phần được đổi phần nhà ở nào?",
+    "a": "Toàn bộ nhà ở nếu được các đồng sở hữu ủy quyền",
+    "b": "Phần nhà ở thuộc quyền sở hữu của mình",
+    "c": "Phần nhà ở của các chủ sở hữu khác nếu đã thanh toán chênh lệch",
+    "d": "Chỉ được đổi khi có quyết định phân chia tài sản của Tòa án",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 1 Điều 178 Luật Nhà ở 2023, chủ sở hữu chung theo phần chỉ được đổi phần nhà ở thuộc quyền sở hữu của mình."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi đổi nhà ở đang cho thuê thì chủ sở hữu phải thông báo cho bên thuê biết trước ít nhất bao nhiêu ngày?",
+    "a": "10 ngày làm việc",
+    "b": "20 ngày theo lịch",
+    "c": "30 ngày",
+    "d": "60 ngày",
+    "answer": "c",
+    "explanation": "Theo điểm a khoản 2 Điều 178 Luật Nhà ở 2023, phải thông báo bằng văn bản cho bên thuê biết trước ít nhất 30 ngày."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi đổi nhà ở đang cho thuê thì bên thuê được tiếp tục thuê nhà ở như thế nào?",
+    "a": "Được tiếp tục thuê đến hết thời hạn hợp đồng đã ký, trừ trường hợp có thỏa thuận khác",
+    "b": "Chỉ được thuê thêm tối đa 03 tháng kể từ ngày đổi chủ",
+    "c": "Phải ký hợp đồng thuê mới với người chủ sở hữu nhận đổi nhà ở",
+    "d": "Hợp đồng thuê mặc nhiên chấm dứt khi việc đổi nhà ở hoàn tất",
+    "answer": "a",
+    "explanation": "Theo điểm b khoản 2 Điều 178 Luật Nhà ở 2023, bên thuê được tiếp tục thuê đến hết thời hạn hợp đồng đã ký, trừ trường hợp có thỏa thuận khác."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi đổi nhà ở mà có chênh lệch giá trị nhà ở thì các bên phải thực hiện như thế nào?",
+    "a": "Không cần thanh toán nếu tổng giá trị tài sản hoán đổi tương đương",
+    "b": "Phải thanh toán giá trị chênh lệch, trừ trường hợp có thỏa thuận khác",
+    "c": "Phải nộp phần chênh lệch vào ngân sách nhà nước",
+    "d": "Phải thực hiện điều chỉnh giá trị qua cơ quan định giá độc lập",
+    "answer": "b",
+    "explanation": "Theo điểm c khoản 2 Điều 178 Luật Nhà ở 2023, các bên phải thanh toán giá trị chênh lệch, trừ trường hợp có thỏa thuận khác."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chủ sở hữu nhà ở có quyền góp vốn bằng nhà ở để tham gia hoạt động kinh doanh trong lĩnh vực nào?",
+    "a": "Mọi lĩnh vực hoạt động kinh doanh",
+    "b": "Lĩnh vực mà pháp luật không cấm kinh doanh tại nhà ở đó",
+    "c": "Chỉ trong lĩnh vực kinh doanh bất động sản",
+    "d": "Chỉ trong lĩnh vực thương mại dịch vụ không gây ồn",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 1 Điều 179 Luật Nhà ở 2023, được góp vốn để tham gia hoạt động kinh doanh trong lĩnh vực mà pháp luật không cấm kinh doanh tại nhà ở đó."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc góp vốn bằng nhà ở phải được thực hiện thông qua hình thức nào?",
+    "a": "Văn bản xác nhận của UBND cấp xã",
+    "b": "Hợp đồng có các nội dung theo quy định tại Điều 163 của Luật này",
+    "c": "Biên bản thỏa thuận giữa các bên có người làm chứng",
+    "d": "Quyết định góp vốn của đại hội đồng cổ đông (nếu là doanh nghiệp)",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 1 Điều 179 Luật Nhà ở 2023, việc góp vốn bằng nhà ở phải thông qua hợp đồng có nội dung theo Điều 163."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nhà ở đưa vào góp vốn phải là loại nhà ở nào?",
+    "a": "Nhà ở hình thành trong tương lai đã được nghiệm thu đưa vào sử dụng",
+    "b": "Nhà ở có sẵn",
+    "c": "Bao gồm cả nhà ở có sẵn và nhà ở hình thành trong tương lai",
+    "d": "Nhà ở thuộc sở hữu của doanh nghiệp",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 1 Điều 179 Luật Nhà ở 2023, nhà ở đưa vào góp vốn phải là nhà ở có sẵn."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nhà ở đưa vào góp vốn phải đáp ứng điều kiện theo quy định tại điều nào?",
+    "a": "Khoản 1 Điều 160",
+    "b": "Khoản 2 Điều 160",
+    "c": "Điều 163",
+    "d": "Điều 164",
+    "answer": "a",
+    "explanation": "Theo điểm b khoản 1 Điều 179 Luật Nhà ở 2023, nhà ở đưa vào góp vốn phải đáp ứng điều kiện tại khoản 1 Điều 160."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc góp vốn bằng nhà ở thuộc sở hữu chung hợp nhất phải có điều kiện gì?",
+    "a": "Có sự đồng ý bằng văn bản của đa số các chủ sở hữu",
+    "b": "Có sự đồng ý bằng văn bản của tất cả các chủ sở hữu",
+    "c": "Có sự chấp thuận của cơ quan đăng ký kinh doanh",
+    "d": "Có biên bản họp gia đình được chính quyền địa phương xác nhận",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 2 Điều 179 Luật Nhà ở 2023, phải được sự đồng ý bằng văn bản của tất cả các chủ sở hữu."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi góp vốn bằng nhà ở đang cho thuê thì chủ sở hữu phải thông báo cho bên thuê biết trước ít nhất bao nhiêu ngày?",
+    "a": "07 ngày làm việc",
+    "b": "15 ngày",
+    "c": "30 ngày",
+    "d": "45 ngày",
+    "answer": "c",
+    "explanation": "Theo điểm a khoản 3 Điều 179 Luật Nhà ở 2023, phải thông báo bằng văn bản trước ít nhất 30 ngày."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, bên thuê nhà ở được tiếp tục thuê đến hết thời hạn hợp đồng khi chủ sở hữu góp vốn bằng nhà ở đang cho thuê, trừ trường hợp nào?",
+    "a": "Trường hợp các bên có thỏa thuận khác",
+    "b": "Trường hợp bên thuê vi phạm hợp đồng",
+    "c": "Trường hợp chủ sở hữu mới muốn lấy lại nhà",
+    "d": "Trường hợp nhà ở cần sửa chữa lớn",
+    "answer": "a",
+    "explanation": "Theo điểm b khoản 3 Điều 179 Luật Nhà ở 2023, ngoại lệ là trường hợp các bên có thỏa thuận khác."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp cho mượn, cho ở nhờ nhà ở thuộc sở hữu chung hợp nhất thì phải có sự đồng ý của ai?",
+    "a": "Đại diện chủ sở hữu",
+    "b": "Tất cả các chủ sở hữu",
+    "c": "Quá nửa số chủ sở hữu",
+    "d": "Tổ trưởng tổ dân phố nơi có nhà ở",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 180 Luật Nhà ở 2023, việc cho mượn, cho ở nhờ nhà ở thuộc sở hữu chung hợp nhất phải được sự đồng ý của tất cả các chủ sở hữu."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chủ sở hữu nhà ở thuộc sở hữu chung theo phần có quyền cho mượn, cho ở nhờ phần nhà ở thuộc quyền sở hữu của mình với điều kiện nào?",
+    "a": "Không được làm ảnh hưởng đến quyền lợi của các chủ sở hữu chung khác",
+    "b": "Phải có văn bản thông báo cho các chủ sở hữu khác biết",
+    "c": "Phải có sự đồng ý của đa số các chủ sở hữu khác",
+    "d": "Phải được cơ quan công an xác nhận về nhân thân người mượn",
+    "answer": "a",
+    "explanation": "Theo khoản 1 Điều 180 Luật Nhà ở 2023, việc cho mượn, cho ở nhờ phải không được làm ảnh hưởng đến quyền lợi của các chủ sở hữu chung khác."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, bên cho mượn nhà ở có quyền gì?",
+    "a": "Được đòi lại nhà ở bất cứ lúc nào",
+    "b": "Được quyền đòi lại nhà ở theo thỏa thuận hoặc theo quy định của Luật",
+    "c": "Được quyền đơn phương chấm dứt hợp đồng mượn mà không cần báo trước",
+    "d": "Được quyền yêu cầu bên mượn thanh toán chi phí khấu hao nhà ở",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 180 Luật Nhà ở 2023, bên cho mượn nhà ở có quyền đòi lại nhà ở theo thỏa thuận hoặc theo quy định của Luật này."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hợp đồng cho mượn, cho ở nhờ nhà ở chấm dứt khi nào?",
+    "a": "Khi thời hạn cho mượn, cho ở nhờ đã hết",
+    "b": "Khi bên mượn, bên ở nhờ thay đổi nơi cư trú",
+    "c": "Khi bên cho mượn, cho ở nhờ không còn nhu cầu ở tại địa phương",
+    "d": "Khi bên cho mượn đã cho người khác thuê lại nhà ở đó",
+    "answer": "a",
+    "explanation": "Theo điểm a khoản 2 Điều 180 Luật Nhà ở 2023, hợp đồng chấm dứt khi thời hạn cho mượn, cho ở nhờ đã hết."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hợp đồng cho mượn, cho ở nhờ nhà ở chấm dứt khi nhà ở thuộc trường hợp nào?",
+    "a": "Nhà ở cần được cải tạo, nâng cấp nội thất",
+    "b": "Nhà ở có nguy cơ sập đổ hoặc đã có quyết định giải tỏa, phá dỡ hoặc thu hồi đất",
+    "c": "Chủ sở hữu nhà ở thay đổi hộ khẩu thường trú",
+    "d": "Bên cho mượn nhà ở nảy sinh tranh chấp về quyền thừa kế",
+    "answer": "b",
+    "explanation": "Theo điểm đ khoản 2 Điều 180 Luật Nhà ở 2023, hợp đồng chấm dứt khi nhà ở có nguy cơ sập đổ hoặc thuộc diện giải tỏa, phá dỡ, thu hồi đất."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc tặng cho nhà ở thuộc sở hữu chung hợp nhất phải đáp ứng điều kiện nào?",
+    "a": "Có sự đồng ý bằng văn bản của tất cả các chủ sở hữu",
+    "b": "Có sự đồng ý bằng văn bản của đa số các chủ sở hữu",
+    "c": "Có sự đồng ý của đại diện chủ sở hữu",
+    "d": "Không cần sự đồng ý của các chủ sở hữu khác",
+    "answer": "a",
+    "explanation": "Theo điểm a khoản 1 Điều 177 Luật Nhà ở 2023, việc tặng cho nhà ở thuộc sở hữu chung hợp nhất phải được sự đồng ý bằng văn bản của tất cả các chủ sở hữu."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chủ sở hữu nhà ở thuộc sở hữu chung theo phần được tặng cho phần nhà ở nào?",
+    "a": "Toàn bộ nhà ở",
+    "b": "Phần nhà ở thuộc quyền sở hữu của mình",
+    "c": "Bất kỳ phần nào của nhà ở",
+    "d": "Phần nhà ở đã được các đồng sở hữu khác ủy quyền",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 1 Điều 177 Luật Nhà ở 2023, chủ sở hữu chung theo phần chỉ được tặng cho phần nhà ở thuộc quyền sở hữu của mình."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi tặng cho hoặc góp vốn bằng nhà ở đang cho thuê, chủ sở hữu phải thông báo cho bên thuê bằng hình thức nào?",
+    "a": "Thông báo trực tiếp qua điện thoại",
+    "b": "Thông báo bằng văn bản trước ít nhất 30 ngày",
+    "c": "Thông báo qua môi giới bất động sản",
+    "d": "Thông báo bằng miệng tại nơi cư trú",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 2 Điều 177 và điểm a khoản 3 Điều 179 Luật Nhà ở 2023, chủ sở hữu phải thông báo bằng văn bản cho bên thuê biết trước ít nhất 30 ngày."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, bên thuê nhà ở được tiếp tục thuê đến hết thời hạn hợp đồng khi nhà ở đang cho thuê được tặng cho, đổi hoặc góp vốn, trừ trường hợp nào?",
+    "a": "Khi có thỏa thuận khác giữa các bên",
+    "b": "Khi bên cho thuê đổi chủ sở hữu",
+    "c": "Khi bên thuê không còn nhu cầu ở",
+    "d": "Khi hợp đồng thuê chưa công chứng",
+    "answer": "a",
+    "explanation": "Theo điểm b khoản 2 Điều 177, điểm b khoản 2 Điều 178 và điểm b khoản 3 Điều 179 Luật Nhà ở 2023, bên thuê được tiếp tục thuê đến hết thời hạn hợp đồng đã ký, trừ trường hợp có thỏa thuận khác."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc đổi nhà ở thuộc sở hữu chung hợp nhất phải có điều kiện gì?",
+    "a": "Có sự đồng ý bằng văn bản của tất cả các chủ sở hữu",
+    "b": "Có sự đồng ý của UBND cấp xã",
+    "c": "Có sự xác nhận của tổ dân phố",
+    "d": "Có công chứng viên làm chứng",
+    "answer": "a",
+    "explanation": "Theo điểm a khoản 1 Điều 178 Luật Nhà ở 2023, việc đổi nhà ở thuộc sở hữu chung hợp nhất phải được sự đồng ý bằng văn bản của tất cả các chủ sở hữu."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi đổi nhà ở mà có chênh lệch giá trị, các bên thực hiện như thế nào?",
+    "a": "Không cần thanh toán giá trị chênh lệch",
+    "b": "Thanh toán giá trị chênh lệch, trừ trường hợp có thỏa thuận khác",
+    "c": "Nhà nước sẽ thanh toán phần chênh lệch",
+    "d": "Phải hủy bỏ hợp đồng đổi nhà ở",
+    "answer": "b",
+    "explanation": "Theo điểm c khoản 2 Điều 178 Luật Nhà ở 2023, các bên phải thanh toán giá trị chênh lệch, trừ trường hợp có thỏa thuận khác."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chủ thể nào ngoài chủ sở hữu nhà ở có quyền góp vốn bằng nhà ở?",
+    "a": "Ủy ban nhân dân cấp xã",
+    "b": "Chủ đầu tư dự án đầu tư xây dựng nhà ở thương mại",
+    "c": "Cá nhân không có năng lực hành vi dân sự",
+    "d": "Người đang thuê nhà ở",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 1 Điều 179 Luật Nhà ở 2023, chủ đầu tư dự án đầu tư xây dựng nhà ở thương mại có quyền góp vốn bằng nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hoạt động kinh doanh bằng vốn góp là nhà ở phải thuộc lĩnh vực nào?",
+    "a": "Lĩnh vực bất động sản",
+    "b": "Lĩnh vực pháp luật không cấm kinh doanh tại nhà ở đó",
+    "c": "Lĩnh vực kinh doanh dịch vụ",
+    "d": "Lĩnh vực xây dựng và kiến trúc",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 1 Điều 179 Luật Nhà ở 2023, được góp vốn để tham gia hoạt động kinh doanh trong lĩnh vực mà pháp luật không cấm kinh doanh tại nhà ở đó."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc góp vốn bằng nhà ở phải được thực hiện thông qua hình thức nào?",
+    "a": "Hợp đồng có nội dung theo Điều 163",
+    "b": "Biên bản thỏa thuận miệng",
+    "c": "Thông báo cho cơ quan thuế",
+    "d": "Cam kết bảo lãnh của ngân hàng",
+    "answer": "a",
+    "explanation": "Theo điểm a khoản 1 Điều 179 Luật Nhà ở 2023, việc góp vốn bằng nhà ở phải thông qua hợp đồng có nội dung theo Điều 163."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nhà ở đưa vào góp vốn phải là loại nhà ở nào?",
+    "a": "Nhà ở hình thành trong tương lai",
+    "b": "Nhà ở có sẵn",
+    "c": "Nhà ở chưa nghiệm thu",
+    "d": "Nhà ở đang tranh chấp",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 1 Điều 179 Luật Nhà ở 2023, nhà ở đưa vào góp vốn phải là nhà ở có sẵn."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nhà ở đưa vào góp vốn phải đáp ứng điều kiện theo quy định tại điều nào?",
+    "a": "Khoản 1 Điều 160",
+    "b": "Khoản 2 Điều 160",
+    "c": "Điều 163",
+    "d": "Điều 164",
+    "answer": "a",
+    "explanation": "Theo điểm b khoản 1 Điều 179 Luật Nhà ở 2023, nhà ở đưa vào góp vốn phải đáp ứng điều kiện tại khoản 1 Điều 160."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc góp vốn bằng nhà ở thuộc sở hữu chung hợp nhất phải đáp ứng điều kiện gì?",
+    "a": "Có sự đồng ý bằng văn bản của tất cả các chủ sở hữu",
+    "b": "Có sự đồng ý của ít nhất 2/3 chủ sở hữu",
+    "c": "Có chữ ký của đại diện tổ dân phố",
+    "d": "Có sự chấp thuận của UBND cấp tỉnh",
+    "answer": "a",
+    "explanation": "Theo điểm a khoản 2 Điều 179 Luật Nhà ở 2023, việc góp vốn bằng nhà ở thuộc sở hữu chung hợp nhất phải được sự đồng ý bằng văn bản của tất cả các chủ sở hữu."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp cho mượn, cho ở nhờ nhà ở thuộc sở hữu chung hợp nhất thì phải có sự đồng ý của ai?",
+    "a": "Tất cả các chủ sở hữu",
+    "b": "Đại diện chủ sở hữu",
+    "c": "Ủy ban nhân dân cấp xã",
+    "d": "Tổ trưởng tổ dân phố",
+    "answer": "a",
+    "explanation": "Theo khoản 1 Điều 180 Luật Nhà ở 2023, việc cho mượn, cho ở nhờ nhà ở thuộc sở hữu chung hợp nhất phải được sự đồng ý của tất cả các chủ sở hữu."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi chủ sở hữu cho mượn, cho ở nhờ phần nhà ở thuộc quyền sở hữu của mình thì điều kiện bắt buộc là gì?",
+    "a": "Phải có công chứng",
+    "b": "Không được làm ảnh hưởng đến quyền lợi của các chủ sở hữu chung khác",
+    "c": "Phải thông báo cho tổ dân phố",
+    "d": "Phải nộp lệ phí cho nhà nước",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 180 Luật Nhà ở 2023, chủ sở hữu chung theo phần chỉ được cho mượn, cho ở nhờ phần thuộc quyền sở hữu của mình với điều kiện không làm ảnh hưởng đến quyền lợi của các chủ sở hữu chung khác."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, bên cho mượn nhà ở có quyền gì?",
+    "a": "Đòi lại nhà ở theo thỏa thuận hoặc theo quy định của Luật",
+    "b": "Đòi lại nhà ở bất cứ lúc nào không cần lý do",
+    "c": "Thu hồi tài sản của bên mượn ngay lập tức",
+    "d": "Tự ý phá dỡ nhà ở khi chưa hết hạn cho mượn",
+    "answer": "a",
+    "explanation": "Theo khoản 1 Điều 180 Luật Nhà ở 2023, bên cho mượn nhà ở có quyền đòi lại nhà ở theo thỏa thuận hoặc theo quy định của Luật này."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hợp đồng cho mượn, cho ở nhờ nhà ở chấm dứt khi nào?",
+    "a": "Thời hạn cho mượn, cho ở nhờ đã hết",
+    "b": "Bên cho mượn đổi số điện thoại",
+    "c": "Bên mượn đổi nơi làm việc",
+    "d": "Có người hàng xóm phản ánh",
+    "answer": "a",
+    "explanation": "Theo điểm a khoản 2 Điều 180 Luật Nhà ở 2023, hợp đồng chấm dứt khi thời hạn cho mượn, cho ở nhờ đã hết."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hợp đồng cho mượn, cho ở nhờ nhà ở chấm dứt khi bên mượn hoặc bên ở nhờ là cá nhân thuộc trường hợp nào?",
+    "a": "Thay đổi nơi cư trú",
+    "b": "Kết hôn hoặc ly hôn",
+    "c": "Chết hoặc mất tích theo tuyên bố của Tòa án",
+    "d": "Đi công tác xa",
+    "answer": "c",
+    "explanation": "Theo điểm c khoản 2 Điều 180 Luật Nhà ở 2023, hợp đồng chấm dứt khi bên mượn, bên ở nhờ là cá nhân chết hoặc bị tuyên bố mất tích bởi Tòa án."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hợp đồng cho mượn, cho ở nhờ nhà ở chấm dứt khi bên mượn hoặc bên ở nhờ là tổ chức thuộc trường hợp nào?",
+    "a": "Giải thể, phá sản hoặc chấm dứt hoạt động",
+    "b": "Thay đổi người đại diện pháp luật",
+    "c": "Tăng vốn điều lệ",
+    "d": "Thay đổi cơ cấu tổ chức",
+    "answer": "a",
+    "explanation": "Theo điểm d khoản 2 Điều 180 Luật Nhà ở 2023, hợp đồng chấm dứt khi tổ chức giải thể, phá sản hoặc chấm dứt hoạt động."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hợp đồng cho mượn, cho ở nhờ nhà ở chấm dứt khi nhà ở thuộc trường hợp nào?",
+    "a": "Được sơn sửa lại",
+    "b": "Có nguy cơ sập đổ hoặc đã có quyết định giải tỏa, phá dỡ hoặc thu hồi đất",
+    "c": "Được lắp đặt thêm nội thất",
+    "d": "Được chuyển đổi mục đích sử dụng",
+    "answer": "b",
+    "explanation": "Theo điểm đ khoản 2 Điều 180 Luật Nhà ở 2023, hợp đồng chấm dứt khi nhà ở có nguy cơ sập đổ hoặc thuộc diện giải tỏa, phá dỡ, thu hồi đất."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, bên cho ở nhờ có quyền gì khi chấm dứt hợp đồng?",
+    "a": "Chấm dứt việc cho ở nhờ",
+    "b": "Yêu cầu chủ nhà bồi thường tiền",
+    "c": "Tiếp tục ở lại đến khi tìm được nhà mới",
+    "d": "Yêu cầu cấp giấy chứng nhận quyền sở hữu",
+    "answer": "a",
+    "explanation": "Theo khoản 1 Điều 180 Luật Nhà ở 2023, bên cho ở nhờ có quyền chấm dứt việc cho ở nhờ khi hợp đồng chấm dứt."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trong trường hợp hợp đồng cho mượn, cho ở nhờ nhà ở đã chấm dứt, chủ sở hữu có quyền gì đối với nhà ở đó?",
+    "a": "Có quyền đòi lại nhà ở",
+    "b": "Có quyền bán ngay lập tức cho người khác",
+    "c": "Có quyền yêu cầu chính quyền cưỡng chế bên mượn ngay trong ngày",
+    "d": "Có quyền tự ý hủy hoại tài sản của bên mượn để lấy lại nhà",
+    "answer": "a",
+    "explanation": "Theo khoản 1 Điều 180 Luật Nhà ở 2023, bên cho mượn, cho ở nhờ nhà ở có quyền đòi lại nhà ở theo thỏa thuận hoặc theo quy định của Luật này."
+  },
   {
     "question": "Theo Luật Nhà ở 2023, hình thức văn bản bắt buộc đối với giao dịch thuê mua nhà ở là gì?",
     "a": "Văn bản thỏa thuận có chữ ký hai bên",
