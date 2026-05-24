@@ -46,12 +46,25 @@ function login() {
   let user = users.find(x => x.username === u && x.password === p);
   if (!user) return alert("Sai tài khoản hoặc mật khẩu!");
 
+  // Lấy danh sách khóa từ localStorage
+  let lockedAccounts = JSON.parse(localStorage.getItem("lockedAccounts") || "[]");
+  
+  // 1. Kiểm tra nếu tài khoản đã bị khóa
+  if (lockedAccounts.includes(user.username)) {
+    return alert("Tài khoản của bạn đã bị khóa do vi phạm quy định đăng nhập trên nhiều thiết bị!");
+  }
+
   let deviceId = getDeviceId();
   let sessions = JSON.parse(localStorage.getItem("loginSessions") || "{}");
 
+  // 2. Kiểm tra nếu tài khoản đang có phiên ở thiết bị khác
   if (user.role !== "admin") {
     if (sessions[user.username] && sessions[user.username] !== deviceId) {
-      alert("Tài khoản này đang được đăng nhập trên một thiết bị khác!");
+      // Đánh dấu khóa tài khoản
+      lockedAccounts.push(user.username);
+      localStorage.setItem("lockedAccounts", JSON.stringify(lockedAccounts));
+      
+      alert("CẢNH BÁO: Phát hiện đăng nhập trên thiết bị lạ. Tài khoản của bạn đã bị KHÓA vĩnh viễn!");
       return;
     }
   }
@@ -66,25 +79,35 @@ function login() {
   enableProtectionForSubAccounts();
   startExam();
 }
-
 // ================= KIỂM TRA TRẠNG THÁI ĐĂNG NHẬP =================
 function checkLogin() {
   let user = JSON.parse(localStorage.getItem("user"));
-  let deviceId = getDeviceId();
-  let sessions = JSON.parse(localStorage.getItem("loginSessions") || "{}");
-
   if (!user) {
     showLogin();
     return;
   }
 
-  if (user.role !== "admin") {
-    if (sessions[user.username] !== deviceId) {
-      alert("Phiên đăng nhập hết hạn (thiết bị khác đã đăng nhập)!");
-      localStorage.removeItem("user");
-      showLogin();
-      return;
-    }
+  // Kiểm tra khóa
+  let lockedAccounts = JSON.parse(localStorage.getItem("lockedAccounts") || "[]");
+  if (lockedAccounts.includes(user.username)) {
+    localStorage.removeItem("user");
+    alert("Tài khoản của bạn đã bị khóa!");
+    showLogin();
+    return;
+  }
+
+  let deviceId = getDeviceId();
+  let sessions = JSON.parse(localStorage.getItem("loginSessions") || "{}");
+
+  if (user.role !== "admin" && sessions[user.username] !== deviceId) {
+    // Nếu phát hiện sai thiết bị, cũng tự động khóa luôn
+    lockedAccounts.push(user.username);
+    localStorage.setItem("lockedAccounts", JSON.stringify(lockedAccounts));
+    
+    localStorage.removeItem("user");
+    alert("Phát hiện truy cập trái phép. Tài khoản đã bị khóa!");
+    showLogin();
+    return;
   }
 
   document.getElementById("loginBox").style.display = "none";
