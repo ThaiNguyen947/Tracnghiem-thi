@@ -476,10 +476,9 @@ function submit() {
   let wrong = 0;
   let submittedCount = 0; 
   let newWrong = [];
-
   let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
 
-  // 1. Tính toán kết quả và cập nhật trọng số vào biến data (trong RAM)
+  // 1. Tính toán kết quả
   questions.forEach((q, i) => {
     let userAns = answers[i] ? answers[i].toString().trim().toLowerCase() : "";
     let correctAns = q.newCorrectAnswer ? q.newCorrectAnswer.toString().trim().toLowerCase() : (q.answer || q.trảlời || "").toString().trim().toLowerCase();
@@ -490,6 +489,7 @@ function submit() {
     
     if (!originalQ) originalQ = q; 
 
+    // Cập nhật các chỉ số
     originalQ.weight = originalQ.weight || 1;
     originalQ.correctCount = originalQ.correctCount || 0;
     originalQ.wrongCount = originalQ.wrongCount || 0;
@@ -500,40 +500,41 @@ function submit() {
         correct++;
         originalQ.correctCount++;
         originalQ.weight = Math.max(1, originalQ.weight - 0.3);
-        
-        if (!correctPool.includes(qTextId)) {
-          correctPool.push(qTextId);
-        }
+        if (!correctPool.includes(qTextId)) correctPool.push(qTextId);
       } else {
         wrong++;
         newWrong.push(originalQ);
         originalQ.wrongCount++;
         originalQ.weight = Math.min(10, originalQ.weight + 1.2); 
-        
         let cIndex = correctPool.indexOf(qTextId);
-        if (cIndex > -1) {
-          correctPool.splice(cIndex, 1);
-        }
+        if (cIndex > -1) correctPool.splice(cIndex, 1);
       }
     } else {
       wrong++; 
     }
   });
 
-  // 2. FIX CHO IOS: KHÔNG lưu cả cục 'data' vào localStorage
-  // Thay vào đó, tạo một object stats thu gọn chỉ chứa số liệu cần thiết
+  // 2. TẠO HÀM LƯU STATS GỌN NHẸ (Thay cho việc lưu questionData)
   let stats = {};
   data.forEach(q => {
     let qText = (q.question || q.cauhoi || "").trim();
-    stats[qText] = { w: q.weight, c: q.correctCount, f: q.wrongCount };
+    stats[qText] = { 
+      weight: q.weight, 
+      correctCount: q.correctCount, 
+      wrongCount: q.wrongCount 
+    };
   });
 
+  // 3. LƯU VÀO LOCALSTORAGE
   localStorage.setItem("correctPool", JSON.stringify(correctPool));
-  localStorage.setItem("questionStats", JSON.stringify(stats)); // Lưu kiểu này nhẹ hơn gấp 20 lần!
+  localStorage.setItem("questionStats", JSON.stringify(stats)); // Chỉ lưu stats cực nhẹ
   
+  // Xóa sạch cache cũ nếu còn tồn tại để dọn RAM cho iOS
+  localStorage.removeItem("questionData"); 
+
   wrongPool = newWrong;
 
-  // Giao diện kết quả (giữ nguyên thiết kế của bạn)
+  // 4. HIỂN THỊ KẾT QUẢ (Giữ nguyên giao diện của bạn)
   document.body.style.backgroundColor = "#f4f5f7";
   document.body.style.margin = "0";
   document.body.style.padding = "20px 0";
@@ -543,7 +544,7 @@ function submit() {
       <h1 style="font-size: 24px; font-weight: bold; text-align: center; margin: 0 0 10px 0; color: #111;">BÁO CÁO KẾT QUẢ KIỂM TRA</h1>
       <p style="text-align: center; font-size: 15px; color: #555; margin: 0 0 20px 0;">
         Số câu đã làm: <b>${submittedCount}/${questions.length}</b><br>
-        Số câu đúng: <b style="color: #2e7d32;">${correct}</b> | Sai/Chưa làm: <b style="color: #c62828;">${wrong}</b>
+        Số câu đúng: <b style="color: #2e7d32;">${correct}</b> | Sai/Chưa chọn: <b style="color: #c62828;">${wrong}</b>
       </p>
       <div style="text-align: center; margin-bottom: 25px;">
         <button class="btn" style="background: #00796b; color: white; border: none; padding: 10px 28px; cursor: pointer; border-radius: 20px;" onclick="location.reload()">THI VÒNG ĐỀ MỚI</button>
