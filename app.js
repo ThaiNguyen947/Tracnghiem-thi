@@ -112,6 +112,7 @@ async function taiTatCaDuLieuCauHoi() {
   let beCauHoiTong = [];
 
   console.log("=== BẮT ĐẦU KIỂM TRA VÀ TẢI DỮ LIỆU FILE ===");
+  
   for (const duongDan of danhSachFiles) {
     try {
       const res = await fetch(duongDan);
@@ -123,6 +124,12 @@ async function taiTatCaDuLieuCauHoi() {
 
       console.log(`✓ Tải thành công: ${duongDan} | Quy mô: ${json.length} câu.`);
       beCauHoiTong = beCauHoiTong.concat(json);
+
+      // --- CHỖ FIX NẰM Ở ĐÂY ---
+      // Dừng lại 50ms giữa mỗi file để iOS xử lý bộ nhớ, không bị treo UI
+      await new Promise(resolve => setTimeout(resolve, 50)); 
+      // ------------------------
+
     } catch (err) {
       console.error(`❌ Không tìm thấy hoặc sai cấu trúc định dạng tại file: ${duongDan}`);
     }
