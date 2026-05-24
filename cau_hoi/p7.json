@@ -1,5 +1,338 @@
 [
   {
+    "question": "Theo Luật Nhà ở 2023, trong mối quan hệ thuê nhà ở, nội dung nào sau đây bắt buộc phải được các bên thỏa thuận nếu không có quy định khác từ cơ quan nhà nước có thẩm quyền?",
+    "a": "Thời hạn thuê, giá thuê và hình thức thanh toán",
+    "b": "Quy chuẩn thiết kế nội thất",
+    "c": "Thời hạn đăng ký thường trú tại nhà thuê",
+    "d": "Phương thức xác định giá trị đất địa phương",
+    "answer": "a",
+    "explanation": "Theo khoản 1 Điều 170 Luật Nhà ở 2023, các bên thỏa thuận về thời hạn thuê, giá thuê và hình thức trả tiền thuê nhà ở; trường hợp Nhà nước có quy định về giá thuê thì các bên phải thực hiện theo quy định đó."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trong trường hợp Nhà nước có quy định về giá thuê nhà ở, các bên thực hiện giao dịch này như thế nào?",
+    "a": "Ưu tiên áp dụng giá thỏa thuận thị trường",
+    "b": "Tuân thủ theo mức giá do Nhà nước quy định",
+    "c": "Được quyền chọn một trong hai (giá Nhà nước hoặc giá thỏa thuận)",
+    "d": "Giá do bên cho thuê tự quyết định dựa trên mức khung Nhà nước",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 170 Luật Nhà ở 2023, trường hợp Nhà nước có quy định về giá thuê nhà ở thì các bên phải thực hiện theo quy định của Nhà nước."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, điều kiện tiên quyết để bên cho thuê được quyền điều chỉnh giá thuê nhà ở khi thực hiện cải tạo là gì?",
+    "a": "Phải có sự đồng ý bằng văn bản của bên thuê",
+    "b": "Phải thông báo cho chính quyền địa phương trước 30 ngày",
+    "c": "Giá vật liệu xây dựng tăng quá 10%",
+    "d": "Thời hạn hợp đồng còn lại phải trên 06 tháng",
+    "answer": "a",
+    "explanation": "Theo khoản 2 Điều 170 Luật Nhà ở 2023, bên cho thuê được quyền điều chỉnh giá thuê nhà ở khi thực hiện cải tạo nhà ở và được bên thuê đồng ý."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, bên cho thuê chỉ được quyền điều chỉnh giá thuê nhà ở sau khi cải tạo khi thời hạn cho thuê còn lại thỏa mãn điều kiện nào?",
+    "a": "Trên 50% tổng thời hạn hợp đồng",
+    "b": "Dưới 01 năm",
+    "c": "Từ một phần ba thời hạn hợp đồng trở xuống",
+    "d": "Không giới hạn thời gian còn lại",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 170 Luật Nhà ở 2023, bên cho thuê được điều chỉnh giá thuê nếu thời gian cho thuê còn lại từ một phần ba thời hạn hợp đồng trở xuống."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nếu các bên không đạt được thỏa thuận về giá thuê mới sau khi nhà ở được cải tạo, bên cho thuê có quyền pháp lý nào?",
+    "a": "Tự động áp dụng giá thuê thị trường",
+    "b": "Đơn phương chấm dứt hợp đồng thuê nhà ở",
+    "c": "Giữ nguyên giá cũ cho đến khi hết hợp đồng",
+    "d": "Yêu cầu bên thuê chuyển đi ngay lập tức không cần bồi thường",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 170 Luật Nhà ở 2023, nếu không thỏa thuận được giá thuê mới thì bên cho thuê có quyền đơn phương chấm dứt hợp đồng thuê nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nghĩa vụ của bên cho thuê khi đơn phương chấm dứt hợp đồng do không thỏa thuận được giá thuê mới sau cải tạo là gì?",
+    "a": "Hoàn trả toàn bộ số tiền cọc và tiền thuê đã đóng trước đó",
+    "b": "Bồi thường cho bên thuê theo quy định của pháp luật",
+    "c": "Không phải bồi thường vì là lỗi của bên thuê không đồng ý giá",
+    "d": "Hỗ trợ 03 tháng tiền nhà cho bên thuê",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 170 Luật Nhà ở 2023, khi đơn phương chấm dứt hợp đồng trong trường hợp này, bên cho thuê phải bồi thường cho bên thuê theo quy định của pháp luật."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi nào bên thuê có quyền cho thuê lại nhà ở đang thuê?",
+    "a": "Mặc định được quyền trừ khi hợp đồng cấm",
+    "b": "Khi được bên cho thuê đồng ý",
+    "c": "Khi hợp đồng thuê còn thời hạn trên 02 năm",
+    "d": "Khi bên thuê là pháp nhân và có nhu cầu kinh doanh",
+    "answer": "b",
+    "explanation": "Theo khoản 4 Điều 170 Luật Nhà ở 2023, bên thuê có quyền cho thuê lại nhà ở đang thuê nếu được bên cho thuê đồng ý."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hợp đồng thuê nhà ở không xác định thời hạn sẽ chấm dứt sau bao lâu kể từ thời điểm bên cho thuê thông báo?",
+    "a": "30 ngày",
+    "b": "60 ngày",
+    "c": "90 ngày",
+    "d": "120 ngày",
+    "answer": "c",
+    "explanation": "Theo điểm a khoản 2 Điều 171 Luật Nhà ở 2023, hợp đồng chấm dứt sau 90 ngày kể từ ngày bên cho thuê thông báo."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, căn cứ nào sau đây là hợp pháp để chấm dứt hợp đồng thuê nhà ở (không thuộc tài sản công)?",
+    "a": "Bên thuê đơn phương thay đổi mục đích sử dụng",
+    "b": "Các bên thỏa thuận chấm dứt hợp đồng",
+    "c": "Bên cho thuê thay đổi nhân sự quản lý",
+    "d": "Bên thuê thay đổi tình trạng hôn nhân",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 2 Điều 171 Luật Nhà ở 2023, các bên thỏa thuận chấm dứt hợp đồng là một trong các căn cứ chấm dứt hợp đồng thuê nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi bên thuê là cá nhân chết, hợp đồng thuê nhà ở chấm dứt trong trường hợp nào?",
+    "a": "Có người thừa kế hợp pháp nhưng không sống tại đó",
+    "b": "Không có ai đang cùng chung sống với bên thuê",
+    "c": "Không có người thân thích nào biết đến hợp đồng",
+    "d": "Người thân thích không trả tiền thuê nhà",
+    "answer": "b",
+    "explanation": "Theo điểm d khoản 2 Điều 171 Luật Nhà ở 2023, hợp đồng chấm dứt khi bên thuê là cá nhân chết hoặc bị tuyên bố mất tích mà không có ai đang cùng chung sống."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp nào bên thuê là tổ chức khiến hợp đồng thuê nhà ở đương nhiên chấm dứt?",
+    "a": "Tổ chức đó thay đổi ngành nghề kinh doanh",
+    "b": "Tổ chức đó giải thể, phá sản hoặc chấm dứt hoạt động",
+    "c": "Tổ chức đó thay đổi người đại diện theo pháp luật",
+    "d": "Tổ chức đó sáp nhập với tổ chức khác",
+    "answer": "b",
+    "explanation": "Theo điểm đ khoản 2 Điều 171 Luật Nhà ở 2023, hợp đồng chấm dứt khi bên thuê là tổ chức giải thể, phá sản hoặc chấm dứt hoạt động."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, thời hạn thông báo tối thiểu bên cho thuê phải gửi cho bên thuê khi nhà ở bị hư hỏng nặng, nguy cơ sập đổ là bao lâu?",
+    "a": "07 ngày",
+    "b": "15 ngày",
+    "c": "30 ngày",
+    "d": "60 ngày",
+    "answer": "c",
+    "explanation": "Theo điểm e khoản 2 Điều 171 Luật Nhà ở 2023, bên cho thuê phải thông báo bằng văn bản cho bên thuê biết trước ít nhất 30 ngày."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, quyền đơn phương chấm dứt hợp đồng của bên cho thuê được giới hạn như thế nào?",
+    "a": "Được quyền đơn phương bất cứ lúc nào nếu có lý do chính đáng",
+    "b": "Không được đơn phương, trừ trường hợp luật quy định",
+    "c": "Được đơn phương nếu thông báo trước 15 ngày",
+    "d": "Chỉ được đơn phương khi hết hạn hợp đồng",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 172 Luật Nhà ở 2023, bên cho thuê không được đơn phương chấm dứt hợp đồng và thu hồi nhà ở, trừ trường hợp luật quy định."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, bên cho thuê có quyền đơn phương chấm dứt hợp đồng nếu bên thuê chậm trả tiền thuê từ thời gian nào trở lên?",
+    "a": "01 tháng",
+    "b": "02 tháng",
+    "c": "03 tháng",
+    "d": "06 tháng",
+    "answer": "c",
+    "explanation": "Theo điểm b khoản 2 Điều 172 Luật Nhà ở 2023, bên cho thuê có quyền đơn phương chấm dứt hợp đồng nếu bên thuê không trả đủ tiền thuê từ 03 tháng trở lên."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hành vi tự ý cải tạo nào của bên thuê là căn cứ để bên cho thuê đơn phương chấm dứt hợp đồng?",
+    "a": "Tự ý trang trí tường nhà",
+    "b": "Tự ý đục phá, cơi nới, cải tạo, phá dỡ nhà ở đang thuê",
+    "c": "Thay đổi vị trí các đồ dùng gia đình",
+    "d": "Sửa chữa hệ thống chiếu sáng nhỏ",
+    "answer": "b",
+    "explanation": "Theo điểm d khoản 2 Điều 172 Luật Nhà ở 2023, bên cho thuê có quyền đơn phương chấm dứt hợp đồng khi bên thuê tự ý đục phá, cơi nới, cải tạo, phá dỡ nhà ở đang thuê."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, bên cho thuê có thể đơn phương chấm dứt hợp đồng khi bên thuê cho thuê lại nhà ở mà không có sự đồng ý của ai?",
+    "a": "Cơ quan công chứng",
+    "b": "Bên cho thuê",
+    "c": "Tổ dân phố",
+    "d": "Chính quyền cấp xã",
+    "answer": "b",
+    "explanation": "Theo điểm đ khoản 2 Điều 172 Luật Nhà ở 2023, bên cho thuê có quyền đơn phương chấm dứt hợp đồng khi bên thuê cho thuê lại nhà ở mà không có sự đồng ý của bên cho thuê."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, quy trình xử lý vi phạm về trật tự, vệ sinh môi trường của bên thuê trước khi bên cho thuê được phép đơn phương chấm dứt hợp đồng là gì?",
+    "a": "Nhắc nhở bằng miệng",
+    "b": "Lập biên bản lần thứ nhất",
+    "c": "Lập biên bản lần thứ hai",
+    "d": "Phải bị lập biên bản đến lần thứ ba mà vẫn không khắc phục",
+    "answer": "d",
+    "explanation": "Theo điểm e khoản 2 Điều 172 Luật Nhà ở 2023, bên thuê phải bị lập biên bản đến lần thứ ba mà vẫn không khắc phục thì mới là căn cứ đơn phương chấm dứt hợp đồng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi nào bên thuê có quyền đơn phương chấm dứt hợp đồng thuê nhà ở?",
+    "a": "Khi bên cho thuê không sửa chữa nhà ở khi có hư hỏng nặng",
+    "b": "Khi bên thuê tìm được nhà ở giá rẻ hơn",
+    "c": "Khi bên thuê đổi nơi làm việc",
+    "d": "Khi bên thuê không muốn tiếp tục ở tại khu vực đó",
+    "answer": "a",
+    "explanation": "Theo điểm a khoản 3 Điều 172 Luật Nhà ở 2023, bên thuê có quyền đơn phương chấm dứt hợp đồng khi bên cho thuê không sửa chữa nhà ở khi có hư hỏng nặng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi một bên đơn phương chấm dứt hợp đồng thuê nhà ở, thời hạn thông báo tối thiểu là bao lâu?",
+    "a": "07 ngày",
+    "b": "15 ngày",
+    "c": "30 ngày",
+    "d": "45 ngày",
+    "answer": "c",
+    "explanation": "Theo khoản 4 Điều 172 Luật Nhà ở 2023, bên đơn phương chấm dứt hợp đồng phải thông báo cho bên kia biết trước ít nhất 30 ngày."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trách nhiệm của người thừa kế khi chủ sở hữu nhà ở chết mà thời hạn thuê vẫn còn là gì?",
+    "a": "Được quyền đơn phương chấm dứt ngay lập tức",
+    "b": "Tiếp tục thực hiện hợp đồng thuê nhà ở đã ký kết",
+    "c": "Phải ký lại hợp đồng với mức giá mới",
+    "d": "Không có nghĩa vụ liên quan đến hợp đồng thuê",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 173 Luật Nhà ở 2023, người thừa kế có trách nhiệm tiếp tục thực hiện hợp đồng thuê nhà ở đã ký kết."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi chủ sở hữu nhà ở chuyển quyền sở hữu cho người khác, người nhận quyền sở hữu có trách nhiệm gì với hợp đồng thuê đang hiệu lực?",
+    "a": "Có quyền hủy bỏ hợp đồng ngay khi nhận bàn giao nhà",
+    "b": "Tiếp tục thực hiện hợp đồng thuê nhà ở đã ký kết",
+    "c": "Chỉ tiếp tục thực hiện nếu hợp đồng được công chứng lại",
+    "d": "Được quyền tăng giá thuê tùy ý",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 173 Luật Nhà ở 2023, khi chuyển quyền sở hữu nhà ở đang cho thuê mà thời hạn thuê vẫn còn thì chủ sở hữu mới có trách nhiệm tiếp tục thực hiện hợp đồng thuê nhà ở đã ký kết."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, ai là người có quyền tiếp tục thuê nhà đến hết thời hạn hợp đồng khi bên thuê nhà ở là cá nhân chết?",
+    "a": "Mọi người có quan hệ huyết thống",
+    "b": "Người đang cùng sinh sống với bên thuê",
+    "c": "Người thừa kế tài sản của bên thuê",
+    "d": "Người đang quản lý di sản của bên thuê",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 173 Luật Nhà ở 2023, khi bên thuê nhà ở là cá nhân chết thì người đang cùng sinh sống với bên thuê được tiếp tục thuê đến hết thời hạn hợp đồng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc thỏa thuận hình thức trả tiền thuê nhà ở giữa các bên phải tuân thủ nguyên tắc nào?",
+    "a": "Chỉ được phép trả tiền thuê theo định kỳ hàng tháng",
+    "b": "Phải trả một lần toàn bộ tiền thuê cho cả thời hạn hợp đồng",
+    "c": "Được quyền thỏa thuận trả theo định kỳ hoặc trả một lần",
+    "d": "Phải thực hiện theo khung giá do UBND cấp tỉnh quy định",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 170 Luật Nhà ở 2023, các bên được thỏa thuận hình thức trả tiền thuê nhà ở theo định kỳ hoặc trả một lần."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, điều kiện bắt buộc để bên cho thuê được quyền điều chỉnh giá thuê nhà ở khi cải tạo là gì?",
+    "a": "Phải có sự đồng ý của bên thuê",
+    "b": "Phải thông báo cho tổ dân phố trước 07 ngày",
+    "c": "Phải có xác nhận của cơ quan quản lý nhà ở cấp huyện",
+    "d": "Phải là nhà ở thương mại, không áp dụng cho nhà ở cá nhân",
+    "answer": "a",
+    "explanation": "Theo khoản 2 Điều 170 Luật Nhà ở 2023, việc cải tạo nhà ở phải được bên thuê đồng ý."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, phạm vi bảo hộ quyền và lợi ích hợp pháp của bên cho thuê và bên thuê nhà ở được xác định như thế nào?",
+    "a": "Được Tòa án bảo hộ khi có tranh chấp phát sinh",
+    "b": "Được Nhà nước bảo hộ",
+    "c": "Được UBND các cấp bảo hộ trực tiếp",
+    "d": "Được văn phòng công chứng chịu trách nhiệm bảo đảm",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 170 Luật Nhà ở 2023, bên cho thuê và bên thuê nhà ở được Nhà nước bảo hộ quyền và lợi ích hợp pháp."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp nào sau đây là căn cứ chấm dứt hợp đồng thuê nhà ở không thuộc tài sản công?",
+    "a": "Bên thuê thay đổi mục đích sử dụng nhà ở",
+    "b": "Nhà ở cho thuê không còn",
+    "c": "Bên thuê chuyển công tác đến địa phương khác",
+    "d": "Bên thuê không còn nhu cầu ở tại địa phương đó",
+    "answer": "b",
+    "explanation": "Theo điểm c khoản 2 Điều 171 Luật Nhà ở 2023, hợp đồng thuê nhà ở chấm dứt khi nhà ở cho thuê không còn."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nếu nhà ở đang cho thuê bị Nhà nước trưng mua, trưng dụng cho mục đích công cộng, hợp đồng thuê sẽ giải quyết thế nào?",
+    "a": "Tiếp tục thực hiện với cơ quan nhà nước",
+    "b": "Đương nhiên chấm dứt",
+    "c": "Bên cho thuê phải tìm nhà ở khác cho bên thuê",
+    "d": "Chỉ chấm dứt khi bên thuê đồng ý",
+    "answer": "b",
+    "explanation": "Theo điểm e khoản 2 Điều 171 Luật Nhà ở 2023, hợp đồng chấm dứt khi nhà ở bị Nhà nước trưng mua, trưng dụng để sử dụng vào mục đích khác."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, ngoại lệ nào cho phép bên cho thuê không phải thông báo trước 30 ngày khi chấm dứt hợp đồng?",
+    "a": "Bên thuê vi phạm nghĩa vụ thanh toán",
+    "b": "Trường hợp bất khả kháng hoặc các bên có thỏa thuận khác",
+    "c": "Nhà ở bị bán cho người thứ ba",
+    "d": "Bên thuê chuyển đổi quốc tịch",
+    "answer": "b",
+    "explanation": "Theo điểm e khoản 2 Điều 171 Luật Nhà ở 2023, không phải thông báo trước trong trường hợp bất khả kháng hoặc các bên có thỏa thuận khác."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, bên cho thuê có quyền đơn phương chấm dứt hợp đồng khi phát hiện việc cho thuê nhà ở xã hội có dấu hiệu gì?",
+    "a": "Cho thuê không đúng đối tượng",
+    "b": "Bên thuê không trả tiền cọc đúng hạn",
+    "c": "Bên thuê sửa chữa nội thất không báo trước",
+    "d": "Bên thuê thay đổi nhân khẩu thường trú",
+    "answer": "a",
+    "explanation": "Theo điểm a khoản 2 Điều 172 Luật Nhà ở 2023, bên cho thuê có quyền đơn phương chấm dứt hợp đồng khi cho thuê nhà ở xã hội không đúng đối tượng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, bên cho thuê có quyền đơn phương chấm dứt hợp đồng khi giao dịch cho thuê vi phạm điều kiện gì về chủ thể?",
+    "a": "Cho thuê không đúng thẩm quyền",
+    "b": "Bên cho thuê không phải là chủ sở hữu hợp pháp",
+    "c": "Hợp đồng không có công chứng",
+    "d": "Bên thuê không có hộ khẩu tại địa phương",
+    "answer": "a",
+    "explanation": "Theo điểm a khoản 2 Điều 172 Luật Nhà ở 2023, bên cho thuê có quyền đơn phương chấm dứt hợp đồng khi cho thuê không đúng thẩm quyền."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hành vi nào của bên thuê là căn cứ để bên cho thuê đơn phương chấm dứt hợp đồng do sai mục đích?",
+    "a": "Tự ý sử dụng nhà ở không đúng mục đích đã thỏa thuận",
+    "b": "Sử dụng nhà ở để kinh doanh online nhỏ lẻ",
+    "c": "Thay đổi vị trí các phòng chức năng",
+    "d": "Cho người thân đến ở cùng quá thời gian quy định",
+    "answer": "a",
+    "explanation": "Theo điểm c khoản 2 Điều 172 Luật Nhà ở 2023, bên cho thuê có quyền đơn phương chấm dứt hợp đồng khi bên thuê sử dụng nhà ở không đúng mục đích đã thỏa thuận."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, bên thuê có quyền đơn phương chấm dứt hợp đồng khi bên cho thuê tăng giá thuê trong trường hợp nào?",
+    "a": "Khi giá thị trường tăng cao",
+    "b": "Tăng giá bất hợp lý hoặc không thông báo trước theo thỏa thuận",
+    "c": "Tăng giá sau khi hoàn thành thời hạn thuê 06 tháng",
+    "d": "Tăng giá dựa trên chỉ số lạm phát của Nhà nước",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 3 Điều 172 Luật Nhà ở 2023, bên thuê có quyền đơn phương chấm dứt hợp đồng khi bên cho thuê tăng giá thuê bất hợp lý hoặc không thông báo trước."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi nào bên thuê có quyền đơn phương chấm dứt hợp đồng do quyền sử dụng bị hạn chế?",
+    "a": "Khi có tranh chấp về quyền sở hữu với người thứ ba",
+    "b": "Khi quyền sử dụng nhà ở bị hạn chế do lợi ích của người thứ ba",
+    "c": "Khi bên cho thuê thế chấp nhà ở cho ngân hàng",
+    "d": "Khi cơ quan nhà nước yêu cầu kiểm tra cư trú",
+    "answer": "b",
+    "explanation": "Theo điểm c khoản 3 Điều 172 Luật Nhà ở 2023, bên thuê có quyền đơn phương chấm dứt hợp đồng khi quyền sử dụng nhà ở bị hạn chế do lợi ích của người thứ ba."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, các bên có thể thông báo đơn phương chấm dứt hợp đồng thuê nhà ở thông qua hình thức nào?",
+    "a": "Bắt buộc bằng văn bản có công chứng",
+    "b": "Chỉ được thông báo trực tiếp",
+    "c": "Bằng văn bản hoặc hình thức khác theo thỏa thuận trong hợp đồng",
+    "d": "Phải có xác nhận của UBND cấp xã",
+    "answer": "c",
+    "explanation": "Theo khoản 4 Điều 172 Luật Nhà ở 2023, việc thông báo đơn phương chấm dứt hợp đồng có thể bằng văn bản hoặc hình thức khác theo thỏa thuận."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hậu quả pháp lý khi một bên đơn phương chấm dứt hợp đồng trái quy định gây thiệt hại là gì?",
+    "a": "Bị phạt vi phạm hành chính",
+    "b": "Phải bồi thường theo quy định của pháp luật",
+    "c": "Phải trả lại toàn bộ tiền thuê đã nhận từ đầu",
+    "d": "Bị tịch thu nhà ở",
+    "answer": "b",
+    "explanation": "Theo khoản 4 Điều 172 Luật Nhà ở 2023, trường hợp gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nếu chủ sở hữu chết mà không có người thừa kế, việc giải quyết hợp đồng thuê thực hiện theo quy định nào?",
+    "a": "Bộ luật Dân sự",
+    "b": "Luật Nhà ở và các văn bản hướng dẫn",
+    "c": "Luật Đất đai",
+    "d": "Quyết định của cơ quan nhà nước có thẩm quyền",
+    "answer": "a",
+    "explanation": "Theo khoản 1 Điều 173 Luật Nhà ở 2023, trường hợp chủ sở hữu chết không có người thừa kế thì thực hiện theo quy định của Bộ luật Dân sự."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp thuê nhà ở nào mà người đang cùng sinh sống với bên thuê không được quyền tiếp tục thuê khi bên thuê chết?",
+    "a": "Thuê nhà ở thương mại",
+    "b": "Thuê nhà ở công vụ",
+    "c": "Thuê nhà ở xã hội",
+    "d": "Thuê nhà ở để kinh doanh",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 173 Luật Nhà ở 2023, trường hợp thuê nhà ở công vụ là ngoại lệ, không được tiếp tục thuê."
+  },
+  {
     "question": "Theo Luật Nhà ở 2023, hình thức của hợp đồng mua bán nhà ở phải đảm bảo yêu cầu nào?",
     "a": "Phải được lập thành văn bản hoặc hình thức khác có giá trị tương đương",
     "b": "Phải được lập thành văn bản theo quy định của Luật này",
