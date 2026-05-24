@@ -1,5 +1,347 @@
 [
   {
+    "question": "Theo Luật Nhà ở 2023, hình thức của hợp đồng mua bán nhà ở phải đảm bảo yêu cầu nào?",
+    "a": "Phải được lập thành văn bản hoặc hình thức khác có giá trị tương đương",
+    "b": "Phải được lập thành văn bản theo quy định của Luật này",
+    "c": "Phải được công chứng trong mọi trường hợp mua bán",
+    "d": "Phải có sự chứng kiến của chính quyền địa phương",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 165 Luật Nhà ở 2023, việc mua bán nhà ở phải được lập thành hợp đồng có các nội dung quy định tại Điều 163 của Luật này."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Trong giao dịch mua bán nhà ở, các bên có quyền thỏa thuận về việc bên bán thực hiện bán nhà ở trong một thời hạn nhất định cho bên mua. Việc thỏa thuận này được gọi là?",
+    "a": "Mua bán nhà ở có thời hạn",
+    "b": "Cho thuê mua nhà ở",
+    "c": "Mua bán nhà ở kèm điều kiện",
+    "d": "Chuyển nhượng quyền sở hữu có kỳ hạn",
+    "answer": "a",
+    "explanation": "Theo khoản 1 Điều 165 Luật Nhà ở 2023, các bên có thể thỏa thuận việc bên bán thực hiện bán nhà ở trong một thời hạn nhất định cho bên mua."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Trong giao dịch mua bán nhà ở có thời hạn, khi bên mua tiếp tục bán lại nhà ở đó cho một bên khác, bên mua lại sẽ sở hữu nhà ở trong thời hạn nào?",
+    "a": "Thời hạn mới do bên mua và bên mua lại tự thỏa thuận",
+    "b": "50 năm kể từ ngày ký hợp đồng mua lại",
+    "c": "Thời hạn còn lại được ghi trong Giấy chứng nhận của bên bán (bên mua đầu tiên)",
+    "d": "Thời hạn sở hữu vĩnh viễn",
+    "answer": "c",
+    "explanation": "Theo điểm a khoản 2 Điều 165 Luật Nhà ở 2023, bên mua lại chỉ được sở hữu nhà ở trong thời hạn được ghi trong Giấy chứng nhận cấp cho bên bán (chủ sở hữu đầu tiên)."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Đối với hợp đồng mua bán nhà ở có thời hạn, nếu hết thời hạn sở hữu mà các bên chưa thỏa thuận được việc bàn giao lại nhà ở thì xử lý thế nào?",
+    "a": "Cơ quan nhà nước sẽ cưỡng chế bàn giao nhà ở",
+    "b": "Hợp đồng mặc nhiên gia hạn thêm 05 năm",
+    "c": "Việc bàn giao phải tuân thủ đúng nội dung đã thỏa thuận trong hợp đồng về thời điểm và người nhận bàn giao",
+    "d": "Nhà ở sẽ trở thành tài sản vô chủ",
+    "answer": "c",
+    "explanation": "Theo điểm b khoản 2 Điều 165 Luật Nhà ở 2023, các bên phải thỏa thuận rõ việc bàn giao lại nhà ở và người nhận bàn giao lại nhà ở sau khi hết thời hạn sở hữu."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Khi cấp Giấy chứng nhận cho nhà ở có thời hạn, cơ quan có thẩm quyền cần lưu ý điều gì?",
+    "a": "Chỉ ghi thông tin về quyền sử dụng đất",
+    "b": "Phải ghi rõ thời hạn sở hữu nhà ở trên Giấy chứng nhận",
+    "c": "Không cần ghi thời hạn để tránh ảnh hưởng đến tâm lý chủ sở hữu",
+    "d": "Ghi thời hạn sở hữu là 99 năm theo thông lệ quốc tế",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 165 Luật Nhà ở 2023, cơ quan có thẩm quyền cấp Giấy chứng nhận phải ghi rõ thời hạn sở hữu nhà ở trong Giấy chứng nhận."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Trong thời hạn sở hữu nhà ở có thời hạn, bên mua có quyền gì đối với nhà ở đó?",
+    "a": "Quyền sở hữu vĩnh viễn",
+    "b": "Quyền và nghĩa vụ thực hiện theo thỏa thuận trong hợp đồng mua bán",
+    "c": "Quyền được thay đổi công năng sử dụng nhà ở tùy ý",
+    "d": "Quyền định đoạt nhà ở cho bên thứ ba mà không cần thông báo",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 166 Luật Nhà ở 2023, trong thời hạn sở hữu nhà ở, bên mua thực hiện quyền, nghĩa vụ theo thỏa thuận trong hợp đồng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Khi hết thời hạn sở hữu nhà ở theo hợp đồng mua bán có thời hạn, giá trị pháp lý của Giấy chứng nhận của bên mua sẽ như thế nào?",
+    "a": "Được coi là hết giá trị sử dụng đất nhưng còn giá trị sở hữu nhà",
+    "b": "Vẫn còn giá trị nếu chưa làm thủ tục xóa đăng ký",
+    "c": "Không còn giá trị pháp lý",
+    "d": "Được tự động chuyển đổi thành giấy tờ thuê nhà ở",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 166 Luật Nhà ở 2023, khi hết thời hạn sở hữu thì Giấy chứng nhận cấp cho bên mua không còn giá trị pháp lý."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Sau khi hết thời hạn sở hữu, quyền sở hữu nhà ở được chuyển lại cho ai?",
+    "a": "Nhà nước",
+    "b": "Bên bán nhà ở ban đầu",
+    "c": "Người đang cư trú trong nhà ở đó",
+    "d": "Tổ chức quản lý vận hành nhà chung cư",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 166 Luật Nhà ở 2023, quyền sở hữu nhà ở được chuyển lại cho bên bán nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Trường hợp chủ sở hữu lần đầu là cá nhân chết mà không có người thừa kế, việc xác lập quyền sở hữu nhà ở được thực hiện theo?",
+    "a": "Quy định của Luật Nhà ở về tài sản vô chủ",
+    "b": "Quy định của Bộ luật Dân sự về thừa kế và tài sản không có người thừa kế",
+    "c": "Quyết định của Tòa án nhân dân cấp huyện",
+    "d": "Quy định của Luật Đất đai về thu hồi đất",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 166 Luật Nhà ở 2023, việc xác lập quyền sở hữu nhà ở thực hiện theo quy định của Bộ luật Dân sự."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Trong giai đoạn chờ xác định chủ sở hữu nhà ở (khi chủ cũ đã chết/giải thể), tổ chức/cá nhân đang quản lý nhà ở có quyền gì?",
+    "a": "Có quyền cho thuê để thu tiền bảo trì",
+    "b": "Có quyền bán để bảo toàn giá trị tài sản",
+    "c": "Không được thực hiện quyền của chủ sở hữu",
+    "d": "Có quyền thế chấp để lấy kinh phí duy tu",
+    "answer": "c",
+    "explanation": "Theo khoản 4 Điều 166 Luật Nhà ở 2023, tổ chức, cá nhân đang quản lý nhà ở không được thực hiện quyền của chủ sở hữu đối với nhà ở này."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Việc bàn giao lại nhà ở khi đã xác định được chủ sở hữu mới (sau thời gian chờ) phải hoàn thành trong thời hạn bao lâu?",
+    "a": "30 ngày",
+    "b": "60 ngày",
+    "c": "03 tháng",
+    "d": "06 tháng",
+    "answer": "c",
+    "explanation": "Theo khoản 4 Điều 166 Luật Nhà ở 2023, việc bàn giao lại nhà ở được thực hiện trong thời hạn 03 tháng kể từ ngày xác định được chủ sở hữu nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Trong giao dịch mua bán nhà ở trả chậm, trả dần, trách nhiệm bảo trì nhà ở thuộc về ai?",
+    "a": "Bên bán (vì chưa thanh toán đủ tiền)",
+    "b": "Bên mua (trừ khi có thỏa thuận khác hoặc nhà ở còn trong thời hạn bảo hành)",
+    "c": "Ban quản trị nhà chung cư",
+    "d": "Đơn vị quản lý vận hành",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 167 Luật Nhà ở 2023, bên mua có trách nhiệm bảo trì nhà ở, trừ trường hợp nhà ở còn trong thời hạn bảo hành hoặc các bên có thỏa thuận khác."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Bên mua nhà ở trả chậm, trả dần được quyền thế chấp nhà ở với bên thứ ba khi nào?",
+    "a": "Ngay khi bàn giao nhà",
+    "b": "Khi đã thanh toán đủ tiền mua nhà, trừ trường hợp có thỏa thuận khác",
+    "c": "Sau khi được ngân hàng thẩm định năng lực tài chính",
+    "d": "Khi đã nhận được Giấy chứng nhận quyền sở hữu",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 167 Luật Nhà ở 2023, bên mua chỉ được thực hiện giao dịch thế chấp sau khi đã thanh toán đủ tiền mua nhà ở, trừ trường hợp các bên có thỏa thuận khác."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Bên mua nhà ở trả chậm, trả dần có nhu cầu trả lại nhà ở thì cần điều kiện gì?",
+    "a": "Chỉ cần thông báo cho bên bán",
+    "b": "Phải có sự đồng ý của bên bán nhà ở",
+    "c": "Phải thông qua đấu giá",
+    "d": "Phải được cơ quan thi hành án chấp nhận",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 167 Luật Nhà ở 2023, trường hợp bên mua có nhu cầu trả lại nhà ở thì phải được bên bán nhà ở đồng ý."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Khi chủ sở hữu bán nhà ở đang cho thuê, nghĩa vụ quan trọng nhất đối với bên thuê là gì?",
+    "a": "Phải bồi thường hợp đồng cho bên thuê",
+    "b": "Thông báo bằng văn bản về việc bán và điều kiện bán cho bên thuê",
+    "c": "Bắt buộc phải bán cho bên thuê với giá ưu đãi",
+    "d": "Phải di dời bên thuê ngay lập tức",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 168 Luật Nhà ở 2023, chủ sở hữu phải thông báo bằng văn bản cho bên thuê nhà ở biết về việc bán và điều kiện bán nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Trong bao lâu bên thuê nhà ở không thực hiện quyền ưu tiên mua thì chủ sở hữu được bán cho người khác?",
+    "a": "15 ngày",
+    "b": "20 ngày",
+    "c": "30 ngày",
+    "d": "45 ngày",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 168 Luật Nhà ở 2023, trong thời hạn 30 ngày kể từ ngày bên thuê nhận được thông báo mà không mua thì chủ sở hữu được quyền bán cho người khác."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Quyết định mua trước nhà ở vì mục đích quốc phòng, an ninh thuộc thẩm quyền của ai?",
+    "a": "Bộ trưởng Bộ Xây dựng",
+    "b": "Thủ tướng Chính phủ",
+    "c": "Chủ tịch Ủy ban nhân dân cấp tỉnh",
+    "d": "Chủ tịch Ủy ban nhân dân cấp huyện",
+    "answer": "c",
+    "explanation": "Theo Điều 169 Luật Nhà ở 2023, Chủ tịch Ủy ban nhân dân cấp tỉnh ban hành quyết định mua trước nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Khi Nhà nước quyết định mua trước nhà ở, hợp đồng mua bán nhà ở mà các bên đã ký kết trước đó sẽ?",
+    "a": "Tạm dừng để điều chỉnh lại giá",
+    "b": "Vẫn có giá trị thực hiện giữa các bên",
+    "c": "Không còn giá trị pháp lý",
+    "d": "Được chuyển thành hợp đồng thuê nhà ở công vụ",
+    "answer": "c",
+    "explanation": "Theo Điều 169 Luật Nhà ở 2023, hợp đồng mua bán nhà ở do các bên đã ký kết không còn giá trị pháp lý."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc mua bán nhà ở trả chậm, trả dần phải được ghi nhận tại đâu?",
+    "a": "Biên bản bàn giao",
+    "b": "Hợp đồng mua bán nhà ở",
+    "c": "Phụ lục tách rời khỏi hợp đồng",
+    "d": "Thông báo gửi cơ quan đăng ký đất đai",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 167 Luật Nhà ở 2023, việc mua bán nhà ở trả chậm, trả dần do các bên thỏa thuận và được ghi rõ trong hợp đồng mua bán nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Trường hợp bên mua nhà ở trả chậm, trả dần chết, quyền và nghĩa vụ được xử lý thế nào?",
+    "a": "Kết thúc giao dịch, trả lại nhà cho bên bán",
+    "b": "Người thừa kế hợp pháp được thực hiện tiếp",
+    "c": "Nhà nước thu hồi nhà ở",
+    "d": "Phải lập lại hợp đồng mới từ đầu",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 167 Luật Nhà ở 2023, người thừa kế hợp pháp được thực hiện tiếp quyền, nghĩa vụ của bên mua nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Khi bên bán nhà ở bán nhà đang cho thuê, bên thuê được quyền ưu tiên mua khi đáp ứng điều kiện gì?",
+    "a": "Đã thuê nhà trên 05 năm",
+    "b": "Đã thanh toán đủ tiền thuê nhà đến thời điểm có thông báo bán",
+    "c": "Có hộ khẩu tại căn nhà đang thuê",
+    "d": "Là đối tượng được hưởng chính sách hỗ trợ nhà ở",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 168 Luật Nhà ở 2023, bên thuê được quyền ưu tiên mua nếu đã thanh toán đủ tiền thuê nhà tính đến thời điểm bên cho thuê có thông báo bán."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Việc thỏa thuận về thời hạn sở hữu nhà ở khi mua bán nhà ở có thời hạn phải được thể hiện ở đâu?",
+    "a": "Trong Giấy chứng nhận quyền sở hữu nhà ở",
+    "b": "Trong hợp đồng mua bán nhà ở",
+    "c": "Trong biên bản thỏa thuận riêng giữa các bên",
+    "d": "Trong cam kết trước cơ quan công chứng",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 165 Luật Nhà ở 2023, việc mua bán nhà ở (bao gồm các thỏa thuận về thời hạn) phải được lập thành hợp đồng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Trường hợp nào sau đây bên mua nhà ở trả chậm, trả dần có thể thế chấp nhà ở trước khi trả đủ tiền?",
+    "a": "Khi có văn bản đồng ý của bên bán",
+    "b": "Khi được Tòa án cho phép",
+    "c": "Khi được chính quyền địa phương xác nhận",
+    "d": "Không trường hợp nào được phép",
+    "answer": "a",
+    "explanation": "Theo khoản 2 Điều 167 Luật Nhà ở 2023, bên mua chỉ được thực hiện giao dịch thế chấp sau khi đã thanh toán đủ tiền mua nhà ở, trừ trường hợp các bên có thỏa thuận khác (tức là có sự đồng ý của bên bán)."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Trong hợp đồng mua bán nhà ở có thời hạn, ngoài các nội dung cơ bản, các bên bắt buộc phải thỏa thuận điều gì liên quan đến Giấy chứng nhận khi hết hạn?",
+    "a": "Phương thức tiêu hủy Giấy chứng nhận cũ",
+    "b": "Việc xử lý Giấy chứng nhận khi hết thời hạn sở hữu",
+    "c": "Cam kết không làm mất Giấy chứng nhận",
+    "d": "Phí lưu trữ Giấy chứng nhận tại cơ quan công chứng",
+    "answer": "b",
+    "explanation": "Theo điểm c khoản 2 Điều 165 Luật Nhà ở 2023, các bên phải thỏa thuận việc xử lý Giấy chứng nhận khi hết thời hạn sở hữu."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Nếu bên mua nhà ở có thời hạn thực hiện tặng cho nhà ở đó, bên được tặng cho sẽ sở hữu nhà ở trong thời hạn nào?",
+    "a": "Được cấp thời hạn mới 50 năm",
+    "b": "Trong thời hạn còn lại ghi trong Giấy chứng nhận cấp cho bên tặng cho",
+    "c": "Được quyền sở hữu vô thời hạn",
+    "d": "Tùy thuộc vào quyết định của UBND cấp tỉnh",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 2 Điều 165 Luật Nhà ở 2023, bên được tặng cho chỉ được sở hữu trong thời hạn được ghi trong Giấy chứng nhận cấp cho bên tặng cho."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Khi bên mua nhà ở có thời hạn dùng nhà ở đó để góp vốn, bên nhận góp vốn có được sở hữu vô thời hạn không?",
+    "a": "Có, vì đây là quyền của tổ chức nhận vốn",
+    "b": "Không, chỉ được sở hữu trong thời hạn ghi trong Giấy chứng nhận của bên góp vốn",
+    "c": "Chỉ được sở hữu 20 năm",
+    "d": "Chỉ được sở hữu cho đến khi giải thể doanh nghiệp",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 2 Điều 165 Luật Nhà ở 2023, bên nhận góp vốn chỉ được sở hữu trong thời hạn được ghi trong Giấy chứng nhận cấp cho bên góp vốn."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Sau khi hết thời hạn sở hữu nhà ở có thời hạn, ai là người có quyền đề nghị cấp Giấy chứng nhận mới cho chủ sở hữu cũ?",
+    "a": "Bên mua cũ (đã hết hạn)",
+    "b": "Bên cho thuê nhà",
+    "c": "Bên bán nhà ở hoặc người thừa kế hợp pháp của họ",
+    "d": "Người đang quản lý nhà ở",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 166 Luật Nhà ở 2023, bên bán nhà ở hoặc người thừa kế hợp pháp đề nghị cơ quan có thẩm quyền cấp Giấy chứng nhận."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Trình tự, thủ tục cấp Giấy chứng nhận khi hết thời hạn sở hữu nhà ở phải tuân thủ quy định của pháp luật nào?",
+    "a": "Pháp luật về nhà ở",
+    "b": "Pháp luật về công chứng",
+    "c": "Pháp luật về đất đai",
+    "d": "Pháp luật về thủ tục hành chính chung",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 166 Luật Nhà ở 2023, trình tự, thủ tục cấp Giấy chứng nhận thực hiện theo quy định của pháp luật về đất đai."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Trong thời gian trả chậm, trả dần, bên mua nhà ở có quyền gì?",
+    "a": "Chỉ được quyền cư trú, không được sử dụng",
+    "b": "Được quyền sử dụng nhà ở",
+    "c": "Được quyền bán lại ngay lập tức",
+    "d": "Chỉ được quyền sửa chữa nhỏ",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 167 Luật Nhà ở 2023, trong thời gian trả chậm, trả dần, bên mua nhà ở được quyền sử dụng nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Khi nào thì bên mua nhà ở trả chậm, trả dần *không* phải chịu trách nhiệm bảo trì nhà ở?",
+    "a": "Khi nhà ở đang thế chấp tại ngân hàng",
+    "b": "Khi nhà ở còn trong thời hạn bảo hành hoặc các bên có thỏa thuận khác",
+    "c": "Khi bên mua chưa làm thủ tục đăng ký biến động",
+    "d": "Khi bên mua là cá nhân nước ngoài",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 167 Luật Nhà ở 2023, bên mua có trách nhiệm bảo trì nhà ở, trừ trường hợp nhà ở còn trong thời hạn bảo hành hoặc các bên có thỏa thuận khác."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Bên mua nhà ở trả chậm, trả dần được quyền góp vốn bằng nhà ở vào doanh nghiệp khi nào?",
+    "a": "Ngay khi ký hợp đồng mua bán",
+    "b": "Sau khi thanh toán đủ tiền mua nhà ở (trừ khi có thỏa thuận khác)",
+    "c": "Khi đã được cơ quan thuế xác nhận hoàn thành nghĩa vụ tài chính",
+    "d": "Sau khi nhà ở được cấp Giấy chứng nhận",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 167 Luật Nhà ở 2023, bên mua chỉ được góp vốn bằng nhà ở sau khi thanh toán đủ tiền mua nhà ở, trừ trường hợp các bên có thỏa thuận khác."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Nếu bên mua nhà ở trả chậm, trả dần là tổ chức bị giải thể, quyền và nghĩa vụ của bên mua được giải quyết theo?",
+    "a": "Điều khoản trong hợp đồng mua bán",
+    "b": "Pháp luật về phá sản, giải thể hoặc chấm dứt hoạt động",
+    "c": "Quyết định của tòa án",
+    "d": "Quy định về thanh lý tài sản của Bộ Xây dựng",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 167 Luật Nhà ở 2023, quyền, nghĩa vụ được thực hiện theo pháp luật về phá sản, giải thể hoặc chấm dứt hoạt động."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Người thừa kế hợp pháp của bên mua nhà ở trả chậm, trả dần chỉ được cấp Giấy chứng nhận khi nào?",
+    "a": "Khi hoàn thành thủ tục khai nhận di sản",
+    "b": "Khi đã trả đủ tiền mua nhà cho bên bán",
+    "c": "Khi có văn bản đồng ý của bên bán",
+    "d": "Khi nhà ở đã qua thời hạn bảo hành",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 167 Luật Nhà ở 2023, người thừa kế hợp pháp được cấp Giấy chứng nhận sau khi đã trả đủ tiền mua nhà cho bên bán."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Chủ sở hữu bán nhà ở đang cho thuê có nghĩa vụ thông báo như thế nào?",
+    "a": "Thông báo cho bên thuê biết bằng văn bản về việc bán và điều kiện bán",
+    "b": "Thông báo qua điện thoại trước 07 ngày",
+    "c": "Chỉ cần dán thông báo tại cửa nhà",
+    "d": "Thông báo cho chính quyền xã trước khi bán",
+    "answer": "a",
+    "explanation": "Theo khoản 1 Điều 168 Luật Nhà ở 2023, chủ sở hữu phải thông báo bằng văn bản cho bên thuê nhà ở biết về việc bán và điều kiện bán."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Khi nào thì quyền ưu tiên mua của bên thuê nhà ở bị vô hiệu?",
+    "a": "Khi nhà ở đó nằm trong dự án phát triển nhà ở xã hội",
+    "b": "Khi Bộ luật Dân sự có quy định khác",
+    "c": "Khi bên thuê không phải là công dân Việt Nam",
+    "d": "Khi chủ nhà là doanh nghiệp kinh doanh bất động sản",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 168 Luật Nhà ở 2023, bên thuê được quyền ưu tiên mua, trừ trường hợp Bộ luật Dân sự có quy định khác."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Thời hạn 30 ngày để bên thuê thực hiện quyền ưu tiên mua tính từ thời điểm nào?",
+    "a": "Thời điểm chủ nhà ký hợp đồng với bên mua mới",
+    "b": "Thời điểm bên thuê nhận được thông báo bằng văn bản",
+    "c": "Thời điểm bên thuê thanh toán xong tiền thuê nhà",
+    "d": "Thời điểm công chứng hợp đồng mua bán",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 168 Luật Nhà ở 2023, thời hạn 30 ngày được tính kể từ ngày bên thuê nhận được thông báo."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Nhà nước mua trước nhà ở để sử dụng cho mục đích nào thì phù hợp với Luật Nhà ở 2023?",
+    "a": "Để kinh doanh cho thuê lại",
+    "b": "Để thực hiện các dự án chỉnh trang đô thị",
+    "c": "Vì mục đích quốc phòng, an ninh hoặc lợi ích quốc gia, tình trạng khẩn cấp, phòng chống thiên tai",
+    "d": "Để hỗ trợ người dân vùng sâu vùng xa",
+    "answer": "c",
+    "explanation": "Theo Điều 169 Luật Nhà ở 2023, Nhà nước mua trước nhà ở để sử dụng vào mục đích quốc phòng, an ninh hoặc vì lợi ích quốc gia, tình trạng khẩn cấp, phòng chống thiên tai."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023,Giá mua bán nhà ở khi Nhà nước thực hiện quyền mua trước được xác định theo căn cứ nào?",
+    "a": "Giá do Hội đồng định giá đất tỉnh phê duyệt",
+    "b": "Thỏa thuận trong hợp đồng mua bán nhà ở mà các bên đã ký kết",
+    "c": "Giá thị trường tại thời điểm quyết định",
+    "d": "Giá nhà ở do Bộ Xây dựng quy định",
+    "answer": "b",
+    "explanation": "Theo Điều 169 Luật Nhà ở 2023, giá mua bán được thực hiện theo thỏa thuận trong hợp đồng mua bán nhà ở mà các bên đã ký kết."
+  },
+  {
     "question": "Theo Luật Nhà ở 2023, giao dịch nào về nhà ở bắt buộc phải thực hiện công chứng hoặc chứng thực hợp đồng?",
     "a": "Cho thuê nhà ở và cho mượn nhà ở (trừ trường hợp các bên có nhu cầu)",
     "b": "Ủy quyền quản lý nhà ở và cho thuê lại nhà ở",
