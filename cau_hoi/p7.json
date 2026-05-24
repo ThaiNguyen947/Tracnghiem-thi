@@ -1,5 +1,302 @@
 [
   {
+    "question": "Theo Luật Nhà ở 2023, hình thức văn bản bắt buộc đối với giao dịch thuê mua nhà ở là gì?",
+    "a": "Văn bản thỏa thuận có chữ ký hai bên",
+    "b": "Hợp đồng theo quy định",
+    "c": "Biên bản thỏa thuận thuê mua",
+    "d": "Văn bản cam kết bán nhà ở",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 174 Luật Nhà ở 2023, việc thuê mua nhà ở phải được lập thành hợp đồng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nội dung tối thiểu của hợp đồng thuê mua nhà ở phải tuân thủ quy định tại điều nào?",
+    "a": "Điều 160 Luật Nhà ở 2023",
+    "b": "Điều 161 Luật Nhà ở 2023",
+    "c": "Điều 163 Luật Nhà ở 2023",
+    "d": "Điều 164 Luật Nhà ở 2023",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 174 Luật Nhà ở 2023, hợp đồng thuê mua nhà ở phải có nội dung quy định tại Điều 163."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chủ thể nào là bên tham gia ký kết hợp đồng thuê mua nhà ở do tổ chức, cá nhân đầu tư xây dựng?",
+    "a": "Cơ quan nhà nước có thẩm quyền và bên thuê mua",
+    "b": "Tổ chức, cá nhân đầu tư xây dựng và bên thuê mua",
+    "c": "Đơn vị tư vấn pháp lý và bên thuê mua",
+    "d": "Ngân hàng cho vay và bên thuê mua",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 174 Luật Nhà ở 2023, hợp đồng thuê mua được ký kết giữa tổ chức, cá nhân với bên thuê mua."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trách nhiệm làm thủ tục đề nghị cấp Giấy chứng nhận cho bên thuê mua sau khi hoàn tất thanh toán thuộc về ai?",
+    "a": "Bên thuê mua thực hiện",
+    "b": "Tổ chức hành nghề công chứng thực hiện",
+    "c": "Bên cho thuê mua thực hiện",
+    "d": "UBND cấp xã thực hiện",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 174 Luật Nhà ở 2023, bên cho thuê mua phải làm thủ tục đề nghị cấp Giấy chứng nhận cho bên thuê mua."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp nào bên cho thuê mua được miễn trừ trách nhiệm làm thủ tục cấp Giấy chứng nhận cho bên thuê mua?",
+    "a": "Bên thuê mua tự nguyện làm thủ tục",
+    "b": "Bên thuê mua không có hộ khẩu thường trú",
+    "c": "Nhà ở đang trong giai đoạn bảo hành công trình",
+    "d": "Bên thuê mua thay đổi nơi cư trú",
+    "answer": "a",
+    "explanation": "Theo khoản 2 Điều 174 Luật Nhà ở 2023, ngoại lệ là trường hợp bên thuê mua tự nguyện làm thủ tục đề nghị cấp Giấy chứng nhận."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nghĩa vụ của bên thuê mua khi hợp đồng thuê mua nhà ở chấm dứt và đã nhận bàn giao nhà ở là gì?",
+    "a": "Tiếp tục quản lý và sử dụng nhà ở",
+    "b": "Trả lại nhà ở cho bên cho thuê mua",
+    "c": "Chuyển nhượng cho người thứ ba",
+    "d": "Bàn giao cho cơ quan quản lý nhà ở của Nhà nước",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 175 Luật Nhà ở 2023, bên thuê mua phải trả lại nhà ở cho bên cho thuê mua."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi hợp đồng thuê mua nhà ở chấm dứt, khoản tiền nào bên thuê mua được quyền yêu cầu hoàn lại?",
+    "a": "Toàn bộ tiền bảo trì đã nộp",
+    "b": "Tiền thuê nhà tính theo hàng tháng",
+    "c": "Số tiền thuê mua đã nộp lần đầu",
+    "d": "Tổng số tiền đã thanh toán trong suốt quá trình thuê",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 175 Luật Nhà ở 2023, bên thuê mua được hoàn lại số tiền đã nộp lần đầu, trừ các trường hợp luật quy định."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, quyền lợi của người thừa kế hợp pháp đang cùng sinh sống tại nhà ở khi bên thuê mua chết là gì?",
+    "a": "Được quyền bán lại nhà ở",
+    "b": "Được tiếp tục thuê mua nhà ở",
+    "c": "Được nhận lại toàn bộ tiền thuê mua",
+    "d": "Được yêu cầu cơ quan nhà nước cấp Giấy chứng nhận",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 2 Điều 175 Luật Nhà ở 2023, người thừa kế hợp pháp đang cùng sinh sống được tiếp tục thuê mua nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp nào người thừa kế hợp pháp không được quyền tiếp tục thuê mua nhà ở?",
+    "a": "Không có hộ khẩu tại địa chỉ nhà ở đó",
+    "b": "Tự nguyện trả lại nhà ở thuê mua",
+    "c": "Đang làm việc tại cơ quan nhà nước",
+    "d": "Không đăng ký tạm trú tại nhà ở",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 2 Điều 175 Luật Nhà ở 2023, ngoại lệ là trường hợp người thừa kế hợp pháp tự nguyện trả lại nhà ở thuê mua."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, điều kiện để người thừa kế hợp pháp không cùng sinh sống tại nhà ở được nhận Giấy chứng nhận là gì?",
+    "a": "Bên thuê mua đã thực hiện từ hai phần ba thời hạn thuê mua trở lên",
+    "b": "Đã thực hiện xong ít nhất một phần ba thời hạn thuê mua",
+    "c": "Sau 01 năm kể từ khi bên thuê mua chết",
+    "d": "Đã có văn bản công chứng về việc thừa kế",
+    "answer": "a",
+    "explanation": "Theo điểm b khoản 2 Điều 175 Luật Nhà ở 2023, điều kiện là bên thuê mua đã thực hiện từ hai phần ba thời hạn thuê mua trở lên."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp thuê mua nhà ở xã hội chưa đủ hai phần ba thời hạn, người thừa kế muốn tiếp tục thuê mua phải đáp ứng điều kiện nào?",
+    "a": "Là cá nhân thuộc đối tượng quy định tại Điều 76 của Luật Nhà ở 2023",
+    "b": "Có hộ khẩu thường trú tại địa phương",
+    "c": "Được sự đồng ý của UBND cấp xã",
+    "d": "Đã thanh toán trước toàn bộ tiền thuê mua",
+    "answer": "a",
+    "explanation": "Theo điểm b khoản 2 Điều 175 Luật Nhà ở 2023, người thừa kế hợp pháp phải thuộc đối tượng quy định tại Điều 76."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nếu người thừa kế không đủ điều kiện tiếp tục thuê mua, bên cho thuê mua có quyền gì?",
+    "a": "Tiếp tục cho ở nhờ có thu phí",
+    "b": "Thu hồi nhà ở",
+    "c": "Chuyển giao quyền sở hữu cho UBND cấp xã",
+    "d": "Yêu cầu công chứng lại hợp đồng",
+    "answer": "b",
+    "explanation": "Theo điểm c khoản 2 Điều 175 Luật Nhà ở 2023, bên cho thuê mua được quyền thu hồi nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khoản tiền nào người thừa kế không thuộc diện được tiếp tục thuê mua sẽ được hoàn trả?",
+    "a": "Toàn bộ tiền thuê mua đã đóng",
+    "b": "Số tiền đã nộp lần đầu có tính lãi suất liên ngân hàng không kỳ hạn",
+    "c": "Tiền thuê nhà trong 06 tháng gần nhất",
+    "d": "Tiền bảo trì và các loại phí dịch vụ",
+    "answer": "b",
+    "explanation": "Theo điểm c khoản 2 Điều 175 Luật Nhà ở 2023, người thừa kế được hoàn trả số tiền đã nộp lần đầu có tính lãi suất liên ngân hàng không kỳ hạn."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, xử lý số tiền thuê mua nộp lần đầu như thế nào nếu bên thuê mua chết mà không có người thừa kế?",
+    "a": "Số tiền này thuộc về người quản lý di sản",
+    "b": "Số tiền này thuộc về bên cho thuê mua",
+    "c": "Số tiền này thuộc về Nhà nước",
+    "d": "Số tiền này được chuyển cho tổ chức từ thiện",
+    "answer": "c",
+    "explanation": "Theo điểm d khoản 2 Điều 175 Luật Nhà ở 2023, số tiền thuê mua đã nộp lần đầu thuộc về Nhà nước."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, bên cho thuê mua được chấm dứt hợp đồng thuê mua nhà ở xã hội khi xảy ra hành vi nào?",
+    "a": "Bên thuê mua cho thuê lại nhà ở trong thời hạn thuê mua",
+    "b": "Bên thuê mua đăng ký tạm trú cho người thân",
+    "c": "Bên thuê mua sửa chữa cải tạo không thay đổi kết cấu",
+    "d": "Bên thuê mua chuyển đổi công việc",
+    "answer": "a",
+    "explanation": "Theo điểm a khoản 2 Điều 176 Luật Nhà ở 2023, bên cho thuê mua được chấm dứt hợp đồng khi bên thuê mua tự ý cho thuê hoặc bán nhà ở thuê mua."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, thời hạn nợ tiền thuê nhà ở từ bao lâu trở lên là căn cứ để bên cho thuê mua chấm dứt hợp đồng?",
+    "a": "Từ 01 tháng trở lên",
+    "b": "Từ 02 tháng trở lên",
+    "c": "Từ 03 tháng trở lên",
+    "d": "Từ 06 tháng trở lên",
+    "answer": "c",
+    "explanation": "Theo điểm c khoản 2 Điều 176 Luật Nhà ở 2023, thời gian là từ 03 tháng trở lên."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, bên cho thuê mua được quyền chấm dứt hợp đồng khi bên thuê mua vi phạm mục đích sử dụng như thế nào?",
+    "a": "Sử dụng nhà ở không đúng mục đích đã thỏa thuận",
+    "b": "Sử dụng nhà ở để kinh doanh dịch vụ hợp pháp",
+    "c": "Đăng ký cư trú tại nhà ở",
+    "d": "Trang trí nội thất không thay đổi kết cấu chịu lực",
+    "answer": "a",
+    "explanation": "Theo điểm đ khoản 2 Điều 176 Luật Nhà ở 2023, bên cho thuê mua được chấm dứt hợp đồng khi bên thuê mua sử dụng nhà ở không đúng mục đích."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, đối với các trường hợp không thuộc khoản 1 và 2 Điều 176, việc chấm dứt hợp đồng thuê mua được xác định ra sao?",
+    "a": "Theo quyết định hành chính của UBND",
+    "b": "Theo thỏa thuận trong hợp đồng",
+    "c": "Theo quyết định của Tòa án nhân dân",
+    "d": "Theo yêu cầu đơn phương của bên cho thuê mua",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 176 Luật Nhà ở 2023, việc chấm dứt hợp đồng thuê mua được thực hiện theo thỏa thuận trong hợp đồng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi chấm dứt hợp đồng thuê mua, bên thuê mua đã nhận bàn giao nhà phải thực hiện trách nhiệm gì?",
+    "a": "Tự ý định đoạt nhà ở cho bên thứ ba",
+    "b": "Trả lại nhà ở cho bên cho thuê mua",
+    "c": "Tiếp tục sử dụng cho đến khi được cấp chứng nhận",
+    "d": "Giao lại cho cơ quan công chứng lưu giữ",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 176 Luật Nhà ở 2023, bên thuê mua phải trả lại nhà ở cho bên cho thuê mua."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, điều kiện tiên quyết để bên cho thuê mua thực hiện thủ tục đề nghị cấp Giấy chứng nhận cho bên thuê mua là gì?",
+    "a": "Bên thuê mua đã hoàn thành nghĩa vụ tài chính và cư trú trên 01 năm",
+    "b": "Kết thúc thời hạn thuê mua và đã thanh toán đủ tiền thuê mua theo thỏa thuận",
+    "c": "Đã nhận bàn giao nhà ở và được tổ dân phố xác nhận",
+    "d": "Đã thực hiện xong thủ tục công chứng và có biên bản nghiệm thu",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 174 Luật Nhà ở 2023, phải đồng thời kết thúc thời hạn thuê mua và thanh toán đủ tiền thuê mua."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, bên thuê mua nhà ở ngoài việc tuân thủ các điều khoản trong hợp đồng thì phải thực hiện quy định của văn bản pháp luật nào?",
+    "a": "Luật Kinh doanh bất động sản và các văn bản hướng dẫn",
+    "b": "Luật Đất đai và Bộ luật Dân sự",
+    "c": "Luật Nhà ở",
+    "d": "Luật Công chứng và các quy định hành chính liên quan",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 175 Luật Nhà ở 2023, bên thuê mua phải thực hiện quy định của Luật này."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nguyên tắc xử lý số tiền nộp lần đầu khi chấm dứt hợp đồng thuê mua đối với trường hợp bên thuê mua đã nhận bàn giao nhà ở là gì?",
+    "a": "Được hoàn lại số tiền đã nộp lần đầu, trừ các trường hợp luật quy định",
+    "b": "Số tiền này được chuyển thành tiền thuê nhà và không được hoàn lại",
+    "c": "Bị sung công quỹ nhà nước do đã thực hiện hành vi vi phạm hợp đồng",
+    "d": "Được hoàn lại toàn bộ số tiền đã thanh toán từ trước đến thời điểm chấm dứt",
+    "answer": "a",
+    "explanation": "Theo khoản 1 Điều 175 Luật Nhà ở 2023, bên thuê mua được hoàn lại số tiền đã nộp lần đầu, trừ trường hợp luật quy định."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, lãi suất áp dụng khi hoàn trả tiền nộp lần đầu cho người thừa kế hợp pháp trong các trường hợp luật định là lãi suất nào?",
+    "a": "Lãi suất tiết kiệm kỳ hạn 12 tháng của ngân hàng thương mại",
+    "b": "Lãi suất cho vay thương mại áp dụng tại thời điểm ký kết hợp đồng",
+    "c": "Lãi suất liên ngân hàng không kỳ hạn tại thời điểm hoàn trả",
+    "d": "Lãi suất cơ bản do Ngân hàng Nhà nước công bố",
+    "answer": "c",
+    "explanation": "Theo điểm c khoản 2 Điều 175 Luật Nhà ở 2023, tiền hoàn trả được tính theo lãi suất liên ngân hàng không kỳ hạn tại thời điểm hoàn trả."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, thời điểm làm căn cứ xác định lãi suất liên ngân hàng không kỳ hạn để hoàn trả tiền cho người thừa kế là khi nào?",
+    "a": "Thời điểm ký kết hợp đồng thuê mua",
+    "b": "Thời điểm bàn giao nhà ở thực tế",
+    "c": "Thời điểm thực hiện việc hoàn trả tiền",
+    "d": "Thời điểm cơ quan nhà nước xác nhận thừa kế",
+    "answer": "c",
+    "explanation": "Theo điểm c khoản 2 Điều 175 Luật Nhà ở 2023, lãi suất được xác định tại thời điểm hoàn trả."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi bên thuê mua chết mà không có người thừa kế, nhà ở được thu hồi để thực hiện mục đích gì?",
+    "a": "Bán đấu giá tài sản công để nộp vào ngân sách",
+    "b": "Chuyển đổi công năng thành văn phòng làm việc của cơ quan quản lý",
+    "c": "Ký hợp đồng thuê, thuê mua với đối tượng đủ điều kiện",
+    "d": "Giao cho UBND cấp xã quản lý và chờ quy hoạch mới",
+    "answer": "c",
+    "explanation": "Theo điểm d khoản 2 Điều 175 Luật Nhà ở 2023, nhà ở được thu hồi để ký hợp đồng thuê, thuê mua với đối tượng thuộc trường hợp được thuê, thuê mua nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, căn cứ nào sau đây cho phép bên cho thuê mua chấm dứt hợp đồng khi phát hiện đối tượng thuê mua không đúng quy định?",
+    "a": "Khi đối tượng thuê mua không còn nhu cầu cư trú tại địa phương",
+    "b": "Khi bên thuê mua được xác định không đúng đối tượng ngay sau khi ký hợp đồng",
+    "c": "Khi bên thuê mua tự ý thay đổi màu sơn hoặc trang trí nội thất",
+    "d": "Khi bên thuê mua không đóng phí quản lý vận hành định kỳ",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 2 Điều 176 Luật Nhà ở 2023, đây là căn cứ chấm dứt hợp đồng và thu hồi nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc bên thuê mua không đáp ứng đủ điều kiện thuê mua theo luật định dẫn đến hậu quả pháp lý nào?",
+    "a": "Bên cho thuê mua được quyền đơn phương điều chỉnh giá thuê mua",
+    "b": "Bên cho thuê mua được quyền tạm ngừng hợp đồng để yêu cầu bổ sung hồ sơ",
+    "c": "Chấm dứt hợp đồng thuê mua và thu hồi nhà ở",
+    "d": "Yêu cầu bên thuê mua bồi thường thiệt hại và tiếp tục thực hiện hợp đồng",
+    "answer": "c",
+    "explanation": "Theo điểm b khoản 2 Điều 176 Luật Nhà ở 2023, không đủ điều kiện là căn cứ chấm dứt hợp đồng và thu hồi nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc tự ý bán nhà ở thuê mua cho người khác trong thời hạn thuê mua là hành vi bị xử lý như thế nào?",
+    "a": "Bị phạt vi phạm hành chính và buộc nộp lại toàn bộ số tiền chênh lệch",
+    "b": "Bị tăng giá thuê mua theo giá thị trường hiện tại",
+    "c": "Bị chấm dứt hợp đồng thuê mua và thu hồi nhà ở",
+    "d": "Bị yêu cầu phải thực hiện công chứng lại hợp đồng chuyển nhượng",
+    "answer": "c",
+    "explanation": "Theo điểm a khoản 2 Điều 176 Luật Nhà ở 2023, bên cho thuê mua được chấm dứt hợp đồng và thu hồi nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hành vi tự ý cho thuê lại nhà ở đang trong thời hạn thuê mua sẽ dẫn đến hậu quả gì?",
+    "a": "Bị điều chỉnh giá thuê mua tăng thêm 20%",
+    "b": "Bị chấm dứt hợp đồng thuê mua và thu hồi nhà ở",
+    "c": "Được gia hạn thời hạn thuê mua thêm tối đa 02 năm",
+    "d": "Không ảnh hưởng đến hiệu lực hợp đồng nếu bên thuê mua nộp phạt",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 2 Điều 176 Luật Nhà ở 2023, tự ý cho thuê là căn cứ chấm dứt hợp đồng và thu hồi nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hành vi tự ý đục phá nhà ở thuê mua được quy định là căn cứ để bên cho thuê mua thực hiện quyền gì?",
+    "a": "Yêu cầu bên thuê mua hoàn trả chi phí sửa chữa",
+    "b": "Tạm dừng quyền sở hữu đối với nhà ở",
+    "c": "Chấm dứt hợp đồng thuê mua và thu hồi nhà ở",
+    "d": "Buộc bên thuê mua phải ký quỹ bảo hành",
+    "answer": "c",
+    "explanation": "Theo điểm d khoản 2 Điều 176 Luật Nhà ở 2023, hành vi tự ý đục phá là căn cứ chấm dứt hợp đồng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, phạm vi áp dụng của khoản 3 Điều 176 được xác định như thế nào?",
+    "a": "Áp dụng cho mọi loại hình nhà ở thuê mua bao gồm cả nhà ở xã hội",
+    "b": "Chỉ áp dụng riêng đối với nhà ở công vụ của cán bộ",
+    "c": "Áp dụng đối với các trường hợp không thuộc khoản 1 và khoản 2 Điều 176",
+    "d": "Áp dụng chung cho tất cả các giao dịch nhà ở thuộc sở hữu nhà nước",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 176 Luật Nhà ở 2023, quy định này áp dụng đối với trường hợp không thuộc khoản 1 và khoản 2."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, căn cứ để chấm dứt hợp đồng thuê mua trong trường hợp không thuộc khoản 1 và khoản 2 Điều 176 là gì?",
+    "a": "Theo quyết định của Tòa án nhân dân cấp có thẩm quyền",
+    "b": "Theo thỏa thuận trong hợp đồng",
+    "c": "Theo quyết định hành chính của UBND cấp tỉnh",
+    "d": "Theo yêu cầu của bên thuê mua nếu có lý do chính đáng",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 176 Luật Nhà ở 2023, việc chấm dứt hợp đồng được thực hiện theo thỏa thuận trong hợp đồng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nghĩa vụ của bên thuê mua sau khi hợp đồng thuê mua chấm dứt và đã nhận bàn giao nhà ở là gì?",
+    "a": "Tự do sử dụng nhà ở cho đến khi có bên cho thuê mua mới",
+    "b": "Chuyển nhượng quyền sử dụng nhà ở cho người khác để thu hồi vốn",
+    "c": "Trả lại nhà ở cho bên cho thuê mua",
+    "d": "Giao lại cho văn phòng công chứng để thanh lý hợp đồng",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 176 Luật Nhà ở 2023, bên thuê mua phải trả lại nhà ở cho bên cho thuê mua."
+  },
+  {
     "question": "Theo Luật Nhà ở 2023, trong mối quan hệ thuê nhà ở, nội dung nào sau đây bắt buộc phải được các bên thỏa thuận nếu không có quy định khác từ cơ quan nhà nước có thẩm quyền?",
     "a": "Thời hạn thuê, giá thuê và hình thức thanh toán",
     "b": "Quy chuẩn thiết kế nội thất",
