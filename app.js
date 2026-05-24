@@ -23,8 +23,8 @@ function getDeviceId() {
 const users = [
   { username: "mainguyen", password: "1234", role: "admin" },
   { username: "huyen@", password: "1112233", role: "user" },
-{ username: "LONG@", password: "1112233", role: "user" },
-{ username: "HOANG@", password: "1112233", role: "user" }
+ { username: "LONG@", password: "1112233", role: "user" },
+ { username: "HOANG@", password: "1112233", role: "user" }
 ];
 let sessions = JSON.parse(localStorage.getItem("loginSessions") || "{}");
 
@@ -112,87 +112,78 @@ async function taiTatCaDuLieuCauHoi() {
   let beCauHoiTong = [];
 
   console.log("=== BẮT ĐẦU KIỂM TRA VÀ TẢI DỮ LIỆU FILE ===");
-
   for (const duongDan of danhSachFiles) {
     try {
       const res = await fetch(duongDan);
-      if (!res.ok) throw new Error("File không tồn tại");
+      if (!res.ok) throw new Error();
       const json = await res.json();
       
       const fileTag = duongDan.split('/').pop().replace('.json', '');
-      json.forEach(q => { 
-        q.fileSource = fileTag; 
-        q.weight = q.weight || 1;
-        q.correctCount = q.correctCount || 0;
-        q.wrongCount = q.wrongCount || 0;
-      });
+      json.forEach(q => { q.fileSource = fileTag; });
 
       console.log(`✓ Tải thành công: ${duongDan} | Quy mô: ${json.length} câu.`);
       beCauHoiTong = beCauHoiTong.concat(json);
-
-      // --- CHỖ FIX QUAN TRỌNG NHẤT ---
-      // Dừng lại 50ms để trình duyệt iOS giải phóng RAM/CPU trước khi tải file tiếp theo
-      await new Promise(resolve => setTimeout(resolve, 50));
-      // -------------------------------
-
     } catch (err) {
-      console.error(`❌ Lỗi tại file: ${duongDan}`, err);
+      console.error(`❌ Không tìm thấy hoặc sai cấu trúc định dạng tại file: ${duongDan}`);
     }
   }
 
   console.log(`➡️ TỔNG SỐ CÂU HỎI THỰC TẾ LOAD ĐƯỢC: ${beCauHoiTong.length} câu.`);
   console.log("=================================================");
 
+  if (beCauHoiTong.length === 0) return [];
+
+  beCauHoiTong.forEach(q => {
+    q.weight = q.weight || 1;
+    q.correctCount = q.correctCount || 0;
+    q.wrongCount = q.wrongCount || 0;
+  });
+
   return beCauHoiTong;
 }
 
 // ================= KHỞI ĐỘNG HỆ THỐNG =================
 async function khoiDongUngDung() {
-  // 1. Tải dữ liệu từ file (với hàm taiTatCaDuLieuCauHoi đã có delay 50ms)
   const fileData = await taiTatCaDuLieuCauHoi();
   
   if (fileData.length === 0) {
-    alert("Không tìm thấy dữ liệu câu hỏi! Vui lòng kiểm tra lại kết nối mạng.");
+    const localData = localStorage.getItem("questionData");
+    if (localData) {
+      data = JSON.parse(localData);
+      checkLogin();
+    } else {
+      alert("Không tìm thấy dữ liệu câu hỏi trong thư mục cau_hoi! Vui lòng kiểm tra lại cấu trúc thư mục.");
+    }
     return;
   }
 
-  // 2. Khôi phục trạng thái (weight, count) từ localStorage mà không cần lưu cả đống câu hỏi
-  // Chúng ta lưu weight vào một object theo ID câu hỏi hoặc nội dung câu hỏi
-  const savedStats = JSON.parse(localStorage.getItem("questionStats") || "{}");
+  const localData = localStorage.getItem("questionData");
+  if (localData) {
+    const localQuestions = JSON.parse(localData);
+    const localMap = new Map();
+    localQuestions.forEach(q => {
+      let qText = (q.question || q.cauhoi || "").trim();
+      if (qText) localMap.set(qText, q);
+    });
 
-  fileData.forEach(q => {
-    let qText = (q.question || q.cauhoi || "").trim();
-    if (savedStats[qText]) {
-      const stats = savedStats[qText];
-      q.weight = stats.weight || 1;
-      q.correctCount = stats.correctCount || 0;
-      q.wrongCount = stats.wrongCount || 0;
-    }
-  });
+    fileData.forEach(q => {
+      let qText = (q.question || q.cauhoi || "").trim();
+      if (localMap.has(qText)) {
+        const oldQ = localMap.get(qText);
+        q.weight = oldQ.weight || 1;
+        q.correctCount = oldQ.correctCount || 0;
+        q.wrongCount = oldQ.wrongCount || 0;
+        if(oldQ.fileSource) q.fileSource = oldQ.fileSource;
+      }
+    });
+  }
 
-  // 3. Gán vào biến data toàn cục (Dữ liệu sống trong RAM, không lưu vào Storage)
   data = fileData;
-  
-  // 4. Lưu lại stats chỉ khi người dùng nộp bài (trong hàm submit)
-  // Không lưu toàn bộ 'data' vào localStorage ở đây nữa => Fix lỗi crash iOS
-  
+  localStorage.setItem("questionData", JSON.stringify(data));
   checkLogin();
 }
 
-// BẠN CẦN SỬA THÊM HÀM SUBMIT ĐỂ CẬP NHẬT STATS MỚI
-// Thay vì lưu "questionData", hãy lưu như sau:
-function updateStatsAndSave() {
-  let stats = {};
-  data.forEach(q => {
-    let qText = (q.question || q.cauhoi || "").trim();
-    stats[qText] = {
-      weight: q.weight,
-      correctCount: q.correctCount,
-      wrongCount: q.wrongCount
-    };
-  });
-  localStorage.setItem("questionStats", JSON.stringify(stats));
-}
+khoiDongUngDung();
 
 // ================= THUẬT TOÁN ĐẢO KHOÁ TRỘN ĐỀ TỐI ĐA =================
 function shuffle(arr) {
@@ -476,11 +467,12 @@ function submit() {
   let wrong = 0;
   let submittedCount = 0; 
   let newWrong = [];
+
   let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
 
-  // 1. Tính toán kết quả
   questions.forEach((q, i) => {
     let userAns = answers[i] ? answers[i].toString().trim().toLowerCase() : "";
+    
     let correctAns = q.newCorrectAnswer ? q.newCorrectAnswer.toString().trim().toLowerCase() : (q.answer || q.trảlời || "").toString().trim().toLowerCase();
     if (correctAns === "một") correctAns = "a";
 
@@ -489,7 +481,6 @@ function submit() {
     
     if (!originalQ) originalQ = q; 
 
-    // Cập nhật các chỉ số
     originalQ.weight = originalQ.weight || 1;
     originalQ.correctCount = originalQ.correctCount || 0;
     originalQ.wrongCount = originalQ.wrongCount || 0;
@@ -500,60 +491,68 @@ function submit() {
         correct++;
         originalQ.correctCount++;
         originalQ.weight = Math.max(1, originalQ.weight - 0.3);
-        if (!correctPool.includes(qTextId)) correctPool.push(qTextId);
+        
+        if (!correctPool.includes(qTextId)) {
+          correctPool.push(qTextId);
+        }
       } else {
         wrong++;
         newWrong.push(originalQ);
         originalQ.wrongCount++;
         originalQ.weight = Math.min(10, originalQ.weight + 1.2); 
+        
         let cIndex = correctPool.indexOf(qTextId);
-        if (cIndex > -1) correctPool.splice(cIndex, 1);
+        if (cIndex > -1) {
+          correctPool.splice(cIndex, 1);
+        }
       }
     } else {
       wrong++; 
     }
   });
 
-  // 2. TẠO HÀM LƯU STATS GỌN NHẸ (Thay cho việc lưu questionData)
-  let stats = {};
-  data.forEach(q => {
-    let qText = (q.question || q.cauhoi || "").trim();
-    stats[qText] = { 
-      weight: q.weight, 
-      correctCount: q.correctCount, 
-      wrongCount: q.wrongCount 
-    };
-  });
-
-  // 3. LƯU VÀO LOCALSTORAGE
   localStorage.setItem("correctPool", JSON.stringify(correctPool));
-  localStorage.setItem("questionStats", JSON.stringify(stats)); // Chỉ lưu stats cực nhẹ
-  
-  // Xóa sạch cache cũ nếu còn tồn tại để dọn RAM cho iOS
-  localStorage.removeItem("questionData"); 
-
+  localStorage.setItem("questionData", JSON.stringify(data)); 
   wrongPool = newWrong;
 
-  // 4. HIỂN THỊ KẾT QUẢ (Giữ nguyên giao diện của bạn)
   document.body.style.backgroundColor = "#f4f5f7";
   document.body.style.margin = "0";
   document.body.style.padding = "20px 0";
 
   app.innerHTML = `
-    <div style="max-width: 820px; margin: 0 auto; background: #ffffff; padding: 40px 50px; box-shadow: 0 4px 15px rgba(0,0,0,0.06); border-radius: 8px; font-family: 'Times New Roman', Times, serif;">
-      <h1 style="font-size: 24px; font-weight: bold; text-align: center; margin: 0 0 10px 0; color: #111;">BÁO CÁO KẾT QUẢ KIỂM TRA</h1>
-      <p style="text-align: center; font-size: 15px; color: #555; margin: 0 0 20px 0;">
-        Số câu đã làm: <b>${submittedCount}/${questions.length}</b><br>
-        Số câu đúng: <b style="color: #2e7d32;">${correct}</b> | Sai/Chưa chọn: <b style="color: #c62828;">${wrong}</b>
+    <div style="
+      max-width: 820px; 
+      margin: 0 auto; 
+      background: #ffffff; 
+      padding: 40px 50px; 
+      box-shadow: 0 4px 15px rgba(0,0,0,0.06);
+      border-radius: 8px;
+      font-family: 'Times New Roman', Times, serif;
+    ">
+      <h1 style="font-size: 24px; font-weight: bold; text-align: center; margin: 0 0 10px 0; color: #111; letter-spacing: 0.5px;">BÁO CÁO KẾT QUẢ KIỂM TRA</h1>
+      
+      <p style="text-align: center; font-size: 15px; color: #555; margin: 0 0 20px 0; line-height: 1.6;">
+        Số câu đã hoàn thành: <b style="color: #00796b; font-size: 16px;">${submittedCount}/${questions.length}</b><br>
+        Số câu đúng: <b style="color: #2e7d32; font-size: 16px;">${correct}</b> | Số câu sai/Chưa chọn: <b style="color: #c62828; font-size: 16px;">${wrong}</b>
       </p>
+
       <div style="text-align: center; margin-bottom: 25px;">
-        <button class="btn" style="background: #00796b; color: white; border: none; padding: 10px 28px; cursor: pointer; border-radius: 20px;" onclick="location.reload()">THI VÒNG ĐỀ MỚI</button>
+        <button class="btn" style="background: #00796b; color: white; border: none; padding: 10px 28px; font-size: 14px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 20px; font-weight: bold; transition: 0.2s;" onclick="location.reload()">THI VÒNG ĐỀ MỚI</button>
       </div>
+
+      <div style="display: flex; gap: 8px; justify-content: center; margin-bottom: 25px; border-bottom: 1px solid #eef0f2; padding-bottom: 15px;">
+        <button id="btn-filter-all" style="padding: 6px 16px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('all')">Tất cả câu hỏi</button>
+        <button id="btn-filter-correct" style="padding: 6px 16px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('correct')">Các câu đúng</button>
+        <button id="btn-filter-wrong" style="padding: 6px 16px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('wrong')">Các câu chưa làm / sai</button>
+      </div>
+
       <div id="result-list"></div>
     </div>
   `;
+
   filterResult('all');
 }
+
 // ================= BỘ LỌC ĐÁP ÁN KHẢO SÁT KẾT QUẢ THI =================
 function filterResult(type) {
   currentFilter = type;
