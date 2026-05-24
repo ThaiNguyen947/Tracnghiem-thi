@@ -1,5 +1,473 @@
 [
   {
+    "question": "Theo Luật Nhà ở 2023, giao dịch nào về nhà ở bắt buộc phải thực hiện công chứng hoặc chứng thực hợp đồng?",
+    "a": "Cho thuê nhà ở và cho mượn nhà ở (trừ trường hợp các bên có nhu cầu)",
+    "b": "Ủy quyền quản lý nhà ở và cho thuê lại nhà ở",
+    "c": "Mua bán, thuê mua, tặng cho, đổi, góp vốn, thế chấp nhà ở",
+    "d": "Cho ở nhờ nhà ở và ủy quyền quản lý nhà ở",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 164 Luật Nhà ở 2023, trường hợp mua bán, thuê mua, tặng cho, đổi, góp vốn, thế chấp nhà ở thì phải thực hiện công chứng hoặc chứng thực hợp đồng, trừ trường hợp quy định tại khoản 2 Điều này."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, giao dịch nào sau đây không bắt buộc phải công chứng, chứng thực hợp đồng nếu các bên không có nhu cầu?",
+    "a": "Thế chấp và góp vốn bằng nhà ở",
+    "b": "Tặng cho và đổi nhà ở giữa cá nhân với cá nhân",
+    "c": "Thuê, mượn, ở nhờ, ủy quyền quản lý nhà ở",
+    "d": "Mua bán nhà ở giữa cá nhân và tổ chức",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 164 Luật Nhà ở 2023, trường hợp thuê, mượn, ở nhờ, ủy quyền quản lý nhà ở thì không phải thực hiện công chứng, chứng thực hợp đồng, trừ trường hợp các bên có nhu cầu."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, thời điểm có hiệu lực của hợp đồng mua bán nhà ở thuộc trường hợp phải công chứng, chứng thực là thời điểm nào?",
+    "a": "Thời điểm các bên ký kết vào văn bản hợp đồng",
+    "b": "Thời điểm bàn giao nhà ở và nhận tiền thanh toán",
+    "c": "Thời điểm đăng ký biến động tại Văn phòng đăng ký đất đai",
+    "d": "Thời điểm hoàn thành việc công chứng hoặc chứng thực",
+    "answer": "d",
+    "explanation": "Theo khoản 1 Điều 164 Luật Nhà ở 2023, đối với giao dịch thuộc trường hợp phải công chứng hoặc chứng thực thì thời điểm có hiệu lực của hợp đồng là thời điểm hoàn thành việc công chứng hoặc chứng thực."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, thời điểm có hiệu lực của hợp đồng thuê nhà ở trong trường hợp các bên không có thỏa thuận là thời điểm nào?",
+    "a": "Thời điểm giao nhận nhà ở thực tế",
+    "b": "Thời điểm ký kết hợp đồng",
+    "c": "Thời điểm bắt đầu cư trú tại nhà ở",
+    "d": "Thời điểm đăng ký cư trú với cơ quan công an",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 164 Luật Nhà ở 2023, đối với giao dịch không bắt buộc công chứng, chứng thực thì thời điểm có hiệu lực của hợp đồng là do các bên thỏa thuận; nếu không có thỏa thuận thì là thời điểm ký kết hợp đồng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, văn bản thừa kế nhà ở được công chứng hoặc chứng thực theo quy định của pháp luật nào?",
+    "a": "Pháp luật về Nhà ở hiện hành",
+    "b": "Pháp luật về dân sự",
+    "c": "Pháp luật về đất đai và đăng ký tài sản",
+    "d": "Pháp luật về công chứng và chứng thực",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 164 Luật Nhà ở 2023, văn bản thừa kế nhà ở được công chứng hoặc chứng thực theo quy định của pháp luật về dân sự."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc công chứng hợp đồng về nhà ở được thực hiện tại đâu?",
+    "a": "Ủy ban nhân dân cấp xã/phường nơi có nhà ở",
+    "b": "Phòng Tư pháp thuộc Ủy ban nhân dân cấp huyện",
+    "c": "Tổ chức hành nghề công chứng",
+    "d": "Văn phòng đăng ký đất đai cấp tỉnh",
+    "answer": "c",
+    "explanation": "Theo khoản 4 Điều 164 Luật Nhà ở 2023, việc công chứng hợp đồng về nhà ở được thực hiện tại tổ chức hành nghề công chứng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc chứng thực hợp đồng về nhà ở được thực hiện tại cơ quan nào?",
+    "a": "Ủy ban nhân dân cấp xã nơi có nhà ở",
+    "b": "Ủy ban nhân dân cấp huyện nơi các bên cư trú",
+    "c": "Sở Xây dựng tỉnh/thành phố",
+    "d": "Tổ chức hành nghề công chứng tại địa phương",
+    "answer": "a",
+    "explanation": "Theo khoản 4 Điều 164 Luật Nhà ở 2023, việc chứng thực hợp đồng về nhà ở được thực hiện tại Ủy ban nhân dân cấp xã nơi có nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hợp đồng về nhà ở phải được lập dưới hình thức nào?",
+    "a": "Văn bản, lời nói hoặc hành vi cụ thể của các bên",
+    "b": "Văn bản hoặc thông điệp dữ liệu điện tử có chữ ký số",
+    "c": "Văn bản",
+    "d": "Văn bản hoặc ghi âm, ghi hình có người làm chứng",
+    "answer": "c",
+    "explanation": "Theo Điều 163 Luật Nhà ở 2023, hợp đồng về nhà ở phải được lập thành văn bản."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nội dung nào sau đây bắt buộc phải có trong hợp đồng về nhà ở?",
+    "a": "Thông tin về tình trạng hôn nhân và số nhân khẩu của các bên",
+    "b": "Thông tin về nguồn gốc hình thành và lịch sử giao dịch",
+    "c": "Cam kết của các bên",
+    "d": "Thông tin về loại thuế và các loại phí phải nộp",
+    "answer": "c",
+    "explanation": "Theo khoản 7 Điều 163 Luật Nhà ở 2023, hợp đồng về nhà ở phải có nội dung về cam kết của các bên."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hợp đồng về nhà ở phải có nội dung nào liên quan đến hiệu lực của hợp đồng?",
+    "a": "Trách nhiệm nộp thuế, lệ phí trước bạ",
+    "b": "Thời điểm có hiệu lực của hợp đồng",
+    "c": "Tình trạng tài sản chung, tài sản riêng",
+    "d": "Điều khoản về bảo trì nhà ở",
+    "answer": "b",
+    "explanation": "Theo khoản 9 Điều 163 Luật Nhà ở 2023, hợp đồng về nhà ở phải có nội dung về thời điểm có hiệu lực của hợp đồng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, đối với hợp đồng thuê mua nhà ở thì phải ghi rõ nội dung nào?",
+    "a": "Quyền và nghĩa vụ của các bên về sửa chữa hư hỏng của nhà ở trong quá trình thuê mua",
+    "b": "Giá trị vốn hóa của nhà ở tại thời điểm bàn giao",
+    "c": "Danh sách các thiết bị nội thất đi kèm nhà ở",
+    "d": "Lịch sử đóng các loại phí dịch vụ quản lý",
+    "answer": "a",
+    "explanation": "Theo khoản 6 Điều 163 Luật Nhà ở 2023, trường hợp thuê mua nhà ở thì phải ghi rõ quyền và nghĩa vụ của các bên về việc sửa chữa hư hỏng của nhà ở trong quá trình thuê mua."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, giao dịch góp vốn bằng nhà ở có một bên là tổ chức có bắt buộc công chứng, chứng thực không?",
+    "a": "Bắt buộc công chứng theo quy định của Luật Công chứng",
+    "b": "Bắt buộc chứng thực tại Ủy ban nhân dân cấp xã",
+    "c": "Không bắt buộc công chứng, chứng thực, trừ khi các bên có nhu cầu",
+    "d": "Chỉ bắt buộc nếu vốn góp vượt quá giá trị nhất định",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 164 Luật Nhà ở 2023, trường hợp góp vốn bằng nhà ở mà có một bên là tổ chức thì không phải thực hiện công chứng, chứng thực hợp đồng, trừ trường hợp các bên có nhu cầu."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp nào sau đây nhà ở tham gia giao dịch không bắt buộc phải có Giấy chứng nhận?",
+    "a": "Mua bán nhà ở hình thành trong tương lai",
+    "b": "Thế chấp quyền sở hữu nhà ở",
+    "c": "Cho thuê, cho mượn, cho ở nhờ, ủy quyền quản lý nhà ở",
+    "d": "Tặng cho nhà ở của cá nhân",
+    "answer": "c",
+    "explanation": "Theo điểm d khoản 2 Điều 160 Luật Nhà ở 2023, trường hợp cho thuê, cho mượn, cho ở nhờ, ủy quyền quản lý nhà ở thì nhà ở không bắt buộc phải có Giấy chứng nhận."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, đối với giao dịch mua bán nhà ở thông thường, điều kiện nào của nhà ở là bắt buộc?",
+    "a": "Nhà ở đã hoàn tất nghĩa vụ thuế nhà đất",
+    "b": "Có Giấy chứng nhận",
+    "c": "Đã được nghiệm thu đưa vào sử dụng trên 05 năm",
+    "d": "Có xác nhận của địa phương về hiện trạng nhà ở",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 1 Điều 160 Luật Nhà ở 2023, giao dịch mua bán nhà ở thì nhà ở phải có Giấy chứng nhận, trừ trường hợp quy định tại khoản 2 Điều này."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nhà ở tham gia giao dịch mua bán không được thuộc trường hợp nào sau đây?",
+    "a": "Đang trong tình trạng cho thuê hoặc mượn",
+    "b": "Chưa được sang tên đổi chủ sau khi mua lại",
+    "c": "Bị kê biên để thi hành án",
+    "d": "Có nhiều đồng sở hữu cùng đứng tên",
+    "answer": "c",
+    "explanation": "Theo điểm d khoản 1 Điều 160 Luật Nhà ở 2023, nhà ở tham gia giao dịch không được bị kê biên để thi hành án hoặc để chấp hành quyết định hành chính đã có hiệu lực pháp luật."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nhà ở đang có tranh chấp về quyền sở hữu có đủ điều kiện tham gia giao dịch mua bán không?",
+    "a": "Có, nếu được sự đồng thuận của các bên",
+    "b": "Không",
+    "c": "Có, nếu có xác nhận không có tranh chấp của khu phố/thôn",
+    "d": "Có, nếu có sự bảo lãnh của tổ chức hành nghề công chứng",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 1 Điều 160 Luật Nhà ở 2023, nhà ở tham gia giao dịch không được thuộc trường hợp đang có tranh chấp, khiếu nại, khiếu kiện về quyền sở hữu."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cá nhân trong nước mua nhà ở có bắt buộc phải có đăng ký cư trú tại nơi có nhà ở được giao dịch không?",
+    "a": "Bắt buộc phải có hộ khẩu thường trú",
+    "b": "Không",
+    "c": "Chỉ bắt buộc đối với nhà ở xã hội",
+    "d": "Chỉ bắt buộc nếu nhà ở nằm tại các thành phố lớn",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 2 Điều 161 Luật Nhà ở 2023, cá nhân trong nước không bắt buộc phải có đăng ký cư trú tại nơi có nhà ở được giao dịch."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, tổ chức nước ngoài tham gia giao dịch nhà ở tại Việt Nam còn phải đáp ứng điều kiện nào?",
+    "a": "Có thời gian hoạt động tại Việt Nam trên 10 năm",
+    "b": "Có vốn đầu tư vào dự án xây dựng nhà ở",
+    "c": "Thuộc đối tượng được sở hữu nhà ở tại Việt Nam",
+    "d": "Có văn phòng đại diện tại nơi có nhà ở",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 161 Luật Nhà ở 2023, trường hợp là tổ chức nước ngoài thì còn phải thuộc đối tượng được sở hữu nhà ở tại Việt Nam theo quy định của Luật này."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hợp đồng mua bán căn hộ chung cư phải ghi rõ nội dung nào sau đây?",
+    "a": "Diện tích thông thủy của căn hộ",
+    "b": "Phần sở hữu chung, sử dụng chung",
+    "c": "Thời hạn sử dụng của chung cư",
+    "d": "Danh sách các tiện ích trong dự án",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 163 Luật Nhà ở 2023, hợp đồng mua bán căn hộ chung cư phải ghi rõ phần sở hữu chung, sử dụng chung."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trong hợp đồng mua bán căn hộ chung cư phải ghi rõ thông tin nào về kinh phí bảo trì?",
+    "a": "Phương thức xác định quỹ bảo trì hàng năm",
+    "b": "Trách nhiệm đóng, mức đóng và thông tin tài khoản nộp kinh phí bảo trì",
+    "c": "Quyền sử dụng lãi suất từ quỹ bảo trì",
+    "d": "Danh mục các hạng mục được sử dụng quỹ bảo trì",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 163 Luật Nhà ở 2023, hợp đồng mua bán căn hộ chung cư phải ghi rõ trách nhiệm đóng, mức đóng kinh phí bảo trì và thông tin tài khoản nộp kinh phí bảo trì."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp nào sau đây là giao dịch về nhà ở?",
+    "a": "Đăng ký tạm trú tại nhà ở",
+    "b": "Cho ở nhờ nhà ở",
+    "c": "Đăng ký kinh doanh tại địa chỉ nhà ở",
+    "d": "Thủ tục xin cấp điện nước",
+    "answer": "b",
+    "explanation": "Theo Điều 159 Luật Nhà ở 2023, giao dịch về nhà ở bao gồm cho ở nhờ nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, ủy quyền quản lý nhà ở có được xem là giao dịch về nhà ở không?",
+    "a": "Không, vì đây là quan hệ ủy quyền dân sự",
+    "b": "Chỉ khi được thực hiện giữa các cá nhân",
+    "c": "Có",
+    "d": "Chỉ khi có thỏa thuận về thù lao",
+    "answer": "c",
+    "explanation": "Theo Điều 159 Luật Nhà ở 2023, giao dịch về nhà ở bao gồm ủy quyền quản lý nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, giao dịch nào sau đây về nhà ở không thuộc trường hợp bắt buộc công chứng hoặc chứng thực hợp đồng?",
+    "a": "Mua bán nhà ở giữa cá nhân với cá nhân tại khu vực đô thị",
+    "b": "Thế chấp nhà ở để vay vốn tại ngân hàng thương mại",
+    "c": "Cho ở nhờ nhà ở",
+    "d": "Góp vốn bằng nhà ở vào doanh nghiệp bất động sản",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 164 Luật Nhà ở 2023, trường hợp thuê, mượn, ở nhờ, ủy quyền quản lý nhà ở thì không phải thực hiện công chứng, chứng thực hợp đồng, trừ trường hợp các bên có nhu cầu."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hợp đồng mua bán nhà ở mà một bên là tổ chức đối với nhà ở xã hội có bắt buộc công chứng, chứng thực không?",
+    "a": "Bắt buộc công chứng tại văn phòng công chứng nhà nước",
+    "b": "Bắt buộc chứng thực tại Ủy ban nhân dân cấp huyện",
+    "c": "Không bắt buộc công chứng, chứng thực trừ khi các bên có nhu cầu",
+    "d": "Chỉ bắt buộc nếu hợp đồng có giá trị trên 01 tỷ đồng",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 164 Luật Nhà ở 2023, mua bán, thuê mua nhà ở mà một bên là tổ chức bao gồm nhà ở xã hội thì không bắt buộc công chứng, chứng thực, trừ trường hợp các bên có nhu cầu."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp nào sau đây nhà ở tham gia giao dịch không bắt buộc phải có Giấy chứng nhận?",
+    "a": "Nhận thừa kế nhà ở",
+    "b": "Đổi nhà ở giữa các cá nhân",
+    "c": "Góp vốn bằng nhà ở vào công ty cổ phần",
+    "d": "Tặng cho nhà ở thương mại",
+    "answer": "a",
+    "explanation": "Theo điểm đ khoản 2 Điều 160 Luật Nhà ở 2023, nhận thừa kế nhà ở thì nhà ở không bắt buộc phải có Giấy chứng nhận."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, mua bán nhà ở hình thành trong tương lai có bắt buộc nhà ở phải không có tranh chấp về quyền sở hữu hay không?",
+    "a": "Bắt buộc phải có xác nhận không tranh chấp của cơ quan chức năng",
+    "b": "Không áp dụng",
+    "c": "Chỉ áp dụng với nhà ở xã hội hoặc nhà ở tái định cư",
+    "d": "Chỉ áp dụng với trường hợp cá nhân bán nhà cho cá nhân",
+    "answer": "b",
+    "explanation": "Theo điểm e khoản 1 Điều 160 Luật Nhà ở 2023, điều kiện quy định tại điểm b và điểm c khoản 1 không áp dụng đối với trường hợp mua bán, thuê mua nhà ở hình thành trong tương lai."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, điều kiện 'đang trong thời hạn sở hữu nhà ở' không áp dụng đối với trường hợp nào?",
+    "a": "Cho thuê nhà ở có thời hạn dưới 06 tháng",
+    "b": "Nhà ở hình thành trong tương lai",
+    "c": "Đổi nhà ở giữa các chủ sở hữu hợp pháp",
+    "d": "Thế chấp nhà ở hình thành trong tương lai",
+    "answer": "b",
+    "explanation": "Theo điểm e khoản 1 Điều 160 Luật Nhà ở 2023, điều kiện quy định tại điểm c khoản 1 không áp dụng đối với trường hợp mua bán, thuê mua nhà ở hình thành trong tương lai."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, ngoài các điều kiện chung, nhà ở cho thuê còn phải đáp ứng điều kiện nào?",
+    "a": "Phải có Giấy phép kinh doanh dịch vụ cho thuê nhà ở",
+    "b": "Có đầy đủ hệ thống điện, cấp nước, thoát nước, bảo đảm vệ sinh môi trường",
+    "c": "Phải được cơ quan quản lý đô thị kiểm định chất lượng định kỳ",
+    "d": "Phải đóng bảo hiểm trách nhiệm dân sự bắt buộc cho người thuê",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 160 Luật Nhà ở 2023, nhà ở cho thuê phải bảo đảm chất lượng, an toàn cho bên thuê và có đầy đủ hệ thống điện, cấp nước, thoát nước, bảo đảm vệ sinh môi trường."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, bên mua nhà ở là cá nhân nước ngoài phải đáp ứng điều kiện nào?",
+    "a": "Đã có thời gian lưu trú tại Việt Nam trên 12 tháng",
+    "b": "Có đăng ký cư trú tại chính nơi có nhà ở được mua",
+    "c": "Thuộc đối tượng được sở hữu nhà ở tại Việt Nam",
+    "d": "Có thẻ tạm trú còn thời hạn ít nhất 05 năm",
+    "answer": "c",
+    "explanation": "Theo điểm b khoản 2 Điều 161 Luật Nhà ở 2023, cá nhân nước ngoài phải thuộc đối tượng được sở hữu nhà ở tại Việt Nam theo quy định của Luật này."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, tổ chức được ủy quyền quản lý nhà ở phải đáp ứng thêm điều kiện nào?",
+    "a": "Phải là doanh nghiệp có vốn điều lệ tối thiểu 50 tỷ đồng",
+    "b": "Có chức năng kinh doanh dịch vụ bất động sản và đang hoạt động tại Việt Nam",
+    "c": "Có kinh nghiệm quản lý nhà ở ít nhất 03 năm",
+    "d": "Phải được Sở Xây dựng cấp chứng chỉ hành nghề quản lý nhà",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 161 Luật Nhà ở 2023, tổ chức được ủy quyền quản lý nhà ở phải có chức năng kinh doanh dịch vụ bất động sản và đang hoạt động tại Việt Nam."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp mua nhà ở của chủ đầu tư dự án thì ai có trách nhiệm làm thủ tục đề nghị cấp Giấy chứng nhận cho bên mua?",
+    "a": "Bên mua tự thực hiện để đảm bảo quyền lợi cá nhân",
+    "b": "Cơ quan tài nguyên và môi trường địa phương",
+    "c": "Chủ đầu tư",
+    "d": "Tổ chức hành nghề công chứng thực hiện dịch vụ đăng ký",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 162 Luật Nhà ở 2023, chủ đầu tư có trách nhiệm làm thủ tục để cơ quan nhà nước có thẩm quyền cấp Giấy chứng nhận cho bên mua, trừ trường hợp bên mua tự nguyện thực hiện."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi cấp Giấy chứng nhận cho bên nhận quyền sở hữu nhà ở gắn với quyền sử dụng đất ở thì cơ quan có thẩm quyền đồng thời công nhận quyền gì?",
+    "a": "Quyền cư trú và đăng ký hộ khẩu tại nhà ở",
+    "b": "Quyền sử dụng đất ở và quyền sở hữu nhà ở",
+    "c": "Quyền sử dụng công trình hạ tầng kỹ thuật chung",
+    "d": "Quyền ưu tiên chuyển nhượng cho bên thứ ba",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 162 Luật Nhà ở 2023, cơ quan nhà nước có thẩm quyền đồng thời công nhận quyền sở hữu nhà ở và quyền sử dụng đất ở cho bên nhận quyền sở hữu nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hợp đồng về nhà ở phải có nội dung nào liên quan đến thời gian?",
+    "a": "Ngày, tháng, năm ký kết hợp đồng",
+    "b": "Thời hạn dự kiến hoàn thành thủ tục đăng ký quyền sở hữu",
+    "c": "Ngày bàn giao nhà ở trên thực địa",
+    "d": "Ngày nộp thuế thu nhập cá nhân từ giao dịch",
+    "answer": "a",
+    "explanation": "Theo khoản 10 Điều 163 Luật Nhà ở 2023, hợp đồng về nhà ở phải có ngày, tháng, năm ký kết hợp đồng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nếu bên ký hợp đồng về nhà ở là tổ chức thì phần chữ ký phải thể hiện nội dung nào?",
+    "a": "Mã số doanh nghiệp và số hiệu con dấu",
+    "b": "Tên người đại diện theo pháp luật của cổ đông lớn",
+    "c": "Đóng dấu (nếu có) và ghi rõ chức vụ của người ký",
+    "d": "Số thứ tự trong danh sách người được ủy quyền",
+    "answer": "c",
+    "explanation": "Theo khoản 11 Điều 163 Luật Nhà ở 2023, nếu là tổ chức thì phải đóng dấu (nếu có) và ghi rõ chức vụ của người ký."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trong hợp đồng mua bán căn hộ chung cư phải ghi rõ nội dung nào về thời hạn?",
+    "a": "Thời hạn bảo hành kỹ thuật đối với kết cấu khung",
+    "b": "Thời hạn sử dụng kinh phí bảo trì phần sở hữu chung",
+    "c": "Thời hạn sử dụng nhà chung cư theo hồ sơ thiết kế",
+    "d": "Thời hạn bàn giao các loại phí quản lý đầu kỳ",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 163 Luật Nhà ở 2023, hợp đồng mua bán căn hộ chung cư phải ghi rõ thời hạn sử dụng nhà chung cư theo hồ sơ thiết kế."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nội dung nào sau đây phải có trong hợp đồng mua bán căn hộ chung cư?",
+    "a": "Giá dịch vụ quản lý vận hành nhà chung cư trong trường hợp chưa tổ chức Hội nghị nhà chung cư lần đầu",
+    "b": "Danh sách các hộ gia đình cư trú tại cùng tầng",
+    "c": "Quy định về việc nuôi thú cưng trong căn hộ",
+    "d": "Chi phí tiêu thụ điện, nước của từng hộ dân",
+    "answer": "a",
+    "explanation": "Theo khoản 2 Điều 163 Luật Nhà ở 2023, hợp đồng mua bán căn hộ chung cư phải ghi rõ giá dịch vụ quản lý vận hành nhà chung cư trong trường hợp chưa tổ chức Hội nghị nhà chung cư lần đầu."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp tổ chức tặng cho nhà tình nghĩa thì có cần lập hợp đồng hay không?",
+    "a": "Chỉ cần biên bản bàn giao nhà ở có xác nhận của chính quyền",
+    "b": "Phải lập hợp đồng tặng cho",
+    "c": "Không cần lập văn bản do là hoạt động từ thiện",
+    "d": "Phải lập vi bằng có xác nhận của công chứng viên",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 162 Luật Nhà ở 2023, trường hợp tổ chức tặng cho nhà tình nghĩa, nhà tình thương, nhà đại đoàn kết thì chỉ cần lập hợp đồng tặng cho."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, giao dịch nào sau đây được xác định là giao dịch về nhà ở?",
+    "a": "Cho thuê quyền sử dụng đất nông nghiệp",
+    "b": "Cho mượn nhà ở",
+    "c": "Chuyển nhượng dự án đầu tư xây dựng nhà ở",
+    "d": "Cho thuê diện tích mặt bằng kinh doanh thương mại",
+    "answer": "b",
+    "explanation": "Theo Điều 159 Luật Nhà ở 2023, giao dịch về nhà ở bao gồm cho mượn nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nhà ở tham gia giao dịch mua bán phải đáp ứng điều kiện nào liên quan đến quyết định của cơ quan nhà nước?",
+    "a": "Không thuộc trường hợp đã có quyết định thu hồi đất hoặc thông báo giải tỏa, phá dỡ",
+    "b": "Đã hoàn tất nghĩa vụ đăng ký cư trú cho chủ sở hữu",
+    "c": "Đã được phê duyệt quyết toán thuế từ cơ quan quản lý",
+    "d": "Được ngân hàng thương mại bảo lãnh quyền sở hữu",
+    "answer": "a",
+    "explanation": "Theo điểm đ khoản 1 Điều 160 Luật Nhà ở 2023, nhà ở không thuộc trường hợp đã có quyết định thu hồi đất, thông báo giải tỏa, phá dỡ nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, điều kiện nhà ở không bị áp dụng biện pháp khẩn cấp tạm thời thuộc nhóm điều kiện nào?",
+    "a": "Điều kiện về tư cách chủ thể tham gia giao dịch",
+    "b": "Điều kiện về hình thức và thủ tục hợp đồng",
+    "c": "Điều kiện của nhà ở tham gia giao dịch",
+    "d": "Điều kiện về đăng ký cư trú và quản lý nhân khẩu",
+    "answer": "c",
+    "explanation": "Theo điểm d khoản 1 Điều 160 Luật Nhà ở 2023, nhà ở tham gia giao dịch không thuộc trường hợp bị áp dụng biện pháp khẩn cấp tạm thời, biện pháp ngăn chặn."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp bán nhà ở trong trường hợp giải thể, phá sản thì nhà ở có bắt buộc phải có Giấy chứng nhận không?",
+    "a": "Bắt buộc phải có Giấy chứng nhận để đảm bảo tính thanh khoản",
+    "b": "Không bắt buộc",
+    "c": "Chỉ khi tài sản đó có tranh chấp với cổ đông hoặc chủ nợ",
+    "d": "Chỉ khi nhà ở đó đã được thế chấp tại ngân hàng",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 2 Điều 160 Luật Nhà ở 2023, bán nhà ở trong trường hợp giải thể, phá sản thì nhà ở không bắt buộc phải có Giấy chứng nhận."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, tổ chức tặng cho nhà đại đoàn kết có bắt buộc nhà ở phải có Giấy chứng nhận không?",
+    "a": "Bắt buộc phải có để thực hiện thủ tục đăng ký biến động",
+    "b": "Không bắt buộc",
+    "c": "Chỉ bắt buộc nếu nhà ở nằm trong khu vực đất quy hoạch",
+    "d": "Chỉ bắt buộc nếu có sự góp vốn của cá nhân trong nước",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 2 Điều 160 Luật Nhà ở 2023, tổ chức tặng cho nhà đại đoàn kết thì nhà ở không bắt buộc phải có Giấy chứng nhận."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, bên bán nhà ở phải đáp ứng điều kiện gì?",
+    "a": "Phải có hộ khẩu thường trú hoặc đăng ký tạm trú tại địa phương",
+    "b": "Đáp ứng điều kiện về chủ thể tham gia giao dịch theo pháp luật dân sự",
+    "c": "Phải có Giấy chứng nhận đăng ký kinh doanh dịch vụ bất động sản",
+    "d": "Phải có xác nhận cư trú của cơ quan công an",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 161 Luật Nhà ở 2023, bên bán nhà ở phải đáp ứng điều kiện về chủ thể tham gia giao dịch theo quy định của pháp luật về dân sự."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, người Việt Nam định cư ở nước ngoài khi tham gia giao dịch nhà ở ngoài điều kiện sở hữu nhà ở còn phải tuân thủ pháp luật nào?",
+    "a": "Pháp luật về doanh nghiệp và đầu tư nước ngoài",
+    "b": "Pháp luật về quản lý ngoại hối và cư trú",
+    "c": "Luật Đất đai",
+    "d": "Pháp luật về tố tụng dân sự",
+    "answer": "c",
+    "explanation": "Theo điểm b khoản 2 Điều 161 Luật Nhà ở 2023, người Việt Nam định cư ở nước ngoài còn phải tuân thủ quy định của Luật Đất đai."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, tổ chức tham gia giao dịch nhà ở có phụ thuộc vào nơi đăng ký kinh doanh hoặc nơi thành lập hay không?",
+    "a": "Có, nếu là tổ chức có vốn đầu tư nước ngoài",
+    "b": "Không",
+    "c": "Chỉ phụ thuộc đối với các doanh nghiệp kinh doanh bất động sản",
+    "d": "Chỉ phụ thuộc nếu tổ chức đó không có trụ sở tại Việt Nam",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 161 Luật Nhà ở 2023, tổ chức tham gia giao dịch nhà ở không phụ thuộc vào nơi đăng ký kinh doanh, nơi thành lập."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hợp đồng về nhà ở phải có nội dung nào mô tả thửa đất?",
+    "a": "Nguồn gốc hình thành và lịch sử chuyển nhượng quyền sử dụng đất",
+    "b": "Đặc điểm của thửa đất ở gắn với nhà ở",
+    "c": "Giá đất theo bảng giá đất của Ủy ban nhân dân cấp tỉnh",
+    "d": "Quy hoạch chi tiết 1/500 của dự án đầu tư",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 163 Luật Nhà ở 2023, hợp đồng về nhà ở phải mô tả đặc điểm của nhà ở giao dịch và đặc điểm của thửa đất ở gắn với nhà ở đó."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp mua bán nhà ở mà Nhà nước có quy định về giá thì các bên phải thực hiện như thế nào?",
+    "a": "Tự do thỏa thuận nhưng không được thấp hơn giá Nhà nước",
+    "b": "Theo giá thị trường được định giá bởi đơn vị độc lập",
+    "c": "Theo quy định của Nhà nước",
+    "d": "Theo giá được thống nhất trong biên bản đàm phán",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 163 Luật Nhà ở 2023, trường hợp mua bán, thuê mua, cho thuê nhà ở mà Nhà nước có quy định về giá thì các bên phải thực hiện theo quy định đó."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hợp đồng về nhà ở phải ghi nhận nội dung nào nếu là trường hợp mua bán hoặc thuê mua nhà ở được đầu tư xây dựng mới?",
+    "a": "Thời gian bảo hành nhà ở",
+    "b": "Phương án phân bổ chi phí xây dựng hạ tầng",
+    "c": "Số hiệu Giấy phép xây dựng của dự án",
+    "d": "Thông tin về quy hoạch tổng thể mặt bằng",
+    "answer": "a",
+    "explanation": "Theo khoản 5 Điều 163 Luật Nhà ở 2023, hợp đồng phải có thời gian bảo hành nhà ở nếu là mua, thuê mua nhà ở được đầu tư xây dựng mới."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, hợp đồng mua bán nhà ở có thời hạn phải ghi rõ nội dung nào?",
+    "a": "Thời hạn sở hữu",
+    "b": "Thời hạn cư trú của người mua",
+    "c": "Thời hạn cho thuê lại (nếu có)",
+    "d": "Thời hạn thực hiện bảo trì định kỳ",
+    "answer": "a",
+    "explanation": "Theo khoản 5 Điều 163 Luật Nhà ở 2023, hợp đồng phải ghi rõ thời hạn sở hữu đối với trường hợp mua bán nhà ở có thời hạn."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp nào sau đây không bắt buộc công chứng, chứng thực hợp đồng?",
+    "a": "Thế chấp nhà ở hình thành trong tương lai",
+    "b": "Đổi nhà ở để thực hiện chương trình cải tạo chung cư",
+    "c": "Ủy quyền quản lý nhà ở",
+    "d": "Tặng cho nhà ở của tổ chức cho cá nhân",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 164 Luật Nhà ở 2023, trường hợp ủy quyền quản lý nhà ở thì không bắt buộc công chứng, chứng thực hợp đồng, trừ trường hợp các bên có nhu cầu."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nếu các bên có nhu cầu thì giao dịch thuộc trường hợp không bắt buộc công chứng, chứng thực có được công chứng hoặc chứng thực hay không?",
+    "a": "Không được do trái với nguyên tắc tự do hợp đồng",
+    "b": "Chỉ được thực hiện chứng thực tại Ủy ban nhân dân cấp xã",
+    "c": "Chỉ được thực hiện công chứng tại tổ chức hành nghề công chứng",
+    "d": "Được công chứng hoặc chứng thực",
+    "answer": "d",
+    "explanation": "Theo khoản 2 Điều 164 Luật Nhà ở 2023, các giao dịch thuộc trường hợp không bắt buộc công chứng, chứng thực vẫn có thể thực hiện nếu các bên có nhu cầu."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, đối với giao dịch bắt buộc công chứng hoặc chứng thực thì thời điểm có hiệu lực của hợp đồng được xác định như thế nào?",
+    "a": "Thời điểm đăng ký biến động tại cơ quan có thẩm quyền",
+    "b": "Thời điểm bàn giao nhà ở trên thực địa cho bên mua",
+    "c": "Thời điểm hoàn thành việc công chứng hoặc chứng thực",
+    "d": "Thời điểm hợp đồng được cơ quan thuế xác nhận",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 164 Luật Nhà ở 2023, thời điểm có hiệu lực của hợp đồng là thời điểm hoàn thành việc công chứng hoặc chứng thực."
+  },
+  {
     "question": "Theo Luật Nhà ở 2023, danh mục nào sau đây được xác định là thuộc 'phần sở hữu riêng' của chủ sở hữu nhà chung cư?",
     "a": "Hệ thống kết cấu chịu lực, khung cột, tường chịu lực và hệ thống hạ tầng kỹ thuật chung.",
     "b": "Phần diện tích sàn xây dựng bên trong căn hộ, bao gồm cả diện tích ban công và lô gia gắn liền với căn hộ đó.",
