@@ -196,56 +196,36 @@ async function khoiDongUngDung() {
   const fileData = await taiTatCaDuLieuCauHoi();
   
   if (fileData.length === 0) {
-    // Nếu không tải được file mới, ta thử đọc trạng thái cũ (stats)
-    // Nhưng không còn lưu questionData đầy đủ nữa
-    alert("Không thể tải dữ liệu từ server. Vui lòng kiểm tra lại kết nối hoặc thư mục cau_hoi.");
+    alert("Không tìm thấy dữ liệu câu hỏi trong thư mục cau_hoi!");
     return;
   }
 
-  // 1. Chỉ lấy các con số trạng thái từ bộ nhớ (Rất nhẹ)
+  // Tải trạng thái nhẹ từ localStorage
   const stats = JSON.parse(localStorage.getItem("questionStats") || "{}");
 
-  // 2. Map trạng thái vào fileData vừa tải về (RAM)
+  // Áp dụng trạng thái vào data (trong RAM)
   fileData.forEach(q => {
     let qText = (q.question || q.cauhoi || "").trim();
     if (stats[qText]) {
-      const s = stats[qText];
-      q.weight = s.w || 1;
-      q.correctCount = s.c || 0;
-      q.wrongCount = s.wr || 0;
-    } else {
-      // Khởi tạo nếu chưa có
-      q.weight = 1;
-      q.correctCount = 0;
-      q.wrongCount = 0;
+      q.weight = stats[qText].w || 1;
+      q.correctCount = stats[qText].c || 0;
+      q.wrongCount = stats[qText].wr || 0;
     }
   });
 
   data = fileData;
-  
-  // 3. KHÔNG DÙNG localStorage.setItem("questionData", ...) NỮA
-  // Chỉ lưu các con số trạng thái để đồng bộ
-  updateStatsAndSave(); 
-  
+  updateStatsAndSave(); // Lưu trạng thái nhẹ ngay lần đầu
   checkLogin();
 }
 
-// Hàm hỗ trợ lưu trạng thái gọn nhẹ
+// Hàm bổ trợ để lưu trạng thái cực nhẹ (chỉ lưu số liệu)
 function updateStatsAndSave() {
   let stats = {};
   data.forEach(q => {
     let qText = (q.question || q.cauhoi || "").trim();
-    stats[qText] = { 
-      w: q.weight || 1, 
-      c: q.correctCount || 0, 
-      wr: q.wrongCount || 0 
-    };
+    stats[qText] = { w: q.weight || 1, c: q.correctCount || 0, wr: q.wrongCount || 0 };
   });
-  try {
-    localStorage.setItem("questionStats", JSON.stringify(stats));
-  } catch (e) {
-    console.error("Lỗi lưu stats, bộ nhớ đầy:", e);
-  }
+  localStorage.setItem("questionStats", JSON.stringify(stats));
 }
 
 // ================= THUẬT TOÁN ĐẢO KHOÁ TRỘN ĐỀ TỐI ĐA =================
@@ -535,7 +515,6 @@ function submit() {
 
   questions.forEach((q, i) => {
     let userAns = answers[i] ? answers[i].toString().trim().toLowerCase() : "";
-    
     let correctAns = q.newCorrectAnswer ? q.newCorrectAnswer.toString().trim().toLowerCase() : (q.answer || q.trảlời || "").toString().trim().toLowerCase();
     if (correctAns === "một") correctAns = "a";
 
@@ -554,30 +533,26 @@ function submit() {
         correct++;
         originalQ.correctCount++;
         originalQ.weight = Math.max(1, originalQ.weight - 0.3);
-        
-        if (!correctPool.includes(qTextId)) {
-          correctPool.push(qTextId);
-        }
+        if (!correctPool.includes(qTextId)) correctPool.push(qTextId);
       } else {
         wrong++;
         newWrong.push(originalQ);
         originalQ.wrongCount++;
         originalQ.weight = Math.min(10, originalQ.weight + 1.2); 
-        
         let cIndex = correctPool.indexOf(qTextId);
-        if (cIndex > -1) {
-          correctPool.splice(cIndex, 1);
-        }
+        if (cIndex > -1) correctPool.splice(cIndex, 1);
       }
     } else {
       wrong++; 
     }
   });
 
+  // Lưu lại các thay đổi vào bộ nhớ nhẹ
   localStorage.setItem("correctPool", JSON.stringify(correctPool));
-  localStorage.setItem("questionData", JSON.stringify(data)); 
+  updateStatsAndSave(); // Thay cho localStorage.setItem("questionData", ...)
   wrongPool = newWrong;
 
+  // Giữ nguyên giao diện CSS cũ
   document.body.style.backgroundColor = "#f4f5f7";
   document.body.style.margin = "0";
   document.body.style.padding = "20px 0";
