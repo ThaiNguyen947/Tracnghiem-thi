@@ -196,43 +196,57 @@ async function khoiDongUngDung() {
   const fileData = await taiTatCaDuLieuCauHoi();
   
   if (fileData.length === 0) {
-    const localData = localStorage.getItem("questionData");
-    if (localData) {
-      data = JSON.parse(localData);
-      checkLogin();
-    } else {
-      alert("Không tìm thấy dữ liệu câu hỏi trong thư mục cau_hoi! Vui lòng kiểm tra lại cấu trúc thư mục.");
-    }
+    // Nếu không tải được file mới, ta thử đọc trạng thái cũ (stats)
+    // Nhưng không còn lưu questionData đầy đủ nữa
+    alert("Không thể tải dữ liệu từ server. Vui lòng kiểm tra lại kết nối hoặc thư mục cau_hoi.");
     return;
   }
 
-  const localData = localStorage.getItem("questionData");
-  if (localData) {
-    const localQuestions = JSON.parse(localData);
-    const localMap = new Map();
-    localQuestions.forEach(q => {
-      let qText = (q.question || q.cauhoi || "").trim();
-      if (qText) localMap.set(qText, q);
-    });
+  // 1. Chỉ lấy các con số trạng thái từ bộ nhớ (Rất nhẹ)
+  const stats = JSON.parse(localStorage.getItem("questionStats") || "{}");
 
-    fileData.forEach(q => {
-      let qText = (q.question || q.cauhoi || "").trim();
-      if (localMap.has(qText)) {
-        const oldQ = localMap.get(qText);
-        q.weight = oldQ.weight || 1;
-        q.correctCount = oldQ.correctCount || 0;
-        q.wrongCount = oldQ.wrongCount || 0;
-        if(oldQ.fileSource) q.fileSource = oldQ.fileSource;
-      }
-    });
-  }
+  // 2. Map trạng thái vào fileData vừa tải về (RAM)
+  fileData.forEach(q => {
+    let qText = (q.question || q.cauhoi || "").trim();
+    if (stats[qText]) {
+      const s = stats[qText];
+      q.weight = s.w || 1;
+      q.correctCount = s.c || 0;
+      q.wrongCount = s.wr || 0;
+    } else {
+      // Khởi tạo nếu chưa có
+      q.weight = 1;
+      q.correctCount = 0;
+      q.wrongCount = 0;
+    }
+  });
 
   data = fileData;
-  localStorage.setItem("questionData", JSON.stringify(data));
+  
+  // 3. KHÔNG DÙNG localStorage.setItem("questionData", ...) NỮA
+  // Chỉ lưu các con số trạng thái để đồng bộ
+  updateStatsAndSave(); 
+  
   checkLogin();
 }
 
-khoiDongUngDung();
+// Hàm hỗ trợ lưu trạng thái gọn nhẹ
+function updateStatsAndSave() {
+  let stats = {};
+  data.forEach(q => {
+    let qText = (q.question || q.cauhoi || "").trim();
+    stats[qText] = { 
+      w: q.weight || 1, 
+      c: q.correctCount || 0, 
+      wr: q.wrongCount || 0 
+    };
+  });
+  try {
+    localStorage.setItem("questionStats", JSON.stringify(stats));
+  } catch (e) {
+    console.error("Lỗi lưu stats, bộ nhớ đầy:", e);
+  }
+}
 
 // ================= THUẬT TOÁN ĐẢO KHOÁ TRỘN ĐỀ TỐI ĐA =================
 function shuffle(arr) {
