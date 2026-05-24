@@ -1,5 +1,167 @@
 [
     {
+    "question": "Theo Luật Nhà ở 2023, ủy quyền quản lý nhà ở được hiểu là hành vi pháp lý nào sau đây?",
+    "a": "Chủ sở hữu chuyển nhượng quyền sở hữu nhà ở cho một bên thứ ba thông qua văn bản ủy quyền",
+    "b": "Chủ sở hữu ủy quyền cho tổ chức, cá nhân khác thực hiện các quyền và nghĩa vụ của chủ sở hữu trong việc quản lý nhà ở",
+    "c": "Chủ sở hữu giao quyền chiếm hữu nhà ở cho bên khác để thực hiện việc cho thuê lại nhà ở",
+    "d": "Chủ sở hữu ký hợp đồng dịch vụ quản lý vận hành nhà ở với đơn vị quản lý chuyên nghiệp",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 186 Luật Nhà ở 2023, ủy quyền quản lý nhà ở là việc chủ sở hữu ủy quyền cho tổ chức, cá nhân khác thực hiện quyền và nghĩa vụ của chủ sở hữu trong việc quản lý nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc ủy quyền quản lý nhà ở chỉ được áp dụng đối với trường hợp nào?",
+    "a": "Nhà ở hình thành trong tương lai khi đã có giấy phép xây dựng",
+    "b": "Nhà ở đã được nghiệm thu đưa vào sử dụng và đã có giấy chứng nhận quyền sở hữu",
+    "c": "Nhà ở có sẵn",
+    "d": "Tất cả các loại nhà ở, bao gồm cả nhà ở đang trong quá trình xây dựng",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 186 Luật Nhà ở 2023, việc ủy quyền quản lý nhà ở chỉ được thực hiện đối với nhà ở có sẵn."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nội dung và thời hạn ủy quyền quản lý nhà ở được xác định như thế nào?",
+    "a": "Do Ủy ban nhân dân cấp tỉnh quy định theo khung giá quản lý nhà",
+    "b": "Theo quy định tại văn bản hướng dẫn thi hành Luật Nhà ở của Bộ Xây dựng",
+    "c": "Do các bên tự thỏa thuận trong phạm vi pháp luật cho phép",
+    "d": "Do cơ quan quản lý nhà ở tại địa phương quyết định để đảm bảo quản lý thống nhất",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 186 Luật Nhà ở 2023, nội dung và thời hạn ủy quyền quản lý nhà ở do các bên thỏa thuận."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, văn bản ghi nhận nội dung và thời hạn ủy quyền quản lý nhà ở phải được thể hiện dưới hình thức nào?",
+    "a": "Hợp đồng dịch vụ quản lý nhà ở",
+    "b": "Hợp đồng ủy quyền quản lý nhà ở",
+    "c": "Văn bản thỏa thuận quản lý và sử dụng nhà ở",
+    "d": "Hợp đồng dân sự về quản lý tài sản",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 186 Luật Nhà ở 2023, nội dung và thời hạn phải được ghi trong hợp đồng ủy quyền quản lý nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc xác lập, thực hiện và chấm dứt hợp đồng ủy quyền quản lý nhà ở tuân thủ quy định của văn bản pháp luật nào?",
+    "a": "Pháp luật về kinh doanh bất động sản",
+    "b": "Pháp luật về dân sự",
+    "c": "Pháp luật về nhà ở và các quy định hành chính liên quan",
+    "d": "Pháp luật chuyên ngành về quản lý tài sản nhà nước",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 186 Luật Nhà ở 2023, hợp đồng ủy quyền quản lý nhà ở thực hiện theo quy định của pháp luật về dân sự."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nghĩa vụ thanh toán chi phí quản lý nhà ở trong trường hợp ủy quyền được quy định như thế nào?",
+    "a": "Bên nhận ủy quyền có trách nhiệm chi trả toàn bộ chi phí phát sinh trong quá trình quản lý",
+    "b": "Chi phí quản lý do ngân sách nhà nước chi trả nếu nhà ở thuộc sở hữu tư nhân",
+    "c": "Bên ủy quyền phải trả chi phí quản lý, trừ khi các bên có thỏa thuận khác",
+    "d": "Bên ủy quyền và bên nhận ủy quyền phải chia đều chi phí quản lý theo thỏa thuận mặc định",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 186 Luật Nhà ở 2023, bên ủy quyền quản lý nhà ở phải trả chi phí quản lý, trừ trường hợp các bên có thỏa thuận khác."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trong trường hợp nào bên ủy quyền quản lý nhà ở không phải trả chi phí quản lý?",
+    "a": "Khi nhà ở đang trong thời gian có tranh chấp pháp lý",
+    "b": "Khi bên nhận ủy quyền là cơ quan nhà nước có thẩm quyền",
+    "c": "Khi bên ủy quyền có giấy xác nhận hoàn cảnh khó khăn từ UBND cấp xã",
+    "d": "Khi các bên có thỏa thuận khác về việc không trả chi phí quản lý",
+    "answer": "d",
+    "explanation": "Theo khoản 3 Điều 186 Luật Nhà ở 2023, bên ủy quyền phải trả chi phí quản lý, trừ trường hợp các bên có thỏa thuận khác."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, điều kiện tiên quyết để ủy quyền quản lý nhà ở thuộc sở hữu chung hợp nhất là gì?",
+    "a": "Phải có sự đồng ý của cơ quan quản lý nhà ở cấp huyện",
+    "b": "Phải được tất cả các chủ sở hữu nhà ở thuộc sở hữu chung đồng ý",
+    "c": "Chỉ cần đại diện chủ sở hữu hoặc người được ủy quyền đại diện đồng ý",
+    "d": "Phải có văn bản xác nhận không có tranh chấp từ chính quyền địa phương",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 187 Luật Nhà ở 2023, việc ủy quyền quản lý nhà ở thuộc sở hữu chung hợp nhất phải được các chủ sở hữu đồng ý."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, đối với nhà ở thuộc sở hữu chung theo phần, chủ sở hữu có quyền gì?",
+    "a": "Ủy quyền quản lý toàn bộ ngôi nhà mà không cần hỏi ý kiến chủ sở hữu khác",
+    "b": "Ủy quyền quản lý phần nhà ở thuộc quyền sở hữu của mình cho tổ chức, cá nhân khác",
+    "c": "Tự ý phá dỡ phần nhà ở của mình mà không cần thông báo",
+    "d": "Chuyển nhượng quyền sở hữu phần nhà ở của mình cho bất kỳ ai mà không cần tuân thủ quy định về quyền ưu tiên",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 187 Luật Nhà ở 2023, chủ sở hữu chung theo phần có quyền ủy quyền cho tổ chức, cá nhân khác quản lý phần nhà ở thuộc quyền sở hữu của mình."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi ủy quyền quản lý phần nhà ở thuộc sở hữu chung theo phần, chủ sở hữu phải đảm bảo nguyên tắc nào?",
+    "a": "Không được làm ảnh hưởng đến quyền lợi của chủ sở hữu chung khác",
+    "b": "Phải được sự đồng ý bằng văn bản có công chứng của chủ sở hữu khác",
+    "c": "Phải được sự phê duyệt của cơ quan quản lý nhà ở cấp tỉnh",
+    "d": "Không được làm tăng chi phí quản lý chung của toàn bộ ngôi nhà",
+    "answer": "a",
+    "explanation": "Theo khoản 2 Điều 187 Luật Nhà ở 2023, việc ủy quyền không được làm ảnh hưởng đến quyền lợi của chủ sở hữu chung khác."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trách nhiệm của chủ sở hữu nhà ở thuộc sở hữu chung theo phần khi thực hiện ủy quyền quản lý là gì?",
+    "a": "Phải báo cáo với cơ quan thuế địa phương về việc ủy quyền",
+    "b": "Phải niêm yết thông tin ủy quyền tại nơi có nhà ở",
+    "c": "Phải thông báo cho chủ sở hữu khác biết về việc ủy quyền quản lý nhà ở",
+    "d": "Phải xin ý kiến của tổ dân phố nơi có nhà ở",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 187 Luật Nhà ở 2023, chủ sở hữu có trách nhiệm thông báo cho chủ sở hữu khác biết việc ủy quyền quản lý nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc chấm dứt hợp đồng ủy quyền quản lý nhà ở được thực hiện dựa trên cơ sở pháp lý nào?",
+    "a": "Các quy định về quản lý hành chính nhà nước",
+    "b": "Các quy định của pháp luật về dân sự",
+    "c": "Các quy định về trình tự, thủ tục giải quyết tranh chấp đất đai",
+    "d": "Các quy định trong Quy chế quản lý sử dụng nhà ở do Bộ Xây dựng ban hành",
+    "answer": "b",
+    "explanation": "Theo Điều 188 Luật Nhà ở 2023, việc chấm dứt hợp đồng ủy quyền quản lý nhà ở thực hiện theo quy định của pháp luật về dân sự."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, ngoài các bên trong hợp đồng, hợp đồng ủy quyền quản lý nhà ở còn có thể bị chấm dứt theo yêu cầu của chủ thể nào?",
+    "a": "Cơ quan nhà nước có thẩm quyền khi giải quyết tranh chấp, xử lý vi phạm pháp luật về nhà ở",
+    "b": "Ban quản trị nhà chung cư (đối với nhà ở chung cư)",
+    "c": "Tổ chức kiểm toán độc lập khi có yêu cầu giám sát",
+    "d": "Cá nhân có quyền lợi liên quan trực tiếp đến nhà ở",
+    "answer": "a",
+    "explanation": "Theo Điều 188 Luật Nhà ở 2023, hợp đồng có thể chấm dứt theo yêu cầu của cơ quan có thẩm quyền khi giải quyết tranh chấp, xử lý vi phạm pháp luật về nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, thời hạn thực hiện việc ủy quyền quản lý nhà ở được xác định như thế nào?",
+    "a": "Do cơ quan nhà nước có thẩm quyền quy định theo từng loại nhà ở cụ thể",
+    "b": "Theo quy định của pháp luật về quản lý tài sản công",
+    "c": "Trong thời hạn được ủy quyền theo thỏa thuận của các bên",
+    "d": "Tối đa là 05 năm kể từ ngày ký hợp đồng ủy quyền",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 186 Luật Nhà ở 2023, việc ủy quyền quản lý nhà ở được thực hiện trong thời hạn được ủy quyền."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, chủ thể nào được phép nhận ủy quyền quản lý nhà ở từ chủ sở hữu?",
+    "a": "Chỉ các tổ chức kinh doanh dịch vụ quản lý bất động sản được cấp phép",
+    "b": "Chỉ các cá nhân có năng lực hành vi dân sự đầy đủ",
+    "c": "Tổ chức hoặc cá nhân có đủ điều kiện theo quy định của pháp luật",
+    "d": "Chỉ các cơ quan, đơn vị sự nghiệp có chức năng quản lý tài sản công",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 186 Luật Nhà ở 2023, chủ sở hữu có thể ủy quyền cho tổ chức hoặc cá nhân khác quản lý nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, khi thực hiện hợp đồng ủy quyền quản lý nhà ở, bên nhận ủy quyền đại diện cho ai?",
+    "a": "Đại diện cho cơ quan quản lý nhà ở tại địa phương",
+    "b": "Đại diện cho quyền và nghĩa vụ của chủ sở hữu nhà ở",
+    "c": "Đại diện cho ban quản trị nhà chung cư",
+    "d": "Đại diện cho người thuê nhà ở để giải quyết các vấn đề phát sinh",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 186 Luật Nhà ở 2023, bên nhận ủy quyền thực hiện quyền và nghĩa vụ của chủ sở hữu nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, điều kiện để thực hiện ủy quyền quản lý đối với nhà ở thuộc sở hữu chung hợp nhất là gì?",
+    "a": "Phải có sự đồng ý của đa số thành viên là chủ sở hữu nhà ở",
+    "b": "Phải có sự đồng ý của tất cả các chủ sở hữu nhà ở thuộc sở hữu chung",
+    "c": "Phải có văn bản xác nhận của cơ quan quản lý nhà ở cấp tỉnh",
+    "d": "Phải được ít nhất 2/3 tổng số chủ sở hữu đồng ý",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 187 Luật Nhà ở 2023, việc ủy quyền phải được các chủ sở hữu nhà ở thuộc sở hữu chung đồng ý."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp nào sau đây là căn cứ để cơ quan có thẩm quyền yêu cầu chấm dứt hợp đồng ủy quyền quản lý nhà ở?",
+    "a": "Khi phát hiện các bên có sự thay đổi về tư cách pháp nhân của bên ủy quyền",
+    "b": "Khi cơ quan nhà nước cần thu hồi diện tích nhà ở để thực hiện dự án phát triển kinh tế",
+    "c": "Khi giải quyết tranh chấp hoặc xử lý vi phạm pháp luật về nhà ở",
+    "d": "Khi chủ sở hữu nhà ở thay đổi mục đích sử dụng nhà ở",
+    "answer": "c",
+    "explanation": "Theo Điều 188 Luật Nhà ở 2023, việc chấm dứt có thể theo yêu cầu của cơ quan có thẩm quyền khi giải quyết tranh chấp hoặc xử lý vi phạm pháp luật về nhà ở."
+  },
+    {
     "question": "Theo Luật Nhà ở 2023, chủ sở hữu nhà ở là tổ chức được thế chấp nhà ở tại chủ thể nào?",
     "a": "Cá nhân kinh doanh tài chính bất kỳ",
     "b": "Tổ chức tín dụng đang hoạt động tại Việt Nam",
