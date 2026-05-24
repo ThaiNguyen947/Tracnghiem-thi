@@ -143,25 +143,32 @@ async function taiTatCaDuLieuCauHoi() {
 }
 
 // ================= KHỞI ĐỘNG HỆ THỐNG =================
+// ================= HÀM KHỞI ĐỘNG ĐÃ TỐI ƯU CHO IOS =================
 async function khoiDongUngDung() {
   const fileData = await taiTatCaDuLieuCauHoi();
   
-  if (fileData.length === 0) {
-    const localData = localStorage.getItem("questionData");
-    if (localData) {
-      data = JSON.parse(localData);
-      checkLogin();
-    } else {
-      alert("Không tìm thấy dữ liệu câu hỏi trong thư mục cau_hoi! Vui lòng kiểm tra lại cấu trúc thư mục.");
+  // 1. Tải dữ liệu cũ từ bộ nhớ chia nhỏ (để không mất lịch sử weight/đúng/sai)
+  const sourceKeys = JSON.parse(localStorage.getItem("data_sources") || "[]");
+  let localData = [];
+  
+  // Nếu chưa có cache mới (dạng chia nhỏ), thử lấy từ cache cũ (dạng cục bộ)
+  if (sourceKeys.length === 0) {
+    const oldData = localStorage.getItem("questionData");
+    if (oldData) {
+      try { localData = JSON.parse(oldData); } catch(e) { console.error("Lỗi parse cache cũ"); }
     }
-    return;
+  } else {
+    // Lấy từ các chunk chia nhỏ
+    sourceKeys.forEach(s => {
+      const chunk = localStorage.getItem("q_" + s);
+      if (chunk) localData = localData.concat(JSON.parse(chunk));
+    });
   }
 
-  const localData = localStorage.getItem("questionData");
-  if (localData) {
-    const localQuestions = JSON.parse(localData);
+  // 2. Map dữ liệu cũ vào dữ liệu mới từ file
+  if (localData.length > 0) {
     const localMap = new Map();
-    localQuestions.forEach(q => {
+    localData.forEach(q => {
       let qText = (q.question || q.cauhoi || "").trim();
       if (qText) localMap.set(qText, q);
     });
@@ -173,16 +180,38 @@ async function khoiDongUngDung() {
         q.weight = oldQ.weight || 1;
         q.correctCount = oldQ.correctCount || 0;
         q.wrongCount = oldQ.wrongCount || 0;
-        if(oldQ.fileSource) q.fileSource = oldQ.fileSource;
       }
     });
   }
 
+  // Nếu không load được file mới mà cũng không có cache cũ -> báo lỗi
+  if (fileData.length === 0 && localData.length === 0) {
+    alert("Không tìm thấy dữ liệu câu hỏi! Vui lòng kiểm tra lại cấu trúc thư mục.");
+    return;
+  }
+
+  // 3. TỰ ĐỘNG CHIA NHỎ DỮ LIỆU ĐỂ LƯU VÀO IOS (TRÁNH QUOTA EXCEEDED)
+  const grouped = fileData.reduce((acc, q) => {
+    let key = q.fileSource || "default";
+    if(!acc[key]) acc[key] = [];
+    acc[key].push(q);
+    return acc;
+  }, {});
+
+  // Xóa sạch cache cũ để giải phóng bộ nhớ
+  localStorage.removeItem("questionData"); 
+  
+  // Lưu mới vào các key riêng biệt
+  for (let key in grouped) {
+    localStorage.setItem("q_" + key, JSON.stringify(grouped[key]));
+  }
+  localStorage.setItem("data_sources", JSON.stringify(Object.keys(grouped)));
+
   data = fileData;
-  localStorage.setItem("questionData", JSON.stringify(data));
   checkLogin();
 }
 
+// Gọi hàm
 khoiDongUngDung();
 
 // ================= THUẬT TOÁN ĐẢO KHOÁ TRỘN ĐỀ TỐI ĐA =================
