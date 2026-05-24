@@ -1,5 +1,320 @@
 [
     {
+    "question": "Theo Luật Nhà ở 2023, một trong các nội dung quản lý nhà nước về nhà ở là gì?",
+    "a": "Quản lý hộ tịch và cư trú của cư dân trong nhà ở",
+    "b": "Quản lý hồ sơ nhà ở; quản lý quỹ nhà ở thuộc tài sản công; quản lý dự án đầu tư xây dựng nhà ở",
+    "c": "Quản lý quốc tịch và quyền sở hữu nhà ở của người nước ngoài",
+    "d": "Quản lý tài sản, vốn và nguồn nhân lực của doanh nghiệp kinh doanh bất động sản",
+    "answer": "b",
+    "explanation": "Theo khoản 5 Điều 189 Luật Nhà ở 2023, nội dung quản lý nhà nước về nhà ở bao gồm quản lý hồ sơ nhà ở; quản lý quỹ nhà ở thuộc tài sản công; quản lý dự án đầu tư xây dựng nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cơ quan nào là cơ quan đầu mối giúp Chính phủ thống nhất quản lý nhà nước về nhà ở?",
+    "a": "Bộ Tài nguyên và Môi trường",
+    "b": "Bộ Kế hoạch và Đầu tư",
+    "c": "Bộ Xây dựng",
+    "d": "Bộ Nội vụ",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 190 Luật Nhà ở 2023, Bộ Xây dựng là cơ quan đầu mối giúp Chính phủ thống nhất quản lý nhà nước về nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cơ quan nào thực hiện quản lý nhà nước về nhà ở tại địa phương?",
+    "a": "Ủy ban nhân dân các cấp",
+    "b": "Sở Xây dựng và Ủy ban nhân dân cấp xã",
+    "c": "Cơ quan quản lý đất đai cấp tỉnh",
+    "d": "Phòng quản lý đô thị cấp huyện",
+    "answer": "a",
+    "explanation": "Theo khoản 4 Điều 190 Luật Nhà ở 2023, Ủy ban nhân dân các cấp thực hiện quản lý nhà nước về nhà ở tại địa phương."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, Bộ Xây dựng có trách nhiệm ban hành mẫu hợp đồng nào sau đây?",
+    "a": "Hợp đồng thế chấp quyền sử dụng đất và tài sản gắn liền với đất",
+    "b": "Hợp đồng chuyển nhượng quyền sử dụng đất ở",
+    "c": "Hợp đồng mua bán, cho thuê mua, cho thuê nhà ở xã hội, nhà ở phục vụ tái định cư, nhà ở thuộc tài sản công",
+    "d": "Hợp đồng hợp tác kinh doanh giữa các chủ đầu tư dự án nhà ở thương mại",
+    "answer": "c",
+    "explanation": "Theo khoản 4 Điều 191 Luật Nhà ở 2023, Bộ Xây dựng ban hành mẫu hợp đồng mua bán, cho thuê mua, cho thuê nhà ở xã hội, nhà ở phục vụ tái định cư, nhà ở thuộc tài sản công."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, Bộ Xây dựng có trách nhiệm quản lý và lưu trữ hồ sơ nhà ở thuộc tài sản công của cơ quan nào?",
+    "a": "Các doanh nghiệp nhà nước có vốn điều lệ 100%",
+    "b": "Các cơ quan trung ương",
+    "c": "Ủy ban nhân dân các cấp",
+    "d": "Các đơn vị sự nghiệp công lập tại địa phương",
+    "answer": "b",
+    "explanation": "Theo khoản 11 Điều 191 Luật Nhà ở 2023, Bộ Xây dựng quản lý nhà ở, lưu trữ hồ sơ nhà ở thuộc tài sản công của cơ quan trung ương."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, tranh chấp về quyền sở hữu nhà ở do cơ quan nào giải quyết?",
+    "a": "Ủy ban nhân dân cấp xã nơi có nhà ở",
+    "b": "Cơ quan thanh tra xây dựng",
+    "c": "Tòa án hoặc trọng tài thương mại",
+    "d": "Cơ quan đăng ký đất đai có thẩm quyền",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 194 Luật Nhà ở 2023, tranh chấp về quyền sở hữu, quyền sử dụng nhà ở của tổ chức, cá nhân và tranh chấp liên quan đến giao dịch về nhà ở do Tòa án hoặc trọng tài thương mại giải quyết."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, Nhà nước khuyến khích các bên giải quyết tranh chấp về nhà ở thông qua phương thức nào?",
+    "a": "Khởi kiện hành chính tại tòa án",
+    "b": "Hòa giải",
+    "c": "Khiếu nại quyết định hành chính",
+    "d": "Yêu cầu cơ quan quản lý nhà ở cưỡng chế",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 194 Luật Nhà ở 2023, Nhà nước khuyến khích các bên giải quyết tranh chấp về nhà ở thông qua hòa giải."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, tranh chấp liên quan đến giao dịch về nhà ở thuộc thẩm quyền giải quyết của cơ quan nào?",
+    "a": "Ủy ban nhân dân cấp có thẩm quyền nơi giao dịch được ký kết",
+    "b": "Cơ quan công chứng thực hiện hợp đồng",
+    "c": "Tòa án hoặc trọng tài thương mại",
+    "d": "Cơ quan quản lý nhà ở cấp tỉnh",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 194 Luật Nhà ở 2023, tranh chấp liên quan đến giao dịch về nhà ở do Tòa án hoặc trọng tài thương mại giải quyết theo quy định pháp luật."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, tranh chấp về kinh phí quản lý vận hành nhà chung cư có thể do cơ quan nào giải quyết?",
+    "a": "Ủy ban nhân dân cấp huyện",
+    "b": "Sở Xây dựng",
+    "c": "Ban quản trị nhà chung cư",
+    "d": "Bộ Xây dựng",
+    "answer": "a",
+    "explanation": "Theo khoản 4 Điều 194 Luật Nhà ở 2023, tranh chấp về kinh phí quản lý vận hành nhà chung cư có thể do Ủy ban nhân dân cấp huyện giải quyết."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, tổ chức, cá nhân có hành vi vi phạm pháp luật về nhà ở thì tùy theo tính chất, mức độ vi phạm có thể bị xử lý như thế nào?",
+    "a": "Chỉ bị xử phạt vi phạm hành chính theo quy định",
+    "b": "Bị truy cứu trách nhiệm hình sự nếu gây hậu quả nghiêm trọng",
+    "c": "Bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc truy cứu trách nhiệm hình sự",
+    "d": "Chỉ bị buộc bồi thường thiệt hại và khắc phục hậu quả",
+    "answer": "c",
+    "explanation": "Theo Điều 195 Luật Nhà ở 2023, tổ chức, cá nhân vi phạm pháp luật về nhà ở thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, Luật này có hiệu lực thi hành từ ngày nào?",
+    "a": "01/01/2024",
+    "b": "01/07/2024",
+    "c": "01/01/2025",
+    "d": "01/07/2025",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 197 Luật Nhà ở 2023, Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2025."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nhà ở thuộc sở hữu nhà nước theo quy định trước đây được xác định là gì kể từ ngày Luật này có hiệu lực?",
+    "a": "Nhà ở xã hội",
+    "b": "Nhà ở công vụ",
+    "c": "Nhà ở thương mại thuộc sở hữu nhà nước",
+    "d": "Nhà ở thuộc tài sản công",
+    "answer": "d",
+    "explanation": "Theo khoản 3 Điều 197 Luật Nhà ở 2023, nhà ở thuộc sở hữu nhà nước được quy định tại văn bản pháp luật về nhà ở ban hành trước ngày Luật này có hiệu lực thi hành là nhà ở thuộc tài sản công."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp nhà ở riêng lẻ nhiều tầng nhiều căn hộ đã được cấp Giấy chứng nhận cho từng căn hộ trước ngày Luật có hiệu lực thì chủ sở hữu tiếp tục thực hiện quyền và nghĩa vụ theo quy định nào?",
+    "a": "Theo quy định của Luật Nhà ở 2023",
+    "b": "Theo quy định của pháp luật về nhà ở trước ngày Luật này có hiệu lực thi hành",
+    "c": "Theo quy định của Luật Đất đai 2024",
+    "d": "Theo thỏa thuận giữa các chủ sở hữu căn hộ trong tòa nhà",
+    "answer": "b",
+    "explanation": "Theo điểm g khoản 2 Điều 198 Luật Nhà ở 2023, chủ sở hữu tiếp tục thực hiện quyền và nghĩa vụ theo quy định của pháp luật về nhà ở trước ngày Luật này có hiệu lực thi hành."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp nhà ở riêng lẻ nhiều tầng nhiều căn hộ đáp ứng điều kiện pháp luật trước ngày Luật có hiệu lực nhưng chưa được cấp Giấy chứng nhận thì được xử lý như thế nào?",
+    "a": "Không được cấp Giấy chứng nhận do quy định mới đã thay đổi",
+    "b": "Được đề nghị cấp Giấy chứng nhận theo quy định của pháp luật về nhà ở trước đây và pháp luật đất đai",
+    "c": "Phải chuyển đổi thành nhà ở thương mại rồi mới được cấp Giấy chứng nhận",
+    "d": "Chỉ được cơ quan chức năng ghi nhận quyền sở hữu tạm thời",
+    "answer": "b",
+    "explanation": "Theo điểm g khoản 2 Điều 198 Luật Nhà ở 2023, trường hợp đáp ứng yêu cầu theo quy định pháp luật trước ngày Luật có hiệu lực mà chưa được cấp Giấy chứng nhận thì được đề nghị cấp Giấy chứng nhận theo quy định của pháp luật về nhà ở trước đây và pháp luật đất đai."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp nhà ở riêng lẻ nhiều tầng nhiều căn hộ không đáp ứng yêu cầu pháp luật thì có được cấp Giấy chứng nhận riêng cho từng căn hộ không?",
+    "a": "Có, nếu chủ đầu tư nộp đầy đủ các khoản thuế liên quan",
+    "b": "Có, nhưng phải có sự đồng thuận của 100% chủ sở hữu",
+    "c": "Không được cấp Giấy chứng nhận riêng cho từng căn hộ",
+    "d": "Có, nhưng chỉ với thời hạn sở hữu là 50 năm",
+    "answer": "c",
+    "explanation": "Theo điểm g khoản 2 Điều 198 Luật Nhà ở 2023, trường hợp nhà ở không đáp ứng yêu cầu theo quy định pháp luật thì không cấp Giấy chứng nhận riêng cho từng căn hộ."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, việc xử lý giao dịch đối với nhà ở riêng lẻ nhiều tầng nhiều căn hộ không đủ điều kiện được thực hiện theo quy định của pháp luật nào?",
+    "a": "Luật Kinh doanh bất động sản",
+    "b": "Luật Nhà ở 2023",
+    "c": "Bộ luật Dân sự",
+    "d": "Luật Đất đai",
+    "answer": "c",
+    "explanation": "Theo điểm g khoản 2 Điều 198 Luật Nhà ở 2023, việc xử lý giao dịch về nhà ở thực hiện theo quy định của Bộ luật Dân sự."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, kể từ ngày Luật này có hiệu lực, hộ gia đình đã sở hữu nhà ở tham gia quan hệ pháp luật về nhà ở với tư cách gì?",
+    "a": "Với tư cách là hộ gia đình có chung quyền sở hữu",
+    "b": "Với tư cách là cá nhân là thành viên hộ gia đình sở hữu nhà ở",
+    "c": "Với tư cách là đại diện hợp pháp của hộ gia đình",
+    "d": "Với tư cách là tổ chức sở hữu nhà ở",
+    "answer": "b",
+    "explanation": "Theo khoản 7 Điều 198 Luật Nhà ở 2023, kể từ ngày Luật này có hiệu lực, việc tham gia quan hệ pháp luật về nhà ở được thực hiện với tư cách cá nhân là thành viên hộ gia đình sở hữu nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp tranh chấp về quản lý, sử dụng nhà ở thuộc tài sản công được giao cho địa phương quản lý thì cơ quan nào có thẩm quyền giải quyết?",
+    "a": "Bộ Xây dựng hoặc Sở Xây dựng cấp tỉnh",
+    "b": "Ủy ban nhân dân cấp tỉnh nơi có nhà ở thuộc tài sản công",
+    "c": "Tòa án nhân dân cấp huyện nơi có bất động sản",
+    "d": "Cơ quan thanh tra chuyên ngành về nhà ở cấp tỉnh",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 3 Điều 194 Luật Nhà ở 2023, Ủy ban nhân dân cấp tỉnh giải quyết tranh chấp về quản lý, sử dụng nhà ở thuộc tài sản công được giao cho địa phương quản lý."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp tranh chấp về quản lý, sử dụng nhà ở thuộc tài sản công được giao cho cơ quan trung ương quản lý thì cơ quan nào giải quyết?",
+    "a": "Ủy ban nhân dân cấp tỉnh nơi cơ quan đó đặt trụ sở",
+    "b": "Bộ Tài chính hoặc Bộ Xây dựng",
+    "c": "Bộ Xây dựng, trừ nhà ở do Bộ Quốc phòng, Bộ Công an quản lý",
+    "d": "Văn phòng Chính phủ phối hợp cùng Bộ Xây dựng",
+    "answer": "c",
+    "explanation": "Theo điểm b khoản 3 Điều 194 Luật Nhà ở 2023, Bộ Xây dựng giải quyết đối với nhà ở được giao cho cơ quan trung ương quản lý, trừ nhà ở do Bộ Quốc phòng, Bộ Công an quản lý."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, trường hợp tranh chấp về quản lý, sử dụng nhà ở do Bộ Quốc phòng hoặc Bộ Công an quản lý thì cơ quan nào có thẩm quyền giải quyết?",
+    "a": "Ủy ban nhân dân cấp tỉnh nơi nhà ở tọa lạc",
+    "b": "Bộ Xây dựng theo chức năng quản lý nhà nước về nhà ở",
+    "c": "Tòa án nhân dân cấp có thẩm quyền",
+    "d": "Bộ Quốc phòng hoặc Bộ Công an",
+    "answer": "d",
+    "explanation": "Theo điểm c khoản 3 Điều 194 Luật Nhà ở 2023, Bộ Quốc phòng, Bộ Công an giải quyết đối với nhà ở do Bộ Quốc phòng, Bộ Công an quản lý."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nội dung nào sau đây thuộc quản lý nhà nước về nhà ở?",
+    "a": "Quản lý hệ thống đăng ký kinh doanh bất động sản",
+    "b": "Phân hạng nhà chung cư",
+    "c": "Đăng ký quốc tịch cho cư dân tại dự án nhà ở",
+    "d": "Đăng kiểm kỹ thuật phương tiện giao thông tại các tòa nhà",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 189 Luật Nhà ở 2023, nội dung quản lý nhà nước về nhà ở bao gồm phân hạng nhà chung cư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, nội dung nào sau đây thuộc quản lý nhà nước về nhà ở?",
+    "a": "Điều tra, thống kê, xây dựng hệ thống cơ sở dữ liệu, thông tin về nhà ở",
+    "b": "Quản lý dữ liệu dân cư quốc gia trên nền tảng số",
+    "c": "Quản lý cấp giấy chứng nhận đăng ký doanh nghiệp kinh doanh nhà ở",
+    "d": "Quản lý hồ sơ hộ tịch và cư trú của công dân",
+    "answer": "a",
+    "explanation": "Theo khoản 6 Điều 189 Luật Nhà ở 2023, nội dung quản lý nhà nước về nhà ở bao gồm điều tra, thống kê, xây dựng hệ thống cơ sở dữ liệu, thông tin về nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cơ quan nào thống nhất quản lý nhà nước về nhà ở trong phạm vi cả nước?",
+    "a": "Bộ Xây dựng",
+    "b": "Quốc hội",
+    "c": "Chính phủ",
+    "d": "Bộ Tư pháp",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 190 Luật Nhà ở 2023, Chính phủ thống nhất quản lý nhà nước về nhà ở trong phạm vi cả nước."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, Bộ Xây dựng có trách nhiệm xác định chỉ tiêu cơ bản về phát triển nhà ở trong nhiệm vụ phát triển nào?",
+    "a": "Phát triển công nghiệp quốc phòng",
+    "b": "Phát triển kinh tế - xã hội từng giai đoạn",
+    "c": "Phát triển dịch vụ xuất khẩu hàng hóa",
+    "d": "Phát triển quy mô dân số và di cư",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 191 Luật Nhà ở 2023, Bộ Xây dựng xác định chỉ tiêu cơ bản về phát triển nhà ở trong nhiệm vụ phát triển kinh tế - xã hội từng giai đoạn."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, Bộ Xây dựng có trách nhiệm trình Thủ tướng Chính phủ ban hành nội dung nào liên quan đến nhà ở công vụ?",
+    "a": "Khung giá đất và bảng giá đất hàng năm",
+    "b": "Tiêu chuẩn, định mức nhà ở công vụ",
+    "c": "Quy hoạch chi tiết sử dụng đất công cộng",
+    "d": "Thuế chuyển nhượng và thuế thu nhập từ nhà ở",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 5 Điều 191 Luật Nhà ở 2023, Bộ Xây dựng xây dựng, trình Thủ tướng Chính phủ ban hành tiêu chuẩn, định mức nhà ở công vụ."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, Bộ Xây dựng có trách nhiệm hướng dẫn việc nào sau đây?",
+    "a": "Thủ tục đăng ký kết hôn và xác nhận tình trạng hôn nhân",
+    "b": "Kiểm định, đánh giá các yếu tố để xác định chất lượng nhà chung cư",
+    "c": "Cấp giấy phép kinh doanh cho các doanh nghiệp xây dựng",
+    "d": "Quản lý việc đăng ký hộ khẩu thường trú",
+    "answer": "b",
+    "explanation": "Theo khoản 6 Điều 191 Luật Nhà ở 2023, Bộ Xây dựng hướng dẫn việc kiểm định, đánh giá các yếu tố để xác định chất lượng nhà chung cư."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, Bộ Xây dựng có thẩm quyền thẩm định nội dung liên quan đến nhà ở đối với dự án thuộc thẩm quyền quyết định hoặc chấp thuận chủ trương đầu tư của ai?",
+    "a": "Ủy ban nhân dân cấp xã",
+    "b": "Bộ Tư pháp",
+    "c": "Thủ tướng Chính phủ",
+    "d": "Hội đồng nhân dân cấp tỉnh",
+    "answer": "c",
+    "explanation": "Theo khoản 7 Điều 191 Luật Nhà ở 2023, Bộ Xây dựng thẩm định nội dung liên quan đến nhà ở đối với dự án thuộc thẩm quyền quyết định hoặc chấp thuận chủ trương đầu tư của Thủ tướng Chính phủ."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, Bộ Xây dựng có trách nhiệm kiểm tra việc dành quỹ đất để phát triển loại nhà ở nào sau đây?",
+    "a": "Nhà ở xã hội",
+    "b": "Nhà ở thương mại phân khúc cao cấp",
+    "c": "Biệt thự nghỉ dưỡng và nhà ở kết hợp dịch vụ",
+    "d": "Nhà ở du lịch (condotel)",
+    "answer": "a",
+    "explanation": "Theo khoản 9 Điều 191 Luật Nhà ở 2023, Bộ Xây dựng kiểm tra việc dành quỹ đất để phát triển nhà ở xã hội."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, Bộ Xây dựng có trách nhiệm công khai danh mục đơn vị đủ điều kiện quản lý vận hành nhà chung cư ở đâu?",
+    "a": "Cổng thông tin điện tử của Bộ Xây dựng",
+    "b": "Cổng thông tin điện tử Chính phủ",
+    "c": "Trang thông tin điện tử của Hiệp hội Bất động sản",
+    "d": "Trang thông tin của Tòa án nhân dân tối cao",
+    "answer": "a",
+    "explanation": "Theo khoản 14 Điều 191 Luật Nhà ở 2023, Bộ Xây dựng công khai danh mục đơn vị đủ điều kiện quản lý vận hành nhà chung cư trên Cổng thông tin điện tử của Bộ Xây dựng."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, cơ quan nào thực hiện chức năng thanh tra chuyên ngành về nhà ở?",
+    "a": "Thanh tra xây dựng thuộc Bộ Xây dựng và cơ quan quản lý nhà ở cấp tỉnh",
+    "b": "Cơ quan công chứng nhà nước",
+    "c": "Viện kiểm sát nhân dân các cấp",
+    "d": "Cơ quan thi hành án dân sự cấp tỉnh",
+    "answer": "a",
+    "explanation": "Theo khoản 1 Điều 192 Luật Nhà ở 2023, Thanh tra xây dựng thuộc Bộ Xây dựng và cơ quan quản lý nhà ở cấp tỉnh thực hiện chức năng thanh tra chuyên ngành về nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, công chức, viên chức làm việc trong lĩnh vực quản lý, phát triển nhà ở phải tham gia nội dung nào?",
+    "a": "Khóa đào tạo bồi dưỡng về an ninh quốc phòng",
+    "b": "Khóa đào tạo, bồi dưỡng chuyên môn nghiệp vụ về phát triển, quản lý nhà ở",
+    "c": "Chương trình đào tạo kỹ năng công nghệ thông tin bắt buộc",
+    "d": "Khóa đào tạo nghiệp vụ quản lý hộ tịch",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 193 Luật Nhà ở 2023, công chức, viên chức làm việc trong lĩnh vực quản lý, phát triển nhà ở phải tham gia khóa đào tạo, bồi dưỡng chuyên môn, nghiệp vụ về phát triển, quản lý nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, Bộ trưởng Bộ Xây dựng có trách nhiệm ban hành nội dung nào?",
+    "a": "Chương trình đào tạo luật sư chuyên ngành bất động sản",
+    "b": "Chương trình đào tạo công chứng viên",
+    "c": "Chương trình đào tạo, bồi dưỡng chuyên môn nghiệp vụ về phát triển, quản lý nhà ở",
+    "d": "Chương trình đào tạo thẩm phán và kiểm sát viên",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 193 Luật Nhà ở 2023, Bộ trưởng Bộ Xây dựng ban hành chương trình, nội dung đào tạo, bồi dưỡng chuyên môn, nghiệp vụ về phát triển, quản lý nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, tranh chấp về quản lý, sử dụng nhà ở thuộc tài sản công có thể do Tòa án giải quyết theo quy định của pháp luật nào?",
+    "a": "Pháp luật tố tụng dân sự",
+    "b": "Pháp luật tố tụng hành chính",
+    "c": "Pháp luật hình sự",
+    "d": "Pháp luật lao động",
+    "answer": "b",
+    "explanation": "Theo điểm d khoản 3 Điều 194 Luật Nhà ở 2023, Tòa án giải quyết theo quy định của pháp luật về tố tụng hành chính."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, Chính phủ quy định chi tiết nội dung nào của Điều 194?",
+    "a": "Khoản 1 quy định về khuyến khích hòa giải",
+    "b": "Khoản 2 quy định về thẩm quyền giải quyết tranh chấp sở hữu",
+    "c": "Khoản 3 quy định về thẩm quyền giải quyết tranh chấp nhà ở thuộc tài sản công",
+    "d": "Khoản 4 quy định về tranh chấp kinh phí quản lý vận hành",
+    "answer": "c",
+    "explanation": "Theo khoản 5 Điều 194 Luật Nhà ở 2023, Chính phủ quy định chi tiết khoản 3 Điều này."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, Luật Nhà ở 2014 hết hiệu lực kể từ thời điểm nào?",
+    "a": "Ngày Quốc hội chính thức thông qua Luật Nhà ở 2023",
+    "b": "Ngày 01 tháng 01 năm 2024",
+    "c": "Ngày Luật Nhà ở 2023 có hiệu lực thi hành",
+    "d": "Ngày 01 tháng 07 năm 2025",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 197 Luật Nhà ở 2023, Luật Nhà ở 2014 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
+  },
+    {
     "question": "Theo Luật Nhà ở 2023, ủy quyền quản lý nhà ở được hiểu là hành vi pháp lý nào sau đây?",
     "a": "Chủ sở hữu chuyển nhượng quyền sở hữu nhà ở cho một bên thứ ba thông qua văn bản ủy quyền",
     "b": "Chủ sở hữu ủy quyền cho tổ chức, cá nhân khác thực hiện các quyền và nghĩa vụ của chủ sở hữu trong việc quản lý nhà ở",
