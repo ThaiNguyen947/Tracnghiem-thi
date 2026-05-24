@@ -307,6 +307,11 @@ function startExam() {
     // Tiến hành xáo trộn vị trí mảng đáp án
     let shuffled = shuffle(originalOptions);
 
+    // THÊM ĐOẠN KIỂM TRA ĐỂ TRÁNH SAI SÓT DỮ LIỆU
+    if (!['a', 'b', 'c', 'd'].includes(rawCorrectKey)) {
+        console.warn("Cảnh báo: Câu hỏi có key đáp án không hợp lệ!", clonedQ.question);
+    }
+
     // Tìm vị trí mới chính xác tuyệt đối sau khi trộn
     let newCorrectIndex = shuffled.findIndex(opt => opt.key === rawCorrectKey);
     let indexToLetter = ['a', 'b', 'c', 'd'];
@@ -323,7 +328,6 @@ function startExam() {
   render();
   startTimer();
 }
-
 // ================= HIỂN THỊ CÂU HỎI VÀ ĐÁP ÁN =================
 function render() {
   if (questions.length === 0 || !questions[index]) {
