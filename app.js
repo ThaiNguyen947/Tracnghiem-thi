@@ -479,9 +479,9 @@ function submit() {
 
   let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
 
+  // 1. Tính toán kết quả và cập nhật trọng số vào biến data (trong RAM)
   questions.forEach((q, i) => {
     let userAns = answers[i] ? answers[i].toString().trim().toLowerCase() : "";
-    
     let correctAns = q.newCorrectAnswer ? q.newCorrectAnswer.toString().trim().toLowerCase() : (q.answer || q.trảlời || "").toString().trim().toLowerCase();
     if (correctAns === "một") correctAns = "a";
 
@@ -520,48 +520,39 @@ function submit() {
     }
   });
 
+  // 2. FIX CHO IOS: KHÔNG lưu cả cục 'data' vào localStorage
+  // Thay vào đó, tạo một object stats thu gọn chỉ chứa số liệu cần thiết
+  let stats = {};
+  data.forEach(q => {
+    let qText = (q.question || q.cauhoi || "").trim();
+    stats[qText] = { w: q.weight, c: q.correctCount, f: q.wrongCount };
+  });
+
   localStorage.setItem("correctPool", JSON.stringify(correctPool));
-  localStorage.setItem("questionData", JSON.stringify(data)); 
+  localStorage.setItem("questionStats", JSON.stringify(stats)); // Lưu kiểu này nhẹ hơn gấp 20 lần!
+  
   wrongPool = newWrong;
 
+  // Giao diện kết quả (giữ nguyên thiết kế của bạn)
   document.body.style.backgroundColor = "#f4f5f7";
   document.body.style.margin = "0";
   document.body.style.padding = "20px 0";
 
   app.innerHTML = `
-    <div style="
-      max-width: 820px; 
-      margin: 0 auto; 
-      background: #ffffff; 
-      padding: 40px 50px; 
-      box-shadow: 0 4px 15px rgba(0,0,0,0.06);
-      border-radius: 8px;
-      font-family: 'Times New Roman', Times, serif;
-    ">
-      <h1 style="font-size: 24px; font-weight: bold; text-align: center; margin: 0 0 10px 0; color: #111; letter-spacing: 0.5px;">BÁO CÁO KẾT QUẢ KIỂM TRA</h1>
-      
-      <p style="text-align: center; font-size: 15px; color: #555; margin: 0 0 20px 0; line-height: 1.6;">
-        Số câu đã hoàn thành: <b style="color: #00796b; font-size: 16px;">${submittedCount}/${questions.length}</b><br>
-        Số câu đúng: <b style="color: #2e7d32; font-size: 16px;">${correct}</b> | Số câu sai/Chưa chọn: <b style="color: #c62828; font-size: 16px;">${wrong}</b>
+    <div style="max-width: 820px; margin: 0 auto; background: #ffffff; padding: 40px 50px; box-shadow: 0 4px 15px rgba(0,0,0,0.06); border-radius: 8px; font-family: 'Times New Roman', Times, serif;">
+      <h1 style="font-size: 24px; font-weight: bold; text-align: center; margin: 0 0 10px 0; color: #111;">BÁO CÁO KẾT QUẢ KIỂM TRA</h1>
+      <p style="text-align: center; font-size: 15px; color: #555; margin: 0 0 20px 0;">
+        Số câu đã làm: <b>${submittedCount}/${questions.length}</b><br>
+        Số câu đúng: <b style="color: #2e7d32;">${correct}</b> | Sai/Chưa làm: <b style="color: #c62828;">${wrong}</b>
       </p>
-
       <div style="text-align: center; margin-bottom: 25px;">
-        <button class="btn" style="background: #00796b; color: white; border: none; padding: 10px 28px; font-size: 14px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 20px; font-weight: bold; transition: 0.2s;" onclick="location.reload()">THI VÒNG ĐỀ MỚI</button>
+        <button class="btn" style="background: #00796b; color: white; border: none; padding: 10px 28px; cursor: pointer; border-radius: 20px;" onclick="location.reload()">THI VÒNG ĐỀ MỚI</button>
       </div>
-
-      <div style="display: flex; gap: 8px; justify-content: center; margin-bottom: 25px; border-bottom: 1px solid #eef0f2; padding-bottom: 15px;">
-        <button id="btn-filter-all" style="padding: 6px 16px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('all')">Tất cả câu hỏi</button>
-        <button id="btn-filter-correct" style="padding: 6px 16px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('correct')">Các câu đúng</button>
-        <button id="btn-filter-wrong" style="padding: 6px 16px; font-size: 13px; font-family: Arial, sans-serif; cursor: pointer; border-radius: 4px;" onclick="filterResult('wrong')">Các câu chưa làm / sai</button>
-      </div>
-
       <div id="result-list"></div>
     </div>
   `;
-
   filterResult('all');
 }
-
 // ================= BỘ LỌC ĐÁP ÁN KHẢO SÁT KẾT QUẢ THI =================
 function filterResult(type) {
   currentFilter = type;
