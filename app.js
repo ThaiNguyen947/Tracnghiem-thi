@@ -114,22 +114,37 @@ function checkLogin() {
   let deviceId = getDeviceId();
   let sessions = JSON.parse(localStorage.getItem("loginSessions") || "{}");
 
+  // 1. Nếu chưa đăng nhập thì hiện login
   if (!user) {
     showLogin();
     return;
   }
 
+  // 2. Kiểm tra nếu là user thường
   if (user.role !== "admin") {
-    if (sessions[user.username] !== deviceId) {
-      alert("Phiên đăng nhập hết hạn (thiết bị khác đã đăng nhập)!");
+    let userSession = sessions[user.username];
+
+    // Kiểm tra xem có tồn tại session và đã bị khóa chưa
+    if (userSession && userSession.isLocked) {
+      alert("TÀI KHOẢN ĐÃ BỊ KHÓA VĨNH VIỄN. Vui lòng liên hệ Admin!");
+      localStorage.removeItem("user");
+      showLogin();
+      return;
+    }
+
+    // Kiểm tra đăng nhập chéo: Session tồn tại nhưng deviceId không khớp
+    if (userSession && userSession.deviceId !== deviceId) {
+      alert("Phiên đăng nhập không hợp lệ (Phát hiện đăng nhập trái phép)!");
       localStorage.removeItem("user");
       showLogin();
       return;
     }
   }
 
+  // 3. Nếu mọi thứ hợp lệ, vào thi
   document.getElementById("loginBox").style.display = "none";
   document.getElementById("app").style.display = "block";
+  
   enableProtectionForSubAccounts();
   startExam();
 }
@@ -708,4 +723,18 @@ function enableProtectionForSubAccounts() {
     let appEl = document.getElementById("app");
     if (appEl) appEl.style.filter = "none";
   });
+}
+// ... (Các hàm khác của bạn như startExam, submit, v.v.) ...
+
+// Thêm đoạn này vào cuối file:
+function resetUserStatus(username) {
+  let sessions = JSON.parse(localStorage.getItem("loginSessions") || "{}");
+  if(sessions[username]) {
+     delete sessions[username];
+     localStorage.setItem("loginSessions", JSON.stringify(sessions));
+     console.log("Đã reset hoàn toàn tài khoản: " + username);
+     alert("Đã reset hoàn toàn tài khoản: " + username);
+  } else {
+     alert("Không tìm thấy tài khoản này trong hệ thống!");
+  }
 }
