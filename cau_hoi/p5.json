@@ -1,5 +1,392 @@
 [
    {
+    "question": "Theo BLTTDS 2015, văn bản công chứng có giá trị pháp lý như thế nào khi được Tòa án xem xét?",
+    "a": "Là chứng cứ không thể bị phản bác",
+    "b": "Là chứng cứ nhưng có thể bị đánh giá lại",
+    "c": "Không có giá trị chứng cứ",
+    "d": "Chỉ có giá trị khi các bên thừa nhận",
+    "answer": "b",
+    "explanation": "Theo BLTTDS 2015, chứng cứ do đương sự cung cấp, bao gồm văn bản công chứng, đều được Tòa án xem xét, đánh giá theo nguyên tắc toàn diện và khách quan. Vì vậy nó có giá trị chứng cứ nhưng không mang tính tuyệt đối."
+  },
+  {
+    "question": "Ai có quyền yêu cầu Tòa án tuyên bố văn bản công chứng vô hiệu?",
+    "a": "Chỉ công chứng viên",
+    "b": "Chỉ cơ quan nhà nước",
+    "c": "Người có quyền lợi, nghĩa vụ liên quan hoặc cơ quan, tổ chức, cá nhân có quyền yêu cầu",
+    "d": "Chỉ Viện kiểm sát",
+    "answer": "c",
+    "explanation": "BLTTDS quy định quyền khởi kiện, yêu cầu thuộc về người có quyền lợi, nghĩa vụ liên quan hoặc chủ thể có quyền, không giới hạn riêng công chứng viên hay cơ quan nhà nước."
+  },
+  {
+    "question": "Trong tố tụng dân sự, nghĩa vụ chứng minh thuộc về ai?",
+    "a": "Tòa án",
+    "b": "Đương sự",
+    "c": "Công chứng viên",
+    "d": "Viện kiểm sát",
+    "answer": "b",
+    "explanation": "Nguyên tắc cơ bản của BLTTDS là 'đương sự có nghĩa vụ chứng minh cho yêu cầu của mình là có căn cứ và hợp pháp'. Tòa án chỉ thu thập bổ sung trong trường hợp luật cho phép."
+  },
+  {
+    "question": "Tòa án có quyền yêu cầu công chứng viên cung cấp hồ sơ công chứng không?",
+    "a": "Không bao giờ",
+    "b": "Chỉ khi công chứng viên đồng ý",
+    "c": "Có, khi cần thiết để giải quyết vụ án",
+    "d": "Chỉ khi có quyết định của Bộ Tư pháp",
+    "answer": "c",
+    "explanation": "Tòa án có quyền yêu cầu cơ quan, tổ chức, cá nhân cung cấp tài liệu chứng cứ phục vụ giải quyết vụ án, trong đó có hồ sơ công chứng."
+  },
+  {
+    "question": "Chứng cứ trong tố tụng dân sự được hiểu là gì?",
+    "a": "Chỉ lời khai của đương sự",
+    "b": "Tài liệu, vật chứng, lời khai và nguồn khác theo luật",
+    "c": "Chỉ tài liệu có công chứng",
+    "d": "Chỉ tài liệu do Tòa án thu thập",
+    "answer": "b",
+    "explanation": "BLTTDS định nghĩa chứng cứ bao gồm nhiều nguồn: tài liệu, vật chứng, lời khai, kết luận giám định, dữ liệu điện tử… không chỉ giới hạn ở văn bản công chứng."
+  },
+  {
+    "question": "Văn bản công chứng bị tuyên vô hiệu khi nào?",
+    "a": "Khi một bên không đồng ý",
+    "b": "Khi Tòa án có bản án tuyên vô hiệu",
+    "c": "Khi công chứng viên bị thay đổi",
+    "d": "Khi có yêu cầu của UBND",
+    "answer": "b",
+    "explanation": "Chỉ Tòa án có thẩm quyền ra bản án/quyết định tuyên văn bản công chứng vô hiệu khi có căn cứ pháp luật."
+  },
+  {
+    "question": "Nguyên tắc 'bình đẳng trước pháp luật' trong BLTTDS có nghĩa là gì?",
+    "a": "Chỉ nguyên đơn bình đẳng",
+    "b": "Các bên có quyền và nghĩa vụ ngang nhau trong tố tụng",
+    "c": "Tòa án ưu tiên nguyên đơn",
+    "d": "Bị đơn luôn có lợi thế",
+    "answer": "b",
+    "explanation": "BLTTDS đảm bảo các bên tham gia tố tụng đều bình đẳng về quyền và nghĩa vụ, không bên nào được ưu tiên."
+  },
+  {
+    "question": "Công chứng viên trong tố tụng dân sự thường được xem là gì?",
+    "a": "Đương sự",
+    "b": "Người làm chứng hoặc người cung cấp chứng cứ",
+    "c": "Thẩm phán",
+    "d": "Kiểm sát viên",
+    "answer": "b",
+    "explanation": "Công chứng viên không phải đương sự trong vụ án mà thường tham gia với tư cách người cung cấp hồ sơ, tài liệu hoặc người làm chứng về quy trình công chứng."
+  },
+  {
+    "question": "Tòa án khi đánh giá chứng cứ có bị ràng buộc bởi giá trị của văn bản công chứng không?",
+    "a": "Có, luôn phải công nhận",
+    "b": "Không, Tòa án đánh giá toàn diện chứng cứ",
+    "c": "Chỉ công nhận nếu công chứng viên xác nhận",
+    "d": "Chỉ công nhận nếu có 2 bản",
+    "answer": "b",
+    "explanation": "BLTTDS quy định Tòa án đánh giá chứng cứ theo nguyên tắc toàn diện, không có loại chứng cứ nào mang tính bắt buộc tuyệt đối."
+  },
+  {
+    "question": "Trong tố tụng dân sự, Tòa án có được tự thu thập chứng cứ không?",
+    "a": "Không bao giờ",
+    "b": "Chỉ khi đương sự yêu cầu",
+    "c": "Có trong trường hợp luật định",
+    "d": "Chỉ khi vụ án hình sự",
+    "answer": "c",
+    "explanation": "BLTTDS cho phép Tòa án thu thập chứng cứ trong trường hợp đương sự không thể tự thu thập hoặc theo yêu cầu của pháp luật."
+  },
+  {
+    "question": "Hồ sơ công chứng khi Tòa án yêu cầu cung cấp thuộc loại gì?",
+    "a": "Không phải chứng cứ",
+    "b": "Là tài liệu chứng cứ",
+    "c": "Chỉ là tài liệu nội bộ",
+    "d": "Không được sử dụng",
+    "answer": "b",
+    "explanation": "Hồ sơ công chứng là tài liệu chứng cứ hợp pháp nếu được thu thập đúng trình tự, có thể dùng trong tố tụng dân sự."
+  },
+  {
+    "question": "Nguyên tắc xét xử trong BLTTDS có ảnh hưởng gì đến công chứng?",
+    "a": "Công chứng quyết định kết quả vụ án",
+    "b": "Tòa án độc lập đánh giá công chứng như chứng cứ",
+    "c": "Công chứng viên có quyền quyết định vụ án",
+    "d": "Không liên quan",
+    "answer": "b",
+    "explanation": "Tòa án độc lập và chỉ xem văn bản công chứng như một loại chứng cứ, không bị ràng buộc tuyệt đối."
+  },
+  {
+    "question": "Ai có quyền yêu cầu cung cấp chứng cứ trong tố tụng dân sự?",
+    "a": "Chỉ Tòa án",
+    "b": "Đương sự và Tòa án trong phạm vi luật định",
+    "c": "Chỉ công chứng viên",
+    "d": "Chỉ UBND",
+    "answer": "b",
+    "explanation": "Đương sự có quyền thu thập, giao nộp chứng cứ; Tòa án có quyền yêu cầu cung cấp khi cần thiết."
+  },
+  {
+    "question": "Văn bản công chứng có phải là chứng cứ bắt buộc Tòa án phải chấp nhận không?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Chỉ khi có xác nhận của Bộ Tư pháp",
+    "d": "Chỉ trong vụ án đất đai",
+    "answer": "b",
+    "explanation": "BLTTDS không quy định chứng cứ nào mang tính bắt buộc tuyệt đối; Tòa án đánh giá theo toàn diện."
+  },
+  {
+    "question": "Khi có tranh chấp liên quan đến hợp đồng công chứng, Tòa án dựa vào gì để giải quyết?",
+    "a": "Chỉ lời khai",
+    "b": "Chứng cứ trong hồ sơ vụ án, bao gồm văn bản công chứng",
+    "c": "Chỉ ý kiến công chứng viên",
+    "d": "Chỉ quyết định hành chính",
+    "answer": "b",
+    "explanation": "Tòa án xem xét toàn bộ chứng cứ, trong đó văn bản công chứng là một nguồn quan trọng nhưng không duy nhất."
+  },
+  {
+    "question": "Người làm chứng trong BLTTDS là ai?",
+    "a": "Người ký hợp đồng",
+    "b": "Người biết sự việc liên quan vụ án",
+    "c": "Công chứng viên bắt buộc",
+    "d": "Thẩm phán",
+    "answer": "b",
+    "explanation": "Người làm chứng là người biết trực tiếp tình tiết vụ án và có thể cung cấp lời khai."
+  },
+  {
+    "question": "Trong tố tụng dân sự, công chứng viên có nghĩa vụ gì khi bị triệu tập?",
+    "a": "Không cần tham gia",
+    "b": "Có thể từ chối",
+    "c": "Phải cung cấp thông tin, hồ sơ theo yêu cầu hợp pháp",
+    "d": "Chỉ cần gửi email trả lời",
+    "answer": "c",
+    "explanation": "Cơ quan, tổ chức, cá nhân có nghĩa vụ cung cấp tài liệu, chứng cứ khi Tòa án yêu cầu hợp pháp."
+  },
+  {
+    "question": "BLTTDS quy định chứng cứ phải đảm bảo nguyên tắc nào?",
+    "a": "Bí mật tuyệt đối",
+    "b": "Khách quan, hợp pháp và liên quan",
+    "c": "Do một bên cung cấp là đủ",
+    "d": "Không cần kiểm tra",
+    "answer": "b",
+    "explanation": "Chứng cứ phải hợp pháp, khách quan và có liên quan trực tiếp đến vụ án."
+  },
+  {
+    "question": "Tòa án có thể bác bỏ văn bản công chứng không?",
+    "a": "Không",
+    "b": "Có nếu không phù hợp chứng cứ khác",
+    "c": "Chỉ khi công chứng viên đồng ý",
+    "d": "Chỉ khi có nghị định",
+    "answer": "b",
+    "explanation": "Tòa án có quyền đánh giá và bác bỏ giá trị chứng minh nếu có căn cứ chứng minh ngược lại."
+  },
+  {
+    "question": "Trong BLTTDS, chứng cứ điện tử có được công nhận không?",
+    "a": "Không",
+    "b": "Có",
+    "c": "Chỉ khi in ra giấy",
+    "d": "Chỉ trong hình sự",
+    "answer": "b",
+    "explanation": "BLTTDS công nhận dữ liệu điện tử là một nguồn chứng cứ hợp pháp."
+  },
+  {
+    "question": "Khi nào Tòa án phải thu thập chứng cứ thay đương sự?",
+    "a": "Luôn luôn",
+    "b": "Khi đương sự không thể tự thu thập theo quy định",
+    "c": "Không bao giờ",
+    "d": "Khi công chứng viên yêu cầu",
+    "answer": "b",
+    "explanation": "Tòa án chỉ hỗ trợ thu thập chứng cứ trong trường hợp đương sự không thể tự thực hiện hoặc luật quy định."
+  },
+  {
+    "question": "Văn bản công chứng có giá trị chứng minh gì?",
+    "a": "Không có giá trị",
+    "b": "Chứng minh nội dung giao dịch được xác lập",
+    "c": "Chỉ mang tính tham khảo",
+    "d": "Chỉ có giá trị nội bộ",
+    "answer": "b",
+    "explanation": "Văn bản công chứng chứng minh về việc giao kết, xác lập giao dịch, nhưng vẫn có thể bị tranh chấp và xem xét lại."
+  },
+  {
+    "question": "Trong tố tụng dân sự, Tòa án có bị ràng buộc bởi kết luận của công chứng viên không?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Chỉ khi có chữ ký 2 công chứng viên",
+    "d": "Chỉ khi có xác nhận UBND",
+    "answer": "b",
+    "explanation": "Tòa án độc lập và chỉ xem công chứng là một nguồn chứng cứ, không bị ràng buộc."
+  },
+  {
+    "question": "Theo BLTTDS 2015, đương sự có thể ủy quyền cho người khác tham gia tố tụng không?",
+    "a": "Không được ủy quyền trong mọi trường hợp",
+    "b": "Được ủy quyền theo quy định của pháp luật",
+    "c": "Chỉ được ủy quyền cho luật sư",
+    "d": "Chỉ được ủy quyền cho người thân",
+    "answer": "b",
+    "explanation": "BLTTDS 2015 cho phép đương sự ủy quyền cho người đại diện tham gia tố tụng nếu không thuộc trường hợp pháp luật cấm hoặc bắt buộc phải tự tham gia."
+  },
+  {
+    "question": "Trường hợp nào sau đây KHÔNG được ủy quyền tham gia tố tụng?",
+    "a": "Tranh chấp hợp đồng mua bán",
+    "b": "Tranh chấp bồi thường thiệt hại tài sản",
+    "c": "Ly hôn",
+    "d": "Tranh chấp vay tài sản",
+    "answer": "c",
+    "explanation": "Ly hôn là quan hệ nhân thân đặc biệt, đòi hỏi sự thể hiện ý chí trực tiếp của vợ hoặc chồng nên không được ủy quyền toàn bộ."
+  },
+  {
+    "question": "Vì sao ly hôn không được ủy quyền toàn bộ?",
+    "a": "Vì liên quan tài sản",
+    "b": "Vì cần xác định ý chí cá nhân của đương sự",
+    "c": "Vì Tòa án không cho phép",
+    "d": "Vì phải có luật sư",
+    "answer": "b",
+    "explanation": "Ly hôn liên quan trực tiếp đến quyền nhân thân nên phải xác định ý chí thật sự của đương sự."
+  },
+  {
+    "question": "Trong tố tụng dân sự, người đại diện theo ủy quyền có thể thực hiện mọi quyền của đương sự không?",
+    "a": "Có trong mọi trường hợp",
+    "b": "Không, chỉ trong phạm vi ủy quyền và pháp luật cho phép",
+    "c": "Chỉ được nộp đơn khởi kiện",
+    "d": "Chỉ được tham gia phiên tòa",
+    "answer": "b",
+    "explanation": "Người đại diện theo ủy quyền chỉ được thực hiện trong phạm vi ủy quyền và không vượt quá giới hạn pháp luật."
+  },
+  {
+    "question": "Trường hợp nào dưới đây bắt buộc đương sự phải tự mình tham gia?",
+    "a": "Tranh chấp hợp đồng vay",
+    "b": "Ly hôn",
+    "c": "Tranh chấp đất đai",
+    "d": "Tranh chấp bồi thường",
+    "answer": "b",
+    "explanation": "Ly hôn là quan hệ nhân thân đặc biệt nên đương sự phải trực tiếp tham gia để thể hiện ý chí."
+  },
+  {
+    "question": "Người đại diện theo ủy quyền có được tham gia hòa giải thay đương sự trong mọi vụ án không?",
+    "a": "Có",
+    "b": "Không trong mọi trường hợp pháp luật cấm ủy quyền",
+    "c": "Chỉ khi Tòa án đồng ý",
+    "d": "Chỉ khi có luật sư",
+    "answer": "b",
+    "explanation": "Trong một số vụ án liên quan nhân thân (như ly hôn), đương sự phải trực tiếp tham gia hòa giải."
+  },
+  {
+    "question": "Hình thức ủy quyền trong tố tụng dân sự phải được lập như thế nào?",
+    "a": "Bằng miệng",
+    "b": "Bằng email",
+    "c": "Bằng văn bản hợp pháp",
+    "d": "Không cần hình thức",
+    "answer": "c",
+    "explanation": "Việc ủy quyền trong tố tụng dân sự phải được lập bằng văn bản theo quy định pháp luật, có thể công chứng/chứng thực."
+  },
+  {
+    "question": "Người đại diện theo ủy quyền có quyền ký đơn khởi kiện không?",
+    "a": "Không bao giờ",
+    "b": "Có nếu phạm vi ủy quyền cho phép",
+    "c": "Chỉ luật sư được ký",
+    "d": "Tòa án ký thay",
+    "answer": "b",
+    "explanation": "Nếu nội dung ủy quyền bao gồm quyền khởi kiện thì người đại diện được ký đơn."
+  },
+  {
+    "question": "Trong vụ án ly hôn, có thể ủy quyền cho luật sư tham gia toàn bộ vụ án không?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Chỉ ở cấp sơ thẩm",
+    "d": "Chỉ khi có tài sản",
+    "answer": "b",
+    "explanation": "Ly hôn bắt buộc đương sự phải trực tiếp tham gia để xác định ý chí, không thể ủy quyền toàn bộ."
+  },
+  {
+    "question": "Người đại diện theo ủy quyền có được tham gia đối chất không?",
+    "a": "Có trong mọi trường hợp",
+    "b": "Không bao giờ",
+    "c": "Có nếu không thuộc trường hợp bắt buộc đương sự phải trực tiếp",
+    "d": "Chỉ khi Tòa án yêu cầu",
+    "answer": "c",
+    "explanation": "Đại diện theo ủy quyền có thể tham gia đối chất nếu pháp luật không yêu cầu đương sự phải trực tiếp."
+  },
+  {
+    "question": "Trường hợp nào dưới đây KHÔNG được ủy quyền?",
+    "a": "Tranh chấp hợp đồng",
+    "b": "Ly hôn",
+    "c": "Tranh chấp thừa kế",
+    "d": "Tranh chấp bồi thường",
+    "answer": "b",
+    "explanation": "Ly hôn là quan hệ nhân thân gắn với ý chí cá nhân nên không được ủy quyền toàn bộ."
+  },
+  {
+    "question": "Người đại diện theo ủy quyền có thể thay mặt đương sự rút đơn khởi kiện không?",
+    "a": "Không",
+    "b": "Có nếu được ủy quyền rõ ràng",
+    "c": "Chỉ luật sư được làm",
+    "d": "Không bao giờ được rút",
+    "answer": "b",
+    "explanation": "Việc rút đơn khởi kiện là quyền tố tụng, có thể ủy quyền nếu phạm vi ủy quyền ghi rõ."
+  },
+  {
+    "question": "Trong tố tụng dân sự, ủy quyền có được thực hiện bằng lời nói không?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Có trong mọi trường hợp",
+    "d": "Tùy Tòa án",
+    "answer": "b",
+    "explanation": "Ủy quyền trong tố tụng phải lập thành văn bản, không được thực hiện bằng lời nói."
+  },
+  {
+    "question": "Người đại diện theo ủy quyền có bị giới hạn quyền so với đương sự không?",
+    "a": "Không bị giới hạn",
+    "b": "Có, chỉ trong phạm vi ủy quyền và luật định",
+    "c": "Chỉ bị giới hạn khi ly hôn",
+    "d": "Không bao giờ bị giới hạn",
+    "answer": "b",
+    "explanation": "Người đại diện chỉ được thực hiện quyền trong phạm vi được ủy quyền và theo quy định pháp luật."
+  },
+  {
+    "question": "Trong vụ án dân sự, ai là người có quyền quyết định phạm vi ủy quyền?",
+    "a": "Tòa án",
+    "b": "Đương sự",
+    "c": "Viện kiểm sát",
+    "d": "Công chứng viên",
+    "answer": "b",
+    "explanation": "Đương sự là người xác lập phạm vi ủy quyền cho người đại diện của mình."
+  },
+  {
+    "question": "Người đại diện theo ủy quyền có được thay mặt đương sự thừa nhận nghĩa vụ không?",
+    "a": "Không bao giờ",
+    "b": "Có nếu có ủy quyền cụ thể",
+    "c": "Chỉ luật sư được quyền",
+    "d": "Không cần ủy quyền",
+    "answer": "b",
+    "explanation": "Việc thừa nhận nghĩa vụ là quyền tố tụng, có thể thực hiện nếu được ủy quyền rõ ràng."
+  },
+  {
+    "question": "Trong trường hợp nào Tòa án buộc đương sự phải trực tiếp tham gia?",
+    "a": "Mọi vụ án",
+    "b": "Ly hôn và một số quan hệ nhân thân đặc biệt",
+    "c": "Tranh chấp hợp đồng",
+    "d": "Không có trường hợp nào",
+    "answer": "b",
+    "explanation": "Các vụ việc liên quan nhân thân đặc biệt như ly hôn đòi hỏi đương sự phải trực tiếp tham gia."
+  },
+  {
+    "question": "Ủy quyền trong tố tụng dân sự có cần công chứng không?",
+    "a": "Không bao giờ",
+    "b": "Có thể phải công chứng hoặc chứng thực theo quy định",
+    "c": "Chỉ cần ký tay",
+    "d": "Tòa án tự xác nhận",
+    "answer": "b",
+    "explanation": "Văn bản ủy quyền phải được lập hợp pháp, thường là công chứng hoặc chứng thực theo quy định."
+  },
+  {
+    "question": "Người đại diện theo ủy quyền có được tham gia phiên tòa thay đương sự không?",
+    "a": "Có trong mọi trường hợp",
+    "b": "Có, trừ trường hợp pháp luật buộc đương sự phải có mặt",
+    "c": "Không bao giờ",
+    "d": "Chỉ khi bị đơn đồng ý",
+    "answer": "b",
+    "explanation": "Đại diện theo ủy quyền có thể tham gia phiên tòa nhưng không thay thế trong các trường hợp bắt buộc đương sự phải trực tiếp."
+  },
+  {
+    "question": "Ý chí của đương sự trong vụ án ly hôn được xác định thông qua ai?",
+    "a": "Người đại diện theo ủy quyền",
+    "b": "Chỉ Tòa án",
+    "c": "Đương sự trực tiếp",
+    "d": "Viện kiểm sát",
+    "answer": "c",
+    "explanation": "Ly hôn liên quan nhân thân nên phải xác định trực tiếp ý chí của đương sự."
+  },
+   {
     "question": "Theo Luật Thuế thu nhập cá nhân 2025, thu nhập từ chuyển nhượng quyền sử dụng đất thuộc loại nào?",
     "a": "Thu nhập miễn thuế",
     "b": "Thu nhập chịu thuế",
