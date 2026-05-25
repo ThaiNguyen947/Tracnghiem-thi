@@ -1,5 +1,446 @@
 [
   {
+    "question": "Thỏa thuận trả công chăm sóc cho người mang thai hộ có hợp pháp không?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Tùy thỏa thuận",
+    "d": "Chỉ áp dụng với người thân",
+    "answer": "b",
+    "explanation": "Mang thai hộ vì mục đích nhân đạo cấm các thỏa thuận mang tính thương mại hoặc trả công."
+  },
+  {
+    "question": "Điều kiện để xác lập Văn bản thỏa thuận chế độ tài sản vợ chồng?",
+    "a": "Có năng lực hành vi dân sự đầy đủ",
+    "b": "Tuân thủ hình thức văn bản",
+    "c": "Công chứng theo quy định",
+    "d": "Tất cả đều đúng",
+    "answer": "d",
+    "explanation": "Phải đảm bảo đồng thời về chủ thể, nội dung và hình thức văn bản có công chứng."
+  },
+  {
+    "question": "Thẩm quyền công chứng thỏa thuận tài sản vợ chồng?",
+    "a": "Nơi cư trú của vợ",
+    "b": "Nơi cư trú của chồng",
+    "c": "Bất kỳ tổ chức hành nghề công chứng nào",
+    "d": "Nơi đăng ký kết hôn",
+    "answer": "c",
+    "explanation": "Luật Công chứng hiện hành không giới hạn địa hạt đối với các giao dịch về tài sản."
+  },
+  {
+    "question": "Nội dung nào có thể ghi trong thỏa thuận chế độ tài sản vợ chồng?",
+    "a": "Chồng toàn quyền định đoạt",
+    "b": "Ai có lỗi khi ly hôn thì mất tài sản",
+    "c": "Chế độ tài sản theo thỏa thuận",
+    "d": "Tất cả đều đúng",
+    "answer": "c",
+    "explanation": "Không được ghi các nội dung loại trừ quyền bình đẳng hoặc trái quy định pháp luật."
+  },
+  {
+    "question": "Nhà xây trên đất riêng bằng tiền chung là tài sản gì?",
+    "a": "Tài sản riêng",
+    "b": "Tài sản chung",
+    "c": "Tùy sự thỏa thuận",
+    "d": "Tài sản của người đứng tên",
+    "answer": "b",
+    "explanation": "Tài sản hình thành trong thời kỳ hôn nhân từ nguồn lực chung là tài sản chung."
+  },
+  {
+    "question": "Xe ô tô mua bằng tiền bồi thường thiệt hại sức khỏe là tài sản gì?",
+    "a": "Tài sản riêng",
+    "b": "Tài sản chung",
+    "c": "Tài sản công ty",
+    "d": "Tài sản cha mẹ tặng",
+    "answer": "a",
+    "explanation": "Tiền bồi thường thiệt hại về sức khỏe là tài sản riêng theo Luật Hôn nhân và Gia đình."
+  },
+  {
+    "question": "Ai có thẩm quyền công chứng hợp đồng mang thai hộ?",
+    "a": "Tất cả các tổ chức hành nghề công chứng hợp pháp",
+    "b": "Chỉ các văn phòng công chứng tại địa phương người nhờ",
+    "c": "Chỉ cơ quan tư pháp xã",
+    "d": "Đại sứ quán",
+    "answer": "a",
+    "explanation": "Công chứng viên tại các tổ chức hành nghề công chứng có thẩm quyền thực hiện theo quy định pháp luật."
+  },
+  {
+    "question": "Văn bản thỏa thuận tài sản vợ chồng có thể sửa đổi không?",
+    "a": "Không",
+    "b": "Có, được quyền sửa đổi, bổ sung",
+    "c": "Chỉ được sửa đổi trước khi cưới",
+    "d": "Chỉ được sửa đổi sau khi ly hôn",
+    "answer": "b",
+    "explanation": "Vợ chồng có quyền thỏa thuận sửa đổi, bổ sung chế độ tài sản đã xác lập."
+  },
+  {
+    "question": "Quan hệ giữa con sinh ra từ mang thai hộ và bên nhờ mang thai hộ là gì?",
+    "a": "Cha, mẹ và con",
+    "b": "Người giám hộ và trẻ được giám hộ",
+    "c": "Người nhận nuôi và con nuôi",
+    "d": "Không có quan hệ pháp lý",
+    "answer": "a",
+    "explanation": "Pháp luật công nhận bên nhờ mang thai hộ là cha mẹ hợp pháp của đứa trẻ."
+  },
+  {
+    "question": "A bán nhà được tặng riêng sau hôn nhân có cần vợ ký không?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Chỉ khi có tranh chấp",
+    "d": "Phải có sự đồng ý của cha mẹ",
+    "answer": "b",
+    "explanation": "Tài sản riêng của cá nhân được quyền định đoạt độc lập mà không cần sự đồng ý của vợ/chồng."
+  },
+  {
+    "question": "Người chưa từng sinh con có được mang thai hộ?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Tùy trường hợp",
+    "d": "Không giới hạn",
+    "answer": "b",
+    "explanation": "Người mang thai hộ bắt buộc phải là người đã từng sinh con theo quy định y tế."
+  },
+  {
+    "question": "Anh A 19 tuổi và chị B 18 tuổi lập thỏa thuận tài sản có hợp pháp không?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Chỉ khi có cha mẹ bảo lãnh",
+    "d": "Chỉ áp dụng với động sản",
+    "answer": "b",
+    "explanation": "Phải là vợ chồng hợp pháp theo Luật Hôn nhân và Gia đình mới được xác lập chế độ tài sản vợ chồng."
+  },
+  {
+    "question": "Thỏa thuận yêu cầu người mang thai hộ chăm con 2 tháng sau sinh?",
+    "a": "Hợp pháp",
+    "b": "Không hợp pháp",
+    "c": "Tùy thỏa thuận",
+    "d": "Được nếu có công chứng",
+    "answer": "b",
+    "explanation": "Việc bàn giao con phải thực hiện ngay theo quy định y tế, không được thỏa thuận giữ con."
+  },
+  {
+    "question": "Hình thức bắt buộc của văn bản mang thai hộ?",
+    "a": "Viết tay",
+    "b": "Có công chứng",
+    "c": "Có người làm chứng",
+    "d": "Không cần văn bản",
+    "answer": "b",
+    "explanation": "Bắt buộc phải lập thành văn bản có công chứng để đảm bảo tính pháp lý."
+  },
+  {
+    "question": "Mang thai hộ mục đích nhân đạo có nghĩa là gì?",
+    "a": "Có lợi nhuận",
+    "b": "Không vì mục đích thương mại",
+    "c": "Là dịch vụ y tế",
+    "d": "Tất cả đều sai",
+    "answer": "b",
+    "explanation": "Luật chỉ cho phép mang thai hộ nhân đạo, không vụ lợi."
+  },
+  {
+    "question": "Thời gian nghỉ thai sản người mang thai hộ theo luật nào?",
+    "a": "Luật lao động",
+    "b": "Luật Bảo hiểm xã hội",
+    "c": "Luật Hôn nhân và Gia đình",
+    "d": "Luật Công chứng",
+    "answer": "b",
+    "explanation": "Áp dụng theo chế độ Bảo hiểm xã hội như đối với người sinh con."
+  },
+  {
+    "question": "Bên nhờ mang thai hộ phải chi trả những gì?",
+    "a": "Chi phí y tế thực tế",
+    "b": "Tiền công lao động",
+    "c": "Tiền bồi thường thời gian",
+    "d": "Tất cả đều đúng",
+    "answer": "a",
+    "explanation": "Chỉ chi trả các chi phí thực tế, hợp lý, không được trả tiền công lao động."
+  },
+  {
+    "question": "Văn bản thỏa thuận tài sản vợ chồng có hiệu lực khi nào?",
+    "a": "Ngày ký",
+    "b": "Ngày công chứng",
+    "c": "Ngày đăng ký kết hôn",
+    "d": "Ngày nộp lên tòa",
+    "answer": "c",
+    "explanation": "Thỏa thuận chỉ có hiệu lực từ thời điểm đăng ký kết hôn hợp pháp."
+  },
+  {
+    "question": "Điều kiện về người nhờ mang thai hộ?",
+    "a": "Không có con chung",
+    "b": "Đã có con nhưng mắc bệnh",
+    "c": "Vợ không thể mang thai",
+    "d": "Tất cả đều đúng",
+    "answer": "d",
+    "explanation": "Luật cho phép mang thai hộ trong các trường hợp đặc biệt đã được quy định cụ thể."
+  },
+  {
+    "question": "Đại sứ quán có được công chứng thỏa thuận mang thai hộ?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Tùy quốc gia",
+    "d": "Chỉ khi khẩn cấp",
+    "answer": "b",
+    "explanation": "Giao dịch mang thai hộ không thuộc thẩm quyền công chứng viên lãnh sự."
+  },
+  {
+    "question": "Người mang thai hộ có quyền chấm dứt thỏa thuận khi sức khỏe yếu?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Chỉ khi bên nhờ đồng ý",
+    "d": "Phải bồi thường",
+    "answer": "a",
+    "explanation": "Quyền bảo vệ sức khỏe và tính mạng của người mang thai hộ là ưu tiên hàng đầu."
+  },
+  {
+    "question": "Pháp luật VN quy định về mang thai hộ như thế nào?",
+    "a": "Cấm hoàn toàn",
+    "b": "Chỉ mục đích nhân đạo",
+    "c": "Cho phép thương mại",
+    "d": "Chưa quy định",
+    "answer": "b",
+    "explanation": "Luật Hôn nhân và Gia đình chỉ cho phép mang thai hộ vì mục đích nhân đạo."
+  },
+  {
+    "question": "Vàng cưới mẹ chồng tặng riêng vợ là tài sản gì?",
+    "a": "Tài sản riêng",
+    "b": "Tài sản chung",
+    "c": "Tài sản nhà chồng",
+    "d": "Tài sản của con",
+    "answer": "a",
+    "explanation": "Tài sản được tặng cho riêng là tài sản riêng của cá nhân người được nhận."
+  },
+  {
+    "question": "Vợ chồng không có con chung có được nhờ mang thai hộ?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Tùy ý",
+    "d": "Cả hai sai",
+    "answer": "a",
+    "explanation": "Đây là điều kiện cơ bản để được xem xét nhờ mang thai hộ theo Luật."
+  },
+  {
+    "question": "Vợ có được ủy quyền cho chồng ký văn bản mang thai hộ?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Chỉ khi ở xa",
+    "d": "Tùy thỏa thuận",
+    "answer": "b",
+    "explanation": "Việc giao kết mang thai hộ phải thực hiện trực tiếp, không được ủy quyền."
+  },
+  {
+    "question": "Căn nhà mua trước khi kết hôn là tài sản gì?",
+    "a": "Tài sản chung",
+    "b": "Tài sản riêng",
+    "c": "Tài sản gia đình",
+    "d": "Tùy sự thỏa thuận",
+    "answer": "b",
+    "explanation": "Tài sản hình thành trước thời kỳ hôn nhân là tài sản riêng."
+  },
+  {
+    "question": "Tiền thưởng cá nhân mua đất sau hôn nhân?",
+    "a": "Tài sản riêng",
+    "b": "Tài sản chung",
+    "c": "Cả hai đúng",
+    "d": "Tùy ý",
+    "answer": "a",
+    "explanation": "Tiền thưởng mang tính cá nhân là tài sản riêng của người đó."
+  },
+  {
+    "question": "Con sinh ra từ mang thai hộ có quyền lợi gì?",
+    "a": "Con chung với bên nhờ",
+    "b": "Con với bên mang thai hộ",
+    "c": "Không có quyền",
+    "d": "Tùy ý",
+    "answer": "a",
+    "explanation": "Luật xác định con sinh ra là con của bên nhờ mang thai hộ."
+  },
+  {
+    "question": "Người mang thai hộ có được ủy quyền cho chồng ký?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Tùy trường hợp",
+    "d": "Chỉ khi bệnh",
+    "answer": "b",
+    "explanation": "Phải trực tiếp tham gia giao kết thỏa thuận không thông qua ủy quyền."
+  },
+  {
+    "question": "Tài sản riêng có được nhập vào tài sản chung không?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Tùy tài sản",
+    "d": "Không bao giờ",
+    "answer": "a",
+    "explanation": "Vợ chồng có quyền thỏa thuận nhập tài sản riêng vào tài sản chung."
+  },
+  {
+    "question": "Tư vấn bắt buộc mang thai hộ gồm?",
+    "a": "Y tế, tâm lý, pháp lý",
+    "b": "Chỉ y tế",
+    "c": "Chỉ pháp lý",
+    "d": "Không cần tư vấn",
+    "answer": "a",
+    "explanation": "Luật yêu cầu tư vấn toàn diện về y tế, tâm lý và pháp lý để bảo vệ quyền lợi các bên."
+  },
+  {
+    "question": "Người mang thai hộ 45 tuổi có cần xác nhận y tế?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Tùy ý",
+    "d": "Không được phép",
+    "answer": "a",
+    "explanation": "Phải có xác nhận y tế về việc đủ khả năng mang thai an toàn."
+  },
+  {
+    "question": "Giấy tờ chứng minh quan hệ vợ chồng hợp pháp?",
+    "a": "Ảnh cưới",
+    "b": "Giấy đăng ký kết hôn",
+    "c": "Sổ hộ khẩu",
+    "d": "Giấy khai sinh con",
+    "answer": "b",
+    "explanation": "Giấy đăng ký kết hôn là căn cứ pháp lý duy nhất."
+  },
+  {
+    "question": "Mối quan hệ của người mang thai hộ và bên nhờ?",
+    "a": "Phải là họ hàng",
+    "b": "Có thể không là họ hàng",
+    "c": "Phải là bạn bè",
+    "d": "Không cần quan hệ",
+    "answer": "a",
+    "explanation": "Luật yêu cầu quan hệ thân thích trong phạm vi quy định của Luật Hôn nhân và Gia đình."
+  },
+  {
+    "question": "Ai trả chi phí chăm sóc sức khỏe mang thai hộ?",
+    "a": "Bên nhờ",
+    "b": "Bên mang thai",
+    "c": "Nhà nước",
+    "d": "Bảo hiểm",
+    "answer": "a",
+    "explanation": "Bên nhờ có nghĩa vụ chi trả các chi phí y tế thực tế, hợp lý."
+  },
+  {
+    "question": "Có được thay đổi chế độ tài sản trong hôn nhân?",
+    "a": "Không",
+    "b": "Có",
+    "c": "Sai cả hai",
+    "d": "Chỉ khi ly hôn",
+    "answer": "b",
+    "explanation": "Pháp luật tôn trọng quyền tự do thỏa thuận của vợ chồng trong hôn nhân."
+  },
+  {
+    "question": "Mang thai hộ là quyền hay nghĩa vụ?",
+    "a": "Nghĩa vụ",
+    "b": "Quyền",
+    "c": "Không phải cả hai",
+    "d": "Tùy ý",
+    "answer": "b",
+    "explanation": "Đây là quyền dân sự đặc biệt có điều kiện theo luật định."
+  },
+  {
+    "question": "Con sinh ra từ mang thai hộ có quan hệ với bên nào?",
+    "a": "Bên nhờ",
+    "b": "Bên mang thai",
+    "c": "Cả hai",
+    "d": "Không ai",
+    "answer": "a",
+    "explanation": "Pháp luật xác định quan hệ pháp lý cha mẹ con với bên nhờ mang thai hộ."
+  },
+  {
+    "question": "Chế độ tài sản luật định áp dụng khi nào?",
+    "a": "Luôn luôn",
+    "b": "Khi không có thỏa thuận",
+    "c": "Khi có tranh chấp",
+    "d": "Không bao giờ",
+    "answer": "b",
+    "explanation": "Luật định là phương án dự phòng khi không có thỏa thuận hợp lệ."
+  },
+  {
+    "question": "Mang thai hộ thương mại là gì?",
+    "a": "Có lợi nhuận",
+    "b": "Nhân đạo",
+    "c": "Tự nguyện",
+    "d": "Miễn phí",
+    "answer": "a",
+    "explanation": "Có lợi ích kinh tế bị coi là thương mại và bị cấm hoàn toàn."
+  },
+  {
+    "question": "Tài sản hình thành trong thời kỳ hôn nhân là gì?",
+    "a": "Tài sản chung",
+    "b": "Tài sản riêng",
+    "c": "Tùy ý",
+    "d": "Tài sản cha mẹ",
+    "answer": "a",
+    "explanation": "Tài sản mặc định là tài sản chung trừ khi có thỏa thuận khác."
+  },
+  {
+    "question": "Thỏa thuận mang thai hộ không công chứng thì?",
+    "a": "Vô hiệu",
+    "b": "Có hiệu lực",
+    "c": "Tùy ý",
+    "d": "Có giá trị",
+    "answer": "a",
+    "explanation": "Hình thức công chứng là điều kiện có hiệu lực bắt buộc theo Luật."
+  },
+  {
+    "question": "Người mang thai hộ có được yêu cầu khám thai?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Tùy ý",
+    "d": "Không liên quan",
+    "answer": "a",
+    "explanation": "Người mang thai hộ có quyền được đảm bảo sức khỏe trong quá trình mang thai."
+  },
+  {
+    "question": "Công chứng thỏa thuận tài sản có cần người làm chứng?",
+    "a": "Luôn luôn",
+    "b": "Không",
+    "c": "Tùy trường hợp",
+    "d": "Chỉ khi người già",
+    "answer": "b",
+    "explanation": "Công chứng viên là người chứng kiến hợp pháp, không cần người làm chứng trừ trường hợp đặc biệt."
+  },
+  {
+    "question": "Bên nhờ mang thai hộ bắt buộc là vợ chồng?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Chỉ cần 1 người",
+    "d": "Tùy ý",
+    "answer": "a",
+    "explanation": "Luật quy định bên nhờ mang thai hộ là cặp vợ chồng hợp pháp."
+  },
+  {
+    "question": "Thỏa thuận phân chia tài sản khi đang ly hôn?",
+    "a": "Công chứng được",
+    "b": "Phải qua tòa án",
+    "c": "Tùy ý",
+    "d": "Cả hai sai",
+    "answer": "b",
+    "explanation": "Khi đã vào quy trình tòa án, việc phân chia phải theo phán quyết của Tòa."
+  },
+  {
+    "question": "Công chứng viên từ chối công chứng mang thai hộ khi nào?",
+    "a": "Khi sai luật",
+    "b": "Không lý do",
+    "c": "Tùy ý",
+    "d": "Cả hai sai",
+    "answer": "a",
+    "explanation": "Nghĩa vụ công chứng viên là đảm bảo tính hợp pháp của mọi giao dịch."
+  },
+  {
+    "question": "Quyền của bên nhờ mang thai hộ?",
+    "a": "Nhận trẻ",
+    "b": "Quyết định tên trẻ",
+    "c": "Làm cha mẹ",
+    "d": "Tất cả đều đúng",
+    "answer": "d",
+    "explanation": "Các quyền hợp pháp của bên nhờ mang thai hộ theo Luật Hôn nhân và Gia đình."
+  },
+  {
+    "question": "Nội dung thỏa thuận tài sản vô hiệu khi nào?",
+    "a": "Vi phạm điều cấm",
+    "b": "Trái đạo đức",
+    "c": "Không đủ chủ thể",
+    "d": "Tất cả đều đúng",
+    "answer": "d",
+    "explanation": "Các căn cứ vô hiệu áp dụng theo quy định của Bộ luật Dân sự và Luật Hôn nhân Gia đình."
+  },
+  {
     "question": "Thẩm quyền đăng ký khai sinh cho trẻ em là ai?",
     "a": "UBND cấp xã nơi cha hoặc mẹ cư trú.",
     "b": "UBND cấp huyện.",
