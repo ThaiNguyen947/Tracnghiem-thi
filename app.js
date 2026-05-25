@@ -67,6 +67,45 @@ function login() {
   
   enableProtectionForSubAccounts();
   startExam();
+}function login() {
+  let u = document.getElementById("u").value;
+  let p = document.getElementById("p").value;
+
+  let user = users.find(x => x.username === u && x.password === p);
+  if (!user) return alert("Sai tài khoản hoặc mật khẩu!");
+
+  let deviceId = getDeviceId();
+  let sessions = JSON.parse(localStorage.getItem("loginSessions") || "{}");
+
+  // 1. Kiểm tra xem tài khoản đã bị khóa trước đó chưa
+  if (sessions[user.username] && sessions[user.username].isLocked) {
+    return alert("TÀI KHOẢN ĐÃ BỊ KHÓA VĨNH VIỄN do đăng nhập trên thiết bị khác. Vui lòng liên hệ Admin!");
+  }
+
+  // 2. Kiểm tra nếu đăng nhập trên thiết bị lạ (khác thiết bị ban đầu)
+  if (user.role !== "admin" && sessions[user.username] && sessions[user.username].deviceId !== deviceId) {
+    // Đánh dấu khóa vĩnh viễn
+    sessions[user.username] = { 
+      deviceId: sessions[user.username].deviceId, 
+      isLocked: true 
+    };
+    localStorage.setItem("loginSessions", JSON.stringify(sessions));
+    return alert("CẢNH BÁO: Phát hiện đăng nhập trên thiết bị lạ. Tài khoản của bạn đã bị KHÓA VĨNH VIỄN!");
+  }
+
+  // 3. Nếu là lần đầu đăng nhập hoặc đúng thiết bị cũ
+  sessions[user.username] = { 
+    deviceId: deviceId, 
+    isLocked: false 
+  };
+  localStorage.setItem("loginSessions", JSON.stringify(sessions));
+  localStorage.setItem("user", JSON.stringify(user));
+
+  document.getElementById("loginBox").style.display = "none";
+  document.getElementById("app").style.display = "block";
+  
+  enableProtectionForSubAccounts();
+  startExam();
 }
 
 // ================= KIỂM TRA TRẠNG THÁI ĐĂNG NHẬP =================
