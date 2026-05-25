@@ -23,7 +23,7 @@ function getDeviceId() {
 const users = [
   { username: "mainguyen", password: "1234", role: "admin" },
   { username: "huyen@", password: "1112233", role: "user" },
- { username: "LONG@", password: "1112233", role: "user" },
+ { username: "LONG1@", password: "1112233", role: "user" },
  { username: "HOANG@", password: "1112233", role: "user" }
 ];
 let sessions = JSON.parse(localStorage.getItem("loginSessions") || "{}");
