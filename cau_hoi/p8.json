@@ -1,1 +1,182 @@
-[]
+[
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, người đại diện theo pháp luật của doanh nghiệp là gì?",
+    "a": "Cá nhân đại diện doanh nghiệp thực hiện các quyền và nghĩa vụ phát sinh từ mọi giao dịch của doanh nghiệp",
+    "b": "Cá nhân hoặc tổ chức đại diện doanh nghiệp thực hiện quyền và nghĩa vụ phát sinh từ giao dịch của doanh nghiệp",
+    "c": "Cá nhân đại diện doanh nghiệp thực hiện quyền và nghĩa vụ phát sinh từ giao dịch của doanh nghiệp",
+    "d": "Người đứng đầu cơ quan quản lý nhà nước về đăng ký kinh doanh đại diện cho doanh nghiệp trong các giao dịch",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 12: Người đại diện theo pháp luật là cá nhân đại diện doanh nghiệp thực hiện quyền và nghĩa vụ phát sinh từ giao dịch của doanh nghiệp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, công ty trách nhiệm hữu hạn và công ty cổ phần có thể có bao nhiêu người đại diện theo pháp luật?",
+    "a": "Doanh nghiệp chỉ được phép có duy nhất 01 người đại diện theo pháp luật để đảm bảo tính thống nhất",
+    "b": "Số lượng người đại diện do Điều lệ công ty quy định, nhưng không được vượt quá 03 người",
+    "c": "Một hoặc nhiều người theo Điều lệ công ty",
+    "d": "Số lượng người đại diện không giới hạn nhưng bắt buộc phải có ít nhất 01 người là thành viên hội đồng quản trị",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 12: Công ty TNHH và CTCP có thể có một hoặc nhiều người đại diện theo pháp luật theo Điều lệ công ty."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, nếu công ty có nhiều người đại diện theo pháp luật nhưng Điều lệ không phân định rõ quyền và nghĩa vụ thì hậu quả pháp lý là gì?",
+    "a": "Mọi văn bản, giấy tờ phải có chữ ký của tất cả người đại diện mới có giá trị pháp lý",
+    "b": "Mỗi người đại diện đều có đầy đủ thẩm quyền với bên thứ ba và cùng chịu trách nhiệm liên đới",
+    "c": "Giao dịch do một người thực hiện sẽ vô hiệu nếu không có sự đồng ý bằng văn bản của người kia",
+    "d": "Công ty phải đăng ký lại với Cơ quan đăng ký kinh doanh để phân định thẩm quyền trước khi ký kết giao dịch",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 12: Nếu không phân định rõ thì mỗi người đều có thẩm quyền đầy đủ và cùng chịu trách nhiệm liên đới."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, doanh nghiệp phải bảo đảm luôn có ít nhất bao nhiêu người đại diện theo pháp luật cư trú tại Việt Nam?",
+    "a": "Doanh nghiệp phải có ít nhất một người đại diện cư trú tại Việt Nam; nếu xuất cảnh thì phải ủy quyền",
+    "b": "Doanh nghiệp không bắt buộc người đại diện phải cư trú tại Việt Nam nếu công ty có 100% vốn nước ngoài",
+    "c": "Tất cả những người đại diện theo pháp luật đều phải có hộ khẩu thường trú tại Việt Nam",
+    "d": "Doanh nghiệp có thể ủy quyền cho một tổ chức nước ngoài thực hiện quyền đại diện thay thế",
+    "answer": "a",
+    "explanation": "Khoản 3 Điều 12: Doanh nghiệp phải luôn có ít nhất một người đại diện theo pháp luật cư trú tại Việt Nam."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, khi người đại diện theo pháp luật xuất cảnh khỏi Việt Nam trong trường hợp chỉ còn một người đại diện cư trú tại Việt Nam thì phải làm gì?",
+    "a": "Thông báo cho cơ quan đăng ký kinh doanh trước 07 ngày làm việc để xin tạm dừng đại diện",
+    "b": "Chỉ định người lao động có quốc tịch Việt Nam tạm thời thay thế bằng quyết định của Giám đốc",
+    "c": "Ủy quyền bằng văn bản cho cá nhân khác cư trú tại Việt Nam thực hiện quyền và nghĩa vụ",
+    "d": "Phải bổ nhiệm thêm một người đại diện theo pháp luật mới và thực hiện thủ tục thay đổi thông tin",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 12: Khi xuất cảnh phải ủy quyền bằng văn bản cho cá nhân khác cư trú tại Việt Nam."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, người đại diện theo pháp luật vi phạm trách nhiệm của mình thì chịu trách nhiệm như thế nào?",
+    "a": "Chỉ chịu hình thức kỷ luật nội bộ và bồi thường theo quy chế tiền lương của công ty",
+    "b": "Chịu trách nhiệm hành chính và bị đình chỉ quyền đại diện vô thời hạn",
+    "c": "Chịu trách nhiệm cá nhân đối với thiệt hại gây ra cho doanh nghiệp",
+    "d": "Doanh nghiệp phải chịu trách nhiệm thay, người đại diện chỉ chịu trách nhiệm nếu có yếu tố hình sự",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 13: Người đại diện theo pháp luật chịu trách nhiệm cá nhân đối với thiệt hại do vi phạm trách nhiệm."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, tổ chức là cổ đông công ty cổ phần phải sở hữu tối thiểu bao nhiêu phần trăm cổ phần phổ thông để được cử người đại diện theo ủy quyền?",
+    "a": "05% tổng số cổ phần phổ thông",
+    "b": "10% tổng số cổ phần phổ thông",
+    "c": "15% tổng số cổ phần phổ thông",
+    "d": "20% tổng số cổ phần phổ thông",
+    "answer": "b",
+    "explanation": "Điểm b khoản 2 Điều 14: Tổ chức sở hữu ít nhất 10% cổ phần phổ thông có quyền cử người đại diện theo ủy quyền."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, nếu chủ sở hữu, thành viên, cổ đông không xác định rõ phần vốn góp hoặc số cổ phần cho từng người đại diện theo ủy quyền thì xử lý thế nào?",
+    "a": "Quyền đại diện của các cá nhân được cử sẽ không có giá trị pháp lý cho đến khi có văn bản điều chỉnh",
+    "b": "Phần vốn góp được chia đều cho các người đại diện theo ủy quyền",
+    "c": "Công ty có quyền chỉ định một người duy nhất đại diện cho toàn bộ số vốn đó",
+    "d": "Văn bản cử người đại diện theo ủy quyền bị coi là vô hiệu hoàn toàn",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 14: Nếu không xác định rõ thì phần vốn góp được chia đều cho các người đại diện theo ủy quyền."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, trường hợp người đại diện theo pháp luật xuất cảnh khỏi Việt Nam và đã ủy quyền cho cá nhân khác thực hiện quyền, nghĩa vụ của mình thì ai vẫn phải chịu trách nhiệm về việc thực hiện quyền và nghĩa vụ đã ủy quyền?",
+    "a": "Người được ủy quyền phải chịu trách nhiệm hoàn toàn thay cho người đại diện",
+    "b": "Cơ quan đăng ký kinh doanh chịu trách nhiệm giám sát toàn bộ các giao dịch phát sinh",
+    "c": "Người đại diện theo pháp luật vẫn phải chịu trách nhiệm về việc thực hiện quyền và nghĩa vụ đã ủy quyền",
+    "d": "Hội đồng thành viên/Hội đồng quản trị phải chịu trách nhiệm liên đới trong mọi trường hợp",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 12: Người đại diện theo pháp luật vẫn phải chịu trách nhiệm về việc thực hiện quyền và nghĩa vụ đã ủy quyền."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, trường hợp hết thời hạn ủy quyền mà người đại diện theo pháp luật của công ty TNHH chưa trở lại Việt Nam và không có ủy quyền khác thì ai tiếp tục thực hiện quyền và nghĩa vụ của người đại diện?",
+    "a": "Cơ quan đăng ký kinh doanh sẽ tự động chỉ định người thay thế tạm thời",
+    "b": "Người được ủy quyền tiếp tục thực hiện quyền và nghĩa vụ cho đến khi người đại diện trở lại hoặc công ty cử người khác",
+    "c": "Tất cả các thành viên góp vốn của công ty cùng nhau thực hiện quyền đại diện",
+    "d": "Kiểm soát viên của công ty có quyền mặc nhiên nắm giữ chức danh người đại diện theo pháp luật",
+    "answer": "b",
+    "explanation": "Điểm b khoản 4 Điều 12: Người được ủy quyền tiếp tục thực hiện quyền và nghĩa vụ cho đến khi người đại diện trở lại hoặc công ty quyết định cử người khác."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, đối với công ty TNHH hai thành viên, nếu thành viên là cá nhân đồng thời là người đại diện theo pháp luật bị tạm giam thì ai đương nhiên làm người đại diện theo pháp luật của công ty?",
+    "a": "Giám đốc hoặc Tổng giám đốc công ty",
+    "b": "Kiểm soát viên của công ty",
+    "c": "Thành viên còn lại đương nhiên làm người đại diện theo pháp luật",
+    "d": "Người lao động có thâm niên cao nhất tại công ty",
+    "answer": "c",
+    "explanation": "Khoản 6 Điều 12: Thành viên còn lại đương nhiên làm người đại diện theo pháp luật cho đến khi có quyết định mới của Hội đồng thành viên."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, cơ quan nào có quyền chỉ định người đại diện theo pháp luật tham gia tố tụng trong các trường hợp đặc biệt?",
+    "a": "Ủy ban nhân dân cấp tỉnh/thành phố",
+    "b": "Cơ quan đăng ký kinh doanh nơi doanh nghiệp đặt trụ sở chính",
+    "c": "Tòa án hoặc cơ quan có thẩm quyền tiến hành tố tụng khác",
+    "d": "Phòng công chứng đã thực hiện chứng thực Điều lệ công ty",
+    "answer": "c",
+    "explanation": "Khoản 7 Điều 12: Tòa án và cơ quan có thẩm quyền tiến hành tố tụng khác có quyền chỉ định người đại diện theo pháp luật tham gia tố tụng."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, người đại diện theo pháp luật của doanh nghiệp có nghĩa vụ thực hiện quyền và nghĩa vụ được giao như thế nào?",
+    "a": "Tuân thủ tuyệt đối theo chỉ đạo của tập thể người lao động trong công ty",
+    "b": "Một cách trung thực, cẩn trọng và tốt nhất nhằm bảo đảm lợi ích hợp pháp của doanh nghiệp",
+    "c": "Theo yêu cầu của cơ quan công chứng khi thực hiện các giao dịch dân sự",
+    "d": "Dựa trên quyết định của khách hàng để tối đa hóa lợi nhuận trong ngắn hạn",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 13 quy định người đại diện theo pháp luật phải thực hiện quyền và nghĩa vụ trung thực, cẩn trọng, tốt nhất."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, hành vi nào sau đây vi phạm nghĩa vụ trung thành của người đại diện theo pháp luật?",
+    "a": "Thông báo đầy đủ các lợi ích liên quan cho doanh nghiệp trước khi giao kết hợp đồng",
+    "b": "Sử dụng cơ hội kinh doanh, tài sản hoặc bí quyết của doanh nghiệp để tư lợi",
+    "c": "Tham dự đầy đủ các cuộc họp của công ty để thực hiện quyền quyết định",
+    "d": "Thực hiện quyền được giao đúng phạm vi thẩm quyền đã được Điều lệ quy định",
+    "answer": "b",
+    "explanation": "Điểm b khoản 1 Điều 13 cấm người đại diện sử dụng cơ hội kinh doanh, tài sản, bí quyết của doanh nghiệp để tư lợi."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, người đại diện theo pháp luật phải thông báo cho doanh nghiệp về nội dung nào sau đây?",
+    "a": "Danh sách nơi cư trú của toàn bộ người lao động trong doanh nghiệp",
+    "b": "Các khoản vay cá nhân tại các tổ chức tín dụng bên ngoài công ty",
+    "c": "Các doanh nghiệp mà mình hoặc người có liên quan làm chủ hoặc có cổ phần, phần vốn góp",
+    "d": "Tổng thu nhập cá nhân hằng năm của bản thân và gia đình",
+    "answer": "c",
+    "explanation": "Điểm c khoản 1 Điều 13 quy định nghĩa vụ thông báo doanh nghiệp mà mình hoặc người liên quan có sở hữu cổ phần, phần vốn góp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, văn bản cử người đại diện theo ủy quyền có hiệu lực đối với công ty từ thời điểm nào?",
+    "a": "Từ ngày các bên ký kết văn bản ủy quyền",
+    "b": "Từ ngày văn bản được công chứng/chứng thực bởi cơ quan có thẩm quyền",
+    "c": "Từ ngày công ty nhận được văn bản cử người đại diện theo ủy quyền",
+    "d": "Từ ngày Cơ quan đăng ký kinh doanh xác nhận thay đổi thông tin doanh nghiệp",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 14: Văn bản cử người đại diện theo ủy quyền có hiệu lực kể từ ngày công ty nhận được văn bản."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, trường hợp tổ chức cử nhiều người đại diện theo ủy quyền mà không xác định phần vốn góp cho từng người thì xử lý như thế nào?",
+    "a": "Văn bản ủy quyền được coi là vô hiệu hoàn toàn và cần phải soạn thảo lại",
+    "b": "Công ty có quyền quyết định phân chia tỷ lệ vốn góp cho từng người đại diện",
+    "c": "Phần vốn góp, số cổ phần được chia đều cho tất cả người đại diện theo ủy quyền",
+    "d": "Người đại diện theo ủy quyền đầu tiên trong danh sách được toàn quyền quyết định",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 14: Nếu không xác định cụ thể thì phần vốn góp, cổ phần được chia đều."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, mọi hạn chế của chủ sở hữu, thành viên, cổ đông đối với người đại diện theo ủy quyền trong việc thực hiện quyền, nghĩa vụ có hiệu lực đối với bên thứ ba hay không?",
+    "a": "Có hiệu lực trong mọi trường hợp nếu đã được ghi rõ trong Điều lệ",
+    "b": "Không có hiệu lực đối với bên thứ ba",
+    "c": "Chỉ có hiệu lực khi văn bản hạn chế đã được công chứng",
+    "d": "Chỉ có hiệu lực nếu đã được đăng ký công khai tại cơ quan nhà nước",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 15: Mọi hạn chế nội bộ đối với người đại diện theo ủy quyền đều không có hiệu lực đối với bên thứ ba."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, người đại diện theo ủy quyền có trách nhiệm tham dự cuộc họp nào sau đây?",
+    "a": "Các phiên họp của Hội đồng nhân dân cấp huyện",
+    "b": "Các cuộc họp của Ủy ban nhân dân nơi doanh nghiệp đặt trụ sở",
+    "c": "Cuộc họp Hội đồng thành viên, Đại hội đồng cổ đông",
+    "d": "Các phiên họp của cơ quan thuế hoặc kiểm toán nhà nước",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 15: Người đại diện theo ủy quyền phải tham dự đầy đủ cuộc họp Hội đồng thành viên, Đại hội đồng cổ đông."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, chủ sở hữu, thành viên, cổ đông cử người đại diện theo ủy quyền chịu trách nhiệm trước ai đối với trách nhiệm phát sinh liên quan đến quyền và nghĩa vụ được thực hiện thông qua người đại diện theo ủy quyền?",
+    "a": "Chịu trách nhiệm trước chính doanh nghiệp đó",
+    "b": "Chịu trách nhiệm trước cơ quan công chứng đã thực hiện việc xác thực",
+    "c": "Chịu trách nhiệm trước bên thứ ba",
+    "d": "Chịu trách nhiệm trước cơ quan đăng ký kinh doanh",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 15: Chủ sở hữu, thành viên, cổ đông cử đại diện chịu trách nhiệm trước bên thứ ba."
+  }
+]
