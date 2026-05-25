@@ -400,7 +400,7 @@
     "b": "Đất trồng lúa và đất trồng cây hằng năm khác",
     "c": "Đất trồng lúa và đất trồng cây lâu năm",
     "d": "Đất nông nghiệp khác và đất trồng lúa",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Căn cứ Điều 4 khoản 1 Nghị định 102/2024/NĐ-CP quy định đất trồng cây hằng năm gồm đất trồng lúa và đất trồng cây hằng năm khác."
   },
   {
@@ -409,7 +409,7 @@
     "b": "Đất trồng từ 2 vụ lúa trở lên",
     "c": "Đất lúa thuộc khu vực quy hoạch nông nghiệp công nghệ cao",
     "d": "Đất chuyên dùng để trồng lúa nước hoặc lúa nương",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Căn cứ Điều 4 khoản 1 điểm a Nghị định 102/2024/NĐ-CP, đất chuyên trồng lúa là đất trồng từ 02 vụ lúa trở lên."
   },
   {
@@ -418,7 +418,7 @@
     "b": "Cây gieo trồng một lần, sinh trưởng nhiều năm và cho thu hoạch nhiều lần",
     "c": "Cây trồng trong nhà kính",
     "d": "Cây trồng theo mùa vụ",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Căn cứ Điều 4 khoản 2 Nghị định 102/2024/NĐ-CP, đất trồng cây lâu năm là đất trồng cây gieo một lần, sinh trưởng nhiều năm và cho thu hoạch một hoặc nhiều lần."
   },
   {
@@ -427,7 +427,7 @@
     "b": "Đất có rừng đặc dụng",
     "c": "Đất có rừng sản xuất hoặc được giao, cho thuê để phát triển rừng sản xuất",
     "d": "Đất nuôi thủy sản",
-    "correct": "c",
+    "answer": "c",
     "explanation": "Căn cứ Điều 4 khoản 3 điểm c Nghị định 102/2024/NĐ-CP, đất rừng sản xuất là đất có rừng sản xuất hoặc được giao, cho thuê, chuyển mục đích để phát triển rừng sản xuất."
   },
   {
@@ -436,7 +436,7 @@
     "b": "Đất xây dựng nhà ở",
     "c": "Đất sử dụng chuyên vào mục đích nuôi trồng thủy sản",
     "d": "Đất sản xuất công nghiệp",
-    "correct": "c",
+    "answer": "c",
     "explanation": "Căn cứ Điều 4 khoản 4 Nghị định 102/2024/NĐ-CP, đất nuôi trồng thủy sản là đất sử dụng chuyên vào mục đích nuôi trồng thủy sản."
   },
   {
@@ -445,7 +445,7 @@
     "b": "Sản xuất muối từ nước biển",
     "c": "Nuôi trồng thủy sản",
     "d": "Xây dựng công nghiệp",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Căn cứ Điều 4 khoản 6 Nghị định 102/2024/NĐ-CP, đất làm muối là đất sử dụng vào mục đích sản xuất muối từ nước biển."
   },
   {
@@ -454,7 +454,7 @@
     "b": "Đất xây dựng trụ sở cơ quan",
     "c": "Đất ươm cây giống, đất nhà kính phục vụ nông nghiệp",
     "d": "Đất khu công nghiệp",
-    "correct": "c",
+    "answer": "c",
     "explanation": "Căn cứ Điều 4 khoản 7 Nghị định 102/2024/NĐ-CP, đất nông nghiệp khác gồm đất ươm cây giống, đất trồng hoa cây cảnh, đất nhà kính và công trình phục vụ nông nghiệp."
   },
   {
@@ -463,7 +463,7 @@
     "b": "Đất thuộc xã, trừ đất đô thị mới",
     "c": "Đất khu công nghiệp",
     "d": "Đất quốc phòng",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Căn cứ Điều 5 khoản 1 điểm a Nghị định 102/2024/NĐ-CP, đất ở tại nông thôn là đất thuộc địa giới đơn vị hành chính xã, trừ trường hợp đô thị mới."
   },
   {
@@ -472,7 +472,7 @@
     "b": "Phường, thị trấn và một số xã thuộc đô thị mới",
     "c": "Chỉ xã",
     "d": "Khu nông thôn",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Căn cứ Điều 5 khoản 1 điểm b Nghị định 102/2024/NĐ-CP, đất ở đô thị gồm đất thuộc phường, thị trấn và đất trong xã thuộc dự án đô thị mới."
   },
   {
@@ -481,7 +481,7 @@
     "b": "Theo hiện trạng sử dụng đất",
     "c": "Theo ý kiến người dân",
     "d": "Theo quyết định tòa án",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Căn cứ Điều 7 khoản 1 Nghị định 102/2024/NĐ-CP, trường hợp không có giấy tờ thì xác định loại đất theo hiện trạng sử dụng đất."
   },
   {
@@ -490,7 +490,7 @@
     "b": "Theo hiện trạng",
     "c": "Theo Điều 7 khoản 3, tùy trường hợp trước hoặc sau 15/10/1993",
     "d": "Do người sử dụng đất quyết định",
-    "correct": "c",
+    "answer": "c",
     "explanation": "Căn cứ Điều 7 khoản 3 Nghị định 102/2024/NĐ-CP, trường hợp giấy tờ khác hiện trạng thì xử lý theo quy định từng trường hợp trước hoặc sau 15/10/1993."
   },
   {
@@ -499,7 +499,7 @@
     "b": "Đất đã giao nhưng chưa xây dựng",
     "c": "Đất chưa xác định mục đích sử dụng và chưa giao, chưa cho thuê",
     "d": "Đất đang quy hoạch",
-    "correct": "c",
+    "answer": "c",
     "explanation": "Căn cứ Điều 6 Nghị định 102/2024/NĐ-CP, đất chưa sử dụng là đất chưa xác định mục đích sử dụng và chưa được giao hoặc cho thuê."
   },
   {
@@ -508,7 +508,7 @@
     "b": "Chỉ cần UBND cấp xã xác nhận",
     "c": "Phải lấy ý kiến Bộ Quốc phòng và Bộ Công an theo quy định",
     "d": "Chỉ cần công chứng hợp đồng chuyển nhượng",
-    "correct": "c",
+    "answer": "c",
     "explanation": "Căn cứ Điều 10 khoản 3 NĐ 102/2024/NĐ-CP, trường hợp nhận chuyển nhượng hoặc góp vốn bằng quyền sử dụng đất tại khu vực hạn chế tiếp cận đất đai thì phải lấy ý kiến Bộ Quốc phòng và Bộ Công an."
   },
   {
@@ -517,7 +517,7 @@
     "b": "UBND cấp tỉnh gửi văn bản lấy ý kiến sau khi nhận đề nghị",
     "c": "Công chứng viên thực hiện lấy ý kiến",
     "d": "Người dân tự nộp hồ sơ lên Bộ Quốc phòng",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Căn cứ Điều 10 khoản 3 điểm b NĐ 102/2024/NĐ-CP, UBND cấp tỉnh là cơ quan gửi văn bản lấy ý kiến Bộ Quốc phòng và Bộ Công an."
   },
   {
@@ -526,7 +526,7 @@
     "b": "15 ngày",
     "c": "20 ngày kể từ ngày nhận văn bản",
     "d": "30 ngày",
-    "correct": "c",
+    "answer": "c",
     "explanation": "Căn cứ Điều 10 khoản 3 điểm c NĐ 102/2024/NĐ-CP, Bộ Quốc phòng và Bộ Công an có 20 ngày để trả lời kể từ ngày nhận văn bản lấy ý kiến."
   },
   {
@@ -535,7 +535,7 @@
     "b": "Phù hợp tiềm năng đất đai và định hướng phát triển kinh tế - xã hội",
     "c": "Ưu tiên doanh nghiệp có vốn đầu tư nước ngoài",
     "d": "Tăng nhanh tốc độ đô thị hóa",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Căn cứ Điều 22 khoản 1 điểm a NĐ 102/2024/NĐ-CP, phân bổ chỉ tiêu sử dụng đất phải phù hợp tiềm năng đất đai, phát huy hiệu quả nguồn lực và phục vụ phát triển kinh tế - xã hội."
   },
   {
@@ -544,7 +544,7 @@
     "b": "Quy hoạch tổng thể quốc gia và quy hoạch ngành",
     "c": "Ý kiến doanh nghiệp bất động sản",
     "d": "Thỏa thuận giữa cá nhân sử dụng đất",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Căn cứ Điều 22 khoản 1 điểm b NĐ 102/2024/NĐ-CP, việc phân bổ chỉ tiêu phải phù hợp quy hoạch tổng thể quốc gia, quy hoạch sử dụng đất quốc gia và quy hoạch ngành."
   },
   {
@@ -553,7 +553,7 @@
     "b": "Chiến lược phát triển nhà ở, dân số và đô thị hóa",
     "c": "Thỏa thuận giữa người dân",
     "d": "Ý kiến công chứng viên",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Căn cứ Điều 22 khoản 3 điểm g NĐ 102/2024/NĐ-CP, đất ở được xác định dựa trên chiến lược nhà ở quốc gia, dân số, đô thị hóa, định mức sử dụng đất và quy hoạch tỉnh."
   },
   {
@@ -562,7 +562,7 @@
     "b": "Tỷ lệ lấp đầy khu công nghiệp",
     "c": "Giá trị chuyển nhượng",
     "d": "Số lượng công chứng hợp đồng",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Căn cứ Điều 22 khoản 3 điểm k NĐ 102/2024/NĐ-CP, đất khu công nghiệp được xác định trên cơ sở nhu cầu phát triển công nghiệp và tỷ lệ lấp đầy khu công nghiệp."
   },
   {
@@ -571,7 +571,7 @@
     "b": "Chỉ tiêu sử dụng đất do Quốc hội quyết định và nhu cầu của Bộ Quốc phòng, Bộ Công an",
     "c": "Kế hoạch của UBND cấp xã",
     "d": "Nhu cầu doanh nghiệp",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Căn cứ Điều 22 khoản 2 điểm c NĐ 102/2024/NĐ-CP, đất quốc phòng, an ninh được xác định theo chỉ tiêu Quốc hội quyết định và nhu cầu của Bộ Quốc phòng, Bộ Công an."
   },
   {
@@ -580,7 +580,7 @@
     "b": "Chỉ khu vực biên giới đất liền",
     "c": "Chỉ khu vực ven biển và đảo",
     "d": "Chỉ khu vực do Bộ Quốc phòng quản lý",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Căn cứ Điều 10 khoản 1 Nghị định 102/2024/NĐ-CP: Khu vực hạn chế tiếp cận đất đai bao gồm khu vực thuộc xã, phường, thị trấn biên giới; xã, phường, thị trấn ven biển; đảo; và khu vực khác có ảnh hưởng đến quốc phòng, an ninh theo quy định pháp luật."
   },
   {
@@ -589,7 +589,7 @@
     "b": "Phải xin ý kiến Bộ Quốc phòng và Bộ Công an theo thủ tục quy định",
     "c": "Chỉ cần UBND cấp tỉnh chấp thuận",
     "d": "Chỉ cần đăng ký biến động đất đai",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Căn cứ Điều 10 khoản 3 Nghị định 102/2024/NĐ-CP: Tổ chức kinh tế có vốn đầu tư nước ngoài khi nhận chuyển nhượng hoặc góp vốn bằng quyền sử dụng đất tại khu vực hạn chế tiếp cận đất đai phải lấy ý kiến Bộ Quốc phòng, Bộ Công an theo trình tự quy định."
   },
   {
@@ -598,7 +598,7 @@
     "b": "Bảo đảm nhu cầu sử dụng đất của các ngành, phù hợp tiềm năng đất đai và phát triển kinh tế - xã hội",
     "c": "Chỉ ưu tiên đất ở đô thị",
     "d": "Không cần phù hợp quy hoạch quốc gia",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Căn cứ Điều 22 khoản 1 điểm a Nghị định 102/2024/NĐ-CP: Việc phân bổ chỉ tiêu sử dụng đất phải bảo đảm nhu cầu sử dụng đất của các ngành, lĩnh vực; phù hợp tiềm năng đất đai; phát huy hiệu quả nguồn lực đất đai; bảo đảm phát triển kinh tế - xã hội, quốc phòng, an ninh và môi trường."
   },
   {
@@ -607,7 +607,7 @@
     "b": "Chỉ theo ý kiến doanh nghiệp",
     "c": "Phù hợp định hướng quy hoạch tổng thể quốc gia, quy hoạch ngành quốc gia có liên quan",
     "d": "Không cần căn cứ quy hoạch",
-    "correct": "c",
+    "answer": "c",
     "explanation": "Căn cứ Điều 22 khoản 1 điểm b Nghị định 102/2024/NĐ-CP: Việc phân bổ chỉ tiêu sử dụng đất phải bảo đảm phù hợp với định hướng sử dụng đất trong quy hoạch tổng thể quốc gia, quy hoạch sử dụng đất quốc gia và quy hoạch ngành quốc gia có liên quan."
   },
   {
@@ -616,7 +616,7 @@
     "b": "Đất trồng 02 vụ lúa trở lên",
     "c": "Đất trồng cây lâu năm",
     "d": "Đất nuôi trồng thủy sản",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Căn cứ Điều 4 khoản 1 điểm a Nghị định 102/2024/NĐ-CP: Đất chuyên trồng lúa là đất trồng từ 02 vụ lúa trở lên."
   },
   {
@@ -625,7 +625,7 @@
     "b": "Thuộc địa giới xã, trừ đất thuộc đô thị mới theo quy hoạch",
     "c": "Thuộc khu công nghiệp",
     "d": "Chỉ là đất chưa sử dụng",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Căn cứ Điều 5 khoản 1 điểm a Nghị định 102/2024/NĐ-CP: Đất ở tại nông thôn là đất thuộc phạm vi địa giới đơn vị hành chính xã, trừ đất thuộc dự án đô thị mới theo quy hoạch hệ thống đô thị và nông thôn."
   },
   {
@@ -634,7 +634,7 @@
     "b": "Theo Luật Dân sự",
     "c": "Theo Luật Đầu tư công",
     "d": "Không cần thủ tục",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Căn cứ Điều 73 khoản 1 Nghị định 102/2024/NĐ-CP: Trường hợp giao đất, cho thuê đất không đấu giá quyền sử dụng đất để thực hiện dự án lấn biển thì thực hiện theo các khoản 2, 3, 4 và 6 Điều 44 của Nghị định; trường hợp đấu giá thì thực hiện theo Điều 55."
   },
   {
@@ -643,7 +643,7 @@
     "b": "Tiếp tục thực hiện theo pháp luật tại thời điểm ban hành quyết định giao đất",
     "c": "Bị hủy toàn bộ",
     "d": "Tự động chuyển sang quy hoạch mới",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Căn cứ Điều 112 khoản 2 Nghị định 102/2024/NĐ-CP: Trường hợp đã có quyết định giao đất, cho thuê đất trước khi Nghị định có hiệu lực thì tiếp tục thực hiện theo pháp luật có hiệu lực tại thời điểm ban hành quyết định."
   },
   {
@@ -652,7 +652,7 @@
     "b": "Kế hoạch sử dụng đất hằng năm cấp huyện đã được phê duyệt",
     "c": "Quy hoạch xây dựng đô thị",
     "d": "Nhu cầu của người sử dụng đất",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Khoản 1 Điều 44 quy định căn cứ là kế hoạch sử dụng đất hằng năm cấp huyện đã được phê duyệt."
   },
   {
@@ -661,7 +661,7 @@
     "b": "15 ngày",
     "c": "20 ngày",
     "d": "30 ngày",
-    "correct": "c",
+    "answer": "c",
     "explanation": "Khoản 6 Điều 44 quy định thời gian không quá 20 ngày."
   },
   {
@@ -670,7 +670,7 @@
     "b": "Cơ quan thuế",
     "c": "Văn phòng đăng ký đất đai",
     "d": "Sở Tài nguyên và Môi trường",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Điểm e khoản 2 Điều 44: cơ quan thuế xác định tiền phải nộp."
   },
   {
@@ -679,7 +679,7 @@
     "b": "Thay đổi căn cứ pháp lý hoặc sai sót ranh giới, diện tích",
     "c": "Giá đất thị trường tăng",
     "d": "UBND cấp xã đề nghị",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Khoản 1 Điều 45 quy định 2 nhóm trường hợp điều chỉnh."
   },
   {
@@ -688,7 +688,7 @@
     "b": "Phương án sử dụng tầng đất mặt",
     "c": "Đánh giá tác động môi trường",
     "d": "Xác nhận của ngân hàng",
-    "correct": "d",
+    "answer": "d",
     "explanation": "Khoản 1 Điều 46 chỉ quy định a, b, c."
   },
   {
@@ -697,7 +697,7 @@
     "b": "Không phù hợp quy hoạch",
     "c": "Phù hợp quy hoạch và không thuộc dự án đã xác định",
     "d": "Diện tích trên 500m2",
-    "correct": "c",
+    "answer": "c",
     "explanation": "Khoản 1 Điều 47 yêu cầu phù hợp quy hoạch và không thuộc dự án đã xác định."
   },
   {
@@ -706,7 +706,7 @@
     "b": "Ưu tiên sử dụng vào mục đích công cộng",
     "c": "Giao cho doanh nghiệp lớn",
     "d": "Cho thuê dài hạn 99 năm",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Khoản 2 Điều 47 quy định ưu tiên mục đích công cộng."
   },
   {
@@ -715,7 +715,7 @@
     "b": "UBND cấp có thẩm quyền",
     "c": "Văn phòng đăng ký đất đai",
     "d": "Sở Kế hoạch và Đầu tư",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Khoản 2 Điều 44: UBND cấp có thẩm quyền ban hành quyết định."
   },
   {
@@ -724,7 +724,7 @@
     "b": "15%",
     "c": "20%",
     "d": "25%",
-    "correct": "c",
+    "answer": "c",
     "explanation": "Khoản 1 Điều 55 quy định đặt trước 20% giá trị thửa đất."
   },
   {
@@ -733,7 +733,7 @@
     "b": "90 ngày",
     "c": "120 ngày",
     "d": "150 ngày",
-    "correct": "c",
+    "answer": "c",
     "explanation": "Điểm c khoản 9 Điều 55: sau 120 ngày bị hủy."
   },
   {
@@ -742,7 +742,7 @@
     "b": "Nộp vào ngân sách ngay",
     "c": "Chuyển thành tiền đặt cọc",
     "d": "Hủy bỏ",
-    "correct": "c",
+    "answer": "c",
     "explanation": "Khoản 9 Điều 55: chuyển thành tiền đặt cọc."
   },
   {
@@ -751,7 +751,7 @@
     "b": "Thu theo quý",
     "c": "Thu hằng năm",
     "d": "Miễn tiền thuê đất",
-    "correct": "c",
+    "answer": "c",
     "explanation": "Khoản 2 Điều 56 quy định thu tiền thuê đất hằng năm."
   },
   {
@@ -760,7 +760,7 @@
     "b": "15 ngày",
     "c": "20 ngày",
     "d": "30 ngày",
-    "correct": "c",
+    "answer": "c",
     "explanation": "Điều 45 quy định thời gian không quá 20 ngày."
   },
   {
@@ -769,7 +769,7 @@
     "b": "Có giấy phép xây dựng",
     "c": "Có hợp đồng chuyển nhượng",
     "d": "Có xác nhận ngân hàng",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Khoản 1 Điều 46 yêu cầu phương án trồng rừng thay thế."
   },
   {
@@ -778,7 +778,7 @@
     "b": "Công khai, minh bạch, dân chủ",
     "c": "Ưu tiên doanh nghiệp",
     "d": "Không cần lấy ý kiến dân",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Khoản 2 Điều 47 quy định công khai, minh bạch, dân chủ."
   },
   {
@@ -787,7 +787,7 @@
     "b": "Cập nhật cơ sở dữ liệu đất đai",
     "c": "Phê duyệt dự án",
     "d": "Ban hành quyết định giao đất",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Điểm k khoản 2 Điều 44: cập nhật, chỉnh lý dữ liệu đất đai."
   },
   {
@@ -796,7 +796,7 @@
     "b": "Phải thành lập tổ chức kinh tế",
     "c": "Chuyển nhượng ngay",
     "d": "Cho thuê lại ngay",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Khoản 2 Điều 55 yêu cầu thành lập tổ chức kinh tế."
   },
   {
@@ -805,7 +805,7 @@
     "b": "Cơ quan tài nguyên môi trường",
     "c": "Văn phòng đăng ký đất đai",
     "d": "Sở Xây dựng",
-    "correct": "c",
+    "answer": "c",
     "explanation": "Điểm đ khoản 2 Điều 44 quy định cơ quan quản lý đất đai chuyển thông tin địa chính."
   },
   {
@@ -814,7 +814,7 @@
     "b": "Hợp thửa",
     "c": "Chuyển nhượng",
     "d": "Thế chấp",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Điểm đ khoản 2 Điều 47 quy định phải thực hiện hợp thửa."
   },
     {
@@ -1391,7 +1391,7 @@
     "b": "Chỉ xác định chỉ tiêu sử dụng đất cấp xã",
     "c": "Chỉ quy định giá đất cụ thể từng khu vực",
     "d": "Chỉ quy định thủ tục cấp Giấy chứng nhận quyền sử dụng đất",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Đáp án đúng theo Điều 243 khoản 1 điểm a Luật Đất đai 2024: quy hoạch sử dụng đất quốc gia bao gồm phân tích, đánh giá điều kiện tự nhiên, nguồn lực và thực trạng sử dụng đất."
   },
   {
@@ -1400,7 +1400,7 @@
     "b": "Chỉ xác định giá đất trong khu vực quốc phòng",
     "c": "Chỉ quy định thủ tục cấp sổ đỏ",
     "d": "Chỉ quy định thu hồi đất nông nghiệp",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Đáp án đúng theo Điều 243 khoản 4a điểm a: quy hoạch sử dụng đất quốc phòng, an ninh bao gồm định hướng sử dụng đất quốc phòng, an ninh."
   },
   {
@@ -1409,7 +1409,7 @@
     "b": "Quy hoạch sử dụng đất quốc gia",
     "c": "Quy hoạch sử dụng đất quốc phòng",
     "d": "Kế hoạch thu hồi đất",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Đáp án đúng theo Điều 245 khoản 3: bổ sung điểm l khoản 2 Điều 27 quy định định hướng sử dụng đất đến từng đơn vị hành chính cấp huyện thuộc quy hoạch cấp tỉnh."
   },
   {
@@ -1418,7 +1418,7 @@
     "b": "Không quá 70 năm",
     "c": "Không quá 30 năm",
     "d": "Không quy định thời hạn",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Theo Điều 244 khoản 4 Luật Đất đai 2024: thời hạn giao khu vực biển không quá 50 năm."
   },
   {
@@ -1427,7 +1427,7 @@
     "b": "Chuyển mục đích sang mục đích khác thông thường",
     "c": "Chuyển mục đích phục vụ quốc phòng an ninh",
     "d": "Chuyển mục đích phục vụ dự án cấp thiết theo Chính phủ quy định",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Theo Điều 248 khoản 1: không được chuyển mục đích sử dụng rừng tự nhiên sang mục đích khác, trừ các trường hợp đặc biệt như quốc phòng, an ninh hoặc dự án quan trọng."
   },
   {
@@ -1436,7 +1436,7 @@
     "b": "Giá thị trường tại thời điểm chuyển nhượng",
     "c": "Giá do người sử dụng đất tự khai",
     "d": "Giá do ngân hàng định giá",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Theo Điều 249 khoản 3: giá 1m2 đất là giá theo bảng giá đất và ổn định theo chu kỳ 5 năm."
   },
   {
@@ -1445,7 +1445,7 @@
     "b": "Có nhiều nhà đầu tư cùng tham gia",
     "c": "Khu đất có giá trị cao",
     "d": "Đất ở đô thị",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Theo Điều 250 khoản 3 điểm a: đấu giá quyền sử dụng đất không thành là trường hợp thực hiện thủ tục chấp thuận nhà đầu tư."
   },
   {
@@ -1454,7 +1454,7 @@
     "b": "Luật Dân sự 2015",
     "c": "Luật Hình sự 2015",
     "d": "Luật Giao thông đường bộ",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Theo Điều 251 khoản 2: bãi bỏ Nghị quyết số 132/2020/QH14 về thí điểm chính sách đất quốc phòng, an ninh."
   },
   {
@@ -1463,7 +1463,7 @@
     "b": "Hết ngày 01/01/2025",
     "c": "Không bị bãi bỏ",
     "d": "Hết năm 2026",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Theo Điều 252 khoản 4: Luật Đất đai 2013 hết hiệu lực từ ngày Luật này có hiệu lực (01/01/2025)."
   },
   {
@@ -1472,7 +1472,7 @@
     "b": "Hủy bỏ toàn bộ",
     "c": "Phải lập lại từ đầu",
     "d": "Chỉ áp dụng trong 1 năm",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Theo Điều 253 khoản 1: quy hoạch, kế hoạch đã phê duyệt trước khi luật có hiệu lực thì tiếp tục thực hiện."
   },
   {
@@ -1481,7 +1481,7 @@
     "b": "Áp dụng Luật cũ 2013",
     "c": "Không xử lý",
     "d": "Áp dụng tùy địa phương",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Theo Điều 254 khoản 1: tiếp tục thực hiện bồi thường, hỗ trợ, tái định cư theo Luật Đất đai 2024."
   },
   {
@@ -1490,7 +1490,7 @@
     "b": "Hủy phương án",
     "c": "Lập lại phương án mới",
     "d": "Dừng toàn bộ dự án",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Theo Điều 254 khoản 2: tiếp tục thực hiện phương án bồi thường đã phê duyệt."
   },
   {
@@ -1499,7 +1499,7 @@
     "b": "Giữ nguyên sử dụng miễn phí",
     "c": "Bị thu hồi toàn bộ",
     "d": "Chuyển sang đất ở",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Theo Điều 255 khoản 1: phần vượt hạn mức phải chuyển sang thuê đất."
   },
   {
@@ -1508,7 +1508,7 @@
     "b": "Hủy toàn bộ",
     "c": "Không còn giá trị",
     "d": "Chỉ dùng nội bộ",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Theo Điều 256 khoản 1: hồ sơ địa chính giấy được tiếp tục sử dụng và số hóa."
   },
   {
@@ -1517,7 +1517,7 @@
     "b": "Đến hết 2024",
     "c": "Không còn áp dụng",
     "d": "Đến khi có bảng giá mới",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Theo Điều 257 khoản 1: bảng giá đất được tiếp tục áp dụng đến 31/12/2025."
   },
   {
@@ -1526,7 +1526,7 @@
     "b": "Tự động mất quyền sử dụng",
     "c": "Không cần xử lý",
     "d": "Chuyển thành đất công",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Theo Điều 258 khoản 2: hết thời hạn sử dụng đất thì xem xét gia hạn hoặc thu hồi theo Luật Đất đai 2024."
   },
   {
@@ -1535,7 +1535,7 @@
     "b": "Cá nhân sở hữu toàn bộ",
     "c": "Nhà nước sở hữu",
     "d": "Do UBND cấp xã quản lý",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Theo Điều 259 khoản 1: hộ gia đình được xác định là nhóm người có chung quyền sử dụng đất."
   },
   {
@@ -1544,7 +1544,7 @@
     "b": "Thu hồi toàn bộ",
     "c": "Phải đấu giá lại",
     "d": "Chuyển sang đất ở",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Theo Điều 260 khoản 3: tiếp tục sử dụng đất theo thời hạn còn lại của dự án."
   },
   {
@@ -2120,7 +2120,7 @@
     "b": "Tất cả tổ chức kinh tế trong nước, hộ gia đình và cá nhân nếu có phương án kinh doanh khả thi",
     "c": "Đơn vị vũ trang, tổ chức kinh tế có vốn đầu tư nước ngoài và các đơn vị hành chính thuộc Bộ Quốc phòng",
     "d": "Tất cả các tổ chức, cá nhân đang trực tiếp quản lý, sử dụng đất quốc phòng, an ninh trên địa bàn",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Căn cứ khoản 1 Điều 201 Luật Đất đai 2024 quy định rõ đối tượng gồm đơn vị quân đội, công an, đơn vị sự nghiệp công lập thuộc lực lượng vũ trang và doanh nghiệp nhà nước do Bộ Quốc phòng, Bộ Công an quản lý."
   },
   {
@@ -2129,7 +2129,7 @@
     "b": "Phải nộp tiền sử dụng đất một lần cho cả thời gian sử dụng theo quyết định của UBND cấp tỉnh",
     "c": "Không phải nộp trong mọi trường hợp do đất này thuộc diện miễn thuế sử dụng đất phi nông nghiệp",
     "d": "Phải nộp tiền sử dụng đất hằng năm trừ trường hợp doanh nghiệp thuộc Bộ Quốc phòng, Bộ Công an tự kinh doanh",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Khoản 2 Điều 201 quy định việc sử dụng đất kết hợp phải lập phương án và nộp tiền sử dụng đất hằng năm, trừ trường hợp phục vụ giáo dục, cải tạo, hậu cần thì không phải nộp."
   },
   {
@@ -2138,7 +2138,7 @@
     "b": "Chỉ được chuyển đổi khi có sự chấp thuận của Thủ tướng Chính phủ đối với dự án quy mô lớn",
     "c": "Chủ đầu tư không được chuyển đổi hình thức thuê đất để đảm bảo nguồn thu ổn định cho ngân sách nhà nước",
     "d": "Khi thời hạn thuê đất còn lại từ 20 năm trở lên và được cơ quan tài chính địa phương phê duyệt",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Khoản 3 Điều 202 quy định chủ đầu tư khu công nghiệp, cụm công nghiệp được chuyển từ thuê đất trả tiền hằng năm sang trả tiền một lần cho cả thời gian thuê."
   },
   {
@@ -2147,7 +2147,7 @@
     "b": "Không quá 50 năm theo quy định chung về đất thương mại dịch vụ",
     "c": "Không quá 99 năm theo ưu đãi đầu tư đặc biệt của khu kinh tế",
     "d": "Thời hạn sử dụng đất được xác định theo dự án đầu tư nhưng tối đa là 50 năm",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Khoản 2 Điều 204 quy định thời hạn sử dụng đất trong khu công nghệ cao theo dự án đầu tư nhưng không quá 70 năm."
   },
   {
@@ -2156,7 +2156,7 @@
     "b": "Chỉ bao gồm đất khu chức năng phi thuế quan và khu công nghiệp theo quy định về địa bàn kinh tế đặc biệt",
     "c": "Bao gồm đất khu đô thị, đất dân cư nông thôn và đất thương mại dịch vụ nằm trong ranh giới hành chính của khu kinh tế",
     "d": "Bao gồm tất cả các loại đất thuộc quyền quản lý của Ban quản lý khu kinh tế cấp tỉnh",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Khoản 1 Điều 203 quy định đất khu kinh tế bao gồm nhiều khu chức năng như phi thuế quan, chế xuất, công nghiệp, du lịch, đô thị, hành chính và các khu chức năng khác."
   },
   {
@@ -2165,7 +2165,7 @@
     "b": "Phải thực hiện chuyển mục đích sử dụng đất sang loại đất phù hợp với mục đích kết hợp mới",
     "c": "Phải có phương án sử dụng đất đa mục đích được UBND cấp xã xác nhận và không làm ảnh hưởng đến môi trường",
     "d": "Phải nộp thuế sử dụng đất phi nông nghiệp cho toàn bộ diện tích đất sử dụng kết hợp",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Khoản 2 Điều 218 quy định rõ việc sử dụng đất đa mục đích không được làm thay đổi loại đất và không làm mất điều kiện để quay lại mục đích chính."
   },
   {
@@ -2174,7 +2174,7 @@
     "b": "Thửa đất chỉ cần đảm bảo diện tích tối thiểu và có sự đồng thuận của các hộ liền kề",
     "c": "Thửa đất đang bị kê biên vẫn có thể tách nếu có văn bản đồng ý của cơ quan thi hành án",
     "d": "Thửa đất có thể tách khi có quyết định giao đất của cấp xã mà chưa cần có Giấy chứng nhận",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Khoản 1 Điều 220 quy định điều kiện tách thửa gồm: có Giấy chứng nhận, còn thời hạn sử dụng, không tranh chấp, không bị kê biên hoặc áp dụng biện pháp khẩn cấp."
   },
   {
@@ -2183,7 +2183,7 @@
     "b": "Doanh nghiệp trong nước có năng lực tài chính để thực hiện dự án khai hoang",
     "c": "Tổ chức kinh tế đã có dự án đầu tư được cơ quan nhà nước chấp thuận chủ trương",
     "d": "Cộng đồng dân cư tại địa phương để quản lý và bảo vệ rừng cộng đồng",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Khoản 3 Điều 222 quy định ưu tiên giao đất chưa sử dụng cho cá nhân tại địa phương chưa được giao đất hoặc thiếu đất sản xuất."
   },
   {
@@ -2192,7 +2192,7 @@
     "b": "Đất có mặt nước của các hồ chứa thủy lợi, thủy điện và các công trình thủy sản công cộng",
     "c": "Toàn bộ diện tích mặt nước nằm trong ranh giới sử dụng đất của cơ sở sản xuất, kinh doanh",
     "d": "Đất mặt nước ven biển được sử dụng vào mục đích nuôi trồng thủy sản kết hợp du lịch",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Khoản 1 Điều 215 quy định đất có mặt nước chuyên dùng là ao, hồ, đầm, phá đã xác định mục đích sử dụng không phải nuôi trồng thủy sản."
   },
   {
@@ -2201,7 +2201,7 @@
     "b": "Được ưu tiên xây dựng theo nhu cầu của cộng đồng dân cư tại địa phương",
     "c": "Quản lý theo hình thức tự quản của dòng họ hoặc tổ chức tín ngưỡng",
     "d": "Chỉ cần đảm bảo khoảng cách an toàn môi trường theo quy định của Bộ Y tế",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Khoản 1 Điều 214 quy định đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng phải quy hoạch tập trung, phù hợp quy hoạch, bảo đảm môi trường."
   },
   {
@@ -2210,7 +2210,7 @@
     "b": "Đất chưa giao, chưa cho thuê hoặc đã giao để quản lý theo quy định tại khoản 1 Điều 217",
     "c": "Đất đã có giấy chứng nhận quyền sử dụng đất cho hộ gia đình",
     "d": "Đất đang tranh chấp nhưng chưa được Tòa án giải quyết",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Theo khoản 1 Điều 217 Luật Đất đai 2024, đất do cơ quan, tổ chức của Nhà nước quản lý bao gồm đất chưa giao, chưa cho thuê hoặc đã được giao để quản lý theo các trường hợp liệt kê tại Điều này."
   },
   {
@@ -2219,7 +2219,7 @@
     "b": "Đất do cơ quan, tổ chức của Nhà nước quản lý theo điểm i khoản 1 Điều 217",
     "c": "Đất ở đô thị",
     "d": "Đất thương mại dịch vụ",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Theo điểm i khoản 1 Điều 217 Luật Đất đai 2024, đất nông nghiệp sử dụng vào mục đích công ích của xã, phường, thị trấn thuộc nhóm đất do Nhà nước quản lý."
   },
   {
@@ -2228,7 +2228,7 @@
     "b": "Ủy ban nhân dân cấp xã",
     "c": "Bộ Tài nguyên và Môi trường",
     "d": "Hội đồng nhân dân cấp tỉnh",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Theo khoản 1 Điều 221 Luật Đất đai 2024, Ủy ban nhân dân cấp xã có trách nhiệm quản lý, bảo vệ đất chưa sử dụng tại địa phương."
   },
   {
@@ -2237,7 +2237,7 @@
     "b": "Đấu giá bắt buộc cho doanh nghiệp",
     "c": "Khuyến khích tổ chức, cá nhân đầu tư đưa đất chưa sử dụng vào sử dụng theo quy hoạch, kế hoạch",
     "d": "Chỉ giao cho doanh nghiệp nhà nước",
-    "correct": "c",
+    "answer": "c",
     "explanation": "Theo khoản 2 Điều 222 Luật Đất đai 2024, Nhà nước khuyến khích tổ chức, cá nhân đầu tư để đưa đất chưa sử dụng vào sử dụng theo quy hoạch, kế hoạch sử dụng đất."
   },
   {
@@ -2246,7 +2246,7 @@
     "b": "Tổ chức kinh tế lớn",
     "c": "Cá nhân cư trú tại địa phương chưa được giao đất hoặc thiếu đất sản xuất",
     "d": "Tổ chức tín dụng",
-    "correct": "c",
+    "answer": "c",
     "explanation": "Theo khoản 3 Điều 222 Luật Đất đai 2024, đất quy hoạch nông nghiệp ưu tiên giao cho cá nhân cư trú tại địa phương chưa được giao đất hoặc thiếu đất sản xuất."
   },
   {
@@ -2255,7 +2255,7 @@
     "b": "Đất do cơ quan, tổ chức của Nhà nước quản lý theo điểm e khoản 1 Điều 217",
     "c": "Đất thương mại dịch vụ",
     "d": "Đất khu công nghiệp",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Theo điểm e khoản 1 Điều 217 Luật Đất đai 2024, đất do Nhà nước thu hồi và giao cho tổ chức phát triển quỹ đất quản lý thuộc nhóm đất do Nhà nước quản lý."
   },
   {
@@ -2264,7 +2264,7 @@
     "b": "Bộ Quốc phòng",
     "c": "Bộ Tài chính",
     "d": "Sở Xây dựng",
-    "correct": "a",
+    "answer": "a",
     "explanation": "Theo khoản 2 Điều 221 Luật Đất đai 2024, Ủy ban nhân dân cấp tỉnh quản lý đất chưa sử dụng tại các đảo chưa giao cho cấp huyện, cấp xã quản lý."
   },
   {
@@ -2273,7 +2273,7 @@
     "b": "Quy hoạch, kế hoạch sử dụng đất đã được cơ quan có thẩm quyền phê duyệt",
     "c": "Quyết định của doanh nghiệp đầu tư",
     "d": "Đề xuất của hộ gia đình",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Theo khoản 1 Điều 222 Luật Đất đai 2024, việc đưa đất chưa sử dụng vào sử dụng phải căn cứ vào quy hoạch, kế hoạch sử dụng đất đã được phê duyệt."
   },
   {
@@ -2282,7 +2282,7 @@
     "b": "Nguồn thu từ chuyển nhượng quyền sử dụng đất trôi nổi",
     "c": "Nguồn thu từ chuyển mục đích sử dụng đất trồng lúa và nguồn hợp pháp khác",
     "d": "Quỹ bảo hiểm xã hội",
-    "correct": "c",
+    "answer": "c",
     "explanation": "Theo khoản 5 Điều 222 Luật Đất đai 2024, kinh phí được sử dụng từ nguồn thu khi cho phép chuyển mục đích đất trồng lúa và nguồn hợp pháp khác."
   },
   {
@@ -2291,7 +2291,7 @@
     "b": "Được tiếp tục sử dụng đất theo đúng mục đích đã xác định nhưng không được gây cản trở việc bảo vệ an toàn công trình",
     "c": "Được chuyển mục đích sử dụng đất khi có nhu cầu",
     "d": "Được chuyển nhượng toàn bộ diện tích đất thuộc hành lang bảo vệ",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Theo khoản 3 Điều 210 Luật Đất đai 2024, người sử dụng đất trong hành lang bảo vệ an toàn được tiếp tục sử dụng đất theo đúng mục đích nhưng không được gây cản trở việc bảo vệ an toàn công trình."
   },
   {
@@ -2300,7 +2300,7 @@
     "b": "Chủ công trình phải bồi thường ngay cho người sử dụng đất",
     "c": "Chủ công trình hoặc người sử dụng đất phải khắc phục, nếu không thì Nhà nước thu hồi đất và bồi thường theo quy định",
     "d": "Chỉ xử phạt hành chính mà không thu hồi đất",
-    "correct": "c",
+    "answer": "c",
     "explanation": "Theo khoản 3 Điều 210 Luật Đất đai 2024, nếu ảnh hưởng an toàn mà không khắc phục được thì Nhà nước thu hồi đất và bồi thường theo quy định."
   },
   {
@@ -2309,7 +2309,7 @@
     "b": "Ủy ban nhân dân cấp xã nơi có di tích",
     "c": "Doanh nghiệp được thuê đất",
     "d": "Tổ chức chính trị - xã hội",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Theo điểm b khoản 1 Điều 211 Luật Đất đai 2024, UBND cấp xã chịu trách nhiệm quản lý khi không có tổ chức trực tiếp quản lý."
   },
   {
@@ -2318,7 +2318,7 @@
     "b": "Phải tuân thủ quy định của Luật Đất đai và Luật Di sản văn hóa, không làm ảnh hưởng yếu tố gốc của di tích",
     "c": "Chỉ cần được doanh nghiệp đồng ý",
     "d": "Không cần xin phép cơ quan nhà nước",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Theo khoản 2 Điều 211, việc sử dụng kết hợp phải tuân thủ Luật Đất đai, Luật Di sản văn hóa và không làm ảnh hưởng yếu tố gốc di tích."
   },
   {
@@ -2327,7 +2327,7 @@
     "b": "Được phép nếu phù hợp quy hoạch và đáp ứng yêu cầu tại khoản 2 Điều 218",
     "c": "Chỉ được phép khi chuyển sang đất ở",
     "d": "Chỉ được phép khi Nhà nước thu hồi đất",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Theo khoản 3 Điều 212 và khoản 2 Điều 218, đất tín ngưỡng có thể sử dụng kết hợp thương mại, dịch vụ nếu đáp ứng điều kiện pháp luật."
   },
   {
@@ -2336,7 +2336,7 @@
     "b": "Giao đất không thu tiền sử dụng đất",
     "c": "Cho thuê đất trả tiền một lần",
     "d": "Đấu giá quyền sử dụng đất",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Theo khoản 2 Điều 213 Luật Đất đai 2024, Nhà nước giao đất không thu tiền sử dụng đất cho cơ sở tôn giáo."
   },
   {
@@ -2345,7 +2345,7 @@
     "b": "Nhà nước giao cho UBND cấp xã hoặc đơn vị sự nghiệp công lập quản lý",
     "c": "Bán đấu giá cho doanh nghiệp tư nhân",
     "d": "Chuyển sang đất ở",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Theo khoản 4 Điều 214, nếu không giao cho tổ chức kinh tế thì Nhà nước giao UBND cấp xã hoặc đơn vị sự nghiệp công lập quản lý."
   },
   {
@@ -2354,7 +2354,7 @@
     "b": "Không làm ảnh hưởng đến mục đích sử dụng chủ yếu và không cản trở dòng chảy tự nhiên",
     "c": "Được tự do chuyển đổi sang đất ở",
     "d": "Không cần tuân thủ quy hoạch thủy lợi",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Theo khoản 3 Điều 215, việc sử dụng đất mặt nước phải không ảnh hưởng mục đích chính và không cản trở dòng chảy."
   },
   {
@@ -2363,7 +2363,7 @@
     "b": "Được chuyển nhượng, cho thuê không gian dưới lòng đất khi được xác định theo quy định pháp luật",
     "c": "Không có quyền gì liên quan đến không gian ngầm",
     "d": "Chỉ được sử dụng khi Nhà nước cho phép riêng từng lần",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Theo khoản 2 Điều 216, người sử dụng đất có thể chuyển nhượng, cho thuê không gian dưới lòng đất khi được xác định theo pháp luật."
   },
   {
@@ -2372,7 +2372,7 @@
     "b": "Đất phải có giấy chứng nhận, còn thời hạn sử dụng, không tranh chấp và không bị kê biên",
     "c": "Chỉ cần UBND xã xác nhận",
     "d": "Không cần điều kiện cụ thể",
-    "correct": "b",
+    "answer": "b",
     "explanation": "Theo khoản 1 Điều 220, tách thửa phải có GCN, còn thời hạn sử dụng, không tranh chấp, không kê biên."
   },
     {
