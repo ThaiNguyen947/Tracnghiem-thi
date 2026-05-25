@@ -1,5 +1,410 @@
 [
   {
+"question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, vốn điều lệ của công ty TNHH hai thành viên trở lên được xác định như thế nào?",
+    "a": "Là tổng giá trị tài sản hiện có của công ty tại thời điểm đăng ký",
+    "b": "Là tổng giá trị phần vốn góp các thành viên đã thực tế chuyển vào tài khoản công ty",
+    "c": "Là tổng giá trị phần vốn góp các thành viên cam kết góp và ghi trong Điều lệ công ty",
+    "d": "Do cơ quan đăng ký kinh doanh quyết định dựa trên quy mô ngành nghề kinh doanh",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 47 quy định vốn điều lệ là tổng giá trị phần vốn góp các thành viên cam kết góp và ghi trong Điều lệ công ty."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, thời hạn thành viên phải góp đủ vốn kể từ ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp là bao lâu?",
+    "a": "30 ngày",
+    "b": "60 ngày",
+    "c": "90 ngày",
+    "d": "120 ngày",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 47 quy định thời hạn góp vốn là 90 ngày kể từ ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, thời hạn 90 ngày góp vốn có bao gồm thời gian vận chuyển hoặc thực hiện thủ tục chuyển quyền sở hữu tài sản hay không?",
+    "a": "Có, thời hạn 90 ngày là thời hạn tuyệt đối cho mọi thủ tục",
+    "b": "Không, thời gian này không tính vào thời hạn 90 ngày góp vốn",
+    "c": "Chỉ không tính đối với bất động sản",
+    "d": "Chỉ không tính đối với tài sản phải đăng ký quyền sở hữu tại cơ quan nhà nước",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 47 quy định không tính thời gian vận chuyển, nhập khẩu tài sản góp vốn và thực hiện thủ tục chuyển quyền sở hữu tài sản."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, trong thời hạn góp vốn, thành viên công ty có quyền và nghĩa vụ tương ứng với tỷ lệ nào?",
+    "a": "Tỷ lệ phần vốn đã thực góp thực tế",
+    "b": "Tỷ lệ phần vốn cam kết góp ghi trong Điều lệ",
+    "c": "Tỷ lệ do các thành viên thỏa thuận tại biên bản họp đầu tiên",
+    "d": "Tỷ lệ vốn điều lệ chia đều cho số lượng thành viên",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 47 quy định trong thời hạn góp vốn, thành viên có quyền và nghĩa vụ tương ứng với tỷ lệ phần vốn góp đã cam kết."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, để góp vốn bằng loại tài sản khác với tài sản đã cam kết, thành viên cần điều kiện gì?",
+    "a": "Thông báo bằng văn bản cho cơ quan đăng ký kinh doanh",
+    "b": "Được sự chấp thuận của người đại diện theo pháp luật",
+    "c": "Được sự tán thành của trên 50% số thành viên còn lại",
+    "d": "Phải có sự đồng ý của toàn bộ các thành viên khác trong công ty",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 47 quy định việc góp bằng tài sản khác phải được trên 50% số thành viên còn lại tán thành."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, thành viên không góp vốn theo cam kết sau thời hạn luật định sẽ dẫn đến hậu quả gì?",
+    "a": "Bị xử phạt hành chính và phải bồi thường thiệt hại cho công ty",
+    "b": "Đương nhiên không còn là thành viên công ty",
+    "c": "Mất tư cách thành viên sau khi có nghị quyết của Hội đồng thành viên",
+    "d": "Tài sản góp vốn bị cơ quan chức năng phong tỏa và thanh lý",
+    "answer": "b",
+    "explanation": "Điểm a khoản 3 Điều 47 quy định thành viên chưa góp vốn theo cam kết đương nhiên không còn là thành viên công ty."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, thành viên chưa góp đủ phần vốn góp đã cam kết có quyền như thế nào?",
+    "a": "Có đầy đủ quyền như đã cam kết cho đến khi bị khai trừ",
+    "b": "Chỉ có quyền tương ứng với phần vốn đã thực góp",
+    "c": "Không còn bất kỳ quyền nào, bao gồm cả quyền biểu quyết",
+    "d": "Vẫn có quyền biểu quyết nhưng không được chia lợi nhuận",
+    "answer": "b",
+    "explanation": "Điểm b khoản 3 Điều 47 quy định thành viên chưa góp đủ vốn chỉ có quyền tương ứng với phần vốn đã góp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, phần vốn góp chưa được thành viên góp sẽ được xử lý như thế nào?",
+    "a": "Công ty phải giảm vốn điều lệ tương ứng",
+    "b": "Công ty được quyền chuyển thành quỹ dự trữ bắt buộc",
+    "c": "Được chào bán theo nghị quyết, quyết định của Hội đồng thành viên",
+    "d": "Được chia đều cho các thành viên đã góp đủ vốn",
+    "answer": "c",
+    "explanation": "Điểm c khoản 3 Điều 47 quy định phần vốn góp chưa góp được chào bán theo nghị quyết, quyết định của Hội đồng thành viên."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, thời hạn công ty phải đăng ký thay đổi vốn điều lệ kể từ ngày cuối cùng phải góp đủ vốn là bao lâu?",
+    "a": "10 ngày làm việc",
+    "b": "15 ngày làm việc",
+    "c": "30 ngày",
+    "d": "60 ngày",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 47 quy định công ty phải đăng ký thay đổi vốn điều lệ trong thời hạn 30 ngày."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, trách nhiệm của thành viên đối với nghĩa vụ tài chính của công ty trong trường hợp chưa góp đủ vốn là gì?",
+    "a": "Chỉ chịu trách nhiệm theo phần vốn đã thực tế góp",
+    "b": "Chịu trách nhiệm tương ứng với phần vốn đã cam kết góp",
+    "c": "Không phải chịu bất kỳ trách nhiệm tài chính nào",
+    "d": "Chịu trách nhiệm vô hạn đối với các khoản nợ của công ty",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 47 quy định thành viên chưa góp đủ vốn vẫn phải chịu trách nhiệm tương ứng với phần vốn đã cam kết."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, thời điểm người góp vốn chính thức trở thành thành viên công ty là khi nào?",
+    "a": "Khi ký vào Điều lệ công ty",
+    "b": "Khi được cấp Giấy chứng nhận đăng ký doanh nghiệp",
+    "c": "Khi thanh toán đủ phần vốn góp và được ghi đầy đủ thông tin vào sổ đăng ký thành viên",
+    "d": "Khi Hội đồng thành viên ra thông báo tiếp nhận thành viên mới",
+    "answer": "c",
+    "explanation": "Khoản 5 Điều 47 quy định người góp vốn trở thành thành viên từ thời điểm thanh toán phần vốn góp và được ghi vào sổ đăng ký thành viên."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, thời điểm công ty phải cấp giấy chứng nhận phần vốn góp cho thành viên là khi nào?",
+    "a": "Ngay sau khi thành viên hoàn tất thủ tục đăng ký thành lập",
+    "b": "Ngay sau khi thành viên góp đủ phần vốn góp đã cam kết",
+    "c": "Sau khi kết thúc năm tài chính đầu tiên",
+    "d": "Khi thành viên yêu cầu bằng văn bản và được Hội đồng thành viên thông qua",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 47 quy định tại thời điểm góp đủ phần vốn góp, công ty phải cấp giấy chứng nhận phần vốn góp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, giấy chứng nhận phần vốn góp phải có chữ ký của chủ thể nào?",
+    "a": "Toàn bộ thành viên công ty",
+    "b": "Chủ tịch Hội đồng thành viên",
+    "c": "Người đại diện theo pháp luật của công ty",
+    "d": "Trưởng Ban kiểm soát hoặc Kiểm soát viên (nếu có)",
+    "answer": "c",
+    "explanation": "Điểm e khoản 6 Điều 47 quy định giấy chứng nhận phần vốn góp phải có chữ ký của người đại diện theo pháp luật."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, công ty phải lập sổ đăng ký thành viên vào thời điểm nào?",
+    "a": "Ngay sau khi kết thúc 90 ngày thời hạn góp vốn",
+    "b": "Ngay sau khi được cấp Giấy chứng nhận đăng ký doanh nghiệp",
+    "c": "Ngay sau khi góp đủ vốn điều lệ",
+    "d": "Ngay sau khi phát sinh giao dịch chuyển nhượng vốn đầu tiên",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 48 quy định công ty phải lập sổ đăng ký thành viên ngay sau khi được cấp Giấy chứng nhận đăng ký doanh nghiệp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, hình thức nào là hợp lệ đối với sổ đăng ký thành viên?",
+    "a": "Chỉ được lập dưới dạng văn bản giấy có đóng dấu của công ty",
+    "b": "Chỉ được lập dưới dạng dữ liệu điện tử",
+    "c": "Văn bản giấy hoặc tập hợp dữ liệu điện tử",
+    "d": "Phải lập song song cả văn bản giấy và dữ liệu điện tử",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 48 quy định sổ đăng ký thành viên có thể là văn bản giấy hoặc tập hợp dữ liệu điện tử."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, địa điểm lưu giữ sổ đăng ký thành viên là ở đâu?",
+    "a": "Cơ quan đăng ký kinh doanh cấp tỉnh",
+    "b": "Trụ sở chính của công ty",
+    "c": "Địa điểm thường trú của người đại diện theo pháp luật",
+    "d": "Văn phòng của đơn vị kiểm toán độc lập",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 48 quy định sổ đăng ký thành viên được lưu giữ tại trụ sở chính của công ty."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, thành viên công ty TNHH hai thành viên trở lên có quyền yêu cầu công ty mua lại phần vốn góp khi nào?",
+    "a": "Khi có nhu cầu rút vốn bất kỳ lúc nào để chuyển sang đầu tư lĩnh vực khác",
+    "b": "Khi đã bỏ phiếu không tán thành đối với nghị quyết, quyết định về các trường hợp luật định",
+    "c": "Khi công ty kinh doanh có lợi nhuận nhưng không chia cổ tức cho thành viên",
+    "d": "Khi được Chủ tịch Hội đồng thành viên cho phép bằng văn bản",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 51 quy định thành viên có quyền yêu cầu mua lại phần vốn góp nếu đã bỏ phiếu không tán thành đối với nghị quyết, quyết định về sửa đổi Điều lệ, tổ chức lại công ty hoặc trường hợp khác theo Điều lệ."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, trường hợp nào sau đây làm phát sinh quyền yêu cầu công ty mua lại phần vốn góp?",
+    "a": "Sửa đổi, bổ sung các nội dung trong Điều lệ công ty liên quan đến quyền và nghĩa vụ của thành viên",
+    "b": "Tổ chức lại công ty (chia, tách, hợp nhất, sáp nhập, chuyển đổi loại hình doanh nghiệp)",
+    "c": "Các trường hợp khác theo quy định tại Điều lệ công ty",
+    "d": "Tất cả các đáp án trên",
+    "answer": "d",
+    "explanation": "Khoản 1 Điều 51 quy định cả ba trường hợp nêu trên đều làm phát sinh quyền yêu cầu công ty mua lại phần vốn góp cho thành viên không tán thành."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, yêu cầu mua lại phần vốn góp phải được gửi đến công ty trong thời hạn bao lâu kể từ ngày thông qua nghị quyết, quyết định?",
+    "a": "07 ngày làm việc",
+    "b": "10 ngày làm việc",
+    "c": "15 ngày",
+    "d": "30 ngày",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 51 quy định thời hạn gửi yêu cầu mua lại phần vốn góp bằng văn bản là 15 ngày kể từ ngày thông qua nghị quyết, quyết định."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, công ty phải mua lại phần vốn góp của thành viên trong thời hạn bao lâu kể từ ngày nhận được yêu cầu hợp lệ?",
+    "a": "07 ngày",
+    "b": "10 ngày",
+    "c": "15 ngày",
+    "d": "30 ngày",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 51 quy định công ty phải mua lại phần vốn góp trong thời hạn 15 ngày kể từ ngày nhận được yêu cầu."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, công ty mua lại phần vốn góp theo mức giá nào?",
+    "a": "Giá do Hội đồng thành viên ấn định dựa trên tài sản ròng",
+    "b": "Giá thị trường hoặc giá được xác định theo nguyên tắc quy định tại Điều lệ công ty",
+    "c": "Giá do cơ quan thuế ấn định để tính thuế thu nhập cá nhân",
+    "d": "Giá theo mệnh giá vốn góp ban đầu được ghi trong Giấy chứng nhận đăng ký doanh nghiệp",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 51 quy định việc mua lại phải theo giá thị trường hoặc giá xác định theo nguyên tắc tại Điều lệ công ty."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, điều kiện nào phải thỏa mãn để công ty thanh toán phần vốn góp được mua lại?",
+    "a": "Có sự đồng ý của tất cả các thành viên còn lại trong công ty",
+    "b": "Phải có sự xác nhận của tổ chức kiểm toán độc lập về giá trị thực của vốn góp",
+    "c": "Sau khi thanh toán, công ty vẫn bảo đảm thanh toán đủ các khoản nợ và nghĩa vụ tài sản khác",
+    "d": "Công ty phải được cơ quan đăng ký kinh doanh chấp thuận phương án giảm vốn",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 51 quy định công ty chỉ được thanh toán nếu sau khi thanh toán vẫn bảo đảm thanh toán đủ các khoản nợ và nghĩa vụ tài sản khác."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, nếu công ty không thanh toán được phần vốn góp được yêu cầu mua lại, thành viên có quyền gì?",
+    "a": "Yêu cầu Tòa án tuyên bố công ty phá sản",
+    "b": "Tự do chuyển nhượng phần vốn góp đó cho thành viên khác hoặc người ngoài công ty",
+    "c": "Được quyền tịch thu tài sản của công ty tương ứng với giá trị vốn góp",
+    "d": "Được quyền yêu cầu cơ quan đăng ký kinh doanh thu hồi giấy phép doanh nghiệp",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 51 quy định trường hợp không thanh toán được, thành viên có quyền tự do chuyển nhượng phần vốn góp của mình."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, khi chuyển nhượng phần vốn góp, thành viên phải thực hiện nghĩa vụ ưu tiên nào trước?",
+    "a": "Chào bán cho người ngoài công ty để thu hồi vốn nhanh nhất",
+    "b": "Chào bán cho các thành viên còn lại của công ty",
+    "c": "Thông báo cho cơ quan đăng ký kinh doanh về ý định chuyển nhượng",
+    "d": "Chuyển nhượng cho người lao động làm việc lâu năm trong công ty",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 52 quy định thành viên phải chào bán phần vốn góp đó cho các thành viên còn lại theo tỷ lệ tương ứng."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, việc chào bán phần vốn góp cho các thành viên còn lại phải tuân thủ nguyên tắc nào?",
+    "a": "Theo thứ tự ưu tiên của người góp vốn trước hoặc sau",
+    "b": "Theo tỷ lệ tương ứng với phần vốn góp của họ và cùng điều kiện chào bán",
+    "c": "Do Chủ tịch Hội đồng thành viên tự quyết định để ổn định cơ cấu",
+    "d": "Không yêu cầu nguyên tắc nào, miễn là giá cả do người chuyển nhượng quyết định",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 52 quy định phải chào bán cho các thành viên còn lại theo tỷ lệ tương ứng và cùng điều kiện chào bán."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, thành viên chỉ được chuyển nhượng cho người không phải là thành viên công ty khi nào?",
+    "a": "Sau khi đã thông báo ý định và được 50% thành viên đồng ý",
+    "b": "Sau khi các thành viên còn lại không mua hoặc không mua hết trong thời hạn 30 ngày",
+    "c": "Sau khi thông báo cho cơ quan đăng ký kinh doanh trong 15 ngày",
+    "d": "Ngay khi có người mua trả giá cao hơn mức định giá của công ty",
+    "answer": "b",
+    "explanation": "Điểm b khoản 1 Điều 52 quy định được chuyển nhượng cho người ngoài nếu các thành viên còn lại không mua hoặc không mua hết trong 30 ngày."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, quyền và nghĩa vụ của thành viên chuyển nhượng chấm dứt khi nào?",
+    "a": "Khi ký hợp đồng chuyển nhượng vốn",
+    "b": "Khi hoàn thành việc thanh toán tiền chuyển nhượng",
+    "c": "Khi thông tin người mua được ghi đầy đủ vào sổ đăng ký thành viên",
+    "d": "Khi cơ quan đăng ký kinh doanh xác nhận hồ sơ thay đổi thành viên",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 52 quy định quyền và nghĩa vụ của thành viên chấm dứt khi thông tin người mua được ghi đầy đủ vào sổ đăng ký thành viên."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, trường hợp chuyển nhượng dẫn đến công ty chỉ còn một thành viên, thời hạn đăng ký thay đổi là bao lâu?",
+    "a": "07 ngày",
+    "b": "10 ngày",
+    "c": "15 ngày",
+    "d": "30 ngày",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 52 quy định công ty phải đăng ký thay đổi nội dung đăng ký doanh nghiệp trong thời hạn 15 ngày."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, khi thành viên là cá nhân chết, ai sẽ trở thành thành viên công ty?",
+    "a": "Người đại diện theo pháp luật của di sản",
+    "b": "Người thừa kế theo di chúc hoặc theo pháp luật của thành viên đó",
+    "c": "Công ty sẽ mặc nhiên thu hồi và hoàn trả giá trị phần vốn góp",
+    "d": "Thành viên còn lại của công ty sẽ được chia phần vốn này",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 53 quy định người thừa kế theo di chúc hoặc theo pháp luật là thành viên công ty."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, người được tặng cho vốn góp không thuộc hàng thừa kế chỉ trở thành thành viên khi nào?",
+    "a": "Đương nhiên trở thành thành viên",
+    "b": "Được Hội đồng thành viên chấp thuận",
+    "c": "Được sự đồng ý của cơ quan đăng ký kinh doanh",
+    "d": "Sau khi đã góp thêm vốn vào công ty",
+    "answer": "b",
+    "explanation": "Điểm b khoản 6 Điều 53 quy định người được tặng cho chỉ trở thành thành viên khi được Hội đồng thành viên chấp thuận."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, đối với người được tặng cho thuộc hàng thừa kế theo pháp luật, họ có trở thành thành viên công ty không?",
+    "a": "Có, đương nhiên trở thành thành viên công ty",
+    "b": "Không, vẫn cần sự chấp thuận của Hội đồng thành viên",
+    "c": "Chỉ trở thành thành viên nếu vốn góp đó có giá trị dưới 1 tỷ đồng",
+    "d": "Chỉ trở thành thành viên nếu có sự đồng ý của người đại diện theo pháp luật",
+    "answer": "a",
+    "explanation": "Điểm a khoản 6 Điều 53 quy định người thuộc đối tượng thừa kế theo pháp luật đương nhiên trở thành thành viên."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, người nhận thanh toán nợ bằng phần vốn góp trở thành thành viên trong trường hợp nào?",
+    "a": "Đương nhiên trở thành thành viên",
+    "b": "Khi được Hội đồng thành viên chấp thuận",
+    "c": "Khi Tòa án ra quyết định công nhận",
+    "d": "Khi cơ quan thi hành án dân sự thông báo",
+    "answer": "b",
+    "explanation": "Điểm a khoản 7 Điều 53 quy định người nhận thanh toán trở thành thành viên nếu được Hội đồng thành viên chấp thuận."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, khi thành viên bị tạm giam hoặc đang chấp hành hình phạt tù, họ phải xử lý thế nào?",
+    "a": "Đương nhiên mất tư cách thành viên và công ty phải mua lại vốn",
+    "b": "Ủy quyền cho người khác thực hiện quyền và nghĩa vụ của mình",
+    "c": "Tạm dừng mọi quyền và nghĩa vụ cho đến khi chấp hành xong án phạt",
+    "d": "Để lại toàn bộ quyền cho Hội đồng thành viên quyết định thay",
+    "answer": "b",
+    "explanation": "Khoản 8 Điều 53 quy định thành viên phải ủy quyền cho người khác thực hiện một số hoặc toàn bộ quyền, nghĩa vụ của mình tại công ty."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, điều kiện bắt buộc để thành viên công ty TNHH hai thành viên trở lên có quyền yêu cầu công ty mua lại phần vốn góp là gì?",
+    "a": "Không tham dự cuộc họp Hội đồng thành viên dù đã được gửi thông báo hợp lệ",
+    "b": "Bỏ phiếu trắng tại cuộc họp Hội đồng thành viên",
+    "c": "Đã bỏ phiếu không tán thành nghị quyết, quyết định về các trường hợp luật định",
+    "d": "Có văn bản phản đối gửi tới công ty sau cuộc họp",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 51 quy định thành viên phải là người đã bỏ phiếu không tán thành đối với nghị quyết, quyết định về sửa đổi Điều lệ, tổ chức lại công ty hoặc trường hợp khác theo Điều lệ."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, thành viên vắng mặt tại cuộc họp Hội đồng thành viên có đương nhiên phát sinh quyền yêu cầu công ty mua lại phần vốn góp không?",
+    "a": "Có, vì vắng mặt được xem là không tán thành",
+    "b": "Không, vì luật yêu cầu thành viên phải bỏ phiếu không tán thành",
+    "c": "Chỉ khi thành viên có lý do chính đáng và được Hội đồng thành viên chấp thuận",
+    "d": "Chỉ khi được Chủ tịch Hội đồng thành viên đồng ý cho phép vắng mặt mà vẫn bảo lưu quyền",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 51 quy định quyền mua lại chỉ phát sinh khi thành viên đã bỏ phiếu không tán thành đối với nghị quyết, quyết định đó."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, khi chuyển nhượng phần vốn góp cho người ngoài công ty, điều kiện chuyển nhượng phải như thế nào so với điều kiện đã chào bán cho các thành viên còn lại?",
+    "a": "Được ưu đãi hơn về thời hạn thanh toán",
+    "b": "Khắt khe hơn về thủ tục hành chính",
+    "c": "Giống hoặc thuận lợi hơn cho người ngoài công ty",
+    "d": "Cùng điều kiện chào bán",
+    "answer": "d",
+    "explanation": "Điểm b khoản 1 Điều 52 quy định việc chuyển nhượng cho người ngoài phải với cùng điều kiện đã chào bán cho thành viên còn lại."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, thành viên có được bán phần vốn góp cho người ngoài với giá thấp hơn giá đã chào bán cho thành viên còn lại hay không?",
+    "a": "Có, nếu được Chủ tịch Hội đồng thành viên đồng ý",
+    "b": "Không, phải với cùng điều kiện chào bán (trong đó bao gồm cả giá)",
+    "c": "Chỉ khi thành viên còn lại không mua trong vòng 10 ngày",
+    "d": "Chỉ khi công ty đang trong tình trạng thua lỗ nặng",
+    "answer": "b",
+    "explanation": "Điểm b khoản 1 Điều 52 quy định việc chuyển nhượng cho người ngoài phải theo cùng điều kiện chào bán."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, khi hợp đồng chuyển nhượng phần vốn góp được ký kết, người nhận chuyển nhượng đã đương nhiên trở thành thành viên công ty chưa?",
+    "a": "Đã trở thành thành viên ngay tại thời điểm ký hợp đồng",
+    "b": "Chưa, chỉ trở thành thành viên khi thông tin người mua được ghi đầy đủ vào sổ đăng ký thành viên",
+    "c": "Chỉ cần công chứng hợp đồng chuyển nhượng là đủ điều kiện trở thành thành viên",
+    "d": "Chỉ cần thanh toán tiền chuyển nhượng cho người bán là đủ tư cách thành viên",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 52 quy định người nhận chuyển nhượng chỉ chính thức trở thành thành viên khi được ghi vào sổ đăng ký thành viên."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, người được tặng cho phần vốn góp thuộc hàng thừa kế theo pháp luật có trở thành thành viên công ty như thế nào?",
+    "a": "Phải thông qua thủ tục chấp thuận của Hội đồng thành viên",
+    "b": "Đương nhiên trở thành thành viên công ty",
+    "c": "Phải làm thủ tục đăng ký lại tại cơ quan thuế trước khi tham gia công ty",
+    "d": "Phải được sự đồng ý của toàn bộ các thành viên còn lại",
+    "answer": "b",
+    "explanation": "Điểm a khoản 6 Điều 53 quy định người được tặng cho thuộc đối tượng thừa kế theo pháp luật đương nhiên là thành viên công ty."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, người được tặng cho phần vốn góp không thuộc đối tượng thừa kế theo pháp luật cần điều kiện gì để trở thành thành viên?",
+    "a": "Hợp đồng tặng cho phải có công chứng và chứng thực",
+    "b": "Được Hội đồng thành viên chấp thuận",
+    "c": "Được cơ quan đăng ký kinh doanh đồng ý về việc tiếp nhận thành viên",
+    "d": "Phải là người có kinh nghiệm quản lý doanh nghiệp trong lĩnh vực công ty đang hoạt động",
+    "answer": "b",
+    "explanation": "Điểm b khoản 6 Điều 53 quy định trường hợp này phải được Hội đồng thành viên chấp thuận."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, người nhận phần vốn góp để thanh toán nợ có quyền nào sau đây?",
+    "a": "Đương nhiên trở thành thành viên công ty để quản lý vốn",
+    "b": "Yêu cầu giải thể công ty nếu không nhận được lợi nhuận",
+    "c": "Chào bán và chuyển nhượng phần vốn góp theo quy định của pháp luật",
+    "d": "Được quyền tự ý tham gia Hội đồng thành viên và biểu quyết",
+    "answer": "c",
+    "explanation": "Điểm b khoản 7 Điều 53 quy định người nhận thanh toán có quyền chào bán và chuyển nhượng phần vốn góp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, trường hợp thành viên là cá nhân chết mà không có người thừa kế thì phần vốn góp được giải quyết theo luật nào?",
+    "a": "Luật Doanh nghiệp",
+    "b": "Luật Hình sự",
+    "c": "Bộ luật Dân sự",
+    "d": "Luật Đất đai (nếu phần vốn góp gắn với bất động sản)",
+    "answer": "c",
+    "explanation": "Khoản 5 Điều 53 quy định phần vốn góp trong trường hợp không có người thừa kế được giải quyết theo pháp luật dân sự."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, trường hợp thành viên bị Tòa án tuyên bố mất tích, quyền và nghĩa vụ được thực hiện thông qua ai?",
+    "a": "Người đại diện theo pháp luật của công ty",
+    "b": "Người quản lý tài sản của thành viên đó theo quy định của pháp luật dân sự",
+    "c": "Cơ quan đăng ký kinh doanh nơi cấp giấy phép doanh nghiệp",
+    "d": "Hội đồng thành viên của công ty",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 53 quy định quyền và nghĩa vụ được thực hiện thông qua người quản lý tài sản."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, khi thành viên bị hạn chế năng lực hành vi dân sự, quyền và nghĩa vụ được thực hiện thông qua ai?",
+    "a": "Người đại diện theo pháp luật của thành viên đó",
+    "b": "Hội đồng thành viên của công ty",
+    "c": "Người đại diện theo pháp luật của công ty",
+    "d": "Cơ quan đăng ký kinh doanh",
+    "answer": "a",
+    "explanation": "Khoản 3 Điều 53 quy định quyền và nghĩa vụ được thực hiện thông qua người đại diện của họ."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, trường hợp thành viên là pháp nhân bị Tòa án cấm kinh doanh trong một số lĩnh vực thuộc ngành nghề của công ty thì công ty phải xử lý như thế nào?",
+    "a": "Công ty phải tự động giải thể để bảo toàn vốn",
+    "b": "Công ty phải tạm ngừng hoặc chấm dứt ngành, nghề liên quan theo quyết định của Tòa án",
+    "c": "Toàn bộ thành viên còn lại bị mất quyền quản lý công ty",
+    "d": "Công ty bị tước tư cách pháp nhân ngay lập tức",
+    "answer": "b",
+    "explanation": "Khoản 9 Điều 53 quy định công ty phải tạm ngừng hoặc chấm dứt ngành, nghề liên quan theo quyết định của Tòa án."
+  },
+  {
     "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, tài sản nào sau đây có thể được sử dụng để góp vốn vào doanh nghiệp?",
     "a": "Quyền sử dụng đất, quyền sở hữu trí tuệ, bí quyết kỹ thuật",
     "b": "Tài sản là vật, tiền mặt, ngoại tệ tự do chuyển đổi, vàng",
