@@ -1,4 +1,274 @@
 [
+   {
+    "question": "Theo NQ 02/2022/NQ-HĐTP, để phát sinh trách nhiệm bồi thường thiệt hại ngoài hợp đồng, cần có những yếu tố nào?",
+    "a": "Có hành vi xâm phạm, có thiệt hại thực tế, có quan hệ nhân quả",
+    "b": "Có hành vi trái pháp luật, lỗi của người gây thiệt hại, có thiệt hại thực tế",
+    "c": "Có hành vi xâm phạm, thiệt hại thực tế và mối quan hệ trực tiếp giữa hành vi với thiệt hại",
+    "d": "Có thiệt hại thực tế, có hành vi gây thiệt hại, có lỗi của người gây thiệt hại",
+    "answer": "a",
+    "explanation": "Điều 2 khoản 1 quy định 3 yếu tố: hành vi xâm phạm, thiệt hại thực tế, quan hệ nhân quả giữa hành vi và thiệt hại."
+  },
+  {
+    "question": "Theo NQ 02/2022/NQ-HĐTP, trong giao dịch đã công chứng nhưng chưa chuyển giao quyền sở hữu, ai là người chịu trách nhiệm khi tài sản gây thiệt hại?",
+    "a": "Bên mua, vì giao dịch đã được công chứng nên quyền sở hữu đã chuyển giao",
+    "b": "Bên bán, vì pháp luật quy định chủ sở hữu là người chưa chuyển giao quyền sở hữu",
+    "c": "Người đang trực tiếp chiếm hữu, sử dụng tài sản tại thời điểm đó",
+    "d": "Cả hai bên cùng chịu trách nhiệm liên đới theo tỷ lệ trong hợp đồng",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 2: chủ sở hữu xác định tại thời điểm gây thiệt hại; chưa chuyển giao thì bên bán vẫn là chủ sở hữu."
+  },
+  {
+    "question": "Theo NQ 02/2022/NQ-HĐTP, thời điểm xác định chủ sở hữu tài sản gây thiệt hại được xác định như thế nào?",
+    "a": "Thời điểm các bên ký kết văn bản hợp đồng",
+    "b": "Thời điểm hoàn tất thủ tục công chứng tại văn phòng",
+    "c": "Thời điểm tài sản thực tế gây thiệt hại",
+    "d": "Thời điểm phát hiện thiệt hại và yêu cầu bồi thường",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 2 quy định chủ sở hữu xác định tại thời điểm tài sản gây thiệt hại."
+  },
+  {
+    "question": "Theo NQ 02/2022/NQ-HĐTP, hợp đồng mua bán nhà đã công chứng nhưng chưa thanh toán đủ và chưa bàn giao thì ai là chủ sở hữu?",
+    "a": "Bên mua (vì đã hoàn thành thủ tục công chứng)",
+    "b": "Bên bán (vì chưa hoàn thành nghĩa vụ thanh toán và bàn giao)",
+    "c": "Cả hai bên cùng sở hữu tài sản cho đến khi bàn giao xong",
+    "d": "Bên mua tạm thời chịu trách nhiệm quản lý",
+    "answer": "b",
+    "explanation": "Ví dụ Điều 2 khoản 2: chưa thanh toán đủ và chưa bàn giao thì bên bán vẫn là chủ sở hữu."
+  },
+  {
+    "question": "Theo NQ 02/2022/NQ-HĐTP, sự kiện bất khả kháng được hiểu là gì?",
+    "a": "Sự kiện không thể lường trước được dù đã thực hiện mọi biện pháp cần thiết trong khả năng",
+    "b": "Sự kiện khách quan không thể lường trước và không thể khắc phục được mặc dù đã áp dụng mọi biện pháp cần thiết và khả năng cho phép",
+    "c": "Sự kiện ngoài ý muốn của các bên làm cho hợp đồng không thể tiếp tục thực hiện",
+    "d": "Sự kiện thiên tai, dịch bệnh xảy ra khiến thiệt hại là tất yếu",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 2: bất khả kháng là khách quan, không lường trước, không khắc phục dù đã áp dụng biện pháp cần thiết."
+  },
+  {
+    "question": "Theo NQ 02/2022/NQ-HĐTP, lỗi hoàn toàn của người bị thiệt hại dẫn đến hậu quả gì?",
+    "a": "Giảm mức bồi thường xuống mức tối thiểu",
+    "b": "Miễn hoàn toàn trách nhiệm bồi thường cho bên gây thiệt hại",
+    "c": "Bên gây thiệt hại không phát sinh trách nhiệm bồi thường",
+    "d": "Chỉ bồi thường các chi phí trực tiếp, không bồi thường thiệt hại gián tiếp",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 2: nếu lỗi hoàn toàn thuộc về người bị thiệt hại thì không phát sinh trách nhiệm bồi thường."
+  },
+  {
+    "question": "Theo NQ 02/2022/NQ-HĐTP, thiệt hại thực tế được xác định như thế nào?",
+    "a": "Tại thời điểm phát sinh hành vi xâm phạm",
+    "b": "Tại thời điểm các bên phát sinh tranh chấp",
+    "c": "Tại thời điểm giải quyết bồi thường",
+    "d": "Tại thời điểm cơ quan nhà nước thụ lý đơn kiện",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 3: thiệt hại thực tế được tính tại thời điểm giải quyết bồi thường."
+  },
+  {
+    "question": "Theo NQ 02/2022/NQ-HĐTP, người yêu cầu bồi thường thiệt hại phải thực hiện nghĩa vụ gì?",
+    "a": "Liệt kê danh mục thiệt hại và chứng minh bằng tài liệu hợp pháp",
+    "b": "Nêu rõ từng khoản thiệt hại và cung cấp chứng cứ chứng minh",
+    "c": "Đưa ra các hóa đơn chứng từ liên quan đến thiệt hại",
+    "d": "Chứng minh được mức độ lỗi của người gây thiệt hại",
+    "answer": "b",
+    "explanation": "Điều 3 khoản 1 điểm đ: phải nêu rõ từng khoản thiệt hại và chứng cứ chứng minh."
+  },
+  {
+    "question": "Theo NQ 02/2022/NQ-HĐTP, thiệt hại quá lớn so với khả năng kinh tế của người gây thiệt hại được hiểu như thế nào?",
+    "a": "Thiệt hại vượt quá mức thu nhập trung bình của người gây thiệt hại trong 12 tháng",
+    "b": "Khi buộc bồi thường toàn bộ sẽ dẫn đến việc không có khả năng thi hành án",
+    "c": "Số tiền bồi thường lớn hơn giá trị tài sản hiện có của người gây thiệt hại",
+    "d": "Thiệt hại vượt quá hạn mức bảo hiểm trách nhiệm dân sự của người đó",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 3: nếu không có khả năng thi hành án khi buộc bồi thường toàn bộ thì được coi là quá lớn."
+  },
+  {
+    "question": "Theo NQ 02/2022/NQ-HĐTP, nguyên tắc bồi thường theo lỗi được quy định như thế nào?",
+    "a": "Bên gây thiệt hại chỉ chịu trách nhiệm trong phạm vi lỗi của mình",
+    "b": "Bồi thường tương ứng với mức độ lỗi của các bên",
+    "c": "Người nào có lỗi nhiều hơn thì phải chịu toàn bộ thiệt hại",
+    "d": "Tòa án phân định lỗi và quyết định tỷ lệ bồi thường dựa trên sự thỏa thuận",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 3: bên có lỗi một phần thì chỉ bồi thường tương ứng phần lỗi."
+  },
+  {
+    "question": "Theo NQ 02/2022/NQ-HĐTP, nếu người bị thiệt hại không áp dụng biện pháp ngăn chặn thiệt hại thì hậu quả pháp lý là gì?",
+    "a": "Giảm mức bồi thường tương ứng với phần thiệt hại không được ngăn chặn",
+    "b": "Không được bồi thường đối với phần thiệt hại đó",
+    "c": "Vẫn được bồi thường nhưng chịu phạt vi phạm",
+    "d": "Người gây thiệt hại có quyền từ chối bồi thường hoàn toàn",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 3: không áp dụng biện pháp ngăn chặn thì không được bồi thường."
+  },
+  {
+    "question": "Theo NQ 02/2022/NQ-HĐTP, thời hiệu khởi kiện bồi thường thiệt hại ngoài hợp đồng là bao lâu?",
+    "a": "03 năm kể từ ngày xảy ra hành vi gây thiệt hại",
+    "b": "03 năm kể từ ngày người bị thiệt hại biết hoặc phải biết quyền của mình bị xâm phạm",
+    "c": "03 năm kể từ ngày thiệt hại được khắc phục hoàn toàn",
+    "d": "02 năm kể từ ngày phát sinh quyền yêu cầu bồi thường",
+    "answer": "b",
+    "explanation": "Điều 5 khoản 1: thời hiệu là 03 năm kể từ ngày biết hoặc phải biết quyền bị xâm phạm."
+  },
+  {
+    "question": "Theo NQ 02/2022/NQ-HĐTP, thiệt hại do tài sản bị xâm phạm được xác định như thế nào?",
+    "a": "Dựa trên hóa đơn mua hàng gốc của tài sản",
+    "b": "Dựa trên giá thị trường tại thời điểm giải quyết bồi thường",
+    "c": "Dựa trên giá trị khấu hao của tài sản tại thời điểm gây thiệt hại",
+    "d": "Dựa trên thỏa thuận của các bên tại thời điểm công chứng",
+    "answer": "b",
+    "explanation": "Điều 6 khoản 1: xác định theo giá thị trường tại thời điểm giải quyết bồi thường."
+  },
+  {
+    "question": "Theo NQ 02/2022/NQ-HĐTP, trong công chứng giao dịch, thiệt hại do tài sản không thể sửa chữa được xác định như thế nào?",
+    "a": "Giá trị còn lại của tài sản sau khi trừ khấu hao",
+    "b": "Giá trị tài sản tại thời điểm giải quyết bồi thường",
+    "c": "Giá trị thị trường lúc mới mua trừ đi giá trị phế liệu",
+    "d": "Chi phí để mua một tài sản tương đương trên thị trường",
+    "answer": "b",
+    "explanation": "Điều 6 khoản 1 điểm a: nếu không thể sửa chữa thì xác định theo giá trị tài sản."
+  },
+  {
+    "question": "Theo NQ 02/2022/NQ-HĐTP, chi phí hợp lý để khắc phục thiệt hại được xác định như thế nào?",
+    "a": "Chi phí thực tế đã chi và các chi phí dự kiến phát sinh",
+    "b": "Chi phí thực tế, cần thiết tại thời điểm phát sinh để ngăn chặn và khắc phục thiệt hại",
+    "c": "Chi phí được cơ quan định giá xác định là hợp lý",
+    "d": "Chi phí dựa trên hóa đơn thực tế do người bị thiệt hại cung cấp",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 6: chi phí thực tế, cần thiết để ngăn chặn và khắc phục thiệt hại."
+  },
+  {
+    "question": "Theo NQ 02/2022/NQ-HĐTP, trong trường hợp nguồn nguy hiểm cao độ gây thiệt hại thì trách nhiệm bồi thường được xác định như thế nào?",
+    "a": "Chủ sở hữu chỉ bồi thường khi có lỗi",
+    "b": "Người chiếm hữu không phải bồi thường nếu chứng minh được đã quản lý đúng quy trình",
+    "c": "Chủ sở hữu hoặc người chiếm hữu phải bồi thường kể cả khi không có lỗi",
+    "d": "Chủ sở hữu phải bồi thường, còn người chiếm hữu chỉ bồi thường nếu có lỗi",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 12: trách nhiệm bồi thường kể cả không có lỗi, trừ trường hợp luật loại trừ."
+  },
+  {
+    "question": "Theo NQ 02/2022/NQ-HĐTP, nếu thiệt hại do lỗi cố ý hoàn toàn của người bị thiệt hại thì xử lý theo Điều 12 như thế nào?",
+    "a": "Người gây thiệt hại vẫn phải bồi thường nhưng được giảm trừ 50%",
+    "b": "Không bồi thường",
+    "c": "Người gây thiệt hại chỉ bồi thường nếu không chứng minh được lỗi của người bị hại",
+    "d": "Tòa án buộc bên gây thiệt hại bồi thường một phần dựa trên tình cảnh người bị hại",
+    "answer": "b",
+    "explanation": "Điều 12 khoản 4 điểm a: lỗi cố ý hoàn toàn của người bị thiệt hại thì không bồi thường."
+  },
+  {
+    "question": "Theo Nghị định số 18/2026/NĐ-CP, kết quả giải quyết thủ tục hành chính bản điện tử có giá trị pháp lý như thế nào?",
+    "a": "Không có giá trị pháp lý",
+    "b": "Chỉ dùng tham khảo",
+    "c": "Có giá trị như bản giấy",
+    "d": "Chỉ có giá trị khi in ra giấy",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 5a quy định: kết quả giải quyết thủ tục hành chính bản điện tử có giá trị pháp lý như kết quả giải quyết thủ tục hành chính bằng văn bản giấy."
+  },
+  {
+    "question": "Theo Nghị định số 18/2026/NĐ-CP, kết quả giải quyết thủ tục hành chính được cung cấp dưới hình thức nào?",
+    "a": "Chỉ bản giấy",
+    "b": "Chỉ bản điện tử",
+    "c": "Bản giấy và bản điện tử",
+    "d": "Không có quy định",
+    "answer": "c",
+    "explanation": "Kết quả giải quyết thủ tục hành chính được ký số, phát hành để trả bản giấy và bản điện tử cho tổ chức, cá nhân, trừ trường hợp tổ chức, cá nhân đề nghị chỉ cung cấp bản kết quả giải quyết điện tử."
+  },
+  {
+    "question": "Theo Nghị định số 18/2026/NĐ-CP, việc ký số kết quả giải quyết thủ tục hành chính được thực hiện theo quy định nào?",
+    "a": "Luật Kế toán",
+    "b": "Công tác văn thư",
+    "c": "Luật Dân sự",
+    "d": "Luật Công chứng",
+    "answer": "b",
+    "explanation": "Kết quả giải quyết thủ tục hành chính được ký số, phát hành theo quy định pháp luật về công tác văn thư để trả bản giấy và bản điện tử cho tổ chức, cá nhân."
+  },
+  {
+    "question": "Theo Nghị định số 18/2026/NĐ-CP, bản điện tử của kết quả giải quyết thủ tục hành chính có giá trị như thế nào?",
+    "a": "Không có giá trị",
+    "b": "Chỉ tham khảo",
+    "c": "Có giá trị như bản giấy",
+    "d": "Chỉ dùng nội bộ",
+    "answer": "c",
+    "explanation": "Kết quả giải quyết thủ tục hành chính bản điện tử của cơ quan có thẩm quyền có giá trị pháp lý như kết quả giải quyết thủ tục hành chính bằng văn bản giấy."
+  },
+  {
+    "question": "Theo Nghị định số 18/2026/NĐ-CP, khi cơ sở dữ liệu có thông tin đầy đủ, cơ quan giải quyết thủ tục hành chính xử lý giấy tờ thế nào?",
+    "a": "Vẫn yêu cầu nộp bản giấy",
+    "b": "Không được sử dụng dữ liệu",
+    "c": "Khai thác dữ liệu để thay thế hồ sơ giấy",
+    "d": "Từ chối giải quyết",
+    "answer": "c",
+    "explanation": "Người thực hiện chứng thực khai thác, sử dụng thông tin đã có trong các cơ sở dữ liệu để thay thế thành phần hồ sơ giải quyết thủ tục hành chính."
+  },
+  {
+    "question": "Theo Nghị định số 18/2026/NĐ-CP, trường hợp không khai thác được dữ liệu trong cơ sở dữ liệu thì xử lý thế nào?",
+    "a": "Tự động từ chối hồ sơ",
+    "b": "Yêu cầu bổ sung giấy tờ",
+    "c": "Hủy hồ sơ",
+    "d": "Chuyển cơ quan khác",
+    "answer": "b",
+    "explanation": "Trường hợp không khai thác được thông tin hoặc thông tin không đầy đủ, không chính xác thì cơ quan giải quyết thủ tục hành chính yêu cầu cá nhân, tổ chức bổ sung thành phần hồ sơ."
+  },
+  {
+    "question": "Theo Nghị định số 18/2026/NĐ-CP, việc số hóa kết quả giải quyết thủ tục hành chính nhằm mục tiêu gì?",
+    "a": "Tăng thủ tục giấy tờ",
+    "b": "Đơn giản hóa thủ tục hành chính",
+    "c": "Tăng chi phí xử lý",
+    "d": "Hạn chế quyền người dân",
+    "answer": "b",
+    "explanation": "Nghị định sửa đổi nhằm cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh thuộc phạm vi quản lý của Bộ Tư pháp."
+  },
+{
+    "question": "Trong đăng ký hộ tịch, khi không khai thác được thông tin từ cơ sở dữ liệu thì cơ quan đăng ký phải xử lý thế nào?",
+    "a": "Từ chối giải quyết ngay",
+    "b": "Yêu cầu nộp lại toàn bộ hồ sơ mới",
+    "c": "Yêu cầu xuất trình bản chính giấy tờ để đối chiếu",
+    "d": "Chuyển hồ sơ sang tòa án",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 13: Trường hợp không khai thác được thông tin thì cơ quan đăng ký hộ tịch yêu cầu người dân xuất trình bản chính giấy tờ để chứng minh, đối chiếu."
+  },
+  {
+    "question": "Trường hợp đăng ký nuôi con nuôi, cơ quan nào có trách nhiệm xác minh điều kiện kinh tế nếu người nhận con nuôi có nơi thường trú và tạm trú khác nhau?",
+    "a": "Sở Tư pháp",
+    "b": "Ủy ban nhân dân cấp tỉnh",
+    "c": "Ủy ban nhân dân cấp xã nơi tạm trú",
+    "d": "Tòa án nhân dân",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 14: UBND cấp xã nơi tạm trú thực hiện xác minh, đánh giá điều kiện theo đề nghị của UBND nơi thường trú."
+  },
+  {
+    "question": "Trong đăng ký biện pháp bảo đảm, thời điểm có hiệu lực của đăng ký đối với quyền sử dụng đất là khi nào?",
+    "a": "Khi ký hợp đồng thế chấp",
+    "b": "Khi công chứng hợp đồng",
+    "c": "Khi cơ quan đăng ký cập nhật vào cơ sở dữ liệu",
+    "d": "Khi ngân hàng giải ngân",
+    "answer": "c",
+    "explanation": "Căn cứ điểm a khoản 1 Điều 11 (sửa đổi Điều 6 Nghị định 99/2022/NĐ-CP): thời điểm có hiệu lực là thời điểm cơ quan đăng ký cập nhật nội dung đăng ký vào Cơ sở dữ liệu."
+  },
+  {
+    "question": "Hồ sơ đăng ký hợp lệ trong đăng ký biện pháp bảo đảm được hiểu như thế nào?",
+    "a": "Chỉ cần phiếu yêu cầu đăng ký",
+    "b": "Có đủ phiếu yêu cầu và giấy tờ theo quy định hoặc dữ liệu điện tử hợp lệ",
+    "c": "Chỉ cần giấy chứng nhận quyền sử dụng đất",
+    "d": "Chỉ cần hợp đồng thế chấp đã công chứng",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 4 Điều 11 (sửa đổi Điều 3 Nghị định 99/2022/NĐ-CP): hồ sơ hợp lệ là hồ sơ có đầy đủ phiếu yêu cầu đăng ký và giấy tờ hoặc dữ liệu được khai thác hợp lệ từ cơ sở dữ liệu."
+  },
+  {
+    "question": "Trong đăng ký lại khai sinh, nếu cơ quan hộ tịch không tra cứu được dữ liệu thì xử lý thế nào?",
+    "a": "Từ chối đăng ký",
+    "b": "Tự động đăng ký",
+    "c": "Tra cứu lại và yêu cầu bổ sung nếu cần",
+    "d": "Chuyển sang cơ quan công an",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 4 Điều 13: cơ quan hộ tịch phải tra cứu và xác minh; nếu không đủ thông tin thì yêu cầu người dân bổ sung hồ sơ."
+  },
+  {
+    "question": "Theo quy định về đăng ký nuôi con nuôi, người nộp hồ sơ có thể thực hiện theo hình thức nào?",
+    "a": "Chỉ nộp trực tiếp",
+    "b": "Chỉ nộp qua bưu chính",
+    "c": "Chỉ nộp trực tuyến",
+    "d": "Nộp trực tiếp, bưu chính hoặc trực tuyến",
+    "answer": "d",
+    "explanation": "Căn cứ khoản 1 Điều 14: hồ sơ có thể nộp trực tiếp, qua bưu chính hoặc trực tuyến theo quy định pháp luật về thủ tục hành chính điện tử."
+  },  
      {
     "question": "Theo Nghị định 99/2022/NĐ-CP, phạm vi điều chỉnh của Nghị định bao gồm nội dung nào sau đây?",
     "a": "Quy định về trình tự, thủ tục đăng ký, cung cấp thông tin về biện pháp bảo đảm bằng tài sản và quản lý nhà nước về hoạt động này",
