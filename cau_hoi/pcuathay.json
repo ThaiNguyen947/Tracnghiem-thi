@@ -1719,14 +1719,14 @@
     "explanation": "Công chứng tạo ra văn bản có giá trị pháp lý và bảo đảm an toàn giao dịch."
   },
   {
-    "question": "Bên thuê nhà công vụ:",
-    "a": "Được tiếp tục thuê",
-    "b": "Không được chuyển nhượng",
-    "c": "Được bán",
-    "d": "Được thế chấp",
-    "answer": "b",
-    "explanation": "Nhà công vụ không được chuyển nhượng hoặc sử dụng sai mục đích."
-  },
+  "question": "Theo quy định về nhà ở công vụ, quyền nào sau đây của bên thuê là không được phép thực hiện?",
+  "a": "Tiếp tục sử dụng nhà trong thời hạn được bố trí",
+  "b": "Chuyển nhượng quyền thuê cho người khác",
+  "c": "Chấp hành nghĩa vụ thanh toán chi phí liên quan",
+  "d": "Trả lại nhà khi hết thời hạn thuê",
+  "answer": "b",
+  "explanation": "Nhà công vụ không được chuyển nhượng quyền thuê vì đây là tài sản công, chỉ được sử dụng đúng đối tượng và mục đích."
+},
   {
     "question": "Nhà ở hình thành trong tương lai:",
     "a": "Có thể bán",
