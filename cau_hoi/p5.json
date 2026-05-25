@@ -1,5 +1,203 @@
 [
     {
+    "question": "Người khiếu nại có được ủy quyền cho người khác thực hiện khiếu nại không?",
+    "a": "Không được ủy quyền trong mọi trường hợp",
+    "b": "Được ủy quyền theo quy định pháp luật",
+    "c": "Chỉ được ủy quyền cho luật sư",
+    "d": "Chỉ được ủy quyền nếu cơ quan nhà nước đồng ý",
+    "answer": "b",
+    "explanation": "Luật Khiếu nại 2011 cho phép người khiếu nại ủy quyền cho người khác thực hiện việc khiếu nại."
+  },
+  {
+    "question": "Người tố cáo có được ủy quyền cho người khác tố cáo thay mình không?",
+    "a": "Có, nếu có văn bản ủy quyền",
+    "b": "Có, nếu người được ủy quyền là luật sư",
+    "c": "Không được ủy quyền",
+    "d": "Có, nếu cơ quan giải quyết chấp nhận",
+    "answer": "c",
+    "explanation": "Luật Tố cáo 2018 quy định người tố cáo phải trực tiếp thực hiện, không được ủy quyền."
+  },
+  {
+    "question": "Điểm khác biệt cơ bản giữa khiếu nại và tố cáo về ủy quyền là gì?",
+    "a": "Không có sự khác biệt",
+    "b": "Cả hai đều bắt buộc ủy quyền",
+    "c": "Khiếu nại được ủy quyền, tố cáo không được ủy quyền",
+    "d": "Tố cáo được ủy quyền, khiếu nại không được ủy quyền",
+    "answer": "c",
+    "explanation": "Pháp luật phân biệt rõ: khiếu nại cho phép ủy quyền, tố cáo không cho phép."
+  },
+  {
+    "question": "Trong khiếu nại, người được ủy quyền thực hiện thay có quyền làm gì?",
+    "a": "Chỉ nộp đơn khiếu nại",
+    "b": "Thực hiện toàn bộ quyền, nghĩa vụ của người khiếu nại trong phạm vi ủy quyền",
+    "c": "Chỉ được gửi đơn nhưng không được tham gia giải quyết",
+    "d": "Chỉ được thay mặt nhận kết quả",
+    "answer": "b",
+    "explanation": "Người được ủy quyền thực hiện quyền và nghĩa vụ theo phạm vi ủy quyền."
+  },
+  {
+    "question": "Trường hợp nào sau đây không được coi là tố cáo hợp pháp?",
+    "a": "Người dân trực tiếp phát hiện hành vi vi phạm và gửi đơn",
+    "b": "Người tố cáo trực tiếp ký đơn tố cáo",
+    "c": "Người A nhờ người B đứng tên tố cáo thay mình",
+    "d": "Người tố cáo cung cấp thông tin vi phạm",
+    "answer": "c",
+    "explanation": "Tố cáo không được ủy quyền, phải do người phát hiện trực tiếp thực hiện."
+  },
+  {
+    "question": "Phát biểu nào đúng về quyền ủy quyền trong Luật Khiếu nại?",
+    "a": "Không được ủy quyền vì liên quan quyền công dân",
+    "b": "Chỉ được ủy quyền khi có tranh chấp dân sự",
+    "c": "Được ủy quyền theo quy định pháp luật",
+    "d": "Chỉ cơ quan nhà nước mới được ủy quyền",
+    "answer": "c",
+    "explanation": "Luật Khiếu nại cho phép người khiếu nại ủy quyền cho người khác."
+  },
+  {
+    "question": "Trong tố cáo, hành vi nhờ người khác đứng tên tố cáo có hợp pháp không?",
+    "a": "Có, nếu có chữ ký xác nhận",
+    "b": "Có, nếu nội dung đúng sự thật",
+    "c": "Không hợp pháp",
+    "d": "Có, nếu người tố cáo đồng ý miệng",
+    "answer": "c",
+    "explanation": "Tố cáo phải do người tố cáo trực tiếp thực hiện."
+  },
+  {
+    "question": "Cơ quan giải quyết khiếu nại có thể từ chối người được ủy quyền không?",
+    "a": "Không bao giờ được từ chối",
+    "b": "Có thể từ chối nếu việc ủy quyền không hợp pháp",
+    "c": "Chỉ từ chối nếu người ủy quyền yêu cầu",
+    "d": "Không cần kiểm tra ủy quyền",
+    "answer": "b",
+    "explanation": "Ủy quyền phải hợp pháp và đúng quy định thì mới được chấp nhận."
+  },
+  {
+    "question": "Trong trường hợp khiếu nại, người ủy quyền có bắt buộc phải có văn bản không?",
+    "a": "Không cần văn bản",
+    "b": "Có thể ủy quyền miệng",
+    "c": "Phải có văn bản ủy quyền hợp lệ",
+    "d": "Cơ quan tự quyết định",
+    "answer": "c",
+    "explanation": "Việc ủy quyền khiếu nại phải được lập thành văn bản hợp pháp."
+  },
+  {
+    "question": "Nhận định nào đúng nhất?",
+    "a": "Khiếu nại và tố cáo đều cho phép ủy quyền",
+    "b": "Khiếu nại không cho ủy quyền, tố cáo cho ủy quyền",
+    "c": "Khiếu nại cho ủy quyền, tố cáo không cho ủy quyền",
+    "d": "Cả hai đều không cho ủy quyền",
+    "answer": "c",
+    "explanation": "Quy định pháp luật phân biệt rõ hai chế định này."
+  },
+  {
+    "question": "Người dân bị từ chối yêu cầu công chứng không có căn cứ thì có quyền thực hiện thủ tục nào?",
+    "a": "Chỉ được tố cáo công chứng viên",
+    "b": "Chỉ được khiếu nại",
+    "c": "Có thể khiếu nại theo Luật Khiếu nại",
+    "d": "Không có quyền gì",
+    "answer": "c",
+    "explanation": "Việc từ chối công chứng ảnh hưởng trực tiếp quyền lợi cá nhân nên thuộc phạm vi khiếu nại."
+  },
+  {
+    "question": "Hành vi công chứng viên nhận tiền ngoài phí quy định có thể bị xử lý theo cơ chế nào?",
+    "a": "Chỉ khiếu nại",
+    "b": "Chỉ tố cáo",
+    "c": "Không xử lý được",
+    "d": "Chỉ hòa giải",
+    "answer": "b",
+    "explanation": "Hành vi vi phạm pháp luật của công chứng viên thuộc đối tượng tố cáo."
+  },
+  {
+    "question": "Ai có quyền tố cáo công chứng viên vi phạm pháp luật?",
+    "a": "Chỉ người bị thiệt hại",
+    "b": "Chỉ khách hàng của văn phòng công chứng",
+    "c": "Bất kỳ cá nhân nào phát hiện vi phạm",
+    "d": "Chỉ Sở Tư pháp",
+    "answer": "c",
+    "explanation": "Luật Tố cáo cho phép bất kỳ cá nhân nào phát hiện hành vi vi phạm đều có quyền tố cáo."
+  },
+  {
+    "question": "Trường hợp công chứng viên sai sót làm ảnh hưởng hợp đồng của khách hàng, người dân nên chọn cơ chế nào trước tiên?",
+    "a": "Tố cáo ngay",
+    "b": "Khiếu nại để bảo vệ quyền lợi",
+    "c": "Khởi kiện hình sự",
+    "d": "Không được làm gì",
+    "answer": "b",
+    "explanation": "Sai sót ảnh hưởng quyền lợi cá nhân → cơ chế khiếu nại là phù hợp trước."
+  },
+  {
+    "question": "Cơ quan nào thường giải quyết khiếu nại lần đầu trong lĩnh vực công chứng?",
+    "a": "Tòa án",
+    "b": "Sở Tư pháp",
+    "c": "Người đứng đầu tổ chức hành nghề công chứng",
+    "d": "Bộ Công an",
+    "answer": "c",
+    "explanation": "Khiếu nại lần đầu thuộc thẩm quyền người đứng đầu tổ chức hành nghề công chứng."
+  },
+  {
+    "question": "Hành vi công chứng viên giả mạo chữ ký trong hợp đồng công chứng thuộc loại nào?",
+    "a": "Tranh chấp dân sự",
+    "b": "Khiếu nại hành chính",
+    "c": "Tố cáo vi phạm pháp luật",
+    "d": "Không xử lý được",
+    "answer": "c",
+    "explanation": "Giả mạo chữ ký là hành vi vi phạm pháp luật, thuộc phạm vi tố cáo."
+  },
+  {
+    "question": "Người dân có thể vừa khiếu nại vừa tố cáo cùng một hành vi của công chứng viên không?",
+    "a": "Không bao giờ",
+    "b": "Có thể nếu nội dung khác nhau",
+    "c": "Chỉ được chọn một hình thức duy nhất trong mọi trường hợp",
+    "d": "Chỉ được tố cáo",
+    "answer": "b",
+    "explanation": "Có thể khiếu nại về quyền lợi bị xâm phạm và tố cáo về hành vi vi phạm."
+  },
+  {
+    "question": "Thẩm quyền giải quyết khiếu nại lần hai trong lĩnh vực công chứng thường thuộc về ai?",
+    "a": "Tòa án nhân dân",
+    "b": "Sở Tư pháp hoặc cơ quan cấp trên",
+    "c": "Chính công chứng viên",
+    "d": "Công an xã",
+    "answer": "b",
+    "explanation": "Khiếu nại lần hai thuộc cơ quan quản lý cấp trên như Sở Tư pháp."
+  },
+  {
+    "question": "Hành vi nào sau đây KHÔNG phải là đối tượng của tố cáo?",
+    "a": "Công chứng viên nhận hối lộ",
+    "b": "Công chứng viên làm sai quy trình",
+    "c": "Người dân không hài lòng với kết quả công chứng hợp pháp",
+    "d": "Công chứng viên giả mạo giấy tờ",
+    "answer": "c",
+    "explanation": "Không hài lòng nhưng không có vi phạm pháp luật thì không thuộc tố cáo."
+  },
+  {
+    "question": "Mục đích của khiếu nại trong hoạt động công chứng là gì?",
+    "a": "Xử lý hình sự công chứng viên",
+    "b": "Bảo vệ quyền và lợi ích hợp pháp của người khiếu nại",
+    "c": "Trừng phạt tổ chức hành nghề công chứng",
+    "d": "Hủy toàn bộ hợp đồng công chứng",
+    "answer": "b",
+    "explanation": "Khiếu nại nhằm bảo vệ quyền và lợi ích hợp pháp của cá nhân."
+  },
+  {
+    "question": "Cơ quan nào có thể xử lý tố cáo liên quan đến công chứng viên?",
+    "a": "Tòa án",
+    "b": "Sở Tư pháp hoặc Bộ Tư pháp",
+    "c": "UBND xã",
+    "d": "Ngân hàng nhà nước",
+    "answer": "b",
+    "explanation": "Cơ quan quản lý ngành tư pháp như Sở Tư pháp hoặc Bộ Tư pháp có thẩm quyền xử lý."
+  },
+  {
+    "question": "Điểm phân biệt đúng nhất giữa khiếu nại và tố cáo trong hoạt động công chứng là gì?",
+    "a": "Không có sự khác biệt",
+    "b": "Khiếu nại xử lý hành vi vi phạm, tố cáo bảo vệ quyền lợi",
+    "c": "Khiếu nại bảo vệ quyền lợi, tố cáo xử lý vi phạm",
+    "d": "Cả hai đều giống nhau",
+    "answer": "c",
+    "explanation": "Khiếu nại bảo vệ quyền lợi cá nhân, tố cáo xử lý hành vi vi phạm pháp luật."
+  },
+    {
     "question": "Người hưởng lương hưu có được ủy quyền cho người khác nhận thay không?",
     "a": "Không được",
     "b": "Được nếu có văn bản ủy quyền hợp pháp",
