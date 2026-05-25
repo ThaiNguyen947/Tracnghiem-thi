@@ -1,5 +1,428 @@
 [
   {
+    "question": "Theo Luật Doanh nghiệp 2020, ai có quyền tự mình hoặc nhân danh công ty khởi kiện trách nhiệm dân sự đối với người quản lý công ty?",
+    "a": "Thành viên Hội đồng quản trị",
+    "b": "Kiểm soát viên hoặc Ban kiểm soát",
+    "c": "Thành viên công ty (trong công ty TNHH) hoặc cổ đông (trong công ty cổ phần)",
+    "d": "Cổ đông nắm giữ ít nhất 1% cổ phần phổ thông",
+    "answer": "c",
+    "explanation": "Theo Điều 72 khoản 1 và Điều 166 khoản 2 Luật Doanh nghiệp 2020, thành viên (đối với công ty TNHH) hoặc cổ đông (đối với công ty cổ phần) có quyền tự mình hoặc nhân danh công ty khởi kiện trách nhiệm dân sự đối với người quản lý vi phạm nghĩa vụ."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, căn cứ nào sau đây làm phát sinh quyền khởi kiện người quản lý công ty?",
+    "a": "Người quản lý không hoàn thành kế hoạch kinh doanh",
+    "b": "Người quản lý vi phạm nghĩa vụ quy định tại Điều 71 (đối với cty TNHH) hoặc Điều 165 (đối với cty CP)",
+    "c": "Công ty không chia cổ tức trong 02 năm liên tiếp",
+    "d": "Người quản lý bị cổ đông biểu quyết miễn nhiệm",
+    "answer": "b",
+    "explanation": "Theo Điều 72 khoản 1 điểm a (đối với cty TNHH) và Điều 166 khoản 2 điểm a (đối với cty CP) Luật Doanh nghiệp 2020, thành viên/cổ đông có quyền khởi kiện khi người quản lý vi phạm quy định tại Điều 71/Điều 165 về nghĩa vụ của người quản lý."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, công ty cổ phần phải có tối thiểu bao nhiêu cổ đông?",
+    "a": "01 cổ đông",
+    "b": "02 cổ đông",
+    "c": "03 cổ đông",
+    "d": "05 cổ đông",
+    "answer": "c",
+    "explanation": "Theo Điều 111 khoản 1 điểm b Luật Doanh nghiệp 2020, công ty cổ phần phải có tối thiểu 03 cổ đông và không hạn chế số lượng tối đa."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, vốn điều lệ của công ty cổ phần được chia thành:",
+    "a": "Các phần vốn góp không bằng nhau",
+    "b": "Nhiều phần bằng nhau gọi là cổ phần",
+    "c": "Các loại chứng khoán có mệnh giá",
+    "d": "Vốn cổ phần và vốn trái phiếu",
+    "answer": "b",
+    "explanation": "Theo Điều 111 khoản 1 điểm a Luật Doanh nghiệp 2020, vốn điều lệ của công ty cổ phần được chia thành nhiều phần bằng nhau gọi là cổ phần."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, cổ đông công ty cổ phần chịu trách nhiệm về các khoản nợ của công ty trong phạm vi nào?",
+    "a": "Toàn bộ tài sản thuộc sở hữu của cổ đông",
+    "b": "Số vốn đã góp vào công ty",
+    "c": "Số vốn đã đăng ký góp vào công ty",
+    "d": "Tỷ lệ cổ phần nắm giữ trên tổng vốn điều lệ",
+    "answer": "b",
+    "explanation": "Theo Điều 111 khoản 1 điểm c Luật Doanh nghiệp 2020, cổ đông chỉ chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản khác của doanh nghiệp trong phạm vi số vốn đã góp vào doanh nghiệp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, công ty cổ phần có quyền phát hành loại nào sau đây?",
+    "a": "Chỉ cổ phần phổ thông",
+    "b": "Cổ phần và các loại chứng khoán khác, trừ trái phiếu",
+    "c": "Cổ phần, trái phiếu và các loại chứng khoán khác",
+    "d": "Cổ phần và chứng khoán phái sinh do Điều lệ quy định",
+    "answer": "c",
+    "explanation": "Theo Điều 111 khoản 3 Luật Doanh nghiệp 2020, công ty cổ phần có quyền phát hành cổ phần, trái phiếu và các loại chứng khoán khác."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, cổ phần đã bán là:",
+    "a": "Cổ phần đã được phát hành và ghi nhận trong sổ đăng ký cổ đông",
+    "b": "Cổ phần được quyền chào bán đã được các cổ đông thanh toán đủ cho công ty",
+    "c": "Cổ phần đã được chào bán thành công cho công chúng",
+    "d": "Cổ phần mà cổ đông đã cam kết mua theo Điều lệ",
+    "answer": "b",
+    "explanation": "Theo Điều 112 khoản 2 Luật Doanh nghiệp 2020, cổ phần đã bán là cổ phần được quyền chào bán đã được các cổ đông thanh toán đủ cho công ty."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, trong thời hạn bao nhiêu ngày kể từ ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp, cổ đông phải thanh toán đủ số cổ phần đã đăng ký mua?",
+    "a": "30 ngày",
+    "b": "60 ngày",
+    "c": "90 ngày",
+    "d": "120 ngày",
+    "answer": "c",
+    "explanation": "Theo Điều 113 khoản 1 Luật Doanh nghiệp 2020, các cổ đông phải thanh toán đủ số cổ phần đã đăng ký mua trong thời hạn 90 ngày kể từ ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, cổ đông chưa thanh toán số cổ phần đã đăng ký mua sau thời hạn luật định thì hậu quả nào xảy ra?",
+    "a": "Bị tính lãi suất chậm nộp theo quy định của Bộ luật Dân sự",
+    "b": "Đương nhiên không còn là cổ đông của công ty",
+    "c": "Bị Hội đồng quản trị tước quyền biểu quyết đối với số cổ phần đó",
+    "d": "Bị giảm tương ứng số vốn điều lệ của công ty",
+    "answer": "b",
+    "explanation": "Theo Điều 113 khoản 3 điểm a Luật Doanh nghiệp 2020, cổ đông chưa thanh toán số cổ phần đã đăng ký mua đương nhiên không còn là cổ đông của công ty và không được chuyển nhượng quyền mua cổ phần đó cho người khác."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, cổ phần chưa thanh toán được coi là:",
+    "a": "Cổ phần phổ thông chưa phát hành",
+    "b": "Cổ phần ưu đãi chưa được cấp",
+    "c": "Cổ phần chưa bán",
+    "d": "Cổ phần hủy bỏ",
+    "answer": "c",
+    "explanation": "Theo Điều 113 khoản 3 điểm c Luật Doanh nghiệp 2020, cổ phần chưa thanh toán được coi là cổ phần chưa bán và Hội đồng quản trị được quyền bán tiếp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, công ty cổ phần bắt buộc phải có loại cổ phần nào?",
+    "a": "Cổ phần phổ thông",
+    "b": "Cổ phần ưu đãi cổ tức",
+    "c": "Cổ phần ưu đãi biểu quyết",
+    "d": "Cổ phần ưu đãi hoàn lại",
+    "answer": "a",
+    "explanation": "Theo Điều 114 khoản 1 Luật Doanh nghiệp 2020, công ty cổ phần phải có cổ phần phổ thông. Người sở hữu cổ phần phổ thông là cổ đông phổ thông."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, cổ phần phổ thông có thể chuyển đổi thành cổ phần ưu đãi không?",
+    "a": "Có, nếu được Đại hội đồng cổ đông thông qua",
+    "b": "Có, nếu được Hội đồng quản trị chấp thuận",
+    "c": "Không",
+    "d": "Có, trừ cổ phần của cổ đông sáng lập",
+    "answer": "c",
+    "explanation": "Theo Điều 114 khoản 5 Luật Doanh nghiệp 2020, cổ phần phổ thông không thể chuyển đổi thành cổ phần ưu đãi."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, mỗi cổ phần phổ thông của cổ đông phổ thông có bao nhiêu phiếu biểu quyết?",
+    "a": "01 phiếu",
+    "b": "02 phiếu",
+    "c": "Theo tỷ lệ phần trăm sở hữu",
+    "d": "Theo quy định tại Điều lệ công ty",
+    "answer": "a",
+    "explanation": "Theo Điều 115 khoản 1 điểm a Luật Doanh nghiệp 2020, cổ đông phổ thông có quyền dự họp, phát biểu, biểu quyết tại Đại hội đồng cổ đông. Mỗi cổ phần phổ thông có một phiếu biểu quyết."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, cổ đông hoặc nhóm cổ đông sở hữu từ bao nhiêu phần trăm tổng số cổ phần phổ thông trở lên có quyền yêu cầu triệu tập họp Đại hội đồng cổ đông?",
+    "a": "01%",
+    "b": "03%",
+    "c": "05%",
+    "d": "10%",
+    "answer": "c",
+    "explanation": "Theo Điều 115 khoản 2 và khoản 3 Luật Doanh nghiệp 2020, cổ đông hoặc nhóm cổ đông sở hữu từ 05% tổng số cổ phần phổ thông trở lên (hoặc tỷ lệ khác nhỏ hơn theo Điều lệ) có quyền yêu cầu triệu tập họp Đại hội đồng cổ đông."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, cổ đông sở hữu cổ phần ưu đãi biểu quyết có được tự do chuyển nhượng cổ phần đó không?",
+    "a": "Được tự do chuyển nhượng",
+    "b": "Chỉ được chuyển nhượng nếu được Đại hội đồng cổ đông thông qua",
+    "c": "Không được chuyển nhượng, trừ trường hợp theo bản án, quyết định của Tòa án hoặc thừa kế",
+    "d": "Chỉ được chuyển nhượng cho cổ đông sáng lập khác",
+    "answer": "c",
+    "explanation": "Theo Điều 116 khoản 3 Luật Doanh nghiệp 2020, cổ đông sở hữu cổ phần ưu đãi biểu quyết không được chuyển nhượng cổ phần đó cho người khác, trừ trường hợp chuyển nhượng theo bản án, quyết định của Tòa án đã có hiệu lực pháp luật hoặc thừa kế."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, ưu đãi biểu quyết của cổ đông sáng lập có hiệu lực trong bao lâu kể từ ngày công ty được cấp Giấy chứng nhận đăng ký doanh nghiệp?",
+    "a": "01 năm",
+    "b": "02 năm",
+    "c": "03 năm",
+    "d": "05 năm",
+    "answer": "c",
+    "explanation": "Theo Điều 116 khoản 1 Luật Doanh nghiệp 2020, ưu đãi biểu quyết của cổ đông sáng lập có hiệu lực trong 03 năm kể từ ngày công ty được cấp Giấy chứng nhận đăng ký doanh nghiệp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, cổ đông sở hữu cổ phần ưu đãi cổ tức có quyền nào sau đây?",
+    "a": "Đề cử người vào Hội đồng quản trị",
+    "b": "Biểu quyết các vấn đề liên quan đến sửa đổi Điều lệ",
+    "c": "Nhận cổ tức với mức cao hơn hoặc ổn định so với mức cổ tức của cổ phần phổ thông",
+    "d": "Yêu cầu cung cấp sổ đăng ký cổ đông",
+    "answer": "c",
+    "explanation": "Theo Điều 117 khoản 1 và khoản 2 Luật Doanh nghiệp 2020, cổ đông sở hữu cổ phần ưu đãi cổ tức được nhận cổ tức với mức cao hơn hoặc ổn định hàng năm."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, cổ đông sở hữu cổ phần ưu đãi cổ tức có quyền biểu quyết không?",
+    "a": "Có, nếu công ty kinh doanh có lãi",
+    "b": "Không",
+    "c": "Có, trừ các vấn đề liên quan đến cổ phần",
+    "d": "Chỉ khi được Đại hội đồng cổ đông cho phép",
+    "answer": "b",
+    "explanation": "Theo Điều 117 khoản 3 Luật Doanh nghiệp 2020, cổ đông sở hữu cổ phần ưu đãi cổ tức không có quyền biểu quyết, dự họp Đại hội đồng cổ đông, đề cử người vào Hội đồng quản trị và Ban kiểm soát."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, cổ đông sở hữu cổ phần ưu đãi hoàn lại có quyền nào sau đây bị hạn chế?",
+    "a": "Được hoàn lại vốn góp theo yêu cầu",
+    "b": "Nhận cổ tức theo điều kiện được ghi tại cổ phiếu",
+    "c": "Biểu quyết tại Đại hội đồng cổ đông",
+    "d": "Nhận phần tài sản còn lại khi công ty giải thể",
+    "answer": "c",
+    "explanation": "Theo Điều 118 khoản 3 Luật Doanh nghiệp 2020, cổ đông sở hữu cổ phần ưu đãi hoàn lại không có quyền biểu quyết, dự họp Đại hội đồng cổ đông, đề cử người vào Hội đồng quản trị và Ban kiểm soát."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, cổ đông có được rút vốn đã góp bằng cổ phần phổ thông ra khỏi công ty dưới mọi hình thức không?",
+    "a": "Được, nếu được Hội đồng quản trị chấp thuận",
+    "b": "Được, nếu có sự đồng ý của Đại hội đồng cổ đông",
+    "c": "Không, trừ trường hợp được công ty mua lại cổ phần hoặc người khác mua lại",
+    "d": "Được, sau khi công ty hoạt động được ít nhất 03 năm",
+    "answer": "c",
+    "explanation": "Theo Điều 119 khoản 2 Luật Doanh nghiệp 2020, cổ đông không được rút vốn đã góp bằng cổ phần phổ thông ra khỏi công ty dưới mọi hình thức, trừ trường hợp được công ty mua lại cổ phần hoặc người khác mua lại cổ phần."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, công ty cổ phần mới thành lập phải có ít nhất bao nhiêu cổ đông sáng lập?",
+    "a": "01 cổ đông",
+    "b": "02 cổ đông",
+    "c": "03 cổ đông",
+    "d": "05 cổ đông",
+    "answer": "c",
+    "explanation": "Theo Điều 120 khoản 1 Luật Doanh nghiệp 2020, công ty cổ phần mới thành lập phải có ít nhất 03 cổ đông sáng lập."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, các cổ đông sáng lập phải cùng nhau đăng ký mua ít nhất bao nhiêu phần trăm tổng số cổ phần phổ thông được quyền chào bán?",
+    "a": "10%",
+    "b": "15%",
+    "c": "20%",
+    "d": "30%",
+    "answer": "c",
+    "explanation": "Theo Điều 120 khoản 2 Luật Doanh nghiệp 2020, các cổ đông sáng lập phải cùng nhau đăng ký mua ít nhất 20% tổng số cổ phần phổ thông được quyền chào bán tại thời điểm đăng ký thành lập doanh nghiệp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, trong thời hạn bao lâu kể từ ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp, cổ phần phổ thông của cổ đông sáng lập bị hạn chế chuyển nhượng cho người ngoài?",
+    "a": "01 năm",
+    "b": "02 năm",
+    "c": "03 năm",
+    "d": "05 năm",
+    "answer": "c",
+    "explanation": "Theo Điều 120 khoản 3 Luật Doanh nghiệp 2020, trong thời hạn 03 năm kể từ ngày công ty được cấp Giấy chứng nhận đăng ký doanh nghiệp, cổ phần phổ thông của cổ đông sáng lập bị hạn chế chuyển nhượng cho người không phải là cổ đông sáng lập."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, chi phí khởi kiện trong trường hợp thành viên khởi kiện nhân danh công ty được tính như thế nào?",
+    "a": "Do thành viên khởi kiện tự chịu toàn bộ và không được hoàn lại",
+    "b": "Do người quản lý bị kiện hoàn trả nếu thành viên thắng kiện",
+    "c": "Tính vào chi phí của công ty, trừ trường hợp bị bác yêu cầu khởi kiện",
+    "d": "Do công ty và thành viên khởi kiện cùng chịu theo tỷ lệ góp vốn",
+    "answer": "c",
+    "explanation": "Theo Điều 72 khoản 3 Luật Doanh nghiệp 2020: Chi phí khởi kiện trong trường hợp thành viên khởi kiện nhân danh công ty được tính vào chi phí của công ty, trừ trường hợp bị bác yêu cầu khởi kiện."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, công ty TNHH một thành viên là doanh nghiệp do:",
+    "a": "Một tổ chức hoặc một cá nhân làm chủ sở hữu",
+    "b": "Một cá nhân duy nhất làm chủ sở hữu",
+    "c": "Một tổ chức duy nhất làm chủ sở hữu",
+    "d": "Một hoặc nhiều tổ chức hoặc cá nhân làm chủ sở hữu",
+    "answer": "a",
+    "explanation": "Theo Điều 74 khoản 1 Luật Doanh nghiệp 2020: Công ty TNHH một thành viên là doanh nghiệp do một tổ chức hoặc một cá nhân làm chủ sở hữu."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, chủ sở hữu công ty TNHH một thành viên chịu trách nhiệm về các khoản nợ của công ty trong phạm vi nào?",
+    "a": "Toàn bộ tài sản của chủ sở hữu",
+    "b": "Số vốn đã đăng ký trong Điều lệ công ty",
+    "c": "Số vốn điều lệ của công ty",
+    "d": "Phần vốn đã thực tế góp vào công ty",
+    "answer": "c",
+    "explanation": "Theo Điều 74 khoản 1 Luật Doanh nghiệp 2020: Chủ sở hữu công ty TNHH một thành viên chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản khác của công ty trong phạm vi số vốn điều lệ của công ty."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, công ty TNHH một thành viên có được phát hành cổ phần không?",
+    "a": "Không được phát hành dưới mọi hình thức",
+    "b": "Không được phát hành cổ phần, trừ trường hợp để chuyển đổi thành công ty cổ phần",
+    "c": "Chỉ được phát hành cổ phần ưu đãi để huy động vốn",
+    "d": "Được phát hành cổ phần theo quyết định của chủ sở hữu",
+    "answer": "b",
+    "explanation": "Theo Điều 74 khoản 3 Luật Doanh nghiệp 2020: Công ty TNHH một thành viên không được phát hành cổ phần, trừ trường hợp để chuyển đổi thành công ty cổ phần."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, chủ sở hữu công ty TNHH một thành viên phải góp đủ vốn điều lệ trong thời hạn bao lâu kể từ ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp?",
+    "a": "30 ngày",
+    "b": "60 ngày",
+    "c": "90 ngày",
+    "d": "120 ngày",
+    "answer": "c",
+    "explanation": "Theo Điều 75 khoản 2 Luật Doanh nghiệp 2020: Chủ sở hữu công ty phải góp đủ và đúng loại tài sản như đã cam kết khi đăng ký thành lập doanh nghiệp trong thời hạn 90 ngày kể từ ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, nếu chủ sở hữu công ty TNHH một thành viên không góp đủ vốn điều lệ đúng hạn thì phải đăng ký thay đổi vốn điều lệ trong thời hạn bao lâu?",
+    "a": "15 ngày kể từ ngày hết hạn",
+    "b": "30 ngày kể từ ngày hết hạn",
+    "c": "60 ngày kể từ ngày hết hạn",
+    "d": "90 ngày kể từ ngày hết hạn",
+    "answer": "b",
+    "explanation": "Theo Điều 75 khoản 3 Luật Doanh nghiệp 2020: Trường hợp không góp đủ vốn điều lệ trong thời hạn quy định, chủ sở hữu công ty phải đăng ký thay đổi vốn điều lệ bằng giá trị số vốn đã thực tế góp trong thời hạn 30 ngày kể từ ngày cuối cùng phải góp đủ vốn."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, chủ sở hữu công ty TNHH một thành viên không góp đủ vốn điều lệ đúng hạn phải chịu trách nhiệm như thế nào?",
+    "a": "Chỉ chịu trách nhiệm bằng phần vốn đã cam kết",
+    "b": "Chịu trách nhiệm bằng tài sản của doanh nghiệp",
+    "c": "Chịu trách nhiệm bằng toàn bộ tài sản của mình đối với các nghĩa vụ tài chính của công ty phát sinh trong thời gian trước ngày đăng ký thay đổi vốn",
+    "d": "Bị đình chỉ hoạt động kinh doanh cho đến khi góp đủ vốn",
+    "answer": "c",
+    "explanation": "Theo Điều 75 khoản 4 Luật Doanh nghiệp 2020: Chủ sở hữu công ty phải chịu trách nhiệm tương ứng với phần vốn góp đã cam kết đối với các nghĩa vụ tài chính của công ty phát sinh trong thời gian trước ngày công ty đăng ký thay đổi vốn điều lệ."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, chủ sở hữu công ty TNHH một thành viên là tổ chức có quyền quyết định nội dung nào sau đây?",
+    "a": "Điều lệ công ty",
+    "b": "Chiến lược phát triển và kế hoạch kinh doanh hàng năm",
+    "c": "Cơ cấu tổ chức quản lý công ty",
+    "d": "Tất cả các đáp án trên",
+    "answer": "d",
+    "explanation": "Theo Điều 76 khoản 1 Luật Doanh nghiệp 2020: Chủ sở hữu công ty là tổ chức có các quyền quyết định Điều lệ, chiến lược phát triển, kế hoạch kinh doanh, cơ cấu tổ chức và các nội dung khác theo quy định."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, chủ sở hữu công ty TNHH một thành viên là cá nhân có quyền nào sau đây?",
+    "a": "Quyết định đầu tư, kinh doanh và quản trị nội bộ công ty",
+    "b": "Ban hành nghị quyết thông qua báo cáo tài chính",
+    "c": "Quyết định tăng, giảm vốn điều lệ công ty",
+    "d": "Cả a, b và c",
+    "answer": "d",
+    "explanation": "Theo Điều 76 khoản 2 Luật Doanh nghiệp 2020: Chủ sở hữu công ty là cá nhân có các quyền quyết định đầu tư, kinh doanh, quản trị nội bộ; quyết định tăng, giảm vốn; thông qua báo cáo tài chính và các quyết định khác."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, công ty TNHH một thành viên có tư cách pháp nhân từ thời điểm nào?",
+    "a": "Từ ngày nộp hồ sơ đăng ký doanh nghiệp",
+    "b": "Từ ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp",
+    "c": "Từ ngày con dấu được đăng ký với cơ quan công an",
+    "d": "Từ ngày chủ sở hữu góp đủ vốn điều lệ",
+    "answer": "b",
+    "explanation": "Theo Điều 74 khoản 2 Luật Doanh nghiệp 2020: Công ty TNHH một thành viên có tư cách pháp nhân kể từ ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, công ty TNHH một thành viên được phát hành loại nào sau đây?",
+    "a": "Cổ phần phổ thông",
+    "b": "Trái phiếu",
+    "c": "Cổ phần ưu đãi cổ tức",
+    "d": "Chứng khoán phái sinh",
+    "answer": "b",
+    "explanation": "Theo Điều 74 khoản 4 Luật Doanh nghiệp 2020: Công ty TNHH một thành viên được phát hành trái phiếu theo quy định của Luật này và pháp luật có liên quan."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, cổ đông phổ thông có quyền ưu tiên mua cổ phần mới theo căn cứ nào?",
+    "a": "Theo số lượng cổ phần phổ thông đang nắm giữ",
+    "b": "Theo tỷ lệ sở hữu cổ phần phổ thông hiện có của cổ đông đó trong công ty",
+    "c": "Theo thứ tự đăng ký mua",
+    "d": "Theo giá thỏa thuận tại thời điểm chào bán",
+    "answer": "b",
+    "explanation": "Theo Điều 115 khoản 1 điểm c Luật Doanh nghiệp 2020: Cổ đông phổ thông có quyền được ưu tiên mua cổ phần mới chào bán tương ứng với tỷ lệ sở hữu cổ phần phổ thông của từng cổ đông trong công ty."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, cổ đông hoặc nhóm cổ đông sở hữu từ 10% tổng số cổ phần phổ thông trở lên có quyền nào sau đây?",
+    "a": "Triệu tập họp Đại hội đồng cổ đông trong mọi trường hợp",
+    "b": "Đề cử người vào Hội đồng quản trị và Ban kiểm soát",
+    "c": "Yêu cầu thay đổi cơ cấu sở hữu của công ty",
+    "d": "Được nhận cổ tức ưu đãi cao hơn cổ đông khác",
+    "answer": "b",
+    "explanation": "Theo Điều 115 khoản 5 Luật Doanh nghiệp 2020: Cổ đông hoặc nhóm cổ đông sở hữu từ 10% tổng số cổ phần phổ thông trở lên hoặc một tỷ lệ khác nhỏ hơn theo quy định tại Điều lệ công ty có quyền đề cử người vào Hội đồng quản trị và Ban kiểm soát."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, cổ đông sở hữu cổ phần ưu đãi cổ tức có được dự họp Đại hội đồng cổ đông không?",
+    "a": "Được, nếu có thông báo mời họp",
+    "b": "Không, trừ trường hợp luật quy định",
+    "c": "Được, nhưng không có quyền biểu quyết",
+    "d": "Chỉ được dự họp nếu Điều lệ công ty quy định",
+    "answer": "b",
+    "explanation": "Theo Điều 117 khoản 3 Luật Doanh nghiệp 2020: Cổ đông sở hữu cổ phần ưu đãi cổ tức không có quyền biểu quyết, dự họp Đại hội đồng cổ đông, đề cử người vào Hội đồng quản trị và Ban kiểm soát, trừ trường hợp quy định tại khoản 6 Điều 148."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, cổ phần ưu đãi biểu quyết sau thời hạn ưu đãi sẽ:",
+    "a": "Bị hủy bỏ và không được thay thế",
+    "b": "Được chuyển nhượng cho cổ đông khác",
+    "c": "Chuyển đổi thành cổ phần phổ thông",
+    "d": "Vẫn giữ nguyên ưu đãi biểu quyết vô thời hạn",
+    "answer": "c",
+    "explanation": "Theo Điều 116 khoản 1 Luật Doanh nghiệp 2020: Ưu đãi biểu quyết của cổ đông sáng lập có hiệu lực trong 03 năm kể từ ngày công ty được cấp Giấy chứng nhận đăng ký doanh nghiệp. Sau thời hạn đó, cổ phần ưu đãi biểu quyết chuyển đổi thành cổ phần phổ thông."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, cổ đông chưa thanh toán đủ cổ phần đã đăng ký mua phải chịu trách nhiệm đối với nghĩa vụ tài chính của công ty theo phạm vi nào?",
+    "a": "Tương ứng với số cổ phần đã thực tế thanh toán",
+    "b": "Tương ứng với tổng mệnh giá cổ phần đã đăng ký mua",
+    "c": "Chịu trách nhiệm vô hạn đối với các khoản nợ",
+    "d": "Không phải chịu trách nhiệm về nghĩa vụ tài chính",
+    "answer": "b",
+    "explanation": "Theo Điều 113 khoản 4 Luật Doanh nghiệp 2020: Cổ đông chưa thanh toán hoặc chưa thanh toán đủ số cổ phần đã đăng ký mua phải chịu trách nhiệm tương ứng với tổng mệnh giá cổ phần đã đăng ký mua."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, trường hợp công ty cổ phần giảm vốn điều lệ do hoàn trả một phần vốn góp cho cổ đông thì công ty phải hoạt động liên tục ít nhất bao lâu?",
+    "a": "01 năm",
+    "b": "02 năm",
+    "c": "03 năm",
+    "d": "05 năm",
+    "answer": "b",
+    "explanation": "Theo Điều 112 khoản 5 điểm a Luật Doanh nghiệp 2020: Trường hợp hoàn trả một phần vốn góp cho cổ đông theo tỷ lệ sở hữu của họ trong công ty thì công ty phải bảo đảm thanh toán đủ các khoản nợ và nghĩa vụ tài sản khác sau khi đã hoàn trả, đồng thời phải hoạt động kinh doanh liên tục từ 02 năm trở lên."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, công ty cổ phần được giảm vốn điều lệ trong trường hợp nào sau đây?",
+    "a": "Theo quyết định của Đại hội đồng cổ đông",
+    "b": "Mua lại cổ phần theo quy định tại Điều 132 và Điều 133",
+    "c": "Cổ đông không thanh toán đủ cổ phần đăng ký mua",
+    "d": "Tất cả các đáp án trên",
+    "answer": "d",
+    "explanation": "Theo Điều 112 khoản 5 Luật Doanh nghiệp 2020, công ty cổ phần được giảm vốn điều lệ trong các trường hợp: hoàn trả vốn; mua lại cổ phần; hoặc trường hợp cổ đông không thanh toán đủ vốn theo quy định."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, ai chịu trách nhiệm giám sát, đôn đốc cổ đông thanh toán đủ và đúng hạn cổ phần đã đăng ký mua?",
+    "a": "Hội đồng quản trị",
+    "b": "Giám đốc hoặc Tổng giám đốc",
+    "c": "Ban kiểm soát",
+    "d": "Đại hội đồng cổ đông",
+    "answer": "a",
+    "explanation": "Theo Điều 113 khoản 1 Luật Doanh nghiệp 2020: Hội đồng quản trị chịu trách nhiệm giám sát, đôn đốc các cổ đông thanh toán đủ và đúng hạn số cổ phần đã đăng ký mua."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, trong thời hạn 03 năm kể từ ngày được cấp GCN đăng ký doanh nghiệp, cổ đông sáng lập muốn chuyển nhượng cổ phần phổ thông cho người ngoài công ty phải được cơ quan nào chấp thuận?",
+    "a": "Hội đồng quản trị",
+    "b": "Đại hội đồng cổ đông",
+    "c": "Ban kiểm soát",
+    "d": "Sở Kế hoạch và Đầu tư",
+    "answer": "b",
+    "explanation": "Theo Điều 120 khoản 3 Luật Doanh nghiệp 2020: Trong thời hạn 03 năm kể từ ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp, cổ phần phổ thông của cổ đông sáng lập được tự do chuyển nhượng cho cổ đông sáng lập khác và chỉ được chuyển nhượng cho người không phải là cổ đông sáng lập nếu được sự chấp thuận của Đại hội đồng cổ đông."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, cổ đông sáng lập dự định chuyển nhượng cổ phần phổ thông cho người ngoài công ty có quyền biểu quyết về việc chuyển nhượng đó không?",
+    "a": "Có, nếu sở hữu trên 50% cổ phần",
+    "b": "Có, vì đây là quyền của cổ đông",
+    "c": "Không",
+    "d": "Do Điều lệ công ty quy định",
+    "answer": "c",
+    "explanation": "Theo Điều 120 khoản 3 Luật Doanh nghiệp 2020: Cổ đông sáng lập có dự định chuyển nhượng cổ phần phổ thông không có quyền biểu quyết về việc chuyển nhượng các cổ phần đó."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, trường hợp nào sau đây KHÔNG bị hạn chế chuyển nhượng theo quy định áp dụng với cổ đông sáng lập?",
+    "a": "Cổ phần phổ thông đăng ký mua khi thành lập doanh nghiệp",
+    "b": "Cổ phần phổ thông mà cổ đông sáng lập có thêm sau khi đăng ký thành lập doanh nghiệp",
+    "c": "Cổ phần ưu đãi biểu quyết",
+    "d": "Cổ phần chưa thanh toán",
+    "answer": "b",
+    "explanation": "Theo Điều 120 khoản 4 điểm a Luật Doanh nghiệp 2020: Cổ phần mà cổ đông sáng lập có thêm sau khi đăng ký thành lập doanh nghiệp không bị hạn chế chuyển nhượng theo quy định tại khoản 3 Điều này."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, tình huống nào sau đây đúng pháp luật? Công ty X được cấp GCN đăng ký doanh nghiệp ngày 01/01/2025. Tháng 06/2026, cổ đông sáng lập A muốn bán cổ phần phổ thông của mình cho người ngoài công ty.",
+    "a": "A được tự do chuyển nhượng vì đã quá thời hạn 01 năm",
+    "b": "A chỉ được chuyển nhượng nếu được Đại hội đồng cổ đông chấp thuận",
+    "c": "A không được chuyển nhượng vì chưa đủ 03 năm",
+    "d": "A được tự do chuyển nhượng vì đã quá thời hạn 06 tháng",
+    "answer": "b",
+    "explanation": "Theo Điều 120 khoản 3 Luật Doanh nghiệp 2020: Trong thời hạn 03 năm kể từ ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp, việc chuyển nhượng cổ phần phổ thông của cổ đông sáng lập cho người không phải cổ đông sáng lập phải được sự chấp thuận của Đại hội đồng cổ đông."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, tình huống nào sau đây đúng? Cổ đông B đăng ký mua 100.000 cổ phần nhưng sau 90 ngày chỉ thanh toán 40.000 cổ phần.",
+    "a": "B vẫn là cổ đông sở hữu 100.000 cổ phần",
+    "b": "B là cổ đông sở hữu 40.000 cổ phần và có quyền tương ứng với số cổ phần này",
+    "c": "B bị tước quyền cổ đông và 40.000 cổ phần bị hủy",
+    "d": "Công ty phải yêu cầu B nộp phạt 50% giá trị số cổ phần chưa thanh toán",
+    "answer": "b",
+    "explanation": "Theo Điều 113 khoản 3 điểm b Luật Doanh nghiệp 2020: Trường hợp chỉ thanh toán một phần số cổ phần đã đăng ký mua thì cổ đông đó chỉ được hưởng quyền và lợi ích tương ứng với số cổ phần đã thanh toán."
+  },
+  {
     "question": "Theo Luật Doanh nghiệp 2020, cơ quan quyết định cao nhất của công ty trách nhiệm hữu hạn hai thành viên trở lên là cơ quan nào?",
     "a": "Giám đốc hoặc Tổng giám đốc",
     "b": "Chủ tịch Hội đồng thành viên",
