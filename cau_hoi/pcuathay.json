@@ -1683,15 +1683,6 @@
     "explanation": "Các trường hợp này đều có thể làm chấm dứt hợp đồng thuê."
   },
   {
-    "question": "Điều kiện người mua nhà:",
-    "a": "Không cần cư trú",
-    "b": "Có thể là người nước ngoài",
-    "c": "Phải đủ năng lực hành vi",
-    "d": "Tất cả sai",
-    "answer": "c",
-    "explanation": "Người tham gia giao dịch phải có năng lực hành vi dân sự đầy đủ."
-  },
-  {
     "question": "Cơ sở dữ liệu công chứng:",
     "a": "Do Bộ Tư pháp quản lý",
     "b": "Không có quy chế",
