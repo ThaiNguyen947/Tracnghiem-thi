@@ -1,5 +1,257 @@
 [
   {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, tài sản nào sau đây có thể được sử dụng để góp vốn vào doanh nghiệp?",
+    "a": "Quyền sử dụng đất, quyền sở hữu trí tuệ, bí quyết kỹ thuật",
+    "b": "Tài sản là vật, tiền mặt, ngoại tệ tự do chuyển đổi, vàng",
+    "c": "Các tài sản khác có thể định giá được bằng Đồng Việt Nam",
+    "d": "Tất cả các đáp án trên đều đúng",
+    "answer": "d",
+    "explanation": "Khoản 1 Điều 34 quy định tài sản góp vốn là Đồng Việt Nam, ngoại tệ tự do chuyển đổi, vàng, quyền sử dụng đất, quyền sở hữu trí tuệ, công nghệ, bí quyết kỹ thuật, tài sản khác có thể định giá được bằng Đồng Việt Nam."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, điều kiện tiên quyết để cá nhân, tổ chức được dùng tài sản góp vốn là gì?",
+    "a": "Tài sản phải có giấy tờ chứng minh nguồn gốc hợp pháp từ thời điểm tạo lập",
+    "b": "Phải là chủ sở hữu hợp pháp hoặc có quyền sử dụng hợp pháp đối với tài sản đó",
+    "c": "Phải được cơ quan thuế chấp thuận giá trị tài sản trước khi góp vào doanh nghiệp",
+    "d": "Phải là tài sản không đang trong quá trình thế chấp hoặc bảo lãnh tại các tổ chức tín dụng",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 34 quy định chỉ chủ sở hữu hợp pháp hoặc người có quyền sử dụng hợp pháp mới được dùng tài sản để góp vốn."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, đối với tài sản có đăng ký quyền sở hữu hoặc quyền sử dụng đất, người góp vốn phải thực hiện thủ tục nào?",
+    "a": "Lập biên bản bàn giao tài sản và ghi nhận vào sổ sách kế toán của công ty",
+    "b": "Thực hiện thủ tục chuyển quyền sở hữu hoặc quyền sử dụng đất cho công ty",
+    "c": "Thông báo cho cơ quan thuế về việc tài sản đã được chuyển sang tên công ty",
+    "d": "Chỉ cần làm hợp đồng góp vốn có xác nhận của công chứng viên là đủ",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 35 quy định phải làm thủ tục chuyển quyền sở hữu hoặc quyền sử dụng đất cho công ty."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, việc chuyển quyền sử dụng đất hoặc chuyển quyền sở hữu tài sản góp vốn có phải chịu lệ phí trước bạ không?",
+    "a": "Có, nhưng được hoàn lại sau khi doanh nghiệp quyết toán thuế năm",
+    "b": "Có, và phải nộp tại cơ quan quản lý tài nguyên và môi trường",
+    "c": "Không phải chịu lệ phí trước bạ",
+    "d": "Chỉ được miễn lệ phí đối với công ty cổ phần, không áp dụng cho công ty TNHH",
+    "answer": "c",
+    "explanation": "Điểm a khoản 1 Điều 35 quy định việc chuyển quyền sở hữu, quyền sử dụng đất đối với tài sản góp vốn không phải chịu lệ phí trước bạ."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, việc góp vốn bằng tài sản không đăng ký quyền sở hữu được thực hiện theo cách thức nào?",
+    "a": "Lập vi bằng để xác nhận sự hiện diện của tài sản tại thời điểm góp",
+    "b": "Lập hợp đồng góp vốn bằng văn bản và có công chứng/chứng thực",
+    "c": "Giao nhận tài sản góp vốn có xác nhận bằng biên bản, trừ trường hợp thực hiện qua tài khoản",
+    "d": "Phải được hội đồng thành viên/hội đồng quản trị ký xác nhận giá trị",
+    "answer": "c",
+    "explanation": "Điểm b khoản 1 Điều 35 quy định việc góp vốn bằng tài sản không đăng ký quyền sở hữu được thực hiện bằng giao nhận tài sản có xác nhận bằng biên bản."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, biên bản giao nhận tài sản góp vốn bắt buộc phải thể hiện các thông tin nào?",
+    "a": "Tên và địa chỉ trụ sở chính của doanh nghiệp nhận vốn",
+    "b": "Tên, loại tài sản và số lượng đơn vị tài sản góp vốn",
+    "c": "Giá trị của tài sản góp vốn và chữ ký của các bên liên quan",
+    "d": "Tất cả các nội dung trên",
+    "answer": "d",
+    "explanation": "Khoản 2 Điều 35 quy định biên bản giao nhận phải có thông tin tài sản, giá trị, ngày giao nhận và chữ ký các bên liên quan."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, thời điểm việc góp vốn được coi là hoàn tất về mặt pháp lý là khi nào?",
+    "a": "Khi biên bản giao nhận tài sản được các bên ký kết",
+    "b": "Khi điều lệ công ty được ghi nhận số vốn góp của thành viên",
+    "c": "Khi quyền sở hữu hợp pháp đối với tài sản góp vốn đã chuyển sang công ty",
+    "d": "Khi doanh nghiệp nhận được giấy chứng nhận đăng ký doanh nghiệp",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 35 quy định việc góp vốn chỉ được coi là thanh toán xong khi quyền sở hữu hợp pháp đã chuyển sang công ty."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, đối với doanh nghiệp tư nhân, tài sản được sử dụng vào hoạt động kinh doanh có phải chuyển quyền sở hữu sang tên doanh nghiệp không?",
+    "a": "Có, để đảm bảo tính minh bạch về tài sản của chủ doanh nghiệp",
+    "b": "Không bắt buộc phải làm thủ tục chuyển quyền sở hữu",
+    "c": "Chỉ bắt buộc đối với bất động sản",
+    "d": "Chỉ bắt buộc đối với động sản có đăng ký quyền sở hữu",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 35 quy định tài sản sử dụng vào hoạt động kinh doanh của doanh nghiệp tư nhân không phải chuyển quyền sở hữu."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, hình thức thanh toán mua bán, chuyển nhượng cổ phần/vốn góp của nhà đầu tư nước ngoài phải tuân thủ quy định gì?",
+    "a": "Thanh toán bằng ngoại tệ mạnh thông qua các ngân hàng thương mại",
+    "b": "Thông qua tài khoản theo quy định pháp luật về quản lý ngoại hối",
+    "c": "Thông qua người đại diện theo pháp luật hoặc bên được ủy quyền",
+    "d": "Bằng vàng hoặc tài sản khác tương đương giá trị được các bên thỏa thuận",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 35 quy định các giao dịch này phải thực hiện thông qua tài khoản theo pháp luật về quản lý ngoại hối."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, tài sản không phải là Đồng Việt Nam, ngoại tệ tự do chuyển đổi hoặc vàng thì định giá thế nào?",
+    "a": "Do người góp vốn tự kê khai và chịu trách nhiệm trước pháp luật",
+    "b": "Phải thông qua hội đồng thẩm định giá độc lập của cơ quan nhà nước",
+    "c": "Được các bên định giá và thể hiện thành Đồng Việt Nam",
+    "d": "Theo giá ghi nhận trên sổ sách kế toán của đơn vị góp vốn",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 36 quy định tài sản góp vốn phải được định giá và thể hiện thành Đồng Việt Nam."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, tài sản góp vốn khi thành lập doanh nghiệp được các thành viên/cổ đông sáng lập định giá theo nguyên tắc nào?",
+    "a": "Theo nguyên tắc đa số quá bán (trên 50% số thành viên đồng ý)",
+    "b": "Theo nguyên tắc đồng thuận",
+    "c": "Theo tỷ lệ phần trăm vốn góp của từng thành viên",
+    "d": "Theo kết quả của tổ chức định giá chuyên nghiệp",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 36 quy định tài sản góp vốn khi thành lập doanh nghiệp được định giá theo nguyên tắc đồng thuận."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, khi có tổ chức thẩm định giá tham gia định giá tài sản khi thành lập, giá trị cần sự chấp thuận của bao nhiêu người?",
+    "a": "Tất cả các thành viên sáng lập",
+    "b": "Trên 50% số thành viên, cổ đông sáng lập",
+    "c": "Trên 65% số thành viên, cổ đông sáng lập",
+    "d": "Ít nhất 2/3 số thành viên, cổ đông sáng lập",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 36 quy định giá trị tài sản góp vốn phải được trên 50% số thành viên, cổ đông sáng lập chấp thuận."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, nếu tài sản góp vốn được định giá cao hơn giá trị thực tế tại thời điểm góp, hậu quả pháp lý là gì?",
+    "a": "Công ty có quyền hủy bỏ phần vốn góp đó",
+    "b": "Thành viên góp vốn phải nộp phạt hành chính cho cơ quan nhà nước",
+    "c": "Thành viên liên đới góp thêm phần chênh lệch và chịu trách nhiệm về thiệt hại",
+    "d": "Tổ chức thẩm định giá bị tước giấy phép hoạt động vĩnh viễn",
+    "answer": "c",
+    "explanation": "Khoản 2 và khoản 3 Điều 36 quy định các chủ thể liên quan phải liên đới góp thêm phần chênh lệch và chịu trách nhiệm về thiệt hại."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, tài sản góp vốn trong quá trình hoạt động của doanh nghiệp do ai thỏa thuận định giá?",
+    "a": "Cơ quan đăng ký kinh doanh và doanh nghiệp",
+    "b": "Người góp vốn và chủ sở hữu, Hội đồng thành viên hoặc Hội đồng quản trị",
+    "c": "Kiểm toán độc lập và người góp vốn",
+    "d": "Người góp vốn và các chủ nợ của doanh nghiệp",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 36 quy định việc định giá do người góp vốn và chủ sở hữu, Hội đồng thành viên hoặc Hội đồng quản trị thỏa thuận."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, ai có quyền sử dụng quyền sở hữu trí tuệ để góp vốn vào doanh nghiệp?",
+    "a": "Bất kỳ cá nhân nào đang sử dụng tài sản trí tuệ đó trong thực tế",
+    "b": "Chỉ các cơ quan nhà nước có thẩm quyền cấp văn bằng bảo hộ sở hữu trí tuệ",
+    "c": "Chỉ cá nhân, tổ chức là chủ sở hữu hợp pháp hoặc có quyền sử dụng hợp pháp",
+    "d": "Chỉ các doanh nghiệp nhà nước hoặc đơn vị sự nghiệp công lập",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 34 quy định chỉ chủ sở hữu hợp pháp hoặc người có quyền sử dụng hợp pháp mới được dùng tài sản để góp vốn."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, loại ngoại tệ nào được phép sử dụng để góp vốn vào doanh nghiệp?",
+    "a": "Tất cả mọi loại ngoại tệ mà doanh nghiệp chấp nhận",
+    "b": "Ngoại tệ tự do chuyển đổi",
+    "c": "Ngoại tệ do cá nhân tự thỏa thuận với công ty theo hợp đồng dân sự",
+    "d": "Chỉ chấp nhận đồng Đô la Mỹ (USD)",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 34 quy định ngoại tệ tự do chuyển đổi là tài sản có thể dùng để góp vốn."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, khi góp vốn bằng quyền sử dụng đất thì người góp vốn phải thực hiện nghĩa vụ nào sau đây?",
+    "a": "Chỉ cần bàn giao bản gốc Giấy chứng nhận quyền sử dụng đất cho doanh nghiệp",
+    "b": "Làm thủ tục chuyển quyền sử dụng đất cho công ty theo quy định của pháp luật về đất đai",
+    "c": "Lập biên bản bàn giao tài sản và ghi nhận vào vốn điều lệ trên sổ kế toán",
+    "d": "Thỏa thuận miệng với công ty và làm văn bản cam kết trước cơ quan công chứng",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 35 quy định người góp vốn phải làm thủ tục chuyển quyền sử dụng đất cho công ty."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, biên bản giao nhận tài sản góp vốn phải có chữ ký của những chủ thể nào?",
+    "a": "Người góp vốn (hoặc đại diện ủy quyền) và người đại diện theo pháp luật của công ty",
+    "b": "Đại diện cơ quan đăng ký kinh doanh và người góp vốn",
+    "c": "Công chứng viên và người đại diện theo pháp luật của công ty",
+    "d": "Toàn bộ thành viên công ty để đảm bảo sự minh bạch",
+    "answer": "a",
+    "explanation": "Điểm d khoản 2 Điều 35 quy định biên bản phải có chữ ký của người góp vốn hoặc người đại diện theo ủy quyền và người đại diện theo pháp luật của công ty."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, nội dung nào sau đây bắt buộc phải thể hiện trong biên bản giao nhận tài sản góp vốn?",
+    "a": "Tỷ lệ giá trị của tài sản góp vốn đó trong vốn điều lệ của công ty",
+    "b": "Tổng thu nhập và tình hình tài chính của người góp vốn",
+    "c": "Tình trạng hôn nhân và thông tin cá nhân của người góp vốn",
+    "d": "Lịch sử tín dụng và xếp hạng năng lực tài chính của doanh nghiệp",
+    "answer": "a",
+    "explanation": "Điểm c khoản 2 Điều 35 quy định biên bản phải ghi tổng giá trị tài sản góp vốn và tỷ lệ của giá trị đó trong vốn điều lệ."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, việc góp vốn bằng tài sản được coi là hoàn tất vào thời điểm nào?",
+    "a": "Khi hợp đồng góp vốn được hai bên ký kết bằng văn bản",
+    "b": "Khi hoàn tất thủ tục công chứng hợp đồng góp vốn",
+    "c": "Khi quyền sở hữu hợp pháp đối với tài sản đã chuyển sang công ty",
+    "d": "Khi doanh nghiệp bắt đầu phát sinh doanh thu từ tài sản góp vốn đó",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 35 quy định việc góp vốn chỉ được coi là thanh toán xong khi quyền sở hữu hợp pháp đã chuyển sang công ty."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, lý do tài sản sử dụng vào hoạt động kinh doanh của doanh nghiệp tư nhân không phải làm thủ tục chuyển quyền sở hữu cho doanh nghiệp là gì?",
+    "a": "Vì doanh nghiệp tư nhân được pháp luật miễn đăng ký quyền sở hữu tài sản",
+    "b": "Vì doanh nghiệp tư nhân không có tư cách pháp nhân, tài sản doanh nghiệp gắn với chủ doanh nghiệp",
+    "c": "Vì pháp luật cấm chuyển quyền sở hữu đối với tài sản của doanh nghiệp tư nhân",
+    "d": "Vì tài sản trong doanh nghiệp tư nhân mặc nhiên thuộc sở hữu Nhà nước",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 35 phản ánh bản chất doanh nghiệp tư nhân không có tư cách pháp nhân, tài sản doanh nghiệp gắn với chủ doanh nghiệp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, hoạt động chuyển nhượng phần vốn góp của nhà đầu tư nước ngoài phải được thực hiện thông qua hình thức nào?",
+    "a": "Thanh toán bằng tiền mặt để đảm bảo sự nhanh chóng",
+    "b": "Thông qua tài khoản theo quy định pháp luật về quản lý ngoại hối",
+    "c": "Thanh toán bằng vàng hoặc ngoại tệ có giá trị tương đương được các bên đồng ý",
+    "d": "Thanh toán thông qua công chứng viên hoặc bên trung gian uy tín",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 35 quy định các giao dịch này phải thực hiện thông qua tài khoản theo pháp luật quản lý ngoại hối."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, tài sản góp vốn khi thành lập doanh nghiệp được các thành viên, cổ đông sáng lập định giá theo nguyên tắc nào?",
+    "a": "Nguyên tắc đa số quá bán (trên 50%)",
+    "b": "Theo tỷ lệ vốn góp của người có số vốn lớn nhất",
+    "c": "Nguyên tắc đồng thuận",
+    "d": "Theo quyết định của người đại diện theo pháp luật",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 36 quy định tài sản góp vốn khi thành lập doanh nghiệp được định giá theo nguyên tắc đồng thuận."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, trường hợp tổ chức thẩm định giá tham gia định giá tài sản khi thành lập, giá trị đó cần tỷ lệ nào chấp thuận?",
+    "a": "Ít nhất 75% số thành viên, cổ đông sáng lập",
+    "b": "100% số thành viên, cổ đông sáng lập",
+    "c": "Trên 50% số thành viên, cổ đông sáng lập",
+    "d": "Ít nhất 65% số thành viên, cổ đông sáng lập",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 36 quy định giá trị tài sản góp vốn phải được trên 50% số thành viên, cổ đông sáng lập chấp thuận."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, nếu tài sản góp vốn được định giá cao hơn giá trị thực tế khi thành lập doanh nghiệp, ai phải liên đới góp thêm phần chênh lệch?",
+    "a": "Chỉ duy nhất tổ chức thẩm định giá tài sản",
+    "b": "Chỉ người góp vốn sai giá trị tài sản",
+    "c": "Các thành viên, cổ đông sáng lập",
+    "d": "Cơ quan đăng ký kinh doanh nơi cấp giấy phép",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 36 quy định các thành viên, cổ đông sáng lập phải cùng liên đới góp thêm phần chênh lệch."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, các chủ thể cố ý định giá tài sản góp vốn cao hơn thực tế phải chịu trách nhiệm gì?",
+    "a": "Bị giải thể doanh nghiệp bắt buộc",
+    "b": "Liên đới chịu trách nhiệm đối với thiệt hại phát sinh do việc định giá sai",
+    "c": "Bị cấm góp vốn vào các doanh nghiệp khác vĩnh viễn",
+    "d": "Đương nhiên bị tước quyền quản lý điều hành doanh nghiệp",
+    "answer": "b",
+    "explanation": "Khoản 2 và khoản 3 Điều 36 quy định các chủ thể còn phải liên đới chịu trách nhiệm đối với thiệt hại."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, trong quá trình hoạt động của công ty cổ phần, ai có quyền cùng người góp vốn thỏa thuận định giá tài sản góp vốn?",
+    "a": "Đại hội đồng cổ đông",
+    "b": "Hội đồng quản trị",
+    "c": "Ban kiểm soát",
+    "d": "Cơ quan đăng ký kinh doanh",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 36 quy định đối với công ty cổ phần, Hội đồng quản trị cùng người góp vốn thỏa thuận định giá tài sản."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, trường hợp tài sản góp vốn trong quá trình hoạt động được tổ chức thẩm định giá định giá thì giá trị đó phải được ai chấp thuận?",
+    "a": "Cơ quan thuế và cơ quan kiểm toán",
+    "b": "Người góp vốn và chủ sở hữu, Hội đồng thành viên hoặc Hội đồng quản trị",
+    "c": "Toàn bộ nhân viên và người lao động của doanh nghiệp",
+    "d": "Ủy ban nhân dân cấp tỉnh nơi doanh nghiệp đóng trụ sở",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 36 quy định giá trị tài sản phải được người góp vốn và chủ thể quản lý doanh nghiệp tương ứng chấp thuận."
+  },
+  {
     "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, tổ chức, cá nhân có quyền thành lập và quản lý doanh nghiệp tại Việt Nam trong trường hợp nào?",
     "a": "Chỉ khi được cơ quan đăng ký kinh doanh chấp thuận văn bản đặc biệt",
     "b": "Trong mọi trường hợp, trừ khi là người nước ngoài không có giấy phép cư trú",
