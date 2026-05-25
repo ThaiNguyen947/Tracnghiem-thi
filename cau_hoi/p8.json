@@ -1,5 +1,617 @@
 [
   {
+    "question": "Theo Luật KDBĐS 2023, trường hợp cá nhân bán nhà ở không nhằm mục đích kinh doanh thì có phải thực hiện công chứng, chứng thực không?",
+    "a": "Không bắt buộc trong mọi trường hợp",
+    "b": "Chỉ cần lập vi bằng để ghi nhận sự kiện",
+    "c": "Phải thực hiện công chứng, chứng thực theo khoản 5 Điều 44 Luật này",
+    "d": "Chỉ cần có xác nhận bằng văn bản của tổ trưởng dân phố hoặc chính quyền địa phương",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 9 Luật Kinh doanh bất động sản 2023 quy định trường hợp cá nhân bán, cho thuê mua nhà ở, công trình xây dựng thì phải thực hiện công chứng, chứng thực theo khoản 5 Điều 44 của Luật này."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, hợp đồng giao dịch bất động sản thuộc diện phải công chứng, chứng thực thì được thực hiện theo quy định của pháp luật nào?",
+    "a": "Luật Đầu tư và các văn bản hướng dẫn thi hành",
+    "b": "Luật Công chứng và pháp luật về chứng thực",
+    "c": "Luật Trọng tài thương mại và các quy định về tố tụng dân sự",
+    "d": "Luật Đấu giá tài sản và quy định về giao dịch dân sự",
+    "answer": "b",
+    "explanation": "Điểm d khoản 1 Điều 16 Luật Kinh doanh bất động sản 2023 quy định trường hợp bất động sản thuộc diện phải công chứng, chứng thực thì việc công chứng, chứng thực thực hiện theo pháp luật về công chứng, chứng thực."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, nhà ở đưa vào kinh doanh phải đáp ứng điều kiện nào?",
+    "a": "Được phép giao dịch nếu đã hoàn tất đặt cọc",
+    "b": "Không thuộc trường hợp đang có tranh chấp đang được cơ quan có thẩm quyền thụ lý giải quyết",
+    "c": "Được phép giao dịch nếu bên mua đã được thông báo về tình trạng tranh chấp",
+    "d": "Được phép giao dịch nếu có sự bảo lãnh hoặc xác nhận của bên môi giới",
+    "answer": "b",
+    "explanation": "Điểm b khoản 1 Điều 14 Luật Kinh doanh bất động sản 2023 quy định nhà ở, công trình xây dựng đưa vào kinh doanh không thuộc trường hợp đang có tranh chấp đang được cơ quan có thẩm quyền thông báo, thụ lý và giải quyết."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, nhà ở đưa vào kinh doanh có được phép đang bị kê biên để thi hành án không?",
+    "a": "Được phép nếu có sự đồng ý bằng văn bản của bên mua",
+    "b": "Được phép nếu công chứng viên xác nhận tính hợp pháp của tài sản",
+    "c": "Không được phép",
+    "d": "Được phép nếu chủ đầu tư cam kết đã bàn giao nhà đúng tiến độ",
+    "answer": "c",
+    "explanation": "Điểm c khoản 1 Điều 14 Luật Kinh doanh bất động sản 2023 quy định nhà ở, công trình xây dựng đưa vào kinh doanh không bị kê biên để bảo đảm thi hành án."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, một trong các điều kiện tiên quyết của nhà ở đưa vào kinh doanh là gì?",
+    "a": "Phải được lập vi bằng xác nhận tình trạng nhà ở",
+    "b": "Phải có giấy xác nhận cư trú hợp pháp của cơ quan công an",
+    "c": "Đã được công khai thông tin theo quy định tại Điều 6 của Luật này",
+    "d": "Có văn bản xác nhận của ngân hàng về việc tài sản không có dư nợ",
+    "answer": "c",
+    "explanation": "Điểm e khoản 1 Điều 14 Luật Kinh doanh bất động sản 2023 quy định nhà ở, công trình xây dựng đưa vào kinh doanh phải được công khai thông tin theo Điều 6 của Luật này."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, chủ đầu tư dự án có được quyền ủy quyền cho tổ chức, cá nhân khác ký hợp đồng mua bán nhà ở không?",
+    "a": "Được phép nếu có văn bản ủy quyền công chứng",
+    "b": "Được phép nếu có sự đồng ý của khách hàng",
+    "c": "Không được ủy quyền",
+    "d": "Được phép nếu là nhân viên của chủ đầu tư",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 17 Luật Kinh doanh bất động sản 2023 quy định chủ đầu tư không được ủy quyền cho tổ chức, cá nhân khác ký hợp đồng đặt cọc, mua bán, chuyển nhượng, cho thuê mua nhà ở, công trình xây dựng."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, trong thời hạn bao nhiêu ngày kể từ ngày bàn giao nhà ở cho bên mua, chủ đầu tư phải nộp hồ sơ đề nghị cấp Giấy chứng nhận?",
+    "a": "15 ngày",
+    "b": "30 ngày",
+    "c": "50 ngày",
+    "d": "60 ngày",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 17 Luật Kinh doanh bất động sản 2023 quy định trong thời hạn 50 ngày kể từ ngày bàn giao nhà ở cho bên mua thì chủ đầu tư phải nộp hồ sơ đề nghị cấp Giấy chứng nhận."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, thời điểm xác lập quyền sở hữu nhà ở đối với bên mua được quy định như thế nào?",
+    "a": "Kể từ thời điểm ký hợp đồng mua bán",
+    "b": "Kể từ thời điểm hoàn tất thủ tục công chứng",
+    "c": "Kể từ thời điểm bên mua đã thanh toán đủ tiền và nhận bàn giao nhà, trừ trường hợp có thỏa thuận khác",
+    "d": "Kể từ thời điểm bên mua đăng ký hộ khẩu tại địa chỉ nhà ở",
+    "answer": "c",
+    "explanation": "Khoản 5 Điều 13 Luật Kinh doanh bất động sản 2023 quy định thời điểm xác lập quyền sở hữu là kể từ thời điểm bên mua đã thanh toán đủ tiền và đã nhận bàn giao nhà ở, trừ trường hợp các bên có thỏa thuận khác."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, việc mua bán nhà ở phải gắn với điều kiện nào?",
+    "a": "Phải có giấy phép kinh doanh bất động sản của người mua",
+    "b": "Phải gắn với quyền sử dụng đất, trừ trường hợp pháp luật có quy định khác",
+    "c": "Phải có xác nhận cư trú của chính quyền địa phương",
+    "d": "Phải đi kèm với hợp đồng lao động tại địa phương",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 13 Luật Kinh doanh bất động sản 2023 quy định việc mua bán nhà ở, công trình xây dựng phải gắn với quyền sử dụng đất, trừ trường hợp pháp luật có quy định khác."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, trước khi ký hợp đồng mua bán nhà ở, bên bán có trách nhiệm gì?",
+    "a": "Giao nhà ngay sau khi nhận tiền đặt cọc",
+    "b": "Cung cấp đầy đủ, chính xác thông tin và giấy tờ pháp lý của bất động sản cho bên mua",
+    "c": "Tổ chức họp cộng đồng dân cư để thông báo việc bán",
+    "d": "Nộp thay toàn bộ lệ phí trước bạ cho bên mua",
+    "answer": "b",
+    "explanation": "Điểm b khoản 1 Điều 16 Luật Kinh doanh bất động sản 2023 quy định trước khi ký hợp đồng, bên bán phải cung cấp đầy đủ thông tin và giấy tờ pháp lý của nhà ở, công trình xây dựng cho bên mua."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, hợp đồng mua bán nhà ở phải thực hiện theo quy định nào?",
+    "a": "Theo mẫu hợp đồng do các bên tự thỏa thuận",
+    "b": "Có thể xác lập bằng hợp đồng miệng",
+    "c": "Theo quy định về hợp đồng mẫu và các quy định liên quan tại Luật này",
+    "d": "Theo xác nhận và cam kết của bên môi giới bất động sản",
+    "answer": "c",
+    "explanation": "Điểm m khoản 1 Điều 19 Luật Kinh doanh bất động sản 2023 quy định phải thực hiện giao kết hợp đồng theo quy định về hợp đồng mẫu và các quy định liên quan về hợp đồng trong kinh doanh bất động sản."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, nghĩa vụ của bên bán liên quan đến quyền sở hữu bất động sản được quy định như thế nào?",
+    "a": "Chỉ cần có hợp đồng đặt cọc là đủ điều kiện để giao dịch",
+    "b": "Bảo đảm có quyền sở hữu, sử dụng hợp pháp đối với nhà ở, công trình xây dựng được bán",
+    "c": "Chỉ cần có bản photo Giấy chứng nhận quyền sở hữu",
+    "d": "Không cần chứng minh quyền sở hữu nếu đã nhận tiền",
+    "answer": "b",
+    "explanation": "Điểm n khoản 1 Điều 19 Luật Kinh doanh bất động sản 2023 quy định bên bán phải bảo đảm có quyền sở hữu, sử dụng hợp pháp đối với nhà ở, công trình xây dựng được bán, cho thuê, cho thuê mua."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, khi bán căn hộ trong cùng dự án, chủ đầu tư phải xác định rõ nội dung nào trong hợp đồng?",
+    "a": "Tình trạng hôn nhân và số nhân khẩu của khách hàng",
+    "b": "Phần sở hữu chung và phần sở hữu riêng của các chủ sở hữu",
+    "c": "Thu nhập trung bình của người mua trong dự án",
+    "d": "Giá điện, nước và phí sinh hoạt hàng tháng",
+    "answer": "b",
+    "explanation": "Điểm a khoản 2 Điều 19 Luật Kinh doanh bất động sản 2023 quy định phải xác định rõ phần sở hữu chung, sở hữu riêng của các chủ sở hữu trong dự án, công trình xây dựng."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, việc thu và quản lý kinh phí bảo trì công trình trong dự án phải được quy định ở đâu?",
+    "a": "Trong biên bản họp cư dân do chủ đầu tư tổ chức",
+    "b": "Trong hợp đồng mua bán, cho thuê mua nhà ở, công trình xây dựng",
+    "c": "Trong hồ sơ vay vốn ngân hàng của chủ đầu tư",
+    "d": "Trong sổ hộ khẩu của cư dân sinh sống tại dự án",
+    "answer": "b",
+    "explanation": "Điểm d khoản 2 Điều 19 Luật Kinh doanh bất động sản 2023 quy định hợp đồng phải xác định rõ việc thu, quản lý, sử dụng các loại kinh phí bảo trì, phí dịch vụ quản lý vận hành công trình xây dựng."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, trước khi đưa bất động sản vào kinh doanh, doanh nghiệp phải thực hiện nghĩa vụ nào để đảm bảo tính minh bạch?",
+    "a": "Niêm yết thông tin bắt buộc tại trụ sở UBND cấp xã nơi có bất động sản",
+    "b": "Công khai đầy đủ, trung thực, chính xác các thông tin theo quy định của pháp luật",
+    "c": "Thông báo bằng văn bản cho đại diện tổ dân phố hoặc cộng đồng dân cư",
+    "d": "Xin xác nhận sự phù hợp của văn phòng công chứng trên địa bàn",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 6 Luật Kinh doanh bất động sản 2023 quy định doanh nghiệp kinh doanh bất động sản phải công khai đầy đủ, trung thực và chính xác thông tin trước khi đưa bất động sản vào kinh doanh."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, thông tin về dự án bất động sản phải công khai các nội dung nào trong hồ sơ giao dịch?",
+    "a": "Hợp đồng mẫu được sử dụng để ký kết trong giao dịch kinh doanh bất động sản",
+    "b": "Danh sách chi tiết thông tin nhân thân của các cư dân trong dự án",
+    "c": "Bảng kê chi tiết các loại thuế thu nhập mà chủ đầu tư đã nộp cho Nhà nước",
+    "d": "Hồ sơ năng lực và thông tin nhân thân của đội ngũ môi giới bất động sản",
+    "answer": "a",
+    "explanation": "Điểm d khoản 2 Điều 6 Luật Kinh doanh bất động sản 2023 quy định thông tin về dự án bất động sản phải công khai hợp đồng mẫu được sử dụng để ký kết trong giao dịch kinh doanh bất động sản."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, đối với nhà ở hình thành trong tương lai, chủ đầu tư phải công khai nội dung nào về tình trạng tài sản?",
+    "a": "Không bắt buộc phải công khai tình trạng thế chấp cho bên mua",
+    "b": "Chỉ phải công khai tình trạng thế chấp khi có yêu cầu bằng văn bản từ bên mua",
+    "c": "Phải công khai việc thế chấp nhà ở, công trình xây dựng, quyền sử dụng đất, dự án bất động sản đưa vào kinh doanh",
+    "d": "Chỉ phải công khai tình trạng thế chấp cho ngân hàng nhận thế chấp",
+    "answer": "c",
+    "explanation": "Điểm e khoản 3 Điều 6 Luật Kinh doanh bất động sản 2023 quy định phải công khai việc thế chấp nhà ở, công trình xây dựng, quyền sử dụng đất, dự án bất động sản đưa vào kinh doanh."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, thông tin về nhà ở hình thành trong tương lai phải kèm theo tài liệu nào để chứng minh đủ điều kiện bán?",
+    "a": "Bản cam kết bằng văn bản của đơn vị môi giới bất động sản",
+    "b": "Văn bản của cơ quan nhà nước có thẩm quyền về việc nhà ở đủ điều kiện được bán, cho thuê mua",
+    "c": "Giấy xác nhận cư trú hợp pháp của chủ đầu tư tại địa phương",
+    "d": "Hợp đồng đặt cọc giữa chủ đầu tư và bên mua tiềm năng",
+    "answer": "b",
+    "explanation": "Điểm đ khoản 3 Điều 6 Luật Kinh doanh bất động sản 2023 quy định phải có văn bản của cơ quan nhà nước có thẩm quyền về nhà ở hình thành trong tương lai đủ điều kiện được bán, cho thuê mua."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, hành vi nào sau đây bị nghiêm cấm trong hoạt động kinh doanh bất động sản?",
+    "a": "Công khai thông tin dự án trên các phương tiện truyền thông đại chúng",
+    "b": "Thực hiện thanh toán giao dịch thông qua tổ chức tín dụng",
+    "c": "Giả mạo tài liệu, cố ý làm sai lệch thông tin về bất động sản, dự án bất động sản",
+    "d": "Thực hiện đăng ký giao dịch bảo đảm đối với dự án bất động sản",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 8 Luật Kinh doanh bất động sản 2023 nghiêm cấm hành vi giả mạo tài liệu, cố ý làm sai lệch thông tin về bất động sản, dự án bất động sản."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, việc không công khai thông tin về bất động sản đưa vào kinh doanh được xác định là hành vi gì?",
+    "a": "Hành vi được phép thực hiện để bảo mật thông tin kinh doanh",
+    "b": "Hành vi bị nghiêm cấm",
+    "c": "Hành vi chỉ bị cơ quan quản lý nhắc nhở, không áp dụng chế tài",
+    "d": "Hành vi không thuộc phạm vi điều chỉnh của Luật này",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 8 Luật Kinh doanh bất động sản 2023 quy định không công khai thông tin về bất động sản đưa vào kinh doanh là hành vi bị nghiêm cấm."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, yêu cầu pháp lý cơ bản đối với tổ chức, cá nhân kinh doanh bất động sản là gì?",
+    "a": "Phải thành lập doanh nghiệp hoặc hợp tác xã có ngành nghề kinh doanh bất động sản",
+    "b": "Chỉ cần đăng ký tạm trú tại địa phương có dự án đầu tư",
+    "c": "Không bắt buộc phải đăng ký ngành nghề kinh doanh bất động sản",
+    "d": "Chỉ cần ký kết hợp đồng đặt cọc với chủ đất",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 9 Luật Kinh doanh bất động sản 2023 quy định tổ chức, cá nhân kinh doanh bất động sản phải thành lập doanh nghiệp hoặc hợp tác xã có ngành nghề kinh doanh bất động sản."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, cá nhân kinh doanh bất động sản quy mô nhỏ có bắt buộc phải thành lập doanh nghiệp không?",
+    "a": "Bắt buộc phải thành lập doanh nghiệp trong mọi trường hợp",
+    "b": "Không bắt buộc phải thành lập doanh nghiệp nhưng phải kê khai nộp thuế",
+    "c": "Chỉ khi cá nhân đó có sở hữu từ 2 bất động sản trở lên",
+    "d": "Chỉ khi có yêu cầu bắt buộc từ cơ quan thuế quản lý trực tiếp",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 9 Luật Kinh doanh bất động sản 2023 quy định cá nhân kinh doanh bất động sản quy mô nhỏ thì không phải thành lập doanh nghiệp nhưng phải kê khai nộp thuế."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, dự án bất động sản khi triển khai phải đảm bảo yêu cầu nào về quy hoạch?",
+    "a": "Phù hợp với quy hoạch, kế hoạch sử dụng đất",
+    "b": "Phải có sự đồng thuận bằng văn bản của toàn bộ cư dân xung quanh",
+    "c": "Phù hợp với thỏa thuận miệng giữa chủ đầu tư và chính quyền địa phương",
+    "d": "Phải dựa trên đề nghị của đơn vị môi giới bất động sản",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 11 Luật Kinh doanh bất động sản 2023 quy định dự án bất động sản phải phù hợp với quy hoạch, kế hoạch sử dụng đất."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, nhà ở đưa vào kinh doanh phải đáp ứng điều kiện nào về tính pháp lý giao dịch?",
+    "a": "Không thuộc trường hợp bị pháp luật cấm giao dịch",
+    "b": "Được phép mua bán bằng giấy tay nếu có người làm chứng",
+    "c": "Không yêu cầu phải có giấy tờ chứng minh quyền sở hữu",
+    "d": "Được phép giao dịch ngay cả khi đang có tranh chấp",
+    "answer": "a",
+    "explanation": "Điểm d khoản 1 Điều 14 Luật Kinh doanh bất động sản 2023 quy định nhà ở đưa vào kinh doanh không thuộc trường hợp luật cấm giao dịch."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, một trong các điều kiện tiên quyết để nhà ở trong dự án được đưa vào kinh doanh là gì?",
+    "a": "Chủ đầu tư đã hoàn thành nghĩa vụ tài chính về đất đai đối với Nhà nước",
+    "b": "Có văn bản xác nhận của tổ dân phố về việc không có khiếu kiện",
+    "c": "Được đơn vị môi giới bất động sản cam kết về chất lượng công trình",
+    "d": "Không cần giấy tờ liên quan đến quyền sử dụng đất",
+    "answer": "a",
+    "explanation": "Điểm c khoản 2 Điều 14 Luật Kinh doanh bất động sản 2023 quy định chủ đầu tư phải hoàn thành nghĩa vụ tài chính về đất đai đối với Nhà nước."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, chủ đầu tư dự án khi bán nhà ở phải sở hữu giấy tờ pháp lý nào đối với đất gắn với nhà ở?",
+    "a": "Giấy xác nhận cư trú của người đại diện pháp luật",
+    "b": "Giấy chứng nhận quyền sử dụng đất đối với đất gắn với nhà ở, công trình xây dựng",
+    "c": "Văn bản bảo lãnh cá nhân của chủ đầu tư",
+    "d": "Giấy phép hành nghề môi giới bất động sản",
+    "answer": "b",
+    "explanation": "Điểm d khoản 2 Điều 14 Luật Kinh doanh bất động sản 2023 quy định phải có giấy chứng nhận về quyền sử dụng đất đối với đất gắn với nhà ở, công trình xây dựng."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, việc cấp Giấy chứng nhận cho bên mua nhà ở được thực hiện theo quy định của pháp luật nào?",
+    "a": "Pháp luật về đầu tư",
+    "b": "Pháp luật về hộ tịch",
+    "c": "Pháp luật về đất đai",
+    "d": "Pháp luật về đấu thầu",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 13 Luật Kinh doanh bất động sản 2023 quy định việc cấp giấy chứng nhận thực hiện theo pháp luật về đất đai."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, giao dịch mua bán nhà ở bắt buộc phải đi kèm với nội dung nào?",
+    "a": "Hồ sơ về nhà ở đáp ứng đầy đủ các điều kiện theo quy định của Luật",
+    "b": "Giấy khám sức khỏe của các bên tham gia giao dịch",
+    "c": "Phiếu lý lịch tư pháp của người mua và người bán",
+    "d": "Sổ bảo hiểm xã hội của chủ đầu tư",
+    "answer": "a",
+    "explanation": "Khoản 6 Điều 13 Luật Kinh doanh bất động sản 2023 quy định việc mua bán nhà ở phải kèm theo hồ sơ về nhà ở đáp ứng điều kiện theo quy định của Luật này."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, trách nhiệm của các bên khi ký kết hợp đồng kinh doanh bất động sản là gì?",
+    "a": "Chỉ cần thỏa thuận về số tiền thanh toán",
+    "b": "Chuẩn bị đầy đủ thông tin, giấy tờ pháp lý để xác lập giao dịch",
+    "c": "Chỉ cần có sự chứng kiến của đơn vị môi giới",
+    "d": "Không cần thực hiện kiểm tra các điều kiện pháp lý của bất động sản",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 16 Luật Kinh doanh bất động sản 2023 quy định các bên ký kết hợp đồng có trách nhiệm chuẩn bị đầy đủ thông tin, giấy tờ để xác lập giao dịch."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bất động sản 2023, bên thuê nhà ở được quyền cho thuê lại khi nào?",
+    "a": "Trong mọi trường hợp khi có nhu cầu sử dụng",
+    "b": "Khi có thỏa thuận trong hợp đồng hoặc được bên cho thuê đồng ý bằng văn bản",
+    "c": "Chỉ áp dụng khi thời hạn thuê nhà ở trên 01 năm",
+    "d": "Chỉ áp dụng đối với các trường hợp nhà ở là tài sản công",
+    "answer": "b",
+    "explanation": "Điểm c khoản 3 Điều 20 quy định bên thuê được cho thuê lại nếu có thỏa thuận trong hợp đồng hoặc được bên cho thuê đồng ý bằng văn bản."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bất động sản 2023 Bên thuê nhà ở có quyền đơn phương chấm dứt hợp đồng nếu bên cho thuê thực hiện hành vi nào?",
+    "a": "Không thực hiện đăng ký tạm trú cho bên thuê",
+    "b": "Tăng giá thuê nhà ở không đúng theo thỏa thuận đã ký kết trong hợp đồng",
+    "c": "Yêu cầu bên thuê thực hiện thanh toán tiền thuê nhà đúng thời hạn",
+    "d": "Thực hiện kiểm tra hiện trạng nhà ở theo định kỳ",
+    "answer": "b",
+    "explanation": "Điểm g khoản 3 Điều 20 quy định bên thuê được đơn phương chấm dứt hợp đồng khi bên cho thuê tăng giá thuê không theo thỏa thuận."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bất động sản 2023, bên thuê nhà ở có nghĩa vụ thông báo cho bên cho thuê về nội dung nào?",
+    "a": "Việc thay đổi thông tin liên lạc cá nhân",
+    "b": "Việc cho thuê lại một phần hoặc toàn bộ nhà ở",
+    "c": "Việc mời người thân đến lưu trú tại nhà ở",
+    "d": "Việc hoàn tất thủ tục đăng ký tạm trú",
+    "answer": "b",
+    "explanation": "Điểm b khoản 4 Điều 21 quy định bên thuê phải thông báo cho bên cho thuê về việc cho thuê lại một phần hoặc toàn bộ nhà ở."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bất động sản 2023 Trong trường hợp không có thỏa thuận khác, bên thuê nhà ở muốn đơn phương chấm dứt hợp đồng phải thông báo trước bao nhiêu ngày?",
+    "a": "07 ngày",
+    "b": "15 ngày",
+    "c": "30 ngày",
+    "d": "45 ngày",
+    "answer": "c",
+    "explanation": "Điểm c khoản 4 Điều 21 quy định phải thông báo trước 30 ngày nếu các bên không có thỏa thuận khác."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bất động sản 2023, mức thu tiền đặt cọc tối đa của chủ đầu tư đối với nhà ở hình thành trong tương lai là bao nhiêu?",
+    "a": "3% giá bán, cho thuê mua",
+    "b": "5% giá bán, cho thuê mua",
+    "c": "10% giá bán, cho thuê mua",
+    "d": "15% giá bán, cho thuê mua",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 23 quy định chủ đầu tư chỉ được thu tiền đặt cọc không quá 5% giá bán, cho thuê mua."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bất động sản 2023, lần thanh toán đầu tiên trong mua bán nhà ở hình thành trong tương lai không được vượt quá tỷ lệ nào?",
+    "a": "20% giá trị hợp đồng",
+    "b": "25% giá trị hợp đồng",
+    "c": "30% giá trị hợp đồng (bao gồm cả tiền đặt cọc)",
+    "d": "50% giá trị hợp đồng",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 25 quy định lần thanh toán đầu tiên không quá 30% giá trị hợp đồng, bao gồm cả tiền đặt cọc."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bất động sản 2023 Trường hợp bên bán là tổ chức kinh tế có vốn đầu tư nước ngoài, tổng số tiền thu trước khi bàn giao nhà ở không quá bao nhiêu % giá trị hợp đồng?",
+    "a": "50% giá trị hợp đồng",
+    "b": "60% giá trị hợp đồng",
+    "c": "70% giá trị hợp đồng",
+    "d": "95% giá trị hợp đồng",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 25 quy định trường hợp bên bán là tổ chức kinh tế có vốn đầu tư nước ngoài thì tổng số không quá 50% giá trị hợp đồng."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bất động sản 2023 Trước khi được cơ quan có thẩm quyền cấp giấy chứng nhận cho bên mua, bên bán không được thu quá bao nhiêu % giá trị hợp đồng?",
+    "a": "70% giá trị hợp đồng",
+    "b": "80% giá trị hợp đồng",
+    "c": "90% giá trị hợp đồng",
+    "d": "95% giá trị hợp đồng",
+    "answer": "d",
+    "explanation": "Khoản 3 Điều 25 quy định không được thu quá 95% giá trị hợp đồng khi chưa được cấp giấy chứng nhận."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bất động sản 2023, quy định về bảo lãnh trong bán nhà ở hình thành trong tương lai không áp dụng đối với loại nhà ở nào?",
+    "a": "Nhà ở thương mại",
+    "b": "Biệt thự nghỉ dưỡng",
+    "c": "Nhà ở xã hội",
+    "d": "Căn hộ du lịch (condotel)",
+    "answer": "c",
+    "explanation": "Khoản 8 Điều 26 quy định bảo lãnh không áp dụng đối với bán, cho thuê mua nhà ở xã hội."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bất động sản 2023 Chủ đầu tư dự án chỉ được nhận tiền thanh toán của bên mua nhà ở hình thành trong tương lai sau khi hoàn thành thủ tục nào?",
+    "a": "Sau khi ký kết thành công hợp đồng đặt cọc",
+    "b": "Sau khi dự án được cấp Giấy phép xây dựng",
+    "c": "Sau khi bên mua đã nhận được thư bảo lãnh của ngân hàng",
+    "d": "Sau khi chủ đầu tư hoàn thành xong phần móng công trình",
+    "answer": "c",
+    "explanation": "Khoản 6 Điều 26 quy định chủ đầu tư chỉ được nhận tiền sau khi bên mua đã nhận được thư bảo lãnh."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bất động sản 2023, việc phân lô bán nền bị cấm tại khu vực nào?",
+    "a": "Các khu vực thuộc đô thị loại IV",
+    "b": "Các khu vực thuộc đô thị loại V",
+    "c": "Phường thuộc đô thị loại đặc biệt, loại I, II, III",
+    "d": "Các khu vực quy hoạch dành cho mục đích khu công nghiệp",
+    "answer": "c",
+    "explanation": "Khoản 6 Điều 31 quy định không được chuyển nhượng cho cá nhân tự xây dựng nhà ở tại khu vực phường, quận, thành phố của đô thị loại đặc biệt, I, II, III."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bất động sản 2023 Điều kiện nào bắt buộc đối với đất đã có hạ tầng kỹ thuật khi chuyển nhượng cho cá nhân tự xây dựng nhà ở?",
+    "a": "Đã xây dựng hoàn thiện nhà mẫu theo quy hoạch",
+    "b": "Có giấy chứng nhận về quyền sử dụng đất hợp pháp",
+    "c": "Đã hoàn tất việc bán toàn bộ các nền đất trong dự án",
+    "d": "Có văn bản xác nhận năng lực tài chính của ngân hàng",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 31 quy định phải có giấy chứng nhận về quyền sử dụng đất và còn trong thời hạn sử dụng."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bất động sản 2023, khi chuyển nhượng dự án bất động sản, dự án phải đảm bảo yêu cầu gì?",
+    "a": "Đang trong thời gian khai thác kinh doanh",
+    "b": "Đang trong thời gian cho thuê quyền sử dụng",
+    "c": "Đang trong thời gian bảo hành công trình",
+    "d": "Còn trong thời hạn thực hiện dự án",
+    "answer": "d",
+    "explanation": "Điểm g khoản 1 Điều 40 quy định dự án còn trong thời hạn thực hiện."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bất động sản 2023 Chủ đầu tư nhận chuyển nhượng dự án có phải thực hiện lại hồ sơ dự án khi không thay đổi nội dung dự án hay không?",
+    "a": "Có, bắt buộc phải lập lại hồ sơ trong mọi trường hợp chuyển nhượng",
+    "b": "Chỉ cần làm lại thủ tục cấp Giấy phép xây dựng là đủ",
+    "c": "Không phải làm lại hồ sơ dự án, quy hoạch xây dựng và giấy phép xây dựng",
+    "d": "Phải trình Bộ Xây dựng phê duyệt lại toàn bộ dự án",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 39 quy định chủ đầu tư nhận chuyển nhượng không phải làm lại hồ sơ dự án, quy hoạch xây dựng và giấy phép xây dựng nếu không thay đổi nội dung dự án."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bất động sản 2023, dự án bất động sản đang thế chấp nếu muốn chuyển nhượng thì phải thực hiện nội dung gì?",
+    "a": "Được phép chuyển nhượng ngay mà không cần điều kiện kèm theo",
+    "b": "Chỉ cần gửi thông báo bằng văn bản cho ngân hàng nhận thế chấp",
+    "c": "Phải thực hiện thủ tục giải chấp tài sản",
+    "d": "Phải có văn bản đồng ý của UBND cấp tỉnh nơi có dự án",
+    "answer": "c",
+    "explanation": "Điểm e khoản 1 Điều 40 quy định trường hợp dự án đang thế chấp thì phải thực hiện giải chấp."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, bên thuê mua nhà ở có quyền sở hữu đối với nhà ở kể từ thời điểm nào?",
+    "a": "Kể từ ngày các bên ký kết hợp đồng thuê mua",
+    "b": "Kể từ ngày bên thuê mua thực tế nhận bàn giao nhà ở",
+    "c": "Kể từ thời điểm bên thuê mua đã thanh toán đủ tiền cho bên cho thuê mua",
+    "d": "Kể từ ngày cơ quan nhà nước cấp giấy chứng nhận quyền sở hữu",
+    "answer": "c",
+    "explanation": "Điểm d khoản 2 Điều 20 quy định bên thuê mua có quyền sở hữu kể từ thời điểm đã thanh toán đủ tiền."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, bên mua nhà đang cho thuê có nghĩa vụ pháp lý nào?",
+    "a": "Được quyền đơn phương chấm dứt hợp đồng thuê của bên thuê hiện tại",
+    "b": "Bảo đảm quyền, lợi ích của bên thuê theo hợp đồng thuê còn hiệu lực",
+    "c": "Được quyền tăng giá thuê tùy ý theo giá thị trường hiện tại",
+    "d": "Yêu cầu bên thuê phải trả lại nhà ở ngay sau khi giao dịch mua bán hoàn tất",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 21 quy định bên mua phải bảo đảm quyền, lợi ích của bên thuê theo hợp đồng thuê còn hiệu lực."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, chủ đầu tư có được phép ủy quyền cho cá nhân khác ký hợp đồng đặt cọc mua nhà ở hình thành trong tương lai không?",
+    "a": "Được phép trong mọi trường hợp nếu có văn bản",
+    "b": "Được phép nếu văn bản ủy quyền có công chứng",
+    "c": "Không được phép ủy quyền",
+    "d": "Được phép nếu có sự đồng ý bằng văn bản của bên mua",
+    "answer": "c",
+    "explanation": "Điểm d khoản 4 Điều 23 quy định chủ đầu tư không được ủy quyền cho tổ chức, cá nhân khác ký hợp đồng đặt cọc, mua bán, thuê mua."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, nhà chung cư hình thành trong tương lai muốn đủ điều kiện đưa vào kinh doanh phải có giấy tờ nào chứng minh?",
+    "a": "Giấy tờ xác nhận đã hoàn thành toàn bộ công trình",
+    "b": "Giấy tờ chứng minh đã nghiệm thu hoàn thành phần móng",
+    "c": "Giấy tờ xác nhận đã hoàn thiện toàn bộ nội thất căn hộ",
+    "d": "Giấy chứng nhận quyền sở hữu nhà ở",
+    "answer": "b",
+    "explanation": "Điểm c khoản 3 Điều 24 quy định nhà chung cư phải có giấy tờ chứng minh đã nghiệm thu hoàn thành phần móng."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, cơ quan quản lý nhà nước cấp tỉnh phải trả lời về điều kiện bán nhà ở hình thành trong tương lai trong thời hạn bao lâu?",
+    "a": "07 ngày làm việc",
+    "b": "10 ngày làm việc",
+    "c": "15 ngày kể từ ngày nhận được thông báo",
+    "d": "30 ngày kể từ ngày nhận được thông báo",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 24 quy định thời hạn trả lời là 15 ngày kể từ ngày nhận được thông báo."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, trong hoạt động thuê mua nhà ở hình thành trong tương lai, tổng tiền thanh toán trước khi bàn giao không được vượt quá tỷ lệ nào?",
+    "a": "30% giá trị hợp đồng thuê mua",
+    "b": "50% giá trị hợp đồng thuê mua",
+    "c": "70% giá trị hợp đồng thuê mua",
+    "d": "95% giá trị hợp đồng thuê mua",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 25 quy định tổng số tiền thanh toán trước khi bàn giao không quá 50% giá trị hợp đồng thuê mua."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, bên mua nhà ở hình thành trong tương lai có bắt buộc phải nhận bảo lãnh ngân hàng hay không?",
+    "a": "Bắt buộc trong mọi trường hợp mua bán",
+    "b": "Chỉ bắt buộc áp dụng đối với loại hình nhà chung cư",
+    "c": "Được quyền lựa chọn việc có hoặc không có bảo lãnh",
+    "d": "Chỉ bắt buộc đối với khách hàng là người nước ngoài",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 26 quy định bên mua được lựa chọn việc có hoặc không có bảo lãnh."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, trong trường hợp không có thỏa thuận khác, chủ đầu tư phải cung cấp thư bảo lãnh cho bên mua trong bao lâu kể từ ngày ký hợp đồng?",
+    "a": "05 ngày làm việc",
+    "b": "07 ngày làm việc",
+    "c": "10 ngày làm việc",
+    "d": "15 ngày làm việc",
+    "answer": "c",
+    "explanation": "Khoản 6 Điều 26 quy định thời hạn là 10 ngày làm việc kể từ ngày ký hợp đồng."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, việc bàn giao công trình xây dựng hình thành trong tương lai phải được thực hiện dưới hình thức nào?",
+    "a": "Thông báo bàn giao bằng lời nói",
+    "b": "Biên bản ghi nhớ giữa các bên",
+    "c": "Văn bản bàn giao",
+    "d": "Phụ lục hợp đồng",
+    "answer": "c",
+    "explanation": "Điểm b khoản 2 Điều 27 quy định việc bàn giao phải được lập thành văn bản."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, bên nhận chuyển nhượng quyền sử dụng đất đã có hạ tầng kỹ thuật có nghĩa vụ nào sau đây?",
+    "a": "Được tự do thay đổi mục đích sử dụng đất không cần xin phép",
+    "b": "Không được làm tổn hại đến quyền, lợi ích hợp pháp của người sử dụng đất xung quanh",
+    "c": "Không cần thực hiện bất kỳ nghĩa vụ tài chính nào sau khi chuyển nhượng",
+    "d": "Được quyền hủy hoại đất nếu có sự đồng ý của bên chuyển nhượng",
+    "answer": "b",
+    "explanation": "Điểm e khoản 2 Điều 30 quy định không được làm tổn hại đến quyền, lợi ích hợp pháp của người sử dụng đất xung quanh."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, quyền sử dụng đất trong dự án bất động sản khi chuyển nhượng cho cá nhân tự xây dựng nhà ở phải đáp ứng điều kiện nào?",
+    "a": "Không được đang trong tình trạng bị kê biên để thi hành án",
+    "b": "Phải đang nằm trong tình trạng có tranh chấp",
+    "c": "Không thuộc trường hợp luật cấm giao dịch",
+    "d": "Phải chưa được cấp giấy chứng nhận quyền sử dụng đất",
+    "answer": "c",
+    "explanation": "Khoản 5 Điều 31 quy định quyền sử dụng đất không thuộc trường hợp luật cấm giao dịch."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, trước khi ký hợp đồng chuyển nhượng quyền sử dụng đất phân lô bán nền, chủ đầu tư phải hoàn thành nghĩa vụ nào?",
+    "a": "Nghĩa vụ bảo hành công trình xây dựng",
+    "b": "Nghĩa vụ tài chính về đất đai đối với Nhà nước",
+    "c": "Nghĩa vụ thuê đơn vị môi giới độc lập",
+    "d": "Nghĩa vụ công chứng toàn bộ hồ sơ dự án",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 32 quy định phải hoàn thành nghĩa vụ tài chính về đất đai trước khi ký hợp đồng."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, bên nhận chuyển nhượng quyền sử dụng đất phân lô bán nền có nghĩa vụ xây dựng nhà ở như thế nào?",
+    "a": "Xây dựng tùy ý theo nhu cầu cá nhân",
+    "b": "Xây dựng theo mẫu nhà tự chọn",
+    "c": "Xây dựng theo thiết kế, quy hoạch chi tiết được phê duyệt",
+    "d": "Xây dựng theo hướng dẫn của ngân hàng cho vay",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 34 quy định phải xây dựng theo thiết kế, quy hoạch chi tiết được phê duyệt."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, dự án bất động sản được phép chuyển nhượng phải đáp ứng điều kiện nào về tranh chấp?",
+    "a": "Được phép có tranh chấp ở mức độ nhỏ",
+    "b": "Không thuộc trường hợp đang có tranh chấp",
+    "c": "Chỉ cần bên bán thông báo về tranh chấp",
+    "d": "Chỉ cần các bên đã thực hiện hòa giải",
+    "answer": "b",
+    "explanation": "Điểm d khoản 1 Điều 40 quy định quyền sử dụng đất của dự án không thuộc trường hợp đang có tranh chấp."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, sau khi nhận chuyển nhượng dự án bất động sản, chủ đầu tư mới có trách nhiệm gì?",
+    "a": "Chỉ kế thừa quyền lợi của chủ đầu tư cũ",
+    "b": "Chỉ kế thừa các nghĩa vụ tài chính của chủ đầu tư cũ",
+    "c": "Kế thừa toàn bộ quyền và nghĩa vụ của chủ đầu tư chuyển nhượng",
+    "d": "Không phải kế thừa bất kỳ nghĩa vụ nào",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 39 quy định bên nhận chuyển nhượng kế thừa các quyền và nghĩa vụ của chủ đầu tư chuyển nhượng."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, bên thuê nhà ở, công trình xây dựng có quyền đơn phương chấm dứt hợp đồng trong trường hợp nào sau đây?",
+    "a": "Bên thuê muốn thay đổi nơi ở để thuận tiện cho công việc cá nhân",
+    "b": "Bên cho thuê thực hiện điều chỉnh tăng giá thuê theo đúng thỏa thuận trong hợp đồng",
+    "c": "Bên cho thuê không thực hiện việc sửa chữa công trình gây mất an toàn hoặc thiệt hại cho bên thuê",
+    "d": "Bên thuê muốn thực hiện quyền chuyển nhượng lại toàn bộ hợp đồng thuê cho bên thứ ba",
+    "answer": "c",
+    "explanation": "Điều 20 khoản 3 điểm g: bên thuê được đơn phương chấm dứt nếu bên cho thuê không sửa chữa công trình không đảm bảo an toàn hoặc gây thiệt hại."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, tổng số tiền thanh toán trước khi bàn giao nhà ở hình thành trong tương lai không được vượt quá bao nhiêu phần trăm giá trị hợp đồng (trừ các trường hợp đặc biệt)?",
+    "a": "50% giá trị hợp đồng",
+    "b": "70% giá trị hợp đồng",
+    "c": "80% giá trị hợp đồng",
+    "d": "90% giá trị hợp đồng",
+    "answer": "b",
+    "explanation": "Điều 25 khoản 1: tổng thanh toán trước khi bàn giao không quá 70% giá trị hợp đồng (trừ doanh nghiệp có vốn nước ngoài là 50%)."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, mức tiền đặt cọc tối đa mà chủ đầu tư được thu khi nhà ở đã đủ điều kiện đưa vào kinh doanh là bao nhiêu phần trăm giá bán?",
+    "a": "3% giá bán, cho thuê mua",
+    "b": "5% giá bán, cho thuê mua",
+    "c": "10% giá bán, cho thuê mua",
+    "d": "20% giá bán, cho thuê mua",
+    "answer": "b",
+    "explanation": "Điều 23 khoản 5: tiền đặt cọc không quá 5% giá bán/cho thuê mua."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, thời hạn quy định để cơ quan quản lý nhà nước cấp tỉnh trả lời văn bản về việc nhà ở hình thành trong tương lai đủ điều kiện bán là bao lâu?",
+    "a": "07 ngày làm việc",
+    "b": "10 ngày làm việc",
+    "c": "15 ngày kể từ ngày nhận được thông báo",
+    "d": "30 ngày kể từ ngày nhận được thông báo",
+    "answer": "c",
+    "explanation": "Điều 24 khoản 4: trong 15 ngày phải kiểm tra và trả lời bằng văn bản."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, quyền lợi nào sau đây thuộc về bên mua nhà ở hình thành trong tương lai?",
+    "a": "Được quyền tự ý thay đổi thiết kế cấu trúc căn hộ đã mua",
+    "b": "Yêu cầu chủ đầu tư bàn giao nhà đúng thời hạn, chất lượng và điều kiện đã thỏa thuận trong hợp đồng",
+    "c": "Được quyền tự ý chuyển nhượng dự án cho bên thứ ba mà không cần thông báo",
+    "d": "Yêu cầu chủ đầu tư giảm giá bán sau khi hợp đồng đã ký kết chính thức",
+    "answer": "b",
+    "explanation": "Điều 20 khoản 1: bên mua có quyền yêu cầu bàn giao đúng thời hạn, chất lượng và điều kiện đã thỏa thuận."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, điều kiện bắt buộc đầu tiên để nhà ở hình thành trong tương lai được đưa vào kinh doanh là gì?",
+    "a": "Công trình đã hoàn thiện phần thô và cất nóc",
+    "b": "Dự án đã được khởi công xây dựng theo quy định của pháp luật về xây dựng",
+    "c": "Đã có khách hàng đặt cọc giữ chỗ cho căn hộ",
+    "d": "Đã hoàn thành 50% khối lượng thi công của dự án",
+    "answer": "b",
+    "explanation": "Điều 24 khoản 1: phải được khởi công xây dựng theo quy định pháp luật xây dựng."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, việc bàn giao công trình xây dựng hình thành trong tương lai phải tuân thủ nguyên tắc nào sau đây?",
+    "a": "Được phép bàn giao khi chưa có nghiệm thu nếu các bên đạt được thỏa thuận",
+    "b": "Phải được nghiệm thu theo đúng quy định của pháp luật về xây dựng trước khi đưa vào sử dụng",
+    "c": "Chỉ cần hoàn thành 80% tiến độ xây dựng là đủ điều kiện bàn giao",
+    "d": "Chủ đầu tư có quyền tự quyết định thời điểm bàn giao mà không cần nghiệm thu",
+    "answer": "b",
+    "explanation": "Điều 27: công trình phải được nghiệm thu, kiểm tra nghiệm thu trước khi đưa vào sử dụng."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, khi mua nhà ở hình thành trong tương lai, ngân hàng bảo lãnh có trách nhiệm gì?",
+    "a": "Hỗ trợ cho vay vốn lên đến 100% giá trị hợp đồng mua bán",
+    "b": "Bảo đảm nghĩa vụ tài chính của chủ đầu tư đối với bên mua nếu chủ đầu tư không bàn giao nhà theo cam kết",
+    "c": "Đảm nhận việc quản lý toàn bộ quá trình thi công dự án thay cho chủ đầu tư",
+    "d": "Thực hiện việc cấp giấy chứng nhận quyền sở hữu nhà ở cho khách hàng",
+    "answer": "b",
+    "explanation": "Điều 26: ngân hàng bảo lãnh thực hiện nghĩa vụ tài chính thay chủ đầu tư nếu không bàn giao nhà theo cam kết."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, trách nhiệm nào sau đây của chủ đầu tư là bắt buộc khi bán nhà ở hình thành trong tương lai?",
+    "a": "Được phép ủy quyền ký kết hợp đồng cho các cá nhân khác",
+    "b": "Không bắt buộc phải công khai tiến độ triển khai dự án cho khách hàng",
+    "c": "Không được ủy quyền cho tổ chức, cá nhân khác ký hợp đồng đặt cọc, mua bán hoặc thuê mua",
+    "d": "Có quyền thu 100% giá trị hợp đồng trước khi thực hiện bàn giao nhà cho khách hàng",
+    "answer": "c",
+    "explanation": "Điều 23 khoản 4: chủ đầu tư không được ủy quyền ký hợp đồng đặt cọc, mua bán, thuê mua."
+  },
+  {
     "question": "Theo Luật Doanh nghiệp 2020, công ty hợp danh phải có tối thiểu bao nhiêu thành viên hợp danh?",
     "a": "01 thành viên hợp danh",
     "b": "02 thành viên hợp danh là chủ sở hữu chung",
