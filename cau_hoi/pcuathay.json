@@ -1,452 +1,750 @@
 [
-    {
-    "question": "Nội dung bồi dưỡng nghiệp vụ CC hàng năm bao gồm một hoặc một số vấn đề sau:",
-    "a": "Quy tắc đạo đức hành nghề công chứng.",
-    "b": "Cập nhật, bổ sung kiến thức pháp luật về công chứng và các quy định pháp luật khác có liên quan.",
-    "c": "Kỹ năng quản lý, tổ chức điều hành TCHNCC.",
-    "d": "Tất cả đáp án đều đúng.",
-    "answer": "d",
-    "explanation": "Nội dung bồi dưỡng bao gồm các vấn đề về đạo đức, kiến thức pháp luật và kỹ năng quản lý theo quy định."
-  },
-  {
-    "question": "Tổ chức thực hiện bồi dưỡng nghiệp vụ có trách nhiệm sau đây:",
-    "a": "Xây dựng và công bố kế hoạch bồi dưỡng nghiệp vụ của tổ chức mình trước ngày 30/01 hàng năm.",
-    "b": "Cấp Giấy chứng nhận tham gia bồi dưỡng nghiệp vụ công chứng.",
-    "c": "Thu, quản lý, sử dụng chi phí thực hiện bồi dưỡng nghiệp vụ theo quy định của pháp luật.",
-    "d": "Tất cả đáp án đều đúng.",
-    "answer": "d",
-    "explanation": "Các nội dung trên đều là trách nhiệm của tổ chức thực hiện bồi dưỡng nghiệp vụ theo quy định."
-  },
-  {
-    "question": "Hoạt động hành nghề công chứng là gì?",
-    "a": "Hoạt động mang tính chất dịch vụ.",
-    "b": "Hoạt động mang tính chất dịch vụ công.",
-    "c": "Hoạt động mang tính chất dịch vụ có thu phí.",
-    "d": "Hoạt động mang tính chất công quyền.",
-    "answer": "b",
-    "explanation": "Công chứng là hoạt động mang tính chất dịch vụ công do Nhà nước ủy nhiệm cho công chứng viên thực hiện."
-  },
-  {
-    "question": "CCV vi phạm nghĩa vụ tham gia bồi dưỡng nghiệp vụ thì tùy theo tính chất, mức độ vi phạm chỉ bị xử lý kỷ luật theo quy định của Hiệp hội CCV VN?",
-    "a": "Đúng",
-    "b": "Sai",
-    "c": "Nếu vi phạm lần đầu",
-    "d": "Không có quy định về xử lý vi phạm",
-    "answer": "b",
-    "explanation": "Việc xử lý vi phạm không chỉ giới hạn ở xử lý kỷ luật của Hiệp hội mà còn có thể bị xử lý hành chính theo quy định của pháp luật."
-  },
-  {
-    "question": "Phí công chứng bao gồm:",
-    "a": "Phí công chứng bao gồm phí công chứng hợp đồng, giao dịch, bản dịch, phí lưu giữ di chúc, phí công chứng ngoài trụ sở và phí cấp bản sao văn bản công chứng.",
-    "b": "Phí công chứng bao gồm phí công chứng giao dịch, bản dịch, phí cấp bản sao văn bản công chứng.",
-    "c": "Phí công chứng bao gồm phí công chứng giao dịch, phí lưu giữ di chúc, phí trích lục hồ sơ lưu trữ và phí cấp bản sao văn bản công chứng.",
-    "d": "Phí công chứng bao gồm phí công chứng giao dịch, phí nhận lưu giữ di chúc, phí cấp bản sao văn bản công chứng.",
-    "answer": "a",
-    "explanation": "Phí công chứng bao gồm toàn bộ các khoản mục phí dịch vụ liên quan đến hoạt động công chứng đã liệt kê tại đáp án a."
-  },
-  {
-    "question": "UBND cấp xã nơi niêm yết có trách nhiệm xác nhận việc niêm yết và bảo quản việc niêm yết trong thời gian niêm yết:",
-    "a": "Đúng",
-    "b": "Sai",
-    "c": "Sai, là trách nhiệm của TCHNCC thụ lý hồ sơ",
-    "d": "Đúng, vì TCHNCC/NYCCC phải trả phí niêm yết",
-    "answer": "a",
-    "explanation": "UBND cấp xã nơi niêm yết có trách nhiệm xác nhận và bảo quản việc niêm yết theo quy định."
-  },
-  {
-    "question": "Một trong các tiêu chuẩn để được xem xét, bổ nhiệm công chứng viên là:",
-    "a": "Có bằng cử nhân luật.",
-    "b": "Có thời gian công tác pháp luật liên tục từ 5 năm trở lên tại các cơ quan, tổ chức sau khi có bằng cử nhân luật.",
-    "c": "Tốt nghiệp khóa đào tạo nghề công chứng quy định tại Điều 9 của Luật công chứng.",
-    "d": "Hoàn thành việc tập sự hành nghề công chứng.",
-    "answer": "d",
-    "explanation": "Hoàn thành tập sự là điều kiện bắt buộc để được bổ nhiệm công chứng viên."
-  },
-  {
-    "question": "Bộ Tư pháp có nhiệm vụ, quyền hạn nào dưới đây:",
-    "a": "Chủ trì, phối hợp với bộ, ngành hướng dẫn, quản lý hoạt động của các tổ chức hành nghề công chứng.",
-    "b": "Xây dựng, trình Chính phủ ban hành chính sách phát triển nghề công chứng.",
-    "c": "Ban hành hoặc trình cơ quan nhà nước có thẩm quyền ban hành văn bản quy phạm pháp luật về công chứng.",
-    "d": "Tất cả đáp án đều đúng.",
-    "answer": "d",
-    "explanation": "Tất cả các nội dung nêu trên đều thuộc chức năng, nhiệm vụ quản lý nhà nước về công chứng của Bộ Tư pháp."
-  },
-  {
-    "question": "Xử lý vi phạm đối với người yêu cầu công chứng:",
-    "a": "Người yêu cầu công chứng có hành vi cung cấp thông tin, tài liệu sai sự thật, sử dụng giấy tờ, văn bản giả mạo, sửa chữa, tẩy xóa giấy tờ, văn bản trái pháp luật khi yêu cầu công chứng thì tùy theo tính chất, mức độ vi phạm mà bị xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.",
-    "b": "Người yêu cầu công chứng có hành vi gian dối khi yêu cầu công chứng thì tùy theo tính chất, mức độ vi phạm mà bị xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.",
-    "c": "Cả a và b đều đúng.",
-    "d": "Cả a và b đều sai.",
+{
+    "question": "Vợ chồng A không có khả năng sinh con, muốn nhờ B (em họ, 46 tuổi) mang thai hộ. B đã có 1 con riêng và chồng B đồng ý bằng văn bản. Xét về điều kiện mang thai hộ nhân đạo, dự định này có khả năng thành công về mặt pháp lý không?",
+    "a": "Có, vì B là họ hàng và đã có sự đồng ý của chồng.",
+    "b": "Không, vì B đã quá 45 tuổi và không được cơ sở y tế xác nhận khả năng mang thai.",
+    "c": "Có, nếu B có xác nhận của cơ sở y tế có thẩm quyền về khả năng mang thai.",
+    "d": "Không, vì người mang thai hộ không được phép là người cùng huyết thống.",
     "answer": "c",
-    "explanation": "Cả hai hành vi trên đều bị xử lý theo quy định của pháp luật về xử phạt vi phạm hành chính, hình sự và bồi thường thiệt hại."
+    "explanation": "Theo quy định, người trên 45 tuổi vẫn có thể mang thai hộ nếu có xác nhận của cơ sở y tế có thẩm quyền về sức khỏe và khả năng mang thai."
   },
   {
-    "question": "TCHNCC trực tiếp mua hoặc có thể ủy quyền cho tổ chức XH-NN của CCV mua bảo hiểm trách nhiệm nghề nghiệp cho CCV của tổ chức mình?",
-    "a": "Đúng",
-    "b": "Sai",
-    "c": "TCHNCC phải trực tiếp mua",
-    "d": "Trách nhiệm của CCV và TCHNCC phải trực tiếp mua",
-    "answer": "a",
-    "explanation": "Luật cho phép TCHNCC mua hoặc ủy quyền mua bảo hiểm cho CCV."
+    "question": "A (người mang thai hộ) và vợ chồng B (người nhờ) thỏa thuận trong văn bản công chứng: 'Nếu đứa trẻ sinh ra bị dị tật, B có quyền từ chối nhận con'. Thỏa thuận này có hiệu lực pháp luật không?",
+    "a": "Có hiệu lực, vì đó là sự thỏa thuận tự nguyện giữa các bên.",
+    "b": "Vô hiệu một phần, B vẫn phải nhận con nhưng có quyền đòi bồi thường.",
+    "c": "Hoàn toàn vô hiệu, vì quyền và nghĩa vụ của cha mẹ đối với con là quy định bắt buộc của pháp luật.",
+    "d": "Có hiệu lực nếu cơ sở y tế xác nhận dị tật phát sinh từ quá trình mang thai.",
+    "answer": "c",
+    "explanation": "Quyền và nghĩa vụ cha mẹ đối với con là quan hệ nhân thân không thể từ bỏ bằng thỏa thuận, thỏa thuận trái quy định này là vô hiệu."
   },
   {
-    "question": "Cơ quan nào có trách nhiệm xây dựng cơ sở dữ liệu công chứng địa phương và ban hành quy chế khai thác, sử dụng cơ sở dữ liệu công chứng?",
-    "a": "Sở Tư pháp.",
-    "b": "UBND cấp tỉnh.",
-    "c": "Bộ Tư pháp.",
-    "d": "Bộ trưởng Bộ Tư pháp.",
+    "question": "Việc ủy quyền giao kết thỏa thuận mang thai hộ được pháp luật quy định như thế nào?",
+    "a": "Được phép ủy quyền cho bất kỳ người thân nào nếu có công chứng.",
+    "b": "Không được ủy quyền, các bên phải trực tiếp giao kết thỏa thuận.",
+    "c": "Chỉ được ủy quyền cho vợ/chồng nếu có lý do chính đáng và phải có văn bản công chứng.",
+    "d": "Có thể ủy quyền cho người khác nếu có văn bản ủy quyền có công chứng hợp lệ.",
     "answer": "b",
-    "explanation": "Theo Luật Công chứng, UBND cấp tỉnh có trách nhiệm xây dựng và ban hành quy chế khai thác cơ sở dữ liệu công chứng địa phương."
+    "explanation": "Theo quy định, việc thỏa thuận mang thai hộ là giao dịch nhân thân đặc biệt, các bên phải trực tiếp thực hiện, không được ủy quyền cho người khác."
   },
   {
-    "question": "Công việc về công chứng được xác định là:",
-    "a": "Nghề nghiệp",
-    "b": "Hành vi",
-    "c": "Nhiệm vụ",
-    "d": "Tất cả đáp án đều đúng.",
-    "answer": "d",
-    "explanation": "Hoạt động công chứng bao hàm cả tính chất nghề nghiệp, hành vi của công chứng viên và nhiệm vụ được nhà nước ủy quyền."
-  },
-  {
-    "question": "VPCC được thành lập từ việc chuyển đổi PCC phải kế thừa toàn bộ quyền, nghĩa vụ và tiếp nhận toàn bộ hồ sơ công chứng của PCC đó?",
-    "a": "Đúng",
-    "b": "Sai",
-    "c": "Chỉ có quy định trong thời gian chuyển tiếp về hoạt động công chứng kể từ ngày LCC năm 2024 có hiệu lực thi hành",
-    "d": "Không có quy định",
-    "answer": "a",
-    "explanation": "Việc chuyển đổi từ Phòng công chứng sang Văn phòng công chứng đòi hỏi sự kế thừa toàn bộ quyền và nghĩa vụ."
-  },
-  {
-    "question": "UBND cấp tỉnh có nhiệm vụ, quyền hạn nào dưới dây:",
-    "a": "Ban hành mức trần giá dịch vụ theo yêu cầu liên quan đến việc công chứng tại địa phương.",
-    "b": "Bổ nhiệm, bổ nhiệm lại, miễn nhiệm công chứng viên.",
-    "c": "Báo cáo Bộ Tư pháp về hoạt động công chứng tại địa phương để tổng hợp báo cáo Chính phủ.",
-    "d": "Tất cả đáp án đều đúng.",
-    "answer": "c",
-    "explanation": "UBND cấp tỉnh báo cáo Bộ Tư pháp về tình hình hoạt động công chứng tại địa phương."
-  },
-  {
-    "question": "Tiêu chuẩn Công chứng viên:",
-    "a": "Là công dân Việt Nam, tuân thủ Hiến pháp và pháp luật, có phẩm chất đạo đức tốt và có đủ các tiêu chuẩn theo Điều 8 Luật công chứng.",
-    "b": "Là người Việt Nam đang cư trú tại Việt Nam, tuân thủ Hiến pháp và pháp luật, có phẩm chất đạo đức tốt và có đủ các tiêu chuẩn theo Điều 8 Luật công chứng.",
-    "c": "Là công dân Việt Nam thường trú tại Việt Nam, tuân thủ Hiến pháp và pháp luật, có phẩm chất đạo đức tốt và có đủ các tiêu chuẩn theo khoản 1, 2, 3, 4, 5 Điều 8 Luật công chứng thì được xem xét bổ nhiệm công chứng viên.",
-    "d": "Là công dân Việt Nam lưu trú tại Việt Nam, tuân thủ Hiến pháp và pháp luật, có phẩm chất đạo đức tốt và có đủ các tiêu chuẩn theo khoản 1, 2, 3, 4, 5 Điều 8 Luật công chứng thì được xem xét bổ nhiệm công chứng viên.",
-    "answer": "a",
-    "explanation": "Đây là quy định chung về tiêu chuẩn công chứng viên theo Luật Công chứng."
-  },
-  {
-    "question": "Bộ Tư pháp có nhiệm vụ, quyền hạn nào dưới dây:",
-    "a": "Tuyên truyền, phổ biến pháp luật về công chứng, chính sách phát triển nghề công chứng.",
-    "b": "Rà soát, cập nhật, đăng tải các giao dịch phải được công chứng, chứng thực trên Cổng thông tin điện tử của Bộ Tư pháp.",
-    "c": "Hướng dẫn về chuẩn dữ liệu cơ sở dữ liệu công chứng của địa phương; hướng dẫn về yêu cầu kỹ thuật của nền tảng công chứng điện tử.",
-    "d": "Tất cả đáp án đều đúng.",
-    "answer": "d",
-    "explanation": "Đây là các nhiệm vụ quản lý nhà nước về công chứng của Bộ Tư pháp."
-  },
-  {
-    "question": "Xử lý vi phạm đối với TCHNCC:",
-    "a": "Tổ chức hành nghề công chứng vi phạm quy định của Luật công chứng thì bị xử phạt vi phạm hành chính hoặc bị chấm dứt hoạt động theo quy định của pháp luật, nếu gây thiệt hại phải bồi thường theo quy định của pháp luật.",
-    "b": "Tổ chức hành nghề công chứng vi phạm quy định của Luật công chứng thì bị xử phạt vi phạm hành chính, nếu gây thiệt hại phải bồi thường theo quy định của pháp luật.",
-    "c": "Tổ chức hành nghề công chứng vi phạm quy định của Luật công chứng thì bị xử phạt vi phạm hành chính, bị truy cứu trách nhiệm hình sự hoặc bị chấm dứt hoạt động theo quy định của pháp luật, nếu gây thiệt hại phải bồi thường theo quy định của pháp luật.",
-    "d": "Tổ chức hành nghề công chứng vi phạm quy định của Luật công chứng thì bị xử phạt vi phạm hành chính, bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại phải bồi thường theo quy định của pháp luật.",
-    "answer": "c",
-    "explanation": "Tùy tính chất, TCHNCC có thể bị xử phạt hành chính, truy cứu hình sự hoặc chấm dứt hoạt động và bồi thường."
-  },
-  {
-    "question": "Việc bồi dưỡng nghiệp vụ được tổ chức theo hình thức:",
-    "a": "Học bồi dưỡng nghiệp vụ.",
-    "b": "Lớp bồi dưỡng nghiệp vụ.",
-    "c": "Khóa bồi dưỡng nghiệp vụ.",
-    "d": "Nhóm bồi dưỡng nghiệp vụ.",
-    "answer": "c",
-    "explanation": "Theo quy định, bồi dưỡng nghiệp vụ được tổ chức theo hình thức khóa bồi dưỡng."
-  },
-  {
-    "question": "Hoạt động công chứng được coi là gì?",
-    "a": "Một hoạt động mang tính chất hỗ trợ pháp lý.",
-    "b": "Một hoạt động mang tính chất bổ trợ tư pháp.",
-    "c": "Một hoạt động mang tính chất phòng ngừa.",
-    "d": "Một hoạt động mang tính chất hỗ trợ tư pháp.",
+    "question": "Một cặp vợ chồng ở nước ngoài muốn nhờ người tại Việt Nam mang thai hộ và thực hiện công chứng tại Đại sứ quán Việt Nam. Điều này có phù hợp với pháp luật không?",
+    "a": "Có, vì Đại sứ quán có thẩm quyền công chứng mọi giao dịch của công dân Việt Nam ở nước ngoài.",
+    "b": "Không, vì thỏa thuận mang thai hộ phải được công chứng tại tổ chức hành nghề công chứng trong nước.",
+    "c": "Có, nếu cả hai bên đều là công dân Việt Nam.",
+    "d": "Không, vì Đại sứ quán không có thẩm quyền chứng nhận các giao dịch liên quan đến kỹ thuật hỗ trợ sinh sản.",
     "answer": "b",
-    "explanation": "Hoạt động công chứng được xác định là hoạt động bổ trợ tư pháp."
+    "explanation": "Thỏa thuận mang thai hộ nhân đạo phải được lập thành văn bản tại tổ chức hành nghề công chứng tại Việt Nam để đảm bảo quản lý chặt chẽ theo Luật Hôn nhân và Gia đình."
   },
   {
-    "question": "Đối với di chúc đã được tổ chức hành nghề công chứng nhận lưu giữ nhưng sau đó tổ chức này chấm dứt hoạt động, chuyển đổi hoặc giải thể thì:",
-    "a": "Trước khi chấm dứt hoạt động, chuyển đổi hoặc giải thể, tổ chức hành nghề công chứng phải chuyển cho tổ chức hành nghề công chứng khác lưu giữ di chúc.",
-    "b": "Trường hợp không chuyển cho tổ chức hành nghề công chứng khác được thì di chúc phải được trả lại cho người lập di chúc.",
-    "c": "Trường hợp không liên hệ được với người lập di chúc thì di chúc được chuyển giao cho tổ chức hành nghề công chứng tiếp nhận hồ sơ của tổ chức hành nghề công chứng đã chấm dứt hoạt động, chuyển đổi hoặc giải thể.",
+    "question": "Khi bên nhờ mang thai hộ chết trong thời gian mang thai, quyền lợi của đứa trẻ được giải quyết ra sao?",
+    "a": "Người mang thai hộ đương nhiên trở thành mẹ hợp pháp của đứa trẻ.",
+    "b": "Thỏa thuận mang thai hộ bị chấm dứt và đứa trẻ sẽ được gửi vào cơ sở bảo trợ.",
+    "c": "Người mang thai hộ có nghĩa vụ bàn giao đứa trẻ cho người thừa kế của bên nhờ mang thai hộ.",
+    "d": "Đứa trẻ được coi là con của vợ chồng người mang thai hộ.",
+    "answer": "c",
+    "explanation": "Sự kiện cái chết của bên nhờ mang thai hộ không làm thay đổi bản chất quan hệ cha mẹ - con. Đứa trẻ vẫn là con của bên nhờ mang thai hộ và được thừa kế/nuôi dưỡng bởi người thừa kế của họ."
+  },
+  {
+    "question": "Phân biệt mang thai hộ nhân đạo và mang thai hộ thương mại dựa trên tiêu chí nào?",
+    "a": "Mục đích lợi nhuận hoặc lợi ích kinh tế khác ngoài chi phí chăm sóc sức khỏe.",
+    "b": "Mối quan hệ huyết thống giữa hai bên.",
+    "c": "Số lần mang thai hộ.",
+    "d": "Sự đồng ý của chồng người mang thai hộ.",
+    "answer": "a",
+    "explanation": "Điểm cốt lõi là mục đích thương mại (hưởng lợi kinh tế) bị pháp luật nghiêm cấm, trong khi mục đích nhân đạo chỉ cho phép chi trả các chi phí thực tế phát sinh."
+  },
+  {
+    "question": "Về thẩm quyền công chứng thỏa thuận mang thai hộ, quy định nào là chính xác?",
+    "a": "Phải công chứng tại nơi cư trú của bên nhờ mang thai hộ.",
+    "b": "Phải công chứng tại nơi cư trú của bên nhận mang thai hộ.",
+    "c": "Không giới hạn thẩm quyền theo địa hạt, có thể công chứng tại bất kỳ tổ chức hành nghề công chứng nào trên cả nước.",
+    "d": "Phải công chứng tại nơi đặt cơ sở y tế thực hiện kỹ thuật hỗ trợ sinh sản.",
+    "answer": "c",
+    "explanation": "Giao dịch mang thai hộ không bị giới hạn bởi địa hạt công chứng, tạo điều kiện thuận lợi cho các bên thực hiện quyền."
+  },
+  {
+    "question": "Chi phí nào sau đây được coi là 'chi phí không hợp lý' hoặc vi phạm luật trong thỏa thuận mang thai hộ?",
+    "a": "Tiền bồi dưỡng cho người mang thai hộ vượt quá mức chi phí thực tế phát sinh.",
+    "b": "Chi phí khám thai định kỳ.",
+    "c": "Chi phí dinh dưỡng trong thời gian mang thai.",
+    "d": "Chi phí đi lại và phục hồi sức khỏe sau sinh.",
+    "answer": "a",
+    "explanation": "Việc chi trả tiền bồi dưỡng vượt quá chi phí thực tế dễ bị quy kết là mang thai hộ thương mại."
+  },
+  {
+    "question": "Nếu bên nhờ mang thai hộ là người đã có con chung, nhưng con chung đó bị mất năng lực hành vi dân sự, họ có được phép nhờ mang thai hộ không?",
+    "a": "Không, vì đã có con chung.",
+    "b": "Có, đây là trường hợp ngoại lệ được pháp luật cho phép.",
+    "c": "Có, nhưng phải có sự đồng ý của Tòa án.",
+    "d": "Không, vì con chung bị mất năng lực hành vi vẫn được coi là một người con.",
+    "answer": "b",
+    "explanation": "Luật cho phép các trường hợp vợ chồng đã có con chung nhưng con chung bị mất năng lực hành vi dân sự được nhờ mang thai hộ."
+  },
+  {
+    "question": "Thời điểm hiệu lực của thỏa thuận mang thai hộ được xác định khi nào?",
+    "a": "Kể từ thời điểm các bên ký tên trước mặt công chứng viên.",
+    "b": "Kể từ thời điểm được cơ sở y tế xác nhận thụ tinh thành công.",
+    "c": "Kể từ thời điểm được công chứng viên ký chứng nhận.",
+    "d": "Kể từ thời điểm đứa trẻ được khai sinh.",
+    "answer": "c",
+    "explanation": "Văn bản thỏa thuận mang thai hộ có hiệu lực kể từ thời điểm được công chứng viên ký chứng nhận hợp pháp."
+  },
+  {
+    "question": "A và B (vợ chồng nhờ mang thai hộ) thỏa thuận trong văn bản: 'Nếu A và B ly hôn trong thời gian người mang thai hộ đang mang thai, thỏa thuận mang thai hộ đương nhiên chấm dứt'. Nhận định nào sau đây đúng?",
+    "a": "Thỏa thuận này hợp pháp vì ly hôn là sự kiện làm thay đổi điều kiện nhờ mang thai hộ.",
+    "b": "Thỏa thuận này vô hiệu vì việc chấm dứt thỏa thuận mang thai hộ phải do cơ quan có thẩm quyền quyết định, không dựa trên tình trạng hôn nhân.",
+    "c": "Thỏa thuận này có hiệu lực một phần, nhưng người mang thai hộ vẫn có quyền đơn phương chấm dứt.",
+    "d": "Không thể xác định vì Luật không quy định về trường hợp ly hôn khi đang mang thai hộ.",
+    "answer": "b",
+    "explanation": "Việc chấm dứt thỏa thuận mang thai hộ phải tuân theo quy định pháp luật. Việc ly hôn không đương nhiên làm chấm dứt quyền và nghĩa vụ đối với thai nhi đã được hình thành hợp pháp theo thỏa thuận đã công chứng."
+  },
+  {
+    "question": "Người mang thai hộ được nghỉ chế độ thai sản theo quy định nào?",
+    "a": "Theo thỏa thuận của các bên trong văn bản công chứng.",
+    "b": "Theo quy định của Luật Lao động và Luật Bảo hiểm xã hội hiện hành.",
+    "c": "Người mang thai hộ không được hưởng chế độ thai sản vì không phải là người mẹ trực tiếp sinh con.",
+    "d": "Chỉ được nghỉ 2 tháng theo thỏa thuận giữa bên nhờ và bên nhận.",
+    "answer": "b",
+    "explanation": "Người mang thai hộ vì mục đích nhân đạo được hưởng các chế độ thai sản theo quy định của pháp luật về bảo hiểm xã hội và lao động như người lao động bình thường."
+  },
+  {
+    "question": "Bệnh viện thực hiện kỹ thuật mang thai hộ phải đáp ứng điều kiện gì để văn bản thỏa thuận mang thai hộ được coi là hợp pháp?",
+    "a": "Chỉ cần là bệnh viện công lập.",
+    "b": "Phải là cơ sở y tế được Bộ Y tế cho phép thực hiện kỹ thuật thụ tinh trong ống nghiệm.",
+    "c": "Bệnh viện có thể là bất kỳ cơ sở y tế nào có khoa sản.",
+    "d": "Bệnh viện phải có chi nhánh tại cả nơi cư trú của bên nhờ và bên mang thai hộ.",
+    "answer": "b",
+    "explanation": "Việc mang thai hộ chỉ được thực hiện tại các cơ sở y tế được cơ quan nhà nước có thẩm quyền cho phép thực hiện kỹ thuật hỗ trợ sinh sản."
+  },
+  {
+    "question": "Giữa con sinh ra từ việc mang thai hộ với các thành viên khác trong gia đình bên nhờ mang thai hộ có quyền và nghĩa vụ gì?",
+    "a": "Không phát sinh quyền, nghĩa vụ vì chỉ là con do người khác mang thai hộ.",
+    "b": "Có đầy đủ quyền và nghĩa vụ như con đẻ theo quy định của Luật Hôn nhân & Gia đình và các luật liên quan.",
+    "c": "Chỉ có quyền thừa kế, không có quyền được cấp dưỡng.",
+    "d": "Phụ thuộc hoàn toàn vào thỏa thuận của các bên trong văn bản công chứng.",
+    "answer": "b",
+    "explanation": "Pháp luật quy định con sinh ra từ mang thai hộ nhân đạo được coi là con chung của vợ chồng nhờ mang thai hộ, nên phát sinh đầy đủ quan hệ huyết thống và pháp lý với gia đình bên nhờ."
+  },
+  {
+    "question": "Thế nào là 'Chế độ tài sản theo thỏa thuận' của vợ chồng?",
+    "a": "Là việc vợ chồng lập văn bản sau khi kết hôn để chia tài sản.",
+    "b": "Là việc vợ chồng thỏa thuận xác định quyền sở hữu tài sản trước khi kết hôn hoặc trong thời kỳ hôn nhân theo quy định của pháp luật.",
+    "c": "Là việc cha mẹ hai bên thỏa thuận phân chia tài sản cho con.",
+    "d": "Là việc vợ chồng thỏa thuận chỉ công nhận tài sản chung, không công nhận tài sản riêng.",
+    "answer": "b",
+    "explanation": "Chế độ tài sản theo thỏa thuận cho phép vợ chồng chủ động xác định phạm vi tài sản chung/riêng, miễn là thỏa thuận không vi phạm điều cấm của luật."
+  },
+  {
+    "question": "Điều kiện cần thiết để xác lập Văn bản thỏa thuận chế độ tài sản vợ chồng là gì?",
+    "a": "Vợ chồng phải đang có tổng tài sản trên 1 tỷ đồng.",
+    "b": "Vợ chồng phải có năng lực hành vi dân sự đầy đủ.",
+    "c": "Vợ chồng phải được sự đồng ý của cha mẹ hai bên.",
+    "d": "Vợ chồng phải có ít nhất 1 con chung.",
+    "answer": "b",
+    "explanation": "Để thực hiện giao dịch dân sự, chủ thể phải có năng lực hành vi dân sự đầy đủ. Đây là điều kiện tiên quyết để văn bản thỏa thuận có giá trị pháp lý."
+  },
+  {
+    "question": "Thời điểm có hiệu lực của Văn bản thỏa thuận xác lập chế độ tài sản vợ chồng được xác định như thế nào?",
+    "a": "Ngay tại thời điểm công chứng viên ký chứng nhận.",
+    "b": "Kể từ ngày vợ chồng đăng ký kết hôn tại cơ quan nhà nước có thẩm quyền.",
+    "c": "Ngay tại thời điểm hai bên ký kết văn bản dù chưa đăng ký kết hôn.",
+    "d": "Kể từ ngày tổ chức lễ cưới.",
+    "answer": "b",
+    "explanation": "Nếu văn bản thỏa thuận được lập trước khi kết hôn, nó chỉ phát sinh hiệu lực kể từ thời điểm quan hệ hôn nhân được xác lập hợp pháp (đăng ký kết hôn)."
+  },
+  {
+    "question": "Nếu A và B đã lập Văn bản thỏa thuận chế độ tài sản, sau đó muốn sửa đổi, bổ sung thì phải làm thế nào?",
+    "a": "Phải thông báo cho cơ quan tư pháp địa phương.",
+    "b": "Phải lập văn bản sửa đổi và thực hiện công chứng như thủ tục xác lập ban đầu.",
+    "c": "Chỉ cần viết giấy tay có người làm chứng là đủ.",
+    "d": "Không được phép thay đổi nội dung đã công chứng.",
+    "answer": "b",
+    "explanation": "Việc sửa đổi, bổ sung văn bản công chứng phải tuân thủ đúng hình thức của văn bản gốc (tức là phải công chứng)."
+  },
+  {
+    "question": "Trong văn bản thỏa thuận chế độ tài sản, có được ghi nhận nội dung 'người chồng toàn quyền định đoạt tài sản chung không cần sự đồng ý của vợ' không?",
+    "a": "Có, vì đây là quyền tự thỏa thuận của vợ chồng.",
+    "b": "Không, vì điều này vi phạm nguyên tắc bình đẳng và bảo vệ quyền lợi của người vợ.",
+    "c": "Có, nếu được sự đồng ý của Tòa án.",
+    "d": "Có, nhưng chỉ áp dụng với bất động sản.",
+    "answer": "b",
+    "explanation": "Các thỏa thuận vi phạm nguyên tắc bình đẳng hoặc hạn chế quyền định đoạt tài sản của một bên trong hôn nhân sẽ bị coi là vô hiệu."
+  },
+  {
+    "question": "Anh A và chị B dự định lập văn bản thỏa thuận tài sản. Họ cần nộp giấy tờ gì để chứng minh điều kiện kết hôn?",
+    "a": "Giấy khai sinh của cả hai.",
+    "b": "Giấy xác nhận tình trạng hôn nhân hợp lệ.",
+    "c": "Hộ khẩu thường trú.",
+    "d": "Sổ tạm trú tại nơi đăng ký công chứng.",
+    "answer": "b",
+    "explanation": "Giấy xác nhận tình trạng hôn nhân là giấy tờ pháp lý duy nhất chứng minh người lập thỏa thuận đang độc thân và đủ điều kiện kết hôn hợp pháp."
+  },
+  {
+    "question": "Vợ chồng A kết hôn năm 2021. Năm 2023, A được công ty thưởng 2 tỷ đồng do thành tích xuất sắc và dùng tiền này mua quyền sử dụng đất. Quyền sử dụng đất này là tài sản gì?",
+    "a": "Tài sản riêng của A vì là tiền thưởng cá nhân.",
+    "b": "Tài sản chung của vợ chồng vì tiền thưởng hình thành trong thời kỳ hôn nhân.",
+    "c": "Tài sản chung nếu A và B có thỏa thuận nhập tài sản riêng vào tài sản chung.",
+    "d": "Phụ thuộc vào ý chí của công ty thưởng.",
+    "answer": "b",
+    "explanation": "Theo Luật Hôn nhân và Gia đình, thu nhập do lao động, hoạt động sản xuất, kinh doanh và các thu nhập hợp pháp khác trong thời kỳ hôn nhân là tài sản chung của vợ chồng."
+  },
+  {
+    "question": "A và B kết hôn năm 2018. Năm 2019, A bị tai nạn và được bồi thường 300 triệu đồng. A dùng tiền này mua xe ô tô. Xe ô tô là tài sản gì?",
+    "a": "Tài sản chung vì mua trong thời kỳ hôn nhân.",
+    "b": "Tài sản riêng của A vì tiền bồi thường thiệt hại về sức khỏe là tài sản riêng.",
+    "c": "Tài sản riêng nếu A chứng minh được nguồn tiền mua xe.",
+    "d": "Tài sản chung vì không có văn bản thỏa thuận là tài sản riêng.",
+    "answer": "b",
+    "explanation": "Tiền bồi thường thiệt hại về sức khỏe, tính mạng, danh dự, nhân phẩm là tài sản riêng của cá nhân theo quy định pháp luật."
+  },
+  {
+    "question": "Tại lễ cưới của A, mẹ của A trao tặng 1 chiếc vòng vàng và 1 chiếc nhẫn kim cương. Theo thông lệ, đây là tài sản gì?",
+    "a": "Tài sản riêng của A vì mẹ A chỉ tặng cho con mình.",
+    "b": "Tài sản chung của vợ chồng vì được tặng cho trong lễ cưới.",
+    "c": "Tài sản riêng của A và B nếu có thỏa thuận từ mẹ.",
+    "d": "Tài sản chung nếu không có chứng cứ chứng minh là tặng cho riêng.",
+    "answer": "d",
+    "explanation": "Trong thực tiễn xét xử, nếu không có chứng cứ rõ ràng về việc người tặng cho chỉ tặng riêng cho một người, thì quà tặng trong lễ cưới thường được coi là tài sản chung của vợ chồng."
+  },
+  {
+    "question": "A muốn bán căn nhà là tài sản riêng của mình (được tặng cho trước hôn nhân). Việc A tự ý bán có cần sự đồng ý của vợ không?",
+    "a": "Cần, vì mọi tài sản trong thời kỳ hôn nhân đều phải có sự đồng ý của cả hai.",
+    "b": "Không cần, A có quyền chiếm hữu, sử dụng và định đoạt tài sản riêng.",
+    "c": "Cần nếu căn nhà đã được đăng ký quyền sở hữu chung.",
+    "d": "Không cần nếu vợ A không phản đối.",
+    "answer": "b",
+    "explanation": "Chủ sở hữu tài sản riêng có toàn quyền chiếm hữu, sử dụng, định đoạt tài sản của mình mà không phụ thuộc vào sự đồng ý của người phối ngẫu."
+  },
+  {
+    "question": "A gửi 500 triệu đồng tiết kiệm ngân hàng (tài sản riêng). Nay A muốn tặng số tiền này cho con trai riêng của mình. Việc này có cần sự đồng ý của vợ hiện tại không?",
+    "a": "Cần, vì đây là tài sản lớn trong thời kỳ hôn nhân.",
+    "b": "Không cần, vì đó là tài sản riêng của A.",
+    "c": "Cần nếu vợ A cùng đứng tên sổ tiết kiệm.",
+    "d": "Không cần nếu vợ A không biết.",
+    "answer": "b",
+    "explanation": "Tài sản riêng của cá nhân thì cá nhân đó có quyền định đoạt (tặng cho, chuyển nhượng) mà không cần sự đồng ý của vợ/chồng."
+  },
+  {
+    "question": "Công chứng viên dùng giấy tờ nào để xác định hai người là vợ chồng hợp pháp?",
+    "a": "Giấy xác nhận tình trạng hôn nhân.",
+    "b": "Giấy chứng nhận đăng ký kết hôn.",
+    "c": "Sổ hộ khẩu hoặc căn cước công dân.",
+    "d": "Cả a và b đều đúng.",
+    "answer": "b",
+    "explanation": "Giấy chứng nhận đăng ký kết hôn là văn bản pháp lý duy nhất xác nhận quan hệ vợ chồng hợp pháp theo Luật Hôn nhân và Gia đình."
+  },
+  {
+    "question": "A và B sở hữu chung một chiếc xe đạp. A cho C mượn. Việc này có cần sự đồng ý của B không?",
+    "a": "Không, vì xe đạp là tài sản có giá trị nhỏ.",
+    "b": "Có, việc định đoạt tài sản chung phải có sự thỏa thuận của cả hai.",
+    "c": "Không cần nếu A là người đứng tên giấy tờ xe.",
+    "d": "Có, nếu chiếc xe đạp là phương tiện kiếm sống duy nhất.",
+    "answer": "b",
+    "explanation": "Việc chiếm hữu, sử dụng, định đoạt tài sản chung phải có sự thỏa thuận hoặc theo quy định của pháp luật. Đối với tài sản chung, nguyên tắc là phải có sự đồng ý của các chủ sở hữu."
+  },
+  {
+    "question": "A xây nhà trên thửa đất là tài sản chung của vợ chồng bằng tiền riêng (từ việc cho thuê nhà cũ). Căn nhà mới là tài sản gì?",
+    "a": "Tài sản riêng của A vì dùng tiền riêng xây dựng.",
+    "b": "Tài sản chung của vợ chồng vì xây trên đất chung.",
+    "c": "Tài sản chung nếu A không chứng minh được nguồn gốc tiền.",
+    "d": "Tài sản riêng của A nếu có văn bản thỏa thuận.",
+    "answer": "b",
+    "explanation": "Công trình xây dựng trên đất là tài sản chung thì công trình đó mặc nhiên trở thành tài sản chung, trừ khi vợ chồng có thỏa thuận khác bằng văn bản."
+  },
+  {
+    "question": "Khi nào thì chế độ tài sản theo luật định được áp dụng?",
+    "a": "Khi vợ chồng không có thỏa thuận tài sản.",
+    "b": "Khi thỏa thuận tài sản bị Tòa án tuyên vô hiệu.",
+    "c": "Khi vợ chồng muốn thay đổi từ chế độ thỏa thuận về luật định.",
+    "d": "Cả ba trường hợp trên đều đúng.",
+    "answer": "d",
+    "explanation": "Chế độ tài sản theo luật định là chế độ mặc định áp dụng khi không có thỏa thuận, thỏa thuận vô hiệu hoặc khi các bên tự nguyện chuyển đổi."
+  },
+  {
+    "question": "Trong văn bản thỏa thuận tài sản, nội dung 'nếu ly hôn thì ai có lỗi sẽ không được nhận tài sản' có hợp pháp không?",
+    "a": "Hợp pháp, để răn đe các bên.",
+    "b": "Không hợp pháp, vì vi phạm nguyên tắc chia tài sản khi ly hôn.",
+    "c": "Hợp pháp nếu Tòa án công nhận lỗi.",
+    "d": "Không hợp pháp trừ khi tài sản đó là tài sản riêng.",
+    "answer": "b",
+    "explanation": "Quy định về chia tài sản khi ly hôn đã có luật định (chia theo công sức đóng góp, lỗi...), không được dùng thỏa thuận để tước đoạt quyền lợi tài sản một cách tùy tiện."
+  },
+  {
+    "question": "Vợ chồng A và B kết hôn năm 2020. Năm 2022, A được bố mẹ đẻ tặng cho riêng một thửa đất. Năm 2023, A dùng tiền tiết kiệm của hai vợ chồng để xây nhà trên thửa đất đó. Theo Luật Hôn nhân và Gia đình, xác định quyền sở hữu đối với căn nhà này như thế nào là đúng nhất?",
+    "a": "Căn nhà là tài sản riêng của A vì được xây trên đất riêng của A.",
+    "b": "Căn nhà là tài sản chung của vợ chồng, nhưng A có quyền yêu cầu B hoàn trả phần đóng góp bằng tiền tiết kiệm.",
+    "c": "Căn nhà là tài sản chung của vợ chồng, quyền sử dụng đất vẫn là tài sản riêng của A.",
+    "d": "Căn nhà và thửa đất đều trở thành tài sản chung của vợ chồng kể từ thời điểm xây dựng hoàn thiện.",
+    "answer": "c",
+    "explanation": "Theo quy định, công trình xây dựng trên đất là tài sản riêng thường được coi là tài sản chung (trừ khi có thỏa thuận khác), nhưng quyền sử dụng đất được tặng cho riêng vẫn là tài sản riêng của A."
+  },
+  {
+    "question": "Anh A (19 tuổi) và chị B (18 tuổi) dự định kết hôn. Cả hai muốn lập văn bản thỏa thuận xác lập chế độ tài sản vợ chồng. Công chứng viên từ chối chứng nhận văn bản này vào ngày 20/06/2026. Nhận định nào sau đây là chính xác về lý do từ chối?",
+    "a": "Vì anh A và chị B chưa đủ tuổi kết hôn theo quy định của pháp luật hiện hành.",
+    "b": "Vì văn bản thỏa thuận chế độ tài sản phải được lập sau khi đã đăng ký kết hôn.",
+    "c": "Công chứng viên làm sai vì anh A và chị B đều đã đủ năng lực hành vi dân sự để giao kết thỏa thuận.",
     "d": "Cả a và b đều đúng.",
     "answer": "d",
-    "explanation": "Quy định về bảo quản di chúc khi TCHNCC giải thể, chuyển đổi nhằm bảo vệ quyền lợi người lập di chúc."
+    "explanation": "Độ tuổi kết hôn hợp pháp của nam là từ đủ 20 tuổi, nữ từ đủ 18 tuổi. Hơn nữa, văn bản thỏa thuận chế độ tài sản vợ chồng chỉ có hiệu lực kể từ ngày đăng ký kết hôn, nên việc lập trước khi đủ tuổi kết hôn là không hợp lệ."
   },
   {
-    "question": "Người tập sự được tạm ngừng tập sự bao lâu?",
-    "a": "tối đa là 02 lần, mỗi lần không quá 06 tháng",
-    "b": "02 lần, mỗi lần không quá 06 tháng",
-    "c": "tối đa là 03 lần, mỗi lần không quá 06 tháng",
-    "d": "không có quy định",
-    "answer": "a",
-    "explanation": "Quy định về số lần và thời hạn tạm ngừng tập sự của người tập sự hành nghề công chứng."
-  },
-  {
-    "question": "Hiệp hội công chứng viên Việt Nam có trách nhiệm nào sau đây:",
-    "a": "Thực hiện nhiệm vụ của tổ chức thực hiện bồi dưỡng.",
-    "b": "Hướng dẫn nội dung trọng tâm bồi dưỡng nghiệp vụ.",
-    "c": "Cả a và b đều đúng.",
-    "d": "Cả a và b đều sai.",
-    "answer": "c",
-    "explanation": "Hiệp hội đóng vai trò chính trong việc hướng dẫn và tổ chức bồi dưỡng nghiệp vụ."
-  },
-  {
-    "question": "Người làm chứng, người phiên dịch không bắt buộc phải ký vào từng trang mà chỉ cần ký vào trang cuối của hợp đồng, giao dịch?",
-    "a": "Đúng",
-    "b": "Sai",
-    "c": "phải cùng ký và điểm chỉ",
-    "d": "chỉ trong trường hợp điểm chỉ",
+    "question": "Trong thỏa thuận mang thai hộ vì mục đích nhân đạo, bên nhờ mang thai hộ và bên nhận mang thai hộ thỏa thuận rằng 'sau khi đứa trẻ chào đời, bên nhận mang thai hộ có quyền lưu giữ đứa trẻ trong 3 tháng để chăm sóc sức khỏe'. Thỏa thuận này có hợp pháp không?",
+    "a": "Hợp pháp, vì đây là quyền tự thỏa thuận của các bên nhằm đảm bảo sức khỏe cho trẻ.",
+    "b": "Không hợp pháp, vì việc bàn giao đứa trẻ phải được thực hiện ngay sau khi trẻ được sinh ra và cơ sở y tế xác nhận.",
+    "c": "Hợp pháp nếu có sự đồng ý bằng văn bản của cả hai bên và cơ quan nhà nước có thẩm quyền.",
+    "d": "Không hợp pháp vì quyền lưu giữ trẻ chỉ thuộc về bên nhờ mang thai hộ, bên nhận không có quyền này.",
     "answer": "b",
-    "explanation": "Người làm chứng, phiên dịch phải ký vào từng trang của hợp đồng, giao dịch."
+    "explanation": "Theo quy định, việc bàn giao đứa trẻ trong mang thai hộ nhân đạo phải được thực hiện theo quy trình của cơ sở y tế và pháp luật, không được phép thỏa thuận kéo dài thời gian lưu giữ trái quy định gây ảnh hưởng đến quyền của cha mẹ đẻ."
   },
   {
-    "question": "Lời chứng của công chứng viên đối với giao dịch phải ghi rõ các nội dung sau đây:",
-    "a": "Chứng nhận người tham gia giao dịch hoàn toàn tự nguyện, có năng lực hành vi dân sự theo quy định của pháp luật, mục đích, nội dung của giao dịch không vi phạm pháp luật, không trái đạo đức xã hội",
-    "b": "Chữ ký, dấu điểm chỉ trong giao dịch đúng là chữ ký, dấu điểm chỉ của người yêu cầu công chứng, chữ ký, dấu điểm chỉ của người làm chứng, người phiên dịch trong trường hợp có người làm chứng",
-    "c": "Các thông tin về lý do công chứng ngoài trụ sở, việc làm chứng, phiên dịch trong trường hợp công chứng ngoài trụ sở hoặc việc công chứng có người làm chứng, người phiên dịch",
-    "d": "Tất cả các phương án đều đúng",
-    "answer": "d",
-    "explanation": "Các nội dung trên là những yếu tố bắt buộc trong lời chứng để đảm bảo tính pháp lý của giao dịch."
-  },
-  {
-    "question": "Công chứng viên cần phải tuân thủ những nguyên tắc nào?",
-    "a": "Chỉ chịu trách nhiệm trước pháp luật về văn bản công chứng, bồi thường thiệt hại trong trường hợp việc công chứng dẫn đến thiệt hại cho người yêu cầu công chứng.",
-    "b": "Tuân thủ Hiến pháp, pháp luật, không trái đạo đức xã hội.",
-    "c": "Khách quan khi thực hiện công chứng, không vì bất kỳ lý do nào mà làm ảnh hưởng đến chất lượng công việc cũng như phân biệt đối xử với người yêu cầu công chứng.",
-    "d": "Tuân thủ các quy định của tổ chức xã hội nghề nghiệp công chứng.",
+    "question": "Người yêu cầu công chứng cung cấp giấy tờ tùy thân có dấu hiệu bị tẩy xóa, chỉnh sửa thông tin ngày tháng năm sinh. Công chứng viên cần thực hiện bước nào tiếp theo để đảm bảo an toàn pháp lý?",
+    "a": "Yêu cầu người yêu cầu công chứng ký cam kết chịu trách nhiệm về tính xác thực của giấy tờ.",
+    "b": "Tạm dừng hồ sơ và yêu cầu người yêu cầu cung cấp bản gốc giấy xác nhận nhân thân hoặc giấy tờ khác có giá trị thay thế để đối chiếu.",
+    "c": "Tiếp tục thực hiện vì giấy tờ đó vẫn còn dấu nổi của cơ quan cấp.",
+    "d": "Chỉ thực hiện công chứng nếu người yêu cầu nộp thêm lệ phí công chứng ngoài trụ sở.",
     "answer": "b",
-    "explanation": "Nguyên tắc cốt lõi của công chứng viên là tuân thủ Hiến pháp và pháp luật."
+    "explanation": "Công chứng viên không được thực hiện công chứng nếu có căn cứ cho rằng giấy tờ bị giả mạo hoặc tẩy xóa. Bước xác minh tính xác thực là nghĩa vụ bắt buộc để ngăn chặn rủi ro."
   },
   {
-    "question": "Việc cấp bản sao công chứng được thực hiện trong trường hợp nào sau đây:",
-    "a": "Theo yêu cầu của cơ quan có thẩm quyền.",
-    "b": "Theo yêu cầu của các bên tham gia hợp đồng, giao dịch, người có quyền, nghĩa vụ liên quan đến hợp đồng, giao dịch đã được công chứng.",
-    "c": "Cả a và b đều đúng.",
-    "d": "Cả a và b đều sai.",
+    "question": "Khi thực hiện niêm yết việc thụ lý văn bản khai nhận di sản, phát hiện có thông tin về người thừa kế khác không có tên trong đơn yêu cầu của khách hàng. Công chứng viên xử lý thế nào?",
+    "a": "Vẫn thực hiện niêm yết theo thông tin khách hàng cung cấp.",
+    "b": "Yêu cầu người yêu cầu công chứng tự liên hệ với người thừa kế đó để bổ sung vào hồ sơ.",
+    "c": "Dừng việc thực hiện công chứng, yêu cầu bổ sung người thừa kế vào đơn yêu cầu và thực hiện niêm yết lại từ đầu.",
+    "d": "Lập biên bản thỏa thuận giữa các người thừa kế hiện có về việc loại bỏ người thừa kế kia.",
     "answer": "c",
-    "explanation": "Quy định về đối tượng được quyền yêu cầu cấp bản sao văn bản công chứng."
+    "explanation": "Việc niêm yết phải dựa trên thông tin đầy đủ về hàng thừa kế. Nếu thiếu người thừa kế, việc niêm yết không đảm bảo tính công khai minh bạch, cần phải niêm yết lại để bảo vệ quyền lợi của tất cả người thừa kế."
   },
   {
-    "question": "Trường hợp nào sau đây đúng?",
-    "a": "Ủy ban nhân dân cấp tỉnh ban hành giá tối đa đối với dịch vụ theo yêu cầu liên quan đến việc công chứng áp dụng đối với các tổ chức hành nghề công chứng tại địa phương.",
-    "b": "Người yêu cầu công chứng phải thanh toán phí, giá dịch vụ theo yêu cầu liên quan đến việc công chứng khi yêu cầu tổ chức hành nghề công chứng thực hiện việc soạn thảo giao dịch, sao chụp, dịch giấy tờ, văn bản liên quan đến giao dịch.",
-    "c": "Công chứng viên có trách nhiệm giải thích rõ cho người yêu cầu công chứng về phí, giá dịch vụ theo yêu cầu liên quan đến việc công chứng công chứng.",
-    "d": "Cả a và c đều đúng, b sai.",
-    "answer": "d",
-    "explanation": "Các quy định về giá dịch vụ công chứng và trách nhiệm giải thích của công chứng viên."
-  },
-  {
-    "question": "Mức thu phí đối với việc công chứng hợp đồng góp vốn bằng tài sản:",
-    "a": "Tính trên giá trị tài sản.",
-    "b": "Tính theo giá trị hợp đồng.",
-    "c": "Theo thỏa thuận giữa TCHNCC và NYCCC",
-    "d": "Chỉ a hoặc b đúng, c sai.",
-    "answer": "d",
-    "explanation": "Phí công chứng hợp đồng thường được tính dựa trên giá trị tài sản hoặc giá trị hợp đồng."
-  },
-  {
-    "question": "Niêm yết việc tiếp nhận công chứng văn bản phân chia di sản được tiến hành tại trụ sở của UBND cấp xã nơi thường trú cuối cùng của người để lại di sản?",
-    "a": "Đúng",
-    "b": "Sai",
-    "c": "hoặc nơi có di sản",
-    "d": "không bắt buộc",
-    "answer": "a",
-    "explanation": "Quy định nơi niêm yết việc thụ lý công chứng văn bản phân chia di sản."
-  },
-  {
-    "question": "Thời gian niêm yết thụ lý công chứng văn bản thỏa thuận phân chia di sản, khai nhận di sản:",
-    "a": "sau 15 ngày, kể từ ngày niêm yết.",
-    "b": "30 ngày, kể từ ngày niêm yết.",
-    "c": "15 ngày, kể từ ngày niêm yết.",
-    "d": "10 ngày, kể từ ngày niêm yết.",
-    "answer": "c",
-    "explanation": "Thời hạn niêm yết theo quy định là 15 ngày."
-  },
-  {
-    "question": "Văn phòng công chứng được tổ chức và hoạt động theo quy định của Luật Công chứng và quy định khác của pháp luật có liên quan đối với loại hình công ty hợp danh?",
-    "a": "Sai, vì có 2 loại hình là VPCC và PCC",
-    "b": "Sai, vì Luật Công chứng khác Luật Doanh nghiệp",
-    "c": "Sai, vì có 2 loại hình công ty hợp danh và doanh nghiệp tư nhân",
-    "d": "Đúng",
-    "answer": "d",
-    "explanation": "Văn phòng công chứng được tổ chức theo loại hình công ty hợp danh."
-  },
-  {
-    "question": "UBND cấp tỉnh có nhiệm vụ, quyền hạn nào dưới dây:",
-    "a": "Tổ chức thi hành, tuyên truyền, phổ biến pháp luật về công chứng, chính sách phát triển nghề công chứng",
-    "b": "Thực hiện các biện pháp phát triển TCHNCC trên địa bàn phù hợp với Quy hoạch tổng thể phát triển TCHNCC đã được Thủ tướng Chính phủ phê duyệt",
-    "c": "Quyết định thành lập Phòng công chứng; (bảo đảm cơ sở vật chất và phương tiện làm việc cho các Phòng công chứng) quyết định việc giải thể hoặc chuyển đổi Phòng công chứng",
-    "d": "Cả a và c đều đúng, b sai.",
-    "answer": "d",
-    "explanation": "Các nhiệm vụ của UBND cấp tỉnh bao gồm tuyên truyền và quản lý các đơn vị công chứng tại địa phương."
-  },
-  {
-    "question": "Thời điểm mua bảo hiểm trách nhiệm nghề nghiệp của CCV được thực hiện chậm nhất là bao nhiêu ngày, kể từ ngày công chứng viên của tổ chức hành nghề công chứng được đăng ký hành nghề?",
-    "a": "90 ngày",
-    "b": "01 tháng",
-    "c": "60 ngày",
-    "d": "30 ngày",
-    "answer": "d",
-    "explanation": "Thời hạn tối đa là 30 ngày kể từ ngày đăng ký hành nghề."
-  },
-  {
-    "question": "Công chứng viên có trách nhiệm:",
-    "a": "Tham gia tổ chức xã hội – nghề nghiệp của công chứng viên.",
-    "b": "Coi trọng, giữ gìn uy tín nghề nghiệp, không được có hành vi làm tổn hại đến danh dự, uy tín cá nhân, thanh danh nghề nghiệp.",
-    "c": "Cần phải ứng xử văn minh, lịch sự trong hành nghề để nhận sự yêu quý, tôn trọng, tin cậy và vinh danh của đồng nghiệp, người yêu cầu công chứng và toản thể xã hội.",
-    "d": "Cả b và c đều đúng, a sai.",
-    "answer": "d",
-    "explanation": "Các quy định về đạo đức nghề nghiệp của công chứng viên."
-  },
-  {
-    "question": "Trường hợp nào sau đây được miễn thực hiện nghĩa vụ tham gia bồi dưỡng nghiệp vụ trong năm:",
-    "a": "Công chứng viên nữ đang mang thai.",
-    "b": "CCV nữ đang nuôi con nhỏ dưới 12 tháng tuổi.",
-    "c": "CCV đang điều trị dài ngày tại cơ sở khám chữa bệnh.",
-    "d": "Tất cả đáp án đều đúng.",
-    "answer": "d",
-    "explanation": "Các trường hợp đặc biệt được miễn bồi dưỡng nghiệp vụ."
-  },
-  {
-    "question": "Xử lý vi phạm đối với CCV:",
-    "a": "Công chứng viên vi phạm quy định của Luật công chứng chỉ bị xử phạt vi phạm hành chính.",
-    "b": "Công chứng viên vi phạm quy định của Luật công chứng thì thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.",
-    "c": "Công chứng viên vi phạm quy định của Luật công chứng thì bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.",
-    "d": "Công chứng viên vi phạm quy định của Luật công chứng thì bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự.",
-    "answer": "c",
-    "explanation": "Các hình thức xử lý vi phạm tùy theo mức độ đối với công chứng viên."
-  },
-  {
-    "question": "Mức thu phí công chứng hợp đồng, giao dịch được xác định theo:",
-    "a": "Giá trị tài sản.",
-    "b": "Giá trị hợp đồng, giao dịch.",
-    "c": "Theo thỏa thuận giữa TCHNCC và NYCCC",
-    "d": "Chỉ a hoặc b đúng, c sai.",
-    "answer": "d",
-    "explanation": "Phí được tính trên giá trị hợp đồng hoặc tài sản theo khung pháp luật."
-  },
-  {
-    "question": "VPCC được thành lập từ việc chuyển đổi PCC phải ký hợp đồng lao động với CCV, viên chức, người lao động của PCC đó, trừ trường hợp những người này không có nhu cầu tiếp tục làm việc tại VPCC?",
-    "a": "Không có quy định",
-    "b": "Đúng",
-    "c": "Sai",
-    "d": "Còn tùy theo nhu cầu của VPCC đó",
+    "question": "Trong hợp đồng mua bán nhà đất, khách hàng yêu cầu ghi giá trị trên hợp đồng là 500 triệu đồng (giá tính lệ phí trước bạ), trong khi thực tế giao dịch là 5 tỷ đồng. Công chứng viên cần làm gì?",
+    "a": "Đồng ý vì giá tính phí do các bên tự thỏa thuận.",
+    "b": "Từ chối thực hiện vì mục đích của giao dịch có dấu hiệu trốn thuế.",
+    "c": "Soạn thảo theo yêu cầu của khách hàng nhưng ghi thêm điều khoản miễn trừ trách nhiệm cho công chứng viên.",
+    "d": "Yêu cầu khách hàng nộp thêm một khoản phí 'dịch vụ ngoài' để thực hiện yêu cầu.",
     "answer": "b",
-    "explanation": "Việc bảo đảm quyền lợi người lao động khi chuyển đổi mô hình là quy định bắt buộc."
+    "explanation": "Hành vi khai giá thấp hơn thực tế để giảm nghĩa vụ tài chính đối với Nhà nước là hành vi vi phạm pháp luật. Công chứng viên phải từ chối các giao dịch vi phạm pháp luật."
   },
   {
-    "question": "Thời gian tham gia bồi dưỡng nghiệp vụ là bao lâu:",
-    "a": "Tối thiểu là 4 ngày làm việc (32 giờ/năm).",
-    "b": "Tối thiểu là 2 ngày làm việc (16 giờ/năm).",
-    "c": "Tối thiểu là 1 ngày làm việc (8 giờ/năm).",
-    "d": "Tối thiểu là 3 ngày làm việc (24 giờ/năm).",
+    "question": "Hai bên thỏa thuận bán một thửa đất đang có tranh chấp tại Tòa án nhưng chưa có bản án/quyết định có hiệu lực. Công chứng viên nên xử lý ra sao?",
+    "a": "Yêu cầu các bên ký cam kết 'tự chịu trách nhiệm về tranh chấp'.",
+    "b": "Công chứng vì Tòa án chưa tuyên ai thắng, ai thua.",
+    "c": "Từ chối công chứng vì đối tượng của hợp đồng đang trong tình trạng tranh chấp theo quy định của pháp luật.",
+    "d": "Yêu cầu các bên nộp tiền đặt cọc vào tài khoản của Văn phòng công chứng để đảm bảo.",
     "answer": "c",
-    "explanation": "Quy định về thời lượng bồi dưỡng nghiệp vụ tối thiểu."
+    "explanation": "Tài sản đang có tranh chấp là một trong những trường hợp không thể công chứng giao dịch. Việc công chứng sẽ gây rủi ro pháp lý nghiêm trọng cho người mua và uy tín của tổ chức hành nghề."
   },
   {
-    "question": "Khi hành nghề công chứng, CCV không được:",
-    "a": "Tiết lộ thông tin về nội dung công chứng.",
-    "b": "Chỉ thực hiện công chứng trong trường hợp nội dung của hợp đồng, giao dịch, nội dung bản dịch vi phạm pháp luât, trái đạo đức xã hội; xúi giục, tạo điều kiện cho ngưới tham gia hợp đồng, giao dịch thực hiện giao dịch giả tạo hoặc hành vi gian dối khác.",
-    "c": "Gây áp lực, đe dọa hoặc thực hiện hành vi vi phạm pháp luật, trái đạo đức xã hội để giành lợi thế cho mình hoặc tổ chức mình trong việc hành nghề công chứng.",
-    "d": "Cả a và c đều đúng, b sai.",
-    "answer": "d",
-    "explanation": "Các hành vi cấm đối với công chứng viên khi hành nghề."
-  },
-  {
-    "question": "Xử lý vi phạm đối với người có hành vi xâm phạm quyền, lợi ích hợp pháp của CCV, TCHNCC:",
-    "a": "Người có chức vụ, quyền hạn mà có hành vi xâm phạm quyền, lợi ích hợp pháp của CCV, TCHNCC hoặc cản trở CCV, TCHNCC thực hiện quyền, nghĩa vụ thì bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự.",
-    "b": "Người có chức vụ, quyền hạn mà có hành vi xâm phạm quyền, lợi ích hợp pháp của CCV, TCHNCC hoặc cản trở CCV, TCHNCC thực hiện quyền, nghĩa vụ thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự.",
-    "c": "Người có chức vụ, quyền hạn mà có hành vi xâm phạm quyền, lợi ích hợp pháp của CCV, TCHNCC hoặc cản trở CCV, TCHNCC thực hiện quyền, nghĩa vụ thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.",
-    "d": "Người có chức vụ, quyền hạn mà có hành vi xâm phạm quyền, lợi ích hợp pháp của CCV, TCHNCC hoặc cản trở CCV, TCHNCC thực hiện quyền, nghĩa vụ thì bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.",
-    "answer": "c",
-    "explanation": "Xử lý đối với hành vi cản trở, xâm phạm quyền lợi công chứng viên."
-  },
-  {
-    "question": "Trường hợp di sản chỉ gồm có bất động sản thì việc niêm yết việc tiếp nhận công chứng văn bản phân chia di sản được tiến hành tại UBND cấp xã nơi có bất động sản?",
-    "a": "và UBND cấp xã nơi TCHNCC đóng trụ sở",
-    "b": "Sai",
-    "c": "hoặc nơi thường trú cuối cùng trước khi chết của người để lại di sản",
-    "d": "Đúng",
-    "answer": "d",
-    "explanation": "Nơi thực hiện niêm yết di sản là bất động sản."
-  },
-  {
-    "question": "Trường hợp nào sau đây là đúng?",
-    "a": "Hồ sơ công chứng phải được lưu trữ tại trụ sở của tổ chức hành nghề công chứng trong thời hạn ít nhất 20 năm đối với các giao dịch có đối tượng là bất động sản, ít nhất 10 năm đối với các loại giao dịch khác kể từ ngày văn bản công chứng có hiệu lực.",
-    "b": "Tổ chức hành nghề công chứng có trách nhiệm bảo quản chặt chẽ, thực hiện đủ các biện pháp an ninh, an toàn về phòng, chống cháy, nổ, ẩm mốc, mối mọt đối với hồ sơ công chứng.",
-    "c": "Hồ sơ công chứng bắt buộc phải được lưu trữ tại trụ sở của tổ chức hành nghề công chứng.",
-    "d": "Hồ sơ công chứng phải được đánh số theo thứ tự thời gian phù hợp với thời gian công chứng.",
+    "question": "Một người nước ngoài không biết tiếng Việt yêu cầu công chứng hợp đồng ủy quyền. Văn phòng công chứng cần ưu tiên điều kiện nào?",
+    "a": "Phải có người phiên dịch và hợp đồng phải được dịch sang ngôn ngữ người đó hiểu.",
+    "b": "Chỉ cần người đó mang theo hộ chiếu còn thời hạn.",
+    "c": "Phải có công chứng viên biết ngoại ngữ trực tiếp giải thích.",
+    "d": "Phải có sự xác nhận của Đại sứ quán nước sở tại trước khi công chứng.",
     "answer": "a",
-    "explanation": "Thời hạn lưu trữ hồ sơ công chứng theo quy định của pháp luật."
+    "explanation": "Luật quy định rõ việc phải sử dụng người phiên dịch đối với người yêu cầu công chứng không thông thạo tiếng Việt để đảm bảo người đó hiểu rõ nội dung và hậu quả pháp lý."
   },
   {
-    "question": "Ai là người có thẩm quyền quy định chi tiết mẫu lời chứng của CCV đối với giao dịch?",
-    "a": "Chính phủ.",
-    "b": "Bộ trưởng bộ Tư pháp.",
-    "c": "Bộ Tư pháp.",
-    "d": "Sở Tư pháp.",
+    "question": "Khi công chứng di chúc tại bệnh viện cho người đang trong tình trạng bệnh nặng, công chứng viên cần lưu ý nhất điều gì để tránh bị tranh chấp sau này?",
+    "a": "Ghi âm, ghi hình quá trình lập di chúc và có người làm chứng độc lập.",
+    "b": "Chỉ cần sự có mặt của người lập di chúc và công chứng viên.",
+    "c": "Yêu cầu người lập di chúc phải ký tên vào tất cả các trang.",
+    "d": "Yêu cầu người thừa kế cung cấp giấy xác nhận của bác sĩ về tình trạng minh mẫn.",
+    "answer": "a",
+    "explanation": "Việc ghi âm, ghi hình và có người làm chứng là biện pháp quan trọng nhất để chứng minh người lập di chúc hoàn toàn minh mẫn, tự nguyện tại thời điểm xác lập di chúc, bảo vệ tính hiệu lực của văn bản."
+  },
+  {
+    "question": "Trường hợp công chứng viên thực hiện công chứng ngoài trụ sở, trách nhiệm kiểm tra hiện trạng tài sản thuộc về ai?",
+    "a": "Chỉ thuộc về khách hàng, công chứng viên không chịu trách nhiệm.",
+    "b": "Thuộc về công chứng viên, phải kiểm tra sự tồn tại thực tế của tài sản.",
+    "c": "Thuộc về cơ quan địa chính nơi có tài sản.",
+    "d": "Không cần kiểm tra nếu khách hàng đã xuất trình sổ đỏ (Giấy chứng nhận).",
     "answer": "b",
-    "explanation": "Thẩm quyền ban hành mẫu lời chứng thuộc về Bộ trưởng Bộ Tư pháp."
+    "explanation": "Công chứng viên phải đảm bảo tính xác thực về hiện trạng tài sản. Đặc biệt khi công chứng ngoài trụ sở, việc kiểm tra thực tế là bước ngăn chặn rủi ro tài sản 'ảo' hoặc không đúng hiện trạng."
   },
   {
-    "question": "Niêm yết việc tiếp nhận công chứng văn bản phân chia di sản do ai thực hiện?",
-    "a": "Tổ chức hành nghề công chứng",
-    "b": "Cán bộ Tư pháp cấp xã",
-    "c": "Người yêu cầu công chứng",
-    "d": "UBND cấp xã",
+    "question": "Khách hàng yêu cầu trích lục bản sao hợp đồng đã công chứng từ 10 năm trước nhưng Văn phòng công chứng đã chuyển đổi mô hình và không còn lưu trữ hồ sơ đó. Bạn xử lý thế nào?",
+    "a": "Thông báo cho khách hàng đến Sở Tư pháp để tìm trong cơ sở dữ liệu địa phương.",
+    "b": "Yêu cầu khách hàng ký đơn xin cấp lại văn bản công chứng mới.",
+    "c": "Từ chối tiếp nhận vì hồ sơ đã hết thời hạn lưu trữ.",
+    "d": "Hỗ trợ khách hàng tìm kiếm tại văn phòng khác không liên quan.",
     "answer": "a",
-    "explanation": "Tổ chức hành nghề công chứng thực hiện niêm yết thông báo tại UBND cấp xã."
+    "explanation": "Khi hồ sơ gốc không còn, khách hàng phải tìm kiếm tại cơ quan quản lý nhà nước (Sở Tư pháp) nơi lưu trữ bản sao dự phòng hoặc cơ sở dữ liệu công chứng địa phương."
   },
   {
-    "question": "Nhận định nào sau đây đúng?",
-    "a": "Trường hợp công chứng tại trụ sở hay ngoài trụ sở TCHNCC thì CCV đều phải ký vào lời chứng ngoài trụ sở và đóng dấu TCHNCC tại trụ sở TCHNCC.",
-    "b": "Trường hợp công chứng ngoài trụ sở TCHNCC thì CCV có thể ký vào lời chứng và đóng dấu TCHNCC tại nơi người yêu cầu công chứng ngoài trụ sở.",
-    "c": "Trường hợp công chứng ngoài trụ sở TCHNCC thì CCV có thể ký vào lời chứng ngoài trụ sở, nhưng phải đóng dấu TCHNCC tại trụ sở TCHNCC.",
-    "d": "Tất cả các đáp án đều đúng",
-    "answer": "d",
-    "explanation": "Quy định về việc đóng dấu và ký lời chứng khi công chứng ngoài trụ sở."
+    "question": "Một người đến yêu cầu công chứng hợp đồng tặng cho quyền sử dụng đất, nhưng công chứng viên nhận thấy người tặng cho có dấu hiệu bị ép buộc bởi người thân. Cách ứng xử chuyên nghiệp nhất là?",
+    "a": "Yêu cầu người thân ra ngoài, thực hiện phỏng vấn riêng với người tặng cho để xác định ý chí thực sự.",
+    "b": "Công chứng bình thường vì đó là chuyện gia đình.",
+    "c": "Yêu cầu người tặng cho ký cam kết không bị ép buộc.",
+    "d": "Từ chối thẳng thừng và đuổi khách hàng về.",
+    "answer": "a",
+    "explanation": "Xác định ý chí tự nguyện là nguyên tắc tiên quyết. Việc trao đổi riêng giúp loại bỏ sự chi phối của bên thứ ba, bảo vệ quyền lợi của người tặng cho."
   },
   {
-    "question": "Xử lý vi phạm đối với cá nhân, TCHNCC bất hợp pháp:",
-    "a": "Cá nhân không đủ điều kiện hành nghề công chứng mà hành nghề công chứng dưới bất kỳ hình thức nào thì phải chấm dứt hành vi vi phạm, bị xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.",
-    "b": "Tổ chức không đủ điều kiện hành nghề công chứng mà hành nghề công chứng dưới bất kỳ hình thức nào thì phải chấm dứt hành vi vi phạm, bị xử phạt vi phạm hành chính, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.",
-    "c": "Cả a và b đều đúng.",
-    "d": "Cả a và b đều sai.",
+    "question": "Việc lưu trữ hồ sơ công chứng đối với giao dịch bất động sản có thời hạn tối thiểu là bao nhiêu và mục đích quan trọng nhất của việc này là gì?",
+    "a": "10 năm; để phục vụ việc trích lục sau này.",
+    "b": "20 năm; để phục vụ việc kiểm tra, thanh tra và giải quyết tranh chấp pháp lý về sau.",
+    "c": "5 năm; để tiết kiệm diện tích văn phòng.",
+    "d": "50 năm; để lưu trữ lâu dài.",
+    "answer": "b",
+    "explanation": "Thời hạn 20 năm đối với giao dịch bất động sản là quy định pháp luật. Mục đích cốt lõi là tạo bằng chứng pháp lý để giải quyết các tranh chấp về quyền sở hữu có thể xảy ra trong tương lai lâu dài."
+  },
+  {
+    "question": "Trong thủ tục khai nhận di sản, người yêu cầu cam kết 'không còn người thừa kế nào khác'. Tuy nhiên, sau khi niêm yết, một người con riêng (không được ghi trong đơn) xuất hiện và cung cấp bằng chứng huyết thống. Công chứng viên phải làm gì?",
+    "a": "Tiếp tục ký văn bản vì văn bản đã được soạn thảo xong.",
+    "b": "Dừng hồ sơ, yêu cầu các bên thỏa thuận lại. Nếu không thỏa thuận được, hướng dẫn ra Tòa.",
+    "c": "Yêu cầu người con riêng ký vào biên bản từ chối nhận di sản.",
+    "d": "Yêu cầu người yêu cầu công chứng bồi thường cho người con riêng.",
+    "answer": "b",
+    "explanation": "Quyền thừa kế của người con riêng được pháp luật bảo vệ. Khi có tranh chấp hoặc xuất hiện người thừa kế mới, công chứng viên phải dừng lại để làm rõ, tránh văn bản công chứng bị vô hiệu sau này."
+  },
+  {
+    "question": "Khi chứng nhận văn bản từ chối nhận di sản, công chứng viên phát hiện người từ chối đang có nghĩa vụ tài sản lớn với chủ nợ. Công chứng viên nên làm gì?",
+    "a": "Từ chối vì việc từ chối nhận di sản gây thiệt hại cho chủ nợ.",
+    "b": "Thực hiện bình thường vì đây là quyền định đoạt tài sản của cá nhân.",
+    "c": "Giải thích rõ hậu quả pháp lý cho người yêu cầu về việc trốn tránh nghĩa vụ tài sản.",
+    "d": "Báo cáo cơ quan công an.",
     "answer": "c",
-    "explanation": "Các hình thức xử lý đối với hoạt động công chứng bất hợp pháp."
+    "explanation": "Công chứng viên có trách nhiệm giải thích hậu quả pháp lý. Việc từ chối nhận di sản nhằm trốn tránh nghĩa vụ có thể bị Tòa án tuyên vô hiệu, công chứng viên cần cảnh báo rủi ro này cho khách hàng."
   },
   {
-    "question": "Cơ sở dữ liệu công chứng bao gồm:",
-    "a": "Cơ sở dữ liệu công chứng của Bộ Tư pháp bao gồm thông tin về công chứng viên, tổ chức hành nghề công chứng, số liệu về kết quả hoạt động công chứng.",
-    "b": "Bộ Tư pháp có trách nhiệm xây dựng cơ sở dữ liệu công chứng của Bộ Tư pháp; ban hành quy chế quản lý, cập nhật, khai thác, sử dụng, chia sẻ cơ sở dữ liệu công chứng của Bộ Tư pháp.",
-    "c": "Cơ sở dữ liệu công chứng phải được cập nhật đủ, kịp thời và bảo đảm an ninh, an toàn theo quy định của pháp luật.",
-    "d": "Cơ sở dữ liệu công chứng gồm cơ sở dữ liệu công chứng của Bộ Tư pháp.",
-    "answer": "d",
-    "explanation": "Cơ sở dữ liệu công chứng bao gồm hệ thống dữ liệu do Bộ Tư pháp quản lý."
+    "question": "Công chứng hợp đồng thế chấp quyền sử dụng đất, nhưng thửa đất đang được đăng ký là 'tài sản chung' trên Giấy chứng nhận. Một bên vợ/chồng vắng mặt và gửi giấy ủy quyền viết tay. Bạn xử lý sao?",
+    "a": "Chấp nhận ủy quyền viết tay nếu có xác nhận của hàng xóm.",
+    "b": "Từ chối vì ủy quyền phải được công chứng/chứng thực theo quy định pháp luật.",
+    "c": "Công chứng vì vợ chồng có quyền thay mặt nhau.",
+    "d": "Yêu cầu chủ nợ ký cam kết nhận nợ thay.",
+    "answer": "b",
+    "explanation": "Ủy quyền xác lập các giao dịch về bất động sản đòi hỏi hình thức chặt chẽ (phải công chứng/chứng thực). Giấy viết tay không đảm bảo giá trị pháp lý."
   },
   {
-    "question": "Công chứng viên có các nghĩa vụ nào sau:",
-    "a": "Giải thích cho người yêu cầu công chứng hiểu rõ quyền, nghĩa vụ của họ, ý nghĩa và hậu quả pháp lý của việc công chứng.",
-    "b": "Giữ bí mật về nội dung công chứng trong mọi trường hợp.",
-    "c": "Chỉ chịu trách nhiệm trước pháp luật về văn bản công chứng của mình.",
-    "d": "Tôn trọng và bảo vệ quyền, lợi ích hợp pháp của người yêu cầu công chứng.",
+    "question": "Công chứng viên phát hiện bên bán nhà đã ly hôn nhưng chưa làm thủ tục phân chia tài sản sau ly hôn. Công chứng viên cần yêu cầu gì?",
+    "a": "Yêu cầu bên bán xuất trình Bản án/Quyết định ly hôn đã có hiệu lực.",
+    "b": "Yêu cầu bên bán xuất trình xác nhận độc thân.",
+    "c": "Yêu cầu vợ cũ ký vào hợp đồng mua bán.",
+    "d": "Yêu cầu Tòa án phân chia tài sản trước.",
     "answer": "a",
-    "explanation": "Nghĩa vụ quan trọng nhất của CCV là giải thích quyền và hậu quả pháp lý cho người yêu cầu."
+    "explanation": "Cần xem Bản án/Quyết định ly hôn để biết về việc phân chia tài sản. Nếu trong bản án ghi tài sản đang tranh chấp hoặc chưa chia, thì chưa đủ điều kiện công chứng."
   },
   {
-    "question": "Kết quả của hoạt động công chứng là gì?",
-    "a": "Văn bản công chứng",
-    "b": "Đảm bảo an toàn pháp lý",
-    "c": "Đảm bảo an toàn pháp lý và đảm bảo quyền, lợi ích hợp pháp của cá nhân, tổ chức",
-    "d": "Tất cả đáp án đều đúng.",
+    "question": "Công chứng viên đang soạn thảo hợp đồng mua bán thì bên bán đột ngột qua đời. Bạn xử lý thế nào?",
+    "a": "Ký thay cho bên bán để hoàn tất giao dịch.",
+    "b": "Từ chối thực hiện vì chủ thể giao dịch đã không còn năng lực hành vi.",
+    "c": "Hướng dẫn người thừa kế bên bán tiếp tục thực hiện hợp đồng.",
+    "d": "Để lại hồ sơ để người thừa kế ký sau này.",
+    "answer": "b",
+    "explanation": "Hợp đồng công chứng phải được ký bởi người có năng lực hành vi. Khi một bên qua đời, tư cách chủ thể chấm dứt, phải chuyển sang thủ tục khai nhận di sản trước khi mua bán."
+  },
+  {
+    "question": "Bên mua muốn thanh toán toàn bộ số tiền mua đất bằng vàng hoặc ngoại tệ. Công chứng viên nên tư vấn gì?",
+    "a": "Ghi vào hợp đồng theo giá trị thực tế của vàng/ngoại tệ.",
+    "b": "Từ chối vì vi phạm quy định về quản lý ngoại hối và thanh toán trong giao dịch dân sự.",
+    "c": "Khuyên khách hàng nên đổi sang tiền Việt để tránh rủi ro biến động giá.",
+    "d": "Chấp nhận vì quyền tự do thỏa thuận của các bên.",
+    "answer": "b",
+    "explanation": "Pháp luật quy định việc thanh toán giao dịch trong nước phải bằng đồng Việt Nam. Việc ghi ngoại tệ/vàng có thể làm hợp đồng vi phạm điều cấm."
+  },
+  {
+    "question": "Người yêu cầu công chứng mang theo một 'Hợp đồng mẫu' tải trên mạng và ép công chứng viên phải sử dụng văn bản đó. Bạn làm gì?",
+    "a": "Đồng ý để tiết kiệm thời gian.",
+    "b": "So sánh mẫu đó với quy định pháp luật, nếu có điều khoản trái luật thì phải sửa đổi/loại bỏ mới công chứng.",
+    "c": "Từ chối không lý do.",
+    "d": "Soạn lại từ đầu để lấy phí soạn thảo.",
+    "answer": "b",
+    "explanation": "Công chứng viên chịu trách nhiệm về nội dung văn bản. Việc khách hàng dùng mẫu là quyền của họ, nhưng tính hợp pháp phải do công chứng viên kiểm soát."
+  },
+  {
+    "question": "Công chứng viên phát hiện thửa đất được bán nằm trong khu vực quy hoạch dự án bị thu hồi đất. Công chứng viên xử lý ra sao?",
+    "a": "Thông báo cho khách hàng biết về thông tin quy hoạch và để họ quyết định.",
+    "b": "Tiếp tục công chứng vì đất có 'sổ đỏ' vẫn được phép giao dịch.",
+    "c": "Từ chối công chứng vì đất đã có quyết định thu hồi/quy hoạch giải tỏa.",
+    "d": "Yêu cầu chính quyền địa phương xác nhận việc mua bán là hợp lệ.",
+    "answer": "c",
+    "explanation": "Đất đã có quyết định thu hồi/phê duyệt dự án giải tỏa thường không đủ điều kiện giao dịch theo luật đất đai, công chứng viên phải từ chối."
+  },
+  {
+    "question": "Người yêu cầu công chứng xuất trình Giấy chứng nhận quyền sử dụng đất có dấu hiệu bị tẩy xóa số thửa, số tờ. Bạn làm gì?",
+    "a": "Soi dưới đèn tia cực tím và tiếp tục công chứng.",
+    "b": "Gửi công văn cho Văn phòng đăng ký đất đai xác minh.",
+    "c": "Từ chối ngay lập tức và trả hồ sơ.",
+    "d": "Yêu cầu khách hàng photo lại tờ đó.",
+    "answer": "b",
+    "explanation": "Khi có dấu hiệu giả mạo, công chứng viên phải tạm dừng và xác minh với cơ quan có thẩm quyền cấp sổ để đảm bảo an toàn cao nhất."
+  },
+  {
+    "question": "Vợ chồng muốn tặng cho con căn nhà nhưng người con đang định cư ở nước ngoài. Bạn xử lý thủ tục thế nào?",
+    "a": "Yêu cầu người con về Việt Nam ký trực tiếp.",
+    "b": "Chấp nhận hợp đồng tặng cho do cha mẹ ký và gửi sang nước ngoài để con ký sau.",
+    "c": "Yêu cầu Hợp đồng tặng cho phải có sự ký tên của cả người cho và người nhận; nếu không thể về, người con phải làm Hợp đồng ủy quyền hoặc xác nhận nhận tặng cho tại cơ quan đại diện ngoại giao.",
+    "d": "Chỉ cần cha mẹ ký tặng cho là xong.",
+    "answer": "c",
+    "explanation": "Hợp đồng tặng cho bất động sản là giao dịch song phương, cần ý chí của cả hai bên. Nếu người nhận không có mặt, phải tuân thủ trình tự hợp pháp hóa lãnh sự hoặc ủy quyền."
+  },
+  {
+    "question": "Bạn phát hiện đồng nghiệp (công chứng viên khác) thực hiện công chứng bỏ qua bước kiểm tra tại chỗ đối với một vụ việc lớn. Bạn nên làm gì?",
+    "a": "Giữ im lặng vì đó là việc của họ.",
+    "b": "Báo cáo với Trưởng văn phòng để kịp thời khắc phục rủi ro.",
+    "c": "Đăng tải lên mạng xã hội để cảnh báo.",
+    "d": "Gửi đơn kiện lên Tòa án.",
+    "answer": "b",
+    "explanation": "Nghĩa vụ của CCV là bảo vệ uy tín nghề nghiệp. Việc báo cáo nội bộ giúp ngăn chặn rủi ro cho văn phòng và danh dự nghề nghiệp trước khi sự cố xảy ra."
+  },
+  {
+    "question": "Một người yêu cầu công chứng đề nghị 'công chứng treo' (ký sẵn, đóng dấu sẵn để họ điền nội dung sau). Bạn xử lý sao?",
+    "a": "Thực hiện nếu khách hàng là khách quen.",
+    "b": "Từ chối dứt khoát vì đây là hành vi vi phạm nghiêm trọng quy trình công chứng.",
+    "c": "Thực hiện nhưng thu phí gấp đôi.",
+    "d": "Chỉ thực hiện nếu có sự đồng ý của Trưởng văn phòng.",
+    "answer": "b",
+    "explanation": "Công chứng treo là vi phạm pháp luật nghiêm trọng nhất, dẫn đến nguy cơ gian lận, lừa đảo. CCV phải tuyệt đối từ chối."
+  },
+  {
+    "question": "Khi xảy ra lỗi trong văn bản công chứng đã ký, cách khắc phục đúng là gì?",
+    "a": "Tẩy xóa và viết đè lên.",
+    "b": "Lập Văn bản sửa đổi, bổ sung (nếu các bên còn đồng ý).",
+    "c": "Hủy hợp đồng cũ và ký lại hợp đồng mới hoàn toàn.",
+    "d": "Cả b và c đều đúng.",
     "answer": "d",
-    "explanation": "Kết quả của hoạt động công chứng bao hàm cả hình thức (văn bản) và nội dung (an toàn pháp lý)."
+    "explanation": "Tùy mức độ lỗi (lỗi kỹ thuật, lỗi nội dung) mà sử dụng văn bản sửa đổi hoặc ký lại để đảm bảo tính pháp lý."
+  },
+  {
+    "question": "Người làm chứng trong di chúc có được là người thừa kế của người lập di chúc không?",
+    "a": "Có, nếu họ là người thân cận.",
+    "b": "Không, phải là người không có quyền lợi liên quan đến di chúc.",
+    "c": "Có, nếu được người lập di chúc đồng ý.",
+    "d": "Không bắt buộc.",
+    "answer": "b",
+    "explanation": "Người làm chứng phải khách quan, không được là người thừa kế để tránh mâu thuẫn lợi ích và đảm bảo ý chí của người lập di chúc."
+  },
+  {
+    "question": "Trong trường hợp không thể liên hệ được với người lập di chúc khi di chúc đã lưu giữ bị hư hỏng, Văn phòng cần làm gì?",
+    "a": "Hủy bỏ di chúc.",
+    "b": "Thông báo trên phương tiện thông tin đại chúng và lưu trữ theo quy định chuyển giao hồ sơ.",
+    "c": "Lưu trữ tại văn phòng mãi mãi.",
+    "d": "Giao lại cho người thân của người lập di chúc.",
+    "answer": "b",
+    "explanation": "Phải có biện pháp thông báo công khai để bảo vệ quyền lợi người lập di chúc trước khi thực hiện các bước xử lý tiếp theo."
+  },
+  {
+    "question": "Công chứng viên có được công chứng hợp đồng mà mình là bên liên quan (ví dụ: mua đất từ chính người thân mình)?",
+    "a": "Được, vì công chứng viên công tâm.",
+    "b": "Không, công chứng viên phải từ chối để đảm bảo tính khách quan.",
+    "c": "Được nếu được Trưởng văn phòng đồng ý.",
+    "d": "Được nếu giá bán đúng giá thị trường.",
+    "answer": "b",
+    "explanation": "Nguyên tắc khách quan và trung thực đòi hỏi CCV không được công chứng các giao dịch có liên quan đến lợi ích bản thân hoặc gia đình."
+  },
+  {
+    "question": "Người phiên dịch có quyền ký vào văn bản công chứng không?",
+    "a": "Có, và phải ký vào từng trang của hợp đồng.",
+    "b": "Không, chỉ cần người yêu cầu công chứng ký.",
+    "c": "Có, nhưng chỉ ký vào trang cuối cùng.",
+    "d": "Không, người phiên dịch chỉ cần đứng cạnh.",
+    "answer": "a",
+    "explanation": "Người phiên dịch là một bên tham gia bắt buộc trong hồ sơ (nếu khách không biết tiếng Việt), họ phải ký vào từng trang để xác nhận nội dung dịch là chính xác."
+  },
+  {
+    "question": "Khi cơ quan điều tra yêu cầu cung cấp hồ sơ công chứng, bạn sẽ làm gì?",
+    "a": "Từ chối vì phải giữ bí mật nội dung công chứng.",
+    "b": "Chỉ cung cấp khi có văn bản yêu cầu từ cơ quan có thẩm quyền theo luật định.",
+    "c": "Cung cấp ngay vì sợ cơ quan điều tra.",
+    "d": "Yêu cầu người yêu cầu công chứng cho phép mới cung cấp.",
+    "answer": "b",
+    "explanation": "Bảo mật thông tin công chứng là bắt buộc, trừ trường hợp cơ quan có thẩm quyền yêu cầu theo đúng quy định pháp luật."
+  },
+  {
+    "question": "Nếu phát hiện di chúc có dấu hiệu giả mạo chữ ký người lập di chúc, bạn cần làm gì?",
+    "a": "Từ chối công chứng và tư vấn các bên giám định chữ ký.",
+    "b": "Công chứng vì mình không phải là chuyên gia chữ ký.",
+    "c": "Yêu cầu người yêu cầu ký lại di chúc.",
+    "d": "Hỏi người làm chứng xem có thật không.",
+    "answer": "a",
+    "explanation": "Khi có nghi ngờ về tính xác thực, CCV phải dừng lại để làm rõ, tránh rủi ro pháp lý về sau."
+  },
+  {
+    "question": "Thời hạn lưu trữ hồ sơ công chứng 20 năm đối với bất động sản bắt đầu tính từ khi nào?",
+    "a": "Ngày soạn thảo hợp đồng.",
+    "b": "Ngày các bên ký kết.",
+    "c": "Ngày văn bản công chứng có hiệu lực.",
+    "d": "Ngày nộp phí công chứng.",
+    "answer": "c",
+    "explanation": "Thời hạn lưu trữ tính từ thời điểm văn bản công chứng phát sinh hiệu lực pháp lý."
+  },
+[
+  {
+    "question": "Vợ chồng mua đất trong thời kỳ hôn nhân nhưng vợ đứng tên một mình. Nay muốn bán đất, công chứng viên yêu cầu gì?",
+    "a": "Yêu cầu chồng ký tên hoặc có văn bản thỏa thuận tài sản riêng.",
+    "b": "Để người vợ tự bán vì đứng tên một mình.",
+    "c": "Yêu cầu ly hôn để chia tài sản.",
+    "d": "Yêu cầu chồng từ bỏ quyền sở hữu.",
+    "answer": "a",
+    "explanation": "Tài sản mua trong thời kỳ hôn nhân là tài sản chung, dù ai đứng tên. Việc định đoạt phải có sự đồng ý của cả hai."
+  },
+  {
+    "question": "Người lập di chúc muốn để lại toàn bộ tài sản cho con riêng và tước quyền thừa kế của vợ hiện tại. Công chứng viên tư vấn thế nào?",
+    "a": "Đồng ý ngay.",
+    "b": "Giải thích về quyền thừa kế không phụ thuộc vào nội dung di chúc của những người thuộc hàng thừa kế đặc biệt (vợ, con chưa thành niên, cha mẹ).",
+    "c": "Từ chối vì trái đạo đức.",
+    "d": "Yêu cầu vợ ký vào di chúc.",
+    "answer": "b",
+    "explanation": "Pháp luật quy định những người thừa kế không phụ thuộc vào nội dung di chúc vẫn được hưởng phần di sản bằng 2/3 suất của một người thừa kế theo pháp luật nếu họ không được cho hưởng hoặc hưởng ít hơn."
+  },
+  {
+    "question": "Người yêu cầu công chứng là người khiếm thị. Bạn xử lý như thế nào?",
+    "a": "Không được công chứng vì họ không đọc được văn bản.",
+    "b": "Yêu cầu có người làm chứng, đọc văn bản cho người đó nghe và có biên bản xác nhận.",
+    "c": "Yêu cầu họ điểm chỉ thay cho chữ ký.",
+    "d": "Từ chối vì rủi ro cao.",
+    "answer": "b",
+    "explanation": "Người khiếm thị có quyền thực hiện giao dịch dân sự. Công chứng viên phải có biện pháp hỗ trợ (người làm chứng, đọc lại nội dung) để đảm bảo họ nắm rõ nội dung."
+  },
+  {
+    "question": "Khi công chứng hợp đồng ủy quyền, bên ủy quyền yêu cầu 'bên nhận ủy quyền được tự ý định đoạt tài sản' (không ghi rõ giới hạn). Bạn làm gì?",
+    "a": "Đồng ý vì khách hàng tự do thỏa thuận.",
+    "b": "Tư vấn giới hạn phạm vi ủy quyền để bảo vệ quyền lợi cho bên ủy quyền.",
+    "c": "Công chứng vì công chứng viên không được can thiệp.",
+    "d": "Không cho phép vì quá nguy hiểm.",
+    "answer": "b",
+    "explanation": "CCV có nghĩa vụ tư vấn để tránh những rủi ro pháp lý tiềm ẩn từ những nội dung ủy quyền quá rộng."
+  },
+  {
+    "question": "Thửa đất có hai người đứng tên chung, nhưng một người đã chết. Nay người còn lại muốn bán. Bạn cần yêu cầu gì?",
+    "a": "Yêu cầu khai nhận di sản của người đã chết trước khi bán.",
+    "b": "Cho phép bán phần của người còn sống.",
+    "c": "Yêu cầu Tòa án chia tách thửa đất.",
+    "d": "Yêu cầu tất cả người thân người chết đồng ý.",
+    "answer": "a",
+    "explanation": "Phần tài sản của người đã chết đã trở thành di sản. Cần xác định ai là người thừa kế và thực hiện khai nhận di sản xong mới có quyền sở hữu đầy đủ để bán."
+  },
+  {
+    "question": "Công chứng hợp đồng tặng cho, nhưng người nhận tặng cho là người đã có hành vi bạo hành người tặng cho. Bạn làm gì?",
+    "a": "Công chứng bình thường.",
+    "b": "Tư vấn cho người tặng cho biết hậu quả và từ chối nếu có dấu hiệu ép buộc.",
+    "c": "Báo cáo cơ quan công an ngay lập tức.",
+    "d": "Thực hiện nếu khách hàng yêu cầu.",
+    "answer": "b",
+    "explanation": "Dấu hiệu bạo hành là tiền đề của việc bị ép buộc hoặc không tự nguyện. Phải làm rõ ý chí người tặng cho."
+  },
+  {
+    "question": "Người yêu cầu mang theo giấy chứng nhận đăng ký kết hôn cũ bị nhàu nát, khó đọc thông tin. Bạn làm gì?",
+    "a": "Yêu cầu cấp lại bản trích lục mới.",
+    "b": "Chấp nhận vì vẫn thấy dấu mộc.",
+    "c": "Yêu cầu ra phường xác nhận bản sao.",
+    "d": "Hỏi xem có sổ hộ khẩu không.",
+    "answer": "a",
+    "explanation": "Để đảm bảo tính chính xác cho các dữ liệu quan trọng, bản giấy tờ phải rõ ràng, nguyên vẹn."
+  },
+  {
+    "question": "Nếu công chứng viên mắc sai sót gây thiệt hại, tổ chức hành nghề công chứng phải làm gì?",
+    "a": "Bồi thường cho khách hàng.",
+    "b": "Phạt tiền công chứng viên.",
+    "c": "Sa thải công chứng viên.",
+    "d": "Đóng cửa văn phòng.",
+    "answer": "a",
+    "explanation": "Tổ chức hành nghề công chứng phải bồi thường thiệt hại cho khách hàng, sau đó có quyền yêu cầu CCV hoàn trả theo quy định."
+  },
+  {
+    "question": "Đất của hộ gia đình thì khi bán cần ai ký?",
+    "a": "Chỉ người đứng tên trong sổ.",
+    "b": "Tất cả các thành viên có tên trong sổ hộ khẩu của hộ tại thời điểm cấp sổ.",
+    "c": "Chỉ chủ hộ.",
+    "d": "Tất cả những người trong gia đình.",
+    "answer": "b",
+    "explanation": "Theo luật đất đai, tài sản của hộ gia đình thì các thành viên có quyền ngang nhau trong việc định đoạt."
+  },
+  {
+    "question": "Văn bản công chứng bị mất, khách hàng xin cấp lại. Bạn làm gì?",
+    "a": "Viết lại hợp đồng và cho ký lại.",
+    "b": "Cấp bản sao từ hồ sơ lưu trữ theo quy định.",
+    "c": "Hủy hợp đồng cũ.",
+    "d": "Thông báo cho các bên đến ký lại.",
+    "answer": "b",
+    "explanation": "Bản sao văn bản công chứng được cấp từ hồ sơ gốc đang lưu trữ tại văn phòng."
+  },
+  {
+    "question": "Khách hàng muốn công chứng một văn bản nhưng lại không mang theo bất kỳ giấy tờ tùy thân nào, chỉ có hình ảnh chụp trên điện thoại. Bạn xử lý sao?",
+    "a": "Chấp nhận vì công nghệ hiện nay có thể xác minh.",
+    "b": "Từ chối vì bắt buộc phải có giấy tờ gốc để đối chiếu theo quy định.",
+    "c": "Yêu cầu người quen xác nhận nhân thân.",
+    "d": "Cho phép ký nhưng nợ giấy tờ lại sau.",
+    "answer": "b",
+    "explanation": "Giấy tờ gốc là yêu cầu bắt buộc để công chứng viên kiểm tra tính hợp pháp, không chấp nhận ảnh chụp."
+  },
+  {
+    "question": "Công chứng viên phát hiện hợp đồng có điều khoản vi phạm điều cấm của luật (ví dụ: cấm chuyển nhượng quyền sử dụng đất nông nghiệp vượt hạn mức). Bạn làm gì?",
+    "a": "Yêu cầu sửa đổi điều khoản đó cho phù hợp với pháp luật.",
+    "b": "Để nguyên nếu khách hàng yêu cầu.",
+    "c": "Bỏ qua vì không ảnh hưởng lớn.",
+    "d": "Ghi chú vào mục lời chứng.",
+    "answer": "a",
+    "explanation": "Mọi điều khoản trái luật đều làm cho văn bản công chứng bị vô hiệu một phần hoặc toàn bộ. CCV có trách nhiệm yêu cầu sửa đổi."
+  },
+  {
+    "question": "Khi khách hàng yêu cầu công chứng ngoài giờ làm việc (đêm khuya hoặc ngày lễ), bạn sẽ làm gì?",
+    "a": "Từ chối vì chỉ làm giờ hành chính.",
+    "b": "Thực hiện nếu thấy cần thiết, nhưng phải đảm bảo đúng quy trình và thu phí theo quy định về công chứng ngoài trụ sở (nếu có).",
+    "c": "Yêu cầu khách hàng đợi đến sáng hôm sau.",
+    "d": "Chỉ thực hiện nếu khách trả phí gấp 3.",
+    "answer": "b",
+    "explanation": "Hoạt động công chứng không giới hạn giờ hành chính nếu các bên có nhu cầu, miễn là tuân thủ đầy đủ quy trình chuyên môn."
+  },
+  {
+    "question": "Người lập di chúc bị rung tay, chữ ký không giống với chữ ký trên CMND/CCCD. Bạn làm gì?",
+    "a": "Yêu cầu người đó luyện tập để ký lại.",
+    "b": "Yêu cầu điểm chỉ và có người làm chứng xác nhận.",
+    "c": "Chấp nhận chữ ký hiện tại.",
+    "d": "Yêu cầu người nhà ký hộ.",
+    "answer": "b",
+    "explanation": "Điểm chỉ là biện pháp thay thế an toàn khi chữ ký không ổn định, kết hợp người làm chứng để đảm bảo tính xác thực."
+  },
+  {
+    "question": "Bạn nhận được yêu cầu từ một cơ quan nhà nước yêu cầu cung cấp thông tin về giao dịch của một cá nhân, nhưng cơ quan này không có thẩm quyền trực tiếp. Bạn làm gì?",
+    "a": "Cung cấp ngay vì đó là cơ quan nhà nước.",
+    "b": "Từ chối và yêu cầu họ cung cấp căn cứ pháp lý hoặc ủy thác từ cơ quan có thẩm quyền cao hơn.",
+    "c": "Gọi điện cho khách hàng hỏi xem có đồng ý không.",
+    "d": "Báo cáo Sở Tư pháp.",
+    "answer": "b",
+    "explanation": "Phải tuân thủ quy trình bảo mật thông tin. Chỉ cung cấp thông tin khi đúng cơ quan thẩm quyền và đúng trình tự luật định."
+  },
+  {
+    "question": "Trong hợp đồng mua bán, giá trị tài sản được ghi bằng số và bằng chữ nhưng không khớp nhau. Bạn xử lý sao?",
+    "a": "Lấy giá trị bằng số.",
+    "b": "Lấy giá trị bằng chữ.",
+    "c": "Yêu cầu các bên xác nhận lại và sửa đổi nội dung cho khớp nhau.",
+    "d": "Hủy hợp đồng.",
+    "answer": "c",
+    "explanation": "Sự không thống nhất gây hiểu nhầm, bắt buộc phải làm rõ và sửa đổi để bảo đảm ý chí của các bên."
+  },
+  {
+    "question": "Một người bán đất muốn ủy quyền cho bên mua đi làm thủ tục sang tên. Bạn tư vấn gì?",
+    "a": "Đồng ý ngay vì là quyền khách hàng.",
+    "b": "Cảnh báo rủi ro về việc ủy quyền toàn bộ quyền định đoạt cho người mua, có thể dẫn đến việc họ không thanh toán đủ tiền.",
+    "c": "Công chứng ngay.",
+    "d": "Khuyên không nên làm.",
+    "answer": "b",
+    "explanation": "Đây là rủi ro pháp lý lớn nhất trong giao dịch đất đai. CCV phải tư vấn để khách hàng tự bảo vệ mình."
+  },
+  {
+    "question": "Di chúc do công chứng viên công chứng có giá trị pháp lý ra sao so với di chúc viết tay?",
+    "a": "Thấp hơn.",
+    "b": "Cao hơn vì được nhà nước ủy nhiệm xác nhận tính xác thực và tự nguyện.",
+    "c": "Bằng nhau.",
+    "d": "Không có giá trị gì.",
+    "answer": "b",
+    "explanation": "Di chúc công chứng có tính chứng cứ cao nhất, hạn chế tối đa khả năng tranh chấp về hình thức và ý chí của người lập."
+  },
+  {
+    "question": "Nếu bên bán đất là người nước ngoài, ngoài giấy tờ cá nhân, bạn cần yêu cầu thêm gì?",
+    "a": "Giấy xác nhận tình trạng hôn nhân.",
+    "b": "Giấy tờ chứng minh quyền sở hữu hợp pháp tài sản tại Việt Nam và tuân thủ các quy định về đối tượng được sở hữu nhà ở/đất ở.",
+    "c": "Hộ chiếu.",
+    "d": "Thẻ tạm trú.",
+    "answer": "b",
+    "explanation": "Người nước ngoài có điều kiện đặc thù về quyền sở hữu bất động sản tại Việt Nam, cần kiểm tra kỹ tư cách sở hữu."
+  },
+  {
+    "question": "Điều gì là quan trọng nhất để một văn bản công chứng đứng vững trước các vụ kiện tại Tòa án?",
+    "a": "Lời chứng của công chứng viên chặt chẽ.",
+    "b": "Quy trình thực hiện đúng Luật, đầy đủ chứng cứ và chữ ký các bên.",
+    "c": "Con dấu của văn phòng.",
+    "d": "Phí công chứng đã nộp.",
+    "answer": "b",
+    "explanation": "Tuân thủ quy trình (kiểm tra hồ sơ, tư vấn, xác minh ý chí) là 'lá chắn' thép bảo vệ công chứng viên và văn bản trước mọi tranh chấp."
   }
 ]
