@@ -1,5 +1,455 @@
 [
   {
+    "question": "Theo Luật Doanh nghiệp 2020, công ty hợp danh phải có tối thiểu bao nhiêu thành viên hợp danh?",
+    "a": "01 thành viên hợp danh",
+    "b": "02 thành viên hợp danh là chủ sở hữu chung",
+    "c": "03 thành viên hợp danh cùng góp vốn",
+    "d": "05 thành viên hợp danh tham gia quản lý",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 1 Điều 177 Luật Doanh nghiệp 2020, công ty hợp danh phải có ít nhất 02 thành viên hợp danh là chủ sở hữu chung của công ty."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020 Thành viên hợp danh của công ty hợp danh phải là chủ thể nào sau đây?",
+    "a": "Cá nhân có năng lực hành vi dân sự đầy đủ",
+    "b": "Tổ chức hoặc cá nhân có tư cách pháp nhân",
+    "c": "Chỉ có thể là các cá nhân là công dân Việt Nam",
+    "d": "Phải là các doanh nghiệp đã đăng ký kinh doanh",
+    "answer": "a",
+    "explanation": "Theo điểm b khoản 1 Điều 177 Luật Doanh nghiệp 2020, thành viên hợp danh phải là cá nhân."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020 Thành viên hợp danh chịu trách nhiệm về các nghĩa vụ của công ty như thế nào?",
+    "a": "Trong phạm vi số vốn đã góp vào công ty",
+    "b": "Trong phạm vi tài sản thuộc quyền sở hữu của công ty",
+    "c": "Bằng toàn bộ tài sản của mình một cách liên đới",
+    "d": "Không chịu trách nhiệm cá nhân nếu không có lỗi trực tiếp",
+    "answer": "c",
+    "explanation": "Theo điểm b khoản 1 Điều 177 Luật Doanh nghiệp 2020, thành viên hợp danh chịu trách nhiệm bằng toàn bộ tài sản của mình về các nghĩa vụ của công ty."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020 Quy định nào sau đây là chính xác đối với việc huy động vốn của công ty hợp danh?",
+    "a": "Được phát hành trái phiếu để huy động vốn dài hạn",
+    "b": "Được phát hành cổ phiếu ưu đãi cho thành viên",
+    "c": "Được phát hành chứng chỉ quỹ đầu tư",
+    "d": "Không được phát hành bất kỳ loại chứng khoán nào",
+    "answer": "d",
+    "explanation": "Theo khoản 3 Điều 177 Luật Doanh nghiệp 2020, công ty hợp danh không được phát hành bất kỳ loại chứng khoán nào."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020 Trong công ty hợp danh, nếu thành viên góp vốn không góp đủ vốn như đã cam kết thì phần vốn chưa góp được coi là:",
+    "a": "Một khoản lỗ lũy kế của công ty",
+    "b": "Một khoản nợ của thành viên đó đối với công ty",
+    "c": "Khoản chi phí phát sinh trong quản lý điều hành",
+    "d": "Phần vốn điều lệ thực tế bị giảm tương ứng",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 178 Luật Doanh nghiệp 2020, số vốn chưa góp đủ được coi là khoản nợ của thành viên góp vốn đối với công ty."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020 Tài sản nào sau đây được xác định là tài sản của công ty hợp danh?",
+    "a": "Toàn bộ tài sản thuộc sở hữu riêng của các thành viên góp vốn",
+    "b": "Tài sản tạo lập được mang tên công ty và tài sản nhận góp vốn",
+    "c": "Tài sản của người thân thành viên hợp danh khi công ty cần vốn",
+    "d": "Tất cả tài sản mà các thành viên sử dụng cho mục đích kinh doanh",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 179 Luật Doanh nghiệp 2020, tài sản tạo lập được mang tên công ty và tài sản nhận góp vốn của thành viên là tài sản của công ty hợp danh."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020 Thành viên hợp danh có quyền làm chủ doanh nghiệp tư nhân không?",
+    "a": "Được, nếu có sự đồng ý của Hội đồng thành viên",
+    "b": "Được, nếu doanh nghiệp tư nhân không kinh doanh cùng ngành nghề",
+    "c": "Không được, trừ trường hợp được sự chấp thuận của các thành viên hợp danh còn lại",
+    "d": "Không được trong mọi trường hợp",
+    "answer": "d",
+    "explanation": "Theo khoản 1 Điều 180 Luật Doanh nghiệp 2020, thành viên hợp danh không được làm chủ doanh nghiệp tư nhân."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020 Thành viên hợp danh muốn chuyển nhượng một phần hoặc toàn bộ phần vốn góp phải tuân thủ điều kiện gì?",
+    "a": "Được sự chấp thuận của các thành viên hợp danh còn lại",
+    "b": "Được sự đồng ý của Chủ tịch Hội đồng thành viên",
+    "c": "Thông báo cho thành viên góp vốn trước 30 ngày",
+    "d": "Chỉ cần thông báo bằng văn bản cho công ty",
+    "answer": "a",
+    "explanation": "Theo khoản 3 Điều 180 Luật Doanh nghiệp 2020, thành viên hợp danh không được chuyển nhượng phần vốn góp nếu không được sự chấp thuận của các thành viên hợp danh còn lại."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020 Mỗi thành viên hợp danh có bao nhiêu phiếu biểu quyết trong Hội đồng thành viên (nếu Điều lệ không quy định khác)?",
+    "a": "01 phiếu biểu quyết",
+    "b": "Số phiếu tương ứng với tỷ lệ vốn góp",
+    "c": "02 phiếu biểu quyết",
+    "d": "Số phiếu tùy thuộc vào vị trí quản lý",
+    "answer": "a",
+    "explanation": "Theo điểm a khoản 1 Điều 181 Luật Doanh nghiệp 2020, mỗi thành viên hợp danh có một phiếu biểu quyết nếu Điều lệ công ty không quy định khác."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020 Nghĩa vụ nào sau đây là trách nhiệm của thành viên hợp danh khi tài sản công ty không đủ thanh toán nợ?",
+    "a": "Chỉ phải thanh toán trong phạm vi vốn cam kết góp",
+    "b": "Liên đới thanh toán hết số nợ còn lại của công ty bằng tài sản riêng",
+    "c": "Được miễn trừ trách nhiệm nếu đã làm đúng Điều lệ",
+    "d": "Yêu cầu thành viên góp vốn thanh toán thay",
+    "answer": "b",
+    "explanation": "Theo điểm đ khoản 2 Điều 181 Luật Doanh nghiệp 2020, thành viên hợp danh phải liên đới chịu trách nhiệm thanh toán hết số nợ còn lại của công ty nếu tài sản của công ty không đủ."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020 Quyết định sửa đổi Điều lệ công ty hợp danh phải được ít nhất bao nhiêu thành viên tán thành (nếu Điều lệ không quy định khác)?",
+    "a": "Quá bán tổng số thành viên hợp danh",
+    "b": "Hai phần ba tổng số thành viên hợp danh",
+    "c": "Ba phần tư tổng số thành viên hợp danh",
+    "d": "Toàn bộ thành viên hợp danh",
+    "answer": "c",
+    "explanation": "Theo điểm b khoản 3 Điều 182 Luật Doanh nghiệp 2020, quyết định sửa đổi, bổ sung Điều lệ công ty phải được ít nhất ba phần tư tổng số thành viên hợp danh tán thành."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020 Nếu Chủ tịch Hội đồng thành viên không triệu tập họp theo yêu cầu của thành viên hợp danh thì ai có quyền triệu tập?",
+    "a": "Thành viên hợp danh yêu cầu triệu tập họp",
+    "b": "Thành viên góp vốn sở hữu trên 50% vốn",
+    "c": "Cơ quan đăng ký kinh doanh sở tại",
+    "d": "Người lao động đại diện cho tập thể công ty",
+    "answer": "a",
+    "explanation": "Theo khoản 1 Điều 183 Luật Doanh nghiệp 2020, nếu Chủ tịch Hội đồng thành viên không triệu tập họp thì thành viên hợp danh yêu cầu triệu tập có quyền tự mình triệu tập cuộc họp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020 Hạn chế đối với thành viên hợp danh trong việc thực hiện công việc kinh doanh hàng ngày chỉ có hiệu lực với bên thứ ba khi:",
+    "a": "Hạn chế đó đã được đăng trên báo công khai",
+    "b": "Người thứ ba được biết về hạn chế đó",
+    "c": "Hạn chế đó được ghi trong Giấy chứng nhận đăng ký doanh nghiệp",
+    "d": "Công ty đã gửi thông báo đến cơ quan thuế",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 184 Luật Doanh nghiệp 2020, mọi hạn chế đối với thành viên hợp danh trong việc thực hiện công việc kinh doanh hàng ngày chỉ có hiệu lực với bên thứ ba khi người đó được biết về hạn chế đó."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020 Thành viên hợp danh muốn rút vốn khỏi công ty phải thông báo bằng văn bản cho công ty chậm nhất là bao lâu?",
+    "a": "15 ngày trước ngày dự định rút vốn",
+    "b": "30 ngày trước ngày dự định rút vốn",
+    "c": "03 tháng trước ngày dự định rút vốn",
+    "d": "06 tháng trước ngày dự định rút vốn",
+    "answer": "d",
+    "explanation": "Theo khoản 2 Điều 185 Luật Doanh nghiệp 2020, thành viên hợp danh muốn rút vốn phải thông báo bằng văn bản cho công ty chậm nhất là 06 tháng trước ngày rút vốn."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020 Sau khi chấm dứt tư cách thành viên hợp danh, người đó vẫn liên đới chịu trách nhiệm về các khoản nợ của công ty trong bao lâu?",
+    "a": "06 tháng",
+    "b": "01 năm",
+    "c": "02 năm",
+    "d": "05 năm",
+    "answer": "c",
+    "explanation": "Theo khoản 5 Điều 185 Luật Doanh nghiệp 2020, sau khi chấm dứt tư cách, người đó vẫn liên đới chịu trách nhiệm đối với các khoản nợ của công ty phát sinh trước ngày chấm dứt tư cách trong thời hạn 02 năm."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020 Thành viên hợp danh mới tiếp nhận có phải chịu trách nhiệm về các khoản nợ cũ của công ty không?",
+    "a": "Không, chỉ chịu từ khi gia nhập công ty",
+    "b": "Chỉ chịu trách nhiệm nếu Điều lệ quy định",
+    "c": "Liên đới chịu trách nhiệm bằng toàn bộ tài sản của mình",
+    "d": "Chỉ chịu trách nhiệm trong phạm vi số vốn mới góp",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 186 Luật Doanh nghiệp 2020, thành viên hợp danh mới phải cùng liên đới chịu trách nhiệm bằng toàn bộ tài sản của mình đối với các khoản nợ của công ty."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020 Thành viên góp vốn trong công ty hợp danh có được nhân danh công ty để tiến hành kinh doanh không?",
+    "a": "Được phép nếu có sự ủy quyền bằng văn bản của Hội đồng thành viên",
+    "b": "Được phép nếu phần vốn góp chiếm trên 50%",
+    "c": "Không được phép",
+    "d": "Được phép nếu Điều lệ công ty quy định",
+    "answer": "c",
+    "explanation": "Theo điểm b khoản 2 Điều 187 Luật Doanh nghiệp 2020, thành viên góp vốn không được nhân danh công ty để tiến hành kinh doanh."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020 Doanh nghiệp tư nhân là loại hình doanh nghiệp do:",
+    "a": "Một tổ chức làm chủ sở hữu",
+    "b": "Một cá nhân làm chủ sở hữu",
+    "c": "Ít nhất hai cá nhân làm chủ sở hữu",
+    "d": "Hộ gia đình làm chủ sở hữu",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 188 Luật Doanh nghiệp 2020, doanh nghiệp tư nhân là doanh nghiệp do một cá nhân làm chủ sở hữu."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020 Chủ doanh nghiệp tư nhân chịu trách nhiệm về mọi hoạt động của doanh nghiệp như thế nào?",
+    "a": "Trong phạm vi vốn đầu tư đã đăng ký",
+    "b": "Trong phạm vi tài sản của doanh nghiệp",
+    "c": "Bằng toàn bộ tài sản của mình",
+    "d": "Theo tỷ lệ cổ phần nắm giữ",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 188 Luật Doanh nghiệp 2020, chủ doanh nghiệp tư nhân tự chịu trách nhiệm bằng toàn bộ tài sản của mình về mọi hoạt động của doanh nghiệp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020 Mỗi cá nhân được quyền thành lập bao nhiêu doanh nghiệp tư nhân?",
+    "a": "Không hạn chế",
+    "b": "02 doanh nghiệp",
+    "c": "01 doanh nghiệp",
+    "d": "03 doanh nghiệp",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 188 Luật Doanh nghiệp 2020, mỗi cá nhân chỉ được quyền thành lập một doanh nghiệp tư nhân."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020 Doanh nghiệp tư nhân có được quyền góp vốn thành lập công ty cổ phần không?",
+    "a": "Được quyền góp vốn và mua cổ phần",
+    "b": "Được nếu có sự đồng ý của cơ quan đăng ký kinh doanh",
+    "c": "Không được",
+    "d": "Được nếu không tham gia quản lý công ty",
+    "answer": "c",
+    "explanation": "Theo khoản 4 Điều 188 Luật Doanh nghiệp 2020, doanh nghiệp tư nhân không được góp vốn thành lập hoặc mua cổ phần, phần vốn góp trong công ty hợp danh, công ty trách nhiệm hữu hạn hoặc công ty cổ phần."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020 Khi giảm vốn đầu tư xuống thấp hơn mức vốn đã đăng ký, chủ doanh nghiệp tư nhân phải làm gì?",
+    "a": "Tự ý giảm và không cần thông báo",
+    "b": "Đăng ký với Cơ quan đăng ký kinh doanh",
+    "c": "Thông báo cho cơ quan thuế",
+    "d": "Chỉ cần ghi chú trong sổ sách kế toán",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 189 Luật Doanh nghiệp 2020, chủ doanh nghiệp tư nhân chỉ được giảm vốn đầu tư sau khi đã đăng ký với Cơ quan đăng ký kinh doanh."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020 Khi chủ doanh nghiệp tư nhân thuê người khác làm Giám đốc quản lý, thì ai chịu trách nhiệm về hoạt động kinh doanh?",
+    "a": "Người được thuê làm Giám đốc",
+    "b": "Chủ doanh nghiệp tư nhân",
+    "c": "Cơ quan thuế quản lý trực tiếp",
+    "d": "Cả Giám đốc thuê ngoài và chủ doanh nghiệp",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 190 Luật Doanh nghiệp 2020, chủ doanh nghiệp tư nhân vẫn phải chịu trách nhiệm về mọi hoạt động kinh doanh của doanh nghiệp."
+  },
+{
+  "question": "Theo Luật Doanh nghiệp 2020 A là thành viên hợp danh của Công ty X, đã chấm dứt tư cách thành viên được 01 năm. Sau đó phát sinh tranh chấp khoản nợ của công ty được xác lập trước thời điểm A rút khỏi công ty. A có phải chịu trách nhiệm không?",
+  "a": "Không, vì đã chấm dứt tư cách thành viên",
+  "b": "Chỉ chịu trong phạm vi vốn góp",
+  "c": "Vẫn phải liên đới chịu trách nhiệm bằng toàn bộ tài sản",
+  "d": "Chỉ chịu nếu Hội đồng thành viên đồng ý",
+  "answer": "c",
+  "explanation": "Khoản 5 Điều 185 quy định trong thời hạn 02 năm kể từ ngày chấm dứt tư cách thành viên hợp danh, người đó vẫn phải liên đới chịu trách nhiệm bằng toàn bộ tài sản của mình đối với các khoản nợ phát sinh trước ngày chấm dứt tư cách."
+},
+{
+  "question": "Theo Luật Doanh nghiệp 2020 Thành viên góp vốn của công ty hợp danh có được nhân danh cá nhân kinh doanh cùng ngành nghề với công ty hay không?",
+  "a": "Không được",
+  "b": "Chỉ được khi Hội đồng thành viên chấp thuận",
+  "c": "Được",
+  "d": "Chỉ được nếu không cạnh tranh",
+  "answer": "c",
+  "explanation": "Điểm đ khoản 1 Điều 187 cho phép thành viên góp vốn nhân danh cá nhân hoặc người khác tiến hành kinh doanh ngành, nghề kinh doanh của công ty."
+},
+{
+  "question": "Theo Luật Doanh nghiệp 2020 Hạn chế đối với thành viên hợp danh trong thực hiện công việc kinh doanh hằng ngày của công ty có hiệu lực với bên thứ ba khi nào?",
+  "a": "Ngay khi Điều lệ quy định",
+  "b": "Ngay khi Hội đồng thành viên quyết định",
+  "c": "Khi được đăng ký kinh doanh",
+  "d": "Khi bên thứ ba biết về hạn chế đó",
+  "answer": "d",
+  "explanation": "Khoản 1 Điều 184 quy định mọi hạn chế đối với thành viên hợp danh chỉ có hiệu lực đối với bên thứ ba khi người đó được biết về hạn chế."
+},
+{
+  "question": "Theo Luật Doanh nghiệp 2020 Chủ doanh nghiệp tư nhân cho thuê doanh nghiệp của mình thì trong thời gian cho thuê, ai vẫn phải chịu trách nhiệm trước pháp luật với tư cách chủ sở hữu?",
+  "a": "Người thuê",
+  "b": "Cả hai liên đới",
+  "c": "Chủ doanh nghiệp tư nhân",
+  "d": "Cơ quan đăng ký kinh doanh",
+  "answer": "c",
+  "explanation": "Điều 191 quy định trong thời hạn cho thuê, chủ doanh nghiệp tư nhân vẫn phải chịu trách nhiệm trước pháp luật với tư cách chủ sở hữu doanh nghiệp."
+},
+  {
+    "question": "Theo Luật Doanh nghiệp 2020 Thời hạn thông báo cho cơ quan đăng ký kinh doanh khi cho thuê doanh nghiệp tư nhân là bao lâu?",
+    "a": "01 ngày làm việc",
+    "b": "03 ngày làm việc",
+    "c": "07 ngày làm việc",
+    "d": "10 ngày làm việc",
+    "answer": "b",
+    "explanation": "Theo Điều 191 Luật Doanh nghiệp 2020, chủ doanh nghiệp tư nhân phải thông báo bằng văn bản cho cơ quan đăng ký kinh doanh trong thời hạn 03 ngày làm việc kể từ ngày hợp đồng cho thuê có hiệu lực."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020 Sau khi bán doanh nghiệp tư nhân, chủ cũ có còn chịu trách nhiệm về khoản nợ phát sinh trước ngày chuyển giao không?",
+    "a": "Không, trách nhiệm chuyển hoàn toàn sang chủ mới",
+    "b": "Có, trừ khi có thỏa thuận khác giữa chủ cũ và chủ mới",
+    "c": "Có, nhưng chỉ trong thời hạn 01 năm",
+    "d": "Không, nếu khoản nợ chưa đến hạn",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 192 Luật Doanh nghiệp 2020, chủ doanh nghiệp tư nhân vẫn phải chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản khác của doanh nghiệp phát sinh trước ngày chuyển giao, trừ trường hợp có thỏa thuận khác."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020 Nếu chủ doanh nghiệp tư nhân chết mà người thừa kế không thỏa thuận được người làm chủ thì xử lý thế nào?",
+    "a": "Doanh nghiệp tự động chấm dứt hoạt động",
+    "b": "Đăng ký chuyển đổi thành công ty hoặc giải thể doanh nghiệp",
+    "c": "Nhà nước thu hồi giấy chứng nhận đăng ký doanh nghiệp",
+    "d": "Tòa án chỉ định người quản lý doanh nghiệp",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 193 Luật Doanh nghiệp 2020, nếu những người thừa kế không thỏa thuận được người làm chủ doanh nghiệp thì đăng ký chuyển đổi thành công ty hoặc giải thể doanh nghiệp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, thành viên hợp danh A tự ý nhân danh cá nhân kinh doanh cùng ngành nghề với công ty hợp danh để thu lợi riêng mà không được các thành viên còn lại đồng ý. A đã vi phạm quy định nào?",
+    "a": "Không vi phạm vì quyền tự do kinh doanh",
+    "b": "Vi phạm hạn chế đối với thành viên hợp danh",
+    "c": "Chỉ vi phạm nếu gây ra thiệt hại thực tế cho công ty",
+    "d": "Chỉ vi phạm nội quy của Điều lệ công ty",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 180 Luật Doanh nghiệp 2020, thành viên hợp danh không được nhân danh cá nhân hoặc nhân danh người khác kinh doanh cùng ngành nghề của công ty để tư lợi."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, B là thành viên góp vốn của công ty hợp danh nhưng tham gia ký hợp đồng nhân danh công ty với khách hàng. Nhận định nào sau đây là đúng?",
+    "a": "Được phép nếu góp vốn trên 50% vốn điều lệ",
+    "b": "Được phép nếu có sự đồng ý của Chủ tịch Hội đồng thành viên",
+    "c": "Không được vì thành viên góp vốn không được tiến hành công việc kinh doanh nhân danh công ty",
+    "d": "Chỉ bị cấm ký hợp đồng trong lĩnh vực tài chính",
+    "answer": "c",
+    "explanation": "Theo điểm b khoản 2 Điều 187 Luật Doanh nghiệp 2020, thành viên góp vốn không được tiến hành công việc kinh doanh nhân danh công ty."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, ai có quyền yêu cầu triệu tập họp Hội đồng thành viên trong công ty hợp danh?",
+    "a": "Chỉ Chủ tịch Hội đồng thành viên",
+    "b": "Mọi người lao động trong công ty",
+    "c": "Thành viên hợp danh",
+    "d": "Chỉ thành viên góp vốn",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 182 Luật Doanh nghiệp 2020, thành viên hợp danh có quyền yêu cầu triệu tập họp Hội đồng thành viên."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, quyết định giải thể công ty hợp danh phải được ít nhất bao nhiêu thành viên hợp danh tán thành (nếu Điều lệ không quy định khác)?",
+    "a": "Quá bán tổng số thành viên hợp danh",
+    "b": "Hai phần ba tổng số thành viên hợp danh",
+    "c": "Ba phần tư tổng số thành viên hợp danh",
+    "d": "Một trăm phần trăm tổng số thành viên hợp danh",
+    "answer": "c",
+    "explanation": "Theo điểm i khoản 3 Điều 182 Luật Doanh nghiệp 2020, quyết định giải thể phải được ít nhất ba phần tư tổng số thành viên hợp danh tán thành."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, thông báo mời họp Hội đồng thành viên công ty hợp danh bắt buộc phải có nội dung nào sau đây?",
+    "a": "Mức lương dự kiến của các thành viên",
+    "b": "Mục đích, yêu cầu và nội dung họp",
+    "c": "Ý kiến dự kiến của Chủ tịch Hội đồng thành viên",
+    "d": "Phương án chia tài sản khi công ty giải thể",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 183 Luật Doanh nghiệp 2020, thông báo mời họp phải nêu rõ mục đích, yêu cầu và nội dung họp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, hoạt động do thành viên hợp danh thực hiện ngoài phạm vi hoạt động kinh doanh của công ty thì công ty có phải chịu trách nhiệm không?",
+    "a": "Luôn phải chịu trách nhiệm nếu giao dịch đã hoàn thành",
+    "b": "Không, trừ trường hợp được các thành viên còn lại chấp thuận",
+    "c": "Có nếu thành viên đó đang giữ chức Chủ tịch Hội đồng thành viên",
+    "d": "Có nếu giao dịch mang lại lợi nhuận cho công ty",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 184 Luật Doanh nghiệp 2020, hoạt động ngoài phạm vi kinh doanh không thuộc trách nhiệm của công ty, trừ trường hợp được các thành viên còn lại chấp thuận."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, nếu thành viên hợp danh A bị Tòa án cấm hành nghề theo quy định pháp luật, hậu quả pháp lý nào xảy ra?",
+    "a": "A tự động trở thành thành viên góp vốn",
+    "b": "A bị chấm dứt tư cách thành viên hợp danh",
+    "c": "A chỉ bị đình chỉ quyền biểu quyết trong 01 năm",
+    "d": "Tư cách thành viên của A không bị ảnh hưởng",
+    "answer": "b",
+    "explanation": "Theo điểm d khoản 1 Điều 185 Luật Doanh nghiệp 2020, thành viên hợp danh bị chấm dứt tư cách khi bị Tòa án cấm hành nghề hoặc làm công việc nhất định."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, thành viên hợp danh muốn rút vốn khỏi công ty nhưng chưa được Hội đồng thành viên chấp thuận thì có được rút không?",
+    "a": "Được tự do rút vốn theo quyền cá nhân",
+    "b": "Được rút nếu báo trước cho công ty 30 ngày",
+    "c": "Không được rút",
+    "d": "Được rút nếu có thành viên mới thay thế",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 185 Luật Doanh nghiệp 2020, thành viên hợp danh chỉ được rút vốn nếu được Hội đồng thành viên chấp thuận."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, thành viên hợp danh bị khai trừ khỏi công ty khi nào?",
+    "a": "Không tham gia các cuộc họp Hội đồng thành viên",
+    "b": "Không góp đủ vốn sau khi công ty yêu cầu lần thứ hai",
+    "c": "Có tranh chấp dân sự liên quan đến cá nhân",
+    "d": "Không đồng ý với quyết định sửa đổi Điều lệ",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 3 Điều 185 Luật Doanh nghiệp 2020, thành viên hợp danh bị khai trừ nếu không góp đủ vốn sau khi công ty yêu cầu lần thứ hai."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, sau khi chấm dứt tư cách thành viên hợp danh, người đó có quyền yêu cầu công ty chấm dứt sử dụng tên mình trong tên công ty không?",
+    "a": "Không có quyền",
+    "b": "Có quyền yêu cầu",
+    "c": "Chỉ khi có tranh chấp phát sinh",
+    "d": "Chỉ khi Tòa án quyết định cho phép",
+    "answer": "b",
+    "explanation": "Theo khoản 6 Điều 185 Luật Doanh nghiệp 2020, người đó hoặc người thừa kế có quyền yêu cầu công ty chấm dứt việc sử dụng tên của mình trong tên công ty."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, thành viên mới được tiếp nhận vào công ty hợp danh phải góp đủ vốn cam kết trong thời hạn bao lâu (nếu Hội đồng thành viên không quyết định khác)?",
+    "a": "07 ngày",
+    "b": "10 ngày",
+    "c": "15 ngày",
+    "d": "30 ngày",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 186 Luật Doanh nghiệp 2020, thời hạn góp vốn là 15 ngày kể từ ngày được chấp thuận."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, người thừa kế của thành viên góp vốn đã chết có trở thành thành viên góp vốn của công ty hợp danh không?",
+    "a": "Không",
+    "b": "Có, nếu được Hội đồng thành viên chấp thuận",
+    "c": "Có",
+    "d": "Không, chỉ được nhận lại phần tiền vốn góp",
+    "answer": "c",
+    "explanation": "Theo điểm e khoản 1 Điều 187 Luật Doanh nghiệp 2020, người thừa kế thay thế thành viên đã chết trở thành thành viên góp vốn."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, thành viên góp vốn có quyền biểu quyết tại Hội đồng thành viên về vấn đề nào sau đây?",
+    "a": "Mọi hoạt động kinh doanh hằng ngày của công ty",
+    "b": "Sửa đổi, bổ sung quyền và nghĩa vụ của thành viên góp vốn",
+    "c": "Ký kết hợp đồng với các khách hàng lớn",
+    "d": "Phân công công việc cho các thành viên hợp danh",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 1 Điều 187 Luật Doanh nghiệp 2020, thành viên góp vốn được biểu quyết về sửa đổi quyền và nghĩa vụ của mình."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, chủ doanh nghiệp tư nhân có quyền phát hành trái phiếu để huy động vốn không?",
+    "a": "Có quyền phát hành",
+    "b": "Có nếu đăng ký với Sở Kế hoạch và Đầu tư",
+    "c": "Có nếu được cơ quan thuế chấp thuận",
+    "d": "Không được quyền phát hành",
+    "answer": "d",
+    "explanation": "Theo khoản 2 Điều 188 Luật Doanh nghiệp 2020, doanh nghiệp tư nhân không được phát hành bất kỳ loại chứng khoán nào."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, một cá nhân đang là chủ hộ kinh doanh có được đồng thời là chủ doanh nghiệp tư nhân không?",
+    "a": "Được phép",
+    "b": "Không được phép",
+    "c": "Được nếu kinh doanh khác ngành nghề",
+    "d": "Được nếu doanh nghiệp tư nhân có dưới 10 lao động",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 188 Luật Doanh nghiệp 2020, chủ doanh nghiệp tư nhân không được đồng thời là chủ hộ kinh doanh."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, vốn vay và tài sản thuê dùng cho hoạt động kinh doanh của doanh nghiệp tư nhân có phải ghi vào sổ kế toán và báo cáo tài chính không?",
+    "a": "Không cần ghi",
+    "b": "Chỉ ghi các khoản vốn vay",
+    "c": "Chỉ ghi các loại tài sản đi thuê",
+    "d": "Có, phải ghi đầy đủ",
+    "answer": "d",
+    "explanation": "Theo khoản 2 Điều 189 Luật Doanh nghiệp 2020, toàn bộ vốn và tài sản kể cả vốn vay và tài sản thuê phải được ghi chép đầy đủ vào sổ kế toán và báo cáo tài chính."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, chủ doanh nghiệp tư nhân thuê người khác làm Giám đốc, nếu người được thuê gây thiệt hại trong hoạt động kinh doanh thì ai chịu trách nhiệm chính?",
+    "a": "Người được thuê làm Giám đốc",
+    "b": "Chủ doanh nghiệp tư nhân",
+    "c": "Cơ quan đăng ký kinh doanh",
+    "d": "Tất cả người lao động liên quan",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 190 Luật Doanh nghiệp 2020, chủ doanh nghiệp tư nhân vẫn phải chịu trách nhiệm về mọi hoạt động kinh doanh của doanh nghiệp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, hợp đồng cho thuê doanh nghiệp tư nhân phải được thông báo đến cơ quan quản lý trong thời hạn nào?",
+    "a": "01 ngày làm việc",
+    "b": "03 ngày làm việc",
+    "c": "07 ngày làm việc",
+    "d": "10 ngày làm việc",
+    "answer": "b",
+    "explanation": "Theo Điều 191 Luật Doanh nghiệp 2020, phải thông báo bằng văn bản đến cơ quan đăng ký kinh doanh và cơ quan thuế trong thời hạn 03 ngày làm việc."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, sau khi bán doanh nghiệp tư nhân, ai có nghĩa vụ đăng ký thay đổi chủ doanh nghiệp tư nhân?",
+    "a": "Người bán doanh nghiệp",
+    "b": "Người mua doanh nghiệp",
+    "c": "Cả hai bên cùng thực hiện",
+    "d": "Cơ quan thuế",
+    "answer": "b",
+    "explanation": "Theo khoản 4 Điều 192 Luật Doanh nghiệp 2020, người mua doanh nghiệp tư nhân phải thực hiện thủ tục đăng ký thay đổi chủ doanh nghiệp tư nhân."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, trường hợp chủ doanh nghiệp tư nhân chết mà những người thừa kế không thỏa thuận được người tiếp tục làm chủ thì xử lý thế nào?",
+    "a": "Doanh nghiệp tự động chấm dứt hoạt động",
+    "b": "Nhà nước tiếp quản tài sản doanh nghiệp",
+    "c": "Đăng ký chuyển đổi thành công ty hoặc giải thể doanh nghiệp",
+    "d": "Tòa án chỉ định người làm chủ doanh nghiệp",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 193 Luật Doanh nghiệp 2020, nếu không thỏa thuận được thì thực hiện thủ tục đăng ký chuyển đổi thành công ty hoặc giải thể doanh nghiệp."
+  },
+  {
     "question": "Theo Luật Doanh nghiệp 2020, thời điểm người mua cổ phần trở thành cổ đông của công ty là khi nào?",
     "a": "Khi nhận được thông báo cấp cổ phiếu từ công ty",
     "b": "Khi ký hợp đồng mua cổ phần và hoàn thành việc thanh toán",
