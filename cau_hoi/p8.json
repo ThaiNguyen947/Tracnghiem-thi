@@ -1,5 +1,203 @@
 [
    {
+  "question": "Theo Luật KDBĐS 2023, hệ thống thông tin về nhà ở và thị trường bất động sản được xây dựng theo nguyên tắc nào sau đây?",
+  "a": "Phân tán theo từng địa phương, không cần kết nối",
+  "b": "Tập trung, thống nhất trên toàn quốc và có kết nối liên thông dữ liệu",
+  "c": "Do doanh nghiệp bất động sản tự xây dựng và vận hành",
+  "d": "Chỉ phục vụ cơ quan thuế",
+  "answer": "b",
+  "explanation": "Điều 71 quy định hệ thống thông tin được xây dựng tập trung, thống nhất, có kết nối chia sẻ dữ liệu với cơ sở dữ liệu quốc gia và các bộ ngành."
+},
+{
+  "question": "Theo Luật KDBĐS 2023, cơ sở dữ liệu về nhà ở và thị trường bất động sản bao gồm nội dung nào sau đây?",
+  "a": "Cơ sở dữ liệu về đăng ký xe cơ giới",
+  "b": "Cơ sở dữ liệu về thuế thu nhập cá nhân",
+  "c": "Cơ sở dữ liệu về giao dịch, giá trị giao dịch bất động sản và hợp đồng kinh doanh BĐS",
+  "d": "Cơ sở dữ liệu về hộ tịch",
+  "answer": "c",
+  "explanation": "Điều 73 quy định cơ sở dữ liệu bao gồm thông tin về giao dịch, giá trị giao dịch, hợp đồng kinh doanh BĐS."
+},
+{
+  "question": "Theo Luật KDBĐS 2023, Bộ Xây dựng có trách nhiệm nào sau đây trong hệ thống thông tin về nhà ở và thị trường bất động sản?",
+  "a": "Cấp giấy chứng nhận quyền sử dụng đất",
+  "b": "Quản lý, vận hành hệ thống và công bố thông tin thị trường BĐS",
+  "c": "Thu thuế chuyển nhượng bất động sản",
+  "d": "Phê duyệt hợp đồng mua bán nhà ở",
+  "answer": "b",
+  "explanation": "Điều 74 quy định Bộ Xây dựng tổ chức xây dựng, quản lý, vận hành hệ thống và công bố thông tin thị trường BĐS."
+},
+{
+  "question": "Theo Luật KDBĐS 2023, Nhà nước điều tiết thị trường bất động sản trong trường hợp nào sau đây?",
+  "a": "Khi giá bất động sản tăng nhẹ",
+  "b": "Khi thị trường có diễn biến phức tạp ảnh hưởng đến ổn định kinh tế - xã hội",
+  "c": "Khi doanh nghiệp muốn tăng giá bán",
+  "d": "Khi người dân có nhu cầu mua nhà",
+  "answer": "b",
+  "explanation": "Điều 77 quy định Nhà nước điều tiết khi thị trường có diễn biến phức tạp ảnh hưởng ổn định kinh tế - xã hội."
+},
+{
+  "question": "Theo Luật KDBĐS 2023, hợp đồng kinh doanh bất động sản đã xác lập trước khi luật có hiệu lực thì xử lý thế nào?",
+  "a": "Tự động vô hiệu",
+  "b": "Phải ký lại toàn bộ theo luật mới",
+  "c": "Tiếp tục thực hiện theo luật cũ, trừ trường hợp sửa đổi thì áp dụng luật mới",
+  "d": "Bắt buộc công chứng lại",
+  "answer": "c",
+  "explanation": "Điều 83 quy định hợp đồng đã xác lập trước ngày luật có hiệu lực thì tiếp tục thực hiện theo luật cũ, nếu sửa đổi sau đó thì áp dụng luật mới."
+},
+  {
+    "question": "Doanh nghiệp kinh doanh bất động sản phải đáp ứng điều kiện nào sau đây?",
+    "a": "Không cần vốn pháp định",
+    "b": "Phải thành lập hợp tác xã",
+    "c": "Phải có vốn chủ sở hữu theo quy định và đăng ký ngành nghề kinh doanh bất động sản",
+    "d": "Chỉ cần cá nhân đứng tên là đủ",
+    "answer": "c",
+    "explanation": "Doanh nghiệp phải có vốn chủ sở hữu đáp ứng mức tối thiểu theo quy định và đăng ký ngành nghề kinh doanh bất động sản mới được hoạt động hợp pháp."
+  },
+  {
+    "question": "Điều kiện để dự án bất động sản được đưa vào kinh doanh là gì?",
+    "a": "Chỉ cần có quy hoạch",
+    "b": "Phải hoàn thành toàn bộ dự án",
+    "c": "Phải đáp ứng điều kiện pháp lý về đất đai, hồ sơ dự án và hạ tầng kỹ thuật theo yêu cầu",
+    "d": "Chỉ cần chủ đầu tư đồng ý",
+    "answer": "c",
+    "explanation": "Dự án chỉ được đưa vào kinh doanh khi đã hoàn thiện điều kiện pháp lý cơ bản như quyền sử dụng đất hợp pháp, hồ sơ dự án đầy đủ và hạ tầng kỹ thuật theo quy định."
+  },
+  {
+    "question": "Sàn giao dịch bất động sản được phép thực hiện hoạt động nào sau đây?",
+    "a": "Cấp sổ đỏ cho khách hàng",
+    "b": "Kiểm tra pháp lý bất động sản và hỗ trợ giao dịch",
+    "c": "Thu thuế thay Nhà nước",
+    "d": "Phê duyệt dự án đầu tư",
+    "answer": "b",
+    "explanation": "Sàn giao dịch có chức năng kiểm tra tính pháp lý, niêm yết thông tin và hỗ trợ giao dịch, không có quyền cấp giấy tờ nhà đất hoặc phê duyệt dự án."
+  },
+  {
+    "question": "Cá nhân môi giới bất động sản phải đáp ứng điều kiện nào sau đây?",
+    "a": "Không cần chứng chỉ hành nghề",
+    "b": "Chỉ cần kinh nghiệm thực tế",
+    "c": "Phải có chứng chỉ hành nghề môi giới bất động sản và làm việc trong doanh nghiệp",
+    "d": "Chỉ cần đăng ký online",
+    "answer": "c",
+    "explanation": "Cá nhân môi giới phải có chứng chỉ hành nghề và phải hành nghề thông qua doanh nghiệp kinh doanh dịch vụ bất động sản."
+  },
+  {
+    "question": "Hợp đồng kinh doanh bất động sản được ký khi nào?",
+    "a": "Khi bất động sản chưa đủ điều kiện kinh doanh",
+    "b": "Khi các bên tự thỏa thuận không cần điều kiện",
+    "c": "Khi bất động sản hoặc dự án đã đủ điều kiện đưa vào kinh doanh",
+    "d": "Chỉ cần đặt cọc là ký được",
+    "answer": "c",
+    "explanation": "Hợp đồng chỉ được ký khi bất động sản hoặc dự án đã đáp ứng đầy đủ điều kiện pháp lý để đưa vào kinh doanh."
+  },
+  {
+    "question": "Sàn giao dịch bất động sản có nghĩa vụ nào sau đây?",
+    "a": "Được quyền giữ tiền của khách hàng vô thời hạn",
+    "b": "Niêm yết thông tin trung thực và chịu trách nhiệm về thông tin cung cấp",
+    "c": "Tự ý nâng giá bất động sản",
+    "d": "Không cần báo cáo cơ quan nhà nước",
+    "answer": "b",
+    "explanation": "Sàn giao dịch phải cung cấp thông tin trung thực, minh bạch và chịu trách nhiệm về nội dung đã niêm yết."
+  },
+  {
+    "question": "Cá nhân môi giới bất động sản được hoạt động hợp pháp khi nào?",
+    "a": "Khi tự giao dịch không cần tổ chức",
+    "b": "Khi có chứng chỉ hành nghề và làm việc trong doanh nghiệp kinh doanh dịch vụ bất động sản",
+    "c": "Khi có hợp đồng viết tay",
+    "d": "Khi có tài khoản ngân hàng",
+    "answer": "b",
+    "explanation": "Cá nhân môi giới chỉ được hành nghề khi có chứng chỉ và hoạt động thông qua doanh nghiệp theo quy định."
+  },
+  {
+    "question": "Doanh nghiệp kinh doanh bất động sản phải đáp ứng điều kiện nào sau đây?",
+    "a": "Không cần vốn pháp định",
+    "b": "Phải thành lập hợp tác xã",
+    "c": "Phải có vốn chủ sở hữu theo quy định và đăng ký ngành nghề kinh doanh bất động sản",
+    "d": "Chỉ cần cá nhân đứng tên là đủ",
+    "answer": "c",
+    "explanation": "Doanh nghiệp phải có vốn chủ sở hữu đáp ứng mức tối thiểu theo quy định và đăng ký ngành nghề kinh doanh bất động sản mới được hoạt động hợp pháp."
+  },
+  {
+    "question": "Điều kiện để dự án bất động sản được đưa vào kinh doanh là gì?",
+    "a": "Chỉ cần có quy hoạch",
+    "b": "Phải hoàn thành toàn bộ dự án",
+    "c": "Phải đáp ứng điều kiện pháp lý về đất đai, hồ sơ dự án và hạ tầng kỹ thuật theo yêu cầu",
+    "d": "Chỉ cần chủ đầu tư đồng ý",
+    "answer": "c",
+    "explanation": "Dự án chỉ được đưa vào kinh doanh khi đã đáp ứng đầy đủ điều kiện pháp lý như quyền sử dụng đất hợp pháp, hồ sơ dự án và hạ tầng kỹ thuật."
+  },
+  {
+    "question": "Sàn giao dịch bất động sản được phép thực hiện hoạt động nào sau đây?",
+    "a": "Cấp sổ đỏ cho khách hàng",
+    "b": "Kiểm tra pháp lý bất động sản và hỗ trợ giao dịch",
+    "c": "Thu thuế thay Nhà nước",
+    "d": "Phê duyệt dự án đầu tư",
+    "answer": "b",
+    "explanation": "Sàn giao dịch có chức năng kiểm tra pháp lý, niêm yết thông tin và hỗ trợ giao dịch, không có thẩm quyền cấp giấy tờ hay phê duyệt dự án."
+  },
+  {
+    "question": "Cá nhân môi giới bất động sản phải đáp ứng điều kiện nào sau đây?",
+    "a": "Không cần chứng chỉ hành nghề",
+    "b": "Chỉ cần kinh nghiệm thực tế",
+    "c": "Phải có chứng chỉ hành nghề và làm việc trong doanh nghiệp kinh doanh dịch vụ bất động sản",
+    "d": "Chỉ cần đăng ký online",
+    "answer": "c",
+    "explanation": "Cá nhân môi giới phải có chứng chỉ hành nghề và phải hành nghề thông qua doanh nghiệp."
+  },
+  {
+    "question": "Hợp đồng kinh doanh bất động sản được ký khi nào?",
+    "a": "Khi bất động sản chưa đủ điều kiện",
+    "b": "Khi các bên tự thỏa thuận",
+    "c": "Khi bất động sản hoặc dự án đã đủ điều kiện đưa vào kinh doanh",
+    "d": "Chỉ cần đặt cọc là ký được",
+    "answer": "c",
+    "explanation": "Hợp đồng chỉ được ký khi bất động sản hoặc dự án đã đáp ứng điều kiện pháp lý để đưa vào kinh doanh."
+  },
+  {
+    "question": "Cá nhân môi giới bất động sản có được hành nghề độc lập không?",
+    "a": "Có, nếu có kinh nghiệm",
+    "b": "Có, nếu tự đăng ký thuế",
+    "c": "Không, phải hành nghề trong doanh nghiệp kinh doanh dịch vụ bất động sản",
+    "d": "Có, nếu có giấy phép kinh doanh",
+    "answer": "c",
+    "explanation": "Cá nhân môi giới không được hành nghề độc lập mà phải làm việc trong doanh nghiệp hoặc sàn giao dịch."
+  },
+  {
+    "question": "Sàn giao dịch bất động sản có nghĩa vụ nào sau đây?",
+    "a": "Được quyền giữ tiền khách hàng vô thời hạn",
+    "b": "Niêm yết thông tin trung thực và chịu trách nhiệm về thông tin cung cấp",
+    "c": "Tự ý nâng giá bất động sản",
+    "d": "Không cần báo cáo cơ quan nhà nước",
+    "answer": "b",
+    "explanation": "Sàn giao dịch phải cung cấp thông tin trung thực, minh bạch và chịu trách nhiệm về nội dung niêm yết."
+  },
+  {
+    "question": "Doanh nghiệp môi giới bất động sản phải có tối thiểu bao nhiêu người có chứng chỉ hành nghề?",
+    "a": "0 người",
+    "b": "1 người",
+    "c": "3 người",
+    "d": "5 người",
+    "answer": "b",
+    "explanation": "Doanh nghiệp môi giới bất động sản bắt buộc phải có ít nhất 01 người có chứng chỉ hành nghề để đủ điều kiện hoạt động."
+  },
+  {
+    "question": "Cá nhân môi giới có chứng chỉ nhưng chưa làm việc trong doanh nghiệp thì có được hành nghề không?",
+    "a": "Có, vì đã có chứng chỉ",
+    "b": "Có, nếu tự chịu trách nhiệm",
+    "c": "Không, vì phải hành nghề trong doanh nghiệp hoặc sàn giao dịch",
+    "d": "Có, nếu đăng ký thuế cá nhân",
+    "answer": "c",
+    "explanation": "Cá nhân môi giới bắt buộc phải hành nghề trong doanh nghiệp hoặc sàn giao dịch, không được hành nghề độc lập."
+  },
+  {
+    "question": "Sàn giao dịch bất động sản có được quyền nào sau đây?",
+    "a": "Cấp giấy chứng nhận quyền sử dụng đất",
+    "b": "Xác nhận giao dịch bất động sản qua sàn",
+    "c": "Quyết định giá bán bất động sản",
+    "d": "Phê duyệt dự án đầu tư",
+    "answer": "b",
+    "explanation": "Sàn giao dịch chỉ có quyền xác nhận giao dịch qua sàn, không có thẩm quyền cấp giấy tờ hay quyết định giá."
+  },
+   {
     "question": "Theo Luật KDBĐS 2023, trong thời hạn bao lâu kể từ ngày nhận đủ hồ sơ hợp lệ, UBND cấp tỉnh phải tổ chức thẩm định và trình Thủ tướng Chính phủ quyết định cho phép chuyển nhượng dự án bất động sản thuộc thẩm quyền của Thủ tướng?",
     "a": "30 ngày làm việc",
     "b": "45 ngày làm việc",
