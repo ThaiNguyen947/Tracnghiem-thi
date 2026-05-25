@@ -1,5 +1,212 @@
 [
   {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, tổ chức, cá nhân có quyền thành lập và quản lý doanh nghiệp tại Việt Nam trong trường hợp nào?",
+    "a": "Chỉ khi được cơ quan đăng ký kinh doanh chấp thuận văn bản đặc biệt",
+    "b": "Trong mọi trường hợp, trừ khi là người nước ngoài không có giấy phép cư trú",
+    "c": "Theo quy định của Luật Doanh nghiệp, trừ các trường hợp pháp luật cấm",
+    "d": "Chỉ công dân Việt Nam có đầy đủ năng lực hành vi dân sự mới có quyền thành lập",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 17 quy định tổ chức, cá nhân có quyền thành lập và quản lý doanh nghiệp, trừ trường hợp quy định tại khoản 2 Điều này."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, cán bộ, công chức, viên chức có quyền thành lập và quản lý doanh nghiệp tại Việt Nam hay không?",
+    "a": "Có, nếu hoạt động kinh doanh đó không liên quan đến phạm vi quản lý nhà nước của họ",
+    "b": "Chỉ được góp vốn với tư cách là cổ đông, thành viên góp vốn nhưng không được tham gia quản lý",
+    "c": "Không có quyền thành lập và quản lý doanh nghiệp",
+    "d": "Được phép nếu có sự đồng ý bằng văn bản của cơ quan chủ quản hoặc người đứng đầu đơn vị",
+    "answer": "c",
+    "explanation": "Điểm b khoản 2 Điều 17 quy định cán bộ, công chức, viên chức không có quyền thành lập và quản lý doanh nghiệp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, sĩ quan Quân đội nhân dân Việt Nam có được quyền thành lập và quản lý doanh nghiệp không?",
+    "a": "Được quyền thành lập nếu doanh nghiệp đó hoạt động trong lĩnh vực quốc phòng, an ninh",
+    "b": "Không, trừ trường hợp được cử làm đại diện theo ủy quyền để quản lý phần vốn góp của Nhà nước",
+    "c": "Có quyền thành lập nếu doanh nghiệp đó hoạt động theo mô hình phi lợi nhuận",
+    "d": "Có quyền thành lập nếu đã được sự cho phép của Bộ Quốc phòng thông qua hợp đồng thành lập",
+    "answer": "b",
+    "explanation": "Điểm c khoản 2 Điều 17 quy định sĩ quan, quân nhân chuyên nghiệp không được thành lập và quản lý doanh nghiệp, trừ trường hợp được cử đại diện quản lý vốn Nhà nước."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, người chưa thành niên có quyền thành lập và quản lý doanh nghiệp tại Việt Nam hay không?",
+    "a": "Có, nếu được cha mẹ hoặc người giám hộ đồng ý bằng văn bản có công chứng",
+    "b": "Có, nếu họ chứng minh được có tài sản riêng đủ để thực hiện nghĩa vụ thuế",
+    "c": "Không được thành lập và quản lý doanh nghiệp",
+    "d": "Chỉ được phép thành lập doanh nghiệp tư nhân theo hình thức hộ kinh doanh cá thể",
+    "answer": "c",
+    "explanation": "Điểm đ khoản 2 Điều 17 quy định người chưa thành niên không có quyền thành lập và quản lý doanh nghiệp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, người đang bị truy cứu trách nhiệm hình sự có quyền thành lập và quản lý doanh nghiệp hay không?",
+    "a": "Có, miễn là chưa có bản án hoặc quyết định có hiệu lực của Tòa án",
+    "b": "Không có quyền thành lập và quản lý doanh nghiệp",
+    "c": "Chỉ được phép góp vốn vào công ty cổ phần, không được phép góp vào công ty TNHH",
+    "d": "Chỉ được quản lý doanh nghiệp gia đình với tư cách là thành viên sáng lập",
+    "answer": "b",
+    "explanation": "Điểm e khoản 2 Điều 17 quy định người đang bị truy cứu trách nhiệm hình sự không có quyền thành lập và quản lý doanh nghiệp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, trường hợp cơ quan đăng ký kinh doanh có yêu cầu thì người đăng ký thành lập doanh nghiệp phải nộp giấy tờ nào để chứng minh quyền thành lập?",
+    "a": "Sổ hộ khẩu hoặc xác nhận cư trú để kiểm tra nhân thân",
+    "b": "Giấy xác nhận tình trạng hôn nhân để xác định tài sản chung, riêng",
+    "c": "Phiếu lý lịch tư pháp",
+    "d": "Giấy chứng nhận sức khỏe đạt chuẩn để đảm bảo năng lực quản lý",
+    "answer": "c",
+    "explanation": "Điểm e khoản 2 Điều 17 quy định trường hợp có yêu cầu thì phải nộp Phiếu lý lịch tư pháp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, tổ chức là pháp nhân thương mại bị cấm kinh doanh theo Bộ luật Hình sự có quyền thành lập và quản lý doanh nghiệp hay không?",
+    "a": "Vẫn được phép thành lập doanh nghiệp mới để tách bạch rủi ro pháp lý",
+    "b": "Không có quyền thành lập và quản lý doanh nghiệp",
+    "c": "Chỉ được phép góp vốn đầu tư vào các doanh nghiệp khác mà không được quản lý",
+    "d": "Chỉ được phép mua cổ phần tại công ty niêm yết trên thị trường chứng khoán",
+    "answer": "b",
+    "explanation": "Điểm g khoản 2 Điều 17 quy định pháp nhân thương mại bị cấm kinh doanh không có quyền thành lập và quản lý doanh nghiệp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, cơ quan nhà nước sử dụng tài sản nhà nước góp vốn vào doanh nghiệp để thu lợi riêng cho cơ quan mình có được phép không?",
+    "a": "Được phép nếu sử dụng đúng quy trình đấu thầu chọn đơn vị góp vốn",
+    "b": "Không được phép sử dụng tài sản nhà nước để góp vốn nhằm thu lợi riêng",
+    "c": "Được phép nếu có quyết định bằng văn bản của Chủ tịch Ủy ban nhân dân cấp tỉnh",
+    "d": "Được phép nếu hợp đồng góp vốn được công chứng xác nhận tính hợp pháp",
+    "answer": "b",
+    "explanation": "Điểm a khoản 3 Điều 17 cấm cơ quan nhà nước sử dụng tài sản nhà nước để góp vốn nhằm thu lợi riêng."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, Điều lệ công ty được hiểu bao gồm những thành phần nào?",
+    "a": "Chỉ bao gồm văn bản Điều lệ khi thực hiện thủ tục đăng ký doanh nghiệp lần đầu",
+    "b": "Điều lệ khi đăng ký doanh nghiệp và các bản sửa đổi, bổ sung trong quá trình hoạt động",
+    "c": "Bao gồm Điều lệ công ty và các nội quy, quy chế lao động nội bộ của doanh nghiệp",
+    "d": "Chỉ bao gồm các văn bản Điều lệ đã được phê duyệt bởi cơ quan đăng ký kinh doanh",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 24 quy định Điều lệ công ty bao gồm Điều lệ khi đăng ký doanh nghiệp và Điều lệ sửa đổi, bổ sung."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, nội dung nào sau đây là bắt buộc phải có trong Điều lệ công ty?",
+    "a": "Thông tin về tình trạng hôn nhân và số lượng thành viên trong gia đình của cổ đông sáng lập",
+    "b": "Thông tin chi tiết về tài khoản ngân hàng cá nhân của người quản lý doanh nghiệp",
+    "c": "Cơ cấu tổ chức quản lý của doanh nghiệp",
+    "d": "Lịch sử tín dụng và xếp hạng tín nhiệm của các cổ đông tại các ngân hàng",
+    "answer": "c",
+    "explanation": "Điểm e khoản 2 Điều 24 quy định Điều lệ công ty phải có nội dung về cơ cấu tổ chức quản lý."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, trường hợp công ty có nhiều người đại diện theo pháp luật thì Điều lệ công ty phải quy định nội dung nào?",
+    "a": "Mức lương và phụ cấp trách nhiệm tối thiểu của từng người đại diện",
+    "b": "Phân chia cụ thể quyền và nghĩa vụ của từng người đại diện theo pháp luật",
+    "c": "Số lượng tài sản riêng mà người đại diện phải cam kết ký quỹ",
+    "d": "Nơi cư trú bắt buộc của người đại diện theo pháp luật trong quá trình đương nhiệm",
+    "answer": "b",
+    "explanation": "Điểm g khoản 2 Điều 24 quy định Điều lệ phải ghi rõ việc phân chia quyền và nghĩa vụ nếu có nhiều người đại diện theo pháp luật."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, Điều lệ công ty khi đăng ký doanh nghiệp của công ty cổ phần phải có chữ ký của ai?",
+    "a": "Toàn bộ người lao động hoặc đại diện tập thể người lao động trong công ty",
+    "b": "Cổ đông sáng lập là cá nhân và người đại diện hợp pháp của cổ đông sáng lập là tổ chức",
+    "c": "Người đại diện theo pháp luật và các thành viên Hội đồng quản trị",
+    "d": "Tất cả khách hàng hoặc đối tác chiến lược tham gia góp vốn ban đầu",
+    "answer": "b",
+    "explanation": "Điểm d khoản 3 Điều 24 quy định Điều lệ công ty cổ phần phải có chữ ký của cổ đông sáng lập là cá nhân và người đại diện hợp pháp của cổ đông sáng lập là tổ chức."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, Điều lệ sửa đổi, bổ sung của công ty cổ phần phải có chữ ký của ai?",
+    "a": "Tất cả các cổ đông có quyền biểu quyết trong công ty",
+    "b": "Chủ tịch Hội đồng quản trị công ty",
+    "c": "Người đại diện theo pháp luật của công ty",
+    "d": "Giám đốc tài chính và Kiểm soát viên trưởng của công ty",
+    "answer": "c",
+    "explanation": "Điểm c khoản 4 Điều 24 quy định Điều lệ sửa đổi, bổ sung của công ty cổ phần phải có chữ ký của người đại diện theo pháp luật."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, đối tượng không có quyền thành lập và quản lý doanh nghiệp có đương nhiên bị cấm góp vốn, mua cổ phần, mua phần vốn góp vào doanh nghiệp hay không?",
+    "a": "Có, vì việc sở hữu vốn trong doanh nghiệp luôn gắn liền với quyền quản lý điều hành",
+    "b": "Không, việc góp vốn, mua cổ phần, mua phần vốn góp chỉ bị hạn chế trong các trường hợp luật quy định",
+    "c": "Chỉ được phép góp vốn vào công ty hợp danh nhằm đảm bảo trách nhiệm liên đới",
+    "d": "Chỉ được phép mua cổ phần ưu đãi mà không được mua cổ phần phổ thông",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 17 quy định việc góp vốn, mua cổ phần, mua phần vốn góp chỉ bị hạn chế đối với một số trường hợp theo luật."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, việc sử dụng thu nhập từ hoạt động kinh doanh để chia cho một số hoặc tất cả cán bộ, công chức, sĩ quan nhằm phục vụ lợi ích riêng được xem là hành vi gì?",
+    "a": "Hành vi tài trợ hợp pháp cho các đối tượng trong cơ quan nhà nước",
+    "b": "Hành vi thu lợi riêng cho cơ quan, đơn vị mình",
+    "c": "Chi phí quản lý doanh nghiệp hợp lý được khấu trừ thuế thu nhập",
+    "d": "Quỹ phúc lợi doanh nghiệp được pháp luật khuyến khích",
+    "answer": "b",
+    "explanation": "Điểm a khoản 4 Điều 17 quy định việc chia lợi ích cho các đối tượng này là hành vi thu lợi riêng cho cơ quan, đơn vị mình."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, việc bổ sung thu nhập từ hoạt động góp vốn vào ngân sách hoạt động của cơ quan, đơn vị trái quy định pháp luật ngân sách nhà nước được xem là gì?",
+    "a": "Hình thức hỗ trợ tài chính hợp pháp từ doanh nghiệp cho đơn vị công",
+    "b": "Hoạt động đầu tư công đúng quy trình thẩm định ngân sách",
+    "c": "Hành vi thu lợi riêng cho cơ quan, đơn vị mình",
+    "d": "Hoạt động quản lý ngân sách thường xuyên được Bộ Tài chính cho phép",
+    "answer": "c",
+    "explanation": "Điểm b khoản 4 Điều 17 xác định đây là hành vi thu lợi riêng cho cơ quan, đơn vị mình."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, tổ chức không có tư cách pháp nhân có quyền thành lập và quản lý doanh nghiệp tại Việt Nam hay không?",
+    "a": "Có, nếu tổ chức đó có giấy phép hoạt động từ cơ quan có thẩm quyền",
+    "b": "Không có quyền thành lập và quản lý doanh nghiệp",
+    "c": "Chỉ được phép quản lý doanh nghiệp tư nhân không yêu cầu tư cách pháp nhân",
+    "d": "Chỉ được phép góp vốn vào doanh nghiệp nếu có sự bảo lãnh của pháp nhân khác",
+    "answer": "b",
+    "explanation": "Điểm đ khoản 2 Điều 17 quy định tổ chức không có tư cách pháp nhân không có quyền thành lập và quản lý doanh nghiệp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, người đang bị Tòa án cấm hành nghề hoặc làm công việc nhất định có quyền thành lập và quản lý doanh nghiệp hay không?",
+    "a": "Có, miễn là doanh nghiệp không hoạt động trong lĩnh vực bị cấm hành nghề",
+    "b": "Không có quyền thành lập và quản lý doanh nghiệp",
+    "c": "Chỉ được quyền góp vốn đầu tư, không được tham gia quản lý điều hành",
+    "d": "Được quyền thành lập nếu có sự đồng ý bằng văn bản của Cơ quan đăng ký kinh doanh",
+    "answer": "b",
+    "explanation": "Điểm e khoản 2 Điều 17 quy định người bị Tòa án cấm hành nghề hoặc làm công việc nhất định không có quyền thành lập và quản lý doanh nghiệp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, Điều lệ công ty có bắt buộc phải công chứng hoặc chứng thực không?",
+    "a": "Bắt buộc công chứng hoặc chứng thực trong mọi trường hợp để đảm bảo tính pháp lý",
+    "b": "Bắt buộc chứng thực tại Ủy ban nhân dân cấp xã/phường",
+    "c": "Luật Doanh nghiệp không quy định bắt buộc công chứng hoặc chứng thực Điều lệ công ty",
+    "d": "Chỉ công ty cổ phần phải công chứng, công ty TNHH thì không cần",
+    "answer": "c",
+    "explanation": "Điều 24 Luật Doanh nghiệp chỉ quy định nội dung và chủ thể ký Điều lệ, không quy định bắt buộc công chứng hoặc chứng thực."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, nội dung nào sau đây bắt buộc phải được ghi nhận trong Điều lệ công ty?",
+    "a": "Nguyên tắc giải quyết tranh chấp nội bộ trong công ty",
+    "b": "Tình trạng tài sản riêng và tài sản chung của các cổ đông/thành viên",
+    "c": "Thu nhập cá nhân cụ thể của người quản lý doanh nghiệp",
+    "d": "Lý lịch tư pháp và hồ sơ cá nhân của từng thành viên góp vốn",
+    "answer": "a",
+    "explanation": "Điểm h khoản 2 Điều 24 quy định Điều lệ phải có nguyên tắc giải quyết tranh chấp nội bộ."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, Điều lệ công ty phải quy định nội dung nào liên quan đến thể thức ra quyết định?",
+    "a": "Biểu phí dịch vụ công chứng/chứng thực các nghị quyết của công ty",
+    "b": "Thể thức thông qua quyết định của công ty",
+    "c": "Mức lương tối thiểu của người lao động trong các quyết định điều hành",
+    "d": "Phương thức thanh toán bằng tiền mặt cho các quyết định mua sắm tài sản",
+    "answer": "b",
+    "explanation": "Điểm h khoản 2 Điều 24 quy định Điều lệ phải có thể thức thông qua quyết định của công ty."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, người đại diện theo ủy quyền của cổ đông sáng lập là tổ chức có được ký Điều lệ công ty khi đăng ký doanh nghiệp không?",
+    "a": "Không được ký, bắt buộc người đại diện theo pháp luật của cổ đông sáng lập phải ký trực tiếp",
+    "b": "Chỉ được ký nếu văn bản ủy quyền có công chứng và đăng ký tại cơ quan nhà nước",
+    "c": "Có, người đại diện theo ủy quyền được ký Điều lệ công ty",
+    "d": "Chỉ cơ quan đăng ký kinh doanh mới là đơn vị có quyền xác nhận ký kết Điều lệ",
+    "answer": "c",
+    "explanation": "Điểm d khoản 3 Điều 24 quy định người đại diện theo ủy quyền của cổ đông sáng lập là tổ chức được ký Điều lệ công ty."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, Điều lệ công ty TNHH hai thành viên trở lên khi sửa đổi, bổ sung phải có chữ ký của ai?",
+    "a": "Toàn bộ người lao động hoặc đại diện công đoàn cơ sở",
+    "b": "Người đại diện theo pháp luật của công ty",
+    "c": "Toàn bộ thành viên góp vốn trong công ty mà không cần chữ ký của người đại diện",
+    "d": "Cơ quan đăng ký kinh doanh nơi cấp giấy chứng nhận đăng ký doanh nghiệp",
+    "answer": "b",
+    "explanation": "Điểm c khoản 4 Điều 24 quy định Điều lệ sửa đổi, bổ sung của công ty TNHH hai thành viên trở lên phải có chữ ký của người đại diện theo pháp luật."
+  },
+  {
     "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, người đại diện theo pháp luật của doanh nghiệp là gì?",
     "a": "Cá nhân đại diện doanh nghiệp thực hiện các quyền và nghĩa vụ phát sinh từ mọi giao dịch của doanh nghiệp",
     "b": "Cá nhân hoặc tổ chức đại diện doanh nghiệp thực hiện quyền và nghĩa vụ phát sinh từ giao dịch của doanh nghiệp",
