@@ -1,4 +1,319 @@
 [
+    {
+    "question": "Người hưởng lương hưu có được ủy quyền cho người khác nhận thay không?",
+    "a": "Không được",
+    "b": "Được nếu có văn bản ủy quyền hợp pháp",
+    "c": "Chỉ được ủy quyền cho con ruột",
+    "d": "Chỉ được ủy quyền trong 1 tháng",
+    "answer": "b",
+    "explanation": "Luật BHXH cho phép người hưởng lương hưu ủy quyền cho người khác nhận thay bằng văn bản hợp pháp."
+  },
+  {
+    "question": "Văn bản ủy quyền nhận BHXH phải có hình thức nào?",
+    "a": "Bằng miệng",
+    "b": "Bằng email",
+    "c": "Bằng văn bản hợp pháp, thường phải chứng thực/công chứng",
+    "d": "Không cần hình thức",
+    "answer": "c",
+    "explanation": "Ủy quyền nhận BHXH phải lập bằng văn bản và thường phải được công chứng hoặc chứng thực để đảm bảo giá trị pháp lý."
+  },
+  {
+    "question": "Thời hạn tối đa của ủy quyền nhận lương hưu, trợ cấp BHXH định kỳ thường là:",
+    "a": "3 tháng",
+    "b": "6 tháng",
+    "c": "12 tháng",
+    "d": "Không giới hạn",
+    "answer": "c",
+    "explanation": "Luật BHXH quy định thời hạn ủy quyền nhận lương hưu, trợ cấp định kỳ tối đa thường là 12 tháng."
+  },
+  {
+    "question": "Ủy quyền nhận BHXH có thể thực hiện bằng lời nói tại cơ quan chi trả không?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Có nếu có người làm chứng",
+    "d": "Tùy cơ quan chi trả",
+    "answer": "b",
+    "explanation": "Ủy quyền nhận BHXH bắt buộc phải bằng văn bản, không được thực hiện bằng lời nói."
+  },
+  {
+    "question": "Công chứng viên khi công chứng giấy ủy quyền nhận BHXH phải kiểm tra gì?",
+    "a": "Giá trị tài sản",
+    "b": "Ý chí tự nguyện và năng lực hành vi của người ủy quyền",
+    "c": "Thu nhập hàng tháng",
+    "d": "Quan hệ gia đình",
+    "answer": "b",
+    "explanation": "Công chứng viên phải kiểm tra năng lực hành vi dân sự và sự tự nguyện của người ủy quyền."
+  },
+  {
+    "question": "Người nhận ủy quyền BHXH có thể tiếp tục ủy quyền lại không?",
+    "a": "Luôn được",
+    "b": "Không được nếu không có thỏa thuận",
+    "c": "Tự động được",
+    "d": "Chỉ cần nói miệng",
+    "answer": "b",
+    "explanation": "Việc ủy quyền lại phải được pháp luật hoặc bên ủy quyền cho phép."
+  },
+  {
+    "question": "Trong trường hợp người hưởng BHXH chết, ủy quyền còn hiệu lực không?",
+    "a": "Có hiệu lực vô thời hạn",
+    "b": "Vẫn có hiệu lực",
+    "c": "Chấm dứt hiệu lực",
+    "d": "Do người được ủy quyền quyết định",
+    "answer": "c",
+    "explanation": "Quan hệ ủy quyền chấm dứt khi người ủy quyền chết theo quy định chung của BLDS."
+  },
+  {
+    "question": "Ủy quyền nhận BHXH có bắt buộc phải công chứng không?",
+    "a": "Luôn bắt buộc",
+    "b": "Không bắt buộc nhưng phải chứng thực theo quy định",
+    "c": "Không cần gì",
+    "d": "Chỉ cần chữ ký",
+    "answer": "b",
+    "explanation": "Pháp luật yêu cầu văn bản ủy quyền phải hợp pháp, thường được chứng thực hoặc công chứng."
+  },
+  {
+    "question": "Người đang hưởng BHXH có thể ủy quyền cho người nước ngoài nhận thay không?",
+    "a": "Không bao giờ",
+    "b": "Có nếu hợp pháp và phù hợp quy định",
+    "c": "Chỉ người Việt Nam",
+    "d": "Chỉ cơ quan nhà nước",
+    "answer": "b",
+    "explanation": "Luật không cấm người được ủy quyền là người nước ngoài nếu đáp ứng điều kiện pháp lý."
+  },
+  {
+    "question": "Ủy quyền nhận BHXH có thể áp dụng cho tiền trợ cấp một lần không?",
+    "a": "Không",
+    "b": "Có",
+    "c": "Chỉ lương hưu",
+    "d": "Chỉ trợ cấp thất nghiệp",
+    "answer": "b",
+    "explanation": "Người hưởng BHXH có thể ủy quyền nhận các khoản trợ cấp, bao gồm trợ cấp một lần nếu đủ điều kiện."
+  },
+  {
+    "question": "Người được ủy quyền nhận BHXH có quyền thay đổi nơi nhận tiền không?",
+    "a": "Có toàn quyền",
+    "b": "Không, trừ khi được ủy quyền rõ ràng",
+    "c": "Tự động có quyền",
+    "d": "Do cơ quan BHXH quyết định",
+    "answer": "b",
+    "explanation": "Phạm vi ủy quyền bị giới hạn, không thể tự ý thay đổi nội dung nếu không được cho phép."
+  },
+  {
+    "question": "Cơ quan chi trả BHXH có được từ chối chi trả cho người được ủy quyền không?",
+    "a": "Không bao giờ",
+    "b": "Có nếu giấy ủy quyền không hợp lệ",
+    "c": "Không cần kiểm tra giấy tờ",
+    "d": "Tùy ý",
+    "answer": "b",
+    "explanation": "Cơ quan chi trả có quyền từ chối nếu văn bản ủy quyền không hợp pháp hoặc hết hiệu lực."
+  },
+  {
+    "question": "Ủy quyền nhận BHXH có thể kéo dài vô thời hạn không?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Tùy thỏa thuận",
+    "d": "Do công chứng viên quyết định",
+    "answer": "b",
+    "explanation": "Pháp luật quy định thời hạn nhất định, không cho phép ủy quyền vô thời hạn."
+  },
+  {
+    "question": "Trong trường hợp người ủy quyền mất năng lực hành vi dân sự, ủy quyền có còn hiệu lực không?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Tùy cơ quan BHXH",
+    "d": "Do người được ủy quyền quyết định",
+    "answer": "b",
+    "explanation": "Theo BLDS, mất năng lực hành vi dân sự làm chấm dứt quan hệ ủy quyền."
+  },
+  {
+    "question": "Người được ủy quyền có thể ký thay mọi giấy tờ liên quan BHXH không?",
+    "a": "Có toàn bộ",
+    "b": "Không, chỉ trong phạm vi ủy quyền",
+    "c": "Luôn được",
+    "d": "Không cần giới hạn",
+    "answer": "b",
+    "explanation": "Người được ủy quyền chỉ được thực hiện trong phạm vi được ghi trong văn bản."
+  },
+  {
+    "question": "Công chứng viên có trách nhiệm giải thích nội dung ủy quyền nhận BHXH không?",
+    "a": "Không",
+    "b": "Có",
+    "c": "Chỉ khi yêu cầu",
+    "d": "Không bắt buộc",
+    "answer": "b",
+    "explanation": "Công chứng viên phải giải thích rõ quyền, nghĩa vụ và hậu quả pháp lý của việc ủy quyền."
+  },
+  {
+    "question": "Ủy quyền nhận BHXH có thể bị hủy bất cứ lúc nào không?",
+    "a": "Không",
+    "b": "Có, bên ủy quyền có quyền đơn phương chấm dứt",
+    "c": "Chỉ khi Tòa án cho phép",
+    "d": "Không bao giờ",
+    "answer": "b",
+    "explanation": "Theo BLDS, bên ủy quyền có quyền đơn phương chấm dứt ủy quyền."
+  },
+  {
+    "question": "Nếu văn bản ủy quyền giả mạo thì chi trả BHXH có hợp pháp không?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Vẫn hợp pháp nếu có chữ ký",
+    "d": "Do cơ quan BHXH quyết định",
+    "answer": "b",
+    "explanation": "Giấy ủy quyền giả mạo làm giao dịch vô hiệu và chi trả không hợp pháp."
+  },
+  {
+    "question": "Người được ủy quyền có được hưởng quyền lợi BHXH thay người ủy quyền không?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Tự động chuyển quyền",
+    "d": "Do cơ quan quyết định",
+    "answer": "b",
+    "explanation": "Ủy quyền chỉ là đại diện nhận tiền, không chuyển quyền hưởng BHXH."
+  },
+  {
+    "question": "Cơ quan BHXH có phải kiểm tra tính hợp pháp của giấy ủy quyền không?",
+    "a": "Không",
+    "b": "Có",
+    "c": "Chỉ khi nghi ngờ",
+    "d": "Do công chứng viên kiểm tra",
+    "answer": "b",
+    "explanation": "Cơ quan chi trả phải kiểm tra tính hợp lệ của văn bản ủy quyền trước khi chi trả."
+  },
+  {
+    "question": "Trong trường hợp nào sau đây người hưởng BHXH bắt buộc phải trực tiếp làm việc với cơ quan BHXH?",
+    "a": "Nhận lương hưu hàng tháng",
+    "b": "Làm hồ sơ hưởng chế độ BHXH lần đầu khi cần xác minh nhân thân",
+    "c": "Nhận trợ cấp qua tài khoản ngân hàng",
+    "d": "Ủy quyền nhận tiền định kỳ",
+    "answer": "b",
+    "explanation": "Trường hợp làm hồ sơ lần đầu và cần xác minh nhân thân thì cơ quan BHXH có thể yêu cầu người hưởng trực tiếp làm việc để xác định thông tin."
+  },
+  {
+    "question": "Người hưởng BHXH đang ủy quyền nhận lương hưu có phải luôn trực tiếp đến cơ quan BHXH không?",
+    "a": "Có, mỗi tháng phải đến",
+    "b": "Không, nếu giấy ủy quyền hợp lệ",
+    "c": "Có nếu cơ quan yêu cầu xác minh đặc biệt",
+    "d": "Không bao giờ phải đến",
+    "answer": "c",
+    "explanation": "Trường hợp bình thường không cần, nhưng khi có nghi ngờ hoặc cần xác minh thì cơ quan BHXH có quyền yêu cầu trực tiếp làm việc."
+  },
+  {
+    "question": "Trường hợp nào sau đây ủy quyền nhận BHXH có thể bị yêu cầu xác minh lại trực tiếp?",
+    "a": "Giấy ủy quyền còn hiệu lực rõ ràng",
+    "b": "Có dấu hiệu nghi ngờ giả mạo nhân thân",
+    "c": "Nhận tiền qua ngân hàng",
+    "d": "Ủy quyền trong thời hạn 12 tháng",
+    "answer": "b",
+    "explanation": "Khi có dấu hiệu nghi ngờ về nhân thân hoặc giấy tờ, cơ quan BHXH có quyền yêu cầu xác minh trực tiếp."
+  },
+  {
+    "question": "Người hưởng BHXH lần đầu làm thủ tục nhưng muốn ủy quyền toàn bộ có được không?",
+    "a": "Có trong mọi trường hợp",
+    "b": "Không nếu cơ quan BHXH yêu cầu xác minh trực tiếp",
+    "c": "Luôn được nếu có công chứng",
+    "d": "Chỉ cần chữ ký",
+    "answer": "b",
+    "explanation": "Hồ sơ lần đầu thường cần xác minh nhân thân, nên không thể hoàn toàn ủy quyền trong mọi trường hợp."
+  },
+  {
+    "question": "Cơ quan BHXH có quyền yêu cầu người hưởng trực tiếp đến làm việc không?",
+    "a": "Không bao giờ",
+    "b": "Có khi cần xác minh thông tin",
+    "c": "Chỉ khi có tranh chấp",
+    "d": "Chỉ khi có Tòa án yêu cầu",
+    "answer": "b",
+    "explanation": "Cơ quan BHXH có quyền yêu cầu trực tiếp làm việc để xác minh nhân thân hoặc thông tin hưởng chế độ."
+  },
+  {
+    "question": "Trường hợp nào sau đây KHÔNG thể hiện quyền ủy quyền tuyệt đối trong BHXH?",
+    "a": "Nhận lương hưu định kỳ",
+    "b": "Nhận trợ cấp BHXH",
+    "c": "Hồ sơ có nghi ngờ giả mạo cần xác minh",
+    "d": "Nhận BHXH một lần",
+    "answer": "c",
+    "explanation": "Khi có nghi ngờ về hồ sơ hoặc nhân thân, cơ quan BHXH có thể yêu cầu người hưởng trực tiếp làm việc."
+  },
+  {
+    "question": "Trong trường hợp hồ sơ BHXH lần đầu bị nghi ngờ sai thông tin, cơ quan BHXH xử lý thế nào?",
+    "a": "Tự động chi trả",
+    "b": "Yêu cầu xác minh trực tiếp người hưởng",
+    "c": "Chỉ cần giấy ủy quyền",
+    "d": "Không giải quyết",
+    "answer": "b",
+    "explanation": "Cơ quan BHXH có quyền yêu cầu người hưởng trực tiếp xác minh nhân thân khi hồ sơ có dấu hiệu chưa rõ ràng."
+  },
+  {
+    "question": "Người được ủy quyền có thể thay người hưởng BHXH làm thủ tục xác minh nhân thân không?",
+    "a": "Luôn được",
+    "b": "Không nếu cơ quan yêu cầu trực tiếp người hưởng",
+    "c": "Chỉ cần công chứng",
+    "d": "Tự quyết định",
+    "answer": "b",
+    "explanation": "Xác minh nhân thân là hoạt động mang tính cá nhân nên có thể buộc người hưởng phải trực tiếp tham gia."
+  },
+  {
+    "question": "Trường hợp nào ủy quyền nhận BHXH dễ bị yêu cầu người hưởng làm việc trực tiếp?",
+    "a": "Nhận tiền qua tài khoản ổn định",
+    "b": "Hồ sơ có dấu hiệu không trùng khớp thông tin",
+    "c": "Ủy quyền trong hạn",
+    "d": "Nhận trợ cấp thường kỳ",
+    "answer": "b",
+    "explanation": "Sai lệch hoặc không trùng khớp thông tin là căn cứ để yêu cầu xác minh trực tiếp."
+  },
+  {
+    "question": "Ủy quyền nhận BHXH có làm mất nghĩa vụ xác minh nhân thân khi cần thiết không?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Chỉ trong lương hưu",
+    "d": "Do công chứng viên quyết định",
+    "answer": "b",
+    "explanation": "Ủy quyền chỉ là đại diện nhận tiền, không loại trừ việc cơ quan BHXH yêu cầu xác minh nhân thân."
+  },
+  {
+    "question": "Trong thủ tục BHXH, nguyên tắc nào đúng?",
+    "a": "Ủy quyền thay thế mọi thủ tục",
+    "b": "Một số thủ tục mang tính nhân thân phải trực tiếp thực hiện",
+    "c": "Chỉ cần công chứng là đủ",
+    "d": "Không cần xác minh",
+    "answer": "b",
+    "explanation": "Một số thủ tục như xác minh nhân thân bắt buộc người hưởng phải trực tiếp làm việc."
+  },
+  {
+    "question": "Cơ quan BHXH có thể từ chối chi trả qua người được ủy quyền không?",
+    "a": "Không bao giờ",
+    "b": "Có nếu cần xác minh trực tiếp người hưởng",
+    "c": "Chỉ khi mất giấy tờ",
+    "d": "Chỉ khi có Tòa án",
+    "answer": "b",
+    "explanation": "Nếu cần xác minh nhân thân hoặc nghi ngờ hồ sơ, cơ quan BHXH có thể yêu cầu trực tiếp người hưởng."
+  },
+  {
+    "question": "Trường hợp nào sau đây KHÔNG bắt buộc người hưởng BHXH trực tiếp làm việc?",
+    "a": "Nhận lương hưu định kỳ ổn định",
+    "b": "Hồ sơ lần đầu cần xác minh",
+    "c": "Có nghi ngờ giả mạo",
+    "d": "Sai lệch thông tin nhân thân",
+    "answer": "a",
+    "explanation": "Nhận lương hưu định kỳ bình thường không cần trực tiếp, nếu hồ sơ đã hợp lệ."
+  },
+  {
+    "question": "Mục đích của việc yêu cầu người hưởng BHXH trực tiếp làm việc là gì?",
+    "a": "Tăng thủ tục hành chính",
+    "b": "Xác minh nhân thân và tính hợp pháp của hồ sơ",
+    "c": "Gây khó dễ",
+    "d": "Thay thế công chứng",
+    "answer": "b",
+    "explanation": "Mục đích là đảm bảo đúng người hưởng, tránh gian lận và sai sót."
+  },
+  {
+    "question": "Người được ủy quyền có thể thay người hưởng BHXH khi cần đối chiếu giấy tờ gốc không?",
+    "a": "Luôn được",
+    "b": "Không nếu cơ quan yêu cầu người hưởng trực tiếp",
+    "c": "Chỉ cần chữ ký",
+    "d": "Tùy công chứng viên",
+    "answer": "b",
+    "explanation": "Đối chiếu nhân thân có thể yêu cầu người hưởng trực tiếp để đảm bảo chính xác."
+  },
    {
     "question": "Theo BLTTDS 2015, văn bản công chứng có giá trị pháp lý như thế nào khi được Tòa án xem xét?",
     "a": "Là chứng cứ không thể bị phản bác",
