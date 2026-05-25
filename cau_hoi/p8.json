@@ -1,4 +1,274 @@
 [
+   {
+    "question": "Theo Luật KDBĐS 2023, trong thời hạn bao lâu kể từ ngày nhận đủ hồ sơ hợp lệ, UBND cấp tỉnh phải tổ chức thẩm định và trình Thủ tướng Chính phủ quyết định cho phép chuyển nhượng dự án bất động sản thuộc thẩm quyền của Thủ tướng?",
+    "a": "30 ngày làm việc",
+    "b": "45 ngày làm việc",
+    "c": "60 ngày làm việc",
+    "d": "90 ngày làm việc",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 42 quy định UBND cấp tỉnh có thời hạn 45 ngày để lấy ý kiến, thẩm định và trình Thủ tướng."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, bên nhận chuyển nhượng dự án bất động sản có nghĩa vụ pháp lý nào sau đây?",
+    "a": "Chỉ có nghĩa vụ nhận bàn giao đất và không phải tiếp tục thực hiện dự án",
+    "b": "Kế thừa và thực hiện toàn bộ quyền, nghĩa vụ của chủ đầu tư chuyển nhượng",
+    "c": "Chỉ thực hiện nghĩa vụ tài chính đối với Nhà nước khi có yêu cầu riêng",
+    "d": "Được quyền tự quyết định thay đổi quy hoạch mà không cần phê duyệt lại",
+    "answer": "b",
+    "explanation": "Điểm a khoản 2 Điều 43 quy định bên nhận chuyển nhượng kế thừa toàn bộ quyền và nghĩa vụ của chủ đầu tư."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, loại hợp đồng nào sau đây được xác định là hợp đồng kinh doanh bất động sản?",
+    "a": "Hợp đồng vay vốn để thực hiện mua nhà ở",
+    "b": "Hợp đồng mua bán nhà ở, công trình xây dựng",
+    "c": "Hợp đồng thuê phương tiện vận tải (xe ô tô)",
+    "d": "Hợp đồng cung cấp dịch vụ ăn uống trong dự án",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 44 quy định hợp đồng mua bán nhà ở là hợp đồng kinh doanh bất động sản."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, hợp đồng mua bán nhà ở giữa cá nhân với cá nhân phải tuân thủ yêu cầu nào?",
+    "a": "Không bắt buộc phải thực hiện công chứng",
+    "b": "Phải thực hiện công chứng hoặc chứng thực",
+    "c": "Chỉ cần thực hiện đăng ký nộp thuế là đủ hiệu lực",
+    "d": "Chỉ cần lập văn bản giấy tay có người làm chứng",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 44 quy định hợp đồng giữa cá nhân phải công chứng hoặc chứng thực."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, thời điểm có hiệu lực của hợp đồng kinh doanh bất động sản được xác định như thế nào?",
+    "a": "Kể từ thời điểm bên mua hoàn tất đặt cọc",
+    "b": "Kể từ thời điểm bên đầu tiên ký vào hợp đồng",
+    "c": "Kể từ thời điểm bên sau cùng ký vào hợp đồng hoặc theo thỏa thuận, trừ trường hợp pháp luật quy định phải công chứng",
+    "d": "Kể từ thời điểm thực hiện đăng ký tại cơ quan nhà nước có thẩm quyền",
+    "answer": "c",
+    "explanation": "Khoản 6 Điều 44 quy định hợp đồng có hiệu lực khi bên sau cùng ký hoặc theo thỏa thuận."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, sàn giao dịch bất động sản có quyền hạn nào sau đây?",
+    "a": "Tự ý thay đổi giá bán bất động sản của chủ đầu tư",
+    "b": "Từ chối đưa bất động sản không đủ điều kiện kinh doanh lên sàn giao dịch",
+    "c": "Thu tiền đặt cọc thay cho khách hàng trong mọi giao dịch",
+    "d": "Tự quyết định quyền sở hữu tài sản thay cho chủ sở hữu",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 57 quy định sàn có quyền từ chối bất động sản không đủ điều kiện kinh doanh."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, cá nhân hành nghề môi giới bất động sản phải đáp ứng điều kiện nào?",
+    "a": "Phải có bằng đại học chuyên ngành luật",
+    "b": "Phải có chứng chỉ hành nghề môi giới bất động sản",
+    "c": "Phải có kinh nghiệm làm việc thực tế từ 5 năm trở lên",
+    "d": "Phải có vốn điều lệ tối thiểu 1 tỷ đồng",
+    "answer": "b",
+    "explanation": "Điểm a khoản 2 Điều 61 quy định phải có chứng chỉ hành nghề môi giới bất động sản."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, điều kiện tiên quyết để được chuyển nhượng hợp đồng mua bán nhà ở hình thành trong tương lai là gì?",
+    "a": "Đã được cấp giấy chứng nhận quyền sử dụng đất",
+    "b": "Đã nộp hồ sơ xin cấp giấy chứng nhận cho cơ quan chức năng",
+    "c": "Chưa nộp hồ sơ đề nghị cấp giấy chứng nhận",
+    "d": "Đã hoàn thành toàn bộ nghĩa vụ thuế đối với Nhà nước",
+    "answer": "c",
+    "explanation": "Điểm a khoản 1 Điều 50 quy định phải chưa nộp hồ sơ đề nghị cấp giấy chứng nhận."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, doanh nghiệp môi giới bất động sản tối thiểu phải có bao nhiêu cá nhân có chứng chỉ hành nghề?",
+    "a": "01 người",
+    "b": "02 người",
+    "c": "03 người",
+    "d": "Không bắt buộc phải có cá nhân có chứng chỉ",
+    "answer": "a",
+    "explanation": "Điểm c khoản 1 Điều 61 quy định tối thiểu phải có 01 cá nhân có chứng chỉ môi giới."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, sàn giao dịch bất động sản phải gửi hồ sơ đăng ký hoạt động đến cơ quan nào?",
+    "a": "Bộ Tài chính",
+    "b": "UBND cấp huyện nơi đặt trụ sở",
+    "c": "Cơ quan quản lý nhà nước về kinh doanh bất động sản cấp tỉnh",
+    "d": "Sở Tư pháp địa phương",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 54 quy định hồ sơ gửi cơ quan quản lý nhà nước về kinh doanh bất động sản cấp tỉnh."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, hợp đồng kinh doanh bất động sản chỉ được ký kết trong trường hợp nào?",
+    "a": "Khi bất động sản chưa hình thành hoặc chưa đủ điều kiện",
+    "b": "Khi bất động sản đã đảm bảo đủ điều kiện đưa vào kinh doanh theo quy định",
+    "c": "Khi các bên đã thực hiện xong thủ tục đặt cọc giữ chỗ",
+    "d": "Khi một trong các bên có nhu cầu mua bán phát sinh",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 44 quy định hợp đồng chỉ được ký khi bất động sản đủ điều kiện đưa vào kinh doanh."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, sàn giao dịch bất động sản có nghĩa vụ pháp lý nào sau đây?",
+    "a": "Tự thực hiện việc định giá bất động sản theo ý chí của sàn",
+    "b": "Niêm yết và cung cấp thông tin trung thực về bất động sản cho khách hàng",
+    "c": "Giữ toàn bộ tiền giao dịch của khách hàng trong suốt quá trình đàm phán",
+    "d": "Có quyền quyết định đối với quyền sở hữu tài sản của khách hàng",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 58 quy định sàn phải niêm yết và cung cấp thông tin trung thực."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, doanh nghiệp kinh doanh dịch vụ môi giới bất động sản có nghĩa vụ nào dưới đây?",
+    "a": "Không bắt buộc phải báo cáo hoạt động cho cơ quan nhà nước",
+    "b": "Được quyền cung cấp thông tin sai lệch để tăng cường giao dịch",
+    "c": "Cung cấp đầy đủ, trung thực hồ sơ và thông tin về bất động sản được môi giới",
+    "d": "Chỉ cần ký hợp đồng với khách hàng là hoàn thành mọi nghĩa vụ",
+    "answer": "c",
+    "explanation": "Điểm a khoản 1 Điều 65 quy định phải cung cấp thông tin trung thực và chịu trách nhiệm."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, mức thù lao môi giới bất động sản được xác định như thế nào?",
+    "a": "Được Nhà nước quy định mức cố định cụ thể",
+    "b": "Không được phép thỏa thuận giữa các bên",
+    "c": "Do các bên thỏa thuận và ghi nhận trong hợp đồng môi giới",
+    "d": "Được tính toán tự động theo giá trị bất động sản mà không cần thỏa thuận",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 63 quy định thù lao do các bên thỏa thuận."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, trường hợp nào hợp đồng mua bán nhà ở bắt buộc phải công chứng?",
+    "a": "Giao dịch mua bán giữa doanh nghiệp với doanh nghiệp",
+    "b": "Giao dịch mua bán giữa cá nhân với cá nhân",
+    "c": "Giao dịch mua bán giữa Nhà nước với doanh nghiệp",
+    "d": "Giao dịch mua bán giữa ngân hàng và khách hàng vay mua nhà",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 44 quy định giao dịch giữa cá nhân với cá nhân phải công chứng hoặc chứng thực."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, bên chuyển nhượng dự án bất động sản có quyền hạn nào sau đây?",
+    "a": "Giữ lại toàn bộ quyền kiểm soát dự án sau khi đã hoàn tất chuyển nhượng",
+    "b": "Chuyển giao quyền và nghĩa vụ liên quan đến dự án cho bên nhận chuyển nhượng",
+    "c": "Không cần thực hiện bàn giao hồ sơ dự án cho bên nhận chuyển nhượng",
+    "d": "Tự ý thay đổi quy hoạch dự án sau khi đã chuyển nhượng",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 43 quy định chuyển giao quyền và nghĩa vụ cho bên nhận chuyển nhượng."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, điều kiện cơ bản đối với cá nhân hành nghề môi giới bất động sản là gì?",
+    "a": "Phải có chứng chỉ hành nghề môi giới bất động sản theo quy định",
+    "b": "Phải có hộ khẩu thường trú tại địa phương nơi hành nghề",
+    "c": "Phải có số vốn pháp định tối thiểu để thành lập văn phòng",
+    "d": "Phải có bằng đại học chuyên ngành kinh tế hoặc tài chính",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 61 quy định cá nhân phải có chứng chỉ hành nghề."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, sàn giao dịch bất động sản phải đáp ứng điều kiện nào sau đây trước khi chính thức hoạt động?",
+    "a": "Được ngân hàng thương mại bảo lãnh cho mọi hoạt động",
+    "b": "Phải được cấp giấy phép hoạt động từ cơ quan có thẩm quyền cấp tỉnh",
+    "c": "Chỉ cần thực hiện đăng ký thuế là đủ điều kiện kinh doanh",
+    "d": "Chỉ cần thành lập doanh nghiệp theo quy định của Luật Doanh nghiệp",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 54 quy định phải được cấp giấy phép hoạt động."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, bên nhận chuyển nhượng hợp đồng mua bán nhà ở hình thành trong tương lai có quyền gì?",
+    "a": "Không được Nhà nước cấp giấy chứng nhận quyền sở hữu",
+    "b": "Được tiếp tục thực hiện quyền và nghĩa vụ của bên mua ban đầu theo hợp đồng",
+    "c": "Bắt buộc phải ký lại hợp đồng mua bán mới từ đầu với chủ đầu tư",
+    "d": "Không có quyền lợi gì đối với chủ đầu tư dự án",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 51 quy định bên nhận chuyển nhượng kế thừa quyền và nghĩa vụ."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, nội dung hoạt động môi giới bất động sản bao gồm công việc nào dưới đây?",
+    "a": "Thực hiện cấp giấy chứng nhận quyền sử dụng đất cho người mua",
+    "b": "Tìm kiếm đối tác, đàm phán và hỗ trợ ký kết hợp đồng cho các bên",
+    "c": "Soạn thảo và ban hành các quy hoạch đô thị mới",
+    "d": "Thực hiện quản lý nhà nước về tài nguyên đất đai",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 62 quy định môi giới bao gồm tìm kiếm đối tác để ký kết hợp đồng."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, trường hợp chuyển nhượng dự án bất động sản thuộc thẩm quyền của Thủ tướng, cơ quan nào có trách nhiệm tiếp nhận hồ sơ ban đầu?",
+    "a": "Bộ Tài chính",
+    "b": "Ủy ban nhân dân cấp tỉnh nơi có dự án",
+    "c": "Sở Tư pháp địa phương",
+    "d": "Cơ quan thuế quản lý trực tiếp",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 42 quy định chủ đầu tư nộp hồ sơ tại UBND cấp tỉnh nơi có dự án."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, trong trường hợp chuyển nhượng dự án thuộc thẩm quyền của UBND cấp tỉnh, thời hạn xử lý hồ sơ là bao lâu?",
+    "a": "15 ngày làm việc",
+    "b": "30 ngày làm việc",
+    "c": "45 ngày làm việc",
+    "d": "60 ngày làm việc",
+    "answer": "b",
+    "explanation": "Điểm b khoản 2 Điều 42 quy định thời hạn xử lý là 30 ngày."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, loại hợp đồng nào sau đây thuộc nhóm hợp đồng kinh doanh dịch vụ bất động sản?",
+    "a": "Hợp đồng vay tiền mua nhà ở",
+    "b": "Hợp đồng môi giới bất động sản",
+    "c": "Hợp đồng bảo hiểm tài sản bất động sản",
+    "d": "Hợp đồng thuê phương tiện vận tải (xe ô tô)",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 44 liệt kê hợp đồng dịch vụ môi giới bất động sản."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, bên chuyển nhượng dự án có nghĩa vụ thực hiện công việc nào sau đây đối với bên nhận chuyển nhượng?",
+    "a": "Không cần thực hiện bàn giao bất kỳ hồ sơ nào liên quan",
+    "b": "Chỉ thực hiện bàn giao đất thực địa, không cần bàn giao giấy tờ pháp lý",
+    "c": "Bàn giao đầy đủ hồ sơ liên quan đến dự án cho bên nhận chuyển nhượng",
+    "d": "Giữ lại toàn bộ tài liệu gốc của dự án để làm bằng chứng",
+    "answer": "c",
+    "explanation": "Điểm b khoản 1 Điều 43 quy định phải chuyển giao hồ sơ liên quan cho bên nhận chuyển nhượng."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, sàn giao dịch bất động sản được phép thực hiện công việc nào sau đây?",
+    "a": "Thực hiện cấp giấy chứng nhận quyền sở hữu nhà đất",
+    "b": "Hỗ trợ các bên thực hiện việc lập và ký kết hợp đồng giao dịch bất động sản",
+    "c": "Tự ý quyết định nội dung quy hoạch chi tiết của dự án",
+    "d": "Ban hành các quy định pháp luật về kinh doanh bất động sản",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 56 quy định sàn hỗ trợ lập và ký kết hợp đồng."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, cá nhân hành nghề môi giới bất động sản phải làm việc tại đâu?",
+    "a": "Được hoạt động tự do độc lập không cần thuộc tổ chức nào",
+    "b": "Phải làm việc tại doanh nghiệp kinh doanh dịch vụ môi giới bất động sản hoặc sàn giao dịch",
+    "c": "Phải làm việc tại các cơ quan hành chính nhà nước",
+    "d": "Phải làm việc tại các văn phòng luật sư hoặc tòa án",
+    "answer": "b",
+    "explanation": "Điểm b khoản 2 Điều 61 quy định phải làm trong doanh nghiệp môi giới hoặc sàn."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, một trong các điều kiện quan trọng để được chuyển nhượng hợp đồng mua bán nhà ở là gì?",
+    "a": "Nhà ở đó phải đã được cấp Giấy chứng nhận quyền sử dụng đất (Sổ đỏ)",
+    "b": "Chưa nộp hồ sơ xin cấp Giấy chứng nhận quyền sử dụng đất cho cơ quan nhà nước",
+    "c": "Công trình nhà ở đó phải đã hoàn thành toàn bộ xây dựng",
+    "d": "Nhà ở đó đã được cho thuê lại trước đó",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 50 quy định phải chưa nộp hồ sơ cấp giấy chứng nhận."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, sàn giao dịch bất động sản có trách nhiệm tài chính nào?",
+    "a": "Không phải nộp bất kỳ loại thuế nào cho Nhà nước",
+    "b": "Được miễn thuế hoàn toàn trong suốt quá trình hoạt động",
+    "c": "Thực hiện đầy đủ nghĩa vụ thuế đối với Nhà nước theo quy định của pháp luật",
+    "d": "Chỉ thực hiện nộp thuế khi doanh nghiệp có lợi nhuận rất lớn",
+    "answer": "c",
+    "explanation": "Khoản 5 Điều 58 quy định sàn phải thực hiện nghĩa vụ thuế."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, nội dung hợp đồng chuyển nhượng dự án bất động sản phải bao gồm thông tin nào sau đây?",
+    "a": "Thông tin cá nhân của nhân viên làm việc tại sàn giao dịch",
+    "b": "Thông tin chi tiết về dự án và giá trị chuyển nhượng của dự án",
+    "c": "Thông tin ngân hàng cá nhân của khách hàng mua lẻ",
+    "d": "Lịch sử tranh chấp gia đình của các thành viên góp vốn",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 46 quy định phải có thông tin dự án và giá chuyển nhượng."
+  },
+  {
+    "question": "Theo Luật KDBĐS 2023, doanh nghiệp kinh doanh dịch vụ môi giới bất động sản có quyền gì?",
+    "a": "Tự ý quyết định quyền sở hữu tài sản cho bên mua",
+    "b": "Thu phí dịch vụ môi giới theo sự thỏa thuận giữa các bên",
+    "c": "Được quyền cấp Giấy chứng nhận quyền sở hữu nhà đất",
+    "d": "Ban hành các hợp đồng mẫu bắt buộc áp dụng cho toàn thị trường",
+    "answer": "b",
+    "explanation": "Điểm c khoản 1 Điều 64 quy định doanh nghiệp môi giới được thu phí theo thỏa thuận."
+  },
   {
     "question": "Theo Luật KDBĐS 2023, trường hợp cá nhân bán nhà ở không nhằm mục đích kinh doanh thì có phải thực hiện công chứng, chứng thực không?",
     "a": "Không bắt buộc trong mọi trường hợp",
