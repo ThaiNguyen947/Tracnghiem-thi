@@ -1,5 +1,275 @@
 [
    {
+    "question": "Theo Luật Thuế thu nhập cá nhân 2025, thu nhập từ chuyển nhượng quyền sử dụng đất thuộc loại nào?",
+    "a": "Thu nhập miễn thuế",
+    "b": "Thu nhập chịu thuế",
+    "c": "Không phải kê khai",
+    "d": "Không thuộc phạm vi điều chỉnh",
+    "answer": "b",
+    "explanation": "Thu nhập từ chuyển nhượng bất động sản là thu nhập chịu thuế thu nhập cá nhân theo Luật Thuế thu nhập cá nhân 2025."
+  },
+  {
+    "question": "Thuế suất phổ biến áp dụng đối với chuyển nhượng bất động sản của cá nhân là bao nhiêu?",
+    "a": "0,5%",
+    "b": "1%",
+    "c": "2%",
+    "d": "10%",
+    "answer": "c",
+    "explanation": "Thuế thu nhập cá nhân đối với chuyển nhượng bất động sản thông thường được xác định bằng 2% giá chuyển nhượng."
+  },
+  {
+    "question": "Trường hợp nào sau đây được miễn thuế thu nhập cá nhân khi tặng cho nhà đất?",
+    "a": "Bạn thân tặng cho nhau",
+    "b": "Đồng nghiệp tặng cho nhau",
+    "c": "Anh ruột tặng cho em ruột",
+    "d": "Người quen tặng cho nhau",
+    "answer": "c",
+    "explanation": "Tặng cho bất động sản giữa anh, chị, em ruột thuộc trường hợp được miễn thuế thu nhập cá nhân."
+  },
+  {
+    "question": "Cá nhân chỉ có duy nhất một nhà ở, quyền sử dụng đất ở khi chuyển nhượng thì:",
+    "a": "Luôn phải nộp thuế 10%",
+    "b": "Được miễn thuế nếu đáp ứng đủ điều kiện luật định",
+    "c": "Không cần công chứng hợp đồng",
+    "d": "Không cần kê khai với cơ quan thuế",
+    "answer": "b",
+    "explanation": "Luật Thuế thu nhập cá nhân quy định miễn thuế đối với chuyển nhượng nhà ở, đất ở duy nhất nếu đáp ứng đủ điều kiện."
+  },
+  {
+    "question": "Theo Nghị định 10/2022/NĐ-CP, mức lệ phí trước bạ phổ biến đối với nhà, đất là:",
+    "a": "0,2%",
+    "b": "0,5%",
+    "c": "1%",
+    "d": "2%",
+    "answer": "b",
+    "explanation": "Mức thu lệ phí trước bạ đối với nhà, đất phổ biến là 0,5%."
+  },
+  {
+    "question": "Trường hợp nào sau đây thường được miễn lệ phí trước bạ đối với nhà đất?",
+    "a": "Mua bán nhà giữa người xa lạ",
+    "b": "Tặng cho nhà giữa cha mẹ và con",
+    "c": "Chuyển nhượng đất thương mại",
+    "d": "Mua bán căn hộ chung cư",
+    "answer": "b",
+    "explanation": "Nhà, đất nhận thừa kế hoặc tặng cho giữa cha mẹ và con thuộc trường hợp được miễn lệ phí trước bạ."
+  },
+  {
+    "question": "Trong hợp đồng chuyển nhượng nhà đất, các bên kê khai giá thấp hơn thực tế nhằm giảm thuế có thể dẫn đến hậu quả nào?",
+    "a": "Được miễn toàn bộ nghĩa vụ tài chính",
+    "b": "Không ảnh hưởng gì",
+    "c": "Có thể bị truy thu và xử phạt thuế",
+    "d": "Được giảm lệ phí trước bạ hợp pháp",
+    "answer": "c",
+    "explanation": "Kê khai giá chuyển nhượng không đúng thực tế có thể bị cơ quan thuế truy thu, ấn định thuế và xử phạt."
+  },
+  {
+    "question": "Thời điểm xác định thu nhập tính thuế từ chuyển nhượng bất động sản thường gắn với:",
+    "a": "Thời điểm đặt cọc",
+    "b": "Thời điểm giao tiền lần đầu",
+    "c": "Thời điểm hợp đồng có hiệu lực hoặc đăng ký quyền sở hữu, sử dụng",
+    "d": "Thời điểm bên mua nhận nhà",
+    "answer": "c",
+    "explanation": "Thời điểm xác định nghĩa vụ thuế thường gắn với thời điểm hợp đồng chuyển nhượng có hiệu lực hoặc hoàn tất đăng ký."
+  },
+  {
+    "question": "Theo xu hướng quản lý của Luật Thuế giá trị gia tăng 2024, giao dịch có giá trị lớn ngày càng được yêu cầu:",
+    "a": "Thanh toán bằng tiền mặt",
+    "b": "Không cần chứng từ",
+    "c": "Thanh toán không dùng tiền mặt",
+    "d": "Thanh toán bằng ngoại tệ",
+    "answer": "c",
+    "explanation": "Pháp luật thuế hiện hành tăng cường yêu cầu thanh toán không dùng tiền mặt để kiểm soát giao dịch và chứng từ."
+  },
+  {
+    "question": "Trong hoạt động công chứng hợp đồng mua bán nhà đất, công chứng viên thường phải lưu ý nội dung nào sau đây?",
+    "a": "Tình trạng thời tiết tại nơi giao dịch",
+    "b": "Mức lương của các bên",
+    "c": "Dấu hiệu kê khai giá chuyển nhượng không đúng thực tế",
+    "d": "Ngành nghề kinh doanh của bên mua",
+    "answer": "c",
+    "explanation": "Công chứng viên cần chú ý dấu hiệu kê khai giá thấp giả tạo để trốn thuế hoặc che giấu giao dịch."
+  },
+  {
+    "question": "Thu nhập từ nhận thừa kế là bất động sản giữa vợ và chồng:",
+    "a": "Luôn phải nộp thuế 2%",
+    "b": "Được miễn thuế thu nhập cá nhân",
+    "c": "Chỉ miễn lệ phí trước bạ",
+    "d": "Không được công chứng",
+    "answer": "b",
+    "explanation": "Thừa kế bất động sản giữa vợ và chồng thuộc trường hợp được miễn thuế thu nhập cá nhân."
+  },
+  {
+    "question": "Văn phòng công chứng khi hoạt động có doanh thu phải thực hiện nghĩa vụ nào sau đây?",
+    "a": "Không cần kê khai thuế",
+    "b": "Chỉ nộp lệ phí môn bài",
+    "c": "Kê khai và thực hiện nghĩa vụ thuế theo quy định",
+    "d": "Chỉ cần báo cáo với Sở Tư pháp",
+    "answer": "c",
+    "explanation": "Văn phòng công chứng là tổ chức hành nghề có phát sinh doanh thu nên phải thực hiện nghĩa vụ thuế theo quy định."
+  },
+  {
+    "question": "Khoản thu nào sau đây trong hoạt động công chứng là khoản thu nhà nước?",
+    "a": "Thù lao công chứng",
+    "b": "Chi phí sao chụp",
+    "c": "Phí công chứng",
+    "d": "Chi phí đi lại",
+    "answer": "c",
+    "explanation": "Phí công chứng là khoản thu thuộc ngân sách nhà nước theo quy định về phí và lệ phí."
+  },
+  {
+    "question": "Khoản tiền các tổ chức hành nghề công chứng thu để soạn thảo hợp đồng theo yêu cầu của khách hàng được gọi là:",
+    "a": "Thuế công chứng",
+    "b": "Lệ phí công chứng",
+    "c": "Thù lao công chứng",
+    "d": "Phạt vi phạm",
+    "answer": "c",
+    "explanation": "Thù lao công chứng là khoản thu dịch vụ do tổ chức hành nghề công chứng thực hiện."
+  },
+  {
+    "question": "Theo quy định về lệ phí trước bạ, người nhận tặng cho nhà đất giữa anh chị em ruột:",
+    "a": "Luôn phải nộp lệ phí trước bạ",
+    "b": "Được miễn lệ phí trước bạ",
+    "c": "Chỉ được miễn một phần",
+    "d": "Không được đăng ký sang tên",
+    "answer": "b",
+    "explanation": "Nhận tặng cho nhà đất giữa anh, chị, em ruột thuộc trường hợp được miễn lệ phí trước bạ."
+  },
+  {
+    "question": "Theo quy định về thuế thu nhập cá nhân, thu nhập từ nhận quà tặng là bất động sản giữa cha nuôi hợp pháp và con nuôi hợp pháp:",
+    "a": "Phải nộp thuế 2%",
+    "b": "Được miễn thuế thu nhập cá nhân",
+    "c": "Chỉ miễn lệ phí trước bạ",
+    "d": "Không được công chứng",
+    "answer": "b",
+    "explanation": "Quan hệ cha nuôi, mẹ nuôi với con nuôi hợp pháp thuộc trường hợp được miễn thuế thu nhập cá nhân khi nhận tặng cho bất động sản."
+  },
+  {
+    "question": "Trong hồ sơ công chứng hợp đồng chuyển nhượng quyền sử dụng đất, giấy tờ nào thường được sử dụng để xác định căn cứ miễn thuế giữa người thân?",
+    "a": "Hợp đồng lao động",
+    "b": "Giấy khám sức khỏe",
+    "c": "Giấy tờ hộ tịch chứng minh quan hệ nhân thân",
+    "d": "Sổ tạm trú",
+    "answer": "c",
+    "explanation": "Cơ quan công chứng và cơ quan thuế thường yêu cầu giấy tờ hộ tịch để chứng minh quan hệ được miễn thuế."
+  },
+  {
+    "question": "Theo quy định về lệ phí trước bạ, nhà đất nhận thừa kế giữa ông bà và cháu ruột:",
+    "a": "Không được miễn lệ phí trước bạ",
+    "b": "Được miễn lệ phí trước bạ",
+    "c": "Chỉ miễn đối với nhà ở",
+    "d": "Chỉ miễn đối với đất nông nghiệp",
+    "answer": "b",
+    "explanation": "Nhận thừa kế nhà đất giữa ông bà và cháu ruột thuộc trường hợp được miễn lệ phí trước bạ."
+  },
+  {
+    "question": "Trong giao dịch nhà đất, việc thanh toán qua ngân hàng ngày càng được chú trọng nhằm:",
+    "a": "Giảm giá trị hợp đồng",
+    "b": "Hạn chế việc công chứng",
+    "c": "Tăng tính minh bạch và kiểm soát thuế",
+    "d": "Thay thế giấy chứng nhận quyền sử dụng đất",
+    "answer": "c",
+    "explanation": "Thanh toán không dùng tiền mặt giúp kiểm soát dòng tiền và hạn chế gian lận thuế."
+  },
+  {
+    "question": "Theo thực tiễn hành nghề công chứng, dấu hiệu nào sau đây có thể khiến công chứng viên lưu ý về nguy cơ trốn thuế?",
+    "a": "Các bên giao tiếp lịch sự",
+    "b": "Giá chuyển nhượng thấp bất thường so với thị trường",
+    "c": "Hợp đồng được đánh máy",
+    "d": "Bên bán xuất trình căn cước công dân",
+    "answer": "b",
+    "explanation": "Giá chuyển nhượng thấp bất thường có thể là dấu hiệu kê khai không đúng thực tế nhằm giảm nghĩa vụ thuế."
+  },
+  {
+    "question": "Theo quy định về lệ phí trước bạ, người nhận chuyển nhượng nhà đất thông thường sẽ:",
+    "a": "Không phải nộp lệ phí trước bạ",
+    "b": "Phải nộp lệ phí trước bạ khi đăng ký sang tên",
+    "c": "Chỉ nộp khi có tranh chấp",
+    "d": "Chỉ nộp nếu tài sản có giá trị lớn",
+    "answer": "b",
+    "explanation": "Lệ phí trước bạ là nghĩa vụ tài chính phổ biến khi đăng ký quyền sở hữu, sử dụng nhà đất."
+  },
+  {
+    "question": "Trong thực tiễn công chứng, việc các bên lập hai hợp đồng với hai mức giá khác nhau có thể nhằm mục đích:",
+    "a": "Tăng lệ phí trước bạ",
+    "b": "Giảm thời gian công chứng",
+    "c": "Che giấu giá giao dịch thực tế để giảm thuế",
+    "d": "Bảo đảm hợp đồng vô hiệu",
+    "answer": "c",
+    "explanation": "Một số trường hợp lập hợp đồng ghi giá thấp nhằm giảm thuế và nghĩa vụ tài chính."
+  },
+  {
+    "question": "Theo quy định về thuế thu nhập cá nhân, thu nhập từ chuyển nhượng bất động sản của cá nhân thường phải:",
+    "a": "Kê khai với cơ quan thuế",
+    "b": "Xin phép Sở Tư pháp",
+    "c": "Đăng ký tại UBND xã",
+    "d": "Nộp cho Văn phòng công chứng",
+    "answer": "a",
+    "explanation": "Người có thu nhập từ chuyển nhượng bất động sản phải thực hiện kê khai thuế theo quy định."
+  },
+  {
+    "question": "Trong hoạt động hành nghề công chứng, hóa đơn điện tử thường được sử dụng nhằm:",
+    "a": "Thay thế hoàn toàn hợp đồng công chứng",
+    "b": "Ghi nhận doanh thu và thực hiện nghĩa vụ thuế",
+    "c": "Xác nhận quyền sử dụng đất",
+    "d": "Miễn thuế cho khách hàng",
+    "answer": "b",
+    "explanation": "Hóa đơn điện tử được sử dụng để quản lý doanh thu và thực hiện nghĩa vụ thuế của tổ chức hành nghề công chứng."
+  },
+  {
+    "question": "Theo pháp luật thuế, hành vi cố ý kê khai sai nhằm giảm số thuế phải nộp có thể bị:",
+    "a": "Khuyến khích vì giảm chi phí",
+    "b": "Xử lý theo quy định pháp luật về thuế",
+    "c": "Miễn trách nhiệm nếu đã công chứng",
+    "d": "Tự động hợp pháp hóa",
+    "answer": "b",
+    "explanation": "Kê khai sai nhằm giảm nghĩa vụ thuế là hành vi vi phạm pháp luật thuế và có thể bị xử phạt."
+  },
+  {
+    "question": "Theo quy định về miễn thuế thu nhập cá nhân, quan hệ nào sau đây KHÔNG thuộc diện miễn thuế khi tặng cho bất động sản?",
+    "a": "Mẹ vợ và con rể",
+    "b": "Cha chồng và con dâu",
+    "c": "Anh em họ",
+    "d": "Ông nội và cháu nội",
+    "answer": "c",
+    "explanation": "Anh em họ không thuộc nhóm quan hệ được miễn thuế thu nhập cá nhân đối với tặng cho bất động sản."
+  },
+  {
+    "question": "Theo thực tiễn công chứng, việc kiểm tra thông tin nhân thân của các bên trong giao dịch bất động sản có ý nghĩa gì đối với nghĩa vụ thuế?",
+    "a": "Không có ý nghĩa gì",
+    "b": "Làm tăng phí công chứng",
+    "c": "Giúp xác định trường hợp miễn thuế, miễn lệ phí",
+    "d": "Thay thế việc đăng ký đất đai",
+    "answer": "c",
+    "explanation": "Thông tin nhân thân là căn cứ để xác định quan hệ được miễn thuế thu nhập cá nhân và lệ phí trước bạ."
+  },
+  {
+    "question": "Theo Luật Thuế thu nhập doanh nghiệp 2025, Văn phòng công chứng hoạt động có thu nhập chịu thuế thì:",
+    "a": "Không thuộc đối tượng điều chỉnh",
+    "b": "Có thể phát sinh nghĩa vụ thuế theo quy định",
+    "c": "Chỉ nộp thuế khi có tranh chấp",
+    "d": "Được miễn toàn bộ nghĩa vụ tài chính",
+    "answer": "b",
+    "explanation": "Tổ chức hành nghề công chứng có hoạt động tạo doanh thu và thu nhập thì phải thực hiện nghĩa vụ thuế theo quy định pháp luật."
+  },
+  {
+    "question": "Khi tiếp nhận hồ sơ công chứng hợp đồng tặng cho nhà đất giữa cha mẹ và con, công chứng viên thường lưu ý vấn đề nào sau đây?",
+    "a": "Mức lương của các bên",
+    "b": "Giấy tờ chứng minh quan hệ nhân thân để áp dụng miễn thuế",
+    "c": "Loại phương tiện di chuyển của các bên",
+    "d": "Nơi làm việc trước đây của bên nhận tặng cho",
+    "answer": "b",
+    "explanation": "Quan hệ cha mẹ và con là căn cứ quan trọng để xác định trường hợp miễn thuế và miễn lệ phí trước bạ."
+  },
+  {
+    "question": "Theo quy định hiện hành, lệ phí trước bạ đối với nhà đất thường phát sinh khi:",
+    "a": "Ký hợp đồng đặt cọc",
+    "b": "Đăng ký quyền sở hữu, quyền sử dụng",
+    "c": "Công chứng di chúc",
+    "d": "Xác nhận tình trạng hôn nhân",
+    "answer": "b",
+    "explanation": "Lệ phí trước bạ thường phát sinh khi thực hiện đăng ký quyền sở hữu, quyền sử dụng đối với nhà đất."
+  },
+   {
     "question": "Theo NQ 02/2022/NQ-HĐTP, để phát sinh trách nhiệm bồi thường thiệt hại ngoài hợp đồng, cần có những yếu tố nào?",
     "a": "Có hành vi xâm phạm, có thiệt hại thực tế, có quan hệ nhân quả",
     "b": "Có hành vi trái pháp luật, lỗi của người gây thiệt hại, có thiệt hại thực tế",
