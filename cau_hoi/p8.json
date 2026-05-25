@@ -1,5 +1,374 @@
 [
   {
+    "question": "Theo Luật Doanh nghiệp 2020, thời điểm người mua cổ phần trở thành cổ đông của công ty là khi nào?",
+    "a": "Khi nhận được thông báo cấp cổ phiếu từ công ty",
+    "b": "Khi ký hợp đồng mua cổ phần và hoàn thành việc thanh toán",
+    "c": "Khi thông tin của người mua được ghi đầy đủ vào sổ đăng ký cổ đông",
+    "d": "Khi Đại hội đồng cổ đông thông qua danh sách cổ đông mới",
+    "answer": "c",
+    "explanation": "Theo khoản 4 Điều 124 và khoản 5 Điều 113 Luật Doanh nghiệp 2020, người mua cổ phần trở thành cổ đông kể từ thời điểm các thông tin quy định tại khoản 2 Điều 122 được ghi đầy đủ vào sổ đăng ký cổ đông."
+  },
+  {
+    "question": "Cổ đông sáng lập được quyền tự do chuyển nhượng cổ phần phổ thông của mình cho ai trong thời hạn 03 năm kể từ ngày công ty được cấp Giấy chứng nhận đăng ký doanh nghiệp?",
+    "a": "Cho bất kỳ cá nhân hoặc tổ chức nào",
+    "b": "Chỉ được chuyển nhượng cho cổ đông sáng lập khác",
+    "c": "Cho người ngoài nếu Hội đồng quản trị chấp thuận",
+    "d": "Không được phép chuyển nhượng trong mọi trường hợp",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 120 Luật Doanh nghiệp 2020: Trong thời hạn 03 năm, cổ phần phổ thông của cổ đông sáng lập được tự do chuyển nhượng cho cổ đông sáng lập khác và chỉ được chuyển nhượng cho người không phải là cổ đông sáng lập nếu được sự chấp thuận của Đại hội đồng cổ đông."
+  },
+  {
+    "question": "Loại cổ phần nào sau đây không có quyền biểu quyết, dự họp Đại hội đồng cổ đông và đề cử người vào Hội đồng quản trị?",
+    "a": "Cổ phần phổ thông",
+    "b": "Cổ phần ưu đãi biểu quyết",
+    "c": "Cổ phần ưu đãi cổ tức",
+    "d": "Cổ phần ưu đãi hoàn lại",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 117 Luật Doanh nghiệp 2020: Cổ đông sở hữu cổ phần ưu đãi cổ tức không có quyền biểu quyết, dự họp Đại hội đồng cổ đông, đề cử người vào Hội đồng quản trị và Ban kiểm soát."
+  },
+  {
+    "question": "Cổ phần ưu đãi biểu quyết của cổ đông sáng lập có hiệu lực trong thời hạn bao lâu kể từ ngày công ty được cấp Giấy chứng nhận đăng ký doanh nghiệp?",
+    "a": "01 năm",
+    "b": "02 năm",
+    "c": "03 năm",
+    "d": "05 năm",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 116 Luật Doanh nghiệp 2020: Ưu đãi biểu quyết của cổ đông sáng lập có hiệu lực trong 03 năm kể từ ngày công ty được cấp Giấy chứng nhận đăng ký doanh nghiệp."
+  },
+  {
+    "question": "Sau thời hạn góp vốn 90 ngày, cổ đông chưa thanh toán số cổ phần đã đăng ký mua thì hậu quả pháp lý nào xảy ra?",
+    "a": "Đương nhiên không còn là cổ đông của công ty",
+    "b": "Bị công ty thu hồi cổ phần và buộc bồi thường thiệt hại",
+    "c": "Vẫn là cổ đông nhưng mất quyền biểu quyết cho đến khi nộp đủ",
+    "d": "Cổ phần đó tự động chuyển thành cổ phần chưa bán của công ty",
+    "answer": "a",
+    "explanation": "Theo điểm a khoản 3 Điều 113 Luật Doanh nghiệp 2020: Cổ đông chưa thanh toán số cổ phần đã đăng ký mua đương nhiên không còn là cổ đông của công ty."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, công ty cổ phần phải đăng ký điều chỉnh vốn điều lệ trong thời hạn bao lâu kể từ ngày kết thúc thời hạn thanh toán cổ phần đăng ký mua?",
+    "a": "10 ngày",
+    "b": "15 ngày",
+    "c": "30 ngày",
+    "d": "60 ngày",
+    "answer": "c",
+    "explanation": "Theo điểm d khoản 3 Điều 113 Luật Doanh nghiệp 2020: Công ty phải đăng ký điều chỉnh vốn điều lệ tương ứng với giá trị cổ phần đã được thanh toán đủ trong thời hạn 30 ngày kể từ ngày kết thúc thời hạn phải thanh toán đủ."
+  },
+  {
+    "question": "Cổ đông hoặc nhóm cổ đông sở hữu từ bao nhiêu phần trăm tổng số cổ phần phổ thông trở lên có quyền yêu cầu triệu tập họp Đại hội đồng cổ đông?",
+    "a": "03%",
+    "b": "05%",
+    "c": "10%",
+    "d": "20%",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 115 Luật Doanh nghiệp 2020: Cổ đông hoặc nhóm cổ đông sở hữu từ 05% tổng số cổ phần phổ thông trở lên (hoặc một tỷ lệ khác nhỏ hơn theo quy định tại Điều lệ công ty) có quyền yêu cầu triệu tập họp Đại hội đồng cổ đông."
+  },
+  {
+    "question": "Cổ đông hoặc nhóm cổ đông sở hữu từ bao nhiêu phần trăm tổng số cổ phần phổ thông trở lên có quyền đề cử người vào Hội đồng quản trị?",
+    "a": "05%",
+    "b": "07%",
+    "c": "10%",
+    "d": "20%",
+    "answer": "c",
+    "explanation": "Theo khoản 5 Điều 115 Luật Doanh nghiệp 2020: Cổ đông hoặc nhóm cổ đông sở hữu từ 10% tổng số cổ phần phổ thông trở lên (hoặc tỷ lệ khác nhỏ hơn theo Điều lệ công ty) có quyền đề cử người vào Hội đồng quản trị và Ban kiểm soát."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, công ty cổ phần có dưới 11 cổ đông và các cổ đông là tổ chức sở hữu dưới 50% tổng số cổ phần thì:",
+    "a": "Bắt buộc phải có Ban kiểm soát",
+    "b": "Không bắt buộc phải có Ban kiểm soát",
+    "c": "Phải có ít nhất 02 Kiểm soát viên",
+    "d": "Phải thành lập Ủy ban kiểm toán trực thuộc Hội đồng quản trị",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 1 Điều 137 Luật Doanh nghiệp 2020: Trường hợp công ty có dưới 11 cổ đông và các cổ đông là tổ chức sở hữu dưới 50% tổng số cổ phần của công ty thì không bắt buộc phải có Ban kiểm soát."
+  },
+  {
+    "question": "Đại hội đồng cổ đông thường niên phải được họp trong thời hạn bao lâu kể từ ngày kết thúc năm tài chính?",
+    "a": "02 tháng",
+    "b": "03 tháng",
+    "c": "04 tháng",
+    "d": "06 tháng",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 139 Luật Doanh nghiệp 2020: Đại hội đồng cổ đông phải họp thường niên trong thời hạn 04 tháng kể từ ngày kết thúc năm tài chính."
+  },
+  {
+    "question": "Hội đồng quản trị được quyền quyết định mua lại không quá bao nhiêu phần trăm tổng số cổ phần của từng loại đã bán trong thời hạn 12 tháng?",
+    "a": "05%",
+    "b": "10%",
+    "c": "20%",
+    "d": "30%",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 133 Luật Doanh nghiệp 2020: Hội đồng quản trị có quyền quyết định mua lại không quá 10% tổng số cổ phần của từng loại đã bán trong thời hạn 12 tháng."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, công ty cổ phần có quyền mua lại tối đa bao nhiêu phần trăm tổng số cổ phần phổ thông đã bán?",
+    "a": "10%",
+    "b": "20%",
+    "c": "30%",
+    "d": "51%",
+    "answer": "c",
+    "explanation": "Theo Điều 133 Luật Doanh nghiệp 2020: Công ty có quyền mua lại không quá 30% tổng số cổ phần phổ thông đã bán."
+  },
+  {
+    "question": "Cổ đông đã biểu quyết không thông qua nghị quyết về tổ chức lại công ty có quyền yêu cầu công ty mua lại cổ phần trong thời hạn bao lâu kể từ ngày nghị quyết được thông qua?",
+    "a": "05 ngày",
+    "b": "07 ngày",
+    "c": "10 ngày",
+    "d": "15 ngày",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 132 Luật Doanh nghiệp 2020: Cổ đông biểu quyết không thông qua nghị quyết có quyền yêu cầu công ty mua lại cổ phần của mình bằng văn bản trong thời hạn 10 ngày kể từ ngày Đại hội đồng cổ đông thông qua nghị quyết."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, công ty phải mua lại cổ phần theo yêu cầu hợp lệ của cổ đông trong thời hạn bao lâu?",
+    "a": "30 ngày",
+    "b": "60 ngày",
+    "c": "90 ngày",
+    "d": "120 ngày",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 132 Luật Doanh nghiệp 2020: Công ty phải mua lại cổ phần theo yêu cầu của cổ đông trong thời hạn 90 ngày kể từ ngày nhận được yêu cầu."
+  },
+  {
+    "question": "Điều kiện nào sau đây bắt buộc phải có để công ty cổ phần được trả cổ tức cho cổ phần phổ thông?",
+    "a": "Công ty có doanh thu từ hoạt động kinh doanh",
+    "b": "Công ty có lợi nhuận để lại từ các năm trước",
+    "c": "Bảo đảm thanh toán đủ các khoản nợ và nghĩa vụ tài sản khác đến hạn sau khi trả cổ tức",
+    "d": "Đã trích lập đủ các quỹ dự trữ theo quy định của pháp luật",
+    "answer": "c",
+    "explanation": "Theo điểm c khoản 2 Điều 135 Luật Doanh nghiệp 2020: Công ty chỉ được trả cổ tức khi bảo đảm thanh toán đủ các khoản nợ và nghĩa vụ tài sản khác đến hạn sau khi đã hoàn thành việc trả cổ tức."
+  },
+  {
+    "question": "Cổ tức của cổ phần phổ thông có thể được chi trả bằng hình thức nào?",
+    "a": "Chỉ bằng tiền mặt (VND)",
+    "b": "Chỉ bằng cổ phần của công ty",
+    "c": "Tiền mặt hoặc tài sản khác quy định tại Điều lệ",
+    "d": "Tiền mặt, cổ phần hoặc tài sản khác theo quy định tại Điều lệ công ty",
+    "answer": "d",
+    "explanation": "Theo khoản 3 Điều 135 Luật Doanh nghiệp 2020: Cổ tức có thể được chi trả bằng tiền mặt, cổ phần hoặc tài sản khác theo quy định tại Điều lệ công ty."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, cổ phần được tự do chuyển nhượng trừ trường hợp nào?",
+    "a": "Cổ đông không đồng ý bán",
+    "b": "Điều lệ công ty hạn chế quyền chuyển nhượng",
+    "c": "Hạn chế đối với cổ đông sáng lập theo khoản 3 Điều 120 và hạn chế được ghi rõ trong cổ phiếu",
+    "d": "Hội đồng quản trị không đồng ý về giá chuyển nhượng",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 127 Luật Doanh nghiệp 2020: Cổ phần được tự do chuyển nhượng, trừ trường hợp hạn chế theo khoản 3 Điều 120 (cổ đông sáng lập) và trường hợp hạn chế được ghi rõ trong cổ phiếu."
+  },
+  {
+    "question": "Công ty cổ phần phải cập nhật thay đổi cổ đông trong sổ đăng ký cổ đông theo yêu cầu của cổ đông có liên quan trong thời hạn bao lâu?",
+    "a": "12 giờ",
+    "b": "24 giờ",
+    "c": "03 ngày làm việc",
+    "d": "07 ngày làm việc",
+    "answer": "b",
+    "explanation": "Theo khoản 7 Điều 127 Luật Doanh nghiệp 2020: Công ty phải đăng ký thay đổi cổ đông trong sổ đăng ký cổ đông theo yêu cầu của cổ đông có liên quan trong thời hạn 24 giờ kể từ khi nhận được yêu cầu."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, ai có quyền quyết định giá bán cổ phần trong các đợt chào bán?",
+    "a": "Đại hội đồng cổ đông",
+    "b": "Ban kiểm soát",
+    "c": "Hội đồng quản trị",
+    "d": "Giám đốc hoặc Tổng giám đốc",
+    "answer": "c",
+    "explanation": "Theo Điều 126 Luật Doanh nghiệp 2020: Hội đồng quản trị quyết định thời điểm, phương thức và giá bán cổ phần."
+  },
+  {
+    "question": "Đại hội đồng cổ đông có thẩm quyền quyết định đầu tư hoặc bán tài sản có giá trị từ bao nhiêu phần trăm tổng giá trị tài sản trở lên?",
+    "a": "20%",
+    "b": "30%",
+    "c": "35%",
+    "d": "51%",
+    "answer": "c",
+    "explanation": "Theo điểm d khoản 2 Điều 138 Luật Doanh nghiệp 2020: Đại hội đồng cổ đông quyết định đối với các dự án đầu tư hoặc bán tài sản có giá trị từ 35% tổng giá trị tài sản trở lên được ghi trong báo cáo tài chính gần nhất (trừ trường hợp Điều lệ quy định tỷ lệ khác)."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, cổ phiếu phải có nội dung nào sau đây?",
+    "a": "Mức lương của Giám đốc hoặc Tổng giám đốc",
+    "b": "Tên, mã số doanh nghiệp và địa chỉ trụ sở chính của công ty",
+    "c": "Tài khoản ngân hàng của cổ đông sở hữu cổ phiếu",
+    "d": "Kế hoạch kinh doanh và dự báo lợi nhuận của công ty",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 1 Điều 121 Luật Doanh nghiệp 2020, cổ phiếu phải có các nội dung chủ yếu như: Tên, mã số doanh nghiệp và địa chỉ trụ sở chính của công ty."
+  },
+  {
+    "question": "Trường hợp cổ phiếu bị mất hoặc hư hỏng, cổ đông muốn được cấp lại phải có nội dung nào trong đề nghị cấp lại?",
+    "a": "Cam kết về việc chuyển nhượng cổ phần sau khi được cấp lại",
+    "b": "Cam kết chịu trách nhiệm về các tranh chấp phát sinh từ việc cấp lại cổ phiếu",
+    "c": "Xác nhận của cơ quan công an về việc mất giấy tờ",
+    "d": "Nghị quyết của Đại hội đồng cổ đông phê duyệt việc cấp lại",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 3 Điều 121 Luật Doanh nghiệp 2020, đề nghị cấp lại cổ phiếu phải có cam kết chịu trách nhiệm về các tranh chấp phát sinh từ việc cấp lại cổ phiếu."
+  },
+  {
+    "question": "Sổ đăng ký cổ đông có thể tồn tại dưới hình thức nào?",
+    "a": "Chỉ được phép tồn tại dưới hình thức văn bản giấy",
+    "b": "Chỉ được phép tồn tại dưới hình thức dữ liệu điện tử",
+    "c": "Văn bản giấy, tập dữ liệu điện tử hoặc cả hai hình thức này",
+    "d": "Phải là bản sao công chứng được lưu trữ tại trụ sở chính",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 122 Luật Doanh nghiệp 2020, sổ đăng ký cổ đông là văn bản giấy, tập dữ liệu điện tử hoặc cả hai loại hình thức này."
+  },
+  {
+    "question": "Cổ đông có quyền nào sau đây đối với sổ đăng ký cổ đông?",
+    "a": "Được phép xóa tên cổ đông khác nếu có bằng chứng vi phạm",
+    "b": "Được quyền tự ý sửa đổi Điều lệ công ty trong sổ",
+    "c": "Được kiểm tra, tra cứu, trích lục, sao chép tên và địa chỉ liên lạc của cổ đông",
+    "d": "Được quyền bán cổ phần của cổ đông khác trong sổ",
+    "answer": "c",
+    "explanation": "Theo khoản 3 Điều 122 Luật Doanh nghiệp 2020, cổ đông có quyền kiểm tra, tra cứu, trích lục, sao chép tên và địa chỉ liên lạc của cổ đông trong sổ đăng ký cổ đông."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, chào bán cổ phần là việc:",
+    "a": "Công ty thực hiện mua lại cổ phần từ các cổ đông",
+    "b": "Công ty thực hiện các thủ tục để giảm vốn điều lệ",
+    "c": "Công ty tăng thêm số lượng cổ phần được quyền chào bán để tăng vốn điều lệ",
+    "d": "Cổ đông thực hiện bán cổ phần hiện có của mình cho người khác",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 123 Luật Doanh nghiệp 2020, chào bán cổ phần là việc công ty tăng thêm số lượng cổ phần được quyền chào bán để tăng vốn điều lệ."
+  },
+  {
+    "question": "Thông báo chào bán cổ phần cho cổ đông hiện hữu phải được gửi chậm nhất bao nhiêu ngày trước ngày kết thúc thời hạn đăng ký mua cổ phần?",
+    "a": "05 ngày",
+    "b": "10 ngày",
+    "c": "15 ngày",
+    "d": "30 ngày",
+    "answer": "c",
+    "explanation": "Theo điểm a khoản 2 Điều 124 Luật Doanh nghiệp 2020, thông báo chào bán phải được gửi chậm nhất 15 ngày trước ngày kết thúc thời hạn đăng ký mua cổ phần."
+  },
+  {
+    "question": "Cổ đông trong đợt chào bán cổ phần cho cổ đông hiện hữu có quyền nào sau đây?",
+    "a": "Từ chối quyền ưu tiên mua và không được phép chuyển nhượng quyền này",
+    "b": "Chỉ được mua đúng số lượng mà công ty phân bổ",
+    "c": "Được quyền chuyển quyền ưu tiên mua cổ phần của mình cho người khác",
+    "d": "Được quyền yêu cầu Hội đồng quản trị hủy đợt chào bán nếu không đồng ý giá",
+    "answer": "c",
+    "explanation": "Theo điểm c khoản 2 Điều 124 Luật Doanh nghiệp 2020, cổ đông có quyền chuyển quyền ưu tiên mua cổ phần của mình cho người khác."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, chào bán cổ phần riêng lẻ KHÔNG được thực hiện thông qua hình thức nào?",
+    "a": "Chào bán cho nhà đầu tư chiến lược",
+    "b": "Chào bán cho nhà đầu tư chứng khoán chuyên nghiệp",
+    "c": "Chào bán thông qua phương tiện thông tin đại chúng",
+    "d": "Chào bán cho cổ đông hiện hữu thông qua thỏa thuận trực tiếp",
+    "answer": "c",
+    "explanation": "Theo điểm a khoản 1 Điều 125 Luật Doanh nghiệp 2020, chào bán cổ phần riêng lẻ không được thực hiện thông qua phương tiện thông tin đại chúng."
+  },
+  {
+    "question": "Chào bán cổ phần riêng lẻ của công ty cổ phần không phải công ty đại chúng được chào bán cho dưới bao nhiêu nhà đầu tư?",
+    "a": "50 nhà đầu tư",
+    "b": "100 nhà đầu tư",
+    "c": "200 nhà đầu tư",
+    "d": "300 nhà đầu tư",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 1 Điều 125 Luật Doanh nghiệp 2020, chào bán cổ phần riêng lẻ là việc chào bán cho dưới 100 nhà đầu tư, không kể nhà đầu tư chứng khoán chuyên nghiệp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, giá bán cổ phần không được thấp hơn giá thị trường, TRỪ trường hợp nào?",
+    "a": "Cổ phần được chào bán lần đầu tiên cho người không phải cổ đông sáng lập",
+    "b": "Cổ phần bán cho người thân của Giám đốc điều hành",
+    "c": "Cổ phần bán ưu đãi cho nhân viên công ty",
+    "d": "Cổ phần bán cho cổ đông đang sở hữu dưới 1% vốn điều lệ",
+    "answer": "a",
+    "explanation": "Theo khoản 1 Điều 126 Luật Doanh nghiệp 2020, giá bán cổ phần không được thấp hơn giá thị trường, ngoại trừ trường hợp chào bán lần đầu tiên cho người không phải cổ đông sáng lập."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, cổ đông sở hữu cổ phần ưu đãi biểu quyết:",
+    "a": "Được tự do chuyển nhượng cổ phần đó cho bất kỳ ai",
+    "b": "Không được chuyển nhượng, trừ trường hợp theo bản án, quyết định của Tòa án hoặc thừa kế",
+    "c": "Chỉ được chuyển nhượng cho các cổ đông sáng lập khác",
+    "d": "Được phép chuyển nhượng sau khi nắm giữ đủ 01 năm",
+    "answer": "b",
+    "explanation": "Theo khoản 3 Điều 116 Luật Doanh nghiệp 2020, cổ đông sở hữu cổ phần ưu đãi biểu quyết không được chuyển nhượng cổ phần đó cho người khác, trừ trường hợp theo bản án, quyết định của Tòa án đã có hiệu lực pháp luật hoặc thừa kế."
+  },
+  {
+    "question": "Cổ đông sở hữu cổ phần ưu đãi hoàn lại có quyền nào sau đây?",
+    "a": "Quyền đề cử người vào Hội đồng quản trị",
+    "b": "Quyền biểu quyết đối với mọi vấn đề tại Đại hội đồng cổ đông",
+    "c": "Quyền yêu cầu công ty hoàn lại vốn góp theo các điều kiện đã ghi trong cổ phiếu",
+    "d": "Đương nhiên trở thành thành viên Ban kiểm soát",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 118 Luật Doanh nghiệp 2020, cổ phần ưu đãi hoàn lại là cổ phần được công ty hoàn lại vốn góp theo yêu cầu của người sở hữu hoặc theo các điều kiện được ghi tại cổ phiếu."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, cổ đông không được thực hiện hành vi nào sau đây?",
+    "a": "Nhận cổ tức từ lợi nhuận công ty",
+    "b": "Tự do chuyển nhượng cổ phần phổ thông",
+    "c": "Rút vốn đã góp bằng cổ phần phổ thông khỏi công ty trái quy định của pháp luật",
+    "d": "Tham dự và biểu quyết tại các kỳ Đại hội đồng cổ đông",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 119 Luật Doanh nghiệp 2020, cổ đông không được rút vốn đã góp bằng cổ phần phổ thông ra khỏi công ty dưới mọi hình thức, trừ trường hợp được công ty hoặc người khác mua lại."
+  },
+  {
+    "question": "Nếu cổ đông rút vốn đã góp trái pháp luật thì ai phải liên đới chịu trách nhiệm?",
+    "a": "Chỉ mình cổ đông đó",
+    "b": "Chỉ mình Hội đồng quản trị",
+    "c": "Cổ đông đó và người có lợi ích liên quan",
+    "d": "Chỉ mình Giám đốc hoặc Tổng giám đốc",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 119 Luật Doanh nghiệp 2020, trường hợp rút vốn trái pháp luật, cổ đông đó và người có lợi ích liên quan phải liên đới chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản khác của công ty."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, công ty cổ phần mới thành lập phải có tối thiểu bao nhiêu cổ đông sáng lập?",
+    "a": "01 cổ đông",
+    "b": "02 cổ đông",
+    "c": "03 cổ đông",
+    "d": "05 cổ đông",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 120 Luật Doanh nghiệp 2020, công ty cổ phần khi mới thành lập phải có ít nhất 03 cổ đông sáng lập."
+  },
+  {
+    "question": "Các cổ đông sáng lập phải cùng nhau đăng ký mua tối thiểu bao nhiêu phần trăm tổng số cổ phần phổ thông được quyền chào bán?",
+    "a": "10%",
+    "b": "15%",
+    "c": "20%",
+    "d": "30%",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 120 Luật Doanh nghiệp 2020, các cổ đông sáng lập phải cùng nhau đăng ký mua ít nhất 20% tổng số cổ phần phổ thông được quyền chào bán."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, công ty cổ phần không phải công ty đại chúng chào bán trái phiếu riêng lẻ cho dưới bao nhiêu nhà đầu tư?",
+    "a": "50 nhà đầu tư",
+    "b": "100 nhà đầu tư",
+    "c": "150 nhà đầu tư",
+    "d": "200 nhà đầu tư",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 128 Luật Doanh nghiệp 2020, chào bán trái phiếu riêng lẻ là chào bán cho dưới 100 nhà đầu tư, không kể nhà đầu tư chứng khoán chuyên nghiệp."
+  },
+  {
+    "question": "Điều kiện nào sau đây là bắt buộc khi công ty cổ phần không phải công ty đại chúng chào bán trái phiếu riêng lẻ?",
+    "a": "Công ty phải có lãi liên tục trong 05 năm",
+    "b": "Công ty phải có báo cáo tài chính của năm trước liền kề được kiểm toán",
+    "c": "Công ty phải có vốn điều lệ tối thiểu 100 tỷ đồng",
+    "d": "Việc chào bán phải được Ủy ban nhân dân cấp tỉnh chấp thuận",
+    "answer": "b",
+    "explanation": "Theo điểm b khoản 3 Điều 128 Luật Doanh nghiệp 2020, một trong các điều kiện chào bán là phải có báo cáo tài chính của năm trước liền kề được kiểm toán."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, trái phiếu phát hành riêng lẻ được chuyển nhượng giữa:",
+    "a": "Mọi cá nhân hoặc tổ chức có nhu cầu",
+    "b": "Chỉ các cổ đông hiện hữu của công ty",
+    "c": "Các nhà đầu tư đáp ứng điều kiện theo quy định của pháp luật",
+    "d": "Người lao động trong công ty và các bên liên quan",
+    "answer": "c",
+    "explanation": "Theo khoản 4 Điều 129 Luật Doanh nghiệp 2020, trái phiếu phát hành riêng lẻ được chuyển nhượng giữa các nhà đầu tư đáp ứng điều kiện theo quy định của pháp luật."
+  },
+  {
+    "question": "Đối với trái phiếu chuyển đổi riêng lẻ, cơ quan nào có thẩm quyền quyết định loại và tổng giá trị trái phiếu chào bán?",
+    "a": "Giám đốc hoặc Tổng giám đốc",
+    "b": "Ban kiểm soát",
+    "c": "Hội đồng quản trị",
+    "d": "Đại hội đồng cổ đông",
+    "answer": "d",
+    "explanation": "Theo điểm a khoản 1 Điều 130 Luật Doanh nghiệp 2020, Đại hội đồng cổ đông là cơ quan quyết định đối với trái phiếu chuyển đổi và trái phiếu kèm chứng quyền."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp 2020, cổ phần và trái phiếu có thể được mua bằng loại tài sản nào sau đây?",
+    "a": "Chỉ được mua bằng Đồng Việt Nam",
+    "b": "Chỉ được mua bằng ngoại tệ mạnh",
+    "c": "Đồng Việt Nam, vàng, quyền sử dụng đất, quyền sở hữu trí tuệ và tài sản khác theo Điều lệ",
+    "d": "Chỉ được mua bằng vàng",
+    "answer": "c",
+    "explanation": "Theo Điều 131 Luật Doanh nghiệp 2020, cổ phần, trái phiếu có thể được mua bằng Đồng Việt Nam, ngoại tệ tự do chuyển đổi, vàng, quyền sử dụng đất, quyền sở hữu trí tuệ, công nghệ, bí quyết kỹ thuật và tài sản khác theo quy định tại Điều lệ công ty."
+  },
+  {
     "question": "Theo Luật Doanh nghiệp 2020, ai có quyền tự mình hoặc nhân danh công ty khởi kiện trách nhiệm dân sự đối với người quản lý công ty?",
     "a": "Thành viên Hội đồng quản trị",
     "b": "Kiểm soát viên hoặc Ban kiểm soát",
