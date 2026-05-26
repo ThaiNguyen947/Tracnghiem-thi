@@ -39,9 +39,9 @@
   "a": "Việc từ chối của công chứng viên trong tình huống trên là đúng vì hai giao dịch ủy quyền và thuê nhà là độc lập, chủ tài sản chỉ được thực hiện 1 trong 2 giao dịch mà không được tiến hành đồng thời.",
   "b": "Việc từ chối của công chứng viên trong tình huống trên không đúng vì đối tượng của việc ủy quyền là hành vi, không liên quan gì với đối tượng của hợp đồng thuê là căn nhà cho thuê.",
   "c": "Giải thích của CCV phải thực hiện chấm dứt hay thanh lý hợp đồng thuê lý do căn nhà là đối tượng của việc ủy quyền là đúng theo BLDS.",
-  "d":"Đáp án b và c đúng, chỉ a sai.",
+  "d": "Đáp án b và c đúng, chỉ a sai.",
   "answer": "b",
-  "explanation": "Việc từ chối của CCV là không đúng. Theo Điều 134 BLDS 2015 về 'Đại diện', cá nhân có quyền xác lập giao dịch thông qua người đại diện, và theo Điều 562 BLDS 2015 về 'Hợp đồng ủy quyền', các bên có quyền thỏa thuận để thực hiện công việc nhân danh bên ủy quyền. Việc ủy quyền thực hiện thủ tục hành chính (hoàn công) là quan hệ đại diện, không làm thay đổi quyền sở hữu hay quyền chiếm hữu, sử dụng của bên thuê nhà trong hợp đồng thuê hiện tại. Căn nhà vẫn đảm bảo quyền lợi cho người thuê theo hợp đồng đã ký. CCV đã nhầm lẫn khi coi việc ủy quyền hành chính là giao dịch định đoạt làm ảnh hưởng đến hợp đồng thuê, dẫn đến việc từ chối trái quy định pháp luật."
+  "explanation": "Việc từ chối của công chứng viên là không đúng. Hợp đồng ủy quyền trong trường hợp này chỉ nhằm thực hiện thủ tục hành chính liên quan đến việc đăng ký biến động, hoàn công xây dựng đối với căn nhà, không phải giao dịch chuyển quyền sở hữu, chuyển quyền sử dụng hay định đoạt tài sản đang cho thuê. Quan hệ thuê nhà vẫn tiếp tục có hiệu lực và không bị ảnh hưởng bởi việc ủy quyền thực hiện thủ tục hành chính. Do đó, căn nhà đang cho thuê không làm mất quyền lập hợp đồng ủy quyền của chủ sở hữu. Công chứng viên đã hiểu sai bản chất pháp lý của giao dịch ủy quyền khi cho rằng phải thanh lý hoặc chấm dứt hợp đồng thuê trước mới được lập hợp đồng ủy quyền."
 },
 {
   "question": "Ông A (đã được Tòa án tuyên bố là người bị hạn chế năng lực hành vi dân sự do nghiện ma túy) muốn tự mình ký tên vào hợp đồng chuyển nhượng quyền sử dụng đất cho người khác mà không có sự đồng ý của người đại diện theo pháp luật. Trong trường hợp này, CCV cần xử lý như thế nào để đảm bảo hợp đồng có hiệu lực pháp luật?",
