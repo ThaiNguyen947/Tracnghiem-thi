@@ -1,1 +1,75 @@
+[{
+  "question": "Nhằm lôi kéo thêm lượng NYCCC và giữ chân các khách hàng có quen biết, CCV A đề nghị với các CCV khác trong TCHNCC mà mình đang làm việc đặt bảng thông báo trước cổng về việc văn phòng có chỗ làm việc riêng, miễn phí trà và cà phê cũng như không phải chờ đợi theo thứ tự đối với khách hàng thân thiết (VIP) hay đối tác là nhân viên các tổ chức tín dụng thường xuyên đến giao dịch. Xác định CCV có hành vi vi phạm những việc không được làm trong trường hợp này?",
+  "a": "Không có hành vi vi phạm do không có quy định",
+  "b": "TCHNCC được toàn quyền thực hiện các chính sách ưu đãi với khách hàng thân thiết (VIP) vì hành vi này là cạnh tranh lành mạnh và không vi phạm pháp luật",
+  "c": "Có vi phạm nhưng không bị xử phạt vi phạm hành chính",
+  "d": "Vi phạm những việc công chứng viên không được làm với NYCC về hành vi phân biệt đối xử với NYCCC",
+  "answer": "d",
+  "explanation": "Hành vi của CCV A vi phạm nguyên tắc hành nghề công chứng, cụ thể: Theo Điều 7 'Đối xử bình đẳng giữa những người yêu cầu công chứng' của Bộ Quy tắc Đạo đức hành nghề công chứng (ban hành kèm theo Quyết định số 148/QĐ-HĐCCVTQ), công chứng viên không được phân biệt đối xử về địa vị xã hội, khả năng tài chính... đối với người yêu cầu công chứng. Việc ưu tiên cho nhóm khách hàng 'VIP' hoặc đối tác tín dụng là hành vi phân biệt đối xử, đi ngược lại với Điều 5 'Trách nhiệm nghề nghiệp' của cùng bộ quy tắc, vốn yêu cầu công chứng viên phải giải quyết yêu cầu công chứng một cách nhanh chóng, kịp thời trên tinh thần bình đẳng, không được lợi dụng để tạo ra sự bất bình đẳng hay cạnh tranh không lành mạnh."
+},
+{
+  "question": "Trong giờ làm việc, một NYCCC do phải chờ đợi lâu và bị chen ngang bởi một hồ sơ do cán bộ ngân hàng đem đến sau nên có thắc mắc với CCV A lý do được giải quyết trước? Người đứng đầu TCHNCC B là CCV C đứng ra giải thích là: theo quy định pháp luật với NYCCC có tài sản có giá trị lớn hay nhiều giao dịch thì TCHNCC được ban hành các quy định riêng để giải quyết ưu tiên cho các đối tượng này. Trong trường hợp này có hành vi vi phạm LCC của CCV không?",
+  "a": "CCV A và C đều vi phạm, nhưng không có quy định bị xử phạt vi phạm hành chính.",
+  "b": "CCV A và C đều vi phạm, nên cả hai đều có thể bị xử phạt vi phạm hành chính.",
+  "c": "CCV A vi phạm, nên chỉ có A có thể bị xử phạt vi phạm hành chính.",
+  "d": "CCV C vi phạm, nên chỉ có C có thể bị xử phạt vi phạm hành chính.",
+  "answer": "b",
+  "explanation": "CCV A vi phạm nguyên tắc đối xử bình đẳng giữa những người yêu cầu công chứng (Điều 7, Đối xử bình đẳng giữa những người yêu cầu công chứng) khi ưu tiên giải quyết hồ sơ cho cán bộ ngân hàng gây ảnh hưởng đến NYCCC khác. CCV C vi phạm (Khoản 3 Điều 5 Trách nhiệm nghề nghiệp) về trách nhiệm giải thích rõ ràng, trung thực (vì đã giải thích sai lệch quy định pháp luật nhằm bao che hành vi ưu tiên) và vi phạm (Khoản 12 Điều 8 Những việc công chứng viên không được làm trong quan hệ với người yêu cầu công chứng) 'Tư vấn, giải thích thiếu khách quan, thiếu trung thực'. Do đó, cả hai đều có hành vi vi phạm pháp luật và có thể bị xử phạt vi phạm hành chính."
+},
+{
+  "question": "Có một hồ sơ do thiếu giấy tờ về tình trạng hôn nhân để xác định tài sản chung/riêng, CCV A lúc đầu đã từ chối CC nhưng do người đi cùng có quen biết nói chắc chắn có nên CCV A đồng ý tiếp tục thụ lý giải quyết và phát hành VBCC và đồng ý cho NYCCC tự cam kết chịu trách nhiệm sẽ bổ sung giấy này sau để lưu vào hồ sơ CC. Việc làm này có phù hợp với quy định của LCC không?",
+  "a": "Không phù hợp vì hồ sơ phải đủ, phù hợp với quy định của pháp luật thì CCV mới được tiếp nhận giải quyết",
+  "b": "Trường hợp này CCV phải từ chối tiếp nhận, có thể trực tiếp giải thích rõ lý do hoặc trả lời bằng văn bản có nêu rõ lý do cho NYCCC.",
+  "c": "Không vi phạm vì CCV được toàn quyền xử lý trong trường hợp này, miễn sao NYCCC không khiếu nại, tố cáo, bị xử phạt vi phạm hành chính hoặc tòa án tuyên bố VBCC vô hiệu.",
+  "d": "Đáp án a và b đúng, chỉ c sai.",
+  "answer": "d",
+  "explanation": "Hành vi của CCV A là không phù hợp với quy định của pháp luật. Cụ thể: (1) Theo Luật Công chứng, hồ sơ phải đầy đủ giấy tờ hợp lệ mới được tiếp nhận giải quyết (đáp án a). (2) Khi thiếu giấy tờ, CCV phải từ chối tiếp nhận và giải thích rõ lý do (đáp án b). (3) Xét về đạo đức hành nghề, hành vi của CCV A đã vi phạm Điều 2 (nguyên tắc trung thực, tuân thủ pháp luật) và Điều 7 (nguyên tắc đối xử bình đẳng) của Bộ Quy tắc Đạo đức hành nghề công chứng (Quyết định 148/QĐ-HĐCCVTQ). Việc CCV A ưu tiên giải quyết cho người quen biết là sự phân biệt đối xử, làm mất tính khách quan và trung thực trong hành nghề, đồng thời việc cho phép 'cam kết bổ sung sau' là trái quy định, gây rủi ro pháp lý cho chính văn bản công chứng."
+},
+{
+  "question": "Vào lúc gần cuối giờ làm việc trong ngày, một ông cụ do tuổi cao, già yếu, tay run nên đọc hơi chậm và gia đình có đề nghị CCV A giải thích một số nội dung về ý nghĩa và hậu quả của việc lập di chúc, nhưng do đang phải thụ lý hồ sơ của khách quen nên CCV A đã nhờ 1 chuyên viên đọc lại toàn bộ nội dung cho họ nghe, sau đó hối thúc ông cụ ký tên cho nhanh để còn kịp phát hành VBCC trong buổi và giải thích là nếu không kịp đóng dấu sẽ phải làm lại hồ sơ vào ngày hôm sau do hết giờ hành chính theo quy định. Xác định có hành vi vi phạm của CCV hay không trong tình huống này?",
+  "a": "Không vi phạm vì LCC không quy định và cũng không có quy định xử phạt vi phạm hành chính trong trường hợp này.",
+  "b": "Không vi phạm vì CCV được quyền chủ động làm mọi việc trong khả năng cho phép để phục vụ và đáp ứng các yêu cầu của NYCCC.",
+  "c": "Có vi phạm về trách nhiệm nghề nghiệp và có quy định về xử phạt vi phạm hành chính trong trường hợp này.",
+  "d": "Có vi phạm về trách nhiệm nghề nghiệp nhưng không có quy định xử phạt vi phạm hành chính trong trường hợp này.",
+  "answer": "c",
+  "explanation": "CCV A đã vi phạm nghiêm trọng các quy định: 1) Khoản 3 Điều 5 Trách nhiệm nghề nghiệp QĐ 148: CCV phải trực tiếp giải thích nội dung, hậu quả pháp lý và giải đáp thắc mắc của người yêu cầu công chứng, không được ủy quyền cho chuyên viên thực hiện thay nghĩa vụ cốt lõi này. 2) Điều 2 Các nguyên tắc Công chứng viên phải tuân thủ trong quá trình hành nghề công chứng và Điều 7 Đối xử bình đẳng giữa những người yêu cầu công chứng (Quyết định 148/QĐ-HĐCCVTQ): Hành vi ưu tiên khách quen và hối thúc khách hàng yếu thế (ông cụ) ký tên để kịp giờ là biểu hiện của sự phân biệt đối xử và thiếu tận tâm, vi phạm nguyên tắc hành nghề trung thực, khách quan. Những hành vi này vi phạm nghĩa vụ nghề nghiệp và quy định pháp luật về công chứng, thuộc trường hợp có thể bị xử phạt vi phạm hành chính theo Nghị định quy định về xử phạt vi phạm hành chính trong lĩnh vực bổ trợ tư pháp."
+},
+{
+  "question": "Do không có thời gian để đến Văn phòng đăng ký đất đai để làm thủ tục đăng ký biến động việc hoàn công xây dựng đối với căn nhà tại xã N, tỉnh T nên vợ chồng ông Hoàng Đức M, bà Nguyễn Hương L có ý định ủy quyền cho em ruột bà Lan là ông Nguyễn Thái H thay mặt mình đến liên hệ với các cơ quan có thẩm quyền để thực hiện thủ tục nêu trên. Được biết, ông H trước đó cũng là người chuyển nhượng căn nhà này cho vợ chồng ông Minh, bà Lan. Khi trao đổi với CCV về việc lập hợp đồng ủy quyền, ông Minh, bà Lan cho biết, hiện căn nhà này đang cho thuê để làm mặt bằng kinh doanh. Theo hợp đồng thuê này thì thời hạn thuê là 10 năm, hiện hợp đồng thuê mới thực hiện được 03 năm được CC chứng nhận. Sau khi nắm bắt được thông tin này và kiểm tra cơ sở dữ liệu CC, CCV đã từ chối yêu cầu chứng nhận hợp đồng ủy quyền nói trên với lý do căn nhà là đối tượng của việc ủy quyền hiện đang là tài sản giao dịch của hợp đồng thuê có hiệu lực pháp luật, do vậy không thể tiếp tục là đối tượng của một giao dịch khác mà cần tiến hành thanh lý hay chấm dứt hợp đồng thuê trước. Theo anh (chị) việc từ chối của công chứng viên trong tình huống trên có đúng LCC không?",
+  "a": "Việc từ chối của công chứng viên trong tình huống trên là đúng vì hai giao dịch ủy quyền và thuê nhà là độc lập, chủ tài sản chỉ được thực hiện 1 trong 2 giao dịch mà không được tiến hành đồng thời.",
+  "b": "Việc từ chối của công chứng viên trong tình huống trên không đúng vì đối tượng của việc ủy quyền là hành vi, không liên quan gì với đối tượng của hợp đồng thuê là căn nhà cho thuê.",
+  "c": "Giải thích của CCV phải thực hiện chấm dứt hay thanh lý hợp đồng thuê lý do căn nhà là đối tượng của việc ủy quyền là đúng theo BLDS.",
+  "d":"Đáp án b và c đúng, chỉ a sai.",
+  "answer": "b",
+  "explanation": "Việc từ chối của CCV là không đúng. Theo Điều 134 BLDS 2015 về 'Đại diện', cá nhân có quyền xác lập giao dịch thông qua người đại diện, và theo Điều 562 BLDS 2015 về 'Hợp đồng ủy quyền', các bên có quyền thỏa thuận để thực hiện công việc nhân danh bên ủy quyền. Việc ủy quyền thực hiện thủ tục hành chính (hoàn công) là quan hệ đại diện, không làm thay đổi quyền sở hữu hay quyền chiếm hữu, sử dụng của bên thuê nhà trong hợp đồng thuê hiện tại. Căn nhà vẫn đảm bảo quyền lợi cho người thuê theo hợp đồng đã ký. CCV đã nhầm lẫn khi coi việc ủy quyền hành chính là giao dịch định đoạt làm ảnh hưởng đến hợp đồng thuê, dẫn đến việc từ chối trái quy định pháp luật."
+},
+{
+  "question": "Ông A (đã được Tòa án tuyên bố là người bị hạn chế năng lực hành vi dân sự do nghiện ma túy) muốn tự mình ký tên vào hợp đồng chuyển nhượng quyền sử dụng đất cho người khác mà không có sự đồng ý của người đại diện theo pháp luật. Trong trường hợp này, CCV cần xử lý như thế nào để đảm bảo hợp đồng có hiệu lực pháp luật?",
+  "a": "CCV vẫn thực hiện chứng nhận vì ông A đã thành niên và có quyền tự định đoạt tài sản của mình.",
+  "b": "CCV phải từ chối công chứng vì giao dịch của người bị hạn chế năng lực hành vi dân sự bắt buộc phải có sự đồng ý của người đại diện theo pháp luật (trừ giao dịch sinh hoạt hàng ngày).",
+  "c": "CCV vẫn thực hiện chứng nhận vì việc chuyển nhượng tài sản là giao dịch dân sự bình thường, không thuộc phạm vi bị hạn chế.",
+  "d": "CCV hướng dẫn ông A tự mình thực hiện giao dịch vì không có quy định nào cấm người nghiện ma túy ký hợp đồng.",
+  "answer": "b",
+  "explanation": "Theo Điều 117 BLDS 2015, điều kiện để giao dịch có hiệu lực là chủ thể phải có năng lực hành vi dân sự phù hợp. Đối với người bị Tòa án tuyên bố hạn chế năng lực hành vi dân sự (Điều 24), việc xác lập giao dịch liên quan đến tài sản bắt buộc phải có sự đồng ý của người đại diện theo pháp luật. Nếu thiếu sự đồng ý này, giao dịch có thể bị tuyên vô hiệu theo Điều 125 BLDS 2015. Do đó, CCV phải từ chối công chứng nếu ông A không có sự đồng ý của người đại diện theo pháp luật để đảm bảo tính pháp lý và an toàn cho hợp đồng."
+},
+{
+  "question": "Do không thống nhất được với nhau một số nội dung nên vợ chồng ông M, bà L không ủy quyền cho ông H mà ủy quyền cho chị Q (là người làm cùng công ty với ông M) lập hợp đồng ủy quyền tại TCHNCC. Anh (chị) hãy hướng dẫn các bên về điều kiện cần đáp ứng để được chứng nhận việc ủy quyền, đặc biệt nếu trong các bên tham gia giao dịch có người rơi vào tình trạng bị hạn chế hoặc có khó khăn trong nhận thức, làm chủ hành vi?",
+  "a": "Chỉ có TCHNCC tại tỉnh T mới được chứng nhận vì liên quan đến bất động sản tại xã N, tỉnh T.",
+  "b": "Các bên có thể chọn TCHNCC thuận tiện, không bắt buộc phải có mặt đủ 3 người tại cùng một thời điểm, nhưng CCV phải kiểm tra năng lực hành vi dân sự của từng bên.",
+  "c": "Trường hợp một trong các bên tham gia giao dịch rơi vào tình trạng bị mất năng lực hành vi dân sự; hạn chế năng lực hành vi dân sự; hoặc có khó khăn trong nhận thức và làm chủ hành vi thì không được tự mình xác lập ủy quyền mà cần người đại diện theo pháp luật hoặc sự đồng ý của người giám hộ.",
+  "d": "Đáp án b và c đúng.",
+  "answer": "d",
+  "explanation": "Theo Điều 117 và Điều 134 BLDS 2015, chủ thể phải có năng lực hành vi phù hợp. Theo Điều 22, 23, 24 BLDS 2015, người bị mất/hạn chế năng lực hoặc có khó khăn trong nhận thức phải có sự tham gia của người đại diện theo pháp luật hoặc người giám hộ khi xác lập giao dịch liên quan đến tài sản. Nếu CCV phát hiện các bên không đảm bảo điều kiện này theo Điều 125 (giao dịch vô hiệu), CCV có quyền từ chối công chứng. Ngoài ra, theo Luật Công chứng, các bên có quyền lựa chọn TCHNCC phù hợp và thực hiện ký nối tiếp nếu không thể cùng có mặt."
+},
+{
+  "question": "Do không thống nhất được với nhau một số nội dung nên vợ chồng ông M, bà L không ủy quyền với căn nhà tại xã N, tỉnh T cho ông H nữa mà ủy quyền cho chị Đặng Tố Q (là người làm cùng công ty với ông M). Các bên thống nhất sẽ lập hợp đồng ủy quyền tại TCHNCC. Biết rằng, ông M, bà L thường trú tại phường M, thành phố H, chị Q thường trú tại xã E, tỉnh K. Anh (chị) hãy hướng dẫn các bên đảm bảo được điều kiện cần đáp ứng để được chứng nhận việc ủy quyền trong tình huống này?",
+  "a": "Chỉ có TCHNCC tại tỉnh T mới ngoài ra phải có mặt đủ 3 người là vợ chồng ông M, bà L và chị Q",
+  "b": "Chỉ có TCHNCC tại thành phố H, tỉnh T hoặc tỉnh K mới được thực hiện việc chứng nhận ủy quyền và không bắt buộc phải có mặt đủ 3 người là vợ chồng ông M, bà L và chị Q",
+  "c": "Trường hợp một trong các bên tham gia giao dịch rơi vào tình trạng bị mất năng lực hành vi dân sự; hạn chế năng lực hành vi dân sự hay có khó khăn trong nhận thức và làm chủ hành vi thì không được ủy quyền và CCV có quyền từ chối công chứng",
+  "d": "Trong trường hợp các bên không thể cùng đến một tổ chức hành nghề công chứng để chứng nhận giao dịch ủy quyền thì ông M, bà L có thể đến bất kỳ TCHNCC nào có thể đến để chứng nhận hợp đồng ủy quyền của mình, sau đó bên được ủy quyền liên hệ TCHNCC do mình lựa chọn và ký và chứng nhận tiếp vào hợp đồng ủy quyền đó",
+  "answer": "d",
+  "explanation": "Theo Luật Công chứng và các quy định của Bộ luật Dân sự 2015: 1) Về thẩm quyền và địa điểm: Các bên có quyền lựa chọn tổ chức hành nghề công chứng phù hợp. Theo quy định về việc ký kết giao dịch, các bên không bắt buộc phải cùng có mặt tại một thời điểm hoặc một địa điểm, có thể thực hiện ký nối tiếp (Đáp án d). 2) Về điều kiện có hiệu lực: Theo Điều 117 và Điều 134 BLDS 2015, chủ thể phải có năng lực hành vi dân sự phù hợp. Nếu các bên rơi vào tình trạng bị hạn chế/mất năng lực hành vi dân sự hoặc có khó khăn trong nhận thức (Điều 22, 23, 24 BLDS 2015), giao dịch phải có sự tham gia của người đại diện theo pháp luật hoặc người giám hộ theo Điều 125, nếu không giao dịch có thể bị tuyên vô hiệu. Tuy nhiên, đáp án D phản ánh đúng nhất quy trình thực hiện công chứng thực tế cho trường hợp này."
+}
+]
+
 
