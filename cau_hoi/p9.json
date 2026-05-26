@@ -1,4 +1,464 @@
-[{
+[
+ {
+    "question": "CCV A có quan hệ quen biết với một nhân viên ngân hàng. Hai bên thỏa thuận rằng mọi hồ sơ vay vốn sẽ được đưa sang VPCC nơi A hành nghề để công chứng, đổi lại A sẽ trích lại 10% phí dịch vụ cho nhân viên ngân hàng này. Việc làm của CCV A có phù hợp với Quy tắc đạo đức hành nghề công chứng không?",
+    "a": "Không phù hợp vì CCV không được trả tiền hoa hồng, chiết khấu để lôi kéo khách hàng.",
+    "b": "Không phù hợp vì việc thông đồng để ép khách sử dụng dịch vụ công chứng là hành vi bị cấm.",
+    "c": "Không vi phạm nếu khách hàng vẫn tự nguyện ký hồ sơ vay.",
+    "d": "Đáp án a và b đúng, c sai.",
+    "answer": "d",
+    "explanation": "Hành vi của CCV A vi phạm Điều 8 khoản 10 tại QĐ 148/QĐ-HĐCCVTQ - Những việc công chứng viên không được làm trong quan hệ với người yêu cầu công chứng, cụ thể là: 'Trả tiền hoa hồng, chiết khấu cho người yêu cầu công chứng hoặc người môi giới'. Đồng thời vi phạm Điều 8 khoản 7 tại QĐ 148/QĐ-HĐCCVTQ - Những việc công chứng viên không được làm trong quan hệ với người yêu cầu công chứng, cụ thể là: 'Đe dọa, ép buộc hoặc thực hiện những hành vi vi phạm pháp luật, trái đạo đức xã hội để giành lợi thế trong việc công chứng hoặc buộc cá nhân, tổ chức sử dụng dịch vụ công chứng của mình'. Ngoài ra còn vi phạm Điều 14 khoản 3 điểm b tại QĐ 148/QĐ-HĐCCVTQ - Những việc công chứng viên không được làm với tổ chức hành nghề công chứng, cụ thể là: 'Thông đồng với tổ chức, cá nhân khác gây áp lực buộc người yêu cầu công chứng đến tổ chức hành nghề công chứng của mình để công chứng vì mục đích lợi nhuận'."
+  },
+  {
+    "question": "CCV B biết rõ hợp đồng chuyển nhượng quyền sử dụng đất giữa ông M và bà N thực chất chỉ là giao dịch giả tạo nhằm che giấu việc tẩu tán tài sản để né thi hành án. Tuy nhiên do được hứa 'cảm ơn riêng' 50 triệu đồng nên B vẫn tiến hành công chứng. Sau đó B còn kể vụ việc này cho bạn bè biết. Hành vi của CCV B được đánh giá như thế nào?",
+    "a": "Vi phạm quy định về bảo mật thông tin nghề nghiệp.",
+    "b": "Vi phạm quy định cấm công chứng giao dịch vi phạm pháp luật.",
+    "c": "Vi phạm quy định về nhận lợi ích ngoài phí công chứng.",
+    "d": "Cả a, b và c đều đúng.",
+    "answer": "d",
+    "explanation": "CCV B vi phạm Điều 8 khoản 5 tại QĐ 148/QĐ-HĐCCVTQ - Những việc công chứng viên không được làm trong quan hệ với người yêu cầu công chứng, cụ thể là: 'Thực hiện công chứng trong trường hợp mục đích và nội dung của hợp đồng, giao dịch vi phạm pháp luật, trái đạo đức xã hội'. Đồng thời vi phạm Điều 8 khoản 2 tại QĐ 148/QĐ-HĐCCVTQ - Những việc công chứng viên không được làm trong quan hệ với người yêu cầu công chứng, cụ thể là: 'Nhận, đòi hỏi bất kỳ một khoản tiền, lợi ích nào khác từ người yêu cầu công chứng ngoài phí công chứng, giá dịch vụ và chi phí khác đã được xác định, thỏa thuận'. Ngoài ra còn vi phạm Điều 6 khoản 1 tại QĐ 148/QĐ-HĐCCVTQ - Bảo mật thông tin, bảo quản hồ sơ công chứng, cụ thể là: 'Công chứng viên có trách nhiệm giữ bí mật các thông tin trong hồ sơ yêu cầu công chứng, hồ sơ công chứng và tất cả thông tin biết được về nội dung công chứng trong quá trình hành nghề'. Hành vi này còn ảnh hưởng đến uy tín nghề nghiệp theo Điều 3 khoản 1 tại QĐ 148/QĐ-HĐCCVTQ - Tôn trọng, bảo vệ uy tín, thanh danh nghề nghiệp."
+  },
+  {
+    "question": "Trong thời gian hướng dẫn tập sự, CCV C thường xuyên yêu cầu người tập sự đưa đón con, đi thanh toán tiền điện nước cho gia đình mình và nhiều lần gợi ý phải 'biết điều' thì mới được ký xác nhận hoàn thành tập sự. Dù người tập sự nghỉ rất nhiều buổi nhưng sau khi nhận 30 triệu đồng, C vẫn xác nhận hoàn thành tốt tập sự. Việc làm của CCV C có phù hợp không?",
+    "a": "Không phù hợp vì CCV không được yêu cầu người tập sự thực hiện công việc không liên quan nội dung tập sự.",
+    "b": "Không phù hợp vì CCV không được đòi hỏi lợi ích vật chất từ người tập sự.",
+    "c": "Không phù hợp vì việc xác nhận sai kết quả tập sự là hành vi bị cấm.",
+    "d": "Cả a, b và c đều đúng.",
+    "answer": "d",
+    "explanation": "CCV C vi phạm Điều 12 khoản 3 tại QĐ 148/QĐ-HĐCCVTQ - Quan hệ của công chứng viên với người tập sự hành nghề công chứng, cụ thể là: 'Không được đòi hỏi lợi ích vật chất, tiền bạc từ người tập sự hành nghề công chứng; không được yêu cầu người tập sự hành nghề công chứng thực hiện các công việc không liên quan đến nội dung tập sự hành nghề công chứng'. Đồng thời vi phạm Điều 14 khoản 2 điểm a tại QĐ 148/QĐ-HĐCCVTQ - Những việc công chứng viên không được làm với người tập sự hành nghề công chứng, cụ thể là: 'Đòi hỏi lợi ích vật chất, tiền bạc từ người tập sự hành nghề công chứng'. Ngoài ra còn vi phạm Điều 14 khoản 2 điểm d tại QĐ 148/QĐ-HĐCCVTQ, cụ thể là: 'Yêu cầu người tập sự hành nghề công chứng thực hiện các công việc không liên quan đến nội dung tập sự nhằm phục vụ lợi ích cá nhân của công chứng viên hướng dẫn'; và vi phạm Điều 12 khoản 5 cùng Điều 14 khoản 2 điểm đ tại QĐ 148/QĐ-HĐCCVTQ, cụ thể là: 'Thông đồng với người tập sự hành nghề công chứng để báo cáo sai sự thật, báo cáo khống về kết quả tập sự hành nghề công chứng'."
+  },
+  {
+    "question": "CCV D thường xuyên đăng bài trên mạng xã hội với nội dung ám chỉ VPCC khác 'hay làm hồ sơ giả', 'công chứng ẩu', dù không có tài liệu chứng minh. Khi khách đến yêu cầu công chứng, D còn nói khách không nên sang văn phòng đó vì 'dễ bị vô hiệu hợp đồng'. Hành vi của CCV D có vi phạm đạo đức nghề nghiệp không?",
+    "a": "Có vì CCV phải tôn trọng danh dự, uy tín của đồng nghiệp.",
+    "b": "Có vì hành vi nói xấu nhằm lôi kéo khách hàng là hành vi bị cấm.",
+    "c": "Không vi phạm nếu D không nêu đích danh VPCC nào.",
+    "d": "Đáp án a và b đúng, c sai.",
+    "answer": "d",
+    "explanation": "CCV D vi phạm Điều 9 khoản 1 tại QĐ 148/QĐ-HĐCCVTQ - Quan hệ của công chứng viên với đồng nghiệp, cụ thể là: 'Công chứng viên phải tôn trọng, đối xử văn minh với đồng nghiệp, không được có hành vi làm tổn hại danh dự, uy tín của đồng nghiệp'. Đồng thời vi phạm Điều 14 khoản 1 điểm a tại QĐ 148/QĐ-HĐCCVTQ - Những việc công chứng viên không được làm với đồng nghiệp, cụ thể là: 'Có lời nói, hành vi vu khống, xúc phạm danh dự, nhân phẩm, làm tổn hại uy tín đồng nghiệp'. Ngoài ra còn vi phạm Điều 14 khoản 1 điểm b tại QĐ 148/QĐ-HĐCCVTQ, cụ thể là: 'Xúi giục khách hàng từ chối đồng nghiệp để nhận việc về cho mình hoặc xúi giục khách hàng khiếu nại, tố cáo hoặc công kích, nói xấu đồng nghiệp'."
+  },
+  {
+    "question": "CCV E đăng ký hành nghề tại VPCC X nhưng hầu như không có mặt tại văn phòng do đồng thời điều hành doanh nghiệp riêng và còn cộng tác ký hồ sơ tại một VPCC khác. Để tiện xử lý công việc, E ký sẵn nhiều tờ giấy trắng cho nhân viên tự in lời chứng sau. Ngoài ra E còn không tham gia bồi dưỡng nghiệp vụ nhiều năm liền. Hành vi của CCV E được đánh giá như thế nào?",
+    "a": "Vi phạm quy định không được đồng thời hành nghề tại từ hai tổ chức hành nghề công chứng trở lên.",
+    "b": "Vi phạm nghĩa vụ có mặt thường xuyên tại tổ chức hành nghề công chứng.",
+    "c": "Vi phạm nghĩa vụ bồi dưỡng nghiệp vụ hàng năm.",
+    "d": "Cả a, b và c đều đúng.",
+    "answer": "d",
+    "explanation": "CCV E vi phạm Điều 14 khoản 3 điểm c tại QĐ 148/QĐ-HĐCCVTQ - Những việc công chứng viên không được làm với tổ chức hành nghề công chứng, cụ thể là: 'Đồng thời hành nghề tại 02 tổ chức hành nghề công chứng trở lên'. Đồng thời vi phạm Điều 14 khoản 3 điểm d tại QĐ 148/QĐ-HĐCCVTQ, cụ thể là: 'Không có mặt thường xuyên tại tổ chức hành nghề công chứng theo ngày, giờ làm việc'. Ngoài ra còn vi phạm Điều 14 khoản 4 điểm b tại QĐ 148/QĐ-HĐCCVTQ - Những việc công chứng viên không được làm với tổ chức xã hội nghề nghiệp của công chứng viên, cụ thể là: 'Không thực hiện đầy đủ nghĩa vụ bồi dưỡng nghiệp vụ hàng năm theo quy định'. Hành vi này còn trái với Điều 4 tại QĐ 148/QĐ-HĐCCVTQ - Rèn luyện, tu dưỡng bản thân, cụ thể là nghĩa vụ: 'Không ngừng tu dưỡng đạo đức, nâng cao trình độ chuyên môn, tích cực tham gia các hoạt động bồi dưỡng kiến thức, nghiệp vụ'."
+  },
+  {
+    "question": "CCV F tiếp nhận hồ sơ công chứng hợp đồng mua bán nhà đất của một khách hàng quen biết. Dù hồ sơ chưa đầy đủ giấy tờ chứng minh tình trạng hôn nhân nhưng F vẫn nhận giải quyết vì cho rằng 'người quen thì tin tưởng được'. Sau khi công chứng xong, F cho khách viết giấy cam kết sẽ bổ sung giấy tờ sau để lưu hồ sơ. Hành vi của CCV F có phù hợp với đạo đức hành nghề công chứng không?",
+    "a": "Không phù hợp vì CCV phải tuân thủ nguyên tắc hành nghề công chứng theo quy định pháp luật.",
+    "b": "Không phù hợp vì CCV đã ưu tiên giải quyết do quen biết, làm mất tính khách quan.",
+    "c": "Không vi phạm nếu sau đó khách bổ sung đầy đủ giấy tờ.",
+    "d": "Đáp án a và b đúng, c sai.",
+    "answer": "d",
+    "explanation": "CCV F vi phạm Điều 2 khoản 1 tại QĐ 148/QĐ-HĐCCVTQ - Các nguyên tắc công chứng viên phải tuân thủ trong quá trình hành nghề công chứng, cụ thể là: 'Các nguyên tắc hành nghề công chứng theo quy định của Luật Công chứng'. Đồng thời hành vi ưu tiên giải quyết cho người quen làm ảnh hưởng tính khách quan, công bằng còn trái với Điều 7 tại QĐ 148/QĐ-HĐCCVTQ - Đối xử bình đẳng giữa những người yêu cầu công chứng, cụ thể là: 'Công chứng viên không được phân biệt đối xử về địa vị xã hội, khả năng tài chính... giữa những người yêu cầu công chứng'."
+  },
+  {
+    "question": "CCV G sau khi công chứng hợp đồng chuyển nhượng đất đã sử dụng thông tin về việc chuẩn bị bán đất của khách hàng để nhờ người thân mua gom các thửa đất liền kề nhằm đầu cơ kiếm lời. Hành vi của CCV G được đánh giá như thế nào?",
+    "a": "Vi phạm nghĩa vụ bảo mật thông tin nghề nghiệp.",
+    "b": "Vi phạm quy định cấm sử dụng thông tin từ hoạt động công chứng để trục lợi.",
+    "c": "Không vi phạm vì CCV không trực tiếp đứng tên mua đất.",
+    "d": "Đáp án a và b đúng, c sai.",
+    "answer": "d",
+    "explanation": "CCV G vi phạm Điều 8 khoản 4 tại QĐ 148/QĐ-HĐCCVTQ - Những việc công chứng viên không được làm trong quan hệ với người yêu cầu công chứng, cụ thể là: 'Sử dụng thông tin biết được từ việc công chứng để mưu cầu lợi ích cá nhân'. Đồng thời vi phạm Điều 6 khoản 1 tại QĐ 148/QĐ-HĐCCVTQ - Bảo mật thông tin, bảo quản hồ sơ công chứng, cụ thể là: 'Công chứng viên có trách nhiệm giữ bí mật các thông tin trong hồ sơ yêu cầu công chứng'."
+  },
+  {
+    "question": "CCV H thường xuyên quảng cáo trên mạng xã hội với nội dung: 'Bao công chứng hồ sơ khó', 'Cam kết không bị cơ quan thuế kiểm tra', 'Làm nhanh mọi trường hợp'. Hành vi của CCV H có phù hợp với đạo đức nghề nghiệp không?",
+    "a": "Không phù hợp vì đây là hành vi hứa hẹn nhằm lôi kéo người yêu cầu công chứng.",
+    "b": "Không phù hợp vì nội dung quảng cáo có dấu hiệu gây hiểu sai về hoạt động công chứng.",
+    "c": "Không vi phạm nếu thực tế CCV có khả năng xử lý hồ sơ nhanh.",
+    "d": "Đáp án a và b đúng, c sai.",
+    "answer": "d",
+    "explanation": "CCV H vi phạm Điều 8 khoản 6 tại QĐ 148/QĐ-HĐCCVTQ - Những việc công chứng viên không được làm trong quan hệ với người yêu cầu công chứng, cụ thể là: 'Đưa ra những lời hứa hẹn nhằm lôi kéo người yêu cầu công chứng'. Đồng thời hành vi quảng bá sai lệch còn trái với Điều 3 khoản 1 tại QĐ 148/QĐ-HĐCCVTQ - Tôn trọng, bảo vệ uy tín, thanh danh nghề nghiệp, cụ thể là: 'Không được có hành vi làm tổn hại đến danh dự, uy tín cá nhân, thanh danh nghề nghiệp'."
+  },
+  {
+    "question": "CCV K biết rõ người yêu cầu công chứng không hiểu đầy đủ nội dung hợp đồng vay tài sản nhưng vẫn thúc ép ký nhanh vì hồ sơ đông khách. Khi người vay hỏi về hậu quả pháp lý nếu chậm trả nợ thì K trả lời qua loa và nói 'cứ ký đi rồi tính sau'. Hành vi của CCV K có phù hợp không?",
+    "a": "Không phù hợp vì CCV có nghĩa vụ giải thích rõ quyền, nghĩa vụ và hậu quả pháp lý cho người yêu cầu công chứng.",
+    "b": "Không phù hợp vì CCV đã tư vấn thiếu khách quan, thiếu trách nhiệm.",
+    "c": "Không vi phạm vì trách nhiệm đọc hợp đồng thuộc về người ký.",
+    "d": "Đáp án a và b đúng, c sai.",
+    "answer": "d",
+    "explanation": "CCV K vi phạm Điều 5 khoản 3 tại QĐ 148/QĐ-HĐCCVTQ - Trách nhiệm nghề nghiệp, cụ thể là: 'Công chứng viên có nghĩa vụ giải thích cho người yêu cầu công chứng hiểu rõ về quyền, nghĩa vụ, hậu quả pháp lý phát sinh của hợp đồng, giao dịch'. Đồng thời vi phạm Điều 8 khoản 12 tại QĐ 148/QĐ-HĐCCVTQ - Những việc công chứng viên không được làm trong quan hệ với người yêu cầu công chứng, cụ thể là: 'Tư vấn, giải thích thiếu khách quan, thiếu trung thực các nội dung liên quan đến yêu cầu công chứng'."
+  },
+  {
+    "question": "CCV L thường xuyên đi muộn, về sớm, nhiều ngày không đến văn phòng nhưng vẫn yêu cầu nhân viên nhận hồ sơ và hẹn khách ký sau. Khi có khách phàn nàn thì L nói: 'Tôi là công chứng viên, tôi có quyền tự sắp xếp thời gian'. Hành vi của CCV L có phù hợp với quy tắc đạo đức không?",
+    "a": "Không phù hợp vì CCV phải sẵn sàng tiếp nhận và giải quyết yêu cầu công chứng đúng thời gian làm việc.",
+    "b": "Không phù hợp vì CCV phải có mặt thường xuyên tại tổ chức hành nghề công chứng.",
+    "c": "Không vi phạm nếu hồ sơ cuối cùng vẫn được giải quyết.",
+    "d": "Đáp án a và b đúng, c sai.",
+    "answer": "d",
+    "explanation": "CCV L vi phạm Điều 5 khoản 2 tại QĐ 148/QĐ-HĐCCVTQ - Trách nhiệm nghề nghiệp, cụ thể là: 'Công chứng viên sẵn sàng tiếp nhận và giải quyết kịp thời yêu cầu công chứng bằng cách thực hiện chế độ làm việc theo ngày, giờ làm việc của tổ chức hành nghề công chứng'. Đồng thời vi phạm Điều 14 khoản 3 điểm d tại QĐ 148/QĐ-HĐCCVTQ - Những việc công chứng viên không được làm với tổ chức hành nghề công chứng, cụ thể là: 'Không có mặt thường xuyên tại tổ chức hành nghề công chứng theo ngày, giờ làm việc'."
+  },
+  {
+    "question": "CCV M phát hiện đồng nghiệp của mình thường xuyên ký công chứng khi thiếu mặt người tham gia giao dịch nhưng không góp ý hay báo cáo mà giữ im lặng vì sợ mất lòng. Hành vi của CCV M có phù hợp không?",
+    "a": "Không phù hợp vì CCV có nghĩa vụ góp ý khi phát hiện đồng nghiệp có sai sót trong hành nghề.",
+    "b": "Không phù hợp vì CCV phải báo cáo khi phát hiện hành vi vi phạm pháp luật gây tổn hại đến nghề nghiệp.",
+    "c": "Không vi phạm vì đây là việc nội bộ của đồng nghiệp.",
+    "d": "Đáp án a và b đúng, c sai.",
+    "answer": "d",
+    "explanation": "CCV M vi phạm Điều 9 khoản 2 tại QĐ 148/QĐ-HĐCCVTQ - Quan hệ của công chứng viên với đồng nghiệp, cụ thể là: 'Khi phát hiện đồng nghiệp có sai sót trong hành nghề, công chứng viên có nghĩa vụ trao đổi, góp ý khách quan và báo cáo với người có thẩm quyền nếu đó là hành vi vi phạm pháp luật hoặc gây tổn hại đến nghề nghiệp'."
+  },
+  {
+    "question": "CCV N không tham gia Hội công chứng viên địa phương dù đã đăng ký hành nghề nhiều năm và cũng không đóng các khoản nghĩa vụ tài chính đối với Hội. Khi được nhắc nhở, N cho rằng tham gia Hội là tự nguyện. Quan điểm này có đúng không?",
+    "a": "Không đúng vì công chứng viên phải gia nhập và duy trì tư cách hội viên của Hội công chứng viên địa phương.",
+    "b": "Không đúng vì công chứng viên phải thực hiện nghĩa vụ tài chính đối với Hội và Hiệp hội công chứng viên.",
+    "c": "Đúng vì Hội công chứng viên là tổ chức xã hội nghề nghiệp tự nguyện.",
+    "d": "Đáp án a và b đúng, c sai.",
+    "answer": "d",
+    "explanation": "CCV N vi phạm Điều 2 khoản 3 tại QĐ 148/QĐ-HĐCCVTQ - Các nguyên tắc công chứng viên phải tuân thủ trong quá trình hành nghề công chứng, cụ thể là: 'Gia nhập Hội công chứng viên địa phương nơi muốn hành nghề và duy trì tư cách hội viên trong quá trình hành nghề tại địa phương đó'. Đồng thời vi phạm Điều 14 khoản 4 điểm a tại QĐ 148/QĐ-HĐCCVTQ - Những việc công chứng viên không được làm với tổ chức xã hội nghề nghiệp của công chứng viên, cụ thể là: 'Không gia nhập hội viên hoặc không duy trì tư cách hội viên của Hội công chứng viên địa phương'. Ngoài ra còn vi phạm Điều 14 khoản 4 điểm c, cụ thể là: 'Không thực hiện đầy đủ nghĩa vụ tài chính của công chứng viên đối với Hội công chứng viên và Hiệp hội công chứng viên'."
+  },
+  {
+    "question": "CCV P tiếp nhận hồ sơ chuyển nhượng quyền sử dụng đất. Do quen biết với bên bán nên dù biết người vợ của bên bán đang ở nước ngoài và chưa đồng ý chuyển nhượng, P vẫn hướng dẫn người chồng ký thay và nói 'cứ công chứng trước rồi bổ sung giấy ủy quyền sau'. Sau đó hợp đồng bị tranh chấp. Hành vi của CCV P có phù hợp với đạo đức hành nghề công chứng không?",
+    "a": "Không phù hợp vì CCV đã thực hiện công chứng khi hồ sơ, ý chí giao dịch chưa bảo đảm hợp pháp.",
+    "b": "Không phù hợp vì CCV đã hướng dẫn thực hiện trái pháp luật nhằm hoàn tất việc công chứng.",
+    "c": "Không vi phạm nếu các bên tự chịu trách nhiệm về giao dịch.",
+    "d": "Đáp án a và b đúng, c sai.",
+    "answer": "d",
+    "explanation": "CCV P vi phạm Điều 8 khoản 5 tại QĐ 148/QĐ-HĐCCVTQ - Những việc công chứng viên không được làm trong quan hệ với người yêu cầu công chứng, cụ thể là: 'Thực hiện công chứng trong trường hợp mục đích và nội dung của hợp đồng, giao dịch vi phạm pháp luật, trái đạo đức xã hội'. Đồng thời hành vi hướng dẫn ký thay, hợp thức hóa hồ sơ còn vi phạm Điều 8 khoản 9 tại QĐ 148/QĐ-HĐCCVTQ, cụ thể là: 'Thông đồng, tạo điều kiện cho người yêu cầu công chứng xâm phạm quyền và lợi ích hợp pháp của tổ chức, cá nhân khác'."
+  },
+  {
+    "question": "CCV Q do muốn giữ khách quen nên đã chỉ đạo nhân viên tự ký thay người làm chứng vào hồ sơ di chúc vì người làm chứng bận không đến được. Sau đó Q vẫn ký công chứng và lưu hồ sơ như bình thường. Hành vi của CCV Q được đánh giá như thế nào?",
+    "a": "Vi phạm vì làm sai lệch nội dung, thành phần hồ sơ công chứng.",
+    "b": "Vi phạm vì thông đồng tạo hồ sơ không đúng thực tế.",
+    "c": "Không vi phạm nếu người làm chứng đồng ý sau đó.",
+    "d": "Đáp án a và b đúng, c sai.",
+    "answer": "d",
+    "explanation": "CCV Q vi phạm Điều 8 khoản 11 tại QĐ 148/QĐ-HĐCCVTQ - Những việc công chứng viên không được làm trong quan hệ với người yêu cầu công chứng, cụ thể là: 'Cấu kết với người yêu cầu công chứng, những người có liên quan làm sai lệch nội dung của hồ sơ đã công chứng'. Đồng thời vi phạm Điều 3 khoản 1 tại QĐ 148/QĐ-HĐCCVTQ - Tôn trọng, bảo vệ uy tín, thanh danh nghề nghiệp, cụ thể là: 'Không được có hành vi làm tổn hại đến danh dự, uy tín cá nhân, thanh danh nghề nghiệp'."
+  },
+  {
+    "question": "CCV R nhận công chứng hợp đồng chuyển nhượng đất vào buổi tối tại quán cà phê theo yêu cầu của khách hàng. Khi ký hồ sơ, CCV không kiểm tra giấy tờ tùy thân bản gốc mà chỉ xem ảnh chụp trên điện thoại do khách cung cấp. Sau này phát hiện một bên sử dụng giấy tờ giả. Hành vi của CCV R có phù hợp với quy tắc đạo đức nghề nghiệp không?",
+    "a": "Không phù hợp vì CCV không bảo đảm tính cẩn trọng, trách nhiệm nghề nghiệp khi giải quyết hồ sơ.",
+    "b": "Không phù hợp vì CCV không thực hiện đầy đủ trách nhiệm nhằm bảo đảm an toàn pháp lý cho giao dịch.",
+    "c": "Không vi phạm nếu CCV không biết giấy tờ là giả.",
+    "d": "Đáp án a và b đúng, c sai.",
+    "answer": "d",
+    "explanation": "CCV R vi phạm Điều 5 khoản 1 tại QĐ 148/QĐ-HĐCCVTQ - Trách nhiệm nghề nghiệp, cụ thể là: 'Công chứng viên phải tận tâm với công việc, phát huy năng lực, sử dụng kiến thức chuyên môn, các kỹ năng nghề nghiệp để bảo đảm tốt nhất tính an toàn pháp lý cho hợp đồng, giao dịch'. Đồng thời hành vi giải quyết hồ sơ cẩu thả còn trái với Điều 3 khoản 1 tại QĐ 148/QĐ-HĐCCVTQ - Tôn trọng, bảo vệ uy tín, thanh danh nghề nghiệp."
+  },
+  {
+    "question": "CCV S sau khi nghỉ hành nghề vẫn lưu giữ nhiều bản chụp hồ sơ công chứng cũ trong máy tính cá nhân. Một người quen nhờ S cung cấp thông tin tài sản của khách hàng cũ để phục vụ việc kiện tụng và S đã đồng ý gửi toàn bộ hồ sơ qua email. Hành vi của S có vi phạm đạo đức nghề nghiệp không?",
+    "a": "Có vì nghĩa vụ bảo mật vẫn tồn tại kể cả khi không còn là công chứng viên.",
+    "b": "Có vì CCV không được tiết lộ thông tin hồ sơ công chứng cho người khác.",
+    "c": "Không vi phạm vì S đã nghỉ hành nghề.",
+    "d": "Đáp án a và b đúng, c sai.",
+    "answer": "d",
+    "explanation": "CCV S vi phạm Điều 6 khoản 1 tại QĐ 148/QĐ-HĐCCVTQ - Bảo mật thông tin, bảo quản hồ sơ công chứng, cụ thể là: 'Công chứng viên có trách nhiệm giữ bí mật các thông tin trong hồ sơ yêu cầu công chứng, hồ sơ công chứng và tất cả thông tin biết được về nội dung công chứng trong quá trình hành nghề cũng như khi không còn là công chứng viên'."
+  },
+  {
+    "question": "CCV T là Trưởng VPCC nhưng không phổ biến quy tắc đạo đức nghề nghiệp cho nhân viên và người tập sự tại văn phòng. Nhân viên thường xuyên tự ý tiết lộ thông tin hồ sơ khách hàng ra bên ngoài để tìm kiếm khách môi giới nhưng T không chấn chỉnh. Hành vi của CCV T được đánh giá như thế nào?",
+    "a": "Vi phạm trách nhiệm quản lý, phổ biến quy tắc đạo đức cho nhân viên và người tập sự.",
+    "b": "Vi phạm trách nhiệm hướng dẫn nhân viên bảo mật thông tin công chứng.",
+    "c": "Không vi phạm nếu T không trực tiếp tiết lộ thông tin.",
+    "d": "Đáp án a và b đúng, c sai.",
+    "answer": "d",
+    "explanation": "CCV T vi phạm Điều 13 khoản 3 tại QĐ 148/QĐ-HĐCCVTQ - Quan hệ của công chứng viên với tổ chức, cá nhân khác, cụ thể là: 'Công chứng viên là Trưởng tổ chức hành nghề công chứng có trách nhiệm phổ biến, quán triệt để người lao động, người tập sự... biết và tuân thủ nội dung quy tắc này'. Đồng thời vi phạm Điều 6 khoản 3 tại QĐ 148/QĐ-HĐCCVTQ - Bảo mật thông tin, bảo quản hồ sơ công chứng, cụ thể là: 'Công chứng viên có trách nhiệm hướng dẫn nhân viên thuộc tổ chức hành nghề công chứng của mình không được tiết lộ bí mật thông tin về việc công chứng'."
+  },
+  {
+    "question": "CCV U khi tiếp nhận hồ sơ công chứng đã cố tình chỉ giải thích những điều khoản có lợi cho bên bán vì bên bán là người quen thân thiết. Khi bên mua hỏi thêm về nghĩa vụ phạt vi phạm hợp đồng thì U né tránh trả lời và thúc ép ký nhanh để kịp giao dịch. Hành vi của CCV U có phù hợp không?",
+    "a": "Không phù hợp vì CCV phải giải thích khách quan cho tất cả các bên tham gia giao dịch.",
+    "b": "Không phù hợp vì CCV đã tư vấn thiếu trung thực, thiếu khách quan.",
+    "c": "Không vi phạm vì CCV không bắt buộc phải tư vấn chi tiết toàn bộ hợp đồng.",
+    "d": "Đáp án a và b đúng, c sai.",
+    "answer": "d",
+    "explanation": "CCV U vi phạm Điều 5 khoản 3 tại QĐ 148/QĐ-HĐCCVTQ - Trách nhiệm nghề nghiệp, cụ thể là: 'Công chứng viên có nghĩa vụ giải thích cho người yêu cầu công chứng hiểu rõ về quyền, nghĩa vụ, hậu quả pháp lý phát sinh của hợp đồng, giao dịch'. Đồng thời vi phạm Điều 8 khoản 12 tại QĐ 148/QĐ-HĐCCVTQ - Những việc công chứng viên không được làm trong quan hệ với người yêu cầu công chứng, cụ thể là: 'Tư vấn, giải thích thiếu khách quan, thiếu trung thực các nội dung liên quan đến yêu cầu công chứng'."
+  },
+  {
+    "question": "CCV V tham gia nhiều hoạt động kinh doanh riêng nên thường xuyên ký công chứng theo kiểu đối phó, không đọc kỹ hồ sơ. Có trường hợp hồ sơ bị thiếu trang nhưng V vẫn ký và đóng dấu vì cho rằng 'không ảnh hưởng gì'. Sau đó phát sinh tranh chấp do nội dung bị thay đổi. Hành vi của CCV V có vi phạm đạo đức nghề nghiệp không?",
+    "a": "Có vì CCV không tận tâm, không bảo đảm an toàn pháp lý cho giao dịch.",
+    "b": "Có vì CCV làm ảnh hưởng uy tín nghề nghiệp công chứng.",
+    "c": "Không vi phạm nếu lỗi do nhân viên sơ suất.",
+    "d": "Đáp án a và b đúng, c sai.",
+    "answer": "d",
+    "explanation": "CCV V vi phạm Điều 5 khoản 1 tại QĐ 148/QĐ-HĐCCVTQ - Trách nhiệm nghề nghiệp, cụ thể là: 'Công chứng viên phải tận tâm với công việc... để bảo đảm tốt nhất tính an toàn pháp lý cho hợp đồng, giao dịch'. Đồng thời vi phạm Điều 3 khoản 1 tại QĐ 148/QĐ-HĐCCVTQ - Tôn trọng, bảo vệ uy tín, thanh danh nghề nghiệp, cụ thể là: 'Không được có hành vi làm tổn hại đến danh dự, uy tín cá nhân, thanh danh nghề nghiệp'."
+  },
+  {
+    "question": "CCV A là Trưởng VPCC X. Để cạnh tranh với các VPCC khác, A ký thỏa thuận ngầm với nhiều môi giới bất động sản: nếu dẫn khách đến công chứng sẽ được chia phần trăm phí dịch vụ. Nhân viên VPCC được yêu cầu ưu tiên giải quyết hồ sơ của các môi giới này trước, còn khách lẻ phải chờ lâu. Trong một trường hợp, A còn chỉ đạo nhân viên gọi điện nói xấu VPCC khác để khách hủy lịch công chứng bên đó. Hành vi của CCV A vi phạm những quy định nào?",
+    "a": "Vi phạm quy định cấm trả hoa hồng cho người môi giới.",
+    "b": "Vi phạm nguyên tắc đối xử bình đẳng với người yêu cầu công chứng.",
+    "c": "Vi phạm quy định về quan hệ với đồng nghiệp do nói xấu, lôi kéo khách hàng.",
+    "d": "Cả a, b và c đều đúng.",
+    "answer": "d",
+    "explanation": "CCV A vi phạm Điều 8 khoản 10 tại QĐ 148/QĐ-HĐCCVTQ - Những việc công chứng viên không được làm trong quan hệ với người yêu cầu công chứng, cụ thể là: 'Trả tiền hoa hồng, chiết khấu cho người yêu cầu công chứng hoặc người môi giới'. Đồng thời vi phạm Điều 7 tại QĐ 148/QĐ-HĐCCVTQ - Đối xử bình đẳng giữa những người yêu cầu công chứng, cụ thể là: 'Công chứng viên không được phân biệt đối xử... giữa những người yêu cầu công chứng'. Ngoài ra còn vi phạm Điều 14 khoản 1 điểm a tại QĐ 148/QĐ-HĐCCVTQ - Những việc công chứng viên không được làm với đồng nghiệp, cụ thể là: 'Có lời nói, hành vi vu khống, xúc phạm danh dự, nhân phẩm, làm tổn hại uy tín đồng nghiệp'; và vi phạm Điều 14 khoản 1 điểm b, cụ thể là: 'Xúi giục khách hàng từ chối đồng nghiệp để nhận việc về cho mình'."
+  },
+  {
+    "question": "CCV B có em trai là nhân viên ngân hàng. Hai anh em phối hợp thực hiện nhiều hồ sơ vay vốn. Em trai B thường hướng dẫn khách 'phải sang đúng VPCC của anh mình thì hồ sơ mới giải ngân nhanh'. Đổi lại, B bỏ qua nhiều thiếu sót trong hồ sơ để hỗ trợ ngân hàng đạt doanh số. Sau khi công chứng xong, B còn tiết lộ cho em trai biết tình hình tài sản và nợ của khách hàng để ngân hàng khai thác thêm dịch vụ. Hành vi của CCV B có phù hợp không?",
+    "a": "Không phù hợp vì CCV tạo áp lực buộc khách sử dụng dịch vụ công chứng của mình.",
+    "b": "Không phù hợp vì CCV tiết lộ thông tin hồ sơ công chứng.",
+    "c": "Không phù hợp vì CCV bỏ qua vi phạm để phục vụ lợi ích riêng.",
+    "d": "Cả a, b và c đều đúng.",
+    "answer": "d",
+    "explanation": "CCV B vi phạm Điều 8 khoản 7 tại QĐ 148/QĐ-HĐCCVTQ - Những việc công chứng viên không được làm trong quan hệ với người yêu cầu công chứng, cụ thể là: 'Đe dọa, ép buộc hoặc thực hiện những hành vi vi phạm pháp luật... để buộc cá nhân, tổ chức sử dụng dịch vụ công chứng của mình'. Đồng thời vi phạm Điều 6 khoản 1 tại QĐ 148/QĐ-HĐCCVTQ - Bảo mật thông tin, bảo quản hồ sơ công chứng, cụ thể là: 'Công chứng viên có trách nhiệm giữ bí mật các thông tin trong hồ sơ yêu cầu công chứng'. Ngoài ra còn vi phạm Điều 8 khoản 9 tại QĐ 148/QĐ-HĐCCVTQ, cụ thể là: 'Thông đồng, tạo điều kiện cho người yêu cầu công chứng xâm phạm quyền và lợi ích hợp pháp của tổ chức, cá nhân khác'."
+  },
+  {
+    "question": "CCV C hướng dẫn tập sự cho D là cháu ruột của mình. D hầu như không đi tập sự đầy đủ nhưng vẫn được C ký xác nhận hoàn thành tốt quá trình tập sự. Trong khi đó, các người tập sự khác bị C giao rất nhiều việc cá nhân như đưa đón con, làm việc nhà, photo tài liệu ngoài giờ. Một người tập sự phản ánh thì bị C đe dọa sẽ không ký sổ nhật ký tập sự. Hành vi của CCV C vi phạm những quy định nào?",
+    "a": "Vi phạm quy định phân biệt đối xử giữa những người tập sự.",
+    "b": "Vi phạm quy định đe dọa, gây hoang mang tinh thần cho người tập sự.",
+    "c": "Vi phạm quy định thông đồng báo cáo sai kết quả tập sự.",
+    "d": "Cả a, b và c đều đúng.",
+    "answer": "d",
+    "explanation": "CCV C vi phạm Điều 12 khoản 3 tại QĐ 148/QĐ-HĐCCVTQ - Quan hệ của công chứng viên với người tập sự hành nghề công chứng, cụ thể là: 'Không được có hành vi đe dọa, gây hoang mang tinh thần cho người tập sự hành nghề công chứng'; và 'Không được phân biệt đối xử giữa những người tập sự hành nghề công chứng do mình hướng dẫn'. Đồng thời vi phạm Điều 14 khoản 2 điểm b tại QĐ 148/QĐ-HĐCCVTQ - Những việc công chứng viên không được làm với người tập sự hành nghề công chứng, cụ thể là: 'Có hành vi đe dọa, gây hoang mang tinh thần cho người tập sự hành nghề công chứng nhằm tìm kiếm lợi ích cho mình'. Ngoài ra còn vi phạm Điều 12 khoản 5 cùng Điều 14 khoản 2 điểm đ tại QĐ 148/QĐ-HĐCCVTQ, cụ thể là: 'Thông đồng với người tập sự hành nghề công chứng để báo cáo sai sự thật, báo cáo khống về kết quả tập sự hành nghề công chứng'."
+  },
+  {
+    "question": "CCV E đang có mâu thuẫn cá nhân với một VPCC khác trong khu vực. Khi khách đến công chứng, E thường xuyên nói rằng VPCC kia 'hay bị thanh tra', 'có nguy cơ bị đóng cửa', dù không có căn cứ. Đồng thời E chỉ đạo nhân viên mạng xã hội đăng bài ẩn ý chê bai chất lượng nghiệp vụ của VPCC đó nhằm kéo khách về văn phòng mình. Hành vi của CCV E được đánh giá như thế nào?",
+    "a": "Vi phạm nghĩa vụ tôn trọng uy tín, danh dự đồng nghiệp.",
+    "b": "Vi phạm hành vi công kích, nói xấu đồng nghiệp để lôi kéo khách hàng.",
+    "c": "Không vi phạm nếu E không nêu tên trực tiếp VPCC kia.",
+    "d": "Đáp án a và b đúng, c sai.",
+    "answer": "d",
+    "explanation": "CCV E vi phạm Điều 9 khoản 1 tại QĐ 148/QĐ-HĐCCVTQ - Quan hệ của công chứng viên với đồng nghiệp, cụ thể là: 'Không được có hành vi làm tổn hại danh dự, uy tín của đồng nghiệp'. Đồng thời vi phạm Điều 14 khoản 1 điểm a tại QĐ 148/QĐ-HĐCCVTQ - Những việc công chứng viên không được làm với đồng nghiệp, cụ thể là: 'Có lời nói, hành vi vu khống, xúc phạm danh dự, nhân phẩm, làm tổn hại uy tín đồng nghiệp'. Ngoài ra còn vi phạm Điều 14 khoản 1 điểm b, cụ thể là: 'Xúi giục khách hàng từ chối đồng nghiệp để nhận việc về cho mình hoặc công kích, nói xấu đồng nghiệp'."
+  },
+  {
+    "question": "CCV F là Trưởng VPCC nhưng thường xuyên vắng mặt vì điều hành công ty riêng. F giao toàn bộ việc tiếp nhận, kiểm tra hồ sơ cho thư ký và cho phép nhân viên tự ý hẹn khách ký trước. Do không được quán triệt về bảo mật, nhiều nhân viên đã chụp giấy tờ khách hàng gửi cho môi giới bất động sản để tìm nguồn khách mới. Khi bị phản ánh, F cho rằng lỗi là do nhân viên tự ý làm. Hành vi của CCV F có vi phạm đạo đức nghề nghiệp không?",
+    "a": "Có vì CCV không có mặt thường xuyên tại tổ chức hành nghề công chứng.",
+    "b": "Có vì CCV không thực hiện trách nhiệm quản lý, hướng dẫn nhân viên bảo mật thông tin.",
+    "c": "Có vì việc để lộ thông tin khách hàng làm ảnh hưởng uy tín nghề nghiệp.",
+    "d": "Cả a, b và c đều đúng.",
+    "answer": "d",
+    "explanation": "CCV F vi phạm Điều 14 khoản 3 điểm d tại QĐ 148/QĐ-HĐCCVTQ - Những việc công chứng viên không được làm với tổ chức hành nghề công chứng, cụ thể là: 'Không có mặt thường xuyên tại tổ chức hành nghề công chứng theo ngày, giờ làm việc'. Đồng thời vi phạm Điều 6 khoản 3 tại QĐ 148/QĐ-HĐCCVTQ - Bảo mật thông tin, bảo quản hồ sơ công chứng, cụ thể là: 'Công chứng viên có trách nhiệm hướng dẫn nhân viên thuộc tổ chức hành nghề công chứng của mình không được tiết lộ bí mật thông tin về việc công chứng'. Ngoài ra còn vi phạm Điều 13 khoản 3 tại QĐ 148/QĐ-HĐCCVTQ - Quan hệ của công chứng viên với tổ chức, cá nhân khác, cụ thể là: 'Công chứng viên là Trưởng tổ chức hành nghề công chứng có trách nhiệm phổ biến, quán triệt... nội dung quy tắc này'."
+  },
+  {
+    "question": "CCV A là Trưởng VPCC. A đồng thời là cổ đông một công ty môi giới bất động sản. Công ty này ép nhân viên chỉ đưa khách sang VPCC của A. A không trực tiếp nhận tiền nhưng đồng ý cho công ty dùng danh nghĩa văn phòng để quảng bá. Trong một số hồ sơ, A chỉ đạo nhân viên ưu tiên xử lý hồ sơ từ công ty này, bỏ qua khách đến trực tiếp. Khi bị phản ánh, A nói đây là “chiến lược kinh doanh”. Hành vi của CCV A vi phạm gì?",
+    "a": "Vi phạm nguyên tắc khách quan, độc lập trong hành nghề công chứng",
+    "b": "Vi phạm quy tắc về uy tín, thanh danh nghề nghiệp",
+    "c": "Vi phạm quy định về đối xử bình đẳng giữa người yêu cầu công chứng",
+    "d": "Cả a, b và c đúng",
+    "answer": "d",
+    "explanation": "Hành vi của CCV A vi phạm Điều 1 QĐ 148/QĐ-HĐCCVTQ - Trung thành với Tổ quốc và bảo vệ quyền, lợi ích hợp pháp của cá nhân, tổ chức; vi phạm Điều 3 khoản 1 QĐ 148/QĐ-HĐCCVTQ - Tôn trọng, bảo vệ uy tín, thanh danh nghề nghiệp, cụ thể là: 'Không được có hành vi làm tổn hại đến danh dự, uy tín cá nhân, thanh danh nghề nghiệp'; và vi phạm Điều 7 QĐ 148/QĐ-HĐCCVTQ - Đối xử bình đẳng giữa người yêu cầu công chứng, cụ thể là: 'Không được phân biệt đối xử giữa những người yêu cầu công chứng'."
+  },
+  {
+    "question": "CCV B có người thân là cán bộ địa chính xã. Người này thường xuyên “gợi ý” người dân muốn tách thửa phải qua VPCC của B để “dễ xử lý hồ sơ”. B biết rõ việc này nhưng vẫn làm ngơ, thậm chí còn ký công chứng nhanh hơn cho các hồ sơ do người thân giới thiệu. Sau đó B còn chia sẻ thông tin hồ sơ cho người thân để hỗ trợ xử lý giấy tờ đất. Hành vi của CCV B vi phạm gì?",
+    "a": "Vi phạm quan hệ với tổ chức, cá nhân khác về tính độc lập khách quan",
+    "b": "Vi phạm nguyên tắc bảo mật thông tin",
+    "c": "Vi phạm trách nhiệm nghề nghiệp bảo đảm an toàn pháp lý",
+    "d": "Cả a, b và c đúng",
+    "answer": "d",
+    "explanation": "CCV B vi phạm Điều 13 khoản 1 QĐ 148/QĐ-HĐCCVTQ - Quan hệ với tổ chức, cá nhân khác, cụ thể là: 'Phải đảm bảo tính độc lập khách quan và bí mật nghề nghiệp'. Đồng thời vi phạm Điều 5 khoản 1 QĐ 148/QĐ-HĐCCVTQ - Trách nhiệm nghề nghiệp, cụ thể là: 'Bảo đảm tốt nhất tính an toàn pháp lý cho hợp đồng, giao dịch'. Và vi phạm Điều 6 khoản 1 QĐ 148/QĐ-HĐCCVTQ - Bảo mật thông tin, cụ thể là: 'Giữ bí mật các thông tin trong hồ sơ yêu cầu công chứng'."
+  },
+  {
+    "question": "CCV C là công chứng viên lâu năm nhưng không tham gia bất kỳ hoạt động bồi dưỡng nghiệp vụ nào trong 5 năm. Khi được Hội công chứng viên nhắc nhở, C cho rằng đã có kinh nghiệm nên không cần học thêm. Đồng thời C thường xuyên từ chối tham gia các hoạt động của Hội và không đóng phí hội viên nhưng vẫn hành nghề bình thường. Hành vi của CCV C vi phạm gì?",
+    "a": "Vi phạm nghĩa vụ bồi dưỡng nghiệp vụ hàng năm",
+    "b": "Vi phạm nghĩa vụ tham gia Hội công chứng viên",
+    "c": "Vi phạm nguyên tắc rèn luyện, tu dưỡng bản thân",
+    "d": "Cả a, b và c đúng",
+    "answer": "d",
+    "explanation": "CCV C vi phạm Điều 4 QĐ 148/QĐ-HĐCCVTQ - Rèn luyện, tu dưỡng bản thân, cụ thể là: 'Không ngừng tu dưỡng đạo đức, nâng cao trình độ chuyên môn, tích cực tham gia bồi dưỡng kiến thức, nghiệp vụ'. Đồng thời vi phạm Điều 2 khoản 3 QĐ 148/QĐ-HĐCCVTQ - Gia nhập và duy trì tư cách hội viên Hội công chứng viên. Và vi phạm Điều 14 khoản 4 điểm b, c QĐ 148/QĐ-HĐCCVTQ - Không thực hiện nghĩa vụ bồi dưỡng nghiệp vụ và nghĩa vụ tài chính với Hội."
+  },
+  {
+    "question": "CCV D trong một buổi ký công chứng có thái độ thô lỗ, quát nạt người dân lớn tuổi vì ký sai thứ tự giấy tờ. D còn nói: 'Không ký thì đi chỗ khác'. Sau đó D vẫn tiếp tục công chứng nhưng không giải thích rõ quyền và nghĩa vụ các bên. Người dân khiếu nại vì không hiểu nội dung hợp đồng. Hành vi của CCV D vi phạm gì?",
+    "a": "Vi phạm chuẩn mực ứng xử văn minh, lịch sự",
+    "b": "Vi phạm nghĩa vụ giải thích quyền và nghĩa vụ của người yêu cầu công chứng",
+    "c": "Vi phạm uy tín nghề nghiệp công chứng viên",
+    "d": "Cả a, b và c đúng",
+    "answer": "d",
+    "explanation": "CCV D vi phạm Điều 3 khoản 2 QĐ 148/QĐ-HĐCCVTQ - Ứng xử văn minh, lịch sự trong hành nghề; vi phạm Điều 5 khoản 3 QĐ 148/QĐ-HĐCCVTQ - Nghĩa vụ giải thích quyền, nghĩa vụ và hậu quả pháp lý; và vi phạm Điều 3 khoản 1 QĐ 148/QĐ-HĐCCVTQ - Bảo vệ uy tín, thanh danh nghề nghiệp."
+  },
+  {
+    "question": "CCV E là người hướng dẫn tập sự. E thường xuyên bắt người tập sự làm việc riêng như giao hàng, giữ con, xử lý việc gia đình. Đổi lại, E hứa sẽ ký xác nhận tập sự “đẹp”. Khi có người phản ánh, E đe dọa sẽ không ký sổ nhật ký tập sự và báo cáo không đạt. Sau đó E vẫn ký xác nhận dù người tập sự không đạt yêu cầu thực tế. Hành vi của CCV E vi phạm gì?",
+    "a": "Vi phạm quan hệ với người tập sự hành nghề công chứng",
+    "b": "Vi phạm hành vi đe dọa, gây áp lực với người tập sự",
+    "c": "Vi phạm hành vi xác nhận sai kết quả tập sự",
+    "d": "Cả a, b và c đúng",
+    "answer": "d",
+    "explanation": "CCV E vi phạm Điều 12 khoản 3 QĐ 148/QĐ-HĐCCVTQ - Quan hệ với người tập sự, cụ thể là: 'Không được yêu cầu người tập sự làm công việc không liên quan tập sự và không được đe dọa, gây hoang mang tinh thần'. Đồng thời vi phạm Điều 14 khoản 2 điểm b, đ QĐ 148/QĐ-HĐCCVTQ - Những việc không được làm với người tập sự. Và vi phạm Điều 12 khoản 5 QĐ 148/QĐ-HĐCCVTQ - Thông đồng báo cáo sai sự thật về kết quả tập sự."
+  },
+  {
+    "question": "CCV F phát hiện đồng nghiệp trong cùng VPCC thường xuyên để khách ký thay khi chưa có mặt đầy đủ các bên. Tuy nhiên F không báo cáo vì sợ ảnh hưởng quan hệ nội bộ. Sau đó sự việc bị phát hiện gây hậu quả nghiêm trọng, hợp đồng bị tuyên vô hiệu và VPCC bị xử phạt. Hành vi của CCV F vi phạm gì?",
+    "a": "Vi phạm nghĩa vụ góp ý, báo cáo khi phát hiện sai phạm của đồng nghiệp",
+    "b": "Vi phạm trách nhiệm bảo vệ uy tín nghề nghiệp",
+    "c": "Vi phạm nguyên tắc hành nghề công chứng",
+    "d": "Cả a, b và c đúng",
+    "answer": "d",
+    "explanation": "CCV F vi phạm Điều 9 khoản 2 QĐ 148/QĐ-HĐCCVTQ - Quan hệ với đồng nghiệp, cụ thể là: 'Phải góp ý hoặc báo cáo khi phát hiện sai sót hoặc vi phạm pháp luật'. Đồng thời vi phạm Điều 3 khoản 1 QĐ 148/QĐ-HĐCCVTQ - Bảo vệ uy tín nghề nghiệp. Và vi phạm Điều 2 QĐ 148/QĐ-HĐCCVTQ - Tuân thủ nguyên tắc hành nghề công chứng."
+  },
+  {
+    "question": "CCV A tham gia góp vốn gián tiếp vào một đường dây chuyển tiền xuyên biên giới thông qua việc lập hợp đồng ủy quyền và hợp đồng mua bán giả tạo để che giấu dòng tiền. A biết rõ mục đích của các bên là hợp thức hóa tiền có nguồn gốc bất hợp pháp nhưng vẫn thực hiện công chứng vì được hứa chia lợi nhuận. Sau đó A còn sử dụng danh nghĩa công chứng viên để thuyết phục ngân hàng và cơ quan nhà nước tin rằng giao dịch là hợp pháp. Hành vi của CCV A vi phạm điều nào?",
+    "a": "Vi phạm nguyên tắc trung thành với Tổ quốc, bảo vệ lợi ích xã hội",
+    "b": "Vi phạm nghĩa vụ bảo đảm an toàn pháp lý cho giao dịch",
+    "c": "Vi phạm nguyên tắc hành nghề công chứng và uy tín nghề nghiệp",
+    "d": "Cả a, b và c đúng",
+    "answer": "d",
+    "explanation": "CCV A vi phạm Điều 1 QĐ 148/QĐ-HĐCCVTQ - Trung thành với Tổ quốc, bảo vệ quyền lợi hợp pháp của cá nhân, tổ chức, vì đã tiếp tay cho hành vi hợp thức hóa giao dịch nhằm che giấu nguồn tiền bất hợp pháp. Đồng thời vi phạm Điều 5 khoản 1 QĐ 148/QĐ-HĐCCVTQ - Trách nhiệm nghề nghiệp, cụ thể là không bảo đảm tính an toàn pháp lý của giao dịch. Ngoài ra còn vi phạm Điều 3 khoản 1 QĐ 148/QĐ-HĐCCVTQ - làm ảnh hưởng uy tín, thanh danh nghề nghiệp công chứng viên."
+  },
+  {
+    "question": "CCV B nhiều lần đăng bài trên mạng xã hội cá nhân, công khai chỉ trích cơ quan quản lý nhà nước và Hiệp hội công chứng viên, cho rằng các quy định hiện hành 'lạc hậu và cản trở làm giàu'. B còn khuyên công chứng viên khác không tham gia Hội vì 'không có lợi ích gì'. Sau đó B bị phản ánh gây ảnh hưởng uy tín nghề nghiệp công chứng. Hành vi của CCV B vi phạm gì?",
+    "a": "Vi phạm nghĩa vụ tuân thủ Điều lệ và nội quy Hiệp hội",
+    "b": "Vi phạm quy tắc bảo vệ uy tín nghề nghiệp công chứng viên",
+    "c": "Vi phạm nguyên tắc hành nghề công chứng",
+    "d": "Cả a, b và c đúng",
+    "answer": "d",
+    "explanation": "CCV B vi phạm Điều 2 khoản 2 QĐ 148/QĐ-HĐCCVTQ - Tuân thủ Điều lệ, nội quy, quy chế của Hiệp hội công chứng viên. Đồng thời vi phạm Điều 3 khoản 1 QĐ 148/QĐ-HĐCCVTQ - Tôn trọng và bảo vệ uy tín, thanh danh nghề nghiệp. Ngoài ra vi phạm Điều 11 khoản 1 QĐ 148/QĐ-HĐCCVTQ - quan hệ với Hội công chứng viên, phải chấp hành nội quy và Điều lệ Hiệp hội."
+  },
+  {
+    "question": "CCV C cho rằng mình đã có 20 năm kinh nghiệm nên không cần tham gia bồi dưỡng nghiệp vụ hàng năm. C thường xuyên bỏ các lớp tập huấn pháp luật mới, dẫn đến việc áp dụng sai quy định khi công chứng hợp đồng chuyển nhượng đất. Khi bị phản ánh, C nói rằng trách nhiệm là của khách hàng vì đã ký. Hành vi của CCV C vi phạm gì?",
+    "a": "Vi phạm nghĩa vụ rèn luyện, nâng cao trình độ chuyên môn",
+    "b": "Vi phạm trách nhiệm nghề nghiệp bảo đảm chất lượng công chứng",
+    "c": "Vi phạm nguyên tắc hành nghề công chứng",
+    "d": "Cả a, b và c đúng",
+    "answer": "d",
+    "explanation": "CCV C vi phạm Điều 4 QĐ 148/QĐ-HĐCCVTQ - Rèn luyện, tu dưỡng bản thân, cụ thể là không ngừng nâng cao trình độ chuyên môn và tham gia bồi dưỡng nghiệp vụ. Đồng thời vi phạm Điều 5 khoản 1 QĐ 148/QĐ-HĐCCVTQ - trách nhiệm bảo đảm an toàn pháp lý cho hợp đồng, giao dịch. Ngoài ra vi phạm Điều 2 QĐ 148/QĐ-HĐCCVTQ - nguyên tắc hành nghề công chứng."
+  },
+  {
+    "question": "CCV D là trưởng VPCC nhưng thường xuyên không có mặt tại văn phòng, giao toàn bộ việc điều hành cho thư ký. Thư ký tự ý tiếp nhận hồ sơ, hẹn lịch ký và thu phí dịch vụ. D biết nhưng không kiểm soát vì đang điều hành công ty riêng. Một số hợp đồng bị sai sót nghiêm trọng gây tranh chấp. Hành vi của CCV D vi phạm gì?",
+    "a": "Vi phạm trách nhiệm quản lý tổ chức hành nghề công chứng",
+    "b": "Vi phạm nghĩa vụ có mặt và trực tiếp hành nghề theo quy định",
+    "c": "Vi phạm nguyên tắc bảo đảm an toàn pháp lý cho giao dịch",
+    "d": "Cả a, b và c đúng",
+    "answer": "d",
+    "explanation": "CCV D vi phạm Điều 10 khoản 1 QĐ 148/QĐ-HĐCCVTQ - quan hệ với tổ chức hành nghề công chứng, phải chấp hành nội quy, quy chế và quản lý điều hành. Đồng thời vi phạm Điều 14 khoản 3 điểm d QĐ 148/QĐ-HĐCCVTQ - không có mặt thường xuyên tại tổ chức hành nghề công chứng. Ngoài ra vi phạm Điều 5 khoản 1 QĐ 148/QĐ-HĐCCVTQ - trách nhiệm bảo đảm an toàn pháp lý cho hợp đồng, giao dịch."
+  },
+  {
+    "question": "CCV E phát biểu tại một buổi hội nghị địa phương rằng 'Hội công chứng viên không cần thiết tồn tại vì chỉ gây thêm thủ tục'. Sau đó E không đóng hội phí nhiều năm nhưng vẫn hành nghề công chứng. Đồng thời E từ chối tham gia các hoạt động do Hội và Hiệp hội tổ chức. Hành vi của CCV E vi phạm gì?",
+    "a": "Vi phạm nghĩa vụ tham gia và duy trì tư cách hội viên",
+    "b": "Vi phạm nghĩa vụ tài chính đối với Hội công chứng viên",
+    "c": "Vi phạm quan hệ với tổ chức xã hội nghề nghiệp công chứng",
+    "d": "Cả a, b và c đúng",
+    "answer": "d",
+    "explanation": "CCV E vi phạm Điều 2 khoản 3 QĐ 148/QĐ-HĐCCVTQ - gia nhập và duy trì tư cách hội viên Hội công chứng viên. Đồng thời vi phạm Điều 11 khoản 1 và khoản 2 QĐ 148/QĐ-HĐCCVTQ - nghĩa vụ chấp hành nội quy và tham gia hoạt động nghề nghiệp. Ngoài ra vi phạm Điều 14 khoản 4 điểm a và c QĐ 148/QĐ-HĐCCVTQ - không thực hiện nghĩa vụ hội viên và nghĩa vụ tài chính."
+  },
+  {
+    "question": "CCV F trong quá trình làm việc với UBND xã thường xuyên đưa phong bì để được xác nhận hồ sơ đất nhanh hơn. F còn lợi dụng quan hệ cá nhân với cán bộ địa chính để bỏ qua một số bước kiểm tra pháp lý bắt buộc. Khi hồ sơ có sai phạm, F yêu cầu cán bộ không ghi nhận vào biên bản kiểm tra. Hành vi của CCV F vi phạm gì?",
+    "a": "Vi phạm quan hệ đúng mực với cơ quan nhà nước",
+    "b": "Vi phạm nguyên tắc độc lập, khách quan trong hành nghề",
+    "c": "Vi phạm nguyên tắc hành nghề công chứng",
+    "d": "Cả a, b và c đúng",
+    "answer": "d",
+    "explanation": "CCV F vi phạm Điều 13 khoản 2 QĐ 148/QĐ-HĐCCVTQ - phải có thái độ đúng mực, tôn trọng cơ quan, cá nhân khi làm việc. Đồng thời vi phạm Điều 13 khoản 1 - phải đảm bảo tính độc lập, khách quan. Ngoài ra vi phạm Điều 2 QĐ 148/QĐ-HĐCCVTQ - nguyên tắc hành nghề công chứng."
+  },
+  {
+    "question": "CCV A phát hiện một hồ sơ chuyển nhượng quyền sử dụng đất có dấu hiệu giả mạo chữ ký của một bên. Tuy nhiên, do người môi giới là bạn thân và hứa chia lợi nhuận, A vẫn cho ký công chứng với lý do 'các bên tự chịu trách nhiệm'. Sau đó A còn dặn nhân viên không ghi nhận cảnh báo vào hồ sơ để tránh bị kiểm tra. Hành vi của CCV A vi phạm chủ yếu điều nào?",
+    "a": "Vi phạm trách nhiệm nghề nghiệp bảo đảm an toàn pháp lý",
+    "b": "Vi phạm nguyên tắc trung thực, khách quan trong hành nghề",
+    "c": "Vi phạm quy định về bảo mật hồ sơ công chứng",
+    "d": "Chỉ a và b đúng",
+    "answer": "d",
+    "explanation": "CCV A vi phạm Điều 5 khoản 1 QĐ 148/QĐ-HĐCCVTQ (trách nhiệm nghề nghiệp: bảo đảm an toàn pháp lý) và Điều 2 QĐ 148/QĐ-HĐCCVTQ (nguyên tắc hành nghề: tuân thủ pháp luật, trung thực, khách quan). Không thuộc phạm vi Điều 6 vì không có hành vi tiết lộ thông tin ra bên ngoài."
+  },
+  {
+    "question": "CCV B là trưởng VPCC. B yêu cầu nhân viên ưu tiên hồ sơ của người quen và 'để hồ sơ khách lạ sang sau'. Khi khách phản ứng, B nói đây là 'quyền điều hành nội bộ'. Đồng thời B không giải thích rõ hậu quả pháp lý trong một số hợp đồng vì cho rằng khách đã tự đọc. Hành vi của B đúng hay sai?",
+    "a": "Sai vì vi phạm nguyên tắc bình đẳng giữa người yêu cầu công chứng",
+    "b": "Sai vì vi phạm nghĩa vụ giải thích quyền và nghĩa vụ",
+    "c": "Sai vì vi phạm trách nhiệm quản lý tổ chức hành nghề công chứng",
+    "d": "Chỉ a và b đúng",
+    "answer": "d",
+    "explanation": "Vi phạm Điều 7 QĐ 148/QĐ-HĐCCVTQ (bình đẳng giữa người yêu cầu công chứng) và Điều 5 khoản 3 (nghĩa vụ giải thích quyền, nghĩa vụ, hậu quả pháp lý). Việc quản lý nội bộ không phải là căn cứ loại trừ trách nhiệm nên phương án c không phải trọng tâm vi phạm trong tình huống này."
+  },
+  {
+    "question": "CCV C đăng bài trên mạng xã hội cho rằng 'công chứng chỉ là thủ tục hình thức, không cần quá coi trọng'. Sau đó C còn dùng danh nghĩa công chứng viên để quảng cáo dịch vụ cá nhân của công ty bất động sản do mình góp vốn. Hành vi của C vi phạm điều gì?",
+    "a": "Vi phạm nguyên tắc bảo vệ uy tín, thanh danh nghề nghiệp",
+    "b": "Vi phạm quy định về trung thực trong hành nghề",
+    "c": "Vi phạm quy định về quan hệ với tổ chức hành nghề công chứng",
+    "d": "Chỉ a và b đúng",
+    "answer": "d",
+    "explanation": "Vi phạm Điều 3 khoản 1 QĐ 148/QĐ-HĐCCVTQ (uy tín, thanh danh nghề nghiệp) và Điều 2 QĐ 148/QĐ-HĐCCVTQ (nguyên tắc hành nghề: trung thực, khách quan). Không trực tiếp rơi vào Điều 10 vì chưa thể hiện hành vi vi phạm nội quy tổ chức hành nghề công chứng."
+  },
+  {
+    "question": "CCV D có em ruột làm môi giới. Em ruột thường xuyên đưa khách đến VPCC của D và yêu cầu 'ký nhanh để kịp giao dịch'. D biết rõ nhưng vẫn ưu tiên xử lý hồ sơ này, đồng thời không kiểm tra đầy đủ giấy tờ vì tin tưởng em mình. Hành vi của D vi phạm gì?",
+    "a": "Vi phạm nguyên tắc khách quan, độc lập",
+    "b": "Vi phạm trách nhiệm nghề nghiệp bảo đảm an toàn pháp lý",
+    "c": "Vi phạm quy định về bảo mật thông tin",
+    "d": "Chỉ a và b đúng",
+    "answer": "d",
+    "explanation": "Vi phạm Điều 2 QĐ 148/QĐ-HĐCCVTQ (nguyên tắc khách quan, trung thực) và Điều 5 khoản 1 (trách nhiệm bảo đảm an toàn pháp lý). Không có dấu hiệu tiết lộ thông tin nên không thuộc Điều 6."
+  },
+  {
+    "question": "CCV E là người hướng dẫn tập sự. E yêu cầu người tập sự làm việc cá nhân như đưa đón, xử lý việc riêng. Khi người tập sự phản ánh, E đe dọa không ký xác nhận quá trình tập sự. Tuy nhiên cuối cùng E vẫn ký xác nhận đạt yêu cầu dù người này không hoàn thành đúng nội dung tập sự. Hành vi của E vi phạm gì?",
+    "a": "Vi phạm quan hệ với người tập sự",
+    "b": "Vi phạm hành vi đe dọa, gây áp lực với người tập sự",
+    "c": "Vi phạm xác nhận sai kết quả tập sự",
+    "d": "Chỉ a và c đúng",
+    "answer": "d",
+    "explanation": "Vi phạm Điều 12 khoản 3 (không được yêu cầu công việc không liên quan và không phân biệt đối xử) và Điều 12 khoản 5 (thông đồng báo cáo sai kết quả tập sự). Hành vi đe dọa là tình tiết trong quan hệ nhưng trọng tâm là sai xác nhận nên phương án b không được chọn độc lập."
+  },
+  {
+    "question": "CCV F không tham gia hoạt động của Hội công chứng viên trong nhiều năm nhưng vẫn hành nghề. F cho rằng việc tham gia hội là không bắt buộc. Khi bị nhắc nhở đóng hội phí, F từ chối và nói sẽ không chịu ràng buộc bởi hội nghề nghiệp. Hành vi của F vi phạm gì?",
+    "a": "Vi phạm nghĩa vụ hội viên Hội công chứng viên",
+    "b": "Vi phạm nghĩa vụ tài chính đối với Hội",
+    "c": "Vi phạm nguyên tắc hành nghề công chứng",
+    "d": "Chỉ a và b đúng",
+    "answer": "d",
+    "explanation": "Vi phạm Điều 2 khoản 3 QĐ 148/QĐ-HĐCCVTQ (duy trì tư cách hội viên) và Điều 14 khoản 4 điểm a, c (không thực hiện nghĩa vụ hội viên và nghĩa vụ tài chính). Không phải vi phạm trực tiếp nguyên tắc hành nghề nên phương án c không chọn."
+  },
+{
+    "question": "VPCC X do CCV A làm Trưởng văn phòng. A thỏa thuận với một môi giới B rằng mỗi hồ sơ chuyển nhượng đất thành công sẽ được chia 30% phí dịch vụ. B đưa khách đến, yêu cầu nhân viên VPCC bỏ qua bước kiểm tra tình trạng hôn nhân và nguồn gốc tài sản để ký nhanh. Nhân viên báo có sai sót nhưng A nói 'cứ làm, khách chịu trách nhiệm'. Đồng thời A ưu tiên toàn bộ hồ sơ do B đưa đến, bỏ qua khách lẻ. Một số hồ sơ bị phát hiện có chữ ký không đúng người ký nhưng A vẫn ký công chứng vì đã nhận tiền trước. Hành vi của CCV A vi phạm gì?",
+    "a": "Vi phạm nguyên tắc trung thực, khách quan và tuân thủ pháp luật",
+    "b": "Vi phạm trách nhiệm bảo đảm an toàn pháp lý cho giao dịch",
+    "c": "Vi phạm các hành vi bị cấm trong quan hệ với người yêu cầu công chứng",
+    "d": "Tất cả a, b, c đều đúng",
+    "answer": "d",
+    "explanation": "Hành vi của CCV A vi phạm đồng thời nhiều điều của Quyết định 148/QĐ-HĐCCVTQ: (1) Điều 2 khoản 1 - Nguyên tắc hành nghề công chứng: 'Công chứng viên phải tuân thủ các nguyên tắc hành nghề công chứng theo quy định của Luật Công chứng', bao gồm trung thực, khách quan, tuân thủ pháp luật. (2) Điều 5 khoản 1 - Trách nhiệm nghề nghiệp: 'Công chứng viên phải bảo đảm tốt nhất tính an toàn pháp lý cho hợp đồng, giao dịch'. (3) Điều 7 - Đối xử bình đẳng: cấm phân biệt đối xử giữa người yêu cầu công chứng. (4) Điều 8 khoản 2 và khoản 11 - Cấm nhận lợi ích ngoài phí và thông đồng làm sai lệch hồ sơ. (5) Điều 14 khoản 1 và khoản 3 - cấm hành vi với đồng nghiệp, tổ chức và hành vi làm sai lệch hoạt động nghề nghiệp. Đây là hành vi vi phạm có hệ thống, nhiều tầng, không phải lỗi đơn lẻ."
+  },
+  {
+    "question": "CCV B vừa là Trưởng VPCC vừa góp vốn vào công ty môi giới bất động sản. B chỉ đạo nhân viên VPCC ưu tiên hồ sơ do công ty của mình chuyển đến. Khi khách phản ánh sai sót hồ sơ, B yêu cầu nhân viên sửa lại nội dung để hợp thức hóa thay vì giải thích rõ rủi ro pháp lý. Đồng thời B thường xuyên không có mặt tại văn phòng, giao toàn bộ việc ký cho thư ký. Hành vi của B vi phạm gì?",
+    "a": "Vi phạm nguyên tắc độc lập, khách quan trong hành nghề công chứng",
+    "b": "Vi phạm trách nhiệm quản lý tổ chức hành nghề công chứng",
+    "c": "Vi phạm quy định cấm hành nghề gây xung đột lợi ích",
+    "d": "Tất cả a, b, c đều đúng",
+    "answer": "d",
+    "explanation": "CCV B vi phạm: (1) Điều 2 khoản 1 - Nguyên tắc hành nghề: yêu cầu độc lập, khách quan, không bị chi phối bởi lợi ích cá nhân. (2) Điều 5 khoản 1 và khoản 3 - trách nhiệm nghề nghiệp và nghĩa vụ giải thích quyền, nghĩa vụ cho người yêu cầu công chứng. (3) Điều 10 khoản 1 và khoản 3 - quan hệ với tổ chức hành nghề công chứng: phải quản lý, điều hành đúng và không làm tổn hại uy tín tổ chức. (4) Điều 14 khoản 3 điểm c và d - không được đồng thời hành nghề trái quy định và phải có mặt thường xuyên tại tổ chức hành nghề công chứng."
+  },
+  {
+    "question": "CCV C là người hướng dẫn tập sự. C bắt người tập sự làm việc cá nhân như giao hàng, nộp tiền, sau đó ký xác nhận quá trình tập sự đạt yêu cầu dù người này không hoàn thành nội dung tập sự. Khi bị góp ý, C đe dọa sẽ không ký xác nhận nếu người tập sự phản ánh lên Hội. Hành vi của C vi phạm gì?",
+    "a": "Vi phạm quan hệ với người tập sự hành nghề công chứng",
+    "b": "Vi phạm hành vi ép buộc, đe dọa người tập sự",
+    "c": "Vi phạm xác nhận sai kết quả tập sự",
+    "d": "Chỉ a và c đúng",
+    "answer": "d",
+    "explanation": "Vi phạm Điều 12 khoản 3 QĐ 148/QĐ-HĐCCVTQ: 'Không được yêu cầu người tập sự thực hiện công việc không liên quan đến nội dung tập sự và không được phân biệt đối xử'. Đồng thời vi phạm Điều 12 khoản 5: 'Không được thông đồng để báo cáo sai sự thật về kết quả tập sự'. Hành vi đe dọa là tình tiết bổ trợ nhưng trọng tâm pháp lý là sai xác nhận kết quả tập sự."
+  },
+  {
+    "question": "CCV D thường xuyên đăng mạng xã hội cá nhân nội dung cho rằng công chứng viên có thể 'linh hoạt bỏ qua thủ tục nếu khách hàng quen biết'. D còn nhận tiền hoa hồng từ môi giới khi giới thiệu khách đến VPCC khác. Khi bị phản ánh, D nói đó là 'quan hệ xã hội bình thường'. Hành vi của D vi phạm gì?",
+    "a": "Vi phạm nguyên tắc trung thực và uy tín nghề nghiệp",
+    "b": "Vi phạm hành vi bị cấm trong quan hệ với người yêu cầu công chứng",
+    "c": "Vi phạm quan hệ với đồng nghiệp và hành vi môi giới trái quy định",
+    "d": "Tất cả a, b, c đều đúng",
+    "answer": "d",
+    "explanation": "Vi phạm Điều 3 khoản 1 - bảo vệ uy tín nghề nghiệp. Vi phạm Điều 8 khoản 2 và khoản 10 - cấm nhận lợi ích ngoài phí và trả/nhận hoa hồng môi giới. Vi phạm Điều 9 khoản 1 và Điều 14 khoản 1 - làm ảnh hưởng đồng nghiệp, uy tín nghề công chứng và hành vi cấm trong quan hệ nghề nghiệp."
+  },
+{
+    "question": "CCV A là Trưởng VPCC. A thỏa thuận với một môi giới rằng sẽ chia hoa hồng nếu đưa khách đến công chứng tại văn phòng mình. Khi khách đến, A chỉ đạo nhân viên bỏ qua bước kiểm tra tình trạng pháp lý của tài sản để ký nhanh vì 'khách đã quen môi giới'. Một hồ sơ có dấu hiệu giả mạo chữ ký nhưng A vẫn ký vì tin lời môi giới. Sau đó A yêu cầu nhân viên không ghi nhận ý kiến cảnh báo vào hồ sơ để tránh bị kiểm tra. Hành vi của CCV A vi phạm nghiêm trọng nhất điều nào?",
+    "a": "Vi phạm nguyên tắc trung thực, khách quan trong hành nghề công chứng",
+    "b": "Vi phạm trách nhiệm bảo đảm an toàn pháp lý cho hợp đồng, giao dịch",
+    "c": "Vi phạm hành vi bị cấm trong quan hệ với người yêu cầu công chứng",
+    "d": "Vi phạm đồng thời a, b, c nhưng trọng tâm là b",
+    "answer": "d",
+    "explanation": "CCV A vi phạm nhiều quy định: (1) Điều 2 khoản 1 QĐ 148/QĐ-HĐCCVTQ - nguyên tắc hành nghề: yêu cầu trung thực, khách quan, tuân thủ pháp luật. (2) Điều 5 khoản 1 - trách nhiệm nghề nghiệp: 'bảo đảm tốt nhất tính an toàn pháp lý cho hợp đồng, giao dịch'. (3) Điều 8 khoản 2 và khoản 11 - cấm nhận lợi ích ngoài phí và thông đồng làm sai lệch hồ sơ. Tuy nhiên, xét trọng tâm hành vi, vi phạm nghiêm trọng nhất là Điều 5 khoản 1 vì hậu quả trực tiếp là làm sai lệch và mất an toàn pháp lý của giao dịch."
+  },
+  {
+    "question": "CCV B đồng thời là cổ đông của công ty môi giới bất động sản. B chỉ đạo VPCC ưu tiên toàn bộ hồ sơ do công ty mình chuyển đến, còn hồ sơ khách lẻ thì để chậm xử lý. Khi có sai sót pháp lý, B nói khách hàng tự chịu trách nhiệm vì đã ký. Đồng thời B thường xuyên vắng mặt tại VPCC và để thư ký tự ký thay trong một số trường hợp. Hành vi của CCV B vi phạm điều nào là cốt lõi nhất?",
+    "a": "Vi phạm nguyên tắc độc lập, khách quan trong hành nghề",
+    "b": "Vi phạm trách nhiệm nghề nghiệp bảo đảm an toàn pháp lý",
+    "c": "Vi phạm quy định quản lý tổ chức hành nghề công chứng",
+    "d": "Vi phạm đồng thời nhưng trọng tâm là a và b",
+    "answer": "d",
+    "explanation": "Vi phạm Điều 2 khoản 1 QĐ 148/QĐ-HĐCCVTQ (nguyên tắc hành nghề: độc lập, khách quan, không bị chi phối bởi lợi ích cá nhân). Đồng thời vi phạm Điều 5 khoản 1 (trách nhiệm bảo đảm an toàn pháp lý). Ngoài ra có dấu hiệu vi phạm Điều 10 khoản 1 và khoản 3 (quản lý tổ chức hành nghề công chứng), nhưng trọng tâm là xung đột lợi ích và vi phạm trách nhiệm nghề nghiệp."
+  },
+  {
+    "question": "CCV C hướng dẫn tập sự yêu cầu người tập sự làm việc cá nhân, đồng thời không hướng dẫn nội dung chuyên môn đúng quy định. Khi người tập sự phản ánh lên Hội, C đe dọa sẽ không ký xác nhận kết quả tập sự. Tuy nhiên cuối cùng C vẫn ký xác nhận đạt yêu cầu dù người tập sự chưa hoàn thành chương trình. Hành vi của C vi phạm điều nào là đúng nhất?",
+    "a": "Vi phạm quan hệ với người tập sự hành nghề công chứng",
+    "b": "Vi phạm xác nhận sai kết quả tập sự hành nghề công chứng",
+    "c": "Vi phạm hành vi đe dọa người tập sự",
+    "d": "Vi phạm cả a, b, c nhưng trọng tâm là b",
+    "answer": "d",
+    "explanation": "Vi phạm Điều 12 khoản 3 QĐ 148/QĐ-HĐCCVTQ: cấm yêu cầu người tập sự làm việc không liên quan và cấm phân biệt đối xử. Đồng thời vi phạm Điều 12 khoản 5: cấm thông đồng báo cáo sai sự thật về kết quả tập sự. Hành vi đe dọa chỉ là tình tiết bổ trợ, còn hành vi trọng tâm là xác nhận sai kết quả tập sự."
+  },
+  {
+    "question": "CCV D đăng bài trên mạng xã hội cho rằng công chứng viên có thể 'linh hoạt bỏ qua thủ tục nếu khách hàng thân quen'. D còn nhận tiền hoa hồng từ môi giới khi giới thiệu khách đến VPCC khác. Khi bị phản ánh, D cho rằng đó là 'quan hệ xã hội bình thường'. Hành vi của D vi phạm điều nào là đầy đủ nhất?",
+    "a": "Vi phạm nguyên tắc bảo vệ uy tín nghề nghiệp công chứng viên",
+    "b": "Vi phạm hành vi bị cấm trong quan hệ với người yêu cầu công chứng",
+    "c": "Vi phạm hành vi bị cấm trong quan hệ với đồng nghiệp và môi giới",
+    "d": "Vi phạm cả a, b, c",
+    "answer": "d",
+    "explanation": "Vi phạm Điều 3 khoản 1 QĐ 148/QĐ-HĐCCVTQ (uy tín, thanh danh nghề nghiệp). Vi phạm Điều 8 khoản 2 và khoản 10 (cấm nhận lợi ích ngoài phí và cấm hoa hồng môi giới). Đồng thời vi phạm Điều 9 khoản 1 và Điều 14 khoản 1 (quan hệ đồng nghiệp và hành vi làm ảnh hưởng nghề nghiệp)."
+  },
+  {
+    "question": "CCV E thường xuyên không có mặt tại VPCC, giao toàn bộ việc tiếp nhận hồ sơ cho nhân viên không có thẩm quyền ký. Nhân viên này tự ý hẹn lịch, thu phí và giải thích pháp lý cho khách hàng. Khi xảy ra tranh chấp hợp đồng, E nói mình chỉ ký hậu kiểm nên không chịu trách nhiệm. Hành vi của CCV E vi phạm nghiêm trọng nhất điều nào?",
+    "a": "Vi phạm trách nhiệm quản lý tổ chức hành nghề công chứng",
+    "b": "Vi phạm trách nhiệm nghề nghiệp bảo đảm an toàn pháp lý",
+    "c": "Vi phạm nguyên tắc hành nghề công chứng",
+    "d": "Vi phạm đồng thời a, b nhưng trọng tâm là b",
+    "answer": "d",
+    "explanation": "Vi phạm Điều 10 khoản 1 và khoản 3 QĐ 148/QĐ-HĐCCVTQ (quản lý tổ chức hành nghề công chứng, không đảm bảo điều hành). Đồng thời vi phạm Điều 5 khoản 1 (trách nhiệm bảo đảm an toàn pháp lý). Việc ủy quyền trái thẩm quyền cho nhân viên không làm giảm trách nhiệm của CCV."
+  },
+  }
   "question": "Nhằm lôi kéo thêm lượng NYCCC và giữ chân các khách hàng có quen biết, CCV A đề nghị với các CCV khác trong TCHNCC mà mình đang làm việc đặt bảng thông báo trước cổng về việc văn phòng có chỗ làm việc riêng, miễn phí trà và cà phê cũng như không phải chờ đợi theo thứ tự đối với khách hàng thân thiết (VIP) hay đối tác là nhân viên các tổ chức tín dụng thường xuyên đến giao dịch. Xác định CCV có hành vi vi phạm những việc không được làm trong trường hợp này?",
   "a": "Không có hành vi vi phạm do không có quy định",
   "b": "TCHNCC được toàn quyền thực hiện các chính sách ưu đãi với khách hàng thân thiết (VIP) vì hành vi này là cạnh tranh lành mạnh và không vi phạm pháp luật",
