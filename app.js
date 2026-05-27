@@ -161,7 +161,7 @@ async function taiTatCaDuLieuCauHoi() {
     "./cau_hoi/p7.json",
     "./cau_hoi/p8.json",
      "./cau_hoi/p9.json",
-    "./cau_hoi/p9.json",
+    "./cau_hoi/p10.json",
     "./cau_hoi/pcuathay.json"
   ];
   
