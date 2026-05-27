@@ -1,5 +1,239 @@
 [
     {
+    "question": "theo luật hàng không dân dụng việt nam 2025, điều lệ vận chuyển hàng không có vai trò pháp lý như thế nào?",
+    "a": "là hợp đồng vận chuyển độc lập",
+    "b": "là bộ phận cấu thành của hợp đồng vận chuyển hàng không",
+    "c": "là văn bản hành chính do nhà nước ban hành",
+    "d": "là giấy phép vận chuyển hàng không",
+    "answer": "b",
+    "explanation": "điều 50 quy định điều lệ vận chuyển hàng không là bộ phận cấu thành của hợp đồng vận chuyển hàng không."
+  },
+  {
+    "question": "theo luật hàng không dân dụng việt nam 2025, vận đơn hàng không có tính chất pháp lý nào sau đây?",
+    "a": "là giấy chứng nhận quyền sở hữu hàng hóa",
+    "b": "là chứng từ vận chuyển và bằng chứng giao kết hợp đồng",
+    "c": "là hợp đồng dân sự độc lập",
+    "d": "là giấy phép khai thác bay",
+    "answer": "b",
+    "explanation": "điều 57 quy định vận đơn hàng không là chứng từ vận chuyển, bằng chứng giao kết hợp đồng và đã tiếp nhận hàng hóa."
+  },
+  {
+    "question": "theo luật hàng không dân dụng việt nam 2025, trường hợp nào người vận chuyển có quyền từ chối vận chuyển hành khách?",
+    "a": "hành khách không mang hành lý",
+    "b": "hành khách không đặt vé online",
+    "c": "hành khách có hành vi uy hiếp an toàn bay",
+    "d": "hành khách đi một mình",
+    "answer": "c",
+    "explanation": "điều 54 quy định người vận chuyển có quyền từ chối vận chuyển nếu hành khách uy hiếp an toàn hàng không hoặc an ninh hàng không."
+  },
+  {
+    "question": "theo luật hàng không dân dụng việt nam 2025, thời hạn khiếu nại đối với mất hành lý là bao lâu?",
+    "a": "03 ngày kể từ ngày nhận hành lý",
+    "b": "07 ngày kể từ ngày nhận hành lý",
+    "c": "14 ngày kể từ ngày nhận hành lý",
+    "d": "21 ngày kể từ ngày nhận hành lý",
+    "answer": "b",
+    "explanation": "điều 69 quy định thời hạn khiếu nại đối với mất, thiếu hụt, hư hỏng hành lý là 07 ngày kể từ ngày nhận hành lý."
+  },
+  {
+    "question": "theo luật hàng không dân dụng việt nam 2025, thời hiệu khởi kiện trách nhiệm bồi thường của người vận chuyển là bao lâu?",
+    "a": "01 năm",
+    "b": "02 năm",
+    "c": "03 năm",
+    "d": "05 năm",
+    "answer": "b",
+    "explanation": "điều 74 quy định thời hiệu khởi kiện về trách nhiệm bồi thường thiệt hại của người vận chuyển là 02 năm."
+  },
+  {
+    "question": "theo luật hàng không dân dụng việt nam 2025, điều nào sau đây đúng về vận đơn hàng không?",
+    "a": "là giấy tờ sở hữu hàng hóa",
+    "b": "là chứng từ vận chuyển hàng hóa bằng đường hàng không",
+    "c": "là giấy phép xuất nhập khẩu",
+    "d": "là hợp đồng thuê tàu bay",
+    "answer": "b",
+    "explanation": "điều 57 quy định vận đơn hàng không là chứng từ vận chuyển hàng hóa và bằng chứng của hợp đồng."
+  },
+  {
+    "question": "theo luật hàng không dân dụng việt nam 2025, khi nào người vận chuyển phải bồi thường ứng trước không hoàn lại cho hành khách?",
+    "a": "khi hành khách yêu cầu đổi vé",
+    "b": "khi chuyến bay bị chậm, hủy hoặc từ chối do lỗi người vận chuyển",
+    "c": "khi hành khách đến trễ chuyến",
+    "d": "khi thời tiết xấu",
+    "answer": "b",
+    "explanation": "điều 53 quy định người vận chuyển phải bồi thường ứng trước không hoàn lại khi chậm, hủy hoặc từ chối vận chuyển do lỗi của mình."
+  },
+  {
+    "question": "theo luật hàng không dân dụng việt nam 2025, người gửi hàng có nghĩa vụ gì?",
+    "a": "không cần cung cấp thông tin",
+    "b": "chỉ cung cấp thông tin khi có yêu cầu của hãng hàng không",
+    "c": "chịu trách nhiệm về tính chính xác của thông tin hàng hóa",
+    "d": "chỉ chịu trách nhiệm khi có công chứng",
+    "answer": "c",
+    "explanation": "điều 59 quy định người gửi hàng chịu trách nhiệm về tính chính xác của thông tin hàng hóa trong vận đơn."
+  },
+  {
+    "question": "theo luật hàng không dân dụng việt nam 2025, vé hành khách, điều lệ vận chuyển và bảng giá dịch vụ được xác định là gì trong hợp đồng vận chuyển hành khách?",
+    "a": "tài liệu tham khảo không có giá trị pháp lý",
+    "b": "bộ phận của hợp đồng vận chuyển hành khách, hành lý",
+    "c": "hợp đồng độc lập với hợp đồng vận chuyển",
+    "d": "chứng từ kế toán nội bộ của hãng hàng không",
+    "answer": "b",
+    "explanation": "điều 53 quy định vé hành khách, điều lệ vận chuyển, bảng giá dịch vụ và thỏa thuận bằng văn bản là bộ phận của hợp đồng vận chuyển."
+  },
+  {
+    "question": "theo luật hàng không dân dụng việt nam 2025, người vận chuyển có nghĩa vụ công bố gì?",
+    "a": "bí mật kinh doanh của hãng hàng không",
+    "b": "tiêu chuẩn dịch vụ vận tải hàng không thương mại",
+    "c": "lộ trình chi tiết của từng hành khách",
+    "d": "giá vốn khai thác tàu bay",
+    "answer": "b",
+    "explanation": "điều 53 quy định người vận chuyển phải công bố công khai tiêu chuẩn dịch vụ vận tải hàng không thương mại."
+  },
+  {
+    "question": "theo luật hàng không dân dụng việt nam 2025, trường hợp hành khách bị từ chối vận chuyển do lỗi của người vận chuyển thì người vận chuyển phải làm gì?",
+    "a": "không phải chịu trách nhiệm",
+    "b": "chỉ cần xin lỗi hành khách",
+    "c": "thu xếp hành trình phù hợp hoặc hoàn trả tiền vé và không thu thêm phí",
+    "d": "chỉ hoàn trả tiền vé chưa sử dụng mà không cần hỗ trợ khác",
+    "answer": "c",
+    "explanation": "điều 53 quy định nếu do lỗi người vận chuyển thì phải thu xếp hành trình hoặc hoàn trả tiền và không thu thêm khoản phí nào."
+  },
+  {
+    "question": "theo luật hàng không dân dụng việt nam 2025, hành khách bị chậm, hủy chuyến do lỗi người vận chuyển còn được hưởng quyền nào?",
+    "a": "tự quyết định mức bồi thường",
+    "b": "không có quyền gì thêm",
+    "c": "được bảo đảm ăn, nghỉ, đi lại và chi phí liên quan trong thời gian chờ",
+    "d": "được yêu cầu bồi thường hình sự",
+    "answer": "c",
+    "explanation": "điều 53 quy định người vận chuyển phải bảo đảm ăn, nghỉ, đi lại và chi phí liên quan khi chuyến bay bị chậm, hủy hoặc từ chối do lỗi của mình."
+  },
+  {
+    "question": "theo luật hàng không dân dụng việt nam 2025, hãng hàng không nước ngoài được mở chi nhánh tại việt nam phải thực hiện thủ tục gì?",
+    "a": "không cần đăng ký",
+    "b": "đăng ký với cơ quan nhà nước có thẩm quyền theo quy định pháp luật",
+    "c": "chỉ cần thông báo nội bộ",
+    "d": "xin phép công chứng viên",
+    "answer": "b",
+    "explanation": "điều 52 quy định hãng hàng không nước ngoài được mở chi nhánh và phải đăng ký với cơ quan có thẩm quyền."
+  },
+  {
+    "question": "theo luật hàng không dân dụng việt nam 2025, người vận chuyển có phải chịu trách nhiệm về thông tin công bố không?",
+    "a": "không, hành khách tự chịu trách nhiệm",
+    "b": "chỉ chịu trách nhiệm khi có tranh chấp tại tòa",
+    "c": "có, phải chịu trách nhiệm về tính chính xác của thông tin đã công bố và thông báo",
+    "d": "chỉ chịu trách nhiệm nếu thông tin có công chứng",
+    "answer": "c",
+    "explanation": "điều 53 quy định người vận chuyển phải chịu trách nhiệm về tính chính xác của thông tin do mình công bố, thông báo."
+  },
+  {
+    "question": "theo luật hàng không dân dụng việt nam 2025, người vận chuyển có được miễn hoàn toàn trách nhiệm bồi thường thiệt hại không?",
+    "a": "có, trong mọi trường hợp",
+    "b": "không, luôn phải bồi thường đầy đủ",
+    "c": "có, nếu thuộc các trường hợp miễn trách nhiệm theo luật như lỗi của hành khách hoặc sự kiện bất khả kháng",
+    "d": "chỉ miễn nếu có thỏa thuận công chứng",
+    "answer": "c",
+    "explanation": "điều 65 quy định người vận chuyển được miễn hoặc giảm trách nhiệm trong các trường hợp luật định như lỗi của bên bị thiệt hại hoặc bất khả kháng."
+  },
+  {
+    "question": "theo luật hàng không dân dụng việt nam 2025, thỏa thuận miễn trách nhiệm bồi thường của người vận chuyển có giá trị pháp lý không?",
+    "a": "luôn có giá trị",
+    "b": "luôn vô hiệu",
+    "c": "có giá trị nếu được công chứng",
+    "d": "có giá trị nếu được tòa án chấp thuận",
+    "answer": "b",
+    "explanation": "điều 66 quy định mọi thỏa thuận nhằm miễn hoặc giảm mức giới hạn trách nhiệm bồi thường đều không có giá trị pháp lý."
+  },
+  {
+    "question": "theo luật hàng không dân dụng việt nam 2025, người vận chuyển theo hợp đồng là ai?",
+    "a": "người thực hiện toàn bộ chuyến bay thực tế",
+    "b": "người giao kết hợp đồng vận chuyển với hành khách hoặc người gửi hàng",
+    "c": "cơ quan nhà nước cấp phép bay",
+    "d": "đại lý bán vé máy bay",
+    "answer": "b",
+    "explanation": "điều 60 quy định người vận chuyển theo hợp đồng là người giao kết hợp đồng vận chuyển với hành khách hoặc người gửi hàng."
+  },
+  {
+    "question": "theo luật hàng không dân dụng việt nam 2025, người vận chuyển thực tế là ai?",
+    "a": "người ký hợp đồng vận chuyển",
+    "b": "người thực hiện toàn bộ hoặc một phần vận chuyển theo ủy quyền",
+    "c": "cơ quan cấp phép bay",
+    "d": "hãng hàng không bán vé",
+    "answer": "b",
+    "explanation": "điều 60 quy định người vận chuyển thực tế là người thực hiện toàn bộ hoặc một phần vận chuyển theo ủy quyền."
+  },
+  {
+    "question": "theo luật hàng không dân dụng việt nam 2025, trách nhiệm chính đối với toàn bộ hợp đồng vận chuyển thuộc về ai?",
+    "a": "người vận chuyển thực tế",
+    "b": "người vận chuyển theo hợp đồng",
+    "c": "đại lý bán vé",
+    "d": "cơ quan hàng không",
+    "answer": "b",
+    "explanation": "điều 60 quy định người vận chuyển theo hợp đồng chịu trách nhiệm đối với toàn bộ việc vận chuyển."
+  },
+  {
+    "question": "theo luật hàng không dân dụng việt nam 2025, thời hiệu khởi kiện trách nhiệm bồi thường là bao lâu?",
+    "a": "01 năm",
+    "b": "02 năm",
+    "c": "03 năm",
+    "d": "05 năm",
+    "answer": "b",
+    "explanation": "điều 74 quy định thời hiệu khởi kiện là 02 năm kể từ thời điểm liên quan đến hành trình vận chuyển."
+  },
+  {
+    "question": "theo luật hàng không dân dụng việt nam 2025, thỏa thuận trọng tài trong vận chuyển hàng hóa quốc tế được áp dụng khi nào?",
+    "a": "mọi trường hợp nếu các bên đồng ý",
+    "b": "không bao giờ được áp dụng",
+    "c": "chỉ khi thuộc các trường hợp theo thẩm quyền của tòa án việt nam tại điều 72",
+    "d": "chỉ khi được công chứng",
+    "answer": "c",
+    "explanation": "điều 73 quy định trọng tài chỉ áp dụng trong phạm vi được dẫn chiếu theo điều 72."
+  },
+  {
+    "question": "theo luật hàng không dân dụng việt nam 2025, người khai thác tàu bay có bắt buộc mua bảo hiểm không?",
+    "a": "không bắt buộc",
+    "b": "chỉ khuyến khích",
+    "c": "bắt buộc đối với trách nhiệm bồi thường thiệt hại theo luật",
+    "d": "chỉ khi bay quốc tế",
+    "answer": "c",
+    "explanation": "điều 62 quy định người vận chuyển và người khai thác tàu bay phải mua bảo hiểm bắt buộc trách nhiệm bồi thường."
+  },
+  {
+    "question": "theo luật hàng không dân dụng việt nam 2025, điều kiện nào làm người vận chuyển được miễn trách nhiệm bồi thường hàng hóa?",
+    "a": "giá vé thấp",
+    "b": "hàng hóa có giá trị cao",
+    "c": "hàng hóa bị hư hỏng do đặc tính tự nhiên vốn có",
+    "d": "chuyến bay bị chậm",
+    "answer": "c",
+    "explanation": "điều 65 quy định miễn trách nhiệm khi hàng hóa hư hỏng do đặc tính tự nhiên hoặc khuyết tật vốn có."
+  },
+  {
+    "question": "theo luật hàng không dân dụng việt nam 2025, hành khách có quyền từ chối chuyến bay trong trường hợp nào?",
+    "a": "khi thời tiết đẹp",
+    "b": "bất kỳ lúc nào không cần lý do",
+    "c": "được từ chối chuyến bay và nhận lại tiền theo quy định hợp đồng sau khi trừ chi phí",
+    "d": "chỉ khi hãng hàng không đồng ý",
+    "answer": "c",
+    "explanation": "điều 55 quy định hành khách có quyền từ chối chuyến bay và được hoàn tiền theo điều kiện hợp đồng."
+  },
+  {
+    "question": "theo luật hàng không dân dụng việt nam 2025, trường hợp nào làm mất quyền khiếu nại?",
+    "a": "không khiếu nại đúng thời hạn luật định",
+    "b": "khiếu nại bằng miệng",
+    "c": "khiếu nại qua email",
+    "d": "khiếu nại qua đại lý",
+    "answer": "a",
+    "explanation": "điều 69 quy định không khiếu nại đúng thời hạn thì mất quyền khởi kiện, trừ trường hợp đặc biệt."
+  },
+  {
+    "question": "theo luật hàng không dân dụng việt nam 2025, thỏa thuận miễn trách nhiệm bồi thường của người vận chuyển có giá trị pháp lý như thế nào?",
+    "a": "có giá trị nếu các bên đồng ý",
+    "b": "có giá trị nếu công chứng",
+    "c": "không có giá trị pháp lý",
+    "d": "có giá trị nếu được cơ quan hàng không chấp thuận",
+    "answer": "c",
+    "explanation": "điều 66 quy định thỏa thuận miễn hoặc giảm trách nhiệm bồi thường là vô hiệu."
+  },
+    {
     "question": "Người khiếu nại có được ủy quyền cho người khác thực hiện khiếu nại không?",
     "a": "Không được ủy quyền trong mọi trường hợp",
     "b": "Được ủy quyền theo quy định pháp luật",
