@@ -4959,14 +4959,14 @@
     "explanation": "Điểm c khoản 3 Điều 9 nghiêm cấm cá nhân có hành vi gian dối, không trung thực trong quá trình yêu cầu công chứng, làm chứng hoặc phiên dịch."
   },
   {
-    "question": "Luật Công chứng 2024 nghiêm cấm tổ chức, cá nhân thực hiện hành vi nào sau đây để ngăn cản việc thực hiện quyền dân sự của người dân?",
-    "a": "Yêu cầu người dân cung cấp bản gốc để đối chiếu.",
-    "b": "Từ chối cung cấp thông tin phục vụ việc công chứng khi được yêu cầu đúng luật.",
-    "c": "Từ chối thực hiện thủ tục pháp lý liên quan đến giao dịch được công chứng mà không có căn cứ pháp lý.",
-    "d": "Cả b và c đều đúng.",
-    "answer": "D",
-    "explanation": "Điểm d khoản 3 Điều 9 nghiêm cấm hành vi cản trở hoạt động công chứng, từ chối cung cấp thông tin hoặc từ chối thực hiện các thủ tục tiếp theo sau công chứng mà không có căn cứ pháp lý."
-  },
+  "question": "Theo Luật công chứng 2024 về các hành vi bị nghiêm cấm trong hoạt động công chứng, tổ chức, cá nhân không được thực hiện hành vi nào sau đây nhằm cản trở việc thực hiện quyền dân sự của người dân?",
+  "a": "Yêu cầu người yêu cầu công chứng xuất trình bản chính để đối chiếu theo quy định pháp luật.",
+  "b": "Từ chối cung cấp thông tin, tài liệu phục vụ việc công chứng khi có yêu cầu hợp pháp của cơ quan, tổ chức, cá nhân có thẩm quyền.",
+  "c": "Từ chối thực hiện thủ tục pháp lý liên quan đến giao dịch đã được công chứng mà không có căn cứ pháp luật.",
+  "d": "Cả b và c đều đúng.",
+  "answer": "D",
+  "explanation": "Theo điểm d khoản 3 điều 9 quy định về hành vi bị nghiêm cấm trong hoạt động công chứng, tổ chức, cá nhân không được cản trở hoạt động công chứng, bao gồm việc từ chối cung cấp thông tin, tài liệu phục vụ công chứng khi có yêu cầu hợp pháp và từ chối thực hiện các thủ tục pháp lý liên quan đến giao dịch công chứng nếu không có căn cứ pháp luật. Do đó, phương án b và c đều là hành vi bị nghiêm cấm."
+},
   {
     "question": "Hành vi cung cấp thông tin, tài liệu sai sự thật hoặc sử dụng giấy tờ giả mạo để yêu cầu công chứng bị nghiêm cấm đối với đối tượng nào?",
     "a": "Chỉ đối với người yêu cầu công chứng.",
