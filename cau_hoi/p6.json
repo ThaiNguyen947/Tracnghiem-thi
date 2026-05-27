@@ -6153,5 +6153,707 @@
     "d": "Tự xác định loại đất",
     "answer": "a",
     "explanation": "Khoản 3 Điều 25 Luật Đất đai 2024 quy định công dân có nghĩa vụ tôn trọng quyền sử dụng đất của người sử dụng đất khác."
+  },
+ {
+    "question": "theo luật giao dịch điện tử 2023, dữ liệu số là gì?",
+    "a": "dữ liệu được ghi bằng văn bản giấy",
+    "b": "dữ liệu điện tử được tạo lập bằng phương pháp dùng tín hiệu số",
+    "c": "mọi dữ liệu được lưu trữ trên internet",
+    "d": "dữ liệu do cơ quan nhà nước quản lý",
+    "answer": "b",
+    "explanation": "khoản 8 điều 3 quy định dữ liệu số là dữ liệu điện tử được tạo lập bằng phương pháp dùng tín hiệu số."
+  },
+  {
+    "question": "theo luật giao dịch điện tử 2023, chữ ký số sử dụng loại thuật toán nào?",
+    "a": "thuật toán khóa đối xứng",
+    "b": "thuật toán khóa không đối xứng",
+    "c": "thuật toán mã hóa một chiều",
+    "d": "thuật toán bảo mật nội bộ",
+    "answer": "b",
+    "explanation": "khoản 12 điều 3 quy định chữ ký số là chữ ký điện tử sử dụng thuật toán khóa không đối xứng."
+  },
+  {
+    "question": "theo luật giao dịch điện tử 2023, khóa bí mật trong chữ ký số được dùng để làm gì?",
+    "a": "kiểm tra chữ ký số",
+    "b": "xác thực thông điệp dữ liệu",
+    "c": "ký số",
+    "d": "lưu trữ dữ liệu",
+    "answer": "c",
+    "explanation": "khoản 12 điều 3 quy định khóa bí mật được dùng để ký số."
+  },
+  {
+    "question": "theo luật giao dịch điện tử 2023, khóa công khai trong chữ ký số được dùng để làm gì?",
+    "a": "ký số",
+    "b": "kiểm tra chữ ký số",
+    "c": "xóa dữ liệu",
+    "d": "mã hóa hệ thống",
+    "answer": "b",
+    "explanation": "khoản 12 điều 3 quy định khóa công khai được dùng để kiểm tra chữ ký số."
+  },
+  {
+    "question": "theo luật giao dịch điện tử 2023, chữ ký số bảo đảm nội dung nào sau đây?",
+    "a": "tính xác thực, tính toàn vẹn và tính chống chối bỏ",
+    "b": "tính bí mật tuyệt đối của thông điệp dữ liệu",
+    "c": "ẩn danh tuyệt đối người ký",
+    "d": "không cần xác định chủ thể ký",
+    "answer": "a",
+    "explanation": "khoản 12 điều 3 quy định chữ ký số bảo đảm tính xác thực, tính toàn vẹn và tính chống chối bỏ."
+  },
+  {
+    "question": "theo luật giao dịch điện tử 2023, chữ ký số không bảo đảm nội dung nào sau đây?",
+    "a": "tính xác thực",
+    "b": "tính toàn vẹn",
+    "c": "tính chống chối bỏ",
+    "d": "tính bí mật của thông điệp dữ liệu",
+    "answer": "d",
+    "explanation": "khoản 12 điều 3 quy định chữ ký số không bảo đảm tính bí mật của thông điệp dữ liệu."
+  },
+  {
+    "question": "theo luật giao dịch điện tử 2023, hợp đồng điện tử là gì?",
+    "a": "hợp đồng được công chứng điện tử",
+    "b": "hợp đồng được thiết lập dưới dạng thông điệp dữ liệu",
+    "c": "hợp đồng được ký trực tiếp",
+    "d": "hợp đồng bằng văn bản giấy",
+    "answer": "b",
+    "explanation": "khoản 16 điều 3 quy định hợp đồng điện tử là hợp đồng được thiết lập dưới dạng thông điệp dữ liệu."
+  },
+  {
+    "question": "theo luật giao dịch điện tử 2023, thông điệp dữ liệu là gì?",
+    "a": "thông tin được tạo ra, gửi, nhận, lưu trữ bằng phương tiện điện tử",
+    "b": "thông tin được ghi chép bằng giấy",
+    "c": "mọi dữ liệu nội bộ doanh nghiệp",
+    "d": "thông tin được truyền miệng",
+    "answer": "a",
+    "explanation": "khoản 4 điều 3 quy định thông điệp dữ liệu là thông tin được tạo ra, được gửi, được nhận, được lưu trữ bằng phương tiện điện tử."
+  },
+  {
+    "question": "theo luật giao dịch điện tử 2023, hành vi nào sau đây bị nghiêm cấm?",
+    "a": "lưu trữ thông điệp dữ liệu",
+    "b": "sử dụng chữ ký điện tử hợp pháp",
+    "c": "cản trở trái pháp luật quá trình gửi, nhận thông điệp dữ liệu",
+    "d": "thiết lập hợp đồng điện tử",
+    "answer": "c",
+    "explanation": "khoản 2 điều 6 quy định cản trở hoặc ngăn chặn trái pháp luật quá trình tạo ra, gửi, nhận, lưu trữ thông điệp dữ liệu là hành vi bị nghiêm cấm."
+  },
+  {
+    "question": "theo luật giao dịch điện tử 2023, hành vi giả mạo hoặc làm sai lệch thông điệp dữ liệu có được phép không?",
+    "a": "được phép nếu các bên đồng ý",
+    "b": "được phép nếu không gây thiệt hại",
+    "c": "không được phép",
+    "d": "được phép trong giao dịch nội bộ",
+    "answer": "c",
+    "explanation": "khoản 4 điều 6 quy định giả mạo, làm sai lệch hoặc xóa, hủy, sao chép, di chuyển trái pháp luật thông điệp dữ liệu là hành vi bị nghiêm cấm."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, giao dịch điện tử là gì?",
+    "a": "Giao dịch được thực hiện bằng văn bản giấy",
+    "b": "Giao dịch được thực hiện bằng phương tiện điện tử",
+    "c": "Giao dịch được xác lập bằng lời nói",
+    "d": "Giao dịch được thực hiện tại cơ quan nhà nước",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 3 quy định giao dịch điện tử là giao dịch được thực hiện bằng phương tiện điện tử."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, phương tiện điện tử bao gồm yếu tố nào sau đây?",
+    "a": "Chỉ bao gồm phần mềm máy tính",
+    "b": "Chỉ bao gồm thiết bị điện tử có kết nối Internet",
+    "c": "Phần cứng, phần mềm, hệ thống thông tin hoặc phương tiện khác hoạt động dựa trên công nghệ tương tự",
+    "d": "Chỉ bao gồm điện thoại thông minh",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 3 quy định phương tiện điện tử là phần cứng, phần mềm, hệ thống thông tin hoặc phương tiện khác hoạt động dựa trên công nghệ thông tin, điện tử, kỹ thuật số hoặc công nghệ tương tự."
+  },
+  {
+    "question": "Môi trường điện tử theo Luật Giao dịch điện tử 2023 bao gồm:",
+    "a": "Mạng viễn thông, mạng Internet, mạng máy tính, hệ thống thông tin",
+    "b": "Chỉ mạng Internet",
+    "c": "Chỉ hệ thống dữ liệu quốc gia",
+    "d": "Chỉ phần mềm quản lý dữ liệu",
+    "answer": "a",
+    "explanation": "Khoản 3 Điều 3 quy định môi trường điện tử là môi trường mạng viễn thông, mạng Internet, mạng máy tính, hệ thống thông tin."
+  },
+  {
+    "question": "Thông điệp dữ liệu là:",
+    "a": "Thông tin được ghi bằng giấy",
+    "b": "Thông tin được tạo ra, gửi, nhận, lưu trữ bằng phương tiện điện tử",
+    "c": "Thông tin truyền miệng",
+    "d": "Thông tin chưa được số hóa",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 3 quy định thông điệp dữ liệu là thông tin được tạo ra, được gửi, được nhận, được lưu trữ bằng phương tiện điện tử."
+  },
+  {
+    "question": "Chứng thư điện tử là:",
+    "a": "Bản photocopy giấy tờ tùy thân",
+    "b": "Văn bản giấy do cá nhân tự lập",
+    "c": "Giấy phép, giấy chứng nhận, chứng chỉ hoặc văn bản xác nhận dưới dạng dữ liệu điện tử",
+    "d": "Dữ liệu lưu trữ nội bộ của doanh nghiệp",
+    "answer": "c",
+    "explanation": "Khoản 5 Điều 3 quy định chứng thư điện tử là giấy phép, giấy chứng nhận, chứng chỉ, văn bản xác nhận hoặc văn bản chấp thuận khác do cơ quan, tổ chức có thẩm quyền phát hành dưới dạng dữ liệu điện tử."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, dữ liệu bao gồm:",
+    "a": "Chỉ chữ viết và chữ số",
+    "b": "Ký hiệu, chữ viết, chữ số, hình ảnh, âm thanh hoặc dạng tương tự khác",
+    "c": "Chỉ âm thanh và hình ảnh",
+    "d": "Chỉ dữ liệu số",
+    "answer": "b",
+    "explanation": "Khoản 6 Điều 3 quy định dữ liệu là ký hiệu, chữ viết, chữ số, hình ảnh, âm thanh hoặc dạng tương tự khác."
+  },
+  {
+    "question": "Dữ liệu điện tử là:",
+    "a": "Dữ liệu được tạo ra, xử lý, lưu trữ bằng phương tiện điện tử",
+    "b": "Dữ liệu viết tay",
+    "c": "Dữ liệu được in ra giấy",
+    "d": "Dữ liệu lưu bằng hồ sơ giấy",
+    "answer": "a",
+    "explanation": "Khoản 7 Điều 3 quy định dữ liệu điện tử là dữ liệu được tạo ra, xử lý, lưu trữ bằng phương tiện điện tử."
+  },
+  {
+    "question": "Dữ liệu số là:",
+    "a": "Dữ liệu được ghi chép bằng tay",
+    "b": "Dữ liệu điện tử được tạo lập bằng phương pháp dùng tín hiệu số",
+    "c": "Mọi loại dữ liệu giấy",
+    "d": "Thông tin chưa được xử lý",
+    "answer": "b",
+    "explanation": "Khoản 8 Điều 3 quy định dữ liệu số là dữ liệu điện tử được tạo lập bằng phương pháp dùng tín hiệu số."
+  },
+  {
+    "question": "Dữ liệu chủ là dữ liệu:",
+    "a": "Được sử dụng để quảng cáo",
+    "b": "Lưu trữ tạm thời",
+    "c": "Chứa thông tin cơ bản nhất để mô tả một đối tượng cụ thể",
+    "d": "Không được đồng bộ giữa các cơ sở dữ liệu",
+    "answer": "c",
+    "explanation": "Khoản 9 Điều 3 quy định dữ liệu chủ là dữ liệu chứa thông tin cơ bản nhất để mô tả một đối tượng cụ thể, làm cơ sở để tham chiếu, đồng bộ giữa các cơ sở dữ liệu hoặc các tập dữ liệu khác nhau."
+  },
+  {
+    "question": "Cơ sở dữ liệu là:",
+    "a": "Tập hợp dữ liệu giấy",
+    "b": "Tập hợp các dữ liệu điện tử được sắp xếp, tổ chức để truy cập, khai thác, chia sẻ, quản lý và cập nhật",
+    "c": "Hệ thống lưu trữ hồ sơ thủ công",
+    "d": "Kho tài liệu lưu trữ bằng giấy",
+    "answer": "b",
+    "explanation": "Khoản 10 Điều 3 quy định cơ sở dữ liệu là tập hợp các dữ liệu điện tử được sắp xếp, tổ chức để truy cập, khai thác, chia sẻ, quản lý và cập nhật thông qua phương tiện điện tử."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, thông tin trong thông điệp dữ liệu có bị phủ nhận giá trị pháp lý chỉ vì được thể hiện dưới dạng thông điệp dữ liệu không?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Chỉ trong giao dịch dân sự",
+    "d": "Chỉ khi chưa công chứng",
+    "answer": "b",
+    "explanation": "Điều 8 quy định thông tin trong thông điệp dữ liệu không bị phủ nhận giá trị pháp lý chỉ vì thông tin đó được thể hiện dưới dạng thông điệp dữ liệu."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, trường hợp pháp luật yêu cầu thông tin phải được thể hiện bằng văn bản thì thông điệp dữ liệu được xem là đáp ứng yêu cầu khi nào?",
+    "a": "Khi được in ra giấy",
+    "b": "Khi có chữ ký tay",
+    "c": "Khi thông tin có thể truy cập và sử dụng được để tham chiếu",
+    "d": "Khi được lưu trữ trên internet",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 9 quy định thông điệp dữ liệu được xem là đáp ứng yêu cầu về văn bản nếu thông tin trong thông điệp dữ liệu đó có thể truy cập và sử dụng được để tham chiếu."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, trường hợp pháp luật yêu cầu văn bản phải được công chứng thì thông điệp dữ liệu được xem là đáp ứng yêu cầu khi nào?",
+    "a": "Khi được gửi qua email",
+    "b": "Khi được công chứng theo quy định pháp luật về công chứng",
+    "c": "Khi được lưu trong cơ sở dữ liệu",
+    "d": "Khi được scan từ bản giấy",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 9 quy định trường hợp pháp luật yêu cầu văn bản phải được công chứng thì thông điệp dữ liệu được xem là đáp ứng yêu cầu nếu được công chứng theo quy định của pháp luật về công chứng."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, thông điệp dữ liệu có giá trị như bản gốc khi đáp ứng điều kiện nào sau đây?",
+    "a": "Được lưu trên hệ thống nội bộ",
+    "b": "Thông tin được bảo đảm toàn vẹn và có thể truy cập, sử dụng được dưới dạng hoàn chỉnh",
+    "c": "Được in thành nhiều bản",
+    "d": "Có xác nhận của người trung gian",
+    "answer": "b",
+    "explanation": "Điều 10 quy định thông điệp dữ liệu có giá trị như bản gốc khi thông tin được bảo đảm toàn vẹn kể từ khi khởi tạo lần đầu và có thể truy cập, sử dụng được dưới dạng hoàn chỉnh."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, thông tin trong thông điệp dữ liệu được xem là toàn vẹn khi nào?",
+    "a": "Khi chưa từng được gửi đi",
+    "b": "Khi chưa bị thay đổi, trừ thay đổi về hình thức phát sinh trong quá trình gửi, lưu trữ hoặc hiển thị",
+    "c": "Khi được in thành văn bản giấy",
+    "d": "Khi có xác nhận của cơ quan nhà nước",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 10 quy định thông tin được xem là toàn vẹn khi chưa bị thay đổi, trừ những thay đổi về hình thức phát sinh trong quá trình gửi, lưu trữ hoặc hiển thị thông điệp dữ liệu."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, thông điệp dữ liệu có được dùng làm chứng cứ không?",
+    "a": "Không",
+    "b": "Chỉ trong tố tụng dân sự",
+    "c": "Có",
+    "d": "Chỉ khi được công chứng",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 11 quy định thông điệp dữ liệu được dùng làm chứng cứ theo quy định của Luật này và pháp luật về tố tụng."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, giá trị dùng làm chứng cứ của thông điệp dữ liệu được xác định căn cứ vào yếu tố nào?",
+    "a": "Giá trị tài sản của giao dịch",
+    "b": "Độ tin cậy của cách thức khởi tạo, gửi, nhận hoặc lưu trữ thông điệp dữ liệu",
+    "c": "Số lượng người tham gia giao dịch",
+    "d": "Địa điểm giao kết hợp đồng",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 11 quy định giá trị dùng làm chứng cứ của thông điệp dữ liệu được xác định căn cứ vào độ tin cậy của cách thức khởi tạo, gửi, nhận hoặc lưu trữ thông điệp dữ liệu cùng các yếu tố phù hợp khác."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, thông điệp dữ liệu được chuyển đổi từ văn bản giấy phải đáp ứng yêu cầu nào sau đây?",
+    "a": "Thông tin được bảo đảm toàn vẹn như văn bản giấy",
+    "b": "Chỉ cần có chữ ký tay",
+    "c": "Phải được công chứng",
+    "d": "Chỉ cần lưu trên internet",
+    "answer": "a",
+    "explanation": "Điểm a khoản 1 Điều 12 quy định thông tin trong thông điệp dữ liệu được chuyển đổi từ văn bản giấy phải được bảo đảm toàn vẹn như văn bản giấy."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, thông điệp dữ liệu được chuyển đổi từ văn bản giấy phải có gì?",
+    "a": "Mã OTP",
+    "b": "Ký hiệu riêng xác nhận đã được chuyển đổi và thông tin của chủ thể thực hiện chuyển đổi",
+    "c": "Con dấu điện tử của mọi cơ quan nhà nước",
+    "d": "Tài khoản định danh điện tử",
+    "answer": "b",
+    "explanation": "Điểm c khoản 1 Điều 12 quy định phải có ký hiệu riêng xác nhận đã được chuyển đổi từ văn bản giấy sang thông điệp dữ liệu và thông tin của cơ quan, tổ chức, cá nhân thực hiện chuyển đổi."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, việc lưu trữ thông điệp dữ liệu có giá trị như gì?",
+    "a": "Lưu trữ bản nháp",
+    "b": "Lưu trữ dữ liệu tạm thời",
+    "c": "Lưu trữ văn bản giấy",
+    "d": "Lưu trữ nội bộ doanh nghiệp",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 13 quy định việc lưu trữ thông điệp dữ liệu có giá trị như lưu trữ văn bản giấy."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, việc chuyển giao chứng thư điện tử phải đáp ứng điều kiện nào sau đây?",
+    "a": "Chứng thư điện tử phải được in thành văn bản giấy",
+    "b": "Chứng thư điện tử phải khẳng định được chủ thể sở hữu và chỉ chủ thể này đang kiểm soát chứng thư điện tử đó",
+    "c": "Phải được mọi cơ quan nhà nước chấp thuận",
+    "d": "Chỉ cần có chữ ký tay của người sở hữu",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 20 quy định chứng thư điện tử chuyển giao phải khẳng định được chủ thể sở hữu và chỉ chủ thể này đang kiểm soát chứng thư điện tử đó."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, hệ thống thông tin phục vụ việc chuyển giao chứng thư điện tử phải đáp ứng yêu cầu nào?",
+    "a": "Bảo đảm an toàn thông tin mạng tối thiểu cấp độ 3",
+    "b": "Bảo đảm an toàn thông tin mạng tối thiểu cấp độ 1",
+    "c": "Chỉ cần kết nối Internet",
+    "d": "Chỉ cần có mật khẩu truy cập",
+    "answer": "a",
+    "explanation": "Điểm c khoản 1 Điều 20 quy định hệ thống thông tin phục vụ việc chuyển giao chứng thư điện tử phải đáp ứng yêu cầu bảo đảm an toàn thông tin mạng tối thiểu cấp độ 3."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, đối với giấy tờ chỉ được tồn tại dưới một hình thức duy nhất, văn bản giấy sẽ như thế nào sau khi chuyển đổi hợp pháp sang chứng thư điện tử?",
+    "a": "Vẫn giữ nguyên giá trị pháp lý",
+    "b": "Chỉ còn giá trị tham khảo",
+    "c": "Không còn giá trị pháp lý",
+    "d": "Chỉ có giá trị trong giao dịch dân sự",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 20 quy định văn bản giấy không còn giá trị pháp lý ngay khi việc chuyển đổi được hoàn thành và đáp ứng yêu cầu theo luật."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, đối với chứng thư điện tử chỉ được tồn tại dưới một hình thức duy nhất, chứng thư điện tử sẽ như thế nào sau khi chuyển đổi hợp pháp sang văn bản giấy?",
+    "a": "Tiếp tục có giá trị song song",
+    "b": "Không còn giá trị pháp lý",
+    "c": "Chỉ còn giá trị lưu trữ",
+    "d": "Tự động bị hủy bỏ sau 30 ngày",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 20 quy định chứng thư điện tử không còn giá trị pháp lý ngay khi việc chuyển đổi được hoàn thành và đáp ứng yêu cầu theo luật."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, việc lưu trữ chứng thư điện tử phải tuân thủ quy định nào?",
+    "a": "Quy định về lưu trữ thông điệp dữ liệu",
+    "b": "Quy định về lưu trữ hồ sơ giấy",
+    "c": "Quy định nội bộ của doanh nghiệp",
+    "d": "Quy định về bảo mật quốc phòng",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 21 quy định việc lưu trữ chứng thư điện tử phải tuân thủ quy định về lưu trữ thông điệp dữ liệu tại Điều 13 của Luật này."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, chữ ký điện tử chuyên dùng là gì?",
+    "a": "Chữ ký điện tử do cá nhân tự tạo để dùng riêng",
+    "b": "Chữ ký điện tử do cơ quan, tổ chức tạo lập và sử dụng riêng cho hoạt động của mình",
+    "c": "Mọi chữ ký điện tử có trả phí",
+    "d": "Chữ ký điện tử được sử dụng trên mạng xã hội",
+    "answer": "b",
+    "explanation": "Điểm a khoản 1 Điều 22 quy định chữ ký điện tử chuyên dùng là chữ ký điện tử do cơ quan, tổ chức tạo lập, sử dụng riêng cho hoạt động của cơ quan, tổ chức đó."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, chữ ký số công cộng là gì?",
+    "a": "Chữ ký số được sử dụng trong hoạt động công cộng và được bảo đảm bởi chứng thư chữ ký số công cộng",
+    "b": "Chữ ký số do cá nhân tự tạo",
+    "c": "Chữ ký điện tử dùng trong nội bộ doanh nghiệp",
+    "d": "Mọi chữ ký điện tử có kết nối Internet",
+    "answer": "a",
+    "explanation": "Điểm b khoản 1 Điều 22 quy định chữ ký số công cộng là chữ ký số được sử dụng trong hoạt động công cộng và được bảo đảm bởi chứng thư chữ ký số công cộng."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, chữ ký số chuyên dùng công vụ được sử dụng trong hoạt động nào?",
+    "a": "Hoạt động thương mại điện tử",
+    "b": "Hoạt động công vụ",
+    "c": "Hoạt động nội bộ gia đình",
+    "d": "Hoạt động quảng cáo",
+    "answer": "b",
+    "explanation": "Điểm c khoản 1 Điều 22 quy định chữ ký số chuyên dùng công vụ là chữ ký số được sử dụng trong hoạt động công vụ."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, chữ ký số là chữ ký điện tử đáp ứng yêu cầu nào sau đây?",
+    "a": "Mọi thay đổi đối với thông điệp dữ liệu sau thời điểm ký đều có thể bị phát hiện",
+    "b": "Có thể thay đổi nội dung sau khi ký mà không bị phát hiện",
+    "c": "Không cần xác nhận chủ thể ký",
+    "d": "Không cần chứng thư chữ ký số",
+    "answer": "a",
+    "explanation": "Điểm d khoản 3 Điều 22 quy định mọi thay đổi đối với thông điệp dữ liệu sau thời điểm ký đều có thể bị phát hiện."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, chữ ký điện tử có bị phủ nhận giá trị pháp lý chỉ vì được thể hiện dưới dạng chữ ký điện tử không?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Chỉ trong giao dịch dân sự",
+    "d": "Chỉ khi chưa được công chứng",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 23 quy định chữ ký điện tử không bị phủ nhận giá trị pháp lý chỉ vì được thể hiện dưới dạng chữ ký điện tử."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, dịch vụ chứng thực chữ ký số chuyên dùng công vụ là gì?",
+    "a": "Dịch vụ chứng thực chữ ký số trong hoạt động công vụ",
+    "b": "Dịch vụ lưu trữ hồ sơ giấy",
+    "c": "Dịch vụ xác thực tài khoản cá nhân",
+    "d": "Dịch vụ công chứng điện tử",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 24 quy định dịch vụ chứng thực chữ ký số chuyên dùng công vụ là dịch vụ chứng thực chữ ký số trong hoạt động công vụ."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, chứng thư chữ ký số chuyên dùng công vụ được quản lý, cung cấp bởi ai?",
+    "a": "Mọi doanh nghiệp công nghệ",
+    "b": "Tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng công vụ",
+    "c": "Ủy ban nhân dân cấp xã",
+    "d": "Người sử dụng chữ ký số",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 24 quy định chứng thư chữ ký số chuyên dùng công vụ được quản lý, cung cấp bởi tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng công vụ."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng công vụ có quyền thực hiện hoạt động nào sau đây?",
+    "a": "Thu hồi chứng thư chữ ký số chuyên dùng công vụ",
+    "b": "Ban hành văn bản quy phạm pháp luật",
+    "c": "Xử phạt vi phạm hành chính",
+    "d": "Cấp giấy chứng nhận quyền sử dụng đất",
+    "answer": "a",
+    "explanation": "Điểm b khoản 3 Điều 24 quy định tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng công vụ có hoạt động thu hồi chứng thư chữ ký số chuyên dùng công vụ."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng công vụ có được sử dụng rào cản kỹ thuật để hạn chế việc kiểm tra hiệu lực chữ ký số không?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Chỉ trong trường hợp đặc biệt",
+    "d": "Chỉ khi có yêu cầu của doanh nghiệp",
+    "answer": "b",
+    "explanation": "Điểm c khoản 3 Điều 24 quy định không sử dụng rào cản kỹ thuật, công nghệ để hạn chế việc kiểm tra hiệu lực chữ ký số chuyên dùng công vụ."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, cơ quan, tổ chức tạo lập chữ ký điện tử chuyên dùng có được kinh doanh dịch vụ về chữ ký điện tử chuyên dùng không?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Chỉ được kinh doanh trong nội bộ",
+    "d": "Chỉ khi được Bộ Công an chấp thuận",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 25 quy định cơ quan, tổ chức tạo lập chữ ký điện tử chuyên dùng không được kinh doanh dịch vụ về chữ ký điện tử chuyên dùng."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, chữ ký điện tử chuyên dùng bảo đảm an toàn là chữ ký điện tử chuyên dùng được cơ quan nào cấp chứng nhận?",
+    "a": "Bộ Công an",
+    "b": "Bộ Quốc phòng",
+    "c": "Bộ Thông tin và Truyền thông",
+    "d": "Ngân hàng Nhà nước Việt Nam",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 25 quy định chữ ký điện tử chuyên dùng bảo đảm an toàn là chữ ký điện tử chuyên dùng được Bộ Thông tin và Truyền thông cấp chứng nhận."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, một trong các điều kiện công nhận tổ chức cung cấp dịch vụ chứng thực chữ ký điện tử nước ngoài tại Việt Nam là gì?",
+    "a": "Có văn phòng đại diện tại Việt Nam",
+    "b": "Phải là doanh nghiệp nhà nước",
+    "c": "Chỉ được hoạt động dưới 5 năm",
+    "d": "Phải đặt máy chủ tại mọi tỉnh thành",
+    "answer": "a",
+    "explanation": "Điểm đ khoản 1 Điều 26 quy định tổ chức cung cấp dịch vụ chứng thực chữ ký điện tử nước ngoài phải có văn phòng đại diện tại Việt Nam."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, chữ ký điện tử nước ngoài được chấp nhận trong giao dịch quốc tế là chữ ký điện tử của tổ chức, cá nhân nào?",
+    "a": "Tổ chức, cá nhân Việt Nam",
+    "b": "Tổ chức, cá nhân nước ngoài không hiện diện tại Việt Nam",
+    "c": "Mọi cá nhân có tài khoản email",
+    "d": "Chỉ cơ quan ngoại giao",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 27 quy định chữ ký điện tử nước ngoài được chấp nhận trong giao dịch quốc tế là chữ ký điện tử của tổ chức, cá nhân nước ngoài không hiện diện tại Việt Nam."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, dịch vụ tin cậy bao gồm nội dung nào sau đây?",
+    "a": "Dịch vụ cấp dấu thời gian",
+    "b": "Dịch vụ chuyển phát giấy tờ",
+    "c": "Dịch vụ lưu trữ hồ sơ giấy",
+    "d": "Dịch vụ viễn thông cơ bản",
+    "answer": "a",
+    "explanation": "Điểm a khoản 1 Điều 28 quy định dịch vụ tin cậy bao gồm dịch vụ cấp dấu thời gian."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, dịch vụ tin cậy là ngành, nghề như thế nào?",
+    "a": "Ngành nghề cấm đầu tư",
+    "b": "Ngành nghề đầu tư kinh doanh có điều kiện",
+    "c": "Ngành nghề kinh doanh tự do hoàn toàn",
+    "d": "Ngành nghề không cần giấy phép",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 28 quy định dịch vụ tin cậy là ngành, nghề đầu tư kinh doanh có điều kiện."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, thời hạn của giấy phép kinh doanh dịch vụ tin cậy là bao lâu?",
+    "a": "03 năm",
+    "b": "05 năm",
+    "c": "10 năm",
+    "d": "20 năm",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 28 quy định thời hạn của giấy phép kinh doanh dịch vụ tin cậy là 10 năm."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, một trong các điều kiện kinh doanh dịch vụ tin cậy là gì?",
+    "a": "Là doanh nghiệp được thành lập và hoạt động hợp pháp trên lãnh thổ Việt Nam",
+    "b": "Chỉ cần có website",
+    "c": "Phải có vốn đầu tư nước ngoài",
+    "d": "Không cần đáp ứng điều kiện kỹ thuật",
+    "answer": "a",
+    "explanation": "Điểm a khoản 1 Điều 29 quy định điều kiện kinh doanh dịch vụ tin cậy là doanh nghiệp được thành lập và hoạt động hợp pháp trên lãnh thổ Việt Nam."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, hệ thống thông tin cung cấp dịch vụ tin cậy phải đáp ứng yêu cầu nào?",
+    "a": "An toàn thông tin mạng tối thiểu cấp độ 3",
+    "b": "An toàn thông tin mạng cấp độ 1",
+    "c": "Chỉ cần có kết nối mạng",
+    "d": "Không cần tiêu chuẩn kỹ thuật",
+    "answer": "a",
+    "explanation": "Điểm c khoản 1 Điều 29 quy định hệ thống thông tin cung cấp dịch vụ tin cậy phải đáp ứng yêu cầu bảo đảm an toàn thông tin mạng tối thiểu cấp độ 3."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, tổ chức cung cấp dịch vụ tin cậy phải bảo đảm kênh tiếp nhận thông tin và cung cấp dịch vụ liên tục trong thời gian nào?",
+    "a": "08 giờ mỗi ngày",
+    "b": "12 giờ mỗi ngày",
+    "c": "24 giờ trong ngày và 07 ngày trong tuần",
+    "d": "Giờ hành chính",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 30 quy định tổ chức cung cấp dịch vụ tin cậy phải bảo đảm kênh tiếp nhận thông tin và cung cấp dịch vụ liên tục 24 giờ trong ngày và 07 ngày trong tuần."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, dịch vụ cấp dấu thời gian là gì?",
+    "a": "Dịch vụ để gắn thông tin về thời gian vào thông điệp dữ liệu",
+    "b": "Dịch vụ cấp mã OTP",
+    "c": "Dịch vụ lưu trữ dữ liệu",
+    "d": "Dịch vụ xác minh tài khoản ngân hàng",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 31 quy định dịch vụ cấp dấu thời gian là dịch vụ để gắn thông tin về thời gian vào thông điệp dữ liệu."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, dấu thời gian được tạo ra dưới dạng nào?",
+    "a": "Con dấu giấy",
+    "b": "Mã OTP",
+    "c": "Chữ ký số",
+    "d": "Mã QR",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 31 quy định dấu thời gian được tạo ra dưới dạng chữ ký số."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, dịch vụ chứng thực thông điệp dữ liệu bao gồm nội dung nào sau đây?",
+    "a": "Dịch vụ lưu trữ và xác nhận tính toàn vẹn của thông điệp dữ liệu",
+    "b": "Dịch vụ công chứng giấy tờ",
+    "c": "Dịch vụ vận chuyển dữ liệu",
+    "d": "Dịch vụ xác thực hộ khẩu",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 32 quy định dịch vụ chứng thực thông điệp dữ liệu bao gồm dịch vụ lưu trữ và xác nhận tính toàn vẹn của thông điệp dữ liệu."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, dịch vụ chứng thực chữ ký số công cộng là gì?",
+    "a": "Dịch vụ chứng thực chữ ký số trong hoạt động công cộng",
+    "b": "Dịch vụ xác nhận chữ ký tay",
+    "c": "Dịch vụ xác minh email",
+    "d": "Dịch vụ xác nhận hồ sơ giấy",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 33 quy định dịch vụ chứng thực chữ ký số công cộng là dịch vụ chứng thực chữ ký số trong hoạt động công cộng."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, hợp đồng điện tử không bị phủ nhận giá trị pháp lý chỉ vì lý do nào?",
+    "a": "Không có công chứng",
+    "b": "Không có sự kiểm tra hay can thiệp của con người vào từng hành động cụ thể do hệ thống thông tin tự động thực hiện",
+    "c": "Được gửi qua email",
+    "d": "Không có bản giấy",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 34 quy định hợp đồng điện tử không bị phủ nhận giá trị pháp lý chỉ vì không có sự kiểm tra hay can thiệp của con người vào từng hành động cụ thể do hệ thống thông tin tự động thực hiện."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, giao kết hợp đồng điện tử là việc gì?",
+    "a": "Sử dụng văn bản giấy để giao kết hợp đồng",
+    "b": "Sử dụng thông điệp dữ liệu để tiến hành một phần hoặc toàn bộ giao dịch trong quá trình giao kết hợp đồng điện tử",
+    "c": "Chỉ giao kết hợp đồng bằng chữ ký tay",
+    "d": "Giao kết hợp đồng thông qua công chứng bắt buộc",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 35 quy định giao kết hợp đồng điện tử là việc sử dụng thông điệp dữ liệu để tiến hành một phần hoặc toàn bộ giao dịch trong quá trình giao kết hợp đồng điện tử."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, đề nghị giao kết và chấp nhận giao kết hợp đồng điện tử được thực hiện thông qua gì?",
+    "a": "Thông điệp dữ liệu",
+    "b": "Văn bản giấy",
+    "c": "Lời nói trực tiếp",
+    "d": "Thông báo miệng",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 35 quy định đề nghị giao kết và chấp nhận giao kết hợp đồng điện tử được thực hiện thông qua thông điệp dữ liệu, trừ trường hợp các bên có thỏa thuận khác."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, các bên có quyền thỏa thuận sử dụng thông điệp dữ liệu, phương tiện điện tử trong phạm vi nào?",
+    "a": "Một phần hoặc toàn bộ trong giao kết và thực hiện hợp đồng điện tử",
+    "b": "Chỉ trong giai đoạn đề nghị giao kết",
+    "c": "Chỉ trong thanh toán",
+    "d": "Không được quyền thỏa thuận",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 36 quy định các bên có quyền thỏa thuận sử dụng thông điệp dữ liệu, phương tiện điện tử một phần hoặc toàn bộ trong giao kết và thực hiện hợp đồng điện tử."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, thông báo dưới dạng thông điệp dữ liệu trong giao kết và thực hiện hợp đồng điện tử có giá trị pháp lý như thế nào?",
+    "a": "Không có giá trị pháp lý",
+    "b": "Chỉ có giá trị tham khảo",
+    "c": "Có giá trị pháp lý như thông báo bằng văn bản giấy",
+    "d": "Chỉ có hiệu lực khi được công chứng",
+    "answer": "c",
+    "explanation": "Điều 38 quy định thông báo dưới dạng thông điệp dữ liệu có giá trị pháp lý như thông báo bằng văn bản giấy."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, chữ ký điện tử chuyên dùng bảo đảm an toàn do cơ quan nào cấp chứng nhận?",
+    "a": "Bộ Công an",
+    "b": "Bộ Thông tin và Truyền thông",
+    "c": "Chính phủ",
+    "d": "Bộ Tư pháp",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 25 quy định chữ ký điện tử chuyên dùng bảo đảm an toàn là chữ ký điện tử chuyên dùng được Bộ Thông tin và Truyền thông cấp chứng nhận."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, dịch vụ tin cậy là ngành nghề như thế nào?",
+    "a": "Ngành nghề cấm đầu tư kinh doanh",
+    "b": "Ngành nghề đầu tư kinh doanh có điều kiện",
+    "c": "Ngành nghề tự do không điều kiện",
+    "d": "Ngành nghề chỉ áp dụng cho nhà nước",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 28 quy định dịch vụ tin cậy là ngành, nghề đầu tư kinh doanh có điều kiện."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, giấy phép kinh doanh dịch vụ tin cậy có thời hạn bao lâu?",
+    "a": "05 năm",
+    "b": "10 năm",
+    "c": "15 năm",
+    "d": "Không xác định",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 28 quy định thời hạn của giấy phép kinh doanh dịch vụ tin cậy là 10 năm."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, tổ chức cung cấp dịch vụ tin cậy phải bảo đảm hệ thống thông tin tối thiểu cấp độ mấy?",
+    "a": "Cấp độ 1",
+    "b": "Cấp độ 2",
+    "c": "Cấp độ 3",
+    "d": "Cấp độ 5",
+    "answer": "c",
+    "explanation": "Điểm c khoản 1 Điều 29 quy định hệ thống thông tin cung cấp dịch vụ tin cậy phải đáp ứng yêu cầu an toàn thông tin mạng tối thiểu cấp độ 3."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, tổ chức cung cấp dịch vụ tin cậy phải bảo đảm hoạt động cung cấp dịch vụ như thế nào?",
+    "a": "8 giờ/ngày",
+    "b": "Theo giờ hành chính",
+    "c": "24 giờ/ngày và 7 ngày/tuần",
+    "d": "Tùy lựa chọn doanh nghiệp",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 30 quy định phải bảo đảm cung cấp dịch vụ liên tục 24 giờ/ngày và 07 ngày/tuần."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, dấu thời gian được tạo ra dưới dạng gì?",
+    "a": "Mã OTP",
+    "b": "Chữ ký số",
+    "c": "Mã xác thực SMS",
+    "d": "Email xác nhận",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 31 quy định dấu thời gian được tạo ra dưới dạng chữ ký số."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, dịch vụ chứng thực thông điệp dữ liệu bao gồm gì?",
+    "a": "Công chứng hợp đồng giấy",
+    "b": "Lưu trữ và xác nhận tính toàn vẹn thông điệp dữ liệu",
+    "c": "Cấp hộ chiếu điện tử",
+    "d": "Quản lý chữ ký tay",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 32 quy định dịch vụ chứng thực thông điệp dữ liệu bao gồm lưu trữ và xác nhận tính toàn vẹn của thông điệp dữ liệu."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, hợp đồng điện tử không bị phủ nhận giá trị pháp lý khi nào?",
+    "a": "Có chữ ký tay",
+    "b": "Không có công chứng",
+    "c": "Không có sự can thiệp của con người vào từng hành động của hệ thống tự động",
+    "d": "Có bản in giấy",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 34 quy định hợp đồng điện tử không bị phủ nhận giá trị pháp lý chỉ vì không có sự kiểm tra hay can thiệp của con người vào từng hành động do hệ thống thông tin tự động thực hiện."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, đề nghị giao kết hợp đồng điện tử được thực hiện thông qua gì?",
+    "a": "Lời nói",
+    "b": "Văn bản giấy",
+    "c": "Thông điệp dữ liệu",
+    "d": "Điện thoại trực tiếp",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 35 quy định đề nghị và chấp nhận giao kết hợp đồng điện tử được thực hiện thông qua thông điệp dữ liệu."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, thông báo trong hợp đồng điện tử có giá trị pháp lý như thế nào?",
+    "a": "Không có giá trị",
+    "b": "Chỉ giá trị nội bộ",
+    "c": "Có giá trị như văn bản giấy",
+    "d": "Chỉ dùng tham khảo",
+    "answer": "c",
+    "explanation": "Điều 38 quy định thông báo dưới dạng thông điệp dữ liệu có giá trị pháp lý như thông báo bằng văn bản giấy."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, Chính phủ có vai trò gì trong quản lý nhà nước về giao dịch điện tử?",
+    "a": "Không tham gia quản lý",
+    "b": "Thống nhất quản lý nhà nước về giao dịch điện tử",
+    "c": "Chỉ ban hành văn bản hướng dẫn",
+    "d": "Chỉ thực hiện thanh tra",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 50 quy định Chính phủ thống nhất quản lý nhà nước về giao dịch điện tử."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, cơ quan nào là đầu mối chịu trách nhiệm trước Chính phủ về quản lý giao dịch điện tử?",
+    "a": "Bộ Tư pháp",
+    "b": "Bộ Công an",
+    "c": "Bộ Thông tin và Truyền thông",
+    "d": "Bộ Kế hoạch và Đầu tư",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 50 quy định Bộ Thông tin và Truyền thông là cơ quan đầu mối chịu trách nhiệm trước Chính phủ."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, Bộ, cơ quan ngang Bộ và UBND cấp tỉnh có trách nhiệm gì?",
+    "a": "Không liên quan quản lý",
+    "b": "Chỉ ban hành văn bản nội bộ",
+    "c": "Phối hợp với Bộ Thông tin và Truyền thông trong quản lý nhà nước về giao dịch điện tử",
+    "d": "Thay thế Bộ Thông tin và Truyền thông",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 50 quy định các Bộ, cơ quan ngang Bộ và UBND cấp tỉnh phối hợp với Bộ Thông tin và Truyền thông."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, Bộ Quốc phòng quản lý nhà nước về lĩnh vực nào?",
+    "a": "Thương mại điện tử",
+    "b": "Chữ ký số công cộng",
+    "c": "Cơ yếu và chữ ký số chuyên dùng công vụ",
+    "d": "Dịch vụ công trực tuyến",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 50 quy định Bộ trưởng Bộ Quốc phòng quản lý nhà nước về cơ yếu và chữ ký số chuyên dùng công vụ."
+  },
+  {
+    "question": "Theo Luật Giao dịch điện tử 2023, Bộ Thông tin và Truyền thông có trách nhiệm gì?",
+    "a": "Chỉ ban hành quy định nội bộ",
+    "b": "Chủ trì, phối hợp các cơ quan trong quản lý nhà nước về giao dịch điện tử",
+    "c": "Không có vai trò quản lý",
+    "d": "Chỉ thực hiện xử phạt",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 50 quy định Bộ Thông tin và Truyền thông là cơ quan đầu mối chủ trì, phối hợp quản lý nhà nước về giao dịch điện tử."
   }
 ]
