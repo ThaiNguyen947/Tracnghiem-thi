@@ -1,5 +1,131 @@
 [
  {
+    "question": "Theo Nghị định 130/2008/NĐ-CP, Giấy chứng minh sĩ quan được cấp cho ai?",
+    "a": "Mọi quân nhân trong Quân đội nhân dân Việt Nam",
+    "b": "Sĩ quan Quân đội nhân dân Việt Nam đang phục vụ tại ngũ",
+    "c": "Quân nhân dự bị",
+    "d": "Công chức quốc phòng",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 1 Nghị định 130/2008/NĐ-CP quy định Giấy chứng minh sĩ quan được cấp cho sĩ quan Quân đội nhân dân Việt Nam đang phục vụ tại ngũ. Đây là giấy tờ chứng minh tư cách sĩ quan của người được cấp."
+  },
+  {
+    "question": "Theo Nghị định 130/2008/NĐ-CP, Giấy chứng minh sĩ quan có giá trị gì?",
+    "a": "Thay thế mọi giấy tờ tùy thân",
+    "b": "Chứng minh người được cấp là sĩ quan đang phục vụ tại ngũ",
+    "c": "Thay thế hộ chiếu trong mọi trường hợp",
+    "d": "Chứng minh quyền sở hữu tài sản",
+    "answer": "b",
+    "explanation": "Điểm a khoản 2 Điều 1 Nghị định 130/2008/NĐ-CP quy định Giấy chứng minh sĩ quan có giá trị chứng minh người được cấp là sĩ quan đang phục vụ tại ngũ trong Quân đội nhân dân Việt Nam."
+  },
+  {
+    "question": "Theo Nghị định 59/2016/NĐ-CP, Chứng minh quân nhân chuyên nghiệp được cấp cho ai?",
+    "a": "Mọi công dân Việt Nam",
+    "b": "Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng",
+    "c": "Quân nhân dự bị",
+    "d": "Công chức cấp xã",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 2 Nghị định 59/2016/NĐ-CP quy định Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng được cấp cho đúng các đối tượng này."
+  },
+  {
+    "question": "Theo Nghị định 59/2016/NĐ-CP, thời hạn sử dụng thông thường của Chứng minh quân nhân chuyên nghiệp là bao lâu?",
+    "a": "05 năm",
+    "b": "10 năm",
+    "c": "12 năm",
+    "d": "15 năm",
+    "answer": "c",
+    "explanation": "Điều 5 Nghị định 59/2016/NĐ-CP quy định thời hạn sử dụng của Chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng là 12 năm."
+  },
+  {
+    "question": "Theo Nghị định 59/2008/NĐ-CP, Giấy chứng minh Công an nhân dân được cấp cho ai?",
+    "a": "Mọi cán bộ công an",
+    "b": "Sĩ quan, hạ sĩ quan Công an nhân dân đang phục vụ tại ngũ theo chế độ chuyên nghiệp",
+    "c": "Mọi chiến sĩ nghĩa vụ công an",
+    "d": "Công chức Bộ Công an",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 2 Nghị định 59/2008/NĐ-CP quy định Giấy chứng minh Công an nhân dân được cấp cho sĩ quan, hạ sĩ quan Công an nhân dân đang phục vụ tại ngũ theo chế độ chuyên nghiệp."
+  },
+  {
+    "question": "Theo Nghị định 59/2008/NĐ-CP, hạ sĩ quan, chiến sĩ phục vụ có thời hạn trong Công an nhân dân được cấp loại giấy tờ nào?",
+    "a": "Giấy chứng minh Công an nhân dân",
+    "b": "Thẻ căn cước công an",
+    "c": "Giấy chứng nhận theo quy định của Bộ trưởng Bộ Công an",
+    "d": "Không được cấp giấy tờ",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 2 Nghị định 59/2008/NĐ-CP quy định hạ sĩ quan, chiến sĩ phục vụ có thời hạn trong Công an nhân dân được cấp Giấy chứng nhận theo quy định của Bộ trưởng Bộ Công an."
+  },
+  {
+    "question": "Trong hoạt động công chứng, Giấy chứng minh sĩ quan có thể được sử dụng để làm gì?",
+    "a": "Xác định nhân thân người yêu cầu công chứng",
+    "b": "Thay thế giấy chứng nhận quyền sử dụng đất",
+    "c": "Thay thế hợp đồng",
+    "d": "Xác định quyền sở hữu tài sản",
+    "answer": "a",
+    "explanation": "Giấy chứng minh sĩ quan là giấy tờ tùy thân hợp pháp có thể được công chứng viên sử dụng để xác định nhân thân người yêu cầu công chứng."
+  },
+  {
+    "question": "Trong hoạt động công chứng, Chứng minh quân nhân chuyên nghiệp có ý nghĩa gì?",
+    "a": "Là căn cứ xác định nhân thân người yêu cầu công chứng",
+    "b": "Là căn cứ xác định quyền sở hữu tài sản",
+    "c": "Là căn cứ thay thế hợp đồng",
+    "d": "Là căn cứ thay thế giấy đăng ký kết hôn",
+    "answer": "a",
+    "explanation": "Công chứng viên có thể sử dụng Chứng minh quân nhân chuyên nghiệp để kiểm tra, xác định nhân thân của người yêu cầu công chứng."
+  },
+  {
+    "question": "Trong hoạt động công chứng, Giấy chứng minh Công an nhân dân có thể được sử dụng để làm gì?",
+    "a": "Xác định nhân thân người yêu cầu công chứng",
+    "b": "Thay thế giấy chứng nhận quyền sử dụng đất",
+    "c": "Thay thế hợp đồng giao dịch",
+    "d": "Chứng minh quyền sở hữu tài sản",
+    "answer": "a",
+    "explanation": "Giấy chứng minh Công an nhân dân là giấy tờ có thể được sử dụng để công chứng viên xác định nhân thân người yêu cầu công chứng nếu giấy còn giá trị sử dụng."
+  },
+  {
+    "question": "Khi giấy tờ ngành công an hoặc quân đội có dấu hiệu tẩy xóa, công chứng viên nên xử lý như thế nào?",
+    "a": "Tiếp tục công chứng bình thường",
+    "b": "Bỏ qua vì là giấy tờ ngành",
+    "c": "Xác minh hoặc từ chối công chứng theo quy định",
+    "d": "Chỉ yêu cầu ký cam kết",
+    "answer": "c",
+    "explanation": "Theo pháp luật công chứng, công chứng viên phải kiểm tra tính xác thực của giấy tờ. Nếu có dấu hiệu giả mạo, tẩy xóa hoặc sửa chữa thì phải xác minh hoặc từ chối công chứng."
+  },
+  {
+    "question": "Điểm khác nhau cơ bản giữa Giấy chứng minh sĩ quan và Chứng minh quân nhân chuyên nghiệp là gì?",
+    "a": "Khác đối tượng được cấp",
+    "b": "Khác quốc tịch",
+    "c": "Khác nơi cư trú",
+    "d": "Khác giá trị pháp lý hoàn toàn",
+    "answer": "a",
+    "explanation": "Giấy chứng minh sĩ quan cấp cho sĩ quan Quân đội nhân dân Việt Nam đang phục vụ tại ngũ, còn Chứng minh quân nhân chuyên nghiệp cấp cho quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng."
+  },
+  {
+    "question": "Theo Nghị định 59/2008/NĐ-CP, Giấy chứng minh Công an nhân dân được sử dụng khi nào?",
+    "a": "Trong mọi giao dịch dân sự",
+    "b": "Khi thi hành công vụ",
+    "c": "Khi đi du lịch",
+    "d": "Khi giao dịch ngân hàng cá nhân",
+    "answer": "b",
+    "explanation": "Điều 5 Nghị định 59/2008/NĐ-CP quy định sĩ quan, hạ sĩ quan Công an nhân dân sử dụng Giấy chứng minh Công an nhân dân khi thi hành công vụ."
+  },
+  {
+    "question": "Theo Nghị định 59/2016/NĐ-CP, trường hợp nào phải thu hồi Chứng minh quân nhân chuyên nghiệp?",
+    "a": "Không còn thuộc đối tượng được cấp",
+    "b": "Kết hôn",
+    "c": "Đổi nơi cư trú",
+    "d": "Mua tài sản mới",
+    "answer": "a",
+    "explanation": "Khi cá nhân không còn thuộc đối tượng được cấp Chứng minh quân nhân chuyên nghiệp thì giấy tờ này phải bị thu hồi để tránh sử dụng trái pháp luật."
+  },
+  {
+    "question": "Theo Nghị định 59/2008/NĐ-CP, trường hợp nào phải thu hồi Giấy chứng minh Công an nhân dân?",
+    "a": "Đổi nơi cư trú",
+    "b": "Kết hôn",
+    "c": "Nghỉ hưu, chuyển ngành, xuất ngũ hoặc bị tước danh hiệu Công an nhân dân",
+    "d": "Đổi số điện thoại",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 3 Nghị định 59/2008/NĐ-CP quy định Giấy chứng minh Công an nhân dân bị thu hồi khi người được cấp nghỉ hưu, chuyển ngành, xuất ngũ hoặc bị tước danh hiệu Công an nhân dân."
+  },
+ {
   "question": "Nhằm lôi kéo thêm lượng NYCCC và giữ chân các khách hàng có quen biết, CCV A đề nghị với các CCV khác trong TCHNCC mà mình đang làm việc đặt bảng thông báo trước cổng về việc văn phòng có chỗ làm việc riêng, miễn phí trà và cà phê cũng như không phải chờ đợi theo thứ tự đối với khách hàng thân thiết (VIP) hay đối tác là nhân viên các tổ chức tín dụng thường xuyên đến giao dịch. Xác định CCV có hành vi vi phạm những việc không được làm trong trường hợp này?",
   "a": "Không có hành vi vi phạm do không có quy định",
   "b": "TCHNCC được toàn quyền thực hiện các chính sách ưu đãi với khách hàng thân thiết (VIP) vì hành vi này là cạnh tranh lành mạnh và không vi phạm pháp luật",
