@@ -1,1 +1,202 @@
-
+[
+{
+  "question": "Theo Luật Công chứng 2024, hành vi nào sau đây vừa thuộc trường hợp xung đột lợi ích của công chứng viên, vừa thuộc hành vi bị nghiêm cấm về cấu kết làm sai lệch hồ sơ công chứng?",
+  "a": "Thực hiện giải thích quyền, nghĩa vụ cho các bên và thực hiện kiểm tra tính hợp pháp của các giấy tờ trong hồ sơ công chứng theo quy định",
+  "b": "Công chứng giao dịch có liên quan đến tài sản, lợi ích của người thân thích hoặc phối hợp với người yêu cầu thực hiện hành vi làm sai lệch nội dung hồ sơ công chứng",
+  "c": "Tiến hành rà soát các yếu tố pháp lý của hồ sơ và thực hiện lưu trữ hồ sơ công chứng tại tổ chức hành nghề theo thời hạn pháp luật yêu cầu",
+  "d": "Chủ động hướng dẫn người yêu cầu công chứng hoàn thiện các thủ tục hành chính để đảm bảo hồ sơ đầy đủ và đúng quy định của pháp luật",
+  "answer": "b",
+  "explanation": "Căn cứ điểm c khoản 1 Điều 9 Luật Công chứng 2024, công chứng viên không được công chứng giao dịch có liên quan đến người thân thích. Căn cứ điểm đ khoản 1 Điều 9 Luật Công chứng 2024, nghiêm cấm hành vi cấu kết làm sai lệch hồ sơ công chứng."
+},
+  {
+    "question": "Theo Luật Công chứng 2024, công chứng được xác định là loại hình hoạt động nào?",
+    "a": "Hoạt động tư pháp mang tính cưỡng chế thuộc thẩm quyền của Tòa án",
+    "b": "Dịch vụ công do công chứng viên thực hiện để chứng nhận tính xác thực, hợp pháp của giao dịch",
+    "c": "Hoạt động quản lý hành chính nhà nước thực hiện bởi UBND các cấp",
+    "d": "Dịch vụ tư vấn pháp lý chuyên biệt mang tính thương mại của luật sư",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 2 Luật Công chứng 2024, công chứng là dịch vụ công do công chứng viên của tổ chức hành nghề công chứng thực hiện để chứng nhận tính xác thực, hợp pháp của giao dịch."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, thời điểm chính thức phát sinh hiệu lực của văn bản công chứng là khi nào?",
+    "a": "Khi các bên hoàn tất việc xác lập ý chí bằng chữ ký trong hợp đồng",
+    "b": "Khi công chứng viên ký và tổ chức hành nghề công chứng đóng dấu",
+    "c": "Khi hồ sơ được tiếp nhận hợp lệ tại văn phòng công chứng",
+    "d": "Khi văn bản được hoàn tất các thủ tục đăng ký tại cơ quan nhà nước có thẩm quyền",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 6 Luật Công chứng 2024, văn bản công chứng có hiệu lực kể từ thời điểm công chứng viên ký và tổ chức hành nghề công chứng đóng dấu vào văn bản."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, giá trị chứng cứ của văn bản công chứng được quy định ra sao?",
+    "a": "Không có giá trị chứng cứ và chỉ mang tính chất thông tin tham khảo",
+    "b": "Chỉ có giá trị chứng cứ đối với các văn bản liên quan đến quyền sở hữu tài sản",
+    "c": "Có giá trị chứng cứ; các tình tiết không phải chứng minh trừ trường hợp bị Tòa án tuyên vô hiệu",
+    "d": "Chỉ có giá trị chứng cứ ràng buộc trách nhiệm giữa các bên tham gia ký kết",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 6 Luật Công chứng 2024, văn bản công chứng có giá trị chứng cứ; các tình tiết, sự kiện trong văn bản không phải chứng minh, trừ trường hợp bị Tòa án tuyên bố vô hiệu."
+  },
+  {
+    "question": "Trong các phương án dưới đây, đâu là nguyên tắc hành nghề công chứng chuẩn mực theo Luật Công chứng 2024?",
+    "a": "Ưu tiên tối đa lợi ích của khách hàng để đảm bảo tính cạnh tranh dịch vụ",
+    "b": "Tuân thủ Hiến pháp và pháp luật",
+    "c": "Ưu tiên giải quyết nhanh các yêu cầu của bên yêu cầu công chứng",
+    "d": "Tự do quyết định nội dung văn bản dựa trên thỏa thuận của các bên",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 5 Luật Công chứng 2024, nguyên tắc hành nghề công chứng gồm: tuân thủ Hiến pháp và pháp luật; khách quan, trung thực; tuân thủ quy tắc đạo đức; chịu trách nhiệm trước pháp luật."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, hành vi nào dưới đây nằm trong danh mục nghiêm cấm đối với công chứng viên?",
+    "a": "Giữ bí mật thông tin về nội dung giao dịch của khách hàng",
+    "b": "Công chứng giao dịch liên quan đến tài sản của người thân thích",
+    "c": "Giải thích quyền và nghĩa vụ cho người yêu cầu công chứng",
+    "d": "Lưu trữ hồ sơ công chứng theo thời hạn quy định",
+    "answer": "b",
+    "explanation": "Căn cứ điểm c khoản 1 Điều 9 Luật Công chứng 2024, công chứng viên bị nghiêm cấm công chứng giao dịch có liên quan đến tài sản, lợi ích của bản thân hoặc người thân thích."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, hành vi nghiêm cấm nào sau đây liên quan trực tiếp đến tính minh bạch tài chính của dịch vụ công chứng?",
+    "a": "Thu phí công chứng theo biểu giá niêm yết công khai",
+    "b": "Nhận tiền ngoài phí công chứng và chi phí đã xác định",
+    "c": "Niêm yết công khai mức phí công chứng tại trụ sở làm việc",
+    "d": "Hướng dẫn người yêu cầu công chứng nộp đầy đủ lệ phí theo đúng thủ tục",
+    "answer": "b",
+    "explanation": "Căn cứ điểm d khoản 1 Điều 9 Luật Công chứng 2024, công chứng viên bị nghiêm cấm nhận hoặc đòi hỏi tiền, lợi ích khác ngoài phí công chứng, phí dịch vụ và chi phí đã được xác định hoặc thỏa thuận."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, hành vi nào sau đây bị nghiêm cấm đối với cá nhân, tổ chức khi tham gia hoạt động công chứng?",
+    "a": "Cung cấp thông tin trung thực, chính xác cho công chứng viên",
+    "b": "Giả mạo công chứng viên, người yêu cầu công chứng, người làm chứng, người phiên dịch",
+    "c": "Thực hiện đúng và đầy đủ thủ tục công chứng theo quy định pháp luật",
+    "d": "Lưu trữ bản sao hồ sơ công chứng nhằm phục vụ mục đích quản lý",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 3 Điều 9 Luật Công chứng 2024, nghiêm cấm hành vi giả mạo công chứng viên, người yêu cầu công chứng, người làm chứng hoặc người phiên dịch."
+  },
+  {
+    "question": "Cơ quan nào có thẩm quyền cao nhất trong việc thống nhất quản lý nhà nước về hoạt động công chứng?",
+    "a": "Bộ Tư pháp",
+    "b": "Chính phủ",
+    "c": "Ủy ban nhân dân cấp tỉnh",
+    "d": "Tòa án nhân dân tối cao",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 8 Luật Công chứng 2024, Chính phủ thống nhất quản lý nhà nước về công chứng."
+  },
+[
+  {
+    "question": "Theo Luật Công chứng 2024, bản chất pháp lý của hoạt động công chứng là gì?",
+    "a": "Là hoạt động tư pháp độc lập nhằm thực thi công lý tại Tòa án",
+    "b": "Dịch vụ công do công chứng viên thực hiện để chứng nhận tính xác thực, hợp pháp của giao dịch",
+    "c": "Là hoạt động hành chính công mang tính mệnh lệnh của UBND cấp tỉnh",
+    "d": "Là dịch vụ pháp lý có thu phí mang tính thuần túy thương mại của luật sư",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 2 Luật Công chứng 2024, công chứng là dịch vụ công do công chứng viên thực hiện để chứng nhận tính xác thực, hợp pháp của giao dịch."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, thời điểm chính thức phát sinh hiệu lực pháp lý của văn bản công chứng là khi nào?",
+    "a": "Tại thời điểm các bên đạt được thỏa thuận và ký kết hợp đồng",
+    "b": "Khi công chứng viên ký và tổ chức hành nghề công chứng đóng dấu",
+    "c": "Tại thời điểm hồ sơ được bộ phận tiếp nhận thụ lý thành công",
+    "d": "Tại thời điểm văn bản được thực hiện thủ tục đăng ký quyền sở hữu tại cơ quan nhà nước",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 6 Luật Công chứng 2024, văn bản công chứng có hiệu lực kể từ thời điểm công chứng viên ký và tổ chức hành nghề công chứng đóng dấu vào văn bản."
+  },
+  {
+    "question": "Giá trị chứng cứ của văn bản công chứng theo quy định của Luật Công chứng 2024 được xác định ra sao?",
+    "a": "Văn bản công chứng chỉ mang tính chất ghi nhận và không có giá trị pháp lý ràng buộc",
+    "b": "Văn bản công chứng là cơ sở duy nhất để Tòa án tham khảo trong quá trình giải quyết vụ án",
+    "c": "Có giá trị chứng cứ; các tình tiết không phải chứng minh trừ trường hợp bị Tòa án tuyên vô hiệu",
+    "d": "Giá trị chứng cứ chỉ phát sinh đối với các giao dịch đã được đăng ký quyền sở hữu",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 6 Luật Công chứng 2024, văn bản công chứng có giá trị chứng cứ; các tình tiết, sự kiện không phải chứng minh trừ trường hợp bị Tòa án tuyên bố vô hiệu."
+  },
+  {
+    "question": "Nguyên tắc hành nghề công chứng nào sau đây là yêu cầu bắt buộc đối với công chứng viên theo Luật Công chứng 2024?",
+    "a": "Ưu tiên tối đa việc bảo vệ lợi ích và yêu cầu của khách hàng",
+    "b": "Tuân thủ Hiến pháp và pháp luật",
+    "c": "Tự do quyết định nội dung giao dịch dựa trên ý chí của các bên",
+    "d": "Đại diện quyền lợi tối cao cho một trong các bên tham gia giao dịch",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 5 Luật Công chứng 2024, nguyên tắc hành nghề công chứng gồm: tuân thủ Hiến pháp và pháp luật; khách quan, trung thực; tuân thủ quy tắc đạo đức; chịu trách nhiệm trước pháp luật."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, hành vi nào sau đây bị nghiêm cấm đối với công chứng viên để bảo đảm tính khách quan?",
+    "a": "Việc giữ bí mật thông tin về nội dung giao dịch theo quy định",
+    "b": "Công chứng giao dịch liên quan đến tài sản, lợi ích của bản thân hoặc người thân thích",
+    "c": "Giải thích rõ ràng quyền, nghĩa vụ và hậu quả pháp lý cho người yêu cầu",
+    "d": "Việc thực hiện lưu trữ hồ sơ công chứng theo đúng trình tự nghiệp vụ",
+    "answer": "b",
+    "explanation": "Căn cứ điểm c khoản 1 Điều 9 Luật Công chứng 2024, công chứng viên bị nghiêm cấm công chứng giao dịch có liên quan đến tài sản, lợi ích của bản thân hoặc người thân thích."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, hành vi nào bị coi là vi phạm nghiêm trọng trong lĩnh vực tài chính của hoạt động công chứng?",
+    "a": "Việc thu phí công chứng theo đúng biểu giá được pháp luật quy định",
+    "b": "Nhận tiền hoặc lợi ích vật chất ngoài phí công chứng và các chi phí hợp pháp",
+    "c": "Việc niêm yết công khai phí công chứng tại trụ sở để khách hàng được biết",
+    "d": "Việc hướng dẫn người yêu cầu thực hiện thủ tục nộp phí theo quy định hiện hành",
+    "answer": "b",
+    "explanation": "Căn cứ điểm d khoản 1 Điều 9 Luật Công chứng 2024, công chứng viên không được nhận hoặc đòi hỏi tiền, lợi ích ngoài phí công chứng, phí dịch vụ và chi phí đã xác định theo quy định."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, hành vi nào bị liệt kê vào danh mục nghiêm cấm đối với mọi cá nhân, tổ chức để bảo đảm an toàn pháp lý?",
+    "a": "Việc cung cấp thông tin trung thực, chính xác theo yêu cầu của công chứng viên",
+    "b": "Giả mạo công chứng viên, người yêu cầu công chứng, người làm chứng hoặc người phiên dịch",
+    "c": "Việc nộp hồ sơ yêu cầu công chứng theo trình tự thủ tục hành chính",
+    "d": "Việc tổ chức lưu trữ hồ sơ, văn bản công chứng theo quy định của pháp luật",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 3 Điều 9 Luật Công chứng 2024, nghiêm cấm hành vi giả mạo công chứng viên, người yêu cầu công chứng, người làm chứng hoặc người phiên dịch."
+  },
+  {
+    "question": "Cơ quan nào có thẩm quyền thực hiện việc thống nhất quản lý nhà nước về hoạt động công chứng theo Luật Công chứng 2024?",
+    "a": "Bộ Tư pháp",
+    "b": "Chính phủ",
+    "c": "Ủy ban nhân dân cấp tỉnh",
+    "d": "Tòa án nhân dân",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 8 Luật Công chứng 2024, Chính phủ thống nhất quản lý nhà nước về công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, việc sử dụng ngôn ngữ trong công chứng được quy định như thế nào?",
+    "a": "Các bên tự do lựa chọn ngôn ngữ",
+    "b": "Tiếng Việt là ngôn ngữ dùng trong công chứng",
+    "c": "Ngôn ngữ quốc tế là bắt buộc",
+    "d": "Công chứng viên quyết định ngôn ngữ",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 7 Luật Công chứng 2024, tiếng Việt là ngôn ngữ dùng trong công chứng."
+  },
+  
+{
+  "question": "Theo Luật Công chứng 2024, nội dung nào sau đây phản ánh đúng mục đích và bản chất của hoạt động công chứng?",
+  "a": "Là hoạt động tư pháp độc lập do Tòa án thực hiện nhằm xác lập và cưỡng chế quyền sở hữu tài sản cho các bên",
+  "b": "Là dịch vụ công do công chứng viên được Nhà nước ủy nhiệm thực hiện nhằm xác nhận tính hợp pháp của giao dịch và hạn chế rủi ro pháp lý",
+  "c": "Là hoạt động giải quyết tranh chấp dân sự mang tính hòa giải giữa các bên và đại diện quyền lợi cho người yêu cầu công chứng",
+  "d": "Là dịch vụ pháp lý thương mại thay thế toàn bộ thủ tục đăng ký nhà nước, hoạt động theo mô hình tư vấn chuyên sâu của luật sư",
+  "answer": "b",
+  "explanation": "Căn cứ Điều 4 Luật Công chứng 2024, công chứng là dịch vụ công do công chứng viên được Nhà nước ủy nhiệm thực hiện nhằm bảo đảm an toàn pháp lý, chứng nhận tính hợp pháp của giao dịch."
+},
+  {
+    "question": "Theo Luật Công chứng 2024, hành vi nào sau đây liên quan đến quảng cáo bị nghiêm cấm?",
+    "a": "Niêm yết thủ tục công chứng",
+    "b": "Quảng cáo dịch vụ công chứng trên phương tiện thông tin đại chúng",
+    "c": "Công khai phí công chứng",
+    "d": "Công khai quy trình công chứng",
+    "answer": "b",
+    "explanation": "Căn cứ điểm g khoản 1 Điều 9 Luật Công chứng 2024, công chứng viên không được quảng cáo về hoạt động công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, giá trị chứng cứ của văn bản công chứng được xác định dựa trên yếu tố nào?",
+    "a": "Thỏa thuận giữa các bên",
+    "b": "Quy trình công chứng theo luật định",
+    "c": "Đăng ký tại cơ quan hành chính",
+    "d": "Ý chí của một bên",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 3 Điều 6 Luật Công chứng 2024, giá trị chứng cứ của văn bản công chứng được xác lập theo quy trình công chứng do pháp luật quy định."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, hành vi nào sau đây là vi phạm nghĩa vụ nghề nghiệp?",
+    "a": "Từ chối công chứng giao dịch trái luật",
+    "b": "Ép buộc người yêu cầu công chứng",
+    "c": "Hướng dẫn hồ sơ",
+    "d": "Lưu trữ tài liệu",
+    "answer": "b",
+    "explanation": "Căn cứ điểm đ khoản 1 Điều 9 Luật Công chứng 2024, nghiêm cấm hành vi ép buộc người yêu cầu công chứng."
+  }
+]
