@@ -1,5 +1,383 @@
 [
     {
+    "question": "Theo Luật Công chứng 2024, tổ chức hành nghề công chứng bao gồm những loại hình nào sau đây?",
+    "a": "Phòng công chứng và Văn phòng công chứng",
+    "b": "Văn phòng luật sư và Trung tâm chứng thực",
+    "c": "Phòng công chứng và Cơ quan đăng ký đất đai",
+    "d": "Văn phòng công chứng và UBND cấp xã",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 1 Điều 19 Luật Công chứng 2024, tổ chức hành nghề công chứng chỉ bao gồm Phòng công chứng và Văn phòng công chứng. Đây là hai mô hình duy nhất được luật công nhận."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, Bộ Tư pháp có trách nhiệm nào sau đây?",
+    "a": "Trực tiếp quản lý từng Văn phòng công chứng",
+    "b": "Xây dựng chiến lược phát triển lĩnh vực công chứng",
+    "c": "Bổ nhiệm công chứng viên tại địa phương",
+    "d": "Cấp giấy đăng ký hoạt động cho Văn phòng công chứng",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 19, Bộ Tư pháp có trách nhiệm xây dựng và trình Chính phủ ban hành chiến lược phát triển công chứng, mang tính định hướng quản lý nhà nước."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, Phòng công chứng là loại hình tổ chức nào?",
+    "a": "Doanh nghiệp tư nhân",
+    "b": "Đơn vị sự nghiệp công lập",
+    "c": "Tổ chức xã hội nghề nghiệp",
+    "d": "Công ty hợp danh",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 20, Phòng công chứng là đơn vị sự nghiệp công lập thuộc Sở Tư pháp, có con dấu và tài khoản riêng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, điều kiện tối thiểu về công chứng viên của Phòng công chứng là gì?",
+    "a": "Tối thiểu 01 công chứng viên",
+    "b": "Tối thiểu 02 công chứng viên, trừ trường hợp đặc biệt",
+    "c": "Tối thiểu 03 công chứng viên",
+    "d": "Không yêu cầu công chứng viên",
+    "answer": "b",
+    "explanation": "Căn cứ điểm a khoản 2 Điều 20, Phòng công chứng phải có từ 02 công chứng viên trở lên, trừ trường hợp đặc biệt do pháp luật quy định."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, người đại diện theo pháp luật của Phòng công chứng là ai?",
+    "a": "Giám đốc Sở Tư pháp",
+    "b": "Trưởng Phòng công chứng",
+    "c": "Chủ tịch UBND tỉnh",
+    "d": "Công chứng viên được chỉ định",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 3 Điều 20, Trưởng Phòng công chứng là người đại diện theo pháp luật và phải là công chứng viên có ít nhất 02 năm hành nghề."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, Phòng công chứng được thành lập mới tại địa bàn nào?",
+    "a": "Nơi đã có nhiều Văn phòng công chứng",
+    "b": "Nơi chưa phát triển Văn phòng công chứng đáp ứng nhu cầu",
+    "c": "Mọi địa bàn cấp tỉnh",
+    "d": "Khu vực đô thị trung tâm",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 21, Phòng công chứng chỉ được thành lập tại địa bàn chưa phát triển được Văn phòng công chứng đáp ứng nhu cầu."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, khi nào Phòng công chứng được chuyển đổi thành Văn phòng công chứng?",
+    "a": "Khi có đề nghị của công chứng viên",
+    "b": "Khi địa phương đã phát triển Văn phòng công chứng đáp ứng nhu cầu",
+    "c": "Khi UBND xã đề nghị",
+    "d": "Khi Bộ Tư pháp quyết định riêng lẻ",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 22, việc chuyển đổi được thực hiện khi địa phương đã phát triển hệ thống Văn phòng công chứng đáp ứng nhu cầu."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, Văn phòng công chứng chủ yếu được tổ chức theo loại hình nào?",
+    "a": "Doanh nghiệp tư nhân",
+    "b": "Công ty hợp danh",
+    "c": "Hợp tác xã",
+    "d": "Đơn vị sự nghiệp công lập",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 23, Văn phòng công chứng chủ yếu được tổ chức theo loại hình công ty hợp danh, bảo đảm tính độc lập nghề nghiệp."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, Trưởng Văn phòng công chứng phải đáp ứng điều kiện nào?",
+    "a": "Có 01 năm hành nghề",
+    "b": "Có từ 02 năm hành nghề công chứng trở lên",
+    "c": "Có 05 năm làm luật sư",
+    "d": "Không yêu cầu kinh nghiệm",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 23, Trưởng Văn phòng công chứng phải là công chứng viên và có ít nhất 02 năm hành nghề."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, Văn phòng công chứng hoạt động theo nguyên tắc tài chính nào?",
+    "a": "Ngân sách nhà nước cấp",
+    "b": "Tự chủ tài chính từ phí công chứng và dịch vụ",
+    "c": "Trợ cấp từ UBND tỉnh",
+    "d": "Không được thu phí",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 5 Điều 23, Văn phòng công chứng hoạt động theo cơ chế tự chủ tài chính từ phí công chứng và dịch vụ liên quan."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, Văn phòng công chứng phải đăng ký hoạt động trong thời hạn bao lâu?",
+    "a": "30 ngày",
+    "b": "60 ngày",
+    "c": "90 ngày",
+    "d": "120 ngày",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 25, trong 90 ngày kể từ khi quyết định thành lập có hiệu lực, Văn phòng công chứng phải đăng ký hoạt động tại Sở Tư pháp."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, Văn phòng công chứng được hoạt động từ thời điểm nào?",
+    "a": "Khi có quyết định thành lập",
+    "b": "Khi nộp hồ sơ đăng ký",
+    "c": "Khi được cấp giấy đăng ký hoạt động",
+    "d": "Khi công chứng viên bắt đầu làm việc",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 25, Văn phòng công chứng chỉ được hoạt động và công chứng viên chỉ được hành nghề kể từ khi được cấp giấy đăng ký hoạt động."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, Văn phòng công chứng được thay đổi nội dung đăng ký hoạt động trong thời hạn nào?",
+    "a": "05 ngày",
+    "b": "10 ngày",
+    "c": "15 ngày",
+    "d": "30 ngày",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 26, trong 10 ngày kể từ khi có thay đổi, Văn phòng công chứng phải đăng ký thay đổi với Sở Tư pháp."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, điều kiện để công chứng viên chấm dứt tư cách thành viên hợp danh là gì?",
+    "a": "Tự nguyện hoặc bị khai trừ",
+    "b": "Tự ý nghỉ việc không cần lý do",
+    "c": "Không cần quyết định Sở Tư pháp",
+    "d": "Chỉ khi bị miễn nhiệm công chứng viên",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 1 Điều 27, công chứng viên chấm dứt tư cách thành viên hợp danh khi tự nguyện rút vốn, chuyển nhượng, bị miễn nhiệm, chết hoặc bị khai trừ."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, Văn phòng công chứng có thể tiếp nhận thành viên hợp danh mới khi nào?",
+    "a": "Khi Giám đốc Sở Tư pháp đồng ý",
+    "b": "Khi có ít nhất 3/4 thành viên hợp danh chấp thuận",
+    "c": "Khi Bộ Tư pháp cho phép",
+    "d": "Khi không cần điều kiện",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 28, việc tiếp nhận thành viên hợp danh mới phải được ít nhất 3/4 thành viên hợp danh đồng ý."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, Văn phòng công chứng bị tạm ngừng hoạt động trong trường hợp nào?",
+    "a": "Tự nguyện xin nghỉ",
+    "b": "Toàn bộ công chứng viên bị tạm đình chỉ hoặc bất khả kháng",
+    "c": "Không có khách hàng",
+    "d": "Do cạnh tranh thị trường",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 32, Văn phòng công chứng bị tạm ngừng khi toàn bộ công chứng viên bị tạm đình chỉ hoặc có sự kiện bất khả kháng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, Văn phòng công chứng bị thu hồi quyết định thành lập trong trường hợp nào?",
+    "a": "Không có doanh thu",
+    "b": "Không còn đủ điều kiện hoạt động theo luật",
+    "c": "Tự nguyện nghỉ",
+    "d": "Có thay đổi địa chỉ",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 33, Văn phòng công chứng bị thu hồi khi không đảm bảo điều kiện hoạt động, không duy trì công chứng viên hoặc có vi phạm nghiêm trọng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, quyền thu phí công chứng thuộc về ai?",
+    "a": "Công chứng viên cá nhân",
+    "b": "Tổ chức hành nghề công chứng",
+    "c": "Sở Tư pháp",
+    "d": "UBND cấp huyện",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 35, tổ chức hành nghề công chứng có quyền thu phí công chứng và dịch vụ liên quan."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, nghĩa vụ bảo mật thông tin thuộc về ai?",
+    "a": "Chỉ công chứng viên",
+    "b": "Tổ chức hành nghề công chứng",
+    "c": "UBND cấp xã",
+    "d": "Cơ quan thuế",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 11 Điều 36, tổ chức hành nghề công chứng có nghĩa vụ giữ bí mật thông tin công chứng trừ trường hợp pháp luật cho phép."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, khi nào Phòng công chứng được chuyển đổi thành Văn phòng công chứng?",
+    "a": "Khi không còn công chứng viên",
+    "b": "Khi địa phương đã phát triển được Văn phòng công chứng đáp ứng nhu cầu công chứng",
+    "c": "Khi UBND cấp tỉnh yêu cầu",
+    "d": "Khi Bộ Tư pháp quyết định",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 22 Luật Công chứng 2024: trường hợp địa phương đã phát triển được Văn phòng công chứng đáp ứng yêu cầu công chứng thì Sở Tư pháp lập đề án chuyển đổi Phòng công chứng thành Văn phòng công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, Phòng công chứng chỉ được giải thể khi nào?",
+    "a": "Khi có yêu cầu của công chứng viên",
+    "b": "Khi chưa thanh toán nợ, chưa giải quyết xong nghĩa vụ",
+    "c": "Sau khi hoàn thành thanh toán nợ và nghĩa vụ theo luật",
+    "d": "Khi có tranh chấp nội bộ",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 22 Luật Công chứng 2024: Phòng công chứng chỉ được giải thể sau khi thanh toán xong các khoản nợ, chấm dứt hợp đồng lao động và thực hiện xong các yêu cầu công chứng đã tiếp nhận."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, Văn phòng công chứng được tổ chức theo loại hình nào?",
+    "a": "Doanh nghiệp tư nhân hoặc công ty hợp danh",
+    "b": "Công ty cổ phần",
+    "c": "Hợp tác xã",
+    "d": "Đơn vị sự nghiệp công lập",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 1 Điều 23 Luật Công chứng 2024: Văn phòng công chứng được tổ chức theo loại hình công ty hợp danh; trường hợp đặc thù có thể là doanh nghiệp tư nhân."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, Trưởng Văn phòng công chứng được xác định như thế nào?",
+    "a": "Do UBND cấp tỉnh bổ nhiệm",
+    "b": "Là công chứng viên được các thành viên lựa chọn hoặc là chủ doanh nghiệp tư nhân",
+    "c": "Do Bộ Tư pháp chỉ định",
+    "d": "Do Sở Tư pháp phân công",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 23 Luật Công chứng 2024: Trưởng Văn phòng công chứng là thành viên hợp danh hoặc chủ doanh nghiệp tư nhân đồng thời là công chứng viên."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, ai có thẩm quyền thành lập Phòng công chứng?",
+    "a": "Sở Tư pháp",
+    "b": "Bộ Tư pháp",
+    "c": "Ủy ban nhân dân cấp tỉnh",
+    "d": "Hội đồng nhân dân cấp tỉnh",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 20 Luật Công chứng 2024: Phòng công chứng do Ủy ban nhân dân cấp tỉnh quyết định thành lập."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, điều kiện tối thiểu của Phòng công chứng là gì?",
+    "a": "Có 01 công chứng viên",
+    "b": "Có từ 02 công chứng viên trở lên",
+    "c": "Có 01 luật sư và 01 công chứng viên",
+    "d": "Không cần công chứng viên",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 20 Luật Công chứng 2024: Phòng công chứng phải có từ 02 công chứng viên trở lên."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, Văn phòng công chứng phải đăng ký hoạt động trong thời hạn bao lâu?",
+    "a": "60 ngày",
+    "b": "90 ngày",
+    "c": "120 ngày",
+    "d": "30 ngày",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 25 Luật Công chứng 2024: trong thời hạn 90 ngày kể từ ngày được phép thành lập, Văn phòng công chứng phải đăng ký hoạt động."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, Văn phòng công chứng được hoạt động từ thời điểm nào?",
+    "a": "Khi có quyết định thành lập",
+    "b": "Khi nộp hồ sơ đăng ký",
+    "c": "Khi được cấp giấy đăng ký hoạt động",
+    "d": "Khi công chứng viên bắt đầu làm việc",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 25 Luật Công chứng 2024: Văn phòng công chứng được hoạt động kể từ ngày được cấp giấy đăng ký hoạt động."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, Văn phòng công chứng bị tạm ngừng hoạt động khi nào?",
+    "a": "Khi thay đổi tên",
+    "b": "Khi toàn bộ công chứng viên bị tạm đình chỉ hành nghề",
+    "c": "Khi thay đổi trụ sở",
+    "d": "Khi tăng phí công chứng",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 32 Luật Công chứng 2024: Văn phòng công chứng tạm ngừng hoạt động khi toàn bộ công chứng viên bị tạm đình chỉ hành nghề hoặc có sự kiện bất khả kháng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, trường hợp nào làm chấm dứt tư cách thành viên hợp danh của Văn phòng công chứng?",
+    "a": "Tăng vốn góp",
+    "b": "Tự nguyện rút vốn hoặc chuyển nhượng toàn bộ phần vốn góp",
+    "c": "Thay đổi trụ sở Văn phòng công chứng",
+    "d": "Tăng số lượng công chứng viên",
+    "answer": "b",
+    "explanation": "Căn cứ điểm a khoản 1 Điều 27 Luật Công chứng 2024: thành viên hợp danh chấm dứt tư cách khi tự nguyện rút vốn hoặc chuyển nhượng toàn bộ phần vốn góp."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, Văn phòng công chứng phải còn tối thiểu bao nhiêu thành viên hợp danh khi một thành viên rút vốn?",
+    "a": "01",
+    "b": "02",
+    "c": "03",
+    "d": "Không quy định",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 27 Luật Công chứng 2024: Văn phòng công chứng phải còn ít nhất 02 thành viên hợp danh tại thời điểm rút vốn hoặc chuyển nhượng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, thời hạn báo trước khi thành viên hợp danh rút vốn là bao lâu?",
+    "a": "03 tháng",
+    "b": "06 tháng",
+    "c": "12 tháng",
+    "d": "Không cần báo trước",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 27 Luật Công chứng 2024: phải thông báo bằng văn bản chậm nhất 06 tháng trước ngày rút vốn."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, điều kiện tiếp nhận thành viên hợp danh mới là gì?",
+    "a": "Chỉ cần là công chứng viên",
+    "b": "Được ít nhất 3/4 thành viên hợp danh chấp thuận",
+    "c": "Do Sở Tư pháp quyết định",
+    "d": "Do Bộ Tư pháp chỉ định",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 28 Luật Công chứng 2024: phải được ít nhất 3/4 tổng số thành viên hợp danh chấp thuận."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, người thừa kế của thành viên hợp danh có thể trở thành thành viên hợp danh khi nào?",
+    "a": "Tự động trở thành thành viên",
+    "b": "Nếu là công chứng viên và được 3/4 thành viên còn lại chấp thuận",
+    "c": "Do UBND cấp tỉnh quyết định",
+    "d": "Không được trở thành thành viên",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 28 Luật Công chứng 2024: người thừa kế phải là công chứng viên và được ít nhất 3/4 thành viên hợp danh chấp thuận."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, điều kiện hợp nhất Văn phòng công chứng là gì?",
+    "a": "Khác tỉnh",
+    "b": "Cùng tỉnh, thành phố trực thuộc trung ương",
+    "c": "Không cần điều kiện",
+    "d": "Do Bộ Tư pháp quyết định",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 29 Luật Công chứng 2024: các Văn phòng công chứng hợp nhất phải có trụ sở trong cùng một tỉnh, thành phố."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, việc sáp nhập Văn phòng công chứng dẫn đến hậu quả gì?",
+    "a": "Không thay đổi tổ chức",
+    "b": "Chấm dứt hoạt động Văn phòng bị sáp nhập",
+    "c": "Tăng phí công chứng",
+    "d": "Giữ nguyên cả hai Văn phòng",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 29 Luật Công chứng 2024: Văn phòng bị sáp nhập chấm dứt hoạt động sau khi chuyển toàn bộ quyền và nghĩa vụ."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, điều kiện chuyển nhượng toàn bộ phần vốn góp là gì?",
+    "a": "Hoạt động tối thiểu 01 năm",
+    "b": "Hoạt động tối thiểu 02 năm",
+    "c": "Không cần điều kiện thời gian",
+    "d": "Do UBND quyết định",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 30 Luật Công chứng 2024: Văn phòng công chứng phải hoạt động ít nhất 02 năm mới được chuyển nhượng toàn bộ phần vốn góp."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, công chứng viên nhận chuyển nhượng phần vốn góp phải đáp ứng điều kiện nào?",
+    "a": "Có bằng cử nhân kinh tế",
+    "b": "Hành nghề từ đủ 02 năm trở lên",
+    "c": "Không cần điều kiện",
+    "d": "Là công chức nhà nước",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 30 Luật Công chứng 2024: công chứng viên nhận chuyển nhượng phải hành nghề từ đủ 02 năm trở lên (trường hợp làm Trưởng Văn phòng)."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, Trưởng Văn phòng công chứng được bán Văn phòng khi nào?",
+    "a": "Ngay khi thành lập",
+    "b": "Sau khi hoạt động ít nhất 02 năm",
+    "c": "Sau 06 tháng",
+    "d": "Không được bán",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 31 Luật Công chứng 2024: chỉ được bán Văn phòng công chứng sau khi đã hoạt động ít nhất 02 năm."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, Văn phòng công chứng bị thu hồi quyết định cho phép thành lập trong trường hợp nào?",
+    "a": "Thay đổi tên",
+    "b": "Không đăng ký hoạt động trong thời hạn luật định",
+    "c": "Tăng số lượng công chứng viên",
+    "d": "Thay đổi địa chỉ trong cùng huyện",
+    "answer": "b",
+    "explanation": "Căn cứ điểm a khoản 1 Điều 33 Luật Công chứng 2024: không đăng ký hoạt động đúng thời hạn là căn cứ thu hồi quyết định thành lập."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, Văn phòng công chứng chấm dứt hoạt động khi nào?",
+    "a": "Khi thay đổi nhân sự",
+    "b": "Khi bị thu hồi quyết định cho phép thành lập",
+    "c": "Khi tăng phí dịch vụ",
+    "d": "Khi đổi tên",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 34 Luật Công chứng 2024: Văn phòng công chứng chấm dứt hoạt động khi bị thu hồi quyết định cho phép thành lập."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, tổ chức hành nghề công chứng có nghĩa vụ gì?",
+    "a": "Không cần lưu trữ hồ sơ",
+    "b": "Lưu trữ hồ sơ công chứng theo quy định",
+    "c": "Tự quyết định thời hạn lưu trữ",
+    "d": "Chỉ lưu trữ hồ sơ quan trọng",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 9 Điều 36 Luật Công chứng 2024: tổ chức hành nghề công chứng phải lập sổ và lưu trữ hồ sơ công chứng theo quy định."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, tổ chức hành nghề công chứng có nghĩa vụ bảo hiểm gì?",
+    "a": "Bảo hiểm y tế",
+    "b": "Bảo hiểm trách nhiệm nghề nghiệp cho công chứng viên",
+    "c": "Bảo hiểm xã hội bắt buộc",
+    "d": "Không phải mua bảo hiểm",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 5 Điều 36 Luật Công chứng 2024: tổ chức hành nghề công chứng phải mua bảo hiểm trách nhiệm nghề nghiệp cho công chứng viên."
+  },
+    {
     "question": "Thẩm quyền bổ nhiệm Công chứng viên theo quy định của Luật Công chứng 2024 thuộc về cơ quan nào?",
     "a": "Giám đốc Sở Tư pháp nơi tổ chức hành nghề công chứng đặt trụ sở",
     "b": "Ủy ban nhân dân cấp tỉnh sau khi có sự đồng ý của Bộ Tư pháp",
