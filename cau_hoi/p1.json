@@ -3002,7 +3002,7 @@
     "a": "Theo quy định của pháp luật",
     "b": "Theo ủy quyền",
     "c": "Theo quyết định của Tòa án trong trường hợp luật định",
-    "d": "Theo yêu cầu của hàng xóm",
+    "d":"Theo thỏa thuận của gia đình bên vợ hoặc bên chồng mà không có ủy quyền hoặc căn cứ pháp luật",
     "answer": "d",
     "explanation": "Điều 24 quy định đại diện giữa vợ chồng được xác lập theo pháp luật, theo ủy quyền hoặc theo quyết định của Tòa án trong trường hợp luật định."
   },
