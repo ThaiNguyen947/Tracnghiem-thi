@@ -1,5 +1,257 @@
 [
     {
+    "question": "Theo Luật Công chứng 2024, hồ sơ yêu cầu công chứng giao dịch đã được soạn thảo sẵn bao gồm những giấy tờ nào sau đây?",
+    "a": "Chỉ gồm dự thảo giao dịch và giấy tờ tùy thân của người yêu cầu công chứng",
+    "b": "Dự thảo giao dịch, bản sao giấy tờ tùy thân, bản sao giấy tờ về quyền sở hữu, quyền sử dụng tài sản và các giấy tờ khác có liên quan theo quy định của pháp luật",
+    "c": "Chỉ cần bản chính hợp đồng đã ký sẵn và giấy tờ tùy thân",
+    "d": "Chỉ cần dự thảo giao dịch có chữ ký của các bên",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 42 Luật Công chứng 2024, hồ sơ yêu cầu công chứng giao dịch đã được soạn thảo sẵn bao gồm: điểm a là dự thảo giao dịch; điểm b là bản sao giấy tờ tùy thân của người yêu cầu công chứng; điểm c là bản sao giấy chứng nhận quyền sở hữu, quyền sử dụng tài sản hoặc bản án, quyết định của Tòa án hoặc quyết định khác của cơ quan nhà nước có thẩm quyền; điểm d là bản sao giấy tờ khác có liên quan đến giao dịch mà pháp luật quy định phải có."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, trong trường hợp tổ chức hành nghề công chứng khai thác được thông tin từ Cơ sở dữ liệu quốc gia về dân cư thì người yêu cầu công chứng có phải nộp lại bản sao giấy tờ tùy thân không?",
+    "a": "Vẫn phải nộp bản sao giấy tờ tùy thân như thông thường",
+    "b": "Không phải nộp bản sao giấy tờ tùy thân nhưng phải nộp phí khai thác dữ liệu theo quy định của pháp luật",
+    "c": "Không phải nộp và không phải nộp bất kỳ chi phí nào",
+    "d": "Chỉ phải nộp bản chính giấy tờ tùy thân để đối chiếu",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 42 Luật Công chứng 2024, trường hợp tổ chức hành nghề công chứng đã khai thác được thông tin từ Cơ sở dữ liệu quốc gia về dân cư hoặc cơ sở dữ liệu khác theo quy định của pháp luật thì người yêu cầu công chứng không phải nộp lại các giấy tờ này, nhưng phải nộp phí khai thác dữ liệu theo quy định của pháp luật."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, công chứng viên có quyền từ chối tiếp nhận hồ sơ công chứng trong trường hợp nào sau đây?",
+    "a": "Hồ sơ có dấu hiệu chưa rõ ràng, có nghi ngờ bị đe dọa, cưỡng ép hoặc có nghi ngờ về năng lực hành vi dân sự mà không thể làm rõ",
+    "b": "Người yêu cầu công chứng nộp hồ sơ trực tuyến",
+    "c": "Người yêu cầu công chứng yêu cầu đọc lại toàn bộ hợp đồng trước khi ký",
+    "d": "Người yêu cầu công chứng yêu cầu sửa lỗi chính tả trong dự thảo giao dịch",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 4 Điều 42 Luật Công chứng 2024, công chứng viên có quyền đề nghị làm rõ hoặc xác minh trong trường hợp có căn cứ nghi ngờ về việc tham gia giao dịch bị đe dọa, cưỡng ép, nghi ngờ năng lực hành vi dân sự hoặc đối tượng giao dịch chưa được mô tả rõ. Nếu không làm rõ được thì công chứng viên từ chối công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, công chứng viên xử lý như thế nào nếu trong dự thảo giao dịch có điều khoản vi phạm pháp luật mà người yêu cầu công chứng không sửa chữa?",
+    "a": "Vẫn thực hiện công chứng nhưng ghi chú nội dung vi phạm",
+    "b": "Tạm dừng công chứng để cơ quan có thẩm quyền xem xét",
+    "c": "Từ chối công chứng giao dịch đó",
+    "d": "Chỉ công chứng phần nội dung hợp pháp",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 5 Điều 42 Luật Công chứng 2024, nếu trong dự thảo giao dịch có điều khoản vi phạm pháp luật hoặc trái đạo đức xã hội hoặc đối tượng giao dịch không phù hợp quy định pháp luật mà người yêu cầu công chứng không sửa chữa thì công chứng viên phải từ chối công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, việc người yêu cầu công chứng đọc lại dự thảo giao dịch được thực hiện như thế nào?",
+    "a": "Công chứng viên bắt buộc phải đọc toàn bộ giao dịch",
+    "b": "Người yêu cầu công chứng tự đọc hoặc công chứng viên đọc theo đề nghị của người yêu cầu công chứng",
+    "c": "Bắt buộc phải có người làm chứng đọc thay",
+    "d": "Thư ký tổ chức hành nghề công chứng đọc thay",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 6 Điều 42 Luật Công chứng 2024, người yêu cầu công chứng tự đọc lại dự thảo giao dịch hoặc công chứng viên đọc cho người yêu cầu công chứng nghe theo đề nghị của người yêu cầu công chứng."
+  },
+  {
+  "question": "Theo Luật Công chứng 2024, thời hạn giải quyết hồ sơ công chứng được quy định như thế nào đối với trường hợp thông thường và trường hợp giao dịch phức tạp?",
+  "a": "Không quá 01 ngày làm việc đối với hồ sơ thông thường và không quá 05 ngày làm việc đối với giao dịch phức tạp",
+  "b": "Không quá 02 ngày làm việc đối với hồ sơ thông thường và không quá 10 ngày làm việc đối với giao dịch phức tạp",
+  "c": "Không quá 03 ngày làm việc đối với hồ sơ thông thường và không quá 07 ngày làm việc đối với giao dịch phức tạp",
+  "d": "Không quá 05 ngày làm việc đối với hồ sơ thông thường và không quá 15 ngày làm việc đối với giao dịch phức tạp",
+  "answer": "b",
+  "explanation": "Căn cứ khoản 2 Điều 45 Luật Công chứng 2024, thời hạn công chứng không quá 02 ngày làm việc kể từ ngày nhận đủ hồ sơ; đối với giao dịch phức tạp thì thời hạn này không quá 10 ngày làm việc."
+},
+  {
+    "question": "Theo Luật Công chứng 2024, trong thời hạn công chứng có được tính thời gian xác minh, giám định nội dung giao dịch không?",
+    "a": "Có, luôn luôn tính vào thời hạn công chứng",
+    "b": "Không, thời gian xác minh, giám định không tính vào thời hạn công chứng",
+    "c": "Chỉ tính khi có yêu cầu của người yêu cầu công chứng",
+    "d": "Chỉ tính khi công chứng viên tự yêu cầu xác minh",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 45 Luật Công chứng 2024, thời gian xác minh, giám định nội dung liên quan đến giao dịch và niêm yết việc tiếp nhận công chứng văn bản phân chia di sản không tính vào thời hạn công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, công chứng giao dịch bất động sản được thực hiện theo phạm vi thẩm quyền như thế nào?",
+    "a": "Không giới hạn phạm vi địa phương trên toàn quốc",
+    "b": "Chỉ trong phạm vi tỉnh, thành phố trực thuộc trung ương nơi tổ chức hành nghề công chứng đặt trụ sở",
+    "c": "Theo nơi có bất động sản",
+    "d": "Theo nơi cư trú của người yêu cầu công chứng",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 44 Luật Công chứng 2024, công chứng viên của tổ chức hành nghề công chứng chỉ được công chứng giao dịch về bất động sản trong phạm vi tỉnh, thành phố trực thuộc trung ương nơi tổ chức hành nghề công chứng đặt trụ sở, trừ một số trường hợp ngoại lệ được luật quy định."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, trường hợp nào công chứng viên được công chứng giao dịch ngoài trụ sở tổ chức hành nghề công chứng?",
+    "a": "Khi người yêu cầu công chứng không muốn đi lại",
+    "b": "Theo yêu cầu tùy ý của người yêu cầu công chứng",
+    "c": "Chỉ trong các trường hợp như lập di chúc tại chỗ ở, không thể đi lại do sức khỏe, đang bị tạm giam, tạm giữ, hoặc có lý do chính đáng khác theo quy định của Chính phủ",
+    "d": "Khi giao dịch có giá trị lớn",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 46 Luật Công chứng 2024, việc công chứng ngoài trụ sở chỉ được thực hiện trong các trường hợp đặc biệt như lập di chúc tại chỗ ở theo Bộ luật Dân sự, người không thể đi lại do sức khỏe hoặc đang điều trị, bị tạm giữ, tạm giam, thi hành án, hoặc có lý do chính đáng khác theo quy định của Chính phủ."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, chữ viết trong văn bản công chứng phải đáp ứng yêu cầu nào?",
+    "a": "Được phép viết tắt nếu dễ hiểu",
+    "b": "Được phép viết đè dòng nếu cần chỉnh sửa",
+    "c": "Phải rõ ràng, không viết tắt, không viết ký hiệu, không viết xen dòng, không tẩy xóa, không để trống nội dung",
+    "d": "Được phép dùng ký hiệu riêng nếu các bên thống nhất",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 47 Luật Công chứng 2024, chữ viết trong văn bản công chứng phải rõ ràng, không viết tắt, không viết bằng ký hiệu, không viết xen dòng, không viết đè dòng, không tẩy xóa và không để trống, trừ trường hợp pháp luật có quy định khác."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, lời chứng của công chứng viên bắt buộc phải có nội dung nào sau đây?",
+    "a": "Chỉ xác nhận chữ ký của các bên",
+    "b": "Thời điểm, địa điểm công chứng; thông tin công chứng viên; xác nhận tính tự nguyện và hợp pháp của giao dịch; chữ ký hoặc điểm chỉ hợp lệ",
+    "c": "Chỉ cần xác nhận tài sản giao dịch hợp pháp",
+    "d": "Chỉ cần xác nhận hợp đồng đã được đọc",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 48 Luật Công chứng 2024, lời chứng phải bao gồm: thời điểm, địa điểm công chứng; họ tên công chứng viên và tổ chức hành nghề công chứng; xác nhận người tham gia giao dịch tự nguyện, có năng lực hành vi dân sự, giao dịch hợp pháp; xác nhận chữ ký hoặc điểm chỉ; và các nội dung liên quan khác theo quy định."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, sau khi công chứng hoàn tất, tổ chức hành nghề công chứng phải thực hiện việc nào sau đây?",
+    "a": "Chỉ trả lại hồ sơ cho người yêu cầu công chứng",
+    "b": "Ghi số văn bản công chứng, đóng dấu, giao bản gốc, vào sổ công chứng và lưu trữ hồ sơ công chứng",
+    "c": "Chỉ lưu trữ hồ sơ mà không cần giao bản gốc",
+    "d": "Chỉ cần công chứng viên ký xác nhận",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 8 Điều 42 Luật Công chứng 2024, tổ chức hành nghề công chứng phải ghi số văn bản công chứng, đóng dấu, giao bản gốc cho người yêu cầu công chứng, vào sổ công chứng và lưu trữ hồ sơ công chứng theo quy định."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, nguyên tắc chung về địa điểm công chứng là gì?",
+    "a": "Công chứng được thực hiện tại nơi người yêu cầu công chứng lựa chọn bất kỳ",
+    "b": "Công chứng phải được thực hiện tại trụ sở tổ chức hành nghề công chứng, trừ trường hợp luật định",
+    "c": "Công chứng chỉ được thực hiện tại cơ quan nhà nước có thẩm quyền",
+    "d": "Công chứng có thể thực hiện tại nhà người yêu cầu công chứng trong mọi trường hợp",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 46 Luật Công chứng 2024, việc công chứng phải được thực hiện tại trụ sở của tổ chức hành nghề công chứng, trừ các trường hợp quy định tại khoản 2 Điều 46."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, trường hợp nào sau đây được công chứng ngoài trụ sở tổ chức hành nghề công chứng?",
+    "a": "Người yêu cầu công chứng bận công việc không đến được",
+    "b": "Theo yêu cầu của người yêu cầu công chứng",
+    "c": "Lập di chúc tại chỗ ở, người không thể đi lại do sức khỏe, đang bị tạm giữ, tạm giam hoặc có lý do chính đáng khác theo quy định của Chính phủ",
+    "d": "Tất cả các trường hợp giao dịch có giá trị lớn",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 46 Luật Công chứng 2024, công chứng ngoài trụ sở chỉ được thực hiện trong các trường hợp đặc biệt như lập di chúc tại chỗ ở, không thể đi lại do sức khỏe, đang điều trị nội trú, bị tạm giữ, tạm giam, thi hành án hoặc có lý do chính đáng khác theo quy định của Chính phủ."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, chữ viết trong văn bản công chứng phải đáp ứng yêu cầu nào sau đây?",
+    "a": "Có thể viết tắt nếu các bên hiểu",
+    "b": "Có thể viết xen dòng nếu cần chỉnh sửa",
+    "c": "Phải rõ ràng, không viết tắt, không ký hiệu, không viết xen dòng, không tẩy xóa, không để trống nội dung",
+    "d": "Được phép dùng ký hiệu thống nhất trong hợp đồng",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 47 Luật Công chứng 2024, chữ viết trong văn bản công chứng phải rõ ràng, không viết tắt, không viết ký hiệu, không viết xen dòng, không viết đè dòng, không tẩy xóa và không để trống, trừ trường hợp pháp luật có quy định khác."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, thời điểm công chứng phải được ghi như thế nào?",
+    "a": "Chỉ ghi năm công chứng",
+    "b": "Chỉ ghi ngày, tháng",
+    "c": "Phải ghi cụ thể ngày, tháng, năm; có thể ghi giờ, phút nếu cần thiết",
+    "d": "Chỉ ghi ngày ký hợp đồng",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 47 Luật Công chứng 2024, thời điểm công chứng phải ghi cụ thể ngày, tháng, năm; có thể ghi thêm giờ, phút nếu người yêu cầu công chứng đề nghị hoặc công chứng viên thấy cần thiết."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, lời chứng của công chứng viên phải có nội dung nào sau đây?",
+    "a": "Chỉ xác nhận chữ ký của các bên",
+    "b": "Chỉ xác nhận nội dung hợp đồng đã được các bên thống nhất",
+    "c": "Thời điểm, địa điểm công chứng; thông tin công chứng viên; xác nhận tự nguyện, năng lực hành vi dân sự, tính hợp pháp của giao dịch và chữ ký hoặc điểm chỉ",
+    "d": "Chỉ xác nhận tài sản giao dịch hợp pháp",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 48 Luật Công chứng 2024, lời chứng phải ghi rõ thời điểm, địa điểm công chứng; họ tên công chứng viên, tổ chức hành nghề công chứng; xác nhận người tham gia giao dịch tự nguyện, có năng lực hành vi dân sự, mục đích nội dung giao dịch hợp pháp; xác nhận chữ ký hoặc điểm chỉ và các nội dung liên quan khác."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, công chứng viên không được đưa nội dung nào vào lời chứng?",
+    "a": "Nội dung xác nhận tính hợp pháp của giao dịch",
+    "b": "Nội dung xác nhận chữ ký của các bên",
+    "c": "Nội dung nhằm trốn tránh, loại trừ trách nhiệm của công chứng viên hoặc trái pháp luật, đạo đức xã hội",
+    "d": "Nội dung xác nhận thời điểm công chứng",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 48 Luật Công chứng 2024, công chứng viên không được đưa vào lời chứng những nội dung nhằm trốn tránh, loại trừ trách nhiệm hoặc có nội dung vi phạm pháp luật, trái đạo đức xã hội."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, người yêu cầu công chứng là cá nhân phải đáp ứng điều kiện nào?",
+    "a": "Có đủ 18 tuổi trở lên",
+    "b": "Có năng lực hành vi dân sự phù hợp với giao dịch thực hiện",
+    "c": "Phải có hộ khẩu thường trú tại địa phương",
+    "d": "Phải có tài sản trong giao dịch",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 49 Luật Công chứng 2024, người yêu cầu công chứng là cá nhân phải có năng lực hành vi dân sự phù hợp với giao dịch mà mình thực hiện."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, trường hợp nào bắt buộc phải có người làm chứng?",
+    "a": "Khi công chứng hợp đồng mua bán đất",
+    "b": "Khi người yêu cầu công chứng không đọc được, không nghe được, không ký được hoặc không điểm chỉ được",
+    "c": "Khi giá trị giao dịch lớn",
+    "d": "Khi công chứng tại nhà",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 49 Luật Công chứng 2024, phải có người làm chứng khi người yêu cầu công chứng không đọc được, không nghe được, không ký được hoặc không điểm chỉ được hoặc trong trường hợp pháp luật quy định khác."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, người phiên dịch trong hoạt động công chứng phải đáp ứng điều kiện nào?",
+    "a": "Do công chứng viên chỉ định bắt buộc",
+    "b": "Phải là người thân thích của người yêu cầu công chứng",
+    "c": "Có năng lực hành vi dân sự đầy đủ, thông thạo tiếng Việt và ngôn ngữ cần phiên dịch và không có quyền lợi liên quan",
+    "d": "Chỉ cần biết tiếng Việt cơ bản",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 49 Luật Công chứng 2024, người phiên dịch phải có năng lực hành vi dân sự đầy đủ, thông thạo tiếng Việt và ngôn ngữ của người yêu cầu công chứng, và không có quyền, lợi ích hoặc nghĩa vụ liên quan đến việc công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, việc ký văn bản công chứng phải được thực hiện như thế nào?",
+    "a": "Có thể ký trước khi đến công chứng viên",
+    "b": "Phải ký trước sự chứng kiến trực tiếp của công chứng viên, trừ trường hợp luật định",
+    "c": "Có thể ký tại nhà trước khi đến công chứng",
+    "d": "Chỉ cần điểm chỉ là đủ",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 50 Luật Công chứng 2024, người yêu cầu công chứng, người làm chứng, người phiên dịch phải ký vào từng trang của giao dịch trước sự chứng kiến trực tiếp của công chứng viên, trừ trường hợp đăng ký chữ ký mẫu hoặc trường hợp không ký được."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, trường hợp nào được phép ký trước vào văn bản công chứng?",
+    "a": "Mọi cá nhân tham gia giao dịch",
+    "b": "Người có thẩm quyền của tổ chức tín dụng, doanh nghiệp đã đăng ký chữ ký mẫu tại tổ chức hành nghề công chứng",
+    "c": "Người yêu cầu công chứng bất kỳ",
+    "d": "Người làm chứng trong giao dịch",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 50 Luật Công chứng 2024, người có thẩm quyền giao kết giao dịch của tổ chức tín dụng, doanh nghiệp, hợp tác xã đã đăng ký chữ ký mẫu có thể ký trước, công chứng viên sẽ đối chiếu chữ ký mẫu trước khi công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, việc điểm chỉ được thực hiện như thế nào?",
+    "a": "Tự do sử dụng bất kỳ ngón tay nào",
+    "b": "Ưu tiên ngón trỏ phải, nếu không được thì ngón trỏ trái, nếu không thì ngón khác và phải ghi rõ trong lời chứng",
+    "c": "Chỉ dùng ngón cái",
+    "d": "Không được điểm chỉ trong mọi trường hợp",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 3 Điều 50 Luật Công chứng 2024, việc điểm chỉ ưu tiên ngón trỏ phải; nếu không được thì ngón trỏ trái; nếu không nữa thì dùng ngón khác và công chứng viên phải ghi rõ trong lời chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, văn bản công chứng có từ 02 trang trở lên phải được xử lý như thế nào?",
+    "a": "Không cần đánh số trang",
+    "b": "Chỉ đánh số trang cuối",
+    "c": "Phải đánh số trang liên tục từ trang 1 đến trang cuối của lời chứng",
+    "d": "Chỉ cần ký tắt mỗi trang",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 51 Luật Công chứng 2024, văn bản công chứng có từ 02 trang trở lên phải được đánh số trang liên tục từ trang đầu đến trang cuối của lời chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, văn bản công chứng có từ 02 tờ trở lên phải thực hiện thủ tục nào?",
+    "a": "Không cần đóng dấu",
+    "b": "Phải đóng dấu giáp lai giữa các tờ",
+    "c": "Chỉ cần ký của công chứng viên",
+    "d": "Chỉ cần đánh số trang",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 51 Luật Công chứng 2024, văn bản công chứng có từ 02 tờ trở lên phải được đóng dấu giáp lai giữa các tờ để đảm bảo tính toàn vẹn."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, việc sửa lỗi kỹ thuật trong văn bản công chứng được hiểu là gì?",
+    "a": "Sửa lại nội dung giao dịch theo ý chí mới của các bên",
+    "b": "Sửa lỗi làm thay đổi quyền và nghĩa vụ của các bên",
+    "c": "Lỗi do sai sót khi ghi chép, đánh máy, in ấn nhưng không làm thay đổi quyền và nghĩa vụ của người tham gia giao dịch",
+    "d": "Sửa toàn bộ hợp đồng đã công chứng",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 52 Luật Công chứng 2024, lỗi kỹ thuật là lỗi do sai sót trong ghi chép, đánh máy, in ấn văn bản công chứng nhưng việc sửa lỗi không làm ảnh hưởng đến quyền và nghĩa vụ của người tham gia giao dịch."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, việc sửa lỗi kỹ thuật trong văn bản công chứng được thực hiện ở đâu?",
+    "a": "Bất kỳ tổ chức hành nghề công chứng nào",
+    "b": "Tại cơ quan công an nơi phát hiện lỗi",
+    "c": "Tại tổ chức hành nghề công chứng nơi đã công chứng hoặc nơi đang lưu trữ hồ sơ theo quy định",
+    "d": "Tại Tòa án nhân dân",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 52 Luật Công chứng 2024, việc sửa lỗi kỹ thuật được thực hiện tại tổ chức hành nghề công chứng đã thực hiện công chứng hoặc tổ chức đang lưu trữ hồ sơ trong trường hợp tổ chức cũ chấm dứt hoạt động, chuyển đổi hoặc giải thể."
+  },
+    {
     "question": "Theo Luật Công chứng, hình thức hành nghề nào sau đây KHÔNG thuộc hình thức hành nghề của công chứng viên?",
     "a": "Công chứng viên là viên chức tại Phòng công chứng theo quyết định tuyển dụng",
     "b": "Công chứng viên là thành viên hợp danh tại Văn phòng công chứng theo hồ sơ đăng ký",
