@@ -1,5 +1,113 @@
 [
     {
+    "question": "Theo Luật Công chứng, hình thức hành nghề nào sau đây KHÔNG thuộc hình thức hành nghề của công chứng viên?",
+    "a": "Công chứng viên là viên chức tại Phòng công chứng theo quyết định tuyển dụng",
+    "b": "Công chứng viên là thành viên hợp danh tại Văn phòng công chứng theo hồ sơ đăng ký",
+    "c": "Công chứng viên đảm nhiệm vị trí Thẩm phán hoặc Thư ký tại cơ quan xét xử",
+    "d": "Công chứng viên làm việc theo hợp đồng lao động tại các tổ chức hành nghề công chứng",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 37, công chứng viên chỉ hành nghề theo 3 hình thức: viên chức Phòng công chứng; thành viên hợp danh/Trưởng Văn phòng công chứng; hoặc hợp đồng lao động tại tổ chức hành nghề công chứng. Không có hình thức làm việc tại cơ quan xét xử."
+  },
+  {
+    "question": "Theo Luật Công chứng, thẻ công chứng viên được cấp trong trường hợp nào sau đây?",
+    "a": "Ngay sau khi công chứng viên hoàn thành thời gian tập sự và được cấp giấy chứng nhận",
+    "b": "Khi công chứng viên chính thức được Bộ trưởng Bộ Tư pháp ký quyết định bổ nhiệm",
+    "c": "Khi thành lập Phòng công chứng, khi bổ sung công chứng viên cho Phòng công chứng hoặc Văn phòng công chứng được cấp giấy đăng ký hoạt động",
+    "d": "Khi công chứng viên thực hiện thủ tục đăng ký hành nghề tự do tại Sở Tư pháp",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 38, thẻ công chứng viên được Sở Tư pháp cấp khi thành lập Phòng công chứng, khi Phòng công chứng bổ sung công chứng viên hoặc khi Văn phòng công chứng được cấp giấy đăng ký hoạt động hoặc bổ sung công chứng viên."
+  },
+  {
+    "question": "Theo Luật Công chứng, trường hợp nào sau đây dẫn đến thu hồi thẻ công chứng viên?",
+    "a": "Công chứng viên tạm thời nghỉ hành nghề do thay đổi tổ chức hành nghề hoặc lý do cá nhân",
+    "b": "Công chứng viên thực hiện thủ tục thay đổi nơi cư trú sang địa bàn tỉnh khác",
+    "c": "Khi công chứng viên bị miễn nhiệm hoặc không còn hành nghề tại tổ chức hành nghề công chứng",
+    "d": "Công chứng viên tạm dừng hoạt động để tham gia các khóa đào tạo nghiệp vụ chuyên sâu",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 4 Điều 38, thẻ công chứng viên bị thu hồi khi miễn nhiệm công chứng viên hoặc không còn hành nghề tại tổ chức hành nghề công chứng, hoặc tổ chức bị giải thể, chấm dứt hoạt động, thay đổi tên."
+  },
+  {
+    "question": "Theo Luật Công chứng, bảo hiểm trách nhiệm nghề nghiệp của công chứng viên có tính chất pháp lý nào sau đây?",
+    "a": "Là hình thức bảo hiểm tự nguyện dựa trên thỏa thuận dân sự giữa tổ chức và đơn vị bảo hiểm",
+    "b": "Là hình thức bảo hiểm thương mại phụ thuộc vào nhu cầu quản trị rủi ro của từng văn phòng",
+    "c": "Là hình thức bảo hiểm bắt buộc theo quy định của pháp luật công chứng",
+    "d": "Là một phần trong chính sách bảo hiểm xã hội bắt buộc đối với người lao động",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 39, bảo hiểm trách nhiệm nghề nghiệp của công chứng viên là loại hình bảo hiểm bắt buộc."
+  },
+  {
+    "question": "Theo Luật Công chứng, tổ chức hành nghề công chứng có nghĩa vụ bảo hiểm trách nhiệm nghề nghiệp trong thời gian nào?",
+    "a": "Chỉ duy trì khi có yêu cầu bằng văn bản từ phía công chứng viên hoặc các bên liên quan",
+    "b": "Trong suốt thời gian hoạt động của tổ chức hành nghề công chứng đó",
+    "c": "Chỉ duy trì trong thời gian công chứng viên đang tập sự hành nghề tại tổ chức",
+    "d": "Chỉ duy trì trong thời điểm xảy ra tranh chấp hoặc khiếu nại về văn bản công chứng",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 39, tổ chức hành nghề công chứng phải duy trì việc mua bảo hiểm trong suốt thời gian hoạt động của tổ chức."
+  },
+  {
+    "question": "Theo Luật Công chứng, trách nhiệm bồi thường thiệt hại trong hoạt động công chứng thuộc về ai trước tiên?",
+    "a": "Công chứng viên trực tiếp ký vào văn bản công chứng gây ra thiệt hại",
+    "b": "Người yêu cầu công chứng vì đã cung cấp các hồ sơ không chính xác",
+    "c": "Tổ chức hành nghề công chứng nơi công chứng viên thực hiện hành vi công chứng",
+    "d": "Sở Tư pháp nơi quản lý hoạt động công chứng tại địa phương đó",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 40, tổ chức hành nghề công chứng phải bồi thường thiệt hại do lỗi của công chứng viên hoặc nhân viên gây ra trong quá trình công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng, trong trường hợp tổ chức hành nghề công chứng đã giải thể, người phải bồi thường thiệt hại là ai?",
+    "a": "Sở Tư pháp nơi từng cấp giấy phép hoạt động cho tổ chức đó",
+    "b": "Nhà nước thực hiện nghĩa vụ bồi thường thông qua ngân sách",
+    "c": "Công chứng viên hoặc nhân viên trực tiếp gây ra thiệt hại",
+    "d": "Hiệp hội công chứng viên nơi công chứng viên đang là hội viên",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 40, khi tổ chức hành nghề công chứng đã giải thể hoặc chấm dứt hoạt động thì công chứng viên hoặc nhân viên trực tiếp gây thiệt hại phải tự bồi thường."
+  },
+  {
+    "question": "Theo Luật Công chứng, tổ chức xã hội - nghề nghiệp của công chứng viên nào sau đây là đúng?",
+    "a": "Cơ quan hành chính thuộc Bộ Tư pháp có thẩm quyền quản lý nhà nước",
+    "b": "Các đơn vị sự nghiệp công lập thực hiện chức năng thanh tra công chứng",
+    "c": "Hiệp hội công chứng viên Việt Nam và Hội công chứng viên cấp tỉnh, thành phố",
+    "d": "Các cơ quan thanh tra và giám sát hoạt động tư pháp tại địa phương",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 41, tổ chức xã hội - nghề nghiệp gồm Hiệp hội công chứng viên Việt Nam và Hội công chứng viên các tỉnh, thành phố trực thuộc trung ương."
+  },
+  {
+    "question": "Theo Luật Công chứng, Quy tắc đạo đức hành nghề công chứng do ai ban hành?",
+    "a": "Bộ trưởng Bộ Tư pháp ban hành theo quy định của Luật",
+    "b": "Chính phủ ban hành kèm theo Nghị định hướng dẫn thi hành Luật",
+    "c": "Hiệp hội công chứng viên Việt Nam ban hành áp dụng thống nhất",
+    "d": "Sở Tư pháp địa phương ban hành để phù hợp với tình hình thực tế địa phương",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 41, Hiệp hội công chứng viên Việt Nam ban hành Quy tắc đạo đức hành nghề công chứng áp dụng toàn quốc."
+  },
+  {
+    "question": "Theo Luật Công chứng, cơ quan nào có quyền phê duyệt Điều lệ Hiệp hội công chứng viên Việt Nam?",
+    "a": "Chính phủ phê duyệt thông qua các quyết định hành chính",
+    "b": "Bộ Tư pháp phê duyệt sau khi đã thống nhất với Bộ Nội vụ",
+    "c": "Ủy ban nhân dân cấp tỉnh phê duyệt theo thẩm quyền phân cấp",
+    "d": "Tòa án nhân dân tối cao phê duyệt theo quy định về hội nghề nghiệp",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 4 Điều 41, Bộ Tư pháp phê duyệt Điều lệ Hiệp hội công chứng viên Việt Nam sau khi thống nhất với Bộ Nội vụ."
+  },
+{
+        "question": "Theo Luật Công chứng, tổ chức xã hội - nghề nghiệp của công chứng viên KHÔNG có nhiệm vụ nào sau đây?",
+        "a": "Đại diện bảo vệ quyền lợi công chứng viên",
+        "b": "Giám sát tuân thủ đạo đức nghề nghiệp",
+        "c": "Thanh tra và xử phạt vi phạm hành chính công chứng viên",
+        "d": "Tham gia đào tạo, bồi dưỡng nghiệp vụ",
+        "answer": "c",
+        "explanation": "Căn cứ khoản 3 Điều 41, tổ chức nghề nghiệp chỉ giám sát, không có thẩm quyền thanh tra hay xử phạt hành chính."
+      },
+      {
+        "question": "Theo Luật Công chứng, trường hợp nào sau đây là ngoại lệ trong việc chấm dứt trách nhiệm sau khi rời tổ chức?",
+        "a": "Công chứng viên tự nghỉ việc",
+        "b": "Công chứng viên bị miễn nhiệm",
+        "c": "Công chứng viên vẫn phải liên đới trách nhiệm trong 02 năm đối với nghĩa vụ phát sinh",
+        "d": "Công chứng viên chuyển nơi làm việc",
+        "answer": "c",
+        "explanation": "Căn cứ khoản 6 Điều 27 và khoản 5 Điều 31, công chứng viên vẫn phải liên đới chịu trách nhiệm trong 02 năm đối với nghĩa vụ phát sinh trong thời gian còn là thành viên."
+      },
+    {
     "question": "Theo Luật Công chứng 2024, tổ chức hành nghề công chứng bao gồm những loại hình nào sau đây?",
     "a": "Phòng công chứng và Văn phòng công chứng",
     "b": "Văn phòng luật sư và Trung tâm chứng thực",
