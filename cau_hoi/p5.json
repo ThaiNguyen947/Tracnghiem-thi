@@ -1,5 +1,545 @@
 [
     {
+    "question": "Theo Luật Phá sản 2014, doanh nghiệp, hợp tác xã bị coi là mất khả năng thanh toán trong trường hợp nào?",
+    "a": "không thanh toán khoản nợ trong thời hạn 01 tháng kể từ ngày đến hạn",
+    "b": "không thực hiện nghĩa vụ thanh toán khoản nợ trong thời hạn 03 tháng kể từ ngày đến hạn thanh toán",
+    "c": "kinh doanh thua lỗ liên tục trong 02 năm",
+    "d": "không còn tài sản để hoạt động",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 4 Luật Phá sản 2014 quy định doanh nghiệp, hợp tác xã mất khả năng thanh toán là doanh nghiệp, hợp tác xã không thực hiện nghĩa vụ thanh toán khoản nợ trong thời hạn 03 tháng kể từ ngày đến hạn thanh toán."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, phá sản là tình trạng nào sau đây?",
+    "a": "doanh nghiệp bị giải thể bắt buộc",
+    "b": "doanh nghiệp ngừng hoạt động kinh doanh",
+    "c": "doanh nghiệp, hợp tác xã mất khả năng thanh toán và bị tòa án nhân dân ra quyết định tuyên bố phá sản",
+    "d": "doanh nghiệp bị thu hồi giấy chứng nhận đăng ký doanh nghiệp",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 4 Luật Phá sản 2014 quy định phá sản là tình trạng của doanh nghiệp, hợp tác xã mất khả năng thanh toán và bị Tòa án nhân dân ra quyết định tuyên bố phá sản."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, chủ nợ không có bảo đảm là chủ nợ có khoản nợ như thế nào?",
+    "a": "được bảo đảm bằng toàn bộ tài sản của doanh nghiệp",
+    "b": "được nhà nước bảo lãnh thanh toán",
+    "c": "không được bảo đảm bằng tài sản của doanh nghiệp, hợp tác xã hoặc của người thứ ba",
+    "d": "được bảo đảm bằng tài sản của người lao động",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 4 Luật Phá sản 2014 quy định chủ nợ không có bảo đảm là cá nhân, cơ quan, tổ chức có quyền yêu cầu thanh toán khoản nợ không được bảo đảm bằng tài sản của doanh nghiệp, hợp tác xã hoặc của người thứ ba."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, chủ nợ có bảo đảm một phần là trường hợp nào?",
+    "a": "khoản nợ được bảo đảm toàn bộ bằng tài sản",
+    "b": "khoản nợ không được bảo đảm bằng tài sản",
+    "c": "giá trị tài sản bảo đảm thấp hơn khoản nợ",
+    "d": "khoản nợ được bảo đảm bằng uy tín doanh nghiệp",
+    "answer": "c",
+    "explanation": "Khoản 6 Điều 4 Luật Phá sản 2014 quy định chủ nợ có bảo đảm một phần là chủ nợ có khoản nợ được bảo đảm bằng tài sản nhưng giá trị tài sản bảo đảm thấp hơn khoản nợ đó."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, quản tài viên là cá nhân thực hiện hoạt động nào?",
+    "a": "kiểm toán doanh nghiệp phá sản",
+    "b": "hòa giải tranh chấp thương mại",
+    "c": "quản lý, thanh lý tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán",
+    "d": "đại diện viện kiểm sát tham gia tố tụng",
+    "answer": "c",
+    "explanation": "Khoản 7 Điều 4 Luật Phá sản 2014 quy định quản tài viên là cá nhân hành nghề quản lý, thanh lý tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán trong quá trình giải quyết phá sản."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, ai sau đây là người tiến hành thủ tục phá sản?",
+    "a": "công chứng viên",
+    "b": "đấu giá viên",
+    "c": "quản tài viên",
+    "d": "trọng tài viên thương mại",
+    "answer": "c",
+    "explanation": "Khoản 9 Điều 4 Luật Phá sản 2014 quy định người tiến hành thủ tục phá sản bao gồm Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản cùng các chủ thể khác theo luật định."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, người lao động của doanh nghiệp mất khả năng thanh toán được xác định là gì trong thủ tục phá sản?",
+    "a": "người có quyền lợi liên quan ngoài tố tụng",
+    "b": "người tham gia thủ tục phá sản",
+    "c": "người tiến hành thủ tục phá sản",
+    "d": "người quản lý tài sản",
+    "answer": "b",
+    "explanation": "Khoản 10 Điều 4 Luật Phá sản 2014 quy định người lao động là một trong các chủ thể tham gia thủ tục phá sản."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, lệ phí phá sản là khoản tiền dùng để làm gì?",
+    "a": "chi trả cho quản tài viên",
+    "b": "bồi thường thiệt hại cho chủ nợ",
+    "c": "để tòa án nhân dân thụ lý đơn yêu cầu mở thủ tục phá sản",
+    "d": "thanh toán nợ thuế",
+    "answer": "c",
+    "explanation": "Khoản 11 Điều 4 Luật Phá sản 2014 quy định lệ phí phá sản là khoản tiền mà người yêu cầu mở thủ tục phá sản phải nộp để Tòa án nhân dân thụ lý đơn yêu cầu mở thủ tục phá sản."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, chi phí phá sản bao gồm khoản nào sau đây?",
+    "a": "chi phí kiểm toán",
+    "b": "tiền lương của toàn bộ người lao động",
+    "c": "chi phí quảng cáo doanh nghiệp",
+    "d": "chi phí đầu tư kinh doanh mới",
+    "answer": "a",
+    "explanation": "Khoản 12 Điều 4 Luật Phá sản 2014 quy định chi phí phá sản bao gồm chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản, chi phí kiểm toán, chi phí đăng báo và các chi phí khác theo quy định pháp luật."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, tạm ứng chi phí phá sản do cơ quan nào quyết định?",
+    "a": "viện kiểm sát nhân dân",
+    "b": "cơ quan thuế",
+    "c": "tòa án nhân dân",
+    "d": "ủy ban nhân dân cấp tỉnh",
+    "answer": "c",
+    "explanation": "Khoản 14 Điều 4 Luật Phá sản 2014 quy định tạm ứng chi phí phá sản là khoản tiền do Tòa án nhân dân quyết định."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, quản tài viên có quyền nào sau đây?",
+    "a": "tự ý chuyển giao tài sản doanh nghiệp",
+    "b": "đề xuất với thẩm phán về việc bán tài sản để bảo đảm chi phí phá sản",
+    "c": "tuyên bố doanh nghiệp phá sản",
+    "d": "xóa nợ cho doanh nghiệp",
+    "answer": "b",
+    "explanation": "Điểm e khoản 1 Điều 16 Luật Phá sản 2014 quy định Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản có quyền đề xuất với Thẩm phán về việc bán tài sản của doanh nghiệp, hợp tác xã để bảo đảm chi phí phá sản."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, quản tài viên có quyền thuê cá nhân, tổ chức thực hiện công việc hay không?",
+    "a": "không, vì phải tự mình thực hiện toàn bộ công việc",
+    "b": "chỉ được thuê cơ quan nhà nước",
+    "c": "được thuê cá nhân, tổ chức thực hiện công việc theo quy định pháp luật",
+    "d": "chỉ được thuê luật sư",
+    "answer": "c",
+    "explanation": "Điểm đ khoản 1 Điều 16 Luật Phá sản 2014 quy định Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản được thuê cá nhân, tổ chức thực hiện công việc theo quy định của pháp luật."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, quản tài viên có trách nhiệm gửi các khoản tiền thu được vào đâu?",
+    "a": "tài khoản cá nhân của quản tài viên",
+    "b": "tài khoản của chủ nợ lớn nhất",
+    "c": "tài khoản do tòa án nhân dân hoặc cơ quan thi hành án dân sự có thẩm quyền mở tại ngân hàng",
+    "d": "quỹ dự phòng của doanh nghiệp",
+    "answer": "c",
+    "explanation": "Điểm i khoản 1 Điều 16 Luật Phá sản 2014 quy định Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản phải gửi các khoản tiền thu được vào tài khoản do Tòa án nhân dân, cơ quan thi hành án dân sự có thẩm quyền mở tại ngân hàng."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, quản tài viên được đại diện cho doanh nghiệp, hợp tác xã trong trường hợp nào?",
+    "a": "khi doanh nghiệp không có kế toán trưởng",
+    "b": "khi doanh nghiệp không có người đại diện theo pháp luật",
+    "c": "khi doanh nghiệp có tranh chấp lao động",
+    "d": "khi doanh nghiệp thay đổi địa chỉ",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 16 Luật Phá sản 2014 quy định Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản đại diện cho doanh nghiệp, hợp tác xã trong trường hợp doanh nghiệp, hợp tác xã không có người đại diện theo pháp luật."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, quản tài viên có quyền đề nghị thẩm phán tuyên bố nội dung nào sau đây?",
+    "a": "hợp đồng lao động vô hiệu",
+    "b": "giao dịch vô hiệu và quyết định thu hồi tài sản bị bán hoặc chuyển giao bất hợp pháp",
+    "c": "miễn thuế cho doanh nghiệp",
+    "d": "thay đổi đăng ký kinh doanh",
+    "answer": "b",
+    "explanation": "Điểm b khoản 4 Điều 16 Luật Phá sản 2014 quy định Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản có quyền đề nghị Thẩm phán tuyên bố giao dịch vô hiệu và quyết định thu hồi tài sản của doanh nghiệp, hợp tác xã bị bán hoặc chuyển giao bất hợp pháp."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, quản tài viên có nghĩa vụ nào sau đây?",
+    "a": "chịu trách nhiệm trước thẩm phán, cơ quan thi hành án dân sự và pháp luật về việc thực hiện nhiệm vụ, quyền hạn của mình",
+    "b": "chịu trách nhiệm trước chủ nợ lớn nhất",
+    "c": "chịu trách nhiệm trước cơ quan thuế",
+    "d": "chịu trách nhiệm trước hội đồng quản trị doanh nghiệp",
+    "answer": "a",
+    "explanation": "Khoản 6 Điều 16 Luật Phá sản 2014 quy định Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản chịu trách nhiệm trước Thẩm phán, cơ quan thi hành án dân sự và pháp luật về việc thực hiện nhiệm vụ, quyền hạn của mình."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, sau khi có quyết định mở thủ tục phá sản, doanh nghiệp, hợp tác xã được hoạt động như thế nào?",
+    "a": "phải chấm dứt toàn bộ hoạt động kinh doanh",
+    "b": "được tiếp tục hoạt động kinh doanh nhưng chịu sự giám sát của thẩm phán và quản tài viên",
+    "c": "chỉ được hoạt động khi có sự đồng ý của chủ nợ",
+    "d": "bị đình chỉ toàn bộ giao dịch dân sự",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 47 Luật Phá sản 2014 quy định sau khi có quyết định mở thủ tục phá sản, doanh nghiệp, hợp tác xã vẫn tiếp tục hoạt động kinh doanh nhưng phải chịu sự giám sát của Thẩm phán và Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, trong trường hợp nào thẩm phán có thể ra quyết định thay đổi người đại diện theo pháp luật của doanh nghiệp, hợp tác xã?",
+    "a": "khi doanh nghiệp thay đổi ngành nghề kinh doanh",
+    "b": "khi người đại diện theo pháp luật không có khả năng điều hành hoặc doanh nghiệp có dấu hiệu vi phạm hoạt động bị cấm",
+    "c": "khi chủ nợ yêu cầu bằng văn bản",
+    "d": "khi doanh nghiệp có lỗ lũy kế",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 47 Luật Phá sản 2014 quy định Thẩm phán ra quyết định thay đổi người đại diện theo pháp luật nếu người đó không có khả năng điều hành hoặc doanh nghiệp, hợp tác xã có dấu hiệu vi phạm khoản 1 Điều 48 của Luật này."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, sau khi có quyết định mở thủ tục phá sản, doanh nghiệp, hợp tác xã bị cấm thực hiện hành vi nào sau đây?",
+    "a": "trả lương cho người lao động",
+    "b": "thanh toán khoản nợ không có bảo đảm phát sinh sau khi mở thủ tục phá sản",
+    "c": "từ bỏ quyền đòi nợ",
+    "d": "duy trì hoạt động kinh doanh thông thường",
+    "answer": "c",
+    "explanation": "Điểm c khoản 1 Điều 48 Luật Phá sản 2014 quy định sau khi có quyết định mở thủ tục phá sản, doanh nghiệp, hợp tác xã bị cấm từ bỏ quyền đòi nợ."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, hành vi nào sau đây bị cấm sau khi có quyết định mở thủ tục phá sản?",
+    "a": "cất giấu, tẩu tán, tặng cho tài sản",
+    "b": "trả lương cho người lao động",
+    "c": "thanh toán khoản nợ phát sinh sau khi mở thủ tục phá sản",
+    "d": "thực hiện kế hoạch phục hồi kinh doanh",
+    "answer": "a",
+    "explanation": "Điểm a khoản 1 Điều 48 Luật Phá sản 2014 quy định cấm doanh nghiệp, hợp tác xã thực hiện hành vi cất giấu, tẩu tán, tặng cho tài sản sau khi có quyết định mở thủ tục phá sản."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, doanh nghiệp, hợp tác xã có được chuyển khoản nợ không có bảo đảm thành nợ có bảo đảm sau khi mở thủ tục phá sản hay không?",
+    "a": "được phép nếu có sự đồng ý của chủ nợ",
+    "b": "được phép nếu có xác nhận của kiểm sát viên",
+    "c": "không được phép",
+    "d": "chỉ được phép đối với khoản nợ thuế",
+    "answer": "c",
+    "explanation": "Điểm d khoản 1 Điều 48 Luật Phá sản 2014 quy định cấm chuyển khoản nợ không có bảo đảm thành nợ có bảo đảm hoặc có bảo đảm một phần bằng tài sản của doanh nghiệp, hợp tác xã."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, giao dịch thuộc trường hợp bị cấm tại khoản 1 Điều 48 được xử lý như thế nào?",
+    "a": "được công nhận nếu đã thực hiện xong",
+    "b": "bị coi là vô hiệu",
+    "c": "chỉ bị xử phạt hành chính",
+    "d": "vẫn có hiệu lực với bên thứ ba ngay tình",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 48 Luật Phá sản 2014 quy định giao dịch quy định tại khoản 1 Điều này là vô hiệu và xử lý theo quy định tại Điều 60 của Luật này."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, trong trường hợp tài sản bảo đảm được sử dụng để thực hiện thủ tục phục hồi kinh doanh thì việc xử lý tài sản bảo đảm được thực hiện theo căn cứ nào?",
+    "a": "quyết định của cơ quan thi hành án dân sự",
+    "b": "quyết định của viện kiểm sát",
+    "c": "nghị quyết của hội nghị chủ nợ",
+    "d": "thỏa thuận riêng giữa doanh nghiệp và chủ nợ",
+    "answer": "c",
+    "explanation": "Điểm a khoản 1 Điều 53 Luật Phá sản 2014 quy định trường hợp tài sản bảo đảm được sử dụng để thực hiện thủ tục phục hồi kinh doanh thì việc xử lý đối với tài sản bảo đảm theo Nghị quyết của Hội nghị chủ nợ."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, khi tài sản bảo đảm có nguy cơ bị phá hủy hoặc giảm đáng kể giá trị thì ai có quyền đề nghị thẩm phán cho xử lý ngay tài sản bảo đảm?",
+    "a": "người lao động",
+    "b": "chủ nợ không có bảo đảm",
+    "c": "quản tài viên hoặc doanh nghiệp quản lý, thanh lý tài sản",
+    "d": "ủy ban nhân dân cấp huyện",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 53 Luật Phá sản 2014 quy định Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản đề nghị Thẩm phán cho xử lý ngay tài sản bảo đảm khi tài sản có nguy cơ bị phá hủy hoặc bị giảm đáng kể về giá trị."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, đối với khoản nợ có bảo đảm được xác lập trước khi tòa án thụ lý đơn yêu cầu mở thủ tục phá sản thì được thanh toán như thế nào?",
+    "a": "được thanh toán bằng tài sản bảo đảm đó",
+    "b": "được thanh toán ngang với chủ nợ không có bảo đảm",
+    "c": "chỉ được thanh toán sau khi trả lương người lao động",
+    "d": "không được ưu tiên thanh toán",
+    "answer": "a",
+    "explanation": "Điểm a khoản 3 Điều 53 Luật Phá sản 2014 quy định khoản nợ có bảo đảm được xác lập trước khi Tòa án nhân dân thụ lý đơn yêu cầu mở thủ tục phá sản được thanh toán bằng tài sản bảo đảm đó."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, trường hợp giá trị tài sản bảo đảm không đủ thanh toán số nợ thì phần nợ còn lại được xử lý như thế nào?",
+    "a": "được xóa toàn bộ",
+    "b": "được thanh toán trong quá trình thanh lý tài sản của doanh nghiệp, hợp tác xã",
+    "c": "được nhà nước thanh toán thay",
+    "d": "được chuyển thành vốn góp",
+    "answer": "b",
+    "explanation": "Điểm b khoản 3 Điều 53 Luật Phá sản 2014 quy định nếu giá trị tài sản bảo đảm không đủ thanh toán số nợ thì phần nợ còn lại sẽ được thanh toán trong quá trình thanh lý tài sản của doanh nghiệp, hợp tác xã."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, giao dịch chuyển nhượng tài sản không theo giá thị trường được thực hiện trong thời gian bao lâu trước ngày tòa án ra quyết định mở thủ tục phá sản thì bị coi là vô hiệu?",
+    "a": "03 tháng",
+    "b": "06 tháng",
+    "c": "12 tháng",
+    "d": "18 tháng",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 59 Luật Phá sản 2014 quy định giao dịch của doanh nghiệp, hợp tác xã mất khả năng thanh toán được thực hiện trong thời gian 06 tháng trước ngày Tòa án nhân dân ra quyết định mở thủ tục phá sản sẽ bị coi là vô hiệu nếu thuộc các trường hợp luật định."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, giao dịch tặng cho tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán trong thời hạn 06 tháng trước ngày mở thủ tục phá sản bị coi là gì?",
+    "a": "giao dịch hợp pháp",
+    "b": "giao dịch có điều kiện",
+    "c": "giao dịch bị coi là vô hiệu",
+    "d": "giao dịch cần đăng ký lại",
+    "answer": "c",
+    "explanation": "Điểm d khoản 1 Điều 59 Luật Phá sản 2014 quy định giao dịch tặng cho tài sản là một trong các giao dịch bị coi là vô hiệu."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, giao dịch được thực hiện với người liên quan trong thời gian bao lâu trước ngày tòa án ra quyết định mở thủ tục phá sản thì bị coi là vô hiệu?",
+    "a": "06 tháng",
+    "b": "09 tháng",
+    "c": "12 tháng",
+    "d": "18 tháng",
+    "answer": "d",
+    "explanation": "Khoản 2 Điều 59 Luật Phá sản 2014 quy định giao dịch với những người liên quan được thực hiện trong thời gian 18 tháng trước ngày Tòa án nhân dân ra quyết định mở thủ tục phá sản thì bị coi là vô hiệu."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, vợ hoặc chồng của người quản lý doanh nghiệp có được xem là người liên quan trong giao dịch bị coi là vô hiệu hay không?",
+    "a": "không",
+    "b": "chỉ khi cùng góp vốn",
+    "c": "có",
+    "d": "chỉ khi cùng điều hành doanh nghiệp",
+    "answer": "c",
+    "explanation": "Điểm đ khoản 3 Điều 59 Luật Phá sản 2014 quy định vợ, chồng của người quản lý doanh nghiệp, hợp tác xã là người liên quan."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, ai có trách nhiệm xem xét giao dịch của doanh nghiệp, hợp tác xã mất khả năng thanh toán và đề nghị tòa án tuyên bố giao dịch vô hiệu?",
+    "a": "kiểm sát viên",
+    "b": "quản tài viên hoặc doanh nghiệp quản lý, thanh lý tài sản",
+    "c": "cơ quan thuế",
+    "d": "chủ nợ có bảo đảm",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 59 Luật Phá sản 2014 quy định Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản có trách nhiệm xem xét giao dịch của doanh nghiệp, hợp tác xã mất khả năng thanh toán và đề nghị Tòa án nhân dân tuyên bố giao dịch vô hiệu."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, sau khi có quyết định mở thủ tục phá sản, doanh nghiệp, hợp tác xã có được thanh toán khoản nợ không có bảo đảm hay không?",
+    "a": "được thanh toán mọi khoản nợ không có bảo đảm",
+    "b": "chỉ được thanh toán khoản nợ có bảo đảm",
+    "c": "bị cấm thanh toán khoản nợ không có bảo đảm, trừ trường hợp luật quy định",
+    "d": "được thanh toán nếu có sự đồng ý của chủ nợ",
+    "answer": "c",
+    "explanation": "Điểm b khoản 1 Điều 48 Luật Phá sản 2014 quy định cấm thanh toán khoản nợ không có bảo đảm, trừ khoản nợ không có bảo đảm phát sinh sau khi mở thủ tục phá sản và trả lương cho người lao động."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, hoạt động nào sau đây bị cấm sau khi có quyết định mở thủ tục phá sản?",
+    "a": "thanh toán tiền lương cho người lao động",
+    "b": "từ bỏ quyền đòi nợ",
+    "c": "thực hiện hợp đồng lao động",
+    "d": "bán tài sản theo quyết định của thẩm phán",
+    "answer": "b",
+    "explanation": "Điểm c khoản 1 Điều 48 Luật Phá sản 2014 quy định doanh nghiệp, hợp tác xã bị cấm từ bỏ quyền đòi nợ sau khi có quyết định mở thủ tục phá sản."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, giao dịch được thực hiện trái với quy định tại khoản 1 Điều 48 có hậu quả pháp lý như thế nào?",
+    "a": "vẫn có hiệu lực nếu đã hoàn thành",
+    "b": "chỉ bị xử phạt hành chính",
+    "c": "bị coi là vô hiệu",
+    "d": "được hợp thức hóa nếu có nghị quyết chủ nợ",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 48 Luật Phá sản 2014 quy định các giao dịch thuộc khoản 1 Điều này là vô hiệu và xử lý theo Điều 60 của Luật này."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, trường hợp tài sản bảo đảm không cần thiết cho việc phục hồi kinh doanh thì được xử lý như thế nào?",
+    "a": "không được xử lý cho đến khi tuyên bố phá sản",
+    "b": "xử lý theo thời hạn quy định trong hợp đồng",
+    "c": "giao cho chủ nợ tự bán",
+    "d": "sung công quỹ nhà nước",
+    "answer": "b",
+    "explanation": "Điểm b khoản 1 Điều 53 Luật Phá sản 2014 quy định nếu tài sản bảo đảm không cần thiết cho việc thực hiện thủ tục phục hồi kinh doanh thì xử lý theo thời hạn quy định trong hợp đồng."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, khoản nợ có bảo đảm được xác lập trước khi tòa án thụ lý đơn yêu cầu mở thủ tục phá sản được thanh toán bằng cách nào?",
+    "a": "thanh toán theo thứ tự phân chia tài sản chung",
+    "b": "thanh toán bằng tài sản bảo đảm đó",
+    "c": "thanh toán sau chủ nợ không có bảo đảm",
+    "d": "không được thanh toán",
+    "answer": "b",
+    "explanation": "Điểm a khoản 3 Điều 53 Luật Phá sản 2014 quy định khoản nợ có bảo đảm được xác lập trước khi Tòa án nhân dân thụ lý đơn yêu cầu mở thủ tục phá sản được thanh toán bằng tài sản bảo đảm đó."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, nếu giá trị tài sản bảo đảm lớn hơn số nợ thì phần chênh lệch được xử lý như thế nào?",
+    "a": "trả cho chủ nợ có bảo đảm",
+    "b": "sung ngân sách nhà nước",
+    "c": "nhập vào giá trị tài sản của doanh nghiệp, hợp tác xã",
+    "d": "chia đều cho các chủ nợ",
+    "answer": "c",
+    "explanation": "Điểm b khoản 3 Điều 53 Luật Phá sản 2014 quy định nếu giá trị tài sản bảo đảm lớn hơn số nợ thì phần chênh lệch được nhập vào giá trị tài sản của doanh nghiệp, hợp tác xã."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, giao dịch nào sau đây bị coi là vô hiệu nếu được thực hiện trong thời gian 06 tháng trước ngày tòa án ra quyết định mở thủ tục phá sản?",
+    "a": "giao dịch đúng giá thị trường",
+    "b": "tặng cho tài sản",
+    "c": "thanh toán lương đúng hạn",
+    "d": "ký hợp đồng lao động",
+    "answer": "b",
+    "explanation": "Điểm d khoản 1 Điều 59 Luật Phá sản 2014 quy định giao dịch tặng cho tài sản là giao dịch bị coi là vô hiệu."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, giao dịch chuyển khoản nợ không có bảo đảm thành nợ có bảo đảm bằng tài sản của doanh nghiệp trong thời hạn luật định bị coi là gì?",
+    "a": "giao dịch hợp pháp",
+    "b": "giao dịch vô hiệu",
+    "c": "giao dịch chờ phê duyệt",
+    "d": "giao dịch dân sự có điều kiện",
+    "answer": "b",
+    "explanation": "Điểm b khoản 1 Điều 59 Luật Phá sản 2014 quy định giao dịch chuyển khoản nợ không có bảo đảm thành nợ có bảo đảm hoặc có bảo đảm một phần bị coi là vô hiệu."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, giao dịch với người liên quan được thực hiện trong thời gian bao lâu trước ngày tòa án ra quyết định mở thủ tục phá sản thì bị coi là vô hiệu?",
+    "a": "03 tháng",
+    "b": "06 tháng",
+    "c": "12 tháng",
+    "d": "18 tháng",
+    "answer": "d",
+    "explanation": "Khoản 2 Điều 59 Luật Phá sản 2014 quy định giao dịch với người liên quan được thực hiện trong thời gian 18 tháng trước ngày Tòa án nhân dân ra quyết định mở thủ tục phá sản thì bị coi là vô hiệu."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, ai có trách nhiệm xem xét giao dịch của doanh nghiệp mất khả năng thanh toán để đề nghị tòa án tuyên bố giao dịch vô hiệu?",
+    "a": "chủ nợ lớn nhất",
+    "b": "kiểm sát viên",
+    "c": "quản tài viên hoặc doanh nghiệp quản lý, thanh lý tài sản",
+    "d": "ủy ban nhân dân cấp tỉnh",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 59 Luật Phá sản 2014 quy định Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản có trách nhiệm xem xét giao dịch và đề nghị Tòa án nhân dân tuyên bố giao dịch vô hiệu."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, tài sản thu hồi từ giao dịch vô hiệu được xử lý như thế nào?",
+    "a": "trả cho người đã nhận tài sản",
+    "b": "sung ngân sách nhà nước",
+    "c": "nhập vào khối tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán",
+    "d": "chia ngay cho chủ nợ",
+    "answer": "c",
+    "explanation": "Điều 60 Luật Phá sản 2014 quy định tài sản và quyền tài sản thu hồi từ giao dịch vô hiệu được nhập vào khối tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, khi giao dịch bị tuyên bố vô hiệu thì bên nhận tài sản từ doanh nghiệp, hợp tác xã phải thực hiện nghĩa vụ nào?",
+    "a": "được giữ toàn bộ tài sản đã nhận",
+    "b": "hoàn trả tài sản đã nhận",
+    "c": "chỉ hoàn trả nếu có lỗi",
+    "d": "không phải hoàn trả nếu đã sử dụng tài sản",
+    "answer": "b",
+    "explanation": "Điều 60 Luật Phá sản 2014 quy định khi giao dịch bị tuyên bố vô hiệu thì các bên phải hoàn trả cho nhau những gì đã nhận."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, trong thời hạn bao lâu kể từ ngày nhận yêu cầu tuyên bố giao dịch vô hiệu thì tòa án nhân dân phải ra quyết định?",
+    "a": "03 ngày làm việc",
+    "b": "05 ngày làm việc",
+    "c": "07 ngày làm việc",
+    "d": "10 ngày làm việc",
+    "answer": "d",
+    "explanation": "Khoản 1 Điều 60 Luật Phá sản 2014 quy định trong thời hạn 10 ngày làm việc kể từ ngày nhận yêu cầu hoặc phát hiện giao dịch thuộc Điều 59 thì Tòa án nhân dân phải ra quyết định."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, tòa án nhân dân có thể ra quyết định nào sau đây khi xem xét yêu cầu tuyên bố giao dịch vô hiệu?",
+    "a": "đình chỉ hoạt động doanh nghiệp",
+    "b": "tuyên bố giao dịch vô hiệu, hủy bỏ biện pháp bảo đảm và giải quyết hậu quả giao dịch vô hiệu",
+    "c": "chuyển hồ sơ sang trọng tài thương mại",
+    "d": "miễn toàn bộ nghĩa vụ thanh toán",
+    "answer": "b",
+    "explanation": "Điểm b khoản 1 Điều 60 Luật Phá sản 2014 quy định Tòa án nhân dân có thể tuyên bố giao dịch vô hiệu, hủy bỏ các biện pháp bảo đảm và giải quyết hậu quả của giao dịch vô hiệu theo quy định pháp luật."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, quyết định tuyên bố giao dịch vô hiệu có hiệu lực từ thời điểm nào?",
+    "a": "kể từ ngày viện kiểm sát phê chuẩn",
+    "b": "kể từ ngày ban hành thông báo",
+    "c": "kể từ ngày ra quyết định",
+    "d": "kể từ ngày hết thời hạn kháng nghị",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 60 Luật Phá sản 2014 quy định quyết định tuyên bố giao dịch vô hiệu có hiệu lực thi hành kể từ ngày ra quyết định."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, trong thời hạn bao lâu kể từ ngày nhận được quyết định tuyên bố giao dịch vô hiệu thì doanh nghiệp, hợp tác xã hoặc bên giao kết có quyền đề nghị xem xét lại?",
+    "a": "03 ngày làm việc",
+    "b": "05 ngày làm việc",
+    "c": "07 ngày làm việc",
+    "d": "10 ngày làm việc",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 60 Luật Phá sản 2014 quy định trong thời hạn 05 ngày làm việc kể từ ngày nhận được quyết định tuyên bố giao dịch vô hiệu, các chủ thể có quyền đề nghị Chánh án xem xét lại quyết định."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, trong thời hạn bao lâu kể từ ngày nhận được đơn đề nghị xem xét lại quyết định tuyên bố giao dịch vô hiệu thì chánh án tòa án phải ra quyết định?",
+    "a": "05 ngày làm việc",
+    "b": "07 ngày làm việc",
+    "c": "10 ngày làm việc",
+    "d": "15 ngày làm việc",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 60 Luật Phá sản 2014 quy định trong thời hạn 07 ngày làm việc kể từ ngày nhận được đơn đề nghị xem xét lại thì Chánh án Tòa án nhân dân phải ra quyết định."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, cơ quan thi hành án dân sự phải chủ động tổ chức thi hành quyết định tuyên bố giao dịch vô hiệu trong thời hạn bao lâu?",
+    "a": "03 ngày làm việc",
+    "b": "05 ngày làm việc",
+    "c": "07 ngày làm việc",
+    "d": "10 ngày làm việc",
+    "answer": "c",
+    "explanation": "Khoản 5 Điều 60 Luật Phá sản 2014 quy định trong thời hạn 07 ngày làm việc kể từ ngày nhận được quyết định tuyên bố giao dịch vô hiệu thì cơ quan thi hành án dân sự phải chủ động tổ chức thi hành."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, ai có quyền yêu cầu tòa án nhân dân ra quyết định tạm đình chỉ thực hiện hợp đồng đang có hiệu lực?",
+    "a": "mọi chủ thể có liên quan",
+    "b": "chủ nợ và doanh nghiệp, hợp tác xã mất khả năng thanh toán",
+    "c": "cơ quan thuế",
+    "d": "người lao động",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 61 Luật Phá sản 2014 quy định chủ nợ, doanh nghiệp, hợp tác xã mất khả năng thanh toán có quyền yêu cầu Tòa án nhân dân ra quyết định tạm đình chỉ thực hiện hợp đồng."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, trong thời hạn bao lâu kể từ ngày thụ lý đơn yêu cầu mở thủ tục phá sản thì có thể yêu cầu tạm đình chỉ thực hiện hợp đồng?",
+    "a": "03 ngày làm việc",
+    "b": "05 ngày làm việc",
+    "c": "07 ngày làm việc",
+    "d": "10 ngày làm việc",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 61 Luật Phá sản 2014 quy định trong thời hạn 05 ngày làm việc kể từ ngày Tòa án nhân dân thụ lý đơn yêu cầu mở thủ tục phá sản thì các chủ thể có quyền yêu cầu tạm đình chỉ thực hiện hợp đồng."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, nội dung nào sau đây bắt buộc phải có trong văn bản yêu cầu tạm đình chỉ thực hiện hợp đồng?",
+    "a": "ý kiến của viện kiểm sát",
+    "b": "dự kiến phương án phục hồi kinh doanh",
+    "c": "số, tên hợp đồng và ngày giao kết hợp đồng",
+    "d": "cam kết thanh toán của chủ nợ",
+    "answer": "c",
+    "explanation": "Điểm c khoản 2 Điều 61 Luật Phá sản 2014 quy định văn bản yêu cầu phải có số, tên hợp đồng; ngày, tháng, năm giao kết hợp đồng."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, nếu tòa án chấp nhận yêu cầu tạm đình chỉ thực hiện hợp đồng thì trong thời hạn bao lâu phải ra quyết định?",
+    "a": "03 ngày làm việc",
+    "b": "05 ngày làm việc",
+    "c": "07 ngày làm việc",
+    "d": "10 ngày làm việc",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 61 Luật Phá sản 2014 quy định trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản yêu cầu, nếu chấp nhận thì Tòa án nhân dân ra quyết định tạm đình chỉ thực hiện hợp đồng."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, khi hợp đồng bị đình chỉ thực hiện mà tài sản nhận được từ hợp đồng vẫn còn tồn tại trong khối tài sản của doanh nghiệp thì bên giao kết có quyền gì?",
+    "a": "yêu cầu tuyên bố phá sản ngay",
+    "b": "đòi lại tài sản và thanh toán số tiền đã nhận",
+    "c": "tự ý thu giữ tài sản",
+    "d": "yêu cầu nhà nước bồi thường",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 62 Luật Phá sản 2014 quy định bên giao kết hợp đồng có quyền đòi lại tài sản và thanh toán số tiền đã nhận nếu tài sản vẫn còn tồn tại trong khối tài sản."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, nếu tài sản nhận được từ hợp đồng không còn tồn tại thì bên giao kết hợp đồng có địa vị pháp lý như thế nào?",
+    "a": "chủ nợ có bảo đảm",
+    "b": "người quản lý tài sản",
+    "c": "chủ nợ không có bảo đảm",
+    "d": "người tham gia tố tụng đặc biệt",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 62 Luật Phá sản 2014 quy định nếu tài sản không còn thì bên giao kết có quyền như một chủ nợ không có bảo đảm đối với phần chưa được thanh toán."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, việc bù trừ nghĩa vụ chỉ được thực hiện đối với hợp đồng nào?",
+    "a": "hợp đồng xác lập sau khi có quyết định mở thủ tục phá sản",
+    "b": "hợp đồng xác lập trước khi có quyết định mở thủ tục phá sản",
+    "c": "mọi hợp đồng dân sự",
+    "d": "hợp đồng lao động",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 63 Luật Phá sản 2014 quy định việc bù trừ nghĩa vụ được thực hiện đối với hợp đồng được xác lập trước khi có quyết định mở thủ tục phá sản."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, việc bù trừ nghĩa vụ phải được sự đồng ý của ai?",
+    "a": "viện kiểm sát nhân dân",
+    "b": "chủ nợ lớn nhất",
+    "c": "quản tài viên hoặc doanh nghiệp quản lý, thanh lý tài sản",
+    "d": "cơ quan thi hành án dân sự",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 63 Luật Phá sản 2014 quy định việc bù trừ nghĩa vụ phải được sự đồng ý của Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, trường hợp các bên có nghĩa vụ tài sản tương đương với nhau thì hậu quả pháp lý của việc bù trừ nghĩa vụ là gì?",
+    "a": "các bên vẫn phải thanh toán cho nhau",
+    "b": "nghĩa vụ được xem là chấm dứt",
+    "c": "tạm hoãn nghĩa vụ trong 06 tháng",
+    "d": "chuyển thành nghĩa vụ có bảo đảm",
+    "answer": "b",
+    "explanation": "Điểm a khoản 3 Điều 63 Luật Phá sản 2014 quy định nếu các bên có nghĩa vụ tài sản tương đương thì không phải thực hiện nghĩa vụ đối với nhau và nghĩa vụ được xem là chấm dứt."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, tài sản nào sau đây thuộc tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán?",
+    "a": "tài sản có được sau ngày mở thủ tục phá sản",
+    "b": "tài sản riêng của mọi cổ đông",
+    "c": "tài sản của người lao động",
+    "d": "tài sản của cơ quan thuế",
+    "answer": "a",
+    "explanation": "Điểm b khoản 1 Điều 64 Luật Phá sản 2014 quy định tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán bao gồm tài sản và quyền tài sản có được sau ngày Tòa án nhân dân ra quyết định mở thủ tục phá sản."
+  },
+  {
+    "question": "Theo Luật Phá sản 2014, tài sản thu hồi từ giao dịch vô hiệu được xác định là gì?",
+    "a": "tài sản của chủ nợ có bảo đảm",
+    "b": "tài sản nhà nước",
+    "c": "tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán",
+    "d": "tài sản riêng của quản tài viên",
+    "answer": "c",
+    "explanation": "Điểm e khoản 1 Điều 64 Luật Phá sản 2014 quy định tài sản và quyền tài sản có được do thu hồi từ giao dịch vô hiệu thuộc tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán."
+  },
+    {
     "question": "theo luật hàng không dân dụng việt nam 2025, điều lệ vận chuyển hàng không có vai trò pháp lý như thế nào?",
     "a": "là hợp đồng vận chuyển độc lập",
     "b": "là bộ phận cấu thành của hợp đồng vận chuyển hàng không",
