@@ -1,4 +1,274 @@
 [
+     {
+    "question": "Theo Luật Công chứng 2024, việc công chứng văn bản sửa đổi, bổ sung hoặc chấm dứt hợp đồng đã công chứng được thực hiện khi nào?",
+    "a": "Khi một bên tự ý yêu cầu công chứng viên thực hiện",
+    "b": "Khi có sự thỏa thuận hoặc cam kết bằng văn bản của tất cả những người đã ký kết hợp đồng, trừ trường hợp pháp luật có quy định khác",
+    "c": "Khi Tòa án có yêu cầu bắt buộc",
+    "d": "Khi hợp đồng có lỗi kỹ thuật",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 53 Luật Công chứng 2024, việc công chứng văn bản sửa đổi, bổ sung, thỏa thuận chấm dứt hợp đồng đã được công chứng chỉ được thực hiện khi có sự thỏa thuận hoặc cam kết bằng văn bản của tất cả những người đã ký kết hợp đồng, trừ trường hợp pháp luật có quy định khác."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, công chứng văn bản sửa đổi, bổ sung, hủy bỏ giao dịch được thực hiện bởi công chứng viên nào?",
+    "a": "Bất kỳ công chứng viên nào trên toàn quốc",
+    "b": "Công chứng viên của bất kỳ tổ chức hành nghề công chứng nào",
+    "c": "Công chứng viên của tổ chức hành nghề công chứng nơi đã thực hiện việc công chứng giao dịch ban đầu, trừ trường hợp luật định",
+    "d": "Công chứng viên do người yêu cầu lựa chọn không phụ thuộc nơi công chứng ban đầu",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 53 Luật Công chứng 2024, việc công chứng sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch phải do công chứng viên của tổ chức hành nghề công chứng nơi đã công chứng ban đầu thực hiện, trừ trường hợp pháp luật có quy định khác."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, ai có quyền đề nghị Tòa án tuyên bố văn bản công chứng vô hiệu?",
+    "a": "Chỉ công chứng viên đã thực hiện công chứng",
+    "b": "Chỉ cơ quan công an",
+    "c": "Công chứng viên, người yêu cầu công chứng, người làm chứng, người phiên dịch, người có quyền lợi nghĩa vụ liên quan và cơ quan nhà nước có thẩm quyền",
+    "d": "Chỉ người khởi kiện tại Tòa án",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 54 Luật Công chứng 2024, công chứng viên, người yêu cầu công chứng, người làm chứng, người phiên dịch, người có quyền lợi nghĩa vụ liên quan và cơ quan nhà nước có thẩm quyền đều có quyền đề nghị Tòa án tuyên bố văn bản công chứng vô hiệu khi có căn cứ vi phạm pháp luật."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, nguyên tắc thực hiện thủ tục công chứng một số giao dịch đặc biệt được quy định như thế nào?",
+    "a": "Chỉ áp dụng quy trình riêng cho từng giao dịch",
+    "b": "Thực hiện theo quy định riêng của từng tổ chức hành nghề công chứng",
+    "c": "Áp dụng theo quy định chung tại Mục 1 và các quy định riêng tại Mục 2 của Chương V",
+    "d": "Do Chính phủ hướng dẫn tùy từng trường hợp",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 55 Luật Công chứng 2024, thủ tục công chứng các giao dịch đặc biệt như thế chấp, ủy quyền, di chúc, phân chia di sản, từ chối di sản được thực hiện theo quy định tại Mục 1 và các quy định riêng tại Mục 2 của Chương V."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, hợp đồng thế chấp bất động sản được công chứng theo nguyên tắc nào?",
+    "a": "Công chứng viên có thể tự do lựa chọn nơi công chứng",
+    "b": "Phải công chứng tại nơi có bất động sản",
+    "c": "Thực hiện theo thẩm quyền quy định tại Điều 44 về phạm vi địa bàn công chứng bất động sản",
+    "d": "Không cần áp dụng quy định về thẩm quyền",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 56 Luật Công chứng 2024, thẩm quyền công chứng hợp đồng thế chấp bất động sản được thực hiện theo quy định tại Điều 44 về phạm vi công chứng giao dịch bất động sản."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, trường hợp thế chấp tiếp theo đối với cùng một bất động sản đã thế chấp thì phải thực hiện thế nào?",
+    "a": "Có thể công chứng ở bất kỳ tổ chức hành nghề công chứng nào",
+    "b": "Phải công chứng tại tổ chức hành nghề công chứng đã công chứng hợp đồng thế chấp lần đầu, trừ trường hợp luật định",
+    "c": "Không cần công chứng lần thứ hai",
+    "d": "Chỉ cần đăng ký tại cơ quan đăng ký đất đai",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 56 Luật Công chứng 2024, các hợp đồng thế chấp tiếp theo phải được công chứng tại tổ chức hành nghề công chứng đã công chứng hợp đồng thế chấp lần đầu, trừ trường hợp tổ chức đó chấm dứt hoạt động hoặc tạm ngừng theo luật."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, trường hợp bên ủy quyền và bên được ủy quyền không cùng đến một tổ chức hành nghề công chứng thì xử lý như thế nào?",
+    "a": "Không thể công chứng hợp đồng ủy quyền",
+    "b": "Hai bên phải cùng đến một tổ chức hành nghề công chứng",
+    "c": "Mỗi bên có thể đến tổ chức hành nghề công chứng khác nhau để công chứng phần của mình theo trình tự luật định",
+    "d": "Phải thực hiện tại Tòa án",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 57 Luật Công chứng 2024, trong trường hợp các bên không thể cùng đến một tổ chức hành nghề công chứng thì mỗi bên có thể thực hiện công chứng tại tổ chức khác nhau theo trình tự pháp luật quy định và kết hợp thành một hợp đồng có hiệu lực."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, di chúc được công chứng có đặc điểm nào sau đây?",
+    "a": "Người lập di chúc có thể ủy quyền cho người khác ký thay",
+    "b": "Người lập di chúc bắt buộc phải tự ký hoặc điểm chỉ, không được ủy quyền",
+    "c": "Có thể lập thay bởi công chứng viên",
+    "d": "Không cần chữ ký nếu có người làm chứng",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 58 Luật Công chứng 2024, người lập di chúc không được ủy quyền cho người khác mà phải tự mình ký hoặc ký và điểm chỉ vào bản di chúc."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, công chứng viên phải xử lý thế nào nếu người lập di chúc có dấu hiệu bị lừa dối hoặc cưỡng ép?",
+    "a": "Vẫn công chứng nếu có người làm chứng",
+    "b": "Tự động công chứng và ghi nhận tình trạng",
+    "c": "Yêu cầu làm rõ, nếu không làm rõ được thì từ chối công chứng",
+    "d": "Chuyển hồ sơ cho Tòa án quyết định",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 58 Luật Công chứng 2024, nếu công chứng viên có căn cứ cho rằng người lập di chúc bị lừa dối, đe dọa hoặc cưỡng ép mà không làm rõ được thì phải từ chối công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, trường hợp di chúc lập trong tình trạng nguy hiểm đến tính mạng thì quy định về giấy tờ như thế nào?",
+    "a": "Vẫn phải đầy đủ giấy tờ như bình thường",
+    "b": "Không cần bất kỳ giấy tờ nào",
+    "c": "Có thể không cần đầy đủ giấy tờ nhưng phải ghi rõ trong văn bản công chứng",
+    "d": "Chỉ cần giấy chứng minh nhân dân",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 58 Luật Công chứng 2024, trong trường hợp tính mạng người lập di chúc bị đe dọa thì có thể không phải xuất trình đầy đủ giấy tờ theo Điều 42, nhưng phải ghi rõ trong văn bản công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, di chúc công chứng trong trường hợp nguy hiểm tính mạng sẽ mất hiệu lực khi nào?",
+    "a": "Ngay sau khi công chứng",
+    "b": "Sau 01 tháng nếu không bổ sung giấy tờ",
+    "c": "Sau 03 tháng nếu người lập di chúc không còn trong tình trạng nguy hiểm mà không nộp đủ giấy tờ theo quy định",
+    "d": "Sau 01 năm kể từ ngày lập",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 58 Luật Công chứng 2024, sau 03 tháng nếu người lập di chúc không còn trong tình trạng nguy hiểm mà không nộp đủ giấy tờ theo khoản 1 Điều 42 thì văn bản công chứng di chúc không có hiệu lực."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, người lập di chúc có thể sửa đổi hoặc hủy bỏ di chúc bằng cách nào?",
+    "a": "Chỉ được sửa tại nơi đã lập di chúc ban đầu",
+    "b": "Có thể yêu cầu công chứng viên của bất kỳ tổ chức hành nghề công chứng nào thực hiện",
+    "c": "Chỉ được sửa bằng văn bản viết tay",
+    "d": "Không được sửa đổi di chúc đã công chứng",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 4 Điều 58 Luật Công chứng 2024, người lập di chúc có thể yêu cầu công chứng viên của bất kỳ tổ chức hành nghề công chứng nào thực hiện việc sửa đổi, bổ sung, thay thế hoặc hủy bỏ di chúc."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, người yêu cầu công chứng văn bản phân chia di sản là ai?",
+    "a": "Chỉ người quản lý di sản",
+    "b": "Chỉ cơ quan nhà nước có thẩm quyền",
+    "c": "Người thừa kế theo pháp luật hoặc theo di chúc",
+    "d": "Chỉ người được hưởng phần di sản lớn nhất",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 59 Luật Công chứng 2024, người thừa kế theo pháp luật hoặc theo di chúc đều có quyền yêu cầu công chứng văn bản phân chia di sản."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, hồ sơ công chứng văn bản phân chia di sản cần có giấy tờ nào sau đây?",
+    "a": "Chỉ cần giấy tờ tùy thân của người thừa kế",
+    "b": "Giấy chứng tử, di chúc (nếu có), giấy tờ chứng minh quan hệ thừa kế và giấy tờ về quyền sở hữu tài sản",
+    "c": "Chỉ cần hợp đồng phân chia di sản",
+    "d": "Chỉ cần xác nhận của chính quyền địa phương",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 59 Luật Công chứng 2024, hồ sơ phải có giấy chứng tử, di chúc (nếu thừa kế theo di chúc), giấy tờ chứng minh quan hệ thừa kế và giấy tờ chứng minh quyền sở hữu tài sản."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, việc niêm yết tiếp nhận công chứng văn bản phân chia di sản nhằm mục đích gì?",
+    "a": "Để xác minh chữ ký của người thừa kế",
+    "b": "Để công khai thông tin và phòng ngừa tranh chấp, khiếu nại",
+    "c": "Để xác nhận quyền sở hữu tài sản",
+    "d": "Để thay thế thủ tục công chứng",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 4 Điều 59 Luật Công chứng 2024, việc niêm yết nhằm công khai việc tiếp nhận phân chia di sản để bảo đảm không có tranh chấp, khiếu nại trước khi công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, văn bản từ chối nhận di sản được thực hiện theo quy định nào?",
+    "a": "Theo Luật Đất đai",
+    "b": "Theo Bộ luật Dân sự và quy định công chứng có liên quan",
+    "c": "Theo quyết định của Tòa án",
+    "d": "Theo hướng dẫn của UBND cấp xã",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 60 Luật Công chứng 2024, việc từ chối nhận di sản được thực hiện theo quy định của Bộ luật Dân sự và phải tuân thủ quy định công chứng có liên quan."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, việc gửi giữ di chúc tại tổ chức hành nghề công chứng được thực hiện như thế nào?",
+    "a": "Chỉ cần nộp bản photo di chúc",
+    "b": "Công chứng viên niêm phong di chúc trước mặt người lập và cấp giấy nhận lưu giữ",
+    "c": "Không cần niêm phong, chỉ lưu file điện tử",
+    "d": "Gửi tại UBND xã để lưu giữ",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 61 Luật Công chứng 2024, công chứng viên phải niêm phong di chúc trước mặt người lập, lập giấy nhận lưu giữ và giao lại cho người lập di chúc."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, nếu tổ chức hành nghề công chứng lưu giữ di chúc chấm dứt hoạt động thì xử lý di chúc như thế nào?",
+    "a": "Tự động hủy di chúc",
+    "b": "Giữ lại tại công chứng viên cũ",
+    "c": "Chuyển cho tổ chức hành nghề công chứng khác hoặc trả lại người lập di chúc theo quy định",
+    "d": "Gửi cho cơ quan công an",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 61 Luật Công chứng 2024, khi tổ chức hành nghề công chứng chấm dứt hoạt động thì phải chuyển di chúc cho tổ chức khác hoặc trả lại người lập di chúc theo quy định."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, công chứng điện tử được hiểu là gì?",
+    "a": "Việc công chứng chỉ thực hiện bằng giấy nhưng lưu trữ bằng điện tử",
+    "b": "Việc công chứng được thực hiện bằng phương tiện điện tử để tạo lập văn bản công chứng điện tử theo quy định của pháp luật",
+    "c": "Việc công chứng do cơ quan nhà nước thực hiện trên hệ thống trực tuyến",
+    "d": "Việc ký hợp đồng qua email giữa các bên",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 62 Luật Công chứng 2024, công chứng điện tử là việc công chứng được thực hiện bằng phương tiện điện tử để tạo lập văn bản công chứng điện tử, tuân thủ nguyên tắc bảo đảm an ninh, an toàn thông tin và các điều kiện theo luật định."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, nguyên tắc quan trọng của công chứng điện tử là gì?",
+    "a": "Chỉ cần có chữ ký điện tử là hợp lệ",
+    "b": "Không cần lưu trữ thông tin nếu đã ký số",
+    "c": "Bảo đảm an ninh, an toàn, bảo mật thông tin và dữ liệu có thể truy cập, sử dụng được để tham chiếu",
+    "d": "Chỉ áp dụng cho hợp đồng có giá trị nhỏ",
+    "answer": "c",
+    "explanation": "Căn cứ điểm a khoản 1 Điều 62 Luật Công chứng 2024, công chứng điện tử phải bảo đảm an ninh, an toàn, bảo mật thông tin và dữ liệu có thể truy cập, sử dụng được để tham chiếu."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, công chứng viên được cung cấp dịch vụ công chứng điện tử khi đáp ứng điều kiện nào?",
+    "a": "Chỉ cần có chứng chỉ hành nghề công chứng",
+    "b": "Có tài khoản công chứng điện tử, chữ ký số và dịch vụ cấp dấu thời gian theo quy định pháp luật về giao dịch điện tử",
+    "c": "Chỉ cần đăng ký với Sở Tư pháp",
+    "d": "Chỉ cần có máy tính kết nối internet",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 63 Luật Công chứng 2024, công chứng viên phải có tài khoản công chứng điện tử, chữ ký số và sử dụng dịch vụ cấp dấu thời gian theo quy định pháp luật về giao dịch điện tử."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, tổ chức hành nghề công chứng muốn cung cấp dịch vụ công chứng điện tử phải đáp ứng điều kiện nào?",
+    "a": "Chỉ cần có website hoạt động",
+    "b": "Có tài khoản công chứng điện tử, chữ ký số, dịch vụ cấp dấu thời gian và đủ trang thiết bị kỹ thuật",
+    "c": "Chỉ cần đăng ký kinh doanh hợp pháp",
+    "d": "Chỉ cần có ít nhất 01 công chứng viên",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 63 Luật Công chứng 2024, tổ chức hành nghề công chứng phải có tài khoản công chứng điện tử, chữ ký số, dịch vụ cấp dấu thời gian và đủ trang thiết bị kỹ thuật để thực hiện công chứng điện tử."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, văn bản công chứng điện tử có hiệu lực từ thời điểm nào?",
+    "a": "Khi các bên ký hợp đồng",
+    "b": "Khi công chứng viên ký số và tổ chức hành nghề công chứng ký số",
+    "c": "Khi tải lên hệ thống công chứng",
+    "d": "Khi gửi qua email cho các bên",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 64 Luật Công chứng 2024, văn bản công chứng điện tử có hiệu lực kể từ thời điểm được ký bằng chữ ký số của công chứng viên và chữ ký số của tổ chức hành nghề công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, văn bản công chứng điện tử có giá trị pháp lý như thế nào?",
+    "a": "Chỉ có giá trị tham khảo",
+    "b": "Có giá trị như bản sao có chứng thực",
+    "c": "Có giá trị pháp lý theo quy định về giá trị pháp lý của văn bản công chứng tại Luật Công chứng",
+    "d": "Không có giá trị nếu không in ra giấy",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 64 Luật Công chứng 2024, văn bản công chứng điện tử có giá trị pháp lý theo quy định tại khoản 2 và khoản 3 Điều 6 của Luật Công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, việc chuyển đổi giữa văn bản công chứng điện tử và văn bản giấy được thực hiện như thế nào?",
+    "a": "Tự do chuyển đổi không cần điều kiện",
+    "b": "Do công chứng viên quyết định từng trường hợp",
+    "c": "Theo quy định của pháp luật về giao dịch điện tử và chỉ có giá trị khi đáp ứng điều kiện luật định",
+    "d": "Không được phép chuyển đổi trong mọi trường hợp",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 4 Điều 64 Luật Công chứng 2024, việc chuyển đổi giữa văn bản công chứng điện tử và văn bản giấy được thực hiện theo quy định pháp luật về giao dịch điện tử và có giá trị như bản gốc khi đáp ứng đủ điều kiện pháp luật."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, công chứng điện tử được thực hiện theo những hình thức nào?",
+    "a": "Chỉ công chứng tại trụ sở bằng máy tính",
+    "b": "Chỉ công chứng qua video call",
+    "c": "Công chứng điện tử trực tiếp và công chứng điện tử trực tuyến",
+    "d": "Chỉ công chứng qua email",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 65 Luật Công chứng 2024, công chứng điện tử gồm hai hình thức: công chứng điện tử trực tiếp và công chứng điện tử trực tuyến."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, công chứng điện tử trực tiếp là gì?",
+    "a": "Các bên ký hợp đồng qua mạng xã hội",
+    "b": "Người yêu cầu công chứng giao kết giao dịch trước sự chứng kiến trực tiếp của công chứng viên và được chứng nhận bằng chữ ký số",
+    "c": "Công chứng qua điện thoại",
+    "d": "Giao kết hợp đồng tại nhà không cần công chứng viên",
+    "answer": "b",
+    "explanation": "Căn cứ điểm a khoản 1 Điều 65 Luật Công chứng 2024, công chứng điện tử trực tiếp là việc người yêu cầu công chứng giao kết giao dịch trước sự chứng kiến trực tiếp của công chứng viên và được chứng nhận bằng chữ ký số."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, công chứng điện tử trực tuyến là gì?",
+    "a": "Các bên ký hợp đồng qua email không có công chứng viên",
+    "b": "Các bên không có mặt cùng địa điểm, giao kết qua phương tiện trực tuyến trước sự chứng kiến của công chứng viên",
+    "c": "Công chứng tại trụ sở có máy tính",
+    "d": "Giao kết hợp đồng qua tin nhắn SMS",
+    "answer": "b",
+    "explanation": "Căn cứ điểm b khoản 1 Điều 65 Luật Công chứng 2024, công chứng điện tử trực tuyến là việc các bên không có mặt tại cùng một địa điểm, giao kết qua phương tiện trực tuyến trước sự chứng kiến trực tiếp của công chứng viên."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, thủ tục công chứng điện tử được thực hiện theo quy định nào?",
+    "a": "Theo quy định riêng của từng tổ chức hành nghề công chứng",
+    "b": "Theo thỏa thuận giữa các bên",
+    "c": "Theo quy định tại Mục 1 và Mục 2 Chương V của Luật Công chứng 2024",
+    "d": "Theo hướng dẫn của UBND cấp tỉnh",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 65 Luật Công chứng 2024, thủ tục công chứng điện tử được thực hiện theo quy định tại Mục 1 và Mục 2 Chương V của Luật Công chứng 2024."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, văn bản công chứng điện tử có thể được chuyển đổi sang văn bản giấy khi nào?",
+    "a": "Luôn luôn có giá trị như nhau mà không cần điều kiện",
+    "b": "Khi có yêu cầu của một bên trong giao dịch",
+    "c": "Khi đáp ứng điều kiện theo quy định pháp luật về giao dịch điện tử, trừ trường hợp pháp luật quy định loại văn bản chỉ tồn tại một hình thức",
+    "d": "Khi công chứng viên đồng ý",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 4 Điều 64 Luật Công chứng 2024, việc chuyển đổi chỉ có giá trị khi đáp ứng điều kiện của pháp luật về giao dịch điện tử, trừ trường hợp pháp luật quy định văn bản chỉ tồn tại một hình thức duy nhất."
+  },
     {
     "question": "Theo Luật Công chứng 2024, hồ sơ yêu cầu công chứng giao dịch đã được soạn thảo sẵn bao gồm những giấy tờ nào sau đây?",
     "a": "Chỉ gồm dự thảo giao dịch và giấy tờ tùy thân của người yêu cầu công chứng",
