@@ -1,5 +1,401 @@
 [
      {
+    "question": "Theo Luật Căn cước 2023, căn cước được hiểu là gì?",
+    "a": "Thông tin về tài sản của một người",
+    "b": "Thông tin cơ bản về nhân thân, lai lịch, nhân dạng và sinh trắc học của một người",
+    "c": "Thông tin hộ khẩu thường trú",
+    "d": "Thông tin nghề nghiệp và thu nhập",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 3 quy định căn cước là thông tin cơ bản về nhân thân, lai lịch, nhân dạng và sinh trắc học của một người."
+  },
+  {
+    "question": "Theo Luật Căn cước 2023, nhân dạng là gì?",
+    "a": "Đặc điểm cá biệt và ổn định bên ngoài của một người",
+    "b": "Thông tin hộ khẩu của cá nhân",
+    "c": "Thông tin sinh học bên trong cơ thể",
+    "d": "Thông tin tài sản của công dân",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 3 quy định nhân dạng là đặc điểm cá biệt và ổn định bên ngoài của một người để nhận diện, phân biệt người này với người khác."
+  },
+  {
+    "question": "Theo Luật Căn cước 2023, sinh trắc học là gì?",
+    "a": "Thông tin về nơi cư trú",
+    "b": "Thông tin về nghề nghiệp",
+    "c": "Thuộc tính vật lý, đặc điểm sinh học cá biệt và ổn định của một người",
+    "d": "Thông tin về hộ tịch",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 3 quy định sinh trắc học là những thuộc tính vật lý, đặc điểm sinh học cá biệt và ổn định của một người để nhận diện, phân biệt với người khác."
+  },
+  {
+    "question": "Theo Luật Căn cước 2023, thẻ căn cước là gì?",
+    "a": "Giấy phép lái xe",
+    "b": "Giấy tờ tùy thân chứa đựng căn cước và thông tin khác đã được tích hợp",
+    "c": "Giấy khai sinh điện tử",
+    "d": "Sổ hộ khẩu điện tử",
+    "answer": "b",
+    "explanation": "Khoản 11 Điều 3 quy định thẻ căn cước là giấy tờ tùy thân chứa đựng căn cước và thông tin khác đã được tích hợp vào thẻ căn cước của công dân Việt Nam."
+  },
+  {
+    "question": "Theo Luật Căn cước 2023, giấy chứng nhận căn cước được cấp cho đối tượng nào?",
+    "a": "Người nước ngoài cư trú tại Việt Nam",
+    "b": "Công dân Việt Nam dưới 14 tuổi",
+    "c": "Người gốc Việt Nam chưa xác định được quốc tịch",
+    "d": "Mọi cá nhân cư trú tại Việt Nam",
+    "answer": "c",
+    "explanation": "Khoản 12 Điều 3 quy định giấy chứng nhận căn cước là giấy tờ tùy thân của người gốc Việt Nam chưa xác định được quốc tịch."
+  },
+  {
+    "question": "Theo Luật Căn cước 2023, danh tính điện tử của công dân Việt Nam bao gồm thông tin nào?",
+    "a": "Tình trạng hôn nhân",
+    "b": "Số định danh cá nhân",
+    "c": "Thu nhập cá nhân",
+    "d": "Thông tin tài khoản ngân hàng",
+    "answer": "b",
+    "explanation": "Điểm a khoản 13 Điều 3 quy định danh tính điện tử bao gồm số định danh cá nhân."
+  },
+  {
+    "question": "Theo Luật Căn cước 2023, căn cước điện tử là gì?",
+    "a": "Thông tin lưu trên giấy khai sinh",
+    "b": "Căn cước của công dân được thể hiện thông qua tài khoản định danh điện tử",
+    "c": "Thông tin lưu trên hộ chiếu",
+    "d": "Thông tin lưu trên sổ hộ khẩu",
+    "answer": "b",
+    "explanation": "Khoản 17 Điều 3 quy định căn cước điện tử là căn cước của công dân Việt Nam được thể hiện thông qua tài khoản định danh điện tử."
+  },
+  {
+    "question": "Theo Luật Căn cước 2023, nguyên tắc nào được áp dụng trong quản lý căn cước?",
+    "a": "Ưu tiên lợi ích kinh tế",
+    "b": "Tuân thủ Hiến pháp và pháp luật",
+    "c": "Không cần bảo vệ dữ liệu cá nhân",
+    "d": "Không cần công khai minh bạch",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 4 quy định việc quản lý căn cước phải tuân thủ Hiến pháp và pháp luật; bảo đảm quyền con người, quyền công dân."
+  },
+  {
+    "question": "Theo Luật Căn cước 2023, việc quản lý căn cước phải bảo đảm điều gì?",
+    "a": "Bảo đảm an ninh, an toàn thông tin và bảo vệ dữ liệu cá nhân",
+    "b": "Bảo đảm bí mật tuyệt đối với mọi thông tin",
+    "c": "Không cần chia sẻ dữ liệu",
+    "d": "Chỉ phục vụ quản lý nhà nước",
+    "answer": "a",
+    "explanation": "Khoản 3 Điều 4 quy định phải bảo đảm an ninh, an toàn thông tin và bảo vệ dữ liệu cá nhân."
+  },
+  {
+    "question": "Theo Luật Căn cước 2023, công dân Việt Nam có quyền nào sau đây?",
+    "a": "Yêu cầu cập nhật, điều chỉnh thông tin của mình trong cơ sở dữ liệu",
+    "b": "Tự ý sửa thông tin trong cơ sở dữ liệu",
+    "c": "Xóa dữ liệu cá nhân khỏi hệ thống",
+    "d": "Từ chối cấp số định danh cá nhân",
+    "answer": "a",
+    "explanation": "Điểm b khoản 1 Điều 5 quy định công dân có quyền yêu cầu cơ quan quản lý căn cước cập nhật, điều chỉnh thông tin của mình."
+  },
+  {
+    "question": "Theo Luật Căn cước 2023, công dân Việt Nam có được sử dụng thẻ căn cước trong giao dịch không?",
+    "a": "Không",
+    "b": "Chỉ trong giao dịch dân sự",
+    "c": "Có",
+    "d": "Chỉ trong giao dịch hành chính",
+    "answer": "c",
+    "explanation": "Điểm d khoản 1 Điều 5 quy định công dân được sử dụng thẻ căn cước, căn cước điện tử trong giao dịch và thực hiện quyền, lợi ích hợp pháp."
+  },
+  {
+    "question": "Theo Luật Căn cước 2023, công dân có nghĩa vụ nào sau đây?",
+    "a": "Tự tạo số định danh cá nhân",
+    "b": "Cung cấp đầy đủ, chính xác, kịp thời thông tin của mình",
+    "c": "Tự sửa dữ liệu quốc gia",
+    "d": "Không cần bảo quản thẻ căn cước",
+    "answer": "b",
+    "explanation": "Điểm b khoản 3 Điều 5 quy định công dân có nghĩa vụ cung cấp đầy đủ, chính xác, kịp thời thông tin, tài liệu của mình."
+  },
+  {
+    "question": "Theo Luật Căn cước 2023, công dân có nghĩa vụ xuất trình gì khi người có thẩm quyền yêu cầu?",
+    "a": "Sổ hộ khẩu giấy",
+    "b": "Giấy khai sinh",
+    "c": "Thẻ căn cước, căn cước điện tử hoặc giấy chứng nhận căn cước",
+    "d": "Giấy phép lái xe",
+    "answer": "c",
+    "explanation": "Điểm d khoản 3 Điều 5 quy định công dân phải xuất trình thẻ căn cước, căn cước điện tử, giấy chứng nhận căn cước hoặc cung cấp số định danh cá nhân khi người có thẩm quyền yêu cầu."
+  },
+  {
+    "question": "Theo Luật Căn cước 2023, người dưới 14 tuổi thực hiện quyền và nghĩa vụ về căn cước thông qua ai?",
+    "a": "Bạn bè",
+    "b": "Người đại diện hợp pháp",
+    "c": "Giáo viên",
+    "d": "Cơ quan quản lý cư trú",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 5 quy định người dưới 14 tuổi thực hiện quyền và nghĩa vụ thông qua người đại diện hợp pháp hoặc tự mình thực hiện khi được người đại diện hợp pháp đồng ý."
+  },
+  {
+    "question": "Theo Luật Căn cước 2023, cơ quan quản lý căn cước có trách nhiệm gì?",
+    "a": "Thu thập, cập nhật thông tin đầy đủ, chính xác, kịp thời",
+    "b": "Tự ý công khai dữ liệu cá nhân",
+    "c": "Từ chối cấp căn cước điện tử",
+    "d": "Quản lý tài sản cá nhân",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 6 quy định cơ quan quản lý căn cước có trách nhiệm thu thập, cập nhật, điều chỉnh thông tin đầy đủ, chính xác, kịp thời."
+  },
+  {
+    "question": "Theo Luật Căn cước 2023, cơ quan quản lý căn cước có trách nhiệm nào sau đây?",
+    "a": "Bảo đảm an ninh, an toàn thông tin và bảo vệ dữ liệu cá nhân",
+    "b": "Công khai toàn bộ dữ liệu dân cư",
+    "c": "Xóa dữ liệu khi có yêu cầu miệng",
+    "d": "Cho phép mọi cá nhân truy cập hệ thống",
+    "answer": "a",
+    "explanation": "Khoản 3 Điều 6 quy định cơ quan quản lý căn cước phải bảo đảm an ninh, an toàn thông tin và bảo vệ dữ liệu cá nhân."
+  },
+  {
+    "question": "Theo Luật Căn cước 2023, cơ quan quản lý căn cước có trách nhiệm cấp, quản lý loại nào?",
+    "a": "Giấy phép xây dựng",
+    "b": "Giấy chứng nhận quyền sử dụng đất",
+    "c": "Căn cước điện tử",
+    "d": "Giấy phép kinh doanh",
+    "answer": "c",
+    "explanation": "Khoản 5 Điều 6 quy định cơ quan quản lý căn cước có trách nhiệm cấp, quản lý căn cước điện tử."
+  },
+{
+  "question": "Theo Luật Căn cước 2023, hành vi nào sau đây bị nghiêm cấm?",
+  "a": "Thuê, cho thuê thẻ căn cước",
+  "b": "Sử dụng căn cước điện tử hợp pháp",
+  "c": "Khai thác thông tin của mình",
+  "d": "Cập nhật dữ liệu dân cư đúng quy định",
+  "answer": "a",
+  "explanation": "Khoản 7 Điều 7 Luật Căn cước 2023 nghiêm cấm hành vi thuê, cho thuê, cầm cố, nhận cầm cố, hủy hoại thẻ căn cước hoặc giấy chứng nhận căn cước. Đây là các hành vi làm ảnh hưởng đến giá trị pháp lý và tính an toàn của giấy tờ căn cước."
+},
+{
+  "question": "Theo Luật Căn cước 2023, hành vi nào dưới đây bị nghiêm cấm?",
+  "a": "Sử dụng thẻ căn cước giả",
+  "b": "Sử dụng căn cước điện tử hợp lệ",
+  "c": "Đăng ký cấp lại căn cước",
+  "d": "Khai thác thông tin của bản thân",
+  "answer": "a",
+  "explanation": "Khoản 7 Điều 7 Luật Căn cước 2023 nghiêm cấm hành vi sử dụng thẻ căn cước giả, căn cước điện tử giả hoặc giấy chứng nhận căn cước giả. Hành vi này có thể bị xử lý hành chính hoặc truy cứu trách nhiệm hình sự tùy mức độ vi phạm."
+},
+{
+  "question": "Theo Luật Căn cước 2023, hành vi nào sau đây bị nghiêm cấm liên quan đến dữ liệu cá nhân?",
+  "a": "Bảo vệ dữ liệu cá nhân",
+  "b": "Truy nhập trái phép vào Cơ sở dữ liệu quốc gia về dân cư",
+  "c": "Khai thác thông tin của mình",
+  "d": "Cập nhật dữ liệu đúng quy định",
+  "answer": "b",
+  "explanation": "Khoản 8 Điều 7 Luật Căn cước 2023 nghiêm cấm hành vi truy nhập, làm thay đổi, xóa, hủy hoặc phát tán dữ liệu cá nhân trong Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu căn cước và hệ thống định danh, xác thực điện tử trái quy định của pháp luật."
+},
+{
+  "question": "Theo Luật Căn cước 2023, hành vi nào sau đây bị nghiêm cấm?",
+  "a": "Mua bán dữ liệu trong Cơ sở dữ liệu quốc gia về dân cư trái phép",
+  "b": "Khai thác thông tin theo thẩm quyền",
+  "c": "Cập nhật thông tin cư trú",
+  "d": "Bảo đảm an toàn thông tin",
+  "answer": "a",
+  "explanation": "Khoản 9 Điều 7 Luật Căn cước 2023 nghiêm cấm hành vi khai thác, chia sẻ, mua bán, trao đổi, chiếm đoạt hoặc sử dụng trái phép thông tin, dữ liệu trong Cơ sở dữ liệu quốc gia về dân cư và hệ thống định danh điện tử."
+},
+{
+  "question": "Theo Luật Căn cước 2023, Cơ sở dữ liệu quốc gia về dân cư được xây dựng và quản lý như thế nào?",
+  "a": "Phân tán tại địa phương",
+  "b": "Do UBND cấp tỉnh quản lý",
+  "c": "Tập trung, thống nhất tại cơ quan quản lý căn cước của Bộ Công an",
+  "d": "Do Bộ Tư pháp quản lý",
+  "answer": "c",
+  "explanation": "Khoản 1 Điều 8 Luật Căn cước 2023 quy định Cơ sở dữ liệu quốc gia về dân cư được xây dựng và quản lý tập trung, thống nhất tại cơ quan quản lý căn cước của Bộ Công an nhằm bảo đảm tính đồng bộ và hiệu quả quản lý."
+},
+{
+  "question": "Theo Luật Căn cước 2023, yêu cầu nào sau đây đối với Cơ sở dữ liệu quốc gia về dân cư là đúng?",
+  "a": "Không cần kết nối với cơ sở dữ liệu khác",
+  "b": "Bảo đảm an ninh, an toàn thông tin và bảo vệ dữ liệu cá nhân",
+  "c": "Chỉ phục vụ quản lý cư trú",
+  "d": "Không lưu trữ lịch sử cập nhật dữ liệu",
+  "answer": "b",
+  "explanation": "Khoản 3 Điều 8 Luật Căn cước 2023 quy định việc xây dựng và quản lý Cơ sở dữ liệu quốc gia về dân cư phải bảo đảm an ninh, an toàn thông tin, bảo vệ dữ liệu cá nhân và tạo thuận lợi cho việc khai thác, sử dụng."
+},
+{
+  "question": "Theo Luật Căn cước 2023, Cơ sở dữ liệu quốc gia về dân cư phải bảo đảm điều gì?",
+  "a": "Ngắt kết nối với các cơ sở dữ liệu khác",
+  "b": "Kết nối, chia sẻ với các cơ sở dữ liệu quốc gia và cổng dịch vụ công",
+  "c": "Chỉ sử dụng nội bộ ngành công an",
+  "d": "Không cho phép khai thác dữ liệu",
+  "answer": "b",
+  "explanation": "Khoản 4 Điều 8 Luật Căn cước 2023 quy định Cơ sở dữ liệu quốc gia về dân cư phải bảo đảm kết nối, chia sẻ với các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, trung tâm dữ liệu quốc gia và cổng dịch vụ công."
+},
+{
+  "question": "Theo Luật Căn cước 2023, thông tin nào sau đây có trong Cơ sở dữ liệu quốc gia về dân cư?",
+  "a": "Nhóm máu",
+  "b": "Mức lương",
+  "c": "Số tài khoản ngân hàng",
+  "d": "Tài sản cá nhân",
+  "answer": "a",
+  "explanation": "Khoản 12 Điều 9 Luật Căn cước 2023 quy định nhóm máu là một trong các thông tin được lưu trữ trong Cơ sở dữ liệu quốc gia về dân cư để phục vụ quản lý nhà nước và nhu cầu khai thác thông tin hợp pháp."
+},
+{
+  "question": "Theo Luật Căn cước 2023, thông tin nào dưới đây thuộc Cơ sở dữ liệu quốc gia về dân cư?",
+  "a": "Tình trạng hôn nhân",
+  "b": "Lịch sử giao dịch ngân hàng",
+  "c": "Mức thu nhập",
+  "d": "Mã số thuế doanh nghiệp",
+  "answer": "a",
+  "explanation": "Khoản 21 Điều 9 Luật Căn cước 2023 quy định tình trạng hôn nhân là thông tin được cập nhật trong Cơ sở dữ liệu quốc gia về dân cư nhằm phục vụ công tác quản lý dân cư và giải quyết thủ tục hành chính."
+},
+{
+  "question": "Theo Luật Căn cước 2023, thông tin nào sau đây được lưu trong Cơ sở dữ liệu quốc gia về dân cư?",
+  "a": "Số thuê bao di động",
+  "b": "Mật khẩu tài khoản cá nhân",
+  "c": "Mã PIN ngân hàng",
+  "d": "Lịch sử mua sắm",
+  "answer": "a",
+  "explanation": "Khoản 25 Điều 9 Luật Căn cước 2023 quy định số thuê bao di động và địa chỉ thư điện tử là các thông tin có trong Cơ sở dữ liệu quốc gia về dân cư."
+},
+{
+  "question": "Theo Luật Căn cước 2023, thông tin nào được in trên thẻ căn cước?",
+  "a": "Mã số thuế cá nhân",
+  "b": "Tình trạng hôn nhân",
+  "c": "Nơi đăng ký khai sinh",
+  "d": "Nhóm máu",
+  "answer": "c",
+  "explanation": "Khoản 2 Điều 18 Luật Căn cước 2023 quy định nơi đăng ký khai sinh là một trong các thông tin được in trên thẻ căn cước. Các thông tin khác như tình trạng hôn nhân, nhóm máu không được in trực tiếp trên mặt thẻ."
+},
+{
+  "question": "Theo Luật Căn cước 2023, thông tin nào sau đây được mã hóa, lưu trữ trong bộ phận lưu trữ trên thẻ căn cước?",
+  "a": "Điểm tín dụng cá nhân",
+  "b": "Ảnh khuôn mặt, vân tay, mống mắt",
+  "c": "Thu nhập hàng tháng",
+  "d": "Thông tin tài khoản ngân hàng",
+  "answer": "b",
+  "explanation": "Khoản 3 Điều 18 Luật Căn cước 2023 quy định thông tin được mã hóa và lưu trữ trong bộ phận lưu trữ trên thẻ căn cước gồm ảnh khuôn mặt, vân tay, mống mắt và các thông tin khác theo luật định."
+},
+{
+  "question": "Theo Luật Căn cước 2023, người nào phải thực hiện thủ tục cấp thẻ căn cước?",
+  "a": "Mọi công dân Việt Nam",
+  "b": "Công dân Việt Nam từ đủ 14 tuổi trở lên",
+  "c": "Người nước ngoài cư trú tại Việt Nam",
+  "d": "Người từ đủ 16 tuổi trở lên",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 19 Luật Căn cước 2023 quy định công dân Việt Nam từ đủ 14 tuổi trở lên phải thực hiện thủ tục cấp thẻ căn cước."
+},
+{
+  "question": "Theo Luật Căn cước 2023, công dân Việt Nam dưới 14 tuổi được cấp thẻ căn cước trong trường hợp nào?",
+  "a": "Bắt buộc trong mọi trường hợp",
+  "b": "Chỉ khi đi học",
+  "c": "Theo nhu cầu",
+  "d": "Chỉ khi có hộ chiếu",
+  "answer": "c",
+  "explanation": "Khoản 3 Điều 19 Luật Căn cước 2023 quy định công dân Việt Nam dưới 14 tuổi được cấp thẻ căn cước theo nhu cầu, không bắt buộc như đối với người từ đủ 14 tuổi trở lên."
+},
+{
+  "question": "Theo Luật Căn cước 2023, thẻ căn cước có giá trị gì?",
+  "a": "Chỉ dùng để đi lại",
+  "b": "Chỉ dùng thay hộ chiếu",
+  "c": "Chứng minh về căn cước và thông tin đã tích hợp vào thẻ",
+  "d": "Thay thế mọi loại giấy tờ",
+  "answer": "c",
+  "explanation": "Khoản 1 Điều 20 Luật Căn cước 2023 quy định thẻ căn cước có giá trị chứng minh về căn cước và thông tin khác đã được tích hợp vào thẻ để thực hiện thủ tục hành chính, dịch vụ công và các giao dịch khác."
+},
+{
+  "question": "Theo Luật Căn cước 2023, thẻ căn cước được sử dụng thay giấy tờ xuất nhập cảnh trong trường hợp nào?",
+  "a": "Mọi trường hợp xuất cảnh",
+  "b": "Khi công dân có yêu cầu",
+  "c": "Khi Việt Nam và nước ngoài có điều ước hoặc thỏa thuận quốc tế cho phép",
+  "d": "Khi có xác nhận của UBND cấp xã",
+  "answer": "c",
+  "explanation": "Khoản 2 Điều 20 Luật Căn cước 2023 quy định thẻ căn cước được sử dụng thay giấy tờ xuất nhập cảnh khi Việt Nam và nước ngoài ký kết điều ước hoặc thỏa thuận quốc tế cho phép sử dụng thẻ căn cước thay giấy tờ xuất nhập cảnh."
+},
+{
+  "question": "Theo Luật Căn cước 2023, khi đã xuất trình thẻ căn cước, cơ quan có thẩm quyền có được yêu cầu xuất trình giấy tờ chứa thông tin đã tích hợp trên thẻ không?",
+  "a": "Luôn được yêu cầu",
+  "b": "Không được yêu cầu",
+  "c": "Chỉ được yêu cầu bản sao",
+  "d": "Chỉ được yêu cầu đối với người dưới 18 tuổi",
+  "answer": "b",
+  "explanation": "Khoản 3 Điều 20 Luật Căn cước 2023 quy định khi người dân đã xuất trình thẻ căn cước thì cơ quan, tổ chức, cá nhân có thẩm quyền không được yêu cầu xuất trình giấy tờ hoặc cung cấp thông tin đã được in hoặc tích hợp vào thẻ, trừ trường hợp thông tin đã thay đổi."
+},
+{
+  "question": "Theo Luật Căn cước 2023, công dân phải cấp đổi thẻ căn cước khi đủ bao nhiêu tuổi?",
+  "a": "14 tuổi, 25 tuổi, 40 tuổi và 60 tuổi",
+  "b": "16 tuổi, 30 tuổi và 60 tuổi",
+  "c": "18 tuổi, 35 tuổi và 55 tuổi",
+  "d": "14 tuổi và 40 tuổi",
+  "answer": "a",
+  "explanation": "Khoản 1 Điều 21 Luật Căn cước 2023 quy định công dân phải thực hiện thủ tục cấp đổi thẻ căn cước khi đủ 14 tuổi, 25 tuổi, 40 tuổi và 60 tuổi."
+},
+{
+  "question": "Theo Luật Căn cước 2023, thẻ căn cước được cấp hoặc cấp đổi trong thời hạn 02 năm trước độ tuổi phải cấp đổi tiếp theo thì:",
+  "a": "Phải đổi ngay khi đến tuổi",
+  "b": "Có giá trị sử dụng đến tuổi cấp đổi tiếp theo",
+  "c": "Chỉ có giá trị 01 năm",
+  "d": "Bị thu hồi tự động",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 21 Luật Căn cước 2023 quy định thẻ căn cước được cấp, cấp đổi hoặc cấp lại trong thời hạn 02 năm trước độ tuổi cấp đổi thì được sử dụng đến tuổi cấp đổi tiếp theo."
+},
+{
+  "question": "Theo Luật Căn cước 2023, thông tin nào sau đây được tích hợp vào thẻ căn cước?",
+  "a": "Giấy phép lái xe",
+  "b": "Giấy chứng nhận quyền sử dụng đất",
+  "c": "Giấy đăng ký doanh nghiệp",
+  "d": "Hợp đồng lao động",
+  "answer": "a",
+  "explanation": "Khoản 2 Điều 22 Luật Căn cước 2023 quy định giấy phép lái xe là một trong các thông tin được tích hợp vào thẻ căn cước theo đề nghị của công dân."
+},
+{
+  "question": "Theo Luật Căn cước 2023, việc sử dụng thông tin đã tích hợp vào thẻ căn cước có giá trị như thế nào?",
+  "a": "Chỉ có giá trị tham khảo",
+  "b": "Có giá trị tương đương việc xuất trình giấy tờ chứa thông tin đó",
+  "c": "Không có giá trị pháp lý",
+  "d": "Chỉ dùng trong giao dịch dân sự",
+  "answer": "b",
+  "explanation": "Khoản 3 Điều 22 Luật Căn cước 2023 quy định việc sử dụng thông tin đã được tích hợp vào thẻ căn cước có giá trị tương đương như việc cung cấp thông tin hoặc sử dụng giấy tờ có chứa thông tin đó."
+},
+{
+  "question": "Theo Luật Căn cước 2023, ai được khai thác thông tin tích hợp được mã hóa trong thẻ căn cước để thực hiện chức năng, nhiệm vụ được giao?",
+  "a": "Mọi cá nhân",
+  "b": "Cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội",
+  "c": "Mọi doanh nghiệp tư nhân",
+  "d": "Người sử dụng lao động",
+  "answer": "b",
+  "explanation": "Điểm c khoản 5 Điều 22 Luật Căn cước 2023 quy định cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội được khai thác thông tin tích hợp được mã hóa trong thẻ căn cước để thực hiện chức năng, nhiệm vụ được giao."
+},
+{
+  "question": "Theo Luật Căn cước 2023, người tiếp nhận cấp thẻ căn cước có trách nhiệm gì sau khi thu nhận thông tin?",
+  "a": "Giữ hồ sơ không xử lý",
+  "b": "Cấp giấy hẹn trả thẻ căn cước",
+  "c": "Từ chối trả kết quả",
+  "d": "Yêu cầu người dân tự in thẻ",
+  "answer": "b",
+  "explanation": "Điểm d khoản 1 Điều 23 Luật Căn cước 2023 quy định người tiếp nhận phải cấp giấy hẹn trả thẻ căn cước cho người làm thủ tục cấp thẻ."
+},
+{
+  "question": "Theo Luật Căn cước 2023, cơ quan quản lý căn cước có thu nhận thông tin sinh trắc học của người dưới 06 tuổi không?",
+  "a": "Có, trong mọi trường hợp",
+  "b": "Không thu nhận",
+  "c": "Chỉ thu nhận vân tay",
+  "d": "Chỉ thu nhận ảnh khuôn mặt",
+  "answer": "b",
+  "explanation": "Điểm a khoản 2 Điều 23 Luật Căn cước 2023 quy định cơ quan quản lý căn cước không thu nhận thông tin nhân dạng và thông tin sinh trắc học đối với người dưới 06 tuổi."
+},
+{
+  "question": "Theo Luật Căn cước 2023, trường hợp từ chối cấp thẻ căn cước thì cơ quan quản lý căn cước phải làm gì?",
+  "a": "Thông báo miệng",
+  "b": "Không cần giải thích",
+  "c": "Trả lời bằng văn bản và nêu rõ lý do",
+  "d": "Chuyển hồ sơ sang UBND cấp xã",
+  "answer": "c",
+  "explanation": "Khoản 4 Điều 23 Luật Căn cước 2023 quy định trường hợp từ chối cấp thẻ căn cước thì cơ quan quản lý căn cước phải trả lời bằng văn bản và nêu rõ lý do."
+},
+{
+  "question": "Theo Luật Căn cước 2023, trường hợp nào sau đây thuộc trường hợp cấp đổi thẻ căn cước?",
+  "a": "Bị mất thẻ căn cước",
+  "b": "Được trở lại quốc tịch Việt Nam",
+  "c": "Thay đổi họ, chữ đệm, tên khai sinh",
+  "d": "Thẻ bị hư hỏng không sử dụng được",
+  "answer": "c",
+  "explanation": "Điểm b khoản 1 Điều 24 Luật Căn cước 2023 quy định trường hợp thay đổi, cải chính thông tin về họ, chữ đệm, tên khai sinh hoặc ngày tháng năm sinh thì phải thực hiện cấp đổi thẻ căn cước."
+},
+{
+  "question": "Theo Luật Căn cước 2023, trường hợp nào sau đây thuộc trường hợp cấp lại thẻ căn cước?",
+  "a": "Thay đổi giới tính",
+  "b": "Có sai sót thông tin in trên thẻ",
+  "c": "Bị mất thẻ căn cước",
+  "d": "Xác lập lại số định danh cá nhân",
+  "answer": "c",
+  "explanation": "Điểm a khoản 2 Điều 24 Luật Căn cước 2023 quy định trường hợp bị mất thẻ căn cước hoặc thẻ bị hư hỏng không sử dụng được thì được cấp lại thẻ căn cước."
+},
+     {
     "question": "Theo Luật Phòng, chống rửa tiền 2022, đối tượng báo cáo phải cập nhật thông tin nhận biết khách hàng nhằm mục đích gì?",
     "a": "Để quảng bá sản phẩm cho khách hàng",
     "b": "Để bảo đảm giao dịch của khách hàng phù hợp với hồ sơ, hoạt động kinh doanh và mức độ rủi ro",
