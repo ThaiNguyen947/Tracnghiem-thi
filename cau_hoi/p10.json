@@ -1,4 +1,13 @@
 [
+    {
+    "question": "Theo Luật Công chứng 2024, công chứng viên hướng dẫn tập sự bị xử lý kỷ luật thì khi nào được tiếp tục hướng dẫn tập sự?",
+    "a": "Ngay sau khi bị xử lý",
+    "b": "Sau 06 tháng",
+    "c": "Sau 12 tháng kể từ khi chấp hành xong quyết định",
+    "d": "Không được hướng dẫn lại",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 12 quy định công chứng viên bị xử lý kỷ luật hoặc xử phạt vi phạm hành chính thì sau 12 tháng kể từ khi chấp hành xong mới được hướng dẫn tập sự."
+  },
    {
     "question": "Theo Luật Công chứng 2024, đâu là giới hạn độ tuổi tối đa để một cá nhân được xem xét bổ nhiệm công chứng viên?",
     "a": "65 tuổi",
