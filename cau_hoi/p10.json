@@ -1,4 +1,130 @@
 [
+   {
+    "question": "Theo Luật Công chứng 2024, đâu là giới hạn độ tuổi tối đa để một cá nhân được xem xét bổ nhiệm công chứng viên?",
+    "a": "65 tuổi",
+    "b": "68 tuổi",
+    "c": "70 tuổi",
+    "d": "Không giới hạn độ tuổi",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 10 Luật Công chứng 2024 quy định người được xem xét bổ nhiệm công chứng viên phải là công dân Việt Nam không quá 70 tuổi."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, tiêu chuẩn về nơi cư trú của người được xem xét bổ nhiệm công chứng viên được quy định như thế nào?",
+    "a": "Phải có hộ khẩu thường trú tại chính địa phương nơi dự kiến hành nghề",
+    "b": "Phải là người thường trú tại Việt Nam",
+    "c": "Phải có thời gian tạm trú tại Việt Nam từ đủ 03 năm trở lên",
+    "d": "Phải sở hữu nơi ở hợp pháp tại Việt Nam",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 10 Luật Công chứng 2024 quy định người được xem xét bổ nhiệm công chứng viên phải thường trú tại Việt Nam."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, người đáp ứng tiêu chuẩn học vấn để được bổ nhiệm công chứng viên phải có văn bằng nào sau đây?",
+    "a": "Bằng cử nhân ngành hành chính công",
+    "b": "Bằng thạc sĩ quản trị kinh doanh hoặc tương đương",
+    "c": "Bằng cử nhân luật, thạc sĩ luật hoặc tiến sĩ luật",
+    "d": "Bằng cử nhân kinh tế hoặc cử nhân luật",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 10 Luật Công chứng 2024 quy định người được xem xét bổ nhiệm công chứng viên phải có bằng cử nhân luật hoặc thạc sĩ luật hoặc tiến sĩ luật."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, thời gian công tác pháp luật tối thiểu để một cá nhân đủ điều kiện bổ nhiệm công chứng viên là bao nhiêu?",
+    "a": "Từ đủ 01 năm trở lên sau khi có bằng luật",
+    "b": "Từ đủ 02 năm trở lên sau khi có bằng luật",
+    "c": "Từ đủ 03 năm trở lên sau khi có bằng luật",
+    "d": "Từ đủ 05 năm trở lên sau khi có bằng luật",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 10 Luật Công chứng 2024 quy định phải có thời gian công tác pháp luật từ đủ 03 năm trở lên sau khi có bằng luật."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, để được bổ nhiệm công chứng viên, người dự tuyển phải đạt yêu cầu của hình thức kiểm tra nào sau đây?",
+    "a": "Thi tuyển công chức ngành tư pháp tại địa phương",
+    "b": "Kiểm tra kết quả tập sự hành nghề công chứng",
+    "c": "Sát hạch năng lực hành nghề luật sư",
+    "d": "Thi tuyển viên chức theo quy định của Luật Viên chức",
+    "answer": "b",
+    "explanation": "Khoản 6 Điều 10 Luật Công chứng 2024 quy định người được xem xét bổ nhiệm công chứng viên phải đạt yêu cầu kiểm tra kết quả tập sự hành nghề công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, đối tượng nào dưới đây được quyền đăng ký tham dự khóa đào tạo nghề công chứng?",
+    "a": "Người có bằng trung cấp luật trở lên",
+    "b": "Người có bằng cử nhân luật, thạc sĩ luật hoặc tiến sĩ luật",
+    "c": "Người đang làm việc tại các cơ quan tư pháp",
+    "d": "Người đã có chứng chỉ hành nghề luật sư",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 11 Luật Công chứng 2024 quy định người có bằng cử nhân luật hoặc thạc sĩ luật hoặc tiến sĩ luật được đăng ký tham dự khóa đào tạo nghề công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, thời gian đào tạo nghề công chứng tiêu chuẩn là bao lâu?",
+    "a": "06 tháng",
+    "b": "09 tháng",
+    "c": "12 tháng",
+    "d": "18 tháng",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 11 Luật Công chứng 2024 quy định thời gian đào tạo nghề công chứng là 12 tháng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, luật sư đã hành nghề bao nhiêu năm trở lên thì được hưởng chế độ đào tạo nghề công chứng rút gọn (06 tháng)?",
+    "a": "Từ đủ 02 năm trở lên",
+    "b": "Từ đủ 03 năm trở lên",
+    "c": "Từ đủ 05 năm trở lên",
+    "d": "Từ đủ 10 năm trở lên",
+    "answer": "c",
+    "explanation": "Điểm b khoản 3 Điều 11 Luật Công chứng 2024 quy định luật sư đã hành nghề từ đủ 05 năm trở lên thì thời gian đào tạo nghề công chứng là 06 tháng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, ngoài luật sư, đối tượng nào sau đây cũng được áp dụng thời gian đào tạo nghề công chứng là 06 tháng?",
+    "a": "Người có bằng cử nhân luật mới tốt nghiệp",
+    "b": "Giáo sư, phó giáo sư chuyên ngành luật và tiến sĩ luật",
+    "c": "Người đang thực hiện tập sự hành nghề luật sư",
+    "d": "Công chức tư pháp cấp xã có bằng luật",
+    "answer": "b",
+    "explanation": "Điểm c khoản 3 Điều 11 Luật Công chứng 2024 quy định giáo sư, phó giáo sư chuyên ngành luật; tiến sĩ luật có thời gian đào tạo nghề công chứng là 06 tháng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, cơ quan nào có thẩm quyền ban hành chương trình khung đào tạo nghề công chứng?",
+    "a": "Chính phủ",
+    "b": "Tòa án nhân dân tối cao",
+    "c": "Bộ trưởng Bộ Tư pháp",
+    "d": "Liên đoàn luật sư Việt Nam",
+    "answer": "c",
+    "explanation": "Khoản 6 Điều 11 Luật Công chứng 2024 quy định Bộ trưởng Bộ Tư pháp quy định về chương trình khung đào tạo nghề công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, trong trường hợp không thể tự liên hệ nơi tập sự, người tập sự thực hiện thủ tục nào?",
+    "a": "Đề nghị Ủy ban nhân dân cấp huyện bố trí đơn vị tập sự",
+    "b": "Đề nghị Tòa án nhân dân nơi cư trú bố trí đơn vị tập sự",
+    "c": "Đề nghị Sở Tư pháp bố trí nơi tập sự",
+    "d": "Đề nghị Bộ Tư pháp trực tiếp bố trí đơn vị tập sự",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 12 Luật Công chứng 2024 quy định trường hợp không liên hệ tập sự được thì đề nghị Sở Tư pháp bố trí tập sự."
+  },
+{
+  "question": "Theo Luật Công chứng 2024, tiêu chuẩn về kinh nghiệm hành nghề của công chứng viên và giới hạn số lượng người tập sự được hướng dẫn cùng lúc được quy định như thế nào?",
+  "a": "Ít nhất 01 năm kinh nghiệm và hướng dẫn tối đa 01 người",
+  "b": "Từ đủ 02 năm kinh nghiệm hành nghề trở lên và hướng dẫn tối đa 02 người",
+  "c": "Từ đủ 03 năm kinh nghiệm hành nghề trở lên và hướng dẫn tối đa 03 người",
+  "d": "Từ đủ 05 năm kinh nghiệm hành nghề trở lên và không giới hạn số lượng người",
+  "answer": "b",
+  "explanation": "Khoản 3 Điều 12 Luật Công chứng 2024: Công chứng viên hướng dẫn tập sự phải có từ đủ 02 năm kinh nghiệm hành nghề công chứng trở lên và tại cùng một thời điểm chỉ được hướng dẫn tối đa 02 người tập sự."
+},
+{
+  "question": "Phát biểu nào sau đây phản ánh chính xác nhất về thủ tục cho người tập sự hành nghề công chứng theo Luật Công chứng 2024?",
+  "a": "Việc nộp hồ sơ tại Sở Tư pháp là bước bắt buộc để được chấp thuận tư cách tập sự, thời gian tập sự là 12 tháng phụ thuộc vào hiệu lực của quyết định đăng ký đó",
+  "b": "Chỉ cần thỏa thuận được với tổ chức hành nghề công chứng nhận tập sự thì thời gian tập sự mặc nhiên được tính từ ngày đó",
+  "c": "Người tập sự có thể nộp hồ sơ tại bất kỳ Sở Tư pháp nào thuận tiện nhất, không cần theo địa bàn nơi có tổ chức nhận tập sự",
+  "d": "Việc quyết định thời điểm tính tập sự thuộc thẩm quyền thỏa thuận giữa người tập sự và công chứng viên hướng dẫn",
+  "answer": "a",
+  "explanation": "Khoản 1 Điều 12 Người tập sự phải đăng ký tập sự tại Sở Tư pháp ở địa phương nơi có tổ chức hành nghề công chứng nhận tập sự. Thời gian tập sự hành nghề công chứng là 12 tháng, được tính từ ngày quyết định đăng ký tập sự có hiệu lực"
+},
+{
+  "question": "Theo Luật Công chứng 2024, để bắt đầu thời gian tập sự hành nghề công chứng, người tập sự phải thực hiện thủ tục gì và thời điểm tính thời gian tập sự được xác định như thế nào?",
+  "a": "Đăng ký tại Bộ Tư pháp; tính từ ngày nộp hồ sơ",
+  "b": "Đăng ký tại Sở Tư pháp nơi có tổ chức nhận tập sự; tính từ ngày quyết định đăng ký tập sự có hiệu lực",
+  "c": "Đăng ký tại Sở Tư pháp nơi có tổ chức nhận tập sự; tính từ ngày tổ chức hành nghề tiếp nhận người tập sự",
+  "d": "Đăng ký tại UBND cấp tỉnh; tính từ ngày quyết định đăng ký tập sự có hiệu lực",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 12 Luật Công chứng 2024: Người tập sự phải đăng ký tập sự tại Sở Tư pháp nơi có tổ chức hành nghề công chứng nhận tập sự; thời gian tập sự được tính từ ngày quyết định đăng ký tập sự có hiệu lực."
+},
 {
   "question": "Theo Luật Công chứng 2024, hành vi nào sau đây vừa thuộc trường hợp xung đột lợi ích của công chứng viên, vừa thuộc hành vi bị nghiêm cấm về cấu kết làm sai lệch hồ sơ công chứng?",
   "a": "Thực hiện giải thích quyền, nghĩa vụ cho các bên và thực hiện kiểm tra tính hợp pháp của các giấy tờ trong hồ sơ công chứng theo quy định",
