@@ -1,5 +1,482 @@
 [
     {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, rửa tiền là hành vi nào?",
+    "a": "che giấu doanh thu kinh doanh",
+    "b": "hợp pháp hóa nguồn gốc của tài sản do phạm tội mà có",
+    "c": "trốn thuế thông qua giao dịch dân sự",
+    "d": "chuyển tiền ra nước ngoài không khai báo",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 3 Luật Phòng, chống rửa tiền 2022 quy định rửa tiền là hành vi của tổ chức, cá nhân nhằm hợp pháp hóa nguồn gốc của tài sản do phạm tội mà có."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, tài sản do phạm tội mà có bao gồm nội dung nào sau đây?",
+    "a": "chỉ tài sản có được trực tiếp từ hành vi phạm tội",
+    "b": "chỉ tài sản hữu hình",
+    "c": "tài sản có được trực tiếp hoặc gián tiếp từ hành vi phạm tội và hoa lợi, lợi tức phát sinh từ tài sản đó",
+    "d": "chỉ tiền mặt do phạm tội mà có",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 3 Luật Phòng, chống rửa tiền 2022 quy định tài sản do phạm tội mà có gồm tài sản có được trực tiếp hoặc gián tiếp từ hành vi phạm tội; phần thu nhập, hoa lợi, lợi tức, lợi nhuận sinh ra từ tài sản đó."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, giao dịch có giá trị lớn phải báo cáo là giao dịch nào?",
+    "a": "mọi giao dịch chuyển khoản",
+    "b": "giao dịch bằng tiền mặt hoặc ngoại tệ tiền mặt có tổng giá trị bằng hoặc vượt mức quy định",
+    "c": "mọi giao dịch liên quan đến bất động sản",
+    "d": "mọi giao dịch trên 10 triệu đồng",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 3 Luật Phòng, chống rửa tiền 2022 quy định giao dịch có giá trị lớn phải báo cáo là giao dịch bằng tiền mặt hoặc ngoại tệ tiền mặt được thực hiện một hoặc nhiều lần trong một ngày, có tổng giá trị bằng hoặc vượt mức quy định."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, chủ sở hữu hưởng lợi là ai?",
+    "a": "mọi cá nhân có tên trên hợp đồng",
+    "b": "cá nhân có quyền sở hữu trên thực tế hoặc quyền chi phối khách hàng thực hiện giao dịch liên quan đến tài sản",
+    "c": "người được thuê quản lý tài sản",
+    "d": "mọi cổ đông của doanh nghiệp",
+    "answer": "b",
+    "explanation": "Khoản 7 Điều 3 Luật Phòng, chống rửa tiền 2022 quy định chủ sở hữu hưởng lợi là cá nhân có quyền sở hữu trên thực tế một hoặc một số tài sản hoặc có quyền chi phối khách hàng thực hiện giao dịch liên quan đến tài sản."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, ngân hàng vỏ bọc là ngân hàng như thế nào?",
+    "a": "ngân hàng chưa niêm yết trên sàn chứng khoán",
+    "b": "ngân hàng không có sự hiện diện thực tế tại quốc gia hoặc vùng lãnh thổ nơi được thành lập và cấp phép",
+    "c": "ngân hàng chỉ hoạt động trực tuyến",
+    "d": "ngân hàng không có vốn nhà nước",
+    "answer": "b",
+    "explanation": "Khoản 13 Điều 3 Luật Phòng, chống rửa tiền 2022 quy định ngân hàng vỏ bọc là ngân hàng không có sự hiện diện thực tế tại quốc gia hoặc vùng lãnh thổ mà tại đó ngân hàng phải được thành lập và cấp phép."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, tổ chức hành nghề công chứng có phải là đối tượng báo cáo hay không?",
+    "a": "không",
+    "b": "chỉ khi công chứng hợp đồng mua bán nhà",
+    "c": "có",
+    "d": "chỉ khi có yếu tố nước ngoài",
+    "answer": "c",
+    "explanation": "Điểm d khoản 2 Điều 4 Luật Phòng, chống rửa tiền 2022 quy định tổ chức, cá nhân kinh doanh dịch vụ công chứng là đối tượng báo cáo."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, hoạt động nào sau đây của tổ chức tài chính thuộc đối tượng báo cáo?",
+    "a": "nhận tiền gửi",
+    "b": "kinh doanh vận tải",
+    "c": "dịch vụ lưu trú",
+    "d": "môi giới lao động",
+    "answer": "a",
+    "explanation": "Điểm a khoản 1 Điều 4 Luật Phòng, chống rửa tiền 2022 quy định tổ chức tài chính thực hiện hoạt động nhận tiền gửi là đối tượng báo cáo."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, nguyên tắc nào sau đây phải được bảo đảm trong phòng, chống rửa tiền?",
+    "a": "ưu tiên lợi ích kinh tế hơn an ninh quốc gia",
+    "b": "chống lạm quyền, lợi dụng việc phòng chống rửa tiền để xâm phạm quyền và lợi ích hợp pháp của tổ chức, cá nhân",
+    "c": "mọi giao dịch tài chính đều phải đình chỉ",
+    "d": "mọi tổ chức phải công khai dữ liệu khách hàng",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 5 Luật Phòng, chống rửa tiền 2022 quy định phải chống lạm quyền, lợi dụng việc phòng, chống rửa tiền để xâm phạm quyền và lợi ích hợp pháp của tổ chức, cá nhân."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, hành vi nào sau đây bị nghiêm cấm?",
+    "a": "nhận biết khách hàng",
+    "b": "thiết lập, duy trì tài khoản vô danh hoặc tài khoản sử dụng tên giả",
+    "c": "xác minh thông tin khách hàng",
+    "d": "báo cáo giao dịch đáng ngờ",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 8 Luật Phòng, chống rửa tiền 2022 quy định nghiêm cấm thiết lập, duy trì tài khoản vô danh hoặc tài khoản sử dụng tên giả."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, hành vi nào sau đây bị nghiêm cấm trong phòng, chống rửa tiền?",
+    "a": "thiết lập quan hệ kinh doanh với ngân hàng vỏ bọc",
+    "b": "thu thập thông tin khách hàng",
+    "c": "xác minh chủ sở hữu hưởng lợi",
+    "d": "cập nhật thông tin khách hàng",
+    "answer": "a",
+    "explanation": "Khoản 3 Điều 8 Luật Phòng, chống rửa tiền 2022 quy định nghiêm cấm thiết lập, duy trì quan hệ kinh doanh với ngân hàng vỏ bọc."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, nhận biết khách hàng bao gồm hoạt động nào?",
+    "a": "thu thập, cập nhật, xác minh thông tin khách hàng",
+    "b": "chỉ lưu trữ thông tin khách hàng",
+    "c": "chỉ xác minh địa chỉ cư trú",
+    "d": "định giá tài sản khách hàng",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 9 Luật Phòng, chống rửa tiền 2022 quy định nhận biết khách hàng bao gồm thu thập, cập nhật, xác minh thông tin."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, tổ chức tài chính phải nhận biết khách hàng trong trường hợp nào?",
+    "a": "khách hàng lần đầu mở tài khoản hoặc thiết lập quan hệ với tổ chức tài chính",
+    "b": "chỉ khi khách hàng là người nước ngoài",
+    "c": "chỉ khi có yêu cầu của cơ quan điều tra",
+    "d": "chỉ khi giao dịch bằng ngoại tệ",
+    "answer": "a",
+    "explanation": "Điểm a khoản 2 Điều 9 Luật Phòng, chống rửa tiền 2022 quy định tổ chức tài chính phải nhận biết khách hàng khi khách hàng lần đầu mở tài khoản hoặc thiết lập quan hệ với tổ chức tài chính."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, tổ chức hành nghề công chứng phải nhận biết khách hàng khi nào?",
+    "a": "mọi trường hợp công chứng",
+    "b": "chỉ khi công chứng di chúc",
+    "c": "khi thực hiện thủ tục công chứng hoặc thay mặt khách hàng thực hiện giao dịch theo quy định",
+    "d": "chỉ khi khách hàng là tổ chức",
+    "answer": "c",
+    "explanation": "Điểm d khoản 3 Điều 9 Luật Phòng, chống rửa tiền 2022 quy định tổ chức hành nghề công chứng phải nhận biết khách hàng khi thực hiện thủ tục công chứng hoặc thay mặt khách hàng thực hiện các giao dịch theo luật định."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, thông tin nhận biết khách hàng cá nhân là người Việt Nam bao gồm nội dung nào sau đây?",
+    "a": "mã số bảo hiểm xã hội",
+    "b": "tình trạng hôn nhân",
+    "c": "họ và tên; ngày, tháng, năm sinh; quốc tịch; nghề nghiệp, chức vụ và thông tin giấy tờ định danh",
+    "d": "mức thu nhập hằng tháng",
+    "answer": "c",
+    "explanation": "Điểm a khoản 1 Điều 10 Luật Phòng, chống rửa tiền 2022 quy định thông tin nhận biết khách hàng cá nhân là người Việt Nam gồm họ tên, ngày sinh, quốc tịch, nghề nghiệp, chức vụ, số giấy tờ định danh và các thông tin liên quan khác."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, đối tượng báo cáo có trách nhiệm gì đối với chủ sở hữu hưởng lợi?",
+    "a": "không cần xác định nếu khách hàng là tổ chức",
+    "b": "xác định và áp dụng biện pháp để nhận biết, cập nhật thông tin về chủ sở hữu hưởng lợi",
+    "c": "chỉ lưu thông tin khi có yêu cầu",
+    "d": "chỉ xác định khi có tranh chấp",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 10 Luật Phòng, chống rửa tiền 2022 quy định đối tượng báo cáo phải xác định chủ sở hữu hưởng lợi và áp dụng các biện pháp để nhận biết, cập nhật thông tin về chủ sở hữu hưởng lợi."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, người khởi tạo là ai?",
+    "a": "người thụ hưởng giao dịch",
+    "b": "chủ tài khoản hoặc người yêu cầu tổ chức tài chính thực hiện chuyển tiền điện tử",
+    "c": "nhân viên ngân hàng thực hiện giao dịch",
+    "d": "mọi cá nhân nhận tiền",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 3 Luật Phòng, chống rửa tiền 2022 quy định người khởi tạo là chủ tài khoản hoặc người yêu cầu tổ chức tài chính thực hiện chuyển tiền điện tử trong trường hợp không qua tài khoản."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, chuyển tiền điện tử là giao dịch được thực hiện bằng phương thức nào?",
+    "a": "phương thức thủ công",
+    "b": "phương thức điện tử",
+    "c": "phương thức công chứng",
+    "d": "phương thức xác minh trực tiếp",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 3 Luật Phòng, chống rửa tiền 2022 quy định chuyển tiền điện tử là giao dịch được thực hiện bằng phương thức điện tử theo yêu cầu của người khởi tạo."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, danh sách đen bao gồm danh sách tổ chức, cá nhân nào?",
+    "a": "có nợ xấu ngân hàng",
+    "b": "có liên quan đến khủng bố, tài trợ khủng bố hoặc phổ biến vũ khí hủy diệt hàng loạt",
+    "c": "vi phạm thuế",
+    "d": "kinh doanh trái phép",
+    "answer": "b",
+    "explanation": "Khoản 9 Điều 3 Luật Phòng, chống rửa tiền 2022 quy định danh sách đen bao gồm danh sách tổ chức, cá nhân có liên quan đến khủng bố, tài trợ khủng bố và phổ biến, tài trợ phổ biến vũ khí hủy diệt hàng loạt."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, danh sách cảnh báo do cơ quan nào lập?",
+    "a": "Bộ Công an",
+    "b": "Bộ Quốc phòng",
+    "c": "Ngân hàng Nhà nước Việt Nam",
+    "d": "Tòa án nhân dân tối cao",
+    "answer": "c",
+    "explanation": "Khoản 10 Điều 3 Luật Phòng, chống rửa tiền 2022 quy định danh sách cảnh báo do Ngân hàng Nhà nước Việt Nam lập."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, lực lượng đặc nhiệm tài chính là tổ chức gì?",
+    "a": "tổ chức tín dụng trong nước",
+    "b": "tổ chức liên chính phủ ban hành chuẩn mực và thúc đẩy thực thi biện pháp chống rửa tiền",
+    "c": "cơ quan điều tra hình sự",
+    "d": "tổ chức nghề nghiệp luật sư",
+    "answer": "b",
+    "explanation": "Khoản 11 Điều 3 Luật Phòng, chống rửa tiền 2022 quy định lực lượng đặc nhiệm tài chính là tổ chức liên chính phủ ban hành các chuẩn mực và thúc đẩy thực thi hiệu quả các biện pháp chống rửa tiền."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, cá nhân nước ngoài có ảnh hưởng chính trị là ai?",
+    "a": "mọi cá nhân nước ngoài cư trú tại Việt Nam",
+    "b": "người giữ chức vụ cấp cao trong cơ quan, tổ chức nước ngoài và tổ chức quốc tế",
+    "c": "mọi nhà đầu tư nước ngoài",
+    "d": "người có tài sản lớn ở nước ngoài",
+    "answer": "b",
+    "explanation": "Khoản 15 Điều 3 Luật Phòng, chống rửa tiền 2022 quy định cá nhân nước ngoài có ảnh hưởng chính trị là người giữ chức vụ cấp cao trong các cơ quan, tổ chức nước ngoài và tổ chức quốc tế."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, hoạt động cho thuê bất động sản có thuộc đối tượng báo cáo không?",
+    "a": "có",
+    "b": "không",
+    "c": "chỉ khi có yếu tố nước ngoài",
+    "d": "chỉ khi giá trị lớn",
+    "answer": "b",
+    "explanation": "Điểm b khoản 2 Điều 4 Luật Phòng, chống rửa tiền 2022 quy định kinh doanh bất động sản là đối tượng báo cáo, trừ hoạt động cho thuê, cho thuê lại bất động sản và dịch vụ tư vấn bất động sản."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, hoạt động nào sau đây thuộc đối tượng báo cáo của tổ chức tài chính?",
+    "a": "bảo lãnh ngân hàng",
+    "b": "kinh doanh vận tải",
+    "c": "dịch vụ lưu trú",
+    "d": "xuất bản sách",
+    "answer": "a",
+    "explanation": "Điểm g khoản 1 Điều 4 Luật Phòng, chống rửa tiền 2022 quy định bảo lãnh ngân hàng, cam kết tài chính là hoạt động thuộc đối tượng báo cáo."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, hoạt động nào sau đây thuộc đối tượng báo cáo?",
+    "a": "quản lý quỹ đầu tư chứng khoán",
+    "b": "kinh doanh ăn uống",
+    "c": "dịch vụ vận chuyển",
+    "d": "sản xuất hàng hóa",
+    "answer": "a",
+    "explanation": "Điểm k khoản 1 Điều 4 Luật Phòng, chống rửa tiền 2022 quy định quản lý quỹ đầu tư chứng khoán, quản lý danh mục đầu tư chứng khoán thuộc đối tượng báo cáo."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, biện pháp phòng, chống rửa tiền phải được thực hiện như thế nào?",
+    "a": "đồng bộ, kịp thời",
+    "b": "bí mật tuyệt đối",
+    "c": "theo yêu cầu của khách hàng",
+    "d": "theo từng vụ việc riêng lẻ",
+    "answer": "a",
+    "explanation": "Khoản 3 Điều 5 Luật Phòng, chống rửa tiền 2022 quy định biện pháp phòng, chống rửa tiền phải được thực hiện đồng bộ, kịp thời."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, hành vi nào sau đây bị nghiêm cấm?",
+    "a": "cung cấp trái phép dịch vụ nhận tiền mặt, séc hoặc công cụ tiền tệ khác để thanh toán cho người thụ hưởng",
+    "b": "xác minh khách hàng",
+    "c": "cập nhật thông tin khách hàng",
+    "d": "báo cáo giao dịch đáng ngờ",
+    "answer": "a",
+    "explanation": "Khoản 4 Điều 8 Luật Phòng, chống rửa tiền 2022 quy định nghiêm cấm cung cấp trái phép dịch vụ nhận tiền mặt, séc, công cụ tiền tệ khác hoặc công cụ lưu trữ giá trị và thực hiện thanh toán cho người thụ hưởng."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, hành vi nào sau đây bị nghiêm cấm trong phòng, chống rửa tiền?",
+    "a": "cản trở việc cung cấp thông tin phục vụ công tác phòng, chống rửa tiền",
+    "b": "thu thập thông tin khách hàng",
+    "c": "xác minh chủ sở hữu hưởng lợi",
+    "d": "giám sát giao dịch đáng ngờ",
+    "answer": "a",
+    "explanation": "Khoản 6 Điều 8 Luật Phòng, chống rửa tiền 2022 quy định nghiêm cấm cản trở việc cung cấp thông tin phục vụ công tác phòng, chống rửa tiền."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, hành vi đe dọa, trả thù người cung cấp thông tin về rửa tiền có bị nghiêm cấm không?",
+    "a": "không",
+    "b": "chỉ cấm trong ngành ngân hàng",
+    "c": "có",
+    "d": "chỉ cấm khi gây hậu quả nghiêm trọng",
+    "answer": "c",
+    "explanation": "Khoản 7 Điều 8 Luật Phòng, chống rửa tiền 2022 quy định nghiêm cấm hành vi đe dọa, trả thù người phát hiện, cung cấp thông tin, báo cáo, tố cáo về hành vi rửa tiền."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, tổ chức tài chính phải nhận biết khách hàng khi nào?",
+    "a": "khi nghi ngờ tính chính xác hoặc tính đầy đủ của thông tin đã thu thập trước đó",
+    "b": "chỉ khi khách hàng yêu cầu",
+    "c": "chỉ khi giao dịch bằng ngoại tệ",
+    "d": "chỉ khi có tranh chấp",
+    "answer": "a",
+    "explanation": "Điểm d khoản 2 Điều 9 Luật Phòng, chống rửa tiền 2022 quy định tổ chức tài chính phải nhận biết khách hàng khi nghi ngờ tính chính xác hoặc tính đầy đủ của thông tin đã thu thập trước đó."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, tổ chức tài chính phải nhận biết khách hàng khi nào?",
+    "a": "khi khách hàng thực hiện giao dịch chuyển tiền điện tử thiếu thông tin theo quy định",
+    "b": "chỉ khi khách hàng là tổ chức",
+    "c": "chỉ khi giao dịch trên 1 tỷ đồng",
+    "d": "chỉ khi có yêu cầu của cơ quan công an",
+    "answer": "a",
+    "explanation": "Điểm b khoản 2 Điều 9 Luật Phòng, chống rửa tiền 2022 quy định phải nhận biết khách hàng khi thực hiện giao dịch chuyển tiền điện tử mà thiếu thông tin về người khởi tạo theo quy định."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, tổ chức kinh doanh kim khí quý, đá quý phải nhận biết khách hàng khi nào?",
+    "a": "mọi giao dịch",
+    "b": "khi giao dịch mua bán bằng tiền mặt hoặc ngoại tệ tiền mặt có giá trị bằng hoặc vượt mức quy định",
+    "c": "chỉ khi khách hàng là người nước ngoài",
+    "d": "chỉ khi mua bán vàng miếng",
+    "answer": "b",
+    "explanation": "Điểm c khoản 3 Điều 9 Luật Phòng, chống rửa tiền 2022 quy định phải nhận biết khách hàng khi có giao dịch mua, bán kim khí quý, đá quý bằng tiền mặt hoặc ngoại tệ tiền mặt có giá trị bằng hoặc vượt mức quy định."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, tổ chức hành nghề công chứng phải nhận biết khách hàng khi tham gia hoạt động nào?",
+    "a": "tham gia vào hoạt động mua, bán doanh nghiệp",
+    "b": "chứng thực bản sao",
+    "c": "xác nhận sơ yếu lý lịch",
+    "d": "đăng ký hộ khẩu",
+    "answer": "a",
+    "explanation": "Điểm d khoản 3 Điều 9 Luật Phòng, chống rửa tiền 2022 quy định tổ chức hành nghề công chứng phải nhận biết khách hàng khi tham gia vào hoạt động mua, bán doanh nghiệp."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, thông tin nhận biết khách hàng tổ chức bao gồm nội dung nào sau đây?",
+    "a": "tình trạng hôn nhân của giám đốc",
+    "b": "tên giao dịch, địa chỉ trụ sở chính, mã số doanh nghiệp và lĩnh vực hoạt động",
+    "c": "lịch sử tín dụng của nhân viên",
+    "d": "thu nhập bình quân của cổ đông",
+    "answer": "b",
+    "explanation": "Điểm e khoản 1 Điều 10 Luật Phòng, chống rửa tiền 2022 quy định thông tin nhận biết khách hàng tổ chức gồm tên giao dịch, địa chỉ trụ sở chính, mã số doanh nghiệp hoặc mã số thuế, lĩnh vực hoạt động và các thông tin liên quan khác."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, đối tượng báo cáo phải thu thập thông tin nào về khách hàng?",
+    "a": "mục đích và bản chất của mối quan hệ kinh doanh với khách hàng",
+    "b": "quan điểm chính trị của khách hàng",
+    "c": "toàn bộ tài sản của người thân khách hàng",
+    "d": "lịch sử du lịch của khách hàng",
+    "answer": "a",
+    "explanation": "Khoản 3 Điều 10 Luật Phòng, chống rửa tiền 2022 quy định đối tượng báo cáo phải thu thập thông tin về mục đích và bản chất của mối quan hệ kinh doanh của khách hàng với đối tượng báo cáo."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, trong giao dịch chuyển tiền điện tử, người thụ hưởng có thể là ai?",
+    "a": "không thể là người khởi tạo",
+    "b": "chỉ có thể là tổ chức tài chính",
+    "c": "có thể là chính người khởi tạo",
+    "d": "chỉ có thể là cá nhân khác",
+    "answer": "c",
+    "explanation": "Khoản 5 Điều 3 Luật Phòng, chống rửa tiền 2022 quy định người thụ hưởng có thể là người khởi tạo."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, quan hệ ngân hàng đại lý là quan hệ được hình thành giữa các ngân hàng tại đâu?",
+    "a": "cùng một quốc gia",
+    "b": "khác quốc gia hoặc vùng lãnh thổ",
+    "c": "cùng hệ thống ngân hàng",
+    "d": "cùng địa phương",
+    "answer": "b",
+    "explanation": "Khoản 8 Điều 3 Luật Phòng, chống rửa tiền 2022 quy định quan hệ ngân hàng đại lý được hình thành giữa ngân hàng tại các quốc gia, vùng lãnh thổ khác nhau."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, tổ chức phi lợi nhuận bao gồm tổ chức nào sau đây?",
+    "a": "công ty cổ phần",
+    "b": "quỹ từ thiện",
+    "c": "doanh nghiệp tư nhân",
+    "d": "hợp tác xã thương mại",
+    "answer": "b",
+    "explanation": "Khoản 14 Điều 3 Luật Phòng, chống rửa tiền 2022 quy định tổ chức phi lợi nhuận bao gồm quỹ từ thiện."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, tổ chức phi lợi nhuận bao gồm tổ chức nào sau đây?",
+    "a": "tổ chức tôn giáo",
+    "b": "doanh nghiệp bảo hiểm",
+    "c": "công ty chứng khoán",
+    "d": "doanh nghiệp nhà nước",
+    "answer": "a",
+    "explanation": "Khoản 14 Điều 3 Luật Phòng, chống rửa tiền 2022 quy định tổ chức phi lợi nhuận bao gồm tổ chức tôn giáo."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, hoạt động nào sau đây thuộc đối tượng báo cáo?",
+    "a": "phát hành thẻ ngân hàng",
+    "b": "kinh doanh vận tải",
+    "c": "dịch vụ quảng cáo",
+    "d": "sản xuất phần mềm",
+    "answer": "a",
+    "explanation": "Điểm e khoản 1 Điều 4 Luật Phòng, chống rửa tiền 2022 quy định phát hành công cụ chuyển nhượng, thẻ ngân hàng, lệnh chuyển tiền thuộc đối tượng báo cáo."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, hoạt động cung ứng dịch vụ ngoại hối có thuộc đối tượng báo cáo không?",
+    "a": "không",
+    "b": "chỉ khi có yếu tố nước ngoài",
+    "c": "có",
+    "d": "chỉ khi giao dịch bằng USD",
+    "answer": "c",
+    "explanation": "Điểm h khoản 1 Điều 4 Luật Phòng, chống rửa tiền 2022 quy định cung ứng dịch vụ ngoại hối thuộc đối tượng báo cáo."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, hoạt động nào sau đây thuộc đối tượng báo cáo?",
+    "a": "tư vấn đầu tư chứng khoán",
+    "b": "tư vấn du học",
+    "c": "tư vấn du lịch",
+    "d": "tư vấn xây dựng",
+    "answer": "a",
+    "explanation": "Điểm i khoản 1 Điều 4 Luật Phòng, chống rửa tiền 2022 quy định tư vấn đầu tư chứng khoán thuộc đối tượng báo cáo."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, cho thuê tài chính có phải hoạt động thuộc đối tượng báo cáo không?",
+    "a": "không",
+    "b": "có",
+    "c": "chỉ khi có yếu tố nước ngoài",
+    "d": "chỉ khi cho thuê bằng ngoại tệ",
+    "answer": "b",
+    "explanation": "Điểm c khoản 1 Điều 4 Luật Phòng, chống rửa tiền 2022 quy định cho thuê tài chính là hoạt động thuộc đối tượng báo cáo."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, hành vi nào sau đây bị nghiêm cấm?",
+    "a": "tham gia thực hiện hành vi rửa tiền",
+    "b": "xác minh khách hàng",
+    "c": "thu thập thông tin giao dịch",
+    "d": "báo cáo giao dịch đáng ngờ",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 8 Luật Phòng, chống rửa tiền 2022 quy định nghiêm cấm tổ chức, tham gia hoặc tạo điều kiện, trợ giúp thực hiện hành vi rửa tiền."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, hành vi lợi dụng chức vụ, quyền hạn trong phòng, chống rửa tiền để xâm phạm quyền và lợi ích hợp pháp của tổ chức, cá nhân có bị nghiêm cấm không?",
+    "a": "không",
+    "b": "chỉ cấm với cán bộ ngân hàng",
+    "c": "có",
+    "d": "chỉ cấm khi gây thiệt hại vật chất",
+    "answer": "c",
+    "explanation": "Khoản 5 Điều 8 Luật Phòng, chống rửa tiền 2022 quy định nghiêm cấm lợi dụng chức vụ, quyền hạn trong phòng, chống rửa tiền xâm phạm quyền và lợi ích hợp pháp của tổ chức, cá nhân."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, tổ chức kinh doanh bất động sản phải nhận biết khách hàng khi nào?",
+    "a": "khi cung cấp dịch vụ kinh doanh bất động sản",
+    "b": "mọi trường hợp tư vấn bất động sản",
+    "c": "mọi trường hợp cho thuê nhà",
+    "d": "chỉ khi giao dịch bằng ngoại tệ",
+    "answer": "a",
+    "explanation": "Điểm b khoản 3 Điều 9 Luật Phòng, chống rửa tiền 2022 quy định tổ chức, cá nhân kinh doanh bất động sản phải nhận biết khách hàng khi cung cấp dịch vụ kinh doanh bất động sản."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, tổ chức hành nghề công chứng phải nhận biết khách hàng khi thực hiện hoạt động nào sau đây?",
+    "a": "quản lý tiền, chứng khoán hoặc tài sản khác của khách hàng",
+    "b": "cấp bản sao văn bản công chứng",
+    "c": "niêm yết thủ tục hành chính",
+    "d": "lưu trữ hồ sơ công chứng",
+    "answer": "a",
+    "explanation": "Điểm d khoản 3 Điều 9 Luật Phòng, chống rửa tiền 2022 quy định phải nhận biết khách hàng khi quản lý tiền, chứng khoán hoặc tài sản khác của khách hàng."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, tổ chức hành nghề công chứng phải nhận biết khách hàng khi thực hiện hoạt động nào?",
+    "a": "quản lý tài khoản của khách hàng tại ngân hàng hoặc công ty chứng khoán",
+    "b": "sao y bản chính",
+    "c": "chứng thực chữ ký",
+    "d": "lưu trữ dữ liệu điện tử",
+    "answer": "a",
+    "explanation": "Điểm d khoản 3 Điều 9 Luật Phòng, chống rửa tiền 2022 quy định phải nhận biết khách hàng khi quản lý tài khoản của khách hàng tại ngân hàng, công ty chứng khoán."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, tổ chức, cá nhân cung cấp dịch vụ thư ký công ty cho bên thứ ba có thuộc trường hợp phải nhận biết khách hàng không?",
+    "a": "không",
+    "b": "có",
+    "c": "chỉ khi có yếu tố nước ngoài",
+    "d": "chỉ khi công ty chưa hoạt động",
+    "answer": "b",
+    "explanation": "Điểm đ khoản 3 Điều 9 Luật Phòng, chống rửa tiền 2022 quy định tổ chức, cá nhân cung cấp dịch vụ thư ký công ty cho bên thứ ba phải nhận biết khách hàng."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, đối với khách hàng cá nhân có từ hai quốc tịch trở lên, đối tượng báo cáo phải thu thập thêm thông tin nào?",
+    "a": "tình trạng tài sản",
+    "b": "quốc tịch và địa chỉ cư trú ở quốc gia mang quốc tịch còn lại",
+    "c": "lịch sử tín dụng",
+    "d": "thu nhập bình quân",
+    "answer": "b",
+    "explanation": "Điểm d khoản 1 Điều 10 Luật Phòng, chống rửa tiền 2022 quy định phải thu thập quốc tịch và địa chỉ cư trú ở quốc gia mang quốc tịch còn lại."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, đối với khách hàng cá nhân là người không quốc tịch, thông tin nào sau đây phải được thu thập?",
+    "a": "mã số thuế cá nhân",
+    "b": "số giấy tờ có giá trị đi lại quốc tế hoặc số thị thực",
+    "c": "mã bảo hiểm xã hội",
+    "d": "thông tin tài khoản ngân hàng",
+    "answer": "b",
+    "explanation": "Điểm đ khoản 1 Điều 10 Luật Phòng, chống rửa tiền 2022 quy định phải thu thập số giấy tờ có giá trị đi lại quốc tế hoặc số thị thực của người không quốc tịch."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, đối với khách hàng tổ chức, thông tin nào sau đây phải được thu thập?",
+    "a": "thông tin về kế toán trưởng hoặc người phụ trách kế toán",
+    "b": "tài sản riêng của cổ đông",
+    "c": "thu nhập của người lao động",
+    "d": "lịch sử giao dịch dân sự",
+    "answer": "a",
+    "explanation": "Điểm e khoản 1 Điều 10 Luật Phòng, chống rửa tiền 2022 quy định phải thu thập thông tin về Kế toán trưởng hoặc người phụ trách kế toán của tổ chức nếu có."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, đối với khách hàng tổ chức, thông tin nào sau đây phải được thu thập?",
+    "a": "lĩnh vực hoạt động, kinh doanh",
+    "b": "tình trạng hôn nhân của giám đốc",
+    "c": "thu nhập của cổ đông",
+    "d": "lý lịch tư pháp của nhân viên",
+    "answer": "a",
+    "explanation": "Điểm e khoản 1 Điều 10 Luật Phòng, chống rửa tiền 2022 quy định thông tin nhận biết khách hàng tổ chức bao gồm lĩnh vực hoạt động, kinh doanh."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, đối tượng báo cáo có phải thu thập thông tin về người đại diện của khách hàng cá nhân hay không?",
+    "a": "không",
+    "b": "có, nếu có người đại diện",
+    "c": "chỉ khi khách hàng dưới 18 tuổi",
+    "d": "chỉ khi có yêu cầu của cơ quan công an",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 10 Luật Phòng, chống rửa tiền 2022 quy định đối tượng báo cáo phải thu thập thông tin nhận dạng khách hàng, kể cả thông tin về người đại diện của khách hàng cá nhân nếu có."
+  },
+    {
     "question": "Theo Luật Phá sản 2014, doanh nghiệp, hợp tác xã bị coi là mất khả năng thanh toán trong trường hợp nào?",
     "a": "không thanh toán khoản nợ trong thời hạn 01 tháng kể từ ngày đến hạn",
     "b": "không thực hiện nghĩa vụ thanh toán khoản nợ trong thời hạn 03 tháng kể từ ngày đến hạn thanh toán",
