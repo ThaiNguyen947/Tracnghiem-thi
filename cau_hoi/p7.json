@@ -3039,7 +3039,7 @@
     "c": "Hệ thống mái, sân thượng, không gian sinh hoạt cộng đồng và hệ thống thoát nước ngoài căn hộ.",
     "d": "Phần diện tích tường bao quanh căn hộ và hệ thống đường ống dẫn kỹ thuật chạy xuyên qua các tầng.",
     "answer": "b",
-    "explain": "Căn cứ khoản 1 Điều 142 Luật Nhà ở 2023: phần sở hữu riêng bao gồm diện tích trong căn hộ, bao gồm ban công, lô gia gắn liền với căn hộ."
+    "explanation": "Căn cứ khoản 1 Điều 142 Luật Nhà ở 2023: phần sở hữu riêng bao gồm diện tích trong căn hộ, bao gồm ban công, lô gia gắn liền với căn hộ."
   },
   {
     "question": "Theo Luật Nhà ở 2023, các thành phần cấu tạo như hệ thống kết cấu chịu lực (cột, dầm, sàn chịu lực) trong nhà chung cư được phân loại là gì?",
@@ -3048,7 +3048,7 @@
     "c": "Thuộc quyền sở hữu riêng của chủ đầu tư dự án cho đến khi hết thời hạn bảo hành công trình.",
     "d": "Thuộc quyền sở hữu của đơn vị quản lý vận hành tòa nhà để phục vụ công tác bảo trì.",
     "answer": "b",
-    "explain": "Căn cứ điểm b khoản 2 Điều 142 Luật Nhà ở 2023: hệ thống kết cấu chịu lực thuộc phần sở hữu chung."
+    "explanation": "Căn cứ điểm b khoản 2 Điều 142 Luật Nhà ở 2023: hệ thống kết cấu chịu lực thuộc phần sở hữu chung."
   },
   {
     "question": "Theo Luật Nhà ở 2023, phương pháp đo đạc nào được quy định là chuẩn để tính diện tích sử dụng căn hộ?",
@@ -3057,7 +3057,7 @@
     "c": "Diện tích sàn xây dựng tổng thể bao gồm cả phần tường bao và diện tích hộp kỹ thuật.",
     "d": "Diện tích thực tế ghi nhận tại thời điểm bàn giao nhà theo chứng nhận của bên thứ ba.",
     "answer": "b",
-    "explain": "Căn cứ khoản 1 Điều 143 Luật Nhà ở 2023: diện tích sử dụng căn hộ được tính theo kích thước thông thủy."
+    "explanation": "Căn cứ khoản 1 Điều 143 Luật Nhà ở 2023: diện tích sử dụng căn hộ được tính theo kích thước thông thủy."
   },
   {
     "question": "Theo Luật Nhà ở 2023, thành phần nào sau đây KHÔNG ĐƯỢC tính vào diện tích sử dụng căn hộ chung cư?",
@@ -3066,7 +3066,7 @@
     "c": "Diện tích các bức tường phân chia không gian bên trong căn hộ.",
     "d": "Diện tích các bức tường bao căn hộ, tường chung và hộp kỹ thuật.",
     "answer": "d",
-    "explain": "Căn cứ khoản 1 Điều 143 Luật Nhà ở 2023: không tính diện tích tường bao căn hộ vào diện tích sử dụng."
+    "explanation": "Căn cứ khoản 1 Điều 143 Luật Nhà ở 2023: không tính diện tích tường bao căn hộ vào diện tích sử dụng."
   },
   {
     "question": "Theo quy định của Luật Nhà ở 2023, quyền sở hữu đối với chỗ để xe đạp và xe máy trong nhà chung cư được xác định như thế nào?",
@@ -3075,7 +3075,7 @@
     "c": "Thuộc sở hữu chung của các chủ sở hữu nhà chung cư.",
     "d": "Thuộc tài sản công do Nhà nước quản lý và cho thuê lại để đảm bảo trật tự đô thị.",
     "answer": "c",
-    "explain": "Căn cứ điểm a khoản 2 Điều 144 Luật Nhà ở 2023: chỗ để xe đạp, xe máy là sở hữu chung."
+    "explanation": "Căn cứ điểm a khoản 2 Điều 144 Luật Nhà ở 2023: chỗ để xe đạp, xe máy là sở hữu chung."
   },
   {
     "question": "Theo Luật Nhà ở 2023, đối với chỗ để xe ô tô trong nhà chung cư, quyền của người mua/thuê mua căn hộ là gì?",
@@ -3084,7 +3084,7 @@
     "c": "Bắt buộc phải thuộc quyền sở hữu chung của tòa nhà và không được bán riêng lẻ.",
     "d": "Chỉ được phép thuê, nghiêm cấm hoạt động mua bán dưới mọi hình thức để tránh đầu cơ.",
     "answer": "b",
-    "explain": "Căn cứ điểm b khoản 2 Điều 144 Luật Nhà ở 2023: người mua/thuê mua căn hộ có quyền mua hoặc thuê chỗ để xe ô tô."
+    "explanation": "Căn cứ điểm b khoản 2 Điều 144 Luật Nhà ở 2023: người mua/thuê mua căn hộ có quyền mua hoặc thuê chỗ để xe ô tô."
   },
   {
     "question": "Luật Nhà ở 2023 cho phép tổ chức Hội nghị nhà chung cư thông qua các hình thức nào để đảm bảo tính linh hoạt?",
@@ -3093,7 +3093,7 @@
     "c": "Tổ chức họp trực tiếp, trực tuyến hoặc kết hợp cả hai hình thức này.",
     "d": "Chỉ thực hiện lấy ý kiến bằng văn bản để tránh tranh cãi trực tiếp giữa các cư dân.",
     "answer": "c",
-    "explain": "Căn cứ khoản 2 Điều 145 Luật Nhà ở 2023: có thể họp trực tiếp, trực tuyến hoặc kết hợp."
+    "explanation": "Căn cứ khoản 2 Điều 145 Luật Nhà ở 2023: có thể họp trực tiếp, trực tuyến hoặc kết hợp."
   },
   {
     "question": "Thẩm quyền chủ chốt của Hội nghị nhà chung cư theo quy định tại Luật Nhà ở 2023 bao gồm nội dung nào?",
@@ -3102,7 +3102,7 @@
     "c": "Phê duyệt các thay đổi về quy hoạch đô thị tại khu vực xung quanh dự án.",
     "d": "Quyết định các thủ tục thu hồi đất và đền bù giải phóng mặt bằng cho cư dân.",
     "answer": "b",
-    "explain": "Căn cứ điểm a khoản 3 Điều 145 Luật Nhà ở 2023: Hội nghị có quyền bầu, miễn nhiệm Ban quản trị."
+    "explanation": "Căn cứ điểm a khoản 3 Điều 145 Luật Nhà ở 2023: Hội nghị có quyền bầu, miễn nhiệm Ban quản trị."
   },
   {
     "question": "Theo Luật Nhà ở 2023, ngưỡng quy mô nào của một nhà chung cư bắt buộc phải thành lập Ban quản trị?",
@@ -3111,7 +3111,7 @@
     "c": "Từ 20 căn hộ trở lên.",
     "d": "Từ 30 căn hộ trở lên.",
     "answer": "c",
-    "explain": "Căn cứ khoản 2 Điều 146 Luật Nhà ở 2023: từ 20 căn hộ trở lên phải thành lập Ban quản trị."
+    "explanation": "Căn cứ khoản 2 Điều 146 Luật Nhà ở 2023: từ 20 căn hộ trở lên phải thành lập Ban quản trị."
   },
   {
     "question": "Ban quản trị nhà chung cư được Luật Nhà ở 2023 giao nhiệm vụ quản lý khoản kinh phí quan trọng nào?",
@@ -3120,7 +3120,7 @@
     "c": "Khoản thuế đất và phí dịch vụ hạ tầng xã hội thu từ người dân.",
     "d": "Tiền thuê đất mà chủ đầu tư phải nộp cho Nhà nước hàng năm.",
     "answer": "b",
-    "explain": "Căn cứ điểm b khoản 1 Điều 147 Luật Nhà ở 2023: Ban quản trị quản lý kinh phí bảo trì."
+    "explanation": "Căn cứ điểm b khoản 1 Điều 147 Luật Nhà ở 2023: Ban quản trị quản lý kinh phí bảo trì."
   },
   {
     "question": "Để trở thành đơn vị quản lý vận hành nhà chung cư, đơn vị đó phải đáp ứng điều kiện tiên quyết nào?",
@@ -3129,7 +3129,7 @@
     "c": "Phải được cư dân tòa nhà chỉ định trực tiếp thông qua bầu cử tại Hội nghị.",
     "d": "Không cần chứng chỉ hành nghề, chỉ cần đảm bảo nhân sự tại chỗ.",
     "answer": "b",
-    "explain": "Căn cứ điểm a khoản 1 Điều 150 Luật Nhà ở 2023: phải là đơn vị có chức năng, năng lực quản lý vận hành."
+    "explanation": "Căn cứ điểm a khoản 1 Điều 150 Luật Nhà ở 2023: phải là đơn vị có chức năng, năng lực quản lý vận hành."
   },
   {
     "question": "Đơn vị đo lường nào được dùng làm căn cứ xác định giá dịch vụ quản lý vận hành nhà chung cư?",
@@ -3138,7 +3138,7 @@
     "c": "Số lượng nhân khẩu đăng ký cư trú tại mỗi căn hộ.",
     "d": "Tầng của căn hộ (càng lên cao chi phí vận hành càng thấp).",
     "answer": "b",
-    "explain": "Căn cứ khoản 2 Điều 151 Luật Nhà ở 2023: tính theo m2 diện tích sử dụng."
+    "explanation": "Căn cứ khoản 2 Điều 151 Luật Nhà ở 2023: tính theo m2 diện tích sử dụng."
   },
   {
     "question": "Theo Luật Nhà ở 2023, tỷ lệ kinh phí bảo trì phần sở hữu chung được tính bằng bao nhiêu phần trăm?",
@@ -3147,7 +3147,7 @@
     "c": "3% tổng giá trị dự án sau khi hoàn công.",
     "d": "5% giá trị hợp đồng mua bán chưa bao gồm thuế GTGT.",
     "answer": "b",
-    "explain": "Căn cứ khoản 1 Điều 152 Luật Nhà ở 2023: kinh phí bảo trì là 2% giá trị căn hộ."
+    "explanation": "Căn cứ khoản 1 Điều 152 Luật Nhà ở 2023: kinh phí bảo trì là 2% giá trị căn hộ."
   },
   {
     "question": "Mục đích sử dụng hợp pháp duy nhất của kinh phí bảo trì nhà chung cư là gì?",
@@ -3156,7 +3156,7 @@
     "c": "Bảo trì phần sở hữu chung của nhà chung cư.",
     "d": "Phục vụ các hoạt động Marketing và sự kiện cộng đồng của tòa nhà.",
     "answer": "c",
-    "explain": "Căn cứ khoản 1 Điều 155 Luật Nhà ở 2023: chỉ được dùng để bảo trì phần sở hữu chung."
+    "explanation": "Căn cứ khoản 1 Điều 155 Luật Nhà ở 2023: chỉ được dùng để bảo trì phần sở hữu chung."
   },
   {
     "question": "Cơ quan nào có thẩm quyền ban hành quyết định cưỡng chế bàn giao kinh phí bảo trì nếu chủ đầu tư không thực hiện?",
@@ -3165,7 +3165,7 @@
     "c": "Ủy ban nhân dân cấp huyện.",
     "d": "Sở Xây dựng (cơ quan chuyên môn cấp tỉnh).",
     "answer": "c",
-    "explain": "Căn cứ Điều 154 Luật Nhà ở 2023: UBND cấp huyện có thẩm quyền cưỡng chế bàn giao."
+    "explanation": "Căn cứ Điều 154 Luật Nhà ở 2023: UBND cấp huyện có thẩm quyền cưỡng chế bàn giao."
   },
   {
     "question": "Sau khi bàn giao nhà, công trình hạ tầng kỹ thuật khu vực nhà chung cư được quản lý bởi ai?",
@@ -3174,7 +3174,7 @@
     "c": "Cơ quan tiếp nhận quản lý của địa phương.",
     "d": "Tập thể cư dân trong khu vực thông qua thỏa thuận tự quản.",
     "answer": "c",
-    "explain": "Căn cứ Điều 158 Luật Nhà ở 2023: cơ quan tiếp nhận của địa phương quản lý sau bàn giao."
+    "explanation": "Căn cứ Điều 158 Luật Nhà ở 2023: cơ quan tiếp nhận của địa phương quản lý sau bàn giao."
   },
   {
     "question": "Trong trường hợp hợp đồng mua bán căn hộ không quy định rõ về diện tích sở hữu chung, sở hữu riêng, Luật Nhà ở 2023 xử lý vấn đề này dựa trên cơ sở nào?",
@@ -3183,7 +3183,7 @@
     "c": "Áp dụng trực tiếp quy định về xác định sở hữu chung và sở hữu riêng tại Điều 142 Luật Nhà ở 2023.",
     "d": "Tạm dừng bàn giao căn hộ cho đến khi các bên làm rõ các diện tích tranh chấp.",
     "answer": "c",
-    "explain": "Căn cứ khoản 3 Điều 142 Luật Nhà ở 2023: Nếu hợp đồng không ghi rõ, diện tích này được mặc nhiên xác định theo quy định của Luật để bảo vệ quyền lợi của người mua."
+    "explanation": "Căn cứ khoản 3 Điều 142 Luật Nhà ở 2023: Nếu hợp đồng không ghi rõ, diện tích này được mặc nhiên xác định theo quy định của Luật để bảo vệ quyền lợi của người mua."
   },
   {
     "question": "Đối với nhà chung cư có duy nhất một chủ sở hữu, thành phần nào sau đây được quyền tham gia Hội nghị nhà chung cư?",
@@ -3192,7 +3192,7 @@
     "c": "Chỉ những người đang thuê căn hộ dài hạn trên 05 năm.",
     "d": "Đại diện chủ đầu tư và chính quyền địa phương cấp xã.",
     "answer": "b",
-    "explain": "Căn cứ khoản 1 Điều 145 Luật Nhà ở 2023: Nhằm đảm bảo quyền lợi và nghĩa vụ của cả người sở hữu lẫn người trực tiếp sinh sống trong tòa nhà."
+    "explanation": "Căn cứ khoản 1 Điều 145 Luật Nhà ở 2023: Nhằm đảm bảo quyền lợi và nghĩa vụ của cả người sở hữu lẫn người trực tiếp sinh sống trong tòa nhà."
   },
   {
     "question": "Nguyên tắc ra quyết định tại Hội nghị nhà chung cư theo Luật Nhà ở 2023 được quy định như thế nào để đảm bảo tính dân chủ?",
@@ -3201,7 +3201,7 @@
     "c": "Thông qua nguyên tắc đa số bằng hình thức biểu quyết hoặc bỏ phiếu.",
     "d": "Phải có sự phê duyệt cuối cùng từ UBND cấp huyện mới có hiệu lực thi hành.",
     "answer": "c",
-    "explain": "Căn cứ khoản 5 Điều 145 Luật Nhà ở 2023: Hội nghị thực hiện quyền quyết định theo đa số, đảm bảo hiệu quả vận hành tòa nhà."
+    "explanation": "Căn cứ khoản 5 Điều 145 Luật Nhà ở 2023: Hội nghị thực hiện quyền quyết định theo đa số, đảm bảo hiệu quả vận hành tòa nhà."
   },
   {
     "question": "Theo Luật Nhà ở 2023, trong giá dịch vụ quản lý vận hành nhà chung cư, hạng mục nào sau đây không được tính vào?",
@@ -3210,7 +3210,7 @@
     "c": "Thù lao cho các thành viên Ban quản trị nhà chung cư.",
     "d": "Chi phí bảo trì các thiết bị kỹ thuật nhỏ trong tòa nhà.",
     "answer": "c",
-    "explain": "Căn cứ khoản 2 Điều 151 Luật Nhà ở 2023: Thù lao của Ban quản trị là khoản chi phí tách biệt, không thuộc giá dịch vụ vận hành (phí quản lý hàng tháng)."
+    "explanation": "Căn cứ khoản 2 Điều 151 Luật Nhà ở 2023: Thù lao của Ban quản trị là khoản chi phí tách biệt, không thuộc giá dịch vụ vận hành (phí quản lý hàng tháng)."
   },
   {
     "question": "Trước khi thành lập được Ban quản trị nhà chung cư, việc quản lý kinh phí bảo trì được Luật Nhà ở 2023 quy định ra sao?",
@@ -3219,7 +3219,7 @@
     "c": "Chuyển giao cho UBND cấp xã quản lý tạm thời.",
     "d": "Đơn vị quản lý vận hành được quyền quản lý và sử dụng cho mục đích sửa chữa.",
     "answer": "b",
-    "explain": "Căn cứ khoản 6 Điều 155 Luật Nhà ở 2023: Để tránh việc chủ đầu tư chiếm dụng, luật quy định phải cử người đại diện quản lý tài khoản này trước khi bàn giao cho Ban quản trị."
+    "explanation": "Căn cứ khoản 6 Điều 155 Luật Nhà ở 2023: Để tránh việc chủ đầu tư chiếm dụng, luật quy định phải cử người đại diện quản lý tài khoản này trước khi bàn giao cho Ban quản trị."
   },
   {
     "question": "Trong trường hợp xảy ra tranh chấp về phần sở hữu chung, Luật Nhà ở 2023 quy định việc xác định này dựa trên yếu tố nào?",
@@ -3228,7 +3228,7 @@
     "c": "Dựa trên quy định pháp luật về sở hữu chung, không phụ thuộc vào thỏa thuận đơn phương.",
     "d": "Dựa trên quyết định hòa giải của Hội nghị nhà chung cư.",
     "answer": "c",
-    "explain": "Căn cứ Điều 142 Luật Nhà ở 2023: Để tránh việc chủ đầu tư tự ý chiếm dụng, Luật quy định ranh giới sở hữu chung là mặc định, không phụ thuộc vào ý chí thỏa thuận trong hợp đồng."
+    "explanation": "Căn cứ Điều 142 Luật Nhà ở 2023: Để tránh việc chủ đầu tư tự ý chiếm dụng, Luật quy định ranh giới sở hữu chung là mặc định, không phụ thuộc vào ý chí thỏa thuận trong hợp đồng."
   },
   {
     "question": "Theo Luật Nhà ở 2023, nội dung quản lý, sử dụng nhà ở bao gồm những nội dung nào?",
@@ -3237,7 +3237,7 @@
     "c": "Ưu tiên hàng đầu cho việc bảo trì, sửa chữa, cải tạo và nâng cấp kết cấu kỹ thuật của nhà ở.",
     "d": "Chỉ áp dụng quản lý đối với các loại hình nhà ở thuộc dự án đầu tư xây dựng nhằm đảm bảo tiến độ và chất lượng công trình.",
     "answer": "b",
-    "explain": "Theo Điều 118 Luật Nhà ở 2023, nội dung quản lý, sử dụng nhà ở gồm: lập, lưu trữ, bàn giao hồ sơ; quản lý nhà ở có giá trị nghệ thuật, lịch sử; quản lý nhà ở thuộc tài sản công; bảo hiểm, bảo hành, bảo trì, cải tạo, phá dỡ nhà ở."
+    "explanation": "Theo Điều 118 Luật Nhà ở 2023, nội dung quản lý, sử dụng nhà ở gồm: lập, lưu trữ, bàn giao hồ sơ; quản lý nhà ở có giá trị nghệ thuật, lịch sử; quản lý nhà ở thuộc tài sản công; bảo hiểm, bảo hành, bảo trì, cải tạo, phá dỡ nhà ở."
   },
   {
     "question": "Theo Luật Nhà ở 2023, hồ sơ nhà ở đối với nhà ở xây dựng từ ngày 01/7/2006 tại đô thị gồm tài liệu nào sau đây?",
@@ -3246,7 +3246,7 @@
     "c": "Bản vẽ sơ đồ nhà ở do chủ sở hữu tự thiết lập và ký xác nhận bảo đảm đúng hiện trạng.",
     "d": "Chỉ cần hợp đồng mua bán nhà ở hoặc văn bản chuyển nhượng quyền sở hữu đã được công chứng.",
     "answer": "b",
-    "explain": "Theo điểm b khoản 2 Điều 119 Luật Nhà ở 2023, hồ sơ gồm giấy tờ hợp pháp, đơn vị tư vấn, thi công, bản vẽ thiết kế, sơ đồ nhà ở, đất ở, hồ sơ hoàn công (nếu có)."
+    "explanation": "Theo điểm b khoản 2 Điều 119 Luật Nhà ở 2023, hồ sơ gồm giấy tờ hợp pháp, đơn vị tư vấn, thi công, bản vẽ thiết kế, sơ đồ nhà ở, đất ở, hồ sơ hoàn công (nếu có)."
   },
   {
     "question": "Theo Luật Nhà ở 2023, ai có trách nhiệm lưu trữ hồ sơ nhà ở tại cấp huyện?",
@@ -3255,7 +3255,7 @@
     "c": "Sở Tài nguyên và Môi trường tỉnh nơi có nhà ở được xây dựng.",
     "d": "Bộ Xây dựng thông qua hệ thống cơ sở dữ liệu quốc gia về nhà ở.",
     "answer": "b",
-    "explain": "Theo điểm b khoản 1 Điều 120, cơ quan quản lý nhà ở cấp huyện lưu trữ hồ sơ nhà ở của hộ gia đình, cá nhân, người Việt Nam định cư ở nước ngoài trên địa bàn."
+    "explanation": "Theo điểm b khoản 1 Điều 120, cơ quan quản lý nhà ở cấp huyện lưu trữ hồ sơ nhà ở của hộ gia đình, cá nhân, người Việt Nam định cư ở nước ngoài trên địa bàn."
   },
   {
     "question": "Theo Luật Nhà ở 2023, chủ đầu tư dự án nhà ở riêng lẻ có trách nhiệm gì sau khi bàn giao nhà?",
@@ -3264,7 +3264,7 @@
     "c": "Trực tiếp quản lý toàn bộ các vấn đề phát sinh trong nhà ở của cư dân, bao gồm cả nội thất và sửa chữa nhỏ.",
     "d": "Thu phí bảo trì định kỳ và chịu trách nhiệm bảo hiểm cháy nổ cho toàn bộ công trình.",
     "answer": "b",
-    "explain": "Theo khoản 1 Điều 121, chủ đầu tư có trách nhiệm quản lý kiến trúc mặt ngoài và hệ thống hạ tầng kỹ thuật theo dự án."
+    "explanation": "Theo khoản 1 Điều 121, chủ đầu tư có trách nhiệm quản lý kiến trúc mặt ngoài và hệ thống hạ tầng kỹ thuật theo dự án."
   },
   {
     "question": "Theo Luật Nhà ở 2023, nhà ở có giá trị nghệ thuật, kiến trúc, lịch sử được xác định như thế nào?",
@@ -3273,7 +3273,7 @@
     "c": "Do UBND cấp tỉnh phê duyệt danh mục hoặc xếp hạng di tích.",
     "d": "Do Bộ Tài chính quyết định dựa trên kết quả thẩm định giá trị bất động sản.",
     "answer": "c",
-    "explain": "Theo khoản 1 và 2 Điều 122, UBND cấp tỉnh phê duyệt danh mục nhà ở có giá trị trên cơ sở hội đồng chuyên môn."
+    "explanation": "Theo khoản 1 và 2 Điều 122, UBND cấp tỉnh phê duyệt danh mục nhà ở có giá trị trên cơ sở hội đồng chuyên môn."
   },
   {
     "question": "Theo Luật Nhà ở 2023, nhà biệt thự nhóm một phải bảo đảm nguyên tắc nào?",
@@ -3282,7 +3282,7 @@
     "c": "Giữ nguyên kiến trúc bên ngoài, bên trong, mật độ xây dựng, số tầng, chiều cao.",
     "d": "Có thể phá dỡ nếu chủ sở hữu cam kết xây lại đúng theo mẫu kiến trúc ban đầu.",
     "answer": "c",
-    "explain": "Theo điểm b khoản 2 Điều 123, nhà biệt thự nhóm một phải giữ nguyên toàn bộ kiến trúc và các chỉ tiêu xây dựng."
+    "explanation": "Theo điểm b khoản 2 Điều 123, nhà biệt thự nhóm một phải giữ nguyên toàn bộ kiến trúc và các chỉ tiêu xây dựng."
   },
   {
   "question": "Theo Luật Nhà ở 2023, trường hợp nào sau đây thuộc phạm vi được phép chuyển đổi công năng nhà ở?",
@@ -3291,7 +3291,7 @@
   "c": "Các trường hợp khác theo quyết định của Thủ tướng Chính phủ trên cơ sở đề xuất của Bộ Xây dựng.",
   "d": "Tất cả các phương án nêu trên đều là trường hợp được phép chuyển đổi công năng nhà ở.",
   "answer": "d",
-  "explain": "Theo khoản 1 Điều 124, việc chuyển đổi công năng chỉ thực hiện trong các trường hợp luật định (quy định tại điểm a, b, c khoản 1 Điều 124) hoặc theo quyết định của Thủ tướng Chính phủ."
+  "explanation": "Theo khoản 1 Điều 124, việc chuyển đổi công năng chỉ thực hiện trong các trường hợp luật định (quy định tại điểm a, b, c khoản 1 Điều 124) hoặc theo quyết định của Thủ tướng Chính phủ."
 },
   {
     "question": "Theo Luật Nhà ở 2023, nguyên tắc quản lý nhà ở thuộc tài sản công là gì?",
@@ -3300,7 +3300,7 @@
     "c": "Ưu tiên bán quyền sở hữu cho cá nhân, hộ gia đình đang quản lý, sử dụng để tư nhân hóa.",
     "d": "Không yêu cầu quản lý vận hành khắt khe vì là tài sản công cần phục vụ cộng đồng không lợi nhuận.",
     "answer": "b",
-    "explain": "Theo khoản 1 Điều 125, nhà ở tài sản công phải sử dụng đúng mục đích, hiệu quả, đúng đối tượng, tránh thất thoát lãng phí."
+    "explanation": "Theo khoản 1 Điều 125, nhà ở tài sản công phải sử dụng đúng mục đích, hiệu quả, đúng đối tượng, tránh thất thoát lãng phí."
   },
   {
     "question": "Theo Luật Nhà ở 2023, đối tượng thuê nhà ở công vụ phải đáp ứng điều kiện nào?",
@@ -3309,7 +3309,7 @@
     "c": "Là người có thu nhập thấp và chưa từng sở hữu nhà ở trên địa bàn tỉnh đó.",
     "d": "Có thời gian công tác từ 5 năm trở lên tại cơ quan nhà nước được cấp nhà công vụ.",
     "answer": "b",
-    "explain": "Theo điểm a khoản 2 Điều 126, đối tượng thuê nhà công vụ phải đáp ứng điều kiện tại khoản 2 Điều 45."
+    "explanation": "Theo điểm a khoản 2 Điều 126, đối tượng thuê nhà công vụ phải đáp ứng điều kiện tại khoản 2 Điều 45."
   },
   {
     "question": "Theo Luật Nhà ở 2023, trường hợp nào phải thu hồi nhà ở thuộc tài sản công?",
@@ -3318,7 +3318,7 @@
     "c": "Cho thuê không đúng đối tượng hoặc sử dụng sai mục đích.",
     "d": "Nhà ở thuộc danh mục phải phá dỡ để thực hiện dự án đầu tư công cấp tỉnh.",
     "answer": "c",
-    "explain": "Theo điểm a, h khoản 1 Điều 127, thu hồi khi cho thuê sai đối tượng hoặc sử dụng sai mục đích."
+    "explanation": "Theo điểm a, h khoản 1 Điều 127, thu hồi khi cho thuê sai đối tượng hoặc sử dụng sai mục đích."
   },
   {
     "question": "Theo Luật Nhà ở 2023, thời hạn bảo hành nhà chung cư tối thiểu là bao lâu?",
@@ -3327,7 +3327,7 @@
     "c": "60 tháng.",
     "d": "36 tháng kể từ khi bàn giao căn hộ cho chủ sở hữu.",
     "answer": "c",
-    "explain": "Theo điểm a khoản 2 Điều 129, nhà chung cư được bảo hành tối thiểu 60 tháng."
+    "explanation": "Theo điểm a khoản 2 Điều 129, nhà chung cư được bảo hành tối thiểu 60 tháng."
   },
   {
     "question": "Theo Luật Nhà ở 2023, trách nhiệm bảo trì nhà ở thuộc về ai?",
@@ -3336,7 +3336,7 @@
     "c": "Cơ quan Công an địa phương nơi nhà ở tọa lạc.",
     "d": "UBND cấp xã phối hợp với ban quản trị tòa nhà thực hiện.",
     "answer": "b",
-    "explain": "Theo khoản 1 Điều 130, chủ sở hữu nhà ở có trách nhiệm bảo trì nhà ở."
+    "explanation": "Theo khoản 1 Điều 130, chủ sở hữu nhà ở có trách nhiệm bảo trì nhà ở."
   },
   {
     "question": "Theo Luật Nhà ở 2023, nhà ở phải phá dỡ trong trường hợp nào?",
@@ -3345,7 +3345,7 @@
     "c": "Nhà ở vẫn đang trong tình trạng tốt nhưng chưa có người sử dụng trong 2 năm.",
     "d": "Nhà ở đã sử dụng được hơn 5 năm kể từ khi hoàn công.",
     "answer": "b",
-    "explain": "Theo điểm a khoản 1 Điều 136, nhà ở hư hỏng nặng, nguy cơ sập đổ phải phá dỡ."
+    "explanation": "Theo điểm a khoản 1 Điều 136, nhà ở hư hỏng nặng, nguy cơ sập đổ phải phá dỡ."
   },
   {
     "question": "Theo Luật Nhà ở 2023, ai có trách nhiệm phá dỡ nhà ở?",
@@ -3354,7 +3354,7 @@
     "c": "Cảnh sát khu vực phối hợp cùng đơn vị môi trường.",
     "d": "Cơ quan thuế địa phương nơi có tài sản.",
     "answer": "b",
-    "explain": "Theo khoản 1 Điều 137, chủ sở hữu hoặc người quản lý sử dụng có trách nhiệm phá dỡ nhà ở."
+    "explanation": "Theo khoản 1 Điều 137, chủ sở hữu hoặc người quản lý sử dụng có trách nhiệm phá dỡ nhà ở."
   },
   {
     "question": "Theo Luật Nhà ở 2023, khi phá dỡ nhà ở, yêu cầu bắt buộc là gì?",
@@ -3363,7 +3363,7 @@
     "c": "Thông báo miệng cho các hộ lân cận biết trước 24 giờ trước khi tiến hành.",
     "d": "Phải xin giấy phép phá dỡ từ Bộ Xây dựng trước khi bắt đầu thi công.",
     "answer": "b",
-    "explain": "Theo khoản 1 và 3 Điều 138, phải di chuyển người, tài sản và đảm bảo an toàn, vệ sinh môi trường."
+    "explanation": "Theo khoản 1 và 3 Điều 138, phải di chuyển người, tài sản và đảm bảo an toàn, vệ sinh môi trường."
   },
   {
     "question": "Theo Luật Nhà ở 2023, thời gian thông báo phá dỡ nhà ở đang cho thuê tối thiểu là bao lâu?",
@@ -3372,7 +3372,7 @@
     "c": "90 ngày.",
     "d": "120 ngày để đảm bảo người thuê kịp tìm nơi ở mới.",
     "answer": "c",
-    "explain": "Theo khoản 1 Điều 141, phải thông báo ít nhất 90 ngày trước khi phá dỡ."
+    "explanation": "Theo khoản 1 Điều 141, phải thông báo ít nhất 90 ngày trước khi phá dỡ."
   },
   {
     "question": "Theo Luật Nhà ở 2023, nội dung nào sau đây thuộc trách nhiệm quản lý của Ban tự quản khu nhà ở?",
@@ -3381,7 +3381,7 @@
     "c": "Thực hiện quyết định thu hồi nhà ở thuộc tài sản công đối với các hộ gia đình vi phạm quy định.",
     "d": "Đại diện chủ sở hữu ký kết hợp đồng mua bán, cho thuê mua nhà ở với các đối tượng có nhu cầu.",
     "answer": "b",
-    "explain": "Theo khoản 3 Điều 121 Luật Nhà ở 2023, Ban tự quản thực hiện quản lý kiến trúc bên ngoài, cây xanh, vườn hoa và bảo trì công trình tiện ích, hạ tầng kỹ thuật khu nhà ở."
+    "explanation": "Theo khoản 3 Điều 121 Luật Nhà ở 2023, Ban tự quản thực hiện quản lý kiến trúc bên ngoài, cây xanh, vườn hoa và bảo trì công trình tiện ích, hạ tầng kỹ thuật khu nhà ở."
   },
   {
     "question": "Theo Luật Nhà ở 2023, chủ thể nào có thẩm quyền chủ trì thực hiện việc bầu Ban tự quản khu nhà ở lần đầu?",
@@ -3390,7 +3390,7 @@
     "c": "Chủ đầu tư dự án đầu tư xây dựng nhà ở.",
     "d": "Cơ quan công an địa phương nhằm đảm bảo an ninh trật tự khu dân cư.",
     "answer": "c",
-    "explain": "Theo khoản 5 Điều 121, việc bầu Ban tự quản lần đầu do chủ đầu tư dự án đầu tư xây dựng nhà ở chủ trì."
+    "explanation": "Theo khoản 5 Điều 121, việc bầu Ban tự quản lần đầu do chủ đầu tư dự án đầu tư xây dựng nhà ở chủ trì."
   },
   {
     "question": "Theo Luật Nhà ở 2023, tiền thu từ hoạt động bán, cho thuê mua nhà ở thuộc tài sản công được xử lý theo trình tự nào?",
@@ -3399,7 +3399,7 @@
     "c": "Hoàn trả cho chủ đầu tư dự án để bù đắp chi phí xây dựng ban đầu.",
     "d": "Chuyển vào quỹ phát triển hạ tầng đô thị của địa phương.",
     "answer": "b",
-    "explain": "Theo khoản 1 Điều 125, tiền thu sau khi trừ chi phí hợp lý được bố trí để đầu tư xây dựng nhà ở xã hội thuộc tài sản công."
+    "explanation": "Theo khoản 1 Điều 125, tiền thu sau khi trừ chi phí hợp lý được bố trí để đầu tư xây dựng nhà ở xã hội thuộc tài sản công."
   },
   {
     "question": "Theo Luật Nhà ở 2023, nhà ở công vụ được phép sử dụng theo những hình thức nào?",
@@ -3408,7 +3408,7 @@
     "c": "Chỉ được phép sử dụng vào mục đích cho thuê.",
     "d": "Cho thuê hoặc bán tùy thuộc vào đề nghị của cơ quan quản lý.",
     "answer": "c",
-    "explain": "Theo khoản 2 Điều 125, nhà ở công vụ chỉ được sử dụng để cho thuê."
+    "explanation": "Theo khoản 2 Điều 125, nhà ở công vụ chỉ được sử dụng để cho thuê."
   },
   {
     "question": "Theo Luật Nhà ở 2023, đối với đối tượng là học sinh, sinh viên, hợp đồng thuê nhà ở được ký kết với ai?",
@@ -3417,7 +3417,7 @@
     "c": "Cơ sở giáo dục hoặc cơ quan được giao quản lý nhà ở đó.",
     "d": "Ủy ban nhân dân cấp tỉnh hoặc cơ quan quản lý nhà ở cấp tỉnh.",
     "answer": "c",
-    "explain": "Theo điểm d khoản 3 Điều 126, hợp đồng thuê đối với học sinh, sinh viên ký với cơ sở giáo dục hoặc cơ quan được giao quản lý nhà ở."
+    "explanation": "Theo điểm d khoản 3 Điều 126, hợp đồng thuê đối với học sinh, sinh viên ký với cơ sở giáo dục hoặc cơ quan được giao quản lý nhà ở."
   },
   {
     "question": "Theo Luật Nhà ở 2023, hành vi nào sau đây là căn cứ bắt buộc để thu hồi nhà ở thuộc tài sản công?",
@@ -3426,7 +3426,7 @@
     "c": "Bên thuê sử dụng nhà ở sai mục đích hoặc tự ý cho thuê lại nhà ở.",
     "d": "Nhà ở đã sử dụng được 01 năm nhưng chưa được đăng ký hộ khẩu thường trú.",
     "answer": "c",
-    "explain": "Theo điểm h khoản 1 Điều 127, sử dụng sai mục đích hoặc tự ý cho thuê lại là căn cứ thu hồi nhà ở."
+    "explanation": "Theo điểm h khoản 1 Điều 127, sử dụng sai mục đích hoặc tự ý cho thuê lại là căn cứ thu hồi nhà ở."
   },
   {
     "question": "Theo Luật Nhà ở 2023, nếu bên thuê nhà ở không trả tiền thuê từ 03 tháng trở lên thì sẽ chịu hậu quả pháp lý gì?",
@@ -3435,7 +3435,7 @@
     "c": "Bị thu hồi nhà ở thuộc tài sản công.",
     "d": "Được giảm 50% số tiền nợ thuê nhà trong 03 tháng đó.",
     "answer": "c",
-    "explain": "Theo điểm e khoản 1 Điều 127, không trả tiền thuê từ 03 tháng trở lên là căn cứ thu hồi nhà ở."
+    "explanation": "Theo điểm e khoản 1 Điều 127, không trả tiền thuê từ 03 tháng trở lên là căn cứ thu hồi nhà ở."
   },
   {
     "question": "Theo Luật Nhà ở 2023, nghĩa vụ mua bảo hiểm cháy, nổ bắt buộc áp dụng đối với đối tượng nào?",
@@ -3444,7 +3444,7 @@
     "c": "Nhà ở thuộc danh mục cơ sở có nguy hiểm về cháy, nổ theo quy định.",
     "d": "Tất cả các nhà ở công vụ được Nhà nước đầu tư.",
     "answer": "c",
-    "explain": "Theo khoản 1 Điều 128, nhà ở thuộc danh mục cơ sở có nguy hiểm cháy nổ phải mua bảo hiểm cháy nổ bắt buộc."
+    "explanation": "Theo khoản 1 Điều 128, nhà ở thuộc danh mục cơ sở có nguy hiểm cháy nổ phải mua bảo hiểm cháy nổ bắt buộc."
   },
   {
     "question": "Theo Luật Nhà ở 2023, thời hạn bảo hành tối thiểu đối với nhà ở riêng lẻ là bao lâu?",
@@ -3453,7 +3453,7 @@
     "c": "24 tháng.",
     "d": "36 tháng kể từ ngày hoàn công công trình.",
     "answer": "c",
-    "explain": "Theo điểm b khoản 2 Điều 129, nhà ở riêng lẻ được bảo hành tối thiểu 24 tháng."
+    "explanation": "Theo điểm b khoản 2 Điều 129, nhà ở riêng lẻ được bảo hành tối thiểu 24 tháng."
   },
   {
     "question": "Theo Luật Nhà ở 2023, nội dung bảo hành nhà ở bao gồm những hạng mục nào?",
@@ -3462,7 +3462,7 @@
     "c": "Sửa chữa kết cấu, hệ thống kỹ thuật và các hư hỏng khác theo quy định tại hợp đồng.",
     "d": "Chỉ bảo hành phần móng và kết cấu chịu lực chính của ngôi nhà.",
     "answer": "c",
-    "explain": "Theo khoản 3 Điều 129, nội dung bảo hành gồm sửa chữa kết cấu, hệ thống kỹ thuật và các hư hỏng khác theo quy định."
+    "explanation": "Theo khoản 3 Điều 129, nội dung bảo hành gồm sửa chữa kết cấu, hệ thống kỹ thuật và các hư hỏng khác theo quy định."
   },
   {
     "question": "Theo Luật Nhà ở 2023, trường hợp nào sau đây nhà ở bắt buộc phải phá dỡ?",
@@ -3471,7 +3471,7 @@
     "c": "Nhà ở xây dựng trong khu vực cấm xây dựng.",
     "d": "Nhà ở có tranh chấp dân sự giữa các đồng thừa kế.",
     "answer": "c",
-    "explain": "Theo điểm d khoản 1 Điều 136, nhà ở xây dựng trong khu vực cấm xây dựng phải phá dỡ."
+    "explanation": "Theo điểm d khoản 1 Điều 136, nhà ở xây dựng trong khu vực cấm xây dựng phải phá dỡ."
   },
   {
     "question": "Theo Luật Nhà ở 2023, thẩm quyền ra quyết định cưỡng chế phá dỡ nhà ở riêng lẻ thuộc về ai?",
@@ -3480,7 +3480,7 @@
     "c": "Chủ tịch Ủy ban nhân dân cấp tỉnh.",
     "d": "Bộ trưởng Bộ Xây dựng.",
     "answer": "b",
-    "explain": "Theo điểm a khoản 2 Điều 139, Chủ tịch UBND cấp huyện có thẩm quyền cưỡng chế phá dỡ nhà ở riêng lẻ."
+    "explanation": "Theo điểm a khoản 2 Điều 139, Chủ tịch UBND cấp huyện có thẩm quyền cưỡng chế phá dỡ nhà ở riêng lẻ."
   },
   {
     "question": "Theo Luật Nhà ở 2023, khi nhà ở bị phá dỡ, vấn đề chỗ ở của chủ sở hữu được giải quyết như thế nào?",
@@ -3489,7 +3489,7 @@
     "c": "Giải quyết theo chính sách tái định cư hoặc theo quy định đối với nhà chung cư.",
     "d": "Nhà nước sẽ cưỡng chế di dời đến khu vực quy định.",
     "answer": "c",
-    "explain": "Theo Điều 140, chỗ ở được giải quyết theo chính sách tái định cư hoặc quy định đối với nhà chung cư."
+    "explanation": "Theo Điều 140, chỗ ở được giải quyết theo chính sách tái định cư hoặc quy định đối với nhà chung cư."
   },
   {
     "question": "Theo Luật Nhà ở 2023, đối với nhà ở đang cho thuê, bên cho thuê phải thông báo trước khi phá dỡ tối thiểu bao lâu?",
@@ -3498,7 +3498,7 @@
     "c": "90 ngày.",
     "d": "120 ngày.",
     "answer": "c",
-    "explain": "Theo khoản 1 Điều 141, phải thông báo ít nhất 90 ngày trước khi phá dỡ nhà ở."
+    "explanation": "Theo khoản 1 Điều 141, phải thông báo ít nhất 90 ngày trước khi phá dỡ nhà ở."
   },
   {
     "question": "Theo Luật Nhà ở 2023, thời gian phá dỡ hoặc cải tạo nhà ở có được tính vào thời hạn hợp đồng thuê không?",
@@ -3507,7 +3507,7 @@
     "c": "Tùy thuộc vào thỏa thuận cụ thể giữa bên cho thuê và bên thuê.",
     "d": "Do Ủy ban nhân dân cấp có thẩm quyền quyết định.",
     "answer": "b",
-    "explain": "Theo khoản 3 Điều 141, thời gian phá dỡ hoặc cải tạo không tính vào thời hạn hợp đồng thuê."
+    "explanation": "Theo khoản 3 Điều 141, thời gian phá dỡ hoặc cải tạo không tính vào thời hạn hợp đồng thuê."
   },
   {
     "question": "Theo Luật Nhà ở 2023, trong cơ chế xác định nhu cầu nhà ở cho lực lượng vũ trang nhân dân, cơ quan nào có thẩm quyền tổng hợp và chịu trách nhiệm về số liệu nhu cầu đối với đối tượng thuộc phạm vi quản lý?",
