@@ -1,5 +1,266 @@
 [
      {
+    "question": "Theo Luật Công chứng 2024, cơ sở dữ liệu công chứng của Bộ Tư pháp bao gồm nội dung nào sau đây?",
+    "a": "Thông tin về nguồn gốc tài sản và tình trạng giao dịch của tài sản",
+    "b": "Thông tin về công chứng viên, tổ chức hành nghề công chứng và số liệu hoạt động công chứng",
+    "c": "Toàn bộ hồ sơ công chứng chi tiết của từng giao dịch tại địa phương",
+    "d": "Thông tin về tranh chấp đất đai đang được Tòa án thụ lý",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 66 Luật Công chứng 2024, cơ sở dữ liệu công chứng của Bộ Tư pháp bao gồm thông tin về công chứng viên, tổ chức hành nghề công chứng và số liệu hoạt động, không bao gồm hồ sơ chi tiết từng giao dịch."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, cơ sở dữ liệu công chứng của địa phương do cơ quan nào xây dựng và quản lý?",
+    "a": "Bộ Tư pháp",
+    "b": "Tòa án nhân dân cấp tỉnh",
+    "c": "Ủy ban nhân dân cấp tỉnh",
+    "d": "Sở Tài nguyên và Môi trường",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 66 Luật Công chứng 2024, Ủy ban nhân dân cấp tỉnh có trách nhiệm xây dựng cơ sở dữ liệu công chứng của địa phương."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, hồ sơ công chứng bắt buộc phải có thành phần nào sau đây?",
+    "a": "Bản gốc văn bản công chứng và bản sao giấy tờ liên quan",
+    "b": "Chỉ bản gốc hợp đồng đã ký",
+    "c": "Bản sao công chứng của tất cả giấy tờ do người yêu cầu cung cấp",
+    "d": "Bản sao chứng thực của hợp đồng mua bán",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 1 Điều 67 Luật Công chứng 2024, hồ sơ công chứng gồm bản gốc văn bản công chứng và bản sao các giấy tờ liên quan cùng tài liệu khác theo quy định."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, thời hạn lưu trữ hồ sơ công chứng đối với giao dịch bất động sản tối thiểu là bao lâu?",
+    "a": "05 năm",
+    "b": "10 năm",
+    "c": "20 năm",
+    "d": "30 năm",
+    "answer": "d",
+    "explanation": "Căn cứ khoản 2 Điều 68 Luật Công chứng 2024, hồ sơ công chứng đối với giao dịch bất động sản phải được lưu trữ ít nhất 30 năm."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, bản sao văn bản công chứng được cấp bởi cơ quan nào?",
+    "a": "Bất kỳ tổ chức hành nghề công chứng nào",
+    "b": "Tổ chức hành nghề công chứng đang lưu trữ bản gốc văn bản công chứng",
+    "c": "Sở Tư pháp nơi có tài sản",
+    "d": "Bộ Tư pháp",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 69 Luật Công chứng 2024, bản sao văn bản công chứng do tổ chức hành nghề công chứng đang lưu trữ bản gốc thực hiện."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, phí công chứng bao gồm những loại nào sau đây?",
+    "a": "Phí công chứng giao dịch, phí nhận lưu giữ di chúc, phí cấp bản sao văn bản công chứng",
+    "b": "Phí công chứng và thuế thu nhập cá nhân",
+    "c": "Phí công chứng và lệ phí trước bạ",
+    "d": "Phí công chứng và phí đăng ký đất đai",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 1 Điều 70 Luật Công chứng 2024, phí công chứng gồm phí giao dịch, phí lưu giữ di chúc và phí cấp bản sao."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, giá dịch vụ công chứng do cơ quan nào ban hành mức trần?",
+    "a": "Bộ Tư pháp",
+    "b": "Chính phủ",
+    "c": "Ủy ban nhân dân cấp tỉnh",
+    "d": "Hội công chứng viên Việt Nam",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 71 Luật Công chứng 2024, Ủy ban nhân dân cấp tỉnh ban hành mức giá tối đa đối với dịch vụ liên quan công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, chi phí xác minh, giám định phục vụ công chứng do ai chịu?",
+    "a": "Ngân sách nhà nước",
+    "b": "Tổ chức hành nghề công chứng",
+    "c": "Người yêu cầu công chứng theo thỏa thuận",
+    "d": "Sở Tư pháp",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 72 Luật Công chứng 2024, chi phí xác minh, giám định do người yêu cầu công chứng và tổ chức hành nghề công chứng thỏa thuận."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, cơ quan đại diện Việt Nam ở nước ngoài không được công chứng loại giao dịch nào?",
+    "a": "Di chúc",
+    "b": "Ủy quyền",
+    "c": "Mua bán bất động sản tại Việt Nam",
+    "d": "Từ chối nhận di sản",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 73 Luật Công chứng 2024, cơ quan đại diện không được công chứng hợp đồng liên quan bất động sản tại Việt Nam."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, văn bản công chứng có hiệu lực kể từ thời điểm nào (công chứng điện tử)?",
+    "a": "Khi người yêu cầu ký tay",
+    "b": "Khi công chứng viên ký số và tổ chức hành nghề công chứng ký số",
+    "c": "Khi nộp vào cơ sở dữ liệu quốc gia",
+    "d": "Khi Sở Tư pháp xác nhận",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 64 Luật Công chứng 2024, văn bản công chứng điện tử có hiệu lực từ thời điểm được ký bằng chữ ký số của công chứng viên và tổ chức hành nghề công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, hồ sơ công chứng điện tử được thực hiện theo quy trình nào?",
+    "a": "Chỉ công chứng điện tử trực tiếp",
+    "b": "Chỉ công chứng qua email xác nhận",
+    "c": "Công chứng điện tử trực tiếp hoặc trực tuyến",
+    "d": "Chỉ ký số mà không cần công chứng viên",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 65 Luật Công chứng 2024, công chứng điện tử gồm trực tiếp và trực tuyến."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, thời hạn công chứng tối đa đối với giao dịch phức tạp là bao lâu?",
+    "a": "02 ngày làm việc",
+    "b": "05 ngày làm việc",
+    "c": "10 ngày làm việc",
+    "d": "15 ngày làm việc",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 45 Luật Công chứng 2024, thời hạn công chứng giao dịch phức tạp không quá 10 ngày làm việc."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, công chứng ngoài trụ sở được thực hiện trong trường hợp nào?",
+    "a": "Theo yêu cầu bất kỳ của người dân",
+    "b": "Chỉ khi công chứng viên đồng ý",
+    "c": "Người lập di chúc tại chỗ ở hoặc không thể đi lại vì lý do sức khỏe",
+    "d": "Chỉ khi giao dịch có giá trị lớn",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 2 Điều 46 Luật Công chứng 2024, công chứng ngoài trụ sở áp dụng cho các trường hợp như lập di chúc tại chỗ ở hoặc không thể đi lại vì lý do sức khỏe."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, việc sửa lỗi kỹ thuật trong văn bản công chứng được hiểu là gì?",
+    "a": "Sửa nội dung làm thay đổi quyền, nghĩa vụ của các bên",
+    "b": "Sửa lỗi đánh máy, ghi chép không làm thay đổi nội dung giao dịch",
+    "c": "Hủy toàn bộ văn bản công chứng",
+    "d": "Thay đổi người ký hợp đồng",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 52 Luật Công chứng 2024, lỗi kỹ thuật là lỗi ghi chép, đánh máy không làm thay đổi quyền và nghĩa vụ."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, di chúc đã công chứng có thể được sửa đổi như thế nào?",
+    "a": "Chỉ được sửa tại nơi đã lập di chúc ban đầu",
+    "b": "Không được sửa đổi sau khi công chứng",
+    "c": "Có thể sửa tại bất kỳ tổ chức hành nghề công chứng nào",
+    "d": "Phải thông qua Tòa án",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 4 Điều 58 Luật Công chứng 2024, người lập di chúc có thể yêu cầu bất kỳ tổ chức hành nghề công chứng nào thực hiện sửa đổi."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, văn bản phân chia di sản chỉ được công chứng khi nào?",
+    "a": "Ngay khi người thừa kế yêu cầu",
+    "b": "Sau khi niêm yết và không có khiếu nại, tố cáo",
+    "c": "Sau khi nộp thuế đầy đủ",
+    "d": "Sau khi Tòa án xác nhận",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 4 Điều 59 Luật Công chứng 2024, phải niêm yết và không có khiếu nại mới được công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, cơ sở dữ liệu công chứng phải bảo đảm nguyên tắc nào?",
+    "a": "Bảo mật tuyệt đối, không chia sẻ",
+    "b": "Cập nhật chính xác, kịp thời và bảo đảm an ninh an toàn",
+    "c": "Chỉ phục vụ cơ quan công an",
+    "d": "Không cần đồng bộ giữa các địa phương",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 66 quy định cơ sở dữ liệu phải cập nhật đầy đủ, chính xác, kịp thời và bảo đảm an ninh."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, trường hợp nào phải từ chối công chứng?",
+    "a": "Hồ sơ chưa rõ và người yêu cầu không làm rõ",
+    "b": "Người yêu cầu có đủ năng lực hành vi dân sự",
+    "c": "Hợp đồng hợp pháp rõ ràng",
+    "d": "Người yêu cầu nộp đủ giấy tờ",
+    "answer": "a",
+    "explanation": "Khoản 4 Điều 42 quy định nếu không làm rõ được vấn đề nghi ngờ thì công chứng viên phải từ chối công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, tổ chức hành nghề công chứng phải niêm yết gì khi phân chia di sản?",
+    "a": "Giá trị tài sản",
+    "b": "Việc tiếp nhận công chứng văn bản phân chia di sản",
+    "c": "Thuế phải nộp",
+    "d": "Thông tin người thừa kế",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 59 quy định bắt buộc niêm yết việc tiếp nhận công chứng văn bản phân chia di sản."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, người yêu cầu công chứng di chúc có bắt buộc phải tự ký không?",
+    "a": "Không bao giờ được ký",
+    "b": "Có thể ủy quyền cho người khác ký thay",
+    "c": "Phải tự ký hoặc điểm chỉ",
+    "d": "Có thể không cần ký nếu có người làm chứng",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 58 quy định người lập di chúc phải tự ký hoặc điểm chỉ, không được ủy quyền."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, thời điểm hiệu lực của Luật là khi nào?",
+    "a": "Ngày ký ban hành",
+    "b": "01/07/2025",
+    "c": "01/01/2025",
+    "d": "Ngay khi công bố",
+    "answer": "b",
+    "explanation": "Điều 75 quy định Luật có hiệu lực từ ngày 01 tháng 7 năm 2025."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, trong trường hợp nào công chứng viên phải từ chối công chứng?",
+    "a": "Hồ sơ có điểm chưa rõ nhưng người yêu cầu đã cam kết chịu trách nhiệm",
+    "b": "Có nghi ngờ về năng lực hành vi dân sự nhưng người yêu cầu không làm rõ được",
+    "c": "Hợp đồng có nhiều trang nhưng chưa đánh số thứ tự",
+    "d": "Người yêu cầu công chứng nộp thiếu bản photo giấy tờ tùy thân nhưng có bản gốc",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 4 Điều 42 Luật Công chứng 2024, nếu có nghi ngờ về năng lực hành vi dân sự hoặc dấu hiệu cưỡng ép mà không làm rõ được thì công chứng viên phải từ chối công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, nếu dự thảo giao dịch có điều khoản trái pháp luật thì công chứng viên xử lý thế nào?",
+    "a": "Vẫn công chứng nếu các bên tự nguyện ký",
+    "b": "Chỉ ghi chú cảnh báo nhưng không yêu cầu sửa",
+    "c": "Yêu cầu sửa, nếu không sửa thì từ chối công chứng",
+    "d": "Chuyển hồ sơ sang Sở Tư pháp quyết định",
+    "answer": "c",
+    "explanation": "Khoản 5 Điều 42 quy định công chứng viên phải yêu cầu sửa điều khoản vi phạm pháp luật; nếu không sửa thì từ chối công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, công chứng viên có nghĩa vụ gì trước khi ký chứng nhận?",
+    "a": "Chỉ kiểm tra giấy tờ pháp lý của tài sản",
+    "b": "Giải thích quyền, nghĩa vụ và hậu quả pháp lý cho người yêu cầu",
+    "c": "Chỉ đọc khi người yêu cầu yêu cầu bằng văn bản",
+    "d": "Không cần giải thích nếu hai bên đã thỏa thuận trước",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 42 quy định công chứng viên phải giải thích rõ quyền, nghĩa vụ và hậu quả pháp lý cho người yêu cầu công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, thời điểm nào công chứng viên phải yêu cầu xuất trình bản chính?",
+    "a": "Trước khi tiếp nhận hồ sơ",
+    "b": "Sau khi ký lời chứng nhưng trước khi trả kết quả",
+    "c": "Trước khi ký vào lời chứng và từng trang văn bản",
+    "d": "Không cần đối chiếu nếu đã có bản sao chứng thực",
+    "answer": "c",
+    "explanation": "Khoản 7 Điều 42 quy định công chứng viên phải đối chiếu bản chính trước khi ký vào lời chứng và từng trang giao dịch."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, khi nào được dùng điểm chỉ thay cho chữ ký?",
+    "a": "Khi người yêu cầu không ký được",
+    "b": "Khi hợp đồng có giá trị lớn",
+    "c": "Khi tài sản là bất động sản",
+    "d": "Khi công chứng viên yêu cầu",
+    "answer": "a",
+    "explanation": "Khoản 3 Điều 50 quy định điểm chỉ được sử dụng khi người yêu cầu công chứng không ký được."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, trường hợp nào được ký trước vào văn bản công chứng?",
+    "a": "Bất kỳ cá nhân nào nếu đồng ý",
+    "b": "Người có thẩm quyền của tổ chức đã đăng ký chữ ký mẫu",
+    "c": "Người làm chứng",
+    "d": "Người phiên dịch",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 50 quy định chỉ người đại diện tổ chức đã đăng ký chữ ký mẫu mới được ký trước."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, trường hợp nào được công chứng ngoài trụ sở?",
+    "a": "Người yêu cầu yêu cầu vì thuận tiện đi lại",
+    "b": "Mọi giao dịch bất động sản",
+    "c": "Người lập di chúc tại chỗ ở hoặc không thể đi lại vì sức khỏe",
+    "d": "Hợp đồng có giá trị lớn",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 46 quy định chỉ một số trường hợp đặc biệt như lập di chúc tại chỗ ở hoặc không thể đi lại."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, sửa lỗi kỹ thuật trong văn bản công chứng là gì?",
+    "a": "Sửa nội dung làm thay đổi quyền, nghĩa vụ của các bên",
+    "b": "Sửa lỗi đánh máy, ghi chép không làm thay đổi nội dung giao dịch",
+    "c": "Hủy toàn bộ văn bản công chứng",
+    "d": "Thay đổi người ký hợp đồng",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 52 quy định lỗi kỹ thuật là lỗi ghi chép, đánh máy không làm thay đổi quyền và nghĩa vụ."
+  },
+     {
     "question": "Theo Luật Công chứng 2024, việc công chứng văn bản sửa đổi, bổ sung hoặc chấm dứt hợp đồng đã công chứng được thực hiện khi nào?",
     "a": "Khi một bên tự ý yêu cầu công chứng viên thực hiện",
     "b": "Khi có sự thỏa thuận hoặc cam kết bằng văn bản của tất cả những người đã ký kết hợp đồng, trừ trường hợp pháp luật có quy định khác",
