@@ -1,4 +1,463 @@
 [
+     {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, đối tượng báo cáo phải cập nhật thông tin nhận biết khách hàng nhằm mục đích gì?",
+    "a": "Để quảng bá sản phẩm cho khách hàng",
+    "b": "Để bảo đảm giao dịch của khách hàng phù hợp với hồ sơ, hoạt động kinh doanh và mức độ rủi ro",
+    "c": "Để tính thuế thu nhập cá nhân",
+    "d": "Để lưu trữ phục vụ quảng cáo",
+    "answer": "b",
+    "explanation": "Khoản duy nhất Điều 11 quy định đối tượng báo cáo phải cập nhật thông tin nhận biết khách hàng nhằm bảo đảm các giao dịch phù hợp với thông tin hồ sơ hiện có, hoạt động kinh doanh, mức độ rủi ro về rửa tiền và nguồn gốc tài sản của khách hàng."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, giấy tờ nào được sử dụng để xác minh thông tin nhận biết khách hàng cá nhân?",
+    "a": "Thẻ sinh viên",
+    "b": "Giấy khai sinh",
+    "c": "Chứng minh nhân dân, Căn cước công dân hoặc Hộ chiếu còn thời hạn",
+    "d": "Giấy chứng nhận kết hôn",
+    "answer": "c",
+    "explanation": "Điểm a khoản 1 Điều 12 quy định đối với khách hàng cá nhân, đối tượng báo cáo sử dụng Chứng minh nhân dân, Căn cước công dân hoặc Hộ chiếu còn thời hạn sử dụng và giấy tờ khác do cơ quan có thẩm quyền cấp để xác minh thông tin."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, đối tượng báo cáo có thể khai thác thông tin từ đâu để đối chiếu, xác minh thông tin khách hàng?",
+    "a": "Chỉ từ mạng xã hội",
+    "b": "Chỉ từ khách hàng cung cấp",
+    "c": "Từ cơ sở dữ liệu quốc gia, cơ quan nhà nước có thẩm quyền, tổ chức khác hoặc bên thứ ba",
+    "d": "Từ báo chí",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 12 quy định đối tượng báo cáo có thể khai thác thông tin trong cơ sở dữ liệu quốc gia, thông qua cơ quan nhà nước có thẩm quyền, tổ chức khác hoặc bên thứ ba để đối chiếu, xác minh thông tin do khách hàng cung cấp."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, khi thuê tổ chức khác xác minh thông tin khách hàng, đối tượng báo cáo có phải chịu trách nhiệm về kết quả xác minh không?",
+    "a": "Không",
+    "b": "Chỉ chịu trách nhiệm một phần",
+    "c": "Chỉ chịu trách nhiệm khi có thiệt hại",
+    "d": "Có",
+    "answer": "d",
+    "explanation": "Khoản 2 Điều 13 quy định đối tượng báo cáo phải chịu trách nhiệm về kết quả xác minh thông tin nhận biết khách hàng của tổ chức được thuê."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, bên thứ ba được sử dụng để nhận biết khách hàng phải đáp ứng điều kiện nào sau đây?",
+    "a": "Không cần chịu sự quản lý của cơ quan có thẩm quyền",
+    "b": "Phải là đối tượng chịu sự quản lý, giám sát của cơ quan có thẩm quyền",
+    "c": "Chỉ cần hoạt động ở nước ngoài",
+    "d": "Không cần lưu trữ thông tin khách hàng",
+    "answer": "b",
+    "explanation": "Điểm d khoản 1 Điều 14 quy định bên thứ ba phải là đối tượng chịu sự quản lý, giám sát của cơ quan có thẩm quyền."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, đối tượng báo cáo có phải chịu trách nhiệm về kết quả nhận biết khách hàng của bên thứ ba không?",
+    "a": "Không",
+    "b": "Chỉ chịu trách nhiệm khi bên thứ ba ở nước ngoài",
+    "c": "Có",
+    "d": "Chỉ chịu trách nhiệm nếu có hợp đồng",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 14 quy định đối tượng báo cáo phải chịu trách nhiệm về kết quả nhận biết khách hàng của bên thứ ba."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, đối tượng báo cáo phải báo cáo giao dịch đáng ngờ cho cơ quan nào?",
+    "a": "Bộ Công an",
+    "b": "Viện kiểm sát nhân dân",
+    "c": "Ngân hàng Nhà nước Việt Nam",
+    "d": "Tòa án nhân dân",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 26 quy định đối tượng báo cáo có trách nhiệm báo cáo giao dịch đáng ngờ cho Ngân hàng Nhà nước Việt Nam."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, trường hợp nào phải báo cáo giao dịch đáng ngờ?",
+    "a": "Khách hàng gửi tiết kiệm định kỳ",
+    "b": "Có cơ sở hợp lý để nghi ngờ tài sản trong giao dịch liên quan đến rửa tiền",
+    "c": "Khách hàng thay đổi số điện thoại",
+    "d": "Khách hàng đổi mật khẩu tài khoản",
+    "answer": "b",
+    "explanation": "Điểm b khoản 1 Điều 26 quy định phải báo cáo khi có cơ sở hợp lý để nghi ngờ tài sản trong giao dịch liên quan đến rửa tiền."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, dấu hiệu nào là dấu hiệu đáng ngờ cơ bản?",
+    "a": "Khách hàng cung cấp đầy đủ thông tin",
+    "b": "Khách hàng từ chối cung cấp thông tin hoặc cung cấp thông tin không chính xác",
+    "c": "Khách hàng thanh toán đúng hạn",
+    "d": "Khách hàng mở tài khoản tiết kiệm",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 27 quy định dấu hiệu đáng ngờ cơ bản là khách hàng từ chối cung cấp thông tin hoặc cung cấp thông tin nhận biết khách hàng không chính xác, không đầy đủ, không nhất quán."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, hành vi khách hàng thuyết phục đối tượng báo cáo không báo cáo giao dịch cho cơ quan nhà nước có thẩm quyền là gì?",
+    "a": "Hành vi hợp pháp",
+    "b": "Dấu hiệu đáng ngờ cơ bản",
+    "c": "Điều kiện miễn báo cáo",
+    "d": "Hành vi được khuyến khích",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 27 quy định khách hàng thuyết phục đối tượng báo cáo không báo cáo giao dịch cho cơ quan nhà nước có thẩm quyền là dấu hiệu đáng ngờ cơ bản."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, việc tiền vào và rút ra nhanh khỏi tài khoản là dấu hiệu đáng ngờ trong lĩnh vực nào?",
+    "a": "Bảo hiểm",
+    "b": "Ngân hàng",
+    "c": "Bất động sản",
+    "d": "Xổ số",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 28 quy định việc có sự thay đổi đột biến trong doanh số giao dịch trên tài khoản, tiền vào và rút ra nhanh khỏi tài khoản là dấu hiệu đáng ngờ trong lĩnh vực ngân hàng."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, khách hàng thường xuyên đổi tiền mệnh giá nhỏ sang mệnh giá lớn là dấu hiệu đáng ngờ trong lĩnh vực nào?",
+    "a": "Ngân hàng",
+    "b": "Bất động sản",
+    "c": "Chứng khoán",
+    "d": "Bảo hiểm",
+    "answer": "a",
+    "explanation": "Khoản 8 Điều 28 quy định khách hàng thường xuyên đổi tiền có mệnh giá nhỏ sang mệnh giá lớn là dấu hiệu đáng ngờ trong lĩnh vực ngân hàng."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, ví điện tử phát sinh nhiều giao dịch chuyển tiền với thời gian khởi tạo nhanh bất thường là dấu hiệu đáng ngờ trong lĩnh vực nào?",
+    "a": "Ngân hàng",
+    "b": "Trung gian thanh toán",
+    "c": "Bảo hiểm",
+    "d": "Chứng khoán",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 29 quy định ví điện tử phát sinh nhiều giao dịch chuyển tiền cho ví điện tử khác với thời gian khởi tạo giao dịch nhanh bất thường là dấu hiệu đáng ngờ trong lĩnh vực trung gian thanh toán."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, khách hàng thường xuyên sử dụng một địa chỉ IP để giao dịch trên nhiều ví điện tử không cùng chủ là dấu hiệu đáng ngờ trong lĩnh vực nào?",
+    "a": "Bảo hiểm",
+    "b": "Bất động sản",
+    "c": "Trung gian thanh toán",
+    "d": "Kế toán",
+    "answer": "c",
+    "explanation": "Khoản 9 Điều 29 quy định khách hàng thường xuyên sử dụng một thiết bị đăng nhập hoặc một địa chỉ IP để thực hiện giao dịch trên nhiều ví điện tử không cùng một chủ ví điện tử là dấu hiệu đáng ngờ."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, bên mua bảo hiểm yêu cầu thay đổi người thụ hưởng không có mối quan hệ rõ ràng là dấu hiệu đáng ngờ trong lĩnh vực nào?",
+    "a": "Ngân hàng",
+    "b": "Bảo hiểm nhân thọ",
+    "c": "Bất động sản",
+    "d": "Chứng khoán",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 30 quy định bên mua bảo hiểm yêu cầu thay đổi người thụ hưởng đã chỉ định bằng người không có mối quan hệ rõ ràng là dấu hiệu đáng ngờ trong lĩnh vực bảo hiểm nhân thọ."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, khách hàng hủy hợp đồng bảo hiểm ngay sau khi mua và yêu cầu chuyển tiền cho bên thứ ba là dấu hiệu đáng ngờ trong lĩnh vực nào?",
+    "a": "Chứng khoán",
+    "b": "Bất động sản",
+    "c": "Bảo hiểm nhân thọ",
+    "d": "Ngân hàng",
+    "answer": "c",
+    "explanation": "Khoản 6 Điều 30 quy định bên mua bảo hiểm hủy hợp đồng bảo hiểm ngay sau khi mua và yêu cầu chuyển tiền phí bảo hiểm đã đóng cho bên thứ ba là dấu hiệu đáng ngờ."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, giao dịch mua bán chứng khoán bất thường do một cá nhân thực hiện trong một số ngày là dấu hiệu đáng ngờ trong lĩnh vực nào?",
+    "a": "Ngân hàng",
+    "b": "Chứng khoán",
+    "c": "Bảo hiểm",
+    "d": "Bất động sản",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 31 quy định giao dịch mua, bán chứng khoán có dấu hiệu bất thường trong một ngày hoặc một số ngày do một tổ chức hoặc một cá nhân thực hiện là dấu hiệu đáng ngờ trong lĩnh vực chứng khoán."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, khách hàng liên tục cố tình thua tại tổ chức kinh doanh trò chơi có thưởng là dấu hiệu đáng ngờ trong lĩnh vực nào?",
+    "a": "Bất động sản",
+    "b": "Ngân hàng",
+    "c": "Kinh doanh trò chơi có thưởng",
+    "d": "Chứng khoán",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 32 quy định khách hàng có dấu hiệu liên tục cố tình thua tại tổ chức kinh doanh trò chơi có thưởng là dấu hiệu đáng ngờ."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, giao dịch bất động sản là giao dịch ủy quyền nhưng không có cơ sở pháp lý là gì?",
+    "a": "Giao dịch hợp lệ",
+    "b": "Dấu hiệu đáng ngờ trong lĩnh vực bất động sản",
+    "c": "Trường hợp miễn kiểm tra",
+    "d": "Giao dịch ưu tiên",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 33 quy định các giao dịch bất động sản là giao dịch ủy quyền nhưng không có cơ sở pháp lý là dấu hiệu đáng ngờ trong lĩnh vực kinh doanh bất động sản."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, đối tượng báo cáo phải báo cáo giao dịch chuyển tiền điện tử vượt mức giá trị cho cơ quan nào?",
+    "a": "Bộ Tài chính",
+    "b": "Ngân hàng Nhà nước Việt Nam",
+    "c": "Tòa án nhân dân",
+    "d": "Bộ Công an",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 34 quy định đối tượng báo cáo có trách nhiệm báo cáo Ngân hàng Nhà nước Việt Nam khi thực hiện giao dịch chuyển tiền điện tử vượt quá mức giá trị theo quy định."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, cá nhân mang ngoại tệ tiền mặt vượt mức quy định khi xuất cảnh phải thực hiện nghĩa vụ gì?",
+    "a": "Thông báo cho ngân hàng",
+    "b": "Khai báo hải quan hoặc khai báo với bộ đội biên phòng",
+    "c": "Xin phép UBND cấp xã",
+    "d": "Không cần khai báo",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 35 quy định cá nhân khi nhập cảnh, xuất cảnh mang theo ngoại tệ tiền mặt, đồng Việt Nam bằng tiền mặt, kim khí quý, đá quý và công cụ chuyển nhượng trên mức quy định phải khai báo hải quan hoặc khai báo với bộ đội biên phòng."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, đối tượng báo cáo có thể báo cáo qua điện thoại trong trường hợp nào?",
+    "a": "Mọi trường hợp",
+    "b": "Khi cần thiết và phải xác nhận lại bằng hình thức luật định",
+    "c": "Chỉ khi được Bộ Công an cho phép",
+    "d": "Không được phép",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 36 quy định trường hợp cần thiết, đối tượng báo cáo có thể báo cáo qua fax, điện thoại, thư điện tử nhưng phải xác nhận lại bằng dữ liệu điện tử hoặc văn bản giấy."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, thời hạn báo cáo giao dịch đáng ngờ thông thường là bao lâu?",
+    "a": "01 ngày làm việc kể từ ngày phát sinh giao dịch",
+    "b": "02 ngày làm việc",
+    "c": "03 ngày làm việc kể từ ngày phát sinh giao dịch hoặc 01 ngày làm việc kể từ ngày phát hiện",
+    "d": "07 ngày làm việc",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 37 quy định đối tượng báo cáo phải báo cáo giao dịch đáng ngờ trong thời hạn 03 ngày làm việc kể từ ngày phát sinh giao dịch hoặc 01 ngày làm việc kể từ ngày phát hiện giao dịch đáng ngờ."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, khi phát hiện giao dịch đáng ngờ có dấu hiệu liên quan đến tội phạm thì thời hạn báo cáo là bao lâu?",
+    "a": "24 giờ",
+    "b": "03 ngày",
+    "c": "05 ngày",
+    "d": "07 ngày",
+    "answer": "a",
+    "explanation": "Khoản 3 Điều 37 quy định trường hợp phát hiện giao dịch đáng ngờ có dấu hiệu liên quan đến tội phạm thì phải báo cáo trong thời hạn 24 giờ kể từ thời điểm phát hiện."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, thời hạn lưu trữ thông tin nhận biết khách hàng là bao lâu?",
+    "a": "02 năm",
+    "b": "03 năm",
+    "c": "05 năm",
+    "d": "10 năm",
+    "answer": "c",
+    "explanation": "Điểm a khoản 2 Điều 38 quy định thời hạn lưu trữ thông tin, hồ sơ, tài liệu nhận biết khách hàng là 05 năm kể từ ngày kết thúc giao dịch hoặc ngày đóng tài khoản hoặc ngày báo cáo."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, đối tượng báo cáo có được tiết lộ việc đã báo cáo giao dịch đáng ngờ cho Ngân hàng Nhà nước Việt Nam không?",
+    "a": "Có",
+    "b": "Chỉ được tiết lộ cho khách hàng",
+    "c": "Không",
+    "d": "Chỉ được tiết lộ cho báo chí",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 40 quy định đối tượng báo cáo, người quản lý, người lao động không được tiết lộ thông tin về việc đã báo cáo giao dịch đáng ngờ hoặc thông tin liên quan cho Ngân hàng Nhà nước Việt Nam."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, Ngân hàng Nhà nước Việt Nam phải chuyển giao thông tin nghi ngờ liên quan đến rửa tiền cho cơ quan có thẩm quyền trong thời hạn bao lâu?",
+    "a": "03 ngày làm việc",
+    "b": "05 ngày làm việc",
+    "c": "07 ngày làm việc",
+    "d": "10 ngày làm việc",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 42 quy định trong thời hạn 07 ngày làm việc, Ngân hàng Nhà nước Việt Nam có trách nhiệm chuyển giao thông tin hoặc hồ sơ vụ việc cho cơ quan có thẩm quyền."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, đối tượng báo cáo phải cập nhật thông tin nhận biết khách hàng nhằm mục đích nào?",
+    "a": "Để phục vụ quảng cáo sản phẩm",
+    "b": "Để bảo đảm giao dịch phù hợp với thông tin và mức độ rủi ro của khách hàng",
+    "c": "Để tăng phí dịch vụ",
+    "d": "Để thay đổi chủ sở hữu tài sản",
+    "answer": "b",
+    "explanation": "Điều 11 quy định đối tượng báo cáo phải cập nhật thông tin nhận biết khách hàng nhằm bảo đảm các giao dịch phù hợp với thông tin khách hàng, hoạt động kinh doanh, mức độ rủi ro về rửa tiền và nguồn gốc tài sản của khách hàng."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, giấy tờ nào được sử dụng để xác minh thông tin khách hàng cá nhân?",
+    "a": "Thẻ sinh viên",
+    "b": "Giấy chứng nhận kết hôn",
+    "c": "Căn cước công dân hoặc hộ chiếu còn thời hạn",
+    "d": "Sổ bảo hiểm xã hội",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 12 quy định đối với khách hàng cá nhân, đối tượng báo cáo sử dụng Chứng minh nhân dân, Căn cước công dân, Hộ chiếu còn thời hạn hoặc giấy tờ khác do cơ quan có thẩm quyền cấp để xác minh thông tin."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, đối tượng báo cáo có thể khai thác thông tin từ đâu để đối chiếu, xác minh thông tin khách hàng?",
+    "a": "Mạng xã hội",
+    "b": "Cơ sở dữ liệu quốc gia",
+    "c": "Diễn đàn trực tuyến",
+    "d": "Nguồn tin truyền miệng",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 12 quy định đối tượng báo cáo có thể khai thác thông tin trong các cơ sở dữ liệu quốc gia để đối chiếu, xác minh thông tin khách hàng."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, khi thuê tổ chức khác xác minh thông tin khách hàng, đối tượng báo cáo có phải chịu trách nhiệm về kết quả xác minh không?",
+    "a": "Không",
+    "b": "Chỉ chịu trách nhiệm khi có lỗi cố ý",
+    "c": "Có",
+    "d": "Chỉ chịu trách nhiệm khi được yêu cầu",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 13 quy định đối tượng báo cáo chịu trách nhiệm về kết quả xác minh thông tin nhận biết khách hàng của tổ chức được thuê."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, bên thứ ba nhận biết khách hàng phải đáp ứng điều kiện nào?",
+    "a": "Là cá nhân bất kỳ",
+    "b": "Không cần chịu sự quản lý của cơ quan có thẩm quyền",
+    "c": "Là đối tượng chịu sự quản lý, giám sát của cơ quan có thẩm quyền",
+    "d": "Chỉ cần có quan hệ quen biết với khách hàng",
+    "answer": "c",
+    "explanation": "Điểm d khoản 1 Điều 14 quy định bên thứ ba phải là đối tượng chịu sự quản lý, giám sát của cơ quan có thẩm quyền."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, đối tượng báo cáo có chịu trách nhiệm về kết quả nhận biết khách hàng của bên thứ ba không?",
+    "a": "Không",
+    "b": "Chỉ chịu trách nhiệm liên đới",
+    "c": "Có",
+    "d": "Chỉ chịu trách nhiệm khi có tranh chấp",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 14 quy định đối tượng báo cáo phải chịu trách nhiệm về kết quả nhận biết khách hàng của bên thứ ba."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, trường hợp nào phải báo cáo giao dịch đáng ngờ?",
+    "a": "Mọi giao dịch tiền mặt",
+    "b": "Khi có cơ sở hợp lý nghi ngờ tài sản liên quan đến rửa tiền",
+    "c": "Mọi giao dịch chuyển khoản",
+    "d": "Mọi giao dịch bất động sản",
+    "answer": "b",
+    "explanation": "Điểm b khoản 1 Điều 26 quy định phải báo cáo giao dịch đáng ngờ khi có cơ sở hợp lý nghi ngờ tài sản trong giao dịch liên quan đến rửa tiền."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, khách hàng từ chối cung cấp thông tin nhận biết khách hàng là dấu hiệu gì?",
+    "a": "Dấu hiệu hợp lệ",
+    "b": "Dấu hiệu giao dịch thành công",
+    "c": "Dấu hiệu đáng ngờ cơ bản",
+    "d": "Dấu hiệu miễn báo cáo",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 27 quy định khách hàng từ chối cung cấp thông tin hoặc cung cấp thông tin không chính xác, không đầy đủ là dấu hiệu đáng ngờ cơ bản."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, khách hàng thuyết phục đối tượng báo cáo không báo cáo giao dịch cho cơ quan nhà nước có thẩm quyền là dấu hiệu gì?",
+    "a": "Dấu hiệu đáng ngờ",
+    "b": "Dấu hiệu hợp tác",
+    "c": "Dấu hiệu miễn trách nhiệm",
+    "d": "Dấu hiệu giao dịch dân sự bình thường",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 27 quy định khách hàng thuyết phục đối tượng báo cáo không báo cáo giao dịch là dấu hiệu đáng ngờ cơ bản."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, việc sử dụng tài khoản cá nhân để thực hiện giao dịch liên quan đến hoạt động của tổ chức có thể là dấu hiệu đáng ngờ trong lĩnh vực nào?",
+    "a": "Ngân hàng",
+    "b": "Hộ tịch",
+    "c": "Thi hành án",
+    "d": "Đấu giá tài sản",
+    "answer": "a",
+    "explanation": "Khoản 13 Điều 28 quy định có dấu hiệu nghi ngờ khách hàng sử dụng tài khoản cá nhân để thực hiện giao dịch liên quan đến hoạt động của tổ chức là dấu hiệu đáng ngờ trong lĩnh vực ngân hàng."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, ví điện tử phát sinh nhiều giao dịch chuyển tiền với thời gian khởi tạo nhanh bất thường là dấu hiệu đáng ngờ trong lĩnh vực nào?",
+    "a": "Bảo hiểm",
+    "b": "Bất động sản",
+    "c": "Trung gian thanh toán",
+    "d": "Chứng khoán",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 29 quy định ví điện tử phát sinh nhiều giao dịch chuyển tiền với thời gian khởi tạo giao dịch nhanh bất thường là dấu hiệu đáng ngờ trong lĩnh vực trung gian thanh toán."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, khách hàng yêu cầu thay đổi người thụ hưởng bảo hiểm sang người không có quan hệ rõ ràng là dấu hiệu đáng ngờ trong lĩnh vực nào?",
+    "a": "Ngân hàng",
+    "b": "Bảo hiểm nhân thọ",
+    "c": "Casino",
+    "d": "Bất động sản",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 30 quy định việc thay đổi người thụ hưởng sang người không có mối quan hệ rõ ràng là dấu hiệu đáng ngờ trong lĩnh vực kinh doanh bảo hiểm nhân thọ."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, khách hàng thường xuyên bán toàn bộ cổ phiếu rồi rút tiền mặt là dấu hiệu đáng ngờ trong lĩnh vực nào?",
+    "a": "Chứng khoán",
+    "b": "Ngân hàng",
+    "c": "Bảo hiểm",
+    "d": "Bất động sản",
+    "answer": "a",
+    "explanation": "Khoản 4 Điều 31 quy định khách hàng thường xuyên bán tất cả cổ phiếu và rút tiền mặt là dấu hiệu đáng ngờ trong lĩnh vực chứng khoán."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, khách hàng nhiều lần đổi đồng tiền quy ước thành tiền mặt trong cùng một ngày là dấu hiệu đáng ngờ trong lĩnh vực nào?",
+    "a": "Kinh doanh bất động sản",
+    "b": "Kinh doanh trò chơi có thưởng",
+    "c": "Ngân hàng",
+    "d": "Bảo hiểm",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 32 quy định khách hàng nhiều lần trong một ngày yêu cầu đổi đồng tiền quy ước thành tiền mặt là dấu hiệu đáng ngờ trong lĩnh vực kinh doanh trò chơi có thưởng."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, giao dịch bất động sản dưới hình thức ủy quyền nhưng không có cơ sở pháp lý là dấu hiệu gì?",
+    "a": "Dấu hiệu giao dịch hợp lệ",
+    "b": "Dấu hiệu đáng ngờ trong kinh doanh bất động sản",
+    "c": "Dấu hiệu miễn xác minh",
+    "d": "Dấu hiệu không cần báo cáo",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 33 quy định giao dịch bất động sản là giao dịch ủy quyền nhưng không có cơ sở pháp lý là dấu hiệu đáng ngờ trong lĩnh vực kinh doanh bất động sản."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, đối tượng báo cáo phải báo cáo giao dịch chuyển tiền điện tử vượt mức quy định cho cơ quan nào?",
+    "a": "Bộ Công an",
+    "b": "Viện kiểm sát",
+    "c": "Ngân hàng Nhà nước Việt Nam",
+    "d": "Tòa án nhân dân",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 34 quy định đối tượng báo cáo có trách nhiệm báo cáo Ngân hàng Nhà nước Việt Nam đối với giao dịch chuyển tiền điện tử vượt mức giá trị theo quy định."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, cá nhân nhập cảnh hoặc xuất cảnh mang ngoại tệ tiền mặt vượt mức quy định phải thực hiện việc gì?",
+    "a": "Đăng ký tại ngân hàng",
+    "b": "Khai báo hải quan hoặc khai báo với bộ đội biên phòng",
+    "c": "Thông báo cho UBND cấp xã",
+    "d": "Xin xác nhận của công chứng viên",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 35 quy định cá nhân mang ngoại tệ tiền mặt vượt mức quy định phải khai báo hải quan hoặc khai báo với bộ đội biên phòng nơi không có cơ quan hải quan."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, trong trường hợp cần thiết, đối tượng báo cáo có thể báo cáo qua hình thức nào?",
+    "a": "Chỉ được báo cáo bằng miệng",
+    "b": "Fax, điện thoại, thư điện tử",
+    "c": "Mạng xã hội",
+    "d": "Tin nhắn cá nhân",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 36 quy định trong trường hợp cần thiết, đối tượng báo cáo có thể báo cáo qua fax, điện thoại, thư điện tử nhưng phải xác nhận lại theo quy định."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, thời hạn báo cáo giao dịch đáng ngờ thông thường là bao lâu?",
+    "a": "01 ngày làm việc",
+    "b": "02 ngày làm việc",
+    "c": "03 ngày làm việc",
+    "d": "05 ngày làm việc",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 37 quy định đối tượng báo cáo phải báo cáo giao dịch đáng ngờ trong thời hạn 03 ngày làm việc kể từ ngày phát sinh giao dịch hoặc 01 ngày làm việc kể từ ngày phát hiện giao dịch đáng ngờ."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, khi phát hiện giao dịch đáng ngờ có dấu hiệu liên quan đến tội phạm thì phải báo cáo trong thời hạn bao lâu?",
+    "a": "48 giờ",
+    "b": "72 giờ",
+    "c": "24 giờ",
+    "d": "05 ngày",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 37 quy định trường hợp phát hiện giao dịch đáng ngờ có dấu hiệu liên quan đến tội phạm thì phải báo cáo trong thời hạn 24 giờ kể từ thời điểm phát hiện."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, thời hạn lưu trữ thông tin nhận biết khách hàng là bao lâu?",
+    "a": "01 năm",
+    "b": "03 năm",
+    "c": "05 năm",
+    "d": "10 năm",
+    "answer": "c",
+    "explanation": "Điểm a khoản 2 Điều 38 quy định thời hạn lưu trữ thông tin, hồ sơ, tài liệu nhận biết khách hàng là 05 năm kể từ ngày kết thúc giao dịch hoặc ngày đóng tài khoản hoặc ngày báo cáo."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, việc cung cấp thông tin theo quy định của luật này có bị coi là vi phạm bí mật thông tin không?",
+    "a": "Luôn bị coi là vi phạm",
+    "b": "Chỉ vi phạm khi cung cấp cho Ngân hàng Nhà nước",
+    "c": "Không bị coi là vi phạm",
+    "d": "Chỉ vi phạm khi chưa có sự đồng ý của khách hàng",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 39 quy định đối tượng báo cáo, cơ quan, tổ chức, cá nhân thực hiện nghĩa vụ báo cáo hoặc cung cấp thông tin theo luật này không bị coi là vi phạm quy định về bảo đảm bí mật thông tin."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, đối tượng báo cáo có được tiết lộ việc đã báo cáo giao dịch đáng ngờ cho Ngân hàng Nhà nước Việt Nam không?",
+    "a": "Được phép",
+    "b": "Chỉ được tiết lộ cho khách hàng",
+    "c": "Không được tiết lộ",
+    "d": "Được tiết lộ nếu giao dịch dưới 500 triệu đồng",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 40 quy định đối tượng báo cáo, người quản lý, người lao động không được tiết lộ thông tin về việc đã báo cáo giao dịch đáng ngờ cho Ngân hàng Nhà nước Việt Nam."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, Ngân hàng Nhà nước Việt Nam có trách nhiệm chuyển giao thông tin liên quan đến rửa tiền cho cơ quan có thẩm quyền trong thời hạn bao lâu?",
+    "a": "03 ngày làm việc",
+    "b": "05 ngày làm việc",
+    "c": "07 ngày làm việc",
+    "d": "10 ngày làm việc",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 42 quy định trong thời hạn 07 ngày làm việc, Ngân hàng Nhà nước Việt Nam phải chuyển giao thông tin hoặc hồ sơ vụ việc cho cơ quan có thẩm quyền."
+  },
     {
     "question": "Theo Luật Phòng, chống rửa tiền 2022, rửa tiền là hành vi nào?",
     "a": "che giấu doanh thu kinh doanh",
