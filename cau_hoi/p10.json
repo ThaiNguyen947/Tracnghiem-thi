@@ -1,5 +1,194 @@
 [
     {
+    "question": "Thẩm quyền bổ nhiệm Công chứng viên theo quy định của Luật Công chứng 2024 thuộc về cơ quan nào?",
+    "a": "Giám đốc Sở Tư pháp nơi tổ chức hành nghề công chứng đặt trụ sở",
+    "b": "Ủy ban nhân dân cấp tỉnh sau khi có sự đồng ý của Bộ Tư pháp",
+    "c": "Bộ trưởng Bộ Tư pháp",
+    "d": "Chính phủ căn cứ theo đề nghị của Hội đồng công chứng quốc gia",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 13 Luật Công chứng 2024: Bộ trưởng Bộ Tư pháp có thẩm quyền bổ nhiệm công chứng viên.Lưu ý có sbđ cho Chủ tịch bổ nhiệm r"
+  },
+  {
+    "question": "Theo Luật Công chứng 2024 Để được đề nghị bổ nhiệm Công chứng viên, người có yêu cầu phải đáp ứng các điều kiện tiên quyết nào?",
+    "a": "Chỉ cần tốt nghiệp cử nhân luật và có thời gian công tác pháp luật từ đủ 03 năm",
+    "b": "Đáp ứng đầy đủ tiêu chuẩn quy định tại Điều 10 và không thuộc trường hợp không được bổ nhiệm quy định tại Điều 14",
+    "c": "Đã hoàn thành khóa đào tạo nghề công chứng và có ít nhất 05 năm kinh nghiệm hành nghề luật sư",
+    "d": "Đang công tác tại cơ quan nhà nước và được cơ quan chủ quản giới thiệu",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 13 Luật Công chứng 2024: Người đề nghị bổ nhiệm phải đáp ứng tiêu chuẩn Điều 10 và không thuộc trường hợp tại Điều 14."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024 Trường hợp nào sau đây bị cấm bổ nhiệm Công chứng viên do yếu tố án tích?",
+    "a": "Người đã từng bị kết án về tội do vô ý",
+    "b": "Người đã bị kết án về tội cố ý, kể cả trường hợp đã được xóa án tích",
+    "c": "Người bị xử phạt vi phạm hành chính trong lĩnh vực tư pháp nhưng chưa hết thời hạn được coi là chưa bị xử phạt",
+    "d": "Người đang bị truy cứu trách nhiệm hình sự",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 14 Luật Công chứng 2024: Không bổ nhiệm người bị kết án tội cố ý, kể cả đã xóa án tích."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, đối tượng nào dưới đây bị loại trừ khỏi quyền được bổ nhiệm Công chứng viên do đang đảm nhiệm chức vụ công?",
+    "a": "Luật sư đang hành nghề tại các văn phòng luật sư",
+    "b": "Cán bộ, công chức, viên chức đang làm việc trong các cơ quan nhà nước",
+    "c": "Người đã nghỉ hưu theo chế độ bảo hiểm xã hội",
+    "d": "Người đang làm tư vấn pháp lý cho doanh nghiệp tư nhân",
+    "answer": "b",
+    "explanation": "Khoản 5 Điều 14 Luật Công chứng 2024: Cán bộ, công chức, viên chức (trừ trường hợp đặc biệt) không được bổ nhiệm công chứng viên."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024 Hành vi kiêm nhiệm nào sau đây là căn cứ pháp lý khiến một cá nhân không được bổ nhiệm Công chứng viên?",
+    "a": "Đang giảng dạy chuyên ngành luật tại các cơ sở đào tạo",
+    "b": "Đang hành nghề Thừa phát lại, Luật sư, Đấu giá viên hoặc Quản tài viên",
+    "c": "Đang làm tư vấn pháp luật nội bộ cho doanh nghiệp",
+    "d": "Đang hoạt động trong lĩnh vực nghiên cứu pháp luật",
+    "answer": "b",
+    "explanation": "Khoản 6 Điều 14 Luật Công chứng 2024: Người đang là thừa phát lại, luật sư, đấu giá viên, quản tài viên không được bổ nhiệm."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024 Thời hạn tạm đình chỉ hành nghề Công chứng viên tối đa được quy định như thế nào?",
+    "a": "Không quá 06 tháng",
+    "b": "Không quá 12 tháng",
+    "c": "Không quá 24 tháng",
+    "d": "Không giới hạn thời gian cho đến khi có kết luận của cơ quan chức năng",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 15 Luật Công chứng 2024: Thời gian tạm đình chỉ hành nghề công chứng tối đa là 12 tháng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024 Khi nào một Công chứng viên đang bị tạm đình chỉ hành nghề được chấm dứt việc tạm đình chỉ trước thời hạn?",
+    "a": "Khi công chứng viên có đơn đề nghị chấm dứt tạm đình chỉ gửi Sở Tư pháp",
+    "b": "Khi có quyết định đình chỉ điều tra hoặc bản án tuyên không có tội của cơ quan có thẩm quyền",
+    "c": "Khi công chứng viên chuyển sang hành nghề tại tổ chức khác",
+    "d": "Sau khi đã chấp hành xong các nghĩa vụ hành chính",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 15 Luật Công chứng 2024: Tạm đình chỉ hành nghề được chấm dứt khi có quyết định đình chỉ điều tra hoặc bản án tuyên không có tội."
+  },
+  {
+  "question": "Theo Luật Công chứng 2024, nhận định nào sau đây là chính xác về căn cứ miễn nhiệm Công chứng viên?",
+  "a": "Công chứng viên bị miễn nhiệm đương nhiên khi có đơn xin thôi hành nghề và miễn nhiệm theo nguyện vọng khi vượt quá 70 tuổi",
+  "b": "Công chứng viên được miễn nhiệm theo nguyện vọng cá nhân khi có đơn xin thôi hành nghề; miễn nhiệm đương nhiên khi vượt quá 70 tuổi",
+  "c": "Cả hai trường hợp miễn nhiệm theo nguyện vọng và miễn nhiệm đương nhiên đều áp dụng khi công chứng viên vượt quá 70 tuổi",
+  "d": "Cả hai trường hợp trên đều là căn cứ miễn nhiệm theo nguyện vọng cá nhân của công chứng viên",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 16 Luật Công chứng 2024: Công chứng viên được miễn nhiệm theo nguyện vọng cá nhân khi có đơn xin thôi hành nghề và đương nhiên bị miễn nhiệm khi vượt quá 70 tuổi."
+},
+{
+    "question": "Theo Luật Công chứng 2024, trường hợp nào sau đây thuộc nhóm bị miễn nhiệm do vi phạm hành nghề?",
+    "a": "Không cập nhật nghiệp vụ",
+    "b": "Không hành nghề liên tục 12 tháng",
+    "c": "Xin chuyển nơi làm việc",
+    "d": "Nghỉ thai sản",
+    "answer": "b",
+    "explanation": "điểm đ - Khoản 2 Điều 16 Không hành nghề công chứng trong thời hạn 12 tháng kể từ ngày được bổ nhiệm, bổ nhiệm lại công chứng viên hoặc không hành nghề công chứng liên tục từ 12 tháng trở lên, trừ trường hợp không hành nghề do bị tạm đình chỉ hành nghề công chứng theo quy định tại Điều 15 của Luật này, Văn phòng công chứng bị tạm ngừng hoạt động theo quy định tại điểm b khoản 1 Điều 32 của Luật này;."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024 Người được bổ nhiệm lại Công chứng viên phải đáp ứng điều kiện tiên quyết nào?",
+    "a": "Đã có kinh nghiệm hành nghề công chứng trước đó ít nhất 05 năm",
+    "b": "Đáp ứng đầy đủ các tiêu chuẩn bổ nhiệm quy định tại Điều 10 Luật Công chứng 2024",
+    "c": "Được sự đề nghị của tổ chức hành nghề công chứng nơi có trụ sở hoạt động",
+    "d": "Đã hoàn thành khóa bồi dưỡng nghiệp vụ công chứng mới nhất",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 17 Luật Công chứng 2024: Người được bổ nhiệm lại phải đáp ứng tiêu chuẩn bổ nhiệm tại Điều 10. Công chứng viên được bổ nhiệm khi là công dân Việt Nam không quá 70 tuổi, thường trú tại Việt Nam, có đạo đức tốt và đủ sức khỏe, có bằng cử nhân/thạc sĩ/tiến sĩ luật, có ít nhất 03 năm công tác pháp luật sau khi tốt nghiệp luật, đã hoàn thành khóa đào tạo nghề công chứng và đạt yêu cầu kiểm tra kết quả tập sự hành nghề công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024 Đối tượng nào sau đây tuyệt đối không được bổ nhiệm lại làm Công chứng viên?",
+    "a": "Người đã tự nguyện xin miễn nhiệm trước đó",
+    "b": "Người bị kết án về tội cố ý, kể cả trường hợp đã được xóa án tích",
+    "c": "Người đã từng bị tạm đình chỉ hành nghề do chuyển công tác",
+    "d": "Người đã nghỉ hưu theo chế độ bảo hiểm xã hội",
+    "answer": "b",
+    "explanation": "điểm a Khoản 3 Điều 17: Bị miễn nhiệm công chứng viên do bị kết án về tội phạm do vô ý mà chưa được xóa án tích; do bị kết án về tội phạm do cố ý, kể cả trường hợp đã được xóa án tích."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024 Nghĩa vụ cốt lõi của Công chứng viên nhằm đảm bảo tính minh bạch cho người yêu cầu công chứng là gì?",
+    "a": "Chỉ thực hiện ký tên vào văn bản công chứng theo yêu cầu của các bên",
+    "b": "Giải thích rõ ràng quyền, nghĩa vụ và hậu quả pháp lý cho người yêu cầu công chứng",
+    "c": "Chỉ kiểm tra các bản sao giấy tờ mà không cần đối chiếu với bản chính",
+    "d": "Giữ kín nội dung văn bản công chứng trong mọi trường hợp, kể cả đối với cơ quan nhà nước",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 18 Luật Công chứng 2024: Công chứng viên có nghĩa vụ giải thích quyền, nghĩa vụ và hậu quả pháp lý."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, trường hợp nào sau đây làm mất điều kiện để tiếp tục bổ nhiệm công chứng viên theo quy định về tiêu chuẩn hành nghề?",
+    "a": "Công chứng viên thay đổi địa bàn hành nghề từ tỉnh này sang tỉnh khác",
+    "b": "Công chứng viên đã vượt quá giới hạn độ tuổi theo tiêu chuẩn bổ nhiệm",
+    "c": "Công chứng viên vắng mặt tại trụ sở tổ chức hành nghề trên 03 tháng do điều trị bệnh",
+    "d": "Công chứng viên tạm ngừng hành nghề do Văn phòng công chứng thay đổi trụ sở",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 16 Luật Công chứng 2024, công chứng viên đương nhiên miễn nhiệm khi quá 70 tuổi. Đây là trường hợp làm chấm dứt tư cách hành nghề do không còn đáp ứng điều kiện tuổi theo Điều 10 khoản 1."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, trường hợp nào sau đây dẫn đến việc công chứng viên không được bổ nhiệm lại sau khi bị miễn nhiệm?",
+    "a": "Đã từng bị miễn nhiệm theo nguyện vọng cá nhân",
+    "b": "Đã bị miễn nhiệm do không hành nghề công chứng liên tục từ 12 tháng trở lên",
+    "c": "Đã chuyển đổi hình thức tổ chức hành nghề nhưng chưa hoàn tất thủ tục đăng ký",
+    "d": "Đã từng tạm dừng hoạt động do Văn phòng công chứng tạm ngừng hoạt động",
+    "answer": "b",
+    "explanation": "Căn cứ điểm đ khoản 2 Điều 16 Luật Công chứng 2024, công chứng viên không hành nghề công chứng liên tục từ 12 tháng trở lên (trừ trường hợp bị tạm đình chỉ hoặc Văn phòng công chứng tạm ngừng hoạt động) thì thuộc trường hợp bị miễn nhiệm. Khi đã bị miễn nhiệm thì việc bổ nhiệm lại phải tuân theo Điều 17."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, trường hợp nào sau đây là căn cứ bắt buộc để cơ quan có thẩm quyền ra quyết định tạm đình chỉ hành nghề công chứng?",
+    "a": "Công chứng viên bị tố cáo về vi phạm đạo đức nhưng chưa có bằng chứng xác thực",
+    "b": "Công chứng viên đang là bị can trong một vụ án hình sự",
+    "c": "Công chứng viên thay đổi nơi làm việc hoặc chuyển sang tổ chức hành nghề khác",
+    "d": "Công chứng viên vắng mặt tại nơi làm việc quá thời gian nghỉ phép năm",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 15 Luật Công chứng 2024, công chứng viên bị truy cứu trách nhiệm hình sự thuộc trường hợp bị tạm đình chỉ hành nghề công chứng. Cơ quan có thẩm quyền phải ra quyết định tạm đình chỉ trong thời hạn 05 ngày làm việc kể từ khi nhận thông tin."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, thời điểm nào việc tạm đình chỉ hành nghề công chứng chấm dứt trước thời hạn?",
+    "a": "Khi công chứng viên cam kết thực hiện đúng quy định pháp luật và có đơn xin quay lại",
+    "b": "Khi đã hết 1/2 thời gian tạm đình chỉ theo quyết định ban đầu",
+    "c": "Khi cơ quan điều tra ra quyết định đình chỉ vụ án hoặc tòa án tuyên bản án có hiệu lực xác định không có tội",
+    "d": "Khi tổ chức hành nghề công chứng có văn bản bảo lãnh cho công chứng viên quay lại làm việc",
+    "answer": "c",
+    "explanation": "Căn cứ điểm a khoản 3 Điều 15 Luật Công chứng 2024, việc tạm đình chỉ chấm dứt trước thời hạn khi có quyết định đình chỉ điều tra, đình chỉ vụ án hoặc bản án có hiệu lực pháp luật tuyên không có tội."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, trường hợp nào sau đây không thuộc căn cứ miễn nhiệm công chứng viên?",
+    "a": "Không còn đủ tiêu chuẩn về văn bằng theo Điều 10",
+    "b": "Bị kết án bằng bản án đã có hiệu lực pháp luật về tội do vô ý",
+    "c": "Chuyển sang làm công việc khác theo quyết định của cơ quan thẩm quyền",
+    "d": "Vi phạm quy định tại Điều 14 về các trường hợp không được bổ nhiệm",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 16 Luật Công chứng 2024, chuyển làm công việc khác theo quyết định cơ quan có thẩm quyền là trường hợp miễn nhiệm theo nguyện vọng/cơ chế hành chính, không phải căn cứ miễn nhiệm bắt buộc do vi phạm như các điểm a, b, d khoản 2 Điều 16."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, để được xem xét bổ nhiệm lại sau khi bị miễn nhiệm, người yêu cầu phải đáp ứng điều kiện tiên quyết nào?",
+    "a": "Được sự chấp thuận bằng văn bản của tổ chức hành nghề công chứng dự định nhận vào làm",
+    "b": "Đáp ứng đầy đủ tiêu chuẩn bổ nhiệm tại Điều 10 và tuân thủ thời hạn 02 năm kể từ ngày quyết định miễn nhiệm có hiệu lực",
+    "c": "Có bằng chứng về việc đã bồi dưỡng nghiệp vụ trong suốt thời gian bị miễn nhiệm",
+    "d": "Được Sở Tư pháp xác nhận không còn vi phạm các quy định đạo đức nghề nghiệp",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 17 Luật Công chứng 2024, người đã bị miễn nhiệm muốn được bổ nhiệm lại phải đáp ứng đầy đủ tiêu chuẩn quy định tại Điều 10 và hết thời hạn 02 năm kể từ ngày quyết định miễn nhiệm có hiệu lực, trừ trường hợp đặc biệt tại khoản 3 Điều 17."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, quyền nào dưới đây khẳng định vai trò của công chứng viên trong cơ cấu tổ chức hành nghề?",
+    "a": "Quyền tự quyết định phí công chứng đối với từng giao dịch cụ thể",
+    "b": "Quyền thành lập, tham gia thành lập hoặc hợp danh trong Văn phòng công chứng theo quy định",
+    "c": "Quyền thay mặt tổ chức hành nghề công chứng thực hiện các hoạt động quảng bá thương hiệu",
+    "d": "Quyền tự ý thay đổi thành viên hợp danh của Văn phòng công chứng",
+    "answer": "b",
+    "explanation": "Căn cứ điểm b khoản 1 Điều 18 Luật Công chứng 2024, công chứng viên có quyền thành lập, tham gia thành lập hoặc hợp danh trong Văn phòng công chứng hoặc làm việc theo hợp đồng với tổ chức hành nghề công chứng."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, nghĩa vụ nào dưới đây là biểu hiện của việc tuân thủ nguyên tắc khách quan và phòng ngừa rủi ro pháp lý?",
+    "a": "Giải thích toàn bộ quy trình công chứng cho người yêu cầu để tạo sự tin tưởng",
+    "b": "Từ chối thực hiện công chứng đối với các giao dịch vi phạm điều cấm hoặc trái đạo đức và giải thích rõ lý do",
+    "c": "Hỗ trợ khách hàng hoàn thiện hồ sơ khi hồ sơ còn thiếu sót về mặt hình thức",
+    "d": "Thực hiện công chứng nhanh chóng đối với các giao dịch có độ rủi ro thấp",
+    "answer": "b",
+    "explanation": "Căn cứ điểm đ khoản 2 Điều 18 Luật Công chứng 2024, công chứng viên có nghĩa vụ từ chối công chứng khi giao dịch vi phạm pháp luật hoặc trái đạo đức xã hội và phải giải thích rõ lý do từ chối. Quy định này bảo đảm nguyên tắc khách quan và phòng ngừa rủi ro pháp lý."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, mức độ chịu trách nhiệm của công chứng viên đối với văn bản công chứng được xác định như thế nào?",
+    "a": "Chỉ chịu trách nhiệm nếu cơ quan thanh tra kết luận có sai phạm trong quy trình",
+    "b": "Chịu trách nhiệm trước pháp luật và người yêu cầu công chứng về văn bản công chứng do mình thực hiện, kể cả khi đã tuân thủ quy trình",
+    "c": "Chịu trách nhiệm hành chính đối với các sai sót trong văn bản công chứng",
+    "d": "Không chịu trách nhiệm nếu nội dung văn bản do người yêu cầu công chứng cung cấp",
+    "answer": "b",
+    "explanation": "Căn cứ điểm i khoản 2 Điều 18 Luật Công chứng 2024, công chứng viên phải chịu trách nhiệm trước pháp luật và trước người yêu cầu công chứng về văn bản công chứng do mình thực hiện, kể cả khi đã tuân thủ quy trình nhưng nội dung vẫn phát sinh vi phạm."
+  },
+    {
     "question": "Theo Luật Công chứng 2024, công chứng viên hướng dẫn tập sự bị xử lý kỷ luật thì khi nào được tiếp tục hướng dẫn tập sự?",
     "a": "Ngay sau khi bị xử lý",
     "b": "Sau 06 tháng",
