@@ -1,4 +1,256 @@
 [
+  {
+        "question": "Bà Nguyễn Thanh Vân và con là Hồ Thị Lan (sinh năm 2008) cùng đồng sở hữu căn nhà tại Quận 3, TP.HCM. Bà Vân dùng căn nhà này để thế chấp bảo đảm khoản vay của Công ty TNHH Hoàn Cầu tại Ngân hàng VBC theo HĐTD số 24/2019/HĐTD. Khi công chứng hợp đồng thế chấp, công chứng viên cần xử lý như thế nào?",
+        "a": "Được công chứng bình thường vì mẹ là người đại diện đương nhiên của con.",
+        "b": "Từ chối công chứng vì người chưa thành niên không được sở hữu nhà ở.",
+        "c": "Phải xem xét giao dịch có vì lợi ích của người chưa thành niên hay không khi dùng tài sản của con để bảo đảm nghĩa vụ cho doanh nghiệp.",
+        "d": "Chỉ cần ngân hàng đồng ý là đủ.",
+        "answer": "c",
+        "explanation": "Hồ Thị Lan là người chưa thành niên và đồng sở hữu tài sản. Việc dùng tài sản của con chưa thành niên để bảo đảm nghĩa vụ cho bên thứ ba phải xem xét có vì lợi ích của người con hay không. Trường hợp này bảo đảm cho nghĩa vụ của Công ty TNHH Hoàn Cầu nên khó chứng minh lợi ích của người chưa thành niên. Căn cứ: Điều 77 Luật Hôn nhân và gia đình 2014."
+    },
+    {
+        "question": "Ông Trần Hùng (độc thân) là chủ sở hữu căn nhà tại Gò Vấp, TP.HCM. Ông Hùng dùng căn nhà trên để bảo lãnh cho khoản vay của Công ty CP Hoàn Mỹ tại Ngân hàng VBC và yêu cầu công chứng hợp đồng bảo lãnh. Công chứng viên cần xác định bản chất giao dịch như thế nào?",
+        "a": "Đây là hợp đồng vay tài sản giữa ông Hùng và ngân hàng.",
+        "b": "Đây là trường hợp dùng tài sản để bảo đảm thực hiện nghĩa vụ của người khác.",
+        "c": "Đây là hợp đồng chuyển nhượng tài sản cho ngân hàng.",
+        "d": "Đây là giao dịch vô hiệu do ông Hùng không phải bên vay.",
+        "answer": "b",
+        "explanation": "Ông Hùng dùng tài sản của mình để bảo đảm cho nghĩa vụ của Công ty CP Hoàn Mỹ đối với ngân hàng. Đây là trường hợp dùng tài sản để bảo đảm thực hiện nghĩa vụ của người khác, áp dụng quy định về thế chấp/cầm cố tài sản. Căn cứ: Khoản 3 Điều 4 Nghị định 21/2021/NĐ-CP."
+    },
+    {
+        "question": "Trường trung cấp nghề Quận B thế chấp nhà xưởng và quyền sử dụng đất tại Quận Bình Thạnh để bảo đảm khoản vay 3 tỷ đồng. Nguồn gốc đất là Nhà nước cho thuê đất trả tiền một lần cho toàn bộ thời gian thuê, nhưng tiền thuê đất có nguồn gốc từ ngân sách nhà nước. Công chứng viên cần giải quyết như thế nào?",
+        "a": "Được thế chấp bình thường vì đã trả tiền thuê đất một lần.",
+        "b": "Chỉ được thế chấp nhà xưởng mà không được thế chấp quyền sử dụng đất.",
+        "c": "Không được thế chấp quyền sử dụng đất do tiền thuê đất có nguồn gốc từ ngân sách nhà nước.",
+        "d": "Chỉ cần cơ quan chủ quản đồng ý.",
+        "answer": "c",
+        "explanation": "Trường hợp tiền thuê đất có nguồn gốc từ ngân sách nhà nước thì người sử dụng đất không có quyền thế chấp quyền sử dụng đất theo quy định của pháp luật đất đai. Căn cứ: Khoản 3 Điều 33 Luật Đất đai 2024."
+    },
+    {
+        "question": "Công ty TNHH Hoàn Cầu thế chấp nhà đất tại Quận 5 cho Công ty Thành Tín để bảo đảm nghĩa vụ thanh toán tiền hàng theo hợp đồng mua bán hàng hóa giữa hai bên. Các bên yêu cầu công chứng hợp đồng thế chấp. Nhận định nào phù hợp nhất?",
+        "a": "Không được phép vì chỉ ngân hàng mới được nhận thế chấp.",
+        "b": "Được phép vì pháp luật không bắt buộc bên nhận thế chấp phải là tổ chức tín dụng trong trường hợp này.",
+        "c": "Chỉ cá nhân mới được nhận thế chấp tài sản.",
+        "d": "Hợp đồng vô hiệu vì nghĩa vụ được bảo đảm không phải nghĩa vụ vay tiền.",
+        "answer": "b",
+        "explanation": "Pháp luật cho phép dùng tài sản để bảo đảm thực hiện nghĩa vụ dân sự, bao gồm nghĩa vụ thanh toán tiền hàng trong hợp đồng mua bán hàng hóa. Bên nhận thế chấp không bắt buộc phải là tổ chức tín dụng nếu pháp luật không có quy định hạn chế. Căn cứ: Điều 292 và Điều 317 Bộ luật Dân sự 2015."
+    },
+    {
+        "question": "Ông Trần Anh mua lô hàng điện máy của Công ty CP Toàn Cầu và còn nghĩa vụ trả chậm trong 12 tháng. Ông Anh dự kiến thế chấp quyền sử dụng đất để bảo đảm nghĩa vụ thanh toán phần tiền còn lại. Công ty CP Toàn Cầu có 01 cổ đông nước ngoài sở hữu 25% vốn góp. Công chứng viên cần lưu ý vấn đề gì?",
+        "a": "Công ty CP Toàn Cầu luôn được nhận thế chấp quyền sử dụng đất như tổ chức tín dụng.",
+        "b": "Do có yếu tố vốn đầu tư nước ngoài nên cần xem xét điều kiện nhận thế chấp quyền sử dụng đất theo pháp luật đất đai.",
+        "c": "Hợp đồng chắc chắn vô hiệu vì có cổ đông nước ngoài.",
+        "d": "Không cần xem xét tư cách pháp lý của bên nhận thế chấp.",
+        "answer": "b",
+        "explanation": "Do công ty có cổ đông nước ngoài sở hữu vốn góp nên cần xem xét tư cách pháp lý và điều kiện nhận thế chấp quyền sử dụng đất theo quy định của pháp luật đất đai và pháp luật về bảo đảm thực hiện nghĩa vụ. Căn cứ: Khoản 1 Điều 35 Nghị định 21/2021/NĐ-CP; Khoản 1 Điều 4 Luật Đất đai 2024."
+    },
+    {
+        "question": "Ông Trần Văn Tú và bà Nguyễn Thị Hoa thế chấp căn nhà hình thành trong tương lai theo giấy phép xây dựng và biên bản nghiệm thu để bảo đảm khoản vay tại Ngân hàng VBC. Tại thời điểm công chứng, căn nhà chưa hoàn công và chưa được cấp giấy chứng nhận quyền sở hữu nhà ở. Công chứng viên cần lưu ý điều gì?",
+        "a": "Nhà ở hình thành trong tương lai không bao giờ được thế chấp.",
+        "b": "Có thể xem xét thế chấp nhà ở hình thành trong tương lai nếu đáp ứng điều kiện pháp luật quy định.",
+        "c": "Chỉ được thế chấp sau khi đã hoàn công.",
+        "d": "Bắt buộc phải chuyển sang thế chấp động sản.",
+        "answer": "b",
+        "explanation": "Nhà ở hình thành trong tương lai có thể được dùng làm tài sản thế chấp nếu đáp ứng điều kiện theo Luật Nhà ở và pháp luật về bảo đảm thực hiện nghĩa vụ. Việc xác định tình trạng nghiệm thu, giấy phép xây dựng và mô tả tài sản là nội dung rất quan trọng. Căn cứ: Khoản 24 Điều 2 và Điều 183 Luật Nhà ở 2023."
+    },
+    {
+        "question": "Ông Trần Thắng và bà Nguyễn Thị Cúc đã ký hợp đồng mua bán căn hộ chung cư nhưng chưa được cấp Giấy chứng nhận quyền sở hữu. Hai ông bà dùng căn hộ này để thế chấp bảo đảm khoản vay của Công ty TNHH Toàn Cầu. Công chứng viên cần đánh giá pháp lý như thế nào?",
+        "a": "Không được thế chấp vì chưa có Giấy chứng nhận.",
+        "b": "Có thể xem xét thế chấp quyền tài sản phát sinh từ hợp đồng mua bán căn hộ.",
+        "c": "Hợp đồng chắc chắn vô hiệu do tài sản chưa hình thành.",
+        "d": "Chỉ được thế chấp khi đã hoàn tất sang tên.",
+        "answer": "b",
+        "explanation": "Đối với căn hộ đã ký hợp đồng mua bán nhưng chưa được cấp Giấy chứng nhận, các bên có thể xem xét giao dịch bảo đảm đối với quyền tài sản phát sinh từ hợp đồng mua bán nhà ở hình thành trong tương lai nếu đáp ứng điều kiện pháp luật. Căn cứ: Điều 183 Luật Nhà ở 2023; Bộ luật Dân sự 2015."
+    },
+    {
+        "question": "Ông A ký hợp đồng tín dụng với Ngân hàng B để vay 5 tỷ đồng. Sau đó, ông A tiếp tục ký hợp đồng thế chấp quyền sử dụng đất để bảo đảm nghĩa vụ trả nợ phát sinh từ hợp đồng tín dụng. Nhận định nào đúng?",
+        "a": "Hợp đồng tín dụng và hợp đồng thế chấp là cùng một hợp đồng.",
+        "b": "Hợp đồng thế chấp chỉ là phụ lục của hợp đồng tín dụng nên không độc lập.",
+        "c": "Hợp đồng tín dụng và hợp đồng thế chấp là hai hợp đồng độc lập nhưng có liên quan với nhau.",
+        "d": "Nếu có hợp đồng thế chấp thì không cần hợp đồng tín dụng.",
+        "answer": "c",
+        "explanation": "Nghĩa vụ thông thường phát sinh từ hợp đồng chính, còn hợp đồng bảo đảm là hợp đồng phụ nhằm bảo đảm thực hiện nghĩa vụ đó. Hai hợp đồng này độc lập nhưng có liên quan với nhau. Căn cứ: Khoản 5 Điều 3 Nghị định 21/2021/NĐ-CP."
+    },
+    {
+        "question": "Trong hợp đồng tín dụng, ông A có tư cách là bên vay và Ngân hàng B là bên cho vay. Khi ký hợp đồng thế chấp để bảo đảm khoản vay đó, tư cách chủ thể của các bên được xác định như thế nào?",
+        "a": "Ông A vẫn chỉ là bên vay, Ngân hàng B vẫn chỉ là bên cho vay.",
+        "b": "Ông A là bên thế chấp, Ngân hàng B là bên nhận thế chấp.",
+        "c": "Ông A là bên bảo lãnh.",
+        "d": "Ngân hàng B là bên được bảo đảm.",
+        "answer": "b",
+        "explanation": "Trong quan hệ thế chấp, tư cách chủ thể thay đổi theo loại hợp đồng. Người dùng tài sản để bảo đảm là bên thế chấp, còn bên nhận tài sản bảo đảm là bên nhận thế chấp."
+    },
+    {
+        "question": "Ông H đã hoàn thành toàn bộ nghĩa vụ trả nợ theo hợp đồng vay được bảo đảm bằng hợp đồng thế chấp quyền sử dụng đất. Nhận định nào phù hợp nhất?",
+        "a": "Hợp đồng thế chấp vẫn tiếp tục tồn tại độc lập.",
+        "b": "Hợp đồng thế chấp chấm dứt do nghĩa vụ được bảo đảm đã chấm dứt.",
+        "c": "Ngân hàng được tiếp tục giữ tài sản thế chấp vô thời hạn.",
+        "d": "Chỉ chấm dứt nếu các bên lập văn bản riêng.",
+        "answer": "b",
+        "explanation": "Khi nghĩa vụ được bảo đảm chấm dứt thì biện pháp bảo đảm cũng chấm dứt theo quy định của pháp luật dân sự. Căn cứ: Khoản 1 Điều 327 Bộ luật Dân sự 2015."
+    },
+    {
+        "question": "Bà K dùng căn nhà trị giá khoảng 10 tỷ đồng để thế chấp bảo đảm cho khoản vay tối đa 2 tỷ đồng của con trai. Trong hợp đồng thế chấp, các bên thỏa thuận giới hạn phạm vi nghĩa vụ được bảo đảm là tối đa 2 tỷ đồng. Nhận định nào đúng?",
+        "a": "Không được vì giá trị tài sản thế chấp phải bằng nghĩa vụ được bảo đảm.",
+        "b": "Không được vì tài sản thế chấp không thể lớn hơn nghĩa vụ được bảo đảm.",
+        "c": "Được phép vì các bên có thể thỏa thuận giới hạn phạm vi nghĩa vụ được bảo đảm.",
+        "d": "Hợp đồng vô hiệu vì nghĩa vụ được bảo đảm là nghĩa vụ của người khác.",
+        "answer": "c",
+        "explanation": "Pháp luật dân sự cho phép các bên thỏa thuận phạm vi nghĩa vụ được bảo đảm. Giá trị tài sản bảo đảm có thể lớn hơn, bằng hoặc nhỏ hơn nghĩa vụ được bảo đảm."
+    },
+    {
+        "question": "Ông M thế chấp một quyền sử dụng đất để bảo đảm cho ba khoản vay khác nhau tại cùng một ngân hàng. Tổng giá trị các nghĩa vụ lớn hơn giá trị quyền sử dụng đất. Nhận định nào phù hợp nhất?",
+        "a": "Không được vì một tài sản chỉ được bảo đảm cho một nghĩa vụ.",
+        "b": "Không được vì tổng nghĩa vụ phải nhỏ hơn giá trị tài sản bảo đảm.",
+        "c": "Được phép vì pháp luật không bắt buộc tổng nghĩa vụ phải nhỏ hơn giá trị tài sản bảo đảm.",
+        "d": "Chỉ được nếu có quyết định của Tòa án.",
+        "answer": "c",
+        "explanation": "Một tài sản có thể bảo đảm cho nhiều nghĩa vụ và pháp luật không bắt buộc tổng các nghĩa vụ phải nhỏ hơn giá trị tài sản bảo đảm."
+    },
+    {
+        "question": "Anh T mua căn hộ hình thành trong tương lai trong dự án nhà ở thương mại và muốn thế chấp căn hộ này để vay vốn đầu tư chứng khoán. Ngân hàng yêu cầu công chứng hợp đồng thế chấp. Công chứng viên cần lưu ý vấn đề gì?",
+        "a": "Được thế chấp cho mọi mục đích vay vốn.",
+        "b": "Nhà ở hình thành trong tương lai chỉ được thế chấp để bảo đảm khoản vay phục vụ việc tạo lập chính tài sản đó.",
+        "c": "Không cần xem xét mục đích vay vốn.",
+        "d": "Chỉ cần có hợp đồng mua bán căn hộ.",
+        "answer": "b",
+        "explanation": "Đối với bất động sản hình thành trong tương lai, mục đích vay phải nhằm tạo lập chính tài sản đó để bảo đảm khả năng hình thành tài sản trong tương lai."
+    },
+    {
+        "question": "Công ty A dùng công trình hình thành trong tương lai để thế chấp cho Công ty B nhằm bảo đảm nghĩa vụ thanh toán tiền hàng. Công chứng viên cần đánh giá pháp lý như thế nào?",
+        "a": "Được thế chấp bình thường cho mọi tổ chức kinh tế.",
+        "b": "Không cần xem xét chủ thể nhận thế chấp.",
+        "c": "Bất động sản hình thành trong tương lai chỉ được thế chấp tại tổ chức tín dụng theo quy định pháp luật chuyên ngành.",
+        "d": "Chỉ cần tài sản có giá trị lớn hơn nghĩa vụ.",
+        "answer": "c",
+        "explanation": "Đối với bất động sản hình thành trong tương lai, pháp luật hạn chế chủ thể nhận thế chấp, chủ yếu là các tổ chức tín dụng đang hoạt động hợp pháp."
+    },
+    {
+        "question": "Ông A xây dựng nhà ở theo giấy phép xây dựng hợp lệ. Đến thời điểm công chứng hợp đồng thế chấp, căn nhà đã hoàn thành, được nghiệm thu và đưa vào sử dụng nhưng chưa được cấp Giấy chứng nhận quyền sở hữu nhà ở. Nhận định nào đúng?",
+        "a": "Đây vẫn là nhà ở hình thành trong tương lai.",
+        "b": "Đây là nhà ở hiện có chứ không còn là nhà ở hình thành trong tương lai.",
+        "c": "Không được giao dịch vì chưa có Giấy chứng nhận.",
+        "d": "Không thể thế chấp dưới bất kỳ hình thức nào.",
+        "answer": "b",
+        "explanation": "Nếu nhà đã xây dựng xong, được nghiệm thu và đưa vào sử dụng thì được xem là nhà ở hiện có, không còn là nhà ở hình thành trong tương lai dù chưa có Giấy chứng nhận."
+    },
+    {
+        "question": "Chủ đầu tư dự án nhà ở đã có quy hoạch chi tiết 1/500 được phê duyệt nên không phải xin giấy phép xây dựng riêng cho từng căn nhà theo mẫu dự án. Khi công chứng hợp đồng thế chấp nhà ở hình thành trong tương lai, công chứng viên cần lưu ý điều gì?",
+        "a": "Bắt buộc phải có giấy phép xây dựng riêng cho từng căn.",
+        "b": "Không cần bất kỳ hồ sơ nào liên quan xây dựng.",
+        "c": "Có thể sử dụng hồ sơ quy hoạch 1/500 thay thế trong trường hợp pháp luật cho phép.",
+        "d": "Nhà ở này không được thế chấp.",
+        "answer": "c",
+        "explanation": "Đối với nhà ở thuộc dự án đã có quy hoạch 1/500 và xây dựng theo mẫu quy hoạch thì có thể không cần giấy phép xây dựng riêng, nhưng cần có hồ sơ quy hoạch phù hợp."
+    },
+    {
+        "question": "Ông K thế chấp quyền sử dụng đất và căn nhà dự kiến xây dựng trên đất theo giấy phép xây dựng. Trên đất hiện đang có một căn nhà cũ sẽ bị tháo dỡ. Khi mô tả tài sản thế chấp trong hợp đồng, công chứng viên cần lưu ý điều gì?",
+        "a": "Mô tả cả nhà cũ như là tài sản thế chấp chính.",
+        "b": "Không cần mô tả tài sản hình thành trong tương lai.",
+        "c": "Nếu thế chấp nhà dự kiến xây thì mô tả theo giấy phép xây dựng; nhà cũ chỉ nên ghi nhận ở phần ghi chú.",
+        "d": "Nhà cũ và nhà dự kiến xây được xem là một tài sản duy nhất.",
+        "answer": "c",
+        "explanation": "Việc mô tả tài sản thế chấp phụ thuộc vào đối tượng bảo đảm mà các bên lựa chọn. Nhà cũ không phải đối tượng thế chấp thì chỉ nên ghi chú, còn nhà hình thành trong tương lai cần mô tả theo giấy phép xây dựng."
+    },
+    {
+        "question": "Ngân hàng X đưa vào hợp đồng thế chấp điều khoản: 'Tất cả tài sản sẽ được xây dựng, sửa chữa, cải tạo sau này trên đất đều là tài sản thế chấp'. Điều khoản này áp dụng cho trường hợp nhà ở hình thành trong tương lai theo giấy phép xây dựng. Công chứng viên cần lưu ý điều gì?",
+        "a": "Điều khoản này luôn hợp pháp trong mọi trường hợp.",
+        "b": "Không cần xem xét mối liên hệ với giấy phép xây dựng.",
+        "c": "Đối với nhà ở hình thành trong tương lai, việc tạo lập tài sản phải phù hợp giấy phép xây dựng và mục đích vay vốn đã thỏa thuận.",
+        "d": "Điều khoản này làm phát sinh quyền sở hữu cho ngân hàng.",
+        "answer": "c",
+        "explanation": "Đối với nhà ở hình thành trong tương lai, tài sản dự kiến hình thành phải phù hợp giấy phép xây dựng và mục đích vay vốn nhằm tạo lập chính tài sản đó. Không thể mở rộng tùy ý mọi tài sản sẽ hình thành trong tương lai."
+    },
+    {
+        "question": "Ông A vay Ngân hàng B 3 tỷ đồng. Ông C dùng quyền sử dụng đất của mình để bảo đảm cho nghĩa vụ trả nợ của ông A bằng hợp đồng thế chấp. Quan hệ pháp lý này được xác định như thế nào?",
+        "a": "Đây bắt buộc là hợp đồng bảo lãnh.",
+        "b": "Đây là trường hợp dùng tài sản để bảo đảm thực hiện nghĩa vụ của người khác theo quy định về thế chấp.",
+        "c": "Đây là hợp đồng chuyển nhượng quyền sử dụng đất.",
+        "d": "Không được pháp luật cho phép.",
+        "answer": "b",
+        "explanation": "Trường hợp chủ sở hữu tài sản dùng tài sản của mình để bảo đảm thực hiện nghĩa vụ của người khác thì áp dụng quy định về cầm cố, thế chấp tài sản. Quan hệ này chưa chắc là bảo lãnh. Căn cứ: Khoản 3 Điều 4 Nghị định 21/2021/NĐ-CP."
+    },
+    {
+        "question": "Ông H ký hợp đồng bảo lãnh cho khoản vay của Công ty T tại Ngân hàng VBC. Đồng thời ông H thế chấp căn nhà của mình để bảo đảm thực hiện nghĩa vụ bảo lãnh đó. Nhận định nào đúng?",
+        "a": "Chỉ tồn tại một hợp đồng bảo lãnh duy nhất.",
+        "b": "Không được dùng tài sản để bảo đảm nghĩa vụ bảo lãnh.",
+        "c": "Giữa các bên phát sinh đồng thời hợp đồng bảo lãnh và hợp đồng thế chấp.",
+        "d": "Hợp đồng thế chấp thay thế hoàn toàn hợp đồng bảo lãnh.",
+        "answer": "c",
+        "explanation": "Các bên có thể dùng biện pháp bảo đảm bằng tài sản để bảo đảm thực hiện nghĩa vụ bảo lãnh. Khi đó tồn tại hai quan hệ hợp đồng độc lập: hợp đồng bảo lãnh và hợp đồng thế chấp/cầm cố. Căn cứ: Khoản 3 Điều 336 Bộ luật Dân sự 2015."
+    },
+    {
+        "question": "Ông A bảo lãnh cho khoản vay của Công ty B tại Ngân hàng C và dùng căn nhà của mình thế chấp để bảo đảm nghĩa vụ bảo lãnh. Sau khi xử lý tài sản thế chấp, số tiền thu được chỉ đủ thanh toán một phần nghĩa vụ bảo lãnh. Phần nghĩa vụ còn lại được xử lý như thế nào?",
+        "a": "Nghĩa vụ bảo lãnh chấm dứt toàn bộ.",
+        "b": "Ngân hàng phải tự chịu phần còn thiếu.",
+        "c": "Bên bảo lãnh vẫn phải tiếp tục thực hiện phần nghĩa vụ còn lại.",
+        "d": "Hợp đồng bảo lãnh vô hiệu.",
+        "answer": "c",
+        "explanation": "Việc xử lý tài sản bảo đảm chỉ thực hiện trong phạm vi tài sản bảo đảm. Nếu số tiền xử lý tài sản không đủ thực hiện toàn bộ nghĩa vụ bảo lãnh thì phần nghĩa vụ còn lại vẫn tiếp tục tồn tại và bên bảo lãnh phải tiếp tục thực hiện."
+    },
+    {
+        "question": "A vay tiền của B. C ký hợp đồng thế chấp tài sản của mình cho B để bảo đảm khoản vay của A. Hợp đồng chỉ quy định khi A không trả nợ thì B được xử lý tài sản của C, không có nội dung C phải trực tiếp trả nợ thay cho A. Quan hệ này được xác định như thế nào?",
+        "a": "Chắc chắn là hợp đồng bảo lãnh.",
+        "b": "Là bảo lãnh đối nhân.",
+        "c": "Có thể chỉ là hợp đồng thế chấp bảo đảm nghĩa vụ của người khác.",
+        "d": "Là hợp đồng vay tài sản.",
+        "answer": "c",
+        "explanation": "Nếu các bên chỉ thỏa thuận xử lý tài sản của C khi A vi phạm nghĩa vụ mà không có cam kết C thực hiện thay nghĩa vụ cho A thì có thể đây chỉ là biện pháp thế chấp bảo đảm nghĩa vụ của người khác, mang tính đối vật."
+    },
+    {
+        "question": "A vay tiền của Ngân hàng B. C ký hợp đồng với nội dung: nếu A không trả nợ thì C phải thực hiện nghĩa vụ trả nợ thay cho A; nếu C không thực hiện thì Ngân hàng B được xử lý tài sản của C. Nhận định nào đúng?",
+        "a": "Đây chỉ là hợp đồng thế chấp thông thường.",
+        "b": "Đây là quan hệ vừa có tính đối nhân vừa có tính đối vật.",
+        "c": "Không được pháp luật cho phép.",
+        "d": "Đây là hợp đồng chuyển quyền sở hữu tài sản.",
+        "answer": "b",
+        "explanation": "Trường hợp C vừa cam kết thực hiện nghĩa vụ thay cho A vừa dùng tài sản để bảo đảm thực hiện nghĩa vụ đó thì quan hệ bảo đảm vừa mang tính đối nhân (bảo lãnh) vừa mang tính đối vật (thế chấp/cầm cố)."
+    },
+    {
+        "question": "Ông M và bà N ký hợp đồng đặt cọc để bảo đảm giao kết hợp đồng mua bán nhà ở sẽ được ký sau 30 ngày. Nghĩa vụ giao kết hợp đồng mua bán trong trường hợp này được xác định là nghĩa vụ gì?",
+        "a": "Nghĩa vụ hiện tại.",
+        "b": "Nghĩa vụ tương lai.",
+        "c": "Nghĩa vụ đã hoàn thành.",
+        "d": "Không phải nghĩa vụ được bảo đảm.",
+        "answer": "b",
+        "explanation": "Nghĩa vụ tương lai là nghĩa vụ phát sinh sau thời điểm giao kết hợp đồng bảo đảm. Trong đặt cọc, nghĩa vụ giao kết hợp đồng mua bán sẽ phát sinh sau khi ký hợp đồng đặt cọc nên là nghĩa vụ tương lai."
+    },
+    {
+        "question": "Hai bên ký hợp đồng đặt cọc với nội dung vừa để bảo đảm giao kết hợp đồng mua bán nhà, vừa để bảo đảm thực hiện hợp đồng mua bán sau này. Nhận định nào phù hợp nhất?",
+        "a": "Hợp đồng đặt cọc vô hiệu vì pháp luật chỉ cho phép một mục đích duy nhất.",
+        "b": "Chỉ được bảo đảm giao kết hợp đồng, không được bảo đảm thực hiện hợp đồng.",
+        "c": "Các bên có thể thỏa thuận đặt cọc nhằm hướng tới cả giao kết và thực hiện hợp đồng.",
+        "d": "Đặt cọc không phải là biện pháp bảo đảm.",
+        "answer": "c",
+        "explanation": "Mặc dù Điều 328 Bộ luật Dân sự dùng từ 'hoặc', nhưng thực tiễn và bản chất giao dịch cho phép các bên thỏa thuận đặt cọc nhằm hướng tới cả việc giao kết và thực hiện hợp đồng."
+    },
+    {
+        "question": "Ông A đặt cọc mua nhà của bà B. Sau đó bà B không đồng ý bán nhà nữa dù hai bên đã ký hợp đồng đặt cọc hợp lệ. Nhận định nào đúng?",
+        "a": "Hợp đồng đặt cọc bắt buộc bà B phải bán nhà.",
+        "b": "Hợp đồng đặt cọc chỉ đặt ra chế tài nếu vi phạm nghĩa vụ giao kết hoặc thực hiện hợp đồng.",
+        "c": "Sau khi đặt cọc thì quyền sở hữu nhà tự động chuyển cho ông A.",
+        "d": "Hợp đồng mua bán nhà đã tự động phát sinh.",
+        "answer": "b",
+        "explanation": "Biện pháp bảo đảm không có giá trị bắt buộc các bên phải thực hiện hợp đồng chính mà chỉ đặt ra chế tài khi vi phạm nghĩa vụ theo thỏa thuận hoặc theo quy định pháp luật."
+    },
+    {
+        "question": "Ông K vay Ngân hàng X 2 tỷ đồng và thế chấp căn nhà trị giá 5 tỷ đồng. Sau đó ông K chỉ còn nợ quá hạn 500 triệu đồng. Khi xử lý tài sản thế chấp, Ngân hàng X được xử lý như thế nào?",
+        "a": "Được toàn quyền sở hữu căn nhà trị giá 5 tỷ đồng.",
+        "b": "Được xử lý tài sản trong phạm vi nghĩa vụ được bảo đảm.",
+        "c": "Được giữ toàn bộ số tiền bán tài sản.",
+        "d": "Không được xử lý tài sản thế chấp.",
+        "answer": "b",
+        "explanation": "Việc xử lý tài sản thế chấp phải căn cứ nghĩa vụ phát sinh từ hợp đồng tín dụng. Nếu nghĩa vụ còn lại chỉ là 500 triệu đồng thì việc xử lý tài sản chỉ nhằm thanh toán khoản nghĩa vụ đó và các chi phí liên quan theo thỏa thuận, phần giá trị còn lại thuộc về bên thế chấp."
+    },
+    {
+        "question": "Ông A cho rằng khi đã ký hợp đồng thế chấp thì ông bắt buộc phải thực hiện toàn bộ nghĩa vụ trả nợ theo hợp đồng vay. Nhận định nào phù hợp nhất?",
+        "a": "Đúng, vì hợp đồng thế chấp thay thế hợp đồng vay.",
+        "b": "Đúng, vì hợp đồng thế chấp tự nó tạo ra nghĩa vụ trả nợ.",
+        "c": "Sai, vì nghĩa vụ trả nợ phải căn cứ vào hợp đồng vay; hợp đồng thế chấp chỉ là biện pháp bảo đảm.",
+        "d": "Sai, vì hợp đồng thế chấp không có giá trị pháp lý.",
+        "answer": "c",
+        "explanation": "Hợp đồng thế chấp không có ý nghĩa bắt buộc bên vay phải thực hiện nghĩa vụ trả nợ. Nghĩa vụ trả nợ phát sinh từ hợp đồng vay; hợp đồng thế chấp chỉ nhằm bảo đảm cho việc thực hiện nghĩa vụ đó."
+    },
  {
         "question": "Ông A là cá nhân, muốn ký hợp đồng cho ông B (cá nhân) thuê quyền sử dụng đất trong 5 năm. Ông A mang hợp đồng đến văn phòng công chứng của bạn. Căn cứ Luật Đất đai 2024, bạn tư vấn như thế nào?",
         "a": "Hợp đồng bắt buộc phải được công chứng tại Văn phòng công chứng mới có hiệu lực.",
