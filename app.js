@@ -616,49 +616,55 @@ function filterResult(type) {
   let listContainer = document.getElementById("result-list");
   if (!listContainer) return;
 
-  // 1. Tạo thanh bộ lọc nếu chưa có
+  // 1. Kiểm tra quyền Admin
+  const user = JSON.parse(localStorage.getItem("user") || "{}");
+  const isAdmin = (user.role === 'admin');
+
+  // 2. Tạo hoặc lấy lại thanh bộ lọc
   let filterBar = document.getElementById("filter-bar");
   if (!filterBar) {
     let div = document.createElement("div");
     div.id = "filter-bar";
     div.style.cssText = "text-align: center; margin-bottom: 20px;";
     div.innerHTML = `
-      <button id="btn-filter-all" onclick="filterResult('all')" style="padding: 5px 15px; margin: 5px; cursor: pointer;">Tất cả</button>
-      <button id="btn-filter-correct" onclick="filterResult('correct')" style="padding: 5px 15px; margin: 5px; cursor: pointer;">Câu đúng</button>
-      <button id="btn-filter-wrong" onclick="filterResult('wrong')" style="padding: 5px 15px; margin: 5px; cursor: pointer;">Câu sai</button>
+      <button id="btn-filter-all" onclick="filterResult('all')">Tất cả</button>
+      <button id="btn-filter-correct" onclick="filterResult('correct')">Câu đúng</button>
+      <button id="btn-filter-wrong" onclick="filterResult('wrong')">Câu sai</button>
     `;
     listContainer.parentNode.insertBefore(div, listContainer);
   }
 
-  // 2. Cập nhật Style cho các nút
+  // 3. Cập nhật Style cho các nút
   const btnAll = document.getElementById("btn-filter-all");
   const btnCorrect = document.getElementById("btn-filter-correct");
   const btnWrong = document.getElementById("btn-filter-wrong");
 
-  btnAll.style.cssText = `padding: 5px 15px; margin: 5px; cursor: pointer; border: 1px solid #dee2e6; border-radius: 4px; ${type === 'all' ? 'background: #00796b; color: #fff; font-weight: bold;' : 'background: #f1f3f5;'}`;
-  btnCorrect.style.cssText = `padding: 5px 15px; margin: 5px; cursor: pointer; border: 1px solid #dee2e6; border-radius: 4px; ${type === 'correct' ? 'background: #2e7d32; color: #fff; font-weight: bold;' : 'background: #e8f5e9;'}`;
-  btnWrong.style.cssText = `padding: 5px 15px; margin: 5px; cursor: pointer; border: 1px solid #dee2e6; border-radius: 4px; ${type === 'wrong' ? 'background: #c62828; color: #fff; font-weight: bold;' : 'background: #ffebee;'}`;
+  const baseBtnStyle = "padding: 6px 16px; margin: 5px; cursor: pointer; border: 1px solid #dee2e6; border-radius: 4px; transition: 0.3s;";
+  btnAll.style.cssText = baseBtnStyle + (type === 'all' ? 'background: #00796b; color: #fff; font-weight: bold;' : 'background: #f1f3f5;');
+  btnCorrect.style.cssText = baseBtnStyle + (type === 'correct' ? 'background: #2e7d32; color: #fff; font-weight: bold;' : 'background: #e8f5e9;');
+  btnWrong.style.cssText = baseBtnStyle + (type === 'wrong' ? 'background: #c62828; color: #fff; font-weight: bold;' : 'background: #ffebee;');
 
-  // 3. Xử lý danh sách hiển thị
+  // 4. Xử lý danh sách hiển thị
   let html = "";
   questions.forEach((q, i) => {
-    if (!q) return; 
+    if (!q) return;
 
     let userAns = answers[i] ? answers[i].toString().trim().toLowerCase() : "";
-    let correctAns = q.newCorrectAnswer ? q.newCorrectAnswer.toString().trim().toLowerCase() : (q.answer || q.trảlời || "").toString().trim().toLowerCase();
+    let correctAns = (q.newCorrectAnswer || q.answer || q.trảlời || "").toString().trim().toLowerCase();
     if (correctAns === "một") correctAns = "a";
-    
+
     let isDone = (userAns !== "");
     let isCorrect = (isDone && userAns === correctAns);
     let isWrong = (isDone && userAns !== correctAns);
 
-    // LOGIC LỌC CHÍNH XÁC:
-    if (type === 'correct' && !isCorrect) return; // Chỉ lấy câu Đúng
-    if (type === 'wrong' && !isWrong) return;     // Chỉ lấy câu Sai
-    // Nếu type === 'all', không return (hiện tất cả)
+    if (type === 'correct' && !isCorrect) return;
+    if (type === 'wrong' && !isWrong) return;
+
+    // Ký hiệu file nguồn (Chỉ hiển thị với Admin)
+    let fileTag = (isAdmin && q.fileSource) ? ` <span style="font-size: 11px; color: #888; font-style: italic; background: #eee; padding: 1px 4px; border-radius: 3px;">(${q.fileSource.replace('.json', '')})</span>` : "";
 
     let qText = q.question || q.cauhoi || "Dữ liệu lỗi";
-    let mapAns = { 
+    let mapAns = {
       a: q.shuffledOptions ? q.shuffledOptions[0].text : (q.a || q.A || q.Một || ""),
       b: q.shuffledOptions ? q.shuffledOptions[1].text : (q.b || q.B || ""),
       c: q.shuffledOptions ? q.shuffledOptions[2].text : (q.c || q.C || ""),
@@ -670,9 +676,9 @@ function filterResult(type) {
 
     html += `
       <div style="margin-bottom: 24px; padding-bottom: 10px; border-bottom: 1px solid #eee; text-align: justify; line-height: 1.5; font-size: 15px;">
-        <p style="margin: 0 0 6px 0;"><b>Câu ${i + 1}.</b> ${qText}</p>
+        <p style="margin: 0 0 6px 0;"><b>Câu ${i + 1}.</b> ${qText}${fileTag}</p>
         <div style="margin: 0 0 6px 0; padding-left: 15px;">
-          <div><span style="color: #666;">- Đã chọn:</span> ${fullUserText} 
+          <div><span style="color: #666;">- Đã chọn:</span> ${fullUserText}
             <span style="padding: 1px 6px; font-size: 11px; font-weight: bold; border-radius: 3px; margin-left: 8px; background-color: ${!isDone ? '#f1f3f5' : (isCorrect ? '#e8f5e9' : '#ffebee')}; color: ${!isDone ? '#555' : (isCorrect ? '#2e7d32' : '#c62828')};">
               ${!isDone ? "CHƯA LÀM" : (isCorrect ? "CHÍNH XÁC" : "SAI")}
             </span>
@@ -686,7 +692,7 @@ function filterResult(type) {
     `;
   });
 
-  listContainer.innerHTML = html || `<p style='text-align:center; color:#777; font-style: italic; padding: 20px;'>Không tìm thấy câu hỏi nào phù hợp với bộ lọc này.</p>`;
+  listContainer.innerHTML = html || `<p style='text-align:center; color:#777; font-style: italic; padding: 20px;'>Không tìm thấy câu hỏi nào phù hợp.</p>`;
 }
 
 // ================= HÀM KHÓA AN TOÀN CHỐT SAO CHÉP ĐỀ THI DÀNH CHO TÀI KHOẢN CON =================
