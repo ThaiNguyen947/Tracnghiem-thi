@@ -1,4 +1,175 @@
 [
+   {
+        "question": "Theo bản án có hiệu lực của Tòa án, A phải bồi thường cho B 500 triệu đồng. Để bảo đảm thực hiện nghĩa vụ này, A giao xe ô tô cho B theo thỏa thuận đặt cọc. Nhận định nào đúng?",
+        "a": "Được đặt cọc vì mọi nghĩa vụ đều có thể đặt cọc.",
+        "b": "Không phù hợp với bản chất đặt cọc vì nghĩa vụ này không nhằm giao kết hoặc thực hiện hợp đồng.",
+        "c": "Đặt cọc bắt buộc phải bằng tiền.",
+        "d": "Hợp đồng vô hiệu vì xe ô tô không được dùng để bảo đảm.",
+        "answer": "b",
+        "explanation": "Đặt cọc là biện pháp bảo đảm nhằm giao kết hoặc thực hiện hợp đồng. Trường hợp nghĩa vụ phát sinh từ bản án của Tòa án thì biện pháp phù hợp hơn là cầm cố hoặc thế chấp tài sản để bảo đảm thực hiện nghĩa vụ."
+    },
+    {
+        "question": "A nhận cọc của B để bán nhà. Sau đó A tiếp tục nhận cọc của C đối với cùng căn nhà. Cuối cùng A bán nhà cho D và D trả tiền luôn, không đặt cọc. Công chứng viên có được công chứng hợp đồng mua bán giữa A và D không?",
+        "a": "Không được vì đã tồn tại hợp đồng đặt cọc với B và C.",
+        "b": "Được công chứng nếu nhà đủ điều kiện chuyển nhượng; tranh chấp đặt cọc được giải quyết riêng.",
+        "c": "Bắt buộc phải có sự đồng ý của B và C.",
+        "d": "Hợp đồng mua bán vô hiệu đương nhiên.",
+        "answer": "b",
+        "explanation": "Đặt cọc không làm phát sinh quyền sở hữu hay bắt buộc bên nhận cọc phải bán tài sản. Nếu tài sản đủ điều kiện chuyển nhượng thì công chứng viên vẫn có thể công chứng hợp đồng mua bán; tranh chấp đặt cọc xử lý theo hợp đồng đặt cọc."
+    },
+    {
+        "question": "A đặt cọc mua nhà của vợ chồng B và C nhưng Giấy chứng nhận chỉ đứng tên B. Công chứng viên cần xử lý như thế nào?",
+        "a": "Chỉ cần B ký nhận cọc.",
+        "b": "Không cần xem xét tình trạng hôn nhân.",
+        "c": "Cần xem xét đây có phải tài sản chung vợ chồng hay không dù Giấy chứng nhận chỉ đứng tên B.",
+        "d": "Hợp đồng đặt cọc vô hiệu ngay lập tức.",
+        "answer": "c",
+        "explanation": "Đối với giao dịch liên quan nhà ở, cần xem xét nguồn gốc tài sản và tình trạng tài sản chung riêng của vợ chồng, không chỉ căn cứ tên trên Giấy chứng nhận."
+    },
+    {
+        "question": "Nhà đứng tên C nhưng B là người trực tiếp ký nhận tiền đặt cọc bán nhà với A. Trường hợp nào phù hợp nhất?",
+        "a": "Luôn hợp pháp vì B có thể đại diện miệng.",
+        "b": "Cần có căn cứ chứng minh B có quyền đại diện hoặc được ủy quyền hợp pháp.",
+        "c": "Không cần chủ sở hữu tham gia.",
+        "d": "Đặt cọc không cần xác định chủ sở hữu.",
+        "answer": "b",
+        "explanation": "Bên nhận cọc phải có quyền đối với đối tượng giao dịch hoặc có căn cứ đại diện hợp pháp cho chủ sở hữu tài sản."
+    },
+    {
+        "question": "A đặt cọc mua nhà chưa được cấp Giấy chứng nhận nhưng B có văn bản khai nhận di sản thừa kế liên quan căn nhà đó. Công chứng viên cần lưu ý điều gì?",
+        "a": "Có thể nhận cọc ngay mà không cần xem xét thêm.",
+        "b": "Không cần xem xét quyền của các đồng thừa kế.",
+        "c": "Cần xem xét đầy đủ quyền sở hữu, quyền định đoạt và quyền ưu tiên của các đồng thừa kế nếu có.",
+        "d": "Văn bản khai nhận di sản đương nhiên thay thế Giấy chứng nhận.",
+        "answer": "c",
+        "explanation": "Trường hợp tài sản có nguồn gốc thừa kế cần xem xét quyền của các đồng thừa kế và căn cứ xác lập quyền sở hữu hợp pháp trước khi giao dịch."
+    },
+    {
+        "question": "A đặt cọc mua nhà của B. Sau đó A dùng hợp đồng đặt cọc này để nhận cọc từ C với cam kết sau khi mua được nhà sẽ bán lại cho C. Nhận định nào đúng?",
+        "a": "Đương nhiên vô hiệu.",
+        "b": "A chưa phải chủ sở hữu nhà nên cần giải thích rõ rủi ro cho C về khả năng thực hiện giao dịch.",
+        "c": "A đã có quyền sở hữu nhà từ khi đặt cọc.",
+        "d": "Không cần xem xét khả năng thực hiện hợp đồng.",
+        "answer": "b",
+        "explanation": "Đặt cọc không làm phát sinh quyền sở hữu. A chỉ đang có quyền kỳ vọng giao kết hợp đồng mua bán với B nên cần giải thích rõ rủi ro và khả năng thực hiện nghĩa vụ với C."
+    },
+    {
+        "question": "Các bên thỏa thuận đặt cọc bằng 3.000 USD để bảo đảm giao kết hợp đồng mua bán nhà. Nhận định nào phù hợp nhất?",
+        "a": "Luôn vô hiệu vì ngoại tệ không được dùng trong giao dịch dân sự.",
+        "b": "Có thể phát sinh rủi ro vi phạm quy định quản lý ngoại hối khi sử dụng ngoại tệ trong giao dịch tại Việt Nam.",
+        "c": "Đặt cọc bắt buộc phải bằng đồng Việt Nam.",
+        "d": "USD không phải là tài sản.",
+        "answer": "b",
+        "explanation": "Ngoại tệ là tài sản nhưng việc sử dụng ngoại tệ trong giao dịch tại Việt Nam phải phù hợp quy định về quản lý ngoại hối."
+    },
+    {
+        "question": "A đặt cọc bằng căn hộ chung cư cho B để mua tài sản của B. Hai bên thỏa thuận nếu A vi phạm thì sẽ cùng đi công chứng hợp đồng chuyển quyền sở hữu căn hộ cho B. Nhận định nào đúng?",
+        "a": "Đặt cọc đương nhiên làm chuyển quyền sở hữu tài sản.",
+        "b": "Biện pháp đặt cọc không đồng nghĩa với việc tự động chuyển quyền sở hữu tài sản đặt cọc.",
+        "c": "Không cần công chứng chuyển nhượng căn hộ.",
+        "d": "B được sở hữu căn hộ ngay khi ký đặt cọc.",
+        "answer": "b",
+        "explanation": "Đặt cọc chỉ là biện pháp bảo đảm. Việc chuyển quyền sở hữu bất động sản vẫn phải tuân thủ điều kiện, hình thức và thủ tục theo quy định pháp luật."
+    },
+    {
+        "question": "A đặt cọc cho B để mua nhà đang thế chấp tại ngân hàng. Công chứng viên cần lưu ý điều gì?",
+        "a": "Không được đặt cọc trong mọi trường hợp.",
+        "b": "Được đặt cọc nhưng cần giải thích rõ tình trạng pháp lý và khả năng giải chấp tài sản.",
+        "c": "Nhà đang thế chấp thì đương nhiên vô hiệu mọi giao dịch.",
+        "d": "Không cần thông báo cho bên đặt cọc.",
+        "answer": "b",
+        "explanation": "Tài sản đang thế chấp vẫn có thể giao dịch nếu đáp ứng điều kiện pháp luật, tuy nhiên công chứng viên cần giải thích rõ rủi ro và khả năng thực hiện nghĩa vụ giải chấp."
+    },
+    {
+        "question": "A đặt cọc 3 tỷ đồng để bảo đảm B bán cho A căn nhà ở xã hội thuộc sở hữu của B, thời hạn đặt cọc là 5 năm. Công chứng viên cần lưu ý điều gì?",
+        "a": "Nhà ở xã hội được tự do chuyển nhượng mọi thời điểm.",
+        "b": "Cần xem xét điều kiện chuyển nhượng nhà ở xã hội theo pháp luật chuyên ngành.",
+        "c": "Đặt cọc càng dài càng hợp pháp.",
+        "d": "Không cần xem xét khả năng thực hiện giao dịch.",
+        "answer": "b",
+        "explanation": "Nhà ở xã hội bị hạn chế điều kiện chuyển nhượng trong một số trường hợp nên cần xem xét khả năng thực hiện giao dịch trong tương lai."
+    },
+    {
+        "question": "A ủy quyền cho B quản lý, cho thuê, đặt cọc, nhận cọc căn nhà trong thời hạn 3 năm. B ký hợp đồng thuê nhà thời hạn 10 năm và nhận đặt cọc 4 năm từ C. Nhận định nào đúng?",
+        "a": "Mọi thỏa thuận đều hợp pháp vì có giấy ủy quyền.",
+        "b": "Cần xem xét phạm vi và thời hạn ủy quyền so với thời hạn giao dịch được xác lập.",
+        "c": "Hợp đồng thuê đương nhiên vô hiệu.",
+        "d": "Không cần quan tâm thời hạn đặt cọc.",
+        "answer": "b",
+        "explanation": "Cần đánh giá phạm vi đại diện và thời hạn ủy quyền của B có phù hợp với thời hạn của hợp đồng thuê và thỏa thuận đặt cọc hay không."
+    },
+    {
+        "question": "A đặt cọc cho B để bảo đảm giao kết hợp đồng mua bán nhà giữa B với bất kỳ bên thứ ba nào mà A chỉ định. Nhận định nào phù hợp nhất?",
+        "a": "Không thể thực hiện vì bên mua chưa xác định cụ thể.",
+        "b": "Có thể xem xét nếu nội dung thỏa thuận rõ ràng và nghĩa vụ có khả năng thực hiện.",
+        "c": "Đặt cọc bắt buộc phải ghi đúng tên bên mua cuối cùng.",
+        "d": "Hợp đồng vô hiệu vì có bên thứ ba.",
+        "answer": "b",
+        "explanation": "Các bên có quyền thỏa thuận về đối tượng và phạm vi nghĩa vụ được bảo đảm miễn không trái pháp luật và có khả năng thực hiện."
+    },
+    {
+        "question": "A và B thỏa thuận thời hạn ký hợp đồng mua bán nhà là sau 30 ngày kể từ ngày đặt cọc. Đến ngày thứ 20, các bên đã ký hợp đồng mua bán. Hướng xử lý phù hợp là gì?",
+        "a": "Vi phạm hợp đồng đặt cọc.",
+        "b": "Không được ký trước thời hạn.",
+        "c": "Mục đích của hợp đồng đặt cọc đã đạt được nên quan hệ đặt cọc chấm dứt.",
+        "d": "Phải chờ đủ 30 ngày mới được ký.",
+        "answer": "c",
+        "explanation": "Khi các bên đã giao kết hợp đồng mua bán theo mục đích đặt cọc thì biện pháp đặt cọc hoàn thành chức năng bảo đảm."
+    },
+    {
+        "question": "Hợp đồng đặt cọc quy định trong vòng 30 ngày sẽ ký hợp đồng mua bán nhà. Tuy nhiên đến ngày thứ 35 các bên mới ký hợp đồng mua bán và trước đó không ai tuyên bố từ chối giao kết. Nhận định nào phù hợp nhất?",
+        "a": "Đương nhiên mất cọc.",
+        "b": "Đương nhiên phạt cọc gấp đôi.",
+        "c": "Có thể xem xét ý chí tiếp tục thực hiện của các bên và thỏa thuận gia hạn thực tế.",
+        "d": "Hợp đồng mua bán vô hiệu.",
+        "answer": "c",
+        "explanation": "Nếu các bên vẫn tiếp tục thực hiện giao dịch sau thời hạn mà không phản đối thì có thể được xem là đã gia hạn hoặc tiếp tục thực hiện thỏa thuận."
+    },
+    {
+        "question": "A đặt cọc cho B hai lần để mua cùng một căn nhà: lần 1 là 500 triệu đồng, lần 2 thêm 500 triệu đồng. Sau đó B không bán nhà. Nếu không có thỏa thuận khác, tiền phạt cọc được xác định thế nào?",
+        "a": "Chỉ tính trên 500 triệu lần đầu.",
+        "b": "Chỉ tính trên 500 triệu lần sau.",
+        "c": "Có thể xác định trên tổng số tiền đặt cọc nếu các khoản cọc cùng nhằm bảo đảm một giao dịch.",
+        "d": "Không phải trả lại tiền cọc.",
+        "answer": "c",
+        "explanation": "Cần xem xét bản chất các lần đặt cọc có cùng nhằm bảo đảm một giao dịch hay không để xác định tổng giá trị đặt cọc và chế tài."
+    },
+    {
+        "question": "A đặt cọc 20 triệu đồng cho C để mua xe máy. Đến thời điểm công chứng hợp đồng mua bán xe, công chứng viên cần xử lý hợp đồng đặt cọc trước đó như thế nào?",
+        "a": "Không cần quan tâm hợp đồng đặt cọc.",
+        "b": "Cần xác định mục đích đặt cọc đã được thực hiện thông qua việc giao kết hợp đồng mua bán.",
+        "c": "Bắt buộc hủy hợp đồng đặt cọc trước.",
+        "d": "Hợp đồng đặt cọc vẫn tồn tại độc lập mãi mãi.",
+        "answer": "b",
+        "explanation": "Khi hợp đồng mua bán được giao kết thì mục đích bảo đảm giao kết của hợp đồng đặt cọc đã hoàn thành."
+    },
+    {
+        "question": "A và B ở hai địa phương khác nhau, muốn công chứng hợp đồng đặt cọc chuyển nhượng quyền sử dụng đất. Công chứng viên có thể công chứng tại nơi A cư trú không?",
+        "a": "Không, bắt buộc tại nơi có đất.",
+        "b": "Có thể công chứng tại tổ chức hành nghề công chứng bất kỳ nếu pháp luật không hạn chế địa điểm đối với hợp đồng đặt cọc.",
+        "c": "Chỉ UBND cấp xã mới được chứng thực.",
+        "d": "Phải công chứng tại nơi B cư trú.",
+        "answer": "b",
+        "explanation": "Hợp đồng đặt cọc không phải là hợp đồng chuyển nhượng quyền sử dụng đất nên không bắt buộc công chứng tại nơi có bất động sản."
+    },
+    {
+        "question": "Công chứng viên phát hiện trên hệ thống có hợp đồng đặt cọc giữa A và C liên quan thửa đất đang được A chuyển nhượng cho B, nhưng hợp đồng đặt cọc đã hết hạn và không có dữ liệu công chứng mua bán tiếp theo. Hướng xử lý phù hợp nhất?",
+        "a": "Bắt buộc từ chối công chứng.",
+        "b": "Có thể tiếp tục xem xét công chứng nếu không có căn cứ xác định tranh chấp hoặc hạn chế giao dịch.",
+        "c": "Hợp đồng đặt cọc tự động chuyển quyền cho C.",
+        "d": "A mất quyền định đoạt tài sản.",
+        "answer": "b",
+        "explanation": "Hợp đồng đặt cọc không làm hạn chế quyền sở hữu như biện pháp đăng ký ngăn chặn. Nếu đã hết thời hạn và không có tranh chấp hoặc quyết định ngăn chặn thì có thể xem xét tiếp tục giao dịch."
+    },
+    {
+        "question": "A đặt cọc bằng căn hộ cho B và đồng thời ký sẵn hợp đồng chuyển nhượng căn hộ đã được công chứng nhưng chưa đăng ký sang tên. Nhận định nào phù hợp nhất?",
+        "a": "Quyền sở hữu căn hộ đã chắc chắn chuyển sang B.",
+        "b": "Giao dịch tiềm ẩn rủi ro bị xem xét là chuyển quyền trá hình để bảo đảm nghĩa vụ.",
+        "c": "Đặt cọc luôn đồng nghĩa chuyển nhượng tài sản.",
+        "d": "Không cần đăng ký biến động.",
+        "answer": "b",
+        "explanation": "Việc ký sẵn hợp đồng chuyển nhượng để bảo đảm nghĩa vụ đặt cọc có thể tiềm ẩn rủi ro bị xem xét là giao dịch giả tạo hoặc chuyển quyền trá hình nhằm bảo đảm thực hiện nghĩa vụ."
+    },
   {
         "question": "Bà Nguyễn Thanh Vân và con là Hồ Thị Lan (sinh năm 2008) cùng đồng sở hữu căn nhà tại Quận 3, TP.HCM. Bà Vân dùng căn nhà này để thế chấp bảo đảm khoản vay của Công ty TNHH Hoàn Cầu tại Ngân hàng VBC theo HĐTD số 24/2019/HĐTD. Khi công chứng hợp đồng thế chấp, công chứng viên cần xử lý như thế nào?",
         "a": "Được công chứng bình thường vì mẹ là người đại diện đương nhiên của con.",
