@@ -519,11 +519,32 @@ function startTimer() {
 
 // ================= NỘP BÀI VÀ CHẤM ĐIỂM (ĐÃ TỐI ƯU) =================
 function submit() {
+  // 1. Kiểm tra điều kiện nộp bài
+  let user = JSON.parse(localStorage.getItem("user") || "{}");
+  let answeredCount = Object.keys(answers).length;
+
+  if (user.role !== "admin" && answeredCount < questions.length) {
+    alert(`⚠️ Bạn chưa hoàn thành bài thi! \n\nVui lòng trả lời đủ ${questions.length} câu. \nHiện tại bạn mới làm: ${answeredCount} câu.`);
+    
+    // Tự động tìm câu đầu tiên chưa làm để người dùng hoàn thiện
+    for (let i = 0; i < questions.length; i++) {
+      if (!answers[i]) {
+        index = i;
+        render(); // Quay lại câu chưa làm
+        return;
+      }
+    }
+    return;
+  }
+
+  // Xác nhận nộp bài (áp dụng cho cả Admin và User đã làm đủ)
+  if (!confirm("Bạn có chắc chắn muốn nộp bài thi không?")) return;
+
   clearInterval(timer);
 
   let correct = 0;
   let wrong = 0;
-  let submittedCount = 0; 
+  let submittedCount = 0;
   let newWrong = [];
 
   let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
@@ -572,7 +593,7 @@ function submit() {
   // 1. LƯU CORRECT POOL
   localStorage.setItem("correctPool", JSON.stringify(correctPool));
 
-  // 2. TỐI ƯU: CHỈ LƯU TRẠNG THÁI CÂU HỎI, KHÔNG LƯU TOÀN BỘ MẢNG DATA
+  // 2. TỐI ƯU: LƯU TRẠNG THÁI CÂU HỎI
   let statsToSave = {};
   data.forEach(q => {
     let qText = (q.question || q.cauhoi || "").trim();
@@ -587,7 +608,7 @@ function submit() {
 
   wrongPool = newWrong;
 
-  // ... (phần code hiển thị kết quả giữ nguyên như cũ) ...
+  // 3. HIỂN THỊ GIAO DIỆN KẾT QUẢ
   document.body.style.backgroundColor = "#f4f5f7";
   document.body.style.margin = "0";
   document.body.style.padding = "20px 0";
@@ -607,7 +628,6 @@ function submit() {
   `;
   filterResult('all');
 }
-
 
 
 // ================= BỘ LỌC ĐÁP ÁN KHẢO SÁT KẾT QUẢ THI =================
