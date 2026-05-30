@@ -1124,15 +1124,15 @@
     "answer": "d",
     "explanation": "Các khoản này theo luật định đều được xác định là tài sản riêng."
   },
-  {
-    "question": "Tài sản nào sau đây là tài sản chung?",
-    "a": "Thu nhập do lao động, hoạt động sản xuất, kinh doanh.",
-    "b": "Hoa lợi, lợi tức phát sinh từ tài sản riêng (nếu vợ chồng có thỏa thuận).",
+ {
+    "question": "Theo Điều 33 Luật Hôn nhân và gia đình 2014, tài sản nào sau đây là tài sản chung của vợ chồng?",
+    "a": "Thu nhập do lao động, hoạt động sản xuất, kinh doanh trong thời kỳ hôn nhân.",
+    "b": "Hoa lợi, lợi tức phát sinh từ tài sản riêng trong thời kỳ hôn nhân.",
     "c": "Cả a và b đúng.",
     "d": "Cả a và b sai.",
     "answer": "c",
-    "explanation": "Pháp luật quy định thu nhập trong hôn nhân là tài sản chung, hoa lợi riêng có thể chuyển thành chung theo thỏa thuận."
-  },
+    "explanation": "Khoản 1 Điều 33 quy định tài sản chung của vợ chồng gồm thu nhập do lao động, hoạt động sản xuất, kinh doanh và hoa lợi, lợi tức phát sinh từ tài sản riêng trong thời kỳ hôn nhân (trừ trường hợp khoản 1 Điều 40 Luật Hôn nhân và gia đình 2014)."
+},
   {
     "question": "Giao dịch đối với tài sản chung là bất động sản phải:",
     "a": "Phải có văn bản thỏa thuận của vợ và chồng.",
@@ -1325,9 +1325,9 @@
   {
     "question": "Nhà ở xã hội hình thành trong tương lai được bán khi:",
     "a": "Có giấy phép xây dựng",
-    "b": "Hoàn thành móng và giải chấp",
+    "b": "Hoàn thành móng",
     "c": "Có thông báo đủ điều kiện bán",
-    "d": "a và c đúng, b sai",
+    "d": "tất cả đúng",
     "answer": "d",
     "explanation": "Điều kiện bắt buộc là hoàn thành móng, có giấy phép và được cơ quan quản lý xác nhận đủ điều kiện bán."
   },
