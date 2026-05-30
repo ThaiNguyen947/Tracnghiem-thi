@@ -2078,15 +2078,14 @@
     "answer": "c",
     "explanation": "điều 65 quy định miễn trách nhiệm khi hàng hóa hư hỏng do đặc tính tự nhiên hoặc khuyết tật vốn có."
   },
-  {
-    "question": "theo luật hàng không dân dụng việt nam 2025, hành khách có quyền từ chối chuyến bay trong trường hợp nào?",
-    "a": "khi thời tiết đẹp",
-    "b": "bất kỳ lúc nào không cần lý do",
-    "c": "được từ chối chuyến bay và nhận lại tiền theo quy định hợp đồng sau khi trừ chi phí",
-    "d": "chỉ khi hãng hàng không đồng ý",
-    "answer": "c",
-    "explanation": "điều 55 quy định hành khách có quyền từ chối chuyến bay và được hoàn tiền theo điều kiện hợp đồng."
-  },
+ {
+  "question": "Theo Luật Hàng không dân dụng Việt Nam, hành khách hủy việc vận chuyển trước chuyến bay thì được xử lý tiền vé như thế nào?",
+  "a": "Luôn được hoàn 100% tiền vé",
+  "b": "Không được hoàn tiền trong mọi trường hợp",
+  "c": "Được hoàn tiền theo điều kiện vận chuyển và có thể phải chịu chi phí theo quy định",
+  "d": "Chỉ được hoàn tiền nếu có lý do bất khả kháng",
+  "answer": "c"
+},
   {
     "question": "theo luật hàng không dân dụng việt nam 2025, trường hợp nào làm mất quyền khiếu nại?",
     "a": "không khiếu nại đúng thời hạn luật định",
