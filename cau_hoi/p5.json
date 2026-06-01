@@ -4948,15 +4948,15 @@
     "answer": "b",
     "explanation": "Điểm c Khoản 4 Điều 23 Nghị định 21/2021/NĐ-CP: Nếu tài sản đã do người khác quản lý từ trước, hiệu lực đối kháng phát sinh ngay từ khi hợp đồng bảo đảm có hiệu lực."
   },
-  {
-    "question": "Đối với tài sản hình thành trong tương lai, hiệu lực đối kháng với người thứ ba được áp dụng theo quy định nào?",
-    "a": "Chỉ theo Điều 24",
-    "b": "Theo các khoản 1, 2, 3 và 4 Điều 23",
-    "c": "Chỉ khi tài sản hoàn thành",
-    "d": "Chỉ khi đăng ký quyền sở hữu",
-    "answer": "b",
-    "explanation": "Khoản 2 Điều 24 Nghị định 21/2021/NĐ-CP: Việc xác định hiệu lực đối kháng với người thứ ba đối với tài sản hình thành trong tương lai áp dụng các nguyên tắc tại Điều 23."
-  },
+ {
+  "question": "Theo Nghị định 21/2021/NĐ-CP, hiệu lực đối kháng với người thứ ba của biện pháp bảo đảm bằng tài sản hình thành trong tương lai được xác định theo các trường hợp nào?",
+  "a": "Hợp đồng bảo đảm có hiệu lực; đăng ký biện pháp bảo đảm; nắm giữ tài sản bảo đảm; tài sản do người khác quản lý",
+  "b": "Chỉ đăng ký biện pháp bảo đảm",
+  "c": "Chỉ khi tài sản được hình thành hoàn chỉnh",
+  "d": "Chỉ khi đăng ký quyền sở hữu tài sản",
+  "answer": "a",
+  "explanation": "Khoản 2 Điều 24 dẫn chiếu áp dụng các khoản 1, 2, 3 và 4 Điều 23 Nghị định 21/2021/NĐ-CP."
+},
   {
     "question": "Các bên không thỏa thuận cụ thể về phạm vi nghĩa vụ trong tương lai được bảo đảm thì:",
     "a": "Hợp đồng bảo đảm vô hiệu",
