@@ -2863,14 +2863,14 @@
   "explanation": "Theo khoản 1 Điều 339 BLDS 2015, bên nhận bảo lãnh chỉ có quyền yêu cầu khi bên được bảo lãnh không thực hiện hoặc thực hiện không đúng nghĩa vụ đến hạn."
 },
 {
-  "question": "Trong bảo lãnh, nếu các bên thỏa thuận bên bảo lãnh chỉ thực hiện khi bên được bảo lãnh không có khả năng thực hiện thì:",
-  "a": "Vẫn phải thực hiện ngay khi đến hạn",
-  "b": "Chỉ thực hiện khi bên được bảo lãnh không có khả năng thực hiện",
-  "c": "Tự động vô hiệu bảo lãnh",
-  "d": "Không còn nghĩa vụ bảo lãnh",
-  "answer": "b",
-  "explanation": "Theo khoản 2 Điều 335 BLDS 2015, các bên có thể thỏa thuận giới hạn trách nhiệm bảo lãnh chỉ khi bên được bảo lãnh không có khả năng thực hiện nghĩa vụ."
-},
+  "question": "Theo Bộ luật Dân sự 2015, các bên có thể thỏa thuận bên bảo lãnh thực hiện nghĩa vụ thay trong trường hợp nào?",
+  "a": "Ngay khi nghĩa vụ đến hạn",
+  "b": "Khi bên được bảo lãnh chậm thực hiện nghĩa vụ",
+  "c": "Khi bên được bảo lãnh không có khả năng thực hiện nghĩa vụ",
+  "d": "Khi bên nhận bảo lãnh đơn phương yêu cầu",
+  "answer": "c",
+  "explanation": "Khoản 2 Điều 335 BLDS 2015 cho phép các bên thỏa thuận bên bảo lãnh chỉ phải thực hiện nghĩa vụ thay khi bên được bảo lãnh không có khả năng thực hiện nghĩa vụ."
+}
 {
   "question": "Phạm vi bảo lãnh theo pháp luật bao gồm những khoản nào sau đây?",
   "a": "Chỉ nợ gốc",
@@ -5148,15 +5148,15 @@
       "answer": "b",
       "explanation": "Điều 279 BLDS 2015: nếu là vật đặc định thì phải giao đúng vật và đúng tình trạng như đã cam kết."
     },
-    {
-      "question": "Nghĩa vụ trả tiền theo hợp đồng không quy định phương thức trả. Khi bên có nghĩa vụ chậm trả, nghĩa vụ bao gồm cả gì?",
-      "a": "Chỉ tiền gốc",
-      "b": "Tiền gốc và lãi theo thỏa thuận hoặc luật định",
-      "c": "Chỉ tiền lãi",
-      "d": "Không phải trả gì thêm",
-      "answer": "b",
-      "explanation": "Điều 280 BLDS 2015: nghĩa vụ trả tiền bao gồm cả tiền lãi trên nợ gốc, trừ trường hợp có thỏa thuận khác."
-    },
+   {
+  "question": "Theo Bộ luật Dân sự 2015, nghĩa vụ trả tiền mặc nhiên bao gồm khoản nào sau đây?",
+  "a": "Tiền phạt vi phạm",
+  "b": "Tiền bồi thường thiệt hại",
+  "c": "Tiền lãi trên nợ gốc",
+  "d": "Chi phí tố tụng",
+  "answer": "c",
+  "explanation": "Khoản 2 Điều 280 BLDS 2015 quy định nghĩa vụ trả tiền bao gồm cả tiền lãi trên nợ gốc, trừ trường hợp có thỏa thuận khác."
+}
     {
       "question": "A có nghĩa vụ lựa chọn giao 1 trong 3 loại tài sản. Đến hạn, chỉ còn 1 loại tài sản tồn tại. A phải xử lý thế nào?",
       "a": "Được quyền từ chối thực hiện nghĩa vụ",
