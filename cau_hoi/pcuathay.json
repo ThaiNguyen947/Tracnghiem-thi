@@ -1,5 +1,401 @@
 [
   {
+  "question": "Theo quy định của Luật Đất đai năm 2024, nhận định nào sau đây đúng?",
+  "a": "Góp vốn bằng quyền sử dụng đất là sự thỏa thuận giữa các bên về chuyển quyền sử dụng đất thông qua việc góp quyền sử dụng đất để tạo thành vốn điều lệ của tổ chức kinh tế, bao gồm góp vốn để thành lập tổ chức kinh tế hoặc góp thêm vốn điều lệ của tổ chức kinh tế đã được thành lập.",
+  "b": "Góp vốn bằng quyền sử dụng đất bao gồm góp quyền sử dụng đất để tạo thành vốn điều lệ của tổ chức kinh tế và góp quyền sử dụng đất trong hợp đồng hợp tác kinh doanh.",
+  "c": "Góp vốn bằng quyền sử dụng đất là việc góp quyền sử dụng đất trong hợp đồng hợp tác kinh doanh.",
+  "d": "tất cả đều sai.",
+  "answer": "a",
+  "explanation": "Khoản 22 Điều 3 Luật Đất đai 2024 quy định: 'Góp vốn bằng quyền sử dụng đất là sự thỏa thuận giữa các bên về chuyển quyền sử dụng đất thông qua việc góp quyền sử dụng đất để tạo thành vốn điều lệ của tổ chức kinh tế, bao gồm góp vốn để thành lập tổ chức kinh tế hoặc góp thêm vốn điều lệ của tổ chức kinh tế đã được thành lập."
+},
+{
+  "question": "Theo quy định của Luật Đất đai năm 2024, quyền thuê trong hợp đồng thuê đất là:",
+  "a": "Là quyền của người sử dụng đất được hình thành khi được cá nhân, tổ chức cho thuê đất theo Hợp đồng thuê đất. Người sử dụng đất được chuyển nhượng quyền thuê trong hợp đồng thuê đất, người nhận chuyển nhượng quyền thuê trong hợp đồng thuê đất được kế thừa các quyền và nghĩa vụ của người sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan.",
+  "b": "Là quyền của người sử dụng đất được hình thành khi Nhà nước cho thuê đất thu tiền thuê đất cho cả thời gian thuê. Người sử dụng đất được chuyển nhượng quyền thuê trong hợp đồng thuê đất, người nhận chuyển nhượng quyền thuê trong hợp đồng thuê đất được kế thừa các quyền và nghĩa vụ của người sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan.",
+  "c": "Là quyền của người sử dụng đất được hình thành khi được cho thuê đất theo Hợp đồng thuê đất. Người sử dụng đất được chuyển nhượng quyền thuê trong hợp đồng thuê đất, người nhận chuyển nhượng quyền thuê trong hợp đồng thuê đất được kế thừa các quyền và nghĩa vụ của người sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan.",
+  "d": "Là quyền của người sử dụng đất được hình thành khi Nhà nước cho thuê đất thu tiền thuê đất hằng năm. Người sử dụng đất được chuyển nhượng quyền thuê trong hợp đồng thuê đất, người nhận chuyển nhượng quyền thuê trong hợp đồng thuê đất được kế thừa các quyền và nghĩa vụ của người sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan.",
+  "answer": "d",
+  "explanation": "Khoản 37 Điều 3 Luật Đất đai 2024: 'Quyền thuê trong hợp đồng thuê đất là quyền của người sử dụng đất được hình thành khi Nhà nước cho thuê đất thu tiền thuê đất hằng năm. Người sử dụng đất được chuyển nhượng quyền thuê trong hợp đồng thuê đất; người nhận chuyển nhượng quyền thuê trong hợp đồng thuê đất được kế thừa các quyền và nghĩa vụ của người sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan'."
+},
+{
+  "question": "Theo quy định của Luật Đất đai năm 2024, nhận định nào sau đây đúng?",
+  "a": "1 Tổ chức kinh tế, tổ chức kinh tế có vốn đầu tư nước ngoài nhận góp vốn bằng quyền sử dụng đất.",
+  "b": "2 Tổ chức kinh tế có vốn đầu tư nước ngoài nhận tặng cho quyền sử dụng đất.",
+  "c": "3 Tổ chức kinh tế có vốn đầu tư nước ngoài được nhận góp vốn, nhận chuyển nhượng quyền sử dụng đất.",
+  "d": "Đáp án 1 và 3 đúng, 2 sai.",
+  "answer": "d",
+  "explanation": "Điểm đ khoản 1 Điều 28 Luật Đất đai 2024: 'Tổ chức kinh tế, tổ chức kinh tế có vốn đầu tư nước ngoài nhận góp vốn bằng quyền sử dụng đất'. Điểm c khoản 1 Điều 28 Luật Đất đai 2024: 'Tổ chức kinh tế có vốn đầu tư nước ngoài ... được nhận chuyển nhượng quyền sử dụng đất trong khu công nghiệp, cụm công nghiệp, khu công nghệ cao'."
+},
+{
+  "question": "Theo quy định của Luật Đất đai năm 2024, đối với người sử dụng đất được Nhà nước đảm bảo như thế nào?",
+  "a": "1 Nhà nước bảo hộ quyền sử dụng đất và tài sản gắn liền với đất hợp pháp của người sử dụng đất.",
+  "b": "2 Nhà nước không thừa nhận việc đòi lại đất đã được giao theo quy định của Nhà nước cho người khác sử dụng trong quá trình thực hiện chính sách đất đai của Nhà nước Việt Nam dân chủ cộng hòa, Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam và Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+  "c": "Đáp án 1 và 2 đúng.",
+  "d": "Đáp án 1 và 2 sai.",
+  "answer": "c",
+  "explanation": "Điều 10 Luật Đất đai 2024: 'Nhà nước bảo hộ quyền sử dụng đất và tài sản gắn liền với đất hợp pháp của người sử dụng đất'. Điều 13 Luật Đất đai 2024: 'Nhà nước không thừa nhận việc đòi lại đất đã được Nhà nước giao cho người khác sử dụng trong quá trình thực hiện chính sách đất đai qua các thời kỳ của Nhà nước Việt Nam dân chủ cộng hòa, Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam và Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam'."
+},
+{
+  "question": "Việc tách thửa, hợp thửa đất phải bảo đảm các nguyên tắc, điều kiện nào sau đây?",
+  "a": "Trường hợp đất có tranh chấp nhưng xác định được phạm vi diện tích, ranh giới đang tranh chấp thì phần diện tích, ranh giới còn lại không tranh chấp của thửa đất đó cũng không được phép tách thửa đất, hợp thửa đất.",
+  "b": "Việc hợp các thửa đất phải bảo đảm có cùng mục đích sử dụng đất, thời hạn sử dụng đất, hình thức trả tiền thuê đất trong mọi trường hợp.",
+  "c": "Trường hợp hợp các thửa đất khác nhau về mục đích sử dụng đất, thời hạn sử dụng đất, hình thức trả tiền thuê đất thì phải thực hiện đồng thời với thủ tục chuyển mục đích sử dụng đất sang đất ở, điều chỉnh thời hạn sử dụng đất, chuyển hình thức trả tiền thuê đất trả tiền một lần.",
+  "d": "Thửa đất còn trong thời hạn sử dụng đất.",
+  "answer": "d",
+  "explanation": "Điểm b khoản 1 Điều 220 Luật Đất đai 2024: 'Thửa đất còn trong thời hạn sử dụng đất'."
+},
+{
+  "question": "Theo quy định tại Luật Nhà ở năm 2023, chủ đầu tư dự án đầu tư xây dựng nhà ở thương mại có quyền được yêu cầu cơ quan nhà nước có thẩm quyền cấp Giấy chứng nhận đối với nhà ở được xây dựng trong dự án cho chủ đầu tư trong trường hợp nào sau đây?",
+  "a": "Nhà ở đã bán, đã cho thuê mua và nhà ở đang cho thuê.",
+  "b": "Nhà ở được đầu tư xây dựng theo dự án để bán.",
+  "c": "Nhà ở được đầu tư xây dựng theo dự án để cho thuê mua.",
+  "d": "Nhà ở chưa bán, chưa cho thuê mua; trường hợp chủ đầu tư dự án đầu tư xây dựng nhà ở để cho thuê thì được cấp Giấy chứng nhận đối với nhà ở đó.",
+  "answer": "d",
+  "explanation": "Khoản 4 Điều 9 Luật Nhà ở 2023: 'Đối với nhà ở được đầu tư xây dựng theo dự án để bán, cho thuê mua thì không cấp Giấy chứng nhận cho chủ đầu tư dự án đầu tư xây dựng nhà ở mà cấp Giấy chứng nhận cho người mua, thuê mua nhà ở, trừ trường hợp chủ đầu tư dự án đầu tư xây dựng nhà ở có nhu cầu cấp Giấy chứng nhận đối với nhà ở chưa bán, chưa cho thuê mua; trường hợp chủ đầu tư dự án đầu tư xây dựng nhà ở để cho thuê thì được cấp Giấy chứng nhận đối với nhà ở đó'."
+},
+{
+  "question": "Theo quy định của Luật Kinh doanh bất động sản năm 2023, cá nhân/tổ chức nào có trách nhiệm làm thủ tục để cơ quan nhà nước có thẩm quyền cấp Giấy chứng nhận về quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho bên nhận chuyển nhượng quyền sử dụng đất đã có hạ tầng kỹ thuật trong dự án bất động sản?",
+  "a": "Bên cung cấp dịch vụ môi giới bất động sản.",
+  "b": "Bên cung cấp dịch vụ quản lý bất động sản.",
+  "c": "Bên cung cấp dịch vụ tư vấn bất động sản.",
+  "d": "Bên chuyển nhượng.",
+  "answer": "d",
+  "explanation": "Khoản 3 Điều 31 Luật Kinh doanh bất động sản 2023: 'Bên chuyển nhượng có trách nhiệm làm thủ tục để cơ quan nhà nước có thẩm quyền cấp Giấy chứng nhận về quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho bên nhận chuyển nhượng quyền sử dụng đất đã có hạ tầng kỹ thuật trong dự án bất động sản, trừ trường hợp bên nhận chuyển nhượng tự nguyện làm thủ tục đề nghị cấp Giấy chứng nhận'."
+},
+{
+  "question": "Theo quy định tại Luật Nhà ở năm 2023, tổ chức, cá nhân nước ngoài được sở hữu nhà ở tại Việt Nam chỉ được mua, thuê mua, nhận tặng cho, nhận thừa kế và sở hữu không quá bao nhiêu căn nhà ở riêng lẻ (bao gồm nhà biệt thự, nhà ở liền kề) trên một khu vực có quy mô dân số tương đương một phường?",
+  "a": "Không quá 300 căn.",
+  "b": "Không quá 350 căn.",
+  "c": "Không quá 250 căn.",
+  "d": "Không quá 150 căn.",
+  "answer": "c",
+  "explanation": "Khoản 3 Điều 19 Luật Nhà ở 2023: 'Trường hợp trên một khu vực có số dân tương đương một đơn vị hành chính cấp phường mà có dự án đầu tư xây dựng nhà ở riêng lẻ thì tổ chức, cá nhân nước ngoài chỉ được mua, thuê mua, nhận tặng cho, nhận thừa kế và sở hữu không quá 250 căn nhà ở'."
+},
+{
+  "question": "Theo quy định tại Luật Nhà ở năm 2023, việc bán, cho thuê mua nhà ở xã hội hình thành trong tương lai phải tuân thủ các điều kiện nào sau đây?",
+  "a": "Đã có hồ sơ dự án đầu tư xây dựng nhà ở, có thiết kế kỹ thuật nhà ở được phê duyệt và có giấy phép xây dựng nếu thuộc trường hợp phải có giấy phép xây dựng.",
+  "b": "Tất cả các đáp án.",
+  "c": "Đã có văn bản thông báo của cơ quan quản lý nhà ở cấp tỉnh về việc nhà ở đủ điều kiện được bán, cho thuê mua, trừ nhà ở xã hội được đầu tư xây dựng bằng vốn đầu tư công.",
+  "d": "Đã hoàn thành việc xây dựng phần móng của nhà ở theo quy định của pháp luật về xây dựng và hoàn thành việc đầu tư xây dựng hệ thống đường giao thông, cấp nước, thoát nước, điện sinh hoạt, điện chiếu sáng công cộng của khu vực nhà ở được bán, cho thuê mua theo quy hoạch chi tiết xây dựng, hồ sơ thiết kế và tiến độ của dự án đã được phê duyệt; đã giải chấp đối với trường hợp chủ đầu tư dự án đầu tư xây dựng nhà ở xã hội có thế chấp nhà ở này, trừ trường hợp được người mua, thuê mua và bên nhận thế chấp đồng ý không phải giải chấp.",
+  "answer": "b",
+  "explanation": "Khoản 1, 3 Điều 88 Luật Nhà ở 2023 quy định điều kiện của nhà ở xã hội hình thành trong tương lai được đưa vào bán, cho thuê mua bao gồm: có hồ sơ dự án, thiết kế kỹ thuật được phê duyệt và giấy phép xây dựng (nếu thuộc trường hợp phải có giấy phép xây dựng); đã hoàn thành phần móng và hạ tầng kỹ thuật theo quy định, đã giải chấp trong trường hợp luật định; đồng thời có văn bản thông báo của cơ quan quản lý nhà ở cấp tỉnh về việc nhà ở đủ điều kiện được bán, cho thuê mua, trừ trường hợp nhà ở xã hội được đầu tư bằng vốn đầu tư công."
+},
+{
+  "question": "Theo quy định tại Luật Nhà ở năm 2023, bên mua nhà ở xã hội không được bán lại nhà ở trong thời hạn tối thiểu là 05 năm, kể từ ngày thanh toán đủ tiền mua nhà ở, trừ trường hợp nào sau đây?",
+  "a": "1 Trong thời hạn 05 năm, kể từ ngày bên mua nhà ở xã hội đã thanh toán đủ tiền mua nhà ở mà có nhu cầu bán nhà ở này thì chỉ được bán lại cho chủ đầu tư dự án đầu tư xây dựng nhà ở xã hội hoặc bán lại cho đối tượng thuộc trường hợp được mua nhà ở xã hội với giá bán tối đa bằng giá bán nhà ở xã hội này trong hợp đồng mua bán với chủ đầu tư dự án đầu tư xây dựng nhà ở xã hội. Việc nộp thuế thu nhập cá nhân thực hiện theo quy định của pháp luật về thuế.",
+  "b": "2 Trong thời hạn 05 năm, kể từ ngày bên mua nhà ở xã hội đã thanh toán đủ tiền mua nhà ở mà có nhu cầu bán nhà ở này thì bán lại nhà ở này theo cơ chế thị trường cho đối tượng có nhu cầu mua nhà ở xã hội. Việc nộp thuế thu nhập cá nhân thực hiện theo quy định của pháp luật về thuế.",
+  "c": "Cả 1 và 2 đều đúng.",
+  "d": "Cả 1 và 2 đều sai.",
+  "answer": "a",
+  "explanation": "Điểm d khoản 1 Điều 89 Luật Nhà ở 2023: 'Bên mua nhà ở xã hội không được bán lại nhà ở trong thời hạn tối thiểu là 05 năm, kể từ ngày thanh toán đủ tiền mua nhà ở; trường hợp trong thời hạn 05 năm kể từ ngày thanh toán đủ tiền mua nhà ở mà có nhu cầu bán nhà ở này thì chỉ được bán lại cho chủ đầu tư dự án đầu tư xây dựng nhà ở xã hội hoặc bán lại cho đối tượng thuộc trường hợp được mua nhà ở xã hội với giá bán tối đa bằng giá bán nhà ở xã hội này trong hợp đồng mua bán với chủ đầu tư dự án đầu tư xây dựng nhà ở xã hội'."
+},
+{
+  "question": "Theo quy định tại Luật Nhà ở năm 2023, trường hợp góp vốn, tặng cho, đổi nhà ở thì thời điểm xác lập quyền sở hữu nhà ở là:",
+  "a": "Thời điểm bên nhận góp vốn, bên nhận tặng cho, bên nhận đổi đã thanh toán đủ tiền mua, tiền thuê mua và đã nhận bàn giao nhà ở, trừ trường hợp các bên có thỏa thuận khác.",
+  "b": "Thời điểm xác lập quyền sở hữu nhà ở được thực hiện theo quy định của pháp luật về dân sự.",
+  "c": "Thời điểm bên nhận góp vốn, bên nhận tặng cho, bên nhận đổi đã nhận bàn giao nhà ở từ bên góp vốn, bên tặng cho, bên đổi nhà ở, trừ trường hợp các bên có thỏa thuận khác.",
+  "d": "Thời điểm bên nhận góp vốn, bên nhận tặng cho, bên nhận đổi đã hoàn thành việc xây dựng nhà ở theo quy định của pháp luật về xây dựng.",
+  "answer": "c",
+  "explanation": "Điểm c khoản 1 Điều 12 Luật Nhà ở 2023: 'Trường hợp góp vốn, tặng cho, đổi nhà ở thì thời điểm xác lập quyền sở hữu nhà ở là thời điểm bên nhận góp vốn, bên nhận tặng cho, bên nhận đổi đã nhận bàn giao nhà ở từ bên góp vốn, bên tặng cho, bên đổi nhà ở, trừ trường hợp các bên có thỏa thuận khác'."
+},
+{
+  "question": "Theo quy định của Luật Đất đai năm 2024, hạn mức nhận chuyển quyền sử dụng đất nông nghiệp của cá nhân là bao nhiêu?",
+  "a": "tất cả sai.",
+  "b": "Không quá 15 lần hạn mức giao đất nông nghiệp.",
+  "c": "Không quá 20 lần hạn mức giao đất nông nghiệp.",
+  "d": "Không quá 10 lần hạn mức giao đất nông nghiệp.",
+  "answer": "c",
+  "explanation": "Khoản 1 Điều 177 Luật Đất đai 2024: 'Cá nhân được nhận chuyển quyền sử dụng đất nông nghiệp không quá 20 lần hạn mức giao đất nông nghiệp của cá nhân đối với mỗi loại đất quy định tại Điều 176 của Luật này'."
+},
+{
+  "question": "Theo quy định tại Luật Nhà ở năm 2023, chủ đầu tư dự án đầu tư xây dựng nhà ở thương mại là:",
+  "a": "Doanh nghiệp kinh doanh bất động sản.",
+  "b": "Tổng Liên đoàn Lao động Việt Nam.",
+  "c": "Hợp tác xã, liên hiệp hợp tác xã.",
+  "d": "Tất cả đáp án.",
+  "answer": "a",
+ "explanation": "Khoản 1 Điều 36 Luật Nhà ở 2023: 'Chủ đầu tư dự án đầu tư xây dựng nhà ở thương mại phải là doanh nghiệp kinh doanh bất động sản đáp ứng điều kiện quy định tại điểm a và điểm c khoản 2 Điều 35 của Luật này và thuộc một trong các trường hợp quy định tại khoản 2 hoặc khoản 3 Điều này'."
+},
+{
+  "question": "Theo quy định của Luật Kinh doanh bất động sản năm 2023, chọn đáp án đúng:",
+  "a": "Bên chuyển nhượng hợp đồng mua bán, thuê mua nhà ở, công trình xây dựng phải nộp một khoản phí tương đương 1% giá trị giao dịch cho chủ đầu tư mỗi lần chuyển nhượng hợp đồng.",
+  "b": "Bên chuyển nhượng hợp đồng mua bán, thuê mua nhà ở, công trình xây dựng phải nộp một khoản phí tương đương 0,5% giá trị giao dịch cho chủ đầu tư mỗi lần chuyển nhượng hợp đồng.",
+  "c": "Bên chuyển nhượng hợp đồng mua bán, thuê mua nhà ở, công trình xây dựng không phải nộp bất kỳ khoản phí nào cho chủ đầu tư mỗi lần chuyển nhượng hợp đồng.",
+  "d": "Bên chuyển nhượng hợp đồng mua bán, thuê mua nhà ở, công trình xây dựng phải nộp một khoản phí tương đương 2% giá trị giao dịch cho chủ đầu tư mỗi lần chuyển nhượng hợp đồng.",
+  "answer": "c",
+  "explanation": "Khoản 2 Điều 51 Luật Kinh doanh bất động sản 2023: 'Bên nhận chuyển nhượng hợp đồng được tiếp tục kế thừa để tiếp tục thực hiện các quyền, nghĩa vụ của bên mua, thuê mua nhà ở hình thành trong tương lai, bên thuê mua công trình xây dựng có sẵn với chủ đầu tư. Chủ đầu tư có trách nhiệm tạo điều kiện cho các bên trong việc chuyển nhượng hợp đồng và không được thu bất kỳ khoản chi phí nào liên quan đến việc chuyển nhượng hợp đồng'."
+},
+{
+  "question": "Theo Luật Nhà ở năm 2023, trường hợp chủ sở hữu bán nhà ở đang cho thuê thì:",
+  "a": "Phải thông báo bằng văn bản cho bên thuê nhà ở biết về việc bán; bên thuê nhà ở được quyền ưu tiên mua nếu đã thanh toán đủ tiền thuê nhà cho bên cho thuê, trừ trường hợp Bộ luật Dân sự có quy định khác. Trong thời hạn 30 ngày, kể từ ngày bên thuê nhà ở nhận được thông báo mà không mua thì chủ sở hữu nhà ở được quyền bán nhà ở đó cho người khác.",
+  "b": "Phải thông báo bằng văn bản cho bên thuê nhà ở biết về việc bán và điều kiện bán nhà ở; bên thuê nhà ở được quyền ưu tiên mua nếu đã thanh toán đủ tiền thuê nhà cho bên cho thuê tính đến thời điểm bên cho thuê có thông báo về việc bán nhà ở đang cho thuê, trừ trường hợp Bộ luật Dân sự có quy định khác. Trong thời hạn 30 ngày, kể từ ngày bên thuê nhà ở nhận được thông báo mà không mua thì chủ sở hữu nhà ở được quyền bán nhà ở đó cho người khác, trừ trường hợp các bên có thỏa thuận khác về thời hạn.",
+  "c": "Bên thuê nhà ở được quyền ưu tiên mua, trừ trường hợp Bộ luật Dân sự có quy định khác. Trong thời hạn 30 ngày, kể từ ngày bên thuê nhà ở nhận được thông báo mà không mua thì chủ sở hữu nhà ở được quyền bán nhà ở đó cho người khác, trừ trường hợp các bên có thỏa thuận khác về thời hạn.",
+  "d": "Phải thông báo bằng văn bản cho bên thuê nhà ở biết về việc bán; bên thuê nhà ở được quyền ưu tiên mua nếu đã thanh toán đủ tiền thuê nhà cho bên cho thuê tính đến thời điểm bên cho thuê có thông báo về việc bán nhà ở đang cho thuê, trừ trường hợp Bộ luật Dân sự có quy định khác. Trong thời hạn 30 ngày, kể từ ngày bên thuê nhà ở nhận được thông báo mà không mua thì chủ sở hữu nhà ở được quyền bán nhà ở đó cho người khác, trừ trường hợp các bên có thỏa thuận khác về thời hạn.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 168 Luật Nhà ở 2023: 'Trường hợp chủ sở hữu bán nhà ở đang cho thuê thì phải thông báo bằng văn bản cho bên thuê nhà ở biết về việc bán và điều kiện bán nhà ở; bên thuê nhà ở được quyền ưu tiên mua nếu đã thanh toán đủ tiền thuê nhà cho bên cho thuê tính đến thời điểm bên cho thuê có thông báo về việc bán nhà ở đang cho thuê, trừ trường hợp Bộ luật Dân sự có quy định khác. Trong thời hạn 30 ngày kể từ ngày bên thuê nhà ở nhận được thông báo mà không mua thì chủ sở hữu nhà ở được quyền bán nhà ở đó cho người khác, trừ trường hợp các bên có thỏa thuận khác về thời hạn'."
+},
+{
+  "question": "Hộ gia đình trong Luật Đất đai năm 2024 được hiểu như thế nào sau đây?",
+  "a": "Là những người có quan hệ hôn nhân, huyết thống, nuôi dưỡng theo quy định của pháp luật về hôn nhân và gia đình, đang sống chung và có quyền sử dụng đất chung tại thời điểm được Nhà nước giao đất, cho thuê đất, công nhận quyền sử dụng đất, nhận chuyển quyền sử dụng đất.",
+  "b": "Là những người có quan hệ hôn nhân, huyết thống, nuôi dưỡng, có cùng nơi cư trú, có chung sổ hộ khẩu và hiện đang sống chung với nhau, có tài sản được xác định thuộc sở hữu chung của các thành viên khi tham gia quan hệ dân sự.",
+  "c": "Là những người có quan hệ hôn nhân, huyết thống, nuôi dưỡng theo quy định của pháp luật về hôn nhân và gia đình, đang sống chung và có quyền sử dụng đất chung tại thời điểm được Nhà nước giao đất, cho thuê đất, công nhận quyền sử dụng đất, nhận chuyển quyền sử dụng đất trước ngày Luật này có hiệu lực thi hành.",
+  "d": "Đáp án a và b đúng, c sai.",
+  "answer": "c",
+  "explanation": "Khoản 25 Điều 3 Luật Đất đai 2024: 'Hộ gia đình sử dụng đất là những người có quan hệ hôn nhân, huyết thống, nuôi dưỡng theo quy định của pháp luật về hôn nhân và gia đình, đang sống chung và có quyền sử dụng đất chung tại thời điểm được Nhà nước giao đất, cho thuê đất, công nhận quyền sử dụng đất, nhận chuyển quyền sử dụng đất trước ngày Luật này có hiệu lực thi hành'."
+},
+{
+  "question": "Theo quy định của Luật Đất đai năm 2024, chứng thư pháp lý để Nhà nước xác nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất hợp pháp của người có quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất là:",
+  "a": "Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở.",
+  "b": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất.",
+  "c": "Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.",
+  "d": "Giấy chứng nhận quyền sử dụng đất và tài sản gắn liền với đất.",
+  "answer": "c",
+  "explanation": "Khoản 21 Điều 3 Luật Đất đai 2024: 'Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất là chứng thư pháp lý để Nhà nước xác nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất hợp pháp của người có quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất'."
+},
+{
+  "question": "Theo quy định của Luật Đất đai năm 2024, nhận định nào sau đây là đúng về người gốc Việt Nam định cư ở nước ngoài được phép nhập cảnh vào Việt Nam?",
+  "a": "Được quyền sử dụng đất do nhận chuyển quyền sử dụng đất.",
+  "b": "Được quyền sử dụng các loại đất do nhận chuyển quyền sử dụng đất trong các dự án phát triển nhà ở.",
+  "c": "Được quyền sử dụng đất nông nghiệp do nhận chuyển nhượng quyền sử dụng đất.",
+  "d": "Được quyền sử dụng đất ở do nhận chuyển quyền sử dụng đất ở trong các dự án phát triển nhà ở.",
+  "answer": "a",
+  "explanation": "Khoản 6 Điều 4 và điểm h k1 Điều 28 Luật Đất đai 2024 quy định người gốc Việt Nam định cư ở nước ngoài được phép nhập cảnh vào Việt Nam là một trong các đối tượng sử dụng đất và được thực hiện quyền nhận chuyển quyền sử dụng đất theo quy định của Luật Đất đai 2024."
+},
+{
+  "question": "Theo quy định của Luật Đất đai năm 2024, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài được Nhà nước cho thuê đất thu tiền thuê đất hằng năm có quyền gì sau đây?",
+  "a": "Cho thuê tài sản thuộc sở hữu của mình gắn liền với đất và quyền thuê trong hợp đồng thuê đất.",
+  "b": "Tất cả đáp án.",
+  "c": "Góp vốn bằng tài sản thuộc sở hữu của mình gắn liền với đất trong thời hạn thuê đất; người nhận góp vốn bằng tài sản được Nhà nước tiếp tục cho thuê đất theo đúng mục đích đã được xác định trong thời hạn còn lại.",
+  "d": "Thế chấp tài sản thuộc sở hữu của mình gắn liền với đất tại các tổ chức tín dụng được phép hoạt động tại Việt Nam.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 41 Luật Đất đai 2024 quy định người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài được Nhà nước cho thuê đất thu tiền thuê đất hằng năm có các quyền: cho thuê tài sản thuộc sở hữu của mình gắn liền với đất và quyền thuê trong hợp đồng thuê đất; góp vốn bằng tài sản thuộc sở hữu của mình gắn liền với đất trong thời hạn thuê đất; thế chấp tài sản thuộc sở hữu của mình gắn liền với đất tại tổ chức tín dụng được phép hoạt động tại Việt Nam."
+},
+{
+  "question": "Theo quy định tại Luật Nhà ở năm 2023, cá nhân nước ngoài được sở hữu nhà ở tại Việt Nam là:",
+  "a": "Cá nhân nước ngoài được phép nhập cảnh vào Việt Nam.",
+  "b": "Cá nhân nước ngoài được phép nhập cảnh vào Việt Nam thuộc trường hợp được hưởng quyền ưu đãi, miễn trừ ngoại giao, lãnh sự theo quy định của pháp luật.",
+  "c": "Cá nhân nước ngoài được phép nhập cảnh vào Việt Nam không thuộc trường hợp được hưởng quyền ưu đãi, miễn trừ ngoại giao, lãnh sự theo quy định của pháp luật.",
+  "d": "Tất cả đáp án đều sai.",
+  "answer": "c",
+  "explanation": "Khoản 1 Điều 17 Luật Nhà ở 2023: 'Tổ chức, cá nhân nước ngoài được sở hữu nhà ở tại Việt Nam bao gồm: ... c) Cá nhân nước ngoài được phép nhập cảnh vào Việt Nam và không thuộc trường hợp được hưởng quyền ưu đãi, miễn trừ ngoại giao, lãnh sự theo quy định của pháp luật'."
+},
+{
+  "question": "Theo quy định của Luật Kinh doanh bất động sản năm 2023, các loại bất động sản, dự án bất động sản nào sau đây được đưa vào kinh doanh?",
+  "a": "Quyền sử dụng đất đã có hạ tầng kỹ thuật trong dự án bất động sản.",
+  "b": "Tất cả các đáp án.",
+  "c": "Nhà ở có sẵn và nhà ở hình thành trong tương lai.",
+  "d": "Công trình xây dựng có sẵn, công trình xây dựng hình thành trong tương lai, bao gồm công trình xây dựng có công năng phục vụ mục đích giáo dục, y tế, thể thao, văn hóa, văn phòng, thương mại, dịch vụ, du lịch, lưu trú, công nghiệp và công trình xây dựng có công năng phục vụ hỗn hợp.",
+  "answer": "b",
+  "explanation": "Điều 5 Luật Kinh doanh bất động sản 2023: 'Các loại bất động sản được đưa vào kinh doanh bao gồm: nhà ở có sẵn và nhà ở hình thành trong tương lai; công trình xây dựng có sẵn, công trình xây dựng hình thành trong tương lai; phần diện tích sàn xây dựng trong công trình xây dựng; quyền sử dụng đất đã có hạ tầng kỹ thuật trong dự án bất động sản; dự án bất động sản'."
+},
+{
+  "question": "Theo quy định của Luật Đất đai năm 2024, cơ quan nào có thẩm quyền cho phép cá nhân sử dụng đất chuyển mục đích sử dụng đất nông nghiệp để sử dụng vào mục đích thương mại, dịch vụ với diện tích từ 0,5 ha trở lên?",
+  "a": "Ủy ban nhân dân cấp tỉnh.",
+  "b": "Ủy ban nhân dân cấp huyện và phải có văn bản chấp thuận của Ủy ban nhân dân cấp tỉnh trước khi quyết định.",
+  "c": "Ủy ban nhân dân cấp xã.",
+  "d": "Đáp án a và b đúng, c sai.",
+  "answer": "a",
+  "explanation": "Khoản 1 Điều 123 Luật Đất đai 2024: 'Ủy ban nhân dân cấp tỉnh quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất đối với tổ chức trong nước, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài và các trường hợp khác thuộc thẩm quyền'. Khoản 2 Điều 123 Luật Đất đai 2024 không còn quy định trường hợp cá nhân chuyển mục đích sử dụng đất nông nghiệp từ 0,5 ha trở lên phải có văn bản chấp thuận của UBND cấp tỉnh như Luật Đất đai 2013."
+},
+{
+  "question": "Theo quy định của Luật Kinh doanh bất động sản năm 2023, bên mua, bên thuê mua chưa được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản khác gắn liền với đất theo quy định của pháp luật về đất đai thì bên bán, bên cho thuê mua không được thu quá:",
+  "a": "80% giá trị hợp đồng.",
+  "b": "85% giá trị hợp đồng.",
+  "c": "90% giá trị hợp đồng.",
+  "d": "95% giá trị hợp đồng.",
+  "answer": "d",
+  "explanation": "Khoản 3 Điều 25 Luật Kinh doanh bất động sản 2023: 'Bên bán, bên cho thuê mua không được thu quá 95% giá trị hợp đồng khi bên mua, bên thuê mua chưa được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của pháp luật về đất đai; giá trị còn lại của hợp đồng được thanh toán khi cơ quan nhà nước có thẩm quyền đã cấp Giấy chứng nhận cho bên mua, bên thuê mua'."
+},
+{
+  "question": "Trường hợp người nhận thừa kế là người gốc Việt Nam định cư ở nước ngoài không thuộc đối tượng được sở hữu nhà ở gắn liền với quyền sử dụng đất ở tại Việt Nam thì:",
+  "a": "Được chuyển nhượng quyền sử dụng đất.",
+  "b": "Được nhận chuyển nhượng quyền sử dụng đất.",
+  "c": "Được nhận tặng cho quyền sử dụng đất.",
+  "d": "Nộp hồ sơ về việc nhận thừa kế tại tổ chức đăng ký đất đai để cập nhật vào Sổ địa chính.",
+  "answer": "a",
+  "explanation": "Khoản 3 Điều 44 Luật Đất đai 2024: Trường hợp người nhận thừa kế là người gốc Việt Nam định cư ở nước ngoài không thuộc đối tượng được sở hữu nhà ở gắn liền với quyền sử dụng đất ở tại Việt Nam thì được chuyển nhượng hoặc tặng cho quyền sử dụng đất thừa kế; người nhận chuyển nhượng, nhận tặng cho được thực hiện thủ tục đăng ký đất đai theo quy định."
+},
+{
+  "question": "Theo quy định của Luật Đất đai năm 2024, nhận định nào sau đây là đúng?",
+  "a": "Tất cả đáp án đều sai.",
+  "b": "Trường hợp người sử dụng đất được chậm thực hiện nghĩa vụ tài chính hoặc được ghi nợ nghĩa vụ tài chính thì vẫn được thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, tặng cho quyền sử dụng đất, thế chấp, góp vốn bằng quyền sử dụng đất nhưng phải thực hiện xong nghĩa vụ tài chính trước khi đăng ký cho bên nhận chuyển đổi, nhận chuyển nhượng, bên thuê, bên thuê lại, bên nhận tặng cho, bên nhận thế chấp, bên nhận góp vốn bằng quyền sử dụng đất.",
+  "c": "Trường hợp người sử dụng đất được chậm thực hiện nghĩa vụ tài chính hoặc được ghi nợ nghĩa vụ tài chính thì phải thực hiện xong nghĩa vụ tài chính trước khi thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, tặng cho quyền sử dụng đất, thế chấp, góp vốn bằng quyền sử dụng đất.",
+  "d": "Trường hợp người sử dụng đất được chậm thực hiện nghĩa vụ tài chính hoặc được ghi nợ nghĩa vụ tài chính thì được thực hiện đồng thời nghĩa vụ tài chính với việc thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, tặng cho quyền sử dụng đất, thế chấp, góp vốn bằng quyền sử dụng đất.",
+  "answer": "b",
+  "explanation": "Khoản 4 Điều 45 Luật Đất đai 2024: 'Trường hợp người sử dụng đất được chậm thực hiện nghĩa vụ tài chính hoặc được ghi nợ nghĩa vụ tài chính thì được thực hiện các quyền của người sử dụng đất; phải thực hiện xong nghĩa vụ tài chính trước thời điểm đăng ký biến động đất đai hoặc đăng ký giao dịch bảo đảm đối với trường hợp thực hiện các quyền của người sử dụng đất'."
+},
+{
+  "question": "Theo quy định của Luật Đất đai năm 2024, nhận định nào về điều kiện để cá nhân được nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất trồng lúa là đúng?",
+  "a": "Trực tiếp sản xuất nông nghiệp và có nguồn thu nhập ổn định từ sản xuất nông nghiệp trên đất đó.",
+  "b": "Trực tiếp sản xuất nông nghiệp và có nguồn thu nhập ổn định từ sản xuất nông nghiệp; trường hợp quá hạn mức quy định thì phải thành lập tổ chức kinh tế và có phương án sử dụng đất trồng lúa.",
+  "c": "Không bắt buộc phải là người trực tiếp sản xuất nông nghiệp và không cần phải chứng minh có nguồn thu nhập ổn định từ sản xuất nông nghiệp trên đất đó nhưng nếu nhận chuyển nhượng quyền sử dụng đất trồng lúa vượt quá hạn mức quy định tại Điều 176 của Luật này thì phải thành lập tổ chức kinh tế và có phương án sử dụng đất trồng lúa, trừ trường hợp người nhận tặng cho là người thuộc hàng thừa kế.",
+  "d": "Đáp án a và b đúng, c sai.",
+  "answer": "c",
+  "explanation": "Khoản 7 Điều 45 Luật Đất đai 2024 quy định cá nhân không bắt buộc phải trực tiếp sản xuất nông nghiệp khi nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất trồng lúa. Trường hợp nhận chuyển nhượng đất trồng lúa vượt hạn mức quy định tại Điều 176 Luật Đất đai 2024 thì phải thành lập tổ chức kinh tế và có phương án sử dụng đất trồng lúa được UBND cấp có thẩm quyền phê duyệt; quy định này không áp dụng đối với người nhận tặng cho là người thuộc hàng thừa kế."
+},
+{
+  "question": "Việc tách thửa, hợp thửa đất phải bảo đảm các nguyên tắc, điều kiện nào sau:",
+  "a": "Các thửa đất sau khi tách thửa phải bảo đảm diện tích tối thiểu với loại đất đang sử dụng theo quy định của Ủy ban nhân dân cấp tỉnh",
+  "b": "Trường hợp thửa đất được tách có diện tích nhỏ hơn diện tích tối thiểu được phép tách thửa thì phải thực hiện đồng thời việc hợp thửa với thửa đất liền kề",
+  "c": "Đất không có tranh chấp, không bị kê biên để bảo đảm thi hành án, không bị áp dụng biện pháp khẩn cấp tạm thời của cơ quan nhà nước có thẩm quyền",
+  "d": "Tất cả đáp án đều đúng",
+  "answer": "d",
+  "explanation": "Luật Đất đai 2024 quy định việc tách thửa, hợp thửa phải đáp ứng đồng thời điều kiện về diện tích tối thiểu, xử lý trường hợp nhỏ hơn diện tích tối thiểu bằng hợp thửa, và tình trạng pháp lý của thửa đất (không tranh chấp, không kê biên, không bị áp dụng biện pháp khẩn cấp tạm thời)."
+},
+{
+  "question": "Theo quy định tại Luật Nhà ở năm 2023, trong Hợp đồng cho thuê nhà ở, các bên có được quyền thỏa thuận thời hạn thuê bắt đầu từ trước thời điểm Công chứng viên ký tên, đóng dấu của tổ chức hành nghề công chứng không?",
+  "a": "Được quyền thỏa thuận",
+  "b": "Không được quyền thỏa thuận vì luật không quy định",
+  "c": "Chỉ được thỏa thuận thời hạn thuê bắt đầu kể từ thời điểm Công chứng viên ký, đóng dấu tổ chức hành nghề công chứng",
+  "d": "Nếu một trong hai bên là tổ chức kinh doanh bất động sản thì được quyền thỏa thuận",
+  "answer": "a",
+  "explanation": "Luật Nhà ở 2023 và nguyên tắc tự do, tự nguyện giao kết hợp đồng theo Bộ luật Dân sự cho phép các bên thỏa thuận thời điểm có hiệu lực của hợp đồng thuê nhà, kể cả trước thời điểm công chứng, miễn không trái quy định bắt buộc của luật."
+},
+{
+  "question": "Góp vốn bằng quyền sử dụng đất là sự thỏa thuận giữa các bên về chuyển quyền sử dụng đất thông qua:",
+  "a": "việc góp quyền sử dụng đất để tạo thành vốn điều lệ của tổ chức kinh tế, bao gồm góp vốn để thành lập tổ chức kinh tế hoặc góp thêm vốn điều lệ của tổ chức kinh tế đã được thành lập",
+  "b": "việc góp quyền sử dụng đất để tạo thành vốn điều lệ của tổ chức, bao gồm góp vốn để thành lập tổ chức hoặc góp thêm vốn điều lệ của pháp nhân đã được thành lập",
+  "c": "việc góp quyền sử dụng đất để tạo thành vốn kinh doanh của tổ chức kinh tế, bao gồm góp vốn để thành lập tổ chức kinh tế hoặc góp thêm vốn kinh doanh của tổ chức kinh tế đã được thành lập",
+  "d": "Tất cả đáp án đều sai",
+  "answer": "a",
+  "explanation": "Luật Đất đai 2024 quy định góp vốn bằng quyền sử dụng đất là việc người sử dụng đất góp quyền sử dụng đất vào vốn điều lệ của tổ chức kinh tế, bao gồm góp để thành lập hoặc góp thêm vốn điều lệ của tổ chức kinh tế đã thành lập."
+},
+{
+  "question": "Người gốc Việt Nam định cư ở nước ngoài được phép nhập cảnh vào Việt Nam thì:",
+  "a": "được sở hữu nhà ở gắn liền với quyền sử dụng đất ở tại Việt Nam",
+  "b": "Tất cả các đáp án",
+  "c": "Chuyển quyền sử dụng đất ở khi bán, tặng cho, để thừa kế, đổi nhà ở cho tổ chức, cá nhân, người gốc Việt Nam định cư ở nước ngoài thuộc đối tượng được sở hữu nhà ở tại Việt Nam",
+  "d": "có quyền sử dụng đất ở do nhận chuyển quyền sử dụng đất ở trong các dự án phát triển nhà ở",
+  "answer": "b",
+  "explanation": "Luật Đất đai 2024 và Luật Nhà ở 2023 ghi nhận người gốc Việt Nam định cư ở nước ngoài được phép nhập cảnh có quyền sở hữu nhà ở gắn liền với quyền sử dụng đất ở; được nhận chuyển quyền sử dụng đất ở trong dự án phát triển nhà ở; và được thực hiện các quyền định đoạt theo quy định đối với nhà ở thuộc sở hữu hợp pháp."
+},
+{
+  "question": "Theo quy định của Luật Đất đai năm 2024, hợp tác sản xuất, kinh doanh bằng quyền sử dụng đất là:",
+  "a": "Sự thỏa thuận giữa các bên, theo đó người sử dụng đất dùng quyền sử dụng đất của mình để hợp tác sản xuất, kinh doanh mà không làm thay đổi quyền sử dụng đất của người sử dụng đất",
+  "b": "Sự thỏa thuận giữa các bên về chuyển quyền sử dụng đất của người sử dụng đất để hợp tác sản xuất, kinh doanh",
+  "c": "Sự thỏa thuận giữa các bên, theo đó người sử dụng đất dùng quyền sử dụng đất của mình để hợp tác sản xuất, kinh doanh để thành lập tổ chức kinh tế hoặc góp thêm vốn điều lệ của tổ chức kinh tế đã được thành lập",
+  "d": "Đáp án a và b đúng, c sai",
+  "answer": "c",
+  "explanation": "Luật Đất đai 2024 quy định hợp tác sản xuất, kinh doanh bằng quyền sử dụng đất là việc người sử dụng đất dùng quyền sử dụng đất để góp vốn hợp tác, bao gồm góp để thành lập tổ chức kinh tế hoặc góp thêm vốn điều lệ của tổ chức kinh tế đã thành lập, không làm thay đổi quyền sử dụng đất theo hướng chuyển quyền."
+},
+{
+  "question": "Theo quy định của Luật Đất đai năm 2024, các trường hợp nào không được nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất sau đây:",
+  "a": "3 Tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư, cơ sở tôn giáo, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài không được nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất đối với trường hợp mà pháp luật không cho phép chuyển nhượng, tặng cho quyền sử dụng đất",
+  "b": "1 Tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư, cơ sở tôn giáo, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài không được nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất",
+  "c": "2 Tổ chức, cá nhân, cộng đồng dân cư, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài mà pháp luật không cho phép nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất",
+  "d": "Đáp án 3 và 2 đúng, 1 sai",
+  "answer": "d",
+  "explanation": "Luật Đất đai 2024 quy định việc không được nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất áp dụng đối với các chủ thể trong trường hợp pháp luật không cho phép chuyển nhượng hoặc tặng cho quyền sử dụng đất, phản ánh nội dung tổng hợp của cả phương án a và c."
+},
+  {
+    "question": "Hành vi nào sau đây bị nghiêm cấm trong kinh doanh bất động sản?",
+    "a": "Gian lận, lừa dối, lừa đảo trong kinh doanh bất động sản",
+    "b": "Kinh doanh bất động sản đáp ứng đủ điều kiện theo quy định của pháp luật",
+    "c": "Công khai thông tin về bất động sản, dự án bất động sản đưa vào kinh doanh theo quy định của pháp luật",
+    "d": "Thực hiện đầy đủ nghĩa vụ tài chính đối với Nhà nước",
+    "answer": "a",
+    "explanation": "Luật Kinh doanh bất động sản 2023 nghiêm cấm hành vi gian lận, lừa dối, lừa đảo trong kinh doanh bất động sản."
+  },
+  {
+    "question": "Cá nhân tại khu vực nông thôn thực hiện xây dựng nhà ở theo phương thức nào?",
+    "a": "Tự tổ chức xây dựng hoặc thuê tổ chức, cá nhân khác xây dựng hoặc được hỗ trợ xây dựng",
+    "b": "Thuê đơn vị có năng lực xây dựng theo pháp luật xây dựng",
+    "c": "Thu gom đất nông nghiệp, phân lô bán nền",
+    "d": "Chỉ a và b đúng, c sai",
+    "answer": "d",
+    "explanation": "Luật Nhà ở 2023 chỉ cho phép tự xây hoặc thuê đơn vị có năng lực, không cho phép phân lô bán nền trái quy định."
+  },
+  {
+    "question": "Người gốc Việt Nam định cư ở nước ngoài được phép nhập cảnh vào Việt Nam:",
+    "a": "Thế chấp tại tổ chức tín dụng",
+    "b": "Thế chấp tại tổ chức tín dụng hoặc tổ chức kinh tế",
+    "c": "Thế chấp tại cá nhân, tổ chức tín dụng hoặc tổ chức kinh tế",
+    "d": "Tất cả sai",
+    "answer": "a",
+    "explanation": "Luật Nhà ở 2023 quy định thế chấp nhà ở chỉ được thực hiện tại tổ chức tín dụng được phép hoạt động tại Việt Nam."
+  },
+  {
+    "question": "Chủ sở hữu nhà ở đang cho thuê có quyền thế chấp không?",
+    "a": "Phải thông báo cho bên thuê và bên nhận thế chấp",
+    "b": "Không cần thông báo",
+    "c": "Chỉ thông báo bên thuê",
+    "d": "Sai hết",
+    "answer": "a",
+    "explanation": "Luật Nhà ở 2023 yêu cầu thông báo cho cả bên thuê và bên nhận thế chấp khi thế chấp nhà đang cho thuê."
+  },
+  {
+    "question": "Người mua nhà ở khi chủ đầu tư đang làm thủ tục cấp Giấy chứng nhận thì:",
+    "a": "Không được bán",
+    "b": "Được bán",
+    "c": "Được bán nếu có xác nhận chủ đầu tư",
+    "d": "Phải chờ cấp GCN mới được bán",
+    "answer": "d",
+    "explanation": "Luật Nhà ở 2023 quy định chỉ được chuyển nhượng khi đã có Giấy chứng nhận."
+  },
+  {
+    "question": "Môi giới bất động sản bao gồm:",
+    "a": "Trung gian mua bán",
+    "b": "Trung gian cho thuê",
+    "c": "Trung gian mua bán, chuyển nhượng, thuê, thuê lại, thuê mua",
+    "d": "Tư vấn pháp lý",
+    "answer": "c",
+    "explanation": "Luật KDBĐS 2023 quy định môi giới bao gồm toàn bộ hoạt động trung gian bất động sản."
+  },
+  {
+    "question": "Người nước ngoài không nhập cảnh nhưng được thừa kế nhà ở tại Việt Nam chỉ được:",
+    "a": "Bán/tặng/đổi/thừa kế",
+    "b": "Bán/tặng",
+    "c": "Bán/tặng/đổi",
+    "d": "Bán/tặng/đổi hoặc để thừa kế Nhà nước",
+    "answer": "c",
+    "explanation": "Luật Nhà ở 2023 giới hạn quyền định đoạt của người không đủ điều kiện sở hữu nhà ở."
+  },
+  {
+    "question": "Thẩm quyền quy định kinh phí hệ thống thông tin BĐS thuộc:",
+    "a": "Bộ Xây dựng",
+    "b": "Bộ GDĐT",
+    "c": "Bộ KHĐT",
+    "d": "Bộ Tài chính",
+    "answer": "a",
+    "explanation": "Luật KDBĐS 2023 giao Bộ Xây dựng quản lý hệ thống thông tin và cơ sở dữ liệu BĐS."
+  },
+  {
+    "question": "Khi hết thời hạn sở hữu nhà ở có thời hạn:",
+    "a": "GCN hết giá trị",
+    "b": "Tòa án quyết định",
+    "c": "Trừ trường hợp luật khác",
+    "d": "GCN vẫn còn hiệu lực",
+    "answer": "c",
+    "explanation": "Luật Nhà ở 2023 quy định theo thỏa thuận và pháp luật liên quan, trừ trường hợp luật khác quy định."
+  },
+  {
+    "question": "Tư vấn bất động sản là:",
+    "a": "Tư vấn giúp giao dịch BĐS",
+    "b": "Tư vấn có thu phí",
+    "c": "Tư vấn nhà đất",
+    "d": "Tư vấn liên quan kinh doanh bất động sản theo yêu cầu",
+    "answer": "d",
+    "explanation": "Luật KDBĐS 2023 định nghĩa tư vấn bất động sản là hoạt động tư vấn liên quan đến kinh doanh BĐS theo yêu cầu."
+  },
+  {
+    "question": "Cá nhân kinh doanh bất động sản quy mô nhỏ:",
+    "a": "Phải lập công ty",
+    "b": "Không bắt buộc lập công ty",
+    "c": "Phải có bảo lãnh",
+    "d": "Sai hết",
+    "answer": "b",
+    "explanation": "Luật KDBĐS 2023 cho phép cá nhân quy mô nhỏ không bắt buộc thành lập doanh nghiệp."
+  },
+  {
+    "question": "Chọn đáp án sai về chuyển nhượng dự án bất động sản:",
+    "a": "Không phải làm lại hồ sơ nếu không đổi nội dung",
+    "b": "Không thay đổi quy hoạch",
+    "c": "Bên nhận kế thừa quyền nghĩa vụ",
+    "d": "Chuyển nhượng khi hết thời hạn dự án",
+    "answer": "d",
+    "explanation": "Luật KDBĐS 2023 không cho phép chuyển nhượng dự án khi đã hết thời hạn thực hiện."
+  },
+  {
     "question": "Thỏa thuận: bên mang thai hộ phải chi trả toàn bộ chi phí chăm sóc và trả công cho người mang thai hộ trong thời gian chưa bàn giao trẻ. Thỏa thuận này hợp pháp hay không?",
     "a": "Hợp pháp",
     "b": "Không hợp pháp",
