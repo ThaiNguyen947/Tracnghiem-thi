@@ -27,14 +27,14 @@
     "explanation": "Công chứng không phụ thuộc địa hạt trong trường hợp này, công chứng viên tổ chức hành nghề công chứng trên toàn quốc đều có thẩm quyền."
   },
   {
-    "question": "Anh A và chị B thỏa thuận: khi ly hôn, người có lỗi sẽ không được chia tài sản. Nhận định này đúng hay sai?",
-    "a": "Đúng",
-    "b": "Sai",
-    "c": "Hợp pháp",
-    "d": "Có thể áp dụng",
-    "answer": "b",
-    "explanation": "Luật Hôn nhân và Gia đình không chia tài sản theo lỗi, mà theo nguyên tắc chia đôi có tính đến công sức đóng góp và hoàn cảnh."
-  },
+  "question": "Theo Luật Hôn nhân và gia đình 2014, khi chia tài sản chung của vợ chồng khi ly hôn, Tòa án có xem xét lỗi của mỗi bên hay không?",
+  "a": "Không xem xét",
+  "b": "Có xem xét",
+  "c": "Chỉ xem xét khi có yêu cầu",
+  "d": "Chỉ xem xét nếu có tài sản chung",
+  "answer": "b",
+  "explanation": "Điểm d khoản 2 Điều 59 Luật Hôn nhân và gia đình 2014 quy định khi chia tài sản phải xem xét lỗi của mỗi bên trong việc vi phạm quyền, nghĩa vụ của vợ chồng."
+},
   {
     "question": "A trước hôn nhân được tặng nhà, sau đó dùng tiền cho thuê xây nhà trên đất chung. Kết luận nào sau đây không đúng?",
     "a": "Nhà đất đều là tài sản chung",
@@ -72,23 +72,22 @@
     "explanation": "Tài sản riêng thuộc quyền định đoạt của chủ sở hữu, trừ trường hợp nhập vào tài sản chung."
   },
   {
-    "question": "Người chưa có chồng có được mang thai hộ vì mục đích nhân đạo không?",
-    "a": "Có",
-    "b": "Không",
-    "c": "Tùy trường hợp",
-    "d": "Cần chồng đồng ý",
-    "answer": "a",
-    "explanation": "Người mang thai hộ không bắt buộc phải có chồng; điều kiện là đã từng sinh con và đáp ứng sức khỏe."
-  },
+  "question": "Người phụ nữ không có chồng có được mang thai hộ vì mục đích nhân đạo nếu đáp ứng đầy đủ điều kiện luật định không?",
+  "a": "Có",
+  "b": "Không",
+  "c": "Chỉ khi được UBND xã đồng ý",
+  "d": "Chỉ khi có quyết định của Tòa án",
+  "answer": "a"
+},
   {
-    "question": "A và B (19 tuổi và 18 tuổi) có được lập văn bản thỏa thuận chế độ tài sản vợ chồng khi đang độc thân không?",
-    "a": "Có",
-    "b": "Không",
-    "c": "Chỉ với tài sản bất động sản",
-    "d": "Chỉ khi đã kết hôn",
-    "answer": "b",
-    "explanation": "Văn bản thỏa thuận chế độ tài sản vợ chồng chỉ được lập khi đã xác lập quan hệ hôn nhân."
-  },
+  "question": "Nam 19 tuổi và nữ 18 tuổi, đủ điều kiện kết hôn theo Luật Hôn nhân và gia đình 2014, có được lập văn bản thỏa thuận xác lập chế độ tài sản trước khi kết hôn không?",
+  "a": "Có",
+  "b": "Không",
+  "c": "Chỉ sau khi đăng ký kết hôn",
+  "d": "Chỉ khi có tài sản chung",
+  "answer": "a",
+  "explanation": "Khoản 1 Điều 47 Luật Hôn nhân và gia đình 2014 quy định thỏa thuận xác lập chế độ tài sản của vợ chồng phải được lập trước khi kết hôn bằng văn bản có công chứng hoặc chứng thực."
+},
   {
     "question": "Việc mang thai hộ có được lập thành văn bản có công chứng không?",
     "a": "Có, bắt buộc công chứng",
@@ -414,14 +413,14 @@
     "explanation": "Không được ghi các nội dung loại trừ quyền bình đẳng hoặc trái quy định pháp luật."
   },
   {
-    "question": "Nhà xây trên đất riêng bằng tiền chung là tài sản gì?",
-    "a": "Tài sản riêng",
-    "b": "Tài sản chung",
-    "c": "Tùy sự thỏa thuận",
-    "d": "Tài sản của người đứng tên",
-    "answer": "b",
-    "explanation": "Tài sản hình thành trong thời kỳ hôn nhân từ nguồn lực chung là tài sản chung."
-  },
+  "question": "Nhà được xây trong thời kỳ hôn nhân trên đất là tài sản riêng của chồng bằng nguồn tiền chung của vợ chồng thì được xác định như thế nào?",
+  "a": "Đất là tài sản riêng, nhà là tài sản chung",
+  "b": "Nhà và đất đều là tài sản riêng",
+  "c": "Nhà và đất đều là tài sản chung",
+  "d": "Toàn bộ thuộc người đứng tên",
+  "answer": "a",
+  "explanation": "Quyền sử dụng đất vẫn là tài sản riêng; giá trị căn nhà được tạo lập từ tài sản chung nên là tài sản chung, trừ trường hợp có thỏa thuận khác."
+},
   {
     "question": "Xe ô tô mua bằng tiền bồi thường thiệt hại sức khỏe là tài sản gì?",
     "a": "Tài sản riêng",
@@ -476,15 +475,15 @@
     "answer": "b",
     "explanation": "Người mang thai hộ bắt buộc phải là người đã từng sinh con theo quy định y tế."
   },
-  {
-    "question": "Anh A 19 tuổi và chị B 18 tuổi lập thỏa thuận tài sản có hợp pháp không?",
-    "a": "Có",
-    "b": "Không",
-    "c": "Chỉ khi có cha mẹ bảo lãnh",
-    "d": "Chỉ áp dụng với động sản",
-    "answer": "b",
-    "explanation": "Phải là vợ chồng hợp pháp theo Luật Hôn nhân và Gia đình mới được xác lập chế độ tài sản vợ chồng."
-  },
+ {
+  "question": "Nam 19 tuổi và nữ 18 tuổi đủ điều kiện kết hôn có được lập văn bản thỏa thuận chế độ tài sản trước khi kết hôn không?",
+  "a": "Có",
+  "b": "Không",
+  "c": "Chỉ khi được cha mẹ đồng ý",
+  "d": "Chỉ khi có bất động sản",
+  "answer": "a",
+  "explanation": "Điều 47 Luật Hôn nhân và gia đình 2014 cho phép các bên xác lập chế độ tài sản bằng thỏa thuận trước khi kết hôn."
+},
   {
     "question": "Thỏa thuận yêu cầu người mang thai hộ chăm con 2 tháng sau sinh?",
     "a": "Hợp pháp",
@@ -540,14 +539,14 @@
     "explanation": "Thỏa thuận chỉ có hiệu lực từ thời điểm đăng ký kết hôn hợp pháp."
   },
   {
-    "question": "Điều kiện về người nhờ mang thai hộ?",
-    "a": "Không có con chung",
-    "b": "Đã có con nhưng mắc bệnh",
-    "c": "Vợ không thể mang thai",
-    "d": "Tất cả đều đúng",
-    "answer": "d",
-    "explanation": "Luật cho phép mang thai hộ trong các trường hợp đặc biệt đã được quy định cụ thể."
-  },
+  "question": "Theo Luật Hôn nhân và gia đình 2014, điều kiện của vợ chồng nhờ mang thai hộ vì mục đích nhân đạo là gì?",
+  "a": "Đang không có con chung",
+  "b": "Người vợ không thể mang thai và sinh con ngay cả khi áp dụng kỹ thuật hỗ trợ sinh sản",
+  "c": "Đã được tư vấn về y tế, pháp lý và tâm lý",
+  "d": "Cả a, b và c đều đúng",
+  "answer": "d",
+  "explanation": "Khoản 2 Điều 95 Luật Hôn nhân và gia đình 2014 quy định đồng thời phải đáp ứng đủ cả ba điều kiện trên."
+},
   {
     "question": "Đại sứ quán có được công chứng thỏa thuận mang thai hộ?",
     "a": "Có",
