@@ -1078,15 +1078,15 @@
     "answer": "d",
     "explanation": "Đây là các nguyên tắc cơ bản trong quan hệ sở hữu tài sản vợ chồng."
   },
-  {
-    "question": "Thu nhập hợp pháp khác của vợ chồng bao gồm:",
-    "a": "Tiền lương, tiền công.",
-    "b": "Tiền thưởng, trúng thưởng xổ số.",
-    "c": "Lợi tức phát sinh từ tài sản riêng.",
-    "d": "Cả a và b đúng.",
-    "answer": "d",
-    "explanation": "Thu nhập hợp pháp khác bao gồm các khoản tiền ngoài lương như thưởng, trúng thưởng."
-  },
+ {
+  "question": "Thu nhập hợp pháp khác của vợ chồng bao gồm:",
+  "a": "Tiền lương, tiền công.",
+  "b": "Tiền thưởng, trúng thưởng xổ số.",
+  "c": "Lợi tức phát sinh từ tài sản riêng.",
+  "d": "Cả a và b đúng.",
+  "answer": "b",
+  "explanation": "Theo Điều 9 Nghị định 126/2014/NĐ-CP, thu nhập hợp pháp khác của vợ chồng bao gồm tiền thưởng, tiền trúng thưởng xổ số, tiền trợ cấp (trừ trường hợp pháp luật quy định khác), tài sản được xác lập quyền sở hữu theo quy định của Bộ luật Dân sự và các khoản thu nhập hợp pháp khác. Tiền lương, tiền công là thu nhập do lao động; lợi tức phát sinh từ tài sản riêng không phải là 'thu nhập hợp pháp khác'."
+},
   {
     "question": "Tài sản chung của vợ chồng bao gồm:",
     "a": "Tài sản do vợ, chồng tạo ra trong thời kỳ hôn nhân.",
