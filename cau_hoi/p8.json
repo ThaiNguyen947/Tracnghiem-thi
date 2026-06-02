@@ -1,4 +1,562 @@
 [
+ {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam công nhận công dân Việt Nam có quốc tịch nào?",
+    "a": "Có thể đồng thời có nhiều quốc tịch",
+    "b": "Có một quốc tịch là quốc tịch Việt Nam, trừ trường hợp luật có quy định khác",
+    "c": "Có hai quốc tịch",
+    "d": "Có quốc tịch Việt Nam hoặc quốc tịch nước ngoài",
+    "answer": "b",
+    "explanation": "Điều 4 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam công nhận công dân Việt Nam có một quốc tịch là quốc tịch Việt Nam, trừ trường hợp Luật này có quy định khác'. Do đó đáp án đúng là B."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, giấy tờ nào sau đây có giá trị chứng minh quốc tịch Việt Nam?",
+    "a": "Giấy khai sinh",
+    "b": "Hộ chiếu Việt Nam",
+    "c": "CMND/CCCD",
+    "d": "Cả a, b và c đều đúng",
+    "answer": "d",
+    "explanation": "Khoản 1, 2 và 3 Điều 11 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định các giấy tờ chứng minh quốc tịch Việt Nam gồm: 'Giấy khai sinh'; 'Giấy chứng minh nhân dân'; 'Hộ chiếu Việt Nam'. Vì cả ba loại giấy tờ đều được luật quy định nên đáp án đúng là D."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, trường hợp nào sau đây cũng là giấy tờ chứng minh quốc tịch Việt Nam?",
+    "a": "Quyết định cho nhập quốc tịch Việt Nam",
+    "b": "Giấy phép lao động",
+    "c": "Thẻ thường trú",
+    "d": "Giấy xác nhận cư trú",
+    "answer": "a",
+    "explanation": "Khoản 4 Điều 11 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định các quyết định như: 'Quyết định cho nhập quốc tịch Việt Nam, Quyết định cho trở lại quốc tịch Việt Nam...' là giấy tờ chứng minh quốc tịch Việt Nam. Do đó đáp án đúng là A."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, trẻ em sinh ra trong hoặc ngoài lãnh thổ Việt Nam mà khi sinh ra có cha mẹ đều là công dân Việt Nam thì:",
+    "a": "Có quốc tịch Việt Nam",
+    "b": "Có quốc tịch theo nơi sinh",
+    "c": "Do cha mẹ lựa chọn",
+    "d": "Do cơ quan hộ tịch quyết định",
+    "answer": "a",
+    "explanation": "Điều 15 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Trẻ em sinh ra trong hoặc ngoài lãnh thổ Việt Nam mà khi sinh ra có cha mẹ đều là công dân Việt Nam thì có quốc tịch Việt Nam'. Do đó đáp án đúng là A."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, trẻ em sinh ra có cha hoặc mẹ là công dân Việt Nam, người kia là người không quốc tịch thì:",
+    "a": "Có quốc tịch Việt Nam",
+    "b": "Không quốc tịch",
+    "c": "Theo thỏa thuận cha mẹ",
+    "d": "Theo nơi sinh",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 16 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Trẻ em sinh ra ... có cha hoặc mẹ là công dân Việt Nam còn người kia là người không quốc tịch ... thì có quốc tịch Việt Nam'. Do đó đáp án đúng là A."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, trẻ em khi sinh ra có cha hoặc mẹ là công dân Việt Nam, người kia là công dân nước ngoài thì có quốc tịch Việt Nam khi nào?",
+    "a": "Khi có sự thỏa thuận bằng văn bản của cha mẹ vào thời điểm đăng ký khai sinh",
+    "b": "Khi sinh ra tại Việt Nam",
+    "c": "Khi cha là người Việt Nam",
+    "d": "Khi mẹ là người Việt Nam",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 16 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Trẻ em khi sinh ra có cha hoặc mẹ là công dân Việt Nam còn người kia là công dân nước ngoài thì có quốc tịch Việt Nam, nếu có sự thỏa thuận bằng văn bản của cha mẹ vào thời điểm đăng ký khai sinh cho con'. Do đó đáp án đúng là A."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, trẻ em sinh ra trên lãnh thổ Việt Nam có cha hoặc mẹ là công dân Việt Nam, người kia là công dân nước ngoài, nhưng cha mẹ không thỏa thuận được việc lựa chọn quốc tịch cho con thì:",
+    "a": "Có quốc tịch của cha",
+    "b": "Có quốc tịch của mẹ",
+    "c": "Có quốc tịch Việt Nam",
+    "d": "Không quốc tịch",
+    "answer": "c",
+    "explanation": "Đoạn 2 khoản 2 Điều 16 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Trường hợp trẻ em được sinh ra trên lãnh thổ Việt Nam mà cha mẹ không thỏa thuận được việc lựa chọn quốc tịch cho con thì trẻ em đó có quốc tịch Việt Nam'. Do đó đáp án đúng là C."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, trẻ sơ sinh bị bỏ rơi, trẻ em được tìm thấy trên lãnh thổ Việt Nam mà không rõ cha mẹ là ai thì:",
+    "a": "Có quốc tịch Việt Nam",
+    "b": "Không quốc tịch",
+    "c": "Chờ xác định quốc tịch",
+    "d": "Do UBND cấp xã quyết định",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 18 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Trẻ sơ sinh bị bỏ rơi, trẻ em được tìm thấy trên lãnh thổ Việt Nam mà không rõ cha mẹ là ai thì có quốc tịch Việt Nam'. Do đó đáp án đúng là A."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, điều kiện nào sau đây là điều kiện để được nhập quốc tịch Việt Nam?",
+    "a": "Có năng lực hành vi dân sự đầy đủ theo quy định của pháp luật Việt Nam",
+    "b": "Có bằng đại học",
+    "c": "Có nhà ở tại Việt Nam",
+    "d": "Có tài sản tại Việt Nam",
+    "answer": "a",
+    "explanation": "Điểm a khoản 1 Điều 19 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định người xin nhập quốc tịch Việt Nam phải: 'Có năng lực hành vi dân sự đầy đủ theo quy định của pháp luật Việt Nam'. Do đó đáp án đúng là A."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, người xin nhập quốc tịch Việt Nam phải biết tiếng Việt nhằm mục đích gì?",
+    "a": "Để làm việc trong cơ quan nhà nước",
+    "b": "Đủ để hòa nhập vào cộng đồng Việt Nam",
+    "c": "Để thi quốc tịch",
+    "d": "Để được cấp hộ chiếu",
+    "answer": "b",
+    "explanation": "Điểm c khoản 1 Điều 19 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định điều kiện nhập quốc tịch là: 'Biết tiếng Việt đủ để hòa nhập vào cộng đồng Việt Nam'. Do đó đáp án đúng là B."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, người xin nhập quốc tịch Việt Nam phải thường trú ở Việt Nam từ bao nhiêu năm trở lên tính đến thời điểm xin nhập quốc tịch?",
+    "a": "03 năm",
+    "b": "04 năm",
+    "c": "05 năm",
+    "d": "10 năm",
+    "answer": "c",
+    "explanation": "Điểm d khoản 1 Điều 19 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Đã thường trú ở Việt Nam từ 5 năm trở lên tính đến thời điểm xin nhập quốc tịch Việt Nam'. Do đó đáp án đúng là C."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, người xin nhập quốc tịch Việt Nam phải có điều kiện nào sau đây?",
+    "a": "Có khả năng bảo đảm cuộc sống tại Việt Nam",
+    "b": "Có bằng đại học",
+    "c": "Có nhà ở thuộc sở hữu",
+    "d": "Có việc làm ổn định",
+    "answer": "a",
+    "explanation": "Điểm đ khoản 1 Điều 19 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định điều kiện nhập quốc tịch là: 'Có khả năng bảo đảm cuộc sống tại Việt Nam'. Do đó đáp án đúng là A."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, trường hợp nào được miễn các điều kiện về tiếng Việt, thời gian thường trú và khả năng bảo đảm cuộc sống?",
+    "a": "Là vợ, chồng, cha đẻ, mẹ đẻ hoặc con đẻ của công dân Việt Nam",
+    "b": "Có giấy phép lao động",
+    "c": "Có thẻ thường trú",
+    "d": "Có thời gian cư trú từ 03 năm",
+    "answer": "a",
+    "explanation": "Điểm a khoản 2 Điều 19 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định người là: 'vợ, chồng, cha đẻ, mẹ đẻ hoặc con đẻ của công dân Việt Nam' được miễn các điều kiện quy định tại các điểm c, d và đ khoản 1 Điều 19. Do đó đáp án đúng là A."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, người xin nhập quốc tịch Việt Nam phải có tên gọi như thế nào?",
+    "a": "Tên gọi Việt Nam",
+    "b": "Tên quốc tế",
+    "c": "Tên theo quốc tịch gốc",
+    "d": "Không bắt buộc",
+    "answer": "a",
+    "explanation": "Khoản 4 Điều 19 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Người xin nhập quốc tịch Việt Nam phải có tên gọi Việt Nam'. Do đó đáp án đúng là A."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, người đã mất quốc tịch Việt Nam có thể được trở lại quốc tịch Việt Nam nếu thuộc trường hợp nào sau đây?",
+    "a": "Xin hồi hương về Việt Nam",
+    "b": "Có vợ, chồng là công dân Việt Nam",
+    "c": "Thực hiện đầu tư tại Việt Nam",
+    "d": "Cả a, b và c đều đúng",
+    "answer": "d",
+    "explanation": "Khoản 1 Điều 23 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định người đã mất quốc tịch Việt Nam có thể được trở lại quốc tịch Việt Nam nếu thuộc một trong các trường hợp: (a) xin hồi hương về Việt Nam; (b) có vợ, chồng, cha đẻ, mẹ đẻ hoặc con đẻ là công dân Việt Nam; (đ) thực hiện đầu tư tại Việt Nam. Do đó đáp án đúng là D."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, trường hợp nào là căn cứ để được xem xét trở lại quốc tịch Việt Nam?",
+    "a": "Đã thôi quốc tịch Việt Nam để nhập quốc tịch nước ngoài nhưng không được nhập quốc tịch nước ngoài",
+    "b": "Đã từng cư trú tại Việt Nam",
+    "c": "Có giấy phép lao động tại Việt Nam",
+    "d": "Có thân nhân đang ở Việt Nam",
+    "answer": "a",
+    "explanation": "Điểm e khoản 1 Điều 23 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định trường hợp được xem xét trở lại quốc tịch Việt Nam là: 'Đã thôi quốc tịch Việt Nam để nhập quốc tịch nước ngoài, nhưng không được nhập quốc tịch nước ngoài'. Do đó đáp án đúng là A."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, người xin trở lại quốc tịch Việt Nam không được trở lại quốc tịch Việt Nam trong trường hợp nào?",
+    "a": "Việc trở lại quốc tịch làm phương hại đến lợi ích quốc gia của Việt Nam",
+    "b": "Đã trên 60 tuổi",
+    "c": "Đang cư trú ở nước ngoài",
+    "d": "Không còn người thân tại Việt Nam",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 23 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Người xin trở lại quốc tịch Việt Nam không được trở lại quốc tịch Việt Nam, nếu việc đó làm phương hại đến lợi ích quốc gia của Việt Nam'. Do đó đáp án đúng là A."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, người bị tước quốc tịch Việt Nam muốn xin trở lại quốc tịch Việt Nam phải sau ít nhất bao nhiêu năm kể từ ngày bị tước quốc tịch?",
+    "a": "02 năm",
+    "b": "03 năm",
+    "c": "05 năm",
+    "d": "10 năm",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 23 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Trường hợp người bị tước quốc tịch Việt Nam xin trở lại quốc tịch Việt Nam thì phải sau ít nhất 5 năm, kể từ ngày bị tước quốc tịch mới được xem xét cho trở lại quốc tịch Việt Nam'. Do đó đáp án đúng là C."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, người xin trở lại quốc tịch Việt Nam phải lấy lại tên gọi nào?",
+    "a": "Tên gọi Việt Nam trước đây",
+    "b": "Tên gọi do Chủ tịch nước lựa chọn",
+    "c": "Tên khai sinh hiện tại",
+    "d": "Không bắt buộc về tên gọi",
+    "answer": "a",
+    "explanation": "Khoản 4 Điều 23 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Người xin trở lại quốc tịch Việt Nam phải lấy lại tên gọi Việt Nam trước đây'. Do đó đáp án đúng là A."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, nguyên tắc chung đối với người được trở lại quốc tịch Việt Nam là gì?",
+    "a": "Phải thôi quốc tịch nước ngoài",
+    "b": "Được đương nhiên giữ quốc tịch nước ngoài",
+    "c": "Được mang nhiều quốc tịch",
+    "d": "Không cần khai báo quốc tịch hiện có",
+    "answer": "a",
+    "explanation": "Khoản 5 Điều 23 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Người được trở lại quốc tịch Việt Nam thì phải thôi quốc tịch nước ngoài', trừ các trường hợp đặc biệt được Chủ tịch nước cho phép. Do đó đáp án đúng là A."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, trường hợp nào có thể được giữ quốc tịch nước ngoài khi trở lại quốc tịch Việt Nam nếu được Chủ tịch nước cho phép?",
+    "a": "Là vợ, chồng, cha đẻ, mẹ đẻ hoặc con đẻ của công dân Việt Nam",
+    "b": "Có công lao đặc biệt đóng góp cho sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam",
+    "c": "Có lợi cho Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+    "d": "Cả a, b và c đều đúng",
+    "answer": "d",
+    "explanation": "Các điểm a, b, c khoản 5 Điều 23 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định 03 trường hợp có thể được giữ quốc tịch nước ngoài khi trở lại quốc tịch Việt Nam nếu được Chủ tịch nước cho phép. Do đó đáp án đúng là D."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, hồ sơ xin trở lại quốc tịch Việt Nam phải có giấy tờ nào chứng minh người xin trở lại quốc tịch đã từng có quốc tịch Việt Nam?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Chỉ khi cư trú ở nước ngoài",
+    "d": "Chỉ khi bị tước quốc tịch",
+    "answer": "a",
+    "explanation": "Điểm đ khoản 1 Điều 24 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định hồ sơ xin trở lại quốc tịch Việt Nam phải có: 'Giấy tờ chứng minh người xin trở lại quốc tịch Việt Nam đã từng có quốc tịch Việt Nam'. Do đó đáp án đúng là A."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, phiếu lý lịch tư pháp trong hồ sơ xin trở lại quốc tịch Việt Nam phải được cấp không quá bao nhiêu ngày tính đến ngày nộp hồ sơ?",
+    "a": "30 ngày",
+    "b": "60 ngày",
+    "c": "90 ngày",
+    "d": "120 ngày",
+    "answer": "c",
+    "explanation": "Điểm d khoản 1 Điều 24 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Phiếu lý lịch tư pháp phải là phiếu được cấp không quá 90 ngày tính đến ngày nộp hồ sơ'. Do đó đáp án đúng là C."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, người xin trở lại quốc tịch Việt Nam đang cư trú trong nước nộp hồ sơ ở đâu?",
+    "a": "Bộ Tư pháp",
+    "b": "Sở Tư pháp nơi cư trú",
+    "c": "UBND cấp huyện",
+    "d": "Cơ quan công an",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 25 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Người xin trở lại quốc tịch Việt Nam nếu cư trú ở trong nước thì nộp hồ sơ cho Sở Tư pháp nơi cư trú'. Do đó đáp án đúng là B."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, người xin trở lại quốc tịch Việt Nam đang cư trú ở nước ngoài nộp hồ sơ ở đâu?",
+    "a": "Bộ Ngoại giao",
+    "b": "Bộ Tư pháp",
+    "c": "Cơ quan đại diện Việt Nam ở nước sở tại",
+    "d": "UBND cấp tỉnh",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 25 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Người xin trở lại quốc tịch Việt Nam ... cư trú ở nước ngoài thì nộp hồ sơ cho cơ quan đại diện Việt Nam ở nước sở tại'. Do đó đáp án đúng là C."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, trong thời hạn bao nhiêu ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp gửi văn bản đề nghị cơ quan Công an cấp tỉnh xác minh về nhân thân?",
+    "a": "03 ngày",
+    "b": "05 ngày",
+    "c": "07 ngày",
+    "d": "10 ngày",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 25 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Trong thời hạn 5 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp gửi văn bản đề nghị cơ quan Công an cấp tỉnh xác minh về nhân thân'. Do đó đáp án đúng là B."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, cơ quan Công an cấp tỉnh có trách nhiệm xác minh và gửi kết quả đến Sở Tư pháp trong thời hạn bao nhiêu ngày kể từ ngày nhận được đề nghị?",
+    "a": "10 ngày",
+    "b": "15 ngày",
+    "c": "20 ngày",
+    "d": "30 ngày",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 25 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Trong thời hạn 20 ngày, kể từ ngày nhận được đề nghị của Sở Tư pháp, cơ quan Công an cấp tỉnh có trách nhiệm xác minh và gửi kết quả đến Sở Tư pháp'. Do đó đáp án đúng là C."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, cơ quan nào là chủ thể cuối cùng quyết định cho trở lại quốc tịch Việt Nam?",
+    "a": "Bộ Tư pháp",
+    "b": "Chính phủ",
+    "c": "Chủ tịch nước",
+    "d": "UBND cấp tỉnh",
+    "answer": "c",
+    "explanation": "Khoản 5 Điều 25 kết hợp khoản 1 Điều 38 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định Chủ tịch nước là người xem xét, quyết định việc cho trở lại quốc tịch Việt Nam. Do đó đáp án đúng là C."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, quốc tịch Việt Nam bị mất trong trường hợp nào sau đây?",
+    "a": "Được thôi quốc tịch Việt Nam",
+    "b": "Bị tước quốc tịch Việt Nam",
+    "c": "Theo điều ước quốc tế mà Việt Nam là thành viên",
+    "d": "Cả a, b và c đều đúng",
+    "answer": "d",
+    "explanation": "Điều 26 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định quốc tịch Việt Nam bị mất trong các trường hợp: (i) được thôi quốc tịch Việt Nam; (ii) bị tước quốc tịch Việt Nam; (iii) theo quy định tại khoản 2 Điều 18; (iv) theo điều ước quốc tế mà Việt Nam là thành viên. Do đó đáp án đúng là D."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, công dân Việt Nam có thể được thôi quốc tịch Việt Nam khi nào?",
+    "a": "Có đơn xin thôi quốc tịch Việt Nam",
+    "b": "Có yêu cầu của cơ quan nhà nước",
+    "c": "Có hộ chiếu nước ngoài",
+    "d": "Định cư ở nước ngoài",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 27 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Công dân Việt Nam có đơn xin thôi quốc tịch Việt Nam để nhập quốc tịch nước ngoài thì có thể được thôi quốc tịch Việt Nam'. Do đó đáp án đúng là A."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, người đang nợ thuế đối với Nhà nước có được thôi quốc tịch Việt Nam không?",
+    "a": "Được",
+    "b": "Không được",
+    "c": "Được nếu có bảo lãnh",
+    "d": "Được nếu cư trú ở nước ngoài",
+    "answer": "b",
+    "explanation": "Điểm a khoản 2 Điều 27 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định người 'đang nợ thuế đối với Nhà nước hoặc đang có nghĩa vụ tài sản đối với cơ quan, tổ chức hoặc cá nhân ở Việt Nam' thì chưa được thôi quốc tịch Việt Nam. Do đó đáp án đúng là B."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, người đang bị truy cứu trách nhiệm hình sự:",
+    "a": "Được thôi quốc tịch Việt Nam",
+    "b": "Chưa được thôi quốc tịch Việt Nam",
+    "c": "Được thôi nếu có bảo lãnh",
+    "d": "Được thôi nếu cư trú ở nước ngoài",
+    "answer": "b",
+    "explanation": "Điểm b khoản 2 Điều 27 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định người 'đang bị truy cứu trách nhiệm hình sự' thì chưa được thôi quốc tịch Việt Nam. Do đó đáp án đúng là B."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, người đang chấp hành bản án, quyết định của Tòa án Việt Nam:",
+    "a": "Được thôi quốc tịch",
+    "b": "Được thôi nếu có xác nhận của Tòa án",
+    "c": "Chưa được thôi quốc tịch",
+    "d": "Được thôi nếu xuất cảnh",
+    "answer": "c",
+    "explanation": "Điểm c khoản 2 Điều 27 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định người 'đang chấp hành bản án, quyết định của Tòa án Việt Nam' thì chưa được thôi quốc tịch Việt Nam. Do đó đáp án đúng là C."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, người đang bị tạm giam để chờ thi hành án:",
+    "a": "Được thôi quốc tịch",
+    "b": "Chưa được thôi quốc tịch",
+    "c": "Được thôi nếu bảo lãnh",
+    "d": "Do Chủ tịch nước quyết định",
+    "answer": "b",
+    "explanation": "Điểm d khoản 2 Điều 27 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định người 'đang bị tạm giam để chờ thi hành án' thì chưa được thôi quốc tịch Việt Nam. Do đó đáp án đúng là B."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, người đang chấp hành quyết định áp dụng biện pháp xử lý hành chính đưa vào cơ sở giáo dục bắt buộc hoặc cơ sở cai nghiện bắt buộc:",
+    "a": "Được thôi quốc tịch",
+    "b": "Chưa được thôi quốc tịch",
+    "c": "Được thôi nếu đủ điều kiện khác",
+    "d": "Chỉ cần có xác nhận của UBND",
+    "answer": "b",
+    "explanation": "Điểm đ khoản 2 Điều 27 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định trường hợp này chưa được thôi quốc tịch Việt Nam. Do đó đáp án đúng là B."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, cán bộ, công chức có được thôi quốc tịch Việt Nam không?",
+    "a": "Được",
+    "b": "Không được",
+    "c": "Được nếu được cơ quan đồng ý",
+    "d": "Được nếu nghỉ hưu",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 27 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Cán bộ, công chức và những người đang phục vụ trong lực lượng vũ trang nhân dân Việt Nam không được thôi quốc tịch Việt Nam'. Do đó đáp án đúng là B."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, người đang phục vụ trong lực lượng vũ trang nhân dân Việt Nam:",
+    "a": "Được thôi quốc tịch",
+    "b": "Không được thôi quốc tịch",
+    "c": "Được thôi nếu có quyết định của Bộ trưởng",
+    "d": "Được thôi nếu cư trú ở nước ngoài",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 27 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định những người đang phục vụ trong lực lượng vũ trang nhân dân Việt Nam không được thôi quốc tịch Việt Nam. Do đó đáp án đúng là B."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, hồ sơ xin thôi quốc tịch Việt Nam phải có giấy tờ nào?",
+    "a": "Đơn xin thôi quốc tịch Việt Nam",
+    "b": "Bản khai lý lịch",
+    "c": "Phiếu lý lịch tư pháp",
+    "d": "Cả a, b và c đều đúng",
+    "answer": "d",
+    "explanation": "Khoản 1 Điều 28 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định hồ sơ xin thôi quốc tịch Việt Nam gồm: Đơn xin thôi quốc tịch Việt Nam; Bản khai lý lịch; Phiếu lý lịch tư pháp và các giấy tờ liên quan khác. Do đó đáp án đúng là D."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, phiếu lý lịch tư pháp trong hồ sơ xin thôi quốc tịch phải được cấp không quá bao nhiêu ngày?",
+    "a": "30 ngày",
+    "b": "60 ngày",
+    "c": "90 ngày",
+    "d": "120 ngày",
+    "answer": "c",
+    "explanation": "Điểm c khoản 1 Điều 28 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Phiếu lý lịch tư pháp phải là phiếu được cấp không quá 90 ngày tính đến ngày nộp hồ sơ'. Do đó đáp án đúng là C."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, người dưới 14 tuổi có được miễn thủ tục xác minh về nhân thân khi xin thôi quốc tịch Việt Nam không?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Chỉ khi ở nước ngoài",
+    "d": "Chỉ khi không có cha mẹ",
+    "answer": "a",
+    "explanation": "Điểm a khoản 1 Điều 30 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định người dưới 14 tuổi được miễn thủ tục xác minh về nhân thân. Do đó đáp án đúng là A."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, người sinh ra và định cư ở nước ngoài có được miễn thủ tục xác minh nhân thân khi xin thôi quốc tịch Việt Nam không?",
+    "a": "Có",
+    "b": "Không",
+    "c": "Chỉ khi có quốc tịch khác",
+    "d": "Chỉ khi có xác nhận của cơ quan đại diện",
+    "answer": "a",
+    "explanation": "Điểm b khoản 1 Điều 30 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định người sinh ra và định cư ở nước ngoài được miễn thủ tục xác minh về nhân thân. Do đó đáp án đúng là A."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, người đã định cư ở nước ngoài từ bao nhiêu năm trở lên được miễn xác minh nhân thân?",
+    "a": "05 năm",
+    "b": "07 năm",
+    "c": "10 năm",
+    "d": "15 năm",
+    "answer": "c",
+    "explanation": "Điểm c khoản 1 Điều 30 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định người đã định cư ở nước ngoài từ 10 năm trở lên được miễn xác minh về nhân thân. Do đó đáp án đúng là C."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, công dân Việt Nam cư trú ở nước ngoài có thể bị tước quốc tịch Việt Nam khi nào?",
+    "a": "Khi có hành vi gây phương hại nghiêm trọng đến nền độc lập dân tộc, sự nghiệp xây dựng và bảo vệ Tổ quốc hoặc uy tín của nước CHXHCN Việt Nam",
+    "b": "Khi không về Việt Nam quá 10 năm",
+    "c": "Khi không sử dụng hộ chiếu Việt Nam",
+    "d": "Khi không đăng ký công dân",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 31 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định công dân Việt Nam cư trú ở nước ngoài có thể bị tước quốc tịch nếu có hành vi gây phương hại nghiêm trọng đến nền độc lập dân tộc, sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam hoặc uy tín của nước CHXHCN Việt Nam. Do đó đáp án đúng là A."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, ai có thẩm quyền quyết định tước quốc tịch Việt Nam?",
+    "a": "Bộ trưởng Bộ Tư pháp",
+    "b": "Thủ tướng Chính phủ",
+    "c": "Chủ tịch nước",
+    "d": "Tòa án nhân dân tối cao",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 38 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định Chủ tịch nước quyết định tước quốc tịch Việt Nam. Do đó đáp án đúng là C."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, khi có sự thay đổi về quốc tịch do nhập, trở lại hoặc thôi quốc tịch Việt Nam của cha mẹ thì quốc tịch của con chưa thành niên sinh sống cùng cha mẹ được giải quyết như thế nào?",
+    "a": "Không thay đổi",
+    "b": "Được thay đổi theo quốc tịch của cha mẹ",
+    "c": "Do Tòa án quyết định",
+    "d": "Do UBND cấp tỉnh quyết định",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 35 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Khi có sự thay đổi về quốc tịch do nhập, trở lại hoặc thôi quốc tịch Việt Nam của cha mẹ thì quốc tịch của con chưa thành niên sinh sống cùng với cha mẹ cũng được thay đổi theo quốc tịch của họ'. Do đó đáp án đúng là B."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, khi chỉ cha hoặc mẹ được nhập, trở lại hoặc thôi quốc tịch Việt Nam thì con chưa thành niên sinh sống cùng người đó được thay đổi quốc tịch khi nào?",
+    "a": "Đương nhiên thay đổi",
+    "b": "Có sự thỏa thuận bằng văn bản của cha mẹ",
+    "c": "Có sự đồng ý của UBND cấp xã",
+    "d": "Có sự đồng ý của Tòa án",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 35 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Khi chỉ cha hoặc mẹ được nhập, trở lại hoặc thôi quốc tịch Việt Nam thì con chưa thành niên sinh sống cùng với người đó cũng có hoặc mất quốc tịch Việt Nam nếu có sự thỏa thuận bằng văn bản của cha mẹ'. Do đó đáp án đúng là B."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, khi cha hoặc mẹ được nhập hoặc trở lại quốc tịch Việt Nam mà cha mẹ không có thỏa thuận bằng văn bản về việc giữ quốc tịch nước ngoài cho con thì:",
+    "a": "Con không có quốc tịch",
+    "b": "Con có quốc tịch Việt Nam",
+    "c": "Con giữ nguyên quốc tịch cũ",
+    "d": "Do cơ quan hộ tịch quyết định",
+    "answer": "b",
+    "explanation": "Đoạn 2 khoản 2 Điều 35 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Trường hợp cha hoặc mẹ được nhập, trở lại quốc tịch Việt Nam thì con chưa thành niên sinh sống cùng với người đó cũng có quốc tịch Việt Nam nếu cha mẹ không thỏa thuận bằng văn bản về việc giữ quốc tịch nước ngoài của người con'. Do đó đáp án đúng là B."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, việc thay đổi quốc tịch của người từ đủ 15 tuổi đến chưa đủ 18 tuổi theo Điều 35 phải đáp ứng điều kiện nào?",
+    "a": "Được UBND cấp xã đồng ý",
+    "b": "Được Bộ Tư pháp chấp thuận",
+    "c": "Có sự đồng ý bằng văn bản của người đó",
+    "d": "Có sự đồng ý của người giám hộ",
+    "answer": "c",
+    "explanation": "Khoản 3 Điều 35 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Sự thay đổi quốc tịch của người từ đủ 15 tuổi đến chưa đủ 18 tuổi ... phải được sự đồng ý bằng văn bản của người đó'. Do đó đáp án đúng là C."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, khi cha mẹ hoặc một trong hai người bị tước quốc tịch Việt Nam thì quốc tịch của con chưa thành niên được giải quyết như thế nào?",
+    "a": "Mất quốc tịch Việt Nam",
+    "b": "Thay đổi theo cha mẹ",
+    "c": "Không thay đổi",
+    "d": "Do Chủ tịch nước quyết định",
+    "answer": "c",
+    "explanation": "Điều 36 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Khi cha mẹ hoặc một trong hai người bị tước quốc tịch Việt Nam ... thì quốc tịch của con chưa thành niên không thay đổi'. Do đó đáp án đúng là C."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, khi cha mẹ hoặc một trong hai người bị hủy bỏ Quyết định cho nhập quốc tịch Việt Nam thì quốc tịch của con chưa thành niên:",
+    "a": "Không thay đổi",
+    "b": "Đương nhiên mất quốc tịch",
+    "c": "Được giữ quốc tịch nước ngoài",
+    "d": "Do Bộ Tư pháp quyết định",
+    "answer": "a",
+    "explanation": "Điều 36 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Khi cha mẹ hoặc một trong hai người bị ... hủy bỏ Quyết định cho nhập quốc tịch Việt Nam thì quốc tịch của con chưa thành niên không thay đổi'. Do đó đáp án đúng là A."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, trẻ em là công dân Việt Nam được người nước ngoài nhận làm con nuôi thì:",
+    "a": "Mất quốc tịch Việt Nam",
+    "b": "Được lựa chọn quốc tịch",
+    "c": "Vẫn giữ quốc tịch Việt Nam",
+    "d": "Đương nhiên có hai quốc tịch",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 37 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Trẻ em là công dân Việt Nam được người nước ngoài nhận làm con nuôi thì vẫn giữ quốc tịch Việt Nam'. Do đó đáp án đúng là C."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, trẻ em là người nước ngoài được công dân Việt Nam nhận làm con nuôi thì có quốc tịch Việt Nam từ thời điểm nào?",
+    "a": "Từ ngày nộp hồ sơ nhận nuôi",
+    "b": "Từ ngày được cơ quan nhà nước có thẩm quyền của Việt Nam công nhận việc nuôi con nuôi",
+    "c": "Từ ngày nhập cảnh vào Việt Nam",
+    "d": "Từ ngày đủ 18 tuổi",
+    "answer": "b",
+    "explanation": "Khoản 2 Điều 37 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Trẻ em là người nước ngoài được công dân Việt Nam nhận làm con nuôi thì có quốc tịch Việt Nam kể từ ngày được cơ quan nhà nước có thẩm quyền của Việt Nam công nhận việc nuôi con nuôi'. Do đó đáp án đúng là B."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, trẻ em là người nước ngoài được cha mẹ nuôi mà một người là công dân Việt Nam, người kia là người nước ngoài nhận làm con nuôi thì:",
+    "a": "Không được nhập quốc tịch Việt Nam",
+    "b": "Được nhập quốc tịch Việt Nam theo đơn xin nhập quốc tịch của cha mẹ nuôi",
+    "c": "Phải đủ 18 tuổi mới được nhập quốc tịch",
+    "d": "Chỉ được thường trú tại Việt Nam",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 37 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định trẻ em trong trường hợp này 'được nhập quốc tịch Việt Nam theo đơn xin nhập quốc tịch Việt Nam của cha mẹ nuôi'. Do đó đáp án đúng là B."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, trẻ em là người nước ngoài được cha mẹ nuôi mà một người là công dân Việt Nam, người kia là người nước ngoài nhận làm con nuôi được miễn điều kiện nào khi nhập quốc tịch Việt Nam?",
+    "a": "Được miễn toàn bộ Điều 19",
+    "b": "Được miễn các điều kiện quy định tại khoản 1 Điều 19",
+    "c": "Chỉ miễn điều kiện về tiếng Việt",
+    "d": "Chỉ miễn điều kiện về thời gian thường trú",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 37 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định trẻ em trong trường hợp này 'được miễn các điều kiện quy định tại khoản 1 Điều 19 của Luật này'. Do đó đáp án đúng là B."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, việc thay đổi quốc tịch của con nuôi từ đủ 15 tuổi đến chưa đủ 18 tuổi phải đáp ứng điều kiện nào?",
+    "a": "Được Chủ tịch nước đồng ý",
+    "b": "Được Bộ Tư pháp đồng ý",
+    "c": "Có sự đồng ý bằng văn bản của người đó",
+    "d": "Được cha mẹ nuôi yêu cầu",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 37 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Sự thay đổi quốc tịch của con nuôi từ đủ 15 tuổi đến chưa đủ 18 tuổi phải được sự đồng ý bằng văn bản của người đó'. Do đó đáp án đúng là C."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, cơ quan nào có thẩm quyền quyết định cho nhập quốc tịch Việt Nam?",
+    "a": "Bộ Tư pháp",
+    "b": "Chính phủ",
+    "c": "Chủ tịch nước",
+    "d": "Ủy ban nhân dân cấp tỉnh",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 38 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định Chủ tịch nước quyết định cho nhập quốc tịch Việt Nam. Do đó đáp án đúng là C."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, cơ quan nào có thẩm quyền quyết định cho trở lại quốc tịch Việt Nam?",
+    "a": "Bộ Tư pháp",
+    "b": "Chủ tịch nước",
+    "c": "Thủ tướng Chính phủ",
+    "d": "Tòa án nhân dân tối cao",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 38 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định Chủ tịch nước quyết định cho trở lại quốc tịch Việt Nam. Do đó đáp án đúng là B."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, cơ quan nào có thẩm quyền quyết định cho thôi quốc tịch Việt Nam?",
+    "a": "Bộ Ngoại giao",
+    "b": "Chính phủ",
+    "c": "Chủ tịch nước",
+    "d": "Bộ Tư pháp",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 38 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định Chủ tịch nước quyết định cho thôi quốc tịch Việt Nam. Do đó đáp án đúng là C."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, cơ quan nào có thẩm quyền quyết định tước quốc tịch Việt Nam?",
+    "a": "Bộ Tư pháp",
+    "b": "Chủ tịch nước",
+    "c": "Thủ tướng Chính phủ",
+    "d": "Quốc hội",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 38 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định Chủ tịch nước quyết định tước quốc tịch Việt Nam. Do đó đáp án đúng là B."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, cơ quan nào có thẩm quyền quyết định hủy bỏ Quyết định cho nhập quốc tịch Việt Nam?",
+    "a": "Bộ Tư pháp",
+    "b": "Chính phủ",
+    "c": "Chủ tịch nước",
+    "d": "Tòa án",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 38 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định Chủ tịch nước quyết định hủy bỏ Quyết định cho nhập quốc tịch Việt Nam. Do đó đáp án đúng là C."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, Chính phủ có trách nhiệm nào sau đây về quốc tịch?",
+    "a": "Thống nhất quản lý nhà nước về quốc tịch",
+    "b": "Quy định mức phí, lệ phí giải quyết các việc về quốc tịch",
+    "c": "Thanh tra, kiểm tra việc thực hiện pháp luật về quốc tịch",
+    "d": "Cả a, b và c đều đúng",
+    "answer": "d",
+    "explanation": "Các khoản 1, 4 và 5 Điều 39 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định Chính phủ có trách nhiệm: thống nhất quản lý nhà nước về quốc tịch; quy định mức phí, lệ phí; thanh tra, kiểm tra việc thực hiện pháp luật về quốc tịch. Do đó đáp án đúng là D."
+  },
+  {
+    "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, cơ quan nào chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về quốc tịch?",
+    "a": "Bộ Công an",
+    "b": "Bộ Ngoại giao",
+    "c": "Bộ Tư pháp",
+    "d": "Văn phòng Chủ tịch nước",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 40 Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014 quy định: 'Bộ Tư pháp chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về quốc tịch'. Do đó đáp án đúng là C."
+  },
    {
   "question": "Theo Luật KDBĐS 2023, hệ thống thông tin về nhà ở và thị trường bất động sản được xây dựng theo nguyên tắc nào sau đây?",
   "a": "Phân tán theo từng địa phương, không cần kết nối",
