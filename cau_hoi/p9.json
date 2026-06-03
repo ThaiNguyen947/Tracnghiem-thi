@@ -1,5 +1,23 @@
 [
    {
+  "question": "Ông Nguyễn Văn A ký thỏa thuận đặt cọc cho bà Trần Thị B số tiền 200 triệu đồng để bảo đảm việc giao kết hợp đồng mua bán nhà ở trong thời hạn 30 ngày. Sau khi nhận tiền cọc, bà B đổi ý và từ chối ký hợp đồng mua bán mặc dù ông A đã chuẩn bị đầy đủ điều kiện để giao kết hợp đồng. Khi được yêu cầu tư vấn, công chứng viên cần giải thích hậu quả pháp lý nào sau đây là đúng?",
+  "a": "Bà B chỉ phải hoàn trả lại cho ông A số tiền đặt cọc 200 triệu đồng.",
+  "b": "Bà B phải hoàn trả lại 200 triệu đồng tiền đặt cọc và trả thêm cho ông A 200 triệu đồng, trừ trường hợp các bên có thỏa thuận khác.",
+  "c": "Bà B phải giao căn nhà cho ông A vì đã nhận tiền đặt cọc.",
+  "d": "Ông A có quyền xử lý căn nhà của bà B để thu hồi khoản tiền đặt cọc.",
+  "answer": "b",
+  "explanation": "Theo Điều 328 Bộ luật Dân sự 2015, nếu bên nhận đặt cọc từ chối việc giao kết hoặc thực hiện hợp đồng thì phải trả cho bên đặt cọc tài sản đặt cọc và một khoản tiền tương đương giá trị tài sản đặt cọc, trừ trường hợp có thỏa thuận khác. Đặt cọc là biện pháp bảo đảm đặc biệt vì chính khoản tiền đặt cọc trở thành căn cứ xác định hậu quả pháp lý đối với cả bên đặt cọc và bên nhận đặt cọc khi vi phạm cam kết."
+},
+   {
+  "question": "Ông A vay Ngân hàng VBC 2 tỷ đồng và thế chấp xe ô tô trị giá 800 triệu đồng để bảo đảm nghĩa vụ trả nợ. Sau đó Ngân hàng VBC vi phạm nghĩa vụ giải ngân theo hợp đồng tín dụng. Ông A cho rằng Ngân hàng phải chịu trách nhiệm bằng giá trị chiếc xe đã thế chấp. Nhận định nào sau đây là đúng?",
+  "a": "Đúng, vì giá trị tài sản thế chấp là mức trách nhiệm của cả hai bên trong hợp đồng thế chấp.",
+  "b": "Đúng, vì khi một bên vi phạm thì bên kia được hưởng giá trị tài sản thế chấp.",
+  "c": "Sai, vì tài sản thế chấp chỉ dùng để bảo đảm thực hiện nghĩa vụ của bên thế chấp, không phải là khoản trách nhiệm mặc định của bên nhận thế chấp khi vi phạm.",
+  "d": "Sai, vì hợp đồng thế chấp vô hiệu khi ngân hàng vi phạm nghĩa vụ giải ngân.",
+  "answer": "c",
+  "explanation": "Theo Điều 317 Bộ luật Dân sự 2015, thế chấp tài sản là việc một bên dùng tài sản thuộc sở hữu của mình để bảo đảm thực hiện nghĩa vụ và không giao tài sản cho bên nhận thế chấp. Theo Điều 299 BLDS 2015, tài sản bảo đảm chỉ bị xử lý khi thuộc các trường hợp xử lý tài sản bảo đảm như đến hạn thực hiện nghĩa vụ được bảo đảm mà bên có nghĩa vụ không thực hiện hoặc thực hiện không đúng nghĩa vụ. Trong tình huống này, xe ô tô được dùng để bảo đảm nghĩa vụ trả nợ của ông A, không phải để bảo đảm nghĩa vụ giải ngân của Ngân hàng. Do đó, việc Ngân hàng vi phạm nghĩa vụ giải ngân không làm phát sinh quyền của ông A được nhận hoặc xử lý giá trị chiếc xe thế chấp. Trách nhiệm của Ngân hàng được giải quyết theo hợp đồng tín dụng, quy định về trách nhiệm dân sự do vi phạm nghĩa vụ (Điều 351 BLDS 2015) và bồi thường thiệt hại nếu có, chứ không mặc nhiên xác định theo giá trị tài sản thế chấp. Đây là điểm khác biệt cơ bản với đặt cọc theo Điều 328 BLDS 2015, nơi giá trị tài sản đặt cọc có thể trở thành căn cứ xác định hậu quả pháp lý đối với cả hai bên khi vi phạm."
+},
+   {
     "question": "Anh Nguyễn Văn T và chị Phạm Thị N kết hôn năm 1986. Đến tháng 01/2017, vợ chồng có các tài sản gồm: 01 căn nhà tại phường K, tỉnh P; 01 quyền sử dụng đất tại xã X, tỉnh P; 01 xe ô tô Toyota; 01 sổ tiết kiệm 100 triệu đồng tại Ngân hàng A. Ngoài ra, anh T có 01 căn nhà tại xã M, thành phố H do bố mẹ đẻ tặng cho riêng năm 2015. Do mâu thuẫn trong quản lý và sử dụng tài sản, vợ chồng muốn lập Văn bản thỏa thuận phân chia tài sản chung trong thời kỳ hôn nhân. Là CCV, anh (chị) hãy xác định những tài sản nào mà vợ chồng anh T, chị N có thể tiến hành thỏa thuận chia theo quy định của pháp luật?",
     "a": "Chỉ 01 căn nhà tại phường K, tỉnh P và 01 quyền sử dụng đất tại xã X vì đây là bất động sản đứng tên cả hai vợ chồng.",
     "b": "Tất cả 05 tài sản nêu trên, bao gồm cả căn nhà tại xã M, thành phố H vì đây là tài sản được hình thành trong thời kỳ hôn nhân.",
