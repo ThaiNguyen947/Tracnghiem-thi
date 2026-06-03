@@ -1,5 +1,59 @@
 [
    {
+    "question": "Anh Nguyễn Văn T và chị Phạm Thị N kết hôn năm 1986. Đến tháng 01/2017, vợ chồng có các tài sản gồm: 01 căn nhà tại phường K, tỉnh P; 01 quyền sử dụng đất tại xã X, tỉnh P; 01 xe ô tô Toyota; 01 sổ tiết kiệm 100 triệu đồng tại Ngân hàng A. Ngoài ra, anh T có 01 căn nhà tại xã M, thành phố H do bố mẹ đẻ tặng cho riêng năm 2015. Do mâu thuẫn trong quản lý và sử dụng tài sản, vợ chồng muốn lập Văn bản thỏa thuận phân chia tài sản chung trong thời kỳ hôn nhân. Là CCV, anh (chị) hãy xác định những tài sản nào mà vợ chồng anh T, chị N có thể tiến hành thỏa thuận chia theo quy định của pháp luật?",
+    "a": "Chỉ 01 căn nhà tại phường K, tỉnh P và 01 quyền sử dụng đất tại xã X vì đây là bất động sản đứng tên cả hai vợ chồng.",
+    "b": "Tất cả 05 tài sản nêu trên, bao gồm cả căn nhà tại xã M, thành phố H vì đây là tài sản được hình thành trong thời kỳ hôn nhân.",
+    "c": "Cả 04 tài sản gồm: căn nhà tại phường K, đất tại xã X, xe ô tô Toyota, sổ tiết kiệm 100 triệu đồng; còn căn nhà tại xã M do bố mẹ anh T tặng riêng là tài sản riêng nên không thể phân chia được.",
+    "d": "Vợ chồng không thể chia tài sản chung trong thời kỳ hôn nhân vì chưa ly hôn và chỉ có tòa án giải quyết yêu cầu này.",
+    "answer": "c",
+    "explanation": "Theo Điều 38 Luật Hôn nhân và Gia đình năm 2014, trong thời kỳ hôn nhân, vợ chồng có quyền thỏa thuận chia một phần hoặc toàn bộ tài sản chung. Căn nhà tại xã M, thành phố H được bố mẹ anh T tặng cho riêng năm 2015 là tài sản riêng của anh T theo khoản 1 Điều 43 Luật Hôn nhân và Gia đình năm 2014 nên không thuộc đối tượng phân chia trong văn bản thỏa thuận phân chia tài sản chung."
+  },
+  {
+    "question": "Sau khi lập Văn bản thỏa thuận phân chia tài sản chung trong thời kỳ hôn nhân, anh Nguyễn Văn T và chị Phạm Thị N thỏa thuận rằng tiền cho thuê tài sản được chia và lãi phát sinh từ sổ tiết kiệm vẫn là tài sản chung của vợ chồng. Thỏa thuận này có hợp pháp không?",
+    "a": "Hợp pháp, nhưng thỏa thuận này phải được lập thành văn bản riêng, không được đưa vào Văn bản thỏa thuận phân chia tài sản chung.",
+    "b": "Hợp pháp, vì pháp luật cho phép vợ chồng thỏa thuận khác về hoa lợi, lợi tức phát sinh từ tài sản riêng sau khi chia tài sản chung.",
+    "c": "Không hợp pháp, vì vi phạm quyền sở hữu riêng của mỗi bên sau khi phân chia.",
+    "d": "Không hợp pháp, vì sau khi chia tài sản chung thì hoa lợi, lợi tức phát sinh từ tài sản riêng đương nhiên là tài sản riêng và không thể có thỏa thuận khác.",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 40 Luật Hôn nhân và Gia đình năm 2014 quy định hoa lợi, lợi tức phát sinh từ tài sản riêng của mỗi bên sau khi chia tài sản chung thuộc tài sản riêng, trừ trường hợp vợ chồng có thỏa thuận khác. Vì vậy, việc vợ chồng thỏa thuận tiền cho thuê tài sản và lãi tiết kiệm vẫn là tài sản chung là phù hợp quy định pháp luật."
+  },
+  {
+    "question": "Trong Văn bản thỏa thuận phân chia tài sản chung, anh Nguyễn Văn T được nhận phần tài sản có giá trị lớn hơn nên hai bên thỏa thuận anh T chịu toàn bộ trách nhiệm nuôi dưỡng, chăm sóc con chung và toàn bộ chi phí sinh hoạt gia đình; chị N không còn nghĩa vụ nào. Anh (chị) đánh giá thỏa thuận này như thế nào?",
+    "a": "Hợp pháp, vì đây là ý chí tự nguyện của cả hai bên và phù hợp với nguyên tắc tự do thỏa thuận.",
+    "b": "Hợp pháp nếu có ý kiến đồng ý của con chung chưa thành niên.",
+    "c": "Hợp pháp, vì vợ chồng có quyền thỏa thuận mọi vấn đề liên quan đến tài sản chung trong thời kỳ hôn nhân.",
+    "d": "Không hợp pháp, vì đây là nghĩa vụ của cha, mẹ đối với con và gia đình theo quy định của pháp luật, không thể chuyển giao toàn bộ cho một bên.",
+    "answer": "d",
+    "explanation": "Theo Điều 29 và Điều 69 Luật Hôn nhân và Gia đình năm 2014, vợ chồng có nghĩa vụ bình đẳng trong việc chăm sóc, nuôi dưỡng, giáo dục con và bảo đảm nhu cầu thiết yếu của gia đình. Khoản 2 Điều 42 Luật Hôn nhân và Gia đình năm 2014 cũng quy định việc chia tài sản chung trong thời kỳ hôn nhân bị vô hiệu nếu nhằm trốn tránh thực hiện nghĩa vụ nuôi dưỡng hoặc các nghĩa vụ khác theo luật định. Do đó, các bên không thể thỏa thuận loại bỏ hoàn toàn nghĩa vụ của một bên đối với con và gia đình."
+  },
+  {
+    "question": "Trong Văn bản thỏa thuận phân chia tài sản chung, anh Nguyễn Văn T và chị Phạm Thị N thỏa thuận rằng tài sản mỗi người được chia sẽ không được chuyển quyền sở hữu cho bất kỳ người thứ ba nào mà phải tặng cho các con khi đủ 18 tuổi. Anh (chị) nhận xét gì về thỏa thuận này?",
+    "a": "Hợp pháp, vì thỏa thuận này nhằm bảo vệ quyền lợi của con chưa thành niên.",
+    "b": "Hợp pháp vì việc thỏa thuận là quyền dân sự và phù hợp với các quy định của Luật Hôn nhân và Gia đình.",
+    "c": "Không hợp pháp, vì sau khi chia tài sản chung, tài sản được chia là tài sản riêng và chủ sở hữu có quyền chiếm hữu, sử dụng, định đoạt theo ý chí của mình; quyền này chỉ bị hạn chế trong các trường hợp luật quy định.",
+    "d": "Hợp pháp, vì các bên được tự do thỏa thuận nếu nội dung không trái đạo đức xã hội.",
+    "answer": "c",
+    "explanation": "Theo Điều 40 Luật Hôn nhân và Gia đình năm 2014, phần tài sản được chia cho mỗi bên trở thành tài sản riêng của người đó. Theo Điều 158 và Điều 192 Bộ luật Dân sự năm 2015, chủ sở hữu có quyền chiếm hữu, sử dụng và định đoạt tài sản của mình. Việc hạn chế quyền định đoạt chỉ được thực hiện trong trường hợp luật có quy định. Do đó, thỏa thuận buộc chủ sở hữu không được chuyển nhượng cho người thứ ba và phải tặng cho con trong tương lai là không phù hợp với nguyên tắc bảo đảm quyền sở hữu tài sản."
+  },
+  {
+    "question": "Anh Nguyễn Văn T và chị Phạm Thị N chung sống với nhau như vợ chồng từ năm 1986 nhưng hiện không còn lưu giữ Giấy đăng ký kết hôn. Khi thực hiện thủ tục công chứng, họ đề nghị công nhận quan hệ hôn nhân trên cơ sở đã chung sống ổn định và có con chung. Theo quy định của pháp luật, quan hệ hôn nhân của họ có được pháp luật công nhận không?",
+    "a": "Không được công nhận, vì không có Giấy đăng ký kết hôn theo quy định của Luật Hôn nhân và Gia đình.",
+    "b": "Được công nhận, vì họ đã kết hôn trước ngày 03/01/1987 và chung sống như vợ chồng thỏa mãn các điều kiện của pháp luật; quan hệ hôn nhân được công nhận kể từ ngày xác lập quan hệ chung sống.",
+    "c": "Chỉ được công nhận nếu họ đã thực hiện đăng ký kết hôn bổ sung sau này trong thời hạn luật định.",
+    "d": "Không được công nhận, vì theo quy định quan hệ vợ chồng trước năm 1987 không còn hiệu lực pháp lý nếu không đăng ký kết hôn.",
+    "answer": "b",
+    "explanation": "Theo điểm a khoản 3 Nghị quyết số 35/2000/QH10 của Quốc hội và khoản 1 Điều 131 Luật Hôn nhân và Gia đình năm 2014, nam nữ chung sống với nhau như vợ chồng trước ngày 03/01/1987 mà đủ điều kiện kết hôn theo quy định của pháp luật thì được công nhận là vợ chồng kể từ ngày xác lập quan hệ chung sống, không bắt buộc phải đăng ký kết hôn."
+  },
+  {
+    "question": "Anh Nguyễn Văn T và chị Phạm Thị N kết hôn năm 1986 nhưng hiện không xuất trình được Giấy đăng ký kết hôn khi yêu cầu công chứng văn bản thỏa thuận phân chia tài sản chung. Để chứng minh quan hệ vợ chồng của mình, họ có thể cung cấp giấy tờ nào cho công chứng viên?",
+    "a": "Bắt buộc phải có bản trích lục Giấy đăng ký kết hôn, không có giấy tờ nào khác thay thế được.",
+    "b": "Chỉ cần Giấy khai sinh của con chung và cam kết của cả hai bên là đủ.",
+    "c": "Có thể cung cấp một trong các giấy tờ: Giấy chứng nhận kết hôn, Trích lục kết hôn, bản sao có chứng thực Giấy chứng nhận kết hôn hoặc Giấy xác nhận tình trạng hôn nhân có ghi nhận quan hệ hôn nhân của cả hai theo quy định.",
+    "d": "Chỉ cần Giấy xác nhận tình trạng hôn nhân từ UBND cấp xã nơi cư trú là đủ.",
+    "answer": "c",
+    "explanation": "Theo khoản 1 Điều 40 Luật Công chứng năm 2014, người yêu cầu công chứng phải xuất trình các giấy tờ liên quan đến giao dịch. Để chứng minh quan hệ hôn nhân, đương sự có thể xuất trình Giấy chứng nhận kết hôn, Trích lục kết hôn hoặc giấy tờ hộ tịch hợp pháp khác do cơ quan có thẩm quyền cấp. Giấy khai sinh của con chung và cam kết của các bên chỉ là căn cứ tham khảo, không đủ để thay thế giấy tờ chứng minh tình trạng hôn nhân trong hồ sơ công chứng."
+  },
+   {
         "question": "Theo bản án có hiệu lực của Tòa án, A phải bồi thường cho B 500 triệu đồng. Để bảo đảm thực hiện nghĩa vụ này, A giao xe ô tô cho B theo thỏa thuận đặt cọc. Nhận định nào đúng?",
         "a": "Được đặt cọc vì mọi nghĩa vụ đều có thể đặt cọc.",
         "b": "Không phù hợp với bản chất đặt cọc vì nghĩa vụ này không nhằm giao kết hoặc thực hiện hợp đồng.",
