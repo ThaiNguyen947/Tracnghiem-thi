@@ -225,14 +225,14 @@
         "explanation": "Việc ký sẵn hợp đồng chuyển nhượng để bảo đảm nghĩa vụ đặt cọc có thể tiềm ẩn rủi ro bị xem xét là giao dịch giả tạo hoặc chuyển quyền trá hình nhằm bảo đảm thực hiện nghĩa vụ."
     },
   {
-        "question": "Bà Nguyễn Thanh Vân và con là Hồ Thị Lan (sinh năm 2008) cùng đồng sở hữu căn nhà tại Quận 3, TP.HCM. Bà Vân dùng căn nhà này để thế chấp bảo đảm khoản vay của Công ty TNHH Hoàn Cầu tại Ngân hàng VBC theo HĐTD số 24/2019/HĐTD. Khi công chứng hợp đồng thế chấp, công chứng viên cần xử lý như thế nào?",
-        "a": "Được công chứng bình thường vì mẹ là người đại diện đương nhiên của con.",
-        "b": "Từ chối công chứng vì người chưa thành niên không được sở hữu nhà ở.",
-        "c": "Phải xem xét giao dịch có vì lợi ích của người chưa thành niên hay không khi dùng tài sản của con để bảo đảm nghĩa vụ cho doanh nghiệp.",
-        "d": "Chỉ cần ngân hàng đồng ý là đủ.",
-        "answer": "c",
-        "explanation": "Hồ Thị Lan là người chưa thành niên và đồng sở hữu tài sản. Việc dùng tài sản của con chưa thành niên để bảo đảm nghĩa vụ cho bên thứ ba phải xem xét có vì lợi ích của người con hay không. Trường hợp này bảo đảm cho nghĩa vụ của Công ty TNHH Hoàn Cầu nên khó chứng minh lợi ích của người chưa thành niên. Căn cứ: Điều 77 Luật Hôn nhân và gia đình 2014."
-    },
+  "question": "Bà Nguyễn Thanh Vân và con là Hồ Thị Lan (sinh năm 2008) cùng đồng sở hữu căn nhà tại Quận 3, TP.HCM. Bà Vân dùng căn nhà này để thế chấp bảo đảm khoản vay của Công ty TNHH Hoàn Cầu tại Ngân hàng VBC theo HĐTD số 24/2019/HĐTD. Khi công chứng hợp đồng thế chấp, công chứng viên cần xử lý như thế nào?",
+  "a": "Được công chứng ngay vì bà Vân là mẹ và là người đại diện theo pháp luật của Lan.",
+  "b": "Từ chối công chứng vì người từ đủ 15 tuổi đến dưới 18 tuổi không được tham gia giao dịch liên quan đến bất động sản.",
+  "c": "Yêu cầu Hồ Thị Lan tham gia giao dịch và có sự đồng ý bằng văn bản của người đại diện theo pháp luật đối với việc thế chấp phần quyền sở hữu của mình trong căn nhà.",
+  "d": "Chỉ cần ngân hàng xác nhận đồng ý nhận thế chấp là đủ điều kiện công chứng.",
+  "answer": "c",
+  "explanation": "Hồ Thị Lan sinh năm 2008 là người từ đủ 15 tuổi đến dưới 18 tuổi. Theo khoản 4 Điều 21 Bộ luật Dân sự 2015, người từ đủ 15 tuổi đến dưới 18 tuổi được tự mình xác lập, thực hiện giao dịch dân sự, nhưng đối với giao dịch liên quan đến bất động sản phải được người đại diện theo pháp luật đồng ý. Đồng thời, khoản 2 Điều 77 Luật Hôn nhân và gia đình 2014 quy định người từ đủ 15 tuổi đến dưới 18 tuổi có quyền định đoạt tài sản riêng, nhưng nếu tài sản là bất động sản thì phải có sự đồng ý bằng văn bản của cha mẹ hoặc người giám hộ. Do đó, công chứng viên phải yêu cầu Lan tham gia giao dịch và có sự đồng ý hợp lệ của người đại diện theo pháp luật."
+},
     {
         "question": "Ông Trần Hùng (độc thân) là chủ sở hữu căn nhà tại Gò Vấp, TP.HCM. Ông Hùng dùng căn nhà trên để bảo lãnh cho khoản vay của Công ty CP Hoàn Mỹ tại Ngân hàng VBC và yêu cầu công chứng hợp đồng bảo lãnh. Công chứng viên cần xác định bản chất giao dịch như thế nào?",
         "a": "Đây là hợp đồng vay tài sản giữa ông Hùng và ngân hàng.",
