@@ -3995,14 +3995,14 @@
     "explanation": "Chậm tiến độ 24 tháng là căn cứ để xem xét thu hồi đất dự án, người dân có quyền kiến nghị cơ quan chức năng kiểm tra dự án."
   },
   {
-    "question": "UBND cấp huyện ra quyết định cưỡng chế thu hồi đất vào 20 giờ ngày thứ Sáu để sáng thứ Bảy thực hiện cưỡng chế. Việc này có đúng luật không?",
-    "a": "Đúng, vì là ngày cuối tuần nên tiến độ nhanh",
-    "b": "Sai, vì cấm cưỡng chế từ 22h đêm đến 06h sáng hôm sau",
-    "c": "Sai, vì không được cưỡng chế vào ngày nghỉ, ngày lễ",
-    "d": "Sai cả về thời điểm ban hành và thời điểm thực hiện",
-    "answer": "d",
-    "explanation": "Mặc dù luật chỉ cấm khung giờ 22h-06h, nhưng thực tế cưỡng chế vào ngày nghỉ (thứ Bảy) là trái với quy trình hành chính thông thường và nguyên tắc bảo vệ quyền lợi người dân."
-  },
+  "question": "UBND cấp huyện ra quyết định cưỡng chế thu hồi đất vào 20 giờ ngày thứ Sáu để sáng thứ Bảy thực hiện cưỡng chế. Việc này có đúng luật không?",
+  "a": "Đúng, vì là ngày cuối tuần nên tiến độ nhanh",
+  "b": "Sai, vì cấm cưỡng chế từ 22h đêm đến 06h sáng hôm sau",
+  "c": "Sai, vì không được cưỡng chế vào ngày nghỉ, ngày lễ",
+  "d": "Sai, vì không được thực hiện cưỡng chế vào ngày nghỉ, ngày lễ theo quy định của Luật Đất đai",
+  "answer": "d",
+  "explanation": "Theo điểm b khoản 1 Điều 89 Luật Đất đai 2024, thời điểm bắt đầu tiến hành cưỡng chế phải được thực hiện trong giờ hành chính; không thực hiện cưỡng chế trong thời gian từ 22 giờ đêm ngày hôm trước đến 06 giờ sáng ngày hôm sau và không thực hiện cưỡng chế vào các ngày nghỉ, ngày lễ theo quy định của pháp luật. Do đó, việc tổ chức cưỡng chế vào sáng thứ Bảy (nếu là ngày nghỉ theo chế độ làm việc của cơ quan nhà nước) là không phù hợp quy định pháp luật. Tình huống không cho thấy việc ban hành quyết định lúc 20 giờ thứ Sáu là trái luật, nên sai phạm nằm ở thời điểm thực hiện cưỡng chế vào ngày nghỉ." 
+},
   {
     "question": "Theo Luật Đất đai 2024, nguyên tắc nào phải được bảo đảm khi bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất?",
     "a": "Chỉ cần bảo đảm đúng thời hạn",
