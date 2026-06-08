@@ -1,4 +1,535 @@
 [
+   {
+    "question": "Theo Luật Doanh nghiệp năm 2020, tài sản góp vốn bao gồm:",
+    "a": "Chỉ tiền Việt Nam và vàng.",
+    "b": "Chỉ quyền sử dụng đất và nhà ở.",
+    "c": "Đồng Việt Nam, ngoại tệ tự do chuyển đổi, vàng, quyền sử dụng đất, quyền sở hữu trí tuệ, công nghệ, bí quyết kỹ thuật và tài sản khác có thể định giá được bằng Đồng Việt Nam.",
+    "d": "Chỉ tài sản phải đăng ký quyền sở hữu.",
+    "answer": "c",
+    "explanation": "Theo Điều 34 Luật Doanh nghiệp năm 2020, tài sản góp vốn bao gồm Đồng Việt Nam, ngoại tệ tự do chuyển đổi, vàng, quyền sử dụng đất, quyền sở hữu trí tuệ, công nghệ, bí quyết kỹ thuật và tài sản khác có thể định giá được bằng Đồng Việt Nam."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp năm 2020, đối với tài sản góp vốn là tài sản có đăng ký quyền sở hữu hoặc quyền sử dụng đất, việc góp vốn được hoàn tất khi nào?",
+    "a": "Ký hợp đồng góp vốn.",
+    "b": "Bên góp vốn giao tài sản.",
+    "c": "Hoàn thành việc chuyển quyền sở hữu hoặc quyền sử dụng cho công ty theo quy định của pháp luật.",
+    "d": "Công ty đưa tài sản vào sử dụng.",
+    "answer": "c",
+    "explanation": "Theo Điều 35 Luật Doanh nghiệp năm 2020, việc góp vốn bằng tài sản có đăng ký quyền sở hữu hoặc quyền sử dụng đất được hoàn tất khi hoàn thành thủ tục chuyển quyền theo quy định của pháp luật."
+  },
+  {
+    "question": "Theo Luật Đất đai năm 2024, người sử dụng đất được thực hiện quyền góp vốn bằng quyền sử dụng đất khi đáp ứng điều kiện nào sau đây?",
+    "a": "Có Giấy chứng nhận theo quy định, đất không có tranh chấp, không bị kê biên hoặc áp dụng biện pháp bảo đảm thi hành án và còn thời hạn sử dụng đất.",
+    "b": "Chỉ cần có Giấy chứng nhận.",
+    "c": "Chỉ cần đất không có tranh chấp.",
+    "d": "Chỉ cần còn thời hạn sử dụng đất.",
+    "answer": "a",
+    "explanation": "Theo Điều 45 Luật Đất đai năm 2024, người sử dụng đất được thực hiện quyền góp vốn bằng quyền sử dụng đất khi có Giấy chứng nhận, đất không có tranh chấp, không bị kê biên hoặc áp dụng biện pháp bảo đảm thi hành án và còn trong thời hạn sử dụng đất."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp năm 2020, quyền sở hữu trí tuệ được sử dụng làm tài sản góp vốn khi đáp ứng điều kiện nào?",
+    "a": "Thuộc quyền sở hữu hợp pháp của người góp vốn.",
+    "b": "Đang có tranh chấp.",
+    "c": "Chưa xác định được chủ sở hữu.",
+    "d": "Không định giá được bằng tiền.",
+    "answer": "a",
+    "explanation": "Theo Điều 34 Luật Doanh nghiệp năm 2020, chỉ cá nhân, tổ chức là chủ sở hữu hợp pháp quyền sở hữu trí tuệ mới có quyền sử dụng tài sản đó để góp vốn."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp năm 2020, giao dịch góp vốn bằng tài sản có đặc điểm nào sau đây?",
+    "a": "Không làm thay đổi quyền sở hữu tài sản.",
+    "b": "Chỉ làm phát sinh quyền sử dụng tài sản cho doanh nghiệp.",
+    "c": "Làm phát sinh quyền sở hữu hoặc quyền sử dụng của doanh nghiệp đối với tài sản góp vốn theo quy định của pháp luật.",
+    "d": "Tài sản luôn thuộc sở hữu của bên góp vốn.",
+    "answer": "c",
+    "explanation": "Theo Điều 35 Luật Doanh nghiệp năm 2020, việc góp vốn bằng tài sản làm chuyển quyền sở hữu hoặc quyền sử dụng tài sản cho doanh nghiệp theo quy định của pháp luật."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp năm 2020, góp vốn để thành lập doanh nghiệp được hiểu là:",
+    "a": "Các thành viên, cổ đông góp tài sản để hình thành vốn điều lệ ban đầu của doanh nghiệp.",
+    "b": "Doanh nghiệp vay vốn từ tổ chức tín dụng.",
+    "c": "Doanh nghiệp phát hành trái phiếu.",
+    "d": "Doanh nghiệp nhận tài trợ từ tổ chức khác.",
+    "answer": "a",
+    "explanation": "Theo Luật Doanh nghiệp năm 2020, việc góp vốn khi thành lập doanh nghiệp là việc các thành viên hoặc cổ đông góp tài sản để tạo thành vốn điều lệ ban đầu của doanh nghiệp."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp năm 2020, một trong các điều kiện đối với tài sản góp vốn là gì?",
+    "a": "Tài sản phải được định giá bằng tiền.",
+    "b": "Tài sản phải là bất động sản.",
+    "c": "Tài sản phải có nguồn gốc thừa kế.",
+    "d": "Tài sản phải được công chứng.",
+    "answer": "a",
+    "explanation": "Theo Điều 34 và Điều 36 Luật Doanh nghiệp năm 2020, tài sản góp vốn phải là tài sản có thể định giá được bằng Đồng Việt Nam."
+  },
+  {
+    "question": "Theo Luật Đầu tư năm 2020, nhà đầu tư là:",
+    "a": "Chỉ cá nhân Việt Nam.",
+    "b": "Chỉ tổ chức kinh tế.",
+    "c": "Cá nhân hoặc tổ chức thực hiện hoạt động đầu tư kinh doanh theo quy định của pháp luật.",
+    "d": "Chỉ doanh nghiệp được thành lập tại Việt Nam.",
+    "answer": "c",
+    "explanation": "Theo Điều 3 Luật Đầu tư năm 2020, nhà đầu tư là tổ chức hoặc cá nhân thực hiện hoạt động đầu tư kinh doanh."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp năm 2020, việc góp vốn để hình thành hoặc tăng vốn điều lệ được thực hiện đối với chủ thể nào?",
+    "a": "Doanh nghiệp được thành lập và hoạt động theo Luật Doanh nghiệp.",
+    "b": "Chỉ cơ quan nhà nước.",
+    "c": "Chỉ hộ gia đình.",
+    "d": "Chỉ hợp tác xã.",
+    "answer": "a",
+    "explanation": "Theo Luật Doanh nghiệp năm 2020, việc góp vốn nhằm hình thành hoặc tăng vốn điều lệ được thực hiện đối với doanh nghiệp theo quy định của pháp luật."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp năm 2020, đối với tài sản góp vốn không phải đăng ký quyền sở hữu, việc chuyển quyền sở hữu được thực hiện bằng cách nào?",
+    "a": "Bàn giao tài sản và lập biên bản giao nhận.",
+    "b": "Công chứng hợp đồng góp vốn.",
+    "c": "Chứng thực hợp đồng góp vốn.",
+    "d": "Đăng ký tại UBND cấp xã.",
+    "answer": "a",
+    "explanation": "Theo Điều 35 Luật Doanh nghiệp năm 2020, việc góp vốn bằng tài sản không phải đăng ký quyền sở hữu được thực hiện thông qua việc giao nhận tài sản có xác nhận bằng biên bản."
+  },
+  {
+    "question": "Theo Luật Nhà ở năm 2023, chủ sở hữu nhà ở được góp vốn bằng nhà ở khi đáp ứng điều kiện nào sau đây?",
+    "a": "Nhà ở thuộc sở hữu hợp pháp, có Giấy chứng nhận theo quy định của pháp luật và không thuộc trường hợp bị tranh chấp, khiếu nại, khiếu kiện về quyền sở hữu.",
+    "b": "Chỉ cần nhà ở có Giấy chứng nhận.",
+    "c": "Chỉ cần không có tranh chấp.",
+    "d": "Không cần điều kiện gì, chỉ cần các bên thỏa thuận.",
+    "answer": "a",
+    "explanation": "Theo khoản 1 Điều 160 Luật Nhà ở năm 2023, nhà ở tham gia giao dịch (bao gồm góp vốn) phải có Giấy chứng nhận theo quy định của pháp luật và không thuộc trường hợp đang có tranh chấp, khiếu nại, khiếu kiện về quyền sở hữu nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở năm 2023, nhà ở dùng để góp vốn phải là nhà ở như thế nào?",
+    "a": "Nhà ở có sẵn và đủ điều kiện tham gia giao dịch theo quy định pháp luật.",
+    "b": "Nhà ở hình thành trong tương lai.",
+    "c": "Nhà ở đang xây dựng dở dang.",
+    "d": "Nhà ở chưa có Giấy chứng nhận nhưng đã mua bán.",
+    "answer": "a",
+    "explanation": "Theo khoản 2 Điều 160 Luật Nhà ở năm 2023, nhà ở tham gia giao dịch phải là nhà ở có sẵn và đáp ứng điều kiện tham gia giao dịch theo quy định của pháp luật về nhà ở."
+  },
+  {
+    "question": "Theo Luật Nhà ở năm 2023, nhà ở thuộc sở hữu có thời hạn được góp vốn khi nào?",
+    "a": "Trong thời hạn sở hữu nhà ở theo quy định pháp luật.",
+    "b": "Bất kỳ thời điểm nào.",
+    "c": "Sau khi hết thời hạn sở hữu.",
+    "d": "Chỉ khi có sự đồng ý của ngân hàng.",
+    "answer": "a",
+    "explanation": "Theo khoản 1 Điều 160 Luật Nhà ở năm 2023, nhà ở thuộc sở hữu có thời hạn chỉ được tham gia giao dịch trong thời hạn sở hữu hợp pháp, không được giao dịch khi đã hết thời hạn sở hữu."
+  },
+  {
+    "question": "Theo Luật Nhà ở năm 2023, hợp đồng góp vốn bằng nhà ở được thực hiện như thế nào?",
+    "a": "Phải lập thành văn bản và thực hiện công chứng hoặc chứng thực theo quy định của pháp luật.",
+    "b": "Chỉ cần lập giấy viết tay.",
+    "c": "Không cần công chứng, chứng thực trong mọi trường hợp.",
+    "d": "Chỉ cần xác nhận của UBND cấp xã.",
+    "answer": "a",
+    "explanation": "Theo Điều 164 Luật Nhà ở năm 2023 (và quy định về giao dịch nhà ở), hợp đồng về nhà ở phải được lập thành văn bản và công chứng hoặc chứng thực, trừ trường hợp pháp luật có quy định khác."
+  },
+  {
+    "question": "Theo Luật Nhà ở năm 2023, nhà ở đang thế chấp tại ngân hàng có được góp vốn không?",
+    "a": "Chỉ được góp vốn khi có sự đồng ý của bên nhận thế chấp.",
+    "b": "Được tự do góp vốn.",
+    "c": "Chỉ cần có hợp đồng góp vốn.",
+    "d": "Không cần sự đồng ý của ngân hàng.",
+    "answer": "a",
+    "explanation": "Theo Điều 321 và Điều 320 Bộ luật Dân sự năm 2015, bên thế chấp chỉ được bán, trao đổi, tặng cho, góp vốn tài sản thế chấp khi được bên nhận thế chấp đồng ý."
+  },
+  {
+    "question": "Theo Luật Nhà ở năm 2023, nhà ở thuộc sở hữu chung được góp vốn như thế nào?",
+    "a": "Phải được sự đồng ý của tất cả các chủ sở hữu chung.",
+    "b": "Chỉ cần một chủ sở hữu đồng ý.",
+    "c": "Không cần sự đồng ý của ai.",
+    "d": "Chỉ cần người đang quản lý nhà ở đồng ý.",
+    "answer": "a",
+    "explanation": "Theo Điều 218 Bộ luật Dân sự năm 2015, việc định đoạt tài sản thuộc sở hữu chung phải có sự đồng ý của tất cả các chủ sở hữu, trừ trường hợp sở hữu chung theo phần có thỏa thuận khác."
+  },
+  {
+    "question": "Theo Luật Nhà ở năm 2023, nhà ở đang cho thuê khi góp vốn thì phải thực hiện điều kiện nào sau đây?",
+    "a": "Phải thông báo bằng văn bản cho bên thuê biết trước việc góp vốn.",
+    "b": "Không cần thông báo cho bên thuê.",
+    "c": "Chỉ cần chấm dứt hợp đồng thuê ngay.",
+    "d": "Chỉ cần bên thuê đồng ý góp vốn.",
+    "answer": "a",
+    "explanation": "Theo Điều 172 Luật Nhà ở năm 2023, chủ sở hữu nhà ở đang cho thuê phải thông báo bằng văn bản cho bên thuê về việc chuyển quyền sở hữu hoặc thay đổi quyền liên quan đến nhà ở, đảm bảo quyền lợi của bên thuê theo hợp đồng."
+  },
+  {
+    "question": "Theo Luật Doanh nghiệp năm 2020, khi góp vốn bằng nhà ở vào doanh nghiệp, việc chuyển quyền sở hữu được thực hiện như thế nào?",
+    "a": "Phải thực hiện thủ tục chuyển quyền sở hữu nhà ở cho doanh nghiệp theo quy định của pháp luật.",
+    "b": "Chỉ cần ký hợp đồng góp vốn.",
+    "c": "Chỉ cần bàn giao nhà ở.",
+    "d": "Không cần đăng ký sang tên.",
+    "answer": "a",
+    "explanation": "Theo Điều 35 Luật Doanh nghiệp năm 2020, đối với tài sản góp vốn phải đăng ký quyền sở hữu (như nhà ở), việc góp vốn được hoàn tất khi hoàn thành thủ tục chuyển quyền sở hữu cho doanh nghiệp theo quy định của pháp luật."
+  },
+  {
+    "question": "Theo Luật Nhà ở năm 2023, việc góp vốn bằng nhà ở chấm dứt trong trường hợp nào sau đây?",
+    "a": "Hết thời hạn góp vốn hoặc các bên thỏa thuận chấm dứt hoặc theo các trường hợp pháp luật quy định như phá sản, giải thể, chết hoặc mất năng lực hành vi dân sự.",
+    "b": "Chỉ khi một bên tự ý hủy hợp đồng.",
+    "c": "Chỉ khi nhà ở bị giảm giá trị.",
+    "d": "Không bao giờ chấm dứt.",
+    "answer": "a",
+    "explanation": "Theo quy định về chấm dứt hợp đồng trong Bộ luật Dân sự năm 2015 (Điều 422) và quy định về hợp đồng trong Luật Nhà ở năm 2023, hợp đồng góp vốn bằng nhà ở chấm dứt khi hết thời hạn, theo thỏa thuận hoặc theo các trường hợp pháp luật quy định."
+  },
+  {
+    "question": "Theo Luật Đầu tư năm 2020, nhà đầu tư được hiểu là:",
+    "a": "Cá nhân, tổ chức thực hiện hoạt động đầu tư kinh doanh theo quy định của pháp luật.",
+    "b": "Chỉ doanh nghiệp Việt Nam.",
+    "c": "Chỉ cá nhân Việt Nam.",
+    "d": "Chỉ tổ chức nước ngoài.",
+    "answer": "a",
+    "explanation": "Theo khoản 18 Điều 3 Luật Đầu tư năm 2020, nhà đầu tư là tổ chức, cá nhân thực hiện hoạt động đầu tư kinh doanh theo quy định của pháp luật."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự năm 2015, hợp đồng dân sự được hiểu là gì?",
+    "a": "Là hoạt động giữa các thương nhân nhằm mục đích sinh lợi.",
+    "b": "Là sự thỏa thuận giữa các bên về việc xác lập, thay đổi hoặc chấm dứt quyền, nghĩa vụ dân sự.",
+    "c": "Là hợp đồng bắt buộc phải có yếu tố thương mại.",
+    "d": "Là giao dịch chỉ áp dụng trong lĩnh vực kinh doanh.",
+    "answer": "b",
+    "explanation": "Theo Điều 385 Bộ luật Dân sự năm 2015, hợp đồng là sự thỏa thuận giữa các bên về việc xác lập, thay đổi hoặc chấm dứt quyền, nghĩa vụ dân sự."
+  },
+  {
+    "question": "Theo Luật Thương mại năm 2005, hợp đồng thương mại được hiểu là gì?",
+    "a": "Sự thỏa thuận giữa các cá nhân về tiêu dùng.",
+    "b": "Hoạt động giữa các thương nhân nhằm mục đích sinh lợi, bao gồm mua bán hàng hóa, cung ứng dịch vụ, đầu tư và hoạt động thương mại khác.",
+    "c": "Giao dịch dân sự không nhằm mục đích sinh lợi.",
+    "d": "Hợp đồng chỉ áp dụng trong quan hệ lao động.",
+    "answer": "b",
+    "explanation": "Theo khoản 1 Điều 3 Luật Thương mại năm 2005, hoạt động thương mại là hoạt động nhằm mục đích sinh lợi bao gồm mua bán hàng hóa, cung ứng dịch vụ, đầu tư, xúc tiến thương mại và hoạt động khác nhằm mục đích sinh lợi."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự năm 2015, chủ thể của hợp đồng dân sự là ai?",
+    "a": "Chỉ thương nhân.",
+    "b": "Cá nhân, tổ chức.",
+    "c": "Chỉ doanh nghiệp.",
+    "d": "Chỉ tổ chức kinh tế.",
+    "answer": "b",
+    "explanation": "Theo Bộ luật Dân sự năm 2015, chủ thể của quan hệ dân sự là cá nhân, pháp nhân và các chủ thể khác theo quy định của luật."
+  },
+  {
+    "question": "Theo Luật Thương mại năm 2005, hợp đồng thương mại có đặc điểm về chủ thể như thế nào?",
+    "a": "Chỉ cá nhân tham gia.",
+    "b": "Ít nhất một bên phải là thương nhân.",
+    "c": "Không cần chủ thể xác định.",
+    "d": "Chỉ cơ quan nhà nước tham gia.",
+    "answer": "b",
+    "explanation": "Theo Luật Thương mại năm 2005, hoạt động thương mại được thực hiện bởi thương nhân hoặc có ít nhất một bên là thương nhân."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự năm 2015, nội dung hợp đồng dân sự bao gồm những gì?",
+    "a": "Chỉ giá và đối tượng hợp đồng.",
+    "b": "Chỉ quyền và nghĩa vụ các bên.",
+    "c": "Các điều khoản cơ bản như đối tượng, số lượng, chất lượng, giá, phương thức thanh toán, quyền và nghĩa vụ các bên.",
+    "d": "Chỉ do pháp luật quy định bắt buộc toàn bộ nội dung.",
+    "answer": "c",
+    "explanation": "Theo Điều 398 Bộ luật Dân sự năm 2015, hợp đồng có thể bao gồm các nội dung như đối tượng, số lượng, chất lượng, giá, phương thức thanh toán, quyền và nghĩa vụ các bên."
+  },
+  {
+    "question": "Theo Luật Thương mại năm 2005, cơ quan giải quyết tranh chấp trong hợp đồng thương mại là gì?",
+    "a": "Chỉ Tòa án.",
+    "b": "Tòa án hoặc Trọng tài thương mại.",
+    "c": "UBND cấp xã.",
+    "d": "Cơ quan công chứng.",
+    "answer": "b",
+    "explanation": "Theo Luật Thương mại năm 2005, tranh chấp thương mại có thể được giải quyết tại Tòa án hoặc Trọng tài thương mại theo thỏa thuận của các bên."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự năm 2015, mức phạt vi phạm hợp đồng dân sự được quy định như thế nào?",
+    "a": "Bị giới hạn tối đa 8%.",
+    "b": "Không bị giới hạn mức phạt.",
+    "c": "Tối đa 5%.",
+    "d": "Không được phép phạt vi phạm.",
+    "answer": "b",
+    "explanation": "Theo Bộ luật Dân sự năm 2015, các bên được quyền thỏa thuận mức phạt vi phạm mà không bị giới hạn trần như trong Luật Thương mại."
+  },
+  {
+    "question": "Theo Luật Thương mại năm 2005, mức phạt vi phạm hợp đồng thương mại tối đa là bao nhiêu?",
+    "a": "5% giá trị phần nghĩa vụ vi phạm.",
+    "b": "8% giá trị phần nghĩa vụ hợp đồng bị vi phạm.",
+    "c": "10% giá trị hợp đồng.",
+    "d": "Không giới hạn.",
+    "answer": "b",
+    "explanation": "Theo Điều 301 Luật Thương mại năm 2005, mức phạt vi phạm không quá 8% giá trị phần nghĩa vụ hợp đồng bị vi phạm."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự năm 2015, hợp đồng dân sự có hiệu lực khi nào?",
+    "a": "Khi được công chứng bắt buộc.",
+    "b": "Khi các bên ký kết hợp đồng hợp pháp.",
+    "c": "Khi được đăng ký tại cơ quan nhà nước.",
+    "d": "Khi được UBND xác nhận.",
+    "answer": "b",
+    "explanation": "Theo Điều 401 Bộ luật Dân sự năm 2015, hợp đồng có hiệu lực từ thời điểm giao kết hợp pháp, trừ trường hợp có thỏa thuận hoặc luật quy định khác."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự năm 2015, hợp đồng dân sự được xác lập bằng hình thức nào?",
+    "a": "Chỉ bằng văn bản.",
+    "b": "Bằng văn bản, lời nói hoặc hành vi cụ thể.",
+    "c": "Chỉ bằng công chứng.",
+    "d": "Chỉ bằng đăng ký tại cơ quan nhà nước.",
+    "answer": "b",
+    "explanation": "Theo Điều 119 Bộ luật Dân sự năm 2015, giao dịch dân sự có thể được xác lập bằng lời nói, văn bản hoặc hành vi cụ thể, trừ trường hợp luật quy định phải bằng văn bản."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự năm 2015, để giao dịch dân sự được xác lập thông qua người đại diện thì điều kiện bắt buộc là gì?",
+    "a": "Người đại diện phải có quyền đại diện và nhân danh bên được đại diện xác lập giao dịch.",
+    "b": "Người đại diện chỉ cần có năng lực hành vi dân sự đầy đủ.",
+    "c": "Người đại diện phải là người thân thích của bên được đại diện.",
+    "d": "Người đại diện phải được cơ quan nhà nước xác nhận.",
+    "answer": "a",
+    "explanation": "Theo Điều 134 và Điều 138 Bộ luật Dân sự năm 2015, giao dịch dân sự thông qua đại diện chỉ có giá trị khi người đại diện có quyền đại diện và nhân danh người được đại diện xác lập giao dịch."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự năm 2015, việc xác định năng lực đại diện cần căn cứ vào yếu tố nào sau đây?",
+    "a": "Đại diện theo pháp luật hoặc đại diện theo ủy quyền.",
+    "b": "Chỉ dựa vào giấy chứng minh nhân dân.",
+    "c": "Chỉ dựa vào hợp đồng dân sự.",
+    "d": "Chỉ dựa vào sự thỏa thuận miệng.",
+    "answer": "a",
+    "explanation": "Theo quy định của Bộ luật Dân sự năm 2015, đại diện được xác lập theo hai căn cứ là đại diện theo pháp luật và đại diện theo ủy quyền (Điều 134, Điều 138)."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự năm 2015, người đại diện theo ủy quyền phải đáp ứng điều kiện nào?",
+    "a": "Có năng lực hành vi dân sự phù hợp với nội dung ủy quyền, trừ trường hợp pháp luật có quy định khác.",
+    "b": "Bắt buộc phải đủ 18 tuổi trở lên trong mọi trường hợp.",
+    "c": "Phải là người có hộ khẩu thường trú cùng địa phương.",
+    "d": "Phải là người thân trong gia đình.",
+    "answer": "a",
+    "explanation": "Theo Điều 138 Bộ luật Dân sự năm 2015, người đại diện theo ủy quyền phải có năng lực hành vi dân sự phù hợp với phạm vi đại diện, trừ trường hợp luật có quy định khác."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự năm 2015, người từ đủ 15 tuổi đến chưa đủ 18 tuổi có thể là người đại diện theo ủy quyền trong trường hợp nào?",
+    "a": "Chỉ khi pháp luật không quy định giao dịch phải do người từ đủ 18 tuổi xác lập.",
+    "b": "Trong mọi giao dịch dân sự.",
+    "c": "Chỉ khi có sự đồng ý của UBND.",
+    "d": "Không được làm người đại diện trong bất kỳ trường hợp nào.",
+    "answer": "a",
+    "explanation": "Theo khoản 3 Điều 138 Bộ luật Dân sự năm 2015, người từ đủ 15 đến dưới 18 tuổi có thể là người đại diện theo ủy quyền, trừ trường hợp pháp luật quy định giao dịch phải do người đủ 18 tuổi xác lập."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự năm 2015, phạm vi đại diện được xác định như thế nào?",
+    "a": "Theo nội dung ủy quyền hoặc quyết định của cơ quan có thẩm quyền.",
+    "b": "Theo ý chí riêng của người đại diện.",
+    "c": "Theo phong tục tập quán.",
+    "d": "Không cần xác định phạm vi.",
+    "answer": "a",
+    "explanation": "Theo Điều 141 Bộ luật Dân sự năm 2015, phạm vi đại diện được xác định theo nội dung ủy quyền hoặc quyết định của cơ quan có thẩm quyền."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự năm 2015, người được ủy quyền trong giao dịch chuyển nhượng bất động sản có thể nhận tiền đặt cọc không?",
+    "a": "Không, nếu phạm vi ủy quyền không bao gồm việc nhận đặt cọc.",
+    "b": "Có, trong mọi trường hợp.",
+    "c": "Chỉ cần có giấy ủy quyền là được.",
+    "d": "Luôn luôn được nhận đặt cọc.",
+    "answer": "a",
+    "explanation": "Theo Điều 141 Bộ luật Dân sự năm 2015, người đại diện chỉ được thực hiện giao dịch trong phạm vi được ủy quyền. Nếu hợp đồng ủy quyền chỉ về chuyển nhượng bất động sản mà không có nội dung nhận đặt cọc thì không được thực hiện việc nhận đặt cọc."
+  },
+  {
+    "question": "Theo Luật Công chứng năm 2024, công chứng viên cần lưu ý gì khi kiểm tra giao dịch ủy quyền?",
+    "a": "Phải kiểm tra phạm vi ủy quyền và hiệu lực của hợp đồng ủy quyền tại thời điểm công chứng.",
+    "b": "Chỉ cần kiểm tra chữ ký của các bên.",
+    "c": "Không cần kiểm tra hiệu lực ủy quyền.",
+    "d": "Chỉ cần bản photo hợp đồng ủy quyền.",
+    "answer": "a",
+    "explanation": "Theo Luật Công chứng năm 2024, công chứng viên có trách nhiệm kiểm tra tính xác thực, hợp pháp của hợp đồng, bao gồm hiệu lực và phạm vi ủy quyền của người đại diện tại thời điểm công chứng."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự năm 2015, giao dịch do người không có quyền đại diện xác lập có hậu quả pháp lý như thế nào?",
+    "a": "Không làm phát sinh quyền, nghĩa vụ đối với người được đại diện, trừ trường hợp được chấp nhận.",
+    "b": "Luôn luôn có hiệu lực.",
+    "c": "Chỉ vô hiệu một phần.",
+    "d": "Luôn được công nhận hợp pháp.",
+    "answer": "a",
+    "explanation": "Theo Điều 142 Bộ luật Dân sự năm 2015, giao dịch do người không có quyền đại diện xác lập không làm phát sinh quyền và nghĩa vụ đối với người được đại diện, trừ trường hợp được chấp nhận hoặc luật có quy định khác."
+  },
+  {
+    "question": "Theo Luật Công chứng năm 2024, công chứng viên phải xử lý thế nào khi phát hiện hợp đồng ủy quyền đã bị hủy nhưng vẫn được sử dụng?",
+    "a": "Phải kiểm tra tình trạng pháp lý của hợp đồng và từ chối công chứng nếu hợp đồng ủy quyền đã chấm dứt hiệu lực.",
+    "b": "Vẫn công chứng nếu có bản sao hợp đồng.",
+    "c": "Không cần kiểm tra hiệu lực ủy quyền.",
+    "d": "Chỉ cần người yêu cầu cam kết.",
+    "answer": "a",
+    "explanation": "Theo Luật Công chứng năm 2024, công chứng viên phải kiểm tra tính hợp pháp và hiệu lực của giao dịch, bao gồm việc xác minh hợp đồng ủy quyền còn hiệu lực hay đã bị chấm dứt."
+  },
+  {
+    "question": "Ông A (16 tuổi) và bà B (16 tuổi) kết hôn, sinh được con C (3 tuổi). Hiện ông A bị bắt giam, bà B mất tích, không xác định được nơi cư trú. Theo Bộ luật Dân sự năm 2015, ai là người đại diện xác lập giao dịch đối với tài sản của C?",
+    "a": "Ông bà nội hoặc ông bà ngoại của C với tư cách người giám hộ theo quy định pháp luật.",
+    "b": "C tự mình xác lập giao dịch.",
+    "c": "Cha mẹ C vẫn là người đại diện theo pháp luật.",
+    "d": "Cơ quan công chứng xác lập thay.",
+    "answer": "a",
+    "explanation": "Theo Điều 52 Bộ luật Dân sự năm 2015, trong trường hợp cha mẹ không đủ điều kiện làm người đại diện thì phát sinh giám hộ. Trường hợp cha mẹ không thể thực hiện quyền đại diện (bị bắt giam, mất tích), người giám hộ đương nhiên là ông bà nội, ông bà ngoại."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự năm 2015, người từ đủ 15 đến chưa đủ 18 tuổi khi cha mẹ không đủ điều kiện làm người đại diện thì việc xác lập giao dịch dân sự được thực hiện như thế nào?",
+    "a": "Người chưa thành niên tự xác lập, cha mẹ hoặc người giám hộ đồng ý tùy phạm vi luật định.",
+    "b": "Người chưa thành niên không được tham gia giao dịch.",
+    "c": "Chỉ công chứng viên được xác lập giao dịch thay.",
+    "d": "UBND xã xác lập thay.",
+    "answer": "a",
+    "explanation": "Theo Điều 21 và Điều 138 Bộ luật Dân sự năm 2015, người từ đủ 15 đến dưới 18 tuổi có thể tự xác lập giao dịch nhưng phải có sự đồng ý của người đại diện theo pháp luật đối với giao dịch luật định."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự năm 2015, người bị hạn chế năng lực hành vi dân sự khi xác lập giao dịch liên quan tài sản thì ai là người xác lập giao dịch?",
+    "a": "Chính người bị hạn chế NLHVDS nhưng phải có sự đồng ý của người đại diện theo pháp luật trong phạm vi luật định.",
+    "b": "Người đại diện theo pháp luật xác lập toàn bộ giao dịch thay.",
+    "c": "Không ai được xác lập giao dịch.",
+    "d": "Tòa án trực tiếp xác lập giao dịch.",
+    "answer": "a",
+    "explanation": "Theo Điều 24 Bộ luật Dân sự năm 2015, người bị hạn chế năng lực hành vi dân sự tự xác lập giao dịch nhưng phải có sự đồng ý của người đại diện theo pháp luật đối với giao dịch liên quan tài sản, trừ giao dịch phục vụ nhu cầu sinh hoạt hàng ngày."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự năm 2015, người có khó khăn trong nhận thức, làm chủ hành vi được xác định như thế nào?",
+    "a": "Do Tòa án ra quyết định trên cơ sở kết luận giám định pháp y tâm thần và chỉ định người giám hộ.",
+    "b": "Do công chứng viên xác định tại thời điểm ký hợp đồng.",
+    "c": "Do UBND cấp xã xác nhận.",
+    "d": "Do gia đình tự xác định.",
+    "answer": "a",
+    "explanation": "Theo Điều 23 và Điều 48 Bộ luật Dân sự năm 2015, Tòa án có thẩm quyền tuyên bố người có khó khăn trong nhận thức, làm chủ hành vi trên cơ sở kết luận giám định và chỉ định người giám hộ."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự năm 2015, người mất năng lực hành vi dân sự khi xác lập giao dịch thì ai là người thực hiện giao dịch?",
+    "a": "Người đại diện theo pháp luật xác lập, thực hiện giao dịch thay.",
+    "b": "Người mất NLHVDS tự ký nếu có mặt công chứng viên.",
+    "c": "UBND xã xác lập thay.",
+    "d": "Người thân bất kỳ có thể ký thay.",
+    "answer": "a",
+    "explanation": "Theo Điều 22 Bộ luật Dân sự năm 2015, giao dịch dân sự của người mất năng lực hành vi dân sự phải do người đại diện theo pháp luật xác lập, thực hiện."
+  },
+  {
+    "question": "Theo Luật Hôn nhân và Gia đình năm 2014, cha mẹ là người đại diện theo pháp luật của con trong trường hợp nào?",
+    "a": "Con chưa thành niên hoặc con đã thành niên nhưng mất năng lực hành vi dân sự.",
+    "b": "Chỉ khi con dưới 6 tuổi.",
+    "c": "Chỉ khi có ủy quyền của Tòa án.",
+    "d": "Không bao giờ là người đại diện.",
+    "answer": "a",
+    "explanation": "Theo Điều 73 Luật Hôn nhân và Gia đình năm 2014, cha mẹ là người đại diện theo pháp luật của con chưa thành niên và con đã thành niên mất năng lực hành vi dân sự."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự năm 2015, giám hộ đương nhiên được đặt ra trong trường hợp nào?",
+    "a": "Khi người được giám hộ không còn cha mẹ hoặc cha mẹ không đủ điều kiện thực hiện quyền đại diện.",
+    "b": "Khi người được giám hộ có tài sản lớn.",
+    "c": "Khi công chứng viên yêu cầu.",
+    "d": "Khi UBND cấp xã quyết định.",
+    "answer": "a",
+    "explanation": "Theo Điều 52 Bộ luật Dân sự năm 2015, giám hộ đương nhiên phát sinh khi người chưa thành niên hoặc người mất năng lực hành vi dân sự không còn cha mẹ hoặc cha mẹ không đủ điều kiện làm người đại diện."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự năm 2015, người bị mất năng lực hành vi dân sự trong trường hợp không còn cha mẹ thì cơ chế đại diện nào được áp dụng?",
+    "a": "Giám hộ theo quy định của pháp luật dân sự.",
+    "b": "Tự xác lập giao dịch.",
+    "c": "Không được tham gia giao dịch.",
+    "d": "Công chứng viên làm người đại diện.",
+    "answer": "a",
+    "explanation": "Theo Điều 53 Bộ luật Dân sự năm 2015, trường hợp không có cha mẹ thì người giám hộ được xác lập theo quy định về giám hộ đương nhiên."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự năm 2015, giao dịch của người có khó khăn trong nhận thức, làm chủ hành vi phải tuân theo nguyên tắc nào?",
+    "a": "Thực hiện theo phạm vi đại diện do Tòa án quyết định.",
+    "b": "Tự do xác lập giao dịch không cần giám sát.",
+    "c": "Luôn vô hiệu.",
+    "d": "Chỉ cần công chứng là hợp pháp.",
+    "answer": "a",
+    "explanation": "Theo Điều 23 Bộ luật Dân sự năm 2015, Tòa án xác định phạm vi quyền và nghĩa vụ của người giám hộ, làm căn cứ để xác lập giao dịch dân sự hợp pháp."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự năm 2015, người chưa thành niên trong trường hợp đặc biệt khi cha mẹ đều không đủ điều kiện làm đại diện thì áp dụng cơ chế nào?",
+    "a": "Giám hộ đương nhiên theo quy định của pháp luật dân sự.",
+    "b": "Không cần người đại diện.",
+    "c": "Công chứng viên xác lập giao dịch thay.",
+    "d": "UBND xã ký thay.",
+    "answer": "a",
+    "explanation": "Theo Điều 52 Bộ luật Dân sự năm 2015, khi cha mẹ không đủ điều kiện làm người đại diện thì phát sinh cơ chế giám hộ đương nhiên để bảo vệ quyền lợi của người chưa thành niên."
+  },
+  {
+    "question": "Bé A (5 tuổi) được cha mẹ ký hợp đồng chuyển nhượng một tài sản đứng tên bé A. Theo Bộ luật Dân sự năm 2015, việc xác lập giao dịch này hợp pháp hay không và ai là người đại diện?",
+    "a": "Hợp pháp, cha mẹ là người đại diện theo pháp luật xác lập giao dịch thay cho bé A.",
+    "b": "Không hợp pháp vì người 5 tuổi phải tự ký hợp đồng.",
+    "c": "Hợp pháp nếu có công chứng viên chứng kiến.",
+    "d": "Không hợp pháp vì người chưa đủ 6 tuổi không có quyền tài sản.",
+    "answer": "a",
+    "explanation": "Theo khoản 2 Điều 21 BLDS 2015, người chưa đủ 6 tuổi khi xác lập giao dịch dân sự thì người đại diện theo pháp luật (cha mẹ hoặc người giám hộ) sẽ xác lập, thực hiện giao dịch thay."
+  },
+  {
+    "question": "Bé B (7 tuổi) bán một chiếc xe đạp của mình để mua điện thoại, giao dịch có chữ ký của bé và sự đồng ý miệng của cha mẹ. Theo Bộ luật Dân sự 2015, giao dịch này được đánh giá như thế nào?",
+    "a": "Hợp pháp vì có sự đồng ý của người đại diện theo pháp luật.",
+    "b": "Vô hiệu vì người từ 6 đến dưới 15 tuổi không được giao dịch.",
+    "c": "Vô hiệu vì phải do cha mẹ ký thay toàn bộ.",
+    "d": "Hợp pháp vì bé đã đủ 7 tuổi.",
+    "answer": "a",
+    "explanation": "Theo khoản 3 Điều 21 BLDS 2015, người từ đủ 6 đến dưới 15 tuổi khi xác lập giao dịch dân sự phải được người đại diện theo pháp luật đồng ý, trừ giao dịch sinh hoạt hàng ngày phù hợp lứa tuổi."
+  },
+  {
+    "question": "Ông C là cha của bé D (12 tuổi), sử dụng tiền tiết kiệm đứng tên bé D để mua xe máy phục vụ gia đình. Bé D không đồng ý. Theo Luật Hôn nhân và Gia đình năm 2014, hành vi này được đánh giá như thế nào?",
+    "a": "Có thể hợp pháp nếu vì lợi ích của con và phù hợp quy định quản lý tài sản của con.",
+    "b": "Luôn vô hiệu vì cha mẹ không được động vào tài sản của con.",
+    "c": "Hợp pháp vì cha mẹ có toàn quyền tài sản của con.",
+    "d": "Vô hiệu vì phải có sự đồng ý của UBND.",
+    "answer": "a",
+    "explanation": "Theo khoản 1 Điều 77 Luật HNGĐ 2014, cha mẹ quản lý tài sản riêng của con dưới 15 tuổi và có quyền định đoạt vì lợi ích của con, nhưng phải xem xét nguyện vọng của con từ đủ 9 tuổi trở lên."
+  },
+  {
+    "question": "Anh E (17 tuổi) ký hợp đồng bán căn nhà do mình đứng tên, nhưng không có sự đồng ý của cha mẹ. Theo Bộ luật Dân sự năm 2015, giao dịch này có hiệu lực không?",
+    "a": "Không có hiệu lực vì là giao dịch liên quan bất động sản cần người đại diện đồng ý.",
+    "b": "Có hiệu lực vì người 17 tuổi được tự do giao dịch.",
+    "c": "Có hiệu lực nếu đã công chứng.",
+    "d": "Có hiệu lực nếu bên mua đồng ý.",
+    "answer": "a",
+    "explanation": "Theo khoản 4 Điều 21 BLDS 2015, người từ đủ 15 đến dưới 18 tuổi được tự xác lập giao dịch nhưng giao dịch liên quan bất động sản phải có sự đồng ý của người đại diện theo pháp luật."
+  },
+  {
+    "question": "Chị H (16 tuổi) dùng tài sản riêng để kinh doanh và ký hợp đồng thuê mặt bằng mà không có sự đồng ý của cha mẹ. Theo Luật HNGĐ 2014, giao dịch này được xử lý như thế nào?",
+    "a": "Có thể hợp pháp nếu cha mẹ đồng ý bằng văn bản đối với giao dịch kinh doanh.",
+    "b": "Luôn vô hiệu vì người dưới 18 tuổi không được kinh doanh.",
+    "c": "Luôn hợp pháp vì đã đủ 15 tuổi.",
+    "d": "Vô hiệu vì không được kinh doanh.",
+    "answer": "a",
+    "explanation": "Theo khoản 2 Điều 77 Luật HNGĐ 2014, người từ đủ 15 đến dưới 18 tuổi được định đoạt tài sản riêng, nhưng nếu dùng để kinh doanh thì phải có sự đồng ý của cha mẹ hoặc người giám hộ."
+  },
+  {
+    "question": "Ông K là người giám hộ của bà L (bị hạn chế năng lực hành vi dân sự). Ông K tự ý bán tài sản của bà L mà không có sự đồng ý của bà. Theo Bộ luật Dân sự 2015, giao dịch này được đánh giá như thế nào?",
+    "a": "Không hợp pháp nếu vượt quá phạm vi đại diện do pháp luật quy định.",
+    "b": "Luôn hợp pháp vì người giám hộ có toàn quyền.",
+    "c": "Luôn vô hiệu vì người giám hộ không được giao dịch.",
+    "d": "Hợp pháp nếu có công chứng.",
+    "answer": "a",
+    "explanation": "Theo Điều 24 BLDS 2015, người bị hạn chế năng lực hành vi dân sự tự xác lập giao dịch nhưng phải có sự đồng ý của người đại diện theo pháp luật trong phạm vi luật định."
+  },
+  {
+    "question": "Bà M bị Tòa án tuyên là người có khó khăn trong nhận thức, làm chủ hành vi. Khi xác lập hợp đồng tặng cho tài sản, bà M tự ký hợp đồng mà không có người giám hộ. Theo pháp luật, giao dịch này xử lý thế nào?",
+    "a": "Có thể vô hiệu nếu vượt quá phạm vi đại diện do Tòa án quyết định.",
+    "b": "Luôn hợp pháp vì bà M còn năng lực hành vi.",
+    "c": "Luôn hợp pháp nếu có công chứng.",
+    "d": "Không cần người giám hộ trong mọi trường hợp.",
+    "answer": "a",
+    "explanation": "Theo Điều 23 và Điều 48 BLDS 2015, người có khó khăn trong nhận thức phải có người giám hộ và phạm vi đại diện do Tòa án quyết định."
+  },
+  {
+    "question": "Ông N bị Tòa án tuyên mất năng lực hành vi dân sự, nhưng vẫn tự ký hợp đồng bán đất. Theo Bộ luật Dân sự năm 2015, giao dịch này có hiệu lực không?",
+    "a": "Không có hiệu lực vì phải do người đại diện theo pháp luật xác lập.",
+    "b": "Có hiệu lực vì ông N vẫn còn quyền dân sự.",
+    "c": "Có hiệu lực nếu được công chứng.",
+    "d": "Có hiệu lực nếu bên mua đồng ý.",
+    "answer": "a",
+    "explanation": "Theo Điều 22 BLDS 2015, giao dịch của người mất năng lực hành vi dân sự phải do người đại diện theo pháp luật xác lập, thực hiện."
+  },
+  {
+    "question": "Bé P (10 tuổi) tự ý bán điện thoại của mình mà không hỏi ý kiến cha mẹ. Theo Bộ luật Dân sự năm 2015, giao dịch này được đánh giá như thế nào?",
+    "a": "Không hợp pháp vì phải có sự đồng ý của người đại diện theo pháp luật.",
+    "b": "Hợp pháp vì bé đã trên 9 tuổi.",
+    "c": "Luôn hợp pháp nếu giá trị nhỏ.",
+    "d": "Hợp pháp nếu đã giao tiền.",
+    "answer": "a",
+    "explanation": "Theo khoản 3 Điều 21 BLDS 2015, người từ đủ 6 đến dưới 15 tuổi khi xác lập giao dịch dân sự phải có sự đồng ý của người đại diện theo pháp luật, trừ giao dịch sinh hoạt hàng ngày."
+  },
+  {
+    "question": "Anh Q (14 tuổi) ký hợp đồng mua xe máy đứng tên mình. Cha mẹ không đồng ý. Theo pháp luật hiện hành, giao dịch này xử lý thế nào?",
+    "a": "Không có hiệu lực vì người dưới 15 tuổi phải có sự đồng ý của người đại diện.",
+    "b": "Có hiệu lực vì đã đủ 14 tuổi.",
+    "c": "Có hiệu lực nếu đã công chứng.",
+    "d": "Luôn hợp pháp vì có tài sản riêng.",
+    "answer": "a",
+    "explanation": "Theo khoản 3 Điều 21 BLDS 2015, người từ đủ 6 đến dưới 15 tuổi phải được người đại diện theo pháp luật đồng ý khi xác lập giao dịch dân sự."
+  },
   {
     "question": "Theo BLDS 2015, ông A và bà B đã ký hợp đồng chuyển nhượng quyền sử dụng đất có công chứng. Sau đó hai bên thống nhất thay đổi giá chuyển nhượng từ 3 tỷ đồng lên 4 tỷ đồng. Nhận định nào đúng?",
     "a": "Không được sửa đổi vì hợp đồng đã có hiệu lực.",
