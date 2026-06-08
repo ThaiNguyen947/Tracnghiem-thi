@@ -1,4 +1,76 @@
 [
+  {
+    "question": "Theo BLDS 2015, ông A và bà B đã ký hợp đồng chuyển nhượng quyền sử dụng đất có công chứng. Sau đó hai bên thống nhất thay đổi giá chuyển nhượng từ 3 tỷ đồng lên 4 tỷ đồng. Nhận định nào đúng?",
+    "a": "Không được sửa đổi vì hợp đồng đã có hiệu lực.",
+    "b": "Được sửa đổi nếu các bên có thỏa thuận và việc sửa đổi tuân thủ hình thức của hợp đồng ban đầu.",
+    "c": "Chỉ được sửa đổi khi có quyết định của Tòa án.",
+    "d": "Chỉ bên nhận chuyển nhượng được quyền yêu cầu sửa đổi.",
+    "answer": "b",
+    "explanation": "Điều 421 BLDS 2015 quy định các bên có thể thỏa thuận sửa đổi hợp đồng. Trường hợp hợp đồng được lập bằng hình thức nhất định theo quy định pháp luật thì việc sửa đổi hợp đồng cũng phải tuân theo hình thức đó."
+  },
+  {
+    "question": "Theo BLDS 2015, ông M và bà N ký hợp đồng thuê nhà có công chứng thời hạn 10 năm. Sau 03 năm, do hoàn cảnh thay đổi cơ bản làm cho việc tiếp tục thực hiện hợp đồng gây thiệt hại nghiêm trọng cho một bên. Trong trường hợp này, hợp đồng có thể được sửa đổi hay không?",
+    "a": "Không thể sửa đổi trong bất kỳ trường hợp nào.",
+    "b": "Có thể được sửa đổi khi đáp ứng điều kiện về hoàn cảnh thay đổi cơ bản theo quy định pháp luật.",
+    "c": "Chỉ được hủy bỏ hợp đồng.",
+    "d": "Đương nhiên chấm dứt hợp đồng.",
+    "answer": "b",
+    "explanation": "Điều 421 BLDS 2015 quy định hợp đồng có thể được sửa đổi khi hoàn cảnh thay đổi cơ bản theo quy định của Bộ luật Dân sự."
+  },
+  {
+    "question": "Theo  BLDS 2015, ông A và bà B đã hoàn thành toàn bộ quyền và nghĩa vụ trong hợp đồng mua bán tài sản. Khi đó hợp đồng chấm dứt trong trường hợp nào?",
+    "a": "Khi một bên yêu cầu chấm dứt.",
+    "b": "Khi được công chứng lại.",
+    "c": "Khi hợp đồng đã được hoàn thành.",
+    "d": "Khi cơ quan nhà nước chấp thuận.",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 422 BLDS 2015 quy định hợp đồng chấm dứt khi hợp đồng đã được hoàn thành."
+  },
+  {
+    "question": "Theo  BLDS 2015, ông H ủy quyền cho ông K thay mặt mình thực hiện thủ tục nhận tiền bồi thường. Trước khi thực hiện xong công việc, ông H chết. Nhận định nào đúng?",
+    "a": "Hợp đồng ủy quyền vẫn tiếp tục có hiệu lực vô thời hạn.",
+    "b": "Hợp đồng chấm dứt vì cá nhân giao kết hợp đồng chết và công việc phải do chính người đó thực hiện.",
+    "c": "Người được ủy quyền tự động trở thành người thừa kế.",
+    "d": "Hợp đồng chuyển thành hợp đồng tặng cho.",
+    "answer": "b",
+    "explanation": "Khoản 3 Điều 422 BLDS 2015 quy định hợp đồng chấm dứt khi cá nhân giao kết hợp đồng chết mà hợp đồng phải do chính cá nhân đó thực hiện."
+  },
+  {
+    "question": "Theo  BLDS 2015, ông A bán cho bà B một bức tranh độc bản. Trước ngày giao tài sản, bức tranh bị cháy hoàn toàn do sự kiện bất khả kháng và không còn tồn tại. Hợp đồng có thể chấm dứt trong trường hợp nào?",
+    "a": "Do đối tượng của hợp đồng không còn.",
+    "b": "Do một bên thay đổi ý kiến.",
+    "c": "Do hợp đồng đã hoàn thành.",
+    "d": "Do hết thời hiệu khởi kiện.",
+    "answer": "a",
+    "explanation": "Khoản 5 Điều 422 BLDS 2015 quy định hợp đồng chấm dứt khi hợp đồng không thể thực hiện được do đối tượng của hợp đồng không còn."
+  },
+  {
+    "question": "Theo  BLDS 2015, ông A và bà B cùng thống nhất chấm dứt hợp đồng thuê nhà trước thời hạn. Nhận định nào đúng?",
+    "a": "Không được chấm dứt vì hợp đồng còn thời hạn.",
+    "b": "Chỉ Tòa án mới có quyền chấm dứt hợp đồng.",
+    "c": "Hợp đồng chấm dứt theo thỏa thuận của các bên.",
+    "d": "Bắt buộc phải bồi thường thiệt hại mới được chấm dứt.",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 422 BLDS 2015 quy định hợp đồng chấm dứt theo thỏa thuận của các bên."
+  },
+  {
+    "question": "Theo BLDS 2015, hợp đồng mua bán nhà ở đã bị Tòa án tuyên hủy bỏ do có hành vi lừa dối khi giao kết. Hậu quả nào sau đây đúng?",
+    "a": "Hợp đồng vẫn tiếp tục có hiệu lực.",
+    "b": "Hợp đồng chấm dứt do bị hủy bỏ.",
+    "c": "Chỉ điều khoản thanh toán bị vô hiệu.",
+    "d": "Hợp đồng tự động chuyển thành hợp đồng tặng cho.",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 422 BLDS 2015 quy định hợp đồng chấm dứt khi bị hủy bỏ hoặc bị đơn phương chấm dứt thực hiện."
+  },
+  {
+    "question": "Theo BLDS 2015, do hoàn cảnh thay đổi cơ bản, việc tiếp tục thực hiện hợp đồng trở nên đặc biệt bất lợi cho một bên và các bên không đạt được thỏa thuận sửa đổi. Khi có đủ điều kiện luật định, hợp đồng có thể chấm dứt trong trường hợp nào?",
+    "a": "Chấm dứt do hoàn cảnh thay đổi cơ bản.",
+    "b": "Chấm dứt vì hết thời hiệu.",
+    "c": "Chấm dứt vì một bên không hài lòng.",
+    "d": "Không được chấm dứt.",
+    "answer": "a",
+    "explanation": "Khoản 6 Điều 422 BLDS 2015 quy định hợp đồng chấm dứt khi hoàn cảnh thay đổi cơ bản theo quy định của Bộ luật Dân sự."
+  },
  {
     "question": "Theo Luật Sở hữu trí tuệ và Bộ luật Dân sự 2015, nhà thơ Trần Hoàng Hà đến VPCC Quận 1 yêu cầu công chứng hợp đồng chuyển nhượng quyền tác giả đối với tập thơ X cho Công ty CP phát hành sách Nam Việt. Tập thơ chưa xuất bản, chưa công bố nhưng ông Hà xuất trình bản thảo viết tay và cam kết là tác giả. Công chứng viên cần xác định vấn đề pháp lý nào trước tiên?",
     "a": "Tác phẩm phải được xuất bản mới được chuyển nhượng quyền tác giả.",
