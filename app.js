@@ -254,6 +254,10 @@ function startExam() {
   index = 0;
   time = 60 * 60;
 
+  // 1. Xác định giới hạn câu hỏi dựa trên quyền của user
+  const user = JSON.parse(localStorage.getItem("user") || "{}");
+  const targetLimit = (user.role === "admin") ? 50 : 100;
+
   let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
 
   let poolCheck = data.filter(q => !correctPool.includes((q.question || q.cauhoi || "").trim()));
@@ -271,12 +275,13 @@ function startExam() {
   let khoCauHoiCacFile = {};
   let chiTieuMoiFile = {}; 
 
-  console.log(`=== THUẬT TOÁN ĐỀ PHÂN BỔ TRẢI ĐỀU % (TỔNG KHO KHO: ${tongSoCauTrongKho} CÂU) ===`);
+  console.log(`=== THUẬT TOÁN ĐỀ PHÂN BỔ TRẢI ĐỀU (TARGET: ${targetLimit} CÂU) ===`);
 
   danhSachFileThucTe.forEach(fileKey => {
     let tongCauGocCuaFile = data.filter(q => q.fileSource === fileKey).length;
     
-    let quota = Math.round((tongCauGocCuaFile / tongSoCauTrongKho) * 100);
+    // Tính quota dựa trên targetLimit thay vì 100
+    let quota = Math.round((tongCauGocCuaFile / tongSoCauTrongKho) * targetLimit);
     if (quota === 0 && tongCauGocCuaFile > 0) quota = 1; 
     chiTieuMoiFile[fileKey] = quota;
 
@@ -287,8 +292,7 @@ function startExam() {
     let normalInFile = fileQuestions.filter(q => !((q.weight && q.weight > 1) || (q.wrongCount && q.wrongCount > 0)));
     
     khoCauHoiCacFile[fileKey] = [...wrongInFile, ...normalInFile];
-
-    console.log(`• Phần [${fileKey}.json]: Có ${tongCauGocCuaFile} câu (Tỷ lệ: ${((tongCauGocCuaFile/tongSoCauTrongKho)*100).toFixed(1)}%) -> Phải bốc: ${quota} câu. (Kho chưa làm đúng còn: ${khoCauHoiCacFile[fileKey].length} câu)`);
+    console.log(`• Phần [${fileKey}]: Phải bốc: ${quota} câu.`);
   });
 
   let finalSelectedList = [];
@@ -302,73 +306,51 @@ function startExam() {
 
     if (thucTeLay.length < quotaCanLay) {
       let soCauThieu = quotaCanLay - thucTeLay.length;
-      console.log(`    ⚠️ Phần [${fileKey}.json] không đủ câu chưa làm (thiếu ${soCauThieu} câu). Đang lấy từ phần liền kề...`);
-
       let buocNhay = 1;
       while (soCauThieu > 0 && buocNhay < soLuongFile) {
         let indexFileLienKe = (i + buocNhay) % soLuongFile;
         let fileLienKeKey = danhSachFileThucTe[indexFileLienKe];
         let poolLienKe = khoCauHoiCacFile[fileLienKeKey];
-
         if (poolLienKe && poolLienKe.length > 0) {
           let soCauLayBu = Math.min(soCauThieu, poolLienKe.length);
-          let cauBu = poolLienKe.splice(0, soCauLayBu);
-          finalSelectedList = finalSelectedList.concat(cauBu);
+          finalSelectedList = finalSelectedList.concat(poolLienKe.splice(0, soCauLayBu));
           soCauThieu -= soCauLayBu;
-          console.log(`    ➡️ Đã bù đắp thành công ${soCauLayBu} câu chưa làm từ phần liền kề: [${fileLienKeKey}.json]`);
         }
         buocNhay++;
       }
     }
   });
 
-  if (finalSelectedList.length < 100) {
-    let thieuTong = 100 - finalSelectedList.length;
+  // Quét nốt cho đủ targetLimit
+  if (finalSelectedList.length < targetLimit) {
+    let thieuTong = targetLimit - finalSelectedList.length;
     let khoVetCacFile = [];
-    danhSachFileThucTe.forEach(fileKey => {
-      khoVetCacFile = khoVetCacFile.concat(khoCauHoiCacFile[fileKey]);
-    });
+    danhSachFileThucTe.forEach(fileKey => khoVetCacFile = khoVetCacFile.concat(khoCauHoiCacFile[fileKey]));
     
     if (khoVetCacFile.length > 0) {
-      khoVetCacFile = shuffle(khoVetCacFile);
-      let extra = khoVetCacFile.slice(0, thieuTong);
+      let extra = shuffle(khoVetCacFile).slice(0, thieuTong);
       finalSelectedList = finalSelectedList.concat(extra);
-      console.log(`💡 Đã quét nốt ${extra.length} câu còn dư trên toàn hệ thống cho tròn đề 100 câu.`);
     }
   }
 
-  let selected100 = shuffle(finalSelectedList).slice(0, 100);
+  let selectedQuestions = shuffle(finalSelectedList).slice(0, targetLimit);
 
-  // ================= ĐOẠN ĐÃ ĐƯỢC SỬA ĐỂ XÁO TRỘN ĐÁP ÁN CHÍNH XÁC =================
-  questions = selected100.map(q => {
-    let clonedQ = JSON.parse(JSON.stringify(q)); // Deep clone để tránh lỗi xung đột tham chiếu thuộc tính
-    
-    // Lấy đáp án gốc từ file JSON và đưa về chữ thường sạch sẽ
+  // Xử lý xáo trộn đáp án
+  questions = selectedQuestions.map(q => {
+    let clonedQ = JSON.parse(JSON.stringify(q));
     let rawCorrectKey = (clonedQ.answer || clonedQ.trảlời || "").toString().trim().toLowerCase();
     if (rawCorrectKey === "một") rawCorrectKey = "a";
 
-    // Quét động toàn bộ phương án (chấp nhận cả thuộc tính chữ hoa 'A' hoặc chữ thường 'a')
     let optA = clonedQ.a || clonedQ.A || clonedQ.Một || "";
     let optB = clonedQ.b || clonedQ.B || "";
     let optC = clonedQ.c || clonedQ.C || "";
     let optD = clonedQ.d || clonedQ.D || "";
 
     let originalOptions = [
-      { text: optA, key: 'a' },
-      { text: optB, key: 'b' },
-      { text: optC, key: 'c' },
-      { text: optD, key: 'd' }
+      { text: optA, key: 'a' }, { text: optB, key: 'b' }, { text: optC, key: 'c' }, { text: optD, key: 'd' }
     ];
 
-    // Tiến hành xáo trộn vị trí mảng đáp án
     let shuffled = shuffle(originalOptions);
-
-    // THÊM ĐOẠN KIỂM TRA ĐỂ TRÁNH SAI SÓT DỮ LIỆU
-    if (!['a', 'b', 'c', 'd'].includes(rawCorrectKey)) {
-        console.warn("Cảnh báo: Câu hỏi có key đáp án không hợp lệ!", clonedQ.question);
-    }
-
-    // Tìm vị trí mới chính xác tuyệt đối sau khi trộn
     let newCorrectIndex = shuffled.findIndex(opt => opt.key === rawCorrectKey);
     let indexToLetter = ['a', 'b', 'c', 'd'];
     
@@ -378,9 +360,7 @@ function startExam() {
     return clonedQ;
   });
   
-  console.log(`=> ĐỀ THI ĐÃ CHỐT HOÀN CHỈNH: 100 câu hỏi ngẫu nhiên và XÁO TRỘN ĐÁP ÁN thành công.`);
-  console.log("======================================================");
-
+  console.log(`=> ĐỀ THI ĐÃ CHỐT: ${questions.length} CÂU.`);
   render();
   startTimer();
 }
