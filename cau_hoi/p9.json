@@ -1,4 +1,166 @@
 [
+    {
+    "question": "Công ty TNHH X có 2 người đại diện theo pháp luật là ông A và bà B. Điều lệ công ty không quy định rõ quyền hạn của từng người. Khi ký hợp đồng góp vốn với bên thứ ba, ông A tự mình ký hợp đồng mà không có bà B tham gia. Theo Luật Doanh nghiệp năm 2020, giao dịch này được đánh giá như thế nào?",
+    "a": "Hợp pháp vì mỗi người đại diện theo pháp luật đều có đầy đủ thẩm quyền đại diện công ty trước bên thứ ba.",
+    "b": "Vô hiệu vì phải có chữ ký của tất cả người đại diện theo pháp luật.",
+    "c": "Chỉ hợp pháp nếu có biên bản họp HĐTV.",
+    "d": "Vô hiệu vì công ty có nhiều người đại diện.",
+    "answer": "a",
+    "explanation": "Theo khoản 2 Điều 12 Luật Doanh nghiệp 2020, nếu điều lệ không phân định rõ quyền và nghĩa vụ thì mỗi người đại diện theo pháp luật đều có đầy đủ thẩm quyền đại diện công ty trước bên thứ ba và phải chịu trách nhiệm liên đới."
+  },
+  {
+    "question": "Công ty cổ phần Y có 3 người đại diện theo pháp luật. Điều lệ quy định không rõ phân quyền. Ông C ký hợp đồng chuyển nhượng tài sản của công ty với đối tác. Hợp đồng này có hiệu lực như thế nào?",
+    "a": "Có hiệu lực vì mỗi người đại diện đều có quyền đại diện đầy đủ.",
+    "b": "Không có hiệu lực vì phải có nghị quyết HĐQT.",
+    "c": "Vô hiệu vì chỉ Chủ tịch HĐQT mới có quyền ký.",
+    "d": "Chỉ có hiệu lực nếu được công chứng.",
+    "answer": "a",
+    "explanation": "Theo khoản 2 Điều 12 Luật Doanh nghiệp 2020, trong trường hợp không phân định rõ quyền trong điều lệ, mỗi người đại diện theo pháp luật đều có quyền đại diện đầy đủ trước bên thứ ba."
+  },
+  {
+    "question": "Trong một công ty TNHH hai thành viên, biên bản họp Hội đồng thành viên chỉ định ông D là người ký hợp đồng góp vốn. Tuy nhiên, bà E (cũng là người đại diện theo pháp luật) vẫn ký hợp đồng với bên thứ ba. Theo pháp luật doanh nghiệp, hợp đồng này được xử lý như thế nào?",
+    "a": "Phụ thuộc vào việc bên thứ ba có biết hoặc phải biết về việc phân công nội bộ hay không.",
+    "b": "Luôn vô hiệu vì không đúng người được chỉ định.",
+    "c": "Luôn hợp pháp vì bà E là người đại diện theo pháp luật.",
+    "d": "Tự động bị hủy bỏ.",
+    "answer": "a",
+    "explanation": "Theo nguyên tắc đại diện tại Luật Doanh nghiệp 2020 và Bộ luật Dân sự 2015, việc phân công nội bộ chỉ có hiệu lực nội bộ, không làm hạn chế quyền đại diện trước bên thứ ba ngay tình."
+  },
+  {
+    "question": "Công ty X ký hợp đồng góp vốn bằng quyền sử dụng đất. Tuy nhiên, hợp đồng chỉ ghi nhận việc góp vốn mà không thể hiện tỷ lệ phân chia lợi nhuận và rủi ro. Theo bản chất hợp đồng góp vốn, hợp đồng này có rủi ro gì?",
+    "a": "Có thể bị xem xét lại do không thể hiện đúng bản chất phân chia lợi ích và rủi ro của hợp đồng góp vốn.",
+    "b": "Luôn vô hiệu vì không có tỷ lệ lợi nhuận.",
+    "c": "Không có giá trị pháp lý.",
+    "d": "Tự động chuyển thành hợp đồng thuê.",
+    "answer": "a",
+    "explanation": "Bản chất hợp đồng góp vốn là phải thể hiện việc phân chia lợi ích và rủi ro theo tỷ lệ vốn góp ('lợi ích hài hòa, rủi ro chia sẻ'). Nếu không thể hiện rõ có thể dẫn đến tranh chấp về bản chất hợp đồng."
+  },
+  {
+    "question": "Ông H ký hợp đồng góp vốn bằng nhà ở vào công ty, nhưng thực chất các bên thỏa thuận không chuyển quyền sở hữu mà chỉ nhằm mục đích đảm bảo khoản vay. Theo pháp luật dân sự, giao dịch này có thể bị xử lý như thế nào?",
+    "a": "Có thể bị xác định là giao dịch giả tạo.",
+    "b": "Luôn hợp pháp vì có công chứng.",
+    "c": "Luôn là hợp đồng góp vốn hợp pháp.",
+    "d": "Không có giá trị pháp lý trong mọi trường hợp.",
+    "answer": "a",
+    "explanation": "Theo Điều 124 Bộ luật Dân sự 2015, giao dịch dân sự giả tạo nhằm che giấu một giao dịch khác thì bị vô hiệu."
+  },
+  {
+    "question": "Hai nhà đầu tư ký 'Hợp đồng hợp tác kinh doanh' để cùng khai thác dự án bất động sản và chia lợi nhuận, không thành lập doanh nghiệp. Theo Luật Đầu tư, đây là loại hợp đồng nào?",
+    "a": "Hợp đồng hợp tác kinh doanh (BCC).",
+    "b": "Hợp đồng góp vốn thành lập doanh nghiệp.",
+    "c": "Hợp đồng mua bán tài sản.",
+    "d": "Hợp đồng vay vốn.",
+    "answer": "a",
+    "explanation": "Theo Luật Đầu tư 2014, hợp đồng hợp tác kinh doanh (BCC) là hợp đồng giữa các nhà đầu tư nhằm hợp tác kinh doanh phân chia lợi nhuận, sản phẩm mà không thành lập tổ chức kinh tế."
+  },
+  {
+    "question": "Một nhóm nhà đầu tư góp vốn thành lập công ty TNHH và cùng phân chia lợi nhuận theo tỷ lệ vốn góp. Theo Luật Đầu tư, đây là hình thức gì?",
+    "a": "Đầu tư theo hình thức thành lập tổ chức kinh tế.",
+    "b": "Hợp đồng hợp tác kinh doanh (BCC).",
+    "c": "Hợp đồng thuê tài sản.",
+    "d": "Hợp đồng dịch vụ.",
+    "answer": "a",
+    "explanation": "Theo Luật Đầu tư 2020, đầu tư góp vốn để thành lập doanh nghiệp là hình thức đầu tư thành lập tổ chức kinh tế."
+  },
+  {
+    "question": "Trong công ty có nhiều người đại diện theo pháp luật, Điều lệ không phân quyền. Khi phát sinh thiệt hại do một người đại diện ký sai hợp đồng, trách nhiệm được xác định như thế nào?",
+    "a": "Tất cả người đại diện theo pháp luật phải chịu trách nhiệm liên đới.",
+    "b": "Chỉ người ký hợp đồng chịu trách nhiệm.",
+    "c": "Công ty không phải chịu trách nhiệm.",
+    "d": "Bên thứ ba phải chịu trách nhiệm.",
+    "answer": "a",
+    "explanation": "Theo khoản 2 Điều 12 Luật Doanh nghiệp 2020, trong trường hợp không phân định rõ quyền và nghĩa vụ, các người đại diện theo pháp luật phải chịu trách nhiệm liên đới đối với thiệt hại gây ra."
+  },
+  {
+    "question": "Khi công chứng hợp đồng góp vốn bằng quyền sử dụng đất, công chứng viên cần lưu ý điều gì quan trọng nhất?",
+    "a": "Phân biệt hợp đồng góp vốn với hợp đồng vay, hợp đồng thuê khoán và xác định đúng bản chất giao dịch.",
+    "b": "Chỉ cần kiểm tra chữ ký các bên.",
+    "c": "Chỉ cần kiểm tra giấy tờ tùy thân.",
+    "d": "Không cần kiểm tra bản chất giao dịch.",
+    "answer": "a",
+    "explanation": "Trong thực tiễn công chứng, cần phân biệt bản chất hợp đồng góp vốn với các loại hợp đồng khác (vay, thuê khoán…) để tránh giả tạo và xác định đúng quyền, nghĩa vụ của các bên."
+  },
+  {
+    "question": "Ông A ủy quyền cho ông B thực hiện việc chuyển nhượng quyền sử dụng đất. Trong quá trình giao dịch, ông B đứng ra nhận tiền đặt cọc của bên mua để đảm bảo việc chuyển nhượng. Theo pháp luật dân sự, hành vi này được đánh giá như thế nào?",
+    "a": "Không hợp pháp nếu hợp đồng ủy quyền không ghi rõ quyền nhận đặt cọc.",
+    "b": "Luôn hợp pháp vì đã được ủy quyền chuyển nhượng.",
+    "c": "Luôn hợp pháp vì đặt cọc là giao dịch phụ.",
+    "d": "Không cần ủy quyền vẫn được nhận đặt cọc.",
+    "answer": "a",
+    "explanation": "Theo Bộ luật Dân sự 2015, người đại diện chỉ được thực hiện giao dịch trong phạm vi ủy quyền. Nếu phạm vi ủy quyền chỉ là chuyển nhượng quyền sử dụng đất mà không bao gồm quyền nhận đặt cọc thì việc nhận đặt cọc là vượt quá phạm vi đại diện."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự năm 2015, trong mọi trường hợp giao dịch dân sự của người chưa thành niên thì ai là người xác lập?",
+    "a": "Cha mẹ hoặc người giám hộ tùy từng trường hợp theo quy định pháp luật.",
+    "b": "Người chưa thành niên tự xác lập.",
+    "c": "Công chứng viên xác lập thay.",
+    "d": "Tòa án xác lập.",
+    "answer": "a",
+    "explanation": "Theo Điều 21 Bộ luật Dân sự 2015, người chưa thành niên có các mức độ năng lực hành vi khác nhau; không phải mọi trường hợp đều do cha mẹ hoặc người giám hộ, mà phụ thuộc độ tuổi và tình trạng pháp lý."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự năm 2015, trong mọi trường hợp giao dịch dân sự của người chưa thành niên đều phải do người giám hộ thực hiện. Nhận định này đúng hay sai?",
+    "a": "Sai, vì chỉ một số trường hợp mới phát sinh giám hộ theo luật định.",
+    "b": "Đúng trong mọi trường hợp.",
+    "c": "Đúng nếu người chưa thành niên trên 15 tuổi.",
+    "d": "Đúng nếu giao dịch có công chứng.",
+    "answer": "a",
+    "explanation": "Theo Điều 21 và Điều 52 Bộ luật Dân sự 2015, chỉ khi không còn cha mẹ hoặc cha mẹ không đủ điều kiện thì mới phát sinh cơ chế giám hộ."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự năm 2015, cha mẹ có phải là người giám hộ của người chưa thành niên trong mọi trường hợp không?",
+    "a": "Không, cha mẹ là người đại diện theo pháp luật, chỉ khi không đủ điều kiện mới phát sinh giám hộ.",
+    "b": "Có, cha mẹ luôn là người giám hộ.",
+    "c": "Có, trừ khi có Tòa án quyết định khác.",
+    "d": "Có, nếu có tài sản lớn.",
+    "answer": "a",
+    "explanation": "Theo BLDS 2015, cha mẹ là người đại diện theo pháp luật của con; giám hộ chỉ phát sinh khi không có hoặc không đủ điều kiện làm đại diện."
+  },
+  {
+    "question": "Hai bên ký hợp đồng thuê nhà đã công chứng, nay chỉ yêu cầu công chứng văn bản sửa đổi bổ sung nhưng không xuất trình hợp đồng chính. Theo pháp luật công chứng, xử lý như thế nào?",
+    "a": "Không thực hiện công chứng sửa đổi nếu không có hợp đồng chính đã công chứng để đối chiếu.",
+    "b": "Vẫn công chứng bình thường.",
+    "c": "Chỉ cần bản photo hợp đồng chính.",
+    "d": "Không cần hợp đồng chính.",
+    "answer": "a",
+    "explanation": "Theo Luật Công chứng 2024, việc sửa đổi bổ sung hợp đồng đã công chứng phải căn cứ trên hợp đồng gốc để đảm bảo tính xác thực và liên kết pháp lý của hồ sơ công chứng."
+  },
+  {
+    "question": "Bên thế chấp và bên nhận thế chấp yêu cầu công chứng văn bản sửa đổi toàn bộ nội dung hợp đồng thế chấp đã công chứng tại chính VPCC trước đó. Theo pháp luật công chứng, cách xử lý đúng là gì?",
+    "a": "Phải xác định đây là hợp đồng mới hoặc sửa đổi cơ bản, không thể coi là sửa đổi toàn bộ đơn thuần.",
+    "b": "Có thể công chứng bình thường như sửa đổi thông thường.",
+    "c": "Không cần công chứng.",
+    "d": "Chỉ cần ký xác nhận là đủ.",
+    "answer": "a",
+    "explanation": "Việc sửa đổi toàn bộ nội dung hợp đồng về bản chất có thể làm thay đổi bản chất giao dịch, cần xem xét lại tính chất pháp lý để xác định có phải hợp đồng mới hay không theo Luật Công chứng 2024."
+  },
+  {
+    "question": "Hai bên A và B đã ký hợp đồng chuyển nhượng quyền sử dụng đất, đã công chứng và đã hoàn tất đăng ký biến động sang tên B. Nay hai bên yêu cầu công chứng văn bản sửa đổi bổ sung hợp đồng. Theo pháp luật, xử lý như thế nào?",
+    "a": "Không được thực hiện vì hợp đồng đã hoàn tất hiệu lực và nghĩa vụ pháp lý.",
+    "b": "Vẫn được công chứng bình thường.",
+    "c": "Chỉ cần có thỏa thuận miệng.",
+    "d": "Có thể sửa đổi bất kỳ lúc nào.",
+    "answer": "a",
+    "explanation": "Sau khi hợp đồng đã hoàn tất đăng ký biến động và chuyển quyền, giao dịch đã chấm dứt hiệu lực thực hiện, không còn đối tượng để sửa đổi bổ sung."
+  },
+  {
+    "question": "Hai bên đề nghị sửa đổi tên một bên trong hợp đồng do doanh nghiệp đổi tên chi nhánh. Theo pháp luật dân sự, việc sửa đổi hợp đồng có cần thiết không?",
+    "a": "Không cần sửa đổi vì pháp nhân sau khi đổi tên vẫn kế thừa toàn bộ quyền và nghĩa vụ.",
+    "b": "Bắt buộc phải sửa đổi hợp đồng.",
+    "c": "Hợp đồng vô hiệu nếu không sửa.",
+    "d": "Phải ký hợp đồng mới.",
+    "answer": "a",
+    "explanation": "Theo nguyên tắc kế thừa pháp nhân trong Bộ luật Dân sự và Luật Doanh nghiệp, việc đổi tên không làm thay đổi chủ thể pháp lý nên không cần sửa đổi hợp đồng."
+  },
+  {
+    "question": "Theo pháp luật công chứng, văn bản sửa đổi bổ sung hợp đồng được gọi đúng là gì?",
+    "a": "Văn bản sửa đổi, bổ sung hợp đồng (phụ lục hợp đồng).",
+    "b": "Hợp đồng mới.",
+    "c": "Giấy xác nhận miệng.",
+    "d": "Biên bản nội bộ doanh nghiệp.",
+    "answer": "a",
+    "explanation": "Trong thực tiễn công chứng, văn bản sửa đổi bổ sung hợp đồng được xác lập dưới dạng phụ lục hoặc văn bản sửa đổi, bổ sung hợp đồng gắn với hợp đồng chính."
+  },
    {
     "question": "Theo Luật Sở hữu trí tuệ, Tiến sĩ Nguyễn Văn Hòa là giảng viên Trường Đại học Z, được nhà trường giao nhiệm vụ biên soạn giáo trình Y trong khuôn khổ một đề án của trường. Ông Hòa cùng Công ty phát hành sách F đến VPCC Quận 1 yêu cầu công chứng hợp đồng hợp tác kinh doanh để in và phát hành giáo trình Y trong thời hạn 03 năm. Công chứng viên cần xác định vấn đề pháp lý nào trước khi xem xét công chứng hợp đồng?",
     "a": "Chỉ cần xác định năng lực hành vi dân sự của các bên.",
