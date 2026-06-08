@@ -18,6 +18,15 @@
   "explanation": "Theo Điều 317 Bộ luật Dân sự 2015, thế chấp tài sản là việc một bên dùng tài sản thuộc sở hữu của mình để bảo đảm thực hiện nghĩa vụ và không giao tài sản cho bên nhận thế chấp. Theo Điều 299 BLDS 2015, tài sản bảo đảm chỉ bị xử lý khi thuộc các trường hợp xử lý tài sản bảo đảm như đến hạn thực hiện nghĩa vụ được bảo đảm mà bên có nghĩa vụ không thực hiện hoặc thực hiện không đúng nghĩa vụ. Trong tình huống này, xe ô tô được dùng để bảo đảm nghĩa vụ trả nợ của ông A, không phải để bảo đảm nghĩa vụ giải ngân của Ngân hàng. Do đó, việc Ngân hàng vi phạm nghĩa vụ giải ngân không làm phát sinh quyền của ông A được nhận hoặc xử lý giá trị chiếc xe thế chấp. Trách nhiệm của Ngân hàng được giải quyết theo hợp đồng tín dụng, quy định về trách nhiệm dân sự do vi phạm nghĩa vụ (Điều 351 BLDS 2015) và bồi thường thiệt hại nếu có, chứ không mặc nhiên xác định theo giá trị tài sản thế chấp. Đây là điểm khác biệt cơ bản với đặt cọc theo Điều 328 BLDS 2015, nơi giá trị tài sản đặt cọc có thể trở thành căn cứ xác định hậu quả pháp lý đối với cả hai bên khi vi phạm."
 },
    {
+  "question": "Đặt cọc bằng bất động sản có làm phát sinh việc chuyển quyền sở hữu bất động sản cho bên nhận đặt cọc hay không?",
+  "a": "Có, ngay khi giao kết hợp đồng đặt cọc.",
+  "b": "Không, đặt cọc chỉ là biện pháp bảo đảm, việc chuyển quyền sở hữu phải thực hiện theo quy định pháp luật.",
+  "c": "Có, nếu bên đặt cọc vi phạm nghĩa vụ.",
+  "d": "Có, nếu các bên có thỏa thuận.",
+  "answer": "b",
+  "explanation": "Đặt cọc không làm phát sinh việc chuyển quyền sở hữu tài sản một cách tự động. Việc chuyển quyền sở hữu bất động sản phải tuân thủ các điều kiện và thủ tục theo quy định của pháp luật."
+},
+   {
     "question": "Anh Nguyễn Văn T và chị Phạm Thị N kết hôn năm 1986. Đến tháng 01/2017, vợ chồng có các tài sản gồm: 01 căn nhà tại phường K, tỉnh P; 01 quyền sử dụng đất tại xã X, tỉnh P; 01 xe ô tô Toyota; 01 sổ tiết kiệm 100 triệu đồng tại Ngân hàng A. Ngoài ra, anh T có 01 căn nhà tại xã M, thành phố H do bố mẹ đẻ tặng cho riêng năm 2015. Do mâu thuẫn trong quản lý và sử dụng tài sản, vợ chồng muốn lập Văn bản thỏa thuận phân chia tài sản chung trong thời kỳ hôn nhân. Là CCV, anh (chị) hãy xác định những tài sản nào mà vợ chồng anh T, chị N có thể tiến hành thỏa thuận chia theo quy định của pháp luật?",
     "a": "Chỉ 01 căn nhà tại phường K, tỉnh P và 01 quyền sử dụng đất tại xã X vì đây là bất động sản đứng tên cả hai vợ chồng.",
     "b": "Tất cả 05 tài sản nêu trên, bao gồm cả căn nhà tại xã M, thành phố H vì đây là tài sản được hình thành trong thời kỳ hôn nhân.",
