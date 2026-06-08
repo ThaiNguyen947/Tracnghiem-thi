@@ -1,5 +1,131 @@
 [
    {
+    "question": "Theo Luật Sở hữu trí tuệ, Tiến sĩ Nguyễn Văn Hòa là giảng viên Trường Đại học Z, được nhà trường giao nhiệm vụ biên soạn giáo trình Y trong khuôn khổ một đề án của trường. Ông Hòa cùng Công ty phát hành sách F đến VPCC Quận 1 yêu cầu công chứng hợp đồng hợp tác kinh doanh để in và phát hành giáo trình Y trong thời hạn 03 năm. Công chứng viên cần xác định vấn đề pháp lý nào trước khi xem xét công chứng hợp đồng?",
+    "a": "Chỉ cần xác định năng lực hành vi dân sự của các bên.",
+    "b": "Cần xác định chủ sở hữu quyền tài sản đối với giáo trình Y có phải là ông Hòa hay thuộc Trường Đại học Z.",
+    "c": "Chỉ cần kiểm tra nội dung phân chia lợi nhuận.",
+    "d": "Giáo trình không phải đối tượng của quyền tác giả.",
+    "answer": "b",
+    "explanation": "Điều 39 Luật Sở hữu trí tuệ quy định tổ chức giao nhiệm vụ cho tác giả sáng tạo tác phẩm có thể là chủ sở hữu quyền tác giả đối với tác phẩm được tạo ra theo nhiệm vụ được giao, trừ trường hợp có thỏa thuận khác. Trước khi công chứng giao dịch khai thác, chuyển giao hoặc hợp tác kinh doanh liên quan đến tác phẩm, công chứng viên phải xác định đúng chủ sở hữu quyền tài sản đối với tác phẩm."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, ông Lê Dũng và ông Huỳnh Văn Thanh là đồng tác giả nhạc phẩm Z. Công ty TNHH Truyền thông Sao Mai và ông Lê Dũng đến VPCC Quận 1 yêu cầu công chứng hợp đồng chuyển nhượng phần quyền tác giả của ông Lê Dũng đối với nhạc phẩm Z. Công chứng viên cần xử lý như thế nào?",
+    "a": "Chứng nhận ngay vì ông Dũng là đồng tác giả nên được toàn quyền định đoạt toàn bộ tác phẩm.",
+    "b": "Từ chối công chứng vì quyền tác giả không được chuyển nhượng.",
+    "c": "Xác định phạm vi quyền của ông Dũng đối với tác phẩm đồng tác giả và xem xét sự đồng ý của đồng chủ thể quyền theo quy định pháp luật.",
+    "d": "Yêu cầu hủy Giấy chứng nhận quyền tác giả trước khi chuyển nhượng.",
+    "answer": "c",
+    "explanation": "Điều 38 Luật Sở hữu trí tuệ quy định về đồng tác giả; Điều 47 Luật Sở hữu trí tuệ quy định việc chuyển nhượng quyền tác giả phải do chủ sở hữu quyền tác giả thực hiện. Đối với tác phẩm có đồng chủ sở hữu, việc định đoạt quyền tài sản phải tuân thủ quy định về sở hữu chung và quyền của các đồng chủ thể quyền."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, Công ty TNHH Thăng Long và hộ ông Nguyễn Văn An đến VPCC yêu cầu công chứng hợp đồng tiêu thụ hồ tiêu. Hợp đồng có điều khoản cho phép Công ty Thăng Long sử dụng nhãn hiệu tập thể 'Hồ tiêu Chư Sê' trên bao bì sản phẩm. Ông Nguyễn Văn An là thành viên được phép sử dụng nhãn hiệu tập thể theo quy chế của Hiệp hội hồ tiêu Chư Sê. Công chứng viên cần lưu ý vấn đề nào?",
+    "a": "Ông An có toàn quyền cho phép bất kỳ tổ chức nào sử dụng nhãn hiệu tập thể.",
+    "b": "Nhãn hiệu tập thể thuộc sở hữu của Hiệp hội hồ tiêu Chư Sê nên cần xem xét phạm vi quyền sử dụng được trao cho ông An theo quy chế sử dụng nhãn hiệu tập thể.",
+    "c": "Nhãn hiệu tập thể là tài sản công nên không được sử dụng trong hoạt động thương mại.",
+    "d": "Không cần xem xét quyền đối với nhãn hiệu tập thể khi công chứng hợp đồng.",
+    "answer": "b",
+    "explanation": "Khoản 17 Điều 4 Luật Sở hữu trí tuệ quy định nhãn hiệu tập thể là nhãn hiệu dùng để phân biệt hàng hóa, dịch vụ của các thành viên của tổ chức là chủ sở hữu nhãn hiệu với hàng hóa, dịch vụ của tổ chức, cá nhân không phải thành viên. Điều 123 và Điều 124 Luật Sở hữu trí tuệ quy định chủ sở hữu nhãn hiệu có quyền cho phép người khác sử dụng đối tượng sở hữu công nghiệp trong phạm vi quyền của mình. Công chứng viên phải kiểm tra tư cách chủ thể và phạm vi quyền sử dụng nhãn hiệu tập thể của hộ ông An trước khi xem xét tính hợp pháp của điều khoản hợp đồng."
+  },
+  {
+    "question": "Theo Luật Thuế thu nhập cá nhân và quy định về công chứng, ông An (độc thân) là người sử dụng hợp pháp thửa đất gồm 60m2 đất ở đô thị và 114m2 đất trồng cây lâu năm tại Quận 9, TP.HCM. Ngày 05/6/2020, ông An đến VPCC Quận 1 yêu cầu công chứng hợp đồng chuyển nhượng quyền sử dụng đất cho bà Nguyễn Thị Hạnh. Công chứng viên cần giải thích cho ông An về nghĩa vụ thuế thu nhập cá nhân như thế nào?",
+    "a": "Ông An không phải nộp thuế thu nhập cá nhân vì chỉ chuyển nhượng quyền sử dụng đất.",
+    "b": "Ông An là người có thu nhập từ chuyển nhượng bất động sản nên thuộc đối tượng nộp thuế thu nhập cá nhân, trừ trường hợp được miễn thuế theo quy định.",
+    "c": "Bà Hạnh là người phải nộp thuế thu nhập cá nhân thay ông An.",
+    "d": "Không phát sinh nghĩa vụ thuế thu nhập cá nhân khi công chứng hợp đồng.",
+    "answer": "b",
+    "explanation": "Điều 3 Luật Thuế thu nhập cá nhân quy định thu nhập từ chuyển nhượng bất động sản là thu nhập chịu thuế. Điều 17 Thông tư 92/2015/TT-BTC quy định thuế thu nhập cá nhân đối với chuyển nhượng bất động sản được xác định theo tỷ lệ 2% trên giá chuyển nhượng, trừ trường hợp thuộc diện miễn thuế theo Điều 4 Luật Thuế thu nhập cá nhân."
+  },
+  {
+    "question": "Theo Luật Thuế thu nhập cá nhân, ông Trần Hòa và ông Nguyễn Thanh đều độc thân, mỗi người sở hữu riêng một căn nhà tại Quận 3, TP.HCM. Hai bên đến VPCC Quận 1 yêu cầu công chứng hợp đồng đổi nhà cho nhau. Khi giải thích nghĩa vụ tài chính, công chứng viên cần xác định như thế nào?",
+    "a": "Giao dịch đổi nhà không phát sinh thuế thu nhập cá nhân.",
+    "b": "Chỉ một bên phải nộp thuế thu nhập cá nhân.",
+    "c": "Mỗi bên đều phát sinh thu nhập từ chuyển nhượng bất động sản và có thể phải thực hiện nghĩa vụ thuế theo quy định, trừ trường hợp được miễn.",
+    "d": "Chỉ nộp lệ phí trước bạ, không phát sinh thuế thu nhập cá nhân.",
+    "answer": "c",
+    "explanation": "Điều 3 Luật Thuế thu nhập cá nhân quy định thu nhập từ chuyển nhượng bất động sản là thu nhập chịu thuế. Giao dịch đổi nhà về bản chất là việc các bên đồng thời chuyển nhượng quyền sở hữu nhà ở cho nhau nên mỗi bên đều là người chuyển nhượng bất động sản và có thể phát sinh nghĩa vụ thuế."
+  },
+ {
+  "question": "Theo Luật Công chứng 2024, ông Lê Bình sở hữu căn nhà tại quận Bình Tân và thỏa thuận bán cho bà Nguyễn Thị Cúc với giá ghi trong hợp đồng là 500 triệu đồng. Khi tiếp nhận hồ sơ công chứng, công chứng viên cần thực hiện như thế nào?",
+  "a": "Chứng nhận ngay theo giá các bên yêu cầu mà không cần giải thích.",
+  "b": "Từ chối công chứng mọi hợp đồng có giá dưới giá thị trường.",
+  "c": "Giải thích cho các bên về nghĩa vụ kê khai trung thực giá chuyển nhượng, hậu quả pháp lý và nghĩa vụ thuế phát sinh theo quy định pháp luật.",
+  "d": "Tự xác định lại giá hợp đồng thay cho các bên.",
+  "answer": "c",
+  "explanation": "Theo Luật Công chứng 2024, công chứng viên có nghĩa vụ kiểm tra tính hợp pháp của hợp đồng, giao dịch; hướng dẫn, giải thích cho người yêu cầu công chứng hiểu rõ quyền, nghĩa vụ và hậu quả pháp lý của việc tham gia giao dịch. Theo Điều 3 Luật Thuế thu nhập cá nhân và các quy định của pháp luật về quản lý thuế, thu nhập từ chuyển nhượng bất động sản là thu nhập chịu thuế. Vì vậy, công chứng viên phải giải thích cho các bên về nghĩa vụ kê khai trung thực giá chuyển nhượng và hậu quả pháp lý của việc kê khai không đúng thực tế giao dịch."
+},
+{
+  "question": "Theo Luật Công chứng 2024, ngày 23/4/2021 VPCC Quận 1 đã công chứng hợp đồng mua bán nhà giữa ông Bình và bà Cúc với giá chuyển nhượng ghi trong hợp đồng là 500 triệu đồng. Ngày 07/5/2021, bà Cúc một mình đến VPCC yêu cầu sửa nội dung hợp đồng thành giá chuyển nhượng 2 tỷ đồng. Công chứng viên cần xử lý như thế nào?",
+  "a": "Tiến hành sửa đổi ngay theo yêu cầu của bà Cúc.",
+  "b": "Từ chối vì hợp đồng đã công chứng thì không được sửa đổi trong bất kỳ trường hợp nào.",
+  "c": "Giải thích rằng việc sửa đổi, bổ sung hợp đồng đã được công chứng phải có sự thỏa thuận, tham gia của tất cả các bên đã ký kết hợp đồng hoặc người đại diện hợp pháp của họ.",
+  "d": "Tự lập văn bản đính chính giá chuyển nhượng.",
+  "answer": "c",
+  "explanation": "Theo quy định của Luật Công chứng 2024 về sửa đổi, bổ sung, hủy bỏ hợp đồng, giao dịch đã được công chứng, việc sửa đổi hoặc bổ sung chỉ được thực hiện khi có sự thỏa thuận của tất cả những người đã tham gia hợp đồng, giao dịch hoặc người đại diện hợp pháp của họ. Việc thay đổi giá chuyển nhượng từ 500 triệu đồng lên 2 tỷ đồng là thay đổi nội dung cơ bản của hợp đồng, không phải lỗi kỹ thuật để thực hiện thủ tục đính chính văn bản công chứng. Do đó, bà Cúc không thể đơn phương yêu cầu sửa đổi hợp đồng đã được công chứng."
+},
+  {
+    "question": "Theo Luật Thuế thu nhập cá nhân, Luật Đất đai và Luật Công chứng, ông Lê Bình đã ủy quyền cho ông Trần Thắng được quyền mua bán, chuyển nhượng căn nhà tại Bình Tân theo Hợp đồng ủy quyền được VPCC Thanh Xuân, Hà Nội công chứng ngày 13/5/2021. Ngày 11/8/2021, ông Thắng đại diện ông Bình ký hợp đồng bán nhà cho bà Nguyễn Thị Cúc với giá 2 tỷ đồng. Ông Thắng kê khai nộp thuế thu nhập cá nhân 4%, bà Cúc nộp lệ phí trước bạ 0,5%. Công chứng viên nhận định thế nào?",
+    "a": "Ông Thắng là người nộp thuế thu nhập cá nhân vì là người trực tiếp ký hợp đồng.",
+    "b": "Ông Bình mới là người có thu nhập từ chuyển nhượng bất động sản và là người nộp thuế thu nhập cá nhân, trừ trường hợp pháp luật có quy định khác.",
+    "c": "Thuế thu nhập cá nhân phải do bà Cúc nộp.",
+    "d": "Ông Thắng và ông Bình cùng phải nộp thuế thu nhập cá nhân.",
+    "answer": "b",
+    "explanation": "Theo Điều 3 Luật Thuế thu nhập cá nhân, thu nhập từ chuyển nhượng bất động sản là thu nhập chịu thuế. Trong trường hợp này, ông Thắng chỉ là người đại diện theo ủy quyền theo Điều 138 BLDS 2015. Chủ thể chuyển nhượng và là người phát sinh thu nhập từ giao dịch vẫn là ông Lê Bình. Do đó nghĩa vụ thuế thu nhập cá nhân thuộc về ông Bình, trừ trường hợp các bên có thỏa thuận về việc nộp thay nhưng không làm thay đổi người nộp thuế theo quy định pháp luật."
+  },
+  {
+    "question": "Theo Luật Thuế thu nhập cá nhân, ông Nguyễn Huy và bà Lê Thị Đào là chủ sở hữu căn nhà cho ông Trần Lâm thuê với giá 90 triệu đồng/tháng. Hợp đồng thuê có điều khoản bên thuê chịu trách nhiệm nộp thuế thu nhập cá nhân cho bên cho thuê. Khi cơ quan thuế yêu cầu truy thu thuế, ông Huy và bà Đào cho rằng nghĩa vụ này thuộc về ông Lâm. Nhận định nào đúng?",
+    "a": "Ông Trần Lâm là người nộp thuế thu nhập cá nhân vì hợp đồng đã thỏa thuận như vậy.",
+    "b": "Ông Huy và bà Đào là người có thu nhập từ cho thuê tài sản nên là người nộp thuế theo quy định pháp luật; việc bên thuê nộp thay chỉ là thỏa thuận thực hiện nghĩa vụ.",
+    "c": "Cơ quan thuế phải truy thu ông Lâm.",
+    "d": "Không ai phải nộp thuế vì hợp đồng đã chấm dứt.",
+    "answer": "b",
+    "explanation": "Điều 3 Luật Thuế thu nhập cá nhân quy định thu nhập từ cho thuê tài sản là thu nhập chịu thuế. Chủ thể có thu nhập từ hoạt động cho thuê nhà là ông Nguyễn Huy và bà Lê Thị Đào. Việc hợp đồng quy định bên thuê nộp thay chỉ là thỏa thuận dân sự về việc thực hiện nghĩa vụ tài chính, không làm thay đổi người có nghĩa vụ thuế theo pháp luật thuế."
+  },
+  {
+    "question": "Theo Luật Nhà ở, Luật Kinh doanh bất động sản, Bộ luật Dân sự và Luật Công chứng, ông Trần Văn Thanh ký hợp đồng mua bán căn hộ C.05 với Công ty TNHH Thăng Long ngày 02/03/2020. Hiện căn hộ chưa được cấp Giấy chứng nhận quyền sở hữu nhà ở. Ông Thanh và vợ là bà Nguyễn Thị Xuân muốn tặng cho con là Trần Huy quyền đối với căn hộ này và yêu cầu VPCC công chứng hợp đồng tặng cho. Công chứng viên cần xử lý như thế nào?",
+    "a": "Từ chối ngay vì căn hộ chưa được cấp Giấy chứng nhận.",
+    "b": "Công chứng hợp đồng tặng cho nhà ở hình thành trong tương lai.",
+    "c": "Xác định quyền của ông Thanh phát sinh từ hợp đồng mua bán căn hộ; nếu đáp ứng điều kiện pháp luật thì các bên có thể thực hiện giao dịch chuyển giao quyền, không phải tặng cho quyền sở hữu nhà ở đã hình thành.",
+    "d": "Yêu cầu Công ty Thăng Long cấp Giấy chứng nhận quyền sở hữu cho ông Thanh trước khi tiếp nhận hồ sơ.",
+    "answer": "c",
+    "explanation": "Tại thời điểm chưa được cấp Giấy chứng nhận, ông Thanh chưa xác lập đầy đủ quyền sở hữu đối với căn hộ mà đang có quyền tài sản phát sinh từ hợp đồng mua bán với chủ đầu tư. Theo Điều 115 BLDS 2015, quyền tài sản là tài sản. Công chứng viên phải xác định đúng đối tượng giao dịch là quyền tài sản phát sinh từ hợp đồng mua bán căn hộ và kiểm tra điều kiện chuyển giao theo quy định của pháp luật về nhà ở, kinh doanh bất động sản và công chứng."
+  },
+  {
+    "question": "Theo Luật Thuế thu nhập cá nhân và Luật Hôn nhân và gia đình, bà Đỗ Ngọc và ông Trần Hùng ly hôn theo Quyết định của Tòa án ngày 08/4/2020. Ngày 12/4/2021, hai bên đến VPCC yêu cầu công chứng văn bản thỏa thuận chia tài sản chung sau ly hôn, theo đó toàn bộ quyền sử dụng thửa đất được giao cho bà Ngọc. Công chứng viên cần giải thích nghĩa vụ thuế như thế nào?",
+    "a": "Phải nộp thuế thu nhập cá nhân đối với phần tài sản ông Hùng chuyển cho bà Ngọc.",
+    "b": "Phải nộp lệ phí trước bạ và thuế thu nhập cá nhân như giao dịch chuyển nhượng quyền sử dụng đất.",
+    "c": "Việc phân chia tài sản chung của vợ chồng sau ly hôn theo bản án, quyết định hoặc thỏa thuận hợp pháp không thuộc trường hợp chịu thuế thu nhập cá nhân từ chuyển nhượng bất động sản.",
+    "d": "Ông Hùng phải nộp thuế thu nhập cá nhân, bà Ngọc được miễn.",
+    "answer": "c",
+    "explanation": "Theo Luật Thuế thu nhập cá nhân, thu nhập phát sinh từ việc phân chia tài sản chung của vợ chồng khi ly hôn không phải là thu nhập từ chuyển nhượng bất động sản. Bản chất giao dịch là xác lập phần quyền sở hữu, sử dụng tài sản của mỗi bên sau khi chấm dứt quan hệ hôn nhân, không phải hoạt động mua bán hoặc chuyển nhượng quyền sử dụng đất."
+  },
+  {
+    "question": "Theo Luật Thuế thu nhập doanh nghiệp, Luật Thuế giá trị gia tăng và Luật Công chứng, Công ty TNHH Khải Hoàn là chủ sở hữu căn nhà tại Quận 3, TP.HCM và bán cho ông Trần Nam với giá 2 tỷ đồng. Hợp đồng thỏa thuận bên mua chịu toàn bộ thuế, phí. Công chứng viên cần giải thích như thế nào?",
+    "a": "Ông Trần Nam là người có nghĩa vụ nộp thuế thu nhập doanh nghiệp thay cho Công ty Khải Hoàn.",
+    "b": "Do các bên có thỏa thuận nên nghĩa vụ thuế chuyển hoàn toàn sang bên mua.",
+    "c": "Công ty Khải Hoàn là chủ thể phát sinh thu nhập từ hoạt động chuyển nhượng nên phải thực hiện nghĩa vụ thuế theo quy định; việc bên mua nộp thay chỉ là thỏa thuận dân sự giữa các bên.",
+    "d": "Không phát sinh nghĩa vụ thuế vì giao dịch đã được công chứng.",
+    "answer": "c",
+    "explanation": "Theo Luật Thuế thu nhập doanh nghiệp, thu nhập từ chuyển nhượng bất động sản của doanh nghiệp là khoản thu nhập chịu thuế. Chủ thể có thu nhập là Công ty TNHH Khải Hoàn. Việc hợp đồng quy định bên mua chịu thuế chỉ là thỏa thuận về việc thực hiện nghĩa vụ tài chính giữa các bên, không làm thay đổi người nộp thuế theo pháp luật thuế."
+  },
+  {
+    "question": "Theo Luật Công chứng, Công ty TNHH một thành viên Victory (100% vốn nước ngoài) bán xe ô tô Audi cho ông Trần Văn Thành và yêu cầu công chứng hợp đồng mua bán xe. Công chứng viên nhận định thế nào?",
+    "a": "Hợp đồng mua bán xe ô tô bắt buộc phải công chứng mới có hiệu lực.",
+    "b": "Do doanh nghiệp có vốn đầu tư nước ngoài nên hợp đồng mua bán xe ô tô bắt buộc phải công chứng.",
+    "c": "Pháp luật không bắt buộc hợp đồng mua bán xe ô tô giữa doanh nghiệp và cá nhân phải công chứng, trừ trường hợp các bên tự nguyện yêu cầu công chứng.",
+    "d": "Không được công chứng vì tài sản thuộc doanh nghiệp có vốn đầu tư nước ngoài.",
+    "answer": "c",
+    "explanation": "Luật Công chứng quy định cá nhân, tổ chức có quyền yêu cầu công chứng đối với hợp đồng, giao dịch mà pháp luật không cấm. Đối với hợp đồng mua bán xe ô tô, pháp luật không quy định bắt buộc phải công chứng để giao dịch có hiệu lực. Tuy nhiên, nếu các bên có nhu cầu thì công chứng viên vẫn có thể thực hiện công chứng khi hồ sơ và điều kiện giao dịch đáp ứng quy định pháp luật."
+  },
+{
+  "question": "Theo Luật Thuế thu nhập cá nhân và Luật Đất đai, ông An (độc thân) là người sử dụng hợp pháp thửa đất gồm 60m² đất ở đô thị và 114m² đất trồng cây lâu năm tại Quận 9, TP.HCM. Ngày 05/6/2020, ông An chuyển nhượng toàn bộ thửa đất cho bà Nguyễn Thị Hạnh và yêu cầu công chứng hợp đồng. Công chứng viên cần giải thích nghĩa vụ thuế nào cho ông An?",
+  "a": "Ông An không phải nộp thuế thu nhập cá nhân vì đã công chứng hợp đồng.",
+  "b": "Ông An là người có thu nhập từ chuyển nhượng bất động sản nên thuộc đối tượng phát sinh nghĩa vụ thuế thu nhập cá nhân, trừ trường hợp được miễn theo quy định pháp luật.",
+  "c": "Bà Hạnh là người phải nộp thuế thu nhập cá nhân vì là bên nhận chuyển nhượng.",
+  "d": "Hai bên phải cùng nộp thuế thu nhập cá nhân.",
+  "answer": "b",
+  "explanation": "Theo Điều 3 Luật Thuế thu nhập cá nhân, thu nhập từ chuyển nhượng bất động sản là thu nhập chịu thuế. Người chuyển nhượng là người phát sinh thu nhập từ giao dịch và có nghĩa vụ thuế thu nhập cá nhân, trừ trường hợp thuộc diện miễn thuế theo quy định của pháp luật thuế. Công chứng viên có trách nhiệm giải thích quyền, nghĩa vụ và hậu quả pháp lý của giao dịch cho người yêu cầu công chứng."
+},
+   {
   "question": "Ông Nguyễn Văn A ký thỏa thuận đặt cọc cho bà Trần Thị B số tiền 200 triệu đồng để bảo đảm việc giao kết hợp đồng mua bán nhà ở trong thời hạn 30 ngày. Sau khi nhận tiền cọc, bà B đổi ý và từ chối ký hợp đồng mua bán mặc dù ông A đã chuẩn bị đầy đủ điều kiện để giao kết hợp đồng. Khi được yêu cầu tư vấn, công chứng viên cần giải thích hậu quả pháp lý nào sau đây là đúng?",
   "a": "Bà B chỉ phải hoàn trả lại cho ông A số tiền đặt cọc 200 triệu đồng.",
   "b": "Bà B phải hoàn trả lại 200 triệu đồng tiền đặt cọc và trả thêm cho ông A 200 triệu đồng, trừ trường hợp các bên có thỏa thuận khác.",
