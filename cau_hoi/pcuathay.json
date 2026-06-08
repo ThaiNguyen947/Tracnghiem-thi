@@ -468,23 +468,6 @@
     "explanation": "Tài sản riêng thuộc quyền định đoạt của chủ sở hữu, trừ trường hợp nhập vào tài sản chung."
   },
   {
-  "question": "Người phụ nữ không có chồng có được mang thai hộ vì mục đích nhân đạo nếu đáp ứng đầy đủ điều kiện luật định không?",
-  "a": "Có",
-  "b": "Không",
-  "c": "Chỉ khi được UBND xã đồng ý",
-  "d": "Chỉ khi có quyết định của Tòa án",
-  "answer": "a"
-},
-  {
-  "question": "Nam 19 tuổi và nữ 18 tuổi, đủ điều kiện kết hôn theo Luật Hôn nhân và gia đình 2014, có được lập văn bản thỏa thuận xác lập chế độ tài sản trước khi kết hôn không?",
-  "a": "Có",
-  "b": "Không",
-  "c": "Chỉ sau khi đăng ký kết hôn",
-  "d": "Chỉ khi có tài sản chung",
-  "answer": "a",
-  "explanation": "Khoản 1 Điều 47 Luật Hôn nhân và gia đình 2014 quy định thỏa thuận xác lập chế độ tài sản của vợ chồng phải được lập trước khi kết hôn bằng văn bản có công chứng hoặc chứng thực."
-},
-  {
     "question": "Việc mang thai hộ có được lập thành văn bản có công chứng không?",
     "a": "Có, bắt buộc công chứng",
     "b": "Không cần công chứng",
