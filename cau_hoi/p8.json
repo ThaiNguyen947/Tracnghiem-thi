@@ -1,5 +1,230 @@
 [
  {
+    "question": "Theo Luật Sở hữu trí tuệ và Bộ luật Dân sự 2015, nhà thơ Trần Hoàng Hà đến VPCC Quận 1 yêu cầu công chứng hợp đồng chuyển nhượng quyền tác giả đối với tập thơ X cho Công ty CP phát hành sách Nam Việt. Tập thơ chưa xuất bản, chưa công bố nhưng ông Hà xuất trình bản thảo viết tay và cam kết là tác giả. Công chứng viên cần xác định vấn đề pháp lý nào trước tiên?",
+    "a": "Tác phẩm phải được xuất bản mới được chuyển nhượng quyền tác giả.",
+    "b": "Tác phẩm phải có Giấy chứng nhận đăng ký quyền tác giả mới được chuyển nhượng.",
+    "c": "Cần xác định ông Hà có phải là chủ thể có quyền chuyển giao quyền tác giả đối với tác phẩm hay không.",
+    "d": "VPCC không được công chứng giao dịch liên quan đến quyền tác giả.",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 6 Luật Sở hữu trí tuệ quy định quyền tác giả phát sinh kể từ khi tác phẩm được sáng tạo và được thể hiện dưới hình thức vật chất nhất định, không phụ thuộc vào việc công bố hay đăng ký. Điều 45 và Điều 46 Luật Sở hữu trí tuệ quy định việc chuyển nhượng quyền tác giả phải được thực hiện bởi chủ sở hữu quyền tác giả hoặc người có quyền chuyển giao hợp pháp."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, ông Trần Hoàng Hà xuất trình bản thảo viết tay của tập thơ X chưa từng công bố khi yêu cầu công chứng hợp đồng chuyển nhượng quyền tác giả. Nhận định nào phù hợp nhất?",
+    "a": "Tác phẩm chưa công bố nên chưa phát sinh quyền tác giả.",
+    "b": "Tác phẩm chưa đăng ký nên chưa được pháp luật bảo hộ.",
+    "c": "Quyền tác giả có thể đã phát sinh nếu tác phẩm được sáng tạo và thể hiện dưới hình thức vật chất nhất định.",
+    "d": "Chỉ khi được Nhà xuất bản chấp nhận in mới phát sinh quyền tác giả.",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 6 Luật Sở hữu trí tuệ quy định quyền tác giả phát sinh kể từ khi tác phẩm được sáng tạo và được thể hiện dưới hình thức vật chất nhất định, không phân biệt đã công bố, đã đăng ký hay chưa."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ và Bộ luật Dân sự 2015, ông Nguyễn Ánh là tác giả nhạc phẩm Y (có Giấy chứng nhận đăng ký quyền tác giả), chết năm 1960. Ngày 25/5/2020, bà Trần Thị Hoa (vợ) và ông Nguyễn Văn Thành (con) đến VPCC Quận 1 yêu cầu khai nhận di sản thừa kế là quyền tác giả đối với nhạc phẩm Y. Công chứng viên trước hết phải xác định vấn đề nào?",
+    "a": "Quyền tài sản đối với nhạc phẩm còn thời hạn bảo hộ hay không.",
+    "b": "Nhạc phẩm đã được biểu diễn hay chưa.",
+    "c": "Người thừa kế có phải đăng ký lại quyền tác giả hay không.",
+    "d": "Nhạc phẩm có được xuất bản hay chưa.",
+    "answer": "a",
+    "explanation": "Điều 27 Luật Sở hữu trí tuệ quy định thời hạn bảo hộ quyền tác giả. Điều 115 Bộ luật Dân sự 2015 quy định quyền tài sản đối với đối tượng quyền sở hữu trí tuệ là tài sản. Khi khai nhận di sản liên quan đến quyền tác giả, công chứng viên phải xác định quyền tài sản còn tồn tại và còn thuộc khối di sản hay không."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ và Bộ luật Dân sự 2015, bà Hoa và ông Thành yêu cầu khai nhận di sản thừa kế là quyền tác giả đối với nhạc phẩm Y của ông Nguyễn Ánh. Căn cứ nào cho phép quyền tác giả trở thành đối tượng của việc thừa kế?",
+    "a": "Quyền tác giả là bất động sản đặc biệt.",
+    "b": "Quyền tài sản đối với đối tượng quyền sở hữu trí tuệ là tài sản và có thể được chuyển giao thông qua thừa kế.",
+    "c": "Mọi quyền nhân thân đều được thừa kế.",
+    "d": "Chỉ Giấy chứng nhận đăng ký quyền tác giả mới được thừa kế.",
+    "answer": "b",
+    "explanation": "Điều 115 Bộ luật Dân sự 2015 quy định quyền tài sản bao gồm quyền tài sản đối với đối tượng quyền sở hữu trí tuệ. Điều 45 Luật Sở hữu trí tuệ quy định quyền tác giả, quyền liên quan có thể được chuyển giao thông qua thừa kế."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, khi giải quyết yêu cầu khai nhận di sản đối với nhạc phẩm Y của ông Nguyễn Ánh, công chứng viên cần lưu ý nội dung nào sau đây?",
+    "a": "Toàn bộ quyền tác giả đều được chuyển cho người thừa kế.",
+    "b": "Mọi quyền nhân thân của tác giả đều chấm dứt khi tác giả chết.",
+    "c": "Cần phân biệt quyền nhân thân và quyền tài sản của tác giả khi xác định di sản.",
+    "d": "Người thừa kế chỉ được hưởng bản gốc tác phẩm.",
+    "answer": "c",
+    "explanation": "Điều 19 và Điều 20 Luật Sở hữu trí tuệ quy định quyền nhân thân và quyền tài sản của tác giả là hai nhóm quyền khác nhau. Khi xác định di sản liên quan đến quyền tác giả, công chứng viên phải phân biệt phạm vi các quyền được pháp luật cho phép chuyển giao hoặc thừa kế."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, ông Nguyễn Ánh là tác giả nhạc phẩm Y và chết năm 1960. Năm 2020, vợ và con ông đến VPCC yêu cầu khai nhận di sản thừa kế là quyền tài sản đối với nhạc phẩm Y. Công chứng viên cần xác định vấn đề nào sau đây trước tiên?",
+    "a": "Nhạc phẩm đã được đăng ký quyền tác giả hay chưa.",
+    "b": "Nhạc phẩm đã được biểu diễn trước công chúng hay chưa.",
+    "c": "Quyền tài sản đối với nhạc phẩm còn trong thời hạn bảo hộ hay đã chấm dứt.",
+    "d": "Người thừa kế có phải là người thân thích hay không.",
+    "answer": "c",
+    "explanation": "Khoản 8 Điều 1 Luật sửa đổi, bổ sung Luật Sở hữu trí tuệ năm 2009 sửa đổi Điều 27 Luật Sở hữu trí tuệ quy định đối với tác phẩm không thuộc loại hình điện ảnh, nhiếp ảnh, mỹ thuật ứng dụng hoặc khuyết danh thì quyền công bố tác phẩm và quyền tài sản được bảo hộ suốt cuộc đời tác giả và 50 năm tiếp theo năm tác giả chết."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, nhà thơ A hoàn thành tập thơ X năm 1980 và chết năm 2000. Năm 2060, con của A yêu cầu công chứng văn bản khai nhận di sản đối với quyền tài sản của tập thơ. Nhận định nào phù hợp nhất?",
+    "a": "Quyền tài sản vẫn còn được bảo hộ vì tác phẩm chưa từng chuyển nhượng.",
+    "b": "Quyền tài sản đã chấm dứt thời hạn bảo hộ.",
+    "c": "Quyền tài sản được bảo hộ vĩnh viễn.",
+    "d": "Quyền tài sản chỉ chấm dứt khi có quyết định của cơ quan nhà nước.",
+    "answer": "b",
+    "explanation": "Khoản 8 Điều 1 Luật sửa đổi, bổ sung Luật Sở hữu trí tuệ năm 2009 sửa đổi Điều 27 Luật Sở hữu trí tuệ quy định thời hạn bảo hộ quyền công bố tác phẩm và quyền tài sản đối với loại tác phẩm này là suốt cuộc đời tác giả và 50 năm tiếp theo năm tác giả chết."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, hai đồng tác giả B và C cùng sáng tác một tác phẩm văn học. B chết năm 1990, C chết năm 2010. Thời hạn bảo hộ quyền tài sản đối với tác phẩm được xác định như thế nào?",
+    "a": "50 năm kể từ năm B chết.",
+    "b": "50 năm kể từ năm tác phẩm được công bố.",
+    "c": "50 năm kể từ năm C chết.",
+    "d": "75 năm kể từ ngày tác phẩm hoàn thành.",
+    "answer": "c",
+    "explanation": "Khoản 8 Điều 1 Luật sửa đổi, bổ sung Luật Sở hữu trí tuệ năm 2009 sửa đổi Điều 27 Luật Sở hữu trí tuệ quy định trường hợp có đồng tác giả thì thời hạn bảo hộ chấm dứt vào năm thứ 50 sau năm đồng tác giả cuối cùng chết."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, tác phẩm điện ảnh M được công bố lần đầu năm 2000. Năm 2070, chủ sở hữu quyền tác giả yêu cầu công chứng hợp đồng chuyển nhượng quyền tài sản đối với tác phẩm này. Công chứng viên cần xem xét vấn đề nào?",
+    "a": "Tác phẩm điện ảnh được bảo hộ vô thời hạn.",
+    "b": "Tác phẩm điện ảnh có thời hạn bảo hộ 75 năm kể từ khi công bố lần đầu.",
+    "c": "Tác phẩm điện ảnh chỉ được bảo hộ 50 năm.",
+    "d": "Tác phẩm điện ảnh được bảo hộ theo tuổi thọ của đạo diễn.",
+    "answer": "b",
+    "explanation": "Khoản 8 Điều 1 Luật sửa đổi, bổ sung Luật Sở hữu trí tuệ năm 2009 sửa đổi Điều 27 Luật Sở hữu trí tuệ quy định tác phẩm điện ảnh, nhiếp ảnh, mỹ thuật ứng dụng được bảo hộ 75 năm kể từ khi công bố lần đầu tiên."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, một tác phẩm điện ảnh được định hình năm 1990 nhưng đến năm 2020 vẫn chưa công bố. Khi xác định thời hạn bảo hộ quyền tài sản đối với tác phẩm này, công chứng viên áp dụng quy định nào?",
+    "a": "75 năm kể từ ngày định hình.",
+    "b": "50 năm kể từ ngày định hình.",
+    "c": "100 năm kể từ ngày định hình.",
+    "d": "Suốt đời đạo diễn và 50 năm tiếp theo.",
+    "answer": "c",
+    "explanation": "Khoản 8 Điều 1 Luật sửa đổi, bổ sung Luật Sở hữu trí tuệ năm 2009 sửa đổi Điều 27 Luật Sở hữu trí tuệ quy định tác phẩm điện ảnh, nhiếp ảnh, mỹ thuật ứng dụng chưa được công bố trong thời hạn 25 năm kể từ khi được định hình thì thời hạn bảo hộ là 100 năm kể từ khi tác phẩm được định hình."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, một tác phẩm nhiếp ảnh có thời hạn bảo hộ chấm dứt trong năm 2075. Thời điểm nào quyền tài sản đối với tác phẩm chính thức chấm dứt bảo hộ?",
+    "a": "00 giờ ngày 01/01/2075.",
+    "b": "24 giờ ngày 31/12/2075.",
+    "c": "Ngày công bố tác phẩm.",
+    "d": "Ngày tác giả chết.",
+    "answer": "b",
+    "explanation": "Khoản 8 Điều 1 Luật sửa đổi, bổ sung Luật Sở hữu trí tuệ năm 2009 sửa đổi Điều 27 Luật Sở hữu trí tuệ quy định thời hạn bảo hộ chấm dứt vào thời điểm 24 giờ ngày 31 tháng 12 của năm chấm dứt thời hạn bảo hộ quyền tác giả."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, ca sĩ D thực hiện cuộc biểu diễn được ghi hình năm 2010. Năm 2055, phát sinh tranh chấp về quyền liên quan đối với cuộc biểu diễn này. Khi giải quyết, cần xác định thời hạn bảo hộ của quyền người biểu diễn như thế nào?",
+    "a": "50 năm tính từ năm cuộc biểu diễn được định hình.",
+    "b": "50 năm tính từ năm tiếp theo năm cuộc biểu diễn được định hình.",
+    "c": "75 năm tính từ năm biểu diễn.",
+    "d": "Suốt đời người biểu diễn và 50 năm tiếp theo.",
+    "answer": "b",
+    "explanation": "Điều 34 Luật Sở hữu trí tuệ quy định quyền của người biểu diễn được bảo hộ 50 năm tính từ năm tiếp theo năm cuộc biểu diễn được định hình."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, Công ty A là nhà sản xuất bản ghi âm được công bố năm 2005. Năm 2060, công ty yêu cầu công chứng hợp đồng chuyển nhượng quyền liên quan đối với bản ghi âm. Công chứng viên cần xem xét vấn đề nào?",
+    "a": "Quyền liên quan được bảo hộ vô thời hạn.",
+    "b": "Quyền liên quan được bảo hộ 75 năm.",
+    "c": "Quyền của nhà sản xuất bản ghi âm được bảo hộ 50 năm tính từ năm tiếp theo năm công bố.",
+    "d": "Quyền liên quan chỉ được bảo hộ khi đăng ký.",
+    "answer": "c",
+    "explanation": "Điều 34 Luật Sở hữu trí tuệ quy định quyền của nhà sản xuất bản ghi âm, ghi hình được bảo hộ 50 năm tính từ năm tiếp theo năm công bố."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, một bản ghi hình được định hình năm 2000 nhưng chưa từng công bố. Khi xác định thời hạn bảo hộ quyền của nhà sản xuất bản ghi hình, quy định nào được áp dụng?",
+    "a": "50 năm kể từ năm tiếp theo năm định hình.",
+    "b": "75 năm kể từ năm định hình.",
+    "c": "100 năm kể từ năm định hình.",
+    "d": "50 năm kể từ khi có tranh chấp.",
+    "answer": "a",
+    "explanation": "Điều 34 Luật Sở hữu trí tuệ quy định quyền của nhà sản xuất bản ghi âm, ghi hình được bảo hộ 50 năm kể từ năm tiếp theo năm bản ghi âm, ghi hình được định hình nếu chưa được công bố."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, Đài truyền hình X thực hiện chương trình phát sóng năm 2015. Năm 2026, Đài X yêu cầu công chứng hợp đồng chuyển giao quyền liên quan đối với chương trình này. Công chứng viên cần lưu ý quy định nào?",
+    "a": "Quyền của tổ chức phát sóng được bảo hộ 50 năm tính từ năm tiếp theo năm chương trình phát sóng được thực hiện.",
+    "b": "Quyền của tổ chức phát sóng được bảo hộ vô thời hạn.",
+    "c": "Quyền của tổ chức phát sóng được bảo hộ 75 năm.",
+    "d": "Quyền của tổ chức phát sóng được bảo hộ theo thời hạn hoạt động của đài truyền hình.",
+    "answer": "a",
+    "explanation": "Điều 34 Luật Sở hữu trí tuệ quy định quyền của tổ chức phát sóng được bảo hộ 50 năm tính từ năm tiếp theo năm chương trình phát sóng được thực hiện. Thời hạn bảo hộ chấm dứt vào thời điểm 24 giờ ngày 31 tháng 12 của năm chấm dứt thời hạn bảo hộ."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, năm 2026 ông A đến VPCC yêu cầu công chứng hợp đồng chuyển nhượng Bằng độc quyền sáng chế được cấp trên cơ sở đơn đăng ký nộp năm 2008. Khi kiểm tra hồ sơ, công chứng viên cần xác định vấn đề pháp lý nào trước tiên?",
+    "a": "Sáng chế đã được khai thác thương mại hay chưa.",
+    "b": "Bằng độc quyền sáng chế còn hiệu lực hay đã hết hiệu lực.",
+    "c": "Sáng chế có được đăng ký ở nước ngoài hay không.",
+    "d": "Người nhận chuyển nhượng có phải doanh nghiệp hay không.",
+    "answer": "b",
+    "explanation": "Điều 93 Luật Sở hữu trí tuệ 2005 quy định Bằng độc quyền sáng chế có hiệu lực từ ngày cấp và kéo dài đến hết 20 năm kể từ ngày nộp đơn. Công chứng viên phải xác định đối tượng chuyển nhượng còn tồn tại hợp pháp tại thời điểm giao dịch."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, Công ty X xuất trình Bằng độc quyền sáng chế được cấp từ đơn đăng ký nộp ngày 15/3/2010 và yêu cầu công chứng hợp đồng chuyển nhượng vào tháng 6/2031. Nhận định nào đúng?",
+    "a": "Bằng độc quyền sáng chế vẫn còn hiệu lực.",
+    "b": "Bằng độc quyền sáng chế hết hiệu lực vào ngày cấp bằng.",
+    "c": "Bằng độc quyền sáng chế đã hết hiệu lực do vượt quá thời hạn bảo hộ 20 năm kể từ ngày nộp đơn.",
+    "d": "Bằng độc quyền sáng chế được bảo hộ vô thời hạn.",
+    "answer": "c",
+    "explanation": "Điều 93 Luật Sở hữu trí tuệ 2005 quy định Bằng độc quyền sáng chế kéo dài đến hết 20 năm kể từ ngày nộp đơn."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, bà B yêu cầu công chứng hợp đồng chuyển nhượng Giải pháp hữu ích Z. Hồ sơ thể hiện đơn đăng ký được nộp năm 2014. Năm 2026 các bên ký hợp đồng chuyển nhượng. Công chứng viên cần lưu ý nội dung nào?",
+    "a": "Bằng độc quyền giải pháp hữu ích được bảo hộ 20 năm.",
+    "b": "Bằng độc quyền giải pháp hữu ích được bảo hộ 10 năm kể từ ngày nộp đơn.",
+    "c": "Giải pháp hữu ích được bảo hộ vô thời hạn.",
+    "d": "Giải pháp hữu ích được bảo hộ 25 năm.",
+    "answer": "b",
+    "explanation": "Điều 93 Luật Sở hữu trí tuệ 2005 quy định Bằng độc quyền giải pháp hữu ích có hiệu lực từ ngày cấp và kéo dài đến hết 10 năm kể từ ngày nộp đơn."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, ông C yêu cầu công chứng hợp đồng chuyển nhượng quyền đối với kiểu dáng công nghiệp được nộp đơn năm 2016. Khi nghiên cứu hồ sơ, công chứng viên thấy văn bằng đã được gia hạn hai lần liên tiếp theo quy định. Hiệu lực tối đa của văn bằng bảo hộ kiểu dáng công nghiệp là bao lâu kể từ ngày nộp đơn?",
+    "a": "05 năm.",
+    "b": "10 năm.",
+    "c": "15 năm.",
+    "d": "20 năm.",
+    "answer": "c",
+    "explanation": "Điều 93 Luật Sở hữu trí tuệ 2005 quy định Bằng độc quyền kiểu dáng công nghiệp có hiệu lực 05 năm kể từ ngày nộp đơn và có thể gia hạn hai lần liên tiếp, mỗi lần 05 năm."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, Công ty D yêu cầu công chứng hợp đồng chuyển nhượng thiết kế bố trí mạch tích hợp bán dẫn đã được cấp Giấy chứng nhận đăng ký. Công chứng viên cần xác định hiệu lực của văn bằng theo nguyên tắc nào?",
+    "a": "Chỉ căn cứ vào ngày cấp văn bằng.",
+    "b": "Chỉ căn cứ vào ngày nộp đơn.",
+    "c": "Chấm dứt vào ngày muộn nhất trong các mốc luật định.",
+    "d": "Chấm dứt vào ngày sớm nhất trong các mốc luật định.",
+    "answer": "d",
+    "explanation": "Điều 93 Luật Sở hữu trí tuệ 2005 quy định Giấy chứng nhận đăng ký thiết kế bố trí mạch tích hợp bán dẫn chấm dứt vào ngày sớm nhất trong các thời điểm luật định."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, Công ty E yêu cầu công chứng hợp đồng chuyển nhượng nhãn hiệu đã được cấp Giấy chứng nhận đăng ký nhãn hiệu. Công chứng viên xác định văn bằng được cấp trên cơ sở đơn đăng ký nộp ngày 10/8/2018. Nhận định nào đúng về hiệu lực văn bằng?",
+    "a": "Có hiệu lực vô thời hạn kể từ ngày cấp.",
+    "b": "Có hiệu lực đến hết 10 năm kể từ ngày nộp đơn và có thể gia hạn nhiều lần liên tiếp, mỗi lần 10 năm.",
+    "c": "Có hiệu lực 20 năm kể từ ngày nộp đơn.",
+    "d": "Có hiệu lực 25 năm kể từ ngày cấp.",
+    "answer": "b",
+    "explanation": "Điều 93 Luật Sở hữu trí tuệ 2005 quy định Giấy chứng nhận đăng ký nhãn hiệu có hiệu lực từ ngày cấp đến hết 10 năm kể từ ngày nộp đơn và có thể gia hạn nhiều lần liên tiếp, mỗi lần 10 năm."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, ông F là chủ sở hữu một chỉ dẫn địa lý được Nhà nước bảo hộ. Khi thực hiện thủ tục công chứng giao dịch liên quan đến quyền này, công chứng viên cần lưu ý đặc điểm nào về thời hạn hiệu lực của Giấy chứng nhận đăng ký chỉ dẫn địa lý?",
+    "a": "Có hiệu lực 20 năm.",
+    "b": "Có hiệu lực 10 năm và được gia hạn.",
+    "c": "Có hiệu lực 25 năm.",
+    "d": "Có hiệu lực vô thời hạn kể từ ngày cấp.",
+    "answer": "d",
+    "explanation": "Điều 93 Luật Sở hữu trí tuệ 2005 quy định Giấy chứng nhận đăng ký chỉ dẫn địa lý có hiệu lực vô thời hạn kể từ ngày cấp."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, Công ty G xuất trình Bằng bảo hộ giống cây trồng đối với giống nho được cấp năm 2010 và yêu cầu công chứng hợp đồng chuyển giao quyền vào năm 2034. Công chứng viên cần xác định vấn đề nào?",
+    "a": "Bằng bảo hộ đã hết hiệu lực.",
+    "b": "Bằng bảo hộ vẫn còn hiệu lực vì giống nho được bảo hộ 25 năm kể từ ngày cấp.",
+    "c": "Giống nho chỉ được bảo hộ 20 năm.",
+    "d": "Giống nho được bảo hộ vô thời hạn.",
+    "answer": "b",
+    "explanation": "Điều 169 Luật Sở hữu trí tuệ 2005 quy định Bằng bảo hộ giống cây trồng đối với cây thân gỗ và cây nho có hiệu lực từ ngày cấp đến hết 25 năm."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, ông H yêu cầu công chứng hợp đồng chuyển giao quyền đối với giống lúa đã được cấp Bằng bảo hộ giống cây trồng năm 2003. Năm 2025 các bên tiến hành giao dịch. Công chứng viên cần đánh giá như thế nào?",
+    "a": "Bằng bảo hộ vẫn còn hiệu lực.",
+    "b": "Bằng bảo hộ đã hết hiệu lực do quá thời hạn 20 năm.",
+    "c": "Bằng bảo hộ có thời hạn 25 năm.",
+    "d": "Bằng bảo hộ có hiệu lực vô thời hạn.",
+    "answer": "b",
+    "explanation": "Điều 169 Luật Sở hữu trí tuệ 2005 quy định giống cây trồng khác ngoài cây thân gỗ và cây nho được bảo hộ từ ngày cấp đến hết 20 năm."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, khi công chứng hợp đồng chuyển nhượng quyền sở hữu công nghiệp, vì sao công chứng viên phải kiểm tra thời hạn hiệu lực của văn bằng bảo hộ?",
+    "a": "Vì văn bằng hết hiệu lực thì đối tượng quyền có thể không còn là đối tượng được bảo hộ để giao dịch.",
+    "b": "Vì mọi văn bằng đều có hiệu lực vô thời hạn.",
+    "c": "Vì chỉ cơ quan đăng ký mới được xem xét hiệu lực văn bằng.",
+    "d": "Vì thời hạn hiệu lực không ảnh hưởng đến giao dịch.",
+    "answer": "a",
+    "explanation": "Điều 93 Luật Sở hữu trí tuệ 2005 và Điều 169 Luật Sở hữu trí tuệ 2005 quy định thời hạn hiệu lực cụ thể đối với từng loại văn bằng bảo hộ. Việc xác định văn bằng còn hiệu lực là cơ sở để đánh giá tính hợp pháp của đối tượng giao dịch."
+  },
+ {
     "question": "Theo Luật Quốc tịch Việt Nam sửa đổi, bổ sung năm 2014, Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam công nhận công dân Việt Nam có quốc tịch nào?",
     "a": "Có thể đồng thời có nhiều quốc tịch",
     "b": "Có một quốc tịch là quốc tịch Việt Nam, trừ trường hợp luật có quy định khác",
