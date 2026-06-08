@@ -1,4 +1,409 @@
-[
+[   
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, nhạc sĩ A sáng tác một ca khúc và hoàn thiện dưới dạng bản nhạc có lời. Tác phẩm chưa được biểu diễn, chưa được công bố và chưa đăng ký quyền tác giả. Trong trường hợp này, quyền tác giả đối với ca khúc phát sinh khi nào?",
+    "a": "Khi tác phẩm được công bố",
+    "b": "Khi tác phẩm được đăng ký quyền tác giả",
+    "c": "Khi tác phẩm được biểu diễn trước công chúng",
+    "d": "Khi tác phẩm được sáng tạo và thể hiện dưới hình thức vật chất nhất định",
+    "answer": "d",
+    "explanation": "Khoản 1 Điều 6 Luật Sở hữu trí tuệ quy định quyền tác giả phát sinh kể từ khi tác phẩm được sáng tạo và được thể hiện dưới một hình thức vật chất nhất định, không phân biệt đã công bố, đăng ký hay chưa đăng ký."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, giảng viên B trình bày một chuyên đề khoa học tại hội thảo và nội dung bài giảng được ghi âm đầy đủ. Đối tượng nào sau đây thuộc phạm vi bảo hộ quyền tác giả?",
+    "a": "Bài giảng của giảng viên B",
+    "b": "Bản ghi âm bài giảng",
+    "c": "Cả bài giảng và bản ghi âm đều là đối tượng quyền tác giả",
+    "d": "Không đối tượng nào được bảo hộ",
+    "answer": "a",
+    "explanation": "Khoản 1 Điều 14 Luật Sở hữu trí tuệ quy định bài giảng, bài phát biểu và bài nói khác là loại hình tác phẩm được bảo hộ quyền tác giả. Điều 17 Luật Sở hữu trí tuệ quy định bản ghi âm là đối tượng quyền liên quan đến quyền tác giả."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, ca sĩ C biểu diễn một ca khúc của nhạc sĩ D trong chương trình được truyền hình trực tiếp. Cuộc biểu diễn của C thuộc đối tượng nào sau đây?",
+    "a": "Quyền tác giả",
+    "b": "Quyền liên quan đến quyền tác giả",
+    "c": "Quyền sở hữu công nghiệp",
+    "d": "Quyền đối với giống cây trồng",
+    "answer": "b",
+    "explanation": "Điều 17 Luật Sở hữu trí tuệ quy định cuộc biểu diễn là đối tượng quyền liên quan đến quyền tác giả."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, kiến trúc sư E hoàn thành bản vẽ thiết kế một công trình nhưng công trình chưa được xây dựng. Bản vẽ thiết kế này có được bảo hộ quyền tác giả hay không?",
+    "a": "Không được bảo hộ vì công trình chưa xây dựng",
+    "b": "Chỉ được bảo hộ sau khi đăng ký quyền tác giả",
+    "c": "Được bảo hộ nếu công trình được cấp phép xây dựng",
+    "d": "Được bảo hộ quyền tác giả",
+    "answer": "d",
+    "explanation": "Khoản 1 Điều 14 Luật Sở hữu trí tuệ quy định tác phẩm kiến trúc là đối tượng được bảo hộ quyền tác giả. Khoản 1 Điều 6 Luật Sở hữu trí tuệ quy định quyền tác giả phát sinh kể từ khi tác phẩm được sáng tạo và được thể hiện dưới hình thức vật chất nhất định."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, một công ty thu âm đầu tư kinh phí và tổ chức việc ghi âm album của ca sĩ X. Đối tượng nào sau đây thuộc quyền liên quan đến quyền tác giả?",
+    "a": "Bản ghi âm của album",
+    "b": "Lời bài hát trong album",
+    "c": "Ý tưởng sáng tác bài hát",
+    "d": "Tên thương mại của công ty thu âm",
+    "answer": "a",
+    "explanation": "Điều 17 Luật Sở hữu trí tuệ quy định bản ghi âm, ghi hình là đối tượng quyền liên quan đến quyền tác giả."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, nhà báo F thực hiện một phóng sự điều tra và đăng tải trên báo điện tử. Phóng sự này thuộc loại hình tác phẩm nào?",
+    "a": "Tác phẩm điện ảnh",
+    "b": "Tác phẩm báo chí",
+    "c": "Tác phẩm sân khấu",
+    "d": "Chương trình phát sóng",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 14 Luật Sở hữu trí tuệ quy định tác phẩm báo chí là một trong các loại hình tác phẩm được bảo hộ quyền tác giả."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, doanh nghiệp G sáng tạo thành công một giải pháp kỹ thuật mới có khả năng áp dụng công nghiệp và đáp ứng điều kiện bảo hộ. Đối tượng này thuộc nhóm quyền nào?",
+    "a": "Quyền tác giả",
+    "b": "Quyền liên quan",
+    "c": "Quyền sở hữu công nghiệp",
+    "d": "Quyền đối với giống cây trồng",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 4 Luật Sở hữu trí tuệ quy định sáng chế là đối tượng quyền sở hữu công nghiệp."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, dấu hiệu 'VINAMILK' được sử dụng để phân biệt hàng hóa, dịch vụ của doanh nghiệp này với chủ thể khác trên thị trường. Dấu hiệu đó thuộc đối tượng nào?",
+    "a": "Nhãn hiệu",
+    "b": "Chỉ dẫn địa lý",
+    "c": "Tên gọi xuất xứ hàng hóa",
+    "d": "Tác phẩm mỹ thuật ứng dụng",
+    "answer": "a",
+    "explanation": "Khoản 16 Điều 4 Luật Sở hữu trí tuệ quy định nhãn hiệu là dấu hiệu dùng để phân biệt hàng hóa, dịch vụ của các tổ chức, cá nhân khác nhau."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, tên gọi 'Phú Quốc' được bảo hộ cho sản phẩm nước mắm có nguồn gốc từ khu vực địa lý tương ứng. Đối tượng này thuộc nhóm nào?",
+    "a": "Nhãn hiệu",
+    "b": "Bí mật kinh doanh",
+    "c": "Chỉ dẫn địa lý",
+    "d": "Tên thương mại",
+    "answer": "c",
+    "explanation": "Khoản 22 Điều 4 Luật Sở hữu trí tuệ quy định chỉ dẫn địa lý là dấu hiệu dùng để chỉ sản phẩm có nguồn gốc từ khu vực, địa phương, vùng lãnh thổ hoặc quốc gia cụ thể."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, một công ty sở hữu công thức sản xuất độc quyền và áp dụng các biện pháp cần thiết để giữ bí mật thông tin này. Đối tượng được bảo hộ nào đang được đề cập?",
+    "a": "Sáng chế",
+    "b": "Bí mật kinh doanh",
+    "c": "Nhãn hiệu",
+    "d": "Tác phẩm khoa học",
+    "answer": "b",
+    "explanation": "Khoản 23 Điều 4 Luật Sở hữu trí tuệ quy định bí mật kinh doanh là thông tin thu được từ hoạt động đầu tư tài chính, trí tuệ chưa được bộc lộ và có khả năng sử dụng trong kinh doanh."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, chương trình truyền hình trực tiếp trận chung kết bóng đá do Đài truyền hình H sản xuất và phát sóng thuộc đối tượng nào?",
+    "a": "Tác phẩm báo chí",
+    "b": "Quyền sở hữu công nghiệp",
+    "c": "Chương trình phát sóng thuộc quyền liên quan",
+    "d": "Tác phẩm điện ảnh",
+    "answer": "c",
+    "explanation": "Điều 17 Luật Sở hữu trí tuệ quy định chương trình phát sóng là đối tượng quyền liên quan đến quyền tác giả."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, giống lúa mới được cơ quan có thẩm quyền cấp bằng bảo hộ giống cây trồng. Hạt giống của giống lúa này thuộc đối tượng nào được bảo hộ?",
+    "a": "Vật liệu nhân giống",
+    "b": "Tác phẩm khoa học",
+    "c": "Bản ghi âm",
+    "d": "Sáng chế",
+    "answer": "a",
+    "explanation": "Khoản 24 Điều 4 Luật Sở hữu trí tuệ quy định vật liệu nhân giống là vật liệu có khả năng dùng để sản xuất ra cây trồng mới và là đối tượng thuộc quyền đối với giống cây trồng."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, giảng viên A tự nghiên cứu và trình bày một chuyên đề tại hội thảo. Bài giảng được ghi âm đầy đủ để lưu trữ. Trong trường hợp này, đối tượng nào được bảo hộ quyền tác giả?",
+    "a": "Chỉ bản ghi âm",
+    "b": "Chỉ bài giảng",
+    "c": "Bài giảng là đối tượng quyền tác giả, bản ghi âm là đối tượng quyền liên quan",
+    "d": "Không đối tượng nào được bảo hộ",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 14 Luật Sở hữu trí tuệ quy định bài giảng, bài phát biểu và bài nói khác là loại hình tác phẩm được bảo hộ quyền tác giả. Điều 17 Luật Sở hữu trí tuệ quy định bản ghi âm là đối tượng quyền liên quan đến quyền tác giả."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, nhạc sĩ B hoàn thành một ca khúc dưới dạng bản nhạc có lời nhưng chưa công bố và chưa biểu diễn trước công chúng. Ca khúc này có được bảo hộ quyền tác giả hay không?",
+    "a": "Không, vì chưa biểu diễn",
+    "b": "Không, vì chưa công bố",
+    "c": "Có, vì đã được sáng tạo và thể hiện dưới hình thức vật chất nhất định",
+    "d": "Chỉ được bảo hộ khi đăng ký quyền tác giả",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 6 Luật Sở hữu trí tuệ quy định quyền tác giả phát sinh kể từ khi tác phẩm được sáng tạo và được thể hiện dưới hình thức vật chất nhất định."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, ca sĩ C biểu diễn bài hát của nhạc sĩ D trong một chương trình truyền hình trực tiếp. Đối tượng nào sau đây thuộc quyền liên quan đến quyền tác giả?",
+    "a": "Lời bài hát",
+    "b": "Bản nhạc",
+    "c": "Cuộc biểu diễn của ca sĩ C",
+    "d": "Ý tưởng sáng tác bài hát",
+    "answer": "c",
+    "explanation": "Điều 17 Luật Sở hữu trí tuệ quy định cuộc biểu diễn là đối tượng quyền liên quan đến quyền tác giả."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, kiến trúc sư E thiết kế một khu nghỉ dưỡng bằng bộ bản vẽ hoàn chỉnh nhưng dự án chưa được xây dựng. Một doanh nghiệp khác sao chép các bản vẽ này để triển khai công trình riêng. Bản vẽ của E có được bảo hộ quyền tác giả không?",
+    "a": "Không vì công trình chưa xây dựng",
+    "b": "Không vì chưa đăng ký quyền tác giả",
+    "c": "Có vì tác phẩm kiến trúc được bảo hộ kể từ khi được thể hiện dưới hình thức vật chất nhất định",
+    "d": "Chỉ được bảo hộ sau khi công trình hoàn thành",
+    "answer": "c",
+    "explanation": "Khoản 1 Điều 14 Luật Sở hữu trí tuệ quy định tác phẩm kiến trúc là đối tượng được bảo hộ quyền tác giả. Khoản 1 Điều 6 Luật Sở hữu trí tuệ quy định quyền tác giả phát sinh từ thời điểm tác phẩm được sáng tạo và được thể hiện dưới hình thức vật chất nhất định."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, nhà báo F thực hiện một phóng sự điều tra và đăng tải trên báo điện tử. Một trang thông tin điện tử khác sao chép toàn bộ nội dung để đăng lại mà không được phép. Phóng sự điều tra của F thuộc loại hình tác phẩm nào?",
+    "a": "Tác phẩm điện ảnh",
+    "b": "Tác phẩm báo chí",
+    "c": "Tác phẩm sân khấu",
+    "d": "Chương trình phát sóng",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 14 Luật Sở hữu trí tuệ quy định tác phẩm báo chí là loại hình tác phẩm được bảo hộ quyền tác giả."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, Công ty G tạo ra một giải pháp kỹ thuật mới có khả năng áp dụng trong sản xuất và đáp ứng điều kiện bảo hộ. Đối tượng này thuộc nhóm quyền nào?",
+    "a": "Quyền tác giả",
+    "b": "Quyền liên quan",
+    "c": "Quyền sở hữu công nghiệp",
+    "d": "Quyền đối với giống cây trồng",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 4 Luật Sở hữu trí tuệ quy định sáng chế là đối tượng quyền sở hữu công nghiệp."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, Công ty H sử dụng dấu hiệu 'ABC MILK' để phân biệt sản phẩm sữa của mình với sản phẩm của doanh nghiệp khác trên thị trường. Dấu hiệu này thuộc đối tượng nào?",
+    "a": "Tên thương mại",
+    "b": "Nhãn hiệu",
+    "c": "Chỉ dẫn địa lý",
+    "d": "Bí mật kinh doanh",
+    "answer": "b",
+    "explanation": "Khoản 16 Điều 4 Luật Sở hữu trí tuệ quy định nhãn hiệu là dấu hiệu dùng để phân biệt hàng hóa, dịch vụ của các tổ chức, cá nhân khác nhau."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, nước mắm mang tên 'Phú Quốc' được bảo hộ vì có nguồn gốc từ khu vực địa lý tương ứng và chất lượng gắn với điều kiện tự nhiên của khu vực đó. Dấu hiệu 'Phú Quốc' thuộc đối tượng nào?",
+    "a": "Nhãn hiệu",
+    "b": "Tên thương mại",
+    "c": "Chỉ dẫn địa lý",
+    "d": "Bí mật kinh doanh",
+    "answer": "c",
+    "explanation": "Khoản 22 Điều 4 Luật Sở hữu trí tuệ quy định chỉ dẫn địa lý là dấu hiệu dùng để chỉ sản phẩm có nguồn gốc từ khu vực địa lý cụ thể."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, Đài truyền hình K sản xuất và phát sóng trực tiếp trận chung kết bóng đá quốc gia. Chương trình phát sóng này thuộc đối tượng nào?",
+    "a": "Quyền tác giả",
+    "b": "Quyền sở hữu công nghiệp",
+    "c": "Quyền liên quan đến quyền tác giả",
+    "d": "Quyền đối với giống cây trồng",
+    "answer": "c",
+    "explanation": "Điều 17 Luật Sở hữu trí tuệ quy định chương trình phát sóng là đối tượng quyền liên quan đến quyền tác giả."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, một giống lúa mới được cấp Bằng bảo hộ giống cây trồng. Hạt giống dùng để gieo trồng thế hệ tiếp theo thuộc đối tượng nào?",
+    "a": "Vật liệu nhân giống",
+    "b": "Tác phẩm khoa học",
+    "c": "Bản ghi hình",
+    "d": "Sáng chế",
+    "answer": "a",
+    "explanation": "Khoản 24 Điều 4 Luật Sở hữu trí tuệ quy định vật liệu nhân giống là vật liệu có khả năng sử dụng để sản xuất ra cây trồng mới và thuộc đối tượng của quyền đối với giống cây trồng."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, ca sĩ A biểu diễn một ca khúc trong chương trình nghệ thuật được tổ chức tại thành phố H. Cuộc biểu diễn này thuộc đối tượng nào?",
+    "a": "Quyền tác giả",
+    "b": "Quyền liên quan đến quyền tác giả",
+    "c": "Quyền sở hữu công nghiệp",
+    "d": "Quyền đối với giống cây trồng",
+    "answer": "b",
+    "explanation": "Khoản 1 Điều 4 Luật Sở hữu trí tuệ quy định quyền liên quan đến quyền tác giả là quyền của tổ chức, cá nhân đối với cuộc biểu diễn, bản ghi âm, ghi hình, chương trình phát sóng và tín hiệu vệ tinh mang chương trình được mã hóa."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, Công ty B lần đầu tiên thực hiện việc ghi âm toàn bộ chương trình biểu diễn của ca sĩ C và phát hành dưới dạng album. Công ty B được xác định là chủ thể nào sau đây?",
+    "a": "Người biểu diễn",
+    "b": "Tổ chức phát sóng",
+    "c": "Nhà sản xuất bản ghi âm, ghi hình",
+    "d": "Chủ sở hữu sáng chế",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 16 Luật Sở hữu trí tuệ quy định tổ chức, cá nhân định hình lần đầu âm thanh, hình ảnh của cuộc biểu diễn hoặc các âm thanh, hình ảnh khác là nhà sản xuất bản ghi âm, ghi hình."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, Đài truyền hình X tổ chức sản xuất và phát sóng trực tiếp một cuộc thi âm nhạc trên phạm vi toàn quốc. Đài truyền hình X được xác định là chủ thể nào được bảo hộ quyền liên quan?",
+    "a": "Người biểu diễn",
+    "b": "Nhà sản xuất bản ghi âm, ghi hình",
+    "c": "Tổ chức phát sóng",
+    "d": "Chủ sở hữu nhãn hiệu",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 16 Luật Sở hữu trí tuệ quy định tổ chức khởi xướng và thực hiện việc phát sóng là tổ chức phát sóng và được bảo hộ quyền liên quan."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, diễn viên D tham gia biểu diễn trong một bộ phim điện ảnh. Đối với phần trình diễn của mình, D thuộc nhóm chủ thể nào được bảo hộ quyền liên quan?",
+    "a": "Người biểu diễn",
+    "b": "Tổ chức phát sóng",
+    "c": "Nhà sản xuất bản ghi hình",
+    "d": "Chủ sở hữu chỉ dẫn địa lý",
+    "answer": "a",
+    "explanation": "Khoản 2 Điều 16 Luật Sở hữu trí tuệ quy định diễn viên, ca sĩ, nhạc công, vũ công và những người khác trình bày tác phẩm văn học, nghệ thuật là người biểu diễn và thuộc nhóm chủ thể được bảo hộ quyền liên quan."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, Công ty E tạo ra một giải pháp kỹ thuật mới nhằm nâng cao hiệu quả sản xuất và đáp ứng điều kiện bảo hộ theo quy định của pháp luật. Đối tượng này thuộc nhóm quyền nào?",
+    "a": "Quyền tác giả",
+    "b": "Quyền liên quan",
+    "c": "Quyền sở hữu công nghiệp",
+    "d": "Quyền đối với giống cây trồng",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 4 Luật Sở hữu trí tuệ quy định sáng chế là một trong các đối tượng của quyền sở hữu công nghiệp."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, Công ty F thiết kế hình dáng bên ngoài mới cho một loại điện thoại di động nhằm tạo sự khác biệt với sản phẩm cùng loại trên thị trường. Đối tượng bảo hộ phù hợp nhất là gì?",
+    "a": "Nhãn hiệu",
+    "b": "Kiểu dáng công nghiệp",
+    "c": "Tên thương mại",
+    "d": "Bản ghi hình",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 4 Luật Sở hữu trí tuệ quy định kiểu dáng công nghiệp là một trong các đối tượng của quyền sở hữu công nghiệp."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, Doanh nghiệp G sử dụng dấu hiệu riêng để phân biệt hàng hóa của mình với hàng hóa của doanh nghiệp khác trên thị trường. Dấu hiệu này thuộc đối tượng nào của quyền sở hữu công nghiệp?",
+    "a": "Tên thương mại",
+    "b": "Nhãn hiệu",
+    "c": "Chỉ dẫn địa lý",
+    "d": "Sáng chế",
+    "answer": "b",
+    "explanation": "Khoản 16 Điều 4 Luật Sở hữu trí tuệ quy định nhãn hiệu là dấu hiệu dùng để phân biệt hàng hóa, dịch vụ của các tổ chức, cá nhân khác nhau."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, Doanh nghiệp H sử dụng tên gọi của mình trong hoạt động kinh doanh nhằm phân biệt với các chủ thể kinh doanh khác trong cùng lĩnh vực và khu vực kinh doanh. Đối tượng này thuộc nhóm nào?",
+    "a": "Tên thương mại",
+    "b": "Nhãn hiệu",
+    "c": "Chỉ dẫn địa lý",
+    "d": "Kiểu dáng công nghiệp",
+    "answer": "a",
+    "explanation": "Khoản 21 Điều 4 Luật Sở hữu trí tuệ quy định tên thương mại là tên gọi của tổ chức, cá nhân dùng trong hoạt động kinh doanh để phân biệt chủ thể kinh doanh mang tên gọi đó với chủ thể kinh doanh khác."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, sản phẩm chè mang tên địa danh nổi tiếng của một vùng và chất lượng của sản phẩm gắn liền với điều kiện địa lý của vùng đó. Dấu hiệu chỉ nguồn gốc địa lý này thuộc đối tượng nào?",
+    "a": "Tên thương mại",
+    "b": "Nhãn hiệu",
+    "c": "Chỉ dẫn địa lý",
+    "d": "Bí mật kinh doanh",
+    "answer": "c",
+    "explanation": "Khoản 22 Điều 4 Luật Sở hữu trí tuệ quy định chỉ dẫn địa lý là dấu hiệu dùng để chỉ sản phẩm có nguồn gốc từ khu vực, địa phương, vùng lãnh thổ hoặc quốc gia cụ thể."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, Công ty K sở hữu một quy trình sản xuất đặc biệt, chưa được công khai và mang lại lợi thế cạnh tranh trong kinh doanh. Đối tượng này thuộc nhóm nào của quyền sở hữu công nghiệp?",
+    "a": "Bí mật kinh doanh",
+    "b": "Nhãn hiệu",
+    "c": "Tên thương mại",
+    "d": "Kiểu dáng công nghiệp",
+    "answer": "a",
+    "explanation": "Khoản 23 Điều 4 Luật Sở hữu trí tuệ quy định bí mật kinh doanh là thông tin thu được từ hoạt động đầu tư tài chính, trí tuệ, chưa được bộc lộ và có khả năng sử dụng trong kinh doanh."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, một doanh nghiệp sử dụng hành vi gây nhầm lẫn về chủ thể kinh doanh nhằm thu hút khách hàng của doanh nghiệp khác. Quyền nào sau đây có liên quan trực tiếp đến việc bảo vệ lợi ích hợp pháp của doanh nghiệp bị ảnh hưởng?",
+    "a": "Quyền tác giả",
+    "b": "Quyền liên quan",
+    "c": "Quyền chống cạnh tranh không lành mạnh",
+    "d": "Quyền đối với giống cây trồng",
+    "answer": "c",
+    "explanation": "Khoản 4 Điều 4 Luật Sở hữu trí tuệ quy định quyền chống cạnh tranh không lành mạnh là một trong các đối tượng thuộc quyền sở hữu công nghiệp."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, Công ty M thiết kế sơ đồ bố trí các phần tử trong một mạch tích hợp bán dẫn hoàn toàn mới phục vụ sản xuất thiết bị điện tử. Đối tượng này thuộc nhóm nào?",
+    "a": "Tác phẩm kiến trúc",
+    "b": "Thiết kế bố trí mạch tích hợp bán dẫn",
+    "c": "Kiểu dáng công nghiệp",
+    "d": "Bí mật kinh doanh",
+    "answer": "b",
+    "explanation": "Khoản 4 Điều 4 Luật Sở hữu trí tuệ quy định thiết kế bố trí mạch tích hợp bán dẫn là một trong các đối tượng của quyền sở hữu công nghiệp."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015 và quy định về công chứng, ông A là chủ sở hữu quyền tác giả đối với một bộ sách có giá trị kinh tế lớn. Trước khi chết, ông A lập di chúc để lại toàn bộ quyền tài sản đối với bộ sách cho con trai mình. Văn bản nào sau đây thuộc trường hợp có thể phát sinh yêu cầu công chứng liên quan đến quyền sở hữu trí tuệ?",
+    "a": "Hợp đồng sử dụng tác phẩm",
+    "b": "Di chúc liên quan đến quyền sở hữu trí tuệ",
+    "c": "Thỏa thuận quảng bá tác phẩm",
+    "d": "Hợp đồng biểu diễn nghệ thuật",
+    "answer": "b",
+    "explanation": "Điều 115 Bộ luật Dân sự 2015 quy định quyền tài sản bao gồm quyền tài sản đối với đối tượng quyền sở hữu trí tuệ. Các văn bản liên quan đến di chúc, phân chia di sản có đối tượng là quyền sở hữu trí tuệ thuộc nhóm giao dịch có thể phát sinh yêu cầu công chứng theo quy định của pháp luật về công chứng."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, bà B là chủ sở hữu quyền tài sản đối với một tác phẩm âm nhạc. Sau khi bà B qua đời, các con của bà yêu cầu lập văn bản khai nhận di sản đối với quyền tài sản này. Cơ sở pháp lý nào xác định quyền sở hữu trí tuệ có thể trở thành di sản thừa kế?",
+    "a": "Quyền sở hữu trí tuệ là động sản",
+    "b": "Quyền sở hữu trí tuệ là bất động sản",
+    "c": "Quyền sở hữu trí tuệ là quyền tài sản",
+    "d": "Quyền sở hữu trí tuệ là giấy tờ có giá",
+    "answer": "c",
+    "explanation": "Điều 115 Bộ luật Dân sự 2015 quy định quyền tài sản là quyền trị giá được bằng tiền, bao gồm quyền tài sản đối với đối tượng quyền sở hữu trí tuệ."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, ông C để lại di sản là quyền tài sản đối với nhãn hiệu đang được khai thác thương mại. Những người thừa kế yêu cầu công chứng văn bản thỏa thuận phân chia di sản. Nhận định nào phù hợp nhất?",
+    "a": "Không thể phân chia vì quyền sở hữu trí tuệ không phải tài sản",
+    "b": "Không thể thừa kế vì đây không phải vật hữu hình",
+    "c": "Có thể phân chia di sản vì quyền sở hữu trí tuệ là quyền tài sản",
+    "d": "Chỉ được phân chia khi có quyết định của cơ quan quản lý sở hữu trí tuệ",
+    "answer": "c",
+    "explanation": "Điều 115 Bộ luật Dân sự 2015 quy định quyền tài sản bao gồm quyền tài sản đối với đối tượng quyền sở hữu trí tuệ. Quyền tài sản có thể là đối tượng của quan hệ thừa kế theo quy định của pháp luật dân sự."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, ông D là chủ sở hữu quyền tài sản đối với một sáng chế. Sau khi ông D chết, những người thừa kế yêu cầu công chứng văn bản khai nhận di sản đối với sáng chế này. Công chứng viên cần xác định sáng chế thuộc loại tài sản nào?",
+    "a": "Tài sản vô chủ",
+    "b": "Quyền tài sản",
+    "c": "Bất động sản",
+    "d": "Hoa lợi",
+    "answer": "b",
+    "explanation": "Điều 115 Bộ luật Dân sự 2015 quy định quyền tài sản bao gồm quyền tài sản đối với đối tượng quyền sở hữu trí tuệ."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, bà E là chủ sở hữu quyền tài sản đối với tác phẩm điện ảnh do mình sáng tạo. Trong di chúc được lập hợp pháp, bà E để lại quyền tài sản này cho cháu ruột. Việc định đoạt quyền tài sản đối với tác phẩm trong di chúc được đặt trên cơ sở nào?",
+    "a": "Quyền sở hữu trí tuệ là bất động sản",
+    "b": "Quyền sở hữu trí tuệ là quyền tài sản trị giá được bằng tiền",
+    "c": "Quyền sở hữu trí tuệ là giấy tờ có giá",
+    "d": "Quyền sở hữu trí tuệ là vật tiêu hao",
+    "answer": "b",
+    "explanation": "Điều 115 Bộ luật Dân sự 2015 quy định quyền tài sản là quyền trị giá được bằng tiền, bao gồm quyền tài sản đối với đối tượng quyền sở hữu trí tuệ."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, sau khi ông H chết, những người thừa kế phát hiện di sản để lại bao gồm quyền tài sản đối với một nhãn hiệu đang được khai thác thương mại. Khi yêu cầu công chứng văn bản khai nhận di sản, cơ sở pháp lý quan trọng nhất để xác định nhãn hiệu có thể là đối tượng của di sản là gì?",
+    "a": "Nhãn hiệu là vật đặc định",
+    "b": "Nhãn hiệu là quyền tài sản trị giá được bằng tiền",
+    "c": "Nhãn hiệu là động sản phải đăng ký",
+    "d": "Nhãn hiệu là giấy tờ có giá",
+    "answer": "b",
+    "explanation": "Điều 115 Bộ luật Dân sự 2015 quy định quyền tài sản bao gồm quyền tài sản đối với đối tượng quyền sở hữu trí tuệ."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ và Bộ luật Dân sự 2015, nhà văn Nguyễn Tâm là tác giả tác phẩm văn học M và đã được cấp Giấy chứng nhận đăng ký quyền tác giả. Ông Tâm đến VPCC Quận 1 yêu cầu công chứng di chúc với nội dung để lại 'toàn bộ quyền tác giả đối với tác phẩm M' cho con trai là Nguyễn Văn Dũng. Khi tiếp nhận hồ sơ, công chứng viên cần hiểu và xử lý như thế nào?",
+    "a": "Từ chối công chứng vì quyền tác giả không phải là tài sản nên không được để lại thừa kế.",
+    "b": "Chấp nhận ngay nội dung di chúc vì toàn bộ quyền tác giả đều được chuyển giao cho người thừa kế.",
+    "c": "Giải thích cho ông Tâm rằng chỉ những quyền được pháp luật cho phép mới có thể được chuyển giao thông qua thừa kế; cần làm rõ nội dung di chúc liên quan đến quyền tài sản và các quyền khác theo quy định của Luật Sở hữu trí tuệ.",
+    "d": "Yêu cầu ông Tâm phải chuyển nhượng quyền tác giả cho con trước khi lập di chúc.",
+    "answer": "c",
+    "explanation": "Điều 115 Bộ luật Dân sự 2015 quy định quyền tài sản bao gồm quyền tài sản đối với đối tượng quyền sở hữu trí tuệ. Điều 45 Luật Sở hữu trí tuệ quy định quyền tác giả, quyền liên quan có thể được chuyển giao thông qua thừa kế. Điều 19 và Điều 20 Luật Sở hữu trí tuệ phân biệt quyền nhân thân và quyền tài sản của tác giả. Công chứng viên có trách nhiệm giải thích quyền, nghĩa vụ và hậu quả pháp lý của giao dịch theo Luật Công chứng trước khi chứng nhận di chúc."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ và Bộ luật Dân sự 2015, ông A là chủ sở hữu quyền tài sản đối với một nhãn hiệu đang được khai thác thương mại. Trước khi chết, ông A lập di chúc để lại toàn bộ quyền đối với nhãn hiệu cho con gái. Sau khi ông A chết, những người thừa kế yêu cầu công chứng văn bản khai nhận di sản. Cơ sở pháp lý quan trọng nhất để xác định nhãn hiệu có thể là đối tượng của di sản là gì?",
+    "a": "Nhãn hiệu là vật hữu hình.",
+    "b": "Nhãn hiệu là quyền tài sản có thể trị giá được bằng tiền.",
+    "c": "Nhãn hiệu là bất động sản đặc biệt.",
+    "d": "Nhãn hiệu là giấy tờ có giá.",
+    "answer": "b",
+    "explanation": "Điều 115 Bộ luật Dân sự 2015 quy định quyền tài sản là quyền trị giá được bằng tiền, bao gồm quyền tài sản đối với đối tượng quyền sở hữu trí tuệ. Khoản 4 Điều 4 Luật Sở hữu trí tuệ xác định nhãn hiệu là đối tượng của quyền sở hữu công nghiệp."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ và quy định về công chứng, nhạc sĩ B là tác giả một ca khúc nổi tiếng. Trong di chúc, B để lại toàn bộ quyền khai thác thương mại ca khúc cho con trai. Sau khi nghiên cứu hồ sơ, công chứng viên xác định đối tượng được định đoạt trong di chúc là gì?",
+    "a": "Quyền tài sản đối với tác phẩm.",
+    "b": "Quyền nhân thân không thể tách rời tác giả.",
+    "c": "Danh dự, uy tín của tác giả.",
+    "d": "Năng lực pháp luật dân sự của tác giả.",
+    "answer": "a",
+    "explanation": "Điều 115 Bộ luật Dân sự 2015 quy định quyền tài sản đối với đối tượng quyền sở hữu trí tuệ là tài sản. Điều 20 Luật Sở hữu trí tuệ quy định các quyền tài sản của chủ sở hữu quyền tác giả."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ, bà C là chủ sở hữu quyền tài sản đối với một tác phẩm điện ảnh. Trong di chúc được yêu cầu công chứng, bà C để lại toàn bộ quyền khai thác thương mại tác phẩm cho hai người con theo tỷ lệ bằng nhau. Công chứng viên nhận định đối tượng định đoạt trong di chúc thuộc loại tài sản nào?",
+    "a": "Quyền tài sản đối với đối tượng quyền sở hữu trí tuệ.",
+    "b": "Động sản bắt buộc đăng ký.",
+    "c": "Giấy tờ có giá.",
+    "d": "Tài sản vô hình không được pháp luật bảo vệ.",
+    "answer": "a",
+    "explanation": "Điều 115 Bộ luật Dân sự 2015 quy định quyền tài sản bao gồm quyền tài sản đối với đối tượng quyền sở hữu trí tuệ. Điều 4 Luật Sở hữu trí tuệ xác định tác phẩm điện ảnh là đối tượng được bảo hộ quyền tác giả."
+  },
+  {
+    "question": "Theo Luật Sở hữu trí tuệ và Bộ luật Dân sự 2015, tác giả D đến VPCC yêu cầu công chứng di chúc để lại quyền tài sản đối với tác phẩm báo chí của mình cho người cháu ruột. Một nhân viên cho rằng quyền sở hữu trí tuệ không phải là tài sản nên không thể là đối tượng của di chúc. Nhận định nào đúng?",
+    "a": "Nhận định của nhân viên đúng vì quyền sở hữu trí tuệ là quyền nhân thân.",
+    "b": "Nhận định của nhân viên đúng vì chỉ tài sản hữu hình mới được thừa kế.",
+    "c": "Nhận định của nhân viên không đúng vì quyền tài sản đối với đối tượng quyền sở hữu trí tuệ là tài sản và có thể là đối tượng của di chúc.",
+    "d": "Nhận định của nhân viên đúng vì phải chuyển nhượng trước khi chết.",
+    "answer": "c",
+    "explanation": "Điều 115 Bộ luật Dân sự 2015 quy định quyền tài sản bao gồm quyền tài sản đối với đối tượng quyền sở hữu trí tuệ. Điều 45 Luật Sở hữu trí tuệ quy định quyền tác giả, quyền liên quan có thể được chuyển giao thông qua thừa kế."
+  },
      {
     "question": "Theo Nghị định 95/2024/NĐ-CP quy định về thuê nhà ở cũ thuộc tài sản công, trường hợp đang có hợp đồng thuê nhà ở hợp pháp thì xử lý như thế nào?",
     "a": "Phải ký lại hợp đồng thuê mới ngay lập tức",
