@@ -134,15 +134,15 @@
         "answer": "b",
         "explanation": "Ngoại tệ là tài sản nhưng việc sử dụng ngoại tệ trong giao dịch tại Việt Nam phải phù hợp quy định về quản lý ngoại hối."
     },
-    {
-        "question": "A đặt cọc bằng căn hộ chung cư cho B để mua tài sản của B. Hai bên thỏa thuận nếu A vi phạm thì sẽ cùng đi công chứng hợp đồng chuyển quyền sở hữu căn hộ cho B. Nhận định nào đúng?",
-        "a": "Đặt cọc đương nhiên làm chuyển quyền sở hữu tài sản.",
-        "b": "Biện pháp đặt cọc không đồng nghĩa với việc tự động chuyển quyền sở hữu tài sản đặt cọc.",
-        "c": "Không cần công chứng chuyển nhượng căn hộ.",
-        "d": "B được sở hữu căn hộ ngay khi ký đặt cọc.",
-        "answer": "b",
-        "explanation": "Đặt cọc chỉ là biện pháp bảo đảm. Việc chuyển quyền sở hữu bất động sản vẫn phải tuân thủ điều kiện, hình thức và thủ tục theo quy định pháp luật."
-    },
+   {
+  "question": "A dùng căn hộ chung cư thuộc sở hữu của mình làm tài sản đặt cọc để bảo đảm việc giao kết hợp đồng mua tài sản của B. Hai bên thỏa thuận rằng nếu A vi phạm nghĩa vụ thì A sẽ thực hiện thủ tục chuyển nhượng căn hộ cho B. Nhận định nào đúng?",
+  "a": "Khi ký hợp đồng đặt cọc, quyền sở hữu căn hộ tự động chuyển sang cho B.",
+  "b": "Biện pháp đặt cọc không làm phát sinh việc chuyển quyền sở hữu căn hộ một cách tự động.",
+  "c": "Việc chuyển quyền sở hữu căn hộ không cần tuân thủ quy định về hình thức và thủ tục.",
+  "d": "B trở thành chủ sở hữu căn hộ ngay khi A vi phạm nghĩa vụ đặt cọc.",
+  "answer": "b",
+  "explanation": "Đặt cọc chỉ là biện pháp bảo đảm. Việc chuyển quyền sở hữu căn hộ phải tuân thủ các điều kiện, hình thức và thủ tục theo quy định của pháp luật."
+},
     {
         "question": "A đặt cọc cho B để mua nhà đang thế chấp tại ngân hàng. Công chứng viên cần lưu ý điều gì?",
         "a": "Không được đặt cọc trong mọi trường hợp.",
