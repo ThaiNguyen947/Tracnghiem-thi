@@ -5239,15 +5239,6 @@
     "explanation": "Luật Công chứng năm 2024 gồm 08 chương 76 Điều, giảm 02 chương và 05 điều so với Luật Công chứng năm 2014."
   },
   {
-    "question": "Anh A và chị B kết hôn theo đúng quy định của pháp luật, vậy mối quan hệ của anh chị được điều chỉnh bởi:",
-    "a": "Quan hệ tài sản, quan hệ nhân thân.",
-    "b": "Quan hệ tình cảm, tình yêu.",
-    "c": "Quan hệ nam và nữ.",
-    "d": "Quan hệ giữa vợ và chồng.",
-    "answer": "A",
-    "explanation": "Theo Luật Hôn nhân và Gia đình, quan hệ vợ chồng bao gồm cả quan hệ nhân thân và quan hệ tài sản."
-  },
-  {
     "question": "Tình huống: Trong quy trình công chứng điện tử, NYCCC cung cấp chữ ký số cá nhân và thực hiện xác thực sinh trắc học qua khuôn mặt. Tuy nhiên, hệ thống thông báo độ khớp sinh trắc học chỉ đạt 85% do NYCCC vừa phẫu thuật thẩm mỹ. CCV nên xử lý thế nào để đúng Điều 63 Luật 2024?",
     "a": "Vẫn thực hiện vì 85% là tỷ lệ cao và khách hàng đã cam đoan đúng là mình",
     "b": "Yêu cầu NYCCC đến trực tiếp trụ sở để xác minh bằng phương thức truyền thống trước khi thực hiện công chứng số",
@@ -6112,14 +6103,23 @@
     "explanation": "Hôn nhân hiện đại dựa trên sự tự nguyện, bình đẳng và tuân thủ pháp luật."
   },
   {
-    "question": "Anh A và chị B có yêu thương nhau và tổ chức lễ cưới, anh chị có trở thành chủ thể của luật nào sau đây:",
-    "a": "Luật Hôn nhân và Gia đình, Luật Hành chính.",
-    "b": "Luật Hộ tịch.",
-    "c": "Luật Hôn nhân và Gia đình.",
-    "d": "Bộ luật Dân sự",
-    "answer": "C",
-    "explanation": "Quan hệ hôn nhân được điều chỉnh chủ yếu bởi Luật Hôn nhân và Gia đình."
-  },
+  "question": "Anh A và chị B kết hôn hợp pháp theo quy định của pháp luật. Quan hệ giữa anh chị được xác định là quan hệ nào sau đây?",
+  "a": "Quan hệ tài sản và quan hệ nhân thân.",
+  "b": "Quan hệ tình cảm và tình yêu.",
+  "c": "Quan hệ giữa nam và nữ.",
+  "d": "Quan hệ vợ chồng thuần túy.",
+  "answer": "A",
+  "explanation": "Quan hệ vợ chồng sau khi kết hôn hợp pháp là quan hệ pháp luật bao gồm quan hệ nhân thân và quan hệ tài sản theo Luật Hôn nhân và Gia đình."
+},
+  {
+  "question": "Anh A và chị B có tình cảm và tổ chức lễ cưới với nhau. Theo quy định của pháp luật, quan hệ của anh chị thuộc phạm vi điều chỉnh chủ yếu của luật nào sau đây?",
+  "a": "Luật Hôn nhân và Gia đình và Luật Hành chính.",
+  "b": "Luật Hộ tịch.",
+  "c": "Luật Hôn nhân và Gia đình.",
+  "d": "Bộ luật Dân sự.",
+  "answer": "C",
+  "explanation": "Quan hệ hôn nhân và các điều kiện kết hôn thuộc phạm vi điều chỉnh chủ yếu của Luật Hôn nhân và Gia đình."
+},
   {
     "question": "Trường hợp nào sau đây không được kết hôn theo quy định",
     "a": "H là con rể của bà G, kết hôn với con gái thứ 2 của bà G (do vợ H đã chết).",
