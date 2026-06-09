@@ -1,5 +1,23 @@
 [
   {
+  "question": "Theo Bộ luật Dân sự số 91/2015/QH13, các quyền tài sản có đặc điểm pháp lý gì sau đây?",
+  "a": "Các quyền yêu cầu này định giá được bằng tiền.",
+  "b": "Các quyền yêu cầu này không thể chuyển giao được thông qua giao dịch dân sự.",
+  "c": "Đây là các quyền yêu cầu (vật quyền).",
+  "d": "Các quyền này có thể cầm nắm được.",
+  "answer": "a",
+  "explanation": "Theo Điều 115 Bộ luật Dân sự 2015, quyền tài sản là quyền trị giá được bằng tiền, bao gồm quyền tài sản đối với đối tượng quyền sở hữu trí tuệ, quyền sử dụng đất và các quyền tài sản khác. Do đó, đặc điểm pháp lý cơ bản của quyền tài sản là có thể định giá được bằng tiền."
+},
+  {
+  "question": "Theo Bộ luật Dân sự số 91/2015/QH13, phần quyền của các đồng chủ sở hữu chung có thể được xác định như thế nào?",
+  "a": "Theo tỷ lệ sở hữu phần được quy đổi theo đơn vị tiền mặt.",
+  "b": "Theo phần phân số (1/2, 1/4, 1/5,...) hoặc theo phần trăm (50%, 20%,...).",
+  "c": "Theo quy định của cơ quan Nhà nước có thẩm quyền.",
+  "d": "Theo ý chí của các chủ sở hữu chung theo phần.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 209 Bộ luật Dân sự 2015 quy định: 'Sở hữu chung theo phần là sở hữu chung mà trong đó phần quyền sở hữu của mỗi chủ sở hữu được xác định đối với tài sản chung'. Do phần quyền sở hữu của mỗi đồng chủ sở hữu được xác định cụ thể nên trên thực tế được biểu thị bằng phân số (1/2, 1/4, 1/5...) hoặc tỷ lệ phần trăm (50%, 20%...)."
+},
+  {
   "question": "Theo quy định của Luật Đất đai năm 2024, nhận định nào sau đây đúng?",
   "a": "Góp vốn bằng quyền sử dụng đất là sự thỏa thuận giữa các bên về chuyển quyền sử dụng đất thông qua việc góp quyền sử dụng đất để tạo thành vốn điều lệ của tổ chức kinh tế, bao gồm góp vốn để thành lập tổ chức kinh tế hoặc góp thêm vốn điều lệ của tổ chức kinh tế đã được thành lập.",
   "b": "Góp vốn bằng quyền sử dụng đất bao gồm góp quyền sử dụng đất để tạo thành vốn điều lệ của tổ chức kinh tế và góp quyền sử dụng đất trong hợp đồng hợp tác kinh doanh.",
