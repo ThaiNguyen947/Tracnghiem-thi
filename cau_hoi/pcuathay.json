@@ -1,5 +1,23 @@
 [
  {
+  "question": "Theo Bộ luật Dân sự số 91/2015/QH13, nhận định nào sau đây đúng?",
+  "a": "Người từ mười lăm tuổi đến chưa đủ mười tám tuổi có thể là người đại diện theo ủy quyền, trừ trường hợp pháp luật quy định giao dịch dân sự phải do người từ đủ mười tám tuổi trở lên xác lập, thực hiện.",
+  "b": "Người từ đủ mười lăm tuổi đến mười tám tuổi có thể là người đại diện theo ủy quyền, trừ trường hợp pháp luật quy định giao dịch dân sự phải do người từ đủ mười tám tuổi trở lên xác lập, thực hiện.",
+  "c": "Người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi có thể là người đại diện theo ủy quyền, trừ trường hợp pháp luật quy định giao dịch dân sự phải do người từ đủ mười tám tuổi trở lên xác lập, thực hiện.",
+  "d": "Người từ mười lăm tuổi có thể là người đại diện theo ủy quyền, trừ trường hợp pháp luật quy định giao dịch dân sự phải do người từ đủ mười tám tuổi trở lên xác lập, thực hiện.",
+  "answer": "c",
+  "explanation": "Khoản 1 Điều 138 Bộ luật Dân sự 2015 quy định: 'Cá nhân, pháp nhân có thể ủy quyền cho cá nhân, pháp nhân khác xác lập, thực hiện giao dịch dân sự. Người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi có thể là người đại diện theo ủy quyền, trừ trường hợp pháp luật quy định giao dịch dân sự phải do người từ đủ mười tám tuổi trở lên xác lập, thực hiện'. Do đó, nhận định tại phương án c là đúng theo nguyên văn quy định của Bộ luật Dân sự 2015."
+},
+ {
+  "question": "Theo Bộ luật Dân sự số 91/2015/QH13, người đại diện phải cần có điều kiện gì?",
+  "a": "Năng lực hành vi dân sự và năng lực pháp luật dân sự phù hợp với giao dịch dân sự được xác lập, thực hiện.",
+  "b": "Năng lực pháp luật dân sự phù hợp với khả năng đáp ứng yêu cầu của việc đại diện.",
+  "c": "Năng lực hành vi dân sự và năng lực pháp luật dân sự phù hợp, trừ trường hợp pháp luật quy định khác.",
+  "d": "Năng lực hành vi dân sự phù hợp, năng lực pháp luật dân sự phù hợp, năng lực tuổi tác phù hợp.",
+  "answer": "c",
+  "explanation": "Khoản 3 Điều 134 Bộ luật Dân sự 2015 quy định: 'Người đại diện phải có năng lực pháp luật dân sự, năng lực hành vi dân sự phù hợp với giao dịch dân sự được xác lập, thực hiện, trừ trường hợp pháp luật có quy định khác'. Do đó, phương án c là phù hợp nhất với nội dung điều luật. Các phương án còn lại либо thiếu điều kiện, либо bổ sung nội dung không được luật quy định."
+},
+ {
   "question": "Điền vào nội dung còn thiếu: 'Cá nhân sử dụng đất nông nghiệp do được Nhà nước giao đất, do chuyển đổi, nhận chuyển nhượng, nhận thừa kế, nhận tặng cho quyền sử dụng đất hợp pháp từ người khác thì chỉ được chuyển đổi quyền sử dụng đất nông nghiệp ..................... cho cá nhân khác'.",
   "a": "Trong cùng đơn vị hành chính cấp xã.",
   "b": "Trong cùng đơn vị hành chính cấp huyện.",
