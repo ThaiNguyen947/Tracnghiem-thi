@@ -1,5 +1,122 @@
 [
  {
+  "question": "Theo Luật Hôn nhân và Gia đình số 52/2014/QH13, sau khi chia tài sản chung trong thời kỳ hôn nhân thì nội dung nào không phù hợp?",
+  "a": "1. Phần tài sản mà vợ, chồng đã được chia sẽ thuộc sở hữu chung của vợ, chồng, trừ trường hợp vợ chồng có thỏa thuận khác.",
+  "b": "2. Quyền, nghĩa vụ về tài sản phát sinh trước thời điểm có hiệu lực của việc chia tài sản chung vẫn có hiệu lực, trừ trường hợp các bên có thỏa thuận khác.",
+  "c": "3. Chế độ tài sản của vợ chồng cũng chấm dứt hiệu lực.",
+  "d": "Nhận định 1 và 3 không phù hợp, nhận định 2 phù hợp.",
+  "answer": "d",
+  "explanation": "Khoản 1 Điều 40 Luật Hôn nhân và Gia đình 2014 quy định: 'Phần tài sản đã được chia, hoa lợi, lợi tức phát sinh từ tài sản đó sau khi chia là tài sản riêng của vợ, chồng, trừ trường hợp vợ chồng có thỏa thuận khác'. Do đó nhận định 1 không phù hợp vì phần tài sản đã chia không thuộc sở hữu chung mà trở thành tài sản riêng. Khoản 2 Điều 40 quy định: 'Quyền, nghĩa vụ về tài sản giữa vợ, chồng với người thứ ba phát sinh trước thời điểm việc chia tài sản chung có hiệu lực vẫn có giá trị pháp lý, trừ trường hợp các bên có thỏa thuận khác'. Vì vậy nhận định 2 là phù hợp. Việc chia tài sản chung trong thời kỳ hôn nhân không làm chấm dứt quan hệ hôn nhân cũng như không làm chấm dứt chế độ tài sản của vợ chồng; chế độ tài sản vẫn tồn tại đối với các tài sản chưa chia và tài sản hình thành sau đó theo quy định của pháp luật. Do đó nhận định 3 không phù hợp."
+},
+ {
+  "question": "Theo Bộ luật Dân sự số 91/2015/QH13, lựa chọn nào đúng sau đây?",
+  "a": "1. Giấy tờ có giá thể hiện quyền của người nắm giữ chúng.",
+  "b": "2. Người nắm giữ giấy tờ có giá được coi là chủ thể quyền của quyền tài sản thể hiện trong đó.",
+  "c": "3. Giấy tờ có giá trị giá được bằng tiền, về bản chất pháp lý là một trong những hình thức biểu hiện của tài sản được Nhà nước bảo đảm.",
+  "d": "Nhận định 1 và 2 đúng, nhận định 3 sai.",
+  "answer": "d",
+  "explanation": "Điều 105 Bộ luật Dân sự 2015 quy định tài sản bao gồm vật, tiền, giấy tờ có giá và quyền tài sản. Giấy tờ có giá là một loại tài sản và thể hiện quyền tài sản của người nắm giữ giấy tờ đó. Người nắm giữ hợp pháp giấy tờ có giá được coi là chủ thể có quyền đối với quyền tài sản được ghi nhận trong giấy tờ có giá. Do đó nhận định 1 và 2 là phù hợp. Nhận định 3 sai vì Bộ luật Dân sự 2015 không quy định giấy tờ có giá là 'một trong những hình thức biểu hiện của tài sản được Nhà nước bảo đảm'; đây không phải là đặc điểm pháp lý của giấy tờ có giá theo quy định của Bộ luật Dân sự."
+},
+ {
+  "question": "Theo Bộ luật Dân sự số 91/2015/QH13, câu trả lời nào sau đây đúng về vật tiêu hao và vật không tiêu hao?",
+  "a": "1. Vật tiêu hao là đối tượng của hợp đồng cho thuê hoặc cho mượn.",
+  "b": "2. Vật không tiêu hao không thể là đối tượng của hợp đồng vay tài sản.",
+  "c": "3. Vật tiêu hao không thể là đối tượng của hợp đồng cho thuê hoặc cho mượn.",
+  "d": "Nhận định 1 sai, nhận định 2 và 3 đúng.",
+  "answer": "d",
+  "explanation": "Điều 112 Bộ luật Dân sự 2015 quy định: 'Vật tiêu hao là vật khi đã qua một lần sử dụng thì mất đi hoặc không giữ được tính chất, hình dáng và tính năng sử dụng ban đầu'. Khoản 2 Điều 112 quy định: 'Vật tiêu hao không thể là đối tượng của hợp đồng cho thuê hoặc hợp đồng cho mượn'. Do đó nhận định 1 sai và nhận định 3 đúng. Đối với hợp đồng vay tài sản, bên vay phải hoàn trả tài sản cùng loại, đúng số lượng, chất lượng nên đối tượng thông thường là vật tiêu hao. Vì vậy nhận định 2 được xác định là đúng theo bản chất pháp lý của vật không tiêu hao trong quan hệ vay tài sản."
+},
+ {
+  "question": "Theo Bộ luật Dân sự số 91/2015/QH13, nhận định nào sau đây đúng?",
+  "a": "1. Sau khi hợp đồng đã được ký kết các bên không có quyền thỏa thuận để sửa đổi lại nội dung của hợp đồng.",
+  "b": "2. Sau khi hợp đồng đã được ký kết các bên vẫn có quyền thỏa thuận để sửa đổi lại nội dung của hợp đồng sao cho phù hợp với hoàn cảnh, điều kiện thực tế và quyền lợi của mỗi bên.",
+  "c": "3. Các bên có quyền sửa đổi hoặc hủy bỏ hợp đồng khi người thứ ba đã đồng ý hưởng lợi ích và không đồng ý cho phép sửa đổi hay hủy bỏ hợp đồng.",
+  "d": "Nhận định 1 sai, nhận định 2 đúng, nhận định 3 sai.",
+  "answer": "d",
+  "explanation": "Điều 420 Bộ luật Dân sự 2015 quy định các bên có thể thỏa thuận sửa đổi hợp đồng khi hoàn cảnh thay đổi cơ bản; đồng thời nguyên tắc tự do, tự nguyện cam kết, thỏa thuận cho phép các bên thỏa thuận sửa đổi nội dung hợp đồng. Vì vậy nhận định 1 sai và nhận định 2 đúng. Khoản 2 Điều 415 Bộ luật Dân sự 2015 quy định: 'Khi người thứ ba đã đồng ý hưởng lợi ích thì dù hợp đồng chưa thực hiện, các bên giao kết hợp đồng cũng không được sửa đổi hoặc hủy bỏ hợp đồng, nếu không được người thứ ba đồng ý'. Do đó nhận định 3 sai."
+},
+ {
+  "question": "Theo Bộ luật Dân sự số 91/2015/QH13, bất động sản bao gồm nhóm chính nào sau đây?",
+  "a": "Là các tài sản khác gắn liền với đất đai, gắn liền với nhà ở, công trình xây dựng.",
+  "b": "Là các quyền tài sản liên quan đến tài sản.",
+  "c": "Là các tài sản do thế giới tự nhiên tạo lập nên mà có thể di dời được.",
+  "d": "Là các tài sản không thể di dời được do lao động của con người tạo nên.",
+  "answer": "a",
+  "explanation": "Khoản 1 Điều 107 Bộ luật Dân sự 2015 quy định bất động sản bao gồm: 'a) Đất đai; b) Nhà, công trình xây dựng gắn liền với đất đai; c) Tài sản khác gắn liền với đất đai, nhà, công trình xây dựng; d) Tài sản khác theo quy định của pháp luật'. Trong các phương án nêu trên, phương án a phản ánh đúng một trong các nhóm bất động sản được Bộ luật Dân sự ghi nhận. Các phương án b, c và d không phải là tiêu chí hoặc nhóm bất động sản được quy định tại Điều 107 Bộ luật Dân sự 2015."
+},
+ {
+  "question": "Hai người trước khi kết hôn cùng mua một căn nhà và quyền sử dụng đất, trong đó một người góp 40%, người còn lại góp 60%. Sau đó hai người kết hôn với nhau. Tài sản này được xác định như thế nào?",
+  "a": "Tài sản chung hợp nhất của vợ chồng.",
+  "b": "Tài sản chung theo phần của vợ chồng.",
+  "c": "Tài sản riêng của từng người.",
+  "d": "Tài sản chung hỗn hợp của vợ chồng.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 43 Luật Hôn nhân và Gia đình 2014 quy định tài sản mà mỗi người có trước khi kết hôn là tài sản riêng của người đó. Trường hợp trước khi kết hôn, hai người cùng góp tiền mua nhà, đất và phần quyền sở hữu của mỗi người được xác định theo tỷ lệ góp vốn (40% và 60%) thì đây là tài sản thuộc sở hữu chung theo phần. Việc hai người kết hôn sau đó không làm đương nhiên chuyển tài sản này thành tài sản chung hợp nhất của vợ chồng, trừ trường hợp vợ chồng có thỏa thuận nhập tài sản riêng vào tài sản chung theo Điều 46 Luật Hôn nhân và Gia đình 2014. Do đó, tài sản trên được xác định là tài sản chung theo phần của vợ chồng."
+},
+ {
+  "question": "Theo Luật Doanh nghiệp số 59/2020/QH14, nhận định nào sau đây đúng?",
+  "a": "Công ty trách nhiệm hữu hạn và công ty cổ phần chỉ có thể có một người đại diện theo pháp luật.",
+  "b": "Công ty trách nhiệm hữu hạn và công ty cổ phần có thể có một hoặc nhiều người đại diện theo pháp luật.",
+  "c": "Doanh nghiệp tư nhân có thể có chủ sở hữu là tổ chức.",
+  "d": "Công ty trách nhiệm hữu hạn hai thành viên chỉ có thể do các cá nhân thành lập.",
+  "answer": "b",
+  "explanation": "Khoản 2 Điều 12 Luật Doanh nghiệp 2020 quy định: 'Công ty trách nhiệm hữu hạn và công ty cổ phần có thể có một hoặc nhiều người đại diện theo pháp luật'. Do đó, nhận định b là đúng. Nhận định a sai vì pháp luật cho phép có nhiều người đại diện theo pháp luật. Điều 188 Luật Doanh nghiệp 2020 quy định doanh nghiệp tư nhân do một cá nhân làm chủ và tự chịu trách nhiệm bằng toàn bộ tài sản của mình về mọi hoạt động của doanh nghiệp, nên nhận định c sai. Khoản 1 Điều 46 Luật Doanh nghiệp 2020 quy định thành viên công ty trách nhiệm hữu hạn hai thành viên trở lên có thể là tổ chức hoặc cá nhân, nên nhận định d sai."
+},
+ {
+  "question": "Theo Bộ luật Dân sự số 91/2015/QH13, nhận định nào sau đây phù hợp?",
+  "a": "1. Người được di tặng chỉ có thể là cá nhân.",
+  "b": "2. Người lập di chúc chỉ có thể di tặng một phần di sản của mình chứ không thể di tặng toàn bộ khối di sản.",
+  "c": "3. Di tặng chỉ có thể xuất hiện trong hình thức thừa kế theo di chúc chứ không bao giờ có thể hiện diện ở hình thức thừa kế theo pháp luật.",
+  "d": "Nhận định 1 sai, nhận định 2 và 3 đúng.",
+  "answer": "d",
+  "explanation": "Điều 646 Bộ luật Dân sự 2015 quy định: 'Di tặng là việc người lập di chúc dành một phần di sản để tặng cho người khác'. Do đó, nhận định 2 đúng vì đối tượng của di tặng chỉ là một phần di sản, không phải toàn bộ di sản. Di tặng được xác lập bởi ý chí của người lập di chúc nên chỉ tồn tại trong thừa kế theo di chúc, không phát sinh trong thừa kế theo pháp luật; vì vậy nhận định 3 đúng. Bộ luật Dân sự 2015 không giới hạn người được di tặng chỉ là cá nhân, nên nhận định 1 là sai."
+},
+ {
+  "question": "Theo Bộ luật Dân sự số 91/2015/QH13, nếu giấy tờ có giá bị mất thì mất luôn cả quyền yêu cầu của chủ sở hữu?",
+  "a": "Đúng.",
+  "b": "Sai.",
+  "c": "Chỉ đúng với tiền mặt.",
+  "d": "Không thể mất, trừ khi chủ sở hữu từ bỏ quyền yêu cầu.",
+  "answer": "b",
+  "explanation": "Điều 105 Bộ luật Dân sự 2015 quy định tài sản bao gồm vật, tiền, giấy tờ có giá và quyền tài sản. Giấy tờ có giá là một loại tài sản thể hiện quyền tài sản của chủ sở hữu. Việc làm mất giấy tờ có giá không đương nhiên làm chấm dứt quyền tài sản hoặc quyền yêu cầu gắn với giấy tờ đó. Chủ sở hữu có thể thực hiện các thủ tục theo quy định của pháp luật để bảo vệ, khôi phục hoặc xác lập lại quyền của mình đối với giấy tờ có giá bị mất. Do đó, nhận định cho rằng mất giấy tờ có giá thì mất luôn quyền yêu cầu của chủ sở hữu là sai."
+},
+ {
+  "question": "Theo Bộ luật Dân sự số 91/2015/QH13, nhận định nào sau đây đúng?",
+  "a": "1. Việc sửa đổi, bổ sung, hủy bỏ hợp đồng, giao dịch phải được công chứng theo quy định.",
+  "b": "2. Khi hợp đồng bị đơn phương chấm dứt thực hiện thì hợp đồng chấm dứt từ thời điểm bên kia nhận được thông báo chấm dứt.",
+  "c": "3. Khi hợp đồng bị hủy bỏ thì hợp đồng không có hiệu lực từ thời điểm công chứng và các bên phải hoàn trả cho nhau tài sản đã nhận.",
+  "d": "Nhận định 1 đúng, nhận định 2 và 3 sai.",
+  "answer": "d",
+  "explanation": "Điều 51 Bộ luật Dân sự 2015 quy định việc công chứng sửa đổi, bổ sung, hủy bỏ hợp đồng, giao dịch đã được công chứng phải được công chứng. Do đó nhận định 1 đúng. Khoản 2 Điều 428 Bộ luật Dân sự 2015 quy định khi hợp đồng bị đơn phương chấm dứt thực hiện thì hợp đồng chấm dứt kể từ thời điểm bên kia nhận được thông báo chấm dứt thực hiện hợp đồng, tuy nhiên nhận định 2 thiếu điều kiện 'trường hợp việc đơn phương chấm dứt thực hiện hợp đồng là có căn cứ theo quy định của pháp luật hoặc theo thỏa thuận', nên không phản ánh đầy đủ quy định pháp luật. Điều 427 Bộ luật Dân sự 2015 quy định khi hợp đồng bị hủy bỏ thì hợp đồng không có hiệu lực từ thời điểm giao kết, không phải từ thời điểm công chứng; các bên hoàn trả cho nhau những gì đã nhận. Vì vậy nhận định 3 sai."
+},
+ {
+  "question": "Theo Bộ luật Dân sự số 91/2015/QH13, sở hữu chung chỉ bao gồm sở hữu chung theo phần và sở hữu chung hợp nhất của vợ chồng?",
+  "a": "Đúng.",
+  "b": "Sai.",
+  "c": "Sai, vì còn có đồng sở hữu chung.",
+  "d": "Đúng, vì cùng là sở hữu chung.",
+  "answer": "b",
+  "explanation": "Điều 207 Bộ luật Dân sự 2015 quy định: 'Sở hữu chung là sở hữu của nhiều chủ thể đối với tài sản'. Điều 208 quy định sở hữu chung gồm sở hữu chung theo phần và sở hữu chung hợp nhất. Điều 210 quy định sở hữu chung hợp nhất bao gồm sở hữu chung hợp nhất có thể phân chia và sở hữu chung hợp nhất không phân chia. Ngoài sở hữu chung hợp nhất của vợ chồng, Bộ luật Dân sự còn ghi nhận các hình thức sở hữu chung khác như sở hữu chung của cộng đồng (Điều 211). Do đó, nhận định cho rằng sở hữu chung chỉ bao gồm sở hữu chung theo phần và sở hữu chung hợp nhất của vợ chồng là sai."
+},
+ {
+  "question": "Theo Luật Hôn nhân và Gia đình số 52/2014/QH13, tài sản chung của vợ chồng bao gồm các loại nào sau đây?",
+  "a": "Quyền tài sản khác gắn liền với nhân thân của vợ, chồng.",
+  "b": "Tiền trúng thưởng xổ số, khoản tiền thưởng.",
+  "c": "Khoản trợ cấp, ưu đãi mà vợ, chồng được nhận theo quy định của pháp luật về ưu đãi người có công với cách mạng.",
+  "d": "Quyền tài sản đối với đối tượng sở hữu trí tuệ theo quy định của pháp luật sở hữu trí tuệ.",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 33 Luật Hôn nhân và Gia đình 2014 quy định tài sản chung của vợ chồng gồm tài sản do vợ, chồng tạo ra, thu nhập do lao động, hoạt động sản xuất, kinh doanh, hoa lợi, lợi tức phát sinh từ tài sản riêng và thu nhập hợp pháp khác trong thời kỳ hôn nhân. Khoản 1 Điều 9 Nghị định 126/2014/NĐ-CP quy định thu nhập hợp pháp khác của vợ chồng trong thời kỳ hôn nhân bao gồm 'khoản tiền thưởng, tiền trúng thưởng xổ số, tiền trợ cấp, trừ trường hợp quy định tại khoản 3 Điều 11 của Nghị định này'. Trong khi đó, khoản 1 Điều 11 Nghị định 126/2014/NĐ-CP quy định quyền tài sản gắn liền với nhân thân của vợ, chồng; khoản trợ cấp, ưu đãi người có công với cách mạng; quyền tài sản đối với đối tượng sở hữu trí tuệ là tài sản riêng của vợ hoặc chồng. Do đó, chỉ phương án b là tài sản chung của vợ chồng."
+},
+ {
+  "question": "Theo Luật Đất đai số 31/2024/QH15, trường hợp nào sau đây sai?",
+  "a": "Tổ chức kinh tế không được nhận chuyển nhượng quyền sử dụng đất rừng phòng hộ, đất rừng đặc dụng của cá nhân, trừ trường hợp được chuyển mục đích sử dụng đất theo quy hoạch, kế hoạch sử dụng đất đã được cơ quan có thẩm quyền phê duyệt.",
+  "b": "Cá nhân không sinh sống trong khu vực rừng phòng hộ, rừng đặc dụng thì không được nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất ở và đất khác trong khu vực rừng phòng hộ, trong phân khu bảo vệ nghiêm ngặt, phân khu phục hồi sinh thái thuộc rừng đặc dụng đó.",
+  "c": "Tổ chức, cá nhân, cộng đồng dân cư, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài mà pháp luật không cho phép nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất.",
+  "d": "Tổ chức kinh tế nhận chuyển nhượng quyền sử dụng đất ở mà không có phương án khai thác, sử dụng đất nông nghiệp được chấp thuận.",
+  "answer": "d",
+  "explanation": "Khoản 8 Điều 45 Luật Đất đai 2024 quy định ba trường hợp không được nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất gồm: (1) Tổ chức kinh tế không được nhận chuyển nhượng đất rừng phòng hộ, đất rừng đặc dụng của cá nhân, trừ trường hợp luật cho phép; (2) Cá nhân không sinh sống trong khu vực rừng phòng hộ, rừng đặc dụng không được nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất ở và đất khác trong các khu vực này; (3) Các chủ thể mà pháp luật không cho phép nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất. Do đó các nhận định a, b, c đúng theo khoản 8 Điều 45. Nhận định d sai vì Luật Đất đai 2024 không quy định trường hợp 'tổ chức kinh tế nhận chuyển nhượng quyền sử dụng đất ở mà không có phương án khai thác, sử dụng đất nông nghiệp được chấp thuận' là trường hợp bị cấm nhận chuyển nhượng quyền sử dụng đất." 
+},
+ {
   "question": "Theo Bộ luật Dân sự số 91/2015/QH13, nhận định nào sau đây đúng?",
   "a": "Người từ mười lăm tuổi đến chưa đủ mười tám tuổi có thể là người đại diện theo ủy quyền, trừ trường hợp pháp luật quy định giao dịch dân sự phải do người từ đủ mười tám tuổi trở lên xác lập, thực hiện.",
   "b": "Người từ đủ mười lăm tuổi đến mười tám tuổi có thể là người đại diện theo ủy quyền, trừ trường hợp pháp luật quy định giao dịch dân sự phải do người từ đủ mười tám tuổi trở lên xác lập, thực hiện.",
