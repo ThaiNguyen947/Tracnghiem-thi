@@ -1,4 +1,31 @@
 [
+ {
+  "question": "Điền vào nội dung còn thiếu: 'Cá nhân sử dụng đất nông nghiệp do được Nhà nước giao đất, do chuyển đổi, nhận chuyển nhượng, nhận thừa kế, nhận tặng cho quyền sử dụng đất hợp pháp từ người khác thì chỉ được chuyển đổi quyền sử dụng đất nông nghiệp ..................... cho cá nhân khác'.",
+  "a": "Trong cùng đơn vị hành chính cấp xã.",
+  "b": "Trong cùng đơn vị hành chính cấp huyện.",
+  "c": "Trong cùng đơn vị hành chính cấp tỉnh.",
+  "d": "Trong cùng đơn vị hành chính cấp thành phố thuộc tỉnh.",
+  "answer": "c",
+  "explanation": "Điều 47 Luật Đất đai 2024 quy định: 'Cá nhân sử dụng đất nông nghiệp do được Nhà nước giao đất, do chuyển đổi, nhận chuyển nhượng, nhận thừa kế, nhận tặng cho quyền sử dụng đất hợp pháp từ người khác thì chỉ được chuyển đổi quyền sử dụng đất nông nghiệp trong cùng đơn vị hành chính cấp tỉnh cho cá nhân khác và không phải nộp thuế thu nhập từ việc chuyển đổi quyền sử dụng đất và lệ phí trước bạ'. Do đó, cụm từ cần điền là 'trong cùng đơn vị hành chính cấp tỉnh'."
+},
+  {
+  "question": "Theo Bộ luật Dân sự số 91/2015/QH13, người đại diện theo pháp luật bao gồm những ai sau đây?",
+  "a": "1. Cha, mẹ đối với con đã thành niên mà không có khả năng lao động.",
+  "b": "2. Người được giám hộ đối với người giám hộ; Người giám sát việc giám hộ đối với người được giám hộ.",
+  "c": "3. Người được Tòa án chỉ định đối với người có khó khăn trong nhận thức, làm chủ hành vi; Người đứng đầu pháp nhân theo quy định của điều lệ pháp nhân hoặc quyết định của cơ quan nhà nước có thẩm quyền.",
+  "d": "Nhận định 1 và 2 sai, nhận định 3 đúng.",
+  "answer": "d",
+ "explanation": "Điều 136 Bộ luật Dân sự 2015 quy định người đại diện theo pháp luật của cá nhân gồm: cha, mẹ đối với con chưa thành niên; người giám hộ đối với người được giám hộ; người do Tòa án chỉ định trong trường hợp không xác định được người đại diện hoặc đối với người có khó khăn trong nhận thức, làm chủ hành vi; và người do Tòa án chỉ định đối với người bị hạn chế năng lực hành vi dân sự. Khoản 3 Điều 137 Bộ luật Dân sự 2015 quy định người đại diện theo pháp luật của pháp nhân là người được pháp nhân chỉ định theo điều lệ hoặc theo quy định của pháp luật. Do đó, nhận định a sai vì cha, mẹ là đại diện theo pháp luật của con chưa thành niên, không phải con đã thành niên không có khả năng lao động; nhận định b sai vì người đại diện là người giám hộ đối với người được giám hộ, không phải ngược lại và người giám sát việc giám hộ không phải là người đại diện theo pháp luật; nhận định c đúng."
+},
+  {
+  "question": "Theo Luật Hôn nhân và Gia đình số 52/2014/QH13, điều kiện của người mang thai hộ nào sau đây sai?",
+  "a": "Là người thân thích cùng hàng của bên vợ hoặc chồng nhờ mang thai hộ.",
+  "b": "Đã được tư vấn về y tế, pháp lý, tâm lý; chưa từng sinh con và chỉ được mang thai hộ một lần.",
+  "c": "Ở độ tuổi phù hợp và có xác nhận của tổ chức y tế có thẩm quyền về khả năng mang thai hộ.",
+  "d": "Trường hợp người phụ nữ mang thai hộ có chồng thì phải có sự đồng ý bằng văn bản của người chồng.",
+  "answer": "b",
+  "explanation": "Điểm b khoản 3 Điều 95 Luật Hôn nhân và Gia đình 2014 quy định người được nhờ mang thai hộ phải 'đã từng sinh con và chỉ được mang thai hộ một lần'. Đồng thời, điểm đ khoản 3 Điều 95 quy định người mang thai hộ phải được tư vấn về y tế, pháp lý, tâm lý. Vì vậy, nhận định 'chưa từng sinh con và chỉ được mang thai hộ một lần' là sai. Các nhận định còn lại phù hợp với các điểm a, c, d khoản 3 Điều 95 Luật Hôn nhân và Gia đình 2014." 
+},
   {
   "question": "Theo Bộ luật Dân sự số 91/2015/QH13, các quyền tài sản có đặc điểm pháp lý gì sau đây?",
   "a": "Các quyền yêu cầu này định giá được bằng tiền.",
