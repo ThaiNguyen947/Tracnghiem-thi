@@ -1,5 +1,14 @@
 [
   {
+  "question": "A và B ký hợp đồng mua bán đã được công chứng. B vi phạm nghĩa vụ thanh toán, A một mình đến tổ chức hành nghề công chứng yêu cầu công chứng văn bản hủy bỏ hợp đồng. Công chứng viên xử lý thế nào?",
+  "a": "Công chứng văn bản hủy bỏ vì B đã vi phạm hợp đồng.",
+  "b": "Công chứng văn bản hủy bỏ nếu A xuất trình chứng cứ về việc B vi phạm.",
+  "c": "Từ chối công chứng văn bản hủy bỏ vì không có sự tham gia của B, trừ trường hợp pháp luật có quy định khác.",
+  "d": "Yêu cầu A cam kết chịu trách nhiệm rồi vẫn công chứng.",
+  "answer": "c",
+  "explanation": "Việc công chứng văn bản chấm dứt, hủy bỏ hợp đồng đã được công chứng chỉ được thực hiện khi có sự thỏa thuận hoặc cam kết bằng văn bản của tất cả những người đã ký kết hợp đồng đó, trừ trường hợp pháp luật có quy định khác. Căn cứ: khoản 1 Điều 53 Luật Công chứng 2024."
+},
+  {
     "question": "Theo Luật Công chứng 2024, việc công chứng sửa đổi, bổ sung hợp đồng đã được công chứng chỉ được thực hiện khi nào?",
     "a": "Khi một bên trong hợp đồng có yêu cầu.",
     "b": "Khi công chứng viên xét thấy cần thiết.",
