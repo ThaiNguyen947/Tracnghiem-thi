@@ -1,4 +1,112 @@
 [
+   {
+    "question": "Mối quan hệ giữa hợp đồng tín dụng và hợp đồng thế chấp theo nguyên tắc chung được hiểu như thế nào?",
+    "a": "Hợp đồng thế chấp là hợp đồng chính, hợp đồng tín dụng là hợp đồng phụ.",
+    "b": "Hai hợp đồng hoàn toàn độc lập với nhau.",
+    "c": "Hợp đồng tín dụng là hợp đồng chính, hợp đồng thế chấp là hợp đồng phụ nhằm bảo đảm thực hiện nghĩa vụ phát sinh từ hợp đồng tín dụng.",
+    "d": "Hợp đồng thế chấp luôn tồn tại dù không có nghĩa vụ được bảo đảm.",
+    "answer": "c",
+    "explanation": "Biện pháp bảo đảm được thiết lập nhằm bảo đảm thực hiện nghĩa vụ. Trong quan hệ vay vốn, hợp đồng tín dụng là hợp đồng chính, hợp đồng thế chấp là hợp đồng phụ bảo đảm cho nghĩa vụ trả nợ. Căn cứ: Điều 292, Điều 317 Bộ luật Dân sự 2015."
+  },
+  {
+    "question": "Theo nguyên tắc chung, khi hợp đồng tín dụng chấm dứt và các nghĩa vụ đã được thực hiện xong thì hậu quả pháp lý đối với hợp đồng thế chấp là gì?",
+    "a": "Hợp đồng thế chấp vẫn tồn tại độc lập.",
+    "b": "Hợp đồng thế chấp chấm dứt theo.",
+    "c": "Hợp đồng thế chấp tự động chuyển thành hợp đồng cầm cố.",
+    "d": "Hợp đồng thế chấp vô hiệu.",
+    "answer": "b",
+    "explanation": "Biện pháp thế chấp tồn tại để bảo đảm thực hiện nghĩa vụ. Khi nghĩa vụ được bảo đảm chấm dứt thì biện pháp bảo đảm cũng chấm dứt. Căn cứ: Điều 343 Bộ luật Dân sự 2015."
+  },
+  {
+    "question": "Trường hợp hợp đồng tín dụng bị vô hiệu và bên cho vay chưa giải ngân cho bên vay thì hợp đồng thế chấp bảo đảm cho khoản vay đó được xử lý như thế nào?",
+    "a": "Vẫn có hiệu lực bình thường.",
+    "b": "Đương nhiên chuyển thành bảo đảm nghĩa vụ khác.",
+    "c": "Không bị ảnh hưởng.",
+    "d": "Thông thường không còn cơ sở tồn tại do nghĩa vụ được bảo đảm không phát sinh.",
+    "answer": "d",
+    "explanation": "Khi hợp đồng tín dụng vô hiệu và chưa phát sinh việc giao tiền, nghĩa vụ trả nợ không hình thành nên biện pháp bảo đảm không còn cơ sở tồn tại."
+  },
+  {
+    "question": "Ngân hàng đã giải ngân cho khách hàng. Sau đó hợp đồng tín dụng bị tuyên vô hiệu. Trong trường hợp này, hợp đồng thế chấp có luôn vô hiệu theo hay không?",
+    "a": "Luôn vô hiệu theo trong mọi trường hợp.",
+    "b": "Không nhất thiết vô hiệu; có thể tiếp tục bảo đảm nghĩa vụ hoàn trả số tiền đã nhận.",
+    "c": "Chỉ vô hiệu khi tài sản thế chấp là bất động sản.",
+    "d": "Luôn chuyển thành hợp đồng vay mới.",
+    "answer": "b",
+    "explanation": "Khi tiền đã được giải ngân, dù hợp đồng tín dụng vô hiệu thì bên nhận tiền vẫn có nghĩa vụ hoàn trả. Biện pháp thế chấp có thể tiếp tục bảo đảm cho nghĩa vụ hoàn trả khoản tiền đã nhận theo nguyên tắc hoàn trả khi giao dịch vô hiệu. Căn cứ: Điều 131 Bộ luật Dân sự 2015."
+  },
+  {
+    "question": "Khách hàng vay tiền để mua căn hộ hình thành trong tương lai nhưng sử dụng tiền giải ngân vào mục đích khác dẫn đến hợp đồng tín dụng bị vô hiệu. Trong trường hợp ngân hàng đã giải ngân, nhận định nào phù hợp nhất?",
+    "a": "Hợp đồng thế chấp luôn vô hiệu theo hợp đồng tín dụng.",
+    "b": "Tài sản thế chấp đương nhiên được giải chấp.",
+    "c": "Hợp đồng thế chấp có thể vẫn tồn tại để bảo đảm nghĩa vụ hoàn trả số tiền đã nhận.",
+    "d": "Ngân hàng mất mọi quyền đối với tài sản bảo đảm.",
+    "answer": "c",
+    "explanation": "Nếu tiền đã được giao cho bên vay thì vẫn phát sinh nghĩa vụ hoàn trả. Hợp đồng thế chấp có thể tiếp tục bảo đảm cho nghĩa vụ hoàn trả này mặc dù hợp đồng tín dụng bị vô hiệu."
+  },
+  {
+    "question": "Theo Nghị định 21/2021/NĐ-CP, hợp đồng tín dụng và hợp đồng thế chấp có thể được thể hiện trong cùng một văn bản hay không?",
+    "a": "Không được phép.",
+    "b": "Chỉ được đối với động sản.",
+    "c": "Được phép nếu đáp ứng đầy đủ điều kiện của cả giao dịch vay và giao dịch bảo đảm.",
+    "d": "Chỉ được khi có quyết định của Tòa án.",
+    "answer": "c",
+    "explanation": "Nghị định 21/2021/NĐ-CP cho phép nội dung về nghĩa vụ được bảo đảm và biện pháp bảo đảm được thể hiện trong cùng một hợp đồng hoặc văn bản."
+  },
+  {
+    "question": "Ông A được ủy quyền ký hợp đồng thế chấp nhưng không được ủy quyền vay vốn. Ông A ký một văn bản gộp chung cả hợp đồng tín dụng và hợp đồng thế chấp. Nhận định nào đúng?",
+    "a": "Toàn bộ giao dịch luôn có hiệu lực.",
+    "b": "Không cần xem xét nội dung ủy quyền.",
+    "c": "Có nguy cơ phần hợp đồng tín dụng vô hiệu do vượt quá phạm vi ủy quyền.",
+    "d": "Chỉ phần thế chấp vô hiệu còn phần vay luôn có hiệu lực.",
+    "answer": "c",
+    "explanation": "Người đại diện chỉ được xác lập giao dịch trong phạm vi được ủy quyền. Nếu không được ủy quyền vay vốn mà vẫn ký phần hợp đồng tín dụng thì có nguy cơ giao dịch vượt quá phạm vi đại diện. Căn cứ: Điều 141, Điều 143 Bộ luật Dân sự 2015."
+  },
+  {
+    "question": "Khi công chứng một văn bản gộp chung hợp đồng tín dụng và hợp đồng thế chấp do người được ủy quyền ký, công chứng viên cần kiểm tra nội dung nào trước hết?",
+    "a": "Giá trị tài sản thế chấp.",
+    "b": "Nội dung ủy quyền có bao gồm quyền vay vốn và quyền thế chấp hay không.",
+    "c": "Lãi suất cho vay.",
+    "d": "Thời hạn hoạt động của ngân hàng.",
+    "answer": "b",
+    "explanation": "Phạm vi đại diện là yếu tố quyết định hiệu lực giao dịch được xác lập bởi người được ủy quyền. Căn cứ: Điều 138, Điều 141 Bộ luật Dân sự 2015."
+  },
+  {
+    "question": "Trong hợp đồng tín dụng, ngân hàng có tư cách chủ thể nào?",
+    "a": "Bên thế chấp.",
+    "b": "Bên đi vay.",
+    "c": "Bên cho vay.",
+    "d": "Bên bảo lãnh.",
+    "answer": "c",
+    "explanation": "Trong hợp đồng tín dụng, tổ chức tín dụng là bên cho vay, khách hàng là bên vay."
+  },
+  {
+    "question": "Trong hợp đồng thế chấp tài sản bảo đảm cho khoản vay, ngân hàng có tư cách chủ thể nào?",
+    "a": "Bên nhận thế chấp.",
+    "b": "Bên thế chấp.",
+    "c": "Bên đi vay.",
+    "d": "Bên góp vốn.",
+    "answer": "a",
+    "explanation": "Trong quan hệ thế chấp, ngân hàng là bên nhận thế chấp, còn người có tài sản là bên thế chấp. Căn cứ: Điều 317 Bộ luật Dân sự 2015."
+  },
+  {
+    "question": "Khi lập một văn bản gộp chung hợp đồng tín dụng và hợp đồng thế chấp, cách thể hiện chủ thể nào sau đây là phù hợp?",
+    "a": "Chỉ cần ghi ngân hàng là bên cho vay.",
+    "b": "Chỉ cần ghi khách hàng là bên thế chấp.",
+    "c": "Phải thể hiện đầy đủ tư cách của các bên trong cả quan hệ tín dụng và quan hệ bảo đảm.",
+    "d": "Không cần phân biệt các tư cách chủ thể.",
+    "answer": "c",
+    "explanation": "Văn bản gộp phải phản ánh đầy đủ quyền, nghĩa vụ của các bên trong cả hai giao dịch: vay vốn và thế chấp bảo đảm."
+  },
+  {
+    "question": "Một văn bản gộp chung hợp đồng tín dụng và hợp đồng thế chấp cần có nội dung nào sau đây?",
+    "a": "Chỉ cần điều khoản vay vốn.",
+    "b": "Chỉ cần điều khoản mô tả tài sản thế chấp.",
+    "c": "Phải có đầy đủ nội dung của cả hợp đồng tín dụng và hợp đồng bảo đảm, bao gồm điều kiện xử lý tài sản bảo đảm.",
+    "d": "Chỉ cần ghi nhận số tiền vay.",
+    "answer": "c",
+    "explanation": "Do đồng thời chứa hai giao dịch nên văn bản phải thể hiện đầy đủ nội dung của cả hợp đồng tín dụng và hợp đồng thế chấp như nghĩa vụ trả nợ, tài sản bảo đảm, trường hợp xử lý tài sản, phương thức xử lý tài sản..."
+  },
   {
   "question": "A và B ký hợp đồng mua bán đã được công chứng. B vi phạm nghĩa vụ thanh toán, A một mình đến tổ chức hành nghề công chứng yêu cầu công chứng văn bản hủy bỏ hợp đồng. Công chứng viên xử lý thế nào?",
   "a": "Công chứng văn bản hủy bỏ vì B đã vi phạm hợp đồng.",
