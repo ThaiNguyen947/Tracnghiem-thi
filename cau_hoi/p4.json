@@ -1,5 +1,14 @@
 [
   {
+  "question": "A thế chấp kho hàng là hàng hóa luân chuyển trong quá trình sản xuất, kinh doanh. Sau đó A bán một phần hàng hóa trong kho theo hoạt động kinh doanh thông thường. Khi xử lý tài sản bảo đảm, nhận định nào sau đây đúng?",
+  "a": "Biện pháp bảo đảm chấm dứt đối với toàn bộ nghĩa vụ được bảo đảm",
+  "b": "Quyền bảo đảm được duy trì đối với khoản tiền thu được, quyền yêu cầu thanh toán hoặc tài sản hình thành từ việc bán hàng hóa",
+  "c": "Ngân hàng mất toàn bộ quyền đối với tài sản bảo đảm",
+  "d": "Giao dịch mua bán hàng hóa đương nhiên vô hiệu",
+  "answer": "b",
+  "explanation": "Theo khoản 4 Điều 321 Bộ luật Dân sự 2015, trường hợp tài sản thế chấp là hàng hóa luân chuyển trong quá trình sản xuất, kinh doanh thì bên thế chấp được quyền bán, thay thế tài sản đó. Quyền của bên nhận thế chấp được duy trì đối với số tiền thu được, quyền yêu cầu thanh toán hoặc tài sản khác được hình thành từ việc bán hoặc thay thế hàng hóa luân chuyển."
+},
+  {
     "question": "A ký hợp đồng thuê khoán một trang trại của B để nuôi bò, nhưng A không khai thác mà để đất bỏ hoang. B yêu cầu A trả tiền thuê khoán. A cho rằng không khai thác thì không phải trả. Theo BLDS, A phải xử lý thế nào?",
     "a": "Không phải trả vì không khai thác",
     "b": "Chỉ trả một phần tiền thuê khoán",
@@ -2609,15 +2618,6 @@
   "d": "Trở thành chủ sở hữu",
   "answer": "c",
   "explanation": "Theo Điều 321 và Điều 299 BLDS 2015, khi xử lý tài sản bảo đảm, quyền của bên thuê có thể bị ảnh hưởng tùy điều kiện pháp luật."
-},
-{
-  "question": "A thế chấp kho hàng, sau đó bán hàng hóa trong kho mà không thay thế hàng hóa tương ứng. Khi ngân hàng xử lý tài sản, nhận định đúng là:",
-  "a": "Mất toàn bộ quan hệ bảo đảm",
-  "b": "Vẫn duy trì bảo đảm với tài sản hình thành từ việc bán hàng",
-  "c": "Ngân hàng không còn quyền gì",
-  "d": "Giao dịch bán luôn vô hiệu",
-  "answer": "b",
-  "explanation": "Theo khoản 4 Điều 321 BLDS 2015, tài sản luân chuyển có thể chuyển hóa thành tài sản thay thế hoặc quyền đối với tài sản hình thành."
 },
 {
   "question": "A thế chấp tài sản cho ngân hàng X (đã đăng ký). Sau đó A bán tài sản cho B. B yêu cầu hủy hợp đồng vì tài sản đang thế chấp. Xử lý đúng là:",
