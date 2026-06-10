@@ -1,4 +1,13 @@
 [
+  {
+  "question": "Theo Luật Đất đai 2024, cá nhân thuê lại đất trong khu công nghiệp và trả tiền thuê đất một lần cho cả thời gian thuê có quyền nào sau đây?",
+  "a": "Được chuyển nhượng quyền sử dụng đất; cho thuê quyền sử dụng đất; thế chấp và góp vốn bằng quyền sử dụng đất theo quy định của pháp luật",
+  "b": "Chỉ được bán tài sản gắn liền với đất và quyền thuê trong hợp đồng thuê đất, không được chuyển nhượng quyền sử dụng đất",
+  "c": "Chỉ được sử dụng đất theo hợp đồng thuê, không được thế chấp hoặc góp vốn",
+  "d": "Chỉ có các quyền theo thỏa thuận với chủ đầu tư hạ tầng khu công nghiệp",
+  "answer": "a",
+  "explanation": "Điểm a khoản 3 Điều 37 Luật Đất đai 2024 quy định cá nhân thuê đất hoặc thuê lại đất trong khu công nghiệp, cụm công nghiệp, khu công nghệ cao và trả tiền thuê đất một lần cho cả thời gian thuê có quyền và nghĩa vụ như cá nhân quy định tại khoản 1 Điều 37. Theo khoản 1 Điều 37, người sử dụng đất được thực hiện các quyền như chuyển nhượng quyền sử dụng đất, cho thuê quyền sử dụng đất, thế chấp quyền sử dụng đất và tài sản gắn liền với đất, góp vốn bằng quyền sử dụng đất và tài sản gắn liền với đất theo quy định của pháp luật."
+},
 {
   "question": "Theo quy định của Luật Kinh doanh bất động sản năm 2023, hành vi nào sau đây bị nghiêm cấm trong kinh doanh bất động sản?",
   "a": "Hành vi gian lận, lừa dối, lừa đảo trong kinh doanh bất động sản",
@@ -5201,15 +5210,6 @@
     "d": "Không phải nộp thêm bất kỳ khoản phí nào",
     "answer": "b",
     "explanation": "Điểm b khoản 3 Điều 33 Luật Đất đai 2024 quy định phải nộp khoản tiền tương ứng với số tiền đã được miễn, giảm."
-  },
-  {
-    "question": "Theo Luật Đất đai 2024, cá nhân thuê lại đất trong khu công nghiệp trả tiền một lần cho cả thời gian thuê có quyền và nghĩa vụ thế nào?",
-    "a": "Theo quy định tại khoản 1 Điều 37 Luật Đất đai 2024",
-    "b": "Theo quy định tại khoản 2 Điều 37 Luật Đất đai 2024",
-    "c": "Theo pháp luật về hợp đồng thuê bất động sản dân sự",
-    "d": "Theo thỏa thuận riêng trong hợp đồng với chủ đầu tư hạ tầng",
-    "answer": "a",
-    "explanation": "Điểm a khoản 3 Điều 37 Luật Đất đai 2024 quy định trường hợp này có quyền và nghĩa vụ theo khoản 1 Điều 37."
   },
   {
     "question": "Theo Luật Đất đai 2024, cá nhân sử dụng đất thuê ngoài khu công nghiệp thì quyền và nghĩa vụ được xác định như thế nào?",
