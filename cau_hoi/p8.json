@@ -1,5 +1,113 @@
 [
   {
+    "question": "Theo Luật Công chứng 2024, việc công chứng sửa đổi, bổ sung hợp đồng đã được công chứng chỉ được thực hiện khi nào?",
+    "a": "Khi một bên trong hợp đồng có yêu cầu.",
+    "b": "Khi công chứng viên xét thấy cần thiết.",
+    "c": "Khi có sự thỏa thuận, cam kết bằng văn bản của tất cả những người đã tham gia hợp đồng, giao dịch đó.",
+    "d": "Khi cơ quan đăng ký tài sản yêu cầu.",
+    "answer": "c",
+    "explanation": "Việc công chứng sửa đổi, bổ sung, hủy bỏ hợp đồng, giao dịch đã được công chứng chỉ được thực hiện khi có sự thỏa thuận, cam kết bằng văn bản của tất cả những người đã tham gia hợp đồng, giao dịch đó. Căn cứ: Điều 53 Luật Công chứng 2024."
+  },
+{
+  "question": "Ông A đã lập và công chứng Văn bản từ chối nhận di sản. Sau đó ông A muốn hủy bỏ văn bản này. Theo Luật Công chứng 2024, ai phải tham gia ký văn bản hủy bỏ?",
+  "a": "Tất cả những người có quyền thừa kế.",
+  "b": "Người quản lý di sản.",
+  "c": "Chỉ mình ông A.",
+  "d": "Ông A và công chứng viên đã công chứng văn bản trước đó.",
+  "answer": "c",
+  "explanation": "Văn bản từ chối nhận di sản là hành vi pháp lý đơn phương. Việc sửa đổi, bổ sung, chấm dứt, hủy bỏ được thực hiện theo yêu cầu của người đã ký kết văn bản đó. Căn cứ: khoản 1 Điều 53 Luật Công chứng 2024."
+},
+  {
+    "question": "Khi sửa đổi, bổ sung hợp đồng đã công chứng trước đây có người phiên dịch tham gia, lần sửa đổi bổ sung người đại diện mới sử dụng tiếng Việt thành thạo thì người phiên dịch có bắt buộc phải tham gia lại không?",
+    "a": "Bắt buộc phải tham gia vì đã tham gia ở hợp đồng ban đầu.",
+    "b": "Không bắt buộc nếu không còn thuộc trường hợp phải có người phiên dịch.",
+    "c": "Bắt buộc nếu hợp đồng liên quan bất động sản.",
+    "d": "Chỉ cần chữ ký xác nhận của người phiên dịch cũ.",
+    "answer": "b",
+    "explanation": "Người phiên dịch chỉ tham gia khi thuộc trường hợp pháp luật yêu cầu. Việc sửa đổi, bổ sung phải có đầy đủ các bên tham gia giao dịch nhưng không bắt buộc người phiên dịch hoặc người làm chứng tiếp tục tham gia nếu không còn cần thiết."
+  },
+  {
+    "question": "Đối với hợp đồng do pháp nhân tham gia, người đại diện ký văn bản sửa đổi, bổ sung có bắt buộc phải là người đã ký hợp đồng trước đây hay không?",
+    "a": "Bắt buộc phải là người đã ký trước đây.",
+    "b": "Không bắt buộc, miễn là người đại diện hiện tại có thẩm quyền hợp pháp.",
+    "c": "Chỉ được thay đổi khi có quyết định của Tòa án.",
+    "d": "Chỉ được thay đổi nếu có sự đồng ý của công chứng viên cũ.",
+    "answer": "b",
+    "explanation": "Chủ thể tham gia giao dịch là pháp nhân, không phải cá nhân người đại diện. Do đó người đại diện hợp pháp tại thời điểm sửa đổi, bổ sung có thể khác với người đại diện đã ký hợp đồng trước đây."
+  },
+  {
+    "question": "Việc công chứng sửa đổi, bổ sung, hủy bỏ hợp đồng đã công chứng được thực hiện tại đâu?",
+    "a": "Bất kỳ tổ chức hành nghề công chứng nào.",
+    "b": "UBND cấp xã nơi có tài sản.",
+    "c": "Tổ chức hành nghề công chứng đã thực hiện công chứng hợp đồng đó hoặc tổ chức đang lưu trữ hồ sơ công chứng theo quy định.",
+    "d": "Tòa án nhân dân cấp huyện.",
+    "answer": "c",
+    "explanation": "Trừ trường hợp quy định tại khoản 4 Điều 58 (Di chúc) của Luật này, việc công chứng văn bản sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch đã được công chứng do công chứng viên của tổ chức hành nghề công chứng nơi đã thực hiện việc công chứng đó tiến hành; trường hợp tổ chức hành nghề công chứng nơi đã thực hiện việc công chứng chấm dứt hoạt động, chuyển đổi hoặc giải thể thì công chứng viên của tổ chức hành nghề công chứng đang lưu trữ hồ sơ công chứng thực hiện. Trường hợp tổ chức hành nghề công chứng tạm ngừng hoạt động thì việc sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch đã được công chứng thực hiện theo quy định (tổ chức nhận lưu hs). Căn cứ: Điều 53 Luật Công chứng 2024."
+  },
+  {
+    "question": "Khi sửa đổi, bổ sung hợp đồng đã công chứng, có bắt buộc phải do chính công chứng viên đã công chứng hợp đồng ban đầu thực hiện hay không?",
+    "a": "Có.",
+    "b": "Không, chỉ cần là công chứng viên của tổ chức hành nghề công chứng có thẩm quyền thực hiện việc sửa đổi, bổ sung.",
+    "c": "Chỉ bắt buộc đối với hợp đồng bất động sản.",
+    "d": "Chỉ bắt buộc đối với hợp đồng thế chấp.",
+    "answer": "b",
+    "explanation": "Luật không yêu cầu phải là công chứng viên đã công chứng hợp đồng ban đầu. Chỉ cần công chứng viên thuộc tổ chức hành nghề công chứng có thẩm quyền thực hiện việc sửa đổi, bổ sung."
+  },
+  {
+    "question": "Khi yêu cầu công chứng sửa đổi, bổ sung hợp đồng, người yêu cầu công chứng có phải nộp lại toàn bộ hồ sơ như lần công chứng ban đầu hay không?",
+    "a": "Luôn phải nộp lại toàn bộ.",
+    "b": "Không cần bất kỳ giấy tờ nào ngoài CCCD.",
+    "c": "Phải cung cấp các giấy tờ cần thiết để chứng minh điều kiện chủ thể, thẩm quyền, tình trạng pháp lý tại thời điểm sửa đổi, bổ sung.",
+    "d": "Chỉ cần bản chính hợp đồng cũ.",
+    "answer": "c",
+    "explanation": "Hồ sơ sửa đổi, bổ sung phải bảo đảm công chứng viên có căn cứ xác định năng lực hành vi, tình trạng hôn nhân, thẩm quyền đại diện và các điều kiện pháp lý khác tại thời điểm sửa đổi, bổ sung."
+  },
+  {
+    "question": "Khi sửa đổi, bổ sung hợp đồng chuyển nhượng quyền sử dụng đất, công chứng viên yêu cầu xuất trình bản chính Giấy chứng nhận quyền sử dụng đất để đối chiếu. Yêu cầu này:",
+    "a": "Không phù hợp vì đối tượng của văn bản sửa đổi là hợp đồng, không phải tài sản.",
+    "b": "Phù hợp để kiểm tra hiện trạng pháp lý của tài sản tại thời điểm sửa đổi, bổ sung.",
+    "c": "Chỉ áp dụng khi tài sản chưa đăng ký.",
+    "d": "Chỉ áp dụng khi có tranh chấp.",
+    "answer": "b",
+    "explanation": "Mặc dù sửa đổi hợp đồng nhưng nội dung vẫn liên quan đến tài sản giao dịch. Công chứng viên có quyền yêu cầu xuất trình bản chính giấy tờ về tài sản để kiểm tra tình trạng pháp lý hiện tại."
+  },
+  {
+    "question": "Đâu là dấu hiệu phân biệt cơ bản giữa sửa lỗi kỹ thuật và sửa đổi, bổ sung hợp đồng?",
+    "a": "Sửa lỗi kỹ thuật làm thay đổi quyền và nghĩa vụ của các bên.",
+    "b": "Sửa đổi, bổ sung chỉ điều chỉnh lỗi đánh máy.",
+    "c": "Sửa lỗi kỹ thuật không làm thay đổi nội dung hợp đồng, còn sửa đổi bổ sung làm thay đổi nội dung đã thỏa thuận.",
+    "d": "Hai thủ tục này hoàn toàn giống nhau.",
+    "answer": "c",
+    "explanation": "Lỗi kỹ thuật là lỗi do sai sót trong khi ghi chép, đánh máy, in ấn văn bản công chứng mà việc sửa lỗi đó không làm ảnh hưởng đến quyền và nghĩa vụ của người tham gia giao dịch. Căn cứ k1, điều 52 Luật Công chứng 2024."
+  },
+  {
+    "question": "Trong hợp đồng ghi giá chuyển nhượng bằng số khác với giá ghi bằng chữ. Trường hợp này được xử lý như thế nào?",
+    "a": "Sửa lỗi kỹ thuật.",
+    "b": "Sửa đổi, bổ sung hợp đồng.",
+    "c": "Không được xử lý.",
+    "d": "Chỉ cần công chứng viên ghi chú vào hồ sơ.",
+    "answer": "b",
+    "explanation": "Việc sửa số tiền làm thay đổi nội dung giao dịch nên không phải là sửa lỗi kỹ thuật mà phải thực hiện thủ tục sửa đổi, bổ sung hợp đồng."
+  },
+  {
+    "question": "Một tài sản được dùng để bảo đảm cho hai nghĩa vụ khác nhau bằng hai hợp đồng thế chấp riêng biệt. Hợp đồng thứ hai được xem là:",
+    "a": "Văn bản sửa đổi, bổ sung của hợp đồng thế chấp thứ nhất.",
+    "b": "Hợp đồng thế chấp độc lập.",
+    "c": "Phụ lục của hợp đồng thứ nhất.",
+    "d": "Văn bản đính chính hợp đồng thứ nhất.",
+    "answer": "b",
+    "explanation": "Nếu phát sinh nghĩa vụ, chủ thể hoặc giao dịch bảo đảm mới thì đây là hợp đồng thế chấp độc lập, không phải là sửa đổi, bổ sung hợp đồng thế chấp đã ký trước đó."
+  },
+  {
+    "question": "Theo quan điểm nghiệp vụ công chứng, hợp đồng có thể được sửa đổi, bổ sung khi nào?",
+    "a": "Ngay sau khi các bên ký xong dự thảo.",
+    "b": "Bất cứ lúc nào kể cả trước khi hợp đồng có hiệu lực.",
+    "c": "Khi hợp đồng đang còn hiệu lực pháp luật.",
+    "d": "Sau khi hợp đồng đã hết hiệu lực.",
+    "answer": "c",
+    "explanation": "Bản chất của sửa đổi, bổ sung là điều chỉnh nội dung của hợp đồng đang có hiệu lực. Khi hợp đồng đã chấm dứt hoặc chưa phát sinh hiệu lực thì không đặt ra việc sửa đổi, bổ sung."
+  },
+  {
     "question": "Hợp pháp hóa lãnh sự là việc cơ quan có thẩm quyền của Việt Nam thực hiện nhằm mục đích gì?",
     "a": "Xác nhận nội dung giấy tờ nước ngoài là đúng sự thật.",
     "b": "Chứng nhận con dấu, chữ ký, chức danh trên giấy tờ, tài liệu nước ngoài để được công nhận và sử dụng tại Việt Nam.",
