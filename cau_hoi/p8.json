@@ -1,4 +1,94 @@
 [
+  {
+    "question": "Hợp pháp hóa lãnh sự là việc cơ quan có thẩm quyền của Việt Nam thực hiện nhằm mục đích gì?",
+    "a": "Xác nhận nội dung giấy tờ nước ngoài là đúng sự thật.",
+    "b": "Chứng nhận con dấu, chữ ký, chức danh trên giấy tờ, tài liệu nước ngoài để được công nhận và sử dụng tại Việt Nam.",
+    "c": "Chứng nhận người ký giấy tờ là công dân nước ngoài.",
+    "d": "Chứng nhận giá trị pháp lý của giao dịch được thể hiện trong giấy tờ.",
+    "answer": "b",
+    "explanation": "Hợp pháp hóa lãnh sự là việc cơ quan có thẩm quyền của Việt Nam chứng nhận con dấu, chữ ký, chức danh trên giấy tờ, tài liệu của nước ngoài để giấy tờ, tài liệu đó được công nhận và sử dụng tại Việt Nam. Căn cứ: Điều 2 Nghị định 111/2011/NĐ-CP."
+  },
+  {
+    "question": "Cơ quan nào sau đây có thẩm quyền thực hiện hợp pháp hóa lãnh sự tại Việt Nam?",
+    "a": "UBND cấp huyện.",
+    "b": "Văn phòng công chứng.",
+    "c": "Cục Lãnh sự - Bộ Ngoại giao và Sở Ngoại vụ Thành phố Hồ Chí Minh.",
+    "d": "Tòa án nhân dân cấp tỉnh.",
+    "answer": "c",
+    "explanation": "Tại Việt Nam, thẩm quyền hợp pháp hóa lãnh sự thuộc Cục Lãnh sự - Bộ Ngoại giao và Sở Ngoại vụ Thành phố Hồ Chí Minh. Căn cứ: Nghị định 111/2011/NĐ-CP."
+  },
+  {
+    "question": "Trường hợp nào sau đây được miễn hợp pháp hóa lãnh sự?",
+    "a": "Giấy tờ bị tẩy xóa nhưng đã được người lập xác nhận lại.",
+    "b": "Giấy tờ được miễn theo điều ước quốc tế mà Việt Nam và nước liên quan là thành viên.",
+    "c": "Mọi giấy tờ do cơ quan nhà nước nước ngoài cấp.",
+    "d": "Mọi giấy tờ được dịch sang tiếng Việt.",
+    "answer": "b",
+    "explanation": "Giấy tờ, tài liệu được miễn hợp pháp hóa lãnh sự nếu thuộc trường hợp được quy định trong điều ước quốc tế hoặc theo nguyên tắc có đi có lại. Căn cứ: Điều 9 Nghị định 111/2011/NĐ-CP."
+  },
+  {
+    "question": "Giấy tờ, tài liệu nào sau đây không được hợp pháp hóa lãnh sự?",
+    "a": "Giấy tờ có chữ ký gốc và con dấu gốc.",
+    "b": "Giấy tờ được cấp đúng thẩm quyền.",
+    "c": "Giấy tờ giả mạo hoặc được cấp, chứng nhận sai thẩm quyền.",
+    "d": "Giấy tờ được cơ quan ngoại giao nước ngoài cấp hợp lệ.",
+    "answer": "c",
+    "explanation": "Giấy tờ, tài liệu giả mạo hoặc được cấp, chứng nhận sai thẩm quyền thuộc trường hợp không được hợp pháp hóa lãnh sự. Căn cứ: Điều 11 Nghị định 111/2011/NĐ-CP."
+  },
+  {
+    "question": "Theo Thông tư 01/2020/TT-BTP, giấy tờ nào sau đây không phải hợp pháp hóa lãnh sự khi yêu cầu chứng thực bản sao từ bản chính tại Việt Nam?",
+    "a": "Hợp đồng mua bán nhà ở.",
+    "b": "Di chúc do cá nhân lập ở nước ngoài.",
+    "c": "Hộ chiếu do cơ quan có thẩm quyền nước ngoài cấp.",
+    "d": "Giấy ủy quyền có công chứng của nước ngoài.",
+    "answer": "c",
+    "explanation": "Hộ chiếu, thẻ căn cước, thẻ thường trú, thẻ cư trú, giấy phép lái xe, bằng tốt nghiệp, chứng chỉ và bảng điểm kèm theo do cơ quan có thẩm quyền nước ngoài cấp không phải hợp pháp hóa lãnh sự khi chứng thực bản sao từ bản chính. Căn cứ: Điều 6 Thông tư 01/2020/TT-BTP."
+  },
+  {
+    "question": "Người yêu cầu chứng thực chữ ký người dịch trên bản dịch hộ chiếu do cơ quan nước ngoài cấp có phải thực hiện hợp pháp hóa lãnh sự hộ chiếu trước hay không?",
+    "a": "Bắt buộc phải hợp pháp hóa lãnh sự.",
+    "b": "Chỉ cần hợp pháp hóa lãnh sự nếu hộ chiếu đã hết hạn.",
+    "c": "Không phải hợp pháp hóa lãnh sự.",
+    "d": "Phụ thuộc yêu cầu của công chứng viên.",
+    "answer": "c",
+    "explanation": "Trường hợp chứng thực chữ ký người dịch trên bản dịch hộ chiếu thuộc nhóm giấy tờ quy định tại Điều 6 Thông tư 01/2020/TT-BTP thì không phải hợp pháp hóa lãnh sự."
+  },
+  {
+    "question": "Sự kiện hộ tịch nào sau đây được giải quyết ở nước ngoài phải thực hiện thủ tục ghi chú hộ tịch tại Việt Nam?",
+    "a": "Khai sinh.",
+    "b": "Kết hôn.",
+    "c": "Ly hôn.",
+    "d": "Cả ba trường hợp trên.",
+    "answer": "d",
+    "explanation": "Khai sinh, kết hôn, ly hôn và nhiều sự kiện hộ tịch khác của công dân Việt Nam được giải quyết tại cơ quan có thẩm quyền nước ngoài phải thực hiện thủ tục ghi chú hộ tịch theo quy định của Luật Hộ tịch 2014."
+  },
+  {
+    "question": "Sau khi được cơ quan có thẩm quyền nước ngoài giải quyết việc ly hôn, công dân Việt Nam muốn sử dụng tại Việt Nam thì cần thực hiện thủ tục nào?",
+    "a": "Đăng ký lại kết hôn.",
+    "b": "Ghi chú ly hôn vào sổ hộ tịch.",
+    "c": "Xin xác nhận độc thân.",
+    "d": "Công chứng bản án ly hôn.",
+    "answer": "b",
+    "explanation": "Bản án, quyết định ly hôn của cơ quan có thẩm quyền nước ngoài muốn được ghi nhận tại Việt Nam phải thực hiện thủ tục ghi chú ly hôn. Căn cứ: Luật Hộ tịch 2014."
+  },
+  {
+    "question": "Cơ quan nào có thẩm quyền thực hiện việc ghi chú hộ tịch đối với công dân Việt Nam theo quy định hiện hành?",
+    "a": "UBND cấp xã.",
+    "b": "Tổ chức hành nghề công chứng.",
+    "c": "UBND cấp huyện.",
+    "d": "Sở Tư pháp.",
+    "answer": "c",
+    "explanation": "UBND cấp huyện có thẩm quyền giải quyết việc ghi chú hộ tịch theo quy định của Luật Hộ tịch 2014."
+  },
+  {
+    "question": "Trong các giao dịch sau đây, giao dịch nào thường xuyên phát sinh yếu tố nước ngoài trong hoạt động công chứng?",
+    "a": "Chuyển nhượng, tặng cho, thừa kế nhà đất.",
+    "b": "Thuê nhà.",
+    "c": "Ủy quyền.",
+    "d": "Tất cả các phương án trên.",
+    "answer": "d",
+    "explanation": "Trong thực tiễn công chứng, các giao dịch có yếu tố nước ngoài thường gặp gồm chuyển nhượng, tặng cho, thừa kế nhà đất, thuê nhà, mua bán xe và ủy quyền."
+  },
    {
     "question": "Theo Luật Doanh nghiệp năm 2020, tài sản góp vốn bao gồm:",
     "a": "Chỉ tiền Việt Nam và vàng.",
