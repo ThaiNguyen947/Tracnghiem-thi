@@ -1,5 +1,86 @@
 [
     {
+    "question": "Ông A độc thân sở hữu một căn hộ tại Quận 1, TP.HCM và muốn ủy quyền cho chị ruột là bà C thay mình bán căn hộ. Việc ủy quyền này có được thực hiện hay không?",
+    "a": "Không được vì giao dịch mua bán nhà ở phải do chủ sở hữu trực tiếp thực hiện.",
+    "b": "Được thực hiện nếu hợp đồng ủy quyền được công chứng theo quy định.",
+    "c": "Chỉ được nếu bà C là người đồng sở hữu căn hộ.",
+    "d": "Chỉ được nếu UBND cấp xã xác nhận.",
+    "answer": "b",
+    "explanation": "Chủ sở hữu tài sản có quyền ủy quyền cho người khác xác lập, thực hiện giao dịch dân sự thay mình. Chị ruột của ông A có đầy đủ năng lực hành vi dân sự nên có thể nhận ủy quyền bán căn hộ. Hợp đồng ủy quyền phải được công chứng theo quy định. Căn cứ: Điều 138, Điều 562 Bộ luật Dân sự 2015; Điều 42 Luật Công chứng 2024."
+  },
+{
+  "question": "Ông A độc thân sở hữu căn hộ tại Quận 1, TP.HCM và muốn ủy quyền cho em trai B (16 tuổi) thay mình quản lý và bán căn hộ. Nhận định nào phù hợp nhất?",
+  "a": "Không được vì người dưới 18 tuổi không thể là người nhận ủy quyền.",
+  "b": "Được vì người từ đủ 15 tuổi đến dưới 18 tuổi có thể là người đại diện theo ủy quyền, trừ trường hợp pháp luật quy định phải do người từ đủ 18 tuổi trở lên xác lập, thực hiện.",
+  "c": "Chỉ được quản lý mà không được bán căn hộ.",
+  "d": "Chỉ được nếu B là người đồng sở hữu căn hộ.",
+  "answer": "b",
+  "explanation": "Người từ đủ 15 tuổi đến chưa đủ 18 tuổi có thể là người đại diện theo ủy quyền, trừ trường hợp pháp luật quy định giao dịch dân sự phải do người từ đủ 18 tuổi trở lên xác lập, thực hiện. Pháp luật hiện hành không quy định việc đại diện theo ủy quyền để chuyển nhượng nhà ở bắt buộc phải là người từ đủ 18 tuổi. Căn cứ: khoản 3 Điều 138 Bộ luật Dân sự 2015."
+},
+  {
+    "question": "Ông A muốn ủy quyền cho Công ty TNHH Sao Kim thay mình bán căn hộ thuộc sở hữu của ông. Theo quy định pháp luật, việc ủy quyền này:",
+    "a": "Không được thực hiện vì chỉ cá nhân mới được nhận ủy quyền.",
+    "b": "Được thực hiện vì pháp nhân có thể là bên nhận ủy quyền.",
+    "c": "Chỉ được thực hiện nếu công ty hoạt động môi giới bất động sản.",
+    "d": "Chỉ được thực hiện khi được UBND cấp huyện chấp thuận.",
+    "answer": "b",
+    "explanation": "Pháp nhân có thể là bên nhận ủy quyền nếu có năng lực pháp luật dân sự phù hợp với giao dịch được ủy quyền. Căn cứ: Điều 74, Điều 86, Điều 138 và Điều 562 Bộ luật Dân sự 2015."
+  },
+  {
+    "question": "Ông A và bà B là vợ chồng, đồng sở hữu một căn nhà tại Quận 1, TP.HCM và muốn ủy quyền cho mẹ ông A quản lý, định đoạt nhà ở. Hồ sơ nào cần được cung cấp cho công chứng viên?",
+    "a": "Giấy tờ tùy thân của các bên và giấy chứng nhận quyền sở hữu nhà ở.",
+    "b": "Giấy tờ tùy thân, giấy tờ chứng minh quan hệ hôn nhân và giấy tờ về quyền sở hữu nhà ở.",
+    "c": "Chỉ cần giấy chứng nhận quyền sở hữu nhà ở.",
+    "d": "Chỉ cần căn cước công dân của các bên.",
+    "answer": "b",
+    "explanation": "Công chứng viên cần kiểm tra nhân thân, tình trạng hôn nhân và căn cứ xác lập quyền sở hữu tài sản chung của vợ chồng trước khi chứng nhận hợp đồng ủy quyền. Căn cứ: Điều 42, Điều 43 Luật Công chứng 2024; Điều 33 Luật Hôn nhân và Gia đình 2014."
+  },
+  {
+    "question": "Bà N muốn ủy quyền cho ông Q và bà O đại diện mình thực hiện các giao dịch liên quan đến quyền sử dụng đất tại Long An. Một người có thể đồng thời ủy quyền cho nhiều người nhận ủy quyền hay không?",
+    "a": "Không.",
+    "b": "Chỉ được nếu là người thân thích.",
+    "c": "Được nếu nội dung, phạm vi và cách thức thực hiện được xác định rõ trong hợp đồng.",
+    "d": "Chỉ được khi có sự đồng ý của cơ quan đăng ký đất đai.",
+    "answer": "c",
+    "explanation": "Bộ luật Dân sự không cấm việc một bên ủy quyền cho nhiều người cùng nhận ủy quyền, miễn phạm vi đại diện được xác định rõ. Căn cứ: Điều 138, Điều 562 Bộ luật Dân sự 2015."
+  },
+  {
+    "question": "Quyền sử dụng đất của bà N đang thế chấp tại ngân hàng. Công chứng viên yêu cầu phải có văn bản chấp thuận của ngân hàng mới được ký hợp đồng ủy quyền. Nhận định nào đúng?",
+    "a": "Yêu cầu này luôn đúng.",
+    "b": "Không phải mọi trường hợp ủy quyền đều phải có sự chấp thuận của ngân hàng.",
+    "c": "Chỉ cần sự đồng ý bằng miệng của ngân hàng.",
+    "d": "Không cần xem xét tình trạng thế chấp.",
+    "answer": "b",
+    "explanation": "Việc ủy quyền không đồng nghĩa với việc chuyển quyền sở hữu hoặc quyền sử dụng đất. Cần xem xét nội dung ủy quyền cụ thể và thỏa thuận thế chấp. Pháp luật không quy định mọi trường hợp ủy quyền đều phải có văn bản chấp thuận của bên nhận thế chấp. Căn cứ: Điều 317, Điều 320, Điều 321 Bộ luật Dân sự 2015."
+  },
+  {
+    "question": "Các bên thỏa thuận nội dung ủy quyền chuyển nhượng, tặng cho, cho mượn quyền sử dụng đất với thời hạn ủy quyền là 10 năm. Công chứng viên có thể chứng nhận không?",
+    "a": "Không vì thời hạn ủy quyền tối đa là 05 năm.",
+    "b": "Không vì không được ủy quyền chuyển nhượng đất.",
+    "c": "Được nếu nội dung và thời hạn không trái pháp luật.",
+    "d": "Chỉ được khi có xác nhận của cơ quan đăng ký đất đai.",
+    "answer": "c",
+    "explanation": "Các bên được quyền thỏa thuận thời hạn ủy quyền; pháp luật không quy định thời hạn tối đa 10 năm đối với hợp đồng ủy quyền thông thường. Căn cứ: Điều 563 Bộ luật Dân sự 2015."
+  },
+  {
+    "question": "Các bên đề nghị bổ sung điều khoản: 'Thời hạn ủy quyền kéo dài đến khi một trong hai bên chết'. Công chứng viên có nên chấp nhận không?",
+    "a": "Có.",
+    "b": "Không, vì đại diện theo ủy quyền chấm dứt khi một trong các bên chết, trừ trường hợp luật có quy định khác.",
+    "c": "Có nếu các bên cam kết.",
+    "d": "Có nếu được ngân hàng đồng ý.",
+    "answer": "b",
+    "explanation": "Đại diện theo ủy quyền chấm dứt khi cá nhân là người đại diện hoặc người được đại diện chết, trừ trường hợp pháp luật có quy định khác. Điều khoản này trái quy định pháp luật. Căn cứ: Điều 140 Bộ luật Dân sự 2015."
+  },
+  {
+    "question": "Trên Giấy chứng nhận quyền sử dụng đất vẫn còn ghi nợ nghĩa vụ tài chính do chuyển mục đích sử dụng đất. Công chứng viên yêu cầu phải hoàn tất việc nộp tiền và xóa ghi nợ trước khi lập hợp đồng ủy quyền. Yêu cầu này có phù hợp không?",
+    "a": "Có, vì còn ghi nợ thì không được giao dịch dưới bất kỳ hình thức nào.",
+    "b": "Không, vì việc còn ghi nợ nghĩa vụ tài chính không làm mất quyền lập hợp đồng ủy quyền.",
+    "c": "Có, nhưng chỉ khi ủy quyền cho người ngoài gia đình.",
+    "d": "Có, nhưng chỉ khi ủy quyền có thù lao.",
+    "answer": "b",
+    "explanation": "Việc ghi nợ nghĩa vụ tài chính là một tình trạng pháp lý của thửa đất nhưng không phải căn cứ làm vô hiệu hoặc cấm việc lập hợp đồng ủy quyền. Căn cứ: Bộ luật Dân sự 2015; Luật Đất đai 2024 và các quy định về ghi nợ nghĩa vụ tài chính đối với người sử dụng đất."
+  },
+    {
     "question": "Công ty TNHH X có 2 người đại diện theo pháp luật là ông A và bà B. Điều lệ công ty không quy định rõ quyền hạn của từng người. Khi ký hợp đồng góp vốn với bên thứ ba, ông A tự mình ký hợp đồng mà không có bà B tham gia. Theo Luật Doanh nghiệp năm 2020, giao dịch này được đánh giá như thế nào?",
     "a": "Hợp pháp vì mỗi người đại diện theo pháp luật đều có đầy đủ thẩm quyền đại diện công ty trước bên thứ ba.",
     "b": "Vô hiệu vì phải có chữ ký của tất cả người đại diện theo pháp luật.",
