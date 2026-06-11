@@ -1,4 +1,49 @@
 [
+       {
+    "question": "Ông A lập di chúc với nội dung: 'Tôi để lại cho anh B toàn bộ căn nhà và mọi hoa lợi, lợi tức phát sinh từ căn nhà đến thời điểm tôi chết'. Sau khi ông A qua đời, anh B có được hưởng các khoản hoa lợi, lợi tức đó hay không?",
+    "a": "Không, vì hoa lợi, lợi tức không được để lại thừa kế.",
+    "b": "Có, vì hoa lợi, lợi tức đã phát sinh trước thời điểm mở thừa kế là một phần của di sản.",
+    "c": "Chỉ được hưởng nếu những người thừa kế khác đồng ý.",
+    "d": "Chỉ được hưởng phần hoa lợi mà anh B trực tiếp tạo ra.",
+    "answer": "b",
+    "explanation": "Theo Điều 612 Bộ luật Dân sự 2015, di sản bao gồm tài sản của người chết tại thời điểm mở thừa kế. Hoa lợi, lợi tức đã phát sinh từ tài sản trước thời điểm người để lại di sản chết thuộc khối tài sản của người đó và là một phần của di sản thừa kế."
+  },
+  {
+    "question": "Ông A lập di chúc với nội dung: 'Tôi để lại cho anh B mọi hoa lợi, lợi tức phát sinh từ căn nhà sau khi tôi chết'. Nội dung này được hiểu như thế nào?",
+    "a": "Không có giá trị vì hoa lợi, lợi tức phát sinh sau khi chết không thể được định đoạt bằng di chúc.",
+    "b": "Có giá trị vì người lập di chúc có quyền định đoạt tài sản và quyền tài sản phát sinh từ di sản theo ý chí của mình.",
+    "c": "Chỉ có giá trị nếu được tất cả người thừa kế đồng ý.",
+    "d": "Đương nhiên vô hiệu một phần.",
+    "answer": "b",
+    "explanation": "Theo Điều 626 Bộ luật Dân sự 2015, người lập di chúc có quyền chỉ định người thừa kế, phân định phần di sản cho từng người thừa kế và định đoạt tài sản của mình. Trường hợp ý chí của người lập di chúc xác định rõ người được hưởng hoa lợi, lợi tức phát sinh từ di sản sau thời điểm mở thừa kế thì ý chí đó được tôn trọng nếu không trái pháp luật và đạo đức xã hội."
+  },
+  {
+    "question": "Ông A lập di chúc yêu cầu những người thừa kế phải hoàn tất thủ tục khai nhận di sản trong vòng 01 năm kể từ ngày ông qua đời. Năm 2019 ông A chết nhưng đến năm 2022 những người thừa kế mới thực hiện thủ tục khai nhận di sản. Hệ quả pháp lý nào phù hợp nhất?",
+    "a": "Di chúc đương nhiên vô hiệu toàn bộ.",
+    "b": "Những người thừa kế mất quyền hưởng di sản.",
+    "c": "Cần xem xét đây là điều kiện hưởng di sản hay chỉ là mong muốn của người lập di chúc; việc chậm khai nhận không đương nhiên làm mất quyền thừa kế.",
+    "d": "Di sản thuộc về Nhà nước.",
+    "answer": "c",
+    "explanation": "Bộ luật Dân sự 2015 cho phép người lập di chúc giao nghĩa vụ cho người thừa kế (Điều 626). Tuy nhiên, pháp luật không quy định việc không thực hiện thủ tục khai nhận di sản trong thời hạn do người lập di chúc đặt ra sẽ đương nhiên làm mất quyền thừa kế. Cần xem xét nội dung di chúc, ý chí của người lập di chúc và tính hợp pháp của điều kiện đó."
+  },
+  {
+    "question": "Ông A lập di chúc với nội dung: 'Sau khi hoàn tất thủ tục nhận thừa kế, các đồng thừa kế phải bán tài sản trong vòng 01 năm và chia theo tỷ lệ tôi đã xác định'. Đến năm 2022 các đồng thừa kế mới khai nhận di sản và chưa bán tài sản. Nhận định nào phù hợp nhất?",
+    "a": "Việc không bán tài sản đúng thời hạn đương nhiên làm mất hiệu lực di chúc.",
+    "b": "Việc không bán tài sản đúng thời hạn đương nhiên làm phát sinh thừa kế theo pháp luật.",
+    "c": "Cần xem xét đây là nghĩa vụ hoặc điều kiện mà người lập di chúc đặt ra; việc không thực hiện đúng thời hạn không mặc nhiên làm mất quyền hưởng di sản nếu pháp luật không có quy định như vậy.",
+    "d": "Di sản phải được chuyển giao cho cơ quan thi hành án.",
+    "answer": "c",
+    "explanation": "Theo Điều 626 Bộ luật Dân sự 2015, người lập di chúc có quyền giao nghĩa vụ cho người thừa kế. Tuy nhiên, việc không thực hiện đúng thời hạn mà người lập di chúc mong muốn không đương nhiên dẫn đến hậu quả mất quyền thừa kế nếu di chúc không quy định rõ hậu quả pháp lý và pháp luật không có quy định tương ứng."
+  },
+  {
+    "question": "Trong trường hợp di chúc quy định thời hạn thực hiện các công việc liên quan đến di sản nhưng không quy định hậu quả pháp lý nếu vi phạm thời hạn đó, cách hiểu nào phù hợp hơn?",
+    "a": "Người thừa kế đương nhiên mất quyền hưởng di sản.",
+    "b": "Di sản tự động được chia theo pháp luật.",
+    "c": "Thời hạn này thường được xem là ý chí hoặc nghĩa vụ mà người lập di chúc mong muốn thực hiện; việc vi phạm không đương nhiên làm vô hiệu quyền hưởng di sản.",
+    "d": "Di sản thuộc về người quản lý di sản.",
+    "answer": "c",
+    "explanation": "Bộ luật Dân sự 2015 không có quy định chung rằng người thừa kế sẽ mất quyền hưởng di sản chỉ vì không thực hiện đúng thời hạn do người lập di chúc đặt ra. Việc giải thích di chúc phải căn cứ vào ý chí thực sự của người lập di chúc theo các quy định về giải thích di chúc tại Bộ luật Dân sự 2015."
+  },
       {
     "question": "Tài sản chung của vợ chồng là sở hữu chung hợp nhất, trong đó phần quyền sở hữu của mỗi bên chưa được xác định. Trong trường hợp này, vợ hoặc chồng có quyền lập di chúc đối với tài sản chung hay không?",
     "a": "Không được lập di chúc vì chưa xác định được phần quyền sở hữu của mỗi người.",
