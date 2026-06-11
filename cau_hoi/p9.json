@@ -1,5 +1,59 @@
 [
      {
+    "question": "Ông A lập di chúc để lại toàn bộ tài sản cho người cháu đang là thai nhi trong bụng mẹ. Việc chỉ định thai nhi là người thừa kế theo di chúc được hiểu như thế nào?",
+    "a": "Không được vì thai nhi chưa phải là cá nhân.",
+    "b": "Được nếu thai nhi đã thành thai trước thời điểm mở thừa kế và còn sống sau khi sinh ra.",
+    "c": "Chỉ được khi thai nhi đã được đăng ký khai sinh.",
+    "d": "Chỉ được đối với động sản, không được đối với bất động sản.",
+    "answer": "b",
+    "explanation": "Theo Điều 613 Bộ luật Dân sự 2015, người thừa kế là cá nhân phải còn sống vào thời điểm mở thừa kế hoặc sinh ra và còn sống sau thời điểm mở thừa kế nhưng đã thành thai trước khi người để lại di sản chết. Mặc dù Điều 660 BLDS quy định cụ thể việc dành một phần di sản cho thai nhi trong trường hợp thừa kế theo pháp luật, nhưng Điều 613 là căn cứ để xác định tư cách người thừa kế của thai nhi đối với cả thừa kế theo di chúc."
+  },
+  {
+    "question": "Theo quan điểm được nhiều tổ chức hành nghề công chứng áp dụng, khi lập di chúc để lại tài sản cho thai nhi, giấy tờ nào có thể được sử dụng để chứng minh sự tồn tại của người thừa kế?",
+    "a": "Giấy khai sinh của thai nhi.",
+    "b": "Giấy chứng nhận kết hôn của cha mẹ.",
+    "c": "Giấy khám thai hoặc tài liệu y tế chứng minh việc mang thai và thông tin của người mẹ.",
+    "d": "Xác nhận của UBND cấp xã.",
+    "answer": "c",
+    "explanation": "Bộ luật Dân sự 2015 không quy định cụ thể hồ sơ chứng minh thai nhi khi lập di chúc. Trong thực tiễn công chứng, giấy khám thai hoặc tài liệu y tế chứng minh việc mang thai thường được sử dụng để xác định người thừa kế đã thành thai tại thời điểm lập di chúc hoặc thời điểm mở thừa kế."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, cụm từ 'sinh ra và còn sống sau thời điểm mở thừa kế' được hiểu như thế nào?",
+    "a": "Chỉ cần sinh ra, dù chết ngay sau đó vẫn được hưởng thừa kế.",
+    "b": "Phải sinh ra và còn sống sau khi sinh thì mới được xác định là người thừa kế.",
+    "c": "Phải sống đủ 30 ngày kể từ ngày sinh.",
+    "d": "Phải được đăng ký khai sinh.",
+    "answer": "b",
+    "explanation": "Điều 613 Bộ luật Dân sự 2015 quy định người được thành thai trước khi người để lại di sản chết phải sinh ra và còn sống sau thời điểm mở thừa kế mới được xác định là người thừa kế. Nếu thai nhi chết trước khi sinh hoặc sinh ra nhưng không còn sống thì không phát sinh quyền thừa kế."
+  },
+  {
+    "question": "Ông A lập di chúc để lại toàn bộ tài sản cho một ngôi chùa đã được cơ quan nhà nước có thẩm quyền công nhận và cấp giấy chứng nhận đăng ký hoạt động tôn giáo. Việc định đoạt này có phù hợp pháp luật hay không?",
+    "a": "Không, vì cơ sở tôn giáo không được nhận di sản.",
+    "b": "Có, nếu cơ sở tôn giáo tồn tại hợp pháp vào thời điểm mở thừa kế.",
+    "c": "Chỉ được nhận tiền, không được nhận bất động sản.",
+    "d": "Chỉ được nhận khi có sự đồng ý của UBND cấp tỉnh.",
+    "answer": "b",
+    "explanation": "Theo Điều 613 Bộ luật Dân sự 2015, cơ quan, tổ chức được hưởng di sản theo di chúc nếu tồn tại vào thời điểm mở thừa kế. Đối với cơ sở tôn giáo được thành lập và hoạt động hợp pháp theo pháp luật về tín ngưỡng, tôn giáo thì có thể được chỉ định là người thừa kế theo di chúc."
+  },
+  {
+    "question": "Ông A muốn lập di chúc để lại tài sản cho một 'chùa' do một cá nhân tự lập, không có đăng ký hoạt động và không được cơ quan có thẩm quyền công nhận là cơ sở tôn giáo. Công chứng viên nên xử lý như thế nào?",
+    "a": "Chấp nhận ghi người thừa kế là ngôi chùa đó.",
+    "b": "Từ chối vì không có người thừa kế.",
+    "c": "Giải thích cho người lập di chúc xác định người hưởng di sản là cá nhân hoặc tổ chức có tư cách pháp lý rõ ràng thay vì ghi tên cơ sở không tồn tại hợp pháp.",
+    "d": "Chuyển toàn bộ tài sản cho Nhà nước.",
+    "answer": "c",
+    "explanation": "Theo Điều 613 Bộ luật Dân sự 2015, cơ quan, tổ chức được chỉ định hưởng di sản phải tồn tại vào thời điểm mở thừa kế. Nếu 'chùa' thực chất chỉ là nơi do cá nhân tự lập, không phải cơ sở tôn giáo hợp pháp thì việc chỉ định người hưởng di sản cần xác định là cá nhân hoặc tổ chức có địa vị pháp lý rõ ràng để bảo đảm khả năng thực hiện di chúc."
+  },
+  {
+    "question": "Trong trường hợp cơ sở tôn giáo không tồn tại hợp pháp theo quy định pháp luật, phương án nào phù hợp hơn khi người lập di chúc vẫn muốn tài sản được sử dụng cho mục đích tôn giáo?",
+    "a": "Chỉ định cơ sở tôn giáo không hợp pháp làm người thừa kế.",
+    "b": "Giao tài sản cho bất kỳ người nào đang quản lý nơi thờ tự.",
+    "c": "Chỉ định cá nhân cụ thể hoặc tổ chức hợp pháp để tiếp nhận và thực hiện ý chí của người lập di chúc.",
+    "d": "Không thể lập di chúc trong trường hợp này.",
+    "answer": "c",
+    "explanation": "Người lập di chúc có quyền chỉ định người thừa kế theo Điều 626 Bộ luật Dân sự 2015. Để bảo đảm di chúc có thể thực hiện được, người được chỉ định phải là cá nhân còn sống hoặc cơ quan, tổ chức tồn tại hợp pháp theo Điều 613 Bộ luật Dân sự 2015."
+  },
+     {
     "question": "Ông A lập di chúc để lại toàn bộ quyền sử dụng đất cho ông B và yêu cầu ông B có nghĩa vụ thờ cúng ông A sau khi ông A qua đời. Nội dung di chúc này được xử lý như thế nào?",
     "a": "Vô hiệu vì người nhận di sản không được gắn với nghĩa vụ.",
     "b": "Hợp pháp nếu việc giao nghĩa vụ không trái pháp luật, đạo đức xã hội.",
