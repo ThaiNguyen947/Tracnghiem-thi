@@ -1,4 +1,49 @@
 [
+      {
+    "question": "Tài sản chung của vợ chồng là sở hữu chung hợp nhất, trong đó phần quyền sở hữu của mỗi bên chưa được xác định. Trong trường hợp này, vợ hoặc chồng có quyền lập di chúc đối với tài sản chung hay không?",
+    "a": "Không được lập di chúc vì chưa xác định được phần quyền sở hữu của mỗi người.",
+    "b": "Được lập di chúc đối với toàn bộ tài sản chung.",
+    "c": "Được lập di chúc đối với phần tài sản thuộc quyền của mình trong khối tài sản chung.",
+    "d": "Chỉ được lập di chúc khi đã chia tài sản chung trong thời kỳ hôn nhân.",
+    "answer": "c",
+    "explanation": "Theo Điều 609 Bộ luật Dân sự 2015, cá nhân có quyền lập di chúc để định đoạt tài sản của mình. Mặc dù tài sản chung của vợ chồng là sở hữu chung hợp nhất theo Điều 33 Luật Hôn nhân và Gia đình 2014, nhưng khi một bên chết, phần tài sản của người chết trong khối tài sản chung vẫn được xác định để làm căn cứ thừa kế. Khoản 2 Điều 66 Luật Hôn nhân và Gia đình 2014 quy định khi có yêu cầu chia di sản thì tài sản chung của vợ chồng được chia đôi, trừ trường hợp có thỏa thuận khác hoặc pháp luật có quy định khác."
+  },
+  {
+    "question": "Ông A và bà B có tài sản chung là căn nhà trị giá 10 tỷ đồng. Ông A lập di chúc để lại toàn bộ căn nhà cho con trai. Sau khi ông A chết, phần tài sản nào được xác định là di sản của ông A trong trường hợp không có thỏa thuận khác?",
+    "a": "Toàn bộ căn nhà trị giá 10 tỷ đồng.",
+    "b": "Không có phần nào vì đây là tài sản chung.",
+    "c": "Phần tài sản của ông A trong khối tài sản chung, thông thường được xác định là 1/2 giá trị căn nhà.",
+    "d": "Chỉ phần giá trị do ông A trực tiếp tạo lập.",
+    "answer": "c",
+    "explanation": "Theo khoản 2 Điều 66 Luật Hôn nhân và Gia đình 2014, khi một bên vợ hoặc chồng chết thì tài sản chung được chia đôi, trừ trường hợp có thỏa thuận khác hoặc pháp luật có quy định khác. Chỉ phần tài sản thuộc người chết mới trở thành di sản để định đoạt bằng di chúc."
+  },
+  {
+    "question": "Sau khi ông A qua đời, người thân, bạn bè đến viếng và phúng điếu số tiền 500 triệu đồng. Khoản tiền phúng điếu này có được xác định là di sản thừa kế của ông A hay không?",
+    "a": "Có, vì phát sinh từ sự kiện ông A chết.",
+    "b": "Có, vì thuộc khối tài sản liên quan đến người chết.",
+    "c": "Không, vì khoản tiền này phát sinh sau thời điểm mở thừa kế và không thuộc tài sản của ông A khi còn sống.",
+    "d": "Chỉ được xem là di sản nếu người chết có di chúc.",
+    "answer": "c",
+    "explanation": "Theo Điều 612 Bộ luật Dân sự 2015, di sản bao gồm tài sản riêng của người chết và phần tài sản của người chết trong khối tài sản chung với người khác tại thời điểm mở thừa kế. Tiền phúng điếu phát sinh sau khi người chết qua đời nên không phải là tài sản thuộc sở hữu của người chết tại thời điểm mở thừa kế và không được xem là di sản thừa kế."
+  },
+  {
+    "question": "Khoản tiền phúng điếu do người thân, bạn bè đóng góp để phục vụ việc tang lễ của người đã chết thường được hiểu là tài sản của ai?",
+    "a": "Đương nhiên là di sản của người chết.",
+    "b": "Thuộc Nhà nước.",
+    "c": "Thuộc những người tổ chức mai táng, quản lý theo phong tục, tập quán hoặc theo sự thỏa thuận của những người có liên quan.",
+    "d": "Đương nhiên thuộc tất cả những người thừa kế theo pháp luật.",
+    "answer": "c",
+    "explanation": "Pháp luật hiện hành không quy định tiền phúng điếu là di sản thừa kế. Việc quản lý và sử dụng tiền phúng điếu thường được xác định theo mục đích người phúng viếng, phong tục tập quán và sự thỏa thuận của những người có liên quan."
+  },
+  {
+    "question": "Ông A chết để lại căn nhà trị giá 5 tỷ đồng là tài sản riêng và số tiền phúng điếu 1 tỷ đồng phát sinh sau khi ông A qua đời. Khi xác định di sản thừa kế của ông A, khoản tài sản nào được tính vào di sản?",
+    "a": "Cả căn nhà và tiền phúng điếu.",
+    "b": "Chỉ căn nhà trị giá 5 tỷ đồng.",
+    "c": "Chỉ tiền phúng điếu.",
+    "d": "Không có tài sản nào là di sản.",
+    "answer": "b",
+    "explanation": "Theo Điều 612 Bộ luật Dân sự 2015, di sản chỉ bao gồm tài sản thuộc quyền sở hữu của người chết tại thời điểm mở thừa kế. Tiền phúng điếu phát sinh sau khi người chết qua đời nên không phải là di sản thừa kế."
+  },
      {
     "question": "Ông A lập di chúc để lại toàn bộ tài sản cho người cháu đang là thai nhi trong bụng mẹ. Việc chỉ định thai nhi là người thừa kế theo di chúc được hiểu như thế nào?",
     "a": "Không được vì thai nhi chưa phải là cá nhân.",
