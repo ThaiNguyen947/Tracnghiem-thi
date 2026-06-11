@@ -1,5 +1,50 @@
 [
      {
+    "question": "Ông A lập di chúc để lại toàn bộ quyền sử dụng đất cho ông B và yêu cầu ông B có nghĩa vụ thờ cúng ông A sau khi ông A qua đời. Nội dung di chúc này được xử lý như thế nào?",
+    "a": "Vô hiệu vì người nhận di sản không được gắn với nghĩa vụ.",
+    "b": "Hợp pháp nếu việc giao nghĩa vụ không trái pháp luật, đạo đức xã hội.",
+    "c": "Chỉ hợp pháp khi ông B là người thân thích của ông A.",
+    "d": "Chỉ có hiệu lực đối với nghĩa vụ thờ cúng, không có hiệu lực đối với việc để lại di sản.",
+    "answer": "b",
+    "explanation": "Theo Điều 626 Bộ luật Dân sự 2015, người lập di chúc có quyền chỉ định người thừa kế và giao nghĩa vụ cho người thừa kế. Theo Điều 645 Bộ luật Dân sự 2015, người lập di chúc có thể dành một phần di sản để thờ cúng hoặc giao nghĩa vụ liên quan đến việc thờ cúng cho người thừa kế."
+  },
+  {
+    "question": "Ông A muốn lập di chúc để lại nhà đất cho người đang mắc bệnh tâm thần. Việc chỉ định người này là người thừa kế có được pháp luật cho phép không?",
+    "a": "Không được vì người mắc bệnh tâm thần không có năng lực hành vi dân sự đầy đủ.",
+    "b": "Chỉ được nếu có sự đồng ý của người giám hộ.",
+    "c": "Được, vì mọi cá nhân còn sống tại thời điểm mở thừa kế đều có thể là người thừa kế nếu không thuộc trường hợp bị tước quyền hưởng di sản.",
+    "d": "Chỉ được nhận động sản, không được nhận bất động sản.",
+    "answer": "c",
+    "explanation": "Theo Điều 613 Bộ luật Dân sự 2015, người thừa kế là cá nhân phải còn sống vào thời điểm mở thừa kế. Pháp luật không cấm người mất hoặc bị hạn chế năng lực hành vi dân sự trở thành người thừa kế. Việc quản lý, định đoạt tài sản của họ được thực hiện thông qua người đại diện theo pháp luật theo quy định của Bộ luật Dân sự 2015."
+  },
+  {
+    "question": "Ông A muốn lập di chúc để lại nhà ở tại Việt Nam cho một cá nhân là người nước ngoài. Việc định đoạt này có được pháp luật cho phép không?",
+    "a": "Không được trong mọi trường hợp.",
+    "b": "Được nếu người nước ngoài thuộc đối tượng được sở hữu nhà ở tại Việt Nam theo Luật Nhà ở.",
+    "c": "Chỉ được nếu người nước ngoài đã nhập quốc tịch Việt Nam.",
+    "d": "Chỉ được để lại giá trị bằng tiền của căn nhà.",
+    "answer": "b",
+    "explanation": "Theo Điều 161 Luật Nhà ở 2023, cá nhân nước ngoài thuộc đối tượng được sở hữu nhà ở tại Việt Nam có quyền nhận thừa kế nhà ở. Trường hợp không thuộc đối tượng được sở hữu nhà ở thì được giải quyết theo quy định của pháp luật về nhà ở và pháp luật dân sự."
+  },
+  {
+    "question": "Ông A muốn lập di chúc để lại toàn bộ tài sản cho một tổ chức. Tổ chức được chỉ định là người thừa kế có nhất thiết phải là pháp nhân Việt Nam hay không?",
+    "a": "Bắt buộc phải là pháp nhân Việt Nam.",
+    "b": "Bắt buộc phải là cơ quan nhà nước Việt Nam.",
+    "c": "Không nhất thiết phải là pháp nhân Việt Nam, miễn tổ chức đó tồn tại hợp pháp vào thời điểm mở thừa kế.",
+    "d": "Chỉ được là tổ chức xã hội hoặc tổ chức từ thiện.",
+    "answer": "c",
+    "explanation": "Theo Điều 613 Bộ luật Dân sự 2015, người thừa kế theo di chúc có thể là cơ quan, tổ chức. Điều kiện là cơ quan, tổ chức đó phải tồn tại vào thời điểm mở thừa kế. Pháp luật không quy định bắt buộc phải là pháp nhân Việt Nam."
+  },
+  {
+    "question": "Theo quy định của Bộ luật Dân sự 2015, tổ chức được chỉ định là người thừa kế theo di chúc có bắt buộc phải có tư cách pháp nhân hay không?",
+    "a": "Có, mọi trường hợp đều phải là pháp nhân.",
+    "b": "Không, pháp luật chỉ yêu cầu tổ chức đó tồn tại vào thời điểm mở thừa kế.",
+    "c": "Chỉ các tổ chức nước ngoài mới phải có tư cách pháp nhân.",
+    "d": "Chỉ các tổ chức nhận bất động sản mới phải có tư cách pháp nhân.",
+    "answer": "b",
+    "explanation": "Điều 613 Bộ luật Dân sự 2015 quy định cơ quan, tổ chức là người thừa kế theo di chúc nếu tồn tại vào thời điểm mở thừa kế. Điều luật không đặt ra điều kiện bắt buộc tổ chức phải có tư cách pháp nhân."
+  },
+     {
     "question": "Ông A sở hữu một căn nhà tại quận Ninh Kiều, TP. Cần Thơ. Khi ông A chết, gia đình nhận được 1 tỷ đồng tiền phúng điếu, 50 triệu đồng tiền mai táng phí và trợ cấp tuất. Xác định di sản thừa kế của ông A?",
     "a": "Căn nhà và toàn bộ 1,05 tỷ đồng.",
     "b": "Căn nhà và 1 tỷ đồng tiền phúng điếu.",
