@@ -1,4 +1,58 @@
-[
+[  
+  {
+    "question": "Ông A và bà B lập di chúc chung vợ chồng. Năm 2018 ông A chết, năm 2019 cha mẹ ông A chết, năm 2020 bà B chết. Khi di chúc chung phát sinh hiệu lực vào năm 2020, cha mẹ ông A đã chết. Trong trường hợp này, việc xác định quyền hưởng di sản của cha mẹ ông A cần căn cứ vào yếu tố nào?",
+    "a": "Chỉ căn cứ thời điểm ông A chết năm 2018.",
+    "b": "Chỉ căn cứ thời điểm cha mẹ ông A chết năm 2019.",
+    "c": "Xác định hiệu lực của di chúc chung và điều kiện tồn tại của người thừa kế tại thời điểm mở thừa kế tương ứng.",
+    "d": "Cha mẹ ông A đương nhiên được hưởng toàn bộ phần di sản bắt buộc.",
+    "answer": "c",
+    "explanation": "Trường hợp di chúc chung của vợ chồng theo Bộ luật Dân sự 2005 làm phát sinh nhiều tranh luận thực tiễn liên quan đến người thừa kế không phụ thuộc nội dung di chúc. Khi giải quyết phải xem xét thời điểm mở thừa kế, thời điểm phát sinh hiệu lực của di chúc và điều kiện hưởng di sản của từng chủ thể theo quy định pháp luật áp dụng."
+  },
+{
+  "question": "Ông A và bà B lập di chúc chung của vợ chồng theo quy định của Bộ luật Dân sự 2005. Năm 2018 ông A chết, năm 2019 cha mẹ ông A (thuộc diện người thừa kế không phụ thuộc nội dung di chúc) chết, năm 2020 bà B chết. Khi giải quyết thừa kế, nội dung nào sau đây cần được xem xét?",
+  "a": "Cha mẹ ông A đương nhiên không được hưởng di sản vì đã chết trước thời điểm di chúc chung có hiệu lực.",
+  "b": "Cha mẹ ông A đương nhiên được hưởng toàn bộ di sản của ông A.",
+  "c": "Cần xem xét mối quan hệ giữa thời điểm phát sinh quyền hưởng phần di sản bắt buộc của cha mẹ ông A và thời điểm di chúc chung của vợ chồng có hiệu lực.",
+  "d": "Di chúc chung đương nhiên vô hiệu vì một bên vợ chồng đã chết trước.",
+  "answer": "c",
+  "explanation": "Theo Điều 668 Bộ luật Dân sự 2005, di chúc chung của vợ chồng có hiệu lực từ thời điểm người sau cùng chết. Tuy nhiên, trong trường hợp người thừa kế không phụ thuộc nội dung di chúc theo Điều 669 Bộ luật Dân sự 2005 chết trước thời điểm di chúc chung có hiệu lực thì cần xem xét thời điểm phát sinh quyền hưởng phần di sản bắt buộc và hậu quả pháp lý của việc người đó chết trước thời điểm di chúc chung phát sinh hiệu lực."
+},
+  {
+    "question": "Năm 2016 ông A lập di chúc để lại tài sản cho vợ B và hai con C, D. Năm 2018 C chết, để lại vợ K và con K1. Năm 2020 ông A chết. Đối với phần di sản mà ông A để lại cho C trong di chúc, xử lý như thế nào?",
+    "a": "C vẫn được hưởng vì được chỉ định trong di chúc.",
+    "b": "Phần di chúc liên quan đến C không có hiệu lực do C chết trước ông A.",
+    "c": "K đương nhiên được thay thế C nhận di sản.",
+    "d": "K1 đương nhiên được hưởng toàn bộ phần của C theo thừa kế thế vị.",
+    "answer": "b",
+    "explanation": "Theo khoản 2 Điều 643 Bộ luật Dân sự 2015, nếu người thừa kế theo di chúc chết trước hoặc chết cùng thời điểm với người lập di chúc thì phần di chúc liên quan đến người đó không có hiệu lực."
+  },
+  {
+    "question": "Trong tình huống ông A lập di chúc cho C nhưng C chết trước ông A, con của C là K1 có được hưởng thừa kế thế vị đối với phần di sản mà C được chỉ định trong di chúc hay không?",
+    "a": "Có, vì mọi trường hợp con chết trước đều phát sinh thừa kế thế vị.",
+    "b": "Không, vì thừa kế thế vị chỉ áp dụng đối với thừa kế theo pháp luật.",
+    "c": "Có, nếu K đồng ý.",
+    "d": "Có, nếu được tất cả người thừa kế chấp thuận.",
+    "answer": "b",
+    "explanation": " Điều 652 Bộ luật Dân sự 2015 quy định thừa kế thế vị là chế định của thừa kế theo pháp luật. Trường hợp người được chỉ định trong di chúc chết trước người lập di chúc thì phần di chúc đó không có hiệu lực theo Điều 643 Bộ luật Dân sự 2015 và không đương nhiên phát sinh thừa kế thế vị."
+  },
+  {
+    "question": "Người được chỉ định hưởng di sản theo di chúc từ chối nhận di sản. Người đó có còn được hưởng thừa kế theo pháp luật hay không?",
+    "a": "Không, vì đã từ chối một lần thì mất mọi quyền thừa kế.",
+    "b": "Không, trừ khi được các đồng thừa kế đồng ý.",
+    "c": "Vẫn có thể được hưởng thừa kế theo pháp luật nếu thuộc hàng thừa kế và không từ chối đối với phần thừa kế theo pháp luật.",
+    "d": "Chỉ được hưởng nếu có quyết định của Tòa án.",
+    "answer": "c",
+    "explanation": "Bộ luật Dân sự 2015 không có quy định nào xác định việc từ chối nhận di sản theo di chúc đồng nghĩa với việc mất quyền hưởng di sản theo pháp luật. Việc xác định quyền hưởng thừa kế theo pháp luật được thực hiện theo các quy định riêng của pháp luật về thừa kế."
+  },
+  {
+    "question": "Giấy chứng nhận quyền sử dụng đất được cấp cho hộ gia đình ông A. Năm 2014 ông A chết. Khi công chứng văn bản thỏa thuận phân chia di sản, ngoài việc xác định người thừa kế của ông A, công chứng viên cần lưu ý nội dung nào sau đây?",
+    "a": "Chỉ cần xác định người chết và người thừa kế.",
+    "b": "Chỉ cần xác định diện tích đất.",
+    "c": "Phải xác định thành viên hộ gia đình có quyền sử dụng đất tại thời điểm được cấp Giấy chứng nhận và ý chí của họ đối với việc xác định phần di sản của ông A.",
+    "d": "Không cần xác định các thành viên hộ gia đình.",
+    "answer": "c",
+    "explanation": "Đối với quyền sử dụng đất cấp cho hộ gia đình, cần xác định những người có quyền sử dụng đất chung tại thời điểm được Nhà nước giao đất, cho thuê đất hoặc công nhận quyền sử dụng đất. Chỉ phần quyền của ông A trong khối tài sản chung của hộ gia đình mới là di sản để thừa kế."
+  },
        {
     "question": "Ông A lập di chúc năm 2014. Năm 2018 ông A qua đời. Khi đánh giá tính hợp pháp của di chúc về chủ thể lập di chúc, hình thức di chúc và nội dung di chúc thì áp dụng văn bản nào?",
     "a": "Bộ luật Dân sự 2015.",
