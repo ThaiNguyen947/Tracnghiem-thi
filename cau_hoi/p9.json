@@ -1,5 +1,59 @@
 [
        {
+    "question": "Ông A lập di chúc năm 2014. Năm 2018 ông A qua đời. Khi đánh giá tính hợp pháp của di chúc về chủ thể lập di chúc, hình thức di chúc và nội dung di chúc thì áp dụng văn bản nào?",
+    "a": "Bộ luật Dân sự 2015.",
+    "b": "Bộ luật Dân sự 2005.",
+    "c": "Luật Công chứng 2024.",
+    "d": "Luật Hôn nhân và Gia đình 2014.",
+    "answer": "b",
+    "explanation": "Tính hợp pháp của di chúc được xem xét theo pháp luật có hiệu lực tại thời điểm lập di chúc. Trường hợp di chúc được lập năm 2014 thì các điều kiện về chủ thể, hình thức, nội dung và đối tượng của di chúc được đánh giá theo Bộ luật Dân sự 2005."
+  },
+  {
+    "question": "Ông A lập di chúc năm 2014 và qua đời năm 2018. Khi xác định người thừa kế, di sản thừa kế và quyền hưởng di sản thì áp dụng pháp luật nào?",
+    "a": "Bộ luật Dân sự 2005.",
+    "b": "Bộ luật Dân sự 2015.",
+    "c": "Luật Công chứng 2014.",
+    "d": "Luật Công chứng 2024.",
+    "answer": "b",
+    "explanation": "Thời điểm mở thừa kế là thời điểm người có tài sản chết theo Điều 611 Bộ luật Dân sự 2015. Ông A chết năm 2018 nên các vấn đề liên quan đến người thừa kế, di sản và quyền hưởng di sản được xác định theo Bộ luật Dân sự 2015."
+  },
+  {
+    "question": "Năm 2026, các đồng thừa kế yêu cầu công chứng văn bản khai nhận di sản đối với di sản của ông A chết năm 2018. Trình tự, thủ tục công chứng được áp dụng theo văn bản nào?",
+    "a": "Bộ luật Dân sự 2005.",
+    "b": "Bộ luật Dân sự 2015.",
+    "c": "Luật Công chứng có hiệu lực tại thời điểm yêu cầu công chứng.",
+    "d": "Luật Công chứng có hiệu lực tại thời điểm ông A chết.",
+    "answer": "c",
+    "explanation": "Thủ tục công chứng được thực hiện theo quy định của pháp luật công chứng đang có hiệu lực tại thời điểm tiếp nhận và giải quyết yêu cầu công chứng. Nếu thực hiện hiện nay thì áp dụng Luật Công chứng 2024."
+  },
+  {
+    "question": "Ông A và bà B có tài sản chung của vợ chồng. Ông A chết năm 2018. Khi giải quyết thừa kế, phương án nào phù hợp hơn để bảo đảm quyền định đoạt của bà B đối với phần tài sản của mình?",
+    "a": "Phong tỏa toàn bộ tài sản chung cho đến khi tất cả đồng sở hữu qua đời.",
+    "b": "Xác định toàn bộ tài sản chung là di sản của ông A.",
+    "c": "Xác định phần tài sản của bà B trong khối tài sản chung và chỉ đưa phần của ông A vào khối di sản thừa kế.",
+    "d": "Chuyển toàn bộ tài sản cho những người thừa kế của ông A.",
+    "answer": "c",
+    "explanation": "Khoản 2 Điều 66 Luật Hôn nhân và Gia đình 2014 quy định khi một bên vợ hoặc chồng chết thì tài sản chung được chia đôi, trừ trường hợp có thỏa thuận khác. Phần của người còn sống thuộc quyền sở hữu của họ, phần của người chết mới là di sản để khai nhận hoặc phân chia thừa kế."
+  },
+  {
+    "question": "Di chúc chung - Quan điểm cho rằng phải chờ cả ông A và bà B đều qua đời mới được thực hiện việc khai nhận hoặc phân chia đối với phần di sản của ông A có thể dẫn đến hệ quả nào sau đây?",
+    "a": "Bảo đảm tốt hơn quyền định đoạt của người còn sống.",
+    "b": "Không ảnh hưởng đến quyền của bà B.",
+    "c": "Hạn chế quyền sở hữu và quyền định đoạt hợp pháp của bà B đối với phần tài sản thuộc sở hữu của mình.",
+    "d": "Làm tăng giá trị tài sản chung.",
+    "answer": "c",
+    "explanation": "Nếu không tách phần tài sản của người còn sống ra khỏi khối tài sản chung thì người còn sống sẽ không thể thực hiện đầy đủ các quyền của chủ sở hữu đối với phần tài sản thuộc về mình, ảnh hưởng đến quyền sở hữu được pháp luật bảo vệ."
+  },
+  {
+    "question": "Khi xử lý hồ sơ thừa kế có yếu tố chuyển tiếp giữa Bộ luật Dân sự 2005 và Bộ luật Dân sự 2015, nguyên tắc áp dụng pháp luật nào sau đây là phù hợp nhất?",
+    "a": "Áp dụng duy nhất một bộ luật cho toàn bộ vụ việc.",
+    "b": "Áp dụng Bộ luật Dân sự 2005 cho mọi vấn đề vì di chúc được lập trước năm 2017.",
+    "c": "Áp dụng Bộ luật Dân sự 2015 cho mọi vấn đề vì thời điểm công chứng diễn ra sau năm 2017.",
+    "d": "Phân biệt từng quan hệ pháp luật theo thời điểm phát sinh để xác định văn bản áp dụng tương ứng.",
+    "answer": "d",
+    "explanation": "Đối với hồ sơ thừa kế có yếu tố chuyển tiếp, cần tách riêng các vấn đề như tính hợp pháp của di chúc, thời điểm mở thừa kế, xác định người thừa kế và thủ tục công chứng để áp dụng đúng văn bản pháp luật tương ứng với từng thời điểm phát sinh quan hệ pháp luật."
+  },
+       {
     "question": "Ông A lập di chúc với nội dung: 'Tôi để lại cho anh B toàn bộ căn nhà và mọi hoa lợi, lợi tức phát sinh từ căn nhà đến thời điểm tôi chết'. Sau khi ông A qua đời, anh B có được hưởng các khoản hoa lợi, lợi tức đó hay không?",
     "a": "Không, vì hoa lợi, lợi tức không được để lại thừa kế.",
     "b": "Có, vì hoa lợi, lợi tức đã phát sinh trước thời điểm mở thừa kế là một phần của di sản.",
