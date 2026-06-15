@@ -379,13 +379,13 @@
   "explanation": "Điều 5 Luật Kinh doanh bất động sản 2023: 'Các loại bất động sản được đưa vào kinh doanh bao gồm: nhà ở có sẵn và nhà ở hình thành trong tương lai; công trình xây dựng có sẵn, công trình xây dựng hình thành trong tương lai; phần diện tích sàn xây dựng trong công trình xây dựng; quyền sử dụng đất đã có hạ tầng kỹ thuật trong dự án bất động sản; dự án bất động sản'."
 },
 {
-  "question": "Theo quy định của Luật Đất đai năm 2024, cơ quan nào có thẩm quyền cho phép cá nhân sử dụng đất chuyển mục đích sử dụng đất nông nghiệp để sử dụng vào mục đích thương mại, dịch vụ với diện tích từ 0,5 ha trở lên?",
-  "a": "Ủy ban nhân dân cấp tỉnh.",
-  "b": "Ủy ban nhân dân cấp huyện và phải có văn bản chấp thuận của Ủy ban nhân dân cấp tỉnh trước khi quyết định.",
-  "c": "Ủy ban nhân dân cấp xã.",
-  "d": "Đáp án a và b đúng, c sai.",
-  "answer": "a",
-  "explanation": "Khoản 1 Điều 123 Luật Đất đai 2024: 'Ủy ban nhân dân cấp tỉnh quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất đối với tổ chức trong nước, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài và các trường hợp khác thuộc thẩm quyền'. Khoản 2 Điều 123 Luật Đất đai 2024 không còn quy định trường hợp cá nhân chuyển mục đích sử dụng đất nông nghiệp từ 0,5 ha trở lên phải có văn bản chấp thuận của UBND cấp tỉnh như Luật Đất đai 2013."
+  "question": "Ông A xin chuyển 0,8 ha đất nông nghiệp sang đất sử dụng vào mục đích thương mại, dịch vụ. Theo Luật Đất đai 2024, cơ quan nào ban hành quyết định cho phép chuyển mục đích sử dụng đất?",
+  "a": "Ủy ban nhân dân cấp tỉnh",
+  "b": "Ủy ban nhân dân cấp huyện",
+  "c": "Ủy ban nhân dân cấp xã",
+  "d": "Sở Nông nghiệp và Môi trường",
+  "answer": "b",
+  "explanation": "UBND cấp huyện là cơ quan ban hành quyết định cho phép chuyển mục đích sử dụng đất đối với cá nhân. Tuy nhiên, do diện tích từ 0,5 ha trở lên nên trước khi quyết định phải có văn bản chấp thuận của UBND cấp tỉnh theo điểm a khoản 2 Điều 123 Luật Đất đai 2024."
 },
 {
   "question": "Theo quy định của Luật Kinh doanh bất động sản năm 2023, bên mua, bên thuê mua chưa được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản khác gắn liền với đất theo quy định của pháp luật về đất đai thì bên bán, bên cho thuê mua không được thu quá:",
