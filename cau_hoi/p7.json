@@ -2555,15 +2555,15 @@
     "answer": "a",
     "explanation": "Theo điểm a khoản 2 Điều 172 Luật Nhà ở 2023, bên cho thuê có quyền đơn phương chấm dứt hợp đồng khi cho thuê nhà ở xã hội không đúng đối tượng."
   },
-  {
-    "question": "Theo Luật Nhà ở 2023, bên cho thuê có quyền đơn phương chấm dứt hợp đồng khi giao dịch cho thuê vi phạm điều kiện gì về chủ thể?",
-    "a": "Cho thuê không đúng thẩm quyền",
-    "b": "Bên cho thuê không phải là chủ sở hữu hợp pháp",
-    "c": "Hợp đồng không có công chứng",
-    "d": "Bên thuê không có hộ khẩu tại địa phương",
-    "answer": "a",
-    "explanation": "Theo điểm a khoản 2 Điều 172 Luật Nhà ở 2023, bên cho thuê có quyền đơn phương chấm dứt hợp đồng khi cho thuê không đúng thẩm quyền."
-  },
+ {
+  "question": "Theo Luật Nhà ở 2023, bên cho thuê có quyền đơn phương chấm dứt thực hiện hợp đồng thuê nhà ở trong trường hợp nào sau đây?",
+  "a": "Bên cho thuê thực hiện việc cho thuê không đúng thẩm quyền",
+  "b": "Bên thuê không có hộ khẩu tại địa phương nơi có nhà ở",
+  "c": "Hợp đồng thuê nhà ở không được công chứng",
+  "d": "Bên thuê là người nước ngoài",
+  "answer": "a",
+  "explanation": "Theo điểm a khoản 2 Điều 172 Luật Nhà ở 2023, bên cho thuê có quyền đơn phương chấm dứt thực hiện hợp đồng khi việc cho thuê được thực hiện không đúng thẩm quyền."
+},
   {
     "question": "Theo Luật Nhà ở 2023, hành vi nào của bên thuê là căn cứ để bên cho thuê đơn phương chấm dứt hợp đồng do sai mục đích?",
     "a": "Tự ý sử dụng nhà ở không đúng mục đích đã thỏa thuận",
