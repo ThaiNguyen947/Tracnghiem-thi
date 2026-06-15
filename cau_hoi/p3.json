@@ -5079,15 +5079,15 @@
     "answer": "b",
     "explanation": "Căn cứ khoản 3 Điều 3 và khoản 1 Điều 5 Nghị định 23/2015/NĐ-CP, chứng thực chữ ký phải xác nhận người ký đã ký trực tiếp trước người thực hiện chứng thực, không được ký thay hoặc vắng mặt."
   },
-  {
-    "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người dân yêu cầu UBND xã xác nhận hợp đồng mua bán đất là hợp pháp. UBND xã xử lý thế nào?",
-    "a": "Xác nhận hợp đồng hợp pháp nếu đủ giấy tờ",
-    "b": "Chỉ chứng thực chữ ký trong hợp đồng",
-    "c": "Từ chối vì không thuộc thẩm quyền",
-    "d": "Chuyển sang Phòng Tư pháp",
-    "answer": "b",
-    "explanation": "Căn cứ khoản 1 Điều 5 Nghị định 23/2015/NĐ-CP, chứng thực giao dịch chỉ xác nhận thời gian, địa điểm, chữ ký và năng lực hành vi, không xác nhận tính hợp pháp của nội dung hợp đồng."
-  },
+ {
+  "question": "Nhận định nào sau đây đúng về giá trị pháp lý của hợp đồng, giao dịch được chứng thực theo Nghị định 23/2015/NĐ-CP?",
+  "a": "Việc chứng thực đồng nghĩa với việc cơ quan chứng thực bảo đảm toàn bộ nội dung hợp đồng là hợp pháp",
+  "b": "Người thực hiện chứng thực chịu trách nhiệm về nội dung kinh tế của hợp đồng",
+  "c": "Người yêu cầu chứng thực chịu trách nhiệm về nội dung và tính hợp pháp của hợp đồng, giao dịch",
+  "d": "Sau khi chứng thực, hợp đồng không thể bị Tòa án tuyên vô hiệu",
+  "answer": "c",
+  "explanation": "Theo Điều 5 Nghị định 23/2015/NĐ-CP, người yêu cầu chứng thực chịu trách nhiệm về nội dung và tính hợp pháp của hợp đồng, giao dịch; người thực hiện chứng thực chịu trách nhiệm về thời gian, địa điểm giao kết, năng lực hành vi dân sự, ý chí tự nguyện và chữ ký hoặc điểm chỉ của các bên."
+},
   {
     "question": "Theo Nghị định 23/2015/NĐ-CP đã được sửa đổi, bổ sung tại NĐ 07/2025/NĐ-CP và NĐ 280/2025/NĐ-CP, người dân nộp bản sao điện tử hợp lệ nhưng cơ quan yêu cầu nộp thêm bản giấy có chứng thực. Việc này đúng hay sai?",
     "a": "Đúng vì bản giấy luôn bắt buộc",
