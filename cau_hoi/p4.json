@@ -1269,8 +1269,17 @@
     "answer": "b",
     "explanation": "Theo Điều 391 BLDS 2015, đề nghị chấm dứt khi bên được đề nghị trả lời không chấp nhận."
   },
-  {
-    "question": "Khi bên được đề nghị chấp nhận nhưng sửa đổi nội dung đề nghị thì pháp lý được xác định là:",
+ {
+  "question": "Bên được đề nghị trả lời 'đồng ý' nhưng đồng thời sửa đổi giá cả, số lượng hoặc thời hạn thực hiện hợp đồng. Theo BLDS 2015, việc trả lời này được xác định là gì?",
+  "a": "Chấp nhận đề nghị",
+  "b": "Hợp đồng đã được giao kết",
+  "c": "Đề nghị giao kết hợp đồng mới",
+  "d": "Từ chối đề nghị",
+  "answer": "c",
+  "explanation": "Theo Điều 392 BLDS 2015, chấp nhận có kèm theo sửa đổi hoặc bổ sung nội dung của đề nghị được coi là một đề nghị mới."
+},
+   {
+    "question": "Khi bên được đề nghị chấp nhận nhưng có yêu cầu sửa đổi nội dung đề nghị thì pháp lý được xác định là:",
     "a": "Hợp đồng đã giao kết",
     "b": "Đề nghị vẫn giữ nguyên hiệu lực",
     "c": "Được coi là đề nghị mới",
