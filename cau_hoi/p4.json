@@ -1836,7 +1836,7 @@
     "answer": "c",
     "explanation": "Theo Điều 414 BLDS 2015, nếu không bên nào có lỗi thì bên không thực hiện nghĩa vụ không được yêu cầu bên kia thực hiện phần tương ứng."
   },
-  {
+   {
     "question": "Trong hợp đồng vì lợi ích người thứ ba, người thứ ba có quyền gì khi hợp đồng đang có tranh chấp giữa các bên?",
     "a": "Không có quyền gì cho đến khi tranh chấp xong",
     "b": "Có quyền hủy hợp đồng",
@@ -1972,14 +1972,14 @@
     "explanation": "Theo Điều 414 BLDS 2015, bên không thực hiện nghĩa vụ không có quyền yêu cầu phần tương ứng."
   },
   {
-    "question": "Trong hợp đồng vì lợi ích người thứ ba, quyền yêu cầu trực tiếp của người thứ ba phát sinh khi nào?",
-    "a": "Ngay khi hợp đồng được ký",
-    "b": "Khi người thứ ba đồng ý",
-    "c": "Khi bên có nghĩa vụ bắt đầu thực hiện",
-    "d": "Khi hợp đồng được đăng ký",
-    "answer": "a",
-    "explanation": "Điều 415 BLDS 2015 cho phép người thứ ba yêu cầu trực tiếp khi hợp đồng có hiệu lực vì lợi ích của họ."
-  },
+  "question": "Trong hợp đồng vì lợi ích của người thứ ba, khi nào người thứ ba có quyền trực tiếp yêu cầu bên có nghĩa vụ thực hiện nghĩa vụ đối với mình?",
+  "a": "Ngay khi hợp đồng được giao kết",
+  "b": "Khi người thứ ba đồng ý hưởng lợi ích từ hợp đồng",
+  "c": "Khi bên có nghĩa vụ bắt đầu thực hiện hợp đồng",
+  "d": "Khi hợp đồng được đăng ký tại cơ quan nhà nước",
+  "answer": "b",
+  "explanation": "Theo Điều 415 BLDS 2015, khi người thứ ba đồng ý hưởng lợi ích từ hợp đồng thì người thứ ba có quyền trực tiếp yêu cầu bên có nghĩa vụ thực hiện nghĩa vụ đối với mình."
+}
   {
     "question": "Trường hợp người thứ ba từ chối lợi ích sau khi nghĩa vụ đã được thực hiện thì hậu quả pháp lý là gì?",
     "a": "Hợp đồng bị hủy bỏ",
