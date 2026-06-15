@@ -1277,15 +1277,24 @@
     "answer": "c",
     "explanation": "Khoản 1 Điều 13 Luật Công chứng 2024: Bộ trưởng Bộ Tư pháp có thẩm quyền bổ nhiệm công chứng viên.Lưu ý có sbđ cho Chủ tịch bổ nhiệm r"
   },
-  {
-    "question": "Theo Luật Công chứng 2024 Để được đề nghị bổ nhiệm Công chứng viên, người có yêu cầu phải đáp ứng các điều kiện tiên quyết nào?",
-    "a": "Chỉ cần tốt nghiệp cử nhân luật và có thời gian công tác pháp luật từ đủ 03 năm",
-    "b": "Đáp ứng đầy đủ tiêu chuẩn quy định tại Điều 10 và không thuộc trường hợp không được bổ nhiệm quy định tại Điều 14",
-    "c": "Đã hoàn thành khóa đào tạo nghề công chứng và có ít nhất 05 năm kinh nghiệm hành nghề luật sư",
-    "d": "Đang công tác tại cơ quan nhà nước và được cơ quan chủ quản giới thiệu",
-    "answer": "b",
-    "explanation": "Khoản 1 Điều 13 Luật Công chứng 2024: Người đề nghị bổ nhiệm phải đáp ứng tiêu chuẩn Điều 10 và không thuộc trường hợp tại Điều 14."
-  },
+ {
+  "question": "Theo Luật Công chứng 2024, trường hợp nào sau đây đáp ứng đầy đủ điều kiện để được xem xét bổ nhiệm công chứng viên?",
+  "a": "Ông A, 68 tuổi, có bằng cử nhân luật, công tác pháp luật 04 năm, tốt nghiệp khóa đào tạo nghề công chứng, đạt yêu cầu kiểm tra kết quả tập sự và không thuộc trường hợp bị cấm.",
+  "b": "Ông B, 72 tuổi, có bằng tiến sĩ luật, công tác pháp luật 20 năm.",
+  "c": "Ông C, 45 tuổi, có bằng cử nhân luật, công tác pháp luật 02 năm, đã hoàn thành tập sự.",
+  "d": "Ông D, 50 tuổi, có bằng cử nhân luật, công tác pháp luật 10 năm nhưng đang là luật sư.",
+  "answer": "a",
+  "explanation": "Theo khoản 1 Điều 13 Luật Công chứng 2024, người được xem xét bổ nhiệm công chứng viên phải đáp ứng đầy đủ tiêu chuẩn tại Điều 10 yêu cầu: là công dân Việt Nam không quá 70 tuổi; thường trú tại Việt Nam; có bằng cử nhân luật, thạc sĩ luật hoặc tiến sĩ luật; có thời gian công tác pháp luật từ đủ 03 năm trở lên; tốt nghiệp khóa đào tạo nghề công chứng; đạt yêu cầu kiểm tra kết quả tập sự hành nghề công chứng. Điều 14 quy định không được bổ nhiệm đối với người đang bị truy cứu trách nhiệm hình sự; người đã bị kết án về tội phạm do cố ý; người bị hạn chế năng lực hành vi dân sự; người đang là cán bộ, công chức, viên chức (trừ trường hợp luật quy định); người đang là luật sư, đấu giá viên, thừa phát lại, quản tài viên và một số trường hợp khác. Ông A đáp ứng đầy đủ các điều kiện này."
+},
+{
+  "question": "Theo Luật Công chứng 2024, nhận định nào sau đây là đúng?",
+  "a": "Người có bằng cử nhân luật là đủ điều kiện được bổ nhiệm công chứng viên.",
+  "b": "Người đáp ứng đầy đủ các tiêu chuẩn về độ tuổi, trình độ luật, thời gian công tác pháp luật, đào tạo nghề công chứng và kết quả tập sự vẫn không được bổ nhiệm nếu đang là luật sư.",
+  "c": "Người đã bị kết án về tội phạm do cố ý nhưng đã được xóa án tích vẫn được xem xét bổ nhiệm công chứng viên.",
+  "d": "Người trên 70 tuổi vẫn được bổ nhiệm công chứng viên nếu có học vị tiến sĩ luật.",
+  "answer": "b",
+  "explanation": "Theo khoản 1 Điều 13 Luật Công chứng 2024, người được xem xét bổ nhiệm phải đồng thời đáp ứng các tiêu chuẩn Điều 10 yêu cầu công dân Việt Nam không quá 70 tuổi, có bằng luật, có thời gian công tác pháp luật từ đủ 03 năm, tốt nghiệp khóa đào tạo nghề công chứng và đạt yêu cầu kiểm tra kết quả tập sự. Khoản 6 Điều 14 quy định người đang là luật sư không được bổ nhiệm công chứng viên. Vì vậy, dù đáp ứng các tiêu chuẩn tại Điều 10 thì người đang hành nghề luật sư vẫn không đủ điều kiện được bổ nhiệm."
+},
   {
     "question": "Theo Luật Công chứng 2024 Trường hợp nào sau đây bị cấm bổ nhiệm Công chứng viên do yếu tố án tích?",
     "a": "Người đã từng bị kết án về tội do vô ý",
