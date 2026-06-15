@@ -1215,14 +1215,14 @@
     "explanation": "Căn cứ khoản 1 Điều 30 Luật Công chứng 2024: Văn phòng công chứng phải hoạt động ít nhất 02 năm mới được chuyển nhượng toàn bộ phần vốn góp."
   },
   {
-    "question": "Theo Luật Công chứng 2024, công chứng viên nhận chuyển nhượng phần vốn góp phải đáp ứng điều kiện nào?",
-    "a": "Có bằng cử nhân kinh tế",
-    "b": "Hành nghề từ đủ 02 năm trở lên",
-    "c": "Không cần điều kiện",
-    "d": "Là công chức nhà nước",
-    "answer": "b",
-    "explanation": "Căn cứ khoản 2 Điều 30 Luật Công chứng 2024: công chứng viên nhận chuyển nhượng phải hành nghề từ đủ 02 năm trở lên (trường hợp làm Trưởng Văn phòng)."
-  },
+  "question": "Theo Luật Công chứng 2024, nhận định nào sau đây đúng?",
+  "a": "Mọi công chứng viên nhận chuyển nhượng phần vốn góp đều phải có thời gian hành nghề từ đủ 02 năm trở lên.",
+  "b": "Điều kiện hành nghề từ đủ 02 năm trở lên được áp dụng trong trường hợp luật yêu cầu đối với người nhận chuyển nhượng để trở thành Trưởng Văn phòng công chứng.",
+  "c": "Người nhận chuyển nhượng phần vốn góp phải là công chức nhà nước.",
+  "d": "Người nhận chuyển nhượng phần vốn góp phải có bằng cử nhân kinh tế.",
+  "answer": "b",
+  "explanation": "Luật Công chứng 2024 không quy định chung rằng mọi công chứng viên nhận chuyển nhượng phần vốn góp đều phải hành nghề từ đủ 02 năm; điều kiện này gắn với trường hợp cụ thể theo Điều 30."
+},
   {
     "question": "Theo Luật Công chứng 2024, Trưởng Văn phòng công chứng được bán Văn phòng khi nào?",
     "a": "Ngay khi thành lập",
