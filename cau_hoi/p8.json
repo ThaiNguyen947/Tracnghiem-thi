@@ -1,4 +1,157 @@
 [
+    {
+  "question": "Trong các nội dung dưới đây, theo anh (chị) thì thỏa thuận nào đúng?",
+  "a": "Mọi nghĩa vụ phát sinh trong quá trình thực hiện giao dịch đều được bảo đảm bằng tài sản thế chấp.",
+  "b": "Mọi nghĩa vụ phát sinh trong thời hạn thực hiện hợp đồng vay đều được bảo đảm bằng tài sản thế chấp.",
+  "c": "Mọi nghĩa vụ phát sinh trong quá trình thực hiện hợp đồng thế chấp đều được bảo đảm bằng tài sản thế chấp.",
+  "d": "Cả 3 đều sai.",
+  "answer": "b",
+  "explanation": "Theo Điều 293 và Điều 319 Bộ luật Dân sự 2015, thế chấp tài sản là biện pháp bảo đảm thực hiện nghĩa vụ và các bên có quyền thỏa thuận về phạm vi nghĩa vụ được bảo đảm, bao gồm nghĩa vụ hiện tại, nghĩa vụ trong tương lai hoặc toàn bộ nghĩa vụ phát sinh từ hợp đồng vay. Do đó, thỏa thuận về việc mọi nghĩa vụ phát sinh trong thời hạn thực hiện hợp đồng vay được bảo đảm bằng tài sản thế chấp là phù hợp quy định pháp luật. Các phương án còn lại không xác định đúng phạm vi nghĩa vụ được bảo đảm hoặc không phù hợp với bản chất của biện pháp thế chấp."
+},
+  {
+    "question": "Theo quy định của Bộ luật Dân sự 2015, các bên trong hợp đồng thế chấp có thể thỏa thuận tài sản thế chấp bảo đảm cho nghĩa vụ nào dưới đây?",
+    "a": "Chỉ nghĩa vụ hiện tại.",
+    "b": "Chỉ nghĩa vụ đã xác định cụ thể tại thời điểm giao kết.",
+    "c": "Nghĩa vụ hiện tại, nghĩa vụ trong tương lai hoặc toàn bộ nghĩa vụ trong phạm vi các bên thỏa thuận.",
+    "d": "Chỉ nghĩa vụ trả nợ gốc.",
+    "answer": "c",
+    "explanation": "Theo Điều 293 Bộ luật Dân sự 2015, phạm vi nghĩa vụ được bảo đảm do các bên thỏa thuận và có thể bao gồm nghĩa vụ hiện tại, nghĩa vụ trong tương lai hoặc toàn bộ nghĩa vụ."
+  },
+  {
+    "question": "Ông A vay của Ngân hàng B 1 tỷ đồng và thế chấp quyền sử dụng đất. Hợp đồng thế chấp quy định tài sản thế chấp bảo đảm cho toàn bộ nghĩa vụ phát sinh từ hợp đồng vay. Trong trường hợp ông A chậm trả nợ, khoản lãi quá hạn có được bảo đảm bằng tài sản thế chấp không?",
+    "a": "Không, vì tài sản thế chấp chỉ bảo đảm nợ gốc.",
+    "b": "Không, trừ khi có hợp đồng bảo đảm riêng.",
+    "c": "Có, nếu thuộc phạm vi nghĩa vụ được bảo đảm theo thỏa thuận.",
+    "d": "Chỉ được bảo đảm khi có người bảo lãnh.",
+    "answer": "c",
+    "explanation": "Khi các bên thỏa thuận tài sản thế chấp bảo đảm cho toàn bộ nghĩa vụ phát sinh từ hợp đồng vay thì phạm vi bảo đảm có thể bao gồm nợ gốc, lãi, lãi quá hạn, phạt vi phạm và các nghĩa vụ tài chính khác."
+  },
+  {
+    "question": "Nhận định nào sau đây là đúng?",
+    "a": "Mọi nghĩa vụ của bên thế chấp đều mặc nhiên được bảo đảm bằng tài sản thế chấp.",
+    "b": "Phạm vi nghĩa vụ được bảo đảm phụ thuộc vào thỏa thuận của các bên hoặc quy định của pháp luật.",
+    "c": "Tài sản thế chấp chỉ bảo đảm cho nghĩa vụ đã phát sinh trước khi ký hợp đồng thế chấp.",
+    "d": "Nghĩa vụ trong tương lai không thể được bảo đảm bằng thế chấp.",
+    "answer": "b",
+    "explanation": "Theo Điều 293 Bộ luật Dân sự 2015, phạm vi nghĩa vụ được bảo đảm do các bên thỏa thuận hoặc do pháp luật quy định. Nghĩa vụ trong tương lai vẫn có thể được bảo đảm."
+  },
+  {
+    "question": "Bên vay và bên nhận thế chấp thỏa thuận tài sản thế chấp bảo đảm cho tất cả các khoản vay phát sinh giữa hai bên trong thời hạn 05 năm. Thỏa thuận này được đánh giá như thế nào?",
+    "a": "Vô hiệu vì chưa xác định cụ thể từng khoản vay.",
+    "b": "Chỉ có hiệu lực đối với khoản vay đầu tiên.",
+    "c": "Có hiệu lực nếu phù hợp với quy định về phạm vi nghĩa vụ được bảo đảm.",
+    "d": "Vô hiệu vì bảo đảm cho nghĩa vụ trong tương lai.",
+    "answer": "c",
+    "explanation": "Bộ luật Dân sự 2015 cho phép bảo đảm thực hiện nghĩa vụ trong tương lai. Do đó, các bên có thể thỏa thuận tài sản thế chấp bảo đảm cho các khoản vay phát sinh trong một khoảng thời gian nhất định."
+  },
+  {
+    "question": "Trong trường hợp hợp đồng thế chấp không có thỏa thuận về việc bảo đảm tiền phạt vi phạm, khi bên có nghĩa vụ vi phạm hợp đồng thì khoản tiền phạt vi phạm có thuộc phạm vi xử lý tài sản thế chấp hay không?",
+    "a": "Luôn thuộc phạm vi bảo đảm.",
+    "b": "Không thuộc phạm vi bảo đảm nếu không có thỏa thuận hoặc pháp luật không quy định.",
+    "c": "Đương nhiên thuộc phạm vi bảo đảm vì phát sinh từ hợp đồng chính.",
+    "d": "Chỉ thuộc phạm vi bảo đảm khi giá trị tài sản thế chấp lớn hơn nghĩa vụ.",
+    "answer": "b",
+    "explanation": "Phạm vi nghĩa vụ được bảo đảm được xác định theo thỏa thuận hoặc theo quy định pháp luật. Nếu không thuộc phạm vi bảo đảm thì không được thanh toán từ tài sản thế chấp."
+  },
+  {
+    "question": "Nhận định nào sau đây phù hợp với quy định của Bộ luật Dân sự 2015 về nghĩa vụ được bảo đảm?",
+    "a": "Chỉ nghĩa vụ đã phát sinh mới được bảo đảm.",
+    "b": "Nghĩa vụ trong tương lai không thể là đối tượng của biện pháp bảo đảm.",
+    "c": "Một tài sản có thể được dùng để bảo đảm cho nghĩa vụ trong tương lai nếu đáp ứng điều kiện luật định.",
+    "d": "Biện pháp bảo đảm chỉ áp dụng đối với nghĩa vụ trả tiền.",
+    "answer": "c",
+    "explanation": "Bộ luật Dân sự 2015 cho phép sử dụng biện pháp bảo đảm đối với nghĩa vụ trong tương lai và không giới hạn chỉ đối với nghĩa vụ trả tiền."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự 2015, phạm vi nghĩa vụ được bảo đảm được xác định chủ yếu bởi yếu tố nào sau đây?",
+    "a": "Ý chí của bên nhận bảo đảm.",
+    "b": "Thỏa thuận của các bên hoặc quy định của pháp luật.",
+    "c": "Giá trị của tài sản bảo đảm.",
+    "d": "Loại biện pháp bảo đảm được áp dụng.",
+    "answer": "b",
+    "explanation": "Theo Điều 293 Bộ luật Dân sự 2015, phạm vi nghĩa vụ được bảo đảm do các bên thỏa thuận hoặc do pháp luật quy định."
+  },
+  {
+    "question": "Nhận định nào sau đây là đúng?",
+    "a": "Chỉ nghĩa vụ hiện tại mới được bảo đảm.",
+    "b": "Nghĩa vụ trong tương lai không thể được bảo đảm.",
+    "c": "Nghĩa vụ hiện tại và nghĩa vụ trong tương lai đều có thể được bảo đảm.",
+    "d": "Chỉ nghĩa vụ trả tiền mới được bảo đảm.",
+    "answer": "c",
+    "explanation": "Theo Điều 293 Bộ luật Dân sự 2015, nghĩa vụ hiện tại và nghĩa vụ trong tương lai đều có thể là đối tượng của biện pháp bảo đảm."
+  },
+  {
+    "question": "Ông A thế chấp quyền sử dụng đất để bảo đảm cho toàn bộ nghĩa vụ phát sinh từ hợp đồng vay. Sau đó phát sinh khoản lãi chậm trả. Khoản lãi này có thuộc phạm vi bảo đảm hay không?",
+    "a": "Không, vì chỉ nợ gốc được bảo đảm.",
+    "b": "Có, nếu thuộc phạm vi nghĩa vụ được các bên thỏa thuận bảo đảm.",
+    "c": "Không, vì lãi chậm trả phát sinh sau thời điểm giao kết hợp đồng thế chấp.",
+    "d": "Chỉ được bảo đảm khi có thỏa thuận bổ sung.",
+    "answer": "b",
+    "explanation": "Nếu các bên thỏa thuận bảo đảm cho toàn bộ nghĩa vụ phát sinh từ hợp đồng vay thì lãi chậm trả có thể thuộc phạm vi bảo đảm."
+  },
+  {
+    "question": "Trong trường hợp hợp đồng thế chấp không đề cập đến khoản tiền phạt vi phạm, nhận định nào sau đây phù hợp nhất?",
+    "a": "Khoản phạt vi phạm đương nhiên thuộc phạm vi bảo đảm.",
+    "b": "Khoản phạt vi phạm không thuộc phạm vi bảo đảm nếu không có thỏa thuận hoặc pháp luật không quy định.",
+    "c": "Khoản phạt vi phạm luôn được thanh toán trước nợ gốc.",
+    "d": "Khoản phạt vi phạm chỉ được bảo đảm khi giá trị tài sản lớn hơn nghĩa vụ.",
+    "answer": "b",
+    "explanation": "Phạm vi nghĩa vụ được bảo đảm được xác định theo thỏa thuận hoặc theo quy định pháp luật."
+  },
+  {
+    "question": "Theo anh (chị), thỏa thuận nào dưới đây phù hợp với quy định của Bộ luật Dân sự 2015?",
+    "a": "Tài sản thế chấp bảo đảm cho mọi nghĩa vụ của bên thế chấp phát sinh trong tương lai với bất kỳ chủ thể nào.",
+    "b": "Tài sản thế chấp bảo đảm cho mọi nghĩa vụ phát sinh từ hợp đồng vay ký giữa các bên trong thời hạn 05 năm.",
+    "c": "Tài sản thế chấp chỉ được bảo đảm cho nghĩa vụ đã phát sinh trước khi ký hợp đồng thế chấp.",
+    "d": "Tài sản thế chấp không được dùng để bảo đảm nghĩa vụ trong tương lai.",
+    "answer": "b",
+    "explanation": "Các bên có quyền thỏa thuận phạm vi nghĩa vụ được bảo đảm, kể cả nghĩa vụ trong tương lai."
+  },
+  {
+    "question": "Nhận định nào sau đây không phù hợp với quy định của Bộ luật Dân sự 2015?",
+    "a": "Nghĩa vụ trong tương lai có thể được bảo đảm.",
+    "b": "Phạm vi nghĩa vụ được bảo đảm có thể do pháp luật quy định.",
+    "c": "Một tài sản có thể được dùng để bảo đảm nhiều nghĩa vụ nếu đáp ứng điều kiện luật định.",
+    "d": "Mọi nghĩa vụ phát sinh của bên bảo đảm đều mặc nhiên thuộc phạm vi bảo đảm.",
+    "answer": "d",
+    "explanation": "Không phải mọi nghĩa vụ của bên bảo đảm đều mặc nhiên thuộc phạm vi bảo đảm; phạm vi này phải được xác định theo thỏa thuận hoặc quy định pháp luật."
+  },
+  {
+    "question": "A thế chấp quyền sử dụng đất để bảo đảm khoản vay 2 tỷ đồng. Hợp đồng ghi nhận tài sản bảo đảm cho toàn bộ nghĩa vụ phát sinh từ hợp đồng vay. Khi xử lý tài sản bảo đảm, khoản nào sau đây có thể được ưu tiên xem xét thuộc phạm vi bảo đảm?",
+    "a": "Nợ gốc.",
+    "b": "Lãi trong hạn.",
+    "c": "Lãi quá hạn.",
+    "d": "Cả ba khoản trên nếu thuộc phạm vi thỏa thuận bảo đảm.",
+    "answer": "d",
+    "explanation": "Khi các bên thỏa thuận bảo đảm cho toàn bộ nghĩa vụ phát sinh từ hợp đồng vay thì phạm vi bảo đảm có thể bao gồm nợ gốc, lãi và các nghĩa vụ tài chính liên quan."
+  },
+  {
+    "question": "Theo quy định của Bộ luật Dân sự 2015, việc bảo đảm nghĩa vụ trong tương lai thể hiện nguyên tắc nào của pháp luật dân sự?",
+    "a": "Nguyên tắc bình đẳng.",
+    "b": "Nguyên tắc thiện chí, trung thực.",
+    "c": "Nguyên tắc tự do, tự nguyện cam kết, thỏa thuận.",
+    "d": "Nguyên tắc chịu trách nhiệm dân sự.",
+    "answer": "c",
+    "explanation": "Việc cho phép các bên thỏa thuận bảo đảm cả nghĩa vụ trong tương lai thể hiện nguyên tắc tự do, tự nguyện cam kết, thỏa thuận của pháp luật dân sự."
+  },
+  {
+    "question": "Bên vay và ngân hàng thỏa thuận tài sản thế chấp bảo đảm cho tất cả các khoản tín dụng phát sinh trong thời hạn hợp đồng. Thỏa thuận này được hiểu là:",
+    "a": "Bảo đảm cho nghĩa vụ hiện tại.",
+    "b": "Bảo đảm cho nghĩa vụ trong tương lai.",
+    "c": "Bảo đảm vô hiệu do chưa xác định cụ thể nghĩa vụ.",
+    "d": "Bảo đảm trái pháp luật.",
+    "answer": "b",
+    "explanation": "Các khoản tín dụng sẽ phát sinh trong tương lai là nghĩa vụ trong tương lai và có thể được bảo đảm theo Điều 293 Bộ luật Dân sự 2015."
+  },
+  {
+    "question": "Trong các nhận định sau, nhận định nào chính xác nhất?",
+    "a": "Giá trị tài sản bảo đảm quyết định phạm vi nghĩa vụ được bảo đảm.",
+    "b": "Loại tài sản bảo đảm quyết định phạm vi nghĩa vụ được bảo đảm.",
+    "c": "Phạm vi nghĩa vụ được bảo đảm phụ thuộc vào thỏa thuận của các bên hoặc quy định của pháp luật.",
+    "d": "Biện pháp thế chấp chỉ bảo đảm cho nghĩa vụ trả tiền.",
+    "answer": "c",
+    "explanation": "Theo Điều 293 Bộ luật Dân sự 2015, phạm vi nghĩa vụ được bảo đảm được xác định theo thỏa thuận hoặc theo quy định của pháp luật."
+  },
    {
     "question": "Mối quan hệ giữa hợp đồng tín dụng và hợp đồng thế chấp theo nguyên tắc chung được hiểu như thế nào?",
     "a": "Hợp đồng thế chấp là hợp đồng chính, hợp đồng tín dụng là hợp đồng phụ.",
