@@ -1,5 +1,104 @@
 [
  {
+  "question": "Theo quy định Bộ luật Dân 2015, khi việc chấm dứt hợp đồng ủy quyền có hiệu lực thì sẽ như thế nào?",
+  "a": "Các bên trong hợp đồng không phải chịu trách nhiệm về hợp đồng đã giao kết trước đó",
+  "b": "Những gì đã thực hiện vẫn có giá trị hiệu lực ràng buộc trách nhiệm các bên",
+  "c": "Người ủy quyền không phải chịu trách nhiệm toàn bộ đối với những hành vi, quyết định do người được ủy quyền đã thực hiện công việc ủy quyền trong phạm vi ủy quyền trước đây",
+  "d": "Chấm dứt quyền và nghĩa vụ giữa các bên từ thời điểm giao kết hợp đồng ủy quyền",
+  "answer": "b",
+  "explanation": "Khoản 3 Điều 422 Bộ luật Dân sự 2015 quy định khi hợp đồng chấm dứt thì các bên không phải tiếp tục thực hiện nghĩa vụ chưa thực hiện, nhưng các quyền, nghĩa vụ đã phát sinh và phần nghĩa vụ đã được thực hiện vẫn có giá trị pháp lý. Đối với hợp đồng ủy quyền, các giao dịch được xác lập hợp pháp trong phạm vi ủy quyền trước thời điểm chấm dứt vẫn làm phát sinh quyền, nghĩa vụ đối với các bên. Vì vậy, những gì đã thực hiện vẫn có giá trị hiệu lực ràng buộc trách nhiệm các bên."
+},
+{
+  "question": "Theo quy định Bộ luật Dân sự số 91/2015/QH13, nội dung nào phù hợp sau đây?",
+  "a": "Người bị mất năng lực hành vi dân sự là người bị bệnh tâm thần phân liệt hoặc mắc bệnh khác mà không thể nhận thức, làm chủ được hành vi, cảm xúc",
+  "b": "Người bị Toà án ra quyết định tuyên bố là người mất năng lực hành vi dân sự trên cơ sở kết luận giám định pháp y tâm thần",
+  "c": "Giao dịch dân sự của người mất năng lực hành vi dân sự phải do người đại diện theo pháp luật xác lập, thực hiện, trừ các giao dịch phục vụ cho nhu cầu sinh hoạt hàng ngày",
+  "d": "Khi không còn căn cứ tuyên bố một người mất năng lực hành vi dân sự thì Toà án ra quyết định khôi phục năng lực hành vi dân sự",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 22 Bộ luật Dân sự 2015 quy định người bị bệnh tâm thần hoặc mắc bệnh khác mà không thể nhận thức, làm chủ được hành vi thì theo yêu cầu của người có quyền, lợi ích liên quan hoặc cơ quan, tổ chức hữu quan, trên cơ sở kết luận giám định pháp y tâm thần, Tòa án ra quyết định tuyên bố người đó mất năng lực hành vi dân sự."
+},
+{
+  "question": "Theo quy định Bộ luật Dân sự 2015, chủ thể của giao dịch vẫn là người bị hạn chế năng lực hành vi dân sự hay người đại diện của họ?",
+  "a": "Đúng, là người bị hạn chế năng lực hành vi dân sự",
+  "b": "Sai, cả hai",
+  "c": "Đúng, nhưng phải có xác nhận đồng ý của người đại diện được ghi nhận trong bản án tuyên họ hạn chế năng lực hành vi dân sự",
+  "d": "Sai, không cần phải có xác nhận đồng ý của người đại diện được ghi nhận trong bản án tuyên họ hạn chế năng lực hành vi dân sự",
+  "answer": "c",
+  "explanation": "Khoản 2 Điều 24 Bộ luật Dân sự 2015 quy định việc xác lập, thực hiện giao dịch dân sự của người bị hạn chế năng lực hành vi dân sự phải có sự đồng ý của người đại diện theo pháp luật, trừ giao dịch phục vụ nhu cầu sinh hoạt hằng ngày hoặc giao dịch khác theo quy định của pháp luật. Vì vậy, chủ thể của giao dịch vẫn là người bị hạn chế năng lực hành vi dân sự, nhưng việc xác lập, thực hiện giao dịch phải có sự đồng ý của người đại diện theo pháp luật theo phạm vi đượcF Tòa án xác định."
+},
+{
+  "question": "Theo quy định của Luật Công chứng, công chứng viên tiến hành xác minh hoặc yêu cầu giám định; trường hợp không làm rõ được thì có quyền từ chối công chứng khi nào?",
+  "a": "Người yêu cầu công chứng không làm rõ được và yêu cầu xác minh, yêu cầu giám định hoặc đã xác minh, giám định nhưng vẫn không làm rõ được",
+  "b": "Việc giao kết hợp đồng, giao dịch có dấu hiệu bị đe doạ, cưỡng ép",
+  "c": "Có sự nghi ngờ về năng lực pháp luật dân sự của người yêu cầu công chứng",
+  "d": "Đối tượng của hợp đồng, giao dịch chưa được mô tả hay không thể kiểm tra được",
+  "answer": "b",
+  "explanation": "Khoản 4 Điều 42 Luật Công chứng 2024 quy định khi có căn cứ cho rằng trong hồ sơ yêu cầu công chứng có vấn đề chưa rõ, việc giao kết hợp đồng, giao dịch có dấu hiệu bị đe dọa, cưỡng ép hoặc có nghi ngờ về năng lực hành vi dân sự của người yêu cầu công chứng thì công chứng viên đề nghị người yêu cầu công chứng làm rõ hoặc tiến hành xác minh, yêu cầu giám định. Trường hợp không làm rõ được thì công chứng viên có quyền từ chối công chứng."
+},
+{
+  "question": "Theo Nghị định số 23/2015, các giấy tờ do cơ quan có thẩm quyền của nước ngoài cấp cho cá nhân không phải hợp pháp hóa lãnh sự khi chứng thực bản sao từ bản chính?",
+  "a": "Hộ chiếu, thẻ căn cước, giấy phép lái xe",
+  "b": "Thẻ thường trú, thẻ cư trú",
+  "c": "Bằng tốt nghiệp, chứng chỉ và bảng điểm kèm theo bằng tốt nghiệp, chứng chỉ",
+  "d": "Tất cả các loại giấy tờ đã nêu",
+  "answer": "d",
+  "explanation": "Khoản 1 Điều 20 Nghị định 23/2015/NĐ-CP quy định bản chính giấy tờ, văn bản do cơ quan, tổ chức có thẩm quyền của nước ngoài cấp, chứng nhận không phải hợp pháp hóa lãnh sự khi chứng thực bản sao từ bản chính đối với hộ chiếu, giấy tờ tùy thân, thẻ thường trú, thẻ cư trú, giấy phép lái xe, bằng tốt nghiệp, chứng chỉ, bảng điểm và các giấy tờ liên quan trực tiếp đến cá nhân người yêu cầu chứng thực. Do đó, tất cả các loại giấy tờ nêu trên đều thuộc trường hợp không phải hợp pháp hóa lãnh sự."
+},
+{
+  "question": "Theo quy định của Luật Công chứng, công chứng viên phải gia nhập Hội công chứng viên tại địa phương nơi muốn hành nghề và duy trì tư cách hội viên trong suốt quá trình hành nghề công chứng tại địa phương đó phải không?",
+  "a": "Sai",
+  "b": "Đúng",
+  "c": "Sai, chỉ cần gia nhập Hội công chứng viên tại địa phương nơi muốn hành nghề",
+  "d": "Đúng, kể cả khi không còn làm công chứng viên",
+  "answer": "b",
+  "explanation": "Luật Công chứng 2024 quy định công chứng viên phải gia nhập Hội công chứng viên tại địa phương nơi mình hành nghề và có nghĩa vụ duy trì tư cách hội viên trong thời gian hành nghề công chứng tại địa phương đó. Khi không còn hành nghề công chứng thì không còn nghĩa vụ duy trì tư cách hội viên theo quy định này."
+},
+{
+  "question": "Theo quy định Bộ luật Dân sự số 91/2015/QH13, người đại diện theo pháp luật có quyền xác lập, thực hiện mọi giao dịch dân sự vì lợi ích của người được đại diện đúng không?",
+  "a": "Đúng",
+  "b": "Sai",
+  "c": "Đúng, trừ trường hợp pháp luật có quy định khác",
+  "d": "Sai, phải được người được đại diện đồng ý",
+  "answer": "c",
+  "explanation": "Khoản 1 Điều 136 Bộ luật Dân sự 2015 quy định người đại diện theo pháp luật có quyền xác lập, thực hiện mọi giao dịch dân sự vì lợi ích của người được đại diện, trừ trường hợp pháp luật có quy định khác. Do đó, nhận định này là đúng nhưng không mang tính tuyệt đối."
+},
+{
+  "question": "Theo quy định của Luật Công chứng, nội dung nào sau đây phù hợp quy định?",
+  "a": "Việc công chứng sửa đổi, bổ sung, hủy bỏ giao dịch đã được công chứng chỉ được thực hiện khi có cam kết bằng văn bản của tất cả những người đã tham gia hợp đồng, giao dịch đó.",
+  "b": "Việc công chứng sửa đổi, bổ sung, hủy bỏ giao dịch đã được công chứng được thực hiện tại tổ chức hành nghề công chứng đã thực hiện việc công chứng đó và phải do công chứng viên đã chứng nhận ban đầu tiến hành.",
+  "c": "Trường hợp tổ chức hành nghề công chứng đã thực hiện việc công chứng chấm dứt hoạt động, chuyển đổi, chuyển nhượng hoặc giải thể thì công chứng viên của tổ chức hành nghề công chứng đang lưu trữ hồ sơ công chứng thực hiện việc sửa đổi, bổ sung, hủy bỏ giao dịch.",
+  "d": "Việc công chứng sửa đổi, bổ sung, hủy bỏ giao dịch đã được công chứng chỉ được thực hiện khi có tất cả những người đã tham gia giao dịch đó và có đủ bản chính văn bản công chứng.",
+  "answer": "c",
+  "explanation": "Khoản 2 Điều 53 Luật Công chứng 2024 quy định việc công chứng văn bản sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch đã được công chứng do công chứng viên của tổ chức hành nghề công chứng nơi đã thực hiện việc công chứng đó tiến hành; trường hợp tổ chức hành nghề công chứng nơi đã thực hiện việc công chứng chấm dứt hoạt động, chuyển đổi hoặc giải thể thì công chứng viên của tổ chức hành nghề công chứng đang lưu trữ hồ sơ công chứng thực hiện. Trong các phương án, đáp án c phản ánh đúng nhất nội dung của quy định này."
+},
+{
+  "question": "Theo Bộ luật Dân sự số 91/2015/QH13, các điều kiện có hiệu lực của giao dịch dân sự gồm các nội dung nào sau đây:",
+  "a": "Người tham gia giao dịch có năng lực pháp luật dân sự hoặc hành vi dân sự",
+  "b": "Mục đích và nội dung của giao dịch không vi phạm điều cấm của luật, không trái đạo đức xã hội",
+  "c": "Hình thức của giao dịch dân sự là điều kiện bắt buộc của giao dịch dân sự",
+  "d": "Người tham gia giao dịch hoàn toàn thiện nguyện",
+  "answer": "b",
+  "explanation": "Khoản 1 Điều 117 Bộ luật Dân sự 2015 quy định một trong các điều kiện có hiệu lực của giao dịch dân sự là mục đích và nội dung của giao dịch không vi phạm điều cấm của luật, không trái đạo đức xã hội. Phương án a sai vì phải là người tham gia giao dịch có năng lực pháp luật dân sự và năng lực hành vi dân sự phù hợp với giao dịch; phương án c sai vì hình thức chỉ là điều kiện có hiệu lực trong trường hợp luật có quy định; phương án d sai vì luật quy định chủ thể tham gia giao dịch hoàn toàn tự nguyện, không phải 'thiện nguyện'."
+},
+{
+  "question": "Theo quy định Bộ luật Dân sự số 91/2015/QH13, trường hợp đã phân chia di sản mà xuất hiện người thừa kế mới thì sẽ thực hiện như thế nào?",
+  "a": "Thực hiện việc phân chia lại di sản bằng hiện vật",
+  "b": "Không thực hiện việc phân chia lại di sản bằng hiện vật",
+  "c": "Thực hiện lại việc phân chia di sản",
+  "d": "Đáp án a sai, b và c đúng",
+  "answer": "b",
+  "explanation": "Điều 662 Bộ luật Dân sự 2015 quy định trường hợp đã phân chia di sản mà xuất hiện người thừa kế mới thì không thực hiện việc phân chia lại di sản bằng hiện vật. Những người thừa kế đã nhận di sản có trách nhiệm thanh toán cho người thừa kế mới một khoản tiền tương ứng với phần di sản mà người đó đáng lẽ được hưởng tại thời điểm chia thừa kế, theo tỷ lệ tương ứng với phần di sản đã nhận."
+},
+{
+  "question": "Theo quy định Bộ luật Dân sự 2015, người có năng lực hành vi dân sự đầy đủ là người từ đủ 18 tuổi trở lên phải không?",
+  "a": "Đúng",
+  "b": "Sai",
+  "c": "Đúng, trừ trường hợp rơi vào tình trạng mất năng lực hành vi dân sự, hạn chế năng lực hành vi dân sự",
+  "d": "Đúng, trừ trường hợp rơi vào tình trạng mất năng lực hành vi dân sự, hạn chế năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi",
+  "answer": "d",
+  "explanation": "Khoản 2 Điều 20 Bộ luật Dân sự 2015 quy định người thành niên có năng lực hành vi dân sự đầy đủ, trừ trường hợp quy định tại các Điều 22, 23 và 24 của Bộ luật này về mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi và hạn chế năng lực hành vi dân sự."
+},
+ {
   "question": "Theo Luật Hôn nhân và Gia đình số 52/2014/QH13, sau khi chia tài sản chung trong thời kỳ hôn nhân thì nội dung nào không phù hợp?",
   "a": "1. Phần tài sản mà vợ, chồng đã được chia sẽ thuộc sở hữu chung của vợ, chồng, trừ trường hợp vợ chồng có thỏa thuận khác.",
   "b": "2. Quyền, nghĩa vụ về tài sản phát sinh trước thời điểm có hiệu lực của việc chia tài sản chung vẫn có hiệu lực, trừ trường hợp các bên có thỏa thuận khác.",
