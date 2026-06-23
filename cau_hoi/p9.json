@@ -1,5 +1,14 @@
 [ 
   {
+    "question": "Bà Elena Nguyễn (Việt kiều Mỹ) là người thừa kế duy nhất theo di chúc hợp pháp của cha mẹ để lại tòa nhà mặt phố tại Quận 3, TP.HCM. Sau khi hoàn tất thủ tục khai nhận di sản, bà đã nộp hồ sơ và được UBND quận ra thông báo hẹn ngày đến nhận Giấy chứng nhận quyền sở hữu (Sổ hồng). Tuy nhiên, ngay trước ngày hẹn, các con của người em trai đã mất của bà đã làm đơn khiếu nại và khởi kiện ra Tòa án đòi chia thừa kế kế vị. Tòa án đã ban hành thông báo thụ lý vụ án tranh chấp di sản thừa kế. Do visa sắp hết hạn phải quay về Mỹ gấp, bà Elena đến Văn phòng Công chứng yêu cầu lập hợp đồng ủy quyền cho Công ty Luật tại Việt Nam được toàn quyền thay mặt bà: nhận Sổ hồng khi được cấp, quản lý nhà đất và được toàn quyền bán, tặng cho tòa nhà. Công chứng viên xử lý thế nào trong trường hợp này?",
+    "a": "Được công chứng toàn bộ hợp đồng ủy quyền vì ủy quyền chỉ là giao quyền đại diện, không phải hành vi chuyển dịch quyền sở hữu nên không bị hạn chế bởi việc Tòa án đã thụ lý tranh chấp.",
+    "b": "Từ chối công chứng nội dung ủy quyền liên quan đến bán, tặng cho tài sản; chỉ có thể công chứng phần ủy quyền quản lý tài sản và tham gia tố tụng tại Tòa án.",
+    "c": "Được công chứng toàn bộ nội dung nếu bên nhận ủy quyền cam kết không thực hiện việc bán, tặng cho tài sản cho đến khi có bản án có hiệu lực của Tòa án.",
+    "d": "Từ chối công chứng toàn bộ hợp đồng ủy quyền vì tài sản đã bị đình chỉ mọi giao dịch kể từ khi Tòa án ban hành thông báo thụ lý vụ án tranh chấp.",
+    "answer": "b",
+    "explanation": "Khi tài sản đang có tranh chấp và Tòa án đã thụ lý vụ án, quyền định đoạt (bán, tặng cho) có nguy cơ bị hạn chế vì chủ thể không thể chuyển giao quyền mà mình không được phép thực hiện. Theo nguyên tắc tại Bộ luật Dân sự 2015 về đại diện và phạm vi ủy quyền, người ủy quyền chỉ được giao quyền trong phạm vi mình có quyền thực hiện hợp pháp. Do đó, nội dung ủy quyền định đoạt tài sản (bán, tặng cho) phải bị loại trừ. Tuy nhiên, người có quyền sở hữu vẫn được phép ủy quyền cho người khác quản lý tài sản và tham gia tố tụng để bảo vệ quyền lợi hợp pháp của mình, nên phần này vẫn được công chứng."
+  },
+  {
   "question": "Ông Điểu K'Rút (người dân tộc Xtiêng) được Nhà nước giao đất theo Luật Đất đai 2024. Sau khi ông K'Rút chết không để lại di chúc, bà Nguyễn Thị Mai (vợ hợp pháp, dân tộc Kinh) là người thừa kế duy nhất yêu cầu công chứng Văn bản khai nhận di sản thừa kế đối với quyền sử dụng đất. Công chứng viên phải xử lý như thế nào?",
   "a": "Từ chối công chứng Văn bản khai nhận di sản thừa kế đối với quyền sử dụng đất; giải thích cho bà Mai biết bà không thuộc đối tượng được nhận thừa kế quyền sử dụng đất này theo quy định của Luật Đất đai 2024.",
   "b": "Tiến hành công chứng Văn bản khai nhận di sản thừa kế quyền sử dụng đất cho bà Mai vì bà là người thừa kế duy nhất theo pháp luật.",
