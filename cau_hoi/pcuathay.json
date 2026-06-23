@@ -1,5 +1,95 @@
 [
  {
+  "question": "Trong giao dịch trao đổi tài sản theo Bộ luật Dân sự 2015, nhận định nào sau đây là đúng?",
+  "a": "Nếu tài sản trao đổi có giá trị chênh lệch thì các bên bắt buộc phải thanh toán phần chênh lệch đó",
+  "b": "Mỗi bên đều được coi là người bán đối với tài sản giao cho bên kia và là người mua đối với tài sản nhận về",
+  "c": "Nếu tài sản trao đổi có giá trị chênh lệch thì hợp đồng phải chuyển thành hợp đồng mua bán",
+  "d": "Hợp đồng trao đổi tài sản có bản chất là hợp đồng tặng cho tài sản",
+  "answer": "b",
+  "explanation": "Khoản 4 Điều 455 Bộ luật Dân sự 2015 quy định: 'Mỗi bên đều được coi là người bán đối với tài sản giao cho bên kia và là người mua đối với tài sản nhận về'. Pháp luật không quy định bắt buộc phải thanh toán phần chênh lệch giá trị tài sản, không bắt buộc chuyển thành hợp đồng mua bán và hợp đồng trao đổi tài sản không có bản chất là hợp đồng tặng cho."
+},
+{
+  "question": "Nhận định nào sau đây phù hợp với quy định của Luật Công chứng 2024?",
+  "a": "Trường hợp Phòng Công chứng được chuyển đổi thành Văn phòng công chứng thì hồ sơ công chứng do một tổ chức hành nghề công chứng được giao để quản lý",
+  "b": "Trường hợp Phòng Công chứng bị giải thể thì hồ sơ công chứng phải được chuyển cho một Phòng công chứng khác do Sở Tư pháp chỉ định",
+  "c": "Trường hợp Văn phòng công chứng chấm dứt hoạt động thì Văn phòng công chứng đó phải thỏa thuận với một tổ chức hành nghề công chứng khác về việc tiếp nhận hồ sơ công chứng",
+  "d": "Văn phòng công chứng hợp nhất kế thừa toàn bộ quyền, nghĩa vụ, yêu cầu công chứng đang thực hiện tại các Văn phòng công chứng được hợp nhất và có trách nhiệm lưu trữ toàn bộ hồ sơ công chứng của các Văn phòng công chứng được hợp nhất",
+  "answer": "d",
+  "explanation": "Theo Luật Công chứng 2024, khi các Văn phòng công chứng hợp nhất thì Văn phòng công chứng hợp nhất kế thừa toàn bộ quyền, nghĩa vụ, các yêu cầu công chứng đang được giải quyết và có trách nhiệm lưu trữ toàn bộ hồ sơ công chứng của các Văn phòng công chứng được hợp nhất. Các phương án còn lại không phản ánh đầy đủ hoặc không đúng quy định của Luật Công chứng 2024 về việc quản lý, bàn giao hồ sơ công chứng khi chuyển đổi, giải thể hoặc chấm dứt hoạt động."
+},
+{
+  "question": "Lựa chọn câu trả lời nào sai sau đây?",
+  "a": "Thời hiệu khởi kiện để yêu cầu Tòa án tuyên hủy bỏ hợp đồng là 03 năm, kể từ ngày người có quyền yêu cầu biết hoặc phải biết quyền và lợi ích hợp pháp của mình bị xâm phạm",
+  "b": "Thời hiệu yêu cầu Tòa án tuyên bố giao dịch dân sự vô hiệu là 02 năm, trừ trường hợp giao dịch vi phạm điều cấm của luật, trái đạo đức xã hội và giao dịch giả tạo thì không bị hạn chế về thời hiệu yêu cầu",
+  "c": "Hợp đồng vô hiệu không làm phát sinh, thay đổi, chấm dứt quyền, nghĩa vụ dân sự của các bên kể từ thời điểm giao dịch được xác lập",
+  "d": "Khi hợp đồng vô hiệu thì các bên phải khôi phục lại tình trạng ban đầu, nhưng không cần hoàn trả cho nhau những gì đã nhận",
+  "answer": "d",
+  "explanation": "Theo khoản 2 Điều 131 Bộ luật Dân sự 2015, khi giao dịch dân sự vô hiệu thì các bên phải khôi phục lại tình trạng ban đầu và hoàn trả cho nhau những gì đã nhận; nếu không thể hoàn trả bằng hiện vật thì phải hoàn trả bằng tiền. Phương án c phù hợp với khoản 1 Điều 131 BLDS 2015. Phương án b phù hợp với Điều 132 BLDS 2015 về thời hiệu yêu cầu tuyên bố giao dịch dân sự vô hiệu. Phương án a phù hợp với quy định về thời hiệu khởi kiện tranh chấp hợp đồng theo Điều 429 BLDS 2015."
+},
+{
+  "question": "Thanh toán phải dùng tiền đồng Việt Nam trong giao dịch?",
+  "a": "Đúng, đối với mọi giao dịch",
+  "b": "Sai, trừ khi các bên có khả năng, nhu cầu hay mục đích khác nhau",
+  "c": "Sai, các bên có thể dùng ngoại tệ để thanh toán với nhau nếu một bên là người nước ngoài hoặc người Việt Nam định cư ở nước ngoài",
+  "d": "Đúng, vì nếu hợp đồng công chứng mà ghi nhận việc thanh toán bằng ngoại tệ thì sẽ bị vô hiệu",
+  "answer": "c",
+  "explanation": "Theo Pháp lệnh Ngoại hối (đã được sửa đổi, bổ sung) và các văn bản hướng dẫn, trên lãnh thổ Việt Nam, nguyên tắc chung là các giao dịch, thanh toán phải sử dụng đồng Việt Nam, trừ các trường hợp được phép theo quy định của pháp luật về ngoại hối. Việc một bên là người nước ngoài hoặc người Việt Nam định cư ở nước ngoài có thể thuộc trường hợp được phép thanh toán bằng ngoại tệ theo quy định chuyên ngành. Phương án a và d tuyệt đối hóa quy định nên không chính xác; phương án b không phản ánh căn cứ pháp lý nào."
+},
+{
+  "question": "Nhận định nào chính xác sau đây?",
+  "a": "Khi hợp đồng dân sự bị huỷ bỏ thì hợp đồng sẽ không có hiệu lực pháp luật kể từ thời điểm ký văn bản huỷ bỏ",
+  "b": "Việc huỷ bỏ hợp đồng, giao dịch dân sự làm cho hợp đồng, giao dịch không còn tồn tại đối với các bên",
+  "c": "Chấm dứt hợp đồng là hủy bỏ việc thực hiện các thoả thuận mà các bên đã đạt được khi tham gia vào quan hệ hợp đồng",
+  "d": "Một bên có quyền đơn phương chấm dứt thực hiện hợp đồng và không phải bồi thường thiệt hại khi bên kia vi phạm nghiêm trọng nghĩa vụ trong hợp đồng hoặc các bên có thoả thuận hoặc pháp luật có quy định",
+  "answer": "d",
+  "explanation": "Theo Điều 428 Bộ luật Dân sự 2015, một bên có quyền đơn phương chấm dứt thực hiện hợp đồng và không phải bồi thường thiệt hại khi bên kia vi phạm nghiêm trọng nghĩa vụ trong hợp đồng hoặc các bên có thỏa thuận hoặc pháp luật có quy định. Phương án a sai vì khi hợp đồng bị hủy bỏ thì hợp đồng không có hiệu lực từ thời điểm giao kết, không phải từ thời điểm ký văn bản hủy bỏ (Điều 427 BLDS 2015). Phương án b không chính xác vì việc hủy bỏ hợp đồng làm hợp đồng không có hiệu lực từ thời điểm giao kết, nhưng không thể nói giao dịch 'không còn tồn tại'. Phương án c nhầm lẫn giữa khái niệm chấm dứt hợp đồng và hủy bỏ hợp đồng."
+},
+{
+  "question": "Nội dung nào không đúng trong trường hợp có người làm chứng cho việc lập di chúc?",
+  "a": "Phải do chính người lập di chúc tự nguyện đề nghị",
+  "b": "Phải do công chứng viên chỉ định hoặc yêu cầu",
+  "c": "Họ không thể là những người được hưởng di sản theo nội dung của di chúc hoặc người thừa kế của người lập di chúc",
+  "d": "Khi người lập di chúc có sự hạn chế nhất định về sức khỏe, thể chất dẫn tới việc không thể ký hoặc không điểm chỉ được, không đọc được hoặc không nghe được",
+  "answer": "b",
+  "explanation": "Phương án b là không đúng. Theo Bộ luật Dân sự 2015 và Luật Công chứng 2024, người làm chứng không bắt buộc phải do công chứng viên chỉ định hoặc yêu cầu. Trong nhiều trường hợp, người lập di chúc tự lựa chọn hoặc đề nghị người làm chứng. Người làm chứng phải đáp ứng điều kiện luật định, không thuộc các trường hợp không được làm chứng như người thừa kế theo di chúc hoặc theo pháp luật của người lập di chúc, người có quyền, nghĩa vụ tài sản liên quan đến nội dung di chúc. Đối với người lập di chúc có hạn chế về thể chất hoặc không thể ký, điểm chỉ, đọc hoặc nghe được thì pháp luật có quy định phải có người làm chứng trong những trường hợp nhất định để bảo đảm tính hợp pháp của việc lập di chúc."
+},
+{
+  "question": "Có thể đem tài sản của người dưới 15 tuổi để tặng cho không?",
+  "a": "Được, nếu người dưới 15 tuổi đó đồng ý",
+  "b": "Được, do người đại diện theo pháp luật của người dưới 15 tuổi được quyền quyết",
+  "c": "Không, vì vi phạm nghiêm trọng nguyên tắc quản lý và sử dụng tài sản của người được đại diện",
+  "d": "Không, vì người dưới 15 tuổi không có đủ năng lực hành vi dân sự",
+  "answer": "c",
+  "explanation": "Theo Điều 136 và Điều 141 Bộ luật Dân sự 2015, người đại diện phải xác lập, thực hiện giao dịch dân sự vì lợi ích của người được đại diện. Người đại diện không được thực hiện giao dịch với tài sản của người được đại diện nhằm chuyển dịch tài sản đó cho người khác mà không vì lợi ích của người được đại diện."
+},
+{
+  "question": "Việc xác định giá trị của tài sản bảo đảm được thực hiện như thế nào?",
+  "a": "Có thể được lập bằng văn bản riêng hoặc ghi nhận trong hợp đồng tín dụng",
+  "b": "Có thể do các bên thỏa thuận hoặc thuê tổ chức tư vấn, tổ chức chuyên môn do Nhà nước chỉ định",
+  "c": "Phải được ghi nhận vào hợp đồng tín dụng",
+  "d": "Trường hợp không có thỏa thuận thì tài sản được định giá thông qua tổ chức định giá tài sản",
+  "answer": "a",
+  "explanation": "Theo Điều 306 Bộ luật Dân sự 2015, việc xác định giá trị tài sản bảo đảm có thể do các bên thỏa thuận, thỏa thuận này có thể được lập thành văn bản riêng hoặc ghi nhận trong hợp đồng bảo đảm, hợp đồng tín dụng hoặc văn bản khác có liên quan. Phương án c sai vì pháp luật không bắt buộc phải ghi nhận trong hợp đồng tín dụng. Phương án d sai vì khi không có thỏa thuận thì việc xác định giá trị tài sản được thực hiện thông qua định giá tài sản theo quy định, không nhất thiết phải thông qua tổ chức định giá tài sản. Phương án b không chính xác vì pháp luật không quy định phải thuê tổ chức do Nhà nước chỉ định."
+},
+{
+  "question": "Nhận định nào đúng về hợp đồng tặng cho tài sản có điều kiện?",
+  "a": "1. Bên tặng cho có thể yêu cầu bên được tặng cho thực hiện một hoặc nhiều nghĩa vụ trước hoặc sau khi tặng cho",
+  "b": "2. Điều kiện tặng cho có thể là bên nhận tặng cho phải chuyển giao vật, chuyển giao quyền, trả tiền hoặc giấy tờ có giá, thực hiện công việc hoặc không thực hiện công việc nhất định vì lợi ích của bên tặng cho",
+  "c": "3. Bên được tặng cho không có quyền từ chối nhận tài sản và có quyền yêu cầu bên tặng cho phải bàn giao, chuyển quyền sở hữu tài sản cho mình",
+  "d": "Cả 2 và 3 đúng, 1 sai",
+  "answer": "a",
+  "explanation": "Theo Điều 462 Bộ luật Dân sự 2015, bên tặng cho có thể yêu cầu bên được tặng cho thực hiện một hoặc nhiều nghĩa vụ trước hoặc sau khi tặng cho, miễn là điều kiện đó không vi phạm điều cấm của luật, không trái đạo đức xã hội. Bên được tặng cho có quyền từ chối nhận tài sản được tặng cho. Vì vậy chỉ nhận định số 1 là đúng."
+},
+{
+  "question": "Tài sản là đối tượng của hợp đồng bảo đảm thuộc sở hữu của công ty trách nhiệm hữu hạn hoặc công ty cổ phần thì khi ký kết hợp đồng bảo đảm có bắt buộc phải xuất trình biên bản họp của thành viên công ty hoặc nghị quyết của Hội đồng quản trị hay không?",
+  "a": "Sai, vì phạm vi bảo đảm, thẩm quyền của người đại diện và việc ký kết, thực hiện hợp đồng bảo đảm đã được xác định theo quy định pháp luật và điều lệ công ty.",
+  "b": "Đúng, vì mọi trường hợp đều phải có quy định trong điều lệ công ty.",
+  "c": "Sai, vì việc thực hiện nghĩa vụ là trách nhiệm của bên vay nên không cần xem xét thẩm quyền của công ty.",
+  "d": "Đúng, vì Luật Doanh nghiệp quy định thành viên, cổ đông chỉ chịu trách nhiệm hữu hạn trong phạm vi vốn góp.",
+  "answer": "a",
+  "explanation": "Không phải mọi trường hợp công ty TNHH hoặc công ty cổ phần sử dụng tài sản thuộc sở hữu của mình để bảo đảm nghĩa vụ đều phải xuất trình biên bản họp hoặc nghị quyết. Việc có cần quyết định nội bộ hay không phụ thuộc vào Luật Doanh nghiệp, điều lệ công ty và thẩm quyền của người đại diện. Nếu người ký kết có thẩm quyền đại diện hợp pháp và giao dịch thuộc phạm vi được phép thực hiện thì hợp đồng bảo đảm không đương nhiên phải kèm theo biên bản họp thành viên hoặc nghị quyết của Hội đồng quản trị."
+},
+ {
   "question": "Theo quy định Bộ luật Dân 2015, khi việc chấm dứt hợp đồng ủy quyền có hiệu lực thì sẽ như thế nào?",
   "a": "Các bên trong hợp đồng không phải chịu trách nhiệm về hợp đồng đã giao kết trước đó",
   "b": "Những gì đã thực hiện vẫn có giá trị hiệu lực ràng buộc trách nhiệm các bên",
