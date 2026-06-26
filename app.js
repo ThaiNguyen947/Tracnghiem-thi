@@ -733,9 +733,33 @@ function enableProtectionForSubAccounts() {
     if (appEl) appEl.style.filter = "none";
   });
 }
-// ... (Các hàm khác của bạn như startExam, submit, v.v.) ...
+// ================= XỬ LÝ LƯỚT MÀN HÌNH (SWIPE) - CHỈ ADMIN =================
+let touchstartX = 0;
+let touchendX = 0;
 
-// Thêm đoạn này vào cuối file:
+function handleGesture() {
+  // Lấy thông tin user từ localStorage để kiểm tra quyền
+  const user = JSON.parse(localStorage.getItem("user") || "{}");
+  
+  // Chỉ thực hiện nếu role là "admin"
+  if (user.role !== "admin") return;
+
+  // Xử lý logic chuyển câu hỏi
+  if (touchendX < touchstartX - 50) { // Lướt trái -> Câu sau
+    next();
+  } else if (touchendX > touchstartX + 50) { // Lướt phải -> Câu trước
+    prev();
+  }
+}
+
+document.addEventListener('touchstart', e => {
+  touchstartX = e.changedTouches[0].screenX;
+});
+
+document.addEventListener('touchend', e => {
+  touchendX = e.changedTouches[0].screenX;
+  handleGesture();
+});
 function resetUserStatus(username) {
   let sessions = JSON.parse(localStorage.getItem("loginSessions") || "{}");
   if(sessions[username]) {
