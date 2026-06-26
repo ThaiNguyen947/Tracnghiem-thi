@@ -384,7 +384,8 @@ function render() {
     <div class="box">
       <div class="top">
         <div>Câu: ${index + 1}/${questions.length}</div>
-        <div>⏱ Thời gian: <span id="time"></span></div>
+        <%-- CHỈ CẦN THẺ CHỨA, KHÔNG CẦN TÍNH TOÁN Ở ĐÂY --%>
+        <div>⏱ Thời gian: <span id="time-display"></span></div>
       </div>
 
       <div class="bar">
@@ -484,19 +485,28 @@ function updateBar() {
   }
 }
 
+// Hàm hiển thị thời gian riêng biệt
+function updateTimerDisplay() {
+  let el = document.getElementById("time-display");
+  if (el) {
+    let m = Math.floor(time / 60);
+    let s = time % 60;
+    el.innerText = `${m}:${s < 10 ? "0" + s : s}`;
+  }
+}
+
 // ================= ĐỒNG HỒ ĐẾM NGƯỢC =================
 function startTimer() {
   clearInterval(timer);
   timer = setInterval(() => {
     time--;
-    let m = Math.floor(time / 60);
-    let s = time % 60;
-    let el = document.getElementById("time");
-    if (el) el.innerText = `${m}:${s < 10 ? "0" + s : s}`;
-    if (time <= 0) submit();
+    updateTimerDisplay(); // Chỉ cập nhật đúng con số thay vì render lại cả app
+    if (time <= 0) {
+        clearInterval(timer);
+        submit();
+    }
   }, 1000);
 }
-
 
 // ================= NỘP BÀI VÀ CHẤM ĐIỂM (ĐÃ TỐI ƯU) =================
 function submit() {
