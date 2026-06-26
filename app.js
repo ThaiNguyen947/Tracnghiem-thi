@@ -733,33 +733,45 @@ function enableProtectionForSubAccounts() {
     if (appEl) appEl.style.filter = "none";
   });
 }
-// ================= XỬ LÝ LƯỚT MÀN HÌNH (SWIPE) - CHỈ ADMIN =================
-let touchstartX = 0;
-let touchendX = 0;
+// ================= XỬ LÝ LƯỚT MÀN HÌNH (SWIPE) - CHỈ ADMIN & CHỈ KHI LÀM BÀI =================
+(function() {
+    let touchstartX = 0;
+    let touchendX = 0;
+    const threshold = 50; // Khoảng cách tối thiểu để tính là một lượt lướt
 
-function handleGesture() {
-  // Lấy thông tin user từ localStorage để kiểm tra quyền
-  const user = JSON.parse(localStorage.getItem("user") || "{}");
-  
-  // Chỉ thực hiện nếu role là "admin"
-  if (user.role !== "admin") return;
+    document.addEventListener('touchstart', e => {
+        touchstartX = e.changedTouches[0].screenX;
+    }, { passive: true });
 
-  // Xử lý logic chuyển câu hỏi
-  if (touchendX < touchstartX - 50) { // Lướt trái -> Câu sau
-    next();
-  } else if (touchendX > touchstartX + 50) { // Lướt phải -> Câu trước
-    prev();
-  }
-}
+    document.addEventListener('touchend', e => {
+        touchendX = e.changedTouches[0].screenX;
+        handleGesture();
+    }, { passive: true });
 
-document.addEventListener('touchstart', e => {
-  touchstartX = e.changedTouches[0].screenX;
-});
+    function handleGesture() {
+        // 1. Kiểm tra quyền Admin
+        const user = JSON.parse(localStorage.getItem("user") || "{}");
+        if (user.role !== "admin") return;
 
-document.addEventListener('touchend', e => {
-  touchendX = e.changedTouches[0].screenX;
-  handleGesture();
-});
+        // 2. Kiểm tra xem có đang trong chế độ làm bài không 
+        // Bằng cách kiểm tra sự tồn tại của các nút điều hướng hoặc timer
+        const isExamining = document.getElementById("time") !== null && document.getElementById("nav") !== null;
+        if (!isExamining) return;
+
+        // 3. Xử lý logic chuyển câu hỏi
+        const diff = touchstartX - touchendX;
+        if (Math.abs(diff) > threshold) {
+            if (diff > 0) {
+                // Lướt sang trái (trục X giảm) -> Câu sau
+                next();
+            } else {
+                // Lướt sang phải (trục X tăng) -> Câu trước
+                prev();
+            }
+        }
+    }
+})();
+
 function resetUserStatus(username) {
   let sessions = JSON.parse(localStorage.getItem("loginSessions") || "{}");
   if(sessions[username]) {
