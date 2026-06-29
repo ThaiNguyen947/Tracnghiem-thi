@@ -1,5 +1,194 @@
 [ 
   {
+  "question": "Phạt vi phạm hợp đồng và Bồi thường thiệt hại khác nhau cơ bản thế nào về căn cứ áp dụng theo quy định của BLDS 2015?",
+  "a": "Phạt vi phạm chỉ áp dụng khi có thiệt hại thực tế; bồi thường thiệt hại áp dụng ngay cả khi không có thiệt hại.",
+  "b": "Phạt vi phạm do các bên tự thỏa thuận trong hợp đồng; bồi thường thiệt hại phát sinh kể cả khi các bên không thỏa thuận trong hợp đồng nếu có hành vi vi phạm, có thiệt hại và có mối quan hệ nhân quả.",
+  "c": "Mức phạt vi phạm trong dân sự bị khống chế tối đa là 8% giá trị nghĩa vụ hợp đồng bị vi phạm trong mọi trường hợp.",
+  "d": "Hai chế định này hoàn toàn trùng khớp nhau và không thể áp dụng đồng thời.",
+  "answer": "b",
+  "explanation": "Theo Điều 418 BLDS 2015, phạt vi phạm chỉ được áp dụng khi các bên có thỏa thuận về việc phạt vi phạm trong hợp đồng. Trong khi đó, bồi thường thiệt hại theo Điều 419 BLDS 2015 nhằm bù đắp tổn thất thực tế phát sinh do hành vi vi phạm nghĩa vụ hợp đồng và có thể được áp dụng theo quy định của pháp luật ngay cả khi các bên không có thỏa thuận riêng về bồi thường, với điều kiện có hành vi vi phạm, có thiệt hại thực tế và có mối quan hệ nhân quả giữa hành vi vi phạm và thiệt hại. BLDS 2015 không quy định mức trần 8% đối với phạt vi phạm trong quan hệ dân sự thông thường."
+},
+{
+  "question": "Ông Y là người dân tộc Gia Rai được Nhà nước giao đất rừng sản xuất theo chính sách hỗ trợ đất đai đối với đồng bào dân tộc thiểu số theo Điều 16 Luật Đất đai 2024. Năm 2025, ông Y qua đời không để lại di chúc. Người thừa kế duy nhất theo pháp luật là anh X (con ruột của ông Y). Tuy nhiên, anh X là công chức nhà nước, có thu nhập ổn định và không thuộc diện được hưởng chính sách hỗ trợ đất đai đối với đồng bào dân tộc thiểu số. Khi anh X nộp hồ sơ xin đăng ký sang tên quyền sử dụng đất, cơ quan có thẩm quyền phải giải quyết như thế nào?",
+  "a": "Chấp nhận cấp Giấy chứng nhận quyền sử dụng đất cho anh X vì anh X là con ruột và là người dân tộc thiểu số, quyền thừa kế hợp pháp phải được bảo đảm.",
+  "b": "Từ chối đăng ký sang tên quyền sử dụng đất cho anh X; anh X chỉ được hưởng giá trị tài sản gắn liền với đất (nếu có), còn quyền sử dụng đất bị Nhà nước thu hồi để giao cho đối tượng khác thuộc diện được hỗ trợ.",
+  "c": "Cho phép anh X tạm thời sử dụng đất nhưng không cấp Giấy chứng nhận; chỉ khi anh X chuyển nhượng cho người dân tộc thiểu số khác thì mới được sang tên.",
+  "d": "Thu hồi toàn bộ quyền sử dụng đất và tài sản trên đất mà không thực hiện bất kỳ khoản bồi thường hoặc hoàn trả giá trị nào cho anh X.",
+  "answer": "b",
+  "explanation": "Theo khoản 1 Điều 48 Luật Đất đai 2024, đối với quyền sử dụng đất được Nhà nước giao hoặc cho thuê theo chính sách hỗ trợ đất đai dành cho đồng bào dân tộc thiểu số, khi người sử dụng đất chết mà người thừa kế không thuộc đối tượng được hưởng chính sách hỗ trợ thì không được nhận thừa kế quyền sử dụng đất đó. Trong trường hợp này, anh X không thuộc đối tượng được hưởng chính sách hỗ trợ đất đai nên không được đăng ký sang tên quyền sử dụng đất. Anh X chỉ được hưởng giá trị của tài sản gắn liền với đất (nếu có), còn quyền sử dụng đất sẽ bị Nhà nước thu hồi để tiếp tục bố trí cho các đối tượng thuộc diện được hỗ trợ theo đúng mục tiêu của chính sách."
+},
+{
+  "question": "Bà Kang Min-hee là người gốc Việt Nam, hiện mang quốc tịch Hàn Quốc và định cư tại Seoul. Bà được người thân tặng cho hợp pháp một thửa đất ở đã được cấp Giấy chứng nhận tại thành phố Đà Nẵng. Nay bà Kang muốn dùng quyền sử dụng đất của thửa đất này để góp vốn vào Công ty Cổ phần Đầu tư Phát triển X hoạt động hợp pháp tại Việt Nam. Khi tiếp nhận hồ sơ yêu cầu công chứng hợp đồng góp vốn, Công chứng viên phải xử lý như thế nào?",
+  "a": "Từ chối công chứng vì người gốc Việt Nam định cư ở nước ngoài chỉ có quyền sử dụng đất ở, không được dùng quyền sử dụng đất để góp vốn vào tổ chức kinh tế.",
+  "b": "Hướng dẫn các bên chuyển nhượng quyền sử dụng đất cho cá nhân trong nước để lấy tiền mặt rồi mới dùng tiền mặt góp vốn vào doanh nghiệp.",
+  "c": "Yêu cầu sửa đổi hợp đồng theo hướng doanh nghiệp nhận góp vốn phải là doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ.",
+  "d": "Tiếp nhận và thực hiện công chứng hợp đồng vì người gốc Việt Nam định cư ở nước ngoài được quyền góp vốn bằng quyền sử dụng đất ở và tài sản gắn liền với đất ở hợp pháp của mình vào tổ chức kinh tế trong nước.",
+  "answer": "d",
+  "explanation": "Theo điểm h khoản 1 Điều 28 Luật Đất đai 2024, người gốc Việt Nam định cư ở nước ngoài được quyền góp vốn bằng quyền sử dụng đất ở và tài sản gắn liền với đất ở hợp pháp của mình vào tổ chức kinh tế trong nước để hợp tác sản xuất, kinh doanh. Do đó, bà Kang Min-hee có quyền dùng quyền sử dụng đất ở được nhận tặng cho hợp pháp để góp vốn vào Công ty Cổ phần Đầu tư Phát triển X. Công chứng viên có căn cứ tiếp nhận và thực hiện công chứng hợp đồng góp vốn nếu hồ sơ đáp ứng đầy đủ các điều kiện theo quy định của pháp luật."
+},
+{
+  "question": "Ông David Minh là người gốc Việt Nam định cư ở nước ngoài và hiện không còn quốc tịch Việt Nam. Ông muốn quay về Việt Nam đầu tư kinh doanh bất động sản bằng nguồn vốn của mình. Theo quy định của Luật Kinh doanh bất động sản 2023, ông David Minh được phép thực hiện hoạt động nào sau đây?",
+  "a": "Đầu tư xây dựng nhà ở, công trình xây dựng để bán, cho thuê, cho thuê mua thông qua dự án bất động sản theo đúng quy định của pháp luật.",
+  "b": "Mua nhà ở riêng lẻ của người dân rồi sửa chữa, cải tạo để bán kiếm lời.",
+  "c": "Nhận chuyển nhượng toàn bộ hoặc một phần dự án bất động sản đang triển khai từ một doanh nghiệp trong nước để tiếp tục đầu tư với tư cách cá nhân.",
+  "d": "Tự do thực hiện mọi hình thức kinh doanh bất động sản như công dân Việt Nam trong nước mà không bị giới hạn.",
+  "answer": "a",
+  "explanation": "Theo khoản 3 Điều 10 Luật Kinh doanh bất động sản 2023, người Việt Nam định cư ở nước ngoài là công dân Việt Nam và người gốc Việt Nam định cư ở nước ngoài được phép kinh doanh bất động sản thông qua việc đầu tư xây dựng nhà ở, công trình xây dựng để bán, cho thuê, cho thuê mua theo dự án bất động sản. Pháp luật không cho phép cá nhân người gốc Việt Nam định cư ở nước ngoài tự do thực hiện mọi hoạt động kinh doanh bất động sản như công dân Việt Nam trong nước. Vì vậy, việc mua đi bán lại nhà ở riêng lẻ để kinh doanh hoặc tự đứng tên nhận chuyển nhượng dự án bất động sản đang triển khai với tư cách cá nhân không thuộc phạm vi được pháp luật cho phép trong trường hợp này."
+},
+{
+  "question": "Anh A và chị B là vợ chồng hợp pháp. Tháng 02/2026, anh A tử vong do tai nạn giao thông. Tại thời điểm anh A chết, chị B đang mang thai con chung của hai người được 03 tháng. Đến tháng 08/2026, chị B sinh cháu C nhưng cháu chỉ sống được 02 tiếng sau khi sinh rồi qua đời. Các đồng thừa kế khác cho rằng cháu C không có quyền hưởng di sản của anh A vì không còn sống tại thời điểm phân chia di sản. Theo quy định của pháp luật hiện hành, nhận định nào sau đây là đúng?",
+  "a": "Cháu C có quyền hưởng di sản của anh A vì cháu đã thành thai trước khi anh A chết và đã sinh ra, còn sống sau thời điểm mở thừa kế.",
+  "b": "Cháu C không có quyền hưởng di sản của anh A vì chưa đủ 18 tuổi tại thời điểm mở thừa kế.",
+  "c": "Cháu C không có quyền hưởng di sản của anh A vì phải còn sống đến thời điểm việc phân chia di sản hoàn tất.",
+  "d": "Cháu C không có quyền hưởng di sản của anh A vì tại thời điểm mở thừa kế cháu chưa phải là công dân đang cư trú hợp pháp.",
+  "answer": "a",
+  "explanation": "Theo Điều 613 BLDS 2015, người thừa kế là cá nhân còn sống tại thời điểm mở thừa kế hoặc sinh ra và còn sống sau thời điểm mở thừa kế nhưng đã thành thai trước khi người để lại di sản chết. Trong tình huống này, tại thời điểm anh A chết, cháu C đã thành thai được 03 tháng trong bụng mẹ. Sau thời điểm mở thừa kế, cháu C được sinh ra và còn sống được 02 tiếng, do đó đã đáp ứng đầy đủ điều kiện để trở thành người thừa kế theo pháp luật của anh A. Pháp luật không yêu cầu người con phải sống đến thời điểm phân chia di sản hoặc phải sống trong một khoảng thời gian tối thiểu sau khi sinh. Phần di sản mà cháu C được hưởng sẽ trở thành di sản của chính cháu và được tiếp tục chia cho những người thừa kế của cháu theo quy định của pháp luật."
+},
+{
+  "question": "Công ty Địa ốc Ánh Dương là chủ đầu tư dự án khu dân cư mới tại Long An. Dự án gồm các căn nhà phố hình thành trong tương lai với giá bán 4 tỷ đồng/căn, đã hoàn thành phần móng và có văn bản của Sở Xây dựng thông báo đủ điều kiện đưa vào kinh doanh. Công ty và ông Nguyễn Văn A đến tổ chức hành nghề công chứng yêu cầu công chứng hợp đồng đặt cọc để bảo đảm giao kết hợp đồng mua bán nhà ở, theo đó ông A đặt cọc 400 triệu đồng (10% giá trị căn nhà). Với tư cách là Công chứng viên, cách xử lý nào dưới đây là đúng quy định pháp luật?",
+  "a": "Từ chối công chứng vì chủ đầu tư chưa ký hợp đồng mua bán chính thức thì không được phép ký hợp đồng đặt cọc.",
+  "b": "Hướng dẫn các bên sửa đổi số tiền đặt cọc xuống tối đa 200 triệu đồng (5% giá trị căn nhà) và kiểm tra văn bản đủ điều kiện của Sở Xây dựng trước khi thực hiện công chứng.",
+  "c": "Thực hiện công chứng vì dự án đã đủ điều kiện mở bán và việc đặt cọc 10% là sự thỏa thuận tự nguyện của các bên theo Bộ luật Dân sự.",
+  "d": "Hướng dẫn các bên đổi tên giao dịch thành hợp đồng góp vốn giữ chỗ với mức 400 triệu đồng để tránh giới hạn 5% rồi tiến hành công chứng.",
+  "answer": "b",
+  "explanation": "Theo khoản 5 Điều 23 Luật Kinh doanh bất động sản 2023, chủ đầu tư chỉ được nhận tiền đặt cọc đối với nhà ở, công trình xây dựng hình thành trong tương lai khi đã có đủ điều kiện đưa vào kinh doanh và mức tiền đặt cọc không vượt quá 5% giá bán, giá cho thuê mua. Trong trường hợp này, căn nhà có giá 4 tỷ đồng nên số tiền đặt cọc tối đa chỉ được là 200 triệu đồng. Mức đặt cọc 400 triệu đồng (10%) là trái quy định của luật. Công chứng viên có trách nhiệm kiểm tra điều kiện pháp lý của dự án và hướng dẫn các bên sửa đổi nội dung hợp đồng cho phù hợp với quy định pháp luật trước khi thực hiện công chứng."
+},
+{
+  "question": "Anh A và ông B có tranh chấp về một nghĩa vụ tài sản phát sinh từ hợp đồng. Theo quy định của Bộ luật Dân sự 2015, trường hợp nào sau đây làm cho thời hiệu khởi kiện bắt đầu lại, tức toàn bộ thời gian đã trôi qua trước đó không được tính và thời hiệu được tính lại từ đầu?",
+  "a": "Anh A nộp đơn khởi kiện tại Tòa án nhân dân huyện X nhưng bị trả lại đơn do vụ án thuộc thẩm quyền của Tòa án nhân dân tỉnh Y.",
+  "b": "Trong thời hạn thời hiệu, ông B ký biên bản đối chiếu công nợ hoặc thanh toán một phần nghĩa vụ cho anh A; hoặc hai bên lập văn bản tự hòa giải với nhau.",
+  "c": "Anh A bị tai nạn giao thông phải điều trị dài ngày hoặc gặp sự kiện bất khả kháng như thiên tai, dịch bệnh khiến không thể khởi kiện đúng hạn.",
+  "d": "Anh A và ông B thỏa thuận bằng văn bản về việc kéo dài hoặc rút ngắn thời hiệu khởi kiện so với quy định của pháp luật.",
+  "answer": "b",
+  "explanation": "Theo khoản 1 Điều 157 BLDS 2015, thời hiệu khởi kiện vụ án dân sự bắt đầu lại khi bên có nghĩa vụ đã thừa nhận một phần hoặc toàn bộ nghĩa vụ của mình đối với người khởi kiện, thực hiện xong một phần nghĩa vụ hoặc các bên đã tự hòa giải với nhau. Khi đó, theo khoản 2 Điều 157 BLDS 2015, thời hiệu được tính lại từ ngày tiếp theo sau ngày xảy ra sự kiện làm bắt đầu lại thời hiệu. Các trường hợp như trả lại đơn khởi kiện do sai thẩm quyền, sự kiện bất khả kháng hoặc trở ngại khách quan chỉ làm phát sinh khoảng thời gian không tính vào thời hiệu theo Điều 156 BLDS 2015 chứ không làm thời hiệu được tính lại từ đầu. Ngoài ra, thời hiệu do luật quy định nên các bên không được tự thỏa thuận kéo dài hoặc rút ngắn thời hiệu."
+},
+{
+  "question": "Ông Nguyễn Văn A là Công chứng viên đang hành nghề tại một Văn phòng công chứng. Trong quá trình hành nghề, ông A đã công chứng một bản di chúc có nội dung vi phạm điều cấm của luật, trái đạo đức xã hội và không bảo đảm các yêu cầu bắt buộc về hình thức theo quy định của pháp luật. Theo quy định hiện hành, Công chứng viên Nguyễn Văn A sẽ bị xử lý như thế nào?",
+  "a": "Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng; tước quyền sử dụng thẻ công chứng viên từ 01 tháng đến 03 tháng; đồng thời buộc tổ chức hành nghề công chứng thông báo cho cơ quan, tổ chức, cá nhân có liên quan và buộc nộp lại số lợi bất hợp pháp có được từ hành vi vi phạm.",
+  "b": "Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng; buộc tổ chức hành nghề công chứng công khai xin lỗi trên phương tiện thông tin đại chúng và hoàn trả toàn bộ phí công chứng đã thu cho người lập di chúc.",
+  "c": "Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng; tước quyền sử dụng thẻ công chứng viên vĩnh viễn và buộc hủy bỏ hiệu lực của văn bản di chúc đã được công chứng.",
+  "d": "Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng; tước quyền sử dụng thẻ công chứng viên từ 01 tháng đến 03 tháng và không áp dụng thêm biện pháp khắc phục hậu quả nào khác.",
+  "answer": "a",
+  "explanation": "Theo Điều 15 Nghị định 109/2026/NĐ-CP, Công chứng viên thực hiện hành vi này bị phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng, đồng thời bị áp dụng hình thức xử phạt bổ sung là tước quyền sử dụng thẻ công chứng viên từ 01 tháng đến 03 tháng. Ngoài ra còn áp dụng các biện pháp khắc phục hậu quả gồm buộc tổ chức hành nghề công chứng thông báo cho cơ quan, tổ chức, cá nhân có quyền lợi, nghĩa vụ liên quan và buộc nộp lại số lợi bất hợp pháp có được từ hành vi vi phạm."
+},
+{
+  "question": "Bà Trần Thị B là Công chứng viên đang hành nghề tại Văn phòng công chứng K. Khi thực hiện công chứng hợp đồng chuyển nhượng quyền sử dụng đất, người yêu cầu công chứng không xuất trình được bản chính Giấy chứng nhận quyền sử dụng đất để đối chiếu theo quy định, nhưng bà B vẫn ký và đóng dấu công chứng văn bản. Sau đó, hành vi này bị cơ quan thanh tra phát hiện. Theo Nghị định 109/2026/NĐ-CP, Công chứng viên Trần Thị B sẽ bị áp dụng hình thức xử lý nào sau đây?",
+  "a": "Phạt tiền từ 15.000.000 đồng đến 20.000.000 đồng; tước quyền sử dụng thẻ công chứng viên từ 03 tháng đến 06 tháng; buộc tổ chức hành nghề công chứng thông báo bằng văn bản cho cơ quan, tổ chức, cá nhân có quyền, nghĩa vụ liên quan.",
+  "b": "Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng; tước quyền sử dụng thẻ công chứng viên từ 01 tháng đến 03 tháng; buộc tổ chức hành nghề công chứng thông báo bằng văn bản cho cơ quan, tổ chức, cá nhân có quyền, nghĩa vụ liên quan.",
+  "c": "Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng; tước quyền sử dụng thẻ công chứng viên từ 03 tháng đến 06 tháng; buộc tổ chức hành nghề công chứng thông báo bằng văn bản cho cơ quan, tổ chức, cá nhân có quyền, nghĩa vụ liên quan.",
+  "d": "Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng; tước quyền sử dụng thẻ công chứng viên từ 03 tháng đến 06 tháng và không áp dụng biện pháp khắc phục hậu quả nào khác.",
+  "answer": "c",
+  "explanation": "Theo điểm o khoản 4 và điểm c khoản 9 Điều 16 Nghị định 109/2026/NĐ-CP, hành vi này bị phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng, bị tước quyền sử dụng thẻ công chứng viên từ 03 tháng đến 06 tháng và áp dụng biện pháp khắc phục hậu quả là buộc tổ chức hành nghề công chứng thông báo bằng văn bản cho cơ quan, tổ chức, cá nhân có quyền, nghĩa vụ liên quan về hành vi vi phạm để kịp thời phòng ngừa, hạn chế các hậu quả pháp lý có thể phát sinh."
+},
+{
+  "question": "Công chứng viên Hoàng Văn C và Công chứng viên Lê Thị D lập hồ sơ đề nghị chuyển đổi Văn phòng công chứng từ loại hình do một công chứng viên thành lập sang loại hình công ty hợp danh. Tuy nhiên, Đề án chuyển đổi không xác định thời hạn cụ thể để các thành viên hoàn thành nghĩa vụ góp vốn trước khi đăng ký hoạt động và dự thảo Điều lệ cũng không quy định nguyên tắc chi trả thu nhập, phương thức giải quyết tranh chấp giữa các thành viên. Nhận định nào sau đây là đúng?",
+  "a": "Hồ sơ vẫn hợp lệ vì việc chuyển đổi chỉ cần xem xét điều kiện hành nghề của các công chứng viên, còn các nội dung về góp vốn và phân chia thu nhập có thể bổ sung sau khi được chấp thuận.",
+  "b": "Hồ sơ không hợp lệ vì Đề án chuyển đổi sang loại hình công ty hợp danh bắt buộc phải xác định rõ thời hạn các thành viên hoàn thành việc góp vốn trước ngày nộp hồ sơ đăng ký hoạt động.",
+  "c": "Hồ sơ không hợp lệ vì phải có văn bản chấp thuận của Hội công chứng viên địa phương và biên bản nghiệm thu tài sản độc lập kèm theo hồ sơ chuyển đổi.",
+  "d": "Hồ sơ không hợp lệ vì nội dung về thời hạn góp vốn phải được quy định trong Đề án chuyển đổi và các nội dung về nguyên tắc trả lương, phân chia thu nhập, giải quyết tranh chấp giữa các thành viên phải được quy định trong dự thảo Điều lệ hoạt động.",
+  "answer": "d",
+  "explanation": "Theo khoản 1 Điều 19 Nghị định 104/2025/NĐ-CP, hồ sơ chuyển đổi Văn phòng công chứng sang loại hình công ty hợp danh phải bảo đảm đầy đủ các nội dung bắt buộc trong cả Đề án và dự thảo Điều lệ. Đề án phải xác định rõ thời hạn các thành viên hoàn thành nghĩa vụ góp vốn trước khi nộp hồ sơ đăng ký hoạt động nhằm bảo đảm năng lực tài chính của tổ chức hành nghề công chứng. Đồng thời, dự thảo Điều lệ phải quy định cụ thể nguyên tắc trả lương, phân chia thu nhập và cơ chế giải quyết tranh chấp giữa các thành viên hợp danh. Việc thiếu các nội dung bắt buộc này làm cho hồ sơ không đáp ứng điều kiện pháp lý và không đủ điều kiện được chấp thuận."
+},
+{
+  "question": "Ông David Nguyễn là người gốc Việt Nam, hiện mang quốc tịch Mỹ và không còn quốc tịch Việt Nam. Ông đã được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở đối với một căn biệt thự thuộc dự án nhà ở thương mại tại TP. Hồ Chí Minh. Nay ông ký hợp đồng góp vốn bằng chính căn biệt thự này, bao gồm quyền sử dụng đất ở và nhà ở gắn liền với đất, vào Công ty TNHH Đầu tư Phát triển An Bình để tăng vốn điều lệ. Khi tiếp nhận hồ sơ, Công chứng viên phải xử lý như thế nào?",
+  "a": "Từ chối công chứng vì người gốc Việt Nam định cư ở nước ngoài chỉ được sở hữu nhà ở mà không được góp vốn bằng quyền sử dụng đất ở.",
+  "b": "Chỉ công chứng phần góp vốn bằng giá trị căn biệt thự; riêng quyền sử dụng đất ở phải giữ lại và cho doanh nghiệp thuê sử dụng.",
+  "c": "Chỉ thực hiện công chứng sau khi người góp vốn xuất trình văn bản chấp thuận của Sở Kế hoạch và Đầu tư hoặc Ủy ban nhân dân cấp tỉnh.",
+  "d": "Tiếp nhận và thực hiện công chứng hợp đồng góp vốn theo đúng trình tự, thủ tục pháp luật quy định vì người gốc Việt Nam định cư ở nước ngoài được quyền góp vốn bằng quyền sử dụng đất ở và tài sản gắn liền với đất thuộc sở hữu hợp pháp của mình.",
+  "answer": "d",
+  "explanation": "Theo điểm đ khoản 2 Điều 44 Luật Đất đai 2024, người gốc Việt Nam định cư ở nước ngoài được phép nhập cảnh vào Việt Nam có quyền góp vốn bằng quyền sử dụng đất ở và tài sản gắn liền với đất thuộc sở hữu của mình để hợp tác sản xuất, kinh doanh với tổ chức, cá nhân. Trong trường hợp này, ông David Nguyễn đã được cấp Giấy chứng nhận đối với căn biệt thự và quyền sử dụng đất ở hợp pháp nên có quyền dùng toàn bộ tài sản đó để góp vốn vào doanh nghiệp. Công chứng viên có thể tiếp nhận và thực hiện công chứng hợp đồng góp vốn nếu hồ sơ đáp ứng đầy đủ các điều kiện theo quy định của pháp luật."
+},
+{
+  "question": "Ông John Nguyễn là người Mỹ gốc Việt, hiện đang định cư tại Hoa Kỳ và đang sở hữu hợp pháp một căn biệt thự cùng quyền sử dụng đất ở thuộc dự án khu đô thị tại TP.HCM. Ông muốn dùng toàn bộ tài sản này để góp vốn thành lập một công ty trách nhiệm hữu hạn hoạt động trong lĩnh vực phần mềm tại Việt Nam. Khi tiếp nhận hồ sơ yêu cầu công chứng hợp đồng góp vốn, Công chứng viên phải xử lý như thế nào?",
+  "a": "Chỉ công chứng phần góp vốn bằng giá trị căn biệt thự; phần quyền sử dụng đất ở phải tiếp tục thuộc sở hữu cá nhân của ông John Nguyễn.",
+  "b": "Từ chối tiếp nhận hồ sơ và yêu cầu ông John Nguyễn phải có văn bản chấp thuận của cơ quan nhà nước có thẩm quyền trước khi thực hiện công chứng.",
+  "c": "Từ chối thực hiện công chứng vì người Việt Nam định cư ở nước ngoài không được phép dùng quyền sử dụng đất để góp vốn vào tổ chức kinh tế.",
+  "d": "Tiếp nhận hồ sơ và thực hiện công chứng hợp đồng góp vốn đối với cả nhà ở và quyền sử dụng đất ở theo đúng trình tự, thủ tục pháp luật quy định.",
+  "answer": "d",
+  "explanation": "Theo điểm đ khoản 2 Điều 44 Luật Đất đai 2024, người gốc Việt Nam định cư ở nước ngoài thuộc đối tượng được sở hữu nhà ở tại Việt Nam có quyền góp vốn bằng quyền sử dụng đất ở và tài sản gắn liền với đất thuộc sở hữu hợp pháp của mình để hợp tác sản xuất, kinh doanh với tổ chức, cá nhân."
+},
+{
+  "question": "Trong quá trình giải quyết hồ sơ dân sự có yếu tố nước ngoài, cơ quan có thẩm quyền tiếp nhận một tài liệu bằng tiếng nước ngoài đã được công chứng hoặc chứng nhận bởi Công chứng viên của quốc gia sở tại. Theo quy định của pháp luật Việt Nam, điều kiện pháp lý cơ bản để tài liệu này được công nhận và sử dụng hợp pháp tại Việt Nam là gì?",
+  "a": "Phải được hợp pháp hóa lãnh sự bởi cơ quan có thẩm quyền của Việt Nam (trừ trường hợp được miễn theo điều ước quốc tế hoặc nguyên tắc có đi có lại), đồng thời được dịch sang tiếng Việt và công chứng/chứng thực theo quy định.",
+  "b": "Chỉ cần thực hiện thủ tục Apostille hoặc chứng nhận lãnh sự tại quốc gia ban hành văn bản, sau đó dịch sang tiếng Việt để sử dụng tại Việt Nam.",
+  "c": "Đương nhiên được công nhận tại Việt Nam vì đã có xác nhận của Công chứng viên nước ngoài; chỉ cần chứng thực bản dịch tiếng Việt.",
+  "d": "Phải được cơ quan đại diện ngoại giao của quốc gia ban hành văn bản tại Việt Nam xác nhận chữ ký của Công chứng viên và xác nhận luôn tính hợp pháp của bản dịch tiếng Việt.",
+  "answer": "a",
+  "explanation": "Theo Nghị định 111/2011/NĐ-CP về chứng nhận lãnh sự, hợp pháp hóa lãnh sự, giấy tờ, tài liệu do cơ quan, tổ chức hoặc người có thẩm quyền của nước ngoài cấp, chứng nhận hoặc xác nhận muốn được sử dụng tại Việt Nam thì về nguyên tắc phải được hợp pháp hóa lãnh sự, trừ trường hợp được miễn theo điều ước quốc tế mà Việt Nam là thành viên hoặc theo nguyên tắc có đi có lại. Sau khi hoàn thành thủ tục hợp pháp hóa lãnh sự, tài liệu bằng tiếng nước ngoài phải được dịch sang tiếng Việt và bản dịch phải được công chứng hoặc chứng thực theo quy định của pháp luật Việt Nam. Việc chỉ có xác nhận của Công chứng viên nước ngoài hoặc chỉ thực hiện chứng nhận lãnh sự tại nước ngoài không làm phát sinh giá trị sử dụng trực tiếp của tài liệu tại Việt Nam."
+},
+{
+  "question": "Công ty TNHH Alpha là doanh nghiệp có 100% vốn đầu tư nước ngoài (FDI), được Nhà nước cho thuê đất trả tiền thuê đất hằng năm để xây dựng nhà máy trong khu công nghiệp. Do nhu cầu vay vốn, công ty muốn thế chấp quyền sử dụng đất của khu đất này tại một ngân hàng thương mại hoạt động tại Việt Nam. Khi tiếp nhận hồ sơ yêu cầu công chứng hợp đồng thế chấp quyền sử dụng đất, Công chứng viên phải xử lý như thế nào?",
+  "a": "Tiếp nhận và công chứng bình thường vì doanh nghiệp FDI được thế chấp quyền sử dụng đất tại bất kỳ tổ chức tín dụng nào hoạt động hợp pháp tại Việt Nam.",
+  "b": "Từ chối công chứng hợp đồng thế chấp quyền sử dụng đất vì doanh nghiệp thuê đất trả tiền hằng năm không có quyền thế chấp quyền sử dụng đất, mà chỉ được thế chấp tài sản thuộc sở hữu của mình gắn liền với đất.",
+  "c": "Hướng dẫn doanh nghiệp thế chấp quyền sử dụng đất tại tổ chức tài chính quốc tế hoặc chi nhánh ngân hàng nước ngoài thay vì ngân hàng trong nước.",
+  "d": "Chỉ thực hiện công chứng nếu doanh nghiệp có văn bản chấp thuận của Ủy ban nhân dân cấp tỉnh cho phép mang quyền sử dụng đất đi thế chấp.",
+  "answer": "b",
+  "explanation": "Theo khoản 2 Điều 46 Luật Đất đai 2024, tổ chức kinh tế có vốn đầu tư nước ngoài được Nhà nước cho thuê đất thu tiền thuê đất hằng năm chỉ có quyền thế chấp tài sản thuộc sở hữu của mình gắn liền với đất tại các tổ chức tín dụng được phép hoạt động tại Việt Nam."
+},
+{
+  "question": "Ông David (quốc tịch Úc) và bà Lan (quốc tịch Việt Nam) dùng tiền chung trong thời kỳ hôn nhân để mua một thửa đất nông nghiệp tại Việt Nam, nhưng Giấy chứng nhận quyền sử dụng đất chỉ đứng tên bà Lan. Nay hai bên yêu cầu công chứng Văn bản thỏa thuận chia tài sản chung trong thời kỳ hôn nhân, theo đó chia đôi thửa đất và để ông David đứng tên một nửa diện tích đất nông nghiệp. Công chứng viên phải xử lý như thế nào?",
+  "a": "Tiến hành công chứng vì thửa đất được hình thành từ tài sản chung của vợ chồng và pháp luật công nhận quyền tự do thỏa thuận phân chia tài sản chung.",
+  "b": "Công chứng văn bản phân chia nhưng ghi rõ ông David chỉ được trực tiếp canh tác, hưởng hoa lợi trên phần đất được chia và không được chuyển nhượng cho người khác.",
+  "c": "Hướng dẫn các bên chuyển sang lập hợp đồng ủy quyền để bà Lan ủy quyền cho ông David toàn quyền sử dụng và định đoạt đối với một nửa thửa đất.",
+  "d": "Từ chối công chứng việc phân chia để ông David đứng tên quyền sử dụng đất vì cá nhân nước ngoài không thuộc đối tượng được nhận quyền sử dụng đất nông nghiệp tại Việt Nam.",
+  "answer": "d",
+  "explanation": "Mặc dù theo Luật Hôn nhân và Gia đình 2014, vợ chồng có quyền thỏa thuận chia tài sản chung trong thời kỳ hôn nhân, nhưng việc xác lập quyền sử dụng đất sau khi chia phải tuân thủ các điều kiện của pháp luật đất đai. Theo Luật Đất đai 2024, cá nhân nước ngoài không thuộc đối tượng người sử dụng đất tại Việt Nam và không được nhận quyền sử dụng đất nông nghiệp dưới bất kỳ hình thức nào, bao gồm chuyển nhượng, tặng cho, thừa kế hoặc phân chia tài sản chung của vợ chồng. Do đó, thỏa thuận nhằm để ông David đứng tên quyền sử dụng một phần thửa đất nông nghiệp là trái quy định của pháp luật đất đai. Công chứng viên có trách nhiệm từ chối công chứng giao dịch có nội dung vi phạm pháp luật và không được hướng dẫn các bên thực hiện các giao dịch nhằm lách luật hoặc che giấu mục đích vi phạm."
+},
+{
+  "question": "Năm 2015, anh Phạm A và chị Trần B kết hôn. Trong thời kỳ hôn nhân, hai vợ chồng tạo lập được một căn hộ chung cư và một xe ô tô là tài sản chung. Do mâu thuẫn gia đình, hai bên yêu cầu Tòa án giải quyết ly hôn và phân chia tài sản chung. Theo quy định của pháp luật hiện hành, việc phân chia căn hộ và xe ô tô theo phán quyết của Tòa án phát sinh hiệu lực pháp lý từ thời điểm nào?",
+  "a": "Kể từ ngày Thẩm phán kết thúc phiên tòa và tuyên án.",
+  "b": "Kể từ ngày anh A và chị B nhận được bản án hoặc quyết định của Tòa án.",
+  "c": "Kể từ ngày bản án hoặc quyết định của Tòa án có hiệu lực pháp luật.",
+  "d": "Kể từ ngày hoàn tất thủ tục sang tên căn hộ và xe ô tô tại cơ quan nhà nước có thẩm quyền.",
+  "answer": "c",
+  "explanation": "Theo Luật Hôn nhân và Gia đình 2014 và các quy định của Bộ luật Tố tụng dân sự 2015, việc phân chia tài sản chung của vợ chồng do Tòa án giải quyết chỉ phát sinh hiệu lực pháp lý khi bản án hoặc quyết định của Tòa án có hiệu lực pháp luật. Bản án sơ thẩm không có hiệu lực ngay tại thời điểm tuyên án mà phải chờ hết thời hạn kháng cáo, kháng nghị theo luật định hoặc được giải quyết theo thủ tục phúc thẩm. Việc các bên nhận được bản án chỉ là căn cứ để tính thời hạn kháng cáo, còn thủ tục sang tên tài sản là hệ quả pháp lý được thực hiện sau khi bản án hoặc quyết định đã có hiệu lực pháp luật."
+},
+{
+  "question": "Công ty TNHH Giáo dục Trí Tuệ được Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê để xây dựng trường phổ thông liên cấp. Do thuộc lĩnh vực đặc biệt ưu đãi đầu tư, công ty được miễn tiền thuê đất cho toàn bộ thời gian thuê. Sau 5 năm hoạt động, công ty có nhu cầu chuyển nhượng quyền sử dụng đất cùng toàn bộ tài sản gắn liền với đất cho Tập đoàn Giáo dục Quốc tế E. Theo quy định của Luật Đất đai 2024, nhận định nào sau đây là đúng?",
+  "a": "Công ty Trí Tuệ được quyền chuyển nhượng quyền sử dụng đất ngay vì thuê đất trả tiền một lần cho cả thời gian thuê được hưởng đầy đủ quyền định đoạt đối với đất.",
+  "b": "Công ty Trí Tuệ không được chuyển nhượng quyền sử dụng đất trong mọi trường hợp mà chỉ được chuyển nhượng tài sản gắn liền với đất.",
+  "c": "Chỉ được thực hiện chuyển nhượng quyền sử dụng đất sau khi Công ty Trí Tuệ đã nộp lại cho Nhà nước khoản tiền thuê đất tương ứng với số tiền đã được miễn.",
+  "d": "Hợp đồng chuyển nhượng được công chứng ngay nếu bên nhận chuyển nhượng cam kết ký quỹ để nộp thay khoản tiền thuê đất đã được miễn.",
+  "answer": "c",
+  "explanation": "Theo điểm b khoản 3 Điều 33 Luật Đất đai 2024, tổ chức kinh tế được Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê nhưng được miễn tiền thuê đất thì bị hạn chế một số quyền của người sử dụng đất. Trường hợp muốn thực hiện quyền chuyển nhượng quyền sử dụng đất, tổ chức phải hoàn thành nghĩa vụ tài chính bằng việc nộp lại cho Nhà nước khoản tiền thuê đất đã được miễn theo quy định. Sau khi hoàn thành nghĩa vụ này, quyền sử dụng đất mới đủ điều kiện để thực hiện giao dịch chuyển nhượng. Do đó, Công ty Trí Tuệ không thể chuyển nhượng ngay (loại A), không bị cấm tuyệt đối trong mọi trường hợp (loại B), và cũng không thể thay thế nghĩa vụ nộp ngân sách bằng cam kết hoặc ký quỹ của bên nhận chuyển nhượng (loại D)."
+},
+{
+  "question": "Ông A qua đời năm 2026, để lại khối di sản gồm một căn nhà trị giá 400 triệu đồng, một chiếc xe trị giá 300 triệu đồng và một sổ tiết kiệm trị giá 200 triệu đồng. Ông A không có vợ, cha mẹ đều đã mất từ năm 2024 và có hai người con là B (19 tuổi) và C (16 tuổi). Năm 2025, ông A lập di chúc hợp pháp để lại toàn bộ căn nhà cho B. Theo quy định của pháp luật hiện hành, di sản của ông A được phân chia như thế nào?",
+  "a": "B được hưởng 600 triệu đồng, C được hưởng 300 triệu đồng.",
+  "b": "C được hưởng 250 triệu đồng, B được hưởng 650 triệu đồng.",
+  "c": "B được hưởng 450 triệu đồng, C được hưởng 450 triệu đồng.",
+  "d": "B được hưởng 517 triệu đồng, C được hưởng 383 triệu đồng.",
+  "answer": "a",
+  "explanation": "Tổng di sản của ông A là 900 triệu đồng (400 triệu đồng căn nhà, 300 triệu đồng chiếc xe và 200 triệu đồng sổ tiết kiệm). Theo di chúc hợp pháp, B được hưởng căn nhà trị giá 400 triệu đồng. Phần di sản không được định đoạt trong di chúc gồm chiếc xe và sổ tiết kiệm có tổng giá trị 500 triệu đồng sẽ được chia theo pháp luật cho hai người thuộc hàng thừa kế thứ nhất là B và C, mỗi người được hưởng 250 triệu đồng. Như vậy, ban đầu B nhận 650 triệu đồng (400 + 250) và C nhận 250 triệu đồng. Tuy nhiên, C là con chưa thành niên nên thuộc trường hợp người thừa kế không phụ thuộc vào nội dung di chúc theo Điều 644 Bộ luật Dân sự 2015. Nếu chia toàn bộ di sản theo pháp luật thì mỗi người được hưởng một suất là 450 triệu đồng; 2/3 suất thừa kế theo pháp luật là 300 triệu đồng. Do C mới nhận 250 triệu đồng nên còn thiếu 50 triệu đồng. B phải trích 50 triệu đồng từ phần di sản của mình để bảo đảm phần di sản bắt buộc cho C. Kết quả cuối cùng: B được hưởng 600 triệu đồng, C được hưởng 300 triệu đồng."
+},
+{
+  "question": "Ông A có tài sản riêng trị giá 1 tỷ đồng. Ông A có vợ là bà B và hai người con ruột là anh C và anh D. Đầu năm 2023, anh D qua đời và có một người con ruột là cháu E. Cuối năm 2023, ông A lập di chúc hợp pháp với nội dung duy nhất: \"Tôi trích từ tài sản của mình số tiền 100 triệu đồng để di tặng cho người bạn thân là ông M\". Đầu năm 2024, ông A qua đời, không để lại nghĩa vụ tài sản nào chưa thanh toán. Những người liên quan đều đồng ý nhận di sản. Theo quy định của pháp luật hiện hành, di sản của ông A được phân chia như thế nào?",
+  "a": "Ông M nhận 100 triệu đồng; bà B, anh C và cháu E mỗi người nhận 333,3 triệu đồng.",
+  "b": "Ông M nhận 100 triệu đồng; bà B và anh C mỗi người nhận 450 triệu đồng; cháu E không được hưởng di sản.",
+  "c": "Ông M nhận 100 triệu đồng; phần di sản còn lại 900 triệu đồng được chia đều cho bà B, anh C và cháu E (hưởng thừa kế thế vị), mỗi người nhận 300 triệu đồng.",
+  "d": "Ông M không được nhận tiền vì di tặng chỉ có hiệu lực khi di chúc định đoạt toàn bộ tài sản; toàn bộ 1 tỷ đồng được chia đều cho bà B, anh C và cháu E.",
+  "answer": "c",
+  "explanation": "Theo Điều 646 Bộ luật Dân sự 2015, di tặng là việc người lập di chúc dành một phần di sản để tặng cho người khác. Ông M được hưởng khoản di tặng 100 triệu đồng theo đúng nội dung di chúc hợp pháp của ông A. Sau khi thực hiện di tặng, khối di sản còn lại là 900 triệu đồng. Do phần di sản này không được định đoạt trong di chúc nên được chia theo pháp luật theo khoản 2 Điều 650 Bộ luật Dân sự 2015. Hàng thừa kế thứ nhất của ông A gồm bà B, anh C và anh D. Tuy nhiên, anh D đã chết trước ông A nên con của anh D là cháu E được hưởng thừa kế thế vị theo Điều 652 Bộ luật Dân sự 2015. Vì vậy, 900 triệu đồng được chia thành 3 phần bằng nhau, mỗi suất là 300 triệu đồng. Kết quả cuối cùng: ông M nhận 100 triệu đồng theo diện di tặng; bà B nhận 300 triệu đồng; anh C nhận 300 triệu đồng; cháu E nhận 300 triệu đồng theo thừa kế thế vị."
+},
+{
+  "question": "Tỷ phú Hoàng V qua đời để lại di sản ròng trị giá 20 tỷ đồng. Trong di chúc hợp pháp, ông V di tặng 8 tỷ đồng cho Quỹ học vệ sinh môi trường X và để lại phần còn lại cho người tình là cô Y. Tuy nhiên, sau khi ông V chết, Ngân hàng Z xuất trình khoản nợ tín chấp đã đến hạn là 16 tỷ đồng. Theo quy định của Bộ luật Dân sự 2015, việc phân chia di sản được thực hiện như thế nào?",
+  "a": "Trả nợ Ngân hàng Z 16 tỷ đồng; trích 4 tỷ đồng còn lại giao cho Quỹ X; cô Y không được hưởng gì.",
+  "b": "Trả nợ Ngân hàng Z 16 tỷ đồng; phần di tặng 8 tỷ bị hủy bỏ; cô Y hưởng 4 tỷ đồng còn lại.",
+  "c": "Trích 8 tỷ đồng cho Quỹ X trước; 12 tỷ đồng còn lại trả nợ ngân hàng; ngân hàng chịu mất 4 tỷ đồng.",
+  "d": "Trả nợ Ngân hàng Z 16 tỷ đồng; di tặng bị vô hiệu một phần; 4 tỷ còn lại chia đều cho Quỹ X và cô Y.",
+  "answer": "a",
+  "explanation": "Theo Điều 658 Bộ luật Dân sự 2015, các nghĩa vụ tài sản (bao gồm nợ) phải được thanh toán trước khi phân chia di sản. Do đó, khoản nợ 16 tỷ đồng của Ngân hàng Z phải được thanh toán trước, còn lại 4 tỷ đồng trong khối di sản. Về di tặng theo Điều 646 BLDS 2015, di tặng chỉ được thực hiện trong phạm vi di sản còn lại sau khi đã thanh toán nghĩa vụ tài sản. Vì di chúc dành 8 tỷ cho Quỹ X nhưng chỉ còn 4 tỷ đồng, nên toàn bộ phần di sản còn lại được ưu tiên thực hiện di tặng theo ý chí người lập di chúc, dẫn đến Quỹ X nhận 4 tỷ đồng. Phần còn lại dành cho cô Y theo di chúc không còn nên cô Y không được hưởng di sản. Do đó, đáp án đúng là phương án A."
+},
+{
+  "question": "Ông K qua đời có để lại di chúc hợp pháp, trong đó chỉ định anh T (cháu ruột) là người thừa kế duy nhất toàn bộ di sản. Không có người thừa kế không phụ thuộc nội dung di chúc theo Điều 644 BLDS 2015. Anh T yêu cầu công chứng văn bản phân chia di sản theo di chúc tại tổ chức hành nghề công chứng. Theo Luật Công chứng 2024, yêu cầu của anh T được giải quyết như thế nào?",
+  "a": "Từ chối yêu cầu vì chỉ có một người thừa kế nên chỉ lập văn bản khai nhận di sản, không lập văn bản phân chia di sản.",
+  "b": "Tiếp nhận và thực hiện công chứng văn bản phân chia di sản vì thủ tục này áp dụng cả khi chỉ có một người thừa kế.",
+  "c": "Thụ lý nhưng yêu cầu đổi tên thành văn bản khai nhận di sản để phù hợp số lượng người thừa kế.",
+  "d": "Từ chối yêu cầu vì người thừa kế duy nhất đương nhiên sở hữu di sản mà không cần công chứng.",
+  "answer": "b",
+  "explanation": "Theo Luật Công chứng 2024, thủ tục công chứng văn bản phân chia di sản được áp dụng cho cả trường hợp thừa kế theo di chúc hoặc theo pháp luật, kể cả khi chỉ có một người thừa kế. Trong trường hợp này, anh T là người thừa kế duy nhất theo di chúc hợp pháp và không thuộc trường hợp thừa kế không phụ thuộc nội dung di chúc theo Điều 644 BLDS 2015, nên anh có quyền yêu cầu công chứng văn bản phân chia di sản để xác lập quyền sở hữu đối với tài sản. Do đó, công chứng viên phải thụ lý và thực hiện công chứng theo đúng quy định, không được từ chối."
+},
+  {
   "question": "Ông A sở hữu một thửa đất tại Hà Nội và dự định xây dựng một tòa nhà 2 tầng gồm 22 căn hộ khép kín để bán và cho thuê mua (mô hình chung cư mini). Theo Luật Nhà ở 2023, để thực hiện đúng quy định pháp luật, ông A bắt buộc phải thực hiện thủ tục nào sau đây?",
   "a": "Chỉ cần xin giấy phép xây dựng nhà ở riêng lẻ của hộ gia đình, cá nhân.",
   "b": "Phải thành lập doanh nghiệp kinh doanh bất động sản và đáp ứng điều kiện làm chủ đầu tư dự án đầu tư xây dựng nhà ở.",
