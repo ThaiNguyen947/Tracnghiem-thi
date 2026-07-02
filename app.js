@@ -574,7 +574,9 @@ function submit() {
   // 1. LƯU CORRECT POOL
   localStorage.setItem("correctPool", JSON.stringify(correctPool));
 
-// 2. TỐI ƯU: LƯU TRẠNG THÁI CÂU HỎI
+// ... (các đoạn code xử lý chấm điểm ở đầu hàm submit)
+
+  // 2. TỐI ƯU: LƯU TRẠNG THÁI CÂU HỎI
   let statsToSave = {};
   data.forEach(q => {
     let qText = (q.question || q.cauhoi || "").trim();
@@ -587,11 +589,11 @@ function submit() {
   });
   localStorage.setItem("userStats", JSON.stringify(statsToSave)); 
 
-  // --- PHẦN THÊM MỚI (Tính toán dữ liệu kho) ---
-  let totalCorrect = 0;
-  data.forEach(q => totalCorrect += (q.correctCount || 0));
-  let totalSystem = data.length;
-  // ---------------------------------------------
+  // --- PHẦN TÍNH TOÁN KHO ĐỀ ---
+  let totalCorrectInStore = 0;
+  data.forEach(q => totalCorrectInStore += (q.correctCount || 0));
+  let totalRemainingInStore = data.length - totalCorrectInStore;
+  // -----------------------------
 
   wrongPool = newWrong;
 
@@ -603,11 +605,10 @@ function submit() {
   app.innerHTML = `
     <div style="max-width: 820px; margin: 0 auto; background: #ffffff; padding: 40px 50px; box-shadow: 0 4px 15px rgba(0,0,0,0.06); border-radius: 8px; font-family: 'Times New Roman', Times, serif;">
       
-      <!-- VỊ TRÍ MỚI: BỘ LỌC GÓC PHẢI -->
-      <div style="text-align: right; margin-bottom: 10px;">
-          <div style="font-size: 12px; color: #555; margin-bottom: 3px;">Tổng tiến độ kho: <b>${totalCorrect}/${totalSystem} câu</b></div>
-          <button onclick="filterResult('correct')" style="padding: 4px 8px; cursor: pointer; border: 1px solid #2e7d32; color: #2e7d32; background: #e8f5e9; border-radius: 4px;">Đúng</button>
-          <button onclick="filterResult('wrong')" style="padding: 4px 8px; cursor: pointer; border: 1px solid #c62828; color: #c62828; background: #ffebee; border-radius: 4px;">Còn lại</button>
+      <!-- PHẦN THÔNG TIN KHO ĐỀ BẠN YÊU CẦU -->
+      <div style="text-align: right; margin-bottom: 20px; font-size: 14px; line-height: 1.6;">
+          <div>Số câu đã làm đúng trong kho: <b>${totalCorrectInStore}</b></div>
+          <div>Số câu còn lại: <b>${totalRemainingInStore}</b></div>
       </div>
 
       <h1 style="font-size: 24px; font-weight: bold; text-align: center; margin: 0 0 10px 0; color: #111;">BÁO CÁO KẾT QUẢ KIỂM TRA</h1>
