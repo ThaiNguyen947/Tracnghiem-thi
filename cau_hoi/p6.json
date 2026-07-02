@@ -5113,6 +5113,15 @@
     "explanation": "Điểm b khoản 8 Điều 45 Luật Đất đai 2024 quy định cá nhân không sinh sống trong khu vực rừng phòng hộ thì không được nhận chuyển nhượng đất ở và đất khác trong khu vực đó."
   },
   {
+  "question": "Theo Luật Đất đai 2024, việc công chứng, chứng thực hợp đồng thực hiện quyền của người sử dụng đất được thực hiện theo hệ thống pháp luật nào?",
+  "a": "Pháp luật về đất đai và các quy định riêng của địa phương",
+  "b": "Pháp luật về công chứng, chứng thực",
+  "c": "Pháp luật về kinh doanh bất động sản",
+  "d": "Quy chế nội bộ của cơ quan đăng ký đất đai",
+  "answer": "b",
+  "explanation": "Điểm d khoản 3 Điều 27 Luật Đất đai 2024 quy định việc công chứng, chứng thực hợp đồng thực hiện quyền của người sử dụng đất được thực hiện theo pháp luật về công chứng, chứng thực."
+},
+  {
     "question": "Theo Luật Đất đai 2024, hợp đồng chuyển nhượng quyền sử dụng đất mà một bên tham gia là tổ chức kinh doanh bất động sản thì thủ tục công chứng, chứng thực như thế nào?",
     "a": "Bắt buộc phải công chứng để đảm bảo tính pháp lý của doanh nghiệp",
     "b": "Chỉ được phép thực hiện chứng thực tại UBND cấp xã nơi có đất",
@@ -5129,15 +5138,6 @@
     "d": "Chỉ được công chứng tại các Văn phòng công chứng được chỉ định",
     "answer": "b",
     "explanation": "Điểm b khoản 3 Điều 27 Luật Đất đai 2024 quy định hợp đồng góp vốn mà có bên là tổ chức kinh doanh BĐS thì công chứng hoặc chứng thực theo yêu cầu của các bên."
-  },
-  {
-    "question": "Theo Luật Đất đai 2024, việc công chứng, chứng thực hợp đồng thực hiện quyền của người sử dụng đất tuân thủ quy định nào?",
-    "a": "Pháp luật về đất đai và các quy định riêng biệt của từng địa phương",
-    "b": "Pháp luật về công chứng, chứng thực",
-    "c": "Pháp luật về kinh doanh bất động sản",
-    "d": "Quy chế nội bộ của cơ quan đăng ký đất đai",
-    "answer": "b",
-    "explanation": "Điểm d khoản 3 Điều 27 Luật Đất đai 2024 quy định rõ việc công chứng, chứng thực phải thực hiện theo pháp luật về công chứng, chứng thực."
   },
   {
     "question": "Theo Luật Đất đai 2024, trường hợp nào sau đây là ngoại lệ KHÔNG bắt buộc phải có Giấy chứng nhận để thực hiện quyền?",
