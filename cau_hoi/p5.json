@@ -5030,14 +5030,14 @@
     "explanation": "Khoản 2 Điều 30 Nghị định 21/2021/NĐ-CP: Sự vô hiệu phần nội dung liên quan đến một người bảo lãnh chỉ khiến phần nghĩa vụ của người đó mất bảo đảm, các người khác vẫn phải chịu trách nhiệm."
   },
   {
-    "question": "Trường hợp tài sản cầm cố bị hao mòn tự nhiên thì quy định về thông báo nguy cơ giảm giá trị tại Điều 31:",
-    "a": "Vẫn áp dụng",
-    "b": "Không áp dụng",
-    "c": "Chỉ áp dụng nếu có thỏa thuận",
-    "d": "Chỉ áp dụng với động sản",
-    "answer": "b",
-    "explanation": "Khoản 4 Điều 31 Nghị định 21/2021/NĐ-CP: Hao mòn tự nhiên là quy luật khách quan, nên không áp dụng quy định về việc thông báo nguy cơ giảm giá trị bất thường."
-  },
+  "question": "Theo Nghị định 21/2021/NĐ-CP, quy định về thông báo nguy cơ tài sản cầm cố bị giảm sút giá trị có được áp dụng đối với trường hợp tài sản bị hao mòn tự nhiên hay không?",
+  "a": "Có",
+  "b": "Không",
+  "c": "Chỉ khi các bên có thỏa thuận",
+  "d": "Chỉ đối với động sản",
+  "answer": "b",
+  "explanation": "Khoản 4 Điều 31 Nghị định 21/2021/NĐ-CP quy định trường hợp tài sản cầm cố bị hao mòn tự nhiên thì không áp dụng quy định về thông báo nguy cơ giảm sút giá trị tài sản."
+},
   {
     "question": "Khách hàng A thế chấp một dây chuyền sản xuất. Sau đó, A tự ý lắp đặt thêm hệ thống lọc bụi (bộ phận cấu thành) vào dây chuyền mà không thông báo. Ngân hàng xử lý thế nào?",
     "a": "Hệ thống lọc bụi không thuộc tài sản thế chấp nên ngân hàng không có quyền gì",
