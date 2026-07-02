@@ -606,9 +606,9 @@ function submit() {
     <div style="max-width: 820px; margin: 0 auto; background: #ffffff; padding: 40px 50px; box-shadow: 0 4px 15px rgba(0,0,0,0.06); border-radius: 8px; font-family: 'Times New Roman', Times, serif;">
       
       <!-- PHẦN THÔNG TIN KHO ĐỀ BẠN YÊU CẦU -->
-      <div style="text-align: right; margin-bottom: 20px; font-size: 14px; line-height: 1.6;">
-          <div>Số câu đã làm đúng trong kho: <b>${totalCorrectInStore}</b></div>
-          <div>Số câu còn lại: <b>${totalRemainingInStore}</b></div>
+      <div style="text-align: right; margin-bottom: 25px; padding: 15px; background-color: #f8f9fa; border-radius: 8px; border-right: 4px solid #00796b;">
+          <div style="color: #444; margin-bottom: 5px;">Số câu đã làm đúng: <b style="color: #00796b; font-size: 16px;">${totalCorrectInStore}</b></div>
+          <div style="color: #444;">Số câu còn lại: <b style="color: #c62828; font-size: 16px;">${totalRemainingInStore}</b></div>
       </div>
 
       <h1 style="font-size: 24px; font-weight: bold; text-align: center; margin: 0 0 10px 0; color: #111;">BÁO CÁO KẾT QUẢ KIỂM TRA</h1>
