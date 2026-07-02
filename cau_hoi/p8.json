@@ -5507,15 +5507,15 @@
     "answer": "a",
     "explanation": "Điểm h khoản 2 Điều 24 quy định Điều lệ phải có nguyên tắc giải quyết tranh chấp nội bộ."
   },
-  {
-    "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, Điều lệ công ty phải quy định nội dung nào liên quan đến thể thức ra quyết định?",
-    "a": "Biểu phí dịch vụ công chứng/chứng thực các nghị quyết của công ty",
-    "b": "Thể thức thông qua quyết định của công ty",
-    "c": "Mức lương tối thiểu của người lao động trong các quyết định điều hành",
-    "d": "Phương thức thanh toán bằng tiền mặt cho các quyết định mua sắm tài sản",
-    "answer": "b",
-    "explanation": "Điểm h khoản 2 Điều 24 quy định Điều lệ phải có thể thức thông qua quyết định của công ty."
-  },
+    {
+  "question": "Theo Luật Doanh nghiệp 2020 (đã được sửa đổi, bổ sung), Điều lệ công ty phải quy định nội dung nào sau đây?",
+  "a": "Biểu phí dịch vụ công chứng, chứng thực các nghị quyết của công ty",
+  "b": "Thể thức thông qua quyết định của công ty",
+  "c": "Mức lương tối thiểu của người lao động trong công ty",
+  "d": "Phương thức thanh toán bằng tiền mặt khi mua sắm tài sản",
+  "answer": "b",
+  "explanation": "Theo điểm h khoản 2 Điều 24 Luật Doanh nghiệp 2020, Điều lệ công ty phải có nội dung về thể thức thông qua quyết định của công ty."
+}
   {
     "question": "Theo Luật Doanh nghiệp 2020, đã được SĐBS, người đại diện theo ủy quyền của cổ đông sáng lập là tổ chức có được ký Điều lệ công ty khi đăng ký doanh nghiệp không?",
     "a": "Không được ký, bắt buộc người đại diện theo pháp luật của cổ đông sáng lập phải ký trực tiếp",
