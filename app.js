@@ -595,18 +595,31 @@ function submit() {
   document.body.style.padding = "20px 0";
 
   app.innerHTML = `
-    <div style="max-width: 820px; margin: 0 auto; background: #ffffff; padding: 40px 50px; box-shadow: 0 4px 15px rgba(0,0,0,0.06); border-radius: 8px; font-family: 'Times New Roman', Times, serif;">
-      <h1 style="font-size: 24px; font-weight: bold; text-align: center; margin: 0 0 10px 0; color: #111;">BÁO CÁO KẾT QUẢ KIỂM TRA</h1>
-      <p style="text-align: center; font-size: 15px; color: #555; margin: 0 0 20px 0;">
-        Số câu đã hoàn thành: <b>${submittedCount}/${questions.length}</b><br>
-        Số câu đúng: <b style="color: #2e7d32;">${correct}</b> | Sai: <b style="color: #c62828;">${wrong}</b>
-      </p>
-      <div style="text-align: center; margin-bottom: 25px;">
-        <button class="btn" style="background: #00796b; color: white; padding: 10px 28px; border-radius: 20px; cursor: pointer; border: none;" onclick="location.reload()">THI VÒNG ĐỀ MỚI</button>
-      </div>
-      <div id="result-list"></div>
+  <div style="max-width: 820px; margin: 0 auto; background: #ffffff; padding: 40px 50px; box-shadow: 0 4px 15px rgba(0,0,0,0.06); border-radius: 8px;">
+    
+    <!-- PHẦN CŨ: GIỮ NGUYÊN HOẶC ĐIỀU CHỈNH NHẸ -->
+    <h1 style="font-size: 24px; font-weight: bold; text-align: center; margin: 0 0 10px 0; color: #111;">BÁO CÁO KẾT QUẢ KIỂM TRA</h1>
+    
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+        <p style="text-align: center; font-size: 15px; color: #555; margin: 0;">
+            Số câu đã hoàn thành: <b>${answeredCount}/${questions.length}</b><br>
+            Số câu đúng: <b style="color: #2e7d32;">${correct}</b> | Sai: <b style="color: #c62828;">${wrong}</b>
+        </p>
+
+        <!-- PHẦN MỚI: HAI BỘ LỌC THÊM VÀO BÊN PHẢI -->
+        <div style="text-align: right;">
+            <div style="font-size: 13px; margin-bottom: 5px; color: #555;">Bộ lọc nhanh:</div>
+            <button onclick="filterResult('correct')" style="padding: 5px 10px; cursor: pointer;">Đúng</button>
+            <button onclick="filterResult('wrong')" style="padding: 5px 10px; cursor: pointer;">Còn lại</button>
+        </div>
     </div>
-  `;
+
+    <div style="text-align: center; margin-bottom: 25px;">
+        <button class="btn" onclick="location.reload()">THI VÒNG ĐỀ MỚI</button>
+    </div>
+    <div id="result-list"></div>
+  </div>
+`;
   filterResult('all');
 }
 
