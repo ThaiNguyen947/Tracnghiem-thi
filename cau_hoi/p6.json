@@ -1233,14 +1233,14 @@
     "explanation": "Căn cứ Điều 30 NĐ101/2024/NĐ-CP: việc đăng ký biến động có hiệu lực từ thời điểm đăng ký vào sổ địa chính."
   },
   {
-    "question": "Theo NĐ101/2024/NĐ-CP, khi đăng ký biến động do chuyển nhượng quyền sử dụng đất, công chứng viên phải kiểm tra nội dung nào?",
-    "a": "Giá chuyển nhượng",
-    "b": "Tình trạng pháp lý của Giấy chứng nhận và quyền sử dụng đất",
-    "c": "Phong thủy thửa đất",
-    "d": "Màu sắc Giấy chứng nhận",
-    "answer": "b",
-    "explanation": "Căn cứ Điều 30 và Điều 41 NĐ101/2024/NĐ-CP: phải kiểm tra tình trạng pháp lý của GCN và quyền sử dụng đất trước khi giao dịch."
-  },
+  "question": "Theo NĐ 101/2024/NĐ-CP, khi thực hiện đăng ký biến động do chuyển nhượng quyền sử dụng đất, cơ quan đăng ký đất đai kiểm tra nội dung nào trong hồ sơ?",
+  "a": "Màu sắc Giấy chứng nhận",
+  "b": "Tính đầy đủ, hợp lệ của hồ sơ và điều kiện thực hiện quyền của người sử dụng đất",
+  "c": "Phong thủy thửa đất",
+  "d": "Thu nhập của bên nhận chuyển nhượng",
+  "answer": "b",
+  "explanation": "Theo các quy định về đăng ký biến động tại NĐ 101/2024/NĐ-CP, cơ quan đăng ký đất đai có trách nhiệm kiểm tra tính đầy đủ, hợp lệ của hồ sơ và điều kiện thực hiện quyền của người sử dụng đất trước khi giải quyết thủ tục."
+},
   {
     "question": "Theo NĐ101/2024/NĐ-CP, trường hợp sai lệch diện tích do đo đạc lại thì xử lý như thế nào?",
     "a": "Hủy Giấy chứng nhận",
