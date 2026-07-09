@@ -6166,10 +6166,10 @@
   },
   {
     "question": "Khi Tòa án ra quyết định hủy bỏ tuyên bố một người là đã chết mà vợ hoặc chồng của người đó chưa kết hôn với người khác thì quan hệ hôn nhân sẽ như thế nào?",
-    "a": "nếu đã ly hôn thì ly hôn vẫn có hiệu lực pháp luật",
-    "b": "được khôi phục kể từ thời điểm kết hôn",
-    "c": "nếu đã ly hôn thì ly hôn bị hủy bỏ",
-    "d": "Cả a và b đúng, chỉ c sai",
+    "a": "1 nếu đã ly hôn thì ly hôn vẫn có hiệu lực pháp luật",
+    "b": "2 được khôi phục kể từ thời điểm kết hôn",
+    "c": "3 nếu đã ly hôn thì ly hôn bị hủy bỏ",
+    "d": "Cả ý 1 và 2 đúng, chỉ 3 sai",
     "answer": "D",
     "explanation": "Theo Điều 67 Luật Hôn nhân và Gia đình 2014, quan hệ hôn nhân được khôi phục trừ trường hợp bên kia đã ly hôn hoặc kết hôn với người khác."
   },
