@@ -1,4 +1,238 @@
 [
+  {
+    "question": "Theo Luật số 43/2024/QH15, Luật Kinh doanh bất động sản 2023 được điều chỉnh thời điểm có hiệu lực thi hành sang ngày nào?",
+    "a": "Ngày 01/01/2025.",
+    "b": "Ngày 01/08/2024.",
+    "c": "Ngày 01/07/2024.",
+    "d": "Ngày 01/01/2026.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 3 Luật số 43/2024/QH15, Luật Kinh doanh bất động sản 2023 có hiệu lực thi hành từ ngày 01/08/2024 thay vì ngày 01/01/2025 theo quy định ban đầu."
+  },
+  {
+    "question": "Trường hợp nào sau đây KHÔNG thuộc phạm vi điều chỉnh trực tiếp của Luật Kinh doanh bất động sản 2023?",
+    "a": "Kinh doanh nhà ở, công trình xây dựng có sẵn.",
+    "b": "Kinh doanh quyền sử dụng đất đã có hạ tầng kỹ thuật trong dự án bất động sản.",
+    "c": "Chuyển nhượng quyền sử dụng đất dân sự thông thường ngoài dự án của cá nhân.",
+    "d": "Chuyển nhượng toàn bộ hoặc một phần dự án bất động sản.",
+    "answer": "c",
+    "explanation": "Căn cứ Điều 1 Luật Kinh doanh bất động sản 2023, hoạt động chuyển nhượng quyền sử dụng đất dân sự thông thường ngoài phạm vi kinh doanh bất động sản theo dự án không thuộc phạm vi điều chỉnh trực tiếp của Luật này mà được điều chỉnh chủ yếu bởi pháp luật đất đai và pháp luật dân sự."
+  },
+  {
+    "question": "Theo khoản 1 Điều 7 Nghị định 96/2024/NĐ-CP, trường hợp nào sau đây thuộc hoạt động kinh doanh bất động sản quy mô nhỏ của cá nhân, không bắt buộc thành lập doanh nghiệp?",
+    "a": "Cá nhân không phải lập dự án đầu tư, có hợp đồng không quá 300 tỷ đồng và thực hiện không quá 10 giao dịch mỗi năm.",
+    "b": "Cá nhân không phải lập dự án đầu tư, có hợp đồng trên 300 tỷ đồng nhưng thực hiện không quá 10 giao dịch mỗi năm.",
+    "c": "Cá nhân không phải lập dự án đầu tư và không đồng thời có hợp đồng trên 300 tỷ đồng, số lần giao dịch trên 10 lần trong một năm.",
+    "d": "Cá nhân không phải lập dự án đầu tư nhưng chỉ được thực hiện tối đa 05 giao dịch mỗi năm.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 1 Điều 7 Nghị định 96/2024/NĐ-CP, tiêu chí về giá trị hợp đồng trên 300 tỷ đồng và số lần giao dịch trên 10 lần trong một năm được xem xét đồng thời. Cá nhân không thuộc trường hợp phải lập dự án đầu tư và không đồng thời vượt cả hai ngưỡng này thì thuộc trường hợp kinh doanh bất động sản quy mô nhỏ. Trường hợp chỉ giao dịch 01 lần trong năm thì không tính giá trị giao dịch."
+  },
+  {
+    "question": "Theo khoản 4 Điều 8 Nghị định 96/2024/NĐ-CP, trong thời hạn bao nhiêu ngày kể từ ngày nhận được thông báo và hồ sơ của chủ đầu tư về nhà ở hình thành trong tương lai đủ điều kiện được bán, cho thuê mua, cơ quan quản lý nhà nước về kinh doanh bất động sản cấp tỉnh phải kiểm tra và trả lời?",
+    "a": "05 ngày làm việc.",
+    "b": "10 ngày.",
+    "c": "15 ngày.",
+    "d": "30 ngày.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 4 Điều 8 Nghị định 96/2024/NĐ-CP, cơ quan quản lý nhà nước về kinh doanh bất động sản cấp tỉnh có trách nhiệm kiểm tra và trả lời chủ đầu tư trong thời hạn 15 ngày kể từ ngày nhận được thông báo kèm hồ sơ theo quy định."
+  },
+  {
+    "question": "Theo Điều 25 Luật Kinh doanh bất động sản 2023, tổng số tiền thanh toán trước khi bàn giao nhà ở hình thành trong tương lai đối với hợp đồng thuê mua không được vượt quá bao nhiêu phần trăm giá trị hợp đồng?",
+    "a": "30% giá trị hợp đồng.",
+    "b": "50% giá trị hợp đồng.",
+    "c": "70% giá trị hợp đồng.",
+    "d": "95% giá trị hợp đồng.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 25 Luật Kinh doanh bất động sản 2023, việc thanh toán trong thuê mua nhà ở, công trình xây dựng hình thành trong tương lai được thực hiện nhiều lần; tổng số tiền thanh toán trước khi bàn giao nhà ở, công trình xây dựng cho bên thuê mua không vượt quá 50% giá trị hợp đồng."
+  },
+  {
+    "question": "Theo khoản 3 Điều 25 Luật Kinh doanh bất động sản 2023, trường hợp bên mua, bên thuê mua chưa được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất thì bên bán, bên cho thuê mua không được thu quá bao nhiêu phần trăm giá trị hợp đồng?",
+    "a": "50% giá trị hợp đồng.",
+    "b": "70% giá trị hợp đồng.",
+    "c": "90% giá trị hợp đồng.",
+    "d": "95% giá trị hợp đồng.",
+    "answer": "d",
+    "explanation": "Căn cứ khoản 3 Điều 25 Luật Kinh doanh bất động sản 2023, bên bán, bên cho thuê mua không được thu quá 95% giá trị hợp đồng khi bên mua, bên thuê mua chưa được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất."
+  },
+  {
+    "question": "Theo khoản 5 Điều 44 Luật Kinh doanh bất động sản 2023, hợp đồng kinh doanh bất động sản nào sau đây bắt buộc phải được công chứng hoặc chứng thực?",
+    "a": "Hợp đồng mua bán nhà ở giữa hai doanh nghiệp kinh doanh bất động sản.",
+    "b": "Hợp đồng mua bán, thuê mua nhà ở, công trình xây dựng, phần diện tích sàn xây dựng mà các bên tham gia giao dịch đều là cá nhân.",
+    "c": "Hợp đồng kinh doanh dịch vụ bất động sản giữa tổ chức và cá nhân.",
+    "d": "Mọi hợp đồng kinh doanh bất động sản có giá trị trên 300 tỷ đồng.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 5 Điều 44 Luật Kinh doanh bất động sản 2023, hợp đồng mua bán, thuê mua nhà ở, công trình xây dựng, phần diện tích sàn xây dựng mà các bên tham gia giao dịch là cá nhân phải được công chứng hoặc chứng thực theo quy định. Trường hợp các bên là tổ chức kinh doanh bất động sản thì thực hiện theo thỏa thuận, trừ trường hợp pháp luật có quy định khác."
+  },
+  {
+    "question": "Theo Nghị định 54/2026/NĐ-CP, văn bản hợp đồng chuyển nhượng hợp đồng mua bán, thuê mua nhà ở, công trình xây dựng phải được lập với số lượng tối thiểu bao nhiêu bản?",
+    "a": "Không ít hơn 03 bản.",
+    "b": "Không ít hơn 04 bản.",
+    "c": "Không ít hơn 05 bản.",
+    "d": "Không ít hơn 06 bản.",
+    "answer": "d",
+    "explanation": "Căn cứ quy định tại Điều 4 Nghị định 54/2026/NĐ-CP sửa đổi, bổ sung Điều 13 Nghị định 96/2024/NĐ-CP, văn bản hợp đồng chuyển nhượng hợp đồng mua bán, thuê mua nhà ở, công trình xây dựng được lập thành số lượng bản theo thỏa thuận của các bên nhưng không ít hơn 06 bản."
+  },
+  {
+    "question": "Theo khoản 1 Điều 50 Luật Kinh doanh bất động sản 2023, điều kiện nào sau đây là điều kiện bắt buộc để được chuyển nhượng hợp đồng mua bán, thuê mua nhà ở, công trình xây dựng?",
+    "a": "Bên mua, bên thuê mua đã thanh toán đủ 100% giá trị hợp đồng.",
+    "b": "Chưa nộp hồ sơ đề nghị cấp Giấy chứng nhận cho cơ quan nhà nước có thẩm quyền.",
+    "c": "Dự án đã hoàn thành bàn giao toàn bộ cho khách hàng.",
+    "d": "Phải có văn bản chấp thuận của Ủy ban nhân dân cấp tỉnh.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 50 Luật Kinh doanh bất động sản 2023, một trong các điều kiện để chuyển nhượng hợp đồng là bên mua, bên thuê mua chưa nộp hồ sơ đề nghị cơ quan nhà nước có thẩm quyền cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất. Ngoài ra, phải đáp ứng các điều kiện khác về tranh chấp, kê biên, thế chấp và hợp đồng theo quy định tại khoản này."
+  },
+  {
+    "question": "Theo khoản 7 Điều 12 Nghị định 96/2024/NĐ-CP, được sửa đổi, bổ sung bởi Nghị định 144/2025/NĐ-CP, trong thời hạn tối đa bao nhiêu ngày kể từ ngày có quyết định cho phép chuyển nhượng toàn bộ hoặc một phần dự án bất động sản, các bên phải hoàn thành việc ký kết hợp đồng chuyển nhượng và bàn giao dự án?",
+    "a": "15 ngày.",
+    "b": "30 ngày.",
+    "c": "60 ngày.",
+    "d": "90 ngày.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 7 Điều 12 Nghị định 96/2024/NĐ-CP, được sửa đổi, bổ sung bởi Nghị định 144/2025/NĐ-CP, trong thời hạn tối đa 60 ngày kể từ ngày có quyết định cho phép chuyển nhượng toàn bộ hoặc một phần dự án bất động sản, các bên phải hoàn thành việc ký kết hợp đồng chuyển nhượng và bàn giao dự án hoặc phần dự án cùng hồ sơ có liên quan theo quy định."
+  },
+  {
+    "question": "Trong chuyên đề pháp luật về ngân hàng – tín dụng phục vụ hành nghề công chứng, văn bản pháp luật nào là văn bản chuyên ngành trung tâm cần nghiên cứu sâu về tư cách chủ thể, giấy phép, hoạt động ngân hàng, cấp tín dụng và xử lý nợ xấu?",
+    "a": "Pháp lệnh Ngoại hối.",
+    "b": "Luật Các tổ chức tín dụng 2024.",
+    "c": "Luật sửa đổi, bổ sung một số điều của Luật Các tổ chức tín dụng 2025.",
+    "d": "Bộ luật Dân sự 2015.",
+    "answer": "b",
+    "explanation": "Luật Các tổ chức tín dụng số 32/2024/QH15 là văn bản chuyên ngành trung tâm điều chỉnh việc thành lập, tổ chức, hoạt động của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và việc xử lý nợ xấu, tài sản bảo đảm của khoản nợ xấu. Luật 96/2025/QH15 là văn bản sửa đổi, bổ sung một số điều của Luật này, cần đọc kết hợp khi xác định pháp luật hiện hành."
+  },
+  {
+    "question": "Theo Luật Các tổ chức tín dụng 2024, chi nhánh ngân hàng nước ngoài tại Việt Nam có đặc điểm pháp lý nào sau đây?",
+    "a": "Là pháp nhân độc lập, tự chịu trách nhiệm bằng toàn bộ tài sản của mình.",
+    "b": "Không có tư cách pháp nhân, là đơn vị phụ thuộc của ngân hàng nước ngoài và hoạt động theo giấy phép được Ngân hàng Nhà nước cấp.",
+    "c": "Là doanh nghiệp Việt Nam có vốn đầu tư nước ngoài.",
+    "d": "Được thực hiện mọi hoạt động ngân hàng không phụ thuộc vào nội dung giấy phép.",
+    "answer": "b",
+    "explanation": "Căn cứ quy định về giải thích từ ngữ tại Điều 4 và các quy định về chi nhánh ngân hàng nước ngoài của Luật Các tổ chức tín dụng 2024, chi nhánh ngân hàng nước ngoài là đơn vị phụ thuộc của ngân hàng nước ngoài, không có tư cách pháp nhân độc lập. Chi nhánh hoạt động theo giấy phép do Ngân hàng Nhà nước cấp và phải tuân thủ giới hạn hoạt động theo pháp luật Việt Nam."
+  },
+  {
+    "question": "Theo Luật Các tổ chức tín dụng 2024, tổ chức tín dụng phi ngân hàng bị hạn chế như thế nào về hoạt động nhận tiền gửi và cung ứng dịch vụ thanh toán?",
+    "a": "Không được nhận tiền gửi dưới 01 tháng từ bất kỳ tổ chức, cá nhân nào.",
+    "b": "Không được nhận tiền gửi của cá nhân và không được cung ứng dịch vụ thanh toán qua tài khoản của khách hàng.",
+    "c": "Không được thực hiện hoạt động cấp tín dụng dưới bất kỳ hình thức nào.",
+    "d": "Không được thực hiện hoạt động cho thuê tài chính và bao thanh toán.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 4 Điều 4 Luật Các tổ chức tín dụng 2024, tổ chức tín dụng phi ngân hàng là loại hình tổ chức tín dụng được thực hiện một hoặc một số hoạt động ngân hàng theo quy định của Luật này, trừ hoạt động nhận tiền gửi của cá nhân và cung ứng dịch vụ thanh toán qua tài khoản của khách hàng."
+  },
+  {
+    "question": "Theo Luật Các tổ chức tín dụng 2024, người đại diện theo pháp luật của tổ chức tín dụng phải thuộc một trong những chức danh nào sau đây?",
+    "a": "Chỉ có Giám đốc hoặc Phó Giám đốc chi nhánh.",
+    "b": "Chủ tịch Hội đồng quản trị, Chủ tịch Hội đồng thành viên hoặc Tổng giám đốc (Giám đốc) của tổ chức tín dụng.",
+    "c": "Trưởng phòng tín dụng hoặc Kế toán trưởng.",
+    "d": "Bất kỳ người quản lý nào được tổ chức tín dụng ủy quyền.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 11 Luật Các tổ chức tín dụng 2024, người đại diện theo pháp luật của tổ chức tín dụng được quy định tại Điều lệ và phải là một trong những người sau đây: Chủ tịch Hội đồng quản trị hoặc Chủ tịch Hội đồng thành viên của tổ chức tín dụng; Tổng giám đốc (Giám đốc) của tổ chức tín dụng. Người đại diện còn phải đáp ứng điều kiện cư trú tại Việt Nam theo khoản 2 Điều này."
+  },
+  {
+    "question": "Theo Luật Các tổ chức tín dụng 2024, khái niệm 'Cấp tín dụng' có phạm vi như thế nào so với hoạt động 'Cho vay'?",
+    "a": "Cấp tín dụng có phạm vi hẹp hơn cho vay.",
+    "b": "Cấp tín dụng và cho vay là hai khái niệm hoàn toàn đồng nhất.",
+    "c": "Cấp tín dụng là khái niệm rộng hơn, bao gồm cho vay, chiết khấu, cho thuê tài chính, bao thanh toán, bảo lãnh ngân hàng, thư tín dụng và các nghiệp vụ cấp tín dụng khác.",
+    "d": "Cấp tín dụng chỉ bao gồm hoạt động bảo lãnh và thư tín dụng.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 4 Điều 4 Luật Các tổ chức tín dụng 2024, cấp tín dụng là việc thỏa thuận để tổ chức, cá nhân sử dụng một khoản tiền hoặc cam kết cho phép sử dụng một khoản tiền theo nguyên tắc có hoàn trả bằng các nghiệp vụ như cho vay, chiết khấu, cho thuê tài chính, bao thanh toán, bảo lãnh ngân hàng, thư tín dụng và các nghiệp vụ cấp tín dụng khác. Vì vậy, cho vay chỉ là một hình thức cấp tín dụng."
+  },
+  {
+    "question": "Theo Luật Các tổ chức tín dụng 2024, được bổ sung bởi Luật 96/2025/QH15, chậm nhất bao nhiêu ngày trước ngày tiến hành thu giữ tài sản bảo đảm là bất động sản, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài hoặc tổ chức mua bán, xử lý nợ phải thực hiện thủ tục công khai thông tin?",
+    "a": "03 ngày.",
+    "b": "07 ngày.",
+    "c": "15 ngày.",
+    "d": "30 ngày.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 198a Luật Các tổ chức tín dụng 2024, được bổ sung bởi khoản 2 Điều 1 Luật 96/2025/QH15, chậm nhất 15 ngày trước ngày tiến hành thu giữ tài sản bảo đảm là bất động sản, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức mua bán, xử lý nợ phải thực hiện thủ tục công khai thông tin về thời gian, địa điểm thu giữ, tài sản bảo đảm được thu giữ và lý do thu giữ. Quy định thời hạn 15 ngày này áp dụng đối với bất động sản; không được nhầm với quy định công khai thông tin trước khi thu giữ động sản tại khoản 4 Điều 198a."
+  },
+  {
+    "question": "Theo Luật Các tổ chức tín dụng 2024, được bổ sung bởi Luật 96/2025/QH15, tổ chức tín dụng được ủy quyền thu giữ tài sản bảo đảm cho chủ thể nào sau đây?",
+    "a": "Bất kỳ doanh nghiệp kinh doanh dịch vụ thu hồi nợ nào.",
+    "b": "Công ty quản lý nợ và khai thác tài sản của chính tổ chức tín dụng đó.",
+    "c": "Bất kỳ tổ chức hành nghề công chứng hoặc Văn phòng Thừa phát lại nào.",
+    "d": "Mọi tổ chức tín dụng khác trên thị trường.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 6 Điều 198a Luật Các tổ chức tín dụng 2024, được bổ sung bởi khoản 2 Điều 1 Luật 96/2025/QH15: tổ chức tín dụng chỉ được ủy quyền thu giữ tài sản bảo đảm cho công ty quản lý nợ và khai thác tài sản của tổ chức tín dụng đó. Đối với tổ chức mua bán, xử lý nợ, luật quy định riêng: chỉ được ủy quyền cho tổ chức tín dụng bán nợ hoặc công ty quản lý nợ và khai thác tài sản của tổ chức tín dụng bán nợ. Đối với tổ chức tín dụng được chuyển giao bắt buộc, có quy định riêng về chủ thể nhận ủy quyền."
+  },
+  {
+    "question": "Theo Pháp lệnh Ngoại hối 2005, được sửa đổi, bổ sung năm 2013, việc giao dịch, thanh toán, niêm yết, báo giá, định giá và ghi giá trong hợp đồng bằng ngoại hối trên lãnh thổ Việt Nam được quy định như thế nào?",
+    "a": "Được tự do thỏa thuận ghi giá và thanh toán bằng ngoại tệ nếu các bên cùng tự nguyện.",
+    "b": "Không được thực hiện bằng ngoại hối, trừ các trường hợp được phép theo quy định của Ngân hàng Nhà nước Việt Nam.",
+    "c": "Chỉ cấm đối với giao dịch bất động sản, các giao dịch khác được tự do sử dụng ngoại tệ.",
+    "d": "Được phép ghi giá bằng USD nếu hợp đồng được công chứng.",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 22 Pháp lệnh Ngoại hối số 28/2005/PL-UBTVQH11, được sửa đổi, bổ sung bởi Pháp lệnh số 06/2013/UBTVQH13, trên lãnh thổ Việt Nam, mọi giao dịch, thanh toán, niêm yết, quảng cáo, báo giá, định giá, ghi giá trong hợp đồng, thỏa thuận và các hình thức tương tự khác của người cư trú, người không cư trú không được thực hiện bằng ngoại hối, trừ các trường hợp được phép theo quy định của Ngân hàng Nhà nước Việt Nam. Việc có bên tham gia là người nước ngoài hoặc hợp đồng đã được công chứng không đương nhiên làm phát sinh ngoại lệ."
+  },
+  {
+    "question": "Luật số 96/2025/QH15 sửa đổi, bổ sung một số điều của Luật Các tổ chức tín dụng 2024 có hiệu lực thi hành từ ngày nào?",
+    "a": "01/01/2025.",
+    "b": "15/10/2025.",
+    "c": "01/08/2025.",
+    "d": "01/01/2026.",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 2 Luật số 96/2025/QH15, Luật sửa đổi, bổ sung một số điều của Luật Các tổ chức tín dụng có hiệu lực thi hành từ ngày 15/10/2025. Luật này bổ sung các Điều 198a, 198b và 198c, trong đó Điều 198a quy định quyền thu giữ tài sản bảo đảm của khoản nợ xấu."
+  },
+  {
+    "question": "Theo Luật Các tổ chức tín dụng 2024, được bổ sung bởi Luật 96/2025/QH15, trường hợp hợp đồng bảo đảm đã được công chứng thì tổ chức tín dụng có đương nhiên được quyền thu giữ tài sản bảo đảm của khoản nợ xấu hay không?",
+    "a": "Có, vì công chứng hợp đồng bảo đảm đồng nghĩa với việc bên bảo đảm đã đồng ý cho thu giữ tài sản.",
+    "b": "Không, phải đồng thời đáp ứng đầy đủ các điều kiện luật định, trong đó có trường hợp xử lý tài sản bảo đảm theo Điều 299 Bộ luật Dân sự, thỏa thuận về quyền thu giữ, hiệu lực đối kháng với người thứ ba, điều kiện về tình trạng pháp lý của tài sản và nghĩa vụ công khai thông tin.",
+    "c": "Có, nếu hợp đồng bảo đảm có chữ ký của người làm chứng.",
+    "d": "Không, vì chỉ có Tòa án mới được quyền thu giữ tài sản bảo đảm của khoản nợ xấu.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 198a Luật Các tổ chức tín dụng 2024, được bổ sung bởi khoản 2 Điều 1 Luật 96/2025/QH15, quyền thu giữ tài sản bảo đảm của khoản nợ xấu chỉ được thực hiện khi đồng thời đáp ứng các điều kiện: a) Xảy ra trường hợp xử lý tài sản bảo đảm theo Điều 299 Bộ luật Dân sự; b) Hợp đồng bảo đảm có thỏa thuận bên bảo đảm đồng ý cho bên nhận bảo đảm có quyền thu giữ; c) Biện pháp bảo đảm đã phát sinh hiệu lực đối kháng với người thứ ba; d) Tài sản không thuộc các trường hợp tranh chấp, bị áp dụng biện pháp khẩn cấp tạm thời, bị kê biên hoặc các trường hợp bị hạn chế xử lý theo quy định; đ) Tài sản đáp ứng điều kiện theo quy định của Chính phủ; e) Chủ thể thu giữ đã thực hiện nghĩa vụ công khai thông tin theo khoản 3 hoặc khoản 4 Điều này. Việc công chứng hợp đồng bảo đảm không thay thế các điều kiện nêu trên."
+  },
+  {
+    "question": "Theo Luật Các tổ chức tín dụng 2024, được bổ sung bởi Luật số 96/2025/QH15, việc thông báo và niêm yết công khai trước khi thu giữ tài sản bảo đảm là bất động sản được thực hiện như thế nào?",
+    "a": "Gửi thông báo cho UBND cấp tỉnh và Công an cấp tỉnh; niêm yết tại trụ sở UBND cấp tỉnh nơi có tài sản.",
+    "b": "Gửi văn bản thông báo cho UBND cấp xã và cơ quan Công an cấp xã nơi có tài sản; niêm yết tại trụ sở UBND cấp xã nơi bên bảo đảm đăng ký địa chỉ theo hợp đồng và nơi có tài sản.",
+    "c": "Gửi thông báo cho Tòa án nhân dân cấp xã và Công an cấp xã; niêm yết tại Văn phòng đăng ký đất đai.",
+    "d": "Chỉ cần gửi thông báo cho UBND cấp xã nơi có tài sản, không phải thực hiện niêm yết công khai.",
+    "answer": "b",
+    "explanation": "Căn cứ điểm b, điểm c khoản 3 Điều 198a Luật Các tổ chức tín dụng 2024, được bổ sung bởi khoản 2 Điều 1 Luật số 96/2025/QH15. Chủ thể thu giữ phải gửi văn bản thông báo cho UBND cấp xã và cơ quan Công an cấp xã nơi có tài sản bảo đảm; đồng thời niêm yết văn bản tại trụ sở UBND cấp xã nơi bên bảo đảm đăng ký địa chỉ theo hợp đồng bảo đảm và trụ sở UBND cấp xã nơi có tài sản bảo đảm. Lưu ý: Công an cấp xã nhận thông báo nhưng không phải địa điểm niêm yết theo điểm c."
+  },
+  {
+    "question": "Theo Luật Các tổ chức tín dụng 2024, được bổ sung bởi Luật số 96/2025/QH15, tài sản của người phải thi hành án đang được sử dụng làm tài sản bảo đảm cho khoản nợ xấu tại tổ chức tín dụng bị kê biên, xử lý theo pháp luật về thi hành án dân sự trong trường hợp nào sau đây?",
+    "a": "Chỉ khi tổ chức tín dụng có văn bản yêu cầu cơ quan thi hành án kê biên tài sản.",
+    "b": "Khi hợp đồng bảo đảm được ký kết và phát sinh hiệu lực sau thời điểm bản án, quyết định của Tòa án có hiệu lực; thi hành bản án, quyết định về cấp dưỡng, bồi thường thiệt hại về tính mạng, sức khỏe; hoặc có sự đồng ý bằng văn bản của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức mua bán, xử lý nợ.",
+    "c": "Chỉ khi tài sản bảo đảm chưa được đăng ký giao dịch bảo đảm.",
+    "d": "Trong mọi trường hợp có bản án, quyết định của Tòa án mà không cần xem xét thời điểm xác lập hợp đồng bảo đảm.",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 198b Luật Các tổ chức tín dụng 2024, được bổ sung bởi khoản 2 Điều 1 Luật số 96/2025/QH15, tài sản của người phải thi hành án đang được sử dụng làm tài sản bảo đảm cho khoản nợ xấu bị kê biên, xử lý theo pháp luật về thi hành án dân sự khi thuộc một trong ba trường hợp: (1) Hợp đồng bảo đảm đã được ký kết và phát sinh hiệu lực sau thời điểm bản án, quyết định của Tòa án có hiệu lực pháp luật; (2) Thi hành bản án, quyết định về cấp dưỡng, bồi thường thiệt hại về tính mạng, sức khỏe; (3) Có sự đồng ý bằng văn bản của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức mua bán, xử lý nợ. Do đó, không thể hiểu tài sản bảo đảm của khoản nợ xấu được miễn kê biên tuyệt đối."
+  },
+  {
+    "question": "Theo Luật Các tổ chức tín dụng 2024, được sửa đổi, bổ sung bởi khoản 1 Điều 1 Luật số 96/2025/QH15, lãi suất cho vay đặc biệt của Ngân hàng Nhà nước đối với tổ chức tín dụng là bao nhiêu?",
+    "a": "0%/năm.",
+    "b": "0,5%/năm.",
+    "c": "1%/năm.",
+    "d": "Theo thỏa thuận giữa Ngân hàng Nhà nước và tổ chức tín dụng.",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 1 Điều 193 Luật Các tổ chức tín dụng 2024, được sửa đổi bởi khoản 1 Điều 1 Luật số 96/2025/QH15, lãi suất cho vay đặc biệt của Ngân hàng Nhà nước là 0%/năm. Quy định này áp dụng đối với khoản cho vay đặc biệt của Ngân hàng Nhà nước theo trường hợp quy định tại khoản 1 Điều 192 của Luật này; không được suy rộng thành lãi suất 0% đối với mọi khoản vay đặc biệt."
+  },
+  {
+    "question": "Theo Pháp lệnh Ngoại hối 2005, được sửa đổi, bổ sung năm 2013, người nước ngoài được phép cư trú tại Việt Nam với thời hạn bao nhiêu thì được xác định là người cư trú theo pháp luật về ngoại hối, nếu không thuộc trường hợp loại trừ?",
+    "a": "Từ đủ 06 tháng trở lên.",
+    "b": "Từ 12 tháng trở lên.",
+    "c": "Từ đủ 24 tháng trở lên.",
+    "d": "Chỉ cần có thị thực nhập cảnh hợp pháp là được xác định là người cư trú.",
+    "answer": "b",
+    "explanation": "Căn cứ điểm h khoản 2 Điều 4 Pháp lệnh Ngoại hối số 28/2005/PL-UBTVQH11, được sửa đổi, bổ sung bởi Pháp lệnh số 06/2013/UBTVQH13, người nước ngoài được phép cư trú tại Việt Nam với thời hạn từ 12 tháng trở lên thuộc đối tượng người cư trú. Tuy nhiên, người nước ngoài học tập, chữa bệnh, du lịch hoặc làm việc cho cơ quan đại diện ngoại giao, lãnh sự, cơ quan đại diện của tổ chức quốc tế tại Việt Nam và văn phòng đại diện của tổ chức nước ngoài tại Việt Nam không kể thời hạn đều thuộc trường hợp loại trừ được quy định tại chính điểm h này."
+  },
+  {
+    "question": "Theo Pháp lệnh Ngoại hối 2005, được sửa đổi, bổ sung năm 2013, nhận định nào sau đây là ĐÚNG khi giải quyết hợp đồng có một bên tham gia là người nước ngoài trên lãnh thổ Việt Nam?",
+    "a": "Có người nước ngoài tham gia thì các bên đương nhiên được quyền ghi giá và thanh toán bằng USD.",
+    "b": "Việc có người nước ngoài tham gia không đương nhiên cho phép các bên giao dịch, thanh toán, niêm yết, định giá hoặc ghi giá bằng ngoại hối; chỉ được thực hiện trong các trường hợp được phép theo quy định của Ngân hàng Nhà nước Việt Nam.",
+    "c": "Chỉ hợp đồng mua bán bất động sản mới bị hạn chế ghi giá bằng ngoại tệ.",
+    "d": "Nếu hợp đồng được công chứng thì các bên được tự do thỏa thuận sử dụng ngoại tệ.",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 22 Pháp lệnh Ngoại hối số 28/2005/PL-UBTVQH11, được sửa đổi, bổ sung bởi Pháp lệnh số 06/2013/UBTVQH13, trên lãnh thổ Việt Nam, mọi giao dịch, thanh toán, niêm yết, quảng cáo, báo giá, định giá, ghi giá trong hợp đồng và các hình thức tương tự khác của người cư trú, người không cư trú không được thực hiện bằng ngoại hối, trừ các trường hợp được phép theo quy định của Ngân hàng Nhà nước Việt Nam. Việc có người nước ngoài tham gia hoặc hợp đồng được công chứng không tự tạo ra ngoại lệ."
+  },
+  {
+    "question": "Theo Luật Các tổ chức tín dụng 2024, được bổ sung bởi Luật số 96/2025/QH15, điều kiện nào sau đây phải được đáp ứng để cơ quan tiến hành tố tụng hoàn trả vật chứng trong vụ án hình sự là tài sản bảo đảm của khoản nợ xấu theo đề nghị của bên nhận bảo đảm?",
+    "a": "Chỉ cần tổ chức tín dụng có văn bản yêu cầu hoàn trả tài sản, không cần điều kiện nào khác.",
+    "b": "Đã hoàn tất thủ tục xác định chứng cứ, việc hoàn trả không ảnh hưởng đến xử lý vụ án và thi hành án hình sự, đồng thời hợp đồng bảo đảm có thỏa thuận bên bảo đảm đồng ý cho bên nhận bảo đảm quyền thu giữ tài sản khi xảy ra trường hợp xử lý tài sản bảo đảm theo quy định pháp luật.",
+    "c": "Phải có văn bản đồng ý của UBND cấp tỉnh và cơ quan Công an cấp tỉnh.",
+    "d": "Tài sản phải được định giá lại và chuyển nhượng trong vòng 30 ngày kể từ ngày có yêu cầu hoàn trả.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 198c Luật Các tổ chức tín dụng 2024, được bổ sung bởi khoản 2 Điều 1 Luật số 96/2025/QH15, sau khi hoàn tất thủ tục xác định chứng cứ và xét thấy không ảnh hưởng đến việc xử lý vụ án và thi hành án hình sự, cơ quan tiến hành tố tụng hoàn trả vật chứng là tài sản bảo đảm của khoản nợ xấu theo đề nghị của bên nhận bảo đảm nếu hợp đồng bảo đảm có thỏa thuận về việc bên bảo đảm đồng ý cho bên nhận bảo đảm quyền thu giữ tài sản khi xảy ra trường hợp xử lý tài sản bảo đảm theo quy định pháp luật về bảo đảm thực hiện nghĩa vụ. Sau khi được hoàn trả, việc xử lý tài sản thực hiện theo pháp luật về bảo đảm thực hiện nghĩa vụ theo khoản 2 Điều 198c."
+  },
  {
   "question": "Trong giao dịch trao đổi tài sản theo Bộ luật Dân sự 2015, nhận định nào sau đây là đúng?",
   "a": "Nếu tài sản trao đổi có giá trị chênh lệch thì các bên bắt buộc phải thanh toán phần chênh lệch đó",
