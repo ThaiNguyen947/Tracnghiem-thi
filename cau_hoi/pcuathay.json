@@ -1,5 +1,158 @@
 [
   {
+    "question": "Văn bản nào trực tiếp quy định về Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu căn cước, thẻ căn cước, căn cước điện tử và giấy chứng nhận căn cước?",
+    "a": "Nghị định 70/2024/NĐ-CP.",
+    "b": "Luật Căn cước số 26/2023/QH15.",
+    "c": "Thông tư số 04/2024/TT-BCA.",
+    "d": "Luật Cư trú số 68/2020/QH14.",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 1 Luật Căn cước số 26/2023/QH15, Luật này quy định về Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu căn cước; thẻ căn cước, căn cước điện tử; giấy chứng nhận căn cước và quyền, nghĩa vụ, trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan. Nghị định 70/2024/NĐ-CP là văn bản quy định chi tiết một số điều và biện pháp thi hành Luật Căn cước."
+  },
+  {
+    "question": "Theo Luật Căn cước số 26/2023/QH15, căn cước điện tử được hiểu là gì?",
+    "a": "Là bản chụp ảnh màu của thẻ căn cước được lưu trên điện thoại.",
+    "b": "Là chữ ký số cá nhân dùng để ký kết hợp đồng, giao dịch.",
+    "c": "Là căn cước của công dân Việt Nam được thể hiện thông qua tài khoản định danh điện tử do hệ thống định danh và xác thực điện tử tạo lập.",
+    "d": "Là cơ sở dữ liệu chuyên ngành về căn cước do Bộ Công an quản lý.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 17 Điều 3 Luật Căn cước số 26/2023/QH15, căn cước điện tử là căn cước của công dân Việt Nam được thể hiện thông qua tài khoản định danh điện tử do hệ thống định danh và xác thực điện tử tạo lập. Không được nhầm căn cước điện tử với ảnh chụp thẻ căn cước hoặc chữ ký số."
+  },
+  {
+    "question": "Theo Luật Căn cước số 26/2023/QH15, nhận định nào đúng về giá trị sử dụng của thẻ căn cước trong hoạt động công chứng?",
+    "a": "Thẻ căn cước có giá trị chứng minh về căn cước và thông tin đã tích hợp; thông tin được tích hợp có giá trị tương đương việc cung cấp thông tin hoặc sử dụng giấy tờ chứa thông tin đó, nhưng bản thân thẻ không đương nhiên chứng minh quyền sở hữu mọi tài sản của người mang thẻ.",
+    "b": "Thẻ căn cước đương nhiên chứng minh quyền sử dụng đất và quyền sở hữu nhà ở của người mang thẻ.",
+    "c": "Thẻ căn cước thay thế hoàn toàn giấy tờ ủy quyền, giấy tờ chứng minh tư cách đại diện và việc kiểm tra năng lực hành vi dân sự.",
+    "d": "Thẻ căn cước luôn thay thế giấy chứng nhận kết hôn trong mọi giao dịch, kể cả khi thông tin kết hôn chưa được tích hợp.",
+    "answer": "a",
+    "explanation": "Căn cứ khoản 1 Điều 20 Luật Căn cước số 26/2023/QH15, thẻ căn cước có giá trị chứng minh về căn cước và thông tin khác đã được tích hợp để thực hiện thủ tục hành chính, dịch vụ công và giao dịch. Theo khoản 2 và khoản 3 Điều 22, thông tin được tích hợp có giá trị tương đương việc cung cấp thông tin hoặc sử dụng giấy tờ chứa thông tin đó. Tuy nhiên, thẻ căn cước không mặc nhiên chứng minh quyền sở hữu tài sản, tư cách đại diện hoặc thay thế mọi giấy tờ pháp lý khác."
+  },
+  {
+    "question": "Theo Nghị định 70/2024/NĐ-CP, tổ chức hành nghề công chứng khai thác thông tin công dân trong Cơ sở dữ liệu quốc gia về dân cư phải tuân thủ yêu cầu nào?",
+    "a": "Được tự do tra cứu toàn bộ thông tin dân cư mà không cần thực hiện thủ tục hoặc được cơ quan có thẩm quyền cho phép.",
+    "b": "Thực hiện theo phương thức khai thác được quy định, gửi yêu cầu đúng thẩm quyền, nêu rõ mục đích và phạm vi thông tin cần khai thác; việc khai thác phải đáp ứng điều kiện đồng ý của cơ quan quản lý căn cước và chủ thể thông tin theo quy định.",
+    "c": "Chỉ cần viện dẫn lý do phòng ngừa tranh chấp hợp đồng là được khai thác mọi thông tin cá nhân.",
+    "d": "Được mua bán, trao đổi dữ liệu dân cư với tổ chức tín dụng và các tổ chức khác để phục vụ hoạt động công chứng.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 2 Điều 8 Nghị định 70/2024/NĐ-CP, tổ chức hành nghề công chứng thuộc nhóm tổ chức được khai thác thông tin công dân trong Cơ sở dữ liệu quốc gia về dân cư. Theo khoản 2 Điều 9, Giám đốc Công an cấp tỉnh có thẩm quyền cung cấp thông tin cho tổ chức hành nghề công chứng trên địa bàn khi có yêu cầu bằng văn bản. Khoản 5 Điều 8, khoản 5 Điều 9 và Điều 10 quy định điều kiện đồng ý, phương thức và thủ tục khai thác. Vì vậy, tổ chức hành nghề công chứng không được tự do tra cứu hoặc khai thác vượt phạm vi được phép."
+  },
+  {
+    "question": "Theo Luật Căn cước số 26/2023/QH15, xử lý thế nào khi thông tin trên thẻ căn cước không còn phù hợp với thông tin cá nhân đã thay đổi?",
+    "a": "Buộc công dân phải sửa đổi toàn bộ giấy tờ cũ ngay lập tức, không phụ thuộc quy định chuyển tiếp.",
+    "b": "Thông tin trong Cơ sở dữ liệu quốc gia về dân cư là căn cứ để kiểm tra, thống nhất thông tin cá nhân; nếu thông tin đã thay đổi so với thẻ căn cước thì người được cấp thẻ phải cung cấp giấy tờ, tài liệu có giá trị pháp lý chứng minh thông tin đã thay đổi.",
+    "c": "Luôn ưu tiên giấy tờ cũ bằng giấy và không được sử dụng thông tin trong Cơ sở dữ liệu quốc gia về dân cư.",
+    "d": "Phải từ chối tiếp nhận hồ sơ công chứng trong mọi trường hợp có sự khác nhau giữa thông tin trên thẻ và thông tin thực tế.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 10 Điều 10 Luật Căn cước số 26/2023/QH15, thông tin trong Cơ sở dữ liệu quốc gia về dân cư là căn cứ để cơ quan, tổ chức, cá nhân kiểm tra, thống nhất thông tin về cá nhân. Theo khoản 3 Điều 20, khi thông tin đã thay đổi so với thông tin trên thẻ căn cước, người được cấp thẻ phải cung cấp giấy tờ, tài liệu có giá trị pháp lý chứng minh thông tin đã thay đổi. Không được mặc nhiên ưu tiên giấy tờ cũ hoặc từ chối hồ sơ trong mọi trường hợp."
+  },
+  {
+    "question": "Theo Nghị định 70/2024/NĐ-CP, giấy chứng nhận căn cước cấp cho người gốc Việt Nam chưa xác định được quốc tịch có thời hạn sử dụng bao lâu?",
+    "a": "01 năm kể từ ngày cấp.",
+    "b": "02 năm kể từ ngày cấp.",
+    "c": "05 năm kể từ ngày cấp.",
+    "d": "Có giá trị vô thời hạn cho đến khi người đó được xác định quốc tịch.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 3 Điều 28 Nghị định 70/2024/NĐ-CP, giấy chứng nhận căn cước có thời hạn sử dụng 02 năm kể từ ngày cấp."
+  },
+  {
+    "question": "Theo Luật Căn cước số 26/2023/QH15, Luật Căn cước có hiệu lực thi hành từ ngày nào?",
+    "a": "01/01/2024.",
+    "b": "01/7/2024.",
+    "c": "15/10/2024.",
+    "d": "01/01/2025.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 45 Luật Căn cước số 26/2023/QH15, Luật này có hiệu lực thi hành từ ngày 01/7/2024, trừ trường hợp quy định tại khoản 2 Điều 45. Riêng quy định tại khoản 3 Điều 46 có hiệu lực từ ngày 15/01/2024."
+  },
+  {
+    "question": "Văn bản nào quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí công chứng, phí chứng thực và các khoản phí liên quan đến hoạt động công chứng?",
+    "a": "Thông tư 226/2016/TT-BTC.",
+    "b": "Thông tư 257/2016/TT-BTC, được sửa đổi, bổ sung bởi Thông tư 111/2017/TT-BTC và được hợp nhất tại Văn bản hợp nhất 61/VBHN-BTC.",
+    "c": "Thông tư 257/2017/TT-BTC.",
+    "d": "Nghị định 96/2024/NĐ-CP.",
+    "answer": "b",
+    "explanation": "Căn cứ Thông tư 257/2016/TT-BTC, được sửa đổi, bổ sung bởi Thông tư 111/2017/TT-BTC và hợp nhất tại Văn bản hợp nhất 61/VBHN-BTC ngày 06/12/2019. Thông tư 257 quy định về phí công chứng và các khoản phí liên quan đến hoạt động công chứng. Riêng phí chứng thực theo biểu phí tại cơ quan có thẩm quyền chứng thực được quy định tại Thông tư 226/2016/TT-BTC."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, mức phí công chứng tối đa đối với hợp đồng, giao dịch áp dụng bảng lũy tiến chung là bao nhiêu?",
+    "a": "8.000.000 đồng/trường hợp.",
+    "b": "20.000.000 đồng/trường hợp.",
+    "c": "50.000.000 đồng/trường hợp.",
+    "d": "70.000.000 đồng/trường hợp.",
+    "answer": "d",
+    "explanation": "Căn cứ điểm a khoản 2 Điều 4 Thông tư 257/2016/TT-BTC, mức phí công chứng đối với hợp đồng, giao dịch tính theo giá trị tài sản hoặc giá trị hợp đồng, giao dịch theo bảng lũy tiến chung có mức thu tối đa là 70.000.000 đồng/trường hợp."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, mức phí công chứng tối đa đối với hợp đồng thuê quyền sử dụng đất, thuê nhà ở, thuê hoặc thuê lại tài sản là bao nhiêu?",
+    "a": "8.000.000 đồng/trường hợp.",
+    "b": "10.000.000 đồng/trường hợp.",
+    "c": "50.000.000 đồng/trường hợp.",
+    "d": "70.000.000 đồng/trường hợp.",
+    "answer": "a",
+    "explanation": "Căn cứ điểm b khoản 2 Điều 4 Thông tư 257/2016/TT-BTC, phí công chứng hợp đồng thuê quyền sử dụng đất, thuê nhà ở, thuê hoặc thuê lại tài sản được tính theo tổng số tiền thuê; mức thu tối đa là 8.000.000 đồng/trường hợp."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, đối với hợp đồng về quyền sử dụng đất hoặc tài sản có giá do cơ quan nhà nước quy định, nếu giá thỏa thuận trong hợp đồng thấp hơn giá do cơ quan nhà nước quy định thì giá trị tính phí công chứng được xác định như thế nào?",
+    "a": "Tính theo giá thỏa thuận thực tế giữa các bên.",
+    "b": "Tính theo diện tích đất hoặc số lượng tài sản nhân với giá do cơ quan nhà nước có thẩm quyền quy định tại thời điểm công chứng.",
+    "c": "Tính bằng trung bình cộng giữa giá thỏa thuận và giá do cơ quan nhà nước quy định.",
+    "d": "Được miễn phí công chứng.",
+    "answer": "b",
+    "explanation": "Căn cứ điểm d khoản 2 Điều 4 Thông tư 257/2016/TT-BTC, nếu giá đất hoặc giá tài sản do các bên thỏa thuận thấp hơn mức giá do cơ quan nhà nước có thẩm quyền quy định áp dụng tại thời điểm công chứng thì giá trị tính phí công chứng được xác định bằng diện tích đất hoặc số lượng tài sản ghi trong hợp đồng nhân với giá đất hoặc giá tài sản do cơ quan nhà nước có thẩm quyền quy định."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, mức phí công chứng hợp đồng ủy quyền và giấy ủy quyền lần lượt là bao nhiêu?",
+    "a": "Đều là 50.000 đồng/trường hợp.",
+    "b": "Đều là 20.000 đồng/trường hợp.",
+    "c": "Hợp đồng ủy quyền là 50.000 đồng; giấy ủy quyền là 20.000 đồng.",
+    "d": "Hợp đồng ủy quyền là 20.000 đồng; giấy ủy quyền là 50.000 đồng.",
+    "answer": "c",
+    "explanation": "Căn cứ khoản 3 Điều 4 Thông tư 257/2016/TT-BTC, mức phí công chứng hợp đồng ủy quyền là 50.000 đồng/trường hợp; mức phí công chứng giấy ủy quyền là 20.000 đồng/trường hợp."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC và quy định về nhận lưu giữ di chúc, mức phí công chứng di chúc và phí nhận lưu giữ di chúc lần lượt là bao nhiêu?",
+    "a": "Công chứng di chúc 100.000 đồng; nhận lưu giữ di chúc 50.000 đồng.",
+    "b": "Công chứng di chúc 50.000 đồng; nhận lưu giữ di chúc 100.000 đồng.",
+    "c": "Cả hai đều là 50.000 đồng.",
+    "d": "Cả hai đều là 100.000 đồng.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 3 Điều 4 Thông tư 257/2016/TT-BTC, phí công chứng di chúc là 50.000 đồng/trường hợp. Phí nhận lưu giữ di chúc là 100.000 đồng/trường hợp theo biểu phí tại Thông tư 257/2016/TT-BTC. Đây là hai công việc khác nhau, không được nhầm lẫn mức thu."
+  },
+  {
+    "question": "Theo Thông tư 226/2016/TT-BTC, trường hợp nào sau đây được miễn phí chứng thực hợp đồng thế chấp tài sản?",
+    "a": "Mọi cá nhân, tổ chức thế chấp tài sản để vay vốn tại ngân hàng thương mại.",
+    "b": "Cá nhân, hộ gia đình vay vốn tại tổ chức tín dụng để phục vụ phát triển nông nghiệp, nông thôn theo quy định tại Nghị định 55/2015/NĐ-CP.",
+    "c": "Mọi doanh nghiệp nhỏ và vừa thế chấp tài sản để vay vốn kinh doanh.",
+    "d": "Mọi cá nhân thế chấp nhà ở để vay vốn phục vụ nhu cầu đời sống.",
+    "answer": "b",
+    "explanation": "Căn cứ Điều 5 Thông tư 226/2016/TT-BTC, cá nhân, hộ gia đình vay vốn tại tổ chức tín dụng để phục vụ phát triển nông nghiệp, nông thôn theo quy định tại Nghị định 55/2015/NĐ-CP thì không phải nộp phí chứng thực hợp đồng thế chấp tài sản. Không được mở rộng trường hợp miễn phí này cho mọi cá nhân, tổ chức vay vốn."
+  },
+  {
+    "question": "Theo Thông tư 226/2016/TT-BTC, mức phí chứng thực bản sao từ bản chính và chứng thực chữ ký lần lượt được quy định như thế nào?",
+    "a": "2.000 đồng/trang và 10.000 đồng/trường hợp.",
+    "b": "10.000 đồng/trang và 2.000 đồng/trường hợp.",
+    "c": "5.000 đồng/trang và 20.000 đồng/trường hợp.",
+    "d": "2.000 đồng/bản và 50.000 đồng/trường hợp.",
+    "answer": "a",
+    "explanation": "Căn cứ Điều 4 Thông tư 226/2016/TT-BTC, phí chứng thực bản sao từ bản chính là 2.000 đồng/trang; từ trang thứ ba trở lên thu 1.000 đồng/trang, nhưng tối đa không quá 200.000 đồng/bản. Phí chứng thực chữ ký là 10.000 đồng/trường hợp; một trường hợp có thể bao gồm một hoặc nhiều chữ ký trong cùng một giấy tờ, văn bản."
+  },
+  {
+    "question": "Mức phí gốc theo Thông tư 257/2016/TT-BTC đối với người đăng ký tham dự kiểm tra kết quả tập sự hành nghề công chứng là bao nhiêu? Mức phí thực tế được giảm trong thời gian từ ngày 01/7/2025 đến hết ngày 31/12/2026 là bao nhiêu?",
+    "a": "Mức gốc 1.750.000 đồng; mức giảm còn 1.000.000 đồng/hồ sơ.",
+    "b": "Mức gốc 3.500.000 đồng; mức giảm còn 1.750.000 đồng/hồ sơ.",
+    "c": "Mức gốc 3.000.000 đồng; mức giảm còn 1.500.000 đồng/hồ sơ.",
+    "d": "Mức gốc 5.000.000 đồng; mức giảm còn 2.500.000 đồng/hồ sơ.",
+    "answer": "b",
+    "explanation": "Mức phí gốc là 3.500.000 đồng/hồ sơ theo quy định về phí thẩm định tiêu chuẩn, điều kiện hành nghề công chứng tại Thông tư 257/2016/TT-BTC. Tuy nhiên, theo Thông tư 64/2025/TT-BTC, mức phí được giảm còn 1.750.000 đồng/hồ sơ kể từ ngày 01/7/2025 đến hết ngày 31/12/2026. Vì vậy, trong thời gian này, mức phải nộp là 1.750.000 đồng/hồ sơ."
+  },
+  {
+    "question": "Theo Thông tư 257/2016/TT-BTC, chậm nhất vào ngày nào hằng tháng, tổ chức thu phí thuộc trường hợp quy định phải gửi số tiền phí đã thu của tháng trước vào tài khoản phí chờ nộp ngân sách mở tại Kho bạc Nhà nước?",
+    "a": "Chậm nhất ngày 01 hằng tháng.",
+    "b": "Chậm nhất ngày 05 hằng tháng.",
+    "c": "Chậm nhất ngày 10 hằng tháng.",
+    "d": "Chậm nhất ngày cuối cùng của tháng.",
+    "answer": "b",
+    "explanation": "Căn cứ khoản 1 Điều 5 Thông tư 257/2016/TT-BTC, chậm nhất là ngày 05 hằng tháng, tổ chức thu phí được quy định tại điều này phải gửi số tiền phí đã thu của tháng trước vào tài khoản phí chờ nộp ngân sách mở tại Kho bạc Nhà nước."
+  },
+  {
     "question": "Theo Luật số 43/2024/QH15, Luật Kinh doanh bất động sản 2023 được điều chỉnh thời điểm có hiệu lực thi hành sang ngày nào?",
     "a": "Ngày 01/01/2025.",
     "b": "Ngày 01/08/2024.",
