@@ -451,7 +451,17 @@ function startExam() {
 
     return clonedQ;
   });
-  
+  // Tự động in thống kê trộn bộ đề vào Console chỉ dành cho Admin
+  if (user.role === "admin") {
+    const thongKeNguon = questions.reduce((acc, q) => {
+      const src = q.fileSource || "khong_ro";
+      acc[src] = (acc[src] || 0) + 1;
+      return acc;
+    }, {});
+    console.log(`📊 [ADMIN] Thống kê trộn ${questions.length} câu hỏi vòng này:`);
+    console.table(thongKeNguon);
+    console.log("Danh sách chi tiết từng câu:", questions);
+  }
   render();
   startTimer();
 }
