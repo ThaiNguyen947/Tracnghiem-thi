@@ -68,6 +68,18 @@ function startInactivityWatcher() {
   }, 60 * 1000);
 }
 
+// ================= ĐĂNG XUẤT CHỦ ĐỘNG =================
+function logout() {
+  if (!confirm("Bạn có chắc chắn muốn thoát đăng nhập không?")) return;
+  clearInterval(timer);
+  clearInterval(inactivityChecker);
+  localStorage.removeItem("user");
+  localStorage.removeItem("lastActiveTime");
+  document.body.style.backgroundColor = "";
+  document.body.style.padding = "";
+  showLogin();
+}
+
 // ================= DANH SÁCH TÀI KHOẢN =================
 const users = [
   { username: "mainguyen", password: "1234", role: "admin" },
@@ -452,6 +464,7 @@ function render() {
     return;
   }
 
+  const user = JSON.parse(localStorage.getItem("user") || "{}");
   let q = questions[index];
   let qText = q.question || q.cauhoi || "Nội dung câu hỏi rỗng";
   
@@ -462,6 +475,11 @@ function render() {
 
   app.innerHTML = `
     <div class="box">
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:10px; padding-bottom:8px; border-bottom:1px solid #eee;">
+        <span style="font-size:13px; color:#555;">👤 Tài khoản: <b>${user.username || ""}</b></span>
+        <button onclick="logout()" style="background:#6c757d; color:#fff; border:none; padding:5px 12px; border-radius:4px; cursor:pointer; font-size:13px;">Thoát đăng nhập</button>
+      </div>
+
       <div class="top">
         <div>Câu: ${index + 1}/${questions.length}</div>
         <div>⏱ Thời gian: <span id="time"></span></div>
@@ -685,7 +703,8 @@ function submit() {
           Số câu đúng: <b style="color: #2e7d32;">${correct}</b> | Sai: <b style="color: #c62828;">${wrong}</b>
         </p>
         <div style="text-align: center; margin-bottom: 25px;">
-          <button class="btn" style="background: #00796b; color: white; padding: 10px 28px; border-radius: 20px; cursor: pointer; border: none;" onclick="location.reload()">THI VÒNG ĐỀ MỚI</button>
+          <button class="btn" style="background: #00796b; color: white; padding: 10px 28px; border-radius: 20px; cursor: pointer; border: none; margin: 5px;" onclick="location.reload()">THI VÒNG ĐỀ MỚI</button>
+          <button class="btn" style="background: #6c757d; color: white; padding: 10px 24px; border-radius: 20px; cursor: pointer; border: none; margin: 5px;" onclick="logout()">THOÁT ĐĂNG NHẬP</button>
         </div>
         <div id="result-list"></div>
       </div>
