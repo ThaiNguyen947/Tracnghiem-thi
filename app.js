@@ -28,10 +28,11 @@ function safeKey(username) {
 // ================= DANH SÁCH TÀI KHOẢN =================
 const users = [
   { username: "mainguyen", password: "1234", role: "admin" },
-  { username: "huyen@", password: "1112233", role: "user" },
-  { username: "LONG1@", password: "1112233", role: "user" },
-  { username: "CHINH@", password: "1112233", role: "user" },
-  { username: "HOANG1@", password: "1112233", role: "user" }
+  { username: "ALONG", password: "1112233", role: "user" },
+  { username: "CHINH1@", password: "1112233", role: "user" },
+  { username: "AHOANG@", password: "1112233", role: "user" }
+  { username: "HOANG2@", password: "1112233", role: "user" }
+ { username: "HOANG3@", password: "1112233", role: "user" }
 ];
 
 // ================= TÍNH TỶ LỆ % KHO ĐỀ THEO TÊN TÀI KHOẢN =================
