@@ -451,16 +451,43 @@ function startExam() {
 
     return clonedQ;
   });
-  // Tự động in thống kê trộn bộ đề vào Console chỉ dành cho Admin
+  // Tự động in thống kê trộn bộ đề chi tiết vào Console chỉ dành cho Admin
   if (user.role === "admin") {
-    const thongKeNguon = questions.reduce((acc, q) => {
-      const src = q.fileSource || "khong_ro";
-      acc[src] = (acc[src] || 0) + 1;
-      return acc;
-    }, {});
-    console.log(`📊 [ADMIN] Thống kê trộn ${questions.length} câu hỏi vòng này:`);
-    console.table(thongKeNguon);
-    console.log("Danh sách chi tiết từng câu:", questions);
+    const bangThongKe = {};
+    let tongDaLay = 0;
+    let tongCauSaiLamLai = 0;
+
+    danhSachFileGoc.forEach(fileKey => {
+      const tongKhoPhan = allowedData.filter(q => q.fileSource === fileKey).length;
+      const cacCauDaLay = questions.filter(q => q.fileSource === fileKey);
+      const soCauDaLay = cacCauDaLay.length;
+      const soCauSai = cacCauDaLay.filter(q => (q.weight && q.weight > 1) || (q.wrongCount && q.wrongCount > 0)).length;
+
+      const tyLeDe = questions.length > 0 ? ((soCauDaLay / questions.length) * 100).toFixed(1) + "%" : "0%";
+      const tyLeKho = tongKhoPhan > 0 ? ((soCauDaLay / tongKhoPhan) * 100).toFixed(1) + "%" : "0%";
+
+      bangThongKe[fileKey] = {
+        "Tổng kho (câu)": tongKhoPhan,
+        "Đã lấy (câu)": soCauDaLay,
+        "Tỷ lệ trong đề": tyLeDe,
+        "Tỷ lệ / kho phần": tyLeKho,
+        "Câu sai làm lại": soCauSai
+      };
+
+      tongDaLay += soCauDaLay;
+      tongCauSaiLamLai += soCauSai;
+    });
+
+    bangThongKe["TỔNG CỘNG"] = {
+      "Tổng kho (câu)": allowedData.length,
+      "Đã lấy (câu)": tongDaLay,
+      "Tỷ lệ trong đề": "100%",
+      "Tỷ lệ / kho phần": allowedData.length > 0 ? ((tongDaLay / allowedData.length) * 100).toFixed(1) + "%" : "0%",
+      "Câu sai làm lại": tongCauSaiLamLai
+    };
+
+    console.log(`%c📊 BÁO CÁO PHÂN BỔ ĐỀ THI (${questions.length} CÂU)`, "color: #00796b; font-weight: bold; font-size: 14px;");
+    console.table(bangThongKe);
   }
   render();
   startTimer();
