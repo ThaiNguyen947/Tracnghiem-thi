@@ -5,11 +5,15 @@ let wrongPool = [];
 let index = 0;
 let answers = {};
 let timer;
+let inactivityChecker; // Biến quản lý đếm giờ không hoạt động
 let time = 60 * 60; // 60 phút
 let currentFilter = 'all'; 
 
 const app = document.getElementById("app");
 const FIREBASE_URL = "https://thi-trac-nghiem-ce1d4-default-rtdb.asia-southeast1.firebasedatabase.app";
+
+// Thời gian tối đa không hoạt động trước khi tự động đăng xuất (12 giờ tính bằng mili-giây)
+const INACTIVITY_LIMIT_MS = 12 * 60 * 60 * 1000;
 
 function getDeviceId() {
   let id = localStorage.getItem("deviceId");
@@ -25,14 +29,53 @@ function safeKey(username) {
   return encodeURIComponent(username).replace(/\./g, '%2E');
 }
 
+// ================= QUẢN LÝ THỜI GIAN KHÔNG HOẠT ĐỘNG (12 GIỜ) =================
+function updateLastActivity() {
+  if (localStorage.getItem("user")) {
+    localStorage.setItem("lastActiveTime", Date.now().toString());
+  }
+}
+
+function isSessionExpiredByInactivity() {
+  const lastActive = Number(localStorage.getItem("lastActiveTime") || 0);
+  if (!lastActive) return false;
+  return (Date.now() - lastActive) > INACTIVITY_LIMIT_MS;
+}
+
+function forceLogoutDueToInactivity() {
+  clearInterval(timer);
+  clearInterval(inactivityChecker);
+  localStorage.removeItem("user");
+  localStorage.removeItem("lastActiveTime");
+  alert("⏰ Phiên đăng nhập đã hết hạn do không làm bài trong 12 giờ. Vui lòng đăng nhập lại!");
+  showLogin();
+}
+
+function startInactivityWatcher() {
+  clearInterval(inactivityChecker);
+
+  // Lắng nghe các thao tác của người dùng để gia hạn mốc 12h
+  ["click", "keydown", "touchstart"].forEach(evt => {
+    window.removeEventListener(evt, updateLastActivity);
+    window.addEventListener(evt, updateLastActivity, { passive: true });
+  });
+
+  // Kiểm tra định kỳ mỗi 60 giây xem đã quá 12h chưa
+  inactivityChecker = setInterval(() => {
+    if (localStorage.getItem("user") && isSessionExpiredByInactivity()) {
+      forceLogoutDueToInactivity();
+    }
+  }, 60 * 1000);
+}
+
 // ================= DANH SÁCH TÀI KHOẢN =================
 const users = [
   { username: "mainguyen", password: "1234", role: "admin" },
   { username: "ALONG", password: "1112233", role: "user" },
   { username: "CHINH1@", password: "1112233", role: "user" },
-  { username: "AHOANG@", password: "1112233", role: "user" }
-  { username: "HOANG2@", password: "1112233", role: "user" }
- { username: "HOANG3@", password: "1112233", role: "user" }
+  { username: "AHOANG@", password: "1112233", role: "user" },
+  { username: "HOANG2@", password: "1112233", role: "user" },
+  { username: "HOANG3@", password: "1112233", role: "user" }
 ];
 
 // ================= TÍNH TỶ LỆ % KHO ĐỀ THEO TÊN TÀI KHOẢN =================
@@ -47,8 +90,10 @@ function getUserPoolRatio(user) {
 
 // ================= GIAO DIỆN ĐĂNG NHẬP =================
 function showLogin() {
+  clearInterval(timer);
+  clearInterval(inactivityChecker);
   document.getElementById("loginBox").style.display = "block";
-  document.getElementById("app").style.display = "none";
+  if (app) app.style.display = "none";
   document.getElementById("loginBox").innerHTML = `
     <div class="box" style="max-width:400px;text-align:center;margin-top:120px">
       <h2>Đăng nhập hệ thống</h2>
@@ -121,8 +166,11 @@ async function login() {
   }
 
   localStorage.setItem("user", JSON.stringify(user));
+  updateLastActivity();
+  startInactivityWatcher();
+
   document.getElementById("loginBox").style.display = "none";
-  document.getElementById("app").style.display = "block";
+  if (app) app.style.display = "block";
   
   enableProtectionForSubAccounts();
   startExam();
@@ -134,6 +182,15 @@ async function checkLogin() {
   let deviceId = getDeviceId();
 
   if (!user) {
+    showLogin();
+    return;
+  }
+
+  // Kiểm tra thời gian không hoạt động quá 12h
+  if (isSessionExpiredByInactivity()) {
+    localStorage.removeItem("user");
+    localStorage.removeItem("lastActiveTime");
+    alert("⏰ Bạn đã không làm bài hơn 12 giờ. Vui lòng đăng nhập lại!");
     showLogin();
     return;
   }
@@ -168,8 +225,11 @@ async function checkLogin() {
     }
   }
 
+  updateLastActivity();
+  startInactivityWatcher();
+
   document.getElementById("loginBox").style.display = "none";
-  document.getElementById("app").style.display = "block";
+  if (app) app.style.display = "block";
   
   enableProtectionForSubAccounts();
   startExam();
@@ -193,7 +253,6 @@ async function taiTatCaDuLieuCauHoi() {
   
   let beCauHoiTong = [];
 
-  console.log("=== BẮT ĐẦU KIỂM TRA VÀ TẢI DỮ LIỆU FILE ===");
   for (const duongDan of danhSachFiles) {
     try {
       const res = await fetch(duongDan);
@@ -202,16 +261,11 @@ async function taiTatCaDuLieuCauHoi() {
       
       const fileTag = duongDan.split('/').pop().replace('.json', '');
       json.forEach(q => { q.fileSource = fileTag; });
-
-      console.log(`✓ Tải thành công: ${duongDan} | Quy mô: ${json.length} câu.`);
       beCauHoiTong = beCauHoiTong.concat(json);
     } catch (err) {
       console.error(`❌ Không tìm thấy hoặc sai cấu trúc định dạng tại file: ${duongDan}`);
     }
   }
-
-  console.log(`➡️ TỔNG SỐ CÂU HỎI THỰC TẾ LOAD ĐƯỢC: ${beCauHoiTong.length} câu.`);
-  console.log("=================================================");
 
   if (beCauHoiTong.length === 0) return [];
 
@@ -267,6 +321,7 @@ function shuffle(arr) {
 
 // ================= START EXAM =================
 function startExam() {
+  updateLastActivity();
   answers = {};
   index = 0;
   time = 60 * 60;
@@ -274,7 +329,6 @@ function startExam() {
   const user = JSON.parse(localStorage.getItem("user") || "{}");
   const poolRatio = getUserPoolRatio(user);
 
-  // Lọc kho đề được phép truy cập theo tỷ lệ % của từng user (cắt cố định theo từng file)
   let allowedData = [];
   const danhSachFileGoc = [...new Set(data.map(q => q.fileSource).filter(Boolean))];
   danhSachFileGoc.forEach(fileKey => {
@@ -287,10 +341,8 @@ function startExam() {
     }
   });
 
-  // Lưu kho đề giới hạn hiện tại để tính thống kê lúc nộp bài
   window.activeAllowedData = allowedData;
 
-  // Số câu trong mỗi đề thi (Admin: 50 câu, User: tối đa 100 câu hoặc bằng tổng kho được cấp nếu kho nhỏ hơn 100)
   const baseLimit = (user.role === "admin") ? 50 : 100;
   const targetLimit = Math.min(baseLimit, allowedData.length);
 
@@ -298,7 +350,6 @@ function startExam() {
 
   let poolCheck = allowedData.filter(q => !correctPool.includes((q.question || q.cauhoi || "").trim()));
   if (poolCheck.length === 0 && allowedData.length > 0) {
-    console.log("🚨 HỌC VIÊN ĐÃ LÀM ĐÚNG HẾT KHO ĐỀ ĐƯỢC CẤP! TIẾN HÀNH RESET VÒNG MỚI");
     localStorage.removeItem("correctPool");
     correctPool = [];
     allowedData.forEach(q => { q.weight = 1; q.correctCount = 0; q.wrongCount = 0; });
@@ -310,8 +361,6 @@ function startExam() {
 
   let khoCauHoiCacFile = {};
   let chiTieuMoiFile = {}; 
-
-  console.log(`=== PHÂN QUYỀN TÀI KHOẢN [${user.username}]: ${Math.round(poolRatio * 100)}% KHO (${allowedData.length}/${data.length} câu) | ĐỀ THI: ${targetLimit} CÂU ===`);
 
   danhSachFileThucTe.forEach(fileKey => {
     let tongCauGocCuaFile = allowedData.filter(q => q.fileSource === fileKey).length;
@@ -397,6 +446,7 @@ function startExam() {
 
 // ================= HIỂN THỊ CÂU HỎI VÀ ĐÁP ÁN =================
 function render() {
+  if (!app) return;
   if (questions.length === 0 || !questions[index]) {
     app.innerHTML = `<div class="box"><h2>Dữ liệu câu hỏi bị lỗi hoặc bộ nhớ tạm rỗng! Vui lòng làm mới trang.</h2></div>`;
     return;
@@ -445,6 +495,7 @@ function render() {
 }
 
 function choose(c) {
+  updateLastActivity();
   answers[index] = c;
   highlight();
 }
@@ -485,6 +536,7 @@ function renderNav() {
     }
 
     btn.onclick = () => {
+      updateLastActivity();
       index = i;
       render();
     };
@@ -494,6 +546,7 @@ function renderNav() {
 }
 
 function next() {
+  updateLastActivity();
   if (index < questions.length - 1) {
     index++;
     render();
@@ -501,6 +554,7 @@ function next() {
 }
 
 function prev() {
+  updateLastActivity();
   if (index > 0) {
     index--;
     render();
@@ -529,6 +583,7 @@ function startTimer() {
 
 // ================= NỘP BÀI VÀ CHẤM ĐIỂM =================
 function submit() {
+  updateLastActivity();
   let user = JSON.parse(localStorage.getItem("user") || "{}");
   let answeredCount = Object.keys(answers).length;
 
@@ -606,7 +661,6 @@ function submit() {
   });
   localStorage.setItem("userStats", JSON.stringify(statsToSave)); 
 
-  // Tính toán tiến độ dựa trên đúng kho đề được cấp cho user này
   const currentStore = window.activeAllowedData || data;
   let totalCorrectInStore = currentStore.filter(q => correctPool.includes((q.question || q.cauhoi || "").trim())).length;
   let totalRemainingInStore = Math.max(0, currentStore.length - totalCorrectInStore);
@@ -617,24 +671,26 @@ function submit() {
   document.body.style.margin = "0";
   document.body.style.padding = "20px 0";
 
-  app.innerHTML = `
-    <div style="max-width: 820px; margin: 0 auto; background: #ffffff; padding: 40px 50px; box-shadow: 0 4px 15px rgba(0,0,0,0.06); border-radius: 8px; font-family: 'Times New Roman', Times, serif;">
-      <div style="text-align: right; margin-bottom: 25px; padding: 15px; background-color: #f8f9fa; border-radius: 8px; border-right: 4px solid #00796b;">
-          <div style="color: #444; margin-bottom: 5px;">Số câu đã làm đúng: <b style="color: #00796b; font-size: 16px;">${totalCorrectInStore}</b></div>
-          <div style="color: #444;">Số câu còn lại: <b style="color: #c62828; font-size: 16px;">${totalRemainingInStore}</b></div>
-      </div>
+  if(app) {
+    app.innerHTML = `
+      <div style="max-width: 820px; margin: 0 auto; background: #ffffff; padding: 40px 50px; box-shadow: 0 4px 15px rgba(0,0,0,0.06); border-radius: 8px; font-family: 'Times New Roman', Times, serif;">
+        <div style="text-align: right; margin-bottom: 25px; padding: 15px; background-color: #f8f9fa; border-radius: 8px; border-right: 4px solid #00796b;">
+            <div style="color: #444; margin-bottom: 5px;">Số câu đã làm đúng: <b style="color: #00796b; font-size: 16px;">${totalCorrectInStore}</b></div>
+            <div style="color: #444;">Số câu còn lại: <b style="color: #c62828; font-size: 16px;">${totalRemainingInStore}</b></div>
+        </div>
 
-      <h1 style="font-size: 24px; font-weight: bold; text-align: center; margin: 0 0 10px 0; color: #111;">BÁO CÁO KẾT QUẢ KIỂM TRA</h1>
-      <p style="text-align: center; font-size: 15px; color: #555; margin: 0 0 20px 0;">
-        Số câu đã hoàn thành: <b>${submittedCount}/${questions.length}</b><br>
-        Số câu đúng: <b style="color: #2e7d32;">${correct}</b> | Sai: <b style="color: #c62828;">${wrong}</b>
-      </p>
-      <div style="text-align: center; margin-bottom: 25px;">
-        <button class="btn" style="background: #00796b; color: white; padding: 10px 28px; border-radius: 20px; cursor: pointer; border: none;" onclick="location.reload()">THI VÒNG ĐỀ MỚI</button>
+        <h1 style="font-size: 24px; font-weight: bold; text-align: center; margin: 0 0 10px 0; color: #111;">BÁO CÁO KẾT QUẢ KIỂM TRA</h1>
+        <p style="text-align: center; font-size: 15px; color: #555; margin: 0 0 20px 0;">
+          Số câu đã hoàn thành: <b>${submittedCount}/${questions.length}</b><br>
+          Số câu đúng: <b style="color: #2e7d32;">${correct}</b> | Sai: <b style="color: #c62828;">${wrong}</b>
+        </p>
+        <div style="text-align: center; margin-bottom: 25px;">
+          <button class="btn" style="background: #00796b; color: white; padding: 10px 28px; border-radius: 20px; cursor: pointer; border: none;" onclick="location.reload()">THI VÒNG ĐỀ MỚI</button>
+        </div>
+        <div id="result-list"></div>
       </div>
-      <div id="result-list"></div>
-    </div>
-  `;
+    `;
+  }
   filterResult('all');
 }
 
@@ -718,7 +774,7 @@ function filterResult(type) {
   listContainer.innerHTML = html || `<p style='text-align:center; color:#777; font-style: italic; padding: 20px;'>Không tìm thấy câu hỏi nào phù hợp.</p>`;
 }
 
-// ================= HÀM KHÓA AN TOÀN CHỐT SAO CHÉP ĐỀ THI DÀNH CHO TÀI KHOẢN CON =================
+// ================= HÀM KHÓA AN TOÀN CHỐT SAO CHÉP ĐỀ THI =================
 function enableProtectionForSubAccounts() {
   let user = JSON.parse(localStorage.getItem("user"));
   if (!user || user.role === "admin") return; 
