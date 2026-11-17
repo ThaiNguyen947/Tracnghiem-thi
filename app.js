@@ -9,6 +9,7 @@ let time = 60 * 60; // 60 phút
 let currentFilter = 'all'; 
 
 const app = document.getElementById("app");
+const FIREBASE_URL = "https://thi-trac-nghiem-ce1d4-default-rtdb.asia-southeast1.firebasedatabase.app";
 
 function getDeviceId() {
   let id = localStorage.getItem("deviceId");
@@ -19,89 +20,106 @@ function getDeviceId() {
   return id;
 }
 
+// Hàm chuyển đổi username an toàn cho Firebase
+function safeKey(username) {
+  return encodeURIComponent(username).replace(/\./g, '%2E');
+}
+
 // ================= DANH SÁCH TÀI KHOẢN =================
 const users = [
   { username: "mainguyen", password: "1234", role: "admin" },
   { username: "huyen@", password: "1112233", role: "user" },
- { username: "LONG1@", password: "1112233", role: "user" },
+  { username: "LONG1@", password: "1112233", role: "user" },
   { username: "CHINH@", password: "1112233", role: "user" },
- { username: "HOANG1@", password: "1112233", role: "user" }
+  { username: "HOANG1@", password: "1112233", role: "user" }
 ];
-let sessions = JSON.parse(localStorage.getItem("loginSessions") || "{}");
+
+// ================= TÍNH TỶ LỆ % KHO ĐỀ THEO TÊN TÀI KHOẢN =================
+function getUserPoolRatio(user) {
+  if (!user || user.role === "admin") return 1; // Admin mở 100%
+  const u = user.username || "";
+  if (u.includes("1")) return 0.50; // Có số 1 -> 50%
+  if (u.includes("2")) return 0.25; // Có số 2 -> 25%
+  if (u.includes("3")) return 0.12; // Có số 3 -> 12%
+  return 1; // Các user thường khác -> 100%
+}
 
 // ================= GIAO DIỆN ĐĂNG NHẬP =================
 function showLogin() {
+  document.getElementById("loginBox").style.display = "block";
+  document.getElementById("app").style.display = "none";
   document.getElementById("loginBox").innerHTML = `
     <div class="box" style="max-width:400px;text-align:center;margin-top:120px">
       <h2>Đăng nhập hệ thống</h2>
       <input id="u" placeholder="Tài khoản" style="width:100%;padding:10px;margin:5px 0">
       <input id="p" type="password" placeholder="Mật khẩu" style="width:100%;padding:10px;margin:5px 0">
-      <button onclick="login()" class="btn">Đăng nhập</button>
+      <button id="btnLogin" onclick="login()" class="btn">Đăng nhập</button>
     </div>
   `;
 }
 
-// ================= XỬ LÝ ĐĂNG NHẬP =================
-function login() {
-  let u = document.getElementById("u").value;
-  let p = document.getElementById("p").value;
+// ================= XỬ LÝ ĐĂNG NHẬP (KẾT NỐI FIREBASE) =================
+async function login() {
+  let u = document.getElementById("u").value.trim();
+  let p = document.getElementById("p").value.trim();
 
   let user = users.find(x => x.username === u && x.password === p);
   if (!user) return alert("Sai tài khoản hoặc mật khẩu!");
 
+  let btn = document.getElementById("btnLogin");
+  if (btn) {
+    btn.innerText = "Đang kiểm tra thiết bị...";
+    btn.disabled = true;
+  }
+
   let deviceId = getDeviceId();
-  let sessions = JSON.parse(localStorage.getItem("loginSessions") || "{}");
 
   if (user.role !== "admin") {
-    if (sessions[user.username] && sessions[user.username] !== deviceId) {
-      alert("Tài khoản này đang được đăng nhập trên một thiết bị khác!");
-      return;
+    try {
+      const key = safeKey(user.username);
+      const res = await fetch(`${FIREBASE_URL}/sessions/${key}.json`);
+      const remoteSession = await res.json();
+
+      // 1. Kiểm tra xem tài khoản đã bị khóa trước đó chưa
+      if (remoteSession && remoteSession.isLocked) {
+        if (btn) { btn.innerText = "Đăng nhập"; btn.disabled = false; }
+        return alert("TÀI KHOẢN ĐÃ BỊ KHÓA VĨNH VIỄN do đăng nhập trên thiết bị khác. Vui lòng liên hệ Admin!");
+      }
+
+      // 2. Kiểm tra nếu đăng nhập trên thiết bị lạ
+      if (remoteSession && remoteSession.deviceId !== deviceId) {
+        await fetch(`${FIREBASE_URL}/sessions/${key}.json`, {
+          method: "PUT",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            username: user.username,
+            deviceId: remoteSession.deviceId,
+            isLocked: true,
+            lockedAt: new Date().toLocaleString("vi-VN")
+          })
+        });
+        if (btn) { btn.innerText = "Đăng nhập"; btn.disabled = false; }
+        return alert("CẢNH BÁO: Phát hiện đăng nhập trên thiết bị lạ. Tài khoản của bạn đã bị KHÓA VĨNH VIỄN!");
+      }
+
+      // 3. Lần đầu đăng nhập hoặc đúng thiết bị cũ
+      await fetch(`${FIREBASE_URL}/sessions/${key}.json`, {
+        method: "PUT",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          username: user.username,
+          deviceId: deviceId,
+          isLocked: false,
+          lastLogin: new Date().toLocaleString("vi-VN")
+        })
+      });
+    } catch (err) {
+      if (btn) { btn.innerText = "Đăng nhập"; btn.disabled = false; }
+      return alert("Lỗi kết nối máy chủ kiểm tra tài khoản! Vui lòng kiểm tra lại mạng.");
     }
   }
 
-  sessions[user.username] = deviceId;
-  localStorage.setItem("loginSessions", JSON.stringify(sessions));
   localStorage.setItem("user", JSON.stringify(user));
-
-  document.getElementById("loginBox").style.display = "none";
-  document.getElementById("app").style.display = "block";
-  
-  enableProtectionForSubAccounts();
-  startExam();
-}function login() {
-  let u = document.getElementById("u").value;
-  let p = document.getElementById("p").value;
-
-  let user = users.find(x => x.username === u && x.password === p);
-  if (!user) return alert("Sai tài khoản hoặc mật khẩu!");
-
-  let deviceId = getDeviceId();
-  let sessions = JSON.parse(localStorage.getItem("loginSessions") || "{}");
-
-  // 1. Kiểm tra xem tài khoản đã bị khóa trước đó chưa
-  if (sessions[user.username] && sessions[user.username].isLocked) {
-    return alert("TÀI KHOẢN ĐÃ BỊ KHÓA VĨNH VIỄN do đăng nhập trên thiết bị khác. Vui lòng liên hệ Admin!");
-  }
-
-  // 2. Kiểm tra nếu đăng nhập trên thiết bị lạ (khác thiết bị ban đầu)
-  if (user.role !== "admin" && sessions[user.username] && sessions[user.username].deviceId !== deviceId) {
-    // Đánh dấu khóa vĩnh viễn
-    sessions[user.username] = { 
-      deviceId: sessions[user.username].deviceId, 
-      isLocked: true 
-    };
-    localStorage.setItem("loginSessions", JSON.stringify(sessions));
-    return alert("CẢNH BÁO: Phát hiện đăng nhập trên thiết bị lạ. Tài khoản của bạn đã bị KHÓA VĨNH VIỄN!");
-  }
-
-  // 3. Nếu là lần đầu đăng nhập hoặc đúng thiết bị cũ
-  sessions[user.username] = { 
-    deviceId: deviceId, 
-    isLocked: false 
-  };
-  localStorage.setItem("loginSessions", JSON.stringify(sessions));
-  localStorage.setItem("user", JSON.stringify(user));
-
   document.getElementById("loginBox").style.display = "none";
   document.getElementById("app").style.display = "block";
   
@@ -110,39 +128,45 @@ function login() {
 }
 
 // ================= KIỂM TRA TRẠNG THÁI ĐĂNG NHẬP =================
-function checkLogin() {
+async function checkLogin() {
   let user = JSON.parse(localStorage.getItem("user"));
   let deviceId = getDeviceId();
-  let sessions = JSON.parse(localStorage.getItem("loginSessions") || "{}");
 
-  // 1. Nếu chưa đăng nhập thì hiện login
   if (!user) {
     showLogin();
     return;
   }
 
-  // 2. Kiểm tra nếu là user thường
   if (user.role !== "admin") {
-    let userSession = sessions[user.username];
+    try {
+      const key = safeKey(user.username);
+      const res = await fetch(`${FIREBASE_URL}/sessions/${key}.json`);
+      const remoteSession = await res.json();
 
-    // Kiểm tra xem có tồn tại session và đã bị khóa chưa
-    if (userSession && userSession.isLocked) {
-      alert("TÀI KHOẢN ĐÃ BỊ KHÓA VĨNH VIỄN. Vui lòng liên hệ Admin!");
-      localStorage.removeItem("user");
-      showLogin();
-      return;
-    }
+      if (!remoteSession) {
+        localStorage.removeItem("user");
+        showLogin();
+        return;
+      }
 
-    // Kiểm tra đăng nhập chéo: Session tồn tại nhưng deviceId không khớp
-    if (userSession && userSession.deviceId !== deviceId) {
-      alert("Phiên đăng nhập không hợp lệ (Phát hiện đăng nhập trái phép)!");
-      localStorage.removeItem("user");
-      showLogin();
-      return;
+      if (remoteSession.isLocked) {
+        alert("TÀI KHOẢN ĐÃ BỊ KHÓA VĨNH VIỄN. Vui lòng liên hệ Admin!");
+        localStorage.removeItem("user");
+        showLogin();
+        return;
+      }
+
+      if (remoteSession.deviceId !== deviceId) {
+        alert("Phiên đăng nhập không hợp lệ (Phát hiện đăng nhập trái phép)!");
+        localStorage.removeItem("user");
+        showLogin();
+        return;
+      }
+    } catch (err) {
+      console.error("Không thể đồng bộ trạng thái từ Firebase:", err);
     }
   }
 
-  // 3. Nếu mọi thứ hợp lệ, vào thi
   document.getElementById("loginBox").style.display = "none";
   document.getElementById("app").style.display = "block";
   
@@ -161,7 +185,7 @@ async function taiTatCaDuLieuCauHoi() {
     "./cau_hoi/p6.json",
     "./cau_hoi/p7.json",
     "./cau_hoi/p8.json",
-     "./cau_hoi/p9.json",
+    "./cau_hoi/p9.json",
     "./cau_hoi/p10.json",
     "./cau_hoi/pcuathay.json"
   ];
@@ -199,9 +223,8 @@ async function taiTatCaDuLieuCauHoi() {
   return beCauHoiTong;
 }
 
-// ================= KHỞI ĐỘNG HỆ THỐNG - BẢN FIX HOÀN CHỈNH =================
+// ================= KHỞI ĐỘNG HỆ THỐNG =================
 async function khoiDongUngDung() {
-  // 1. Tải dữ liệu từ file JSON
   const fileData = await taiTatCaDuLieuCauHoi();
   
   if (fileData.length === 0) {
@@ -209,11 +232,8 @@ async function khoiDongUngDung() {
     return;
   }
 
-  // 2. Lấy chỉ các thông tin trạng thái học tập đã lưu (weight, count...) từ localStorage
-  // Lưu dưới dạng Map để truy xuất siêu nhanh theo nội dung câu hỏi
   const savedStats = JSON.parse(localStorage.getItem("userStats") || "{}");
 
-  // 3. Gán lại trạng thái vào dữ liệu vừa tải
   fileData.forEach(q => {
     let qText = (q.question || q.cauhoi || "").trim();
     if (savedStats[qText]) {
@@ -223,24 +243,18 @@ async function khoiDongUngDung() {
       q.wrongCount = stats.wrongCount || 0;
       q.fileSource = stats.fileSource || q.fileSource;
     } else {
-      // Thiết lập mặc định nếu chưa có
       q.weight = q.weight || 1;
       q.correctCount = q.correctCount || 0;
       q.wrongCount = q.wrongCount || 0;
     }
   });
 
-  // 4. Lưu dữ liệu vào RAM (biến global 'data'), KHÔNG LƯU VÀO LOCALSTORAGE
   data = fileData;
-  
   checkLogin();
 }
 
-// Gọi hàm khởi động
 khoiDongUngDung();
 
-
-// Đặt hàm này ở đầu file, sau các khai báo biến let
 function shuffle(arr) {
   let a = [...arr];
   for (let i = a.length - 1; i > 0; i--) {
@@ -249,51 +263,68 @@ function shuffle(arr) {
   }
   return a;
 }
-// ================= START EXAM (TỶ LỆ % THEO TỔNG CÂU FILE & BỐC BÙ LIỀN KỀ) =================
+
+// ================= START EXAM =================
 function startExam() {
   answers = {};
   index = 0;
   time = 60 * 60;
 
-  // 1. Xác định giới hạn câu hỏi dựa trên quyền của user
   const user = JSON.parse(localStorage.getItem("user") || "{}");
-  const targetLimit = (user.role === "admin") ? 50 : 100;
+  const poolRatio = getUserPoolRatio(user);
+
+  // Lọc kho đề được phép truy cập theo tỷ lệ % của từng user (cắt cố định theo từng file)
+  let allowedData = [];
+  const danhSachFileGoc = [...new Set(data.map(q => q.fileSource).filter(Boolean))];
+  danhSachFileGoc.forEach(fileKey => {
+    let fileAll = data.filter(q => q.fileSource === fileKey);
+    if (poolRatio < 1) {
+      let allowedCount = Math.max(1, Math.floor(fileAll.length * poolRatio));
+      allowedData = allowedData.concat(fileAll.slice(0, allowedCount));
+    } else {
+      allowedData = allowedData.concat(fileAll);
+    }
+  });
+
+  // Lưu kho đề giới hạn hiện tại để tính thống kê lúc nộp bài
+  window.activeAllowedData = allowedData;
+
+  // Số câu trong mỗi đề thi (Admin: 50 câu, User: tối đa 100 câu hoặc bằng tổng kho được cấp nếu kho nhỏ hơn 100)
+  const baseLimit = (user.role === "admin") ? 50 : 100;
+  const targetLimit = Math.min(baseLimit, allowedData.length);
 
   let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
 
-  let poolCheck = data.filter(q => !correctPool.includes((q.question || q.cauhoi || "").trim()));
-  if (poolCheck.length === 0 && data.length > 0) {
-    console.log("🚨 HỌC VIÊN ĐÃ LÀM ĐÚNG HẾT KHO ĐỀ! TIẾN HÀNH RESET VÒNG MỚI");
+  let poolCheck = allowedData.filter(q => !correctPool.includes((q.question || q.cauhoi || "").trim()));
+  if (poolCheck.length === 0 && allowedData.length > 0) {
+    console.log("🚨 HỌC VIÊN ĐÃ LÀM ĐÚNG HẾT KHO ĐỀ ĐƯỢC CẤP! TIẾN HÀNH RESET VÒNG MỚI");
     localStorage.removeItem("correctPool");
     correctPool = [];
-    data.forEach(q => { q.weight = 1; q.correctCount = 0; q.wrongCount = 0; });
+    allowedData.forEach(q => { q.weight = 1; q.correctCount = 0; q.wrongCount = 0; });
   }
 
-  const danhSachFileThucTe = [...new Set(data.map(q => q.fileSource).filter(Boolean))];
-  const tongSoCauTrongKho = data.length || 1;
+  const danhSachFileThucTe = [...new Set(allowedData.map(q => q.fileSource).filter(Boolean))];
+  const tongSoCauTrongKho = allowedData.length || 1;
   const soLuongFile = danhSachFileThucTe.length || 1;
 
   let khoCauHoiCacFile = {};
   let chiTieuMoiFile = {}; 
 
-  console.log(`=== THUẬT TOÁN ĐỀ PHÂN BỔ TRẢI ĐỀU (TARGET: ${targetLimit} CÂU) ===`);
+  console.log(`=== PHÂN QUYỀN TÀI KHOẢN [${user.username}]: ${Math.round(poolRatio * 100)}% KHO (${allowedData.length}/${data.length} câu) | ĐỀ THI: ${targetLimit} CÂU ===`);
 
   danhSachFileThucTe.forEach(fileKey => {
-    let tongCauGocCuaFile = data.filter(q => q.fileSource === fileKey).length;
-    
-    // Tính quota dựa trên targetLimit thay vì 100
+    let tongCauGocCuaFile = allowedData.filter(q => q.fileSource === fileKey).length;
     let quota = Math.round((tongCauGocCuaFile / tongSoCauTrongKho) * targetLimit);
     if (quota === 0 && tongCauGocCuaFile > 0) quota = 1; 
     chiTieuMoiFile[fileKey] = quota;
 
-    let fileQuestions = data.filter(q => q.fileSource === fileKey && !correctPool.includes((q.question || q.cauhoi || "").trim()));
+    let fileQuestions = allowedData.filter(q => q.fileSource === fileKey && !correctPool.includes((q.question || q.cauhoi || "").trim()));
     fileQuestions = shuffle(fileQuestions);
 
     let wrongInFile = fileQuestions.filter(q => (q.weight && q.weight > 1) || (q.wrongCount && q.wrongCount > 0));
     let normalInFile = fileQuestions.filter(q => !((q.weight && q.weight > 1) || (q.wrongCount && q.wrongCount > 0)));
     
     khoCauHoiCacFile[fileKey] = [...wrongInFile, ...normalInFile];
-    console.log(`• Phần [${fileKey}]: Phải bốc: ${quota} câu.`);
   });
 
   let finalSelectedList = [];
@@ -322,7 +353,6 @@ function startExam() {
     }
   });
 
-  // Quét nốt cho đủ targetLimit
   if (finalSelectedList.length < targetLimit) {
     let thieuTong = targetLimit - finalSelectedList.length;
     let khoVetCacFile = [];
@@ -336,7 +366,6 @@ function startExam() {
 
   let selectedQuestions = shuffle(finalSelectedList).slice(0, targetLimit);
 
-  // Xử lý xáo trộn đáp án
   questions = selectedQuestions.map(q => {
     let clonedQ = JSON.parse(JSON.stringify(q));
     let rawCorrectKey = (clonedQ.answer || clonedQ.trảlời || "").toString().trim().toLowerCase();
@@ -361,10 +390,10 @@ function startExam() {
     return clonedQ;
   });
   
-  console.log(`=> ĐỀ THI ĐÃ CHỐT: ${questions.length} CÂU.`);
   render();
   startTimer();
 }
+
 // ================= HIỂN THỊ CÂU HỎI VÀ ĐÁP ÁN =================
 function render() {
   if (questions.length === 0 || !questions[index]) {
@@ -497,28 +526,23 @@ function startTimer() {
   }, 1000);
 }
 
-
-// ================= NỘP BÀI VÀ CHẤM ĐIỂM (ĐÃ TỐI ƯU) =================
+// ================= NỘP BÀI VÀ CHẤM ĐIỂM =================
 function submit() {
-  // 1. Kiểm tra điều kiện nộp bài
   let user = JSON.parse(localStorage.getItem("user") || "{}");
   let answeredCount = Object.keys(answers).length;
 
   if (user.role !== "admin" && answeredCount < questions.length) {
     alert(`⚠️ Bạn chưa hoàn thành bài thi! \n\nVui lòng trả lời đủ ${questions.length} câu. \nHiện tại bạn mới làm: ${answeredCount} câu.`);
-    
-    // Tự động tìm câu đầu tiên chưa làm để người dùng hoàn thiện
     for (let i = 0; i < questions.length; i++) {
       if (!answers[i]) {
         index = i;
-        render(); // Quay lại câu chưa làm
+        render();
         return;
       }
     }
     return;
   }
 
-  // Xác nhận nộp bài (áp dụng cho cả Admin và User đã làm đủ)
   if (!confirm("Bạn có chắc chắn muốn nộp bài thi không?")) return;
 
   clearInterval(timer);
@@ -532,13 +556,11 @@ function submit() {
 
   questions.forEach((q, i) => {
     let userAns = answers[i] ? answers[i].toString().trim().toLowerCase() : "";
-    
     let correctAns = q.newCorrectAnswer ? q.newCorrectAnswer.toString().trim().toLowerCase() : (q.answer || q.trảlời || "").toString().trim().toLowerCase();
     if (correctAns === "một") correctAns = "a";
 
     let qTextId = (q.question || q.cauhoi || "").trim();
     let originalQ = data.find(x => (x.question || x.cauhoi || "").trim() === qTextId);
-    
     if (!originalQ) originalQ = q; 
 
     originalQ.weight = originalQ.weight || 1;
@@ -551,7 +573,6 @@ function submit() {
         correct++;
         originalQ.correctCount++;
         originalQ.weight = Math.max(1, originalQ.weight - 0.3);
-        
         if (!correctPool.includes(qTextId)) {
           correctPool.push(qTextId);
         }
@@ -560,7 +581,6 @@ function submit() {
         newWrong.push(originalQ);
         originalQ.wrongCount++;
         originalQ.weight = Math.min(10, originalQ.weight + 1.2); 
-        
         let cIndex = correctPool.indexOf(qTextId);
         if (cIndex > -1) {
           correctPool.splice(cIndex, 1);
@@ -571,12 +591,8 @@ function submit() {
     }
   });
 
-  // 1. LƯU CORRECT POOL
   localStorage.setItem("correctPool", JSON.stringify(correctPool));
 
-// ... (các đoạn code xử lý chấm điểm ở đầu hàm submit)
-
-  // 2. TỐI ƯU: LƯU TRẠNG THÁI CÂU HỎI
   let statsToSave = {};
   data.forEach(q => {
     let qText = (q.question || q.cauhoi || "").trim();
@@ -589,23 +605,19 @@ function submit() {
   });
   localStorage.setItem("userStats", JSON.stringify(statsToSave)); 
 
-  // --- PHẦN TÍNH TOÁN KHO ĐỀ ---
-  let totalCorrectInStore = 0;
-  data.forEach(q => totalCorrectInStore += (q.correctCount || 0));
-  let totalRemainingInStore = data.length - totalCorrectInStore;
-  // -----------------------------
+  // Tính toán tiến độ dựa trên đúng kho đề được cấp cho user này
+  const currentStore = window.activeAllowedData || data;
+  let totalCorrectInStore = currentStore.filter(q => correctPool.includes((q.question || q.cauhoi || "").trim())).length;
+  let totalRemainingInStore = Math.max(0, currentStore.length - totalCorrectInStore);
 
   wrongPool = newWrong;
 
-  // 3. HIỂN THỊ GIAO DIỆN KẾT QUẢ
   document.body.style.backgroundColor = "#f4f5f7";
   document.body.style.margin = "0";
   document.body.style.padding = "20px 0";
 
   app.innerHTML = `
     <div style="max-width: 820px; margin: 0 auto; background: #ffffff; padding: 40px 50px; box-shadow: 0 4px 15px rgba(0,0,0,0.06); border-radius: 8px; font-family: 'Times New Roman', Times, serif;">
-      
-      <!-- PHẦN THÔNG TIN KHO ĐỀ BẠN YÊU CẦU -->
       <div style="text-align: right; margin-bottom: 25px; padding: 15px; background-color: #f8f9fa; border-radius: 8px; border-right: 4px solid #00796b;">
           <div style="color: #444; margin-bottom: 5px;">Số câu đã làm đúng: <b style="color: #00796b; font-size: 16px;">${totalCorrectInStore}</b></div>
           <div style="color: #444;">Số câu còn lại: <b style="color: #c62828; font-size: 16px;">${totalRemainingInStore}</b></div>
@@ -625,18 +637,15 @@ function submit() {
   filterResult('all');
 }
 
-
 // ================= BỘ LỌC ĐÁP ÁN KHẢO SÁT KẾT QUẢ THI =================
 function filterResult(type) {
   currentFilter = type;
   let listContainer = document.getElementById("result-list");
   if (!listContainer) return;
 
-  // 1. Kiểm tra quyền Admin
   const user = JSON.parse(localStorage.getItem("user") || "{}");
   const isAdmin = (user.role === 'admin');
 
-  // 2. Tạo hoặc lấy lại thanh bộ lọc
   let filterBar = document.getElementById("filter-bar");
   if (!filterBar) {
     let div = document.createElement("div");
@@ -650,7 +659,6 @@ function filterResult(type) {
     listContainer.parentNode.insertBefore(div, listContainer);
   }
 
-  // 3. Cập nhật Style cho các nút
   const btnAll = document.getElementById("btn-filter-all");
   const btnCorrect = document.getElementById("btn-filter-correct");
   const btnWrong = document.getElementById("btn-filter-wrong");
@@ -660,7 +668,6 @@ function filterResult(type) {
   btnCorrect.style.cssText = baseBtnStyle + (type === 'correct' ? 'background: #2e7d32; color: #fff; font-weight: bold;' : 'background: #e8f5e9;');
   btnWrong.style.cssText = baseBtnStyle + (type === 'wrong' ? 'background: #c62828; color: #fff; font-weight: bold;' : 'background: #ffebee;');
 
-  // 4. Xử lý danh sách hiển thị
   let html = "";
   questions.forEach((q, i) => {
     if (!q) return;
@@ -676,7 +683,6 @@ function filterResult(type) {
     if (type === 'correct' && !isCorrect) return;
     if (type === 'wrong' && !isWrong) return;
 
-    // Ký hiệu file nguồn (Chỉ hiển thị với Admin)
     let fileTag = (isAdmin && q.fileSource) ? ` <span style="font-size: 11px; color: #888; font-style: italic; background: #eee; padding: 1px 4px; border-radius: 3px;">(${q.fileSource.replace('.json', '')})</span>` : "";
 
     let qText = q.question || q.cauhoi || "Dữ liệu lỗi";
@@ -714,10 +720,7 @@ function filterResult(type) {
 // ================= HÀM KHÓA AN TOÀN CHỐT SAO CHÉP ĐỀ THI DÀNH CHO TÀI KHOẢN CON =================
 function enableProtectionForSubAccounts() {
   let user = JSON.parse(localStorage.getItem("user"));
-  
-  if (!user || user.role === "admin") {
-    return; 
-  }
+  if (!user || user.role === "admin") return; 
 
   document.addEventListener('contextmenu', function(e) { e.preventDefault(); alert("Hệ thống kiểm tra đã khóa chuột phải học viên!"); });
   document.addEventListener('selectstart', function(e) { e.preventDefault(); });
@@ -748,11 +751,12 @@ function enableProtectionForSubAccounts() {
     if (appEl) appEl.style.filter = "none";
   });
 }
-// ================= XỬ LÝ LƯỚT MÀN HÌNH (SWIPE) - CHỈ ADMIN & CHỈ KHI LÀM BÀI =================
+
+// ================= XỬ LÝ LƯỚT MÀN HÌNH (SWIPE) - CHỈ ADMIN =================
 (function() {
     let touchstartX = 0;
     let touchendX = 0;
-    const threshold = 50; // Khoảng cách tối thiểu để tính là một lượt lướt
+    const threshold = 50;
 
     document.addEventListener('touchstart', e => {
         touchstartX = e.changedTouches[0].screenX;
@@ -764,37 +768,30 @@ function enableProtectionForSubAccounts() {
     }, { passive: true });
 
     function handleGesture() {
-        // 1. Kiểm tra quyền Admin
         const user = JSON.parse(localStorage.getItem("user") || "{}");
         if (user.role !== "admin") return;
 
-        // 2. Kiểm tra xem có đang trong chế độ làm bài không 
-        // Bằng cách kiểm tra sự tồn tại của các nút điều hướng hoặc timer
         const isExamining = document.getElementById("time") !== null && document.getElementById("nav") !== null;
         if (!isExamining) return;
 
-        // 3. Xử lý logic chuyển câu hỏi
         const diff = touchstartX - touchendX;
         if (Math.abs(diff) > threshold) {
-            if (diff > 0) {
-                // Lướt sang trái (trục X giảm) -> Câu sau
-                next();
-            } else {
-                // Lướt sang phải (trục X tăng) -> Câu trước
-                prev();
-            }
+            if (diff > 0) next();
+            else prev();
         }
     }
 })();
 
-function resetUserStatus(username) {
-  let sessions = JSON.parse(localStorage.getItem("loginSessions") || "{}");
-  if(sessions[username]) {
-     delete sessions[username];
-     localStorage.setItem("loginSessions", JSON.stringify(sessions));
-     console.log("Đã reset hoàn toàn tài khoản: " + username);
-     alert("Đã reset hoàn toàn tài khoản: " + username);
-  } else {
-     alert("Không tìm thấy tài khoản này trong hệ thống!");
+// ================= HÀM MỞ KHÓA TÀI KHOẢN TỪ XA CHO ADMIN =================
+async function resetUserStatus(username) {
+  try {
+    const key = safeKey(username);
+    await fetch(`${FIREBASE_URL}/sessions/${key}.json`, {
+      method: "DELETE"
+    });
+    console.log("Đã mở khóa hoàn toàn tài khoản trên Firebase: " + username);
+    alert("Đã mở khóa hoàn toàn tài khoản: " + username);
+  } catch (err) {
+    alert("Lỗi khi mở khóa: " + err.message);
   }
 }
