@@ -93,7 +93,7 @@
     `;
   }
 
-  // ================= XỬ LÝ ĐĂNG NHẬP =================
+  // ================= XỬ LÝ ĐĂNG NHẬP (TỐI ƯU TỐC ĐỘ) =================
   window.login = async function () {
     let u = document.getElementById("u").value.trim();
     let p = document.getElementById("p").value.trim();
@@ -101,17 +101,24 @@
 
     let btn = document.getElementById("btnLogin");
     if (btn) {
-      btn.innerText = "Đang xác thực...";
+      btn.innerText = "Đang vào thi...";
       btn.disabled = true;
     }
 
     try {
-      // 1. Xác thực tài khoản qua Server (Không lộ mật khẩu ở client)
-      const authRes = await fetch(API_URL, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ action: "login", username: u, password: p })
-      });
+      let deviceId = getDeviceId();
+      const key = safeKey(u);
+
+      // Gọi đồng thời xác thực Server và kiểm tra Firebase cùng 1 lúc
+      const [authRes, fbRes] = await Promise.all([
+        fetch(API_URL, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ action: "login", username: u, password: p })
+        }),
+        fetch(`${FIREBASE_URL}/sessions/${key}.json`).catch(() => null)
+      ]);
+
       const authData = await authRes.json();
 
       if (!authRes.ok) {
@@ -120,13 +127,10 @@
       }
 
       const user = authData;
-      let deviceId = getDeviceId();
 
-      // 2. Kiểm tra khóa thiết bị trên Firebase cho tài khoản thường
-      if (user.role !== "admin") {
-        const key = safeKey(user.username);
-        const res = await fetch(`${FIREBASE_URL}/sessions/${key}.json`);
-        const remoteSession = await res.json();
+      // Kiểm tra khóa thiết bị trên Firebase cho tài khoản thường
+      if (user.role !== "admin" && fbRes) {
+        const remoteSession = await fbRes.json();
 
         if (remoteSession && remoteSession.isLocked) {
           if (btn) { btn.innerText = "Đăng nhập"; btn.disabled = false; }
@@ -148,7 +152,8 @@
           return alert("CẢNH BÁO: Phát hiện đăng nhập trên thiết bị lạ. Tài khoản của bạn đã bị KHÓA VĨNH VIỄN!");
         }
 
-        await fetch(`${FIREBASE_URL}/sessions/${key}.json`, {
+        // Ghi nhận phiên đăng nhập ngầm (không bắt người dùng chờ)
+        fetch(`${FIREBASE_URL}/sessions/${key}.json`, {
           method: "PUT",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({
@@ -175,7 +180,7 @@
     }
   };
 
-  // ================= KIỂM TRA TRẠNG THÁI ĐĂNG NHẬP =================
+  // ================= KIỂM TRA TRẠNG THÁI ĐĂNG NHẬP (TẢI TỨC THÌ) =================
   async function checkLogin() {
     let user = JSON.parse(localStorage.getItem("user"));
     let deviceId = getDeviceId();
@@ -193,23 +198,6 @@
       return;
     }
 
-    if (user.role !== "admin") {
-      try {
-        const key = safeKey(user.username);
-        const res = await fetch(`${FIREBASE_URL}/sessions/${key}.json`);
-        const remoteSession = await res.json();
-
-        if (!remoteSession || remoteSession.isLocked || remoteSession.deviceId !== deviceId) {
-          alert("Phiên đăng nhập không hợp lệ hoặc tài khoản đã bị khóa!");
-          localStorage.removeItem("user");
-          showLogin();
-          return;
-        }
-      } catch (err) {
-        console.error("Không thể đồng bộ trạng thái từ Firebase:", err);
-      }
-    }
-
     updateLastActivity();
     startInactivityWatcher();
 
@@ -217,7 +205,23 @@
     if (app) app.style.display = "block";
 
     enableProtectionForSubAccounts();
+
+    // Tải đề thi ngay lập tức, đồng thời kiểm tra khóa thiết bị chạy ngầm song song
     startExam();
+
+    if (user.role !== "admin") {
+      const key = safeKey(user.username);
+      fetch(`${FIREBASE_URL}/sessions/${key}.json`)
+        .then(res => res.json())
+        .then(remoteSession => {
+          if (!remoteSession || remoteSession.isLocked || remoteSession.deviceId !== deviceId) {
+            alert("Phiên đăng nhập không hợp lệ hoặc tài khoản đã bị khóa!");
+            localStorage.removeItem("user");
+            showLogin();
+          }
+        })
+        .catch(err => console.error("Không thể đồng bộ trạng thái từ Firebase:", err));
+    }
   }
 
   // ================= BẮT ĐẦU BÀI THI (LẤY ĐỀ TỪ SERVER) =================
