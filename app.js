@@ -93,7 +93,7 @@
     `;
   }
 
-  // ================= XỬ LÝ ĐĂNG NHẬP (TỐI ƯU TỐC ĐỘ) =================
+  // ================= XỬ LÝ ĐĂNG NHẬP + LẤY ĐỀ 1 LẦN DUY NHẤT =================
   window.login = async function () {
     let u = document.getElementById("u").value.trim();
     let p = document.getElementById("p").value.trim();
@@ -108,27 +108,33 @@
     try {
       let deviceId = getDeviceId();
       const key = safeKey(u);
+      const savedStats = JSON.parse(localStorage.getItem("userStats") || "{}");
+      const correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
 
-      // Gọi đồng thời xác thực Server và kiểm tra Firebase cùng 1 lúc
       const [authRes, fbRes] = await Promise.all([
         fetch(API_URL, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ action: "login", username: u, password: p })
+          body: JSON.stringify({
+            action: "login",
+            username: u,
+            password: p,
+            userStats: savedStats,
+            correctPool: correctPool
+          })
         }),
         fetch(`${FIREBASE_URL}/sessions/${key}.json`).catch(() => null)
       ]);
 
-      const authData = await authRes.json();
+      const data = await authRes.json();
 
       if (!authRes.ok) {
         if (btn) { btn.innerText = "Đăng nhập"; btn.disabled = false; }
-        return alert(authData.error || "Sai tài khoản hoặc mật khẩu!");
+        return alert(data.error || "Sai tài khoản hoặc mật khẩu!");
       }
 
-      const user = authData;
+      const user = data.user;
 
-      // Kiểm tra khóa thiết bị trên Firebase cho tài khoản thường
       if (user.role !== "admin" && fbRes) {
         const remoteSession = await fbRes.json();
 
@@ -152,7 +158,6 @@
           return alert("CẢNH BÁO: Phát hiện đăng nhập trên thiết bị lạ. Tài khoản của bạn đã bị KHÓA VĨNH VIỄN!");
         }
 
-        // Ghi nhận phiên đăng nhập ngầm (không bắt người dùng chờ)
         fetch(`${FIREBASE_URL}/sessions/${key}.json`, {
           method: "PUT",
           headers: { "Content-Type": "application/json" },
@@ -171,16 +176,33 @@
 
       document.getElementById("loginBox").style.display = "none";
       if (app) app.style.display = "block";
-
       enableProtectionForSubAccounts();
-      startExam();
+
+      if (data.resetPool) {
+        localStorage.removeItem("correctPool");
+        localStorage.removeItem("userStats");
+      }
+
+      questions = data.questions || [];
+      totalAllowedInStore = data.totalAllowedCount || questions.length;
+      answers = {};
+      index = 0;
+      time = 60 * 60;
+
+      if (user.role === "admin" && data.adminReport) {
+        console.log(`%c📊 BÁO CÁO PHÂN BỔ ĐỀ THI (${questions.length} CÂU)`, "color: #00796b; font-weight: bold; font-size: 14px;");
+        console.table(data.adminReport);
+      }
+
+      render();
+      startTimer();
     } catch (err) {
       if (btn) { btn.innerText = "Đăng nhập"; btn.disabled = false; }
       alert("Lỗi kết nối máy chủ! Vui lòng kiểm tra lại mạng.");
     }
   };
 
-  // ================= KIỂM TRA TRẠNG THÁI ĐĂNG NHẬP (TẢI TỨC THÌ) =================
+  // ================= KIỂM TRA TRẠNG THÁI ĐĂNG NHẬP =================
   async function checkLogin() {
     let user = JSON.parse(localStorage.getItem("user"));
     let deviceId = getDeviceId();
@@ -205,8 +227,6 @@
     if (app) app.style.display = "block";
 
     enableProtectionForSubAccounts();
-
-    // Tải đề thi ngay lập tức, đồng thời kiểm tra khóa thiết bị chạy ngầm song song
     startExam();
 
     if (user.role !== "admin") {
@@ -265,7 +285,6 @@
       questions = data.questions || [];
       totalAllowedInStore = data.totalAllowedCount || questions.length;
 
-      // In thống kê Console cho Admin
       if (user.role === "admin" && data.adminReport) {
         console.log(`%c📊 BÁO CÁO PHÂN BỔ ĐỀ THI (${questions.length} CÂU)`, "color: #00796b; font-weight: bold; font-size: 14px;");
         console.table(data.adminReport);
@@ -404,7 +423,7 @@
       if (time <= 0) {
         clearInterval(timer);
         alert("⏰ Đã hết thời gian làm bài! Hệ thống sẽ tự động nộp bài của bạn.");
-        submit(true); // Tự động nộp, bỏ qua confirm
+        submit(true);
       }
     }, 1000);
   }
@@ -457,7 +476,6 @@
 
       gradedResults = report.results || [];
 
-      // Cập nhật lịch sử đúng/sai vào localStorage
       let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
       let statsToSave = JSON.parse(localStorage.getItem("userStats") || "{}");
 
@@ -584,7 +602,7 @@
   function enableProtectionForSubAccounts() {
     let user = JSON.parse(localStorage.getItem("user"));
     if (user && user.role === "admin") return;
-    if (isProtectionEnabled) return; // Đảm bảo chỉ gắn 1 lần duy nhất
+    if (isProtectionEnabled) return;
     isProtectionEnabled = true;
 
     document.addEventListener('contextmenu', e => { e.preventDefault(); alert("Hệ thống kiểm tra đã khóa chuột phải học viên!"); });
@@ -616,7 +634,6 @@
     });
   }
 
-  // Kích hoạt bảo vệ ngay khi vừa mở trang (kể cả ở màn hình đăng nhập)
   enableProtectionForSubAccounts();
 
   // ================= XỬ LÝ LƯỚT MÀN HÌNH (SWIPE) - CHỈ ADMIN =================
@@ -635,6 +652,5 @@
     }
   }, { passive: true });
 
-  // Khởi chạy kiểm tra đăng nhập
   checkLogin();
 })();
