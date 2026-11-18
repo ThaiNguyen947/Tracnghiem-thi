@@ -1,8 +1,3 @@
-// api/exam.js
-const fs = require('fs');
-const path = require('path');
-
-// Danh sách tài khoản được giấu kín hoàn toàn trên Server
 const USERS = [
   { username: "mainguyen", password: "1234", role: "admin" },
   { username: "ALONG", password: "1112233", role: "user" },
@@ -30,29 +25,33 @@ function shuffle(arr) {
   return a;
 }
 
-// Lưu đệm (Cache) 11 file JSON trên RAM của Server để tăng tốc tối đa
 let CACHED_QUESTIONS = null;
 
-// Hàm đọc toàn bộ file JSON từ thư mục bí mật api/cau_hoi
 function loadAllQuestions() {
   if (CACHED_QUESTIONS) return CACHED_QUESTIONS;
 
-  const files = ["p1.json", "p2.json", "p3.json", "p4.json", "p5.json", "p6.json", "p7.json", "p8.json", "p9.json", "p10.json", "pcuathay.json"];
-  let allQuestions = [];
-  const baseDir = path.join(__dirname, 'cau_hoi');
+  const sources = {
+    p1: require('./cau_hoi/p1.json'),
+    p2: require('./cau_hoi/p2.json'),
+    p3: require('./cau_hoi/p3.json'),
+    p4: require('./cau_hoi/p4.json'),
+    p5: require('./cau_hoi/p5.json'),
+    p6: require('./cau_hoi/p6.json'),
+    p7: require('./cau_hoi/p7.json'),
+    p8: require('./cau_hoi/p8.json'),
+    p9: require('./cau_hoi/p9.json'),
+    p10: require('./cau_hoi/p10.json'),
+    pcuathay: require('./cau_hoi/pcuathay.json')
+  };
 
-  files.forEach(file => {
-    const filePath = path.join(baseDir, file);
-    if (fs.existsSync(filePath)) {
-      const content = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-      const fileTag = file.replace('.json', '');
-      content.forEach((q, idx) => {
-        q._id = `${fileTag}_${idx}`; // Tạo ID duy nhất cho từng câu
-        q.fileSource = fileTag;
-      });
-      allQuestions = allQuestions.concat(content);
-    }
-  });
+  let allQuestions = [];
+  for (const [fileTag, content] of Object.entries(sources)) {
+    content.forEach((q, idx) => {
+      q._id = `${fileTag}_${idx}`;
+      q.fileSource = fileTag;
+    });
+    allQuestions = allQuestions.concat(content);
+  }
 
   CACHED_QUESTIONS = allQuestions;
   return allQuestions;
@@ -64,26 +63,22 @@ module.exports = async function handler(req, res) {
   try {
     const { action, username, password, userStats = {}, correctPool = [], answers = {}, questionList = [] } = req.body;
 
-    // 1. ACTION: ĐĂNG NHẬP
-    if (action === 'login') {
-      const user = USERS.find(x => x.username === username && x.password === password);
-      if (!user) return res.status(401).json({ error: "Sai tài khoản hoặc mật khẩu!" });
-      // Chỉ trả về username và role, không trả mật khẩu
-      return res.status(200).json({ username: user.username, role: user.role });
-    }
+    let currentUser = null;
 
-    // Kiểm tra quyền hợp lệ cho các thao tác sau
-    const currentUser = USERS.find(x => x.username === username);
-    if (!currentUser) return res.status(401).json({ error: "Phiên đăng nhập không hợp lệ!" });
+    if (action === 'login') {
+      currentUser = USERS.find(x => x.username === username && x.password === password);
+      if (!currentUser) return res.status(401).json({ error: "Sai tài khoản hoặc mật khẩu!" });
+    } else {
+      currentUser = USERS.find(x => x.username === username);
+      if (!currentUser) return res.status(401).json({ error: "Phiên đăng nhập không hợp lệ!" });
+    }
 
     const allData = loadAllQuestions();
     if (allData.length === 0) {
-      return res.status(500).json({ error: "Server không đọc được thư mục api/cau_hoi!" });
+      return res.status(500).json({ error: "Server không đọc được dữ liệu câu hỏi!" });
     }
 
     const poolRatio = getUserPoolRatio(currentUser);
-
-    // Lọc kho đề theo tỷ lệ tài khoản
     let allowedData = [];
     const fileKeys = [...new Set(allData.map(q => q.fileSource))];
     fileKeys.forEach(fileKey => {
@@ -96,8 +91,8 @@ module.exports = async function handler(req, res) {
       }
     });
 
-    // 2. ACTION: BẮT ĐẦU THI (LẤY ĐỀ KHÔNG ĐÁP ÁN)
-    if (action === 'start') {
+    // GỘP ĐĂNG NHẬP VÀ LẤY ĐỀ VÀO CÙNG 1 LẦN GỌI
+    if (action === 'start' || action === 'login') {
       const baseLimit = (currentUser.role === "admin") ? 50 : 100;
       const targetLimit = Math.min(baseLimit, allowedData.length);
 
@@ -109,7 +104,6 @@ module.exports = async function handler(req, res) {
         resetPool = true;
       }
 
-      // Gắn thống kê cũ của user vào câu hỏi (dùng bản sao nhẹ để không ghi đè cache gốc)
       const workingData = allowedData.map(q => {
         const qText = (q.question || q.cauhoi || "").trim();
         const st = userStats[qText] || {};
@@ -163,7 +157,6 @@ module.exports = async function handler(req, res) {
 
       selected = shuffle(selected).slice(0, targetLimit);
 
-      // Trộn đáp án và XÓA SẠCH đáp án đúng + giải thích trước khi gửi về client
       const clientQuestions = selected.map(q => {
         let options = [
           { text: q.a || q.A || q.Một || "", key: 'a' },
@@ -176,14 +169,12 @@ module.exports = async function handler(req, res) {
         return {
           _id: q._id,
           question: q.question || q.cauhoi || "",
-          // Chỉ gửi thứ tự key đã trộn (ví dụ ['c', 'a', 'd', 'b']) để lúc nộp bài server biết đường chấm
           optionOrder: shuffledOpts.map(o => o.key),
           optionsText: shuffledOpts.map(o => o.text),
           fileSource: currentUser.role === 'admin' ? q.fileSource : undefined
         };
       });
 
-      // Tạo bảng thống kê cho Admin (nếu là admin)
       let adminReport = null;
       if (currentUser.role === "admin") {
         adminReport = {};
@@ -212,6 +203,7 @@ module.exports = async function handler(req, res) {
       }
 
       return res.status(200).json({
+        user: { username: currentUser.username, role: currentUser.role },
         questions: clientQuestions,
         totalAllowedCount: workingData.length,
         resetPool,
@@ -219,7 +211,6 @@ module.exports = async function handler(req, res) {
       });
     }
 
-    // 3. ACTION: NỘP BÀI VÀ CHẤM ĐIỂM TRÊN SERVER
     if (action === 'submit') {
       let correct = 0, wrong = 0, submittedCount = 0;
       const indexMap = { a: 0, b: 1, c: 2, d: 3 };
@@ -231,7 +222,6 @@ module.exports = async function handler(req, res) {
         let rawCorrectKey = (originalQ.answer || originalQ.trảlời || "").toString().trim().toLowerCase();
         if (rawCorrectKey === "một") rawCorrectKey = "a";
 
-        // Tìm vị trí A/B/C/D mới sau khi đã trộn
         const newCorrectIdx = clientQ.optionOrder.indexOf(rawCorrectKey);
         const letters = ['a', 'b', 'c', 'd'];
         const correctLetter = letters[newCorrectIdx] || 'a';
