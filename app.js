@@ -16,6 +16,14 @@
   const API_URL = "/api/exam";
   const INACTIVITY_LIMIT_MS = 12 * 60 * 60 * 1000;
 
+  // Hàm gọi mạng có giới hạn thời gian chờ tối đa 3.5 giây (chống treo trên iPad)
+  function fetchWithTimeout(url, options = {}, timeoutMs = 3500) {
+    const controller = new AbortController();
+    const id = setTimeout(() => controller.abort(), timeoutMs);
+    return fetch(url, { ...options, signal: controller.signal })
+      .finally(() => clearTimeout(id));
+  }
+
   function getDeviceId() {
     let id = localStorage.getItem("deviceId");
     if (!id) {
@@ -27,6 +35,75 @@
 
   function safeKey(username) {
     return encodeURIComponent(username).replace(/\./g, '%2E');
+  }
+
+  // Mã hóa an toàn làm key lưu trên Firebase (tránh lỗi ký tự đặc biệt . ? # $ [ ] /)
+  function safeProgressKey(str) {
+    return btoa(unescape(encodeURIComponent(str))).replace(/[/+=]/g, '_');
+  }
+
+  // ================= ĐỒNG BỘ TIẾN ĐỘ ADMIN LÊN FIREBASE =================
+  async function loadAdminProgressFromFirebase(username) {
+    try {
+      const key = safeKey(username);
+      const res = await fetchWithTimeout(`${FIREBASE_URL}/progress/${key}.json`, {}, 3500);
+      const cloudData = await res.json();
+      if (cloudData) {
+        const localCorrect = JSON.parse(localStorage.getItem("correctPool") || "[]");
+        const localStats = JSON.parse(localStorage.getItem("userStats") || "{}");
+
+        const mergedCorrect = [...new Set([...(cloudData.correctPool || []), ...localCorrect])];
+        
+        // Giải mã lại stats từ Firebase gộp với local
+        const decodedCloudStats = {};
+        if (cloudData.userStats) {
+          Object.values(cloudData.userStats).forEach(entry => {
+            if (entry && entry.qText) {
+              decodedCloudStats[entry.qText] = {
+                weight: entry.weight || 1,
+                correctCount: entry.correctCount || 0,
+                wrongCount: entry.wrongCount || 0
+              };
+            }
+          });
+        }
+
+        const mergedStats = { ...decodedCloudStats, ...localStats };
+
+        localStorage.setItem("correctPool", JSON.stringify(mergedCorrect));
+        localStorage.setItem("userStats", JSON.stringify(mergedStats));
+        return { correctPool: mergedCorrect, userStats: mergedStats };
+      }
+    } catch (err) {
+      console.warn("Dùng tạm dữ liệu tiến độ trên máy:", err);
+    }
+    return {
+      correctPool: JSON.parse(localStorage.getItem("correctPool") || "[]"),
+      userStats: JSON.parse(localStorage.getItem("userStats") || "{}")
+    };
+  }
+
+  function saveAdminProgressToFirebase(username, correctPool, userStats) {
+    const key = safeKey(username);
+    const encodedStats = {};
+    Object.entries(userStats).forEach(([qText, st]) => {
+      encodedStats[safeProgressKey(qText)] = {
+        qText: qText,
+        weight: st.weight,
+        correctCount: st.correctCount,
+        wrongCount: st.wrongCount
+      };
+    });
+
+    fetch(`${FIREBASE_URL}/progress/${key}.json`, {
+      method: "PUT",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        correctPool: correctPool,
+        userStats: encodedStats,
+        updatedAt: new Date().toLocaleString("vi-VN")
+      })
+    }).catch(err => console.error("Lỗi lưu tiến độ lên Firebase:", err));
   }
 
   // ================= QUẢN LÝ THỜI GIAN KHÔNG HOẠT ĐỘNG (12 GIỜ) =================
@@ -108,8 +185,15 @@
     try {
       let deviceId = getDeviceId();
       const key = safeKey(u);
-      const savedStats = JSON.parse(localStorage.getItem("userStats") || "{}");
-      const correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
+
+      // Nếu là tài khoản admin thì đồng bộ tiến độ từ Firebase trước khi bốc đề
+      let savedStats = JSON.parse(localStorage.getItem("userStats") || "{}");
+      let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
+      if (u === "mainguyen") {
+        const synced = await loadAdminProgressFromFirebase(u);
+        savedStats = synced.userStats;
+        correctPool = synced.correctPool;
+      }
 
       const [authRes, fbRes] = await Promise.all([
         fetch(API_URL, {
@@ -123,7 +207,7 @@
             correctPool: correctPool
           })
         }),
-        fetch(`${FIREBASE_URL}/sessions/${key}.json`).catch(() => null)
+        fetchWithTimeout(`${FIREBASE_URL}/sessions/${key}.json`, {}, 3500).catch(() => null)
       ]);
 
       const data = await authRes.json();
@@ -144,7 +228,7 @@
         }
 
         if (remoteSession && remoteSession.deviceId !== deviceId) {
-          await fetch(`${FIREBASE_URL}/sessions/${key}.json`, {
+          await fetchWithTimeout(`${FIREBASE_URL}/sessions/${key}.json`, {
             method: "PUT",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({
@@ -153,12 +237,12 @@
               isLocked: true,
               lockedAt: new Date().toLocaleString("vi-VN")
             })
-          });
+          }, 3500).catch(() => {});
           if (btn) { btn.innerText = "Đăng nhập"; btn.disabled = false; }
           return alert("CẢNH BÁO: Phát hiện đăng nhập trên thiết bị lạ. Tài khoản của bạn đã bị KHÓA VĨNH VIỄN!");
         }
 
-        fetch(`${FIREBASE_URL}/sessions/${key}.json`, {
+        fetchWithTimeout(`${FIREBASE_URL}/sessions/${key}.json`, {
           method: "PUT",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({
@@ -167,7 +251,7 @@
             isLocked: false,
             lastLogin: new Date().toLocaleString("vi-VN")
           })
-        });
+        }, 3500).catch(() => {});
       }
 
       localStorage.setItem("user", JSON.stringify(user));
@@ -181,6 +265,7 @@
       if (data.resetPool) {
         localStorage.removeItem("correctPool");
         localStorage.removeItem("userStats");
+        if (user.role === "admin") saveAdminProgressToFirebase(user.username, [], {});
       }
 
       questions = data.questions || [];
@@ -231,7 +316,7 @@
 
     if (user.role !== "admin") {
       const key = safeKey(user.username);
-      fetch(`${FIREBASE_URL}/sessions/${key}.json`)
+      fetchWithTimeout(`${FIREBASE_URL}/sessions/${key}.json`, {}, 3500)
         .then(res => res.json())
         .then(remoteSession => {
           if (!remoteSession || remoteSession.isLocked || remoteSession.deviceId !== deviceId) {
@@ -256,8 +341,15 @@
     }
 
     const user = JSON.parse(localStorage.getItem("user") || "{}");
-    const savedStats = JSON.parse(localStorage.getItem("userStats") || "{}");
-    const correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
+    let savedStats = JSON.parse(localStorage.getItem("userStats") || "{}");
+    let correctPool = JSON.parse(localStorage.getItem("correctPool") || "[]");
+
+    // Nếu là Admin thì lấy dữ liệu tiến độ mới nhất từ Firebase để đồng bộ giữa các máy
+    if (user.role === "admin") {
+      const synced = await loadAdminProgressFromFirebase(user.username);
+      savedStats = synced.userStats;
+      correctPool = synced.correctPool;
+    }
 
     try {
       const res = await fetch(API_URL, {
@@ -280,6 +372,7 @@
       if (data.resetPool) {
         localStorage.removeItem("correctPool");
         localStorage.removeItem("userStats");
+        if (user.role === "admin") saveAdminProgressToFirebase(user.username, [], {});
       }
 
       questions = data.questions || [];
@@ -500,6 +593,11 @@
 
       localStorage.setItem("correctPool", JSON.stringify(correctPool));
       localStorage.setItem("userStats", JSON.stringify(statsToSave));
+
+      // Đồng bộ tiến độ Admin lên Firebase để mở máy nào cũng giữ nguyên số câu đã làm
+      if (user.role === "admin") {
+        saveAdminProgressToFirebase(user.username, correctPool, statsToSave);
+      }
 
       let totalCorrectInStore = correctPool.length;
       let totalRemainingInStore = Math.max(0, report.totalAllowedCount - totalCorrectInStore);
