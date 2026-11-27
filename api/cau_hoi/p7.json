@@ -1710,14 +1710,14 @@
     "explanation": "Theo điểm a khoản 1 Điều 179 Luật Nhà ở 2023, được góp vốn để tham gia hoạt động kinh doanh trong lĩnh vực mà pháp luật không cấm kinh doanh tại nhà ở đó."
   },
   {
-    "question": "Theo Luật Nhà ở 2023, việc góp vốn bằng nhà ở phải được thực hiện thông qua hình thức nào?",
-    "a": "Văn bản xác nhận của UBND cấp xã",
-    "b": "Hợp đồng có các nội dung theo quy định tại Điều 163 của Luật này",
-    "c": "Biên bản thỏa thuận giữa các bên có người làm chứng",
-    "d": "Quyết định góp vốn của đại hội đồng cổ đông (nếu là doanh nghiệp)",
-    "answer": "b",
-    "explanation": "Theo điểm a khoản 1 Điều 179 Luật Nhà ở 2023, việc góp vốn bằng nhà ở phải thông qua hợp đồng có nội dung theo Điều 163."
-  },
+  "question": "Theo Luật Nhà ở 2023, việc góp vốn bằng nhà ở phải được thực hiện thông qua hình thức nào?",
+  "a": "Văn bản xác nhận của Ủy ban nhân dân cấp xã",
+  "b": "Hợp đồng có đầy đủ các nội dung theo quy định của Luật Nhà ở",
+  "c": "Biên bản thỏa thuận giữa các bên và có người làm chứng",
+  "d": "Quyết định góp vốn của Đại hội đồng cổ đông đối với doanh nghiệp",
+  "answer": "b",
+  "explanation": "Theo điểm a khoản 1 Điều 179 Luật Nhà ở 2023, việc góp vốn bằng nhà ở phải thông qua hợp đồng có các nội dung theo quy định tại Điều 163 của Luật này."
+}
   {
     "question": "Theo Luật Nhà ở 2023, nhà ở đưa vào góp vốn phải là loại nhà ở nào?",
     "a": "Nhà ở hình thành trong tương lai đã được nghiệm thu đưa vào sử dụng",
